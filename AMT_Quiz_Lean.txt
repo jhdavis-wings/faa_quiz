@@ -13,8 +13,9 @@ the verified questions are written into the chat for voice to use.
 ## 1. First steps (text chat, right after this file is opened)
 1. Run the Python below with your code tool. It tries the official sources
    first (eCFR for 14 CFR, faa.gov for the two advisory circulars), uses a
-   backup copy on GitHub for anything it cannot reach, and always takes the
-   three handbooks from the backup copy. It writes plain-text files to /tmp/amt
+   backup copy on GitHub for anything it cannot reach. The three handbooks always
+   come from the backup copy (they are the current 2023 B editions, and the live
+   PDFs are 90 to 200 MB each). It writes plain-text files to /tmp/amt
    and prints where each one came from.
 ```
 import os, re, gzip, json, subprocess, urllib.request
@@ -46,7 +47,10 @@ except Exception as e:
 for name, url in ACS.items():
     try:
         open('/tmp/ac.pdf','wb').write(get(url, 120))
-        subprocess.run(['pdftotext','/tmp/ac.pdf',f'{OUT}/{name}.txt'], check=True)
+        txt = subprocess.run(['pdftotext','/tmp/ac.pdf','-'], check=True, capture_output=True).stdout.decode('utf-8','replace')
+        pages = txt.split('\f')
+        if len(txt) < 5000: raise ValueError('no text')
+        open(f'{OUT}/{name}.txt','w',encoding='utf-8').write(''.join(f'\n===== PDF PAGE {i} =====\n{p}' for i,p in enumerate(pages,1) if p.strip()))
         status[name] = 'live from faa.gov'
     except Exception as e:
         status[name] = f'live FAILED ({type(e).__name__}); using packet copy'
@@ -58,8 +62,8 @@ try:
         live = (n.startswith('14_CFR') and 'live from' in status['CFR']) or (n in ACS and 'live from' in status.get(n,''))
         if not live:
             open(f'{OUT}/{n}.txt','w',encoding='utf-8').write(s.text or '')
-            status[n if n in ACS else ('CFR' if n.startswith('14_CFR') else n)] = status.get(n if n in ACS else 'CFR', '') or 'from packet copy'
-            if n.startswith('FAA-H'): status[n] = 'from packet copy (handbook)'
+            if n in ACS or n.startswith('14_CFR'): status[n if n in ACS else 'CFR'] = status.get(n if n in ACS else 'CFR', '') or 'from packet copy'
+            else: status[n] = 'from packet copy'
 except Exception as e:
     status['PACKET'] = f'FAILED ({type(e).__name__}): cannot reach GitHub'
 for k,v in status.items(): print(k, '->', v)
@@ -89,19 +93,25 @@ print(sorted(os.listdir(OUT)))
 ## 2. Sources
 Files written to /tmp/amt:
 - 14_CFR_live_<date>.txt (live eCFR) or 14_CFR_Maintenance_and_Engine_Parts_2026-10-15.txt (backup): 14 CFR Parts 1, 21, 33, 34, 35, 39, 43, 45, 47, 65, 91, 121, 135, 145, 147. The eCFR is an unofficial compilation.
-- FAA-H-8083-30_AMT_General_Handbook (General exam)
-- FAA-H-8083-31B_AMT_Airframe_Handbook (Airframe exam)
-- FAA-H-8083-32B_AMT_Powerplant_Handbook (Powerplant exam)
+- FAA-H-8083-30_AMT_General_Handbook: FAA-H-8083-30B, 2023 (General exam)
+- FAA-H-8083-31B_AMT_Airframe_Handbook: FAA-H-8083-31B, 2023 (Airframe exam)
+- FAA-H-8083-32B_AMT_Powerplant_Handbook: FAA-H-8083-32B, 2023 (Powerplant exam)
 - AC_43_13-1B_Inspection_and_Repair: A C 43.13-1B with Change 1
-- AC_43_13-2C_Alterations: A C 43.13-2C
+- AC_43_13-2C_Alterations: A C 43.13-2C, dated 7/29/26 (replaced 2B)
+
+Edition check (as of 15 Nov 2026): these are the newest editions the FAA lists.
+A C 43.13-1B with Change 1 is still current, and the FAA has said a revision is
+coming but has given no date. If you have a web tool, you may check
+https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.list/?appliedFacets=%7B%22subjectclass%22%3A%2243.13%22%7D
+once for a newer A C 43.13-1 or -2 and tell the student if there is one.
 
 Precedence when sources differ: the CFR beats the A Cs, and the A Cs beat the
 handbooks for the topics they cover.
 
 File format notes:
-- Backup-copy handbooks and A Cs are plain-text extractions of the official PDFs.
-  Each page starts with a tag like `===== PDF PAGE 57 =====`. Live A C text from
-  faa.gov has no such tags, so cite by chapter and paragraph there.
+- Handbooks and A Cs are plain-text extractions of the official PDFs, whether
+  live or from the backup copy. Each page starts with a tag like
+  `===== PDF PAGE 57 =====`. Cite by chapter and section when you have it.
 - Figures, photos, and some tables are NOT in the text. Never ask a question that
   depends on a figure. If a passage looks scrambled, do not quiz on it.
 - The CFR text uses `######## 14 CFR PART N ########` and a heading per section
