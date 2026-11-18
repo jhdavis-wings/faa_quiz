@@ -1,0 +1,1702 @@
+FAA-H-8083-30B General Handbook, chapter 3 (Mathematics in Aviation), PDF pages 113-123
+
+===== PDF PAGE 113 =====
+division, addition, and subtraction. To remember it, many use
+the sentence, “Please Excuse My Dear Aunt Sally.” Always
+remember, however, to multiply/divide or add/subtract in
+one sweep from left to right, not separately.
+
+side measures 25 inches? First, determine the known value
+and substitute it in the formula.
+
+Order of Operation for Algebraic Equations
+
+Triangle
+A triangle is a three-sided figure. The sum of the three angles
+in a triangle is always equal to 180°. Triangles are often
+classified by their sides. An equilateral triangle has 3 sides
+of equal length. An isosceles triangle has 2 sides of equal
+length. A scalene triangle has three sides of differing lengths.
+
+1.
+
+Parentheses
+
+2.
+
+Exponents
+
+3.
+
+Multiplication
+
+4.
+
+Division
+
+5.
+
+Addition
+
+6.
+
+Subtraction
+
+Computing Area of Two-Dimensional Solids
+Area is a measurement of the amount of surface of an object.
+Area is usually expressed in such units as square inches or
+square centimeters for small surfaces or in square feet or
+square meters for larger surfaces.
+Figure 3-13 summarizes the formulas for computing the area
+of two-dimensional solids.
+Rectangle
+A rectangle is a four-sided figure with opposite sides of
+equal length and parallel to each other. [Figure 3-14] All of
+the angles are right angles. A right angle is a 90° angle. The
+rectangle is a very familiar shape in mechanics. The formula
+for the area of a rectangle is:
+area = length × width = l × w
+Example: An aircraft floor panel is in the form of a rectangle
+having a length of 24 inches and a width of 12 inches. What
+is the area of the panel expressed in square inches? First,
+determine the known values and substitute them in the formula.
+a = l × w = 24 inches × 12 inches = 288 square inches
+Square
+A square is a four-sided figure with all sides of equal length
+and opposite sides are parallel to each other. [Figure 3-15] All
+angles are right angles. A right angle is a 90° angle. The
+formula for the area of a square is:
+area = length × width = l × w
+
+a = l × w = 25 inches × 25 inches = 625 square inches
+
+Triangles can also be classified by their angles. An acute
+triangle has all three angles less than 90°. A right triangle
+has one right angle (a 90° angle). An obtuse triangle has
+one angle greater than 90°. Each of these types of triangles
+is shown in Figure 3-16.
+The formula for the area of a triangle is
+area = 1⁄2 × (base × height) = 1⁄2 × (b × h)
+Example: Find the area of the obtuse triangle shown in
+Figure 3-17. First, substitute the known values in the
+area formula.
+a = 1⁄2 × (b × h) = 1⁄2 × (2'6" × 3'2")
+Next, convert all dimensions to inches:
+2'6" = (2 × 12") + 6" = (24 + 6) = 30 inches
+3'2" = (3 × 12") + 2" = (36 + 2) = 38 inches
+Now, solve the formula for the unknown value:
+a = 1⁄2 × (30 inches × 38 inches) = 570 square inches
+Parallelogram
+A parallelogram is a four-sided figure with two pairs
+of parallel sides. [Figure 3-18] Parallelograms do not
+necessarily have four right angles.
+The formula for the area of a parallelogram is:
+area = length × height = l × h
+
+Since the length and the width of a square are the same value,
+the formula for the area of a square can also be written as:
+
+Trapezoid
+A trapezoid is a four-sided figure with one pair of parallel
+sides. [Figure 3-19] The formula for the area of a trapezoid is:
+
+area = side × side = s2
+
+area = 1⁄2 (base1 + base2) × height
+
+Example: What is the area of a square access plate whose
+3-18
+
+===== PDF PAGE 114 =====
+Object
+
+Area
+
+Formula
+
+Figure
+
+Rectangle
+
+length × width
+
+a=l×w
+
+3-14
+
+Square
+
+length × width or side × side
+
+a = l × w or a = s2
+
+3-15
+
+Triangle
+
+½ × (length × height) or
+½ × (base × height) or
+(base × height) ÷ 2
+
+a = ½ (l × h) or
+a = ½ (b × h) or
+a = (b × h) ÷ 2
+
+3-16
+3-17
+
+Parallelogram
+
+length × height
+
+a=l×h
+
+3-18
+
+Trapezoid
+
+½ (base1 + base2) × height
+
+a = ½ (b1 + b2) × h
+
+3-19
+
+Circle
+
+π × radius2
+
+a = π × r2
+
+3-20
+
+Ellipse
+
+π × semi-axis A × semi-axis B
+
+a=π×a×b
+
+3-21
+
+Wing area
+
+span × mean chord
+
+a=s×c
+
+3-22
+
+Figure 3-13. Formulas to compute area.
+
+Example: What is the area of a trapezoid in Figure 3-19 whose
+bases are 14 inches and 10 inches, and whose height (or
+altitude) is 6 inches? First, substitute the known values in
+the formula.
+a = 1⁄2 (b1 + b2) × h
+		= 1⁄2 (14 inches + 10 inches) × 6 inches
+a = 1⁄2 (24 inches) × 6 inches
+		= 12 inches × 6 inches = 72 square inches
+Circle
+A circle is a closed, curved, plane figure. [Figure 3-20] Every
+point on the circle is an equal distance from the center of the
+circle. The diameter is the distance across the circle (through
+the center). The radius is the distance from the center to the
+edge of the circle. The diameter is always twice the length
+of the radius. The circumference, or distance around, a circle
+is equal to the diameter times π.
+circumference = c = d π
+The formula for the area of a circle is:
+
+area = π × radius2 = π × r2
+Example: The bore, which is “inside diameter,” of a certain
+aircraft engine cylinder is 5 inches. Find the area of the cross
+section of the cylinder.
+First, substitute the known values in the formula:
+a = π × r2
+The diameter is 5 inches, so the radius is 2.5 inches.
+(diameter = radius × 2)
+a = 3.1416 × (2.5 inches) 2 = 3.1416 × 6.25 square
+inches = 19.635 square inches
+Ellipse
+An ellipse is a closed, curved, plane figure and is commonly
+called an oval. [Figure 3-21] In a radial engine, the
+articulating rods connect to the hub by pins, which travel in
+the pattern of an ellipse (i.e., an elliptical or orbital path).
+
+s = 25
+
+l = 24
+
+w = 12
+
+Figure 3-14. Rectangle.
+
+Figure 3-15. Square.
+
+3-19
+
+===== PDF PAGE 115 =====
+Triangles Based on Sides
+Scalene
+
+Isosceles
+
+Equilateral
+
+Length of all sides
+are different
+
+Length of two sides
+are equal
+
+Length of all sides
+are equal
+
+Height
+
+Triangles Based on Angles
+Acute
+
+Right
+
+Obtuse
+Length
+
+Each angle is < 90°
+
+One angle is = 90°
+
+One angle is > 90°
+
+Figure 3-16. Types of triangles.
+
+Wing Area
+To describe the shape of a wing [Figure 3-22], several terms
+are required. To calculate wing area, it is necessary to know
+the meaning of the terms “span” and “chord.” The wingspan,
+S, is the length of the wing from wingtip to wingtip. The
+chord is the average width of the wing from leading edge
+to trailing edge. If the wing is a tapered wing, the average
+width, known as the mean chord (C), must be known to find
+the area. The formula for calculating wing area is:
+area of a wing = span × mean chord
+Example: Find the area of a tapered wing whose span is 50
+feet and whose mean chord is 6'8". First, substitute the known
+values in the formula.
+a=s×c
+		= 50 feet × 6 feet 8 inches
+		 (Note: 8 inches = 8⁄12 feet = 0.67 feet)
+		= 50 feet × 6.67 feet
+		= 333.5 square feet
+
+Figure 3-18. Parallelogram.
+
+Units of Area
+A square foot measures 1 foot by 1 foot. It also measures 12
+inches by 12 inches. Therefore, one square foot also equals
+144 square inches (that is, 12 × 12 = 144). To convert square
+feet to square inches, multiply by 144. To convert square
+inches to square feet, divide by 144.
+A square yard measures 1 yard by 1 yard. It also measures 3
+feet by 3 feet. Therefore, one square yard also equals 9 square
+feet (that is, 3 × 3 = 9). To convert square yards to square feet,
+multiply by 9. To convert square feet to square yards, divide
+by 9. Refer to Figure 3-23, Applied Mathematics Formula
+Sheet, for a comparison of different units of area.
+
+Computing Volume of Three-Dimensional
+Solids
+Three-dimensional solids have length, width, and height.
+There are many three-dimensional solids, but the most
+common are rectangular solids, cubes, cylinders, spheres,
+and cones. Volume is the amount of space within a solid.
+Volume is expressed in cubic units. Cubic inches or cubic
+centimeters are used for small spaces and cubic feet or cubic
+meters for larger spaces.
+Rectangular Solid
+A rectangular solid is a three-dimensional solid with six
+rectangular-shaped sides. [Figure 3-24] The volume is the
+b2 = 10"
+
+Height = 2 ft 6 in
+Height = 6"
+
+b1 = 14"
+
+Base = 3 ft 2 in
+Figure 3-17. Obtuse triangle.
+
+Figure 3-19. Trapezoid.
+
+3-20
+
+===== PDF PAGE 116 =====
+Cir
+cu
+m
+
+e
+nc
+re
+fe
+
+b
+
+Diameter (d)
+
+diu
+Ra
+r)
+
+s(
+
+a
+Circumference = c = 2π
+
+Figure 3-20. Circle.
+
+number of cubic units within the rectangular solid. The
+formula for the volume of a rectangular solid is:
+volume = length × width × height = l × w × h
+In Figure 3-24, the rectangular solid is 3 feet by 2 feet by
+2 feet.
+The volume of the solid in Figure 3-24 is = 3 ft × 2 ft ×
+2 ft = 12 cubic feet.
+Example: A rectangular baggage compartment measures 5 feet
+6 inches in length, 3 feet 4 inches in width, and 2 feet 3 inches
+in height. How many cubic feet of baggage will it hold? First,
+substitute the known values into the formula.
+v=l×w×h
+= 5'6" × 3'4" × 2'3"
+= 5.5 ft × 3.33 ft × 2.25 ft
+= 41.25 cubic feet
+Cube
+A cube is a solid with six square sides. [Figure 3-25] A cube
+is just a special type of rectangular solid. It has the same
+formula for volume as does the rectangular solid, which is
+volume = length × width × height = L × W × H. Because all
+of the sides of a cube are equal, the volume formula for a
+cube can also be written as:
+volume = side × side × side = S3
+Example: A large, cube-shaped carton contains a shipment
+of smaller boxes inside of it. Each of the smaller boxes is
+1 ft × 1 ft × 1 ft. The measurement of the large carton is
+3 ft × 3 ft × 3 ft. How many of the smaller boxes are in the large
+carton? First, substitute the known values into the formula.
+v=l×w×h
+		= 3 ft × 3 ft × 3 ft
+
+a2 + b2
+2
+
+π = 3.1416
+a = Length of one of the semi-axes
+b = Length of the other semi-axis
+Area = a = π x a x b
+Figure 3-21. Ellipse.
+
+		= 27 cubic feet of volume in the
+		 large carton
+Since each of the smaller boxes has a volume of 1 cubic foot,
+the large carton holds 27 boxes.
+Cylinder
+A solid having the shape of a can, a length of pipe, or a barrel
+is called a cylinder. [Figure 3-26] The ends of a cylinder are
+identical circles. The formula for the volume of a cylinder is:
+volume = π × radius2 × height of the cylinder = π r2 × h
+One of the most important applications of the volume of
+a cylinder is finding the piston displacement of a cylinder
+in a reciprocating engine. Piston displacement is the total
+volume (in cubic inches, cubic centimeters, or liters) swept
+by all of the pistons of a reciprocating engine as they move
+in one revolution of the crankshaft. The formula for piston
+displacement is given as:
+Piston Displacement =
+π × (bore divided by 2)2 × stroke × (# cylinders)
+
+c
+s
+a = Wing area, ft.2
+c = Average chord, ft.
+s = Span, ft.
+Figure 3-22. Wing planform.
+
+3-21
+
+===== PDF PAGE 117 =====
+The bore of an engine is the inside diameter of the cylinder.
+The stroke of the engine is the length the piston travels inside
+the cylinder. [Figure 3-27]
+Example: Find the piston displacement of one cylinder in a
+multi-cylinder aircraft engine. The engine has a cylinder bore
+of 5.5 inches and a stroke of 5.4 inches. First, substitute the
+known values in the formula.
+
+inches. For an eight-cylinder engine, then the total engine
+displacement would be:
+Total displacement for 8 cylinders = 8 × 128.29 =
+1026.32 cubic inches of displacement
+Sphere
+A solid having the shape of a ball is called a sphere.
+[Figure 3-28] A sphere has a constant diameter. The radius
+(r) of a sphere is one-half of the diameter (d). The formula
+for the volume of a sphere is given as:
+
+v = π × r2 × h = (3.1416) × (5.5 ÷ 2)2 × (5.4)
+v = 23.758 × 5.4 = 128.29 cubic inches
+The piston displacement of one cylinder is 128.29 cubic
+
+Conversion Factors
+Length
+
+Area
+
+1 inch
+
+2.54 centimeters
+
+25.4 millimeters
+
+1 square inch
+
+6.45 square centimeters
+
+1 foot
+
+12 inches
+
+30.48 centimeters
+
+1 square foot
+
+144 square inches
+
+0.093 square meters
+
+1 yard
+
+3 feet
+
+0.9144 meters
+
+1 square yard
+
+9 square feet
+
+0.836 square meters
+
+1 mile
+
+5,280 feet
+
+1,760 yards
+
+1 acre
+
+43,560 square feet
+
+1 millimeter
+
+0.0394 inches
+
+1 square mile
+
+640 acres
+
+1 kilometer
+
+0.62 miles
+
+1 square centimeter
+
+0.155 square inches
+
+1 square meter
+
+1.195 square yards
+
+1 square kilometer
+
+0.384 square miles
+
+2.59 square kilometers
+
+Volume
+1 fluid ounce
+
+29.57 cubic centimeters
+
+1 cup
+
+8 fluid ounces
+
+1 pint
+
+2 cups
+
+16 fluid ounces
+
+0.473 liters
+
+1 quart
+
+2 pints
+
+4 cups
+
+32 fluid ounces
+
+0.9463 liters
+
+1 gallon
+
+4 quarts
+
+8 pints
+
+16 cups
+
+128 ounces
+
+1 gallon
+
+231 cubic inches
+
+1 liter
+
+0.264 gallons
+
+1.057 quarts
+
+1 cubic foot
+
+1,728 cubic inches
+
+7.5 gallons
+
+1 cubic yard
+
+27 cubic feet
+
+1 board foot
+
+1 inch x 12 inches x 12 inches
+Weight
+
+1 ounce
+
+28.350 grams
+
+1 pound
+
+16 ounces
+
+1 ton
+
+2,000 pounds
+
+1 milligram
+
+0.001 grams
+
+1 kilogram
+
+1,000 grams
+
+1 gram
+
+0.0353 ounces
+
+453.592 grams
+
+3.785 liters
+
+Temperature
+
+0.4536 kilograms
+
+°F to °C
+
+Celsius = ⁵⁄9 × (°F − 32)
+
+°C to °F
+
+Fahrenheit = ⁹⁄5 × (°C + 32)
+
+2.2 pounds
+
+Figure 3-23. Applied mathematics formula sheet.
+
+3-22
+
+===== PDF PAGE 118 =====
+Order of Operation for Algebraic Equations
+1.
+2.
+3.
+4.
+5.
+6.
+
+Parentheses
+Exponents
+Multiplication
+Division
+Addition
+Subtraction
+
+Use the acronym PEMDAS to remember the order of
+operation in algebra. PEMDAS is an acronym for parentheses,
+exponents, multiplication, division, addition, and subtraction.
+To remember it, many use the sentence, “Please Excuse My
+Dear Aunt Sally.”
+
+B
+
+c
+
+a
+
+C
+
+b
+
+Sine (sin) of angle A =
+
+opposite side (side a)
+hypotenuse (side c)
+
+adjacent side (side b)
+Cosine (cos) of angle A =
+hypotenuse (side c)
+opposite side (side a)
+adjacent side (side b)
+
+Tangent (tan) of angle A =
+
+L =3
+Solid
+W=2
+H =2
+Rectangle
+Solid
+
+Volume
+
+Surface Area
+
+Figure
+
+l×w×h
+
+2 × [(w × l) + (w × h) +
+(l × h)]
+
+1-24
+
+Cube
+
+s3
+
+6 × s2
+
+1-25
+
+Cylinder
+
+π × r2 × h
+
+2 × π × r2 + π × d × h
+
+1-26
+
+H
+Sphere
+
+4⁄3 × π × r 3
+
+4 × π × r2
+
+1-28
+
+Cone
+
+1⁄3 × π × r 2 × h
+
+π × r × [r + (r2 + h2)½]
+
+1-29
+
+Names and Symbols for Metric Prefixes
+Prefix
+
+Trigonometric Equations
+
+A
+
+Formulas for Area of Two-Dimensional Objects
+
+Pythagorean Theorem
+
+c
+
+L
+
+W
+
+Means
+
+One quintillion times
+exa (1018)
+One quadrillion times
+peta
+(1015)
+Figure 3-24.
+Rectangular
+solid.
+tera (1012)
+One trillion times
+giga
+(109)
+One billion times
+3
+4
+4
+π 6×) radius = ⁄3 × (3.1416)
+× times
+(34⁄2)3
+vmega
+= ⁄3 ×(10
+One million
+= 1.33
+× 173 = 1.33One
+× 3.1416
+× 4,913
+kilo× 3.1416
+(103)
+thousand
+times
+2
+v
+=
+20,528.125
+cubic
+inches
+hecto (10 )
+One hundred times
+deca (101)
+Ten times
+−1
+)
+deci
+(10
+One tenth of
+Cone
+centi (10−2)
+One hundredth of
+A solid with a circle
+as a base and with sides that gradually
+milli (10−3)
+One thousandth of
+taper to amicro
+point (10
+is called
+a cone. [Figure
+3-29] The
+−6
+)
+One millionth
+of formula
+−9cone is given as:
+for the volume
+of
+a
+nano (10 )
+One billionth of
+pico (10−12)
+One trillionth of
+1
+= Ten
+⁄3 × π × radius2 × height = 1⁄3 × π × r2 × h
+Powersvof
+
+Powers
+
+Expansion
+Value
+Units
+of Ten of Volume
+Since all volumes are not measured in the same units, it is
+Positive
+necessary to know all the common units of volume and how
+Exponents
+they 6are related to each other. For example, the mechanic
+10 x 10 x 10 x 10 x 10 x 10
+1,000,000
+10
+may know the volume of a tank in cubic feet or cubic inches,
+10 x 10 x 10 x 10 x 10
+105
+but when the tank is full of gasoline, 100,000
+they are interested in
+4
+10
+x
+10
+x
+10
+x
+10
+10,000
+10
+how many gallons it contains. Refer to Figure 3-23, Applied
+10 xFormula
+10 x 10 Sheet, for a comparison
+1,000
+103
+Mathematics
+of different
+units
+10 x 10
+100
+102 of volume.
+101
+
+10
+
+10
+
+Computing
+Surface Area of Three1
+100
+Dimensional Solids
+
+a
+
+b
+a2 + b2 = c2
+
+Negative
+The surface area of a three-dimensional solid is the sum of
+Exponents
+
+the areas
+of the faces of the solid. Surface area is a different
+-1
+10
+
+1/10
+
+1/10=0.1
+
+10-2
+
+1/(10 x 10)
+
+1/100=0.01
+
+10
+
+1/(10 x 10 x 10)
+
+1/1,000=0.001
+
+10-4
+
+1/(10 x 10 x 10 x 10)
+
+10
+
+1/(10 x 10 x 10 x 10 x 10)
+
+1/10,000=0.0001
+s
+1/100,000=0.00001
+
+10
+
+1/(10 x 10 x 10 x 10 x 10 x 10) 1/1,000,000=0.000001
+
+-3
+
+Figure 3-23. Applied mathematics formula sheet (continued).
+
+-5
+
+v = 4⁄3 × π × radius3 = 4⁄3 × π × r3 or v = 1⁄6 × πd3
+
+-6
+
+Example: A pressure tank inside the fuselage of a cargo
+aircraft is in the shape of a sphere with a diameter of 34
+inches. What is the volume of the pressure tank?
+
+s
+s
+Figure 3-25. Cube.
+
+3-23
+
+===== PDF PAGE 119 =====
+Rectangular Solid
+The formula for the surface area of a rectangular solid
+[Figure 3-24] is given as:
+
+d
+
+d
+H=stroke
+
+concept from that of volume. For example, surface area is the
+amount of sheet metal needed to build a rectangular fuel tank
+while volume is the amount of fuel that the tank can contain.
+
+piston
+
+Surface area =
+2 × [(width × length) + (width × height) + (length × height)]
+= 2 × [(w × l) + (w × h) + (l × h)]
+
+cylinder
+
+piston
+
+Cube
+The formula for the surface area of a cube [Figure 3-25] is
+given as:
+Surface area = 6 × (side × side) = 6 × s2
+Example: What is the surface area of a cube with a side
+measure of 8 inches?
+Surface area = 6 × (side × side)
+= 6 × S2 = 6 × 82 = 6 × 64
+= 384 square inches
+
+Piston at top center
+
+Piston at bottom center
+
+Figure 3-27. Cylinder displacement.
+
+Cylinder
+The formula for the surface area of a cylinder [Figure 3-26] is
+given as:
+Surface area = 2 × π × radius2 + π × diameter × height
+= 2 × π × r2 + π × d × h
+
+Sphere
+The formula for the surface area of a sphere [Figure 3-28] is
+given as:
+   Surface area = 4 × π × radius2 = 4 × π × r2
+Cone
+The formula for the surface area of a right circular cone
+[Figure 3-29] is given as:
+Surface area = π × radius × [radius + √(radius2 + height2)]
+   = π × r × [r + √(r2 + h2)]
+
+r
+
+Figure 3-30 summarizes the formulas for computing the
+volume and surface area of three-dimensional solids.
+
+Trigonometric Functions
+h
+
+diameter
+bore
+
+Trigonometry is the study of the relationship between the
+angles and sides of a triangle. The word trigonometry comes
+from the Greek trigonon, which means three angles, and
+metro, which means measure.
+Right Triangle, Sides, and Angles
+In Figure 3-31, notice that each angle is labeled with a
+capital letter. Across from each angle is a corresponding
+side, each labeled with a lower case letter. This triangle is
+a right triangle because angle C is a 90° angle. Side “a” is
+
+Figure 3-26. Cylinder.
+
+3-24
+
+===== PDF PAGE 120 =====
+Pythagorean Theorem
+The Pythagorean Theorem is named after the ancient Greek
+mathematician, Pythagoras (~500 B.C.). This theorem is used
+to find the third side of any right triangle when two sides are
+known. The Pythagorean Theorem states that a2 + b2 = c2.
+[Figure 3-32] Where “c” = the hypotenuse of a right triangle, “a”
+is one side of the triangle and “b” is the other side of the triangle.
+Example: What is the length of the longest side of a right
+triangle, given the other sides are 7 inches and 9 inches?
+The longest side of a right triangle is always side “c,” the
+hypotenuse. Use the Pythagorean Theorem to solve for the
+length of side “c” as follows:
+
+Figure 3-28. Sphere.
+
+opposite from angle A and is sometimes referred to as the
+“opposite side.” Side “b” is next to, or adjacent to, angle
+A and is therefore referred to as the “adjacent side.” Side
+“c” is always across from the right angle and is referred to
+as the “hypotenuse.”
+Sine, Cosine, and Tangent
+The three primary trigonometric functions and their
+abbreviations are: sine (sin), cosine (cos), and tangent
+(tan). These three functions can be found on most scientific
+calculators. The three trigonometric functions are actually
+ratios comparing two of the sides of the triangle as follows:
+Sine (sin) of angle A =
+Cosine (cos) of angle A =
+
+opposite side (side a)
+hypotenuse (side c)
+
+adjacent side (side b)
+hypotenuse (side c)
+
+opposite side (side a)
+Tangent (tan) of angle A =
+adjacent side (side b)
+Example: Find the sine of a 30° angle.
+
+Calculator Method:
+
+a2 + b2 = c2
+72 + 92 = c2
+49 + 81 = c2
+130 = c2
+c = 130 = 11.4 inches
+Therefore, side “c” = 11.4 inches.
+Example: The cargo door opening in a military airplane is
+a rectangle that is 51⁄2 feet tall by 7 feet wide. A section of
+square steel plate that is 8 feet wide by 8 feet tall by 1 inch
+thick must fit inside the airplane. Can the square section of
+steel plate fit through the cargo door? It is obvious that the
+square steel plate will not fit horizontally through the cargo
+door. The steel plate is 8 feet wide and the cargo door is only
+7 feet wide. However, if the steel plate is tilted diagonally,
+will it fit through the cargo door opening?
+The diagonal distance across the cargo door opening can be
+calculated using the Pythagorean Theorem where “a” is the
+cargo door width, “b” is the cargo door height, and “c” is the
+diagonal distance across the cargo door opening.
+a2 + b2 = c2
+
+Using a calculator, select the “sin” feature, enter the number
+30, and press “enter.” The calculator should display the
+answer as 0.5. This means that when angle A equals 30°, then
+the ratio of the opposite side (a) to the hypotenuse (c) equals
+0.5 to 1, so the hypotenuse is twice as long as the opposite
+side for a 30° angle. Therefore, sin 30° = 0.5.
+
+h
+
+s
+
+Trigonometry Table Method:
+When using a trigonometry table, find 30° in the first column.
+Next, find the value for sin 30° under the second column
+marked “sine” or “sin.” The value for sin 30° should be 0.5.
+
+r
+
+Figure 3-29. Cone.
+
+3-25
+
+===== PDF PAGE 121 =====
+Solid
+
+Volume
+
+Surface Area
+
+Figure
+
+Rectangle
+Solid
+
+l×w×h
+
+2 × [(w × l) + (w × h) +
+(l × h)]
+
+3-24
+
+Cube
+
+s3
+
+6 × s2
+
+3-25
+
+Cylinder
+
+π × r2 × h
+
+2 × π × r2 + π × d × h
+
+3-26
+
+Sphere
+
+⁴⁄3 × π × r 3
+
+4 × π × r2
+
+3-28
+
+Cone
+
+¹⁄3 × π × r 2 × h
+
+π × r × [r + √(r2 + h2)]
+
+3-29
+
+Figure 3-30. Formulas to compute volume and surface area.
+
+(7 ft)2 + (5.5 ft)2 = c2
+49 + 30.25 = c2
+79.25 = c2
+c = 8.9 ft
+The diagonal distance across the cargo door opening is 8.9
+feet, so the 8-foot wide square steel plate fits diagonally
+through the cargo door opening and into the airplane.
+
+Measurement Systems
+Conventional (U.S. or English) System
+Our conventional (U.S. or English) system of measurement is
+part of our cultural heritage from the days when the thirteen
+colonies were under British rule. It started as a collection
+of Anglo-Saxon, Roman, and Norman-French weights and
+measures. For example, the inch represents the width of the
+thumb and the foot is from the length of the human foot.
+Tradition holds that King Henry I decreed that the yard should
+be the distance from the tip of his nose to the end of his thumb.
+Since medieval times, commissions appointed by various
+English monarchs have reduced the chaos of measurement
+by setting specific standards for some of the most important
+units. Some of the conventional units of measure are: inches,
+feet, yards, miles, ounces, pints, gallons, and pounds. Because
+the conventional system was not set up systematically, it
+contains a random collection of conversions. For example,
+1 mile = 5,280 feet and 1 foot = 12 inches.
+
+today. Its standardization and decimal features make it wellsuited for engineering and aviation work.
+The metric system was first envisioned by Gabriel Mouton,
+Vicar of St. Paul’s Church in Lyons, France. The meter is
+the unit of length in the metric system, and it is equal to one
+ten-millionth of the distance from the equator to the North
+Pole. The liter is the unit of volume and is equal to one cubic
+decimeter. The gram is the unit of mass and is equal to one
+cubic centimeter of water.
+All of the metric units follow a consistent naming scheme,
+which consists of attaching a prefix to the unit. For example,
+since kilo stands for 1,000, one kilometer equals 1,000 meters.
+Centi is the prefix for one hundredth, so one meter equals one
+hundred centimeters. Milli is the prefix for one thousandths
+and one gram equals one thousand milligrams. Refer to
+Figure 3-33 for the names and definitions of metric prefixes.
+Measurement Systems & Conversions
+The United States primarily uses the conventional (U.S.
+or English) system, although it is slowly integrating the
+metric system (SI). A recommendation to transition to the
+metric system within ten years was initiated in the 1970s.
+However, this movement lost momentum, and the United
+States continues to use both measurement systems. Therefore,
+information to convert between the conventional (U.S.
+or English) system and the metric (SI) system has been
+included in Figure 3-23, Applied Mathematics Formula
+Sheet. Examples of its use are as follows:
+To convert inches to millimeters, multiply the number of
+inches by 25.4.
+Example: 20 inches = 20 × 25.4 = 508 mm
+To convert ounces to grams, multiply the number of ounces
+by 28.35.
+Example: 12 ounces = 12 × 28.35 = 340.2 grams
+
+Metric System
+The metric system, also known as the International System
+of Units (SI), is the dominant language of measurement used
+B
+c
+a
+c
+
+a
+b
+
+A
+Figure 3-31. Right triangle.
+
+b
+
+C
+
+a2 + b2 = c2
+Figure 3-32. Pythagorean Theorem.
+
+3-26
+
+===== PDF PAGE 122 =====
+The Binary Number System
+The binary number system has only two digits: 0 and 1. The
+prefix in the word “binary” is a Latin root for the word “two”
+and its use was first published in the late 1700s. The use of
+the binary number system is based on the fact that switches
+or valves have two states: open or closed (on/off).
+Currently, one of the primary uses of the binary number
+system is in computer applications. Information is stored as
+a series of 0s and 1s, forming strings of binary numbers. An
+early electronic computer, ENIAC (Electronic Numerical
+Integrator and Calculator), was built in 1946 at the University
+of Pennsylvania and contained 17,000 vacuum tubes, along
+with 70,000 resistors, 10,000 capacitors, 1,500 relays, 6,000
+manual switches and 5 million soldered joints. Computers
+obviously have changed a great deal since then, but are still
+based on the same binary number system. The binary number
+system is also useful when working with digital electronics
+because the two basic conditions of electricity, on and off,
+can be represented by the two digits of the binary number
+system. When the system is on, it is represented by the digit
+1, and when it is off, it is represented by the digit 0.
+Place Values
+The binary number system is a Base-2 system. That is,
+the place values in the binary number system are based on
+powers of 2. An 8-bit binary number system is shown in
+Figure 3-34.
+Converting Binary Numbers to Decimal Numbers
+To convert a binary number to a decimal number, add up the
+place values that have a 1 (place values that have a zero do
+not contribute to the decimal number conversion).
+Symbol
+
+Prefix
+
+Multiplier
+(Exponential)
+
+E
+P
+T
+G
+M
+k
+h
+da
+1
+d
+c
+m
+µ
+n
+p
+f
+a
+
+exa
+peta
+tera
+giga
+mega
+kilo
+hecto
+deca
+unit
+deci
+centi
+milli
+micro
+nano
+pico
+femto
+atto
+
+(1018)
+(1015)
+(1012)
+(109)
+(106)
+(103)
+(102)
+(101)
+
+Example: Convert the binary number 10110011 to a decimal
+number. Using the place value chart in Figure 3-35, add up
+the place values of the ‘1s’ in the binary number (ignore the
+place values with a zero in the binary number).
+The binary number 10110011
+= 128 + 0 + 32 + 16 + 0 + 0 + 2 + 1
+= 179 in the decimal number system
+Converting Decimal Numbers to Binary Numbers
+To convert a decimal number to a binary number, the place
+values in the binary system are used to create a sum of
+numbers that equal the value of the decimal number being
+converted. Start with the largest binary place value and
+subtract from the decimal number. Continue this process
+until all of the binary digits are determined.
+Example: Convert the decimal number 233 to a binary number.
+Start by subtracting 128 (the largest place value from the
+8-bit binary number) from 233.
+233 – 128 = 105
+A “1” is placed in the first binary
+digit space: 1XXXXXXX.
+Continue the process of subtracting the binary number
+place values:
+105 – 64 = 41
+
+A “1” is placed in the second binary
+digit space: 11XXXXXX.
+
+41 – 32 = 9
+
+A “1” is placed in the third binary
+digit space: 111XXXXX.
+Multiplier
+(Numerical)
+
+Greater Than 1
+1,000,000,000,000,000,000
+1,000,000,000,000,000
+1,000,000,000,000
+1,000,000,000
+1,000,000
+1,000
+100
+10
+Less Than 1
+(10−1)
+0.1
+(10−2)
+0.01
+(10−3)
+0.001
+(10−6)
+0.000,001
+(10−9)
+0.000,000,001
+(10−12)
+0.000,000,000,001
+(10−15)
+0.000,000,000,000,001
+(10−18)
+0.000,000,000,000,000,001
+
+Meaning
+quintillion
+quadrillion
+trillion
+billion
+million
+thousand
+hundred
+ten
+tenth
+hundredth
+thousandth
+millionth
+billionth
+trillionth
+quadrillionth
+quintillionth
+
+Figure 3-33. Names and definitions of metric prefixes.
+
+3-27
+
+===== PDF PAGE 123 =====
+Since 9 is less than 16 (the next binary place value), a “0” is
+placed in the fourth binary digit space, 1110XXXX.
+9–8=1
+
+A “1” is placed in the fifth binary
+digit space: 11101XXX
+Since 1 is less than 4 (the next binary place value), a 0 is
+placed in the sixth binary digit space: 111010XX.
+Since 1 is less than 2 (the next binary place value), a 0 is
+placed in the seventh binary digit space: 1110100X.
+1–1=0
+
+A “1” is placed in the eighth binary
+digit space: 11101001.
+
+The decimal number 233 is equivalent to the binary number
+11101001, as shown in Figure 3-36.
+Three additional decimal number to binary number
+conversions are shown in Figure 3-36.
+
+Place Value
+7
+
+2
+or 128
+
+6
+
+2
+or 64
+
+5
+
+2
+or 32
+
+24
+or 16
+
+23
+or 8
+
+22
+or 4
+
+21
+or 2
+
+20
+or 1
+
+10011001 shown as
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+=153
+
+00101011 shown as
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+=43
+
+7
+
+2
+or 128
+1
+
+Figure 3-34. Binary system.
+Place Value
+
+10110011 shown as
+
+128
+
+2
+or 64
+
+5
+
+2
+or 32
+
+24
+or 16
+
+23
+or 8
+
+22
+or 4
+
+21
+or 2
+
+20
+or 1
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+1
+
+6
+
++
+
+0
+
++
+
+32
+
++
+
+16
+
++
+
+0
+
++
+
+0
+
++
+
+2
+
++
+
+1
+
+=179
+
+Figure 3-35. Place value chart.
+
+Place Value
+27
+or 128
+
+26
+or 64
+
+25
+or 32
+
+24
+or 16
+
+23
+or 8
+
+22
+or 4
+
+21
+or 2
+
+20
+or 1
+
+35 shown as
+
+0
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+1
+
+124 shown as
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+96 shown as
+
+0
+
+1
+
+1
+
+0
+
+0
+
+0
+
+0
+
+0
+
+255 shown as
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+233 shown as
+
+1
+
+1
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+Figure 3-36. Conversion from decimal number to binary number.
+
+3-28
+

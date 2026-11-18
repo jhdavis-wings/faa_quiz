@@ -1,0 +1,1598 @@
+FAA-H-8083-31B Airframe Handbook, chapter 16 (Cabin Environmental Control), PDF pages 912-929
+
+===== PDF PAGE 912 =====
+Chapter 16
+
+Cabin Environmental Control
+Systems
+Physiology of Flight
+Composition of the Atmosphere
+The mixture of gases that make up the earth’s atmosphere is
+commonly called air. It is composed principally of 78 percent
+nitrogen and 21 percent oxygen. The remaining 1 percent
+is made up of various gases in smaller quantities. Some of
+these are important to human life, such as carbon dioxide,
+water vapor, and ozone. Figure 16-1 indicates the respective
+percentage of the quantity of each gas in its relation to the
+total mixture.
+As altitude increases, the total quantity of all the atmospheric
+gases reduces rapidly. However, the relative proportions of
+nitrogen and oxygen remain unchanged up to about 50 miles
+above the surface of the earth. The percentage of carbon
+dioxide is also fairly stable. The amounts of water vapor
+and ozone vary.
+Nitrogen is an inert gas that is not used directly by man for life
+processes; however, many compounds containing nitrogen
+are essential to all living matter.
+The small quantity of carbon dioxide in the atmosphere is
+utilized by plants during photosynthesis. Thus, the food
+supply for all animals, including man, depends on it. Carbon
+dioxide also helps control breathing in man and other animals.
+Other gases 1%
+
+Oxygen 21%
+
+Nitrogen 78%
+
+Figure 16-1. The percentage of the various gases that comprise
+the atmosphere.
+
+The amount of water vapor in the atmosphere is variable but,
+even under humid conditions at sea level, it rarely exceeds 5
+percent. Water also occurs in the atmosphere as ice crystals.
+All forms of water in the atmosphere absorb far more energy
+from the sun than do the other gases. Water plays an important
+role in the formation of weather.
+Ozone is a form of oxygen. It contains three oxygen atoms per
+molecule, rather than the usual two. Most of the atmosphere’s
+ozone is formed by the interaction of oxygen and the sun’s
+rays near the top of the stratosphere in an area called the
+ozone layer. This is important to living organisms because
+ozone filters out most of the sun’s harmful ultraviolet (UV)
+radiation. Ozone is also produced by electrical discharges,
+such as lightning strikes. It has a faint odor, somewhat like that
+of weak chlorine, that may be detected after a thunderstorm.
+Auroras and cosmic rays may also produce ozone. Ozone is
+of great consequence to living creatures on earth and to the
+circulation of the upper atmosphere.
+Human Respiration & Circulation
+
+Oxygen & Hypoxia
+
+The second most prevalent substance in the atmosphere,
+oxygen, is essential for most living processes. Without
+oxygen, humans and animals die very rapidly. A reduction
+in the normal oxygen supply alters the human condition.
+It causes important changes in body functions, thought
+processes, and the maintainable degree of consciousness.
+The resultant sluggish condition of mind and body produced
+by insufficient oxygen is called hypoxia.
+There are several scenarios that can result in hypoxia. During
+aircraft operations, it is brought about by a decrease in the
+pressure of oxygen in the lungs at high altitudes. The air
+contains the typical 21 percent of oxygen, but the rate at
+which oxygen can be absorbed into the blood depends upon
+the oxygen pressure. Greater pressure pushes the oxygen
+from the lung alveoli into the bloodstream. As the pressure is
+reduced, less oxygen is forced into and absorbed by the blood.
+At sea level, oxygen pressure in the lungs is approximately
+three pounds per square inch (psi). This is sufficient to
+saturate the blood with oxygen and permit the mind and body
+to function normally. As altitude is increased, this pressure
+16-1
+
+===== PDF PAGE 913 =====
+decreases. Below 7,000 feet above sea level, the available
+oxygen quantity and pressure remain sufficient for saturation
+of the blood with oxygen. Above 7,000 feet, however, the
+oxygen pressure becomes increasingly insufficient to saturate
+the blood. At 10,000 feet mean sea level (MSL), saturation
+of the blood with oxygen is only about 90 percent of normal.
+Long durations at this altitude can result in headache and
+fatigue, both symptoms of hypoxia. At 15,000 feet MSL,
+oxygen transfer to the bloodstream drops to 81 percent of
+saturation. This typically results in sleepiness, headache,
+blue lips and fingernails, and increased pulse and respiration.
+Worse yet, vision and judgment become impaired and safe
+operation of an aircraft becomes compromised. Higher in the
+atmosphere, decreasing pressure causes even less oxygen to
+enter the bloodstream; only 68 percent saturation at 22,000
+feet MSL. Remaining at 25,000 feet MSL for 5 minutes, where
+oxygen transfer to the blood is reduced to approximately 50
+percent saturation, causes unconsciousness. [Figure 16-2]
+
+Hyperventilation
+Another physiological phenomenon of interest to aviators
+is hyperventilation. Its symptoms greatly resemble hypoxia.
+When various cells in the body use oxygen and food delivered
+to them by the blood, carbon dioxide is a by-product. Blood
+carries this carbon dioxide to the lungs where it is exhaled.
+Carbon dioxide functions in the body to regulate the depth
+and frequency of breathing. A high level of carbon dioxide
+in the blood triggers rapid, deep breathing to expel it. This
+also promotes the intake of a greater amount of oxygen for
+active cells to use. A low carbon dioxide level causes more
+relaxed breathing resulting in less oxygen intake. Therefore,
+an oxygen/carbon dioxide balance exists in the blood.
+Occasionally, fear, panic, or pain triggers excessive rapid
+breathing in a person. With it comes a reduction of carbon
+Altitude MSL (feet)
+
+Oxygen pressure (psi)
+
+0
+
+3.08
+
+5,000
+
+2.57
+
+10,000
+
+2.12
+
+15,000
+
+1.74
+
+20,000
+
+1.42
+
+25,000
+
+1.15
+
+30,000
+
+0.92
+
+35,000
+
+0.76
+
+40,000
+
+0.57
+
+Figure 16-2. Oxygen pressure in the atmosphere at various altitudes.
+
+dioxide in the blood, even though the body does not need this.
+The lower carbon dioxide level signals the body that there is
+enough oxygen available and blood vessels constrict, causing
+hypoxia-like symptoms because insufficient oxygen is being
+delivered to the cells. Note that the onset of hypoxia described
+in the previous section occurs without the rapid breathing that
+accompanies hyperventilation. Hyperventilation can often
+be alleviated by having the person calm down and breathe
+normally, which restores the oxygen/carbon dioxide balance
+in the bloodstream.
+
+Carbon Monoxide Poisoning
+Carbon monoxide is a colorless, odorless gas produced by
+incomplete combustion of hydrocarbon fuels, such as those
+used in aviation. The human body does not require this gas to
+function. Its presence, however, can prevent a sufficient level
+of oxygen to be maintained in the body, resulting in hypoxia.
+This is also known as carbon monoxide poisoning. As with
+all forms of oxygen deprivation, extended exposure to carbon
+monoxide can result in unconsciousness and even death.
+Hemoglobin is the substance in the blood that attaches to
+oxygen in the lungs and circulates it to cells in the body
+for use. Carbon monoxide more readily attaches itself to
+hemoglobin than oxygen. If carbon monoxide is present in the
+lungs, hemoglobin attaches to it and not oxygen. This results
+in cells not receiving the amount of oxygen they need. The
+insufficient oxygen level results in hypoxia-like symptoms.
+A real danger of carbon monoxide poisoning is that long
+exposure to slight traces of carbon monoxide can result in
+oxygen deprivation just as easily as short-term exposure to
+a concentrated amount. The onset of its effects can be very
+subtle.
+Carbon monoxide detectors are used in flight decks and
+cabins to provide the crew a warning of the silent danger.
+There are many types of carbon monoxide detectors available
+to alert aviators of the presence of this gas. Some are made to
+be permanently installed in the instrument panel, while others
+are portable. The simplest carbon monoxide detectors are
+chemical tabs mounted on cardboard that hang on or adhere
+to something in the flight deck. When carbon monoxide is
+present, the tab changes color due to a chemical reaction.
+More sophisticated detectors provide a digital output in
+parts per million of carbon monoxide present or illuminate
+a light and/or an audible alarm sounds. [Figure 16-3] If
+contaminated, a carbon monoxide portable test unit can be
+returned to service by installing a new indicating element.
+Aircraft that utilize exhaust shroud-type heating systems or
+combustion heaters are more likely to have carbon monoxide
+introduced into the cabin from these devices. It is very
+16-2
+
+===== PDF PAGE 914 =====
+breathing air are most commonly used as primary systems
+in small and medium size aircraft designed without cabin
+pressurization. Pressurized aircraft utilize oxygen systems as
+a means of redundancy should pressurization fail. Portable
+oxygen equipment may also be aboard for first aid purposes.
+
+RST
+
+CO GUARDIAN
+
+Forms of Oxygen & Characteristics
+
+Gaseous Oxygen
+
+CO ALERT
+105 PPM
+SC
+
+552
+
+ST
+
+SP
+
+Figure 16-3. An example of a carbon monoxide detector sold in
+
+the aviation market.
+
+important to discover the source of carbon monoxide if it
+is detected. Various leak checks and testing for cracks are
+performed regularly whenever a combustion source is also
+the source for cabin heat.
+
+Aircraft Oxygen Systems
+The negative effects of reduced atmospheric pressure at
+flight altitudes, forcing less oxygen into the blood, can
+be overcome. There are two ways this is commonly done:
+increase the pressure of the oxygen or increase the quantity
+of oxygen in the air mixture.
+Large transport-category and high-performance passenger
+aircraft pressurize the air in the cabin. This serves to push
+more of the normal 21 percent oxygen found in the air into
+the blood for saturation. Techniques for pressurization are
+discussed later in this chapter. When utilized, the percentage
+of oxygen available for breathing remains the same; only the
+pressure is increased.
+By increasing the quantity of oxygen available in the lungs,
+less pressure is required to saturate the blood. This is the basic
+function of an aircraft oxygen system. Increasing the level
+of oxygen above the 21 percent found in the atmosphere can
+offset the reduced pressure encountered as altitude increases.
+Oxygen may be regulated into the air that is breathed so as
+to maintain a sufficient amount for blood saturation. Normal
+mental and physical activity can be maintained at indicated
+altitudes of up to about 40,000 feet with the sole use of
+supplemental oxygen.
+Oxygen systems that increase the quantity of oxygen in
+
+Oxygen is a colorless, odorless, and tasteless gas at normal
+atmospheric temperatures and pressures. It transforms into
+a liquid at –183 °C (its boiling point). Oxygen combines
+readily with most elements and numerous compounds. This
+combining is called oxidation. Typically, oxidation produces
+heat. When something burns, it is actually rapidly combining
+with oxygen. Oxygen itself does not burn because it does not
+combine with itself, except to form oxygen or ozone. But,
+pure oxygen combines violently with petroleum products
+creating a significant hazard when handling these materials
+in close proximity to each other. Nevertheless, oxygen
+and various petroleum fuels combine to create the energy
+produced in internal combustion engines.
+Pure gaseous oxygen, or nearly pure gaseous oxygen, is
+stored and transported in high-pressure cylinders that are
+typically painted green. Technicians should be cautious to
+keep pure oxygen away from fuel, oil, and grease to prevent
+unwanted combustion. Not all oxygen in containers is the
+same. Aviator’s breathing oxygen is tested for the presence
+of water. This is done to avoid the possibility of it freezing
+in the small passage ways of valves and regulators. Ice could
+prevent delivery of the oxygen when needed. Aircraft often
+operate in subzero temperatures, increasing the possibility
+of icing. The water level should be a maximum of .02ml per
+liter of oxygen. The words “Aviator’s Breathing Oxygen”
+should be marked clearly on any cylinders containing oxygen
+for this purpose. [Figure 16-4]
+Production of gaseous oxygen for commercial or aircraft
+cylinders is often through a process of liquefying air. By
+controlling temperature and pressure, the nitrogen in the
+air can be allowed to boil off leaving mostly pure oxygen.
+Oxygen may also be produced by the electrolysis of water.
+Passing electric current through water separates the oxygen
+from the hydrogen. One further method of producing gaseous
+oxygen is by separating the nitrogen and oxygen in the air
+through the use of a molecular sieve. This membrane filters
+out nitrogen and some of the other gases in air, leaving nearly
+pure oxygen for use. Onboard oxygen sieves, or oxygen
+concentrators as they are sometimes called, are used on some
+military aircraft. Their use in civil aviation is expected.
+Use of portable pulse oximeters has become more common
+in aviation. These devices measure the oxygen saturation
+16-3
+
+===== PDF PAGE 915 =====
+Figure 16-6. A spherical liquid oxygen onboard container used by
+
+the military.
+
+Figure 16-4. “Aviator’s breathing oxygen” is marked on all oxygen
+
+cylinders designed for this purpose.
+
+level of the blood. With this information, adjustments to
+the oxygen flow rates of onboard oxygen equipment can be
+made to prevent hypoxia. Figure 16-5 shows an oximeter into
+
+which a finger is inserted to measure oxygen saturation of the
+blood in percentage. Heart rate is also displayed.
+
+Liquid Oxygen
+Liquid oxygen (LOX) is a pale blue, transparent liquid.
+Oxygen can be made liquid by lowering the temperature to
+below –183 °C or by placing gaseous oxygen under pressure.
+A combination of these is accomplished with a Dewar bottle.
+This special container is used to store and transport liquid
+oxygen. It uses an evacuated, double-walled insulation
+design to keep the liquid oxygen under pressure at a very low
+temperature. [Figure 16-6] A controlled amount of oxygen
+is allowed to vaporize and is plumbed into a gaseous oxygen
+delivery system downstream of a converter that is part of the
+container assembly.
+A small quantity of LOX can be converted to an enormous
+amount of gaseous oxygen, resulting in the use of very little
+storage space compared to that needed for high-pressure
+gaseous oxygen cylinders. However, the difficulty of
+handling LOX, and the expense of doing so, has resulted in
+the container system used for gaseous oxygen to proliferate
+throughout civilian aviation. LOX is used in military aviation
+and some medical helicopter applications for patient oxygen.
+
+Chemical or Solid Oxygen
+
+Figure 16-5. A portable pulse-type oximeter displays percentage
+
+of oxygen saturation of the blood and heart rate. Pilots can adjust
+oxygen supply levels to maintain saturation and avoid hypoxia.
+
+Sodium chlorate has a unique characteristic. When ignited,
+it produces oxygen as it burns. This can be filtered and
+delivered through a hose to a mask that can be worn and
+breathed directly by the user. Solid oxygen candles, as they
+are called, are formed chunks of sodium chlorate wrapped
+inside insulated stainless-steel housings to control the heat
+produced when activated. The chemical oxygen supply is
+16-4
+
+===== PDF PAGE 916 =====
+often ignited by a spring-loaded firing pin that when pulled,
+releases a hammer that smashes a cap creating a spark to
+light the candle. Electric ignition via a current-induced
+hot wire also exists. Once lit, a sodium chlorate oxygen
+generator cannot be extinguished. It produces a steady flow
+of breathable oxygen until it burns out, typically generating
+10–20 minutes of oxygen. [Figure 16-7]
+Solid oxygen generators are primarily used as backup oxygen
+devices on pressurized aircraft. They are one-third as heavy as
+gaseous oxygen systems that use heavy storage tanks for the
+same quantity of oxygen available. Sodium chlorate chemical
+oxygen generators also have a long shelf life, making them
+
+Flow initiation mechanism
+
+Pin
+
+Lanyard
+
+Case
+
+The feature of not extinguishing once lit limits the use of
+solid oxygen since it becomes an all-or-nothing source.
+The generators must be replaced if used, which can greatly
+increase the cost of using them as a source of oxygen for
+short periods of time. Moreover, chemical oxygen candles
+must be transported with extreme caution and as hazardous
+materials. They must be properly packed, and their ignition
+devices deactivated.
+
+Onboard Oxygen Generating Systems (OBOGS)
+The molecular sieve method of separating oxygen from the
+other gases in air has application in flight, as well as on the
+ground. The sieves are relatively light in weight and relieve
+the aviator of a need for ground support for the oxygen supply.
+Onboard oxygen generating systems on military aircraft pass
+bleed air from turbine engines through a sieve that separates
+the oxygen for breathing use. Some of the separated oxygen is
+also used to purge the sieve of the nitrogen and other gases that
+keep it fresh for use. Use of this type of oxygen production
+in civilian aircraft is anticipated. [Figure 16-8]
+Oxygen Systems & Components
+Built-in and portable oxygen systems are used in civilian
+aviation. They use gaseous or solid oxygen (oxygen
+generators) as suits the purpose and aircraft. LOX systems
+and molecular sieve oxygen systems are not discussed, as
+current applications on civilian aircraft are limited.
+
+Sodium Chlorate
+Mounting stud
+
+perfect as a standby form of oxygen. They are inert below 400
+°F and can remain stored with little maintenance or inspection
+until needed, or until their expiration date is reached.
+
+CANDLE
+
+Gaseous Oxygen Systems
+
+Thermal insulation
+
+The use of gaseous oxygen in aviation is common; however,
+applications vary. On a light aircraft, it may consist of a small
+
+Chlorate candle
+
+Filter
+
+Oxygen outlet
+
+Manifold
+Relief valve
+
+Support screen
+
+Figure 16-7. A sodium chlorate solid oxygen candle is at the core
+
+of a chemical oxygen generator.
+
+Figure 16-8. This onboard oxygen generating system uses molecular
+sieve technology.
+
+16-5
+
+===== PDF PAGE 917 =====
+Oxygen Storage Cylinders
+Gaseous oxygen is stored and transported in high-pressure
+cylinders. Traditionally, these have been heavy steel
+tanks rated for 1800–1850 psi of pressure and capable of
+maintaining pressure up to 2,400 psi. While these performed
+adequately, lighter weight tanks were sought. Some newer
+cylinders are comprised of a lightweight aluminum shell
+wrapped by Kevlar®. These cylinders are capable of carrying
+the same amount of oxygen at the same pressure as steel
+tanks but weigh much less. Also available are heavy-walled
+all-aluminum cylinders. These units are common as carry-on
+portable oxygen used in light aircraft.
+Most oxygen storage cylinders are painted green, but yellow
+and other colors may be used as well. They are certified
+to Department of Transportation (DOT) specifications. To
+ensure serviceability, cylinders must be hydrostatically
+tested periodically. In general, a hydrostatic test consists
+of filling the container with water and pressurizing it to 5⁄3
+of its certified rating. It should not leak, rupture, or deform
+beyond an established limit. Figure 16-9 shows a hydrostatic
+cylinder testing apparatus.
+
+Figure 16-9. This test stand is used for hydrostatic testing of oxygen
+
+cylinders. The water-filled cylinder is lowered into the barrel on
+the left where it is pressurized to the proper level as monitored via
+gauges mounted on the control panel. A displacement container on
+the top left of the control board collects water from the barrel to
+measure the expansion of the cylinder when pressurized to ensure
+it is within limits.
+
+carry-on portable cylinder with a single mask attached via a
+hose to a regulator on the bottle. Larger portable cylinders
+may be fitted with a regulator that divides the outlet flow for
+2–4 people. Built-in oxygen systems on high performance
+and light twin-engine aircraft typically have a location where
+oxygen cylinders are installed to feed a distribution system
+via tubing and a regulator. The passenger compartment
+may have multiple breathing stations plumbed so that each
+passenger can individually plug in a hose and mask if oxygen
+is needed. A central regulator is normally controlled by
+the flight crew who may have their own separate regulator
+and oxygen cylinder. Transport category aircraft may use
+an elaborate built-in gaseous oxygen system as a backup
+system to cabin pressurization. In all of these cases, oxygen
+is stored as a gas at atmospheric temperature in high-pressure
+cylinders. It is distributed through a system with various
+components that are described in this section.
+
+Most cylinders also have a limited service life after which
+they can no longer be used. After a specified number of
+filling cycles or calendar age, the cylinders must be removed
+from service. The most common high-pressure steel oxygen
+cylinders used in aviation are the 3AA and the 3HT. They come
+in various sizes but are certified to the same specifications.
+Cylinders certified under DOT-E-8162 are also popular
+for their extremely light weight. These cylinders typically
+have an aluminum core around which Kevlar® is wrapped.
+The DOT-E 8162 approved cylinders are now approved
+under DOT-SP-8162 specifications. The SP certification has
+extended the required time between hydrostatic testing to 5
+years (previously 3 years). [Figure 16-10]
+The manufactured date and certification number is stamped
+on each cylinder near the neck. Subsequent hydrostatic test
+dates are also stamped there as well. Composite cylinders use
+placards rather than stamping. The placard must be covered
+with a coat of clear epoxy when additional information is
+added, such as a new hydrostatic test date.
+Oxygen cylinders are considered empty when the pressure
+inside drops below 50 psi. This ensures that air containing water
+vapor has not entered the cylinder. Water vapor could cause
+corrosion inside the tank, as well as presenting the possibility of
+ice forming and clogging a narrow passageway in the cylinder
+valve or oxygen system. Any installed tank allowed to fall
+below this pressure should be removed from service.
+
+16-6
+
+===== PDF PAGE 918 =====
+Certification Type
+
+Material
+
+Rated pressure (psi)
+
+Required hydrostatic test
+
+Service life (years)
+
+Service life (fillings)
+
+DOT 3AA
+
+Steel
+
+1,800
+
+5
+
+Unlimited
+
+N/A
+
+DOT 3HT
+
+Steel
+
+1,850
+
+3
+
+24
+
+4,380
+
+DOT-E-8162
+
+Composite
+
+1,850
+
+3
+
+15
+
+N/A
+
+DOT-SP-8162
+
+Composite
+
+1,850
+
+5
+
+15
+
+N/A
+
+DOT 3AL
+
+Aluminum
+
+2,216
+
+5
+
+Unlimited
+
+N/A
+
+Figure 16-10. Common cylinders used in aviation with some certification and testing specifications.
+
+Oxygen Systems & Regulators
+The design of the various oxygen systems used in aircraft
+depends largely on the type of aircraft, its operational
+requirements, and whether the aircraft has a pressurization
+system. Systems are often characterized by the type of regulator
+used to dispense the oxygen: continuous-flow and demand
+flow. In some aircraft, a continuous-flow oxygen system is
+installed for both passengers and crew. The pressure demand
+system is widely used as a crew system, especially on the
+larger transport aircraft. Many aircraft have a combination of
+both systems that may be augmented by portable equipment.
+
+In large aircraft, separate storage cylinders for crew and
+passengers are typical. Fully integrated oxygen systems
+usually have separate, remotely mounted components to
+reduce pressure and regulate flow. A pressure relief valve
+is also typically installed in the system, as is some sort of
+filter and a gauge to indicate the amount of oxygen pressure
+
+Continuous-Flow Systems
+In its simplest form, a continuous-flow oxygen system allows
+oxygen to exit the storage tank through a valve and passes it
+through a regulator/reducer attached to the top of the tank.
+The flow of high-pressure oxygen passes through a section of
+the regulator that reduces the pressure of the oxygen, which
+is then fed into a hose attached to a mask worn by the user.
+Once the valve is opened, the flow of oxygen is continuous.
+Even when the user is exhaling, or when the mask is not in
+use, a preset flow of oxygen continues until the tank valve is
+closed. On some systems, fine adjustment to the flow can be
+made with an adjustable flow indicator that is installed in the
+hose in line to the mask. A portable oxygen setup for a light
+aircraft exemplifies this type of continuous-flow system and
+is shown in Figure 16-11.
+A more sophisticated continuous-flow oxygen system uses
+a regulator that is adjustable to provide varying amounts of
+oxygen flow to match increasing need as altitude increases.
+These regulators can be manual or automatic in design.
+Manual continuous-flow regulators are adjusted by the crew
+as altitude changes. Automatic continuous-flow regulators
+have a built in aneroid. As the aneroid expands with altitude, a
+mechanism allows more oxygen to flow though the regulator
+to the users. [Figure 16-12]
+Many continuous-flow systems include a fixed location for
+the oxygen cylinders with permanent delivery plumbing
+installed to all passenger and crew stations in the cabin.
+
+Figure 16-11. A typical portable gaseous oxygen cylinder complete
+
+with valve, pressure gauge, regulator/reducer, hose, adjustable flow
+indicator, and rebreather cannula. A padded carrying case/bag can
+be strapped to the back of a seat in the cabin to meet certification
+and testing specifications.
+
+16-7
+
+===== PDF PAGE 919 =====
+Scott
+
+Built-in continuous-flow gaseous oxygen systems accomplish
+a final flow rate to individual user stations through the use of
+a calibrated orifice in each mask. Larger diameter orifices are
+usually used in crew masks to provide greater flow than that
+for passengers. Special oxygen masks provide even greater
+flow via larger orifices for passengers traveling with medical
+conditions requiring full saturation of the blood with oxygen.
+
+“PRESIDENT”
+10
+5
+0
+
+15
+
+Scott
+OXYGEN
+SUPPLY
+
+1000
+
+20
+
+500
+
+25
+
+0
+
+30
+
+2000
+
+OXYGEN
+SUPPLY
+
+USE NO OIL
+
+OPERATION
+
+1500
+
+Scott
+
+PRESSURE
+USE NO OIL
+
+Allowing oxygen to continuously flow from the storage
+cylinder can be wasteful. Lowest sufficient flow rates can
+be accomplished through the use of rebreather apparatus.
+Oxygen and air that is exhaled still contains usable oxygen.
+By capturing this oxygen in a bag, or in a cannula with oxygen
+absorbing reservoirs, it can be inhaled with the next breath,
+reducing waste. [Figure 16-14]
+
+ST TO ALTITUD
+JU
+E
+AD
+4. No smoking while
+oxygen is in use.
+5. Turn Off before
+disconnecting
+masks.
+
+1. Open supply
+cylinder valve.
+2. Connect Masks.
+3. Turn up to flight
+altitude.
+
+OFF
+
+Figure 16-12. A manual continuous flow oxygen system may have a
+
+regulator that is adjusted by the pilot as altitude varies. By turning
+the knob, the left gauge can be made to match the flight altitude thus
+increasing and decreasing flow as altitude changes.
+
+remaining in the storage cylinder(s). Figure 16-13 diagrams
+the type of continuous-flow system that is found on small to
+medium sized aircraft.
+
+The passenger section of a continuous-flow oxygen system
+may consist of a series of plug-in supply sockets fitted to the
+cabin walls adjacent to the passenger seats to which oxygen
+masks can be connected. Flow is inhibited until a passenger
+manually plugs in. When used as an emergency system in
+pressurized aircraft, depressurization automatically triggers
+the deployment of oxygen ready continuous-flow masks
+at each passenger station. A lanyard attached to the mask
+turns on the flow to each mask when it is pulled toward the
+passenger for use. The masks are normally stowed overhead in
+the passenger service unit (PSU). [Figure 16-15] Deployment
+of the emergency continuous-flow passenger oxygen masks
+may also be controlled by the crew. [Figure 16-16]
+
+Mask outlet
+
+Mask outlet
+
+Mask outlet
+
+Calibrated orifice
+
+Calibrated orifice
+
+Calibrated orifice
+
+Green blowout disk
+Pressure relief valve
+Pressure gauge
+
+20
+
+30
+
+10
+
+Oxygen cylinder
+
+40
+50
+
+0
+
+psi
+
+Check valve
+
+60
+
+Charging connection
+
+Pressure regulator
+
+Pressure reducer
+
+Filter
+
+Shutoff valve
+
+Filter
+
+Charging valve
+
+Figure 16-13. Continuous flow oxygen system found on small to medium size aircraft.
+
+16-8
+
+===== PDF PAGE 920 =====
+A
+
+Rebreather cannula
+
+B
+
+Adjustable flow indicators
+
+Rebreather face mask
+Figure 16-14. A rebreather cannula (A) and rebreather bag (B) capture exhaled oxygen to be inhaled on the next breath. This conserves
+
+oxygen by permitting lower flow rates in continuous flow systems. The red and green devices are optional flow indicators that allow the
+user to monitor oxygen flow rate. The type shown also contains needle valves for final regulation of the flow rate to each user.
+
+Figure 16-15. A passenger service unit (PSU) is hinged over each row
+of seats in an airliner. Four yellow continuous flow oxygen masks are
+shown deployed. They are normally stored behind a separate hinged
+panel that opens to allow the masks to fall from the PSU for use.
+
+Continuous-flow oxygen masks are simple devices made
+to direct flow to the nose and mouth of the wearer. They
+fit snugly but are not air tight. Vent holes allow cabin air
+to mix with the oxygen and provide escape for exhalation.
+In a rebreather mask, the vents allow the exhaled mixture
+that is not trapped in the rebreather bag to escape. This is
+appropriate, because this is the air-oxygen mixture that has
+been in the lungs the longest, so it has less recoverable oxygen
+to be breathed again. [Figure 16-17]
+Demand-Flow or Pressure-Demand Systems
+When oxygen is delivered only as the user inhales, or
+on demand, it is known as a demand-flow system or a
+pressure-demand system. During the hold and exhalation
+periods of breathing, the oxygen supply is stopped. Thus,
+the duration of the oxygen supply is prolonged as none is
+wasted. Demand-flow systems are used most frequently by
+
+Figure 16-16. The crew can deploy passenger emergency
+
+continuous-flow oxygen masks and supply with a switch in the
+flight deck.
+
+16-9
+
+===== PDF PAGE 921 =====
+In a demand-flow oxygen system, the system pressurereducing valve is sometimes called a pressure regulator.
+This device lowers the oxygen pressure from the storage
+cylinder(s) to roughly 60–85 psi and delivers it to individual
+regulators dedicated for each user. A pressure reduction also
+occurs at the inlet of the individual regulator by limiting the
+size of the inlet orifice. There are two types of individual
+regulators: the diluter-demand type and the pressure-demand
+type. [Figure 16-20]
+The diluter-demand type regulator holds back the flow of
+oxygen until the user inhales with a demand-type oxygen
+mask. The regulator dilutes the pure oxygen supply with cabin
+air each time a breath is drawn. With its control toggle switch
+set to normal, the amount of dilution depends on the cabin
+altitude. As altitude increases, an aneroid allows more oxygen
+and less cabin air to be delivered to the user by adjusting
+flows through a metering valve. At approximately 34,000
+feet, the diluter-demand regulator meters 100 percent oxygen.
+This should not be needed unless cabin pressurization fails.
+Additionally, the user may select 100 percent oxygen delivery
+at any time by positioning the oxygen selection lever on the
+regulator. A built-in emergency switch also delivers 100
+percent oxygen, but in a continuous flow as the demand
+function is bypassed. [Figure 16-21]
+Pressure-demand oxygen systems operate similarly to diluterdemand systems, except that oxygen is delivered through the
+individual pressure regulator(s) under higher pressure. When
+the demand valve is unseated, oxygen under pressure forces
+its way into the lungs of the user. The demand function still
+operates, extending the overall supply of oxygen beyond that
+of a continuous-flow system. Dilution with cabin air also
+occurs if cabin altitude is less than 34,000 feet.
+Figure 16-17. Examples of different continuous-flow oxygen masks.
+
+the crew on high performance and air transport category
+aircraft. [Figure 16-18]
+Demand-flow systems are similar to continuous-flow systems
+in that a cylinder delivers oxygen through a valve when
+opened. The tank pressure gauge, filter(s), pressure relief
+valve, and any plumbing installed to refill the cylinder while
+installed on the aircraft are all similar to those in a continuousflow system. The high-pressure oxygen also passes through
+a pressure reducer and a regulator to adjust the pressure and
+flow to the user. But, demand-flow oxygen regulators differ
+significantly from continuous-flow oxygen regulators. They
+work in conjunction with close-fitting demand-type masks
+to control the flow of oxygen. [Figure 16-19]
+
+Pressure-demand regulators are used on aircraft that regularly
+fly at 40,000 feet and above. They are also found on many
+airliners and high-performance aircraft that may not typically
+fly that high. Forcing oxygen into the lungs under pressure
+ensures saturation of the blood, regardless of altitude or
+cabin altitude.
+Both diluter-demand and pressure-demand regulators also
+come in mask-mounted versions. The operation is essentially
+the same as that of panel-mounted regulators. [Figure 16-22]
+Flow Indicators
+Flow indicators, or flow meters, are common in all oxygen
+systems. They usually consist of a lightweight object, or
+apparatus, that is moved by the oxygen stream. When
+flow exists, this movement signals the user in some way.
+[Figure 16-23] Many flow meters in continuous-flow oxygen
+systems also double as flow rate adjusters. Needle valves
+16-10
+
+===== PDF PAGE 922 =====
+Mask/regulator (first observer’s station)
+
+Crew oxygen cylinder located in
+forward cargo compartment
+
+System shutoff valve
+
+Mask/regulator (second observer’s station)
+Mask storage box with mask/
+regulator (first officer’s station)
+
+Mask storage box with mask/regulator (captain’s station)
+Figure 16-18. Location of demand-flow oxygen components on a transport category aircraft.
+
+Emergency metering control
+Pressure reducing valve
+
+Diaphragm
+Demand valve
+
+Aneroid
+Oxygen metering port
+Diluter control closing mechanism
+
+Inhale
+
+Air metering port lever
+Air inlet check valve
+
+Figure 16-19. A demand regulator and demand-type mask work together to control flow and conserve oxygen. Demand-flow masks are
+close fitting so that when the user inhales, low pressure is created in the regulator, which allows oxygen to flow. Exhaled air escapes
+through ports in the mask, and the regulator ceases the flow of oxygen until the next inhalation.
+
+16-11
+
+===== PDF PAGE 923 =====
+Figure 16-20. The two basic types of regulators used in demand flow oxygen systems. The panel below the diluter demand regulator on
+the left is available for mask hose plug in (left), lanyard mask hanger (center), and microphone plug in (right). Most high performance
+demand type masks have a microphone built-in.
+
+Vent
+Demand diaphragm
+Relief valve
+On
+Inlet air cover
+Emergency lever
+
+Demand valve
+OFF
+Supplementary oxygen valve
+
+100%
+Oxygen selection lever
+Aneroid
+
+Flow indicator
+
+Normal
+On
+
+Pressure reducer
+
+Supply lever
+OFF
+
+Oxygen inlet
+Air metering valve
+
+Figure 16-21. A diluter-demand regulator operates when low pressure caused by inhalation moves the demand diaphragm. A demand
+
+valve connected to the diaphragm opens, letting oxygen flow through the metering valve. The metering valve adjusts the mixture of cabin
+air and pure oxygen via a connecting link to an aneroid that responds to cabin altitude.
+
+fitted into the flow indicator housing can fine-adjust the
+oxygen delivery rate. Demand-flow oxygen systems usually
+have flow indicators built into the individual regulators
+at each user station. Some contain a blinking device that
+activates when the user inhales and oxygen is delivered.
+Others move a colored pith object into a window. Regardless,
+flow indicators provide a quick verification that an oxygen
+system is functioning.
+Different flow indicators are used to provide verification
+that the oxygen system is functioning. Other demand-flow
+
+indicators are built into the oxygen regulators. [Figure 16-23]
+A recent development in general aviation oxygen systems is
+the electronic pulse demand oxygen delivery system (EDS).
+A small, portable EDS unit is made to connect between the
+oxygen source and the mask in a continuous-flow oxygen
+system. It delivers timed pulses of oxygen to the wearer on
+demand, saving oxygen normally lost during the hold and
+exhale segments of the breathing cycle. Advanced pressure
+sensing and processing allows the unit to deliver oxygen only
+when an inhalation starts. It can also sense differences in
+16-12
+
+===== PDF PAGE 924 =====
+Figure 16-22. A mask-mounted version of a miniature diluter-demand regulator designed for use in general aviation (left), a mechanical
+quick-donning diluter-demand mask with the regulator on the mask (center), and an inflatable quick-donning mask (right). Squeezing
+the red grips directs oxygen into the hollow straps.
+
+Figure 16-23. Different flow indicators are used to provide verification that the oxygen system is functioning: continuous-flow, inline
+(left); continuous-flow, inline with valve adjuster (center); and old style demand flow (right).
+
+16-13
+
+===== PDF PAGE 925 =====
+BREATHING
+OXYGEN
+
+Figure 16-26. Color-coded tape used to identify oxygen tubing.
+
+is used deliver oxygen to the masks; its use is increasing in
+permanent installations to save weight.
+
+Figure 16-24. A portable two-person electronic pulse-demand
+
+(EPD) oxygen regulating unit.
+
+users’ breathing cycles and physiologies and adjust the flow
+of oxygen accordingly. A built-in pressure-sensing device
+adjusts the amount of oxygen released as altitude changes.
+[Figure 16-24]
+Permanently mounted EPD systems are also available. They
+typically integrate with an electronic valve/regulator on
+the oxygen cylinder and come with an emergency bypass
+switch to provide continuous-flow oxygen should the system
+malfunction. A liquid crystal display (LCD) monitor/control
+panel displays numerous system operating parameters and
+allows adjustments to the automatic settings. This type of
+electronic metering of oxygen has also been developed for
+passenger emergency oxygen use in airliners. [Figure 16-25]
+Oxygen Plumbing & Valves
+Tubing and fittings make up most of the oxygen system
+plumbing and connect the various components. Most lines
+are metal in permanent installations. High-pressure lines are
+usually stainless steel. Tubing in the low-pressure parts of the
+oxygen system is typically aluminum. Flexible plastic hosing
+A
+
+B
+
+Installed oxygen tubing is usually identified with colorcoded tape applied to each end of the tubing, and at specified
+intervals along its length. The tape coding consists of a green
+band overprinted with the words “BREATHING OXYGEN”
+and a black rectangular symbol overprinted on a white
+background border strip. [Figure 16-26]
+Tubing-to-tubing fittings in oxygen systems are often
+designed with straight threads to receive flared tube
+connections. Tubing-to-component fittings usually have
+straight threads on the tubing end and external pipe threads
+(tapered) on the other end for attachment to the component.
+The fittings are typically made of the same material as the
+tubing (i.e., aluminum or steel). Flared and flareless fittings
+are both used, depending on the system.
+Five types of valves are commonly found in high-pressure
+gaseous oxygen systems: filler, check, shutoff, pressure
+reducer, and pressure relief. They function as they would in
+any other system with one exception: oxygen system shutoff
+valves are specifically designed to open slowly.
+The ignition point for any substances is lower in pure oxygen
+than it is in air. When high-pressure oxygen is allowed to rush
+into a low-pressure area, its velocity could reach the speed of
+sound. If it encounters an obstruction (a valve seat, an elbow,
+a piece of contaminant, etc.), the oxygen compresses. With
+this compression, known as adiabatic compression (since it
+C
+
+D
+
+Figure 16-25. The key components of a built-in electronic pulse demand oxygen metering system: (A) electronic regulator, (B) oxygen
+
+station distributer unit, (C) command/display unit, (D) emergency bypass switch.
+
+16-14
+
+===== PDF PAGE 926 =====
+builds so quickly no heat is lost to its surroundings), comes
+high temperature. Under pressure, this high temperature
+exceeds the ignition point of the material the oxygen
+encounters and a fire or explosion results. A stainless-steel
+line, for example, would not normally burn and is used for
+carrying numerous fluids under high pressure. But under
+high pressure and temperature in the presence of 100 percent
+oxygen, even stainless steel can ignite.
+To combat this issue, all oxygen shutoff valves are slow,
+opening valves designed to decrease velocity. [Figure 16-27]
+Additionally, technicians should always open all oxygen
+valves slowly. Keeping oxygen from rushing into a lowpressure area should be a major concern when working with
+high-pressure gaseous oxygen systems.
+Oxygen cylinder valves and high-pressure systems are often
+provided with a relief valve should the desired pressure
+be exceeded. Often, the valve is ported to an indicating or
+blowout disc. This is located in a conspicuous place, such as
+the fuselage skin, where it can be seen during walk-around
+inspection. Most blowout discs are green. The absence of
+the green disc indicates the relief valve has opened, and the
+cause should be investigated before flight. [Figure 16-28]
+
+Chemical Oxygen Systems
+The two primary types of chemical oxygen systems are the
+portable type, much like a portable carry-on gaseous oxygen
+cylinder, and the fully integrated supplementary oxygen
+
+Figure 16-28. An oxygen blowout plug on the side of the fuselage
+indicates when pressure relief has occurred and should be
+investigated.
+
+system used as backup on pressurized aircraft in case of
+pressurization failure. [Figure 16-29] This latter use of solid
+chemical oxygen generators is most common on airliners. The
+generators are stored in the overhead PSU attached to hoses
+and masks for every passenger on board the aircraft. When a
+depressurization occurs, or the flight crew activates a switch,
+a compartment door opens, and the masks and hoses fall out in
+front of the passengers. The action of pulling the mask down
+to a usable position actuates an electric current, or ignition
+hammer, that ignites the oxygen candle and initiates the flow
+of oxygen. Typically, 10 to 20 minutes of oxygen is available
+for each user. This is calculated to be enough time for the
+aircraft to descend to a safe altitude for unassisted breathing.
+Chemical oxygen systems are unique in that they do not
+produce the oxygen until it is time to be used. This allows safer
+transportation of the oxygen supply with less maintenance.
+Chemical oxygen-generating systems also require less space
+
+Fine-pitch threads
+
+Soft seat
+
+Regulating stem
+Figure 16-27. This high-pressure oxygen system shutoff valve has
+
+fine-pitch threads and a regulating stem to slow the flow of oxygen
+through the valve. A soft valve seat is also included to assure the
+valve closes completely.
+
+Figure 16-29. An oxygen generator mounted in place in an overhead
+passenger service unit of an air transport category aircraft.
+
+16-15
+
+===== PDF PAGE 927 =====
+and weigh less than gaseous oxygen systems supplying
+the same number of people. Long runs of tubing, fittings,
+regulators, and other components are avoided, as are heavy
+gaseous oxygen storage cylinders. Each passenger row
+grouping has its own fully independent chemical oxygen
+generator. The generators, which often weigh less than a
+pound, are insulated and can burn completely without getting
+hot. The size of the orifice opening in the hose-attach nipples
+regulates the continuous flow of oxygen to the users.
+
+LOX Systems
+LOX systems are rarely used in civilian aviation. They
+may be encountered on former military aircraft now in the
+civilian fleet. As mentioned, the storage of LOX requires
+a special container system. The plumbing arrangement to
+convert the liquid to a usable gas is also unique. It basically
+consists of a controlled heat exchange assembly of tubing and
+valves. Overboard pressure relief is provided for excessive
+temperature situations. Once gaseous, the LOX system is
+the same as it is in any comparable gaseous oxygen delivery
+system. Use of pressure-demand regulators and masks is
+common. Consult the manufacturer’s maintenance manual
+for further information if a LOX system is encountered.
+Oxygen System Servicing
+
+Servicing Gaseous Oxygen
+
+Gaseous oxygen systems are prevalent in general, corporate,
+and airline aviation. The use of lightweight aluminum and
+composite storage cylinders has improved these simple and
+reliable life support systems. All gaseous oxygen systems
+require servicing and maintenance. Various procedures and
+requirements to perform these functions are covered in this
+section.
+Leak Testing Gaseous Oxygen Systems
+Leaks in a continuous-flow oxygen system may be difficult
+to detect because the system is open at the user end. Blocking
+the flow of oxygen allows pressure to build and leak check
+procedures can be followed that are similar to those used in
+the high-pressure sections of the systems. Detection of leaks
+should be performed with oxygen-safe leak check fluid.
+This is a soapy liquid free from elements that might react
+with pure oxygen or contaminate the system. As with leak
+detection on an inflated tire or tube assembly, the oxygen
+leak detection solution is applied to the outside of fittings
+and mating surfaces. The formation of bubbles indicates a
+leak. [Figure 16-30]
+Careful assembly of oxygen components and fittings without
+overtightening or undertightening is required. If a leak is
+found at a fitting, it should be checked for the proper torque.
+Tightening may not always stop the leak. If the fitting is
+
+Figure 16-30. Oxygen system leak check solution.
+
+torqued properly and a leak still exists, pressure must be
+released from the system and the fitting must be examined
+for flaws or contamination. If necessary, the fitting must be
+replaced. All system components, lines, and fittings must
+be replaced with the proper parts, which should be cleaned
+and inspected thoroughly before installation. Follow the
+manufacturer’s instructions and repeat the leak check when
+completed.
+Use caution when maintaining the high-pressure portion of a
+gaseous oxygen system. An open tank valve pressurizes the
+lines and components with up to 1,850 pounds per square
+inch (psi) of oxygen. Identify the high-pressure section of the
+system as that portion upstream of the reducer or regulator
+that has stainless steel tubing. No attempt should be made to
+tighten a leaky oxygen fitting while the system is charging.
+The oxygen supply should be isolated in the cylinder and
+the system depressurized to reduce the consequences of a
+spark or to minimize spillage and injury should a complete
+fitting failure occur.
+Draining an Oxygen System
+The biggest factor in draining an oxygen system is safety.
+The oxygen must be released into the atmosphere without
+causing a fire, explosion, or hazard. Draining outside is highly
+recommended. The exact method of draining can vary. The
+basic procedure involves establishing a continuous flow in
+a safe area until the system is empty.
+If the cylinder valve is operative, close the valve to isolate the
+oxygen supply in the cylinder. All that remains is to empty the
+lines and components. This can be done without disassembling
+the system by letting oxygen flow from the delivery point(s).
+If the environment is safe to receive the oxygen, positioning
+16-16
+
+===== PDF PAGE 928 =====
+a demand-flow regulator to the emergency setting delivers a
+continuous flow of oxygen to the mask when plugged in. Hang
+the mask(s) out of a window while the system drains. Plug in
+all mask(s) to allow oxygen to drain from a continuous-flow
+oxygen system. Systems without check valves can be drained
+by opening the refill valve.
+Filling an Oxygen System
+Filling procedures for oxygen systems vary. Many general
+aviation aircraft are set up to simply replace an empty cylinder
+with one that is fully charged. This is also the case with a
+portable oxygen system. High performance and air transport
+category aircraft often have built-in oxygen systems that
+contain plumbing designed to refill gaseous oxygen cylinders
+while they are in place. A general discussion of the procedure
+to fill this type of installation follows.
+Before charging any oxygen system, consult the aircraft
+manufacturer’s maintenance manual. The type of oxygen
+to be used, safety precautions, equipment to be used, and
+the procedures for filling and testing the system must
+be observed. Several general precautions should also be
+observed when servicing a gaseous oxygen system. Oxygen
+valves should be opened slowly, and filling should proceed
+slowly to avoid overheating. The hose from the refill source
+to the oxygen fill valve on the aircraft should be purged
+of air before it is used to transfer oxygen into the system.
+Pressures should also be checked frequently while refilling.
+Additionally, all items used for oxygen systems must be free
+of any grease or oil, as this will cause a fire.
+Airline and fixed-base operator maintenance shops often use
+oxygen filler carts to service oxygen systems. These contain
+several large oxygen supply cylinders connected to the fill cart
+manifold. This manifold supplies a fill hose that attaches to
+the aircraft. Valves and pressure gauges allow awareness and
+control of the oxygen dispensing process. [Figure 16-31] Be
+sure all cylinders on the cart are aviator’s breathing oxygen
+and that all cylinders contain at least 50 psi of oxygen pressure.
+Each cylinder should also be within its hydrostatic test date
+interval. After a cart cylinder has dispensed oxygen, the
+remaining pressure should be recorded. This is usually written
+on the outside of the cylinder with chalk or in a cylinder
+pressure log kept with the cart. As such, the technician can
+tell at a glance the status of each oxygen bottle.
+No pump or mechanical device is used to transfer oxygen
+from the fill cart manifold to the aircraft system. Objects
+under pressure flow from high pressure to low pressure.
+Thus, by connecting the cart to the aircraft and systematically
+opening oxygen cylinders with increasingly higher pressure, a
+slow increase in oxygen flow to the aircraft can be managed.
+
+The following is a list of steps to safely fill an aircraft oxygen
+system from a typical oxygen refill cart.
+1.
+
+Check hydrostatic dates on all cylinders, especially
+those that are to be filled on the aircraft. If a cylinder
+is out of date, remove and replace it with a specified
+unit that is serviceable.
+
+2.
+
+Check pressures on all cylinders on the cart and
+in the aircraft. If pressure is below 50 psi, replace
+the cylinder(s). On the aircraft, this may require
+purging the system with oxygen when completed.
+Best practices dictate that any low-pressure or empty
+cylinder(s) on the cart should also be removed and
+replaced when discovered.
+
+3.
+
+Take all oxygen handling precautions to ensure a safe
+environment around the aircraft.
+
+4.
+
+Ground the refill cart to the aircraft.
+
+5.
+
+Connect the cart hose from the cart manifold to the
+aircraft fill port. Purge the air from the refill hose with
+oxygen before opening the refill valve on the aircraft.
+Some hoses are equipped with purge valves to do this
+while the hose is securely attached to the aircraft.
+Other hoses need to be purged while attached to the
+refill fitting but not fully tightened.
+
+6.
+
+Observe the pressure on the aircraft bottle to be filled.
+Open it. On the refill cart, open the cylinder with the
+closest pressure to the aircraft cylinder that exceeds it.
+
+7.
+
+Open the aircraft oxygen system refill valve. Oxygen
+will flow from cart cylinder (manifold) into the aircraft
+cylinder.
+
+8.
+
+When the cylinder pressures equalize, close the
+cylinder on the cart, and open the cart cylinder with
+the next highest pressure. Allow it to flow into the
+
+Figure 16-31. Typical oxygen servicing cart used to fill an aircraft
+
+system.
+
+16-17
+
+===== PDF PAGE 929 =====
+aircraft cylinder until the pressures equalize and flow
+ceases. Close the cart cylinder and proceed to the cart
+cylinder with the next highest pressure.
+Continue the procedure in step 8 until the desired
+pressure in the aircraft cylinder is achieved.
+
+13. Remove the grounding strap.
+Temperature has a significant effect on the pressure of
+gaseous oxygen. Manufacturers typically supply a fill chart
+or a placard at the aircraft oxygen refill station to guide
+technicians in compensating for temperature/pressure
+variations. Technicians should consult the chart and fill
+cylinders to the maximum pressure listed for the prevailing
+ambient temperature. [Figure 16-32]
+When it is hot, oxygen cylinders are filled to a higher pressure
+than 1,800 psi or 1,850 psi, the standard maximum pressure
+ratings of most high-pressure aircraft oxygen cylinders. This
+is allowable because at altitude the temperature and pressure
+of the oxygen can decrease significantly. Filling cylinders
+to temperature-compensated pressure values ensures a full
+supply of oxygen is available when needed. When filling
+cylinders on a cold day, compensation for temperature and
+pressure changes dictates that cylinders be filled to less than
+the maximum rated capacity to allow for pressure increases
+as temperature rises. Strict adherence to the temperature/
+pressure compensation chart values is mandatory to ensure
+safe storage of aircraft oxygen.
+Some aircraft have temperature compensation features built
+into the refill valve. After setting the ambient temperature on
+the valve dial, the valve closes when the correct amount of
+oxygen pressure has been established in the aircraft cylinder.
+A chart can be used to ensure proper servicing.
+Purging an Oxygen System
+The inside of an oxygen system becomes completely
+saturated with oxygen during use. This is desirable to deliver
+clean, odor-free oxygen to the users and to prevent corrosion
+caused by contamination. An oxygen system needs to be
+purged if it has been opened or depleted for more than 2 hours,
+or if it is suspected that the system has been contaminated.
+Purging is accomplished to evacuate contaminants and to
+restore oxygen saturation to the inside of the system
+
+14
+
+32
+
+50
+
+68
+
+86
+
+104 122 140
+
+0
+,80
+
+at
+
+1
+
+18
+
+0
+,70
+
+at
+
+1
+
+°F
+
+70
+
+°F
+
+70
+
+0°F
+
+t7
+
+a
+00
+
+17
+Gauge pressure (PSI in hundreds)
+
+12. Disconnect the refill line from the refill port on the
+aircraft. Cap or cover both.
+
+-4
+
+19
+
+10. Close the aircraft refill valve and close all cylinders
+on the cart.
+11. The aircraft oxygen cylinder valve(s) should be left in
+the proper position for normal operations. Remotely
+mounted cylinders are usually left open.
+
+-22
+
+70°F
+
+9.
+
+Temperature (°F)
+-40
+20
+
+1,6
+
+16
+
+0°F
+
+t7
+
+0a
+
+0
+1,5
+
+15
+
+00
+1,4
+
+14
+
+0
+,30
+
+1
+
+13
+
+00
+
+1,2
+
+12
+
+0
+1,10
+
+11
+
+F
+
+70°
+
+at
+
+0°F
+
+at 7
+
+0°F
+
+at 7
+
+0°F
+
+at 7
+
+70°F
+
+0 at
+
+1,00
+
+10
+
+900
+
+9
+
+0°F
+
+at 7
+
+8
+7
+-40
+
+-30 -20 -10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+Temperature (°C)
+Figure 16-32. A temperature-compensating pressure refill chart is
+used by the technician to ensure proper oxygen cylinder pressure
+in the aircraft system.
+
+The main cause of contamination in an oxygen system
+is moisture. In very cold weather, the small amount of
+moisture contained in the breathing oxygen can condense.
+With repeated charging, a significant amount of moisture
+may collect. Additionally, systems that are opened contain
+the moisture from the air that has entered. Damp charging
+equipment, or poor refill procedures, can also introduce water
+into the system. Always follow manufacturer’s instructions
+when performing maintenance, refilling, or purging an
+oxygen system.
+Cumulative condensation in an oxygen system cannot
+be entirely avoided. Purging is needed periodically. The
+procedure for purging may vary somewhat with each aircraft
+model. Generally speaking, oxygen is run through a sound
+oxygen system for a number of minutes at a given pressure
+to perform the purging. This can be as little as 10 minutes at
+normal delivery pressure. Other systems may require up to
+30 minutes of flow at an elevated pressure. Regardless, the
+removal of contaminants and the resaturation of the inside
+of the system with oxygen is the basis for purging. It is
+acceptable to use nitrogen, or dry air, to blow through lines
+16-18
+

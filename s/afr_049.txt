@@ -1,0 +1,1632 @@
+FAA-H-8083-31B Airframe Handbook, chapter 13 (Aircraft Landing Gear Systems), PDF pages 757-777
+
+===== PDF PAGE 757 =====
+tool or place a small amount of the approved grease on the
+palm of the hand. Grasp the bearing with the other hands
+and press the larger diameter side of the bearing into the
+grease to force it completely through the space between
+the bearing rollers and the cone. Gradually turn the bearing
+so that all of the rollers have been completely packed with
+grease. [Figure 13-46]
+Landing Gear Rigging & Adjustment
+Occasionally, it becomes necessary to adjust the landing
+gear switches, doors, linkages, latches, and locks to ensure
+proper operation of the landing gear system and doors.
+When landing gear actuating cylinders are replaced and
+when length adjustments are made, over-travel must be
+checked. Over-travel is the action of the cylinder piston
+beyond the movement necessary for landing gear extension
+and retraction. The additional action operates the landing
+gear latch mechanisms.
+A wide variety of aircraft types and landing gear system
+designs result in procedures for rigging and adjustment
+that vary from aircraft to aircraft. Uplock and downlock
+clearances, linkage adjustments, limit switch adjustments,
+and other adjustments must be confirmed by the technician
+in the manufacturer’s maintenance data before taking action.
+The following examples of various adjustments are given
+to convey concepts, rather than actual procedures for any
+particular aircraft.
+
+Adjusting Landing Gear Latches
+The adjustment of various latches is a primary concern to
+the aircraft technician. Latches are generally used in landing
+gear systems to hold the gear up or down and/or to hold the
+gear doors open or closed. Despite numerous variations, all
+latches are designed to do the same thing. They must operate
+automatically at the proper time, and they must hold the unit
+in the desired position. A typical landing gear door latch is
+
+examined below. Many gear up latches operate similarly.
+Clearances and dimensional measurements of rollers, shafts,
+bushings, pins, bolts, etc., are common.
+On this particular aircraft, the landing gear door is held
+closed by two latches. To have the door locked securely,
+both latches must grip and hold the door tightly against the
+aircraft structure. The principle components of each latch
+mechanism are shown in Figure 13-47. They are a hydraulic
+latch cylinder, a latch hook, a spring-loaded crank-and-lever
+linkage with sector, and the latch roller.
+When hydraulic pressure is applied, the cylinder operates
+the linkage to engage (or disengage) the hook with (or from)
+the roller on the gear door. In the gear-down sequence, the
+hook is disengaged by the spring load on the linkage. In the
+gear-up sequence, when the closing door is in contact with
+the latch hook, the cylinder operates the linkage to engage
+the latch hook with the door roller. Cables on the landing
+gear emergency extension system are connected to the sector
+to permit emergency release of the latch rollers. An uplock
+switch is installed on, and actuated by, each latch to provide
+a gear up indication in the flight deck.
+With the gear up and the door latched, inspect the latch
+roller for proper clearance as shown in Figure 13-48A. On
+this installation, the required clearance is 1⁄8 ± 3⁄32-inch. If the
+roller is not within tolerance, it may be adjusted by loosening
+its mounting bolts and raising or lowering the latch roller
+support. This is accomplished via the elongated holes and
+serrated locking surfaces of the latch roller support and
+serrated plate. [Figure 13-48B]
+
+Gear Door Clearances
+Landing gear doors have specific allowable clearances
+between the doors and the aircraft structure that must be
+maintained. Adjustments are typically made at the hinge
+
+Figure 13-46. Packing grease into a clean, dry bearing can be done by hand in the absence of a bearing grease tool. Press the bearing
+into the grease on the palm of the hand until it passes completely through the gap between the rollers and the inner race all the way
+around the bearing.
+
+13-26
+
+===== PDF PAGE 758 =====
+Uplock switch
+
+Forward latch mechanism
+
+FWD
+
+Cylinder latch
+
+Up line
+Down line
+Latch cylinder
+Emergency release cable
+
+Sector
+
+Aft latch mechanism
+
+Sector
+
+Latch hook
+
+Latch roller
+
+Door
+
+Figure 13-47. An example of a main landing gear door latch mechanism.
+
+installations or to the connecting links that support and move
+the door. On some installations, door hinges are adjusted by
+placing a serrated hinge with an elongated mounting hole in
+the proper position in a hinge support fitting. Using serrated
+washers, the mounting bolt is torqued to hold the position.
+Figure 13-49 illustrates this type of mounting, which allows
+linear adjustments via the elongated hole.
+The distance landing gear doors open or close may depend
+upon the length of the door linkage. Rod end adjustments
+are common to fit the door. Adjustments to door stops are
+also a possibility. The manufacturer’s maintenance manual
+specifies the length of the linkages and gives procedure for
+adjusting the stops. Follow all specified procedures that are
+accomplished with the aircraft on jacks and the gear retracted.
+Doors that are too tight can cause structural damage. Doors
+that are too loose catch wind in flight, which could cause
+wear and potential failure, as well as parasite drag.
+
+Drag & Side Brace Adjustment
+Each landing gear has specific adjustments and tolerances per
+the manufacturer that permit the gear to function as intended.
+A common geometry used to lock a landing gear in the down
+position involves a collapsible side brace that is extended and
+
+held in an over-center position through the use of a locking
+link. Springs and actuators may also contribute to the motion
+of the linkage. Adjustments and tests are needed to ensure
+proper operation.
+Figure 13-50 illustrates a landing gear on a small aircraft
+with such a side brace. It consists of an upper and lower
+link hinged at the center that permits the brace to jackknife
+during retraction of the gear. The upper end pivots on a
+trunnion attached to structure in the wheel well overhead.
+The lower end is attached to the shock strut. A locking
+link is incorporated between the upper end of the shock
+strut and the lower drag link. It is adjustable to provide the
+correct amount of over-center travel of the side brace links.
+This locks the gear securely in the down position to prevent
+collapse of the gear.
+To adjust the over-center position of the side brace locking
+link, the aircraft must be placed on jacks. With the landing
+gear in the down position, the lock link end fitting is adjusted
+so that the side brace links are held firmly over-center. When
+the gear is held inboard six inches from the down and locked
+position and then released, the gear must free fall into the
+locked down position.
+13-27
+
+===== PDF PAGE 759 =====
+A
+
+B
+
+Latched roller support (serrated)
+Latch cylinder
+
+Latch cylinder
+
+Latch hook (latched position)
+
+Latch hook
+(latched position)
+
+Latch roller (on door)
+
+Latch roller
+(on door)
+
+Elongated holes
+Plate (serrated)
+
+1/8 ± 3/32 inch
+Latch Roller Clearance
+
+Latch Roller Support Adjustment
+
+Figure 13-48. Main landing gear door latch roller clearance measurement and adjustment.
+
+Fairing door hinge
+
+Hinge support fitting
+Bushing
+
+Serrated washers
+Nut
+
+Attach bolt
+
+Figure 13-49. An adjustable door hinge installation for setting
+door clearance.
+
+In addition to the amount the side brace links are adjusted
+to travel over center, down lock spring tension must also be
+checked. This is accomplished with a spring scale. The tension
+on this particular gear is between 40 and 60 pounds. Check the
+manufacturer’s maintenance data for each aircraft to ensure
+correct tensions exist and proper adjustments are made.
+
+Landing Gear Retraction Test
+The proper functioning of a landing gear system and
+components can be checked by performing a landing gear
+retraction test. This is also known as swinging the gear. The
+aircraft is properly supported on jacks for this check, and
+
+the landing gear should be cleaned and lubricated if needed.
+The gear is then raised and lowered as though the aircraft
+were in flight while a close visual inspection is performed.
+All parts of the system should be observed for security and
+proper operation. The emergency back-up extension system
+should be checked whenever swinging the gear.
+Retraction tests are performed at various times, such as
+during annual inspection. Any time a landing gear component
+is replaced that could affect the correct functioning of the
+landing gear system, a retraction test should follow when
+adjustments to landing gear linkages or components that
+affect gear system performance are made. It may be necessary
+to swing the gear after a hard or overweight landing. It is
+also common to swing the gear while attempting to locate
+a malfunction within the system. For all required retraction
+tests and the specific inspection points to check, consult
+the manufacturer’s maintenance manual for the aircraft in
+question as each landing gear system is unique.
+The following is a list of general inspection items to be
+performed while swinging the gear:
+1.
+
+Check the landing gear for proper extension and
+retraction.
+
+2.
+
+Check all switches, lights, and warning devices for
+proper operation.
+13-28
+
+===== PDF PAGE 760 =====
+Door actuator
+Door arm stop
+
+Uplock push-pull tube
+
+Bellcrank
+
+Uplock
+
+B
+
+Push-pull tube
+
+Push-pull tube
+
+Bellcrank
+
+Landing gear actuator
+
+Gear strut
+
+Bellcrank
+
+Torque tube
+Side link
+
+A
+
+Side brace lock link
+
+A
+
+B
+
+Spring scale
+
+.22 ± .03 inches over center
+
+Adjustable link
+Figure 13-50. Over-center adjustments on a small aircraft main gear.
+
+3.
+
+Check the landing gear doors for clearance and
+freedom from binding.
+
+4.
+
+Check landing gear linkage for proper operation,
+adjustment, and general condition.
+
+5.
+
+Check the alternate/emergency extension or retraction
+systems for proper operation.
+
+6.
+
+Investigate any unusual sounds, such as those caused
+by rubbing, binding, chafing, or vibration.
+
+Steering rod from rudder pedal
+
+Nose Wheel Steering Systems
+The nose wheel on most aircraft is steerable from the flight
+deck via a nose wheel steering system. This allows the aircraft
+to be directed during ground operation. A few simple aircraft
+have nose wheel assemblies that caster. Such aircraft are
+steered during taxi by differential braking.
+Small Aircraft
+Most small aircraft have steering capabilities through the use
+of a simple system of mechanical linkages connected to the
+rudder pedals. Push-pull tubes are connected to pedal horns
+on the lower strut cylinder. As the pedals are depressed, the
+movement is transferred to the strut piston axle and wheel
+assembly which rotates to the left or right. [Figure 13-51]
+
+Figure 13-51. Nose wheel steering on a light aircraft often uses a
+
+push-pull rod system connected to the rudder pedals.
+
+Large Aircraft
+Due to their mass and the need for positive control, large
+aircraft utilize a power source for nose wheel steering.
+Hydraulic power predominates. There are many different
+designs for large aircraft nose steering systems. Most share
+similar characteristics and components. Control of the
+steering is from the flight deck through the use of a small
+wheel, tiller, or joystick typically mounted on the left side
+wall. Switching the system on and off is possible on some
+13-29
+
+===== PDF PAGE 761 =====
+aircraft. Mechanical, electrical, or hydraulic connections
+transmit the controller input movement to a steering control
+unit. The control unit is a hydraulic metering or control
+valve. It directs hydraulic fluid under pressure to one or two
+actuators designed with various linkages to rotate the lower
+strut. An accumulator and relief valve, or similar pressurizing
+assembly, keeps fluid in the actuators and system under
+pressure at all times. This permits the steering actuating
+cylinders to also act as shimmy dampers. A follow-up
+mechanism consists of various gears, cables, rods, drums,
+and/or bell-crank, etc. It returns the metering valve to a
+neutral position once the steering angle has been reached.
+Many systems incorporate an input subsystem from the
+rudder pedals for small degrees of turns made while directing
+the aircraft at high speed during takeoff and landing. Safety
+valves are typical in all systems to relieve pressure during
+hydraulic failure so the nose wheel can swivel.
+The following explanation accompanies Figures 13-52,
+13-53, and 13-54, which illustrate a large aircraft nose
+wheel steering system and components. These figures and
+explanation are for instructional purposes only.
+The nose wheel steering wheel connects through a shaft to a
+steering drum located inside the flight deck control pedestal.
+The rotation of this drum transmits the steering signal by means
+of cables and pulleys to the control drum of the differential
+assembly. Movement of the differential assembly is transmitted
+by the differential link to the metering valve assembly where it
+moves the selector valve to the selected position. This provides
+the hydraulic power for turning the nose gear.
+As shown in Figure 13-53, pressure from the aircraft
+hydraulic system is directed through the open safety shutoff
+valve into a line leading to the metering valve. The metering
+valve then routes the pressurized fluid out of port A, through
+the right turn alternating line, and into steering cylinder A.
+This is a one-port cylinder and pressure forces the piston
+to begin extension. Since the rod of this piston connects to
+the nose steering spindle on the nose gear shock strut which
+pivots at point X, the extension of the piston turns the steering
+spindle gradually toward the right. As the nose wheel turns,
+fluid is forced out of steering cylinder B through the left turn
+alternating line and into port B of the metering valve. The
+metering valve directs this return fluid into a compensator
+that routes the fluid into the aircraft hydraulic system return
+manifold.
+As described, hydraulic pressure starts the nose gear turning.
+However, the gear should not be turned too far. The nose
+gear steering system contains devices to stop the gear at the
+selected angle of turn and hold it there. This is accomplished
+with follow-up linkage. As stated, the nose gear is turned
+
+by the steering spindle as the piston of cylinder A extends.
+The rear of the spindle contains gear teeth that mesh with
+a gear on the bottom of the orifice rod. [Figure 13-52] As
+the nose gear and spindle turn, the orifice rod also turns but
+in the opposite direction. This rotation is transmitted by the
+two sections of the orifice rod to the scissor follow-up links
+located at the top of the nose gear strut. As the follow-up
+links return, they rotate the connected follow-up drum,
+which transmits the movement by cables and pulleys to the
+differential assembly. Operation of the differential assembly
+causes the differential arm and links to move the metering
+valve back toward the neutral position.
+The metering valve and the compensator unit of the nose
+wheel steering system are illustrated in Figure 13-54. The
+compensator unit system keeps fluid in the steering cylinders
+pressurized at all times. This hydraulic unit consists of a
+three-port housing that encloses a spring-loaded piston and
+poppet. The left port is an air vent that prevents trapped air
+at the rear of the piston from interfering with the movement
+of the piston. The second port located at the top of the
+compensator connects through a line to the metering valve
+return port. The third port is located at the right side of the
+compensator. This port connects to the hydraulic system
+return manifold. It routes the steering system return fluid
+into the manifold when the poppet valve is open.
+The compensator poppet opens when pressure acting on the
+piston becomes high enough to compress the spring. In this
+system, 100 psi is required. Therefore, fluid in the metering
+valve return line is contained under that pressure. The 100-psi
+pressure also exists throughout the metering valve and
+back through the cylinder return lines. This pressurizes the
+steering cylinders at all times and permits them to function
+as shimmy dampers.
+Shimmy Dampers
+Torque links attached from the stationary upper cylinder
+of a nose wheel strut to the bottom moveable cylinder or
+piston of the strut are not sufficient to prevent most nose gear
+from the tendency to oscillate rapidly, or shimmy, at certain
+speeds. This vibration must be controlled through the use of
+a shimmy damper. A shimmy damper controls nose wheel
+shimmy through hydraulic damping. The damper can be built
+integrally within the nose gear, but most often it is an external
+unit attached between the upper and lower shock struts. It is
+active during all phases of ground operation while permitting
+the nose gear steering system to function normally.
+
+Steering Damper
+As mentioned above, large aircraft with hydraulic steering
+hold pressure in the steering cylinders to provide the required
+damping. This is known as steering damping. Some older
+13-30
+
+===== PDF PAGE 762 =====
+Steering emergency release switch
+Steering wheel
+Steering drum
+
+Metering valve
+Differential link
+
+Compensator
+Pedestal
+
+Differential arm
+Differential assembly
+
+Pulleys
+
+Steering cables
+
+Follow-up cables
+
+Pulleys
+
+Follow up drum
+Safety shutoff valve
+
+Orifice rod
+
+Centering cams
+
+Steering cylinder “A”
+
+Steering spindle
+Point X
+
+Steering cylinder “B”
+
+Gear yoke
+
+Figure 13-52. Example of a large aircraft hydraulic nose wheel steering system with hydraulic and mechanical units.
+
+13-31
+
+===== PDF PAGE 763 =====
+Pressurized fluid
+Return fluid
+
+Orifice rod
+
+Safety shutoff valve
+
+Nose-steering spindle
+
+Steering cylinder “B”
+
+Poppet
+
+Spring
+
+Emergency bypass valve
+
+From hydraulic
+system pressure
+manifold
+
+Metering valve
+Return port
+To hydraulic system
+return manifold
+Compensator
+
+Point “X”
+
+Port “A”
+
+Port “B”
+
+Steering cylinder “A”
+
+Figure 13-53. Hydraulic system flow diagram of large aircraft nose wheel steering system.
+
+transport category aircraft have steering dampers that are
+vane-type. Nevertheless, they function to steer the nose
+wheel, as well as to dampen vibration.
+
+Piston-Type
+Aircraft not equipped with hydraulic nose wheel steering
+utilize an additional external shimmy damper unit. The case
+is attached firmly to the upper shock strut cylinder. The shaft
+is attached to the lower shock strut cylinder and to a piston
+inside the shimmy damper. As the lower strut cylinder tries to
+shimmy, hydraulic fluid is forced through a bleed hole in the
+piston. The restricted flow through the bleed hole dampens
+the oscillation. [Figure 13-55]
+
+A piston-type shimmy damper may contain a fill port to
+add fluid or it may be a sealed unit. Regardless, the unit
+should be checked for leaks regularly. To ensure proper
+operation, a piston-type hydraulic shimmy damper should
+be filled to capacity.
+
+Vane-Type
+A vane-type shimmy damper is sometime used.[Figure 13-56]
+It uses fluid chambers created by the vanes separated by a
+valve orifice in a center shaft. As the nose gear tries to
+oscillate, vanes rotate to change the size of internal chambers
+filled with fluid. The chamber size can only change as fast
+
+From pressure manifold
+Drilled passage
+Return port
+
+From
+cylinder “A”
+
+From
+cylinder “B”
+
+Filler plug
+
+Metering valve
+Air vent
+
+Spring
+
+Piston
+
+Compensator
+
+Popper
+
+To hydraulic
+return
+manifold
+
+Housing
+Figure 13-54. Hydraulic system flow diagram of large aircraft nose
+
+wheel steering system.
+
+Piston
+
+Bleed hole
+Figure 13-55. A shimmy damper on the nose strut of a small aircraft.
+The diagram shows the basic internal arrangement of most shimmy
+dampers. The damper in the photo is essentially the same except the
+piston shaft extends through both ends of the damper cylinder body.
+
+13-32
+
+===== PDF PAGE 764 =====
+Indicator rod connected to replenishing piston
+Replenishing piston
+Spring
+Replenishing chamber
+Abutment and valve assembly
+
+Rotating vane
+
+Fluid port
+Filler cap
+
+Replenishing check valve
+
+Abutment flange
+Rotating vane
+
+Valve orifice
+
+Key
+Fluid port
+
+A
+
+B
+
+B
+
+A
+
+Wing shaft
+
+Hollow dowel pin
+
+Dowel pin
+
+Packing spring
+
+Hydraulic seal
+
+Wing shaft packing
+Mounting flange
+
+Wing shaft
+
+Spring retainer
+Figure 13-56. A typical vane-type shimmy damper.
+
+as the fluid can be forced through the orifice. Thus, the gear
+oscillation is dissipated by the rate of fluid flow. An internal
+spring-loaded replenishing reservoir keeps pressurized fluid
+in the working chambers and thermal compensation of the
+orifice size is included. As with the piston type shimmy
+damper, the vane-type damper should be inspected for leaks
+and kept serviced. A fluid level indicator protrudes from the
+reservoir end of the unit.
+
+Non-Hydraulic Shimmy Damper
+Non-hydraulic shimmy dampers are currently certified
+for many aircraft. They look and fit similar to piston-type
+shimmy dampers but contain no fluid inside. In place of the
+metal piston, a rubber piston presses out against the inner
+diameter of the damper housing when the shimmy motion
+is received through the shaft. The rubber piston rides on a
+very thin film of grease and the rubbing action between the
+piston and the housing provides the damping.
+This is known as surface-effect damping. The materials used
+to construct this type of shimmy damper provide a long
+service life without the need to ever add fluid to the unit.
+[Figure 13-57]
+
+Aircraft Wheels
+Aircraft wheels are an important component of a landing
+gear system. With tires mounted upon them, they support the
+entire weight of the aircraft during taxi, takeoff, and landing.
+The typical aircraft wheel is lightweight, strong, and made
+
+Figure 13-57. A non-hydraulic shimmy damper uses a rubber piston
+
+with lubricant that dampens via motion against the inner diameter
+of the unit housing.
+
+from aluminum alloy. Some magnesium alloy wheels also
+exist. Early aircraft wheels were of single piece construction,
+much the same as the modern automobile wheel. As aircraft
+tires were improved for the purpose they serve, they were
+made stiffer to better absorb the forces of landing without
+blowing out or separating from the rim. Stretching such
+a tire over a single piece wheel rim was not possible. A
+two-piece wheel was developed. Early two-piece aircraft
+wheels were essentially one-piece wheels with a removable
+rim to allow mounting access for the tire. These are still
+found on older aircraft. [Figure 13-58] Later, wheels with
+two nearly symmetrical halves were developed. Nearly all
+modern aircraft wheels are of this two-piece construction.
+[Figures 13-59 and 13-60]
+
+13-33
+
+===== PDF PAGE 765 =====
+Removable flange
+Bearing rollers
+
+Snap ring
+
+Flat base
+
+Grease retainer
+
+Fairing disc
+Drop center
+
+Fairing retaining screw
+
+Lockring
+
+Removable flange
+
+Wheel casting
+
+Bearing rollers
+
+Drop center wheel
+
+Flat base wheel
+
+Figure 13-58. Removable flange wheels found on older aircraft are either drop center or flat base types.
+
+to fit slots in the perimeter of the brake rotor. Some small
+aircraft wheels have provisions for bolting the brake rotor
+to the inner wheel half. Regardless, the inner wheel half
+is distinguishable from the outer wheel half by its brake
+mounting feature. [Figure 13-61]
+
+Figure 13-59. Two-piece split-wheel aircraft wheels found on
+
+modern light aircraft.
+
+Wheel Construction
+The typical modern two-piece aircraft wheel is cast or forged
+from aluminum or magnesium alloy. The halves are bolted
+together and contain a groove at the mating surface for an
+o-ring, which seals the rim since most modern aircraft utilize
+tubeless tires. The bead seat area of a wheel is where the tire
+actually contacts the wheel. It is the critical area that accepts
+the significant tensile loads from the tire during landing. To
+strengthen this area during manufacturing, the bead seat
+area is typically rolled to prestress it with a compressive
+stress load.
+
+Inboard Wheel Half
+Wheel halves are not identical. The primary reason for this is
+that the inboard wheel half must have a means for accepting
+and driving the rotor(s) of the aircraft brakes that are mounted
+on both main wheels. Tangs on the rotor are fitted into steel
+reinforced keyways on many wheels. Other wheels have
+steel keys bolted to the inner wheel halves. These are made
+
+Both wheel halves contain a bearing cavity formed into the
+center that accepts the polished steel bearing cup, tapered
+roller bearing, and grease retainer of a typical wheel
+bearing set-up. A groove may also be machined to accept a
+retaining clip to hold the bearing assembly in place when the
+wheel assembly is removed. The wheel bearings are a very
+important part of the wheel assembly and are discussed in a
+later section of this chapter.
+The inner wheel half of a wheel used on a high-performance
+aircraft is likely to have one or more thermal plugs.
+[Figure 13-62] During heavy braking, temperatures can
+become so great that tire temperature and pressure rise to a
+level resulting in explosion of the wheel and tire assembly.
+The thermal plug core is filled with a low melting point
+alloy. Before tire and wheel temperatures reach the point of
+explosion, the core melts and deflates the tire. The tire must
+be removed from service, and the wheel must be inspected in
+accordance with the wheel manufacturer’s instructions before
+return to service if a thermal plug melts. Adjacent wheel
+assemblies should also be inspected for signs of damage. A
+heat shield is commonly installed under the inserts designed
+to engage the brake rotor to assist in protecting the wheel and
+tire assembly from overheating.
+An overinflation safety plug may also be installed in the
+inner wheel half. This is designed to rupture and release all
+13-34
+
+===== PDF PAGE 766 =====
+Plug
+
+Inside wheel half
+
+Outside wheel half
+
+D
+
+INB
+
+Heat shield
+
+FW
+
+D
+
+O-ring
+Thermal plug
+
+Inboard wheel half
+Inflation valve
+
+A
+
+B
+
+Brake rotor key
+Inner wheel bearing
+
+Valve extension
+Outer wheel bearing
+
+Axle
+Brake assembly
+
+Transducer
+Tire
+
+Wheel balance weight
+
+Outboard wheel half
+Inboard wheel half
+
+A
+Wheel half tie bolts
+
+Camlocks (8 places)
+Hubcap fairing (outboard wheel only)
+
+B
+O-ring
+
+Bracket
+Valve
+
+Extension
+
+Valve extension assembly
+
+Figure 13-60. Features of a two piece aircraft wheel found on a modern airliner.
+
+of the air in the tire should it be over inflated. The fill valve
+is also often installed in the inner wheel half with the stem
+extending through holes in the outer wheel half to permit
+access for inflation and deflation.
+
+Outboard Wheel Half
+The outboard wheel half bolts to the inboard wheel half to
+make up the wheel assembly upon which the tire is mounted.
+
+The center boss is constructed to receive a bearing cup
+and bearing assembly as it does on the inboard wheel half.
+The outer bearing and end of the axle is capped to prevent
+contaminants from entering this area. Aircraft with anti-skid
+brake systems typically mount the wheel-spin transducer
+here. It is sealed and may also serve as a hub cap. The 737
+outer wheel half illustrated in Figure 13-60 also has a hub
+cap fairing over the entire wheel half. This is to fair it with
+13-35
+
+===== PDF PAGE 767 =====
+Wheel Inspection
+An aircraft wheel assembly is inspected while on the aircraft
+as often as possible. A more detailed inspection and any
+testing or repairs may be accomplished with the wheel
+assembly removed from the aircraft.
+
+On Aircraft Inspection
+The general condition of the aircraft wheel assemblies can
+be inspected while on the aircraft. Any signs of suspected
+damage that may require removal of the wheel assembly from
+the aircraft should be investigated.
+
+Proper Installation
+Figure 13-61. Keys on the inner wheel half of an aircraft wheel used
+
+to engage and rotate the rotors of a disc brake.
+
+Thermal plug
+
+Thermal plug
+Inside wheel half
+
+Outside wheel half
+
+Heat shield
+
+Figure 13-62. Heavy use of the aircraft brakes can cause tire air
+temperature and pressure to rise to a level resulting in explosion
+of the wheel assembly. To alleviate this, thermal plug(s) mounted
+in the inner wheel half of a high performance aircraft wheels are
+made with a fusible core that melts and releases the air from the
+tire before explosion.
+
+the wind since the outer wheel half does not close behind a
+gear door on this aircraft. Hub caps may also be found on
+fixed gear aircraft.
+The outboard wheel half provides a convenient location
+of the valve stem used to inflate and deflate tubeless tires.
+Alternately, it may contain a hole through which a valve
+stem extension may pass from the inner wheel half or the
+valve stem itself may fit through such a hole if a tube-type
+tire is used.
+
+The landing gear area is such a hostile environment that
+the technician should inspect the landing gear including
+the wheels, tires, and brakes whenever possible. Proper
+installation of the wheels should not be taken for granted.
+All wheel tie bolts and nuts must be in place and secure.
+A missing bolt is grounds for removal, and a thorough
+inspection of the wheel halves in accordance with the wheel
+manufacturer’s procedures must be performed due to the
+stresses that may have occurred. The wheel hub dust cap and
+anti-skid sensor should also be secure. The inboard wheel
+half should interface with the brake rotor with no signs of
+chafing or excessive movement. All brake keys on the wheel
+must be present and secure.
+Examine the wheels for cracks, flaked paint, and any
+evidence of overheating. Inspect thermal plugs to ensure
+no sign of the fusible alloy having been melted. Thermal
+plugs that have permitted pressure loss in the tire require
+that the wheel assembly be removed for inspection. All other
+wheels with brakes and thermal plugs should be inspected
+closely while on the aircraft to determine if they too have
+overheated. Each wheel should be observed overall to ensure
+it is not abnormally tilted. Flanges should not be missing any
+pieces, and there should be no areas on the wheel that show
+significant impact damage.
+Axle Nut Torque
+Axle nut torque is of extreme importance on an aircraft wheel
+installation. If the nut is too loose, the bearing and wheel
+assembly may have excessive movement. The bearing cup(s)
+could loosen and spin, which could damage the wheel. There
+could also be impact damage from the bearing rollers which
+leads to bearing failure. [Figure 13-63] An over-torqued axle
+nut prevents the bearing from properly accepting the weight
+load of the aircraft. The bearing spins without sufficient
+lubrication to absorb the heat caused by the higher friction
+level. This too leads to bearing failure. All aircraft axle nuts
+must be installed and torqued in accordance with the airframe
+manufacturer’s maintenance procedures.
+13-36
+
+===== PDF PAGE 768 =====
+tire can create a catastrophic failure that could be lethal to
+the technician. It is also important to let aircraft tires cool
+before removal. Three hours or more is needed for cool
+down. Approach the wheel assembly from the front or rear,
+not broadside. Do not stand in the path of the released air
+and valve core trajectory when removing air from the tire
+as it could seriously injure the technician should it release
+from the valve stem.
+Scalloping
+
+Figure 13-63. Improper loose torque on the axle nut can cause
+
+excessive end play leading to bearing race damage known as
+scalloping. Eventually, this leads to bearing failure.
+
+Off Aircraft Wheel Inspection
+Discrepancies found while inspecting a wheel mounted on
+the aircraft may require further inspection with the wheel
+removed from the aircraft. Other items such as bearing
+condition, can only be performed with the wheel assembly
+removed. A complete inspection of the wheel requires that the
+tire be removed from the wheel rim. Observe the following
+caution when removing a wheel assembly from an aircraft.
+Caution: Deflate the tire before starting the procedure of
+removing the wheel assembly from the aircraft. Wheel
+assemblies have been known to explode while removing the
+axle nut, especially when dealing with high pressure, high
+performance tires. The torque of the nut can be the only
+force holding together a defective wheel or one with broken
+tie bolts. When loosened, the high internal pressure of the
+
+Note: As a precautionary measure, remove only one tire and
+wheel assembly from a pair at a time. This leaves a tire and
+wheel assembly in place should the aircraft fall off its jack,
+resulting in less chance of damage to the aircraft and injury
+to personnel.
+Loosening the Tire from the Wheel Rim
+After inflation and usage, an aircraft tire has a tendency to
+adhere to the wheel, and the bead must be broken to remove
+the tire. There are mechanical and hydraulic presses designed
+for this purpose. In the absence of a device specifically
+made for the job, an arbor press can be used with patience
+working sequentially around the wheel as close as possible
+to the bead. [Figure 13-64] As stated above, there should
+be no air pressure in the tire while it is being pressed off of
+the wheel. Never pry a tire off of the rim with a screwdriver
+or other device. The wheels are relatively soft. Any nick or
+deformation causes a stress concentration that can easily
+lead to wheel failure.
+Disassembly of the Wheel
+Disassembly of the wheel should take place in a clean area on
+a flat surface, such as a table. Remove the wheel bearing first
+and set aside for cleaning and inspecting. The tie bolts can
+then be removed. Do not use an impact tool to disassemble
+the tie bolts. Aircraft wheels are made of relatively soft
+
+Figure 13-64. Tire beads must be broken from the wheel to remove the tire. A mechanical removal tool designed for breaking the bead
+
+is shown in (A); a hydraulic press designed with the capacity for large aircraft wheels is shown in (B); and an arbor press is shown in
+(C). All are tools available to the technician for this purpose.
+
+13-37
+
+===== PDF PAGE 769 =====
+aluminum and magnesium alloys. They are not designed to
+receive the repeated hammering of an impact tool and will
+be damaged if used.
+Cleaning the Wheel Assembly
+Clean the wheel halves with the solvent recommended by the
+wheel manufacturer. Use of a soft brush helps this process.
+Avoid abrasive techniques, materials, and tools, such as
+scrapers, capable of removing the finish off of the wheel.
+Corrosion can quickly form and weaken the wheel if the
+finish is missing in an area. When the wheels are clean, they
+can be dried with compressed air.
+Cleaning the Wheel Bearings
+The bearings should be removed from the wheel to be
+cleaned with the recommended solvent, such as varsol,
+naptha, or Stoddard® solvent. Soaking the bearings in
+solvent is acceptable to loosen any dried-on grease. Bearings
+are brushed clean with a soft bristle brush and dried with
+compressed air. Never rotate the bearing while drying with
+compressed air. The high-speed metal to metal contact of
+the bearing rollers with the race causes heat that damages
+the metal surfaces. The bearing parts could also cause
+injury should the bearing come apart. Always avoid steam
+cleaning of bearings. The surface finish of the metals will be
+compromised leading to early failure.
+Wheel Bearing Inspection
+Once cleaned, the wheel bearing is inspected. There are
+many unacceptable conditions of the bearing and bearing
+cup, which are grounds for rejection. In fact, nearly any
+flaw detected in a bearing assembly is likely to be grounds
+for replacement.
+
+Figure 13-65. Galling is caused by rubbing of mating surfaces. The
+
+metal gets so hot it welds, and the surface metal is destroyed as the
+motion continues and pulls the metal apart in the direction of motion.
+
+Figure 13-66. Spalling is a chipped away portion of the hardened
+
+surface of a bearing roller or race.
+
+Common conditions of a bearing that are cause for
+rejection are as follows:
+Galling—caused by rubbing of mating surfaces. The metal
+gets so hot it welds, and the surface metal is destroyed as the
+motion continues and pulls the metal apart in the direction
+of motion. [Figure 13-65]
+Spalling—a chipped away portion of the hardened surface
+of a bearing roller or race. [Figure 13-66]
+Overheating—caused by lack of sufficient lubrication results
+in a bluish tint to the metal surface. The ends of the rollers
+shown were overheated causing the metal to flow and deform,
+as well as discolor. The bearing cup raceway is usually
+discolored as well. [Figure 13-67]
+Brinelling—caused by excessive impact. It appears as
+indentations in the bearing cup raceways. Any static overload
+
+Figure 13-67. Overheating caused by lack of sufficient lubrication
+
+results in a bluish tint to the metal surface. The ends of the rollers
+shown were overheated causing the metal to flow and deform, as
+well as discolor. The bearing cup raceway is usually discolored
+as well.
+
+13-38
+
+===== PDF PAGE 770 =====
+or severe impact can cause true brinelling that leads to
+vibration and premature bearing failure. [Figure 13-68]
+False Brinelling—caused by vibration of the bearing while
+in a static state. Even with a static overload, lubricant
+can be forced from between the rollers and the raceway.
+Submicroscopic particles removed at the points of metal-tometal contact oxidize. They work to remove more particles
+spreading the damage. This is also known as frictional
+corrosion. It can be identified by a rusty coloring of the
+lubricant. [Figure 13-69]
+Staining and surface marks—located on the bearing cup as
+grayish black streaks with the same spacing as the rollers
+and caused by water that has gotten into the bearing. It is the
+first stage of deeper corrosion that follows. [Figure 13-70]
+Etching and corrosion—caused when water and the damage
+caused by water penetrates the surface treatment of the
+bearing element. It appears as a reddish/brown discoloration.
+[Figure 13-71]
+
+Figure 13-69. False brinelling is caused by vibration of the
+
+bearing while in a static state. Even with a static overload, it can
+force the lubricant from between the rollers and the raceway.
+Submicroscopic particles removed at the points of metal-to-metal
+contact oxidize. They work to remove more particles spreading
+the damage. This is also known as frictional corrosion. It can be
+identified by a rusty coloring of the lubricant.
+
+Bruising—caused by fine particle contamination possibly
+from a bad seal or improper maintenance of bearing
+cleanliness. It leaves a less than smooth surface on the bearing
+cup. [Figure 13-72]
+The bearing cup does not require removal for inspection;
+however, it must be firmly seated in the wheel half boss.
+There should be no evidence that a cup is loose or able to
+spin. [Figure 13-73] The cup is usually removed by heating
+the wheel in a controlled oven and pressing it out or tapping
+it out with a non-metallic drift. The installation procedure
+is similar. The wheel is heated, and the cup is cooled with
+dry ice before it is tapped into place with a non-metallic
+hammer or drift. The outside of the race is often sprayed with
+
+Figure 13-70. Staining and surface marks on the bearing cup that
+
+are grayish black streaks with the same spacing as the rollers are
+caused by water that has gotten into the bearing. It is the first stage
+of deeper corrosion that will follow.
+
+Figure 13-68. Brinelling is caused by excessive impact. It appears
+
+as indentations in the bearing cup raceways. Any static overload
+or severe impact can cause true brinelling, which leads to vibration
+and premature bearing failure.
+
+Figure 13-71. Etching and corrosion is caused when water, and
+
+the damage caused by water, penetrates the surface treatment of
+the bearing element. It appears as a reddish/brown discoloration.
+
+13-39
+
+===== PDF PAGE 771 =====
+A pressure bearing lubricating tool
+
+Figure 13-72. Bruising is caused by fine particle contamination
+possibly from a bad seal or improper maintenance of bearing
+cleanliness. It leaves a less than smooth surface on the bearing cup.
+
+Figure 13-73. Bearing cups should be tight in the wheel boss and
+
+should never rotate. The outside of a bearing cup that was spinning
+while installed in the wheel is shown.
+
+primer before insertion. Consult the wheel manufacturer’s
+maintenance manual for specific instructions.
+Bearing Handling & Lubrication
+Handling of bearings is of the utmost importance.
+Contamination, moisture, and vibration, even while the
+bearing is in a static state, can ruin a bearing. Avoid conditions
+where these may affect bearings and be sure to install
+and torque bearings into place according manufacturer’s
+instructions.
+Proper lubrication is a partial deterrent to negative
+environmental impacts on a bearing. Use the lubricant
+recommended by the manufacturer. Use of a pressure bearing
+packing tool or adapter is also recommended as the best
+method to remove any contaminants from inside the bearing
+that may have remained after cleaning. [Figure 13-74]
+Inspection of the Wheel Halves
+A thorough visual inspection of each wheel half should
+be conducted for discrepancies specified in the wheel
+
+Figure 13-74. A pressure bearing lubricating tool.
+
+manufacturer’s maintenance data. Use of a magnifying glass
+is recommended. Corrosion is one of the most common
+problems encountered while inspecting wheels. Locations
+where moisture is trapped should be checked closely. It
+is possible to dress out some corrosion according to the
+manufacturer’s instructions. An approved protective surface
+treatment and finish must be applied before returning the
+wheel to service. Corrosion beyond stated limits is cause for
+rejection of the wheel.
+In addition to corrosion, cracks in certain areas of the wheel
+are particularly prevalent. One such area is the bead seat area.
+[Figure 13-75] The high stress of landing is transferred to the
+wheel by the tire in this contact area. Hard landings produce
+distortion or cracks that are very difficult to detect. This is
+a concern on all wheels and is most problematic in highpressure, forged wheels. Dye penetrant inspection is generally
+ineffective when checking for cracks in the bead area. There
+is a tendency for cracks to close up tightly once the tire is
+dismounted, and the stress is removed from the metal. Eddy
+13-40
+
+===== PDF PAGE 772 =====
+Key & Key Screw Inspection
+On most aircraft inner wheel halves, keys are screwed or
+bolted to the wheel to drive the brake disc(s). The drive keys
+are subject to extreme forces when the brakes are applied.
+As mentioned, there should be no movement between the
+wheel and the keys. The bolts should be checked for security,
+and the area around the keys should be inspected for cracks.
+There is also a limitation on how worn the keys can be since
+too much wear allows excessive movement. The wheel
+manufacturer’s maintenance instructions should be used to
+perform a complete inspection of this critical area.
+
+Bead seat area
+
+Figure 13-75. The bead seat areas of a light aircraft wheel set.
+Eddy current testing for cracks in the bead seat area is common.
+
+current inspection of the bead seat area is required. Follow
+the wheel manufacturer’s instruction when performing the
+eddy current check.
+The wheel brake disc drive key area is another area in which
+cracks are common. The forces experienced when the keys
+drive the disc against the stopping force of the brakes are
+high. Generally, a dye penetrant test is sufficient to reveal
+cracks in this area. All drive keys should be secure with no
+movement possible. No corrosion is permitted in this area.
+[Figure 13-76]
+Wheel Tie Bolt Inspection
+Wheel half tie bolts are under great stress while in service and
+require inspection. The tie bolts stretch and change dimension
+usually at the threads and under the bolt head. These are
+areas where cracks are most common. Magnetic particle
+inspection can reveal these cracks. Follow the maintenance
+manual procedures for inspecting tie bolts.
+
+Figure 13-76. Inspection for cracks in the wheel disc drive key area
+
+is performed with dye penetrant on many wheels.
+
+Fusible Plug Inspection
+Fusible plugs or thermal plugs must be inspected visually.
+These threaded plugs have a core that melts at a lower
+temperature than the outer part of the plug. This is to release
+air from the tire should the temperature rise to a dangerous
+level. A close inspection should reveal whether any core
+has experienced deformation that might be due to high
+temperature. If detected, all thermal plugs in the wheel should
+be replaced with new plugs. [Figure 13-77]
+Balance Weights
+The balance of an aircraft wheel assembly is important. When
+manufactured, each wheel set is statically balanced. Weights
+are added to accomplish this if needed. They are a permanent
+part of the wheel assembly and must be installed to use the
+wheel. The balance weights are bolted to the wheel halves
+and can be removed when cleaning and inspecting the wheel.
+They must be re-fastened in their original position. When a
+tire is mounted to a wheel, balancing of the wheel and tire
+assembly may require that additional weights be added. These
+are usually installed around the circumference of the outside
+of the wheel and should not be taken as substitutes for the
+factory wheel set balance weights. [Figure 13-78]
+
+Figure 13-77. Visually inspect the core of a thermal or fusible plug
+
+for deformation associated with heat exposure. Replace all of the
+plugs if any appear to have begun to deform.
+
+13-41
+
+===== PDF PAGE 773 =====
+disc brake system. Single, dual, and multiple disc brakes are
+common types of brakes. Segmented rotor brakes are used
+on large aircraft. Expander tube brakes are found on older
+large aircraft. The use of carbon discs is increasing in the
+modern aviation fleet.
+
+Balance weights
+
+Outboard wheel half
+
+Single Disc Brakes
+
+Inboard wheel half
+
+Figure 13-78. Two piece aircraft wheels are statically balanced
+when manufactured and may include weights attached to each wheel
+half that must stay with the wheel during its entire serviceable life.
+
+Aircraft Brakes
+Very early aircraft have no brake system to slow and stop the
+aircraft while it is on the ground. Instead, they rely on slow
+speeds, soft airfield surfaces, and the friction developed by
+the tail skid to reduce speed during ground operation. Brake
+systems designed for aircraft became common after World
+War I as the speed and complexity of aircraft increased,
+and the use of smooth, paved runway surfaces proliferated.
+All modern aircraft are equipped with brakes. Their proper
+functioning is relied upon for safe operation of the aircraft
+on the ground. The brakes slow the aircraft and stop it in a
+reasonable amount of time. They hold the aircraft stationary
+during engine run-up and, in many cases, steer the aircraft
+during taxi. On most aircraft, each of the main wheels is
+equipped with a brake unit. The nose wheel or tail wheel
+does not have a brake.
+In the typical brake system, mechanical and/or hydraulic
+linkages to the rudder pedals allow the pilot to control the
+brakes. Pushing on the top of the right rudder pedal activates
+the brake on the right main wheel(s) and pushing on the top
+of the left rudder pedal operates the brake on the left main
+wheel(s). The basic operation of brakes involves converting
+the kinetic energy of motion into heat energy through the
+creation of friction. A great amount of heat is developed
+and forces on the brake system components are demanding.
+Proper adjustment, inspection, and maintenance of the brakes
+is essential for effective operation.
+Types & Construction of Aircraft Brakes
+Modern aircraft typically use disc brakes. The disc rotates
+with the turning wheel assembly while a stationary caliper
+resists the rotation by causing friction against the disc when
+the brakes are applied. The size, weight, and landing speed
+of the aircraft influence the design and complexity of the
+
+Small, light aircraft typically achieve effective braking using a
+single disc keyed or bolted to each wheel. As the wheel turns,
+so does the disc. Braking is accomplished by applying friction
+to both sides of the disc from a non-rotating caliper bolted to
+the landing gear axle flange. Pistons in the caliper housing
+under hydraulic pressure force wearable brake pads or linings
+against the disc when the brakes are applied. Hydraulic master
+cylinders connected to the rudder pedals supply the pressure
+when the upper halves of the rudder pedals are pressed.
+Floating Disc Brakes
+A floating disc brake is illustrated in Figure 13-79. A more
+detailed, exploded view of this type of brake is shown in
+Figure 13-80. The caliper straddles the disc. It has three
+cylinders bored through the housing, but on other brakes this
+number may vary. Each cylinder accepts an actuating piston
+assembly comprised mainly of a piston, a return spring, and
+an automatic adjusting pin. Each brake assembly has six
+brake linings or pucks. Three are located on the ends of the
+pistons, which are in the outboard side of the caliper. They
+are designed to move in and out with the pistons and apply
+pressure to the outboard side of the disc. Three more linings
+are located opposite of these pucks on the inboard side of
+the caliper. These linings are stationary.
+The brake disc is keyed to the wheel. It is free to move
+laterally in the key slots. This is known as a floating disc.
+When the brakes are applied, the pistons move out from the
+outboard cylinders and their pucks contact the disc. The disc
+
+Figure 13-79. A single disc brake is a floating-disc, fixed caliper
+
+brake.
+
+13-42
+
+===== PDF PAGE 774 =====
+O-ring packing
+Lining puck
+
+O-ring gasket
+Bleed valve
+
+Brake disc
+
+Cylinder head
+
+Gasket
+
+Washer
+
+Brake housing
+
+Pin grip
+
+Washer
+
+Bleed screw
+
+Adjusting pin nut
+
+Bleeder adapter
+Internal retainer ring
+Spring guide
+
+Gasket
+Screw
+
+O-ring packing
+Gasket
+Fluid inlet bushing
+
+Piston
+
+Adjusting pin
+Brake return spring
+
+Figure 13-80. An exploded view of a single-disc brake assembly found on a light aircraft.
+
+Fluid inlet port
+Wheel
+Key
+Piston
+Return spring
+Automatic adjusting pin or wear indicator pin
+
+Disk
+Pressure plate lining puck
+Backing plate lining puck
+
+Adjusting pin grip
+
+Brake housing
+
+Figure 13-81. A cross-sectional view of a Goodyear single-disc brake caliper illustrates the adjusting pin assembly that doubles as a
+wear indicator.
+
+13-43
+
+===== PDF PAGE 775 =====
+slides slightly in the key slots until the inboard stationary
+pucks also contact the disc. The result is a fairly even amount
+of friction applied to each side of the disc and thus, the
+rotating motion is slowed.
+When brake pressure is released, the return spring in each
+piston assembly forces the piston back away from the disc.
+The spring provides a preset clearance between each puck
+and the disc. The self-adjusting feature of the brake maintains
+the same clearance, regardless of the amount of wear on the
+brake pucks. The adjusting pin on the back of each piston
+moves with the piston through a frictional pin grip. When
+brake pressure is relieved, the force of the return spring is
+sufficient to move the piston back away from the brake disc,
+but not enough to move the adjusting pin held by the friction
+of the pin grip. The piston stops when it contacts the head
+of the adjusting pin. Thus, regardless of the amount of wear,
+the same travel of the piston is required to apply the brake.
+The stem of the pin protruding through the cylinder head
+serves as a wear indicator. The manufacturer’s maintenance
+information states the minimum length of the pin that needs
+to be protruding for the brakes to be considered airworthy.
+[Figure 13-81]
+The brake caliper has the necessary passages machined into
+it to facilitate hydraulic fluid movement and the application
+of pressure when the brakes are utilized. The caliper housing
+also contains a bleed port used by the technician to remove
+unwanted air from the system. Brake bleeding, as it is known,
+should be done in accordance with the manufacturer’s
+maintenance instructions.
+Fixed-Disc Brakes
+Even pressure must be applied to both sides of the brake
+disc to generate the required friction and obtain consistent
+wear properties from the brake linings. The floating
+
+Fixed disc
+Brake lining
+
+Fixed disc
+
+disc accomplishes this as described above. It can also be
+accomplished by bolting the disc rigidly to the wheel and
+allowing the brake caliper and linings to float laterally when
+pressure is applied. This is the design of a common fixed-disc
+brake used on light aircraft. The brake is manufactured by
+the Cleveland Brake Company and is shown in Figure 13-82.
+An exploded detail view of the same type of brake is shown
+in Figure 13-83.
+The fixed-disc, floating-caliper design allows the brake caliper
+and linings to adjust position in relationship to the disc. Linings
+are riveted to the pressure plate and backplate. Two anchor
+bolts that pass through the pressure plate are secured to the
+cylinder assembly. The other ends of the bolts are free to slide
+in and out of bushings in the torque plate, which is bolted to the
+axle flange. The cylinder assembly is bolted to the backplate to
+secure the assembly around the disc. When pressure is applied,
+the caliper and linings center on the disc via the sliding action
+of the anchor bolts in the torque plate bushings. This provides
+equal pressure to both sides of the disc to slow its rotation.
+A unique feature of the Cleveland brake is that the linings
+can be replaced without removing the wheel. Unbolting the
+cylinder assembly from the backplate allows the anchor
+bolts to slide out of the torque plate bushings. The entire
+caliper assembly is then free and provides access to all of
+the components.
+Maintenance requirements on all single disc brake systems
+are similar to those on brake systems of any type. Regular
+inspection for any damage and for wear on the linings and
+discs is required. Replacement of parts worn beyond limits
+is always followed by an operational check. The check is
+performed while taxiing the aircraft. The braking action for
+each main wheel should be equal with equal application of
+pedal pressure. Pedals should be firm, not soft or spongy,
+
+Cylinder assembly
+Torque plate
+
+Pressure
+plate
+
+Figure 13-82. A Cleveland brake on a light aircraft is a fixed-disc brake. It allows the brake caliper to move laterally on anchor bolts
+
+to deliver even pressure to each side of the brake disc.
+
+13-44
+
+===== PDF PAGE 776 =====
+Pressure plate
+
+Rivets (8)
+
+Backplate
+Torque plate
+
+Cylinder assembly
+Pistons
+
+Backplate lining
+
+Bushings
+
+Pressure plate lining
+Anchor bolts (2)
+Figure 13-83. An exploded view of a dual-piston Cleveland brake assembly.
+
+Housing assembly
+Wheel axle
+
+Bleeder screw
+Washer
+Spring
+Self-adjusting pin
+Piston
+Brake lining
+Brake disc
+Brake lining
+Center carrier
+Brake lining
+Brake disc
+Brake lining
+Housing back plate
+
+Figure 13-84. A dual-disc brake is similar to a single-disc brake. It uses a center carrier to hold brake linings against each of the discs.
+
+13-45
+
+===== PDF PAGE 777 =====
+when applied. When pedal pressure is released, the brakes
+should release without any evidence of drag.
+
+Dual-Disc Brakes
+Dual-disc brakes are used on aircraft where a single disc on
+each wheel does not supply sufficient braking friction. Two
+discs are keyed to the wheel instead of one. A center carrier
+is located between the two discs. It contains linings on each
+side that contact each of the discs when the brakes are applied.
+The caliper mounting bolts are long and mount through the
+center carrier, as well as the backplate which bolts to the
+housing assembly. [Figure 13-84]
+
+Multiple-Disc Brakes
+Large, heavy aircraft require the use of multiple-disc brakes.
+Multiple-disc brakes are heavy duty brakes designed for
+use with power brake control valves or power boost master
+cylinders, which is discussed later in this chapter. The brake
+assembly consists of an extended bearing carrier similar to a
+torque tube type unit that bolts to the axle flange. It supports
+the various brake parts, including an annular cylinder and
+piston, a series of steel discs alternating with copper or
+bronze-plated discs, a backplate, and a backplate retainer.
+The steel stators are keyed to the bearing carrier, and the
+copper or bronze plated rotors are keyed to the rotating
+wheel. Hydraulic pressure applied to the piston causes the
+entire stack of stators and rotors to be compressed. This
+creates enormous friction and heat and slows the rotation of
+the wheel. [Figure 13-85]
+As with the single and dual-disc brakes, retracting springs
+return the piston into the housing chamber of the bearing
+carrier when hydraulic pressure is relieved. The hydraulic
+fluid exits the brake to the return line through an automatic
+adjuster. The adjuster traps a predetermined amount
+of fluid in the brakes that is just sufficient to provide
+the correct clearances between the rotors and stators.
+[Figure 13-86] Brake wear is typically measured with a
+wear gauge that is not part of the brake assembly. These
+types of brake are typically found on older transport category
+aircraft. The rotors and stators are relatively thin, only about
+1
+⁄8-inch thick. They do not dissipate heat very well and have
+a tendency to warp.
+
+Segmented Rotor-Disc Brakes
+The large amount of heat generated while slowing the rotation
+of the wheels on large and high-performance aircraft is
+problematic. To better dissipate this heat, segmented rotordisc brakes have been developed. Segmented rotor-disc
+brakes are multiple-disc brakes but of more modern design
+than the type discussed earlier. There are many variations.
+Most feature numerous elements that aid in the control
+
+Automatic adjuster
+O-ring
+Bleeder valve (typical)
+Bearing carrier and sleeve
+
+Retractor spring assembly
+(typical 10 places)
+Felt wiper ring
+Felt wiper ring
+O-ring
+Backup ring
+Annular piston
+Retractor plate
+Nut (typical 10 places)
+
+Flinger ring
+Bearing retaining nut
+Snap ring
+Pressure plate and Insulator
+
+Rotor
+Stator
+Rotor
+Stator
+Rotor
+Stator
+Rotor
+
+Backup plate
+Backup plate retainer
+Locking piece
+Figure 13-85. A multiple disc brake with bearing carrier upon
+
+which the parts of the brake are assembled including an annular
+cylinder and piston assembly that apply pressure evenly to a stack
+of rotors and stators.
+
+and dissipation of heat. Segmented rotor-disc brakes are
+heavy-duty brakes especially adapted for use with the high
+pressure hydraulic systems of power brake systems. Braking
+is accomplished by means of several sets of stationary, high
+friction type brake linings that make contact with rotating
+segments. The rotors are constructed with slots or in sections
+with space between them, which helps dissipate heat and give
+the brake its name. Segmented rotor multiple-disc brakes are
+the standard brake used on high performance and air carrier
+aircraft. An exploded view of one type of segmented rotor
+brake assembly is shown in Figure 13-87.
+The description of a segmented rotor brake is very similar to
+the multiple-disc type brake previously described. The brake
+13-46
+

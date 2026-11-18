@@ -1,0 +1,321 @@
+14 CFR Part 33 (eCFR unofficial compilation, issue date 2026-10-15), file 2 of 3
+
+### § 33.68 Induction system icing.
+Each engine, with all icing protection systems operating, must:
+(a) Operate throughout its flight power range, including the minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of part 25 of this chapter, and Appendix D of this part, and for turboshaft engines in Appendix C of part 29 of this chapter, without the accumulation of ice on the engine components that:
+(1) Adversely affects engine operation or that causes an unacceptable permanent loss of power or thrust or unacceptable increase in engine operating temperature; or
+(2) Results in unacceptable temporary power loss or engine damage; or
+(3) Causes a stall, surge, or flameout or loss of engine controllability. The applicant must account for in-flight ram effects in any critical point analysis or test demonstration of these flight conditions.
+(b) Operate throughout its flight power range, including minimum descent idle rotor speeds achievable in flight, in the icing conditions defined for turbojet, turbofan, and turboprop engines in Appendices C and O of part 25 of this chapter, and for turboshaft engines in Appendix C of part 29 of this chapter. In addition:
+(1) It must be shown through Critical Point Analysis (CPA) that the complete ice envelope has been analyzed, and that the most critical points must be demonstrated by engine test, analysis, or a combination of the two to operate acceptably. Extended flight in critical flight conditions such as hold, descent, approach, climb, and cruise, must be addressed, for the ice conditions defined in these appendices.
+(2) It must be shown by engine test, analysis, or a combination of the two that the engine can operate acceptably for the following durations:
+(i) At engine powers that can sustain level flight: A duration that achieves repetitive, stabilized operation for turbojet, turbofan, and turboprop engines in the icing conditions defined in Appendices C and O of part 25 of this chapter, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter.
+(ii) At engine power below that which can sustain level flight:
+(A) Demonstration in altitude flight simulation test facility: A duration of 10 minutes consistent with a simulated flight descent of 10,000 ft (3 km) in altitude while operating in Continuous Maximum icing conditions defined in Appendix C of part 25 of this chapter for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter, plus 40 percent liquid water content margin, at the critical level of airspeed and air temperature; or
+(B) Demonstration in ground test facility: A duration of 3 cycles of alternating icing exposure corresponding to the liquid water content levels and standard cloud lengths starting in Intermittent Maximum and then in Continuous Maximum icing conditions defined in Appendix C of part 25 of this chapter for turbojet, turbofan, and turboprop engines, and for turboshaft engines in the icing conditions defined in Appendix C of part 29 of this chapter, at the critical level of air temperature.
+(c) In addition to complying with paragraph (b) of this section, the following conditions shown in Table 1 of this section unless replaced by similar CPA test conditions that are more critical or produce an equivalent level of severity, must be demonstrated by an engine test:
+[TABLE]
+[END TABLE]
+(d) Operate at ground idle speed for a minimum of 30 minutes at each of the following icing conditions shown in Table 2 of this section with the available air bleed for icing protection at its critical condition, without adverse effect, followed by acceleration to takeoff power or thrust. During the idle operation, the engine may be run up periodically to a moderate power or thrust setting in a manner acceptable to the Administrator. Analysis may be used to show ambient temperatures below the tested temperature are less critical. The applicant must document any demonstrated run ups and minimum ambient temperature capability in the engine operating manual as mandatory in icing conditions. The applicant must demonstrate, with consideration of expected airport elevations, the following:
+[TABLE]
+[END TABLE]
+(e) Demonstrate by test, analysis, or combination of the two, acceptable operation for turbojet, turbofan, and turboprop engines in mixed phase and ice crystal icing conditions throughout Appendix D of this part, icing envelope throughout its flight power range, including minimum descent idling speeds.
+[Amdt. 33-34, 79 FR 65536, Nov. 4, 2014]
+
+### § 33.69 Ignitions system.
+Each engine must be equipped with an ignition system for starting the engine on the ground and in flight. An electric ignition system must have at least two igniters and two separate secondary electric circuits, except that only one igniter is required for fuel burning augmentation systems.
+[Amdt. 33-6, 39 FR 35466, Oct. 1, 1974]
+
+### § 33.70 Engine life-limited parts.
+By a procedure approved by the FAA, operating limitations must be established which specify the maximum allowable number of flight cycles for each engine life-limited part. Engine life-limited parts are rotor and major static structural parts whose primary failure is likely to result in a hazardous engine effect. Typically, engine life-limited parts include, but are not limited to disks, spacers, hubs, shafts, high-pressure casings, and non-redundant mount components. For the purposes of this section, a hazardous engine effect is any of the conditions listed in § 33.75 of this part. The applicant will establish the integrity of each engine life-limited part by:
+(a) An engineering plan that contains the steps required to ensure each engine life-limited part is withdrawn from service at an approved life before hazardous engine effects can occur. These steps include validated analysis, test, or service experience which ensures that the combination of loads, material properties, environmental influences and operating conditions, including the effects of other engine parts influencing these parameters, are sufficiently well known and predictable so that the operating limitations can be established and maintained for each engine life-limited part. Applicants must perform appropriate damage tolerance assessments to address the potential for failure from material, manufacturing, and service induced anomalies within the approved life of the part. Applicants must publish a list of the life-limited engine parts and the approved life for each part in the Airworthiness Limitations Section of the Instructions for Continued Airworthiness as required by § 33.4 of this part.
+(b) A manufacturing plan that identifies the specific manufacturing constraints necessary to consistently produce each engine life-limited part with the attributes required by the engineering plan.
+(c) A service management plan that defines in-service processes for maintenance and the limitations to repair for each engine life-limited part that will maintain attributes consistent with those required by the engineering plan. These processes and limitations will become part of the Instructions for Continued Airworthiness.
+[Amdt. 33-22, 72 FR 50860, Sept. 4, 2007]
+
+### § 33.71 Lubrication system.
+(a) General. Each lubrication system must function properly in the flight attitudes and atmospheric conditions in which an aircraft is expected to operate.
+(b) Oil strainer or filter. There must be an oil strainer or filter through which all of the engine oil flows. In addition:
+(1) Each strainer or filter required by this paragraph that has a bypass must be constructed and installed so that oil will flow at the normal rate through the rest of the system with the strainer or filter element completely blocked.
+(2) The type and degree of filtering necessary for protection of the engine oil system against foreign particles in the oil must be specified. The applicant must demonstrate that foreign particles passing through the specified filtering means do not impair engine oil system functioning.
+(3) Each strainer or filter required by this paragraph must have the capacity (with respect to operating limitations established for the engine) to ensure that engine oil system functioning is not impaired with the oil contaminated to a degree (with respect to particle size and density) that is greater than that established for the engine in paragraph (b)(2) of this section.
+(4) For each strainer or filter required by this paragraph, except the strainer or filter at the oil tank outlet, there must be means to indicate contamination before it reaches the capacity established in accordance with paragraph (b)(3) of this section.
+(5) Any filter bypass must be designed and constructed so that the release of collected contaminants is minimized by appropriate location of the bypass to ensure that the collected contaminants are not in the bypass flow path.
+(6) Each strainer or filter required by this paragraph that has no bypass, except the strainer or filter at an oil tank outlet or for a scavenge pump, must have provisions for connection with a warning means to warn the pilot of the occurance of contamination of the screen before it reaches the capacity established in accordance with paragraph (b)(3) of this section.
+(7) Each strainer or filter required by this paragraph must be accessible for draining and cleaning.
+(c) Oil tanks. (1) Each oil tank must have an expansion space of not less than 10 percent of the tank capacity.
+(2) It must be impossible to inadvertently fill the oil tank expansion space.
+(3) Each recessed oil tank filler connection that can retain any appreciable quantity of oil must have provision for fitting a drain.
+(4) Each oil tank cap must provide an oil-tight seal. For an applicant seeking eligibility for an engine to be installed on an airplane approved for ETOPS, the oil tank must be designed to prevent a hazardous loss of oil due to an incorrectly installed oil tank cap.
+(5) Each oil tank filler must be marked with the word “oil.”
+(6) Each oil tank must be vented from the top part of the expansion space, with the vent so arranged that condensed water vapor that might freeze and obstruct the line cannot accumulate at any point.
+(7) There must be means to prevent entrance into the oil tank or into any oil tank outlet, of any object that might obstruct the flow of oil through the system.
+(8) There must be a shutoff valve at the outlet of each oil tank, unless the external portion of the oil system (including oil tank supports) is fireproof.
+(9) Each unpressurized oil tank may not leak when subjected to a maximum operating temperature and an internal pressure of 5 p.s.i., and each pressurized oil tank must meet the requirements of § 33.64.
+(10) Leaked or spilled oil may not accumulate between the tank and the remainder of the engine.
+(11) Each oil tank must have an oil quantity indicator or provisions for one.
+(12) If the propeller feathering system depends on engine oil—
+(i) There must be means to trap an amount of oil in the tank if the supply becomes depleted due to failure of any part of the lubricating system other than the tank itself;
+(ii) The amount of trapped oil must be enough to accomplish the feathering opeation and must be available only to the feathering pump; and
+(iii) Provision must be made to prevent sludge or other foreign matter from affecting the safe operation of the propeller feathering system.
+(d) Oil drains. A drain (or drains) must be provided to allow safe drainage of the oil system. Each drain must—
+(1) Be accessible; and
+(2) Have manual or automatic means for positive locking in the closed position.
+(e) Oil radiators. Each oil radiator must withstand, without failure, any vibration, inertia, and oil pressure load to which it is subjected during the block tests.
+[Amdt. 33-6, 39 FR 35466, Oct. 1, 1974, as amended by Amdt. 33-10, 49 FR 6852, Feb. 23, 1984; Amdt. 33-21, 72 FR 1877, Jan. 16, 2007; Amdt. 33-27, 73 FR 55437, Sept. 25, 2008; Amdt. 33-27, 73 FR 57235, Oct. 2, 2008]
+
+### § 33.72 Hydraulic actuating systems.
+Each hydraulic actuating system must function properly under all conditions in which the engine is expected to operate. Each filter or screen must be accessible for servicing and each tank must meet the design criteria of § 33.71.
+[Amdt. 33-6, 39 FR 35467, Oct. 1, 1974]
+
+### § 33.73 Power or thrust response.
+The design and construction of the engine must enable an increase—
+(a) From minimum to rated takeoff power or thrust with the maximum bleed air and power extraction to be permitted in an aircraft, without overtemperature, surge, stall, or other detrimental factors occurring to the engine whenever the power control lever is moved from the minimum to the maximum position in not more than 1 second, except that the Administrator may allow additional time increments for different regimes of control operation requiring control scheduling; and
+(b) From the fixed minimum flight idle power lever position when provided, or if not provided, from not more than 15 percent of the rated takeoff power or thrust available to 95 percent rated takeoff power or thrust in not over 5 seconds. The 5-second power or thrust response must occur from a stabilized static condition using only the bleed air and accessories loads necessary to run the engine. This takeoff rating is specified by the applicant and need not include thrust augmentation.
+[Amdt. 33-1, 36 FR 5493, Mar. 24, 1971]
+
+### § 33.74 Continued rotation.
+If any of the engine main rotating systems continue to rotate after the engine is shutdown for any reason while in flight, and if means to prevent that continued rotation are not provided, then any continued rotation during the maximum period of flight, and in the flight conditions expected to occur with that engine inoperative, may not result in any condition described in § 33.75(g)(2)(i) through (vi) of this part.
+[Amdt. 33-24, 72 FR 50867, Sept. 4, 2007]
+
+### § 33.75 Safety analysis.
+(a) (1) The applicant must analyze the engine, including the control system, to assess the likely consequences of all failures that can reasonably be expected to occur. This analysis will take into account, if applicable:
+(i) Aircraft-level devices and procedures assumed to be associated with a typical installation. Such assumptions must be stated in the analysis.
+(ii) Consequential secondary failures and latent failures.
+(iii) Multiple failures referred to in paragraph (d) of this section or that result in the hazardous engine effects defined in paragraph (g)(2) of this section.
+(2) The applicant must summarize those failures that could result in major engine effects or hazardous engine effects, as defined in paragraph (g) of this section, and estimate the probability of occurrence of those effects. Any engine part the failure of which could reasonably result in a hazardous engine effect must be clearly identified in this summary.
+(3) The applicant must show that hazardous engine effects are predicted to occur at a rate not in excess of that defined as extremely remote (probability range of 10−7 to 10−9 per engine flight hour). Since the estimated probability for individual failures may be insufficiently precise to enable the applicant to assess the total rate for hazardous engine effects, compliance may be shown by demonstrating that the probability of a hazardous engine effect arising from an individual failure can be predicted to be not greater than 10−8 per engine flight hour. In dealing with probabilities of this low order of magnitude, absolute proof is not possible, and compliance may be shown by reliance on engineering judgment and previous experience combined with sound design and test philosophies.
+(4) The applicant must show that major engine effects are predicted to occur at a rate not in excess of that defined as remote (probability range of 10−5 to 10−7 per engine flight hour).
+(b) The FAA may require that any assumption as to the effects of failures and likely combination of failures be verified by test.
+(c) The primary failure of certain single elements cannot be sensibly estimated in numerical terms. If the failure of such elements is likely to result in hazardous engine effects, then compliance may be shown by reliance on the prescribed integrity requirements of §§ 33.15, 33.27, and 33.70 as applicable. These instances must be stated in the safety analysis.
+(d) If reliance is placed on a safety system to prevent a failure from progressing to hazardous engine effects, the possibility of a safety system failure in combination with a basic engine failure must be included in the analysis. Such a safety system may include safety devices, instrumentation, early warning devices, maintenance checks, and other similar equipment or procedures. If items of a safety system are outside the control of the engine manufacturer, the assumptions of the safety analysis with respect to the reliability of these parts must be clearly stated in the analysis and identified in the installation instructions under § 33.5 of this part.
+(e) If the safety analysis depends on one or more of the following items, those items must be identified in the analysis and appropriately substantiated.
+(1) Maintenance actions being carried out at stated intervals. This includes the verification of the serviceability of items that could fail in a latent manner. When necessary to prevent hazardous engine effects, these maintenance actions and intervals must be published in the instructions for continued airworthiness required under § 33.4 of this part. Additionally, if errors in maintenance of the engine, including the control system, could lead to hazardous engine effects, the appropriate procedures must be included in the relevant engine manuals.
+(2) Verification of the satisfactory functioning of safety or other devices at pre-flight or other stated periods. The details of this satisfactory functioning must be published in the appropriate manual.
+(3) The provisions of specific instrumentation not otherwise required.
+(4) Flight crew actions to be specified in the operating instructions established under § 33.5.
+(f) If applicable, the safety analysis must also include, but not be limited to, investigation of the following:
+(1) Indicating equipment;
+(2) Manual and automatic controls;
+(3) Compressor bleed systems;
+(4) Refrigerant injection systems;
+(5) Gas temperature control systems;
+(6) Engine speed, power, or thrust governors and fuel control systems;
+(7) Engine overspeed, overtemperature, or topping limiters;
+(8) Propeller control systems; and
+(9) Engine or propeller thrust reversal systems.
+(g) Unless otherwise approved by the FAA and stated in the safety analysis, for compliance with part 33, the following failure definitions apply to the engine:
+(1) An engine failure in which the only consequence is partial or complete loss of thrust or power (and associated engine services) from the engine will be regarded as a minor engine effect.
+(2) The following effects will be regarded as hazardous engine effects:
+(i) Non-containment of high-energy debris;
+(ii) Concentration of toxic products in the engine bleed air intended for the cabin sufficient to incapacitate crew or passengers;
+(iii) Significant thrust in the opposite direction to that commanded by the pilot;
+(iv) Uncontrolled fire;
+(v) Failure of the engine mount system leading to inadvertent engine separation;
+(vi) Release of the propeller by the engine, if applicable; and
+(vii) Complete inability to shut the engine down.
+(3) An effect whose severity falls between those effects covered in paragraphs (g)(1) and (g)(2) of this section will be regarded as a major engine effect.
+[Amdt. 33-24, 72 FR 50867, Sept. 4, 2007]
+
+### § 33.76 Bird ingestion.
+(a) General. Compliance with paragraphs (b) through (e) of this section shall be in accordance with the following:
+(1) Except as specified in paragraphs (d) and (e) of this section, all ingestion tests must be conducted with the engine stabilized at no less than 100 percent takeoff power or thrust, for test day ambient conditions prior to the ingestion. In addition, the demonstration of compliance must account for engine operation at sea level takeoff conditions on the hottest day that a minimum engine can achieve maximum rated takeoff thrust or power.
+(2) The engine inlet throat area as used in this section to determine the bird quantity and weights will be established by the applicant and identified as a limitation in the installation instructions required under § 33.5.
+(3) The impact to the front of the engine from the large single bird, the single largest medium bird which can enter the inlet, and the large flocking bird must be evaluated. Applicants must show that the associated components when struck under the conditions prescribed in paragraphs (b), (c) or (d) of this section, as applicable, will not affect the engine to the extent that the engine cannot comply with the requirements of paragraphs (b)(3), (c)(6) and (d)(4) of this section.
+(4) For an engine that incorporates an inlet protection device, compliance with this section shall be established with the device functioning. The engine approval will be endorsed to show that compliance with the requirements has been established with the device functioning.
+(5) Objects that are accepted by the Administrator may be substituted for birds when conducting the bird ingestion tests required by paragraphs (b) through (e) of this section.
+(6) If compliance with the requirements of this section is not established, the engine type certification documentation will show that the engine shall be limited to aircraft installations in which it is shown that a bird cannot strike the engine, or be ingested into the engine, or adversely restrict airflow into the engine.
+(b) Large single bird. Compliance with the large bird ingestion requirements shall be in accordance with the following:
+(1) The large bird ingestion test shall be conducted using one bird of a weight determined from Table 1 aimed at the most critical exposed location on the first stage rotor blades and ingested at a bird speed of 200-knots for engines to be installed on airplanes, or the maximum airspeed for normal rotorcraft flight operations for engines to be installed on rotorcraft.
+(2) Power lever movement is not permitted within 15 seconds following ingestion of the large bird.
+(3) Ingestion of a single large bird tested under the conditions prescribed in this section may not result in any condition described in § 33.75(g)(2) of this part.
+(4) Compliance with the large bird ingestion requirements of this paragraph may be shown by demonstrating that the requirements of § 33.94(a) constitute a more severe demonstration of blade containment and rotor unbalance than the requirements of this paragraph.
+[TABLE]
+[END TABLE]
+(c) Small and medium flocking bird. Compliance with the small and medium bird ingestion requirements shall be in accordance with the following:
+(1) Analysis or component test, or both, acceptable to the Administrator, shall be conducted to determine the critical ingestion parameters affecting power loss and damage. Critical ingestion parameters shall include, but are not limited to, the effects of bird speed, critical target location, and first stage rotor speed. The critical bird ingestion speed should reflect the most critical condition within the range of airspeeds used for normal flight operations up to 1,500 feet above ground level, but not less than V1 minimum for airplanes.
+(2) Medium bird engine tests shall be conducted so as to simulate a flock encounter, and will use the bird weights and quantities specified in Table 2. When only one bird is specified, that bird will be aimed at the engine core primary flow path; the other critical locations on the engine face area must be addressed, as necessary, by appropriate tests or analysis, or both. When two or more birds are specified in Table 2, the largest of those birds must be aimed at the engine core primary flow path, and a second bird must be aimed at the most critical exposed location on the first stage rotor blades. Any remaining birds must be evenly distributed over the engine face area.
+(3) In addition, except for rotorcraft engines, it must also be substantiated by appropriate tests or analysis or both, that when the full fan assembly is subjected to the ingestion of the quantity and weights of bird from Table 3, aimed at the fan assembly's most critical location outboard of the primary core flowpath, and in accordance with the applicable test conditions of this paragraph, that the engine can comply with the acceptance criteria of this paragraph.
+(4) A small bird ingestion test is not required if the prescribed number of medium birds pass into the engine rotor blades during the medium bird test.
+(5) Small bird ingestion tests shall be conducted so as to simulate a flock encounter using one 85 gram (0.187 lb.) bird for each 0.032 square-meter (49.6 square-inches) of inlet area, or fraction thereof, up to a maximum of 16 birds. The birds will be aimed so as to account for any critical exposed locations on the first stage rotor blades, with any remaining birds evenly distributed over the engine face area.
+(6) Ingestion of small and medium birds tested under the conditions prescribed in this paragraph may not cause any of the following:
+(i) More than a sustained 25-percent power or thrust loss;
+(ii) The engine to be shut down during the required run-on demonstration prescribed in paragraphs (c)(7) or (c)(8) of this section;
+(iii) The conditions defined in paragraph (b)(3) of this section.
+(iv) Unacceptable deterioration of engine handling characteristics.
+(7) Except for rotorcraft engines, the following test schedule shall be used:
+(i) Ingestion so as to simulate a flock encounter, with approximately 1 second elapsed time from the moment of the first bird ingestion to the last.
+(ii) Followed by 2 minutes without power lever movement after the ingestion.
+(iii) Followed by 3 minutes at 75-percent of the test condition.
+(iv) Followed by 6 minutes at 60-percent of the test condition.
+(v) Followed by 6 minutes at 40-percent of the test condition.
+(vi) Followed by 1 minute at approach idle.
+(vii) Followed by 2 minutes at 75-percent of the test condition.
+(viii) Followed by stabilizing at idle and engine shut down.
+(ix) The durations specified are times at the defined conditions with the power being changed between each condition in less than 10 seconds.
+(8) For rotorcraft engines, the following test schedule shall be used:
+(i) Ingestion so as to simulate a flock encounter within approximately 1 second elapsed time between the first ingestion and the last.
+(ii) Followed by 3 minutes at 75-percent of the test condition.
+(iii) Followed by 90 seconds at descent flight idle.
+(iv) Followed by 30 seconds at 75-percent of the test condition.
+(v) Followed by stabilizing at idle and engine shut down.
+(vi) The durations specified are times at the defined conditions with the power being changed between each condition in less than 10 seconds.
+(9) Engines intended for use in multi-engine rotorcraft are not required to comply with the medium bird ingestion portion of this section, providing that the appropriate type certificate documentation is so endorsed.
+(10) If any engine operating limit(s) is exceeded during the initial 2 minutes without power lever movement, as provided by paragraph (c)(7)(ii) of this section, then it shall be established that the limit exceedence will not result in an unsafe condition.
+[TABLE]
+[END TABLE]
+[TABLE]
+[END TABLE]
+(d) Large flocking bird. An engine test will be performed as follows:
+(1) Large flocking bird engine tests will be performed using the bird mass and weights in Table 4, and ingested at a bird speed of 200 knots.
+(2) Prior to the ingestion, the engine must be stabilized at no less than the mechanical rotor speed of the first exposed stage or stages that, on a standard day, would produce 90 percent of the sea level static maximum rated takeoff power or thrust.
+(3) The bird must be targeted on the first exposed rotating stage or stages at a blade airfoil height of not less than 50 percent measured at the leading edge.
+(4) Ingestion of a large flocking bird under the conditions prescribed in this paragraph must not cause any of the following:
+(i) A sustained reduction of power or thrust to less than 50 percent of maximum rated takeoff power or thrust during the run-on segment specified under paragraph (d)(5)(i) of this section.
+(ii) Engine shutdown during the required run-on demonstration specified in paragraph (d)(5) of this section.
+(iii) The conditions specified in paragraph (b)(3) of this section.
+(5) The following test schedule must be used:
+(i) Ingestion followed by 1 minute without power lever movement.
+(ii) Followed by 13 minutes at not less than 50 percent of maximum rated takeoff power or thrust.
+(iii) Followed by 2 minutes between 30 and 35 percent of maximum rated takeoff power or thrust.
+(iv) Followed by 1 minute with power or thrust increased from that set in paragraph (d)(5)(iii) of this section, by between 5 and 10 percent of maximum rated takeoff power or thrust.
+(v) Followed by 2 minutes with power or thrust reduced from that set in paragraph (d)(5)(iv) of this section, by between 5 and 10 percent of maximum rated takeoff power or thrust.
+(vi) Followed by a minimum of 1 minute at ground idle then engine shutdown. The durations specified are times at the defined conditions. Power lever movement between each condition will be 10 seconds or less, except that power lever movements allowed within paragraph (d)(5)(ii) of this section are not limited, and for setting power under paragraph (d)(5)(iii) of this section will be 30 seconds or less.
+(6) Compliance with the large flocking bird ingestion requirements of this paragraph (d) may also be demonstrated by:
+(i) Incorporating the requirements of paragraph (d)(4) and (d)(5) of this section, into the large single bird test demonstration specified in paragraph (b)(1) of this section; or
+(ii) Use of an engine subassembly test at the ingestion conditions specified in paragraph (b)(1) of this section if:
+(A) All components critical to complying with the requirements of paragraph (d) of this section are included in the subassembly test;
+(B) The components of paragraph (d)(6)(ii)(A) of this section are installed in a representative engine for a run-on demonstration in accordance with paragraphs (d)(4) and (d)(5) of this section; except that section (d)(5)(i) is deleted and section (d)(5)(ii) must be 14 minutes in duration after the engine is started and stabilized; and
+(C) The dynamic effects that would have been experienced during a full engine ingestion test can be shown to be negligible with respect to meeting the requirements of paragraphs (d)(4) and (d)(5) of this section.
+(7) Applicants must show that an unsafe condition will not result if any engine operating limit is exceeded during the run-on period.
+[TABLE]
+[END TABLE]
+(e) Core flocking bird test. Except as provided in paragraph (e)(4) of this section, for turbofan engines, an engine test must be performed in accordance with either paragraph (e)(1) or (2) of this section. The test specified in paragraph (e)(2) must be conducted if testing or validated analysis shows that no bird material will be ingested into the engine core during the test under the conditions specified in paragraph (e)(1).
+(1) Climb flocking bird test. (i) Test requirements are as follows:
+(A) Before ingestion, the engine must be stabilized at the mechanical rotor speed of the first exposed stage or stages that produce the lowest expected power or thrust required during climb through 3,000 feet above mean sea level (MSL) at standard day conditions.
+(B) The climb flocking bird test shall be conducted using one bird of the highest weight specified in table 2 to this section for the engine inlet area.
+(C) Ingestion must be at 261-knots true airspeed.
+(D) The bird must be aimed at the first exposed rotating stage or stages, at the blade airfoil height, as measured at the leading edge that will result in maximum bird material ingestion into the engine core.
+(ii) Ingestion of a flocking bird into the engine core under the conditions prescribed in paragraph (e)(1)(i) of this section must not cause any of the following:
+(A) Sustained power or thrust reduction to less than 50 percent maximum rated takeoff power or thrust during the run-on segment specified under paragraph (e)(1)(iii)(B) of this section, that cannot be restored only by movement of the power lever.
+(B) Sustained power or thrust reduction to less than flight idle power or thrust during the run-on segment specified under paragraph (e)(1)(iii)(B) of this section.
+(C) Engine shutdown during the required run-on demonstration specified in paragraph (e)(1)(iii) of this section.
+(D) Any condition specified in § 33.75(g)(2).
+(iii) The following test schedule must be used (power lever movement between conditions must occur within 10 seconds or less, unless otherwise noted):
+Note 1 to paragraph (e)(1)(iii) introductory text. Durations specified are times at the defined conditions in paragraphs (e)(1)(iii)(A) through (I) of this section.
+(A) Ingestion.
+(B) Followed by 1 minute without power lever movement.
+(C) Followed by power lever movement to increase power or thrust to not less than 50 percent maximum rated takeoff power or thrust, if the initial bird ingestion resulted in a reduction in power or thrust below that level.
+(D) Followed by 13 minutes at not less than 50 percent maximum rated takeoff power or thrust. Power lever movement in this condition is unlimited.
+(E) Followed by 2 minutes at 30-35 percent maximum rated takeoff power or thrust.
+(F) Followed by 1 minute with power or thrust increased from that set in paragraph (e)(1)(iii)(E) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+(G) Followed by 2 minutes with power or thrust reduced from that set in paragraph (e)(1)(iii)(F) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+(H) Followed by 1 minute minimum at ground idle.
+(I) Followed by engine shutdown.
+(2) Approach flocking bird test. (i) Test requirements are as follows:
+(A) Before ingestion, the engine must be stabilized at the mechanical rotor speed of the first exposed stage or stages that produce approach idle thrust when descending through 3,000 feet MSL at standard day conditions.
+(B) The approach flocking bird test shall be conducted using one bird of the highest weight specified in table 2 to this section for the engine inlet area.
+(C) Ingestion must be at 209-knots true airspeed.
+(D) The bird must be aimed at the first exposed rotating stage or stages, at the blade airfoil height measured at the leading edge that will result in maximum bird material ingestion into the engine core.
+(ii) Ingestion of a flocking bird into the engine core under the conditions prescribed in paragraph (e)(2)(i) of this section may not cause any of the following:
+(A) Power or thrust reduction to less than flight idle power or thrust during the run-on segment specified under paragraph (e)(2)(iii)(B) of this section.
+(B) Engine shutdown during the required run-on demonstration specified in paragraph (e)(2)(iii) of this section.
+(C) Any condition specified in § 33.75(g)(2).
+(iii) The following test schedule must be used (power lever movement between conditions must occur within 10 seconds or less, unless otherwise noted):
+Note 2 to paragraph (e)(2)(iii) introductory text. Durations specified are times at the defined conditions in paragraphs (e)(2)(iii)(A) through (H) of this section.
+(A) Ingestion.
+(B) Followed by 1 minute without power lever movement.
+(C) Followed by 2 minutes at 30-35 percent maximum rated takeoff power or thrust. Power lever movement in this condition is unlimited.
+(D) Followed by 1 minute with power or thrust increased from that set in paragraph (e)(2)(iii)(C) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+(E) Followed by 2 minutes with power or thrust reduced from that set in paragraph (e)(2)(iii)(D) of this section, by 5-10 percent maximum rated takeoff power or thrust.
+(F) Followed by 1 minute minimum at ground idle.
+(G) Followed by engine shutdown.
+(H) Power lever movement between each condition must be 10 seconds or less, except that any power lever movements are allowed within the time period of paragraph (e)(2)(iii)(C) of this section.
+(3) Results of exceeding engine-operating limits. Applicants must show that an unsafe condition will not result if any engine-operating limit is exceeded during the run-on period.
+(4) Combining tests. The climb flocking bird test of paragraph (e)(1) of this section may be combined with the medium flocking bird test of paragraph (c) of this section, if the climb first stage rotor speed calculated in paragraph (e)(1) of this section is within 3 percent of the first stage rotor speed required by paragraph (c)(1) of this section. As used in this paragraph (e)(4), “combined” means that, instead of separately conducting the tests specified in paragraphs (c) and (e)(1) of this section, the test conducted under paragraph (c) of this section satisfies the requirements of paragraph (e) of this section if the bird aimed at the core of the engine meets the bird ingestion speed criteria of paragraph (e)(1)(i)(C) of this section.
+[Doc. No. FAA-1998-4815, 65 FR 55854, Sept. 14, 2000, as amended by Amdt. 33-20, 68 FR 75391, Dec. 31, 2003; Amdt. 33-24, 72 FR 50868, Sept. 4, 2007; Amdt. 33-23, 72 FR 58974, Oct. 17, 2007; Amdt. 33-36, 88 FR 19810, Apr. 4, 2023]
+
+### § 33.77 Foreign object ingestion—ice.
+(a) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance.
+(b) [Reserved]
+(c) Ingestion of ice under the conditions of this section may not—
+(1) Cause an immediate or ultimate unacceptable sustained power or thrust loss; or
+(2) Require the engine to be shutdown.
+(d) For an engine that incorporates a protection device, compliance with this section need not be demonstrated with respect to ice formed forward of the protection device if it is shown that—
+(1) Such ice is of a size that will not pass through the protective device;
+(2) The protective device will withstand the impact of the ice; and
+(3) The ice stopped by the protective device will not obstruct the flow of induction air into the engine with a resultant sustained reduction in power or thrust greater than those values defined by paragraph (c) of this section.
+(e) Compliance with the requirements of this section must be demonstrated by engine ice ingestion test under the following ingestion conditions or by validated analysis showing equivalence of other means for demonstrating soft body damage tolerance.
+(1) The minimum ice quantity and dimensions will be established by the engine size as defined in Table 1 of this section.
+(2) The ingested ice dimensions are determined by linear interpolation between table values, and are based on the actual engine's inlet hilite area.
+(3) The ingestion velocity will simulate ice from the inlet being sucked into the engine.
+(4) Engine operation will be at the maximum cruise power or thrust unless lower power is more critical.
+[TABLE]
+[END TABLE]
+[Doc. No. 16919, 49 FR 6852, Feb. 23, 1984, as amended by Amdt. 33-19, 63 FR 14798, Mar. 26, 1998; 63 FR 53278, Oct. 5, 1998; Amdt. 33-20, 65 FR 55856, Sept. 14, 2000; Amdt. 33-34, 79 FR 65537, Nov. 4, 2014]
+
+### § 33.78 Rain and hail ingestion.
+(a) All engines. (1) The ingestion of large hailstones (0.8 to 0.9 specific gravity) at the maximum true air speed, up to 15,000 feet (4,500 meters), associated with a representative aircraft operating in rough air, with the engine at maximum continuous power, may not cause unacceptable mechanical damage or unacceptable power or thrust loss after the ingestion, or require the engine to be shut down. One-half the number of hailstones shall be aimed randomly over the inlet face area and the other half aimed at the critical inlet face area. The hailstones shall be ingested in a rapid sequence to simulate a hailstone encounter and the number and size of the hailstones shall be determined as follows:
+(i) One 1-inch (25 millimeters) diameter hailstone for engines with inlet areas of not more than 100 square inches (0.0645 square meters).
+(ii) One 1-inch (25 millimeters) diameter and one 2-inch (50 millimeters) diameter hailstone for each 150 square inches (0.0968 square meters) of inlet area, or fraction thereof, for engines with inlet areas of more than 100 square inches (0.0645 square meters).
+(2) In addition to complying with paragraph (a)(1) of this section and except as provided in paragraph (b) of this section, it must be shown that each engine is capable of acceptable operation throughout its specified operating envelope when subjected to sudden encounters with the certification standard concentrations of rain and hail, as defined in appendix B to this part. Acceptable engine operation precludes flameout, run down, continued or non-recoverable surge or stall, or loss of acceleration and deceleration capability, during any three minute continuous period in rain and during any 30 second continuous period in hail. It must also be shown after the ingestion that there is no unacceptable mechanical damage, unacceptable power or thrust loss, or other adverse engine anomalies.
+(b) Engines for rotorcraft. As an alternative to the requirements specified in paragraph (a)(2) of this section, for rotorcraft turbine engines only, it must be shown that each engine is capable of acceptable operation during and after the ingestion of rain with an overall ratio of water droplet flow to airflow, by weight, with a uniform distribution at the inlet plane, of at least four percent. Acceptable engine operation precludes flameout, run down, continued or non-recoverable surge or stall, or loss of acceleration and deceleration capability. It must also be shown after the ingestion that there is no unacceptable mechanical damage, unacceptable power loss, or other adverse engine anomalies. The rain ingestion must occur under the following static ground level conditions:
+(1) A normal stabilization period at take-off power without rain ingestion, followed immediately by the suddenly commencing ingestion of rain for three minutes at takeoff power, then
+(2) Continuation of the rain ingestion during subsequent rapid deceleration to minimum idle, then
+(3) Continuation of the rain ingestion during three minutes at minimum idle power to be certified for flight operation, then
+(4) Continuation of the rain ingestion during subsequent rapid acceleration to takeoff power.
+(c) Engines for supersonic airplanes. In addition to complying with paragraphs (a)(1) and (a)(2) of this section, a separate test for supersonic airplane engines only, shall be conducted with three hailstones ingested at supersonic cruise velocity. These hailstones shall be aimed at the engine's critical face area, and their ingestion must not cause unacceptable mechanical damage or unacceptable power or thrust loss after the ingestion or require the engine to be shut down. The size of these hailstones shall be determined from the linear variation in diameter from 1-inch (25 millimeters) at 35,000 feet (10,500 meters) to 1/4-inch (6 millimeters) at 60,000 feet (18,000 meters) using the diameter corresponding to the lowest expected supersonic cruise altitude. Alternatively, three larger hailstones may be ingested at subsonic velocities such that the kinetic energy of these larger hailstones is equivalent to the applicable supersonic ingestion conditions.
+(d) For an engine that incorporates or requires the use of a protection device, demonstration of the rain and hail ingestion capabilities of the engine, as required in paragraphs (a), (b), and (c) of this section, may be waived wholly or in part by the Administrator if the applicant shows that:
+(1) The subject rain and hail constituents are of a size that will not pass through the protection device;
+(2) The protection device will withstand the impact of the subject rain and hail constituents; and
+(3) The subject of rain and hail constituents, stopped by the protection device, will not obstruct the flow of induction air into the engine, resulting in damage, power or thrust loss, or other adverse engine anomalies in excess of what would be accepted in paragraphs (a), (b), and (c) of this section.
+[Doc. No. 28652, 63 FR 14799, Mar. 26, 1998]
+
+### § 33.79 Fuel burning thrust augmentor.
+Each fuel burning thrust augmentor, including the nozzle, must—
+(a) Provide cutoff of the fuel burning thrust augmentor;
+(b) Permit on-off cycling;
+(c) Be controllable within the intended range of operation;
+(d) Upon a failure or malfunction of augmentor combustion, not cause the engine to lose thrust other than that provided by the augmentor; and
+(e) Have controls that function compatibly with the other engine controls and automatically shut off augmentor fuel flow if the engine rotor speed drops below the minimum rotational speed at which the augmentor is intended to function.
+[Amdt. 33-6, 39 FR 35468, Oct. 1, 1974]
+
+### Subpart F—Block Tests; Turbine Aircraft Engines
+
+### § 33.81 Applicability.
+This subpart prescribes the block tests and inspections for turbine engines.
+[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-6, 39 FR 35468, Oct. 1, 1974]
+
+### § 33.82 General.
+Before each endurance test required by this subpart, the adjustment setting and functioning characteristic of each component having an adjustment setting and a functioning characteristic that can be established independent of installation on the engine must be established and recorded.
+[Amdt. 36-6, 39 FR 35468, Oct. 1, 1974]
+
+### § 33.83 Vibration test.
+(a) Each engine must undergo vibration surveys to establish that the vibration characteristics of those components that may be subject to mechanically or aerodynamically induced vibratory excitations are acceptable throughout the declared flight envelope. The engine surveys shall be based upon an appropriate combination of experience, analysis, and component test and shall address, as a minimum, blades, vanes, rotor discs, spacers, and rotor shafts.
+(b) The surveys shall cover the ranges of power or thrust, and both the physical and corrected rotational speeds for each rotor system, corresponding to operations throughout the range of ambient conditions in the declared flight envelope, from the minimum rotational speed up to 103 percent of the maximum physical and corrected rotational speed permitted for rating periods of two minutes or longer, and up to 100 percent of all other permitted physical and corrected rotational speeds, including those that are overspeeds. If there is any indication of a stress peak arising at the highest of those required physical or corrected rotational speeds, the surveys shall be extended sufficiently to reveal the maximum stress values present, except that the extension need not cover more than a further 2 percentage points increase beyond those speeds.
+(c) Evaluations shall be made of the following:
+(1) The effects on vibration characteristics of operating with scheduled changes (including tolerances) to variable vane angles, compressor bleeds, accessory loading, the most adverse inlet air flow distortion pattern declared by the manufacturer, and the most adverse conditions in the exhaust duct(s); and
+(2) The aerodynamic and aeromechanical factors which might induce or influence flutter in those systems susceptible to that form of vibration.
+(d) Except as provided by paragraph (e) of this section, the vibration stresses associated with the vibration characteristics determined under this section, when combined with the appropriate steady stresses, must be less than the endurance limits of the materials concerned, after making due allowances for operating conditions for the permitted variations in properties of the materials. The suitability of these stress margins must be justified for each part evaluated. If it is determined that certain operating conditions, or ranges, need to be limited, operating and installation limitations shall be established.
+(e) The effects on vibration characteristics of excitation forces caused by fault conditions (such as, but not limited to, out-of balance, local blockage or enlargement of stator vane passages, fuel nozzle blockage, incorrectly schedule compressor variables, etc.) shall be evaluated by test or analysis, or by reference to previous experience and shall be shown not to create a hazardous condition.
+(f) Compliance with this section shall be substantiated for each specific installation configuration that can affect the vibration characteristics of the engine. If these vibration effects cannot be fully investigated during engine certification, the methods by which they can be evaluated and methods by which compliance can be shown shall be substantiated and defined in the installation instructions required by § 33.5.
+[Doc. No. 28107, 61 FR 28433, June 4, 1996, as amended by Amdt. 33-33, 77 FR 39624, July 5, 2012; 77 FR 58301, Sept. 20, 2012]
+
+### § 33.84 Engine overtorque test.
+(a) If approval of a maximum engine overtorque is sought for an engine incorporating a free power turbine, compliance with this section must be demonstrated by testing.
+(1) The test may be run as part of the endurance test requirement of § 33.87. Alternatively, tests may be performed on a complete engine or equivalent testing on individual groups of components.
+(2) Upon conclusion of tests conducted to show compliance with this section, each engine part or individual groups of components must meet the requirements of § 33.93(a)(1) and (a)(2).
+(b) The test conditions must be as follows:
+(1) A total of 15 minutes run at the maximum engine overtorque to be approved. This may be done in separate runs, each being of at least 2 1/2 minutes duration.
+(2) A power turbine rotational speed equal to the highest speed at which the maximum overtorque can occur in service. The test speed may not be more than the limit speed of take-off or OEI ratings longer than 2 minutes.
+(3) For engines incorporating a reduction gearbox, a gearbox oil temperature equal to the maximum temperature when the maximum engine overtorque could occur in service; and for all other engines, an oil temperature within the normal operating range.
+(4) A turbine entry gas temperature equal to the maximum steady state temperature approved for use during periods longer than 20 seconds when operating at conditions not associated with 30-second or 2 minutes OEI ratings. The requirement to run the test at the maximum approved steady state temperature may be waived by the FAA if the applicant can demonstrate that other testing provides substantiation of the temperature effects when considered in combination with the other parameters identified in paragraphs (b)(1), (b)(2) and (b)(3) of this section.
+[Doc. No. 2007-28502, 74 FR 45310, Sept. 2, 2009]
+
+### § 33.85 Calibration tests.
+(a) Each engine must be subjected to those calibration tests necessary to establish its power characteristics and the conditions for the endurance test specified § 33.87. The results of the power characteristics calibration tests form the basis for establishing the characteristics of the engine over its entire operating range of speeds, pressures, temperatures, and altitudes. Power ratings are based upon standard atmospheric conditions with no airbleed for aircraft services and with only those accessories installed which are essential for engine functioning.
+(b) A power check at sea level conditions must be accomplished on the endurance test engine after the endurance test and any change in power characteristics which occurs during the endurance test must be determined. Measurements taken during the final portion of the endurance test may be used in showing compliance with the requirements of this paragraph.
+(c) In showing compliance with this section, each condition must stabilize before measurements are taken, except as permitted by paragraph (d) of this section.
+(d) In the case of engines having 30-second OEI, and 2-minute OEI ratings, measurements taken during the applicable endurance test prescribed in § 33.87(f) (1) through (8) may be used in showing compliance with the requirements of this section for these OEI ratings.
+[Doc. No. 3025, 29 FR 7453, June 10, 1964, as amended by Amdt. 33-6, 39 FR 35468, Oct. 1, 1974; Amdt. 33-18, 61 FR 31328, June 19, 1996]
+

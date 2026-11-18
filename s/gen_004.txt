@@ -1,0 +1,953 @@
+FAA-H-8083-30B General Handbook, chapter 1 (Safety, Ground Operations, & Servicing), PDF pages 38-49
+
+===== PDF PAGE 38 =====
+cabin and for electrical power. It is normally used to start
+the main engines.
+Unsatisfactory Turbine Engine Starts
+
+Hot Start
+
+A hot start occurs when the engine starts, but the exhaust
+gas temperature exceeds specified limits. This is usually
+caused by an excessively rich air-fuel mixture entering the
+combustion chamber. This condition can be caused by either
+too much fuel or not enough airflow. The fuel to the engine
+must be shut off immediately.
+
+False or Hung Start
+False or hung starts occur when the engine starts normally, but
+the rpm remains at some low value rather than increasing to
+the normal starting rpm. This is often the result of insufficient
+power to the starter or the starter cutting off before the engine
+starts self-accelerating. In this case, shut the engine down.
+
+Engine Fails to Start
+The engine failing to start within the prescribed time limit
+can be caused by lack of fuel to the engine, insufficient or
+no electrical power to the exciter in the ignition system, or
+incorrect fuel mixture. If the engine fails to start within the
+prescribed time, shut it down.
+In all cases of unsatisfactory starts, the fuel and ignition must be
+turned off. Continue rotating the compressor for approximately
+15 seconds to remove accumulated fuel from the engine. If
+unable to motor (rotate) the engine, allow a 30-second fuel
+draining period before attempting another start.
+Towing of Aircraft
+Movement of large aircraft about the airport, flight line,
+and hangar is usually accomplished by towing with a tow
+tractor (sometimes called a “tug”). [Figure 1-19] In the case
+of small aircraft, some moving is accomplished by hand
+pushing on the correct areas of the aircraft. Aircraft may also
+be taxied about the flight line but usually only by certain
+qualified personnel.
+Towing aircraft can be a hazardous operation, causing
+damage to the aircraft and injury to personnel, if done
+recklessly or carelessly. The following paragraphs outline
+the general procedure for towing aircraft. However, specific
+instructions for each model of aircraft are detailed in the
+manufacturer’s maintenance instructions and are to be
+followed in all instances.
+Before the aircraft to be towed is moved, a qualified person
+must be in the flight deck to operate the brakes in case the
+tow bar fails or becomes unhooked. The aircraft can then be
+stopped, preventing possible damage.
+
+Some types of tow bars available for general use can be used
+for many types of towing operations. [Figure 1-20] These
+bars are designed with sufficient tensile strength to pull most
+aircraft, but are not intended to be subjected to torsional or
+twisting loads. Many have small wheels that permit them to be
+drawn behind the towing vehicle going to or from an aircraft.
+When the bar is attached to the aircraft, inspect all the engaging
+devices for damage or malfunction before moving the aircraft.
+Additionally, some aircraft have tow steering turn limits.
+Some tow bars are designed for towing various types of
+aircraft. However, other special types can be used on a
+particular aircraft only. Such bars are usually designed and
+built by the aircraft manufacturer.
+When towing the aircraft, the towing vehicle speed must be
+reasonable, and all persons involved in the operation must be
+alert. When the aircraft is stopped, do not rely upon the brakes
+of the towing vehicle alone to stop the aircraft. The person in
+the flight deck must coordinate the use of the aircraft brakes
+with those of the towing vehicle. A typical smaller aircraft
+tow tractor (or tug) is shown in Figure 1-21.
+The attachment of the tow bar varies on different types of
+aircraft. Aircraft equipped with tail wheels are generally
+towed forward by attaching the tow bar to the main landing
+gear. In most cases, it is permissible to tow the aircraft in
+reverse by attaching the tow bar to the tail wheel axle. Any
+time an aircraft equipped with a tail wheel is towed, the tail
+wheel must be unlocked or the tail wheel locking mechanism
+may damage or break. Aircraft equipped with tricycle landing
+gear are generally towed forward by attaching a tow bar to the
+axle of the nosewheel. They may also be towed forward or
+backward by attaching a towing bridle or specially designed
+towing bar to the towing lugs on the main landing gear. When
+an aircraft is towed in this manner, a steering bar is attached
+to the nosewheel to steer the aircraft.
+The following towing and parking procedures are typical of
+one type of operation. They are examples and not necessarily
+suited to every type of operation. Aircraft ground-handling
+personnel must be thoroughly familiar with all procedures
+pertaining to the types of aircraft being towed and local
+operation standards governing ground handling of aircraft.
+Competent persons that have been properly checked out
+direct the aircraft towing team.
+1.
+
+The towing vehicle driver is responsible for operating
+the vehicle in a safe manner and obeying emergency
+stop instructions given by any team member.
+
+2.
+
+The person in charge assigns team personnel as wing
+walkers. A wing walker is stationed at each wingtip, in
+such a position that they can ensure adequate clearance
+1-17
+
+===== PDF PAGE 39 =====
+Air intake takeoff
+
+Air intake idle
+Distance in feet
+200
+
+30 feet
+
+100º
+
+35 K
+
+Velocity in knots = K
+Temperature in °F
+150
+125°
+
+60 K
+
+Exhaust
+
+100
+
+12 feet
+
+100°
+
+25 K
+
+125°
+
+40 K
+
+150°
+
+60 K
+
+200°
+
+100 K
+
+50
+
+150°
+
+100 K
+
+200°
+
+200 K
+
+300 K
+300°
+500 K
+500°
+
+300°
+
+200 K
+
+900 K
+700°
+
+fe
+e
+
+fe
+et
+
+25
+
+25
+
+t
+
+0
+
+Figure 1-17. Engine intake and exhaust hazard areas.
+
+1-18
+
+===== PDF PAGE 40 =====
+towed into position.
+
+Figure 1-18. Turbofan engine control levers.
+
+of any obstruction in the path of the aircraft. A tail
+walker is assigned when sharp turns are to be made
+or when the aircraft is to be backed into position.
+3.
+
+A qualified person occupies the pilot’s seat of the towed
+aircraft to observe and operate the brakes as required.
+When necessary, another qualified person is stationed to
+watch and maintain aircraft hydraulic system pressure.
+
+4.
+
+The person in charge of the towing operation verifies
+that, on aircraft with a steerable nosewheel, the
+locking scissors are set to full swivel for towing. The
+locking device must be reset after the tow bar has
+been removed from the aircraft. Persons stationed
+in the aircraft are not to attempt to steer or turn the
+nosewheel when the tow bar is attached to the aircraft.
+
+5.
+
+6.
+
+Under no circumstances is anyone permitted to walk
+or to ride between the nosewheel of an aircraft and the
+towing vehicle, nor ride on the outside of a moving
+aircraft or on the towing vehicle. In the interest of
+safety, no attempt to board or leave a moving aircraft
+or towing vehicle is permitted.
+The towing speed of the aircraft is not to exceed that
+of the walking team members. The aircraft’s engines
+usually are not operated when the aircraft is being
+
+Figure 1-19. Example of a tow tractor.
+
+7.
+
+The aircraft brake system is to be charged before each
+towing operation. Aircraft with faulty brakes are towed
+into position only for repair of brake systems, and then
+personnel must be standing by ready with chocks for
+emergency use. Chocks must be immediately available
+in case of an emergency throughout any towing
+operation.
+
+8.
+
+To avoid possible personal injury and aircraft damage
+during towing operations, entrance doors are closed,
+ladders retracted, and gear-down locks installed.
+
+9.
+
+Prior to towing any aircraft, check all tires and landing
+gear struts for proper inflation. (Inflation of landing gear
+struts of aircraft in overhaul and storage is excluded.)
+
+10. When moving aircraft, do not start and stop suddenly.
+For added safety, aircraft brakes must never be applied
+during towing, except upon command by one of the
+tow team members in an emergency situation.
+11. Aircraft are parked in specified areas. Generally,
+the distance between rows of parked aircraft is great
+enough to allow immediate access of emergency
+vehicles in case of fire, as well as free movement of
+equipment and materials.
+12. Wheel chocks are placed fore and aft of the main
+landing gear of the parked aircraft.
+13. Internal or external control locks (gust locks or blocks)
+are used while the aircraft is parked.
+14. Prior to any movement of aircraft across runways
+or taxiways, contact the airport control tower on the
+appropriate frequency for clearance to proceed.
+15. An aircraft parked in a hangar must be statically
+grounded immediately.
+Taxiing Aircraft
+As a general rule, only rated pilots and qualified airframe
+and powerplant (A&P) technicians are authorized to
+start, run up, and taxi aircraft. All taxiing operations are
+
+Figure 1-20. Example of a tow bar.
+
+1-19
+
+===== PDF PAGE 41 =====
+Figure 1-21. Typical smaller aircraft tow tractor.
+
+performed in accordance with applicable local regulations.
+Figure 1-22 contains the standard taxi light signals used by
+control towers to control and expedite the taxiing of aircraft.
+The following section provides detailed instructions on taxi
+signals and related taxi instructions.
+
+Taxi Signals
+Many ground accidents have occurred as a result of improper
+technique in taxiing aircraft. Although the pilot is ultimately
+responsible for the aircraft until the engine is stopped, a
+taxi signalman can assist the pilot around the flight line. In
+some aircraft configurations, the pilot’s vision is obstructed
+while on the ground. The pilot cannot see obstructions close
+to the wheels or under the wings and has little idea of what
+is behind the aircraft. Consequently, the pilot depends upon
+the taxi signalman for directions. Figure 1-23 shows a taxi
+signalman indicating his readiness to assume guidance of
+the aircraft by extending both arms at full length above his
+head, palms facing each other.
+The standard position for a signalman is slightly ahead of
+and in line with the aircraft’s left wingtip. As the signalman
+faces the aircraft, the nose of the aircraft is on the left.
+[Figure 1-24] The signalman must stay far enough ahead
+of the wingtip to remain in the pilot’s field of vision. It is a
+good practice to perform a foolproof test to be sure the pilot
+can see all signals. If the signalman can see the pilot’s eyes,
+the pilot can see the signals.
+Figure 1-24 shows the standard aircraft taxiing signals
+published in the Federal Aviation Administration (FAA)
+Aeronautical Information Manual (AIM). There are other
+standard signals, such as those published in Advisory Circular
+00-34, as revised, and by the International Standards (ICAO)
+Annex 2, Appendix 1 and the Armed Forces. Furthermore,
+operation conditions in many areas may call for a modified
+set of taxi signals. The signals shown in Figure 1-24 represent
+
+a minimum number of the most commonly used signals.
+Whether this set of signals or a modified set is used is not
+the most important consideration, as long as each flight
+operational center uses a suitable, agreed-upon set of signals.
+Figure 1-25 illustrates some of the most commonly used
+helicopter operating signals.
+The taxi signals to be used must be studied until the taxi
+signalman can execute them clearly and precisely. The signals
+are to be given in such a way that the pilot cannot confuse
+their meaning. Remember that the pilot receiving the signals
+is always some distance away and often look out and down
+from a difficult angle. Thus, the signalman’s hands must be
+kept well separated, and signals are to be over-exaggerated
+rather than risk making indistinct signals. If there is any
+doubt about a signal, or if the pilot does not appear to be
+following the signals, use the “stop” sign and begin the series
+of signals again.
+The signalman is to always try to give the pilot an indication
+of the approximate area that the aircraft is to be parked.
+The signalman must glance behind himself or herself often
+when walking backward to prevent backing into a propeller
+or tripping over a chock, fire bottle, tie-down line, or
+other obstruction.
+Taxi signals are usually given at night with the aid of
+illuminated wands attached to flashlights. [Figure 1-26] Night
+signals are made in the same manner as day signals with the
+exception of the stop signal. The stop signal used at night is
+the “emergence stop” signal. This signal is made by crossing
+the wands to form a lighted “X” above and in front of the head.
+
+Servicing Aircraft
+Servicing Aircraft Air/Nitrogen Oil & Fluids
+Checking or servicing aircraft fluids is an important
+maintenance function. Before servicing any aircraft, consult
+the specific aircraft maintenance manual to determine the
+proper type of servicing equipment and procedures. In
+general, aircraft engine oil is checked with a dipstick or a sight
+gauge. There are markings on the stick or around the sight
+gauge to determine the correct level. Reciprocating engines
+are to be checked after the engine has been inactive, while
+the turbine engine must be checked just after shutdown. Dry
+sump oil systems tend to hide oil that has seeped from the oil
+tank into the gearcase of the engine. This oil does not show up
+on the dipstick until the engine has been started or motored.
+If serviced before this oil is pumped back into the tank, the
+engine overfills. Never overfill the oil tank. Oil foams as it
+is circulated through the engine. The expansion space in the
+oil tank allows for this foaming (oil mixing with air). Also
+the correct type of oil must be used for the appropriate engine
+being serviced. Hydraulic fluid, fuel, and oil, if spilled on
+clothes or skin, must be removed as soon as possible because
+1-20
+
+===== PDF PAGE 42 =====
+of fire danger and health reasons.
+When servicing a hydraulic reservoir, the correct fluid must
+be used. Normally, this can be determined by the container
+or by color. Some reservoirs are pressurized by air that must
+be bled off before servicing. Efforts must be made to prevent
+any type of contamination during servicing. Also, if changing
+hydraulic filters, assure that the pressure is off the system
+before removing the filters. After servicing the filters (if large
+amounts of fluids were lost) or system quantity, air must be
+purged and the system checked for leaks. While servicing
+tires or struts with high-pressure nitrogen, the technician
+must use caution while performing maintenance. Clean areas
+before connecting filling hose and do not overinflate.
+Ground Support Equipment
+
+Electric Ground Power Units
+Ground support electrical APUs vary widely in size and
+type. However, they can be generally classified by towed,
+stationary, or self-propelled items of equipment. Some units
+are mainly for in-hangar use during maintenance. Others are
+designed for use on the flight line, either at a stationary gate
+area or towed from aircraft to aircraft. The stationary type
+can be powered from the electrical service of the facility.
+The movable type ground power unit (GPU) generally has
+an onboard engine that turns a generator to produce power.
+Some smaller units use a series of batteries. The towed power
+units vary in size and range of available power.
+The smallest units are simply high-capacity batteries used
+to start light aircraft. These units are normally mounted on
+wheels or skids and are equipped with an extra-long electrical
+line terminated in a suitable plug-in adapter.
+Larger units are equipped with generators. Providing a
+wider range of output power, these power units are normally
+designed to supply constant-current, variable voltage DC
+electrical power for starting turbine aircraft engines and
+constant-voltage DC for starting reciprocating aircraft
+engines. Normally somewhat top-heavy, large towed power
+units are towed at restricted speeds, and sharp turns are
+avoided. An example of a large power unit is shown in
+Lights
+
+Meaning
+
+Flashing green
+
+Cleared to taxi
+
+Steady red
+
+Stop
+
+Flashing red
+
+Taxi clear of runway in use
+
+Flashing white
+
+Return to starting point
+
+Alternating red and green
+
+Exercise extreme caution
+
+Figure 1-23. The taxi signalman.
+
+Figure 1-27.
+Self-propelled power units are normally more expensive than
+the towed units and, in most instances, supply a wider range
+of output voltages and frequencies. The stationary power unit,
+shown in Figure 1-28, is capable of supplying DC power in
+varying amounts, as well as 115/200-volt, 3-phase, 400-cycle
+AC power continuously for 5 minutes.
+When using ground electrical power units, it is important to
+position the unit to prevent collision with the aircraft being
+serviced, or others nearby, in the event the brakes on the unit
+fail. It must be parked so that the service cable is extended
+to near its full length away from the aircraft being serviced,
+but not so far that the cable is stretched or undue stress is
+placed on the aircraft electrical receptacle.
+Observe all electrical safety precautions when servicing an
+aircraft. Additionally, never move a power unit when service
+cables are attached to an aircraft or when the generator
+system is engaged.
+
+Figure 1-22. Standard taxi light signals.
+
+1-21
+
+===== PDF PAGE 43 =====
+Signalman's position
+
+Signalman directs towing
+
+Flagman directs pilot to signalman
+if traffic conditions require
+
+Stop
+
+Come ahead
+
+Emergency stop
+
+Cut engines
+
+Start engines
+
+Pull chocks
+
+Insert chocks
+
+Slow down
+
+All clear (O.K.)
+
+Left turn
+
+Right turn
+
+Night operation
+
+Figure 1-24. Standard FAA hand taxi signals.
+
+Hydraulic Ground Power Units
+
+•
+
+Drain the aircraft hydraulic systems.
+
+Portable hydraulic test stands are manufactured in many sizes
+and cost ranges. [Figure 1-29] Some have a limited range of
+operation, while others can be used to perform all the system
+tests that fixed-shop test stands are designed to perform.
+Hydraulic power units, sometimes called a hydraulic mule,
+provide hydraulic pressure to operate the aircraft systems
+during maintenance. They can be used to:
+
+•
+
+Filter the aircraft hydraulic system fluid.
+
+•
+
+Refill the aircraft hydraulic system with clean fluid.
+
+•
+
+Check the aircraft hydraulic systems for operation
+and leaks.
+
+This type of portable hydraulic test unit is usually an
+electrically-powered unit. It uses a hydraulic system
+1-22
+
+===== PDF PAGE 44 =====
+Start engine
+
+Engage rotor
+
+Stop rotor
+
+Stop
+
+Move back
+
+Move forward
+
+Move right
+
+Move left
+
+Take off
+
+Landing direction
+
+Go up
+
+Go down
+
+Swing tail to right
+
+Swing tail to left
+
+Figure 1-25. Helicopter operating signals.
+
+capable of delivering a variable volume of fluid from zero
+to approximately 24 gallons per minute at variable pressures
+up to 3,000 psi.
+Operating at pressures of 3,000 psi or more, extreme caution
+must be used when operating hydraulic power units. At 3,000
+psi, a small stream from a leak can cut like a sharp knife.
+Therefore, inspect lines used with the system for cuts, frays,
+or any other damage, and keep them free of kinks and twists.
+When not in use, hydraulic power unit lines are to be stored
+
+(preferably wound on a reel) and kept clean, dry, and free
+of contaminants.
+
+Ground Support Air Units
+Air carts are used to provide low-pressure (up to 50 psi high
+volume flow) air that can be used for starting the engines
+and heating and cooling the aircraft on the ground (using the
+onboard aircraft systems). It generally consists of an APU
+
+1-23
+
+===== PDF PAGE 45 =====
+outside hangars.
+Oxygen used on aircraft is available in two types: gaseous and
+liquid. The type to use on any specific aircraft depends on the
+type of equipment in the aircraft. Gaseous oxygen is stored
+in large steel cylinders, while liquid oxygen (commonly
+referred to as LOX) is stored and converted into a usable gas
+in a liquid oxygen converter.
+Oxygen is commercially available in three general types:
+aviator’s breathing, industrial, and medical. Only oxygen
+marked “Aviator’s Breathing Oxygen” that meets Federal
+Specification BB-0-925A, Grade A, or its equivalent is to be
+used in aircraft breathing oxygen systems. Industrial oxygen
+may contain impurities that could cause the pilot, crew, and/
+or passengers to become sick. Medical oxygen, although pure,
+contains water that can freeze in the cold temperatures found
+at the altitudes where oxygen is necessary.
+
+Figure 1-26. Night operations with wands.
+
+built into the cart that provides bleed air from the APU’s
+compressor for operating aircraft systems or starting engines.
+[Figure 1-30]
+
+Ground Air Heating and Air Conditioning
+Most airport gates have facilities that can provide heated or
+cooled air. The units that cool or heat the air are permanent
+installations that connect to the aircraft’s ventilation
+system by use of a large hose. Portable heating and air
+conditioning units can also be moved close to the aircraft
+and connected by a duct that provides air to keep the cabin
+temperature comfortable.
+Oxygen Servicing Equipment
+Before servicing any aircraft, consult the specific aircraft
+maintenance manual to determine the proper types of
+servicing equipment to be used. Two personnel are required
+to service an aircraft with gaseous oxygen. One person is
+stationed at the control valves of the servicing equipment, and
+one person is stationed where they can observe the pressure in
+the aircraft system. Communication between the two people
+is required in the event of an emergency.
+Do not service aircraft with oxygen during fueling, defueling,
+or other maintenance work that could provide a source of
+ignition. Oxygen servicing of aircraft is to be accomplished
+
+Figure 1-27. A mobile electrical power unit.
+
+Figure 1-28. A stationary electrical power unit.
+
+1-24
+
+===== PDF PAGE 46 =====
+Oxygen Hazards
+Gaseous oxygen is chemically stable and is nonflammable.
+However, combustible materials ignite more rapidly and
+burn with greater intensity in an oxygen-rich atmosphere. In
+addition, oxygen combines with oil, grease, or bituminous
+material to form a highly-explosive mixture that is sensitive
+to compression or impact. Physical damage to, or failure
+of, oxygen containers, valves, or plumbing can result in an
+explosive rupture with extreme danger to life and property.
+It is imperative that the highest standard of cleanliness be
+observed in handling oxygen and that only qualified and
+authorized persons be permitted to service aircraft gaseous
+oxygen systems. In addition to aggravating the fire hazard
+and because of its low temperature (it boils at −297 °F),
+liquid oxygen causes severe “burns” (frostbite) if it comes
+in contact with the skin.
+
+Fuel Servicing of Aircraft
+Types of Fuel and Identification
+Two types of aviation fuel in general use are aviation gasoline,
+also known as AVGAS, and turbine fuel, also known as JET
+A fuel.
+Aviation gasoline (AVGAS) is used in reciprocating engine
+aircraft. Currently, there are three grades of fuel in general
+use: 80/87, 100/130, and 100LL (low lead). A fourth grade,
+115/145, is in limited use in the large reciprocating-engine
+aircraft. The two numbers indicate the lean mixture and rich
+mixture octane rating numbers of the specific fuel. In other
+words, with 80/87 AVGAS, the 80 is the lean mixture rating
+and 87 is the rich mixture rating number. To avoid confusing
+the types of AVGAS, it is generally identified as grade 80,
+
+Figure 1-29. A portable hydraulic power unit.
+
+100, 100LL, or 115. AVGAS can also be identified by a color
+code. The color of the fuel needs to match the color band on
+piping and fueling equipment. [Figure 1-31]
+Turbine fuel/jet fuel is used to power turbojet and turboshaft engines. Three types of turbine fuel generally used
+in civilian aviation are JET A and JET A-1, made from
+kerosene, and JET B, a blend of kerosene and AVGAS.
+While jet fuel is identified by the color black on piping and
+fueling equipment, the actual color of jet fuel can be clear
+or straw colored.
+Before mixing AVGAS and turbine fuel, refer to the Type
+Certificate Data Sheet for the respective powerplant. Adding
+jet fuel to AVGAS causes a decrease in the power developed
+by the engine and could cause damage to the engine (through
+detonation) and loss of life. Adding AVGAS to jet fuel can
+cause lead deposits in the turbine engine and can lead to
+reduced service life.
+Contamination Control
+Contamination is anything in the fuel that is not supposed to
+be there. The types of contamination found in aviation fuel
+include water, solids, and microbial growths. The control of
+contamination in aviation fuel is extremely important, since
+contamination can lead to engine failure or stoppage and the
+loss of life. The best method of controlling contamination
+is to prevent its introduction into the fuel system. Some
+forms of contamination can still occur inside the fuel system.
+However, the filter, separators, and screens remove most of
+the contamination.
+Water in aviation fuels generally take two forms: dissolved
+(vapor) and free water. The dissolved water is not a major
+problem until, as the temperature lowers, it becomes free
+water. This then poses a problem if ice crystals form, clogging
+filters and other small orifices.
+
+Figure 1-30. Aircraft air start unit.
+
+1-25
+
+===== PDF PAGE 47 =====
+Free water can appear as water slugs or entrained water.
+Water slugs are concentrations of water. This is the water
+that is drained after fueling an aircraft. Entrained water is
+suspended water droplets. These droplets may not be visible
+to the eye but give the fuel a cloudy look. The entrained water
+settles out in time.
+Solid contaminants are insoluble in fuel. The more common
+types are rust, dirt, sand, gasket material, lint, and fragments
+of shop towels. The close tolerances of fuel controls and
+other fuel-related mechanisms can be damaged or blocked
+by particles as small as 1⁄20 the diameter of a human hair.
+Microbiological growths are a problem in jet fuel. There
+are a number of varieties of micro-organisms that can
+live in the free water in jet fuel. Some variations of these
+organisms are airborne, others live in the soil. The aircraft
+fuel system becomes susceptible to the introduction of
+these organisms each time the aircraft is fueled. Favorable
+conditions for the growth of micro-organisms in the fuel
+are warm temperatures and the presence of iron oxide and
+mineral salts in the water. The best way to prevent microbial
+growth is to keep the fuel dry.
+The effects of micro-organisms are:
+•
+
+Formation of slime or sludge that can foul filters,
+separators, or fuel controls.
+
+•
+
+Emulsification of the fuel.
+
+•
+
+Corrosive compounds that can attack the fuel tank’s
+structure. In the case of a wet wing tank, the tank is
+made from the aircraft’s structure. They can also have
+offensive odors.
+
+Fueling Hazards
+The volatility of aviation fuels creates a fire hazard that has
+plagued aviators and aviation engine designers since the
+beginning of powered flight. Volatility is the ability of a liquid
+to change into a gas at a relatively low temperature. In its
+liquid state, aviation fuel does not burn. It is, therefore, the
+vapor or gaseous state that the liquid fuel changes that is not
+only useful in powering the aircraft, but also a fire hazard.
+Static electricity is a byproduct of one substance rubbing
+against another. Fuel flowing through a fuel line causes
+a certain amount of static electricity. The greatest static
+electricity concern around aircraft is that during flight, the
+aircraft moving through the air causes static electricity to
+build in the airframe. If that static electricity is not dissipated
+prior to refueling, the static electricity in the airframe attempts
+to return to the ground through the fuel line from the servicing
+unit. The spark caused by the static electricity can ignite any
+vaporized fuel.
+
+Breathing the vapors from fuel can be harmful and must
+be limited. Any fuel spilled on the clothing or skin must be
+removed as soon as possible.
+Fueling Procedures
+The proper fueling of an aircraft is the responsibility of the
+owner/operator. This does not, however, relieve the person
+doing the fueling of the responsibility to use the correct type
+of fuel and safe fueling procedures.
+There are two basic procedures when fueling an aircraft.
+Smaller aircraft are fueled by the over-the-wing method.
+This method uses the fuel hose to fill through fueling ports
+on the top of the wing. The method used for larger aircraft is
+the single point fueling system. This type of fueling system
+uses receptacles in the bottom leading edge of the wing to
+fill all the tanks. This decreases the time it takes to refuel
+the aircraft, limits contamination, and reduces the chance
+of static electricity igniting the fuel. Most pressure fueling
+systems consist of a pressure fueling hose and a panel of
+controls and gauges that permit one person to fuel or defuel
+any or all fuel tanks of an aircraft. Each tank can be filled
+to a predetermined level. These procedures are illustrated in
+Figures 1-32 and 1-33.
+Prior to fueling, the person fueling must check the following:
+1.
+
+Ensure all aircraft electrical systems and electronic
+devices, including radar, are turned off.
+
+2.
+
+Do not carry anything in the shirt pockets. These items
+could fall into the fuel tanks.
+
+3.
+
+Ensure no flame-producing devices are carried by
+anyone engaged in the fueling operation. A moment
+of carelessness could cause an accident.
+
+4.
+
+Ensure that the proper type and grade of fuel is used.
+Do not mix AVGAS and JET fuel.
+
+5.
+
+Ensure that all the sumps have been drained.
+
+6.
+
+Wear eye protection. Although generally not as critical
+as eye protection, other forms of protection, such as
+rubber gloves and aprons, can also protect the skin
+from the effects of spilled or splashed fuel.
+
+Color
+
+Grade
+
+Red
+
+80
+
+Green
+
+100
+
+Blue
+
+100LL
+
+Purple
+
+115
+
+Figure 1-31. Aviation gasoline color and grade reference.
+
+1-26
+
+===== PDF PAGE 48 =====
+Ground wire
+
+Figure 1-32. Refueling an aircraft by the over-the-wing method.
+
+7.
+
+Do not fuel aircraft if there is danger of other aircraft in
+the vicinity blowing dirt in the direction of the aircraft
+being fueled. Blown dirt, dust, or other contaminants
+can enter an open fuel tank, contaminating the entire
+contents of the tank.
+
+8.
+
+Do not fuel an aircraft when there is lightning within
+5 miles.
+
+9.
+
+Do not fuel an aircraft within 500 feet of operating
+ground radar.
+
+When using mobile fueling equipment:
+1.
+
+Approach the aircraft with caution, positioning the
+fuel truck so that if it is necessary to depart quickly,
+no backing needed.
+
+2.
+
+Set the hand brake of the fuel truck, and chock the
+wheels to prevent rolling.
+
+3.
+
+Ground the aircraft and then ground the truck. Next,
+ground or bond them together by running a connecting
+wire between the aircraft and the fuel truck. This may
+be done by three separate ground wires or by a “Y”
+1-27
+
+===== PDF PAGE 49 =====
+cable from the fuel truck.
+4.
+
+Ensure that the grounds are in contact with bare
+metal or are in the proper grounding points on the
+aircraft. Do not use the engine exhaust or propeller as
+grounding points. Damage to the propeller can result,
+and there is no way of quickly ensuring a positive bond
+between the engine and the airframe.
+
+is necessary to have a method of collecting the fuel. When
+the pumping method is used, care must be taken not to
+damage the tanks, and the removed fuel cannot be mixed
+with good fuel.
+General precautions when defueling are:
+•
+
+Ground the aircraft and defueling equipment.
+
+5.
+
+Ground the nozzle to the aircraft, then open the fuel
+tank.
+
+•
+
+Turn off all electrical and electronic equipment.
+
+6.
+
+Protect the wing and any other item on the aircraft from
+damage caused by spilled fuel or careless handling of
+the nozzle, hose, or grounding wires.
+
+•
+
+Have the correct type of fire extinguisher available.
+
+•
+
+Wear eye protection.
+
+7.
+
+Check the fuel cap for proper installation and security
+before leaving the aircraft.
+
+8.
+
+Remove the grounding wires in the reverse order. If
+the aircraft is not going to be flown or moved soon,
+the aircraft ground wire can be left attached.
+
+When fueling from pits or cabinets, follow the same
+procedures as when using a truck. Pits or cabinets are usually
+designed with permanent grounding, eliminating the need
+to ground the equipment. However, the aircraft still must be
+grounded, and then the equipment must be grounded to the
+aircraft as it was with mobile equipment.
+Defueling
+Defueling procedures differ with different types of aircraft.
+Before defueling an aircraft, check the maintenance/service
+manual for specific procedures and cautions. Defueling can
+be accomplished by gravity defueling or by pumping the
+fuel out of the tanks. When the gravity method is used, it
+
+Figure 1-33. Single point refueling station of a large aircraft.
+
+1-28
+

@@ -1,0 +1,2750 @@
+FAA-H-8083-30B General Handbook, chapter 4 (Aircraft Drawings), PDF pages 124-149
+
+===== PDF PAGE 124 =====
+Chapter 4
+
+Aircraft Drawings
+Introduction
+The exchange of ideas is essential to everyone, regardless of
+their vocation or position. This exchange is usually carried on
+by oral or written word; but under some conditions, the use of
+these alone is impractical. The aviation industry discovered
+that it could not depend entirely upon written or spoken
+words for the exchange of ideas, because misunderstanding
+and misinterpretation arose frequently. A written description
+of an object can be changed in meaning just by misplacing
+a comma, and the meaning of an oral description can be
+completely changed by using a wrong word. To avoid these
+possible errors, drawings are used to describe objects. For
+this reason, drawing is the draftsman’s language.
+Drawing, in the aviation industry, is a method of conveying
+ideas concerning the construction or assembly of objects.
+This is done with the help of lines, notes, abbreviations, and
+symbols. It is important that the aviation mechanic who is
+to make or assemble the object understands the meaning of
+the different lines, notes, abbreviations, and symbols that
+are used in a drawing. (See the “Lines and Their Meanings”
+section of this chapter.)
+
+Computer Graphics
+From the early days of aviation, development of aircraft,
+aircraft engines, and other components relied heavily on
+aircraft drawings. For most of the 20th century, drawings
+were created on a drawing “board” with pen or pencil and
+paper. With the introduction and advancement of computers
+in the later decades of the 20th century, the way drawings
+are created changed dramatically. Computers were used
+not only to create drawings, but they were being used to
+show items in “virtual reality,” from any possible viewing
+angle. Further development of computer software programs
+allowed for assembling of separately created parts to check
+for proper fit and possible interferences. Additionally, with
+nearly instantaneous information sharing capability through
+computer networking and the Internet, it became much easier
+for designers to share their work with other designers and
+manufacturers virtually anytime, anywhere in the world.
+Using new computer-controlled manufacturing techniques,
+it became possible to design a part and have it precisely
+manufactured without ever having shown it on paper. New
+terms and acronyms became commonplace. The more
+common of these terms are:
+•
+
+Computer Graphics—drawing with the use of a
+computer
+
+•
+
+Computer Aided Design (CAD)—where a computer
+is used in the design of a part or product
+
+•
+
+Computer Aided Design Drafting (CADD)—where a
+computer is used in the design and drafting process
+
+•
+
+Computer Aided Manufacturing (CAM)—where a
+computer is used in the manufacturing of a part or
+product
+
+•
+
+Computer Aided Engineering (CAE)—where a
+computer is used in the engineering of a part or product
+
+As computer hardware and software continue to evolve, a
+greater amount of CAE is completed in less time, at lower
+cost. In addition to product design, some of the other uses
+of CAE are product analysis, assembly, simulations, and
+maintenance information. [Figure 4-1]
+CATIA, ProEngineer, Solid Works, and Unigraphics are some
+of the more popular CAD software packages used for aircraft
+design and manufacturing. Most airframe manufacturers use
+CATIA software to design their aircraft. The complete aircraft
+is designed and assembled in the software package before
+it is manufactured. Drawings of all parts of the aircraft are
+available and can be accessed using the computer software.
+Drawings are no longer limited to 1, 2, or 3 views. Drawings
+from every angle can easily be accessed by using the
+computer model of the part or product. Technicians can access
+drawings and aircraft manuals on laptops or even mobile
+devices when performing maintenance on the shop floor.
+
+Purpose & Function of Aircraft Drawings
+Drawings and prints are the link between the engineers who
+design an aircraft and the workers who build, maintain, and
+repair it. A print may be a copy of a working drawing for
+an aircraft part or group of parts, or for a design of a system
+or group of systems. They are made by placing a tracing of
+the drawing over a sheet of chemically-treated paper and
+exposing it to a strong light for a short period of time. When
+the exposed paper is developed, it turns blue where the light
+has penetrated the transparent tracing. The inked lines of the
+tracing, having blocked out the light, show as white lines
+on a blue background. With other types of sensitized paper,
+prints may have a white background with colored lines or a
+colored background with white lines.
+Drawings created using computers may be viewed on the
+computer monitor or printed out in “hard copy” by use of an
+4-1
+
+===== PDF PAGE 125 =====
+ink jet or laser printer. Larger drawings may be printed by use
+of a plotter or large format printer. Large printers can print
+drawings up to 42 inches high with widths up to 600 inches
+by use of continuous roll paper. [Figure 4-2]
+
+Care & Use of Drawings
+Drawings should be handled carefully as they are both
+expensive and valuable. Open drawings slowly and carefully
+to prevent tearing of the paper. When the drawing is open,
+smooth out the fold lines instead of bending them backward.
+To protect drawings from damage, never spread them on the
+floor or lay them on a surface covered with tools or other
+objects that may make holes in the paper. Hands should be
+free of oil, grease, or other unclean matter that can soil or
+smudge the print.
+Never make notes or marks on a print, as they may confuse
+others and lead to incorrect work. Only authorized individuals
+are permitted to make notes or changes on prints, and they
+must sign and date any changes they make.
+When finished with a drawing, fold and return it to its proper
+place. Prints are folded originally in an appropriate size for
+filing. Care should be taken so that the original folds are
+always used.
+
+Types of Drawings
+Drawings must give information such as size and shape of
+the object and all its parts, specifications for material to be
+used, how the material is to be finished, how the parts are to
+be assembled, and any other information essential to making
+and assembling the object. Drawings may be divided into
+three classes: detail, assembly, and installation.
+Detail Drawing
+A detail drawing is a description of a single part, describing
+bylines, notes, and symbols the specifications for size, shape,
+material, and methods of manufacture to be used in making
+the part. Detail drawings are usually rather simple. When
+single parts are small, several detail drawings may be shown
+on the same sheet or print. [Figure 4-3]
+Assembly Drawing
+An assembly drawing is a description of an object made up
+of two or more parts. [Figure 4-4] It describes the object’s
+size and shape. Its primary purpose is to show the relationship
+of the various parts. An assembly drawing is usually more
+complex than a detail drawing and is often accompanied by
+detail drawings of various parts.
+
+Figure 4-1. Computer graphics work station.
+
+Installation Drawing
+An installation drawing is one that includes all necessary
+information for a part or an assembly in the final installed
+position in the aircraft. It shows the dimensions necessary
+for the location of specific parts with relation to the other
+parts and reference dimensions that are helpful in later work
+in the shop. [Figure 4-5]
+Sectional View Drawings
+A section or sectional view is obtained by cutting away part
+of an object to show the shape and construction at the cutting
+plane. The part or parts cut away are shown by using section
+(crosshatching) lines. Types of sections are described in the
+following paragraphs.
+
+Full Section
+A full section view is used when the interior construction
+or hidden features of an object cannot be shown clearly by
+exterior views. For example, Figure 4-6 is a sectional view
+of a cable connector and shows the internal construction of
+the connector.
+
+Half Section
+In a half section, the cutting plane extends only halfway
+across the object, leaving the other half of the object as an
+exterior view. Half sections are used with symmetrical objects
+to show both the interior and exterior. Figure 4-7 is a half
+sectional view of a Capstan servo.
+
+Revolved Section
+A revolved section drawn directly on the exterior view shows
+the shape of the cross section of a part, such as the spoke
+of a wheel. An example of a revolved section is shown in
+Figure 4-8.
+
+4-2
+
+===== PDF PAGE 126 =====
+Drawing or Print Numbers
+All prints are identified by a number that appears in a number
+block in the lower right corner of the title block. It may also
+be shown in other places—such as near the top border line,
+in the upper right corner, or on the reverse side of the print at
+both ends—so that the number shows when the print is folded
+or rolled. The purpose of the number is quick identification of
+a print. If a print has more than one sheet and each sheet has
+the same number, this information is included in the number
+block, indicating the sheet number and the number of sheets
+in the series. [Figure 4-4B]
+
+Figure 4-2. Large format printer.
+
+Removed Section
+A removed section illustrates parts of an object. It is drawn
+like revolved sections, except it is placed at one side and
+often drawn to a larger scale than the view indicated to bring
+out pertinent details.
+Figure 4-9 is an illustration of removed sections. Section
+A-A shows the cross-sectional shape of the object at cutting
+plane line A-A. Section B-B shows the cross-sectional shape
+at cutting plane line B-B. These sectional views are drawn
+to the same scale as the principal view.
+
+Title Blocks
+Every print must have some means of identification.
+This is provided by a title block. [Figure 4-4A] The title
+block consists of a drawing number and certain other data
+concerning the drawing and the object it represents. This
+information is grouped in a prominent place on the print,
+usually in the lower right-hand corner. Sometimes the title
+block is in the form of a strip extending almost the entire
+distance across the bottom of the sheet.
+Although title blocks do not follow a standard form as far
+as layout is concerned, all of them present essentially the
+following information:
+1.
+
+A drawing number to identify the print for filing
+purposes and to prevent confusing it with any
+other print.
+
+2.
+
+The name of the part or assembly
+
+3.
+
+The drawing scale
+
+4.
+
+The date
+
+5.
+
+The name of the firm
+
+6.
+
+The name of the draftsmen, the checker, and the person
+approving the drawing
+
+Reference and Dash Numbers
+Reference numbers that appear in the title block refer you
+to the numbers of other prints. When more than one detail
+is shown on a drawing, dash numbers are used. Both parts
+would have the same drawing number plus an individual
+number, such as 40267-1 and 40267-2.
+In addition to appearing in the title block, dash numbers
+may appear on the face of the drawing near the parts they
+identify. Dash numbers are also used to identify right-hand
+and left-hand parts.
+In aircraft, many parts on the left side are like the
+corresponding parts on the right side but in reverse. The lefthand part is always shown in the drawing. The right-hand
+part is called for in the title block. Above the title block a
+notation is found, such as: 470204-1LH shown; 470204-2RH
+opposite. Both parts carry the same number, but the part
+called for is distinguished by a dash number. Some prints
+have odd numbers for left-hand parts and even numbers for
+right-hand parts.
+
+Universal Numbering System
+The universal numbering system provides a means of
+identifying standard drawing sizes. In the universal
+numbering system, each drawing number consists of six or
+seven digits. The first digit is always 1, 2, 4, or 5 and indicates
+the size of the drawing. The number 1 indicates a drawing of
+8½" × 11"; number 2 indicates an 11" × 17" drawing; number
+4 represents a drawing of 17" × 22"; and 5 indicates a width
+of between 17 and 36 inches but on a continuous roll. Letters
+are also used (and becoming more prevalent) with the most
+common letters being A through E. The letter A is 8½" × 11",
+B is 11" × 17", C is 17" × 22", D is 22" × 34" and E is 34"
+× 44". There are additional letters, such as D1 at 24" × 36",
+E1 at 30" × 42" and additional sizes unique to even larger
+formats but generally reserved for inter-company operations.
+The remaining digits identify the drawing. Many firms have
+modified this basic system to conform to their needs. The
+letter or number depicting the standard drawing size may be
+4-3
+
+===== PDF PAGE 127 =====
+Figure 4-3. Detail drawing.
+
+4-4
+
+-03
+
+REVISIONS
+FOR REVISION HISTORY SEE SHEET 1
+
+2
+
+SHEET 3 OF 3
+
+1
+
+A
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+SIZE
+
+FLAT PATTERN
+FOR REFERENCE ONLY
+
+1
+
+SWorks Drawing No.:
+
+A
+
+B
+
+3
+
+B
+
+4
+
+C
+
+5
+
+C
+
+6
+
+D
+
+7
+
+D
+
+8
+
+===== PDF PAGE 128 =====
+Figure 4-4. Assembly drawing.
+
+4-5
+
+A
+
+B
+
+C
+
+D
+
+CWHITWORTH
+
+FORM (SWorks) 86359 REV -
+
+8
+
+8
+
+Zone Numbers
+
+6
+
+F
+7
+
+E Notes
+
+7
+
+2
+
+6
+
+6
+
+EC130T2
+
+5
+
+5
+
+G
+
+4
+
+-01
+
+ITEM
+
+H Scale
+2
+
+B
+125
+
+SIZE
+
+S-TEC
+
+B
+
+C
+
+D
+
+Drawing No.:
+
+1
+
+SHEET 1 OF 3
+
+Drawing NumberA
+
+S-TEC
+-01
+
+2
+
+1
+
+1
+
+S-TEC
+
+3
+
+1
+
+-02
+
+S-TEC
+
+S-TEC
+
+1
+
+S-TEC
+
+TITLE:
+
+REVISIONS
+
+5
+
+-03
+
+-
+
+2
+
+6
+
+3
+
+3
+
+12
+
+8
+
+CC. Bill of Materials
+
+Allowances and Tolerance
+
+A Title Block
+
+5
+
+3
+
+4
+
+D Revision Block
+
+===== PDF PAGE 129 =====
+Figure 4-5. Installation drawing.
+
+4-6
+
+A
+
+B
+
+C
+
+D
+
+FORM 86359 REV -
+
+8
+
+8
+
+(REF)
+
+6
+
+6
+
+REF
+
+REF
+
+7
+
+7
+
+1
+
+6
+
+2
+
+6
+
+2
+8
+
+C
+
+5
+
+5
+
+1
+
+3
+
+REF
+
+6
+
+4
+
+4
+
+11
+
+3
+
+11
+
+9
+
+8
+
+3
+
+12
+
+10
+
+REVISIONS
+
+2
+
+5
+
+SIZE
+
+REF
+
+2
+
+2
+REF
+
+1
+
+REV
+
+SHEET 3 OF 3
+
+1
+
+SWorks Drawing No.:
+
+FOR REVISION HISTORY SEE SHEET 1
+
+2
+
+A
+
+B
+
+C
+
+D
+
+===== PDF PAGE 130 =====
+Figure 4-6. Sectional view of a cable connector.
+
+prefixed to the number, separated from it by a dash. Other
+numbering systems provide a separate box preceding the
+drawing number for the drawing size identifier. In another
+modification of this system, the part number of the depicted
+assembly is assigned as the drawing number.
+
+Drawing Standards
+Drawing standards cover such items as paper sizes, notes,
+numbering systems, geometric dimensions and tolerances,
+abbreviations, welding symbols, roughness symbols, and
+electrical symbols. These standards cover metric and inch
+measurements, as well as computer-drafting standards.
+Different standards for drawings are used in industry and
+some of the more common ones are published by the
+International Organization for Standardization (ISO) and the
+American National Standards Institute (ANSI).
+
+Bill of Material
+A list of the materials and parts necessary for the fabrication
+or assembly of a component or system is often included
+on the drawing. The list is usually in ruled columns that
+
+Figure 4-7. Half section of a Capstan servo.
+
+Figure 4-8. Revolved sections.
+
+4-7
+
+===== PDF PAGE 131 =====
+to the changes by lettering or numbering them and listing those
+changes against the symbol in a revision block. [Figure 4-4D]
+The revision block contains the identification symbol, the
+date, the nature of the revision, the authority for the change,
+and the name of the draftsman who made the change.
+
+B
+
+B
+
+SECTION B-B
+
+A
+
+A
+
+SECTION A-A
+
+Figure 4-9. Removed sections.
+
+provide the part number, name of the part, material the part
+is to be constructed of, the quantity required, and the source
+of the part or material. A typical bill of material is shown
+in Figure 4-4C. On drawings that do not have a bill of
+material, the data may be indicated directly on the drawing.
+On assembly drawings, each item is identified by a number
+in a circle or square. An arrow connecting the number with
+the item assists in locating it in the bill of material.
+
+Other Drawing Data
+Revision Block
+Revisions to a drawing are necessitated by changes in
+dimensions, design, or materials. The changes are usually
+listed in ruled columns either adjacent to the title block or at
+one corner of the drawing. All changes to approved drawings
+must be carefully noted on all existing prints of the drawing.
+When drawings contain such corrections, attention is directed
+
+To distinguish the corrected drawing from its previous
+version, many firms are including, as part of the title block,
+a space for entering the appropriate symbol to designate that
+the drawing has been changed or revised.
+Notes
+Notes are added to drawings for various reasons. Some of these
+notes refer to methods of attachment or construction. Others
+give alternatives, so that the drawing can be used for different
+styles of the same object. Still others list modifications that
+are available. Notes may be found alongside the item that
+they refer to. If the notes are lengthy, they may be placed
+elsewhere on the drawing and identified by letters or numbers.
+Notes are used only when the information cannot be conveyed
+in the conventional manner or when it is desirable to avoid
+crowding the drawing. Figure 4-4E illustrates one method
+of depicting notes.
+When the note refers to a specific part, a light line with an
+arrowhead leads from the note to the part. If it applies to more
+than one part, the note is worded to eliminate ambiguity as
+to the parts it pertains to. If there are several notes, they are
+generally grouped together and numbered consecutively.
+Zone Numbers
+Zone numbers on drawings are like the numbers and letters
+printed on the borders of a map. They help locate a point.
+To find a point, mentally draw horizontal and vertical lines
+from the letters and numerals specified; the point where these
+lines intersect is the area sought. Figure 4-4F shows the zone
+numbers on a drawing.
+Use the same method to locate parts, sections, and views
+on large drawings, particularly assembly drawings. Parts
+numbered in the title block can be located on the drawing
+by finding the numbers in squares along the lower border.
+Zone numbers read from right to left.
+Station Numbers & Location Identification on
+Aircraft
+A numbering system is used on large assemblies for aircraft
+to locate stations, such as fuselage frames. Fuselage station
+185 indicates a location that is 185 inches from the datum of
+the aircraft. The measurement is usually taken from the nose
+or zero station, but in some instances, it may be taken from
+the firewall or some other point chosen by the manufacturer.
+Just as forward and aft locations on aircraft are made by
+4-8
+
+===== PDF PAGE 132 =====
+reference to the datum, locations left and right of the aircraft’s
+longitudinal axis are made by reference to the buttock line
+and are called butt stations. Vertical locations on aircraft are
+made in reference to the waterline.
+The same station numbering system is used for wing and
+stabilizer frames. The measurement is taken from the
+centerline or zero station of the aircraft. Figure 4-10 shows
+use of the fuselage stations (FS), waterline locations (WL),
+and left and right buttock line locations (RBL and LBL).
+Allowances & Tolerances
+When a given dimension on a print shows an allowable
+variation, the plus (+) figure indicates the maximum, and the
+minus (−) figure the minimum allowable variation. The sum
+of the plus and minus allowance figures is called tolerance.
+[Figure 4-4G] For example, using 0.225 + 0.0025 − 0.0005, the
+plus and minus figures indicate the part is acceptable if it is not
+more than 0.0025 larger than the 0.225 given dimension, or not
+more than 0.0005 smaller than the 0.225 dimension. Tolerance
+in this example is 0.0030 (0.0025 max plus 0.0005 min).
+If the plus and minus allowances are the same, you will find
+them presented as 0.225 ± 0.0025. The tolerance would then
+be 0.0050. Allowance can be indicated in either fractional or
+decimal form. When very accurate dimensions are necessary,
+decimal allowances are used. Fractional allowances are
+sufficient when precise tolerances are not required. Standard
+tolerances of –0.010 or −1⁄32 may be given in the title block
+of many drawings, to apply throughout the drawing.
+Finish Marks
+Finish marks are used to indicate the surface that must
+be machine finished. Such finished surfaces have a better
+appearance and allow a closer fit with adjoining parts. During
+the finishing process, the required limits and tolerances must
+be observed. Do not confuse machined finishes with those of
+paint, enamel, chromium plating, and similar coating.
+Scale
+Some drawings are made the same size as the drawn part;
+reflecting a scale of 1:1. Other scales may be used. However,
+when drawings are made on a computer, drawing sizes may
+be easily increased (zoom in) or decreased (zoom out). Some
+electronic printers have the same capability. Furthermore,
+when a 1:1 copy of a print is made, the copy size may differ
+slightly from that of the original. For accurate information,
+refer to the dimensions shown on the drawing. [Figure 4-4H]
+Application
+When shown near or in the title block, application may
+refer to a specific aircraft, assembly, sub-assembly or
+unique application. For example, in Figure 4-4A the title
+
+block indicates the bracket assembly is for a Roll Servo
+installation for an S-Tec Auto Pilot installation. If this
+drawing pertained to a B95 Aircraft equipped with an AeroTech air conditioning system and the bracket illustrated was
+unique to that installation, the title block would provide that
+application information. The title block may indicate Bracket
+Assy., Roll Servo, with Aero-Tech air conditioner (Model
+AT103-1) installed.
+
+Methods of Illustration
+Applied Geometry
+Geometry is the branch of mathematics that deals with
+lines, angles, figures, and certain assumed properties in
+space. Applied geometry, as used in drawings, makes use
+of these properties to accurately and correctly represent
+objects graphically. In the past, draftsmen utilized a variety
+of instruments with various scales, shapes, and curves to
+make their drawings. Today, computer software graphics
+programs show drawings at nearly any scale, shape, and curve
+imaginable, outdating the need for additional instruments.
+Several methods are used to illustrate objects graphically.
+The most common are orthographic projections, pictorial
+drawings, diagrams, and flowcharts.
+
+Orthographic Projection Drawings
+To show the exact size and shape of all the parts of complex
+objects, several views are necessary. This is the system used
+in orthographic projection.
+In orthographic projection, there are six possible views of
+an object, because all objects have six sides—front, top,
+bottom, rear, right side, and left side. Figure 4-11A shows
+an object placed in a transparent box, hinged at the edges.
+The projections on the sides of the box are the views as seen
+looking straight at the object through each side. If the outlines
+of the object are drawn on each surface of the box, and the
+box is then opened [Figure 4-11B] to lay flat [Figure 4-11C],
+the result is a six-view orthographic projection.
+It is seldom necessary to show all six views to portray an
+object clearly; therefore, only those views necessary to
+illustrate the required characteristics of the object are drawn.
+One-, two-, and three-view drawings are the most common.
+Regardless of the number of views used, the arrangement
+is generally as shown in Figure 4-11, with the front view
+as principal view. If the right-side view is shown, it will be
+to the right of the front view. If the left-side view is shown,
+it will be to the left of the front view. The top and bottom
+views, if included, will be shown in their respective positions
+relative to the front view.
+One-view drawings are commonly used for objects of
+4-9
+
+===== PDF PAGE 133 =====
+WATER
+LINE (WL)
+
+FS 350.2
+WL 165.5
+FS 55.6
+
+150.0
+
+FS 100.0
+
+FS 222.0
+
+FS 38.3
+WL100.0
+NOTE
+Reference datum located
+at fuselage station 0.0
+
+50.0
+
+LEMAC
+FS 133.1
+
+BUTTOCK LINE (BL)
+230.0
+
+350.0
+
+300.0
+
+250.0
+
+200.0
+
+150.0
+
+100.0
+
+50.0
+
+0.0
+
+FS 157.5
+
+FUSELAGE
+STATION (FS)
+
+RBL 229.5
+
+200.0
+
+150.0
+
+100.0
+
+RBL 87.7
+TYPICAL LBL
+
+MAC 47.7"
+
+RBL 77.3
+
+RBL 63.1
+50.0
+
+BL 0.0
+
+BL 0.0
+
+50.0
+
+LBL 63.1
+LBL 77.3
+
+100.0
+
+150.0
+
+200.0
+230.0
+
+BUTTOCK LINE (BL)
+
+LBL 229.5
+
+Figure 4-10. Station numbers and location identification on aircraft.
+
+4-10
+
+===== PDF PAGE 134 =====
+uniform thickness, such as gaskets, shims, and plates. A
+dimensional note gives the thickness as shown in Figure 4-12.
+One-view drawings are also commonly used for cylindrical,
+spherical, or square parts if all the necessary dimensions can
+be properly shown in one view. When space is limited and
+two views must be shown, symmetrical objects are often
+represented by half views, as illustrated in Figure 4-13.
+Aircraft drawings seldom show more than two principal or
+complete views of an object. Instead, there will be usually one
+complete view and one or more detail views or sectional views.
+Detail View
+A detail view shows only a part of the object, but in greater
+detail and to a larger scale than the principal view. The
+part that is shown in detail elsewhere on the drawing is
+usually encircled by a heavy line on the principal view.
+[Figure 4-14] The principal view shows the complete object,
+while the detail view is an enlarged drawing of a portion of
+the object.
+
+Pictorial Drawings
+A pictorial drawing is like a photograph. [Figure 4-15]
+It shows an object as it appears to the eye, but it is not
+satisfactory for showing complex forms and shapes. Pictorial
+drawings are useful in showing the general appearance
+of an object and are used extensively with orthographic
+projection drawings. Pictorial drawings are used in Aircraft
+Maintenance Manuals (AMM), Structural Repair Manuals
+(SRM), and Illustrated Parts Catalogues (IPC). Four types
+of pictorial drawings used frequently by aircraft engineers
+and technicians are: perspective, isometric, oblique, and
+exploded view.
+Perspective Drawings
+A perspective view shows an object as it appears to an
+observer. [Figure 4-16A] It most closely resembles the way
+an object would look in a photograph. Because of perspective,
+some of the lines of an object are not parallel and therefore
+the actual angles and dimensions are not accurate.
+Isometric Drawings
+An isometric view uses a combination of the views of an
+orthographic projection and tilts the object forward so
+that portions of all three views can be seen in one view.
+[Figure 4-16B] This provides the observer with a threedimensional view of the object. Unlike a perspective drawing
+where lines converge and dimensions are not true, lines in
+an isometric drawing are parallel and dimensioned as they
+are in an orthographic projection.
+
+Oblique Drawings
+An oblique view is like an isometric view, except for one
+distinct difference. In an oblique drawing, two of the three
+drawing axes are always at right angles to each other.
+[Figure 4-16C]
+Exploded View Drawings
+An exploded view drawing is a pictorial drawing of two or
+more parts that fit together as an assembly. The view shows
+the individual parts and their relative position to the other
+parts before they are assembled. [Figure 4-17]
+Exploded view drawings are often used in IPCs that are used
+to order parts. The exploded view drawing has numbers and
+the numbers correspond to a list of part numbers. Exploded
+views are also used in Maintenance Instruction Manuals
+(MIM) for the assembly and repair of aircraft components.
+These drawings are often accompanied by notes that explain
+the assembly process.
+
+Diagrams
+A diagram may be defined as a graphic representation of
+an assembly or system, indicating the various parts and
+expressing the methods or principles of operation. There are
+many types of diagrams; however, those that the aviation
+mechanic is concerned with during the performance of their
+job may be grouped into four classes or types: installation,
+schematic, block, and wiring diagrams.
+Installation Diagrams
+Figure 4-18 is an example of an installation diagram.
+This is a diagram of the installation of the flight guidance
+control components of an aircraft. It identifies each of the
+components in the systems and shows their location in the
+aircraft. Each number (1, 2, 3, and 4) on the detail shows the
+location of the individual flight guidance system components
+within the flight deck of the aircraft. Installation diagrams are
+used extensively in aircraft maintenance and repair manuals,
+and are invaluable in identifying and locating components
+and understanding the operation of various systems.
+Schematic Diagrams
+Schematic diagrams do not indicate the location of the
+individual components in the aircraft nor do they show
+the actual size and shape of the components, but rather
+locate components with respect to each other within the
+system. Schematics show the principle of operation of an
+aircraft system and are often used for troubleshooting and
+training purposes.
+Figure 4-19 illustrates a schematic diagram of an aircraft air
+conditioning system. High-speed bleed air from the engine is
+4-11
+
+===== PDF PAGE 135 =====
+A
+
+OBJECT
+
+B ROTATED
+
+TOP
+
+LEFT SIDE
+
+FRONT
+
+RIGHT SIDE
+
+REAR
+
+C FLAT
+BOTTOM
+
+Figure 4-11. Orthographic projection.
+
+combined with cold air in the mixing chamber and distributed
+via a manifold to various parts of the aircraft.
+Note that each line is coded for ease of reading and tracing
+the flow. Each component is identified by name, and its
+location within the system can be ascertained by noting
+
+the lines that lead into and out of the unit. Schematic
+diagrams and installation diagrams are used extensively in
+aircraft manuals.
+Block Diagrams
+Block diagrams are used to show a simplified relationship of a
+
+Figure 4-12. One-view drawing.
+
+4-12
+
+===== PDF PAGE 136 =====
+Figure 4-13. Symmetrical object with exterior half view.
+
+more complex system of components. [Figure 4-20] Individual
+components are drawn as a rectangle (block) with lines
+connecting it to other components (blocks) that it interfaces
+with during operation.
+
+Figure 4-15. Pictorial drawing.
+
+Wiring Diagrams
+Wiring diagrams show the electrical wiring and circuitry,
+coded for identification, of all the electrical appliances and
+devices used on aircraft. [Figure 4-21] These diagrams, even
+for relatively simple circuits, can be quite complicated. For
+
+Flowcharts
+
+8
+
+Flowcharts are used to illustrate a sequence or flow of
+events. There are two types of flow charts most frequently
+
+5
+
+6
+
+7
+
+technicians involved with electrical repairs and installations,
+a thorough knowledge of wiring diagrams and electrical
+schematics is essential.
+
+4
+
+3
+
+2
+
+1
+
+REF
+
+REVISIONS
+FOR REVISION HISTORY SEE SHEET 1
+
+D
+
+D
+
+REF
+
+REF
+
+22
+
+REF
+
+8
+
+3
+
+6
+
+REF
+
+23
+
+C
+
+E
+
+C
+
+5
+
+E
+
+9
+
+B
+
+5
+
+B
+
+23
+
+A
+
+A
+
+2
+
+3
+
+FORM 86359 REV -
+
+VIEW C
+
+SIZE
+
+SWorks Drawing No.:
+
+REV
+
+-
+
+SHEET 4 OF 5
+
+8
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Figure 4-14. Detail view.
+
+4-13
+
+===== PDF PAGE 137 =====
+A
+
+B
+
+PERSPECTIVE
+
+C
+
+ISOMETRIC
+
+OBLIQUE
+
+Figure 4-16. (A) Perspective, (B) isometric, and (C) oblique drawings.
+
+used in the aviation industry: troubleshooting flowcharts
+and logic flowcharts.
+7
+
+5
+
+6
+
+4
+
+Troubleshooting Flowchart
+Troubleshooting flowcharts are frequently used for the
+detection
+of faulty components.
+They often1 consist of a
+2
+3
+series of yes or no questions. If the answer to a question
+
+D
+
+5
+
+C
+
+3
+
+B
+
+6
+
+6
+5
+
+3
+
+A
+TITLE:
+
+SIZE
+
+Drawing No.:
+
+SHEET 1 OF 2
+
+7
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Figure 4-17. Exploded view drawing.
+
+4-14
+
+===== PDF PAGE 138 =====
+is yes, one course of action is followed. If the answer is
+no, a different course of action is followed. In this simple
+manner, a logical solution to a problem may be achieved.
+Figure 4-22 shows a flow chart to determine the repair
+options for a composite structure.
+Logic Flowchart
+Another type of flowchart, developed specifically for analysis
+of digitally-controlled components and systems, is the logic
+
+flowchart. [Figure 4-23] A logic flowchart uses standardized
+symbols to indicate specific types of logic gates and their
+relationship to other digital devices in a system. Since digital
+systems make use of binary mathematics consisting of 1s and
+0s, voltage or no voltage, a light pulse or no light pulse, and
+so forth, logic flowcharts consist of individual components
+that take an input and provide an output that is either the same
+as the input or opposite. By analyzing the input or multiple
+inputs, it is possible to determine the digital output or outputs.
+
+LEGEND
+1. Screw
+2. Cable Connector
+3. Altitude/Vertical Speed Selector
+4. Flight Guidance Program/Computer
+
+A
+
+2
+3
+
+1
+Serials 1005 thru 1336
+and 1337 and subs
+w/o PFD
+
+FW
+
+D
+
+4
+
+ALTITUDE
+TRANSDUCER
+(REF)
+
+Figure 4-18. Example of an installation diagram (flight guidance components).
+
+4-15
+
+===== PDF PAGE 139 =====
+Lines and Their Meanings
+Every drawing is composed of lines. Lines mark the
+boundaries, edges, and intersection of surfaces. Lines are
+used to show dimensions and hidden surfaces and to indicate
+centers. Obviously, if the same kind of line is used to show
+these variations, a drawing becomes a meaningless collection
+of lines. For this reason, various kinds of standardized lines
+are used on aircraft drawings. [Figure 4-24] Examples of
+correct line uses are shown in Figure 4-25.
+
+Most drawings use three widths, or intensities, of lines:
+thin, medium, or thick. These lines may vary somewhat
+on different drawings, but there is a noticeable difference
+between a thin and a thick line, with the width of the medium
+line somewhere between the two.
+Centerlines
+Centerlines are made up of alternate long and short
+dashes. They indicate the center of an object or part of an
+object. Where centerlines cross, the short dashes intersect
+
+Figure 4-19. Schematic diagram of an air conditioning system for a B737 NG.
+
+4-16
+
+===== PDF PAGE 140 =====
+symmetrically. In the case of very small circles, the
+centerlines may be shown unbroken.
+
+holes, the angle of countersinking and the diameters are
+given. [Figure 4-26]
+
+Dimension Lines
+A dimension line is a light solid line, broken at the midpoint
+for insertion of measurement indications, and having opposite
+pointing arrowheads at each end to show origin and termination
+of a measurement. They are generally parallel to the line that
+the dimension is given for, placed outside the outline of the
+object, and between views if more than one view is shown.
+
+The dimensions given for tolerances signify the amount
+of clearance allowable between moving parts. A positive
+allowance is indicated for a part that is to slide or revolve
+upon another part. A negative allowance is one given for a
+force fit. Whenever possible, the tolerance and allowances for
+desired fits conform to those set up in the American Standard
+for Tolerances, Allowances, and Gauges for Metal Fits. The
+classes of fits specified in the standard may be indicated on
+assembly drawings.
+
+All dimensions and lettering are placed so that they read from
+left to right. The dimension of an angle is indicated by placing
+the degree of the angle in its arc. The dimensions of circular
+parts are always given in terms of the diameter of the circle
+and are usually marked with the letter D or the abbreviation
+DIA following the dimension. The dimension of an arc is
+given in terms of its radius and is marked with the letter R
+following the dimension. Parallel dimensions are placed so
+that the longest dimension is farthest from the outline and the
+shortest dimension is closest to the outline of the object. On
+a drawing showing several views, the dimensions are placed
+upon each view to show its details to the best advantage.
+In dimensioning distances between holes in an object,
+dimensions are usually given from center to center rather than
+from outside to outside of the holes. When several holes of
+various sizes are shown, the desired diameters are given on a
+leader followed by notes indicating the machining operations
+for each hole. If a part is to have three holes of equal size,
+equally spaced, this information is explicitly stated. For
+
+Extension Lines
+Extensions are used to extend the line showing the side or
+edge of a figure for placing a dimension to that side or edge.
+They are very narrow and have a short break where they
+extend from the object and extend a short distance past the
+arrow of the dimensioning line.
+Sectioning Lines
+Sectioning lines indicate the exposed surfaces of an object in
+a sectional view. They are generally thin full lines, but may
+vary with the kind of material shown in section.
+Phantom Lines
+Phantom lines indicate the alternate position of parts of the
+object or the relative position of a missing part. They are
+composed of one long and two short evenly spaced dashes.
+
+AC Input
+Phase A
+
+Signal
+Conditioning
+and Balancing
+
+Reference
+Voltage
+PU
+
+DO
+
+AC Input
+Phase B
+
+Signal
+Conditioning
+and Balancing
+
+Voltage
+Selector
+
+Comparator
+
+Power
+Amplifier
+Output
+Relay
+
+AC Input
+Phase C
+
+Signal
+Conditioning
+and Balancing
+
+Figure 4-20. Block diagram.
+
+precision work, sizes are given in decimals. Diameters and
+depths are given for counterbored holes. For countersunk
+
+4-17
+
+===== PDF PAGE 141 =====
+S1
+33
+J1A
+
+50
+J1A
+
+J2A
+37
+J2A
+J3A
+69
+J3A
+
+BOTH ON 2
+
+M
+
+BOTH ON 1
+
+NORMAL
+BOTH ON 2
+
+J2A
+36
+J2A
+J1
+31
+J1
+
+S1
+M
+
+J1
+44
+J1
+J2A
+35
+J2A
+
+1A
+1B
+
+48
+J1A
+J4A
+48
+J4A
+
+NORMAL
+AIR DATA
+INST
+SWITCHING
+UNIT
+34 - 14
+UIO - 207
+
+L ON AUX
+ATTITUDE
+SWITCHING UNIT
+34 - 23
+UIO - 228
+R ON AUX
+NORMAL
+
+BOTH ON 1
+NORMAL
+
+M
+
+J1
+42
+J1
+
+J1
+33
+J1
+
+S2
+
+J2B
+64
+J2B
+
+2A
+2B
+
+BOTH ON 2
+
+M
+J1B
+50
+
+J1B
+33
+
+J2B
+79
+J2B
+
+J4A
+45
+J4A
+J1A
+45
+
+BOTH ON 1
+
+S2
+
+J4A
+45
+J4A
+J1A
+45
+48
+J1A
+J4A
+48
+J4A
+J3A
+69
+J3A
+J2A
+37
+J2A
+
+DIGITAL
+FLIGHT GUIDANCE
+COMPUTER-1
+22-01-01
+UIO - 212
+C
+E
+N
+T
+R
+A
+L
+
+J3A
+93
+J3A
+
+FLIGHT DIRECTOR
+
+WIRING DIAGRAM
+
+P
+R
+O
+C
+E
+S
+S
+O
+R
+
+34 – 25 – 12
+34 – 51 – 01
+34 – 16 – 12
+34 – 24 – 01
+
+C
+E
+N
+T
+R
+A
+L
+P
+R
+O
+C
+E
+S
+S
+O
+R
+
+J3A
+93
+J3A
+
+FLIGHT DIRECTOR
+
+DIGITAL
+FLIGHT GUIDANCE
+COMPUTER-2
+22-01-01
+UIO - 213
+
+Figure 4-21. Wiring diagram.
+
+Break Lines
+Break lines indicate that a portion of the object is not shown
+on the drawing. Short breaks are made by solid, freehand
+lines. For long breaks, solid ruled lines with zigzags are used.
+Shafts, rods, tubes, and other such parts that have a portion
+of their length broken out have the ends of the break drawn
+as indicated in Figure 4-25.
+Leader Lines
+Leader lines are solid lines with one arrowhead. They
+indicate a part or portion that a note, number, or other
+reference applies.
+Hidden Lines
+Hidden lines indicate invisible edges or contours. Hidden
+lines consist of short dashes evenly spaced and are frequently
+
+referred to as dash lines.
+Outline or Visible Lines
+The outline or visible line is used for all lines on the drawing
+representing visible lines on the object. This is a medium-towide line that represents edges and surfaces that can be seen
+when the object is viewed directly.
+Stitch Lines
+Stitch lines are used to indicate the stitching or sewing lines
+on an article and consists of a series of very short dashes,
+approximately half the length of dash or hidden lines, evenly
+spaced. Long lines of stitching may be indicated by a series
+of stitch lines connected by phantom lines.
+
+4-18
+
+===== PDF PAGE 142 =====
+indicated symbolically if its exact specification is shown
+elsewhere on the drawing. In this case, the more easily
+drawn symbol for cast iron is used for the sectioning, and
+the material specification is listed in the bill of materials or
+indicated in a note. Figure 4-27 illustrates a few standard
+material symbols.
+
+DAMAGE
+ASSESSMENT
+
+EXCESSIVE
+
+SCRAP
+COMPLEX REPAIR
+
+REPAIR
+TYPE
+
+EASY REPAIR
+
+SUBMIT/
+CHECK
+SCHEME WITH
+MANUFACTURER
+/OEM
+TEMPORARY
+REPAIR
+
+APPROVED
+TEMPORARY
+REPAIR
+
+IMPROVISE
+AND
+RETURN TO
+REPAIR
+WORKSHOP
+
+PERMANENT COMPOSITE REPAIR
+ACCORDING TO APPROVED GUIDELINES
+
+QUALITY CHECK / NDT
+
+RETURN TO SERVICE
+Figure 4-22. Troubleshooting flowchart.
+
+Cutting Plane and Viewing Plane Lines
+Cutting plane lines indicate the plane where a sectional view
+of the object is taken. In Figure 4-25, plane line A indicates
+the plane that section AA is taken. Viewing plane lines
+indicate the plane from where a surface is viewed.
+
+Drawing Symbols
+The drawings for a component are composed largely of
+symbols and conventions representing its shape and material.
+Symbols are the shorthand of drawing. They graphically
+portray the characteristics of a component with a minimal
+amount of drawing.
+Material Symbols
+Section line symbols show the kind of material from which
+the part is to be constructed. The material may not be
+
+Shape Symbols
+Symbols can be used to excellent advantage when needed to
+show the shape of an object. Typical shape symbols used on
+aircraft drawings are shown in Figure 4-28. Shape symbols are
+usually shown on a drawing as a revolved or removed section.
+Electrical Symbols
+Electrical symbols represent various electrical devices
+rather than an actual drawing of the units. [Figure 4-29]
+Having learned what the various symbols indicate, it
+becomes relatively simple to look at an electrical diagram
+and determine what each unit is, what function it serves, and
+how it is connected in the system.
+
+Reading and Interpreting Drawings
+Aircraft technicians do not necessarily need to be accomplished
+in making drawings. However, they must have a working
+knowledge of the information that is to be conveyed to them.
+They most frequently encounter drawings for construction
+and assembly of new aircraft and components, during
+modifications, and for making repairs.
+A drawing cannot be read all at once any more than a whole
+page of print can be read at a glance. Both must be read
+one line at a time. To read a drawing effectively, follow a
+systematic procedure.
+Upon opening a drawing, read the drawing number and the
+description of the article. Next, check the model affected,
+the latest change letter, and the next assembly listed. Having
+determined that the drawing is the correct one, proceed to
+read the illustration(s).
+In reading a multiview drawing, first get a general idea of
+the shape of the object by scanning all the views. Then select
+one view for a more careful study. By referring back and
+forth to the adjacent view, it is possible to determine what
+each line represents.
+Each line on a view represents a change in the direction of
+a surface, but another view must be consulted to determine
+what the change is. For example, a circle on one view may
+mean either a hole or a protruding boss, as in the top view
+of the object in Figure 4-30. Looking at the top view, we see
+two circles. However, the other view must be consulted to
+
+4-19
+
+===== PDF PAGE 143 =====
+CLOSE TARGET • LOGIC "1" • LOW VOLTAGE (TEST POINTS ONLY)
+39
+40
+
+PROXIMITY
+DETECTOR
+
+1
+
+29
+B5 - 76
+DIM & TEST UNIT 3
+33 - 11
+
+2
+
+TEST
+
+CC
+
+28
+
+27
+
+28
+
+19
+
+U
+
+18
+
+30
+
+29
+
+R
+
+DIM
+
+L2-632
+LANDING GEAR
+POSITION
+INDICATOR
+32 - 61 - 04
+
+NOSE GEAR WARNED LIKE MAIN PRIOR TO 1,024
+11
+DD
+
+26
+
+R2-262
+GEAR
+INTERLOCK
+32-62
+
+27
+
+SI-412
+10
+
+G
+
+16
+17
+
+E
+B
+
+D
+32-35
+C
+D
+
+NOSE GEAR
+POS INTLK
+LEFT SWITCH
+
+HDL
+HOT
+ON
+
+28
+
+HDL
+ON
+
+DIM
+B
+TEST
+UNIT-2
+B5-75
+33-11
+
+30
+
+27
+
+1
+
+29
+
+2
+
+UNSAFE
+
+R
+
+SAFE
+
+G
+
+SHIP 1,024 & SUBS
+OR S832 - 17B
+
+LEFT
+
+NOSE
+
+G 3
+
+3
+
+RIGHT
+
+SEE 00 - 04
+Z
+
+14
+
+9
+
+15
+
+28
+TEST
+
+B
+
+6
+
+8
+
+I
+
+20
+
+34
+
+1
+
+29
+
+2
+
+33
+
+2
+
+B5 - 74
+DIM & TEST UNIT-1
+33 - 11
+
+53
+44
+
+42
+
+PROXIMITY
+DETECTOR
+
+Y
+
+GROUND IS
+DOWN B LOCKED
+
+R MAIN
+
+51
+
+NOSE
+
+50
+
+47
+34
+
+L MAIN
+
+49
+
+46
+
+32-61-03
+
+FDAU
+UIO-206 31 - 31
+
+A
+
+1
+
+LANDING GEAR WARNING
+
+CENTRAL AURAL
+WARNING UNIT
+B5 - 71
+SEE 32 - 63
+
+RETARDED THROTTLE
+TURNS ON RED LIGHT
+P
+
+OTHER PROXIMITY
+UNIT SCHEMATICS
+27 – 02 27 – 83 32 – 62
+27 – 23 27 – 84 32 – 63
+27 – 60 31 – 51 52 – 61
+27 – 61 32 – 15 52 – 70
+
+GEAR
+HDL
+ON
+
+PROXIMITY SWITCH ELECTRONICS UNIT
+32 - 61 - OI
+B5 - 80
+
+24
+
+2
+
+1
+
+POWER
+SUPPLY
+
+A
+F
+
+2
+3
+
+UP
+
+DN
+UP
+
+1
+
+ALTERNATE GEAR
+LEVER SWITCH
+S1 - 466
+32 - 62
+
+A9
+
+WIRING DIAGRAM
+32 – 61 – 00
+27 – 61 – 11
+
+L GEAR UP & LATCHED
+
+62
+
+O
+
+12B
+
+A 19
+
+R GEAR UP & LATCHED
+
+57
+61
+
+ONE
+NOT
+WIRED
+
+B1 - 187
+
+AUTOSPOILER
+SWITCHING UNIT
+B5 - 70 27 - 61
+
+6B
+
+56
+
+S
+37
+
+36
+
+3
+
+2B VDC - L
+
+D
+
+4
+
+20
+18
+
+43
+
+5
+
+J1A
+
+G
+
+GEAR
+L2-265 DOOR
+OPEN
+
+54
+
+41
+
+R
+
+DIM
+
+30
+
+7
+
+27
+
+DOWN
+
+1
+
+LANDING GEAR
+HANDLE SWITCH
+S1 - 89
+32 - 62
+
+RIGHT AFT RADIO RACK - SHELF 1
+
+Figure 4-23. Logic flowchart.
+
+determine what each circle represents.
+A glance at the other view tells us that the smaller circle
+represents a hole, and the larger circle represents a protruding
+boss. In the same way, the top view must be consulted to
+determine the shape of the hole and the protruding boss.
+It can be seen from this example that one cannot read a print
+by looking at a single view when more than one view is given.
+Two views do not always describe an object and when three
+
+views are given, all three must be consulted to be sure the
+shape has been read correctly.
+After determining the shape of an object, determine its size.
+Information on dimensions and tolerances is given so that
+certain design requirements may be met. Dimensions are
+indicated by figures either with or without the inch mark. If no
+inch mark is used, the dimension is in inches. It is customary
+to give part dimensions and an overall dimension that gives
+the greatest length of the part. If the overall dimension is
+
+4-20
+
+===== PDF PAGE 144 =====
+Center line
+Dimension
+Extension line
+Break (long)
+Break (long)
+Phantom
+Sectioning
+Hidden
+Stitch line
+Visible line
+Datum line
+Cutting plane
+
+Thin
+Thin
+Thin
+Thin
+Thick
+Thin
+Thin
+Medium
+Medium
+Thick
+Thick
+Extra thick
+
+Cutting plane
+
+Extra thick
+
+Complex cutting plane
+
+Extra thick
+
+³⁄16 DRILL
+3 HOLES
+EQUALLY
+SPACED
+¹⁄4 DRILL
+⁷⁄16 C’BORE
+¹⁄8 DEEP
+2 HOLES
+
+0.3125 DRILL
+0.3217 REAM
+³⁄16 DRILL
+80° C’SK
+TO ⁵⁄16 DIA
+
+80°
+
+Figure 4-24. The meaning of lines.
+
+missing, it can be determined by adding the separate part
+dimensions. Many drawings used for new aircraft and
+components are now using the metric system and millimeter
+(mm) is the unit used for these drawings.
+Drawings may be dimensioned in decimals or fractions. This
+is especially true about tolerances. Instead of using plus and
+minus signs for tolerances, many figures give the complete
+dimension for both tolerances. For example, if a dimension is
+2 inches with a plus or minus tolerance of 0.01, the drawing
+would show the total dimensions as:
+2.01
+1.99
+
+0.2560 DRILL
+
+¹⁄4 DRILL, ³⁄6 C’BORE
+¹⁄8 DEEP, 3 HOLES
+
+Figure 4-26. Dimensioning holes.
+
+A print tolerance (usually found in the title block) is a
+general tolerance that can be applied to parts where the
+dimensions are noncritical. Where a tolerance is not shown
+on a dimension line, the print tolerance applies.
+To complete the reading of a drawing, read the general notes
+and the content of the material block, find the various changes
+incorporated, and read the special information given in or
+
+Extension line
+
+Phantom line
+Center line
+
+Dimension line
+Sectioning line
+
+A
+
+Break line
+Section AA
+Outline
+
+Hidden line
+
+Cutting plane line
+
+Figure 4-25. Correct use of lines.
+
+4-21
+
+===== PDF PAGE 145 =====
+CAST IRON
+
+MAGNESIUM,
+ALUMINUM, AND
+ALUMINUM ALLOYS
+
+STEEL
+
+RUBBER, PLASTIC
+ELECTRICAL
+INSULATION
+
+BRASS, BRONZE,
+AND COPPER
+
+WOOD—ACROSS
+GRAIN
+
+BABBITT, LEAD,
+ZINC, AND ALLOYS
+
+WOOD—WITH
+GRAIN
+
+CORK, FELT, FABRIC,
+ASBESTOS, LEATHER,
+AND FIBER
+Figure 4-27. Standard material symbols.
+
+near views and sections.
+
+Drawing Sketches
+A sketch is a simple rough drawing that is made rapidly
+and without much detail. Sketches may take many forms—
+from a simple pictorial presentation to a multi-view
+orthographic projection.
+Just as aircraft technicians need not be highly skilled in
+creating drawings, they need not be accomplished artists.
+However, in many situations, they need to prepare a drawing
+to present an idea for a new design, a modification, or a repair
+method. The medium of sketching is an excellent way of
+accomplishing this.
+
+The rules and conventional practices for making mechanical
+drawings are followed to the extent that all views needed
+to portray an object accurately are shown in their proper
+relationship. It is also necessary to observe the rules for
+correct line use and dimensioning. [Figures 4-24 and 4-25]
+Sketching Techniques
+To make a sketch, first determine what views are necessary
+to portray the object. Then block in the views using light
+construction lines. Next, complete the details, darken the
+object outline, and sketch extension and dimension lines.
+Complete the drawing by adding notes, dimensions, title,
+date, and when necessary, the sketcher’s name. The steps in
+making a sketch of an object are illustrated in Figure 4-31.
+Basic Shapes
+Depending on the complexity of the sketch, basic shapes may
+be drawn in freehand or by use of templates. If the sketch
+is quite complicated or the technician is required to make
+frequent sketches, use of a variety of templates and other
+drafting tools is highly recommended.
+Repair Sketches
+A sketch is frequently drawn for repairs or for use in
+manufacturing a replacement part. Such a sketch must
+provide all necessary information to those who must make
+the repair or manufacture the part.
+The degree that a sketch is complete depends on its
+intended use. Obviously, a sketch used only to represent
+an object pictorially need not be dimensioned. If a part is
+to be manufactured from the sketch, it should show all the
+necessary construction details.
+
+Care of Drafting Instruments
+Good drawing instruments are expensive precision tools.
+Reasonable care given to them during their use and storage
+can prolong their service life.
+T-squares, triangles, and scales should not be used or placed
+where their surfaces or edges may be damaged. Use a drawing
+board only for its intended purpose and not in a manner that
+can mar the working surface.
+Compasses, dividers, and pens provide better results with
+less annoyance, if they are correctly shaped and sharpened
+and are not damaged by careless handling. Store drawing
+instruments in a place where they are not likely to be damaged
+by contact with other tools or equipment. Protect compass and
+divider points by inserting them into a piece of soft rubber or
+similar material. Never store ink pens without first cleaning
+and drying them thoroughly.
+4-22
+
+===== PDF PAGE 146 =====
+SQUARE SECTION (METAL)
+
+SQUARE SECTION (WOOD)
+
+ROUND SECTION (SOLID)
+
+ROUND SECTION (TUBULAR)
+
+ANGLE SECTION (METAL)
+
+CHANNEL SECTION (METAL)
+
+I-BEAM (METAL)
+
+SQUARE SECTION (TABULAR)
+
+Figure 4-28. Shape symbols.
+
+Graphs & Charts
+Graphs and charts are frequently used to convey information
+graphically or information given certain conditions. They
+often utilize values shown on the “x” and “y” axes that can
+be projected up and across to arrive at a specific result. Also,
+when data is entered into a computer database, software
+programs can create a variety of different bar graphs, pie
+charts, and so forth, to graphically represent that data.
+Reading & Interpreting Graphs & Charts
+When interpreting information shown on graphs and charts,
+it is extremely important that all the notes and legend
+information be carefully understood to eliminate any
+misinterpretation of the information presented.
+Nomograms
+A nomogram is a graph that usually consists of three
+sets of data. Knowledge of any two sets of data enables
+the interpreter to obtain the value for the third unknown
+corresponding value. One type of nomogram consists of three
+parallel scales graduated for different variables, so that when
+a straight edge connects any two values, the third can be read
+directly. Other types may use values on the “x” and “y” axes
+of a graph with the third corresponding value determined by
+the intersection of the “x” and “y” values with one of a series
+of curved lines. Figure 4-32 is an example of a nomogram
+that shows the relationship between aviation fuels, specific
+weight, and temperature.
+
+Microfilm & Microfiche
+The practice of recording drawings, parts catalogs, and
+maintenance and overhaul manuals on microfilms was
+utilized extensively in the past. Microfilm is available as
+regular 16 mm or 35 mm film. Since 35 mm film is larger,
+it provides a better reproduction of drawings. Microfiche is
+a card with pages laid out in a grid format. Microfilm and
+microfiche require use of special devices for both reading
+and printing the information.
+Most modern aircraft manufacturers have replaced microfilm
+and microfiche with digital storage methods utilizing CDs,
+DVDs, and other data storage devices. A great deal of service
+and repair information for older aircraft has been transferred
+to digital storage devices. However, there may still be a need
+to access information using the old methods. A well-equipped
+shop should have available, both the old microfilm and
+microfiche equipment, as well as new computer equipment.
+
+Digital Images
+Though not a drawing, a digital image created by a digital
+camera can be extremely helpful to aviation maintenance
+technicians in evaluating and sharing information concerning
+the airworthiness or other information about aircraft. Digital
+images can be rapidly transmitted over the World Wide Web
+as attachments to e-mail messages. Images of structural
+fatigue cracks, failed parts, or other flaws, as well as desired
+design and paint schemes, are just a few examples of the types
+of digital images that might be shared by any number of users
+over the Internet. Figure 4-33 is a digital image of damage
+to a composite structure taken with a simple digital camera.
+4-23
+
+===== PDF PAGE 147 =====
+CONDENSERS
+
+LAMPS − RED, GREEN, WHITE
+
+L
+
+R
+
+G
+
+W
+
+CONDUCTORS
+OR
+INTERSECTING
+ELECTRICALLY
+
+SINGLE
+
+CROSSING OVER
+EACH OTHER
+
+TRANSFORMER
+
+MOTORS
+
++
+M
+−
+
+GENERATORS
+
+M
+
+OR
+
+SOLENOID
+
++
+G
+−
+
+M
+
+DC
+
+AC
+
+G
+
+OR
+
+G
+
+DC
+
+AC
+
+METERS
+
+V
+
+A
+
+VOLT
+
+AMMETER
+
+RESISTOR
+
+RELAYS
+
+CONNECTORS
+REMOVABLE
+
+SPST
+MOMENTARY
+ON
+
+SPDT NORMAL OR
+MOMENTARY
+CONTACTS
+
+NOT ALL
+PINS SHOW
+
+MPDT NORMAL
+OR MOMENTARY
+CONTACTS
+
+PUSH
+RESET
+
+PUSH RESET
+PULL OFF
+
+SWITCH
+TYPE
+
+P S
+A
+B
+C
+D
+
+S P
+A
+B
+C
+D ALL PINS
+E SHOW
+
+FIXED
+
+P DESIGNATED PINS
+
+CIRCUIT BREAKERS
+
+AUTOMATIC
+RESET
+
+RHEOSTAT
+
+S DESIGNATED SOCKETS
+
+MOMENTARY
+SWITCH TYPE
+
+CURRENT
+LIMITER
+
+BATTERY
+
+BUS
+
+SWITCHES
+
+SPST
+MOMENTARY
+ON
+
+SPST
+
+SPDT
+CENTER
+OFF
+
+SPDT
+MOMENTARY
+ON
+
+SPDT
+
+SPDT CENTER
+OFF NORMAL OR
+MOMENTARY
+CONTACTS
+
+SPDT
+NORMAL OR
+MOMENTARY
+
+CONTACTS
+
+PRESSURE
+
+BIMETALIC
+THERMAL
+CUT-OUT
+
+PUSHBUTTON TYPE
+
+NORMAL POSITION
+MOMENTARY
+POSITION
+MPST
+
+MPDT CENTER
+OFF
+
+FUSE
+
+MECHANICAL LINKAGE
+
+SPLICE
+
+GROUND
+
+ELECTRICAL DISCONNECT
+
+NORMAL OR
+MOMENTARY
+CONTACTS
+
+NORMAL
+ON
+
+POLARITY
+DC
+
+BASIC
+
+10A
+
+MOMENTARY
+ON
+
++
+
+POSITIVE
+
+−
+NEGATIVE
+
+Figure 4-29. Electrical symbols.
+
+4-24
+
+===== PDF PAGE 148 =====
+Block in
+
+Add Detail
+
+Darken Views
+
+Add Dimensions
+1¼"
+
+1¼"
+
+1"
+1½"
+3"
+1-27-06 WEDGE
+
+¾"
+RJA
+
+Figure 4-31. Steps in sketching.
+
+Figure 4-30. Reading views.
+
+To provide information about the extent of the damage, a
+measurement scale, or other object, such as a coin, can be
+placed near the area of concern before the picture is taken.
+Also, within the text of the e-mail, the technician should
+state the exact location of the damage, referenced to fuselage
+station, wing station, and so forth.
+
+4-25
+
+===== PDF PAGE 149 =====
+Density Variation of Aviation Fuel
+Based on Average Specific Gravity
+Fuel
+
+Average Specific
+Gravity at 15 °C (59 °F)
+
+Aviation Kerosene
+Jet A and Jet A1
+
+0.812
+
+Jet B (JP-4)
+
+0.785
+
+AV Gas Grade 100/130
+
+0.703
+
+NOTE: The fuel quantity indicator is calibrated for correct indication when using Aviation Kerosene Jet A and Jet A1.
+When using other fuels, multiply the indicated fuel quantity in pounds by 0.99 for Jet B (JP-4) or by 0.98 for
+Aviation Gasoline (100/130) to obtain actual fuel quantity in pounds.
+
+Specific Weight (lb/US gal)
+
+7.5
+
+Aviation K
+e
+
+7.0
+
+rosene Jet
+
+A & Jet A1
+
+Jet B (JP-4)
+
+6.5
+
+Aviatio
+n
+
+6.0
+
+Gasolin
+
+e Grad
+
+e 100/1
+
+30
+
+5.5
+−40
+
+−30
+
+−20
+
+−10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Temperature (°C)
+Figure 4-32. Nomogram.
+
+Figure 4-33. Digital image of damage.
+
+4-26
+

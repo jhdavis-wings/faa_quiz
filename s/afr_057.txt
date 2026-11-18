@@ -1,0 +1,832 @@
+FAA-H-8083-31B Airframe Handbook, chapter 15 (Ice & Rain Protection), PDF pages 903-911
+
+===== PDF PAGE 903 =====
+bulkhead. The slip ring transmits current to the deice boot.
+The centrifugal force of the spinning propeller and air
+blast breaks the ice particles loose from the heated blades.
+[Figure 15-35]
+On one aircraft model, the boots are heated in a preset
+sequence, which is an automatic function controlled by a
+timer. This sequence is as follows: 30 seconds for the right
+prop outer elements; 30 seconds for the right prop inner
+elements; 30 seconds for the left prop outer elements; and,
+30 seconds for the left prop inner elements. Once the system
+is turned on for automatic is activated, it cycles continuously.
+A manual bypass of the timer is incorporated. [Figure 15-36]
+Chemical Propeller Deice
+Some aircraft models, especially single-engine GA aircraft,
+use a chemical deicing system for the propellers. Ice
+usually appears on the propeller before it forms on the
+wing. The glycol-based fluid is metered from a tank by a
+small electrically driven pump through a microfilter to the
+slinger rings on the prop hub. The propeller system can be a
+stand-alone system, or it can be part of a chemical wing and
+
+stabilizer deicing system such as the TKS™ weeping system.
+
+Ground Deicing of Aircraft
+The presence of ice on an aircraft may be the result of
+direct precipitation, formation of frost on integral fuel tanks
+after prolonged flight at high altitude, or accumulations on
+the landing gear following taxiing through snow or slush.
+In accordance with the Federal Aviation Administration
+(FAA) Advisory Circular (AC) 120-60, the aircraft must be
+free of all frozen contaminants adhering to the wings, control
+surfaces, propellers, engine inlets, or other critical surfaces
+before takeoff.
+Any deposits of ice, snow, or frost on the external surfaces of
+an aircraft may drastically affect its performance. This may be
+due to reduced aerodynamic lift and increased aerodynamic
+drag resulting from the disturbed airflow over the airfoil
+surfaces, or it may be due to the weight of the deposit over
+the whole aircraft. The operation of an aircraft may also be
+seriously affected by the freezing of moisture in controls,
+hinges, valves, microswitches, or by the ingestion of ice into
+the engine. When aircraft are hangared to melt snow or frost,
+
+Brushes
+
+Slip ring assembly
+Spinner bulkhead
+
+Electrically heated boot
+
+Figure 15-35. Electro thermal propeller deice system components.
+
+15-23
+
+===== PDF PAGE 904 =====
+LH prop
+
+RH prop
+
+Prop timer
+FDECGB
+Prop ammeter 14 -18A
+Auto prop deice 20A
+RH manual 20A
+Right manual
+override relay
+
+Left manual
+override relay
+
+Manual
+
+Manual prop
+deice control 5A
+
+Off
+
+LH manual 20A
+
+Manual prop deice
+control switch
+
+Figure 15-36. Propeller electrical deice system schematic.
+
+any melted snow or ice may freeze again if the aircraft is
+subsequently moved into subzero temperatures. Any measures
+taken to remove frozen deposits while the aircraft is on the
+ground must also prevent the possible refreezing of the liquid.
+Frost Removal
+Frost deposits can be removed by placing the aircraft in a
+warm hangar or by using a frost remover or deicing fluid.
+These fluids normally contain ethylene glycol and isopropyl
+alcohol and can be applied either by spray or by hand. It
+should be applied within 2 hours of flight. Deicing fluids
+may adversely affect windows or the exterior finish of the
+aircraft, only the type of fluid recommended by the aircraft
+manufacturer should be used. Transport category aircraft
+are often deiced on the ramp or a dedicated deicing location
+at the airport. Deicing trucks are used to spray the deicing
+and/or anti-icing fluid on aircraft surfaces. [Figure 15-37]
+
+Deicing & Anti-icing of Transport Type Aircraft
+Deicing Fluid
+The deicing fluid must be accepted according to its
+type for holdover times, aerodynamic performance, and
+material compatibility. The coloring of these fluids is also
+standardized. In general, glycol is colorless, Type-I fluids
+are orange, Type-II fluids are white/pale yellow, and TypeIV fluids are green. The color for Type-III fluid has not yet
+been determined.
+When aircraft surfaces are contaminated by frozen moisture,
+they must be deiced prior to dispatch. When freezing
+precipitation exists, and there is a risk of contamination of
+
+Figure 15-37. An American Airlines aircraft being deiced at
+Syracuse Hancock International Airport.
+
+the surface at the time of dispatch, aircraft surfaces must
+be anti-iced. If both deicing and anti-icing are required,
+the procedure may be performed in one or two steps. The
+selection of a one- or two-step process depends upon weather
+conditions, available equipment, available fluids, and the
+holdover time to be achieved.
+Holdover Time (HOT)
+Holdover Time (HOT) is the estimated time that deicing/
+anti-icing fluid prevents the formation of frost or ice and the
+accumulation of snow on the critical surfaces of an aircraft.
+HOT begins when the final application of deicing/anti-icing
+fluid commences and expires when the deicing/anti-icing
+fluid loses its effectiveness. Figure 15-38 shows a holdover
+timetable for Type IV fluid.
+Critical Surfaces
+Basically, all surfaces that have an aerodynamic, control,
+sensing, movement, or measuring function must be clean.
+These surfaces cannot necessarily be cleaned and protected
+in the same conventional deicing/anti-icing manner as the
+wings. Some areas require only a cleaning operation, while
+others need protection against freezing. The procedure of
+deicing may also vary according to aircraft limitations. The
+use of hot air may be required when deicing (e.g., landing
+gear or propellers).
+Figure 15-39 shows critical areas on an aircraft that
+should not be sprayed directly. Some critical elements and
+procedures that are common for most aircraft are:
+•
+
+Deicing/anti-icing fluids must not be sprayed directly
+on wiring harnesses and electrical components (e.g.,
+receptacles, junction boxes), onto brakes, wheels,
+exhausts, or thrust reversers.
+
+•
+
+Deicing/anti-icing fluid shall not be directed into the
+orifices of pitot heads, static ports, or directly onto
+15-24
+
+===== PDF PAGE 905 =====
+FAA Type IV Holdover Time Guidelines
+Guidelines for holdover times anticipated for SAE type IV fluid mixtures as function of weather conditions and OAT.
+CAUTION: This table is for use in departure planning only, and it should be used in conjunction with pretakeoff check procedures.
+OAT
+°C
+
+°F
+
+above 0 above 32
+
+SAE type IV fluid
+concentration neat
+fluid water
+(vol. %/vol.%)
+
+Approximate holdover times under various weather conditions (hours:minutes)
+Frost*
+
+Freezing
+Fog
+
+Snow◊
+
+Freezing
+drizzle***
+
+Light free
+rain
+
+Rain on
+cold soaked
+wing
+
+100/0
+
+18:00
+
+1:05–2:15
+
+0:35–1:05
+
+0:40–1:10
+
+0:25–0:40
+
+0:10–0:50
+
+72/25
+
+6:00
+
+1:05–1:45
+
+0:30–1:05
+
+0:35–0:50
+
+0:15–0:30
+
+0:05–0:35
+
+50/50
+
+4:00
+
+0:15–0:35
+
+0:05–0:20
+
+0:10–0:20
+
+0:05–0:10
+
+32
+through
+27
+
+100/0
+
+12:00
+
+1:05–2:15
+
+0:30–0:55
+
+0:40–1:10
+
+0:15–0:40
+
+75/25
+
+5:00
+
+1:05–2:15
+
+0:25–0:50
+
+0:35–0:50
+
+0:15–0:30
+
+50/50
+
+3:00
+
+1:15–0:35
+
+0:05–0:15
+
+0:10–0:20
+
+0:05–0:15
+
+below −3 below 27
+through through
+−14
+7
+below −14 below 7
+through through
+−25
+−13
+
+100/0
+
+12:00
+
+0:20–0:50
+
+0:20–0:40
+
+**0:20–0:45 **0:10–0:25
+
+75/25
+
+5:00
+
+0:25–0:50
+
+0:15–0:25
+
+**0:15–0:30 **0:10–0:20
+
+100/0
+
+12:00
+
+0:15–0:40
+
+0:15–0:30
+
+0
+through
+−3
+
+CAUTION:
+clear ice
+may require
+touch for
+confirmation
+
+Other*
+
+CAUTION:
+no holdover
+time
+guidelines
+exist
+
+100/0
+
+SAE type IV fluid may be used below −25 °C(−13 °F) if the freezing point of the fluid
+is at least 7 °C (13 °F) below the OAT and the aerodynamic acceptance criteria are met.
+Consider use of SAE type I when SAE type IV fluid cannot be used.
+
+°C = degrees Celsius
+°F = degrees Fahrenheit
+OAT= outside air temperature
+VOL = volume
+
+The responsiblity for the application of these data remains with the user.
+* During conditions that apply to aircraft protection for ACTIVE FROST.
+** No holdover time guidelines exist for this condition below −10 °C (14 °F).
+*** Use light freezing rain holdover times if positive identification of freezing drizzle is
+not possible.
+‡ Snow pellets, ice pellets, heavy snow, moderate and heavy freezing rain, hail.
+◊ Snow includes snow grains.
+
+below
+−25
+
+below
+−13
+
+CAUTIONS:
+• The time of protection will be shortened in heavy weather conditions: heavy
+precipitation rates or high moisture contents.
+• High wind velocity or jet blast may reduce holdover time below the lowest time
+stated in the range.
+• Holdover time may be reduced when aircraft skin temperature is lower than OAT.
+Figure 15-38. FAA deice holdover time guidelines.
+
+airstream direction detectors probes/angle of attack
+airflow sensors.
+•
+
+All reasonable precautions shall be taken to minimize
+fluid entry into engines, other intakes/outlets, and
+control surface cavities.
+
+•
+
+Fluids shall not be directed onto flight deck or cabin
+windows as this can cause crazing of acrylics or
+penetration of the window seals.
+
+•
+
+Any forward area from which fluid can blow back
+onto windscreens during taxi or subsequent takeoff
+shall be free of residues prior to departure.
+
+•
+
+If Type II, III, or IV fluids are used, all traces of the
+fluid on flight deck windows should be removed
+prior to departure, particular attention being paid to
+windows fitted with wipers.
+
+•
+
+Landing gear and wheel bays shall be kept free from
+buildup of slush, ice, or accumulations of blown snow.
+
+•
+
+When removing ice, snow, slush, or frost from aircraft
+surfaces, care shall be taken to prevent it entering and
+accumulating in auxiliary intakes or control surface
+
+hinge areas (e.g., manually remove snow from wings
+and stabilizer surfaces forward toward the leading
+edge and remove from ailerons and elevators back
+towards the trailing edge).
+Ice & Snow Removal
+Probably the most difficult deposit to deal with is deep, wet
+snow when ambient temperatures are slightly above the
+freezing point. This type of deposit should be removed with a
+soft brush or squeegee. Use care to avoid damage to antennas,
+vents, stall warning devices, vortex generators, etc., that
+may be concealed by the snow. Light, dry snow in subzero
+temperatures should be blown off whenever possible; the
+use of hot air is not recommended, since this would melt the
+snow, which would then freeze and require further treatment.
+Moderate or heavy ice and residual snow deposits should be
+removed with a deicing fluid. No attempt should be made to
+remove ice deposits or break an ice bond by force.
+After completion of deicing operations, inspect the aircraft to
+ensure that its condition is satisfactory for flight. All external
+surfaces should be examined for signs of residual snow or
+15-25
+
+===== PDF PAGE 906 =====
+No direct application of deicing/anti-icing fluid allowed
+
+Figure 15-39. No direct application of deicing/anti-icing fluid allowed.
+
+ice, particularly in the vicinity of control gaps and hinges.
+Check the drain and pressure sensing ports for obstructions.
+When it becomes necessary to physically remove a layer of
+snow, all protrusions and vents should be examined for signs
+of damage. Control surfaces should be moved to ascertain
+that they have full and free movement. The landing gear
+mechanism, doors and bay, and wheel brakes should be
+inspected for snow or ice deposits and the operation of uplocks and microswitches checked.
+Snow or ice can enter turbine engine intakes and freeze in
+the compressor. If the compressor cannot be turned by hand
+for this reason, hot air should be blown through the engine
+until the rotating parts are free.
+
+Rain Control Systems
+There are several different ways to remove the rain from
+the windshields. Most aircraft use one or a combination of
+the following systems: windshield wipers, chemical rain
+repellent, pneumatic rain removal (jet blast), or windshields
+treated with a hydrophobic surface seal coating.
+Windshield Wiper Systems
+In an electrical windshield wiper system, the wiper blades
+are driven by an electric motor(s) that receive (s) power from
+the aircraft’s electrical system. On some aircraft, the pilot’s
+and copilot’s windshield wipers are operated by separate
+systems to ensure that clear vision is maintained through
+one of the windows should one system fail. Each windshield
+wiper assembly consists of a wiper, wiper arm, and a wiper
+motor/converter. Almost all windshield wiper systems use
+
+electrical motors. Some older aircraft might be equipped
+with hydraulic wiper motors. [Figure 15-40]
+Maintenance performed on windshield wiper systems consists
+of operational checks, adjustments, and troubleshooting. An
+operational check should be performed whenever a system
+component is replaced or whenever the system is suspected
+of not working properly. During the check, make sure that
+the windshield area covered by the wipers is free of foreign
+matter and is kept wet with water. Adjustment of a windshield
+wiper system consists of adjusting the wiper blade tension,
+the angle at which the blade sweeps across the windshield,
+and proper parking of the wiper blades.
+Chemical Rain Repellent
+Water poured onto clean glass spreads out evenly. Even
+when the glass is held at a steep angle or subjected to air
+velocity, the glass remains wetted by a thin film of water.
+However, when glass is treated with certain chemicals, a
+transparent film is formed that causes the water to behave
+very much like mercury on glass. The water draws up into
+beads that cover only a portion of the glass and the area
+between beads is dry. The water is readily removed from the
+glass. This principle lends itself quite naturally to removing
+rain from aircraft windshields. The high-velocity slipstream
+continually removes the water beads, leaving a large part of
+the window dry.
+A rain repellent system permits application of the chemical
+repellent by a switch or push button in the flight deck. The
+proper amount of repellent is applied regardless of how
+15-26
+
+===== PDF PAGE 907 =====
+WINDSHIELD WIPER
+
+Overhead panel
+
+OFF
+PARK
+
+LOW
+HIGH
+
+Serrated disk
+Wiper blade assembly
+
+Blade nut
+Wiper arm assembly
+
+Sill beam
+
+Adjusting nut
+
+STA 178
+
+Arm attach bolt
+
+STA 188
+
+Serrated adjustment sleeve
+Converter shaft
+Motor-converter assembly
+
+Figure 15-40. Windshield wiper assembly/installation on a transport category aircraft. The motor-converter is mounted under the aircraft
+
+skin.
+
+long the switch is held. On some systems, a solenoid valve
+controlled by a time delay module meters the repellent to a
+nozzle which sprays it on the outside of the windshield. Two
+such units exist — one each for the forward glass of the pilot
+and copilot. [Figure 15-41]
+This system should only be used in very wet conditions.
+The rain repellent system should not be operated on dry
+windows because heavy undiluted repellent restricts window
+visibility. Should the system be operated inadvertently, do
+not operate the windshield wipers or rain clearing system
+as this tends to increase smearing. Also, the rain repellent
+residues caused by application in dry weather or very light
+rain can cause staining or minor corrosion of the aircraft
+skin. To prevent this, any concentrated repellent or residue
+should be removed by a thorough fresh water rinse at the
+earliest opportunity. After application, the repellent film
+slowly deteriorates with continuing rain impingement. This
+makes periodic reapplication necessary. The length of time
+between applications depends upon rain intensity, the type
+of repellent used, and whether windshield wipers are used.
+
+Windshield Surface Seal Coating
+Some aircraft models use a surface seal coating, also called
+hydrophobic coating that is on the outside of the pilot’s/
+
+copilot’s windshield. [Figure 15-42] The word hydrophobic
+means to repel or not absorb water. The windshield
+hydrophobic coating is on the external surface of the windows
+(windshields). The coatings cause raindrops to bead up and
+roll off, allowing the flight crew to see through the windshield
+with very little distortion. The hydrophobic windshield
+coating reduces the need for wipers and gives the flight crew
+better visibility during heavy rain.
+Most new aircraft windshields are treated with surface seal
+coating. The manufacturer’s coating process deeply penetrates
+the windshield surface providing hydrophobic action for quite
+some time. When effectiveness declines, products made to be
+applied in the field are used. These liquid treatments rubbed
+onto the surface of the windshield maintain the beading action
+of rain water. They must be applied periodically or as needed.
+Pneumatic Rain Removal Systems
+Windshield wipers characteristically have two basic problem
+areas. One is the tendency of the slipstream aerodynamic
+forces to reduce the wiper blade loading pressure on the
+window, causing ineffective wiping or streaking. The other
+is in achieving fast enough wiper oscillation to keep up with
+high rain impingement rates during heavy rain falls. As a
+result, most aircraft wiper systems fail to provide satisfactory
+vision in heavy rain.
+15-27
+
+===== PDF PAGE 908 =====
+Nozzle
+
+Pressurized can
+
+Clamp release
+
+Bracket
+FW
+
+D
+
+Solenoid valve
+
+Can connection
+Time delay module
+
+Shutoff valve
+Shroud
+
+Visual reservoir
+
+Can
+replacement
+level
+
+Figure 15-41. Flight deck rain repellent canister and reservoir.
+
+Windshield Frost, Fog, & Ice Control Systems
+Hydrophobic coating
+
+Glass window layer
+
+Plastic window layer
+Figure 15-42. Hydrophobic coating on windshield.
+
+The rain removal system shown in Figure 15-43 controls
+windshield icing and removes rain by directing a flow of
+heated air over the windshield. This heated air serves two
+purposes. First, the air breaks the rain drops into small
+particles that are then blown away. Secondly, the air heats
+the windshield to prevent the moisture from freezing. The
+air can be supplied by an electric blower or by bleed air.
+
+In order to keep windshield areas free of ice, frost, and fog,
+window anti-icing, deicing, and defogging systems are used.
+These can be electric, pneumatic, or chemical depending on
+the type and complexity of the aircraft. A few of these systems
+are discussed in this section.
+Electric
+High performance and transport category aircraft windshields
+are typically made of laminated glass, polycarbonate, or
+similar ply material. Typically, clear vinyl plies are also
+included to improve performance characteristics. The
+laminations create the strength and impact resistance
+of the windshield assembly. These are critical features
+for windshields as they are subject to a wide range of
+temperatures and pressures. They must also withstand the
+force of a 4-pound bird strike at cruising speed to be certified.
+The laminated construction facilitates the inclusion of electric
+heating elements into the glass layers, which are used to keep
+the windshield clear of ice, frost, and fog. The elements can
+be in the form of resistance wires or a transparent conductive
+material may be used as one of the window plies. To ensure
+enough heating is applied to the outside of the windshield,
+heating elements are placed on the inside of the outer glass
+
+15-28
+
+===== PDF PAGE 909 =====
+RH windshield blower actuator cable
+
+RH nozzle
+assembly
+
+Windshield blower
+
+Windshield blower actuator
+LH nozzle
+assembly
+
+LH windshield blower actuator cable
+
+Bell mouth duct
+assembly
+MADC (air data computer)
+T-duct assembly
+D
+
+FW
+
+Drain line
+
+Figure 15-43. Windshield rain and frost removal system.
+
+ply. Windshields are typically bonded together by the
+application of pressure and heat without the use of cement.
+Figure 15-44 illustrates the plies in one transport category
+aircraft windshield.
+Whether resistance wires or a laminated conductive film
+is used, aircraft window heat systems have transformers to
+supply power and feedback mechanisms, such as thermistors,
+to provide a window heat control unit with information used
+to keep operating temperature within acceptable limits. Some
+systems are automatic while others are controlled by flight
+deck switches. Separate circuits for pilot and co-pilot are
+common to ensure visibility in case of a malfunction. Consult
+
+Conductive coating on the inner face of the outer glass ply
+Inner glass ply
+Center glass ply
+Outer glass ply
+Vinyl plies
+Figure 15-44. Cross-section of a transport category windshield.
+
+the manufacturer’s maintenance information for details on
+the particular window heat system in question.
+Some windshield heating systems can be operated at two heat
+15-29
+
+===== PDF PAGE 910 =====
+levels. On these aircraft, NORMAL heating supplied heat
+to the broadest area of windshield. HIGH heating supplies
+a higher intensity of heat to a smaller but more essential
+viewing area. Typically, this window heating system is always
+on and set in the NORMAL position. Figure 15-45 illustrates
+a simplified windshield heat system of this type.
+Pneumatic
+Some laminated windshields on older aircraft have a space
+between the plies that allows the flow of hot air to be directed
+between the glass to keep it warm and fog free. The source
+of air is bleed air or conditioned air from the environmental
+control system. Small aircraft may utilize ducted warm air,
+which is released to flow over the windshield inner surface to
+defrost and defog. These systems are similar to those used in
+automobiles. The source of air could be ambient (defog only),
+the aircraft’s heating system, or a combustion heater. While
+these pneumatic windshield heat systems are effective for the
+aircraft on which they are installed, they are not approved
+for flying into known icing conditions and, as such, are not
+effective for anti-ice.
+
+Large aircraft equipped with pneumatic jet blast rain repellent
+systems achieve some anti-icing effects from operating this
+system although electric windshield heat is usually used.
+Chemical
+As previously mentioned in this chapter, chemical anti-ice
+systems exist generally for small aircraft. This type of anti-ice
+is also used on windshields. Whether alone or part of a TKSTM
+system or similar, the liquid chemical is sprayed through a
+nozzle onto the outside of the windshield which prevents ice
+from forming. The chemical can also deice the windshield
+of ice that may have already formed. Systems such as these
+have a fluid reservoir, pump, control valve, filter, and relief
+valve. Other components may exist. Figure 15-46 shows a
+set of spray tubes for application of chemical anti-ice on an
+aircraft windshield.
+
+Water & Waste Tank Ice Prevention
+Transport type aircraft have water and waste systems on
+board, and electrical heaters are often used to prevent the
+formation of ice in the water lines of these systems. Water
+
+Windshield
+50A
+
+Low
+heat
+relay
+
+High heat relay
+
+Normal
+5A
+
+High
+
+Temperature
+controller
+
+Figure 15-45. Electric windshield heat schematic.
+
+15-30
+
+===== PDF PAGE 911 =====
+Waste tank
+AFT wall of compartment
+
+Figure 15-46. Chemical deicing spray tubes.
+
+lines carry water from the potable tanks to the lavatories and
+galleys. The waste water tanks collect the gray water from
+the galleys and lavatories. Heater blankets, inline heaters,
+or heater boots are often used to heat the water supply lines,
+water tank drain hoses, waste drain lines, waste tank rinse
+fittings, and drain masts. Thermostats in the water lines
+supply temperature data to the control unit that turns the
+electrical heaters on and off. When the temperature falls
+below freezing, the electrical heaters turn on and stay on until
+the temperature reaches a safe temperature. Figure 15-47
+is a schematic of a water supply line heater system, and
+Figure 15-48 shows the location of the waste water tanks
+and heater blankets.
+
+115V AC
+ground
+service bus
+
+FWD
+
+Waste tank drain valve (3)
+heater blanket
+Waste tank drain line (3)
+heater blanket
+
+Figure 15-48. Waste water tanks and heater blankets.
+
+Water supply
+Line heaters
+
+Controller
+
+P320 ground service/handling
+power panel
+
+Water supply in-line heater
+(SAT 2129, WL 189, LBL 8)
+
+Remote temp sensor
+(SAT 2171, WL 200, LBL 52)
+
+Controller
+Water supply in-line heater
+(SAT 2133, WL 189, LBL 8)
+
+Remote temp sensor
+(SAT 2171, WL 200, LBL 52)
+
+Controller
+Note: Heater off when temperature is
+> 60 °F (15 °C)
+
+Water supply in-line heater
+(SAT 2127, WL 189, LBL 3)
+
+Heater on when temperature is
+< 45 °F (7 °C)
+
+Remote temp sensor
+(SAT 2144, WL 203, LBL 80)
+
+Controller
+Water supply in-line heater
+(SAT 2079, WL 155, RBL 49)
+Water tank
+drain heater
+
+Figure 15-47. Water supply line heater system.
+
+15-31
+

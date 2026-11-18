@@ -1,0 +1,2263 @@
+FAA-H-8083-30B General Handbook, chapter 6 (Aircraft Weight & Balance), PDF pages 212-222
+
+===== PDF PAGE 212 =====
+Chapter 6
+
+Aircraft Weight & Balance
+Introduction
+The weight of an aircraft and its balance are extremely
+important for operating in a safe and efficient manner. When
+a manufacturer designs an aircraft and the Federal Aviation
+Administration (FAA) certifies it, the specifications identify
+the aircraft’s maximum weight and the limits within which
+it must balance. The weight and balance system commonly
+employed among aircraft consists of three equally important
+elements: the weighing of the aircraft, the maintaining of
+the weight and balance records, and the proper loading of
+the aircraft.
+The maximum weight of an aircraft is based on the amount
+of lift the wings or rotors can provide under the operating
+conditions for which the aircraft is designed. For example,
+if a small general aviation (GA) airplane required a takeoff
+speed of 200 miles per hour (mph) to generate enough lift
+to support its weight, that would not be safe. Taking off and
+landing at lower airspeeds is certainly safer than doing so
+at higher speeds.
+Aircraft balance is also a significant factor in determining
+if the aircraft is safe to operate. An aircraft that does not
+have good balance can exhibit poor maneuverability and
+controllability, making it difficult or impossible to fly. This
+could result in an accident, causing damage to the aircraft and
+injury to the people on board. Safety is the primary reason
+for concern about an aircraft’s weight and balance.
+Another important reason for concern about weight and
+balance is the efficiency of the aircraft. Improper loading
+reduces the efficiency of an aircraft from the standpoint
+of ceiling, maneuverability, rate of climb, speed, and fuel
+consumption. If an airplane is loaded in such a way that it is
+extremely nose heavy, higher than normal forces are exerted
+at the tail to keep the airplane in level flight. The higher than
+normal forces at the tail create additional drag, which requires
+additional engine power and therefore additional fuel flow
+to maintain airspeed.
+The most efficient condition for an aircraft is to have the point
+where it balances fall close to, or exactly at, the aircraft’s
+center of lift. If this were the case, little or no flight control
+force would be needed to keep the aircraft flying straight and
+level. In terms of stability and safety, however, this perfectly
+
+balanced condition might not be desirable. All factors that
+affect aircraft safety and efficiency, in terms of its weight and
+balance, are discussed in detail in this chapter.
+
+Requirements for Aircraft Weighing
+Every aircraft type certificated by the FAA receives a weight
+and balance report as part of its required aircraft records
+before leaving the factory for delivery to its new owner.
+The weight and balance report identifies the empty weight
+of the aircraft and the location at which the aircraft balances,
+known as the center of gravity (CG). The weight and balance
+report must include an equipment list showing weights and
+moment arms of all required and optional items of equipment
+included in the certificated empty weight. If the manufacturer
+chooses to do so, it can weigh every aircraft it produces and
+issue the weight and balance report based on that weighing.
+As an alternative, the manufacturer is permitted to weigh
+an agreed upon percentage of a particular model of aircraft
+produced, perhaps 10 to 20 percent, and apply the average
+to all the aircraft.
+After the aircraft leaves the factory and is delivered to its
+owner, the requirement for placing the aircraft on scales and
+reweighing it varies depending on the type of aircraft and
+how it is used. For a small, GA airplane being used privately,
+such as a Cessna 172, there is no FAA requirement that it be
+periodically reweighed; but after each annual, the mechanic
+must ensure that the weight and balance data in the aircraft
+records is correct. Additionally, there is an FAA requirement
+that the airplane always have a current and accurate weight
+and balance report. If the weight and balance report for an
+aircraft is lost, the aircraft must be weighed and a new report
+must be created. When an aircraft has undergone extensive
+repair, major alteration, or has new equipment installed, such
+as a radio or a global positioning system, a new weight and
+balance report must be created. The equipment installer may
+place the airplane on scales and weigh it after the installation,
+which is an acceptable way of creating the new report. If
+the installer knows the exact weight and location of the new
+equipment, it is also possible to create a new report by doing
+a series of mathematical calculations.
+Over time, almost all aircraft tend to gain weight. Examples
+of how this can happen include an airplane being repainted
+without the old paint being removed and the accumulation of
+6-1
+
+===== PDF PAGE 213 =====
+dirt, grease, and oil in parts of the aircraft that are not easily
+accessible for cleaning. When new equipment is installed,
+and its weight and location are mathematically accounted
+for, some miscellaneous weight might be overlooked, such
+as wire and hardware. For this reason, even if the FAA does
+not require it, it is a good practice to periodically place an
+aircraft on scales and confirm its actual empty weight and
+empty weight center of gravity (EWCG).
+Some aircraft are required to be weighed and have their
+CG calculated on a periodic basis, typically every 3 years.
+Examples of aircraft that fall under this requirement are:
+1.
+
+Air taxi and charter twin-engine airplanes operating
+under Title 14 of the Code of Federal Regulations
+(14 CFR) part 135, section 135.185(a).
+
+2.
+
+Airplanes with a seating capacity of 20 or more
+passengers or a maximum payload of 6,000 pounds
+or more, as identified in 14 CFR part 125, section
+125.91(b).
+
+Weight & Balance Terminology
+Datum
+The datum is an imaginary vertical plane from which all
+horizontal measurements are taken for balance purposes, with
+the aircraft in level flight attitude. If the datum is viewed on a
+drawing of an aircraft, it would appear as a vertical line that is
+perpendicular (90 degrees) to the aircraft’s longitudinal axis.
+For each aircraft make and model, the location of all items
+is identified in reference to the datum. For example, the fuel
+in a tank might be 60 inches (60") behind the datum, and a
+radio on the flight deck might be 90" forward of the datum.
+The datum is determined by the manufacturer; it is often the
+leading edge of the wing or some specific distance from an
+easily identified location. Typical locations for the datum are
+the aircraft nose, the leading edge of the wing, the helicopter’s
+mast, or a specified distance from a known point. However,
+most modern helicopters, like airplanes, have the datum
+located at the nose of the aircraft or a specified distance
+ahead of it. Figure 6-1 shows an aircraft with the leading
+edge of the wing being the datum. The distance from this
+datum is measured in inches and can be either positive or
+negative depending upon where the equipment is located in
+relation to the datum.
+The location of the datum is identified in the Aircraft
+Specifications or Type Certificate Data Sheet (TCDS).
+Aircraft certified prior to 1958 fell under the Civil
+Aeronautics Administration and had their weight and balance
+information contained in a document known as Aircraft
+Specifications. Aircraft certified since 1958 fall under
+the FAA and have their weight and balance information
+
+contained in a document known as a Type Certificate Data
+Sheet (TCDS). The Aircraft Specifications typically included
+the aircraft equipment list. For aircraft with a TCDS, the
+equipment list is a separate document.
+Arm
+The arm is the horizontal distance from the datum to any point
+within the aircraft. The arm’s distance is always measured in
+inches, and it is preceded by the algebraic sign for positive (+)
+or negative (−), except for a location which might be exactly
+on the datum. The positive sign indicates an item is located
+aft of the datum, and the negative sign indicates an item is
+located forward of the datum. If the manufacturer chooses
+a datum that is at the most forward location on an aircraft,
+all the arms will be positive numbers. Location of the datum
+at any other point on the aircraft results in some arms being
+positive numbers, or aft of the datum, and some arms being
+negative numbers, or forward of the datum. Figure 6-1 shows
+an aircraft where the datum is the leading edge of the wing.
+For this aircraft, any item (fuel, seat, radio, etc.) located
+forward of the wing leading edge has a negative arm, and
+any item located aft of the wing leading edge has a positive
+arm. If an item is located exactly at the wing leading edge, its
+arm would be zero, and mathematically it would not matter
+whether its arm was positive or negative.
+The arm of each item is usually included in parentheses
+immediately after the item’s name or weight in the Aircraft
+Specifications, TCDS, or equipment list for the aircraft. For
+example, in a TCDS, the fuel quantity might be identified
+as 98 gallons (gal) (+93.6) and the forward baggage limit
+as 100 pounds (lb) (–22.5). These numbers indicate that the
+fuel is located 93.6" aft of the datum and the nose baggage is
+located 22.6" forward of the datum. If the arm for a piece of
+equipment is not known, its exact location must be accurately
+measured. When the arm for a piece of equipment is being
+determined, the measurement is taken from the datum to the
+piece of equipment’s own CG.
+Moment
+To understand balance, it is necessary to have a working
+knowledge of the principle of moments. For those unfamiliar
+with weight and balance terms, the word moment is the
+product of a force or weight times a distance. The distance
+used in calculating a moment is referred to as the arm or
+moment arm and is usually expressed in inches. To calculate
+a moment, a force (or weight) and a distance must be known.
+The weight is multiplied by the distance from the datum and
+the result is the moment, which is expressed in inch-pounds
+(in-lb), a point through which the force acts. For the purpose
+of illustration, compare an aircraft to a seesaw. Like the
+seesaw, for an aircraft to be in balance, or equilibrium, the
+
+6-2
+
+===== PDF PAGE 214 =====
+Datum (leading edge of wing)
+
+Positive arm
+Negative arm
+
+Center of gravity
+
+Figure 6-1. Datum location and its effect on positive and negative
+
+arms.
+
+sum of the moments on each side of the balance point must be
+equal. Therefore, the same weight that is different distances
+(in inches) from the datum have greater moments.
+A 5 lb radio located 80" from the datum would have a moment
+of 400 in-lb (5 lb × 80"). A 10-pound radio located 12" from
+the datum would have a moment of 120 in-lb. Whether the
+moment is preceded by a positive (+) or negative (−) sign
+depends on its location in relation to the datum. Figure 6-2
+shows where the moment ends up being a positive number
+because the weight and arm are both positive.
+The algebraic sign of the moment, based on the datum
+location and whether weight is being installed or removed
+[Figure 6-3], would be as follows:
+•
+
+Weight being added aft of the datum produces a
+positive moment (+weight, +arm).
+
+•
+
+Weight being added forward of the datum produces a
+negative moment (+weight, −arm).
+
+•
+
+Weight being removed aft of the datum produces a
+negative moment (−weight, +arm).
+
+•
+
+Weight being removed forward of the datum produces
+a positive moment (−weight, −arm).
+
+When dealing with positive and negative numbers, remember
+that the product of like signs produces a positive answer,
+and the product of unlike signs produces a negative answer.
+Center of Gravity (CG)
+The CG is the point at which all the weight of the aircraft
+is concentrated and balanced; therefore, the aircraft can
+be supported at that point (the CG). The magnitude of the
+nose-heavy and tail-heavy moments are exactly equal. It is
+the balance point for the aircraft and, if suspended from this
+point, there would be no tendency to rotate in a noseup or
+nosedown attitude.
+Figure 6-4 shows a lever with the pivot point (called a
+fulcrum) located at the CG for the lever. Even though the
+
+weights on either side of the fulcrum are not equal, and the
+distances from each weight to the fulcrum are not equal, the
+product of the weights and arms (moments) are equal, and
+that is what produces a balanced condition. Therefore, the
+lever would be balanced much like two persons sitting on
+a seesaw who are differing weights and located at different
+distances from the fulcrum.
+Maximum Weight
+The maximum weight is the maximum authorized weight
+of the aircraft and its contents, and is indicated in the
+Aircraft Specifications or TCDS. For many aircraft, there
+are variations to the maximum allowable weight depending
+on the purpose and conditions under which the aircraft is to
+be flown. For example, a certain aircraft may be allowed a
+maximum gross weight of 2,750 lb when flown in the normal
+category, but when flown in the utility category, which
+allows for limited aerobatics, the same aircraft’s maximum
+allowable gross weight might only be 2,175 lb. There are
+other variations when dealing with the concept of maximum
+weight, as follows:
+•
+
+Maximum Ramp Weight—the heaviest weight to
+which an aircraft can be loaded while it is sitting on the
+ground. This is sometimes referred to as the maximum
+taxi weight.
+
+•
+
+Maximum Takeoff Weight—the heaviest weight an
+aircraft can be when it starts the takeoff roll. The
+difference between this weight and the maximum
+ramp weight would equal the weight of the fuel that
+would be consumed prior to takeoff.
+
+•
+
+Maximum Landing Weight—the heaviest weight an
+aircraft can be when it lands. For large, wide body
+commercial airplanes, it can be 100,000 lb less than
+maximum takeoff weight, or even more.
+
+•
+
+Maximum Zero Fuel Weight—the heaviest weight an
+aircraft can be loaded to without having any usable
+fuel in the fuel tanks. Any weight loaded above this
+value must be in the form of fuel.
+
+Datum 40" forward
+of the firewall
+
+Radio (5 lb)
+
+Arm = 80"
+
+Center of gravity
+
+Moment = Weight (arm)
+= 5 lb (80")
+= 400 in-lb
+
+Figure 6-2. Moment of a radio located aft of the datum.
+
+6-3
+
+===== PDF PAGE 215 =====
+Empty Weight
+The empty weight of an aircraft includes all operating
+equipment that has a fixed location and is actually installed in
+the aircraft. It includes the weight of the airframe, powerplant,
+required equipment, optional or special equipment, fixed
+ballast, hydraulic fluid, and residual fuel and oil. Residual fuel
+and oil are the fluids that do not normally drain out because
+they are trapped in the fuel lines, oil lines, and tanks. They must
+be included in the aircraft’s empty weight. For most aircraft
+certified after 1978, the full capacity of the engine oil system
+is also included in the empty weight. Information regarding
+residual fluids in aircraft systems that must be included in the
+empty weight, and whether or not full oil is included, will be
+indicated in the Aircraft Specifications or TCDS.
+Other terms that are used when describing empty weight
+include basic empty weight, licensed empty weight, and
+standard empty weight. The term “basic empty weight”
+applies when the full capacity of the engine oil system is
+included in the value. The term “licensed empty weight”
+applies when only the weight of residual oil is included in
+the value, so it generally involves only aircraft certified prior
+to 1978. Standard empty weight would be a value supplied
+by the aircraft manufacturer, and it would not include any
+optional equipment that might be installed in an aircraft. For
+most people working in the aviation maintenance field, the
+basic empty weight of the aircraft is the most important one.
+Empty Weight Center of Gravity (EWCG)
+The EWCG for an aircraft is the point at which it balances
+when it is in an empty weight condition. The concepts of
+empty weight and CG were discussed earlier in this chapter,
+and now they are being combined into a single concept.
+One of the most important reasons for weighing an aircraft
+is to determine its EWCG. All other weight and balance
+calculations, including loading the aircraft for flight,
+performing an equipment change calculation, and performing
+an adverse condition check, begin with knowing the empty
+weight and EWCG. This crucial information is part of what
+is contained in the aircraft weight and balance report.
+Weight
+
+Arm
+
+Moment
+
+Rotation
+
++
+
++
+
++
+
+Noseup
+
++
+
+–
+
+–
+
+Nosedown
+
+–
+
++
+
+–
+
+Nosedown
+
+–
+
+–
+
++
+
+Noseup
+
+Figure 6-3. Relationship between the algebraic signs of weight,
+
+arms, and moments.
+
+Force
+
+Force
+
+Distance = 90"
+
+Moment = 700 lb (90")
+= 63,000 in-lb
+
+Distance = 70"
+
+Moment = 900 lb (70")
+= 63,000 in-lb
+Fulcrum and CG
+
+Figure 6-4. Center of gravity and a first class lever.
+
+Useful Load
+To determine the useful load of an aircraft, subtract the
+empty weight from the maximum allowable gross weight.
+For aircraft certificated in both normal and utility categories,
+there may be two useful loads listed in the aircraft weight and
+balance records. An aircraft with an empty weight of 3,100 lb
+may have a useful load of 850 lb, if the normal category
+maximum weight is listed as 3,950 lb. When the aircraft is
+operated in the utility category, the maximum gross weight
+may be reduced to 3,700 lb, with a corresponding decrease in
+the useful load to 600 lb. Some aircraft have the same useful
+load regardless of the category in which they are certificated.
+The useful load consists of fuel, any other fluids that are not
+part of empty weight, passengers, baggage, pilot, copilot, and
+crewmembers. Whether the weight of engine oil is considered
+part of the useful load depends on when the aircraft was
+certificated and can be determined by looking at the Aircraft
+Specifications or TCDS. The payload of an aircraft is like the
+useful load, except it does not include fuel.
+A reduction in the weight of an item, where possible, may be
+necessary to remain within the maximum weight allowed for
+the category in which an aircraft is operating. Determining
+the distribution of these weights is called a weight check.
+Minimum Fuel
+Many modern aircraft have multiple rows of seats and often
+more than one baggage compartment. The weight and balance
+extreme conditions represent the maximum forward and
+rearward CG position for the aircraft. An aircraft has certain
+fixed points, fore and aft, beyond which the CG should not
+be permitted at any time during flight. A check should be
+made to ensure that the CG will not shift out of limits when
+crew, passengers, cargo, and expendable weights are added
+or removed. If the limits are exceeded and the aircraft is
+flown in this condition, it may lead to insufficient stability,
+with resulting difficulty in controlling the aircraft. After any
+repair or alteration that changes the weight and balance, the
+Airframe and Powerplant (A&P) mechanic or repairman
+6-4
+
+===== PDF PAGE 216 =====
+must ensure that no legal condition of loading can move the
+CG outside of its allowable limits. To determine this, the
+mechanic will deliberately attempt to calculate the aircraft
+loading in such a manner as to place the CG outside the
+limits of the aircraft. This is called an adverse-loading check.
+For example, in a forward adverse-loaded CG check, all
+useful load in front of the forward CG limit is loaded, and
+all useful load behind this limit is left empty. An exception
+to leaving it empty is the fuel tank. If the fuel tank is located
+behind the forward CG limit, it cannot be left empty because
+the aircraft cannot fly without fuel. In this case, an amount
+of fuel is accounted for, which is known as minimum fuel.
+Minimum fuel is the amount needed for 30 minutes of flight
+at cruise power.
+For weight and balance purposes, the minimum fuel is no
+more than the quantity needed for one half hour of operation
+at rated maximum continuous power. This is 1⁄12 gallon
+for each maximum except takeoff (METO) horsepower
+(hp). Because aviation gasoline (Avgas) weighs 6 pounds
+per gallon (lb/gal), determine the number of pounds of
+the minimum fuel by dividing the METO hp by 2. For
+instance, an aircraft having a METO hp of 200 hp will have
+a minimum fuel of 16.65 gallons or 99.99 pounds. An even
+simpler way is to take the METO hp divided by 2, which is
+100 pounds. Both methods in determining minimum fuel
+are valued and result in essentially the same answer. In the
+latter computation, a piston engine in cruise flight burns 1
+lb of fuel per hour for each hp, or 1⁄2 lb for 30 minutes, hence
+dividing the METO by 2.
+For example, if a forward adverse-loaded CG check was
+performed on a piston engine aircraft, with the engine having
+a METO hp of 200, the minimum fuel would be 100 lb (200
+METO hp ÷ 2).
+For turbine engine-powered aircraft, minimum fuel is not
+based on engine hp. If an adverse-loaded CG check is being
+performed on a turbine engine-powered aircraft, the aircraft
+manufacturer would need to supply information on minimum
+fuel.
+Tare Weight
+When aircraft are placed on scales and weighed, it is
+sometimes necessary to use support equipment to aid in
+the weighing process. For example, to weigh a tail dragger
+airplane, it is necessary to raise the tail to get the airplane
+level. To level the airplane, a jack might be placed on the
+scale and used to raise the tail. Unfortunately, the scale is now
+absorbing the weight of the jack in addition to the weight of
+the airplane. This extra weight is known as tare weight and
+must be subtracted from the scale reading. Other examples of
+
+tare weight are wheel chocks placed on the scales and ground
+locks left in place on retractable landing gear.
+
+Procedures for Weighing an Aircraft
+General Concepts
+The most important reason for weighing an aircraft is to find
+out its empty weight (basic empty weight) and to find out
+where it balances in the empty weight condition. When an
+aircraft is to be flown, the pilot-in-command must know what
+the loaded weight of the aircraft is and where its loaded CG
+is. For the loaded weight and CG to be calculated, the pilot
+or dispatcher handling the flight must first know the empty
+weight and EWCG.
+Earlier in this chapter it was identified that the CG for an
+object is the point about which the nose heavy and tail heavy
+moments are equal. One method that could be used to find
+this point would involve lifting an object off the ground twice,
+first suspending it from a point near the front, and on the
+second lift suspending it from a point near the back. With each
+lift, a perpendicular line (90 degrees) would be drawn from
+the suspension point to the ground. The two perpendicular
+lines would intersect somewhere in the object, and the point
+of intersection would be the CG. This concept is shown in
+Figure 6-5, where an airplane is suspended from two different
+points. The perpendicular line from the first suspension point
+is shown in red, and the new suspension point line is shown
+as a blue plumb bob. Where the red and blue lines intersect
+is the CG. If an airplane were suspended from two points,
+one at the nose and one at the tail, the perpendicular drop
+lines would intersect at the CG. Suspending an airplane from
+the ceiling by two hooks, however, is clearly not realistic.
+Even if it could be done, determining where in the airplane
+the lines intersect would be difficult.
+A more realistic way to find the CG for an object, especially
+an airplane, is to place it on a minimum of two scales and
+calculate the moment value for each scale reading. In
+Figure 6-6, there is a plank that is 200" long, with the left
+end being the datum (zero arm), and 6 weights placed at
+various locations along the length of the plank. The purpose
+of Figure 6-6 is to show how the CG can be calculated when
+the arms and weights for an object are known.
+To calculate the CG for the object in Figure 6-6, the moments
+for all the weights need to be calculated and then summed,
+and the weights need to be summed. In the four-column
+table in Figure 6-7, the item, weight, and arm are listed in
+the first three columns, with the information coming from
+Figure 6-6. The moment value in the fourth column is the
+product of the weight and arm. The weight and moment
+
+6-5
+
+===== PDF PAGE 217 =====
+columns are summed, with the CG being equal to the total
+moment divided by the total weight. The arm column is not
+summed. The number appearing at the bottom of that column
+is the CG. The calculation is shown in Figure 6-7.
+
+1
+
+For the calculation in Figure 6-7, the total moment is 52,900
+in-lb, and the total weight is 495 lb. The CG is calculated
+as follows:
+CG = Total Moment ÷ Total Weight
+= 52,900 in-lb ÷ 495 lb
+= 106.9" (106.87 rounded to tenths)
+An interesting characteristic exists for the problem in
+Figure 6-6 and the table showing the CG calculation. If the
+datum (zero arm) for the object was in the middle of the 200"
+long plank, with 100" of negative arm to the left and 100" of
+positive arm to the right, the solution would show the CG to
+be in the same location. The arm for the CG would not be the
+same number, but its physical location would be the same.
+Figures 6-8 and 6-9 show the new calculation.
+CG = Total Moment ÷ Total Weight
+= 3,400 in-lb ÷ 495 lb
+= 6.9" (6.87 rounded to tenths)
+In Figure 6-8, the CG is 6.9" to the right of the plank’s center.
+Even though the arm is not the same number, in Figure 6-6 the
+CG is also 6.9" to the right of center (CG location of 106.9
+with the center being 100). Because both problems are the
+same in these two figures, except for the datum location, the
+CG must be the same.
+The definition for CG states that it is the point about which
+all the moments are equal. We can prove that the CG for
+the object in Figure 6-8 is correct by showing that the total
+moments on either side of this point are equal. Using 6.87 as
+the CG location for slightly greater accuracy, instead of the
+rounded off 6.9 number, the moments to the left of the CG are
+shown in Figure 6-10. The moments to the right of the CG,
+shown in Figure 6-8, would be as indicated in Figure 6-11.
+Disregarding the slightly different decimal value, the moment
+in both previous calculations is 10,651 in-lb. Showing that
+the moments are equal is a good way of proving that the CG
+has been properly calculated.
+Weight and Balance Data
+Before an aircraft can be properly weighed and its EWCG
+computed, certain information must be known. This
+information is furnished by the FAA to anyone for every
+certificated aircraft in the TCDS or Aircraft Specifications.
+When the design of an aircraft is approved by the FAA, an
+Approved Type Certificate and TCDS are issued. The TCDS
+
+Second suspension,
+with blue line dropping
+perpendicular to the
+ground
+
+Suspended from this point
+first, with red line dropping
+perpendicular to the
+ground
+
+2
+
+Center of gravity
+
+Figure 6-5. Center of gravity determined by two suspension points.
+
+includes all the pertinent specifications for the aircraft, and
+at each annual or 100-hour inspection, it is the responsibility
+of the inspecting mechanic or repairman to ensure that the
+aircraft adheres to them.
+Manufacturer-Furnished Information
+When an aircraft is initially certificated, its empty weight
+and EWCG are determined and recorded in the weight and
+balance record, such as the one in Figure 6-12. An equipment
+list is furnished with the aircraft that specifies all the required
+equipment and all equipment approved for installation in the
+aircraft. The weight and arm of each item is included on the
+125 lb
+80 lb
+
+50 lb
+
+0"
+
+30"
+
+60"
+
+50 lb
+
+95"
+
+90 lb 100 lb
+
+125" 145"
+
+170"
+
+200"
+
+CG
+106.9"
+
+Figure 6-6. Center of gravity for weights on a plank with datum
+
+at one end.
+
+Item
+
+Weight
+(lb)
+
+×
+
+Arm
+= Moment
+(inches)
+(in-lb)
+
+50 pound weight
+
+50
+
++30
+
+1,500
+
+125 pound weight
+
+125
+
++60
+
+7,500
+
+80 pound weight
+
+80
+
++95
+
+7,600
+
+50 pound weight
+
+50
+
++125
+
+6,250
+
+90 pound weight
+
+90
+
++145
+
+13,050
+
+100 pound weight
+
+100
+
++170
+
+17,000
+
+Total
+
+495
+
++106.9
+
+52,900
+
+Figure 6-7. Center of gravity calculation for weights on a plank
+
+with datum at one end.
+
+6-6
+
+===== PDF PAGE 218 =====
+list, and all equipment installed when the aircraft left the
+factory is checked. When an aircraft mechanic or repairman
+adds or removes any item on the equipment list, they must
+change the weight and balance record to indicate the new
+empty weight and EWCG, and the equipment list is revised
+to show what is installed.
+Figure 6-13 is an excerpt from a comprehensive equipment
+list that includes all the items of equipment approved for this
+model of aircraft. The Pilot’s Operating Handbook (POH) or
+Airplane Flight Manual (AFM) for each individual aircraft
+includes an aircraft specific equipment list of the items
+from this master list. When any item is added to or removed
+from the aircraft, its weight and arm are determined in the
+equipment list and used to update the weight and balance
+record. The POH/AFM also contains CG moment envelopes
+and loading graphs.
+Figures 6-14 through 6-16 shows a TCDS for a Piper twinengine airplane known as the Seneca (PA-34-200). The
+main headings for the information contained in a TCDS
+are included, but much of the information contained under
+these headings has been removed if it did not directly pertain
+to weight and balance. Information on only one model of
+Seneca is shown, because to show all the different models
+would make the document excessively long. The portion of
+the TCDS that has the most direct application to weight and
+balance is highlighted in yellow.
+Some of the important weight and balance information found
+in a TCDS is as follows:
+1.
+
+Engine
+
+2.
+
+CG range
+
+3.
+
+Maximum weight
+
+4.
+
+Number of seats
+
+5.
+
+Baggage capacity
+
+6.
+
+Fuel capacity
+
+7.
+
+Oil capacity
+
+8.
+
+Datum information
+
+9.
+
+Leveling means
+
+–100"
+
+–70"
+
+80 lb
+
+–40"
+
+×
+
+Arm
+(inches)
+
+=
+
+Moment
+(in-lb)
+
+50 pound weight
+
+50
+
+–70
+
+–3,500
+
+125 pound weight
+
+125
+
+–40
+
+–5,000
+
+80 pound weight
+
+80
+
+–5
+
+–400
+
+50 pound weight
+
+50
+
++25
+
+1,250
+
+90 pound weight
+
+90
+
++45
+
+4,050
+
+100 pound weight
+
+100
+
++70
+
+7,000
+
+Total
+
+495
+
++6.9
+
+3,400
+
+Figure 6-9. Center of gravity calculation for weights on a plank
+
+with datum in the middle.
+
+Item
+
+Weight
+(lb)
+
+×
+
+Arm
+(inches)
+
+=
+
+Moment
+(in-lb)
+
+50 pound weight
+
+50
+
+76.87
+
+3,843.50
+
+125 pound weight
+
+125
+
+46.87
+
+5,858.75
+
+80 pound weight
+
+80
+
+11.87
+
+949.60
+
+Total
+
+255
+
+135.61
+
+10,651.85
+
+Figure 6-10. Moments to the left of the center of gravity.
+
+10. Amount of oil in empty weight
+11. Amount of fuel in empty weight
+
+Weight and Balance Equipment
+Scales
+Weighing GA aircraft, helicopters, turboprops, corporate
+jets, UAV/UAS, or transport category airliners can be
+accomplished in two ways: top of jack load cells and platform
+scales. Equipment selection is dependent on the operator's
+needs and or equipment currently on hand, as well as the
+airframe manufacturer's recommendations. Top of jack load
+cells, as the name implies, can be used on top of the current
+wing jacks or can be used under axle for larger jets. Platforms
+are very useful for small shops that do not have jacks for
+every type of aircraft.
+
+–5" 0"
+
+50 lb
+
+25"
+
+Item
+
+90 lb 100 lb
+
+45"
+
+70"
+
+100"
+
+CG
+6.9"
+
+Figure 6-8. Center of gravity for weights on a plank with datum
+
+in the middle.
+
+Weight
+(lb)
+
+Both types of scales feature new technologies using wireless
+
+125 lb
+50 lb
+
+Item
+
+Weight
+(lb)
+
+×
+
+Arm
+(inches)
+
+=
+
+Moment
+(in-lb)
+
+50 pound weight
+
+50
+
+18.13
+
+906.50
+
+90 pound weight
+
+90
+
+38.13
+
+3,431.70
+
+100 pound weight
+
+100
+
+63.13
+
+6,313.00
+
+Total
+
+240
+
+119.39
+
+10,651.25
+
+Figure 6-11. Moments to the right of the center of gravity.
+
+6-7
+
+===== PDF PAGE 219 =====
+Weight and Balance Data
+Aircraft Serial #: 18259080
+FAA Registration #: N42565
+Date: 04-22-2005
+Item
+Standard empty weight
+
+Weight (lb)
+
+×
+
+CG Arm (in)
+
+=
+
+Moment (in-lb)
+
+1,876
+
+36.1
+
+67,798.6
+
+Optional equipment
+
+1.2
+
+13.9
+
+16.7
+
+Special installation
+
+6.2
+
+41.5
+
+257.3
+
+–
+
+–
+
+–
+
+30.0
+
+46.0
+
+1,380
+
+Paint
+Unusable fuel
+Basic empty weight
+
+1,913.4
+
+69,452.6
+
+Figure 6-12. Typical weight and balance data for 14 CFR part 23 airplane.
+
+operations with computer-based indication and cable-based
+wired digital indication. Mechanical or analog meter scales
+have mostly been replaced with the new wireless systems and
+or digital indicators. These systems and indicators are very
+accurate and easy to use, making the weighing job faster to
+accomplish and providing higher quality in readings.
+Platforms are available in many weight ranges and sizes.
+These systems either use ramps or the aircraft can be jacked
+and lowered onto the platforms during regular maintenance.
+Platforms are easy to use and are a choice for many shops
+that do not have jacks for the many types of aircraft to be
+serviced. The limiting factors for platforms are the weight
+range and the tire size, some aircraft have large tires and the
+platform may be too small for the specific aircraft tire. It is
+important to always use the right size scale and platform for
+the aircraft type and weighing job required.
+The platform scale sits on the hangar floor in a level
+condition. Ramps and a tug are used to position the airplane
+tire on top of the platform and centered. Built into the
+platform is an electronic load cell(s) that sense the weight
+being applied to it, which generates a corresponding electrical
+signal. Inside the load cell is an electronic strain gauge that
+measures a proportional change in electrical resistance as
+the weight being applied to it increases. An electrical cable
+or wireless signal runs from the platform scale to a display
+unit, computer, or tablet, which interprets the resistance
+change of the load cell and equates it to a specific number of
+pounds. A digital readout on the display shows the weight. In
+Figure 6-17, a small Piper is being weighed using wireless
+platform scales that incorporate electronic load cells.
+In Figure 6-18, a Cessna 182 airplane is being weighed with
+portable electronic platform scales. If an aircraft is weighed
+
+on platform scales, the only way to level the aircraft is to
+deflate tires and landing gear struts accordingly. This type of
+scale is easy to transport and can be powered by household
+current or by a battery contained in the display unit.
+The display unit for the standard wired platform scales is very
+easy to use. [Figure 6-19] Turn on the power and the unit
+runs through the software and displays the scales in a total
+mode. Pressing on the ZERO KEY (blue key not the number
+key) will ZERO the channels. Once completed, the unit will
+read -0- and the scale is ready to use. Select the channels by
+number and pressing the PRINT/SELECT KEY. All channels
+can be returned to TOTAL MODE by entering the number 4
+TOTAL followed by the PRINT/SELECT KEY. If all three
+scale switches are turned on at the same time, the total weight
+of the airplane is displayed.
+The second type of aircraft scale is a top of jack, cell-based
+scale, where each jack point receives a cell-based transducer
+on the top of the jack. It is very easy to use and level the
+aircraft during the weighing operation. The system is easy
+to transport, light weight, and simple to set up. The operator
+must have a jack capable of receiving and mounting the cell.
+Cells come in many weight ranges and are dependent on the
+weight required per point to accomplish the weighing and
+receiving the actual jack point type.
+The top of the load cell has a concave shape that matches up
+with the jack pad on the aircraft, with the load cell absorbing
+all the weight of the aircraft at each jacking point. Each load
+cell either has an electrical cable attached to it or is wireless,
+which connects to the display unit or computer read out that
+shows the weight transmitted to each load cell. An important
+advantage of weighing an aircraft this way is that it allows
+the technician to level the aircraft easily. When an aircraft
+6-8
+
+===== PDF PAGE 220 =====
+Comprehensive Equipment List
+This is a comprehensive list of all Cessna equipment that is available for the Model 182S airplane. It should not be confused with the airplane-specific equipment list. An
+airplane-specific list is provided with each individual airplane at delivery and is typically inserted at the rear of this Pilot’s Operating Handbook. The following comprehensive
+equipment list and the airplane-specific list have a similar order of listing.
+The comprehensive equipment list provides the following information in column form:
+In the Item No column, each item is assigned a coded number. The first two digits of the code represent the assignment of item within the ATA iSpec 2200 breakdown
+(Chapter 11 for Placards, Chapter 21 for Air Conditioning, Chapter 77 for Engine Indicating, etc.). These assignments also correspond to the Maintenance Manual chapter
+breakdown for the airplane. After the first two digits (and hyphen), items receive a unique sequence number (01, 02, 03, etc...). After the sequence number (and hyphen),
+a suffix letter is assigned to identify equipment as a required item, a standard item or an optional item. Suffix letters are as follows:
+–R = required items or equipment for FAA certification
+–S = standard equipment items
+–O = optional equipment items replacing required or standard items
+–A = optional equipment items which are in addition to required or standard items
+In the Equipment List Description column, each item is assigned a descriptive name to help identify its function.
+In the Ref Drawing column, a drawing number is provided which corresponds to the item.
+Note
+If additional equipment is to be installed, it must be done in accordance with the reference drawing, service bulletin or a separate FAA approval.
+In the Wt Lbs and Arm Ins columns, information is provided on the weight (in pounds) and arm (in inches) of the equipment item.
+Notes
+Unless otherwise indicated, true values (not net change values) for the weight and arm are shown. Positive arms are distances aft of the airplane datum; negative
+arms are distances forward of the datum.
+Asterisks (*) in the weight and arm column indicate complete assembly installations. Some major components of the assembly are listed on the lines immediately
+following. The sum of these major components does not necessarily equal the complete assembly installation.
+
+Figure 6-13. Excerpt from a typical comprehensive equipment list.
+
+2 of 17
+
+A7SO
+DEPARTMENT OF TRANSPORTATION
+FEDERAL AVIATION ADMINISTRATION
+
+Propeller and Propeller Limits
+(continued)
+A7SO
+Revision 19
+Piper Aircraft, Inc
+PA-34-200
+PA-34-200T
+PA-34-220T
+May 2, 2013
+
+Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell
+Service Advisory 61.
+
+TYPE CERTIFICATE DATA SHEET NO. A7SO
+
+Pitch setting:
+Diameter:
+
+This data sheet which is a part of type certificate No. A7SO, prescribes conditions and limitations under which the product
+for which the type certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations.
+
+A7SO
+Revision 19
+Piper Aircraft, Inc
+PA-34-200
+PA-34-200T
+PA-34-220T
+
+Piper Aircraft, Inc.
+2926 Piper Drive
+Vero Beach, Florida 32960
+
+Type Certificate Holder Record
+
+The New Piper Aircraft, Inc transferred TC A7SO to Piper Aircraft, Inc on August
+7, 2006
+
+Avoid continuous operation between 2200 and 2400 r.p.m. unless aircraft is
+equipped with Hartzell propellers which incorporates Hartzell damper on both left
+and right engine as noted above.
+
+S/N 34-E4, 34-7250001 through 34-7250214:
+1 Lycoming LIO-360-C1E6 with fuel injector,
+Lycoming P/N LW-10409 or LW-12586 (right side); and
+1 Lycoming IO-360-C1E6 with fuel injector,
+Lycoming P/N LW-10409 or LW 12586 (left side).
+
+Airspeed Limits
+
+S/N 34-7250215 through 34-7450220:
+1 Lycoming LIO-360-C1E6 with fuel injector,
+Lycoming P/N LW-12586 (right side); and
+1 Lycoming IO-360-C1E6 with fuel injector,
+Lycoming P/N LW-12586 (left side).
+
+mitations under which the product
+eral Aviation Regulations.
+
+Fuel
+
+100/130 minimum grade aviation gasoline
+
+Engine Limits
+
+For all operations, 2700 r.p.m.
+
+Propeller and Propeller Limits
+
+Left Engine
+1 Hartzell, Hub Model HC-C2YK-2 ( ) E, Blade Model C7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EU, Blade Model C7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EF, Blade Model FC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EFU, Blade Model FC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2CG (F), Blade Model (F) C7666A
+(This model includes the Hartzell damper); or
+1 Hartzell, Hub Model HC-C2YK-2CGU (F), Blade Model (F) C7666A
+(This model includes the Hartzell damper).
+
+O to Piper Aircraft, Inc on August
+
+de); and
+
+Governor Assembly:
+1 Hartzell hydraulic governor, Model F-6-18AL (Right);
+1 Hartzell hydraulic governor, Model F-6-18A (Left).
+
+I. - Model PA-34-200 (Seneca), 7 PCLM (Normal Category), Approved 7 May 1971.
+
+May 2, 2013
+
+C.G. Range (Gear Extended)
+
+(200 hp)
+
+Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell
+Service Advisory 61.
+
+Page No.
+Rev No.
+
+1
+18
+
+2
+14
+
+3
+12
+
+4
+12
+
+5
+12
+
+6
+12
+
+7
+15
+
+8
+15
+
+9
+18
+
+High 79° to 81°, Low 13.5° at 30" station.
+Not over 76", not under 74".
+No further reduction permitted.
+
+Spinner: Piper P/N 96388 Spinner Assembly and P/N 96836 Cap Assembly, or
+P/N 78359-0 Spinner Assembly and P/N 96836-2 Cap Assembly (See NOTE 4)
+
+Type Certificate Holder
+
+Engines
+
+Right Engine
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LE, Blade Model JC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEU, Blade Model JC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEF, Blade Model FJC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEFU, Blade Model FJC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2CLG (F), Blade Model (F) JC7666A
+(This model includes the Hartzell damper); or
+1 Hartzell, Hub Model HC-C2YK-2CLGU (F), Blade Model (F) JC7666A
+(This model includes the Hartzell damper).
+
+10
+16
+
+11
+15
+
+12
+18
+
+13
+18
+
+14
+16
+
+15
+18
+
+16
+16
+
+VNE (Never exceed)
+VNO (Maximum structural cruise)
+VA (Maneuvering, 4200 lb.)
+VA (Maneuvering, 4000 lb.)
+VA (Maneuvering, 2743 lb.)
+VFE (Flaps extended)
+VLO (Landing gear operating)
+Extension
+Retract
+VLE (Landing gear extended)
+VMC (Minimum control speed)
+
+217 m.p.h.
+190 m.p.h
+146 m.p.h.
+146 m.p.h.
+133 m.p.h
+125 m.p.h
+
+(188 knots)
+(165 knots)
+(127 knots)
+(127 knots)
+(115 knots)
+(109 knots)
+
+150 m.p.h.
+125 m.p.h.
+150 m.p.h
+80 m.p.h.
+
+(130 knots)
+(109 knots)
+(130 knots)
+( 69 knots)
+
+S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3):
+(+86.4) to (+94.6) at 4000 lb.
+(+82.0) to (+94.6) at 3400 lb.
+(+80.7) to (+94.6) at 2780 lb.
+S/N 34-7250215 through 34-7450220:
+(+87.9) to (+94.6) at 4200 lb.
+(+82.0) to (+94.6) at 3400 lb.
+(+80.7) to (+94.6) at 2780 lb.
+Straight line variation between points given.
+Moment change due to gear retracting landing gear (-32 in.-lb.)
+
+Empty Weight C.G. Range
+
+None
+
+Maximum Weight
+
+S/N 34-E4, 34-7250001 through 34-7250214:
+4000 lb.- Takeoff
+4000 lb. - Landing
+See NOTE 3.
+
+17
+18
+
+e).
+
+Model C7666A-0;
+e Model C7666A-0;
+e Model FC7666A-0;
+de Model FC7666A-0;
+de Model (F) C7666A
+
+ade Model (F) C7666A
+
+Figure 6-14. The Type Certificate Data Sheet (TCDS) shows various information about an aircraft to include weight and balance
+
+information.
+
+6-9
+
+===== PDF PAGE 221 =====
+5 of 17
+Maximum Weight
+
+No. of Seats
+
+A7SO
+DEPARTMENT OF TRANSPORTATION
+FEDERAL AVIATION ADMINISTRATION
+
+4570 lb. - Takeoff
+4342 lb. - Landing (All weight in excess of 4000 lb. must be fuel)
+Zero fuel weight may be increased up to a maximum of 4077.7 lb. when approved
+wing options are installed.
+See NOTE 11 for optional weights.
+
+A7SO
+Revision 19
+Piper Aircraft, Inc
+PA-34-200
+PA-34-200T
+PA-34-220T
+
+7 (2 at +85.5, 3 at +118.1, 2 at +155.7)
+7 (2 at +85.5, 3 at +118.1, 2 at +157.6)
+6 (2 at +85.5, *2 at +119.1, 2 at +157.6)
+
+May 2, 2013
+
+* - Optional Club Seats
+
+A
+
+Maximum Baggage
+Fuel Capacity
+
+Oil Capacity
+
+200 lb. (100 lb. at +22.5, 100 lb. at +178)
+
+TYPE CERTIFICATE DATA SHEET NO. A7SO
+
+98 gallons (2 wing tanks) at (+93.6)
+(93 gallons usable)
+* 128 gallons (2 wing tanks) at (+93.6) (123 gallons usable)
+* - Optional for S/N 34-7570001, 34-7670114 through 34-8170092.
+See NOTE 1 for data on system fuel.
+
+This data sheet which is a part of type certificate No. A7SO, prescribes conditions and limitations under which the product
+for which the type certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations.
+
+Maximum Operating Altitude 25,000 feet
+Control Surface Movements
+
+Ailerons
+(±2°)
+Stabilator
+Rudder
+(±1°)
+Stabilator Trim
+(±1°)
+Tab
+(Stabilator neutral)
+Wing Flaps
+(±2°)
+Rudder Trim
+Tab
+(±1°)
+(Rudder neutral)
+Nose Wheel
+Travel
+
+Manufacturer's Serial Number
+
+(±1°)
+
+Up
+Up
+Left
+Down
+
+35°
+12.5° (+0°, −1°)
+35°
+10.5°
+
+Down
+Down
+Right
+Up
+
+20°
+7.5° (±1°)
+35°
+6.5°
+
+Up
+
+0°
+
+Down
+
+40°
+
+Left
+
+25°
+
+Right
+
+25°
+
+Left
+
+27°
+
+Right
+
+27°
+
+34-7570001 through 34-8170092 (See NOTE 7).
+
+IIIA. - Model PA-34-220T (Seneca III), 7 PCLM (Normal Category), Approved December 17, 1980.
+Same as model PA-34-200T series except engines, windshield, instrument panel, landing gear, maximum gross weight and
+other minor changes.
+Engines
+
+Type Certificate Holder
+
+Piper Aircraft, Inc.
+2926 Piper Drive
+Vero Beach, Florida 32960
+
+Type Certificate Holder Record
+
+The New Piper Aircraft, Inc transferred TC A7SO to Piper Aircraft, Inc on August
+7, 2006
+
+8 qts. per engine (5 qts. per engine usable)
+See NOTE 1 for data on system oil.
+
+I. - Model PA-34-200 (Seneca), 7 PCLM (Normal Category), Approved 7 May 1971.
+
+S/N 34-7250215 through 34-7450220:
+1 Lycoming LIO-360-C1E6 with fuel injector,
+Lycoming P/N LW-12586 (right side); and
+1 Lycoming IO-360-C1E6 with fuel injector,
+Lycoming P/N LW-12586 (left side).
+Fuel
+
+100/130 minimum grade aviation gasoline
+
+Engine Limits
+
+For all operations, 2700 r.p.m.
+
+Propeller and Propeller Limits
+
+Left Engine
+1 Hartzell, Hub Model HC-C2YK-2 ( ) E, Blade Model C7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EU, Blade Model C7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EF, Blade Model FC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) EFU, Blade Model FC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2CG (F), Blade Model (F) C7666A
+(This model includes the Hartzell damper); or
+1 Hartzell, Hub Model HC-C2YK-2CGU (F), Blade Model (F) C7666A
+(This model includes the Hartzell damper).
+
+1 Teledyne Continental TSIO-360-KB (left engine),
+1 Teledyne Continental LTSIO-360-KB (right engine).
+
+Fuel
+
+100/100LL minimum grade aviation gasoline
+
+Engine Limits
+
+Takeoff, 5 minutes, 2800 r.p.m. and 40" Hg. manifold pressure (220 hp)
+Max. Continuous, 2600 r.p.m. and 40" Hg. manifold pressure (200 hp)
+
+Propeller and Propeller Limits
+
+Left Engine
+1 Hartzell, Hub Model BHC-C2YF-2 ( ) UF, Blade Model FC8459-8R.
+Right Engine
+1 Hartzell, Hub Model BHC-C2YF-2 ( )L ( )UF, Blade Model FJC8459-8R.
+
+1
+18
+
+2
+14
+
+3
+12
+
+6
+12
+
+7
+15
+
+8
+15
+
+9
+18
+
+10
+16
+
+12
+18
+
+11
+15
+
+13
+18
+
+15
+18
+
+14
+16
+
+A7SO
+
+Fuel Capacity
+
+Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell
+Service Advisory 61.
+
+98 gallons (2 wing tanks) at (+93.6) (93 gallons usable)
+See NOTE 1 for data on system fuel.
+
+Oil Capacity
+
+8 qts. per engine (6 qts. per engine usable)
+See NOTE 1 for data on system oil.
+
+Control Surface Movements
+
+Ailerons
+(±2°)
+Stabilator
+Rudder
+(±1°)
+Stabilator Trim
+(±1°)
+Tab
+(Stabilator neutral)
+Wing Flaps
+(±2°)
+Rudder Trim
+Tab
+(±1°)
+(Rudder neutral)
+
+High 79° to 81°, Low 13.5° at 30" station.
+Not over 76", not under 74".
+No further reduction permitted.
+
+Maximum Weight
+
+No. of Seats
+
+7 (2 at +85.5, 3 at +118.1, 2 at +155.7)
+200 lb. (100 lb. at +22.5, 100 lb. at +178.7)
+
+Avoid continuous operation between 2200 and 2400 r.p.m. unless aircraft is
+equipped with Hartzell propellers which incorporates Hartzell damper on both left
+and right engine as noted above.
+217 m.p.h.
+190 m.p.h
+146 m.p.h.
+146 m.p.h.
+133 m.p.h
+125 m.p.h
+
+(188 knots)
+(165 knots)
+(127 knots)
+(127 knots)
+(115 knots)
+(109 knots)
+
+150 m.p.h.
+125 m.p.h.
+150 m.p.h
+80 m.p.h.
+
+(130 knots)
+(109 knots)
+(130 knots)
+( 69 knots)
+
+S/N 34-E4, 34-7250001 through 34-7250214 (See NOTE 3):
+(+86.4) to (+94.6) at 4000 lb.
+(+82.0) to (+94.6) at 3400 lb.
+(+80.7) to (+94.6) at 2780 lb.
+S/N 34-7250215 through 34-7450220:
+(+87.9) to (+94.6) at 4200 lb.
+(+82.0) to (+94.6) at 3400 lb.
+(+80.7) to (+94.6) at 2780 lb.
+Straight line variation between points given.
+Moment change due to gear retracting landing gear (-32 in.-lb.)
+
+Empty Weight C.G. Range
+
+None
+
+Maximum Weight
+
+S/N 34-E4, 34-7250001 through 34-7250214:
+4000 lb.- Takeoff
+4000 lb. - Landing
+See NOTE 3.
+
+S/N 34-7250215 through 34-7450220:
+4200 lb. - Takeoff
+4000 lb. - Landing
+
+Maximum Baggage
+
+Governor Assembly:
+1 Hartzell hydraulic governor, Model F-6-18AL (Right);
+1 Hartzell hydraulic governor, Model F-6-18A (Left).
+
+VNE (Never exceed)
+VNO (Maximum structural cruise)
+VA (Maneuvering, 4200 lb.)
+VA (Maneuvering, 4000 lb.)
+VA (Maneuvering, 2743 lb.)
+VFE (Flaps extended)
+VLO (Landing gear operating)
+Extension
+Retract
+VLE (Landing gear extended)
+VMC (Minimum control speed)
+
+17
+18
+
+16
+16
+
+3 of 17
+
+Spinner: Piper P/N 96388 Spinner Assembly and P/N 96836 Cap Assembly, or
+P/N 78359-0 Spinner Assembly and P/N 96836-2 Cap Assembly (See NOTE 4)
+
+C.G. Range (Gear Extended)
+
+5
+12
+
+Right Engine
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LE, Blade Model JC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEU, Blade Model JC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEF, Blade Model FJC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2 ( ) LEFU, Blade Model FJC7666A-0;
+1 Hartzell, Hub Model HC-C2YK-2CLG (F), Blade Model (F) JC7666A
+(This model includes the Hartzell damper); or
+1 Hartzell, Hub Model HC-C2YK-2CLGU (F), Blade Model (F) JC7666A
+(This model includes the Hartzell damper).
+
+Pitch setting:
+Diameter:
+
+Airspeed Limits
+
+4
+12
+
+2 of 17
+
+A7SO
+
+(200 hp)
+
+Note: HC-( )2YK-( ) may be substituted by HC-( )2YR-( ) per Hartzell
+Service Advisory 61.
+
+Page No.
+Rev No.
+
+Propeller and Propeller Limits
+(continued)
+
+S/N 34-E4, 34-7250001 through 34-7250214:
+1 Lycoming LIO-360-C1E6 with fuel injector,
+Lycoming P/N LW-10409 or LW-12586 (right side); and
+1 Lycoming IO-360-C1E6 with fuel injector,
+Lycoming P/N LW-10409 or LW 12586 (left side).
+
+Engines
+
+Nose Wheel
+Travel
+Nose Wheel
+Travel
+Manufacturer's Serial Number
+
+Up
+Up
+Left
+Down
+
+30°
+12.5° (+0, −1°)
+35°
+10.5°
+
+Down
+Down
+Right
+Up
+
+15°
+7.5° (±1°)
+35°
+6.5°
+
+Up
+
+0°
+
+Down
+
+40°
+
+Left
+
+17°
+
+Right
+
+22°
+
+S/N 34-E4, 34-7250001 through 34-7350353:
+Left
+Right
+(±1°)
+21°
+S/N 34-7450001 through 34-7450220:
+Left
+Right
+(±1°)
+27°
+
+21°
+27°
+
+34-E4, 34-7250001 through 34-7450220 (See NOTE 7).
+
+II. - Model PA-34-200T (Seneca II), 7 PCLM (Normal Category), Approved July 18, 1974.
+Same as Model PA-34-200 series except engine installation, maximum gross weight, and other minor changes.
+Engines
+
+1 Teledyne Continental TSIO-360-E or TSIO-360-EB (left engine),
+1 Teledyne Continental LTSIO-360-E or LTSIO-360-EB (right engine).
+
+Fuel
+
+100/130 minimum grade aviation gasoline
+
+Engine Limits
+
+For all operations, 2575 r.p.m. and 40" Hg.
+Manifold pressure, 200 hp @ S.L. and 215 hp @ 12,000 ft.
+
+Propeller and Propeller Limits
+
+Left engine
+1 Hartzell, Hub Model BHC-C2YF-2 ( )F (See NOTE 10)
+or BHC-C2YF-2 ( )UF; Blade Model FC8459-8R or FC8459B-8R.
+Right engine
+1 Hartzell, Hub Model BHC-C2YF-2 ( )L ( )F (See NOTE 10)
+or BHC-C2YF-2 ( )L ( )UF; Blade Model FJC8459-8R or FJC8459B-8R.
+Pitch setting at 30" station:
+Hub Serial Numbers prior to AN3943:
+High 79.3° ± 2.0°, Low 14.4° ± 0.2° or High 80.0° to 81.5°, Low 14.4° ± 0.2°.
+Hub Serial Numbers AN3943 and subsequent:
+High 80.0° to 81.5°, Low 14.4° ± 0.2°.
+
+Figure 6-15. Highlights of various specifications of the aircraft found within a TCDS. Note the fuel capacity of 98 gallons and its reference
+
+to the datum (A).
+
+6-10
+
+===== PDF PAGE 222 =====
+15 of 17
+
+MODEL
+PA-34-220T
+(Seneca III)
+
+PA-34-220T
+(Seneca IV)
+
+PA-34-220T
+(Seneca V)
+
+NOTE 1
+
+A7SO
+
+AFM/POH
+POH
+
+REPORT NO.
+VB-1110
+
+APPROVED
+1/8/81
+
+POH
+
+VB-1150
+
+2/20/81
+
+POH
+POH
+
+VB-1257
+VB-1259
+
+10/20/89
+11/20/89
+
+POH
+POH
+
+VB-1556
+VB-1558
+
+11/5/93
+12/6/93
+
+POH
+POH
+
+VB-1615
+VB-1620
+
+7/12/95
+7/12/95
+
+POH
+POH
+
+VB-1638
+VB-1649
+
+12/6/96
+1/23/97
+
+POH
+
+VB-1930
+
+10/25/05
+
+POH
+
+VB-1955
+
+3/20/06
+
+POH
+
+VB-2186
+
+9/2/2010
+
+POH
+
+VB-2193
+
+9/10/2010
+
+POH
+
+VB-2230
+
+4/30/2013
+
+11 of 17
+
+Control Surface Movements
+
+SERIAL EFFECTIVITY
+34-8133001 through
+34-8633031, and
+3433001 through 3433172
+34-8133001 through
+34-8633031, and
+3433001 through 3433172
+when Piper Kit
+764-099V is installed
+3448001 through 3448037
+3448001 through 3448037
+when Piper Kit
+766-203 is installed
+3448038 through 3448079
+3448038 through 3448079
+when Piper Kit
+766-283 is installed
+3447001 through 3447029
+3447001 through 3447029
+when Piper Kit 766-608 is
+installed
+3449001 and up
+3449001 and up when Piper
+Kit 766-632 (or equivalent
+88247-{ }) is installed
+3449311 and 3449323 and up
+when Avidyne Entegra System
+is installed.
+3449311 and 3449323 and up
+when Piper kit 766-632
+(or equivalent 88247-{ }) and
+Avidyne Entegra System is
+Installed.
+3449410 and up when Garmin
+G600 System is installed
+
+Nose Wheel
+Travel
+(Maximum)
+Manufacturer's Serial Number
+
+Oil:
+Oil:
+NOTE 2
+
+Down
+Down
+Right
+Up
+
+20°
+7.5° (±1°)
+35°
+6.5°
+
+Up
+
+0° (±1°)
+
+Down
+
+40° (±2°)
+
+Left
+
+26°
+
+Right
+
+26°
+
+Left
+
+27°
+
+Right
+
+27°
+
+3449001 and up.
+
+Datum
+
+78.4" forward of wing leading edge from the inboard edge of the inboard fuel
+tank.
+
+Leveling Means
+
+Two screws left side fuselage below window.
+
+Certification Basis
+
+Type Certificate No. A7SO issued May 7, 1971, obtained by the manufacturer
+under the delegation option authorization.
+Date of Type Certificate application July 23, 1968.
+Model PA-34-200 (Seneca I):
+FAR 23 as amended by Amendment 23-6 effective August 1, 1967; FAR
+23.959 as amended by Amendment 23-7 effective September 14, 1969; and
+FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977.
+Compliance with FAR 23.1419 as amended by Amendment 23-14 effective
+December 20, 1973, has been established with optional ice protection
+provisions.
+
+3449410 and up when Piper
+Kit 766-632 (or equivalent
+88247-{ }) and Garmin G600
+System is installed.
+3449459, 3449467 and up
+when the Garmin G1000
+system is installed
+
+Model PA-34-200T (Seneca II):
+FAR 23 as amended by Amendment 23-6 effective August 1, 1967; FAR
+23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143, 23.1305(b)(c)(h)(p)
+and 23.1527(b) as amended by Amendment 23-7 effective September 14, 1969;
+and FAR 23.1557(c)(1) as amended by Amendment 23-18 effective May 2, 1977.
+Model PA-34-220T (Seneca III and IV):
+FAR 23 as amended by Amendment 23-6 effective August 1, 1967; FAR
+23.207, 23.901, 23.909, 23.959, 23.1041, 23.1043, 23.1047, 23.1143,
+23.1305(b)(c)(h)(p) and 23.1527 as amended by Amendment 23-7 effective
+September 14, 1969; FAR 23.201 and 23.203 as amended by Amendment
+23-14 effective December 20, 1973; FAR 23.1557(c)(1) as amended by
+Amendment 23-18 effective May 2, 1977; FAR 23.175(a) and 23.1581(b)(2) as
+amended by Amendment 23-21 effective March 1, 1978; FAR 23.1545(a) as
+amended by Amendment 23-23 effective December 1, 1978; and FAR 36
+through Amendment 36-9 effective January 15, 1979.
+
+The certificated empty weight and corresponding center of gravity locations must include
+undrainable system oil (not included in oil capacity) and unusable fuel as noted below:
+
+Fuel:
+
+35°
+12.5° (+0°, −1°)
+35°
+10.5°
+
+Up
+Up
+Left
+Down
+
+DATA PERTINENT TO ALL MODELS
+
+Current Weight and Balance Report, including list of equipment included in certificated
+empty weight, and loading instructions when necessary, must be provided for each aircraft at
+the time of original certification.
+
+Fuel:
+
+Ailerons
+(±2°)
+Stabilator
+Rudder
+(±1°)
+Stabilator Trim
+(±1°)
+Tab
+(Stabilator neutral)
+Wing Flaps
+Rudder Trim
+Tab
+(±1°)
+(Rudder neutral)
+
+A7SO
+
+30.0 lb. at (+103.0) for PA-34 series, except Model PA-34-220T
+(Seneca V), S/N 3449001 and up
+36.0 lb. at (+103.0) for Model PA-34-220T (Seneca V), S/N 3449001
+and up
+6.2 lb. at (+ 39.6) for Model PA-34-200
+12.0 lb. at (+ 43.7) for Models PA-34-200T and PA-34-220T
+
+All placards required in the approved Airplane Flight Manual or Pilot's Operating Handbook
+and approved Airplane Flight Manual of Pilot's Operating Handbook supplements must be
+
+Figure 6-16. Highlights of various specifications of the aircraft found within a TCDS.
+
+is weighed using load cells on jacks, leveling the aircraft is
+done by adjusting the height with the jacks and checking the
+level at the level point. Figure 6-20 shows a Gulfstream jet
+on jacks with the load cells in place.
+Always follow the aircraft manufacturer’s weighing and
+leveling procedures and processes. All aircraft need to be
+in a flight level attitude when they are weighed unless the
+manufacturer’s manual specifically allows it or has a formula
+in the manual to use accordingly.
+
+Spirit Level
+
+Plumb Bob
+
+A plumb bob is a heavy metal object, cylinder or cone shape,
+with a sharp point at one end and a string attached to the
+other end. If the string is attached to a given point on an
+aircraft, and the plumb bob can hang down so the tip just
+touches the ground, the point where the tip touches will be
+perpendicular to where the string is attached. An example
+of the use of a plumb bob would be measuring the distance
+from an aircraft’s datum to the center of the main landing
+gear axle. If the leading edge of the wing was the datum, a
+plumb bob could be dropped from the leading edge and a
+
+Before an aircraft can be weighed and reliable readings
+obtained, it must be in a level flight attitude. One method that
+can be used to check for a level condition is to use a spirit
+level, sometimes thought of as a carpenter’s level, by placing
+it on or against a specified place on the aircraft. Spirit levels
+consist of a vial full of liquid, except for a small air bubble.
+When the air bubble is centered between the two black lines,
+a level condition is indicated.
+In Figure 6-21, a spirit level is being used on a Mooney M20
+to check for a flight level attitude. By looking in the TCDS,
+it is determined that the leveling means is two screws on
+the left side of the airplane fuselage, in line with the trailing
+edge of the wing.
+
+Figure 6-17. Weighing a Piper Archer using electronic platform
+
+scales.
+
+6-11
+

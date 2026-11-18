@@ -1,0 +1,317 @@
+FAA-H-8083-30B General Handbook, chapter 6 (Aircraft Weight & Balance), PDF pages 241-244
+
+===== PDF PAGE 241 =====
+Longitudinal CG Calculation
+Scale (lb)
+
+Tare Wt. (lb)
+
+Nt. Wt. (lb)
+
+Arm (inches)
+
+Moment (in-lb)
+
+Left Front
+
+Item
+
+650
+
+0
+
+650
+
++55.16
+
+35,854.0
+
+Right Front
+
+625
+
+0
+
+625
+
++55.16
+
+34,475.0
+
+Aft
+
+710
+
+0
+
+710
+
++204.92
+
+145,493.2
+
+Total
+
+1,985
+
+1,985
+
++108.73
+
+215,822.2
+
+Arm (inches)
+
+Moment (in-lb)
+
+Lateral CG Calculation
+Scale (lb)
+
+Tare Wt. (lb)
+
+Nt. Wt. (lb)
+
+Left Front
+
+Item
+
+650
+
+0
+
+650
+
+−25
+
+−16,250
+
+Right Front
+
+625
+
+0
+
+625
+
++25
+
++15,625
+
+Aft
+
+710
+
+0
+
+710
+
+0
+
+0
+
+Total
+
+1,985
+
+1,985
+
++.31
+
+−625
+
+Figure 6-50. Center of gravity calculation for Bell JetRanger.
+
+Wing attachment point
+adjustable for CG
+
+Wing attachment point
+adjustable for CG
+Figure 6-51. Weight and balance for a weight-shift control aircraft.
+
+Nosewheel steering
+
+Throttle
+Pivot bar
+to control turning
+
+Figure 6-53. Powered parachute structure with wing attach points.
+
+Figure 6-52. Wing attach point for a weight-shift control aircraft.
+
+=
+
+945 – 900
+
+× 100
+
+180
+
+= 25 percent
+If the CG is known in percent of MAC, and there is a need
+to know the CG location in inches from the datum, the
+conversion would be done as follows:
+1.
+
+Convert the percent of MAC to a decimal by dividing
+by 100.
+
+2.
+
+Multiply the decimal by the length of the MAC.
+
+6-30
+
+===== PDF PAGE 242 =====
+Center of gravity
+945"
+
+MAC=180"
+
+Trailing edge of MAC
+1,080"
+
+Leading edge of MAC
+900"
+
+Datum
+
+CG at 945"
+LEMAC 900"
+
+45"
+
+Chord line
+MAC = 180"
+
+Figure 6-54. Center of gravity location on a large commercial transport.
+
+3.
+
+Add this number to LEMAC.
+
+As a formula, the solution to convert a percent of MAC to
+an inch value would be:
+CG in inches = % MAC ÷ 100 × MAC + LEMAC
+For the airplane in Figure 6-54, if the CG was at 32.5 percent
+of the MAC, the solution would be:
+CG in inches = % MAC ÷ 100 × MAC + LEMAC
+= 32.5 ÷ 100 × 180 + 900
+= 958.5
+
+Weight & Balance Records
+When a technician gets involved with the weight and balance
+of an aircraft, it almost always involves a calculation of the
+aircraft’s empty weight and EWCG. Only on rare occasions
+are technicians involved in calculating adverse-loading CG
+
+checks, how much ballast is needed, or the loaded weight
+and balance of the aircraft. Calculating the empty weight
+and EWCG might involve putting the aircraft on scales and
+weighing it, or a pencil and paper exercise after installing a
+new piece of equipment.
+The FAA requires that a current and accurate empty weight
+and EWCG be known for an aircraft. This information must
+be included in the weight and balance report, which is a part
+of the aircraft permanent records. The weight and balance
+report must be in the aircraft when it is being flown.
+There is no required format for this report, but Figure 6-55
+is a good example of recording the data obtained from
+weighing an aircraft. As it is currently laid out, the form
+would accommodate either a tricycle gear or tail dragger
+airplane. Depending on the gear type, either the nose or the
+tail row would be used. If an airplane is being weighed using
+jacks and load cells, or if a helicopter is being weighed, the
+6-31
+
+===== PDF PAGE 243 =====
+Aircraft Weight and Balance Report
+Results of Aircraft Weighing
+Make
+
+Model
+
+Serial #
+
+N#
+
+Datum Location
+Leveling Means
+Scale Arms:
+
+Nose
+
+Tail
+
+Left Main
+
+Right Main
+
+Scale Weights: Nose
+
+Tail
+
+Left Main
+
+Right Main
+
+Tare Weights: Nose
+
+Tail
+
+Left Main
+
+Right Main
+
+Weight and Balance Calculation
+Item
+
+Scale (lb)
+
+Tare Wt. (lb)
+
+Net Wt. (lb)
+
+Arm (inches)
+
+Moment (in-lb)
+
+Nose
+Tail
+Left Main
+Right Main
+Subtotal
+Fuel
+Oil
+Misc.
+Total
+
+Aircraft Current Empty Weight:
+Aircraft Current Empty Weight CG:
+Aircraft Maximum Weight:
+Aircraft Useful Load:
+Computed By:
+
+(print name)
+(signature)
+
+Certificate #:
+
+(A&P, Repair Station, etc.)
+
+Date:
+
+Figure 6-55. Aircraft weight and balance report.
+
+6-32
+
+===== PDF PAGE 244 =====
+item names must be changed to reflect the weight locations.
+If an equipment change is being done on an aircraft, and the
+new weight and balance is calculated mathematically instead
+of weighing the aircraft, the same type of form shown in
+Figure 6-55 can be used. The only change would be the use
+of a four-column solution, instead of six columns, and there
+would be no tare weight or involvement with fuel and oil.
+
+6-33
+

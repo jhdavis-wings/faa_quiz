@@ -1,0 +1,1327 @@
+FAA-H-8083-31B Airframe Handbook, chapter 14 (Aircraft Fuel Systems), PDF pages 865-880
+
+===== PDF PAGE 865 =====
+the fuel. The viscosity component represents the mass of the
+fuel. [Figure 14-78]
+An alternating current (AC) synchro system is part of the
+mass fuel flow meter. It is used to position a pointer against
+the flight deck indicator scale calibrated in pounds per hour.
+
+GAL.
+
+GAL.
+
+With accurate fuel flow knowledge, numerous calculations
+can be performed to aid the pilot’s situational awareness
+and flight planning. Most high-performance aircraft have
+a fuel totalizer that electronically calculates and displays
+information, such as total fuel used, total fuel remaining
+onboard the aircraft, total range and flight time remaining
+at the present airspeed, rate of fuel consumption, etc. On
+light aircraft, it is common to replace the original analog
+fuel indicators with electronic gauges containing similar
+capabilities and built-in logic. Some of these fuel computers,
+as they are called, integrate global positioning satellite (GPS)
+location information. [Figure 14-79] Aircraft with fully digital
+flight decks process fuel flow data in computers and display
+a wide array of fuel flow related information on demand.
+
+REM.
+L. FUEL FLOW
+
+NM/GAL
+
+G
+P
+H
+
+USED
+R. FUEL FLOW
+
+GAL TO DESTINATION
+GAL RESERVE
+ENDURANCE
+
+TEST
+
+ADD
+
+FULL
+ENTER
+
+Figure 14-79. A modern fuel management gauge uses a
+microprocessor to display fuel flow and numerous other fuel
+consumption related calculations.
+
+Relatively new types of fuel flow sensors/transmitters are
+available in new aircraft and for retrofit to older aircraft.
+One type of device found in home-built and experimental
+aircraft uses a turbine that rotates in the fuel flow. The higher
+the flow rate is, the faster the turbine rotates. A Hall effect
+transducer is used to convert the speed of the turbine to an
+electrical signal to be used by an advanced fuel gauge similar
+
+to a fuel computer to produce a variety of calculated readouts
+and warnings. The turbine in this unit is in line with the fuel
+flow but is fail-safe to allow adequate fuel flow without
+interruption should the unit malfunction. [Figure 14-80]
+Another fuel flow sensor used primarily on light aircraft also
+detects the spinning velocity of a turbine in the fuel path. It
+too has a fail-safe design should the turbine malfunction. In
+this unit, notches in the rotor interrupt an infrared light beam
+between an LED and phototransistor that creates a signal
+proportional to the amount fuel flow. [Figure 14-81] This
+type of sensor may be coupled with an electronic indicator.
+
+This side slightly lower
+
+n
+
+irectio
+
+Flow d
+
+This side slightly higher
+(allows bubbles to exit)
+
+Power
+
+FLOW
+
+Fuel
+
+TOTAL
+
+Figure 14-80. A transducer and microprocessor for control functions are located in the base of this turbine fuel flow sensor. The gauge
+is menu driven with numerous display options.
+
+14-42
+
+===== PDF PAGE 866 =====
+Figure 14-82. Fuel flow sensing units using thermal dispersion
+technology have no moving parts and output digital signals.
+
+Figure 14-81. A turbine flow transducer in this fuel flow sensor
+
+produces a current pulse signal from an opto-electronic pickup
+with a preamplifier.
+
+Increasing use of microprocessors and computers on
+aircraft enable the integration of fuel temperature and other
+compensating factors to produce highly accurate fuel flow
+information. Fuel flow sensing with digital output facilitates
+this with a high degree of reliability. Thermal dispersion
+technology provides flow sensing with no moving parts and
+digital output signals. The sensor consists of two resistance
+temperature detectors (RTDs). One is a reference RTD that
+measures the temperature of the fuel. The other is the active
+RTD. It is heated by an adjacent element to a temperature
+higher than the fuel. As the fuel flows, the active element
+cools proportionally to the fuel flow. The temperature
+difference between the two RTDs is highest at no flow.
+The RTDs are connected to an electronic assembly that
+supplies power to the heater and uses sensing circuitry and a
+microprocessor to control a constant temperature difference
+between the heated and unheated RTDs. The electrical current
+to the heater is proportional to the mass flow of the fuel. As
+mentioned, the reference RTD is used as a temperature sensor
+to provide a temperature output and allow for temperature
+compensation of the flow measurement. [Figure 14-82]
+
+temperatures that affect fuel flow sensing accuracy can be
+corrected via microprocessors and computers.
+
+Fuel Pressure Gauges
+Monitoring fuel pressure can give the pilot early warning of
+a fuel system related malfunction. Verification that the fuel
+system is delivering fuel to the fuel metering device can be
+critical. Simple light reciprocating-engine aircraft typically
+utilize a direct reading Bourdon tube pressure gauge. It is
+connected into the fuel inlet of the fuel metering device with
+a line extending to the back of the gauge in the flight deck
+instrument panel. A more complex aircraft may have a sensor
+with a transducer located at the fuel inlet to the metering
+device that sends electrical signals to a flight deck gauge.
+[Figure 14-83] In aircraft equipped with an auxiliary pump
+for starting and to back up the engine-driven pump, the fuel
+pressure gauge indicates the auxiliary pump pressure until
+the engine is started. When the auxiliary pump is switched
+off, the gauge indicates the pressure developed by the enginedriven pump.
+More complex and larger reciprocating engine aircraft may
+use a differential fuel pressure gauge. It compares fuel inlet
+pressure to the air inlet pressure at the fuel metering device. A
+
+Fuel Temperature Gauges
+As previously mentioned, monitoring fuel temperature can
+inform the pilot when fuel temperature approaches that
+which could cause ice to form in the fuel system, especially
+at the fuel filter. Many large and high-performance turbine
+aircraft use a resistance type electric fuel temperature
+sender in a main fuel tank for this purpose. It can display
+on a traditional ratiometer gauge [Figure 14-65] or can be
+input into a computer for processing and digital display.
+A low fuel temperature can be corrected with the use
+of a fuel heater if the aircraft is so equipped. Also as
+mentioned, fuel temperature can be integrated into fuel flow
+processing calculations. Viscosity differences at varying fuel
+
+10
+
+15
+
+20
+
+5
+
+25
+0
+
+Fuel
+Press.
+Psi
+
+30
+
+Figure 14-83. A typical fuel gauge that uses a signal from a sensing
+
+transducer to display fuel inlet pressure at the metering device.
+
+14-43
+
+===== PDF PAGE 867 =====
+Adjustment screw
+
+3
+2
+1
+
+4
+5
+
+FUEL
+
+Airbox
+
+Contacts
+
+6
+
+0 Diff. PSI 7
+Electrical
+connections
+to warning
+light
+
+bellows type pressure gauge is normally used. [Figure 14- 84]
+Modern aircraft may use a variety of sensors including solid
+state types and those with digital output signals or signals
+that are converted to digital output. These can be processed
+in the instrument gauge microprocessor, if so equipped, or
+in a computer and sent to the display unit. [Figure 14-85]
+
+Pressure Warning Signal
+On aircraft of any size, visual and audible warning devices are
+used in conjunction with gauge indications to draw the pilot’s
+attention to certain conditions. Fuel pressure is an important
+parameter that merits the use of a warning signal when it falls
+outside of the normal operating range. Low fuel pressure
+warning lights can be illuminated through the use of simple
+pressure sensing switches. [Figure 14-86] The contacts of the
+switch will close when fuel pressure against the diaphragm is
+insufficient to hold them open. This allows current to flow to
+the annunciator or warning light in the flight deck.
+
+Fuel
+
+Figure 14-84. A differential fuel pressure gauge used on complex
+and high-performance reciprocating-engine aircraft compares the
+fuel inlet pressure to the air inlet pressure at the fuel metering device.
+
+Air
+
+Diaphragm
+
+Figure 14-86. A fuel pressure warning signal is controlled by a
+switch that closes when fuel pressure is low.
+
+Most turbine-powered aircraft utilize a low-pressure warning
+switch at the outlet of each fuel boost pump. The annunciator
+for each is typically positioned adjacent to the boost pump ON/
+OFF switch on the fuel panel in the flight deck. [Figure 14-87]
+
+Valve-In-Transit Indicator Lights
+Aircraft with multiple fuel tanks use valves and pumps to
+move fuel and to have it flow to desired locations, such as
+the engines, a certain tank, or overboard during fuel jettison.
+The functioning of the valves in the fuel system is critical.
+
+FlightDEK-D180
+20+
+N/A
+
+FUEL COMPUTER
+
+51.7
+
+GALS REM
+
+10.3
+
+20+
+N/A
+
+GALS USED
+
+4:17
+
+TIME REM
+
+7.0
+
+NM/GAL
+
+0.0
+
+TNK3
+LEFT
+
+GALS AT WPT
+
+382
+
+TNK4
+RGHT
+
+RANGE NM
+
+11.5
+GPH
+
+9.8
+PSI
+
+Figure 14-85. An electronic display of fuel parameters, including
+
+fuel pressure.
+
+Figure 14-87. A transport category aircraft fuel panel with low
+pressure warning lights for each fuel boost pump.
+
+14-44
+
+===== PDF PAGE 868 =====
+Some aircraft indicate to the crew when the valve is opening
+or closing with the use of valve-in-transit lights. Contacts in
+the valve control the lights that go out when the valve is fully
+open or when it is fully closed. Alternately, annunciator lights
+that show the valve position as OPEN or CLOSED are also
+used. Valve-in-transit and valve position indicators, or lights,
+are located on the fuel panel in the flight deck adjacent to
+the valve ON/OFF switches. [Figure 14-88] Sometimes the
+switch mechanism has the annunciator light built into it. Digital
+display systems graphically depict valve positions on screen.
+
+Fuel System Repair
+The integrity of an aircraft fuel system is critical and should
+not be compromised. Any evidence of malfunction or
+leak should be addressed before the aircraft is released for
+flight. The danger of fire, explosion, or fuel starvation in
+flight makes it imperative that fuel system irregularities be
+given top priority. Each manufacturer’s maintenance and
+operation instructions must be used to guide the technician
+in maintaining the fuel system in airworthy condition. Follow
+the manufacturer’s instructions at all times. Component
+
+15
+
+I0
+5
+
+FUEL QTY
+
+FUEL 20
+QUANTITY
+
+0
+
+25
+
+30
+
+0
+2
+
+6
+4
+
+TEST
+
+NO 1
+TANK
+FWD AFT
+BOOST
+PUMP
+
+ON
+
+OFF
+
+LOW
+PRESS
+
+OPEN
+
+FEED
+
+CLOSE
+
+Location of Leaks & Defects
+Close visual inspection is required whenever a leak or defect
+is suspected in a fuel system. Leaks can often be traced to
+the connection point of two fuel lines or a fuel line and a
+component. Occasionally, the component itself may have
+an internal leak. Fuel leaks also occur in fuel tanks and
+are discussed below. Leaking fuel produces a mark where
+it travels. It can also cause a stronger than normal odor.
+Gasoline may collect enough of its dye for it to be visible or
+an area clean of dirt may form. Jet fuel is difficult to detect
+at first, but it has a slow evaporation rate. Dirt and dust
+eventually settle into it, which makes it more visible.
+When fuel leaks into an area where the vapors can collect,
+the leak must be repaired before flight due to the potential for
+fire or explosion. Repair could be deferred for external leaks
+that are not in danger of being ignited. However, the source
+of the leak should be determined and monitored to ensure it
+does not become worse. Follow the aircraft manufacturer’s
+instructions on the repair of fuel leaks and the requirements
+that need to be met for airworthiness. Detailed visual
+inspection can often reveal a defect.
+
+Fuel Leak Classification
+
+VALVE
+IN TRANSIT
+
+SHUT
+OFF
+
+Troubleshooting the Fuel System
+Knowledge of the fuel system and how it operates is essential
+when troubleshooting. Manufacturers produce diagrams
+and descriptions in their maintenance manuals to aid the
+technician. Study these for insight. Many manuals have
+troubleshooting charts or flow diagrams that can be followed.
+As with all troubleshooting, a logical sequence of steps to
+narrow the problem to a specific component or location
+should be followed. Defects within the system can often be
+located by tracing the fuel flow from the tank through the
+system to the engine. Each component must be functioning
+as designed and the cause of the defect symptom must be
+ruled out sequentially.
+
+ON
+
+OFF
+
+CROSS
+
+manufacturers and STC holder instructions should be used
+when applicable. Some general instructions for fuel system
+maintenance and repair are given in the following sections.
+
+VALVE
+IN TRANSIT
+
+ENG 1
+
+Figure 14-88. Valve-in-transit lights are used on this section of a
+
+transport category aircraft fuel panel. Low boost pump pressure
+lights that look the same are also on the panel.
+
+Four basic classifications are used to describe aircraft
+fuel leaks: stain, seep, heavy seep, and running leak.
+[Figure 14-89] In 30 minutes, the surface area of the
+collected fuel from a leak is a certain size. This is used as the
+classification standard. When the area is less than ¾ inch in
+diameter, the leak is said to be a stain. From ¾ to 1½ inches
+in diameter, the leak is classified as a seep. Heavy seeps form
+an area from 1½ inches to 4 inches in diameter. Running leaks
+pool and actually drip from the aircraft. They may follow the
+contour of the aircraft for a long distance.
+
+14-45
+
+===== PDF PAGE 869 =====
+3/4" Max.
+
+Stain
+Size will vary with
+location and intensity
+
+3/4" to 11/2"
+
+Running leak
+
+Seep
+
+Fuel will usually flow in this
+area along skin contour after
+it is wiped dry
+
+11/2" to 4"
+
+Heavy seep
+
+Fuel usually drips at this point
+
+Figure 14-89. The surface area of collected fuel from a leak is used to classify the leak into the categories shown.
+
+Replacement of Gaskets, Seals, & Packings
+A leak can often be repaired by replacing a gasket or seal.
+When this occurs, or a component is replaced or reassembled
+after a maintenance operation, a new gasket, seal, or packing
+must be installed. Do not use the old one(s). Always be sure
+to use the correct replacement as identified by part number.
+Also, most gaskets, seals, and packings have a limited shelf
+life. They should be used only if they are within the service
+life stamped on the package.
+Remove the entire old gasket completely and clean all
+mating surfaces. Clean surfaces and grooves allow a tight
+seal. Inspect new gaskets and seals for any flaws. Follow
+the manufacturer’s instructions for replacement, including
+cleaning procedures and any sealing compound that you may
+need to apply during replacement. Torque assembly bolts
+evenly so as to provide even pressure and prevent pinching.
+Fuel Tank Repair
+Whether rigid removable, bladder-type, or integral, all fuel
+tanks have the potential to develop leaks. Repair a tank
+according to the manufacturer’s instructions. Some general
+notes for repair of each tank type follow. At the time a tank is
+repaired, a thorough inspection should be made. Corrosion,
+such as that caused by water and microbes, should be
+identified and treated at this time, even if it is not the cause
+of the leak.
+Rigid removable fuel tanks can be riveted, welded, or
+soldered together. A leak can develop at any of these types of
+
+seams or can be elsewhere on the tank. Generally, the repair
+must match the construction in technique.
+Some metal fuel tanks experiencing minor seepage can be
+repaired with a sloshing procedure. An approved sloshing
+compound is poured into the tank, and the tank is moved
+so that the compound coats the entire inner surface area of
+the tank. Any excess compound is then poured out and the
+compound in the tank is allowed to cure for a specified amount
+of time. Minor gaps in the seams of the tank and repairs are
+filled in this manner. The compound is fuel resistant once dry.
+Check with the aircraft manufacturer to ensure that sloshing
+is an airworthy repair for the aircraft fuel tank in question.
+
+Welded Tanks
+Welded tank repairs are usually done by welding. These tanks
+can be constructed from steel or weldable aluminum, such
+as 3003S or 5052SO. The tank is removed from the aircraft
+for the repair. It must be treated to remove any fuel vapors
+that remain in the tank before it is welded. This is critical to
+avoid serious injury from explosion should the fuel vapor
+ignite. The manufacturer usually gives a procedure for doing
+this. Some common methods for purging the tank include
+steam cleaning, hot water purging, and inert gas purging.
+Most procedures involve running the steam, water, or gas
+through the tank for a stated period of time. Adapters may
+need to be fashioned or purchased for the fill port to enable
+proper cleaning. Follow the manufacturer’s procedure for
+the proper time to keep the cleaning medium in the tank and
+for prepping the tank for welding in general.
+14-46
+
+===== PDF PAGE 870 =====
+After a seam or a damaged area is welded, you must clean
+the tank of any flux or debris that may have fallen into the
+tank. Water rinsing and acid solutions are commonly used.
+A leak check to ensure the repair is sound follows a welded
+repair. This can be done by pressurizing the tank with a
+specified amount of air pressure and using a soapy solution
+on all seams and the repaired area. Bubbles form should air
+escape. The amount of air pressure used for a leak check is
+very low. One half to 3.5 psi is common. Use an accurate
+regulator and pressure gauge to prevent overpressurization
+that could deform or otherwise damage the tank. Tanks
+ordinarily supported by aircraft structure when installed
+should be similarly supported or reinstalled in the airframe
+before pressurization. Figure 14-90 shows an aircraft fuel
+tank being welded and the repaired tank installed in the frame
+of an antique aircraft.
+
+Riveted Tanks
+Riveted tanks are often repaired by riveting. The seams
+and rivets are coated with a fuel resistant compound when
+assembled to create a leak-free container. This practice is
+followed during a patch repair, or when repairing a seam,
+which may require replacing the rivets in the seam. Some
+minor leak repairs may only require the application of
+addition compound. Follow manufacturer’s instructions.
+The compound used may be heat sensitive and require inert
+gas purging to prevent degradation from hot water or steam
+purging. Again, follow all manufacturer guidance to insure
+a safe airworthy repair.
+
+Soldered Tanks
+Terneplate aircraft fuel tanks that are assembled by soldering
+are also repaired by soldering. All patches have a minimum
+amount that must overlap the damaged area. Flux used in
+
+soldering must be removed from the tank after the repair
+with techniques similar to that used on a welded tank. Follow
+manufacturer’s instructions.
+
+Bladder Tanks
+Bladder fuel tanks that develop leaks can also be repaired.
+Most commonly, they are patched using patch material,
+adhesive, and methods approved by the manufacturer. As
+with soldered tanks, the patch has a required overlap of the
+damaged area. Damage that penetrates completely through the
+bladder is repaired with an external, as well as internal, patch.
+Synthetic bladder tanks have a limited service life. At some
+point, they seep fuel beyond acceptable limits and need to be
+replaced. Bladder tanks are usually required to remain wetted
+with fuel at all times to prevent drying and cracking of the
+bladder material. Storage of bladder tanks without fuel can
+be accomplished by coating the tanks with a substance to
+prevent drying, such as clean engine oil that can be flushed
+from the tank when ready to return to service. Follow all
+manufacturer’s instructions for the care and repair of these
+common tanks. It is important to ensure that bladder tanks
+are correctly secured in place with the proper fasteners when
+reinstalling them in the aircraft after a repair.
+
+Integral Tanks
+Occasionally, an integral tank develops a leak at an access
+panel. This can often be repaired by transferring fuel to another
+tank so the panel can be removed and the seal replaced. Use
+of the proper sealing compound and bolt torque are required.
+Other integral fuel tank leaks can be more challenging and
+time consuming to repair. They occur when the sealant used
+to seal the tank seams loses its integrity. To repair, fuel needs
+
+Figure 14-90. A rigid removable fuel tank with welded seams is repaired by welding.
+
+14-47
+
+===== PDF PAGE 871 =====
+to be transferred or defueled out of the tank. You must enter
+large tanks on transport category aircraft. Preparing the tank
+for safe entry requires a series of steps outlined by the aircraft
+manufacturer. These include drying the tank and venting it of
+dangerous vapors. The tank is then tested with a combustiblegas indicator to be certain it can be entered safely. Clothing
+that does not cause static electricity and a respirator is worn.
+An observer is stationed outside of the tank to assist the
+technician in the tank. [Figure 14-91] A continuous flow of
+ventilating air is made to flow through the tank. A checklist for
+fuel tank preparation for entry taken from a transport category
+maintenance manual is shown in Figure 14-92. The details of
+the procedures are also given in the manual.
+Once the location of the leak is determined, the tank sealant
+is removed, and new sealant is applied. Remove old sealant
+with a nonmetallic scraper. Aluminum wool can be used
+to remove the final traces of the sealant. After cleaning the
+area with the recommended solvent, apply new sealant as
+instructed by the manufacturer. Observe cure time and leak
+checks as recommended before refilling the tank.
+
+Fire Safety
+Fuel vapor, air, and a source of ignition are the requirements
+for a fuel fire. Whenever working with fuel or a fuel system
+component, the technician must be vigilant to prevent these
+elements from coming together to cause a fire or explosion.
+A source of ignition is often the most controllable. In addition
+to removing all sources of ignition from the work area, care
+must be exercised to guard against static electricity. Static
+electricity can easily ignite fuel vapor, and its potential for
+igniting fuel vapor may not be as obvious as a flame or an
+
+operating electrical device. The action of fuel flowing through
+a fuel line can cause a static buildup as can many other
+situations in which one object moves past another. Always
+assess the work area and take steps to remove any potential
+static electricity ignition sources.
+AVGAS is especially volatile. It vaporizes quickly due to its
+high vapor pressure and can be ignited very easily. Turbine
+engine fuel is less volatile but still possesses enormous
+capacity to ignite. This is especially true if atomized, such as
+when escaping out of a pressurized fuel hose or in a hot engine
+compartment on a warm day. Treat all fuels as potential fire
+hazards in all situations. As was discussed, empty fuel tanks
+have an extreme potential for ignition or explosion. Although
+the liquid fuel has been removed, ignitable fuel vapor can
+remain for a long period of time. Purging the vapor out of
+any empty fuel tank is an absolute necessity before any
+repair is initiated.
+A fire extinguisher should be on hand during fuel system
+maintenance or whenever fuel is being handled. A fuel
+fire can be put out with a typical carbon dioxide (CO2) fire
+extinguisher. Aim the extinguisher nozzle at the base of the
+flame and spray in a sweeping motion to have the agent
+fall over the flames to displace the oxygen and smother the
+fire. Dry chemical fire extinguishers rated for fuel can also
+be used. These leave behind a residue that requires cleanup
+that can be extensive and expensive. Do not use a water-type
+extinguisher. Fuel is lighter than water and could be spread
+without being extinguished. Additional precautions used to
+prevent fire are discussed below in the fueling–defueling
+section of this chapter.
+
+Cotton cap (without visor)
+Respirator
+Approved coverall
+Safety line
+Breathing air supply input
+Air supply hose
+
+Cotton socks
+
+Standby respirator
+
+Figure 14-91. Wear a nonstatic protective suit and respirator when entering an integral fuel tank for inspection or repair.
+
+14-48
+
+===== PDF PAGE 872 =====
+This checklist must be completed prior to start of wet fuel cell entry and/or at shift change prior to work assignment for the
+continuation of tank work started by a previous shift.
+Wet fuel cell entry location
+Area or building:
+Shift:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+8.
+9.
+10.
+11.
+12.
+
+13.
+
+14.
+
+Stall:
+Date:
+
+Airplane:
+Supervisor:
+
+Tank:
+
+Airplane and adjacent equipment properly grounded.
+Area secured and warning signs positioned.
+Boost pump switches off and circuit breakers pulled and placarded.
+No power on airplane: battery disconnected, external power cord disconnected from airplane, and external power
+receptacle placarded.
+Radio and radar equipment off (see separation distance requirements).
+Only approved explosion-proof equipment and tools will be used for fuel cell entry (lights, blowers, pressure and test
+equipment, etc.).
+Ensure requirements listed on aircraft confined space entry permit are complied with, including appropriate personal
+protective equipment: OSH class 110 respirator at a minimum, approved coveralls, cotton cap and foot coverings, and
+eye protection.
+Trained attendant and confined space logsheet required for all wet fuel cell entries.
+Aerators checked for cleanliness prior to use.
+Sponges available for residual fuel mop out.
+All plugs in use have streamers attached.
+Mechanical ventilation (venturis or blowers) installed to ventilate all open fuel cells.
+Note: Ventilation system must remain in operation at all times while fuel cells are open. If ventilation system fails or
+any ill effects, such as dizziness, irriation, or excessive odors are noted, all work shall stop and fuel cells must
+be evacuated.
+Shop personnel entering cells and standby observers have current “fuel cell entry” certification cards. Certification
+requires the following training:
+• Aircraft confined space entry safety;
+• Respirator use and maintenance; and
+• Wet fuel cell entry.
+Fire department notified.
+
+Meter Reading
+15. Oxygen reading (%):
+16. Fuel vapor level reading (ppm):
+17. Combustible gas meter (LEL) reading:
+
+By:
+By:
+By (FD):
+
+I confirm that all entry requirements were met prior to any entry.
+
+Signature of supervisor or designee
+
+Date
+
+Figure 14-92. Fuel tank checklist entry.
+
+Fuel System Servicing
+Maintaining aircraft fuel systems in acceptable condition to
+deliver clean fuel to the engine(s) is a major safety factor in
+aviation. Personnel handling fuel or maintaining fuel systems
+should be properly trained and use best practices to ensure
+that the fuel, or fuel system, are not the cause of an incident
+or accident.
+
+Checking for Fuel System Contaminants
+Continuous vigilance is required when checking aircraft
+fuel systems for contaminants. Daily draining of strainers
+and sumps is combined with periodic filter changes and
+inspections to ensure fuel is contaminant free. Turbine
+powered engines have highly refined fuel control systems
+through which flow hundreds of pounds of fuel per hour
+of operation. Sumping alone is not sufficient. Particles are
+suspended longer in jet fuel due to its viscosity. Engineers
+14-49
+
+===== PDF PAGE 873 =====
+design a series of filters into the fuel system to trap foreign
+matter. Technicians must supplement these with cautious
+procedures and thorough visual inspections to accomplish
+the overall goal of delivering clean fuel to the engines.
+Keeping a fuel system clean begins with an awareness of the
+common types of contamination. Water is the most common.
+Solid particles, surfactants, and microorganisms are also
+common. However, contamination of fuel with another fuel
+not intended for use on a particular aircraft is possibly the
+worst type of contamination.
+
+Water
+
+Figure 14-93. A sump drain tool used to open and collect fuel and
+
+contaminants from the fuel system sumps. Daily sump draining is
+part of the procedures needed to remove water from fuel that is to
+be delivered to the engine(s).
+
+Water can be dissolved into fuel or entrained. Entrained
+water can be detected by a cloudy appearance to the fuel.
+Close examination is required. Air in the fuel tends to cause
+a similar cloudy condition but is near the top of the tank.
+The cloudiness caused by water in the fuel tends to be more
+towards the bottom of the tank as the water slowly settles out.
+
+recommended quantity for the tank capacity is maintained.
+After repeated fueling, the level can be obscured. A field
+hand-held test unit can be used to check the amount of antiice additive already in a fuel load. [Figure 14-94]
+
+As previously discussed, water can enter a fuel system via
+condensation. The water vapor in the vapor space above the
+liquid fuel in a fuel tank condenses when the temperature
+changes. It normally sinks to the bottom of the fuel tank
+into the sump where it can be drained off before flight.
+[Figure 14-93] However, time is required for this to happen;
+therefore, you should wait a period of time after fueling
+before checking the fuel sumps so the water and sediment
+can settle to the drain point.
+
+Strainers and filters are designed with upward flow exits
+to have water collect at the bottom of the fuel bowl to be
+drained off. This should not be overlooked. Entrained water
+in small quantities that makes it to the engine usually poses
+no problem. Large amounts of water can disrupt engine
+operation. Settled water in tanks can cause corrosion. This can
+be magnified by microorganisms that live in the fuel/water
+interface. High quantities of water in the fuel can also cause
+discrepancies in fuel quantity probe indications.
+
+On some aircraft, a large amount of fuel needs to be drained
+before settled water reaches the drain valve. Awareness
+of this type of sump idiosyncrasy for a particular aircraft
+is important. The condition of the fuel and recent fueling
+practices need to be considered and are equally important. If
+the aircraft has been flown often and filled immediately after
+flight, there is little reason to suspect water contamination
+beyond what would be exposed during a routine sumping. An
+aircraft that has sat for a long period of time with partially
+full fuel tanks is a cause of concern.
+It is possible that water is introduced into the aircraft fuel
+load during refueling with fuel that already contains water.
+Any suspected contamination from refueling or the general
+handling of the aircraft should be investigated. A change in
+fuel supplier may be required if water continues to be an issue
+despite efforts being made to keep the aircraft fuel tanks full
+and sumps drained on a regular basis. Fuel below freezing
+temperature may contain entrained water in ice form that may
+not settle into the sump until melted. Use of an anti-icing
+solution in turbine fuel tanks helps prevent filter blockage
+from water that condenses out of the fuel as ice during flight.
+
+Solid Particle Contaminants
+
+The fuel anti-ice additive level should be monitored so that
+
+Solid particles that do not dissolve in the fuel are common
+contaminants. Dirt, rust, dust, metal particles, and just
+about anything that can find its way into an open fuel tank
+is of concern. Filter elements are designed to trap these
+contaminants and some fall into the sump to be drained off.
+Pieces of debris from the inside of the fuel system may also
+accumulate, such as broken-off sealant, or pieces of filter
+elements, corrosion, etc.
+Preventing solid contaminant introduction into the fuel is
+critical. Whenever the fuel system is open, care must be
+taken to keep out foreign matter. Lines should be capped
+immediately. Fuel tank caps should not be left open for
+any longer than required to refuel the tanks. Clean the area
+adjacent to wherever the system is opened before it is opened.
+Coarse sediments are those visible to the naked eye. Should
+they pass beyond system filters, they can clog in fuel
+metering device orifices, sliding valves, and fuel nozzles.
+Fine sediments cannot actually be seen as individual particles.
+They may be detected as a haze in the fuel or they may refract
+light when examining the fuel. Their presence in fuel controls
+14-50
+
+===== PDF PAGE 874 =====
+and metering devices is indicated by dark shellac-like marks
+on sliding surfaces.
+The maximum amount of solid particle contamination
+allowable is much less in turbine engine fuel systems than in
+reciprocating-engine fuel systems. It is particularly important
+to regularly replace filter elements and investigate any unusual
+solid particles that collect therein. The discovery of significant
+metal particles in a filter could be a sign of a failing component
+upstream of the filter. A laboratory analysis is possible to
+determine the nature and possible source of solid contaminants.
+
+Surfactants
+Surfactants are liquid chemical contaminants that naturally
+occur in fuels. They can also be introduced during the refining
+or handling processes. These surface-active agents usually
+appear as tan to dark brown liquid when they are present in
+large quantities. They may even have a soapy consistency.
+Surfactants in small quantities are unavoidable and pose
+little threat to fuel system functioning. Larger quantities of
+surfactants do pose problems. In particular, they reduce the
+surface tension between water and the fuel and tend to cause
+water and even small particles in the fuel to remain suspended
+rather than settling into the sumps. Surfactants also tend to
+collect in filter elements making them less effective.
+Surfactants are usually in the fuel when it is introduced into
+the aircraft. Discovery of either excessive quantities of dirt
+and water making their way through the system or a sudsy
+residue in filters and sumps may indicate their presence. The
+source of fuel should be investigated and avoided if found to
+contain a high level of these chemicals. As mentioned, slow
+settling rates of solids and water into sumps is a key indicator
+that surfactant levels are high in the fuel. Most quality fuel
+providers have clay filter elements on their fuel dispensing
+trucks and in their fixed storage and dispensing systems.
+These filters, if renewed at the proper intervals, remove most
+surfactants through adhesion. Surfactants discovered in the
+aircraft systems should be traced to the fuel supply source
+and the use and condition of these filters. [Figure 14-95]
+
+Microorganisms
+The presence of microorganisms in turbine engine fuels is
+a critical problem. There are hundreds of varieties of these
+life forms that live in free water at the junction of the water
+and fuel in a fuel tank. They form a visible slime that is dark
+brown, grey, red, or black in color. This microbial growth can
+multiply rapidly and can cause interference with the proper
+functioning of filter elements and fuel quantity indicators.
+Moreover, the slimy water/microbe layer in contact with the
+fuel tank surface provides a medium for electrolytic corrosion
+of the tank. [Figure 14-96]
+
+Figure 14-94. A hand-held refractometer with digital display
+measures the amount of fuel anti-ice additive contained in a fuel
+load.
+
+Since the microbes live in free water and feed on fuel, the
+most powerful remedy for their presence is to keep water from
+accumulating in the fuel. Fuel 100 percent free of water is not
+practicable. By following best practices for sump draining
+and filter changes, combined with care of fuel stock tanks
+used to refuel aircraft, much of the potential for water to
+accumulate in the aircraft fuel tanks can be mitigated. The
+addition of biocides to the fuel when refueling also helps by
+killing organisms that are present.
+
+Foreign Fuel Contamination
+Aircraft engines operate effectively only with the proper
+fuel. Contamination of an aircraft’s fuel with fuel not
+intended for use in that particular aircraft can have disastrous
+consequences. It is the responsibility of all aviators to put
+forth effort continuously to ensure that only the fuel designed
+for the operation of the aircraft’s engine(s) is put into the fuel
+tanks. Each fuel tank receptacle or fuel cap area is clearly
+marked to indicate which fuel is required. [Figure 14-97]
+If the wrong fuel is put into an aircraft, the situation must be
+rectified before flight. If discovered before the fuel pump is
+operated and an engine is started, drain all improperly filled
+tanks. Flush out the tanks and fuel lines with the correct fuel
+and then refill the tanks with the proper fuel. However, if
+discovered after an engine has been started or attempted to be
+started, the procedure is more in depth. The entire fuel system,
+including all fuel lines, components, metering device(s) and
+tanks, must be drained and flushed. If the engines have been
+operated, a compression test should be accomplished, and
+the combustion chamber and pistons should be borescope
+inspected. Engine oil should be drained, and all screens
+and filters examined for any evidence of damage. Once
+reassembled and the tanks have been filled with the correct
+fuel, a full engine run-up check should be performed before
+releasing the aircraft for flight.
+14-51
+
+===== PDF PAGE 875 =====
+refueling has taken place. Any suspicion of contamination
+must be investigated.
+In addition to the detection methods mentioned for each type
+of contamination above, various field and laboratory tests
+can be performed on aircraft fuel to expose contamination.
+A common field test for water contamination is performed
+by adding a dye that dissolves in water but not fuel to a test
+sample drawn from the fuel tank. The more water present in
+the fuel, the greater the dye disperses and colors the sample.
+Another common test kit commercially available contains a
+grey chemical powder that changes color to pink or purple
+when the contents of a fuel sample contains more than 30
+parts per million (ppm) of water. A 15-ppm test is available
+for turbine engine fuel. [Figure 14-98] These levels of
+water are considered generally unacceptable and not safe for
+operation of the aircraft. If levels are discovered above these
+amounts, time for the water to settle out of the fuel should
+be given or the aircraft should be defueled and refueled with
+acceptable fuel.
+
+Figure 14-95. Clay filter elements remove surfactants. They are
+used in the fuel dispensing system before fuel enters the aircraft.
+
+Contaminated fuel caused by the introduction of small
+quantities of the wrong type of fuel into an aircraft may
+not look any different when visually inspected, making a
+dangerous situation more dangerous. Any person recognizing
+that this error has occurred must ground the aircraft. The lives
+of the aircraft occupants are at stake.
+
+Detection of Contaminants
+Visual inspection of fuel should always reveal a clean, bright
+looking liquid. Fuel should not be opaque, which could be
+a sign of contamination and demands further investigation.
+As mentioned, the technician must always be aware of the
+fuel’s appearance, as well as when and from what sources
+
+The presence and level of microorganisms in a fuel tank can
+also be measured with a field device. The test detects the
+metabolic activity of bacteria, yeast, and molds, including
+sulfate reducing bacteria, and other anaerobe microorganisms.
+This could be used to determine the amount of anti-microbial
+agent to be added to the fuel. The testing unit is shown in
+Figure 14-99.
+Bug test kits test fuel specifically for bacteria and fungus.
+While other types of microorganisms may exist, this semiquantitative test is quick and easy to perform. Treat a fuel
+sample with the product and match the color of the sample
+to the chart for an indication of the level of bacteria and
+fungus present. These are some of the most common types
+of microorganisms that grow in fuel; if growth levels of
+fungus and bacteria are acceptable, the fuel could be usable.
+[Figure 14-100]
+
+Air
+
+Fuel
+Biomass
+Water
+Bacterial sludge
+Figure 14-96. This fuel-water sample has microbial growth at the interface of the two liquids.
+
+14-52
+
+===== PDF PAGE 876 =====
+Figure 14-98. This kit allows periodic testing for water in fuel.
+
+Figure 14-99. A capture solution is put into a 1 liter sample of fuel
+
+and shaken. The solution is then put into the analyzer shown to
+determine the level of microorganisms in the fuel.
+
+Figure 14-97. All entry points of fuel into the aircraft are marked
+with the type of fuel to be used. Never introduce any other fuel into
+the aircraft other than that which is specified.
+
+Fuel trucks and fuel farms may make use of laser contaminant
+identification technology. All fuel exiting the storage tank
+going into the servicing hose is passed through the analyzer
+unit. Laser sensing technology determines the difference
+between water and solid particle contaminants. When an
+excessive level of either is detected, the unit automatically
+shuts off flow to the fueling nozzle. Thus, aircraft are
+fueled only with clean dry fuel. When surfactant filters are
+combined with contaminant identification technology and
+microorganism detection, chances of delivering clean fuel
+to the aircraft engines are good. [Figure 14-101]
+Before various test kits were developed for use in the field
+by nonscientific personnel, laboratories provided complete
+14-53
+
+===== PDF PAGE 877 =====
+fuel composition analysis to aviators. These services are still
+available. A sample is sent in a sterilized container to the
+lab. It can be tested for numerous factors including water,
+microbial growth, flash point, specific gravity, cetane index
+(a measure of combustibility and burning characteristics),
+and more. Tests for microbes involve growing cultures of
+whatever organisms are present in the fuel. [Figure 14-102]
+
+Fuel Contamination Control
+A continuous effort must be put forth by all those in the
+aviation industry to ensure that each aircraft is fueled only
+with clean fuel of the correct type. Many contaminants, both
+soluble and insoluble, can contaminate an aircraft’s fuel
+supply. They can be introduced with the fuel during fueling
+or the contamination may occur after the fuel is onboard.
+Contamination control begins long before the fuel gets
+pumped into an aircraft fuel tank. Many standard petroleum
+
+industry safeguards are in place. Fuel farm and delivery truck
+fuel handling practices are designed to control contamination.
+Various filters, testing, and treatments effectively keep fuel
+contaminant free or remove various contaminants once
+discovered. However, the correct clean fuel for an aircraft
+should never be taken for granted. The condition of all storage
+tanks and fuel trucks should be monitored. All filter changes
+and treatments should occur regularly and on time. The fuel
+supplier should take pride in delivering clean, contaminantfree fuel to its customers.
+Onboard aircraft fuel systems must be maintained and
+serviced according to manufacturer’s specifications. Samples
+from all drains should be taken and inspected on a regular
+basis. Filters should be changed at the specified intervals.
+The fuel load should be visually inspected and tested from
+time to time or when there is a potential contamination
+issue. Particles discovered in filters should be identified and
+investigated if needed. Inspection of the fuel system during
+
+Figure 14-101. This contaminant analyzer is used on fuel supply
+Figure 14-100. Fuel bug test kits identify the level of bacteria and
+
+fungus present in a fuel load by comparing the color of a treated
+sample with a color chart.
+
+source outflow, such as that on a refueling truck. Water and
+solid contaminant levels are detected using laser identification
+technology. The valve to the fill hose is automatically closed when
+levels of either are elevated beyond acceptable limits.
+
+14-54
+
+===== PDF PAGE 878 =====
+Precautions should be used with either type of fueling.
+First and foremost, it is absolutely essential that the correct
+fuel be put in the aircraft. The type of fuel to be used is
+placarded near the fill port on over-the-wing systems and at
+the fueling station on pressure refueled aircraft. If there is
+any question about which fuel to use, the pilot in command,
+other knowledgeable personnel, or the manufacturer’s
+maintenance/operations manual should be consulted before
+proceeding. An over-the-wing refueling nozzle for turbine
+engine fuel should be too large to fit into the fill opening on
+an aircraft utilizing gasoline.
+Figure 14-102. Laboratory tests of fuel samples are available.
+
+periodic inspections should be treated with highest concern.
+Most importantly, the choice of the correct fuel for an aircraft
+should never be in question. No one should ever put a fuel
+into an aircraft fuel tank unless absolutely certain it is the
+correct fuel for that aircraft and its engine(s). Personnel
+involved in fuel handling should be properly trained. All
+potential contamination situations should be investigated
+and remedied.
+
+Fueling & Defueling Procedures
+Maintenance technicians are often asked to fuel or defuel
+aircraft. Fueling procedure can vary from aircraft to aircraft.
+Tanks may need to be fueled in a prescribed sequence
+to prevent structural damage to the airframe. The proper
+procedure should be confirmed before fueling an unfamiliar
+aircraft.
+Fueling
+Always fuel aircraft outside, not in a hangar where fuel
+vapors may accumulate and increase the risk and severity of
+an accident. Generally, there are two types of fueling process:
+over-the-wing refueling and pressure refueling. Over-thewing refueling is accomplished by opening the fuel tank
+cap on the upper surface of the wing or fuselage, if equipped
+with fuselage tanks. The fueling nozzle is carefully inserted
+into the fill opening and fuel is pumped into the tank. This
+process is similar to the process used to refuel an automobile
+gas tank. When finished, the cap is secured, and subsequent
+tanks are opened and refilled until the aircraft has the desired
+fuel load onboard. Pressure refueling occurs at the bottom,
+front, or rear of the fuel tank. A pressure refueling nozzle
+locks onto the fueling port at the aircraft fueling station.
+Fuel is pumped into the aircraft through this secured and
+sealed connection. Gauges are monitored to ascertain when
+the tanks are properly loaded. An automatic shutoff system
+may be part of the aircraft system. It closes the fueling valve
+when the tanks are full. [Figure 14-103]
+
+Clean the area adjacent to the fill port when refueling over
+the wing. Ensure the fuel nozzle is also clean. Aviation fuel
+nozzles are equipped with static bonding wires that must
+be attached to the aircraft before the fuel cap is opened.
+[Figure 14-104] Open the cap only when ready to dispense
+the fuel. Insert the nozzle into the opening with care. The
+aircraft structure is much more delicate than the fuel nozzle,
+which could easily damage the aircraft. Do not insert the neck
+of the nozzle deeply enough to hit bottom. This could dent
+the tank, or the aircraft skin, if it is an integral tank. Exercise
+caution to avoid damage to the surface of the airframe by the
+heavy fuel hose. Lay the hose over your shoulder or use a
+refueling mat to protect the paint. [Figure 14-105]
+When pressure refueling, the aircraft receptacle is part of a
+fueling valve assembly. When the fueling nozzle is properly
+connected and locked, a plunger unlocks the aircraft valve
+so fuel can be pumped through it. Normally, all tanks can be
+fueled from a single point. Valves in the aircraft fuel system
+are controlled at the fueling station to direct the fuel into
+the proper tank. [Figure 14-106] Ensure that the pressure
+developed by the refueling pump is correct for the aircraft
+before pumping fuel. Although similar, pressure fueling
+panels and their operation are different on different aircraft.
+Refueling personnel should be guided through the correct use
+of each panel. Do not guess at how the panel and associated
+valves operate.
+When fueling from a fuel truck, precautions should be taken.
+If the truck is not in continuous service, all sumps should
+
+Figure 14-103. A float switch installed in a fuel tank can close the
+refueling valve when the tanks are full during pressure fueling of an
+aircraft. Other more sophisticated automatic shutoff systems exist.
+
+14-55
+
+===== PDF PAGE 879 =====
+be drained before moving the truck, and the fuel should be
+visually inspected to be sure it is bright and clean. Turbine
+fuel should be allowed to settle for a few hours if the fuel truck
+tank has recently been filled or the truck has been jostled,
+such as when driven over a bumpy service road at the airport.
+Properly maneuver the fuel truck into position for refueling.
+The aircraft should be approached slowly. The truck should
+be parked parallel to the wings and in front of the fuselage if
+possible. Avoid backing toward the aircraft. Set the parking
+brake and chock the wheels. Connect a static bonding cable
+from the truck to the aircraft. This cable is typically stored
+on a reel mounted on the truck.
+There are other miscellaneous good practices that should
+be employed when refueling an aircraft. A ladder should be
+used if the refuel point is not accessible while standing on
+the ground. Climbing on an expensive aircraft to access the
+fueling ports is possible but does not give the stability of a
+ladder and may not be appreciated by the aircraft owner. If it
+is necessary to walk on the wings of the aircraft, do so only
+in designated areas, which are safe.
+Filler nozzles should be treated as the important tools that
+they are. They should not be dropped or dragged across the
+apron. Most have attached dust caps that should be removed
+only for the actual fueling process and then immediately
+replaced. Nozzles should be clean to avoid contamination
+of the fuel. They should not leak and should be repaired at
+the earliest sign of leak or malfunction. Keep the fueling
+nozzle in constant contact with the filler neck spout when
+fueling. Never leave the nozzle in the fill spout unattended.
+When fueling is complete, always doublecheck the security
+of all fuel caps and ensure that bonding wires have been
+removed and stowed.
+
+Figure 14-104. An AVGAS fueling nozzle with static bonding
+
+grounding wire.
+
+Figure 14-105. Over-the-wing refueling a Cessna.
+
+Defueling
+Removing the fuel contained in aircraft fuel tanks is sometimes
+required. This can occur for maintenance, inspection, or due
+to contamination. Occasionally, a change in flight plan may
+require defueling. Safety procedures for defueling are the same
+as those for fueling. Always defuel outside. Fire extinguishers
+should be on hand. Bonding cables should be attached to
+guard against static electricity buildup. Defueling should
+be performed by experienced personnel, and inexperienced
+personnel must be checked out before doing so without
+assistance.
+Remember that there may be a sequence in defueling an
+aircraft’s fuel tanks just as there is when fueling to avoid
+structural damage. Consult the manufacturer’s maintenance/
+operations manual(s) if in doubt.
+Pressure fueled aircraft normally defuel through the pressure
+fueling port. The aircraft’s in-tank boost pumps can be used
+to pump the fuel out. The pump on a fuel truck can also be
+used to draw fuel out. These tanks can also be drained through
+the tank sump drains, but the large size of the tanks usually
+makes this impractical. Aircraft fueled over the wing are
+
+Figure 14-106. This panel at the pressure refueling station has valve
+
+position switches and quantity gauges to be used during refueling.
+Valve open position lights are adjacent to the switches for each tank.
+
+14-56
+
+===== PDF PAGE 880 =====
+normally drained through the tank sump drains. Follow the
+manufacturer’s procedure for defueling the aircraft.
+What to do with the fuel coming out of a tank depends on
+a few factors. First, if the tank is being drained due to fuel
+contamination or suspected contamination, it should not be
+mixed with any other fuel. It should be stored in a separate
+container from good fuel, treated if possible, or disposed of
+properly. Take measures to ensure that contaminated fuel is
+never placed onboard an aircraft or mixed with good fuel.
+Second, the manufacturer may have requirements for good
+fuel that has been defueled from an aircraft, specifying
+whether it can be reused and the type of storage container
+in which it must be stored. Above all, fuel removed from an
+aircraft must not be mixed with any other type of fuel.
+
+personnel must know exactly where they are and how to
+use them. In case of an emergency, the fuel truck, if used,
+may need to be quickly driven away from the area. For this
+reason alone, it should be positioned correctly on the ramp
+relative to the aircraft.
+
+Good fuel removed from an aircraft must be handled with all
+precautions used when handling any fuel. It must only be put
+into clean tanks and efforts must be made to keep it clean.
+It may be put back in the aircraft or another aircraft if the
+manufacturer allows. Large aircraft can often transfer fuel
+from a tank requiring maintenance to another tank to avoid
+the defueling process.
+Fire Hazards When Fueling or Defueling
+Due to the combustible nature of AVGAS and turbine engine
+fuel, the potential for fire while fueling and defueling aircraft
+must be addressed. Always fuel and defuel outside, not in a
+hangar that serves as an enclosed area for vapors to build up
+to a combustible level. Clothing worn by refueling personnel
+should not promote static electricity buildup. Synthetics, such
+as nylon, should be avoided. Cotton has proved to be safe
+for fuel handling attire.
+As previously mentioned, the most controllable of the three
+ingredients required for fire is the source of ignition. It is
+absolutely necessary to prevent a source of ignition anywhere
+near the aircraft during fueling or refueling. Any open flame,
+such as a lit cigarette, must be extinguished. Operation of any
+electrical devices must be avoided. Radio and radar use is
+prohibited. It is important to note that fuel vapors proliferate
+well beyond the actual fuel tank opening and a simple spark,
+even one caused by static electricity, could be enough for
+ignition. Any potential for sparks must be nullified.
+Spilled fuel poses an additional fire hazard. A thin layer
+of fuel vaporizes quickly. Small spills should be wiped up
+immediately. Larger spills can be flooded with water to
+dissipate the fuel and the potential for ignition. Do not sweep
+fuel that has spilled onto the ramp.
+Class B fire extinguishers need to be charged and accessible
+nearby during the fueling and defueling processes. Fueling
+14-57
+

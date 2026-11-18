@@ -1,0 +1,63 @@
+14 CFR Part 43 (eCFR unofficial compilation, issue date 2026-10-15), file 2 of 2
+
+### Appendix E to Part 43—Altimeter System Test and Inspection
+Each person performing the altimeter system tests and inspections required by § 91.411 of this chapter must comply with the following:
+(a) Static pressure system:
+(1) Ensure freedom from entrapped moisture and restrictions.
+(2) Perform a proof test to demonstrate the integrity of the static pressure system in a manner acceptable to the Administrator. For airplanes certificated under part 25 of this chapter, determine that leakage is within the tolerances established by § 25.1325.
+(3) Determine that the static port heater, if installed, is operative.
+(4) Ensure that no alterations or deformations of the airframe surface have been made that would affect the relationship between air pressure in the static pressure system and true ambient static air pressure for any flight condition.
+(b) Altimeter:
+(1) Test by an appropriately rated repair facility in accordance with the following subparagraphs. Unless otherwise specified, each test for performance may be conducted with the instrument subjected to vibration. When tests are conducted with the temperature substantially different from ambient temperature of approximately 25 degrees C., allowance shall be made for the variation from the specified condition.
+(i) Scale error. With the barometric pressure scale at 29.92 inches of mercury, the altimeter shall be subjected successively to pressures corresponding to the altitude specified in Table I up to the maximum normally expected operating altitude of the airplane in which the altimeter is to be installed. The reduction in pressure shall be made at a rate not in excess of 20,000 feet per minute to within approximately 2,000 feet of the test point. The test point shall be approached at a rate compatible with the test equipment. The altimeter shall be kept at the pressure corresponding to each test point for at least 1 minute, but not more than 10 minutes, before a reading is taken. The error at all test points must not exceed the tolerances specified in Table I.
+(ii) Hysteresis. The hysteresis test shall begin not more than 15 minutes after the altimeter's initial exposure to the pressure corresponding to the upper limit of the scale error test prescribed in subparagraph (i); and while the altimeter is at this pressure, the hysteresis test shall commence. Pressure shall be increased at a rate simulating a descent in altitude at the rate of 5,000 to 20,000 feet per minute until within 3,000 feet of the first test point (50 percent of maximum altitude). The test point shall then be approached at a rate of approximately 3,000 feet per minute. The altimeter shall be kept at this pressure for at least 5 minutes, but not more than 15 minutes, before the test reading is taken. After the reading has been taken, the pressure shall be increased further, in the same manner as before, until the pressure corresponding to the second test point (40 percent of maximum altitude) is reached. The altimeter shall be kept at this pressure for at least 1 minute, but not more than 10 minutes, before the test reading is taken. After the reading has been taken, the pressure shall be increased further, in the same manner as before, until atmospheric pressure is reached. The reading of the altimeter at either of the two test points shall not differ by more than the tolerance specified in Table II from the reading of the altimeter for the corresponding altitude recorded during the scale error test prescribed in paragraph (b)(i).
+(iii) After effect. Not more than 5 minutes after the completion of the hysteresis test prescribed in paragraph (b)(ii), the reading of the altimeter (corrected for any change in atmospheric pressure) shall not differ from the original atmospheric pressure reading by more than the tolerance specified in Table II.
+(iv) Friction. The altimeter shall be subjected to a steady rate of decrease of pressure approximating 750 feet per minute. At each altitude listed in Table III, the change in reading of the pointers after vibration shall not exceed the corresponding tolerance listed in Table III.
+(v) Case leak. The leakage of the altimeter case, when the pressure within it corresponds to an altitude of 18,000 feet, shall not change the altimeter reading by more than the tolerance shown in Table II during an interval of 1 minute.
+(vi) Barometric scale error. At constant atmospheric pressure, the barometric pressure scale shall be set at each of the pressures (falling within its range of adjustment) that are listed in Table IV, and shall cause the pointer to indicate the equivalent altitude difference shown in Table IV with a tolerance of 25 feet.
+(2) Altimeters which are the air data computer type with associated computing systems, or which incorporate air data correction internally, may be tested in a manner and to specifications developed by the manufacturer which are acceptable to the Administrator.
+(c) Automatic Pressure Altitude Reporting Equipment and ATC Transponder System Integration Test. The test must be conducted by an appropriately rated person under the conditions specified in paragraph (a). Measure the automatic pressure altitude at the output of the installed ATC transponder when interrogated on Mode C at a sufficient number of test points to ensure that the altitude reporting equipment, altimeters, and ATC transponders perform their intended functions as installed in the aircraft. The difference between the automatic reporting output and the altitude displayed at the altimeter shall not exceed 125 feet.
+(d) Records: Comply with the provisions of § 43.9 of this chapter as to content, form, and disposition of the records. The person performing the altimeter tests shall record on the altimeter the date and maximum altitude to which the altimeter has been tested and the persons approving the airplane for return to service shall enter that data in the airplane log or other permanent record.
+[TABLE]
+[END TABLE]
+[TABLE]
+[END TABLE]
+[TABLE]
+[END TABLE]
+[TABLE]
+[END TABLE]
+[Amdt. 43-2, 30 FR 8262, June 29, 1965, as amended by Amdt. 43-7, 32 FR 7587, May 24, 1967; Amdt. 43-19, 43 FR 22639, May 25, 1978; Amdt. 43-23, 47 FR 41086, Sept. 16, 1982; Amdt. 43-31, 54 FR 34330, Aug. 18, 1989; Doc. No. FAA-2015-1621, Amdt. 43-49, 81 FR 96700, Dec. 30, 2016]
+
+### Appendix F to Part 43—ATC Transponder Tests and Inspections
+The ATC transponder tests required by § 91.413 of this chapter may be conducted using a bench check or portable test equipment and must meet the requirements prescribed in paragraphs (a) through (j) of this appendix. If portable test equipment with appropriate coupling to the aircraft antenna system is used, operate the test equipment for ATCRBS transponders at a nominal rate of 235 interrogations per second to avoid possible ATCRBS interference. Operate the test equipment at a nominal rate of 50 Mode S interrogations per second for Mode S. An additional 3 dB loss is allowed to compensate for antenna coupling errors during receiver sensitivity measurements conducted in accordance with paragraph (c)(1) when using portable test equipment.
+(a) Radio Reply Frequency:
+(1) For all classes of ATCRBS transponders, interrogate the transponder and verify that the reply frequency is 1090 ±3 Megahertz (MHz).
+(2) For classes 1B, 2B, and 3B Mode S transponders, interrogate the transponder and verify that the reply frequency is 1090 ±3 MHz.
+(3) For classes 1B, 2B, and 3B Mode S transponders that incorporate the optional 1090 ±1 MHz reply frequency, interrogate the transponder and verify that the reply frequency is correct.
+(4) For classes 1A, 2A, 3A, and 4 Mode S transponders, interrogate the transponder and verify that the reply frequency is 1090 ±1 MHz.
+(b) Suppression: When Classes 1B and 2B ATCRBS Transponders, or Classes 1B, 2B, and 3B Mode S transponders are interrogated Mode 3/A at an interrogation rate between 230 and 1,000 interrogations per second; or when Classes 1A and 2A ATCRBS Transponders, or Classes 1B, 2A, 3A, and 4 Mode S transponders are interrogated at a rate between 230 and 1,200 Mode 3/A interrogations per second:
+(1) Verify that the transponder does not respond to more than 1 percent of ATCRBS interrogations when the amplitude of P2 pulse is equal to the P1 pulse.
+(2) Verify that the transponder replies to at least 90 percent of ATCRBS interrogations when the amplitude of the P2 pulse is 9 dB less than the P1 pulse. If the test is conducted with a radiated test signal, the interrogation rate shall be 235 ±5 interrogations per second unless a higher rate has been approved for the test equipment used at that location.
+(c) Receiver Sensitivity:
+(1) Verify that for any class of ATCRBS Transponder, the receiver minimum triggering level (MTL) of the system is −73 ±4 dbm, or that for any class of Mode S transponder the receiver MTL for Mode S format (P6 type) interrogations is −74 ±3 dbm by use of a test set either:
+(i) Connected to the antenna end of the transmission line;
+(ii) Connected to the antenna terminal of the transponder with a correction for transmission line loss; or
+(iii) Utilized radiated signal.
+(2) Verify that the difference in Mode 3/A and Mode C receiver sensitivity does not exceed 1 db for either any class of ATCRBS transponder or any class of Mode S transponder.
+(d) Radio Frequency (RF) Peak Output Power:
+(1) Verify that the transponder RF output power is within specifications for the class of transponder. Use the same conditions as described in (c)(1)(i), (ii), and (iii) above.
+(i) For Class 1A and 2A ATCRBS transponders, verify that the minimum RF peak output power is at least 21.0 dbw (125 watts).
+(ii) For Class 1B and 2B ATCRBS Transponders, verify that the minimum RF peak output power is at least 18.5 dbw (70 watts).
+(iii) For Class 1A, 2A, 3A, and 4 and those Class 1B, 2B, and 3B Mode S transponders that include the optional high RF peak output power, verify that the minimum RF peak output power is at least 21.0 dbw (125 watts).
+(iv) For Classes 1B, 2B, and 3B Mode S transponders, verify that the minimum RF peak output power is at least 18.5 dbw (70 watts).
+(v) For any class of ATCRBS or any class of Mode S transponders, verify that the maximum RF peak output power does not exceed 27.0 dbw (500 watts).
+Note: The tests in (e) through (j) apply only to Mode S transponders.
+(e) Mode S Diversity Transmission Channel Isolation: For any class of Mode S transponder that incorporates diversity operation, verify that the RF peak output power transmitted from the selected antenna exceeds the power transmitted from the nonselected antenna by at least 20 db.
+(f) Mode S Address: Interrogate the Mode S transponder and verify that it replies only to its assigned address. Use the correct address and at least two incorrect addresses. The interrogations should be made at a nominal rate of 50 interrogations per second.
+(g) Mode S Formats: Interrogate the Mode S transponder with uplink formats (UF) for which it is equipped and verify that the replies are made in the correct format. Use the surveillance formats UF = 4 and 5. Verify that the altitude reported in the replies to UF = 4 are the same as that reported in a valid ATCRBS Mode C reply. Verify that the identity reported in the replies to UF = 5 are the same as that reported in a valid ATCRBS Mode 3/A reply. If the transponder is so equipped, use the communication formats UF = 20, 21, and 24.
+(h) Mode S All-Call Interrogations: Interrogate the Mode S transponder with the Mode S-only all-call format UF = 11 and verify that the correct address and capability are reported in the replies (downlink format DF = 11).
+(i) ATCRBS-Only All-Call Interrogation: Interrogate the Mode S transponder with the ATCRBS-only all-call interrogation (0.8 microsecond P4 pulse) and verify that no reply is generated.
+(j) Squitter: Verify that the Mode S transponder generates a correct acquisition squitter approximately once per second.
+(k) Records: Comply with the provisions of § 43.9 of this chapter as to content, form, and disposition of the records.
+[Amdt. 43-26, 52 FR 3390, Feb. 3, 1987; 52 FR 6651, Mar. 4, 1987, as amended by Amdt. 43-31, 54 FR 34330, Aug. 18, 1989; Amdt. 43-53, 88 FR 71476, Oct. 17, 2023]
+

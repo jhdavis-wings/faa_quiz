@@ -1,0 +1,1533 @@
+FAA-H-8083-30B General Handbook, chapter 5 (Physics for Aviation), PDF pages 150-166
+
+===== PDF PAGE 150 =====
+Chapter 5
+
+Physics for Aviation
+Physical science, which is most often called physics, is a very
+interesting and exciting topic. For an individual who likes
+technical things and is a hands-on type of person, physics
+is an invaluable tool. Physics allows us to explain how
+engines work, both piston and gas turbine; how airplanes
+and helicopters fly; and countless other things related to the
+field of aviation and aerospace. In addition to allowing us to
+explain the operation of the things around us, it also allows
+us to quantify them. For example, through the use of physics
+we can explain what the concept of thrust means for a jet
+engine, and then follow it up by mathematically calculating
+the pounds of thrust being created.
+Physics is the term applied to an area of knowledge regarding
+the basic and fundamental nature of matter and energy. It does
+not attempt to determine why matter and energy behave as
+they do in their relation to physical phenomena, but rather
+how they behave. The people who maintain and repair aircraft
+should have knowledge of basic physics, which is sometimes
+called the science of matter and energy.
+
+Matter
+Matter is the foundation, or the building blocks, for any
+discussion of physics. According to the dictionary, matter is
+what all things are made of; whatever occupies space, has
+mass, and is perceptible to the senses in some way. According
+to the Law of Conservation, matter cannot be created or
+destroyed, although it is possible to change its physical state.
+When liquid gasoline vaporizes and mixes with air, and then
+burns, it might seem that this piece of matter has disappeared
+and no longer exists. Although it no longer exists in the state
+of liquid gasoline, the matter still exists in the form of the
+gases given off by the burning fuel.
+Characteristics of Matter
+
+Mass & Weight
+
+Mass is a measure of the quantity of matter in an object. In
+other words, how many molecules are in the object, how
+many atoms are in the object, or to be more specific, how
+many protons, neutrons, and electrons are in the object. The
+mass of an object does not change regardless of where you
+take it in the universe, or with a change of state. The only
+way to change the mass of an object is to add or take away
+atoms. Mathematically, mass can be stated as follows:
+
+Mass = Weight ÷ Acceleration due to gravity
+The acceleration due to gravity here on earth is 32.2 feet
+per second per second (32.2 fps/s). An object weighing 32.2
+pounds (lb) here on earth is said to have a mass of 1 slug.
+A slug is a quantity of mass that will accelerate at a rate of
+1 ft. /s2 when a force of 1 pound is applied. In other words,
+under standard atmospheric condition, which is that gravity is
+equal to 32.2 fps/s, a mass of one slug would be equal to 32.2 lb.
+Weight is a measure of the pull from gravity acting on the
+mass of an object. The more mass an object has, the more it
+will weigh under the earth’s force of gravity. The only way for
+an object to be weightless is for gravity to go away, because
+it is not possible for the mass of an object to disappear. When
+we view astronauts on the space shuttle, it appears that they
+are weightless. Even though the shuttle is far from the surface
+of the earth, the force of gravity has not completely gone
+away, and the astronauts are not weightless. The astronauts
+and the space shuttle are actually in a state of free fall, so
+relative to the shuttle the astronauts appear to be weightless.
+Mathematically, weight can be stated as follows:
+Weight = Mass × Gravity
+
+Attraction
+Attraction is mutual force acting between particles of matter,
+which tends to draw them together. Sir Isaac Newton called
+this the “Law of Universal Gravitation.” Newton showed
+how each particle of matter attracts every other particle,
+how people are bound to the earth, and how the planets are
+attracted in the solar system.
+
+Porosity
+Porosity means having pores or spaces where smaller
+particles may fit when a mixture takes place. This is
+sometimes referred to as granular—consisting or appearing
+to consist of small grains or granules.
+
+Impenetrability
+Impenetrability means that no two objects can occupy the
+same place at the same time. Thus, two portions of matter
+cannot at the same time occupy the same space.
+
+5-1
+
+===== PDF PAGE 151 =====
+Density
+The density of a substance is its weight per unit volume.
+The unit volume selected for use in the English system of
+measurement is 1 cubic foot (ft3). In the metric system, it
+is 1 cubic centimeter (cm3). Therefore, density is expressed
+in pounds per cubic foot (lb⁄ft3) or in grams per cubic
+centimeter (g⁄cm3).
+To find the density of a substance, its weight and volume must
+be known. Its weight is then divided by its volume to find
+the weight per unit volume. For example, the liquid which
+fills a certain container weighs 1,497.6 lb. The container
+is 4 ft long, 3 ft wide and 2 ft deep. Its volume is 24 ft3
+(4 ft. × 3 ft. × 2 ft.). If 24 ft3 of liquid weighs 1,497.6 lb, then
+1 ft3 weighs 1,497.6 ÷ 24, or 62.4 lb. Therefore, the density
+of the liquid is 62.4 lb/ft3. This is the density of water at 4 °C
+(Centigrade) and is usually used as the standard for comparing
+densities of other substances. In the metric system, the density
+of water is 1 g⁄cm3. The standard temperature of 4 °C is used
+when measuring the density of liquids and solids. Changes
+in temperature will not change the weight of a substance,
+but will change the volume of the substance by expansion or
+contraction, thus changing its weight per unit volume.
+The procedure for finding density applies to all substances;
+however, it is necessary to consider the pressure when finding
+the density of gases. Pressure is more critical when measuring
+the density of gases than it is for other substances. The
+density of a gas increases in direct proportion to the pressure
+exerted on it. Standard conditions for the measurement of
+the densities of gases have been established at 0 °C for
+temperature and a pressure of 76 cm of mercury (Hg), which
+is the average pressure of the atmosphere at sea level. Density
+is computed based on these conditions for all gases.
+
+Specific Gravity
+It is often necessary to compare the density of one substance
+with another substance. For this purpose, a standard is
+needed. Water is the standard that physicists have chosen to
+use when comparing the densities of all liquids and solids.
+For gases, air is most commonly used, but hydrogen is also
+sometimes used as a standard for gases. In physics, the word
+“specific” implies a ratio. Thus, specific gravity is calculated
+by comparing the weight of a definite volume of the given
+substance with the weight of an equal volume of water. The
+terms “specific weight” or “specific density” are sometimes
+used to express this ratio.
+The following formulas are used to find the specific gravity
+of liquids and solids.
+Specific Gravity =
+
+Weight of the substance
+Weight of an equal volume of water
+
+Specific Gravity =
+
+Density of the substance
+Density of water
+
+The same formulas are used to find the density of gases by
+substituting air or hydrogen for water.
+Specific gravity is not expressed in units, but as pure numbers.
+For example, if a certain hydraulic fluid has a specific gravity
+of 0.8, 1 ft3 of the liquid weighs 0.8 times as much as 1 ft3
+of water: 62.4 times 0.8, or 49.92 lb.
+Specific gravity and density are independent of the size of
+the sample under consideration and depend only upon the
+substance of which it is made. See Figure 5-1 for typical
+values of specific gravity for various substances.
+A device called a hydrometer is used for measuring specific
+gravity of liquids. This device consists of a tubular glass float
+contained in a larger glass tube. [Figure 5-2] The larger glass
+tube provides the container for the liquid. A rubber suction
+bulb draws the liquid up into the container. There must be
+enough liquid raising the float to prevent it from touching the
+bottom. The float is weighted and has a vertically graduated
+scale. To determine specific gravity, the scale is read at the
+surface of the liquid in which the float is immersed. An
+indication of 1000 is read when the float is immersed in pure
+water. When immersed in a liquid of greater density, the float
+rises, indicating a greater specific gravity. For liquids of lesser
+density, the float sinks, indicating a lower specific gravity.
+An example of the use of the hydrometer is to determine
+the specific gravity of the electrolyte (battery liquid) in an
+aircraft battery. When a battery is discharged, the calibrated
+float immersed in the electrolyte will indicate approximately
+1150. The indication of a charged battery is between 1275
+and 1310. The values 1150, 1275, and 1310 represent 1.150,
+1.275, and 1.310. The electrolyte in a discharged battery is
+1.15 times denser than water, and in a charged battery 1.275
+to 1.31 times denser than water.
+
+Energy
+Energy is typically defined as something that gives us the
+capacity to perform work. As individuals, saying that we
+feel full of energy is an indicator that we can perform a lot
+of work. Energy can be classified as one of two types: either
+as potential energy or kinetic energy.
+Potential Energy
+Potential energy is defined as being energy at rest, or energy
+that is stored. Potential energy may be classified into three
+groups: (1) energy due to position, (2) energy due to distortion
+of an elastic body, and (3) energy which produces work
+
+or
+5-2
+
+===== PDF PAGE 152 =====
+through chemical action. Examples of the first group are
+water in an elevated reservoir or an airplane raised off the
+ground with jacks; a stretched bungee cord on a Piper TriPacer or compressed spring are examples of the second group;
+and energy in aviation gasoline, food, or storage batteries are
+examples of the third group.
+To calculate the potential energy of an object due to its
+position, as in height, the following formula is used:
+Potential Energy = Weight × Height
+A calculation based on this formula will produce an answer
+that has units of foot-pounds (ft-lb) or inch-pounds (in-lb),
+which are the same units that apply to work. Work, which
+is covered later in this chapter, is described as a force being
+applied over a measured distance, with the force being pounds
+and the distance being feet or inches. Potential energy and
+work have a lot in common.
+
+Specific
+Gravity
+
+Solid
+
+Specific
+Gravity
+
+Gas
+
+Specific
+Gravity
+
+Gasoline
+
+0.72
+
+Ice
+
+0.917
+
+Hydrogen
+
+0.0695
+
+Jet Fuel
+Jp-4
+
+0.785
+
+Aluminum
+
+2.7
+
+Helium
+
+0.138
+
+Ethyl
+Alcohol
+
+0.789
+
+Titanium
+
+4.4
+
+Acetylene
+
+0.898
+
+Jet Fuel
+Jp-5
+
+0.82
+
+Zinc
+
+7.1
+
+Nitrogen
+
+0.967
+
+Kerosene
+
+0.82
+
+Iron
+
+7.9
+
+Air
+
+1.000
+
+Lube Oil
+
+0.89
+
+Brass
+
+8.4
+
+Oxygen
+
+1.105
+
+Synthetic
+Oil
+
+0.928
+
+Copper
+
+8.9
+
+Carbon
+Dioxide
+
+1.528
+
+Water
+
+1.000
+
+Lead
+
+11.4
+
+Sulfuric
+Acid
+
+1.84
+
+Gold
+
+19.3
+
+Mercury
+
+13.6
+
+Platinum
+
+21.5
+
+Figure 5-1. Specific gravity of various substances.
+
+1,275 Charged
+
+1,150 Discharged
+
+1100
+
+1200
+
+1150
+
+1250
+
+1200
+1250
+1300
+
+As previously mentioned, aviation gasoline possesses
+potential energy because of its chemical nature. Gasoline
+has the potential to release heat energy, based on its British
+thermal unit (BTU) content. One pound of aviation gas
+contains 18,900 BTU of heat energy, and each BTU is
+capable of 778 ft-lb of work. So, when we multiply 778 by
+18,900, we find that one pound of aviation gas is capable of
+14,704,200 ft-lb of work. Imagine the potential energy in the
+completely serviced fuel tanks of an airplane.
+
+1300
+
+Potential Energy = Weight × Height
+PE = 450,000 lb × 4 ft
+PE = 1,800,000 ft-lb
+
+1150
+
+1100
+
+Example: A Boeing 747 weighing 450,000 pounds needs to
+be raised 4 feet in the air so maintenance can be done on the
+landing gear. How much potential energy does the airplane
+possess because of this raised position?
+
+Liquid
+
+Kinetic Energy
+Kinetic energy is defined as being energy that is in motion.
+An airplane rolling down the runway or a rotating flywheel
+on an engine are both examples of kinetic energy. Kinetic
+energy has the same units as potential energy, namely footpounds or inch-pounds. To calculate the kinetic energy for
+something in motion, the following formula is used:
+Kinetic Energy = 1⁄2 Mass × Velocity2
+To use the formula, we will show the mass as weight divided
+by gravity and the velocity of the object will be in feet per
+second. This is necessary to end up with units in foot-pounds.
+Figure 5-2. Hydrometer for checking battery specific gravity.
+
+5-3
+
+===== PDF PAGE 153 =====
+Example: An Airbus A380 weighing 600,000 lb is moving
+down the runway on its takeoff roll with a velocity of 200 fps.
+How many foot-pounds of kinetic energy does the airplane
+possess? [Figure 5-3]
+Kinetic Energy = 1⁄2 Mass × Velocity2
+Kinetic Energy = 1⁄2 × 600,000 ÷ 32.2 × 2002
+KE = 372,670,000 ft-lb
+
+Force, Work, Power, & Torque
+Force
+Before the concept of work, power, or torque can be discussed,
+we need to understand what force means. According to the
+dictionary, force is the intensity of an impetus, or the intensity
+of an input. For example, if we apply a force to an object, the
+tendency will be for the object to move. Another way to look
+at it is that for work, power, or torque to exist, there must be
+a force that initiates the process.
+The unit for force in the English system of measurement
+is pounds, and in the metric system it is newtons. One
+pound of force is equal to 4.448 newtons. When we
+calculate the thrust of a turbine engine, we use the formula
+“Force = Mass × Acceleration,” and the thrust of the engine is
+expressed in pounds. The GE90-115 turbofan engine (power
+plant for the Boeing 777-300), for example, has 115,000
+pounds of thrust.
+Work
+The study of machines, both simple and complex, can be
+seen as a study of the energy of mechanical work. This is
+true because all machines transfer input energy, or the work
+done on the machine, to output energy, or the work done by
+the machine.
+Work, in the mechanical sense of the term, is done when a
+resistance is overcome by force acting through a measurable
+distance. Two factors are involved: (1) force and (2) movement
+through a distance. As an example, suppose a small aircraft
+is stuck in the snow. Two men push against it for a period of
+time, but the aircraft does not move. According to the technical
+definition, no work had been done when the men were pushing
+against the aircraft. By definition, work is accomplished only
+when an object is displaced some distance against a resistive
+force. To calculate work, the following formula is used:
+
+In the metric system, the force is identified in newtons (N)
+and the distance in meters, with the resultant units being
+joules. One pound of force is equal to 4.448 N and one meter
+is equal to 3.28 feet. One joule is equal to 0.74 ft-lb.
+Example: How much work is accomplished by jacking a
+150,000-lb Airbus A-320 airplane a vertical height of 4 ft?
+[Figure 5-4]
+Work = Force × Distance
+		= 150,000 lb × 4 ft
+		= 600,000 ft-lb
+Example: How much work is accomplished when a tow
+tractor is hooked up to a tow bar and a Boeing 737-800
+airplane weighing 130,000 lb is pushed 80 ft. into the hangar?
+The force on the tow bar is 5,000 lb.
+Work = Force × Distance
+		= 5,000 lb × 80 ft
+		= 400,000 ft-lb
+In this last example, notice the force does not equal the weight
+of the airplane. This is because the airplane is being moved
+horizontally and not lifted vertically. In almost all cases, it
+takes less work to move something horizontally than it does
+to lift it vertically. Most people can push their car a short
+distance if it runs out of gas, but they cannot get under their
+car and lift it off the ground.
+Friction & Work
+In calculating work done, the actual resistance overcome is
+measured. This is not necessarily the weight of the object
+being moved. [Figure 5-5] A 900-lb load is being pulled a
+distance of 200 ft. This does not mean that the work done
+(force × distance) is 180,000 ft-lb (900 lb × 200 ft). This is
+
+Work = Force (F) × distance (d)
+In the English system, the force will be identified in pounds
+and the distance either in feet or inches, so the units will be
+foot-pounds or inch-pounds. Notice these are the same units
+that were used for potential and kinetic energy.
+
+Figure 5-3. Kinetic energy (Airbus A380 taking off).
+
+5-4
+
+===== PDF PAGE 154 =====
+because the person pulling the load is not working against the
+total weight of the load, but rather against the rolling friction
+of the cart, which may be no more than 90 lb.
+Friction is an important aspect of work. Without friction,
+it would be impossible to walk. One would have to shove
+oneself from place to place, and would have to bump against
+some obstacle to stop at a destination. Yet friction is a liability
+as well as an asset, and requires consideration when dealing
+with any moving mechanism.
+In experiments relating to friction, measurement of the
+applied forces reveals that there are three kinds of friction.
+One force is required to start a body moving, while another
+is required to keep the body moving at constant speed. Also,
+after a body is in motion, a definitely larger force is required
+to keep it sliding than to keep it rolling.
+Thus, the three kinds of friction may be classified as:
+(1) starting or static friction, (2) sliding friction, and (3)
+rolling friction.
+
+Static Friction
+When an attempt is made to slide a heavy object along a
+surface, the object must first be broken loose or started. Once
+in motion, it slides more easily. The “breaking loose” force
+is, of course, proportional to the weight of the body. The
+force necessary to start the body moving slowly is designated
+“F,” and “F'” is the normal force pressing the body against
+the surface which is usually its weight. Since the nature of
+the surfaces rubbing against each other is important, they
+must be considered. The nature of the surfaces is indicated
+by the coefficient of starting friction which is designated by
+the letter “k.” This coefficient can be established for various
+materials and is often published in tabular form. Thus, when
+the load (weight of the object) is known, starting friction can
+be calculated by using the following formula:
+F = kF'
+For example, if the coefficient of sliding friction of a
+smooth iron block on a smooth, horizontal surface is 0.3,
+the force required to start a 10 lb block would be 3 lb; a
+40-lb block, 12 lb.
+Starting friction for objects equipped with wheels and roller
+bearings is much smaller than that for sliding objects. For
+example, a locomotive would have difficulty getting a long
+train of cars in motion all at one time. Therefore, the couples
+between the cars are purposely made to have a few inches of
+play. When starting the train, the engineer backs the engine
+until all the cars are pushed together. Then, with a quick
+start forward the first car is set in motion. This technique is
+
+Figure 5-4. Airplane on jacks.
+
+employed to overcome the static friction of each wheel as
+well as the inertia of each car. It would be impossible for the
+engine to start all of the cars at the same instant, for static
+friction, which is the resistance of being set in motion, would
+be greater than the force exerted by the engine. However, once
+the cars are in motion, the static friction is greatly reduced
+and a smaller force is required to keep the train in motion
+than was required to start it.
+
+Sliding Friction
+Sliding friction is the resistance to motion offered by an object
+sliding over a surface. It pertains to friction produced after the
+object has been set in motion, and is always less than starting
+friction. The amount of sliding resistance is dependent on the
+nature of the surface of the object, the surface over which
+it slides, and the normal force between the object and the
+surface. This resistive force may be computed by using the
+following formula:
+F = mN
+In the formula above, “F” is the resistive force due to friction
+expressed in pounds; “N” is the force exerted on or by the
+object perpendicular (normal) to the surface over which it
+slides; and “m” (mu) is the coefficient of sliding friction. On
+a horizontal surface, N is equal to the weight of the object in
+pounds. The area of the sliding object exposed to the sliding
+surface has no effect on the results. A block of wood, for
+5-5
+
+===== PDF PAGE 155 =====
+Force
+90 lb
+
+Work = force x distance
+= 90 lb x 200 ft
+= 18,000 ft-lb
+
+Gravity
+
+how long it took to lift the weight, but the power required
+is different. If the weight is to be lifted in a shorter period
+of time, it will take more power. The formula for power is
+as follows:
+Power = Force × distance ÷ time
+The units for power will be foot-pounds per minute, footpounds per second, inch-pounds per minute or second, and
+possibly mile-pounds per hour. The units depend on how
+distance and time are measured.
+
+200 ft
+
+Resistance
+Figure 5-5. The effect of friction on work.
+
+example, will not slide any easier on one of the broad sides
+than it will on a narrow side, assuming all sides have the
+same smoothness. Therefore, area does not enter into the
+equation above.
+
+Rolling Friction
+Resistance to motion is greatly reduced if an object is
+mounted on wheels or rollers. The force of friction for
+objects mounted on wheels or rollers is called rolling friction.
+This force may be computed by the same equation used in
+computing sliding friction, but the values of “m” will be
+much smaller. For example, the value of “m” for rubber tires
+on concrete or macadam is about 0.02. The value of “m” for
+roller bearings is very small, usually ranging from 0.001 to
+0.003 and is often disregarded.
+Example: An aircraft with a gross weight of 79,600 lb is
+towed over a concrete ramp. What force must be exerted
+by the towing vehicle to keep the airplane rolling after once
+set in motion?
+F = mN
+		= 0.02 mu × 79,600 lb
+		= 1,592 lb
+Power
+The concept of power involves the previously discussed
+topic of work, which was a force being applied over a
+measured distance, but adds one more consideration—time.
+In other words, how long it takes to accomplish the work.
+If someone asked the average person if they could lift one
+million pounds 5 feet off the ground, the answer most
+assuredly would be no. This person would probably assume
+that they are to lift it all at once. What if they are given 365
+days to lift it, and could lift small amounts of weight at a
+time? The work involved would be the same, regardless of
+
+Many years ago, there was a desire to compare the power
+of the newly evolving steam engine to that of horses.
+People wanted to know how many horses the steam engine
+was equivalent to. The value we know currently as one
+horsepower (hp) was developed, and it is equal to 550 footpounds per second (ft-lb/s) because of this. It was found that
+the average horse could lift a weight of 550 lb, one foot off
+the ground, in one second. The values we use today, in order
+to convert power to horsepower, are as follows:
+1 hp = 550 ft-lb/s
+1 hp = 33,000 ft-lb/min.
+1 hp = 375 mile pounds per hour (mi-lb/hr.)
+1 hp = 746 watts (electricity conversion)
+To convert power to horsepower, divide the power by the
+appropriate conversion based on the units being used.
+Example: What power would be needed, and also horsepower,
+to raise the GE-90 turbofan engine into position to install
+it on a Boeing 777-300 airplane? The engine weighs
+19,000 lb, and it must be lifted 4 ft in 2 minutes.
+Power = Force × distance ÷ time
+		= 19,000 lb × 4 ft ÷ 2 min.
+		= 38,000 ft-lb/min.
+Hp = 38,000 ft-lb/min. ÷ 33,000 ft-lb/min.
+Hp = 1.15
+The hoist that will be used to raise this engine into position
+will need to be powered by an electric motor because the
+average person will not be able to generate 1.15 hp in their
+arms for the necessary 2 minutes.
+Torque
+Torque is a very interesting concept and occurrence, and it is
+definitely something that needs to be discussed in conjunction
+with work and power. Whereas work is described as force
+acting through a distance, torque is described as force acting
+along a distance. Torque is something that creates twisting
+5-6
+
+===== PDF PAGE 156 =====
+Torque = Horsepower × 5,252 ÷ rpm
+
+and tries to make something rotate.
+If we push on an object with a force of 10 lb and it moves
+10 inches in a straight line, we have done 100 in-lb of
+work. By comparison, if we have a wrench 10 inches long
+that is on a bolt, and we push down on it with a force of 10
+lb, a torque of 100 lb-in is applied to the bolt. If the bolt
+was already tight and did not move as we pushed down on
+the wrench, the torque of 100 lb-in would still exist. The
+formula for torque is:
+Torque = Force × distance
+Even though this formula looks the same as the other formula
+for calculating work, recognize that the distance value in this
+formula is not the linear distance an object moves, but rather
+the distance along which the force is applied.
+Notice that with torque nothing had to move, because the
+force is being applied along a distance and not through a
+distance. Notice also that although the units of work and
+torque appear to be the same, they are not. The units of work
+were inch-pounds and the units of torque were pound-inches,
+and that is what differentiates the two.
+Torque is very important when thinking about how engines
+work, both piston engines and gas turbine engines. Both
+types of engines create torque in advance of being able
+to create work or power. With a piston engine, a force in
+pounds pushes down on the top of the piston and tries to
+make it move. The piston is attached to the connecting rod,
+which is attached to the crankshaft at an offset. That offset
+would be like the length of the wrench discussed earlier,
+and the force acting along that length is what creates torque.
+[Figure 5-6]
+For the cylinder in Figure 5-6, there is a force of 500 lb
+pushing down on the top of the piston. The connecting rod
+attaches to the crankshaft at an offset distance of 4 in. The
+product of the force and the offset distance is the torque, in
+this case 2,000 lb-in.
+In a turbine engine, the turbine blades at the back of the engine
+extract energy from the high velocity exhaust gases. The energy
+extracted becomes a force in pounds pushing on the turbine
+blades, which happen to be a certain number of inches from
+the center of the shaft they are trying to make rotate. The
+number of inches from the turbine blades to the center of the
+shaft would be like the length of the wrench discussed earlier.
+Mathematically, there is a relationship between the
+horsepower of an engine and the torque of an engine. The
+formula that shows this relationship is as follows:
+
+Example: A Cessna 172R has a Lycoming IO-360 engine that
+creates 180 horsepower at 2,700 rpm. How many pound-feet
+of torque is the engine producing?
+Torque = 180 × 5,252 ÷ 2,700
+		= 350 lb-ft.
+
+Simple Machines
+A machine is any device with which work may be
+accomplished. For example, machines can be used for any of
+the following purposes, or combinations of these 5 purposes:
+1.
+
+Machines are used to transform energy, as in the case
+of a generator transforming mechanical energy into
+electrical energy.
+
+2.
+
+Machines are used to transfer energy from one place
+to another, as in the examples of the connecting rods,
+crankshaft, and reduction gears transferring energy
+from an aircraft’s engine to its propeller.
+
+3.
+
+Machines are used to multiply force; for example, a
+system of pulleys may be used to lift a heavy load. The
+pulley system enables the load to be raised by exerting
+a force that is smaller than the weight of the load.
+
+4.
+
+Machines can be used to multiply speed. A good
+example is the bicycle, by which speed can be gained
+by exerting a greater force.
+
+5.
+
+Machines can be used to change the direction of
+a force. An example of this use is the flag hoist. A
+downward force on one side of the rope exerts an
+upward force on the other side, raising the flag toward
+the top of the pole.
+
+There are only six simple machines. They are the lever, the
+pulley, the wheel and axle, the inclined plane, the screw,
+and the gear. Physicists, however, recognize only two basic
+principles in machines: the lever and the inclined plane.
+The pulley (block and tackle), the wheel and axle, and gears
+operate on the machine principle of the lever. The wedge and
+the screw use the principle of the inclined plane.
+An understanding of the principles of simple machines provides
+a necessary foundation for the study of compound machines,
+which are combinations of two or more simple machines.
+Mechanical Advantage of Machines
+As identified in statements 3 and 4 under simple machines, a
+machine can be used to multiply force or to multiply speed. It
+cannot, however, multiply force and speed at the same time.
+In order to gain one force, it must lose the other force. To do
+otherwise would mean the machine has more power going
+5-7
+
+===== PDF PAGE 157 =====
+The concept of torque was discussed earlier in this chapter,
+and torque is very much involved in the operation of a lever.
+When a person sits on one end of a seesaw, that person applies
+a downward force in pounds which acts along the distance
+to the center of the seesaw. This combination of force and
+distance creates torque, which tries to cause rotation.
+
+Torque = F x d
+Torque = 500 x 4
+Torque = 2,000 lb-in
+Torque = 166.7 lb-ft
+Force of 500 lb
+
+Piston
+
+Connecting rod
+
+Crankshaft
+
+4"
+Figure 5-6. Piston engine and torque.
+
+out than coming in, and that is not possible.
+In reference to machines, mechanical advantage is a
+comparison of the output force to the input force, or the
+output distance to the input distance. If there is a mechanical
+advantage in terms of force, there will be a fractional
+disadvantage in terms of distance. The following formulas
+can be used to calculate mechanical advantage.
+Mechanical Advantage = Force Out ÷ Force In
+or
+Mechanical Advantage = Distance Out ÷ Distance In
+The Lever
+The simplest machine, and perhaps the most familiar one, is
+the lever. A seesaw is a familiar example of a lever, with two
+people sitting on either end of a board and a pivoting point
+in the middle. There are three basic parts in all levers. They
+are the fulcrum “F,” a force or effort “E,” and a resistance
+“R.” Shown in Figure 5-7 are the pivot point “F” (fulcrum),
+the effort “E” which is applied at a distance “L” from the
+fulcrum, and a resistance “R” which acts at a distance “l”
+from the fulcrum. Distances “L” and “l” are the lever arms.
+
+First Class Lever
+In the first class lever, the fulcrum is located between the
+effort and the resistance. As mentioned earlier, the seesaw
+is a good example of a lever, and it happens to be a first
+class lever. The amount of weight and the distance from
+the fulcrum can be varied to suit the need. Increasing the
+distance from the applied effort to the fulcrum, compared to
+the distance from the fulcrum to the weight being moved,
+increases the advantage provided by the lever. Crowbars,
+shears, and pliers are common examples of this class of lever.
+The proper balance of an airplane is also a good example,
+with the center of lift on the wing being the pivot point, or
+fulcrum, and the weight fore and aft of this point being the
+effort and the resistance.
+When calculating how much effort is required to lift a specific
+weight, or how much weight can be lifted by a specific effort,
+the following formula can be used.
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+What this formula really shows is the input torque (effort ×
+effort arm) equals the output torque (resistance × resistance
+arm). This formula and concept apply to all three classes of
+levers and to all simple machines in general.
+Example: A first class lever is to be used to lift a 500-lb
+weight. The distance from the weight to the fulcrum is
+12 inches and from the fulcrum to the applied effort is 60
+inches. How much force is required to lift the weight?
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+E × 60 in = 500 lb × 12 in
+E = 500 lb × 12 in ÷ 60 in
+E = 100 lb
+The mechanical advantage of the lever in this example
+would be:
+Mechanical Advantage = Force Out ÷ Force In
+
+= 500 lb ÷ 100 lb
+
+= 5, or 5 to 1
+An interesting thing to note with this example lever is if the
+applied effort moved down 10 inches, the weight on the other
+end would only move up 2 inches. The weight being lifted
+would only move one-fifth as far. The reason for this is the
+5-8
+
+===== PDF PAGE 158 =====
+concept of work. If it allows you to lift 5 times more weight,
+you will only move it 1⁄5 as far as you move the effort, because
+a lever cannot have more work output than input.
+
+Second Class Lever
+The second class lever has the fulcrum at one end and the
+effort is applied at the other end. The resistance is somewhere
+between these points. A wheelbarrow is a good example of
+a second class lever, with the wheel at one end being the
+fulcrum, the handles at the opposite end being the applied
+effort, and the bucket in the middle being where the weight
+or resistance is placed. [Figure 5-8]
+Both first and second class levers are commonly used to help
+in overcoming big resistances with a relatively small effort.
+The first class lever, however, is more versatile. Depending
+on how close or how far away the weight is placed from the
+fulcrum, the first class lever can be made to gain force or
+gain distance, but not both at the same time. The second class
+lever can only be made to gain force.
+Example: The distance from the center of the wheel to the
+handles on a wheelbarrow is 60 inches. The weight in the
+bucket is 18 inches from the center of the wheel. If 300 lb is
+placed in the bucket, how much force must be applied at the
+handles to lift the wheelbarrow?
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+E × 60 inches = 300 lb × 18 in
+E = 300 lb × 18 in ÷ 60 in
+E = 90 lb
+The mechanical advantage of the lever in this example
+would be:
+Mechanical Advantage = Force Out ÷ Force In
+
+= 300 lb ÷ 90 lb
+
+= 3.33, or 3.33 to 1
+
+Third Class Lever
+There are occasions when it is desirable to speed up the
+movement of the resistance even though a large amount of
+effort must be used. Levers that help accomplish this are third
+
+class levers. As shown in Figure 5-9, the fulcrum is at one end
+of the lever and the weight or resistance to be overcome is at
+the other end, with the effort applied at some point between.
+Third class levers are easily recognized because the effort is
+applied between the fulcrum and the resistance. The retractable
+main landing gear on an airplane is a good example of a third
+class lever. The top of the landing gear, where it attaches to the
+airplane, is the pivot point. The wheel and brake assembly at
+the bottom of the landing gear is the resistance. The hydraulic
+actuator that makes the gear retract is attached somewhere in
+the middle, and that is the applied effort.
+The Pulley
+Pulleys are simple machines in the form of a wheel mounted
+on a fixed axis and supported by a frame. The wheel, or disk,
+is normally grooved to accommodate a rope. The wheel is
+sometimes referred to as a “sheave,” or sometimes “sheaf.”
+The frame that supports the wheel is called a block. A block and
+tackle consists of a pair of blocks. Each block contains one or
+more pulleys and a rope connecting the pulley(s) of each block.
+
+Single Fixed Pulley
+A single fixed pulley is really a first class lever with equal arms.
+In Figure 5-10, the arm from point “R” to point “F” is equal to
+the arm from point “F” to point “E,” with both distances being
+equal to the radius of the pulley. When a first class lever has
+equal arms, the mechanical advantage is 1. Thus, the force of
+the pull on the rope must be equal to the weight of the object
+being lifted. The only advantage of a single fixed pulley is to
+change the direction of the force, or pull on the rope.
+
+Single Movable Pulley
+A single pulley can be used to magnify the force exerted. In
+Figure 5-11, the pulley is movable, and both ropes extending
+up from the pulley are sharing in the support of the weight.
+This single, movable pulley will act like a second class lever.
+The effort arm (EF) being the diameter of this pulley and the
+resistance arm (FR) being the radius of this pulley. This type of
+pulley would have a mechanical advantage of two because the
+diameter of the pulley is double the radius of the pulley. In use,
+if someone pulled in 4 ft of the effort rope, the weight would
+only rise off the floor 2 ft. If the weight was 100 lb, the effort
+Effort “E”
+
+Resistance “R”
+
+“L”
+
+Effort “E”
+
+“l”
+
+“l”
+
+“L”
+Fulcrum “F”
+Fulcrum “F”
+
+Figure 5-7. First class lever.
+
+Resistance “R”
+Figure 5-8. Second class lever.
+
+5-9
+
+===== PDF PAGE 159 =====
+applied would only need to be 50 lb. With this type of pulley,
+the effort will always be one-half of the weight being lifted.
+
+Block and Tackle
+A block and tackle is made up of multiple pulleys, some of
+them fixed and some movable. In Figure 5-12, the block and
+tackle is made up of four pulleys, the top two being fixed and
+the bottom two being movable. Viewing the figure from right
+to left, notice there are four ropes supporting the weight and
+a fifth rope where the effort is applied. The number of weight
+supporting ropes determines the mechanical advantage of a
+block and tackle, so in this case the mechanical advantage
+is four. If the weight was 200 lb, it would require a 50 lb
+effort to lift it.
+The Gear
+Two gears with teeth on their outer edges, as shown in
+Figure 5-13, act like a first class lever when one gear drives
+the other. The gear with the input force is called the drive
+gear, and the other is called the driven gear. The effort arm
+is the diameter of the driven gear, and the resistance arm is
+the diameter of the drive gear.
+Notice that the two gears turn in opposite directions: the
+bottom one clockwise and the top one counterclockwise. The
+gear on top is 9 inches in diameter and has 45 teeth, and the
+gear on the bottom is 12 inches in diameter and has 60 teeth.
+
+is an increase in force, and ultimately torque.
+Bevel gears are used to change the plane of rotation, so that
+a shaft turning horizontally can make a vertical shaft rotate.
+The size of the gears and their number of teeth determine the
+mechanical advantage, and whether force is being increased
+or rpm is being increased. If each gear has the same number of
+teeth, there would be no change in force or rpm. [Figure 5-14]
+The worm gear has an extremely high mechanical advantage.
+The input force goes into the spiral worm gear, which drives
+the spur gear. One complete revolution of the worm gear only
+makes the spur gear move an amount equal to one tooth.
+The mechanical advantage is equal to the number of teeth
+on the spur gear, which in this case there are 25. This is a
+force gaining machine, to the tune of 25 times more output
+force. [Figure 5-15]
+The planetary sun gear system is typical of what would be
+found in a propeller reduction gearbox. The power output
+shaft of the engine would drive the sun gear in the middle,
+
+Imagine that the blue gear is driving the yellow one, which
+makes the blue the drive and the yellow the driven. The
+mechanical advantage in terms of force would be the effort
+arm divided by the resistance arm, or 9 ÷ 12, which is 0.75.
+This would actually be called a fractional disadvantage,
+because there would be less force out than force in. The
+mechanical advantage in terms of distance, in rpm in this
+case, would be 12 ÷ 9, or 1.33.
+This analysis tells us that when a large gear drives a small
+one, the small one turns faster and has less available force. In
+order to be a force gaining machine, the small gear needs to
+turn the large one. When the terminology reduction gearbox
+is used, such as a propeller reduction gearbox, it means that
+there is more rpm going in than is coming out. The end result
+
+R
+
+F
+
+E
+
+Effort “E”
+“L”
+“l”
+
+Weight
+
+Fulcrum “F”
+
+Effort “E”
+
+Resistance “R”
+Figure 5-9. Third class lever.
+
+Figure 5-10. Single fixed pulley.
+
+5-10
+
+===== PDF PAGE 160 =====
+Ef
+fo
+r
+
+t
+
+Effort
+
+Support ropes
+
+E
+
+F
+
+R
+
+Weight
+
+Weight
+
+Figure 5-11. Single movable pulley.
+
+which rotates the planetary gears and ultimately the ring gear.
+In this example, the sun gear has 28 teeth, each planet gear
+has 22 teeth, and the ring gear has 82 teeth. To figure how
+much gear reduction is taking place, the number of teeth on
+the ring gear is divided by the number of teeth on the sun gear.
+In this case, the gear reduction is 2.93, meaning the engine has
+an rpm 2.93 times greater than the propeller. [Figure 5-16]
+Inclined Plane
+The inclined plane is a simple machine that facilitates the
+raising or lowering of heavy objects by application of a small
+force over a relatively long distance. Some familiar examples
+
+Figure 5-12. Block and tackle.
+
+of the inclined plane are mountain highways and a loading
+ramp on the back of a moving truck. When weighing a small
+airplane, like a Cessna 172, an inclined plane, or ramp, can
+be used to get the airplane on the scales by pushing it, rather
+than jacking it. A ramp can be seen in Figure 5-17, where a
+Cessna 172 right main gear is sitting on an electronic scale.
+The airplane was pushed up the ramps to get it on the scales.
+With an inclined plane, the length of the incline is the effort
+arm and the vertical height of the incline is the resistance
+arm. If the length of the incline is five times greater than
+the height, there will be a force advantage, or mechanical
+advantage, of five. The Mooney M20 in Figure 5-17 weighed
+1,600 lb on the day of the weighting. The ramp it is sitting on
+is 6 inches tall, which is the resistance arm, and the length of
+the ramp is 24 inches, which is the effort arm. To calculate
+5-11
+
+===== PDF PAGE 161 =====
+mechanical advantage than a coarse threaded bolt.
+A chisel is a good example of a wedge. A chisel might be
+8 inches long and only 1⁄2 inch wide, with a sharp tip and
+tapered sides. The 8-inch length is the effort arm and the 1⁄2inch width is the resistance arm. This chisel would provide
+a force advantage, or mechanical advantage, of 16.
+
+Stress
+Whenever a machine is in operation, be it a simple machine
+like a lever or a screw, or a more complex machine like an
+aircraft piston engine or a hydraulically operated landing
+gear, the parts and pieces of that machine will experience
+something called stress. Whenever an external force is
+applied to an object, like a weight pushing on the end of a
+lever, a reaction will occur inside the object which is known
+as stress. Stress is typically measured in pounds per square
+foot or pounds per square inch (psi).
+External force acting on an object causes the stress to
+manifest itself in one of five forms, or combination of those
+five. The five forms are tension, compression, torsion,
+bending, and shear.
+Tension
+Tension is a force that tries to pull an object apart. In the
+block and tackle system discussed earlier in this chapter,
+the upper block that housed the two fixed pulleys was
+secured to an overhead beam. The movable lower block
+
+Figure 5-13. Spur gears.
+
+the force needed to push the airplane up the ramps, use the
+same formula introduced earlier when levers were discussed,
+as follows:
+Effort (E) × Effort Arm (L) = Resistance (R) × Resistance Arm (l)
+E × 24 in = 1,600 lb × 6 in
+E = 1,600 l-b × 6 in ÷ 24 in
+E = 400 lb
+Bolts, screws, and wedges are also examples of devices
+that operate on the principle of the inclined plane. A
+bolt, for example, has a spiral thread that runs around
+its circumference. As the thread winds around the bolt’s
+circumference, it moves a vertical distance equal to the
+space between the threads. The circumference of the bolt
+is the effort arm and the distance between the threads is the
+resistance arm. [Figure 5-18] Based on this analysis, a fine
+threaded bolt, which has more threads per inch, has a greater
+
+Figure 5-14. Bevel gears.
+
+5-12
+
+===== PDF PAGE 162 =====
+Figure 5-15. Worm gear.
+
+Figure 5-17. Ramp in use with a Mooney M20.
+
+and its two pulleys were hanging by ropes, and the weight
+was hanging below the entire assembly. The weight being
+lifted would cause the ropes and the blocks to be under
+tension. The weight is literally trying to pull the rope apart,
+and ultimately would cause the rope to break if the weight
+was too great.
+Compression
+Compression is a force that tries to crush an object. An
+excellent example of compression is when a sheet metal
+airplane is assembled using the fastener known as a rivet. The
+rivet passes through a hole drilled in the pieces of aluminum,
+and then a rivet gun on one side and a bucking bar on the
+other apply a force. This applied force tries to crush the rivet
+
+Sun gear
+
+and makes it expand to fill the hole and securely hold the
+aluminum pieces together. [Figure 5-19]
+Torsion
+Torsion is the stress an object experiences when it is
+twisted, which is what happens when torque is applied to a
+shaft. Torsion is made up of two other stresses: tension and
+compression. When a shaft is twisted, tension is experienced
+at a diagonal to the shaft and compression acts 90 degrees to
+the tension. [Figure 5-20]
+The turbine shaft on a turbofan engine, which connects to
+the compressor in order to drive it, is under a torsion stress.
+The turbine blades extract energy from the high velocity air
+as a force in pounds. This force in pounds acts along the
+length from the blades to the center of the shaft, and creates
+the torque that causes rotation. [Figure 5-21]
+Bending
+An airplane in flight experiences a bending force on the wing
+as aerodynamic lift tries to raise the wing. This force of lift
+causes the skin on the top of the wing to compress and the
+skin on the bottom of the wing to be under tension. When the
+airplane is on the ground sitting on its landing gear, the force
+of gravity tries to bend the wing downward, subjecting the
+bottom of the wing to compression and the top of the wing
+tension. [Figure 5-22] During the testing that occurs prior
+to FAA certification, an airplane manufacturer intentionally
+bends the wing up and down to make sure it can take the
+stress without failing.
+
+Ring gear
+Figure 5-16. Planetary sun gear.
+
+Planetary gears
+
+Shear
+When a shear stress is applied to an object, the force tries
+to cut or slice through, like a knife cutting through butter.
+A clevis bolt, which is often used to secure a cable to a part
+of the airframe, has shear stress acting on it. As shown in
+Figure 5-23, a fork fitting is secured to the end of the cable,
+5-13
+
+===== PDF PAGE 163 =====
+Force from rivet gun
+
+Distance between threads
+(Resistance arm)
+Effort arm
+
+Resistance arm
+
+Rivet head
+
+Circumference (Effort arm)
+
+Figure 5-18. A bolt and nut as an inclined plane.
+
+and the fork attaches to an eye on the airframe with the clevis
+bolt. When the cable is put under tension, the fork tries to
+slide off the eye by cutting through the clevis bolt. This bolt
+would be designed to take very high shear loads.
+Strain
+If the stress acting on an object is great enough, it can cause
+the object to change its shape or to become distorted. One
+characteristic of matter is that it tends to be elastic, meaning
+it can be forced out of shape when a force is applied and then
+return to its original shape when the force is removed. When
+an object becomes distorted by an applied force, the object
+is said to be strained.
+On turbine engine test cells, the thrust of the engine is
+typically measured by what are called strain gages. When
+the force, or thrust, of the engine is pulling out against the
+strain gages, the amount of distortion is measured and then
+translated into the appropriate thrust reading.
+A deflecting beam style of torque wrench uses the strain on the
+drive end of the wrench and the resulting distortion of the beam
+to indicate the amount of torque on a bolt or nut. [Figure 5-24]
+
+Motion
+The study of the relationship between the motion of bodies
+or objects and the forces acting on them is often called the
+study of “force and motion.” In a more specific sense, the
+relationship between velocity, acceleration, and distance is
+known as kinematics.
+
+Rivet shank
+
+Bucking bar
+
+Figure 5-19. A rivet fastener and compression.
+
+Uniform Motion
+Motion may be defined as a continuing change of position
+or place, or as the process in which a body undergoes
+displacement. When an object is at different points in space
+at different times, that object is said to be in motion, and if
+the distance the object moves remains the same for a given
+period of time, the motion may be described as uniform. Thus,
+an object in uniform motion always has a constant speed.
+Speed and Velocity
+In everyday conversation, speed and velocity are often used
+as if they mean the same thing. In physics, they have definite
+5-14
+
+===== PDF PAGE 164 =====
+Wing top is
+under tension
+
+Tension stress
+
+Wing bottom is
+under compression
+
+Rotation
+
+Compression
+
+Figure 5-20. Torsion on a rotating shaft, made up of tension and
+
+compression.
+
+and distinct meanings. Speed refers to how fast an object is
+moving, or how far the object will travel in a specific time.
+The speed of an object tells nothing about the direction an
+object is moving. For example, if the information is supplied
+that an airplane leaves New York City and travels 8 hours at
+a speed of 150 mph, this information tells nothing about the
+direction in which the airplane is moving. At the end of 8
+hours, it might be in Kansas City, or if it traveled in a circular
+route, it could be back in New York City.
+Velocity is that quantity in physics which denotes both the
+speed of an object and the direction in which the object
+moves. Velocity can be defined as the rate of motion in a
+particular direction. Velocity is also described as being a
+vector quantity, a vector being a line of specific length,
+having an arrow on one end or the other. The length of the
+line indicates the number value and the arrow indicates the
+direction in which that number is acting.
+Two velocity vectors, such as one representing the velocity of
+
+Torque applied to shaft
+
+Figure 5-22. Airplane on the ground, wing under tension and
+
+compression.
+
+an airplane and one representing the velocity of the wind, can
+be added together in what is called vector analysis. Figure 5-25
+demonstrates this, with vectors “A” and “B” representing the
+velocity of the airplane and the wind, and vector “C” being the
+resultant. With no wind, the speed and direction of the airplane
+would be that shown by vector “A.” When accounting for the
+wind direction and speed, the airplane ends up flying at the
+speed and direction shown by vector “C.”
+Imagine that an airplane is flying in a circular pattern at a
+constant speed. The airplane is constantly changing direction
+because of the circular pattern, which means the airplane is
+constantly changing velocity. The reason for this is the fact
+that velocity includes direction.
+To calculate the speed of an object, the distance it travels is
+divided by the elapsed time. If the distance is measured in
+miles and the time in hours, the units of speed will be miles
+per hour (mph). If the distance is measured in feet and the
+time in seconds, the units of speed will be feet per second
+(fps). To convert mph to fps, divide by 1.467. Velocity is
+calculated the same way, the only difference being it must
+be recalculated every time the direction changes.
+Acceleration
+Acceleration is defined as the rate of change of velocity. If
+the velocity of an object is increased from 20 mph to 30 mph,
+the object has been accelerated. If the increase in velocity is
+10 mph in 5 seconds, the rate of change in velocity is 10 mph
+in 5 seconds, or 2 mph per second. If this were multiplied
+
+Clevis Bolt
+Force
+Shaft experiences torsion
+Turbine blades applied force
+
+Figure 5-21. Turbofan engine, torque creating torsion in the shaft.
+
+Figure 5-23. Clevis bolt, red arrows show opposing forces trying
+
+to shear the bolt.
+
+5-15
+
+===== PDF PAGE 165 =====
+Newton’s Law of Motion
+
+First Law
+
+When a magician snatches a tablecloth from a table and
+leaves a full setting of dishes undisturbed, he is not displaying
+a mystic art; he is actually demonstrating the principle of
+inertia. Inertia is responsible for the discomfort felt when an
+airplane is brought to a sudden halt in the parking area and
+the passengers are thrown forward in their seats. Inertia is a
+property of matter. This property of matter is described by
+Newton’s first law of motion, which states:
+Objects at rest tend to remain at rest and objects in motion
+tend to remain in motion at the same speed and in the same
+direction, unless acted on by an external force.
+
+Second Law
+Bodies in motion have the property called momentum. A body
+that has great momentum has a strong tendency to remain
+in motion and is therefore hard to stop. For example, a train
+moving at even low velocity is difficult to stop because of
+its large mass. Newton’s second law applies to this property.
+It states:
+Figure 5-24. Deflecting beam torque wrench measures strain by
+
+distortion.
+
+by 1.467, it could also be expressed as an acceleration of
+2.93 feet per second per second (fps/s). By comparison, the
+acceleration due to gravity is 32.2 fps/s.
+To calculate acceleration, the following formula is used.
+Acceleration (A) =
+
+Velocity Final (Vf) − Velocity Initial (Vi)
+Time (t)
+
+Example: An Air Force F-15 fighter is cruising at 400 mph.
+The pilot advances the throttles to full afterburner and
+accelerates to 1,200 mph in 20 seconds. What is the average
+acceleration in mph/s and fps/s?
+Vf − Vi
+A=
+t
+A = 1200 − 400
+20
+A = 40 mph⁄s, or multiplying by 1.467, 58.7 fps⁄s
+In the example just shown, the acceleration was found to be
+58.7 fps/s. Since 32.2 fps/s is equal to the acceleration due
+to gravity, divide the F-15’s acceleration by 32.2 to find out
+how many G forces the pilot is experiencing. In this case,
+it would be 1.82 Gs.
+
+When a force acts upon a body, the momentum of that body
+is changed. The rate of change of momentum is proportional
+to the applied force. Based on Newton’s second law, the
+formula for calculating thrust is derived, which states that
+force equals mass times acceleration (F = MA). Earlier in this
+chapter, it was determined that mass equals weight divided by
+gravity, and acceleration equals velocity final minus velocity
+initial divided by time. Putting all these concepts together,
+the formula for thrust is:
+Force =
+
+Force =
+
+Weight (Velocity final − Velocity initial)
+Gravity (Time)
+W (Vf − Vi)
+Gt
+
+Example: A turbojet engine is moving 150 lb of air per
+second through the engine. The air enters going 100 fps and
+leaves going 1,200 fps. How much thrust, in pounds, is the
+engine creating?
+F=
+
+W (Vf − Vi)
+Gt
+
+F=
+
+150 (1200 − 100)
+32.2(1)
+
+F = 5,124 lb of thrust
+
+5-16
+
+===== PDF PAGE 166 =====
+When an aircraft propeller pushes a stream of air backward
+with a force of 500 lb, the air pushes the blades forward with
+a force of 500 lb. This forward force causes the aircraft to
+move forward. A turbofan engine exerts a force on the air
+entering the inlet duct, causing it to accelerate out the fan
+duct and the tailpipe. The air accelerating to the rear is the
+action, and the force inside the engine that makes it happen
+is the reaction, also called thrust.
+
+Vec
+to
+
+rC=
+
+Mov
+eme
+
+nt o
+f
+
+airp
+lane
+
+Vector A = Velocity of airplane
+
+Vector B = Wind
+
+Circular Motion
+Circular motion is the motion of an object along a curved
+path that has a constant radius. For example, if one end of a
+string is tied to an object and the other end is held in the hand,
+the object can be swung in a circle. The object is constantly
+deflected from a straight (linear) path by the pull exerted on
+the string, as shown in Figure 5-26. When the weight is at
+point A, due to inertia it wants to keep moving in a straight
+line and end up at point B. It is forced to move in a circular
+path and end up at point C because of the force being exerted
+on the string.
+The string exerts a centripetal force on the object, and the
+object exerts an equal but opposite force on the string,
+obeying Newton’s third law of motion. The force that is equal
+to centripetal force, but acting in an opposite direction, is
+called centrifugal force.
+Centripetal force is always directly proportional to the mass
+of the object in circular motion. Thus, if the mass of the
+object in Figure 5-26 is doubled, the pull on the string must
+be doubled to keep the object in its circular path, provided
+the speed of the object remains constant.
+
+Figure 5-25. Vector analysis for airplane velocity and wind velocity.
+
+Third Law
+Newton’s third law of motion is often called the law of action
+and reaction. It states that for every action there is an equal
+and opposite reaction. This means that if a force is applied
+to an object, the object will supply a resistive force exactly
+equal to and in the opposite direction of the force applied.
+It is easy to see how this might apply to objects at rest. In
+application, as a man stands on the floor, the floor exerts a
+force against his feet exactly equal to his weight. This law is
+also applicable when a force is applied to an object in motion.
+Forces always occur in pairs. The term “acting force” means
+the force one body exerts on a second body, and reacting
+force means the force the second body exerts on the first.
+
+Centripetal force is inversely proportional to the radius
+of the circle in which an object travels. If the string in
+Figure 5-26 is shortened and the speed remains constant,
+the pull on the string must be increased since the radius is
+decreased, and the string must pull the object from its linear
+path more rapidly. Using the same reasoning, the pull on the
+string must be increased if the object is swung more rapidly
+in its orbit. Centripetal force is thus directly proportional
+to the square of the velocity of the object. The formula for
+centripetal force is:
+Centripetal Force = Mass (Velocity2) ÷ Radius
+For the formula above, mass would typically be converted
+to weight divided by gravity, velocity would be in feet per
+second, and the radius would be in feet.
+Example: What would the centripetal force be if a 10-pound
+weight was moving in a 3-ft radius circular path at a velocity
+of 500 fps?
+
+5-17
+

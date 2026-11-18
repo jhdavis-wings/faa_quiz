@@ -1,0 +1,1749 @@
+FAA-H-8083-30B General Handbook, chapter 5 (Physics for Aviation), PDF pages 167-181
+
+===== PDF PAGE 167 =====
+Centripetal Force = Mass (Velocity2) ÷ Radius
+Centripetal Force = 10 (5002) ÷ 32.2 (3)
+		= 25,880 lb
+
+Heat
+
+WT
+“C”
+Centripetal force
+
+In the condition identified in the example, the object acts like
+it weighs 2,588 times more than it actually does. It can also
+be said that the object is experiencing 2,588 Gs, or force of
+gravity. The fan blades in a large turbofan engine, when the
+engine is operating at maximum rpm, are experiencing many
+thousands of Gs for the same reason.
+
+B
+
+Heat is a form of energy. It is produced only by the conversion
+of one of the other forms of energy. Heat may also be defined
+as the total kinetic energy of the molecules of any substance.
+
+A
+
+l
+ga
+
+ce
+for
+
+fu
+
+ri
+nt
+Ce
+
+Some forms of energy which can be converted into heat
+energy are as follows:
+•
+
+Mechanical Energy—this includes all methods of
+producing increased motion of molecules such as
+friction, impact of bodies, or compression of gases.
+
+•
+
+Electrical Energy—electrical energy is converted to
+heat energy when an electric current flows through
+any form of resistance such as an electric iron, electric
+light, or an electric blanket.
+
+•
+
+Chemical Energy—most forms of chemical reaction
+convert stored potential energy into heat. Some
+examples are the explosive effects of gunpowder, the
+burning of oil or wood, and the combining of oxygen
+and grease.
+
+•
+
+Radiant Energy—electromagnetic waves of certain
+frequencies produce heat when they are absorbed by
+the bodies they strike such as x-rays, light rays, and
+infrared rays.
+
+•
+
+Nuclear Energy—energy stored in the nucleus of
+atoms is released during the process of nuclear fission
+in a nuclear reactor or atomic explosion.
+
+•
+
+Sun—all heat energy can be directly or indirectly
+traced to the nuclear reactions occurring in the sun.
+
+When a gas is compressed, work is done and the gas becomes
+warm or hot. Conversely, when a gas under high pressure is
+allowed to expand, the expanding gas becomes cool. In the
+first case, work was converted into energy in the form of
+heat; in the second case heat energy was expended. Since
+heat is given off or absorbed, there must be a relationship
+between heat energy and work. Also, when two surfaces are
+rubbed together, the friction develops heat. However, work
+was required to cause the heat, and by experimentation, it
+has been shown that the work required and the amount of
+heat produced by friction is proportional. Thus, heat can be
+
+Figure 5-26. Circular motion.
+
+regarded as a form of energy.
+According to this theory of heat as a form of energy, the
+molecules, atoms, and electrons in all bodies are in a continual
+state of motion. In a hot body, these small particles possess
+relatively large amounts of kinetic energy, but in cooler
+bodies they have less. Because the small particles are given
+motion, and hence kinetic energy, work must be done to
+slide one body over the other. Mechanical energy apparently
+is transformed, and what we know as heat is really kinetic
+energy of the small molecular subdivisions of matter.
+Heat Energy Units
+Two different units are used to express quantities of heat
+energy. They are the calorie and the BTU. One calorie is equal
+to the amount of heat required to change the temperature of
+1 gram of water 1 degree Centigrade.
+This term “calorie” (spelled with a lower case c) is 1/1,000 of
+the Calorie (spelled with a capital C) used in the measurement
+of the heat energy in foods. One BTU is defined as the amount
+of heat required to change the temperature of 1 lb of water
+1 degree Fahrenheit (1 °F). The calorie and the gram are
+seldom used in discussing aviation maintenance. The BTU,
+however, is commonly referred to in discussions of engine
+thermal efficiencies and the heat content of aviation fuel.
+
+5-18
+
+===== PDF PAGE 168 =====
+A device known as the calorimeter is used to measure
+quantities of heat energy. In application, it may be used to
+determine the quantity of heat energy available in 1 pound of
+aviation gasoline. A given weight of the fuel is burned in the
+calorimeter, and the heat energy is absorbed by a large quantity
+of water. From the weight of the water and the increase in its
+temperature, it is possible to compute the heat yield of the fuel.
+A definite relationship exists between heat and mechanical
+energy. This relationship has been established and verified by
+many experiments which show that:
+One BTU of heat energy = 778 ft-lb of work
+As discussed earlier in this chapter under the topic “Potential
+Energy,” one pound of aviation gasoline contains 18,900 BTU
+of heat energy. Since each BTU is capable of 778 ft-lb of work,
+1 lb of aviation gasoline is capable of 14,704,200 ft-lb of work.
+Heat Energy and Thermal Efficiency
+Thermal efficiency is the relationship between the potential
+for power contained in a specific heat source, and how much
+usable power is created when that heat source is used. The
+formula for calculating thermal efficiency is:
+Thermal Efficiency =
+Horsepower Produced ÷ Potential Horsepower in Fuel
+For example, consider the piston engine used in a small
+general aviation airplane, which typically consumes 0.5
+lb of fuel per hour for each horsepower it creates. Imagine
+that the engine is creating 200 hp. If we multiply 0.5 by the
+horsepower of 200, we find the engine is consuming 100 lb of
+fuel per hour, or 1.67 lb per minute. Earlier in this chapter, one
+horsepower was found to be 33,000 ft-lb of work per minute.
+The potential horsepower in the fuel burned for this example
+engine would be:
+Hp =
+
+1.67 lb/minute × 18,900 BTU/lb × 778 ft lb/BTU
+33,000 ft-lb/min
+
+Hp = 744
+The example engine is burning enough fuel that it has the
+potential to create 744 horsepower, but it is only creating 200.
+The thermal efficiency of the engine would be:
+Thermal Efficiency = Hp Produced ÷ Hp in Fuel
+		= 200 ÷ 744
+		= .2688 or 26.88%
+More than 70 percent of the energy in the fuel is not being
+used to create usable horsepower. The wasted energy is in
+
+the form of friction and heat. A tremendous amount of heat
+is given up to the atmosphere and not used inside the engine
+to create power.
+Heat Transfer
+There are three methods by which heat is transferred from one
+location to another or from one substance to another. These
+three methods are conduction, convection, and radiation.
+
+Conduction
+Heat transfer always takes place by areas of high heat energy
+migrating to areas of low heat energy. Heat transfer by
+conduction requires that there be physical contact between
+an object that has a large amount of heat energy and one that
+has a smaller amount of heat energy.
+Everyone knows from experience that the metal handle of
+a heated pan can burn the hand. A plastic or wood handle,
+however, remains relatively cool even though it is in direct
+contact with the pan. The metal transmits the heat more
+easily than the wood because it is a better conductor of heat.
+Different materials conduct heat at different rates. Some
+metals are much better conductors of heat than others.
+Aluminum and copper are used in pots and pans because
+they conduct heat very rapidly. Woods and plastics are used
+for handles because they conduct heat very slowly.
+Figure 5-27 illustrates the different rates of conduction of
+various metals. Of those listed, silver is the best conductor
+and lead is the poorest. As mentioned previously, copper and
+aluminum are used in pots and pans because they are good
+conductors. It is interesting to note that silver, copper, and
+aluminum are also excellent conductors of electricity.
+Liquids are poorer conductors of heat than metals. Notice
+that the ice in the test tube shown in Figure 5-28 is not
+melting rapidly even though the water at the top is boiling.
+The water conducts heat so poorly that not enough heat
+reaches the ice to melt it.
+Gases are even poorer conductors of heat than liquids. It is
+possible to stand quite close to a stove without being burned
+because air is such a poor conductor. Since conduction is a
+process whereby the increase in molecular energy is passed
+along by actual contact, gases are poor conductors.
+At the point of application of the heat source, the molecules
+become violently agitated. These molecules strike adjacent
+molecules causing them to become agitated. This process
+continues until the heat energy is distributed evenly
+throughout the substance. The gases are much poorer
+conductors of heat because molecules are farther apart in
+gases than in solids.
+5-19
+
+===== PDF PAGE 169 =====
+Materials that are poor conductors are used to prevent the
+transfer of heat and are called heat insulators. A wooden
+handle on a pot or a soldering iron serves as a heat insulator.
+Certain materials, such as finely spun glass or asbestos,
+are particularly poor heat conductors. These materials are
+therefore used for many types of insulation.
+
+1.10
+
+Convection
+
+0.60
+
+A convection process may take place in a liquid as well as in
+a gas. A good example of this is a pan of water sitting on the
+stove. The bottom of the pan becomes hot because it conducts
+heat from the surface it is in contact with. The water on the
+bottom of the pan also heats up because of conduction. As
+the heated water starts to rise and cooler water moves in to
+take its place, the convection process begins.
+When the circulation of gas or liquid is not rapid enough to
+remove sufficient heat, fans or pumps are used to accelerate
+the motion of the cooling material. In some installations,
+pumps are used to circulate water or oil to help cool large
+equipment. In airborne installations, electric fans and blowers
+are used to aid convection.
+An aircraft air-cooled piston engine is a good example of
+convection being used to transfer heat. The engine shown in
+Figure 5-29 is a Continental IO-520, with six heavily finned
+air-cooled cylinders. This engine does not depend on natural
+convection for cooling, but rather forced air convection
+coming from the propeller on the engine. The heat generated
+inside the engine finds its way to the cylinder cooling fins by
+conduction, meaning transfer within the metal of the cylinder.
+Once the heat gets to the fins, forced air flowing around the
+cylinders carries the heat away.
+
+Radiation
+Conduction and convection cannot wholly account for some
+of the phenomena associated with heat transfer. For example,
+the heat one feels when sitting in front of an open fire cannot
+
+0.94
+
+0.90
+0.80
+0.70
+
+COPPER
+
+0.50
+
+0
+
+0.22
+
+MAGNESIUM
+
+0.08
+
+0.10
+
+IRON
+
+0.18
+
+0.20
+
+NICKEL
+
+0.30
+
+ALUMINUM
+
+0.37
+
+0.40
+
+SILVER
+
+0.57
+
+LEAD
+
+Convection is the process by which heat is transferred by
+movement of a heated fluid (gas or liquid). For example,
+an incandescent light bulb will, when heated, become
+increasingly hotter until the air surrounding it begins to move.
+The motion of the air is upward. This upward motion of the
+heated air carries the heat away from the hot light bulb by
+convection. Transfer of heat by convection may be hastened
+by using a ventilating fan to move the air surrounding a hot
+object. The rate of cooling of a hot electronics component,
+such as the CPU in a computer, can be increased if it is
+provided with copper fins that conduct heat away from the
+hot surface. The fins provide large surfaces against which
+cool air can be blown.
+
+1.00
+
+1.00
+
+Figure 5-27. Conductivity of various metals.
+
+be transferred by convection because the air currents are
+moving toward the fire. It cannot be transferred through
+conduction because the conductivity of the air is very small,
+and the cooler currents of air moving toward the fire would
+more than overcome the transfer of heat outward. Therefore,
+there must be some way for heat to travel across space other
+than by conduction and convection.
+The existence of another process of heat transfer is still more
+evident when the heat from the sun is considered. Since
+conduction and convection take place only through some
+medium, such as a gas or a liquid, heat from the sun must
+reach the earth by another method, since space is an almost
+perfect vacuum. Radiation is the name given to this third
+method of heat transfer.
+Steam
+Boiling water
+Water
+Ice
+
+Metal ring to keep
+ice from rising
+
+Figure 5-28. Water as a poor conductor.
+
+5-20
+
+===== PDF PAGE 170 =====
+The term “radiation” refers to the continual emission of
+energy from the surface of all bodies. This energy is known
+as “radiant energy.” It is in the form of electromagnetic
+waves, radio waves, or x-rays, which are all alike except
+for a difference in wave length. These waves travel at the
+velocity of light and are transmitted through a vacuum more
+easily than through air because air absorbs some of them.
+Most forms of energy can be traced back to the energy of
+sunlight. Sunlight is a form of radiant heat energy that travels
+through space to reach the earth. These electromagnetic
+heat waves are absorbed when they come in contact with
+nontransparent bodies. The result is that the motion of the
+molecules in the body is increased as indicated by an increase
+in the temperature of the body.
+The differences between conduction, convection, and radiation
+may now be considered. First, although conduction and
+convection are extremely slow, radiation takes place at the
+speed of light. This fact is evident at the time of an eclipse of
+the sun when the shutting off of the heat from the sun takes
+place at the same time as the shutting off of the light. Second,
+radiant heat may pass through a medium without heating
+it. In application, the air inside a greenhouse may be much
+warmer than the glass through which the sun’s rays pass. Third,
+although heat transfer by conduction or convection may travel
+in roundabout routes, radiant heat always travels in a straight
+line. For example, radiation can be cut off with a screen placed
+between the source of heat and the body to be protected.
+Specific Heat
+One important way in which substances differ is in the
+requirement of different quantities of heat to produce the
+same temperature change in a given mass of the substance.
+Each substance requires a quantity of heat, called its specific
+heat capacity, to increase the temperature of a unit of its
+mass 1 °C. The specific heat of a substance is the ratio of its
+specific heat capacity to the specific heat capacity of water.
+Specific heat is expressed as a number which, because it is
+a ratio, has no units and applies to both the English and the
+metric systems.
+It is fortunate that water has a high specific heat capacity.
+The larger bodies of water on the earth keep the air and
+solid matter on or near the surface of the earth at a constant
+temperature. A great quantity of heat is required to change
+the temperature of a large lake or river. Therefore, when
+the temperature falls below that of such bodies of water,
+they give off large quantities of heat. This process keeps
+the atmospheric temperature at the surface of the earth from
+changing rapidly.
+The specific heat values of some common materials are listed
+in Figure 5-30.
+
+Figure 5-29. Aircraft piston engine cooled by convection.
+
+Temperature
+Temperature is a dominant factor affecting the physical
+properties of fluids. It is of particular concern when
+calculating changes in the state of gases.
+The three temperature scales used extensively are the
+Centigrade, the Fahrenheit, and the absolute or Kelvin scales.
+The Centigrade scale is constructed by using the freezing and
+boiling points of water, under standard conditions, as fixed
+points of zero and 100, respectively, with 100 equal divisions
+between. The Fahrenheit scale uses 32° as the freezing point
+of water and 212° as the boiling point, and has 180 equal
+divisions between. The absolute or Kelvin scale is constructed
+with its zero point established as minus 273 °C, meaning
+273° below the freezing point of water. The relationships of
+the other fixed points of the scales are shown in Figure 5-31.
+When working with temperatures, always make sure which
+system of measurement is being used and know how to
+convert from one to another. The conversion formulas are
+as follows:
+Degrees Fahrenheit = (1.8 × Degrees Celsius) + 32
+Degrees Celsius = (Degrees Fahrenheit – 32) × 5⁄9
+Degrees Kelvin = Degrees Celsius + 273
+Degrees Rankine = Degrees Fahrenheit + 460
+For purposes of calculations, the Rankine scale is commonly
+used to convert Fahrenheit to absolute. For Fahrenheit
+readings above zero, 460° is added. Thus, 72 °F equals
+460° plus 72°, or 532° absolute. If the Fahrenheit reading is
+below zero, it is subtracted from 460°. Thus −40 °F equals
+460° minus 40°, or 420° absolute. It should be stressed that
+the Rankine scale does not indicate absolute temperature
+readings in accordance with the Kelvin scale, but these
+conversions may be used for the calculations of changes in
+
+5-21
+
+===== PDF PAGE 171 =====
+the state of gases.
+The Kelvin and Centigrade scales are used more extensively
+in scientific work; therefore, some technical manuals may use
+these scales in giving directions and operating instructions.
+The Fahrenheit scale is commonly used in the United States,
+and most people are familiar with it. Therefore, the Fahrenheit
+scale is used in most areas of this book.
+Thermal Expansion/Contraction
+Thermal expansion takes place in solids, liquids, and
+gases when they are heated. With few exceptions, solids
+will expand when heated and contract when cooled. The
+expansion of solids when heated is very slight in comparison
+to the expansion in liquids and gases because the molecules
+of solids are much closer together and are more strongly
+attracted to each other. The expansion of fluids is discussed
+in the study of Boyle’s law. Thermal expansion in solids must
+be explained in some detail because of its close relationship
+to aircraft metals and materials.
+It is necessary to measure experimentally the exact rate of
+expansion of each one because some substances expand more
+than others. The amount that a unit length of any substance
+expands for a one degree rise in temperature is known as
+the coefficient of linear expansion for that substance. The
+coefficient of linear expansion for various materials is shown
+in Figure 5-32.
+To estimate the expansion of any object, such as a steel rail,
+it is necessary to know three things about it: its length, the
+rise in temperature to which it is subjected, and its coefficient
+of expansion. This relationship is expressed by the equation:
+Expansion = (coefficient) × (length) × (rise in temperature)
+If a steel rod measures exactly 9 ft at 21 °C, what is its length
+at 55 °C? The coefficient of expansion for steel is 11 × 10−6.
+Material
+
+Specific Heat
+
+Lead
+
+0.031
+
+Mercury
+
+0.033
+
+Brass
+
+0.094
+
+Copper
+
+0.095
+
+Iron or Steel
+
+0.113
+
+Glass
+
+0.195
+
+Alcohol
+
+0.547
+
+Aluminum
+
+0.712
+
+Water
+
+1.000
+
+Figure 5-30. Specific heat value for various substances.
+
+Expansion = (11 × 10−6) × (9 feet) × 34°
+Expansion = 0.003366 feet
+This amount, when added to the original length of the rod,
+makes the rod 9.003366 ft long. Its length has only increased
+by 4⁄100 of an inch.
+The increase in the length of the rod is relatively small, but
+if the rod were placed where it could not expand freely,
+there would be a tremendous force exerted due to thermal
+expansion. Thus, thermal expansion must be taken into
+consideration when designing airframes, power plants, or
+related equipment.
+
+Pressure
+Pressure is the amount of force acting on a specific amount
+of surface area. The force is typically measured in pounds
+and the surface area in square inches, making the units of
+pressure pounds per square inch or psi. If a 100-lb weight
+was placed on top of a block with a surface area of 10 in2,
+the average weight distribution would be 10 lb for each of
+the square inches (100 ÷ 10), or 10 psi.
+When atmospheric pressure is being measured, in addition
+to psi, other means of pressure measurement can be used.
+These include inches or millimeters of mercury, and millibars.
+Standard day atmospheric pressure is equal to 14.7 psi,
+29.92 inches of mercury ("Hg), 760 millimeters of mercury
+(mm hg), or 1013.2 millibars. The relationship between these
+units of measure is as follows:
+1 psi = 2.04 "Hg
+1 psi = 51.7 mm Hg
+1 psi = 68.9 millibars
+The concept behind measuring pressure in inches of mercury
+
+100
+
+373
+
+212
+
+672 Pure water boils
+
+0
+
+273
+
+32
+
+492 Pure water freezes
+
+−273
+
+0
+
+−460
+
+0
+
+Celsius
+(centigrade)
+
+Kelvin
+
+Fahrenheit
+
+Molecular motion
+ceases at absolute
+zero
+
+Rankine
+
+Figure 5-31. Comparison of temperature scales.
+
+5-22
+
+===== PDF PAGE 172 =====
+involves filling a test tube with the liquid mercury and then
+covering the top. The test tube is then turned upside down
+and placed in an open container of mercury, and the top is
+uncovered. Gravity acting on the mercury in the test tube
+will try to make the mercury run out. Atmospheric pressure
+pushing down on the mercury in the open container tries to
+make the mercury stay in the test tube. At some point these two
+forces, gravity and atmospheric pressure, will equal out and
+the mercury will stabilize at a certain height in the test tube.
+Under standard day atmospheric conditions, the air in a 1-in2
+column extending all the way to the top of the atmosphere
+would weigh 14.7 lb. A 1 in2 column of mercury, 29.92
+inches tall, would also weigh 14.7 lb. That is why 14.7 psi
+is equal to 29.92 "Hg. Figure 5-33 demonstrates this point.
+Gauge Pressure
+A gauge pressure (psig) is a reading that refers to when an
+instrument, such as an oil pressure gauge, fuel pressure gauge,
+or hydraulic system pressure gauge, displays pressure which
+is over and above ambient. This can be seen on the fuel
+pressure gauge shown in Figure 5-34. When the oil, fuel, or
+hydraulic pump is not turning, and there is no pressure being
+created, the gauge will read zero.
+Absolute Pressure
+A gauge that includes atmospheric pressure in its reading
+is measuring what is known as absolute pressure, or psia.
+Absolute pressure is equal to gauge pressure plus atmospheric
+pressure. If someone hooked up a psia indicating instrument
+to an engine’s oil system, the gauge would read atmospheric
+pressure when the engine was not running. Since this would
+not make good sense to the typical operator, psia gauges are not
+used in this type of application. For the manifold pressure on
+a piston engine, a psia gauge does make good sense. Manifold
+pressure on a piston engine can read anywhere from less than
+atmospheric pressure if the engine is not supercharged, to more
+Substance
+
+Coefficient of Expansion
+Per Degree Centigrade
+
+Aluminum
+
+25 x 10–6
+
+Brass or Bronze
+
+19 x 10–6
+
+Brick
+
+9 x 10–6
+
+Copper
+
+17 x 10–6
+
+Glass (Plate)
+
+9 x 10
+
+Glass (Pyrex)
+
+3 x 10–6
+
+Ice
+
+51 x 10–6
+
+Iron or Steel
+
+11 x 10–6
+
+Lead
+
+29 x 10–6
+
+Quartz
+
+0.4 x 10–6
+
+Silver
+
+19 x 10–6
+
+–6
+
+Figure 5-32. Coefficient of expansion for various materials.
+
+than atmospheric if it is supercharged. The only gauge that has
+the flexibility to show this variety of readings is the absolute
+pressure gauge. Figure 5-35 shows a manifold pressure gauge,
+with a readout that ranges from 10 "Hg to 35 "Hg. Remember
+that 29.92 "Hg is standard day atmospheric.
+Differential Pressure
+Differential pressure, or psid, is the difference between
+pressures being read at two different locations within a
+system. For example, in a turbine engine oil system the
+pressure is read as it enters the oil filter, and as it leaves the
+filter. These two readings are sent to a transmitter which
+powers a light located on the flight deck. Across anything
+that poses a resistance to flow, like an oil filter, there will
+be a drop in pressure. If the filter starts to clog, the pressure
+drop will become greater, eventually causing the advisory
+light on the flight deck to come on.
+Figure 5-36 shows a differential pressure gauge for the
+pressurization system on a Boeing 737. In this case, the
+difference in pressure is between the inside and the outside
+of the airplane. If the pressure difference becomes too great,
+the structure of the airplane could become overstressed.
+
+Gas Laws
+The simple structure of gases makes them readily adaptable
+to mathematical analysis from which has evolved a detailed
+theory of the behavior of gases. This is called the kinetic theory
+of gases. The theory assumes that a body of gas is composed of
+identical molecules which behave like minute elastic spheres,
+spaced relatively far apart and continuously in motion.
+The degree of molecular motion is dependent upon the
+temperature of the gas. Since the molecules are continuously
+striking against each other and against the walls of the
+container, an increase in temperature with the resulting
+increase in molecular motion causes a corresponding
+increase in the number of collisions between the molecules.
+The increased number of collisions results in an increase in
+pressure because a greater number of molecules strike against
+the walls of the container in a given unit of time.
+If the container were an open vessel, the gas would expand
+and overflow from the container. However, if the container
+is sealed and possesses elasticity, such as a rubber balloon,
+the increased pressure causes the container to expand. For
+instance, when making a long drive on a hot day, the pressure
+in the tires of an automobile increases, and a tire which
+appeared to be somewhat “soft” in cool morning temperature
+may appear normal at a higher midday temperature.
+Such phenomena as these have been explained and set forth
+in the form of laws pertaining to gases and tend to support
+5-23
+
+===== PDF PAGE 173 =====
+Vacuum
+
+14.7 psi
+Atmospheric
+pressure
+
+760 mm
+29.92 in
+
+kept constant and the absolute pressure doubled, the volume
+was reduced to half the former value. As the applied absolute
+pressure was decreased, the resulting volume increased.
+From these observations, he concluded that for a constant
+temperature the product of the volume and absolute pressure
+of an enclosed gas remains constant. Boyle’s law is normally
+stated: “The volume of an enclosed dry gas varies inversely
+with its absolute pressure, provided the temperature remains
+constant.” The following formula is used for Boyle’s law
+calculations. Remember, pressure needs to be in the absolute.
+Volume 1 × Pressure 1 = Volume 2 × Pressure 2
+or
+V1P1 = V2P2
+Example: 10 ft3 of nitrogen is under a pressure of 500 psia.
+If the volume is reduced to 7 ft3, what will the new pressure
+be? [Figure 5-37]
+
+Figure 5-33. Atmospheric pressure as inches of mercury.
+
+the kinetic theory.
+Boyle’s Law
+As previously stated, compressibility is an outstanding
+characteristic of gases. The English scientist, Robert Boyle,
+was among the first to study this characteristic that he called
+the “springiness of air.” By direct measurement he discovered
+that when the temperature of a combined sample of gas was
+
+40
+
+50
+
+V1P1 = V2P2
+10 (500) = 7 (P2)
+10 (500) ÷ 7 = P2
+P2 = 714.29 psia
+The useful applications of Boyle’s law are many and varied.
+Some applications more common to aviation are: (1) the
+carbon dioxide (CO2) bottle used to inflate life rafts and life
+vests; (2) the compressed oxygen and the acetylene tanks
+used in welding; (3) the compressed air brakes and shock
+absorbers; and (4) the use of oxygen tanks for high altitude
+flying and emergency use.
+
+35
+
+60
+
+30
+
+70
+
+30
+20
+
+80
+
+10
+
+90
+
+0
+
+29.5
+psi
+
+25
+Man.
+Press.
+("Hg)
+
+20
+
+100
+
+Figure 5-34. Psig read on a fuel pressure gauge.
+
+(
+
+Fuel
+Flow
+
+Gal/
+
+26
+24
+22
+20
+18
+
+)
+
+14
+
+Hr
+
+10
+
+4.0 i
+ps
+
+15
+Fuel Pressure
+Psi
+
+30 28
+
+10
+
+6
+
+Figure 5-35. Manifold pressure gauge indicating absolute pressure.
+
+5-24
+
+===== PDF PAGE 174 =====
+10
+
+40
+
+10
+
+30
+
+3
+
+X 1000 FT
+
+25
+
+15
+
+20
+
+7
+
+4
+
+6
+
+Pressure 2 (Volume 2)
+Temperature
+
+3
+4
+
+When using the general gas law formula, temperature and
+pressure must be in the absolute.
+
+M
+
+0
+
+0
+
+.5
+
+=
+
+or
+P1 (V1) (T2) = P2 (V2) (T1)
+
+IN
+
+CA
+
+B
+
+CLIM
+IN
+
+10
+
+DN
+
+Pressure 1 (Volume 1)
+Temperature 1
+
+2
+
+1
+.5
+
+UP
+
+0
+
+General Gas Law
+By combining Boyle’s and Charles’ laws, a single expression
+can be derived which states all the information contained in
+both. The formula which is used to express the general gas
+law is as follows:
+
+5
+
+B
+
+PRESSURE
+DIFFERENCE
+LIMIT:
+TAKE-OFF &
+LOG 0.125 PSI
+
+2
+
+5
+
+CABIN
+AIR
+
+35
+
+8
+
+ALT
+HORN
+CUT-OUT
+
+1
+
+0
+
+50
+
+9
+
+Pressurization
+system differential
+pressure gauge
+
+PRESS 0
+DEF
+PSI
+
+FE
+
+ET PE
+
+1
+
+R
+
+3
+2
+
+Figure 5-36. Differential pressure gauge.
+
+Charles’ Law
+The French scientist, Jacques Charles, provided much of the
+foundation for the modern kinetic theory of gases. He found
+that all gases expand and contract in direct proportion to the
+change in the absolute temperature, provided the pressure is
+held constant. As a formula, this law is shown as follows:
+Volume 1 × Absolute Temperature 2 =
+Volume 2 × Absolute Temperature 1
+or
+V1T2 = V2T1
+Charles’ law also works if the volume is held constant, and
+pressure and temperature are the variables. In this case, the
+formula would be as follows:
+
+Example: 20 ft3 of the gas argon is compressed to 15 ft3.
+The gas starts out at a temperature of 60 °F and a pressure of
+1,000 psig. After being compressed, its temperature is 90 °F.
+What would its new pressure be in psig?
+60 degrees Fahrenheit = 520 degrees Rankine
+90 degrees Fahrenheit = 550 degrees Rankine
+1,000 psig + 14.7 = 1,014.7 psia
+P1 (V1) (T2) = P2 (V2) (T1)
+1,014.7 (20) (550) = P2 (15) (520)
+P2 = 1,431 psia
+P2 = 1,416.3 psig
+Dalton’s Law
+If a mixture of two or more gases that do not combine
+chemically is placed in a container, each gas expands
+throughout the total space and the absolute pressure of each
+gas is reduced to a lower value, called its partial pressure. This
+Force pushing down on gas
+
+P1T2 = P2T1
+For this second formula, pressure and temperature must be
+in the absolute.
+Example: A 15-ft3 cylinder of oxygen is at a temperature of
+70 °F and a pressure of 750 psig. The cylinder is placed in the
+sun and the temperature of the oxygen increases to 140 °F.
+What would be the new pressure in psig?
+70 degrees Fahrenheit = 530 degrees Rankine
+140 degrees Fahrenheit = 600 degrees Rankine
+750 psig + 14.7 = 764.7 psia
+P1T2 = P2T1
+764.7 (600) = P2 (530)
+P2 = 764.7 (600) ÷ 530
+P2 = 865.7 psia
+P2 = 851 psig
+
+Pressure
+increasing
+
+Temperature
+held constant
+
+Figure 5-37. Boyle’s law example.
+
+5-25
+
+===== PDF PAGE 175 =====
+reduction is in accordance with Boyle’s law. The pressure of
+the mixed gases is equal to the sum of the partial pressures.
+This fact was discovered by Dalton, an English physicist,
+and is set forth in Dalton’s law: “A mixture of several gases
+which do not react chemically exerts a pressure equal to the
+sum of the pressures which the several gases would exert
+separately if each were allowed to occupy the entire space
+alone at the given temperature.”
+
+The amount of buoyant force available to an object can be
+calculated by using the following formula:
+
+Fluid Mechanics
+
+Example: A 10-ft3 object weighing 700 lb is placed in pure
+water. Will the object float? If the object sinks, what is
+its measurable weight in the submerged condition? If the
+object floats, how many cubic feet of its volume is below
+the water line?
+
+By definition, a fluid is any substance that is able to flow if it
+is not in some way confined or restricted. Liquids and gases
+are both classified as fluids, and often act in a very similar
+way. One significant difference comes into play when a
+force is applied to these fluids. In this case, liquids tend
+to be incompressible and gases are highly compressible.
+Many of the principles that aviation is based on, such as
+the theory of lift on a wing and the force generated by a
+hydraulic system, can be explained and quantified by using
+the laws of fluid mechanics.
+Buoyancy
+A solid body submerged in a liquid or a gas weighs less than
+when weighed in free space. This is because of the upward
+force, called buoyant force, which any fluid exerts on a body
+submerged in it. An object will float if this upward force of the
+fluid is greater than the weight of the object. Objects denser
+than the fluid, even though they sink readily, appear to lose
+a part of their weight when submerged. A person can lift a
+larger weight under water than they can possibly lift in the air.
+The following experiment is illustrated in Figure 5-38. The
+overflow can is filled to the spout with water. The heavy
+metal cube is first weighed in still air and weighs 10 lb. It is
+then weighed while completely submerged in the water and
+it weighs 3 lb. The difference between the two weights is
+the buoyant force of the water. As the cube is lowered into
+the overflow can, the water is caught in the catch bucket.
+The volume of water which overflows equals the volume
+of the cube. The volume of irregular shaped objects can
+also be measured by using this method. If this experiment
+is performed carefully, the weight of the water displaced by
+the metal cube exactly equals the buoyant force of the water,
+which the scale shows to be 7 lb.
+Archimedes (287–212 B.C.) performed similar experiments.
+As a result, he discovered that the buoyant force which a fluid
+exerts upon a submerged body is equal to the weight of the fluid
+the body displaces. This statement is referred to as Archimedes’
+principle. This principle applies to all fluids, gases as well as
+liquids. Just as water exerts a buoyant force on submerged
+objects, air exerts a buoyant force on objects submerged in it.
+
+Buoyant Force = Volume of Object × Density of Fluid Displaced
+If the buoyant force is more than the object weighs, the object
+will float. If the buoyant force is less than the object weighs,
+the object will sink. For the object that sinks, its measurable
+weight will be less by the weight of the displaced fluid.
+
+Buoyant Force = Volume of Object × Density of Fluid Displaced
+= 10 (62.4)
+= 624 lb
+The object will sink because the buoyant force is less than the
+object weighs. The difference between the buoyant force and
+the object’s weight will be its measurable weight, or 76 lb.
+Two good examples of buoyancy are a helium filled
+airship and a seaplane on floats. An airship is able to float
+in the atmosphere and a seaplane is able to float on water.
+That means both have more buoyant force than weight.
+Figure 5-39 is a DeHavilland Twin Otter seaplane, with a
+gross takeoff weight of 12,500 lb. At a minimum, the floats
+on this airplane must be large enough to displace a weight
+in water equal to the airplane’s weight. According to Title
+14 of the Code of Federal Regulations (14 CFR) part 23, the
+floats must be 80 percent larger than the minimum needed
+to support the airplane. For this airplane, the necessary size
+of the floats would be calculated as follows:
+Divide the airplane weight by the density of water.
+12,500 ÷ 62.4 = 200.3 ft3
+Multiply this volume by 80%.
+200.3 × 80% = 160.2 ft3
+Add the two volumes together to get the total volume of
+the floats.
+200.3 + 160.2 = 360.5 ft3
+By looking at the Twin Otter in Figure 5-39, it is obvious
+that much of the volume of the floats is out of the water. This
+is accomplished by making sure the floats have at least 80
+percent more volume than the minimum necessary.
+Some of the large Goodyear airships have a volume of
+230,000 ft3. Since the fluid they are submerged in is air,
+5-26
+
+===== PDF PAGE 176 =====
+to find the buoyant force of the airship, the volume of the
+airship is multiplied by the density of air (.07651 lb⁄ft ). For this
+Goodyear airship, the buoyant force is 17,597 lb. Figure 5-40
+shows an inside view of the Goodyear airship.
+3
+
+The forward and aft ballonets are air chambers within the
+airship. Through the air scoop, air can be pumped into
+the ballonets or evacuated from the ballonets in order to
+control the weight of the airship. Controlling the weight of
+the airship controls how much positive or negative lift it
+has. Although the airship is classified as a lighter-than-air
+aircraft, it is in fact flown in a condition slightly heavier
+than air.
+Fluid Pressure
+The pressure exerted on the bottom of a container by a
+liquid is determined by the height of the liquid and not by
+the shape of the container. This can be seen in Figure 5-41,
+where three different shapes and sizes of containers are full
+of colored water. Even though they are different shapes and
+have different volumes of liquid, each one has a height of
+231 inches. Each one would exert a pressure on the bottom
+of 8.34 psi because of this height. The container on the left,
+with a surface area of 1 in2, contains a volume of 231 in3
+(one gallon). One gallon of water weighs 8.34 lb, which is
+why the pressure on the bottom is 8.34 psi.
+
+3
+
+Still thinking about Figure 5-41, if the pressure was measured
+half way down, it would be half of 8.34, or 4.17 psi. In other
+words, the pressure is adjustable by varying the height of the
+column. Pressure based on the column height of a fluid is
+known as static pressure. With liquids, such as gasoline, it
+is sometimes referred to as a head of pressure. For example,
+if a carburetor needs to have 2 psi supplied to its inlet, or
+head of pressure, this could be accomplished by having the
+fuel tank positioned the appropriate number of inches higher
+than the carburetor.
+As identified in the previous paragraph, pressure due to the
+height of a fluid column is known as static pressure. When
+a fluid is in motion, and its velocity is converted to pressure,
+that pressure is known as ram. When ram pressure and static
+pressure are added together, the result is known as total
+pressure. In the inlet of a gas turbine engine, for example,
+total pressure is often measured to provide a signal to the
+fuel metering device or to provide a signal to a gauge on
+the flight deck.
+Pascal’s Law
+The foundations of modern hydraulics and pneumatics were
+established in 1653 when Pascal discovered that pressure set
+up in a fluid acts equally in all directions. This pressure acts
+at right angles to containing surfaces. When the pressure in
+the fluid is caused solely by the fluid’s height, the pressure
+against the walls of the container is equal at any given level,
+but it is not equal if the pressure at the bottom is compared to
+the pressure half way down. The concept of the pressure set
+up in a fluid, and how it relates to the force acting on the fluid
+and the surface area through which it acts, is Pascal’s law.
+In Figure 5-41, if a piston is placed at the top of the cylinder
+and an external force pushes down on the piston, additional
+pressure will be created in the liquid. If the additional pressure
+is 100 psi, this 100 psi will act equally and undiminished
+from the top of the cylinder all the way to the bottom. The
+
+10
+
+Catch
+bucket
+
+lb
+0.11
+
+cu'
+
+0.11 cu'
+
+Overflow can
+
+Figure 5-38. Example of buoyancy.
+
+7
+
+Figure 5-39. DeHavilland Twin Otter seaplane.
+
+5-27
+
+===== PDF PAGE 177 =====
+gauge at the bottom will now read 108.34 psi, and if a gauge
+were positioned half way down the cylinder, it would read
+104.17 psi, which is found by adding 100 plus half of 8.34.
+Pascal’s law, when dealing with the variables of force, pressure,
+and area, is dealt with by way of the following formula.
+
+Each container is filled with colored water to a height of 231 inches.
+
+1 in2
+
+100 in2
+
+150 in2
+
+Force = Pressure × Area
+In this formula, the force is in units of pounds, the pressure
+is in pounds per square inch (psi), and the area is in square
+inches. By transposing the original formula, we have two
+additional formulas, as follows:
+Pressure = Force ÷ Area
+and
+Area = Force ÷ Pressure
+An easy and convenient way to remember the formulas for
+Pascal’s law, and the relationship between the variables, is
+with the triangle shown in Figure 5-42. If the variable we
+want to solve for is covered up, the position of the remaining
+two variables shows the proper math relationship. For
+example, if the “A,” or area, is covered up, what remains is
+the “F” on the top and the “P” on the bottom, meaning force
+divided by pressure.
+The simple hydraulic system in Figure 5-43 has 5 lb force
+acting on a piston with a 1⁄2-in2 surface area. Based on Pascal’s
+law, the pressure in the system would be equal to the force
+applied divided by the area of the piston, or 10 psi. As shown
+in Figure 5-43, the pressure of 10 psi is present everywhere
+in the fluid.
+The hydraulic system in Figure 5-44 is a little more complex
+than the one in Figure 5-43. In Figure 5-44, the input force
+of 5 lb is acting on a 1⁄2-in2 piston, creating a pressure of
+10 psi. The input cylinder and piston is connected to a second
+Suspension cables
+Nose cone support
+
+Neoprene cover
+
+Light sign
+Control surfaces
+
+Air valves
+Forward balloonet
+Passenger car
+
+Engines
+
+Aft balloonet
+
+Air scoops
+
+Figure 5-40. The Goodyear Airship and buoyancy.
+
+Each pressure gauge reads 8.34 psi
+
+Figure 5-41. Fluid pressure based on column height.
+
+cylinder, which contains a 5-in2 piston. The pressure of 10 psi
+created by the input piston pushes on the piston in the second
+cylinder, creating an output force of 50 pounds.
+Often, the purpose of a hydraulic system is to generate a
+large output force, with the input force being much less.
+In Figure 5-44, the input force is 5 lb and the output force
+is 50 lb, or 10 times greater. The relationship between
+the output force and the input force, as discussed earlier
+in this chapter, is known as mechanical advantage. The
+mechanical advantage in Figure 5-44 would be 50 divided
+by 5, or 10. The following formulas can be used to calculate
+mechanical advantage.
+Mechanical Advantage = Force Out ÷ Force In
+or
+Mechanical Advantage = Distance Out ÷ Distance In
+Earlier in this chapter when simple machines, such as levers
+and gears were discussed, it was identified that no machine
+allows us to gain work. The same statement holds true for a
+hydraulic system, that we get no more work out of a hydraulic
+system than we put in. Since work is equal to force times
+distance, if we gain force with a hydraulic system, we must
+lose distance. We only get the same work out, if the system
+is 100 percent efficient.
+In order to think about the distance that the output piston will
+move in response to the movement of the input piston, the
+5-28
+
+===== PDF PAGE 178 =====
+volume of fluid displaced must be considered. In the study
+of geometry, one learns that the volume of a cylinder is equal
+to the cylinder’s surface area multiplied by its height. So,
+when a piston of 2 in2 moves down in a cylinder a distance of
+10 in, it displaces a volume of fluid equal to 20 in3 (2 in2 ×
+10 in). The 20 in3 displaced by the first piston is what moves
+over to the second cylinder and causes its piston to move.
+In a simple two-piston hydraulic system, the relationship
+between the piston area and the distance moved is shown
+by the following formula.
+Input Piston Area (Distance Moved) =
+Output Piston Area (Distance Moved)
+This formula shows that the volume in is equal to the volume
+out. This concept is shown in Figure 5-45, where a small input
+piston moves a distance of 20 inches, and the larger output
+piston only moves a distance of 1 inch.
+Example: A two-piston hydraulic system, like that shown in
+Figure 5-45, has an input piston with an area of 1⁄4 in2 and
+an output piston with an area of 15 in2. An input force of
+50 lb is applied, and the input piston moves 30 inches. What
+is the pressure in the system, how much force is generated
+by the output piston, how far would the output piston move,
+and what is the mechanical advantage?
+Pressure = Force ÷ Area
+		= 50 ÷ 1⁄4
+		= 200 psi
+Force = Pressure × Area
+		= 200 × 15
+		= 3,000 lb
+Mechanical Advantage = Force Out ÷ Force In
+		= 3,000 ÷ 50
+
+10 psi
+10 psi
+
+Force = 5 lb
+
+Piston area = ½ in2
+Pressure = force ÷ area
+Pressure = 5 ÷ ½
+Pressure = 10 psi
+
+Figure 5-43. Pressure created in a hydraulic system.
+
+= 60
+Input Piston Area
+(Distance Moved) = Output Piston Area
+(Distance Moved)
+1
+⁄4 (30) = 15 (Distance Moved)
+1
+⁄4 (30) ÷ 15 = Distance Moved
+Distance Moved = 1⁄2 in
+Part of understanding Pascal’s law and hydraulics involves
+utilizing formulas, and recognizing the relationship
+between the individual variables. Before the numbers are
+plugged into the formulas, it is often possible to analyze
+the variables in the system and come to a realization about
+what is happening. For example, look at the variables in
+Figure 5-45 and notice that the output piston is 20 times
+larger than the input piston, 5 in2 compared to 1⁄4 in2. That
+comparison tells us that the output force will be 20 times
+greater than the input force, and also that the output piston
+will only move 1⁄20 as far. Without doing any formula based
+calculations, we can conclude that the hydraulic system in
+question has a mechanical advantage of 20.
+Bernoulli’s Principle
+Bernoulli’s principle was originally stated to explain the
+action of a liquid flowing through the varying cross-sectional
+
+F
+
+10 psi
+
+Force = 50 lb
+
+50 lb
+
+Force = 5 lb
+Piston area
+= 5 in2
+Piston area = ½ in2
+
+A
+
+P
+
+Force = pressure x area
+Force = 10 psi x5 in2
+Force = 50 lb
+
+10 psi
+
+Figure 5-42. Force, area, pressure relationship.
+
+Figure 5-44. Output force created in a hydraulic system.
+
+5-29
+
+===== PDF PAGE 179 =====
+areas of tubes. In Figure 5-46 a tube is shown in which
+the cross-sectional area gradually decreases to a minimum
+diameter in its center section. A tube constructed in this
+manner is called a “venturi,” or “venturi tube.” Where the
+cross-sectional area is decreasing, the passageway is referred
+to as a converging duct. As the passageway starts to spread
+out, it is referred to as a diverging duct.
+As a liquid, or fluid, flows through the venturi tube, the
+gauges at points “A,” “B,” and “C” are positioned to register
+the velocity and the static pressure of the liquid. The venturi
+in Figure 5-46 can be used to illustrate Bernoulli’s principle,
+which states that: The static pressure of a fluid, liquid or gas,
+decreases at points where the velocity of the fluid increases,
+provided no energy is added to nor taken away from the
+fluid. The velocity of the air is kinetic energy and the static
+pressure of the air is potential energy.
+In the wide section of the venturi (points A and C of
+Figure 5-46), the liquid moves at low velocity, producing a
+high static pressure, as indicated by the pressure gauge. As the
+tube narrows in the center, it must contain the same volume
+of fluid as the two end areas. As indicated by the velocity
+gauge reading high and the pressure gauge reading low, in
+this narrow section, the liquid moves at a higher velocity,
+producing a lower pressure than that at points A and C. A
+good application for the use of the venturi principle is in a
+float-type carburetor. As the air flows through the carburetor
+on its way to the engine, it goes through a venturi, where the
+static pressure is reduced. The fuel in the carburetor, which is
+under a higher pressure, flows into the lower pressure venturi
+area and mixes with the air.
+Bernoulli’s principle is extremely important in understanding
+how some of the systems used in aviation work, including
+how the wing of an airplane generates lift or why the inlet
+duct of a turbine engine on a subsonic airplane is diverging
+in shape. The wing on a slow-moving airplane has a curved
+Distance moved = 1 in
+Distance moved = 20 in
+
+Input piston area = ¼ in2
+
+Output
+piston
+area =
+15 in2
+
+Piston area (distance) = Piston area (distance)
+¼ in2 (20 in) = 5 in (distance)
+5 ÷ 5 = Distance
+Distance = 1 in
+Figure 5-45. Piston movement in a hydraulic system.
+
+top surface and a relatively flat bottom surface. The curved
+top surface acts like half of the converging shaped middle
+of a venturi. As the air flow over the top of the wing, the
+air speeds up, and its static pressure decreases. The static
+pressure on the bottom of the wing is now greater than the
+pressure on the top, and this pressure difference creates the
+lift on the wing. Bernoulli’s principle and the concept of lift
+on a wing are covered in greater depth in “Aircraft Theory
+of Flight” located in this chapter.
+
+Sound
+Sound has been defined as a series of disturbances in matter
+that the human ear can detect. This definition can also be
+applied to disturbances which are beyond the range of human
+hearing. There are three elements which are necessary for the
+transmission and reception of sound. These are the source, a
+medium for carrying the sound, and the detector. Anything
+which moves back and forth, or vibrates, and disturbs the
+medium around it may be considered a sound source.
+An example of the production and transmission of sound
+is the ring of a bell. When the bell is struck and begins to
+vibrate, the particles of the medium, or the surrounding air, in
+contact with the bell also vibrate. The vibrational disturbance
+is transmitted from one particle of the medium to the next,
+and the vibrations travel in a “wave” through the medium
+until they reach the ear. The eardrum, acting as detector, is
+set in motion by the vibrating particles of air, and the brain
+interprets the eardrum’s vibrations as the characteristic sound
+associated with a bell.
+Wave Motion
+Since sound is a wave motion in matter, it can best be
+understood by first considering water waves, like a series
+of circular waves travel away from the disturbance of an
+object thrown into a pool. In Figure 5-47 such waves are
+seen from a top perspective, with the waves traveling
+out from the center. In the cross-section perspective in
+Figure 5-47, notice that the water waves are a succession
+of crests and troughs. The wavelength is the distance from
+the crest of one wave to the crest of the next. Water waves
+are known as transverse waves because the motion of the
+water molecules is up and down, or at right angles to the
+direction in which the waves are traveling. This can be seen
+by observing a cork on the water, bobbing up and down as
+the waves pass by.
+Sound travels through matter in the form of longitudinal wave
+motions. These waves are called longitudinal waves because the
+particles of the medium vibrate back and forth longitudinally
+in the direction of propagation. [Figure 5-48] When the
+tine of a tuning fork moves in an outward direction, the air
+immediately in front of the tine is compressed so that its
+5-30
+
+===== PDF PAGE 180 =====
+momentary pressure is raised above that at other points in the
+surrounding medium. Because air is elastic, this disturbance
+is transmitted progressively in an outward direction from the
+tine in the form of a compression wave.
+
+in lead at 20 °C, despite the fact that lead is much denser
+than aluminum. The reason for such exceptions is found in
+the fact, mentioned above, that sound velocity depends on
+elasticity as well as density.
+
+When the tine returns and moves in an inward direction,
+the air in front of the tine is rarefied so that its momentary
+pressure is reduced below that at other points in the
+surrounding medium. This disturbance is transmitted in the
+form of a rarefaction, or expansion, wave and follows the
+compression wave through the medium. The progress of
+any wave involves two distinct motions: (1) The wave itself
+moves forward with constant speed, and (2) simultaneously,
+the particles of the medium that convey the wave vibrate
+harmonically. Examples of harmonic motion are the motion
+of a clock pendulum, the balance wheel in a watch, and the
+piston in a reciprocating engine.
+
+Using density as a rough indication of the speed of sound
+in a given substance, it can be stated as a general rule that
+sound travels fastest in solid materials, slower in liquids, and
+slowest in gases. The velocity of sound in air at 0 °C (32 °F)
+is 1,087 fps and increases by 2 fps for each Centigrade degree
+of temperature rise, or 1.1 fps for each degree Fahrenheit.
+
+Speed of Sound
+In any uniform medium, under given physical conditions,
+the sound travels at a definite speed. In some substances, the
+velocity of sound is higher than in others. Even in the same
+medium under different conditions of temperature, pressure,
+and so forth, the velocity of sound varies. Density and
+elasticity of a medium are the two basic physical properties
+which govern the velocity of sound.
+In general, a difference in density between two substances
+is sufficient to indicate which one will be the faster
+transmission medium for sound. For example, sound travels
+faster through water than it does through air at the same
+temperature. However, there are some surprising exceptions
+to this rule of thumb. An outstanding example among these
+exceptions involves comparison of the speed of sound in
+lead and aluminum at the same temperature. Sound travels
+at 16,700 fps in aluminum at 20 °C, and only 4,030 fps
+Velocity
+
+Low
+
+Pressure
+
+High
+
+Low
+
+Velocity
+
+High
+
+Low
+
+“A”
+
+Frequency of Sound
+The term “pitch” is used to describe the frequency of a sound.
+The outstanding recognizable difference between the tones
+produced by two different keys on a piano is a difference in
+pitch. The pitch of a tone is proportional to the number of
+compressions and rarefactions received per second, which
+in turn, is determined by the vibration frequency of the
+sounding source. A good example of frequency is the noise
+generated by a turbofan engine on a commercial airliner. The
+
+Pressure
+
+High
+
+“B”
+
+Mach Number
+In the study of aircraft that fly at supersonic speeds, it is
+customary to discuss aircraft speed in relation to the velocity
+of sound, which is approximately 761 miles per hour (mph)
+at 59 °F. The term “Mach number” has been given to the
+ratio of the speed of an aircraft to the speed of sound, in
+honor of Ernst Mach, an Austrian scientist. If the speed of
+sound at sea level is 761 mph, an aircraft flying at a Mach
+number of 1.2 at sea level would be traveling at a speed of
+761 mph × 1.2 = 913 mph.
+
+Low
+
+High
+
+“C”
+Pressure waves
+traveling outward
+
+Low
+
+High
+
+Velocity
+
+Low
+
+High
+
+Pressure
+
+Figure 5-46. Bernoulli’s principle and a venturi.
+
+Crest
+
+Crest
+
+Round object dropped
+into the water
+
+Trough
+
+Figure 5-47. Relationship between sound and waves in water.
+
+5-31
+
+===== PDF PAGE 181 =====
+high tip speeds of the fan in the front of the engine create
+a high frequency sound, and the hot exhaust creates a low
+frequency sound.
+
+noise, by comparison, would sound twice as loud as the
+jetliner’s engine. Figure 5-49 shows the sound intensity from
+a variety of different sources.
+
+Loudness
+When a bell rings, the sound waves spread out in all directions
+and the sound is heard in all directions. When a bell is struck
+lightly, the vibrations are of small amplitude and the sound
+is weak. A stronger blow produces vibrations of greater
+amplitude in the bell, and the sound is louder. It is evident
+that the amplitude of the air vibrations is greater when the
+amplitude of the vibrations of the source is increased. Hence,
+the loudness of the sound depends on the amplitude of the
+vibrations of the sound waves. As the distance from the
+source increases, the energy in each wave spreads out, and
+the sound becomes weaker.
+
+Doppler Effect
+When sound is coming from a moving object, the object’s
+forward motion adds to the frequency as sensed from the front
+and takes away from the frequency as sensed from the rear.
+This change in frequency is known as the Doppler Effect, and
+it explains why the sound from an airplane seems different as it
+approaches compared to how it sounds as it flies overhead. As
+it approaches, it becomes both louder and higher pitched. As
+it flies away, the loudness and pitch both decrease noticeably.
+If an airplane is flying at or higher than the speed of sound,
+the sound energy cannot travel out ahead of the airplane,
+because the airplane catches up to it the instant it tries to
+leave. The sound energy being created by the airplane piles
+up, and attaches itself to the structure of the airplane. As the
+airplane approaches, a person standing on the ground will not
+be able to hear it until it gets past their position, because the
+sound energy is actually trailing behind the airplane. When
+the sound of the airplane is heard, it will be in the form of
+what is called a sonic boom.
+
+As the sound wave advances, variations in pressure occur
+at all points in the transmitting medium. The greater the
+pressure variations, the more intense the sound wave is.
+The intensity is proportional to the square of the pressure
+variation regardless of the frequency. Thus, by measuring
+pressure changes, the intensities of sounds having different
+frequencies can be compared directly.
+Measurement of Sound Intensity
+Sound intensity is measured in decibels, with a decibel
+being the ratio of one sound to another. One decibel (dB)
+is the smallest change in sound intensity the human ear can
+detect. A faint whisper would have an intensity of 20 dB, and
+a pneumatic drill would be 80 dB. The engine on a modern
+jetliner, at takeoff thrust, would have a sound intensity of
+90 dB when heard by someone standing 150 ft. away. A 110 dB
+
+Tuning fork
+
+Rarefaction
+
+Compression
+
+Resonance
+All types of matter, regardless of whether it is a solid, liquid,
+or gas, have a natural frequency at which the atoms within
+that matter vibrate. If two pieces of matter have the same
+natural frequency, and one of them starts to vibrate, it can
+transfer its wave energy to the other one and cause it to
+vibrate. This transfer of energy is known as resonance. Some
+piston engine powered airplanes have an rpm range that they
+are placarded to avoid, because spinning the prop at that
+rpm can cause vibration problems. The difficulty lies in the
+natural frequency of the metal in the prop, and the frequency
+of vibration that will be set up with a particular tip speed for
+the prop. At that particular rpm, stresses can be set up that
+could lead to the propeller coming apart.
+
+The Atmosphere
+Aviation is so dependent upon that category of fluids called
+gases and the effect of forces and pressures acting upon gases
+that a discussion of the subject of the atmosphere is important
+to the persons maintaining and repairing aircraft.
+Amplitude
+
+Wave
+length
+
+Data available about the atmosphere may determine whether
+a flight will succeed, or whether it will even become airborne.
+The various components of the air around the earth, the
+changes in temperatures and pressures at different levels
+above the earth, the properties of weather encountered by
+aircraft in flight, and many other detailed data are considered
+in the preparation of flight plans.
+
+Figure 5-48. Sound propagation by a tuning fork.
+
+5-32
+

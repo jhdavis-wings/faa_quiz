@@ -1,0 +1,2161 @@
+FAA-H-8083-31B Airframe Handbook, chapter 14 (Aircraft Fuel Systems), PDF pages 824-841
+
+===== PDF PAGE 824 =====
+Chapter 14
+
+Aircraft Fuel Systems
+Basic Fuel System Requirements
+All powered aircraft require fuel on board to operate the
+engine(s). A fuel system consisting of storage tanks, pumps,
+filters, valves, fuel lines, metering devices, and monitoring
+devices is designed and certified under strict Title 14 of the
+Code of Federal Regulations (14 CFR) guidelines. Each
+system must provide an uninterrupted flow of contaminantfree fuel regardless of the aircraft’s attitude. Since fuel
+load can be a significant portion of the aircraft’s weight,
+a sufficiently strong airframe must be designed. Varying
+fuel loads and shifts in weight during maneuvers must not
+negatively affect control of the aircraft in flight.
+Each Federal Aviation Administration (FAA) certified aircraft
+is designed and constructed under regulations applicable to
+that type of aircraft. The certification airworthiness standards
+are found in 14 CFR as follows:
+• 14 CFR part 23—Airworthiness Standards: Normal
+Category Airplanes
+• 14 CFR part 25—Airworthiness Standards: Transport
+Category Airplanes
+• 14 CFR part 27—Airworthiness Standards: Normal
+Category Rotorcraft
+• 14 CFR part 29— Airworthiness Standards: Transport
+Category Rotorcraft
+• 14 CFR part 31— Airworthiness Standards: Manned
+Free Balloons
+Additional information is found in 14 CFR part 33. It
+addresses airworthiness standards for engines and pertains
+mainly to engine fuel filter and intake requirements.
+Title 14 of the CFR, part 23, Airworthiness Standards:
+Normal Category Airplanes, section 23.2430, Fuel Systems,
+is summarized below. Airworthiness standards specified for
+air carrier and helicopter certification are similar. Although
+the technician is rarely involved with designing fuel systems,
+a review of these criteria gives insight into how an aircraft
+fuel system operates.
+Each fuel system must be constructed and arranged to ensure
+fuel flow at a rate and pressure established for proper engine
+and auxiliary power unit (APU) functioning under each likely
+operating condition. This includes any maneuver for which
+
+Figure 14-1. Aircraft fuel systems must deliver fuel during any
+
+maneuver for which the aircraft is certified.
+
+certification is requested and during which the engine or
+APU may be in operation. [Figure 14-1] Each fuel system
+must be arranged so that no fuel pump can draw fuel from
+more than one tank at a time. There must also be a means to
+prevent the introduction of air into the system.
+Each fuel system for a turbine engine powered airplane
+must meet applicable fuel venting requirements. 14 CFR
+part 34 outlines requirements that fall under the jurisdiction
+of the Environmental Protection Agency (EPA). A turbine
+engine fuel system must be capable of sustained operation
+throughout its flow and pressure range even though the fuel
+has some water in it. The standard is that the engine continues
+to run using fuel initially saturated with water at 80 °F having
+0.75 cubic centimeters (cm) of free water per gallon added
+to it and then cooled to the most critical condition for icing
+likely to be encountered in operation.
+Fuel System Independence
+Each fuel system must be designed and arranged to provide
+independence between multiple fuel storage and supply
+systems so that failure of any one component in one system
+will not result in loss of fuel storage or supply of another
+system.
+Fuel System Lightning Protection
+The fuel system must be designed and arranged to prevent
+the ignition of the fuel within the system by direct lightning
+strikes or swept lightning strokes to areas where such
+occurrences are highly probable, or by corona or streamering
+at fuel vent outlets. A corona is a luminous discharge that
+occurs as a result of an electrical potential difference
+14-1
+
+===== PDF PAGE 825 =====
+isolated from personnel compartments and protected from
+hazards due to unintended temperature influences. The fuel
+storage system must provide fuel for at least one-half hour
+of operation at maximum continuous power or thrust and
+be capable of jettisoning fuel safely if required for landing.
+[Figure 14-3] Fuel jettisoning systems are also referred to
+as fuel dump systems. [Figure 14-4] A fuel dump system
+is a system installed in most large aircraft that allows the
+flight crew to jettison, or dump, fuel to lower the gross
+weight of the aircraft to its allowable landing weight. Boost
+pumps in the fuel tanks move the fuel from the tank into a
+fuel manifold. From the fuel manifold, it flows away from
+the aircraft through dump chutes in each wing tip. The fuel
+jettison system must be so designed and constructed that it
+is free from fire hazards.
+Aircraft fuel tanks must be designed to prevent significant
+loss of stored fuel from any vent system due to fuel transfer
+between fuel storage or supply systems, or under likely
+operating conditions.
+
+Figure 14-2. Lightning streamering at the wingtips of a jet fighter.
+
+between the aircraft and the surrounding area. Streamering
+is a branch-like ionized path that occurs in the presence of a
+direct stroke or under conditions when lightning strikes are
+imminent. [Figure 14-2]
+Fuel Flow
+The ability of the fuel system to provide the fuel necessary
+to ensure each powerplant and auxiliary power unit functions
+properly in all likely operating conditions. It must also
+prevent hazardous contamination of the fuel supplied to each
+powerplant and auxiliary power unit.
+The fuel system must provide the flightcrew with a means
+to determine the total useable fuel available and provide
+uninterrupted supply of that fuel when the system is correctly
+operated, accounting for likely fuel fluctuations. It should
+also provide a means to safely remove or isolate the fuel
+stored in the system from the airplane and be designed to
+retain fuel under all likely operating conditions and minimize
+hazards to the occupants during any survivable emergency
+landing. For level 4 airplanes, failure due to overload of the
+landing system must be taken into account
+
+Fuel Storage System
+Each fuel tank must be able to withstand, without failure, the
+loads under likely operating conditions. Each tank must be
+
+Figure 14-3. Fuel being jettisoned free of the airframe on a transport
+
+category aircraft.
+
+FUEL
+JETTISON
+
+DO NOT JETT
+WITH FLAPS
+25 OR 30
+
+FAULT
+OFF
+
+L-NOZZLE-R
+
+ON
+
+ON
+
+ON
+
+VALVE
+
+VALVE
+
+Figure 14-4. The fuel jettison panel on a Boeing 767.
+
+14-2
+
+===== PDF PAGE 826 =====
+Fuel Storage Refilling or Recharging System
+Each fuel storage refilling or recharging system must be
+designed to prevent improper refilling or recharging; prevent
+contamination of the fuel stored during likely operating
+conditions; and prevent the occurrence of any hazard to the
+airplane or to persons during refilling or recharging.
+
+Types of Aviation Fuel
+Each aircraft engine is designed to burn a certain fuel. Use
+only the fuel specified by the manufacturer. Mixing fuels is
+not permitted. There are two basic types of fuel discussed
+in this section: reciprocating-engine fuel (also known as
+gasoline or AVGAS) and turbine-engine fuel (also known
+as jet fuel or kerosene).
+Reciprocating Engine Fuel—AVGAS
+Reciprocating engines burn gasoline, also known as
+AVGAS. It is specially formulated for use in aircraft engines.
+Combustion releases energy in the fuel, which is converted
+into the mechanical motion of the engine. AVGAS of any
+variety is primarily a hydrocarbon compound refined from
+crude oil by fractional distillation. Aviation gasoline is
+different from the fuel refined for use in turbine-powered
+aircraft. AVGAS is very volatile and extremely flammable,
+with a low flash point. Turbine fuel is a kerosene-type fuel
+with a much higher flash point, so it is less flammable.
+Aircraft engines must perform throughout a wide range
+of demanding conditions. They must be lightweight and
+produce significant power in a wide range of atmospheric
+and engine operating temperatures. The gasoline used must
+support uninterrupted combustion throughout this range
+and must truly burn rather than explode or detonate. This
+ensures maximum power derivation and minimal engine
+wear. Over the years, AVGAS has been available in different
+formulas. These mostly correlate to how much energy can
+be produced without the fuel detonating. Larger, highcompression engines require fuel with a greater amount of
+potential power production without detonation than smaller
+low-compression engines.
+
+Volatility
+One of the most important characteristics of an aircraft fuel is
+its volatility. Volatility is a term used to describe how readily a
+substance changes from liquid into a vapor. For reciprocating
+engines, highly volatile fuel is desired. Liquid gasoline
+delivered to the engine induction system carburetor must
+vaporize in the carburetor to burn in the engine. Fuel with
+low volatility vaporizes slowly. This can cause hard engine
+starting, slow warm-up, and poor acceleration. It can also
+cause uneven fuel distribution to the cylinders and excessive
+dilution of the oil in the crankcase in engines equipped with
+oil dilution systems. However, fuel can also be too volatile,
+
+causing detonation and vapor lock.
+AVGAS is a blend of numerous hydrocarbon compounds,
+each with different boiling points and volatility. A straight
+chain of volatile compounds creates a fuel that vaporizes
+easily for starting, but also delivers power through the
+acceleration and power ranges of the engine.
+
+Vapor Lock
+Vapor lock is a condition in which AVGAS vaporizes in the
+fuel line or other components between the fuel tank and the
+carburetor. This typically occurs on warm days on aircraft
+with engine-driven fuel pumps that suck fuel from the
+tank(s). Vapor lock can be caused by excessively hot fuel, low
+pressure, or excessive turbulence of the fuel traveling through
+the fuel system. In each case, liquid fuel vaporizes prematurely
+and blocks the flow of liquid fuel to the carburetor.
+Aircraft gasoline is refined to have a vapor pressure be
+between 5.5 pounds per square inch (psi) and 7.0 psi at 100
+°F. At this pressure, an aircraft fuel system is designed to
+deliver liquid fuel to the carburetor when drawn out of the
+tank by an engine-driven fuel pump. But temperatures in the
+fuel system can exceed 100 °F under the engine cowl on a
+hot day. Fuel may vaporize before it reaches the carburetor,
+especially if it is drawn up a line under a low pressure, or
+if it swirls while navigating a sharp bend in the tubing. To
+make matters worse, when an aircraft climbs rapidly, the
+pressure on the fuel in the tank decreases while the fuel is
+still warm. This causes an increase in fuel vaporization that
+can also lead to vapor lock.
+Various steps can be taken to prevent vapor lock. The use of
+boost pumps located in the fuel tank that force pressurized
+liquid fuel to the engine is most common.
+
+Carburetor Icing
+As fuel vaporizes, it draws energy from its surroundings to
+change state from a liquid to a vapor. This can be a problem
+if water is present. When fuel vaporizes in the carburetor,
+water in the fuel-air mixture can freeze and deposit inside
+the carburetor and fuel induction system. The fuel discharge
+nozzle, throttle valve, venturi, or simply the walls of the
+induction system all can develop ice. As the ice builds, it
+restricts the fuel-air flow and causes loss of engine power. In
+severe cases, the engine stops running. [Figure 14-5]
+Carburetor icing is most common at ambient temperatures
+of 30–40 °F but can occur at much higher temperatures,
+especially in humid conditions. Most aircraft are equipped
+with carburetor heating to help eliminate this threat caused
+by the high volatility of the fuel and the presence of moisture.
+[Figure 14-6]
+14-3
+
+===== PDF PAGE 827 =====
+To engine
+
+the rich mixture performance of AVGAS. It was used mainly
+in high horsepower reciprocating engines, such as military
+and transport category aircraft. Special hoses and seals were
+required for use of aromatic fuels. These additives are no
+longer available.
+
+Fuel/air mixture
+
+Ice
+
+Detonation
+Detonation is the rapid, uncontrolled explosion of fuel due
+to high pressure and temperature in the combustion chamber.
+The fuel-air charge ignites and explodes before the ignition
+system spark lights it. Occasionally, detonation occurs when
+the fuel is ignited via the spark plug but explodes before it
+is finished burning.
+
+Ice
+Ice
+Venturi
+
+Incoming air
+Figure 14-5. An example of common areas where ice can form on
+a carburetor. The evaporation of volatile fuel takes energy from
+its surroundings to change state. As it does, water in the fuel-air
+mixture condenses and freezes.
+
+Aromatic Fuels
+The aviation gasoline market is a relatively small part of the
+overall gasoline market. AVGAS producers are few. In years
+past, when this was less the case, considerable quantities of
+aromatic hydrocarbons were sometimes added to increase
+
+The engine is not designed to withstand the forces caused by
+detonation. It is made to turn smoothly by having the fuelair mixture burn in the combustion chamber and propagate
+directionally across the top of the piston. When it does so, a
+smooth transfer of the force developed by the burning fuel
+pushes the piston down. Detonation of fuel instead sends a
+shock wave of force against the top of the piston, which in
+turn is transferred through the piston to the piston pin, to the
+connecting rod, and to the crankshaft. Valve operation is also
+affected by this shock wave. In short, the explosion of fuel
+detonating in the combustion chamber transfers the energy
+contained in the fuel harshly throughout the entire engine,
+causing damage.
+Aviation fuels are refined and blended to avoid detonation.
+Each has an ignition point and burn speed at specific fuel-air
+mixture ratios that manufacturers rely on to design engines
+that can operate without detonation. An engine experiencing
+
+Engine cowling
+Heater muff
+Outsi
+d
+
+A Carburetor heat on
+B Carburetor heat off
+
+e
+
+a
+
+Engine exhaust
+
+Carburetor
+
+ir
+Carburetor heat control
+
+Cold air
+Hot air
+
+A
+Exhaust
+muffler
+
+O
+
+B
+u
+
+de
+tsi
+
+Carburetor air filter
+
+Carburetor heat valve
+Exhaust pipe
+
+Figure 14-6. To combat carburetor icing, air preheated by the exhaust manifold is directed into the carburetor via a push/pull control in
+the flight deck. The control changes the position of the air diverter butterfly in the carburetor heat valve box.
+
+14-4
+
+===== PDF PAGE 828 =====
+detonation in the field should be investigated. A pinging or
+knocking sound is a sign of detonation. This is often more
+difficult to detect in an aircraft than in an automobile due to
+propeller tip noise. Detonation causes an increase in cylinder
+head temperature.
+If ignored or allowed to continue, detonation can eventually
+lead to engine failure. Causes of detonation include incorrect
+fuel, already high engine temperature at high power settings,
+such as takeoff, preignition of the fuel, extended operations
+with an extremely lean mixture, and operation at high
+revolutions per minute (rpm) with low airspeed.
+
+Surface Ignition & Preignition
+A sharp deposit or incandescent hot spot in the combustion
+chamber can cause fuel to ignite before the spark plug lights
+it. Detonation can cause such an area to form as can a cracked
+spark plug insulator or a sharp valve edge. The result could
+be ignition of the fuel before the piston is at the proper
+place during its movement toward top dead center of the
+compression stroke. The extended burn period of the fuel can
+increase temperatures and pressure in the combustion chamber
+to the point at which the fuel detonates. The repeated incorrect
+flame propagation and detonation can cause serious engine
+damage and eventual engine failure. [Figure 14-7]
+Maintenance personnel should ensure that the correct fuel is
+being used, and that the engine is being operated correctly.
+Spark plugs and valves should be checked for wear. Signs
+of deposits and detonation must also be investigated and
+addressed.
+
+Octane & Performance Number Rating
+Octane ratings and performance numbers are given to fuels
+to describe their resistance to detonation. Fuels with high
+
+critical pressure and high octane or performance numbers
+have the greatest resistance. A referencing system is used
+to rate the fuel. A mixture of two hydrocarbons, iso-octane
+(C8H18) and heptane (C7H16), is used. Various ratios of
+the two hydrocarbons in a mixture result in proportional
+antidetonation properties. The more iso-octane there is in the
+mixture, the higher its resistance is to detonation.
+When a fuel has the same critical pressure as a reference
+mixture of these two hydrocarbons, it is said to have an
+octane rating that is the same as the percentage of the isooctane in this reference mixture. An 80-octane fuel has the
+same resistance to detonation as an 80 percent iso-octane,
+20 percent heptane mixture; a 90-octane fuel has the same
+resistance to detonation as a 90 percent iso-octane, 10
+percent heptane mixture; and a 100-octane fuel has the same
+resistance to detonation as 100 percent pure iso-octane. So,
+by comparing a fuel’s tendency to detonate to reference
+mixtures of iso-octane and heptane, octane ratings from 80
+to 100 can be established. The highest-octane fuel possible
+with this system of measurement is 100-octane fuel.
+To increase antidetonation characteristics of fuel, substances
+can be added. Tetraethyl lead (TEL) is the most common
+additive that increases the critical pressure and temperature
+of a fuel. However, additional additives, such as ethylene
+dibromide and tricresyl phosphate, must be also be added so
+that the TEL does not leave solid deposits in the combustion
+chamber.
+The amount of TEL added to a fuel can be increased to raise
+the antidetonation characteristics from 80 to the 100-octane
+level and higher. References to octane characteristics
+above 100 percent iso-octane are made by referencing the
+antidetonation properties of the fuel to a mixture of pure
+iso-octane and specific quantities of TEL. The specific
+mixtures of iso-octane and TEL are assigned arbitrary
+octane numbers above 100. In addition to increasing the
+antidetonation characteristics of a fuel, TEL also lubricates
+the engine valves.
+Performance numbers are also used to characterize the
+antidetonation characteristics of fuel. A performance number
+consists of two numbers (e.g., 80/87, 100/130, 115/145)
+in which higher numbers indicate a higher resistance to
+detonation. The first number indicates the octane rating of
+the fuel in a lean fuel-air mixture, and the second number
+indicates the octane rating of the fuel in a rich mixture.
+
+Figure 14-7. Preignition can cause detonation and damage to
+
+the engine.
+
+Due to the small size of the worldwide aviation gasoline
+market, a single 100 octane low-lead fuel (100LL) is desired
+as the only AVGAS for all aircraft with reciprocating engines.
+This presents problems in engines originally designed to run
+14-5
+
+===== PDF PAGE 829 =====
+on 80/87 fuel; the low lead 100-octane fuel still contains more
+lead than the 80-octane fuel. Spark plug fouling has been
+common and lower times between overhaul have occurred.
+Other engines designed for 91/96 fuel or 100/130 fuel operate
+satisfactorily on 100LL, which contains 2 milliliters of
+TEL per gallon (enough to lubricate the valves and control
+detonation). For environmental purposes, AVGAS with no
+TEL is sought for the aviation fleet of the future.
+
+Fuel Identification
+Aircraft and engine manufacturers designate approved fuels
+for each aircraft and engine. Consult manufacturer data and
+use only those fuel specified therein.
+
+supplemental type certificates have been issued to engine
+and engine/airframe combinations that permit the use of
+automobile gasoline in engines originally designed for red
+AVGAS. A relatively new AVGAS fuel, 82UL (unleaded),
+has been introduced for use by this group of relatively low
+compression engines. It is dyed purple.
+115/145 AVGAS is a fuel designed for large, high
+performance reciprocating engines from the World War II
+era. It is available only by special order from refineries and
+is also dyed purple in color.
+
+The existence of more than one fuel makes it imperative
+that fuel be positively identified and never introduced into
+a fuel system that is not designed for it. The use of dyes in
+fuel helps aviators monitor fuel type. 100LL AVGAS is the
+AVGAS most readily available and used in the United States.
+It is dyed blue. Some 100 octane or 100/130 fuel may still
+be available, but it is dyed green.
+
+The color of fuel may be referred to in older maintenance
+manuals. All grades of jet fuel are colorless or straw colored.
+This distinguishes them from AVGAS of any kind that
+contains dye of some color. Should AVGAS fuel not be
+of a recognizable color, the cause should be investigated.
+Some color change may not affect the fuel. Other times, a
+color change may be a signal that fuels have been mixed or
+contaminated in some way. Do not release an aircraft for
+flight with unknown fuel onboard.
+
+80/87 AVGAS is no longer available. It was dyed red. Many
+
+Identifying fuel and ensuring the correct fuel is delivered
+
+Fuel Type and Grade
+
+Color of Fuel
+
+Equipment Control Color
+
+Pipe Banding and Marking
+
+AVGAS 82UL
+
+Purple
+
+82UL
+AVGAS
+
+AVGAS 82UL
+
+AVGAS 100
+
+Green
+
+100
+AVGAS
+
+AVGAS 100
+
+AVGAS 100LL
+
+Blue
+
+100LL
+AVGAS
+
+AVGAS 100LL
+
+JET A
+
+Colorless or straw
+
+JET
+A
+
+JET A
+
+JET A-1
+
+Colorless or straw
+
+JET
+A-1
+
+JET A-1
+
+JET B
+
+Colorless or straw
+
+JET
+B
+
+JET B
+
+Refueler Decal
+82UL
+AVGAS
+
+100
+AVGAS
+
+100LL
+AVGAS
+
+JET A
+
+JET A-1
+
+JET B
+
+Figure 14-8. Color coded labeling and markings used on fueling equipment.
+
+14-6
+
+===== PDF PAGE 830 =====
+into storage tanks, fuel trucks, and aircraft fuel tanks is a
+process aided by labeling. Decals and markings using the
+same colors as the AVGAS colors are used. Delivery trucks
+and hoses are marked as are aircraft tank fuel caps and fill
+areas. Jet fuel fill hose nozzles are sized too large to fit into
+an AVGAS tank fill opening. Figure 14-8 shows examples
+of color-coded fuel labeling.
+
+Turbine Engine Fuels
+Aircraft with turbine engines use a type of fuel different from
+that of reciprocating aircraft engines. Commonly known as
+jet fuel, turbine engine fuel is designed for use in turbine
+engines and should never be mixed with aviation gasoline
+or introduced into the fuel system of a reciprocating aircraft
+engine fuel system.
+
+Purity
+
+The characteristics of turbine engine fuels are significantly
+different from those of AVGAS. Turbine engine fuels are
+hydrocarbon compounds of higher viscosity with much
+lower volatility and higher boiling points than gasoline. In
+the distillation process from crude oil, the kerosene cut from
+which jet fuel is made condenses at a higher temperature than
+the naphtha or gasoline cuts. The hydrocarbon molecules of
+turbine engine fuels are composed of more carbon than are
+in AVGAS. [Figure 14-10]
+
+The use of filters in the various stages of transfer and storage
+of AVGAS removes most foreign sediment from the fuel.
+Once in the aircraft fuel tanks, debris should settle into the
+fuel tank drain sumps to be removed before flight. Filters and
+strainers in the aircraft fuel system can successfully capture
+any remaining sediment.
+The purity of aviation gasoline is compromised most often
+by water. Water also settles into the sumps given enough
+time. However, water is not removed by the aircraft’s filters
+and strainers as easily as solid particles. It can enter the fuel
+even when the aircraft is parked on the ramp with the fuel
+caps in place. Air in the tank vapor space above the liquid
+fuel contains water vapor. Temperature fluctuations cause
+the water vapor to condense on the inner surface of the tanks
+and settle into the liquid fuel. Eventually, this settles to the
+sump, but some can remain in the fuel when the aircraft is
+to be flown.
+Proper procedure for minimizing water entering aircraft
+fuel is to fill the aircraft fuel tanks immediately after each
+flight. This minimizes the size of the vapor space above the
+liquid fuel and the amount of air and associated water vapor
+present in the tank. When excessive water is drawn into the
+fuel system, it passes through carburetor jets where it can
+interrupt the smooth operation of the engine(s).
+
+Turbine engine fuels sustain a continuous flame inside the
+engine. They typically have a higher sulfur content than
+gasoline, and various inhibitors are commonly added to them.
+Used to control corrosion, oxidation, ice, and microbial and
+bacterial growth, these additives often are already in the fuel
+when it arrives at the airport for use.
+
+Turbine Fuel Volatility
+The choice of turbine engine fuel reflects consideration of
+conflicting factors. While it is desirable to use a fuel that is
+low in volatility to resist vapor lock and evaporation while
+in the aircraft’s fuel tanks, turbine engine aircraft operate in
+
+If water is entrained or dissolved in the fuel, it cannot be
+removed by draining the sump(s) and filter bowls before
+flight. However, there may be enough water for icing to be
+a concern. As the aircraft climbs and fuel is drawn out of the
+tanks, the fuel supply cools. Entrained and dissolved water
+in the fuel is forced out of solution and becomes free water.
+If cool enough, ice crystals form rather than liquid water.
+These can clog filters and disrupt fuel flow to the engines.
+Both AVGAS and jet fuel have this type of water impurity
+issue leading to icing that must be monitored and treated.
+Fuel anti-ice additives can be added to the bulk fuel and also
+directly into the aircraft fuel tank, usually during refueling.
+These are basically diethylene glycol solutions that work as
+antifreeze. They dissolve in free water as it comes out of the
+fuel and lower its freezing point. [Figure 14-9]
+
+Figure 14-9. Fuel anti-icing products, such as Prist ®, act as
+antifreeze for any free water in aircraft fuel. They dissolve in the
+water and lower its freezing point to prevent ice crystals from
+disrupting fuel flow.
+
+14-7
+
+===== PDF PAGE 831 =====
+GAS
+
+C1 to C4 gases
+Fractionating column
+fractions decreasing in
+density and boiling point
+
+Liquefied petroleum gas
+
+20 °C
+
+C5 to C9 naphtha
+
+Chemicals
+
+70 °C
+
+C5 to C10 petrol
+
+Gasoline for vehicles and avgas
+
+120 °C
+
+C10 to C16 kerosene
+
+Jet fuel, paraffin for lighting and heating
+
+170 °C
+
+C14 to C20 diesel oils
+
+Diesel fuels
+
+270 °C
+Crude oil
+C20 to C50 lubricating oils
+
+C20 to C70 fuel oils
+
+Lubricating oils, waxes, polishes
+
+Fuels for ships, factories, and central heating
+
+600 °C
+Fractions increasing in
+density and boiling point
+
+>C70 residue
+
+Bitumen for roads and roofing
+
+Figure 14-10. Petroleum products are produced by distillation. Various fractions condense and are collected at different temperatures
+
+that correspond to the height of collection in the distillation tower. As can be seen, there are significant differences between turbine
+engine fuel and ordinary AVGAS.
+
+cold environments. Turbine engines must start readily and
+be able to restart while in flight. Fuel with high volatility
+makes this easier.
+AVGAS has a relatively low maximum vapor pressure
+compared to automotive gasoline—only 7 psi. But the vapor
+pressure of Jet A is only 0.125 psi at standard atmospheric
+conditions. Jet B, a blend of Jet A and gasoline, has higher
+volatility with a vapor pressure between 2 and 3 psi.
+
+Turbine Engine Fuel Types
+Three basic turbine engine fuel types are available worldwide,
+although some countries have their own unique fuels. The
+first is Jet A. It is the most common turbine engine fuel
+available in the continental United States. Globally, Jet A-1
+is the most popular. Both Jet A and Jet A-1 are fractionally
+distilled in the kerosene range. They have low volatility and
+low vapor pressure. Flashpoints range between 110 °F and
+150 °F. Jet A freezes at –40 °F and Jet A-1 freezes at –52.6
+°F. Most engine operations manuals permit the use of either
+Jet A or Jet A-1.
+14-8
+
+===== PDF PAGE 832 =====
+The third basic type of turbine engine fuel available is Jet
+B. It is a wide-cut fuel that is basically a blend of kerosene
+and gasoline. Its volatility and vapor pressure reflect this and
+fall between Jet A and AVGAS. Jet B is primarily available
+in Alaska and Canada due to its low freezing point of
+approximately –58 °F, and its higher volatility yields better
+cold weather performance.
+
+Turbine Engine Fuel Issues
+Purity issues related to turbine engine fuels are unique.
+While AVGAS experiences similar issues of solid particle
+contamination and icing concerns, the presence of water
+and fuel-consuming microbes is more prominent in jet fuel,
+which has different molecular structure and retains water in
+two principal ways. Some water is dissolved into the fuel.
+Other water also is entrained in the fuel, which is more
+viscous than AVGAS. The greater presence of water in jet
+fuel allows microbes to assemble, grow, and live on the fuel.
+Since turbine engine fuels always contain water, microbial
+contamination is always a threat. The large tanks of many
+turbine engine aircraft have numerous areas where water
+can settle, and microbes can flourish. Areas between the fuel
+tank and any water that may come to rest in the bottom of the
+tanks is where the microbes thrive. These microorganisms
+form a bio-film that can clog filters, corrode tank coatings,
+and degrade the fuel. They can be controlled somewhat with
+the addition of biocides to the fuel. [Figure 14-11] Anti-ice
+additives are also known to inhibit bacterial growth.
+Since the microbes are sustained by fuel and water, best
+practices must be followed to keep the water in fuel to a
+minimum. Avoid having fuel in a storage tank for a prolonged
+period of time on or off the aircraft. Drain sumps and monitor
+the fuel for settled water. Investigate all incidents of water
+
+discovered in the fuel. In addition to water in jet fuel supporting
+the growth of microorganisms, it also poses a threat of icing.
+Follow the manufacturer’s instructions for fuel handling
+procedures and fuel system maintenance.
+
+Aircraft Fuel Systems
+While each manufacturer designs its own fuel system, the basic
+fuel system requirements referenced at the beginning of this
+chapter yield fuel systems of similar design and function in the
+field. In the following sections are representative examples of
+various fuel systems in each class of aircraft discussed. Others
+are similar but not identical. Each aircraft fuel system must
+store and deliver clean fuel to the engine(s) at a pressure and
+flow rate able to sustain operations regardless of the operating
+conditions of the aircraft.
+Small Single-Engine Aircraft Fuel Systems
+Small single-engine aircraft fuel systems vary depending
+on factors, such as tank location and method of metering
+fuel to the engine. A high-wing aircraft fuel system can be
+designed differently from one on a low-wing aircraft. An
+aircraft engine with a carburetor has a different fuel system
+than one with fuel injection.
+
+Gravity Feed Systems
+High-wing aircraft with a fuel tank in each wing are
+common. With the tanks above the engine, gravity is used
+to deliver the fuel. A simple gravity feed fuel system is
+shown in Figure 14-12. The space above the liquid fuel
+is vented to maintain atmospheric pressure on the fuel as
+the tank empties. The two tanks are also vented to each
+other to ensure equal pressure when both tanks feed the
+
+nk
+
+ht ta
+
+Rig
+
+Vent
+
+tank
+
+BOTH
+
+LEFT
+
+RIGHT
+
+Left
+
+OFF
+
+Strainer
+
+Fuel selector valve
+
+Primer
+
+Carburetor
+Fuel supply
+Figure 14-11. Biocides, such as these, are often added to jet fuel to
+
+kill microbes that live on hydrocarbons.
+
+Figure 14-12. The gravity-feed fuel system in a single-engine high-
+
+wing aircraft is the simplest aircraft fuel system.
+
+14-9
+
+===== PDF PAGE 833 =====
+engine. A single screened outlet on each tank feeds lines
+that connect to either a fuel shutoff valve or multiposition
+selector valve. The shutoff valve has two positions: fuel
+ON and fuel OFF. If installed, the selector valve provides
+four options: fuel shutoff to the engine; fuel feed from the
+right-wing tank only; fuel feed from the left fuel tank only;
+fuel feed to the engine from both tanks simultaneously.
+
+flows through the main strainer where it can supply the
+engine primer. Then, it flows downstream to the fuel pumps.
+Typically, one electric and one engine-driven fuel pump are
+arranged in parallel. They draw the fuel from the tank(s)
+and deliver it to the carburetor. The two pumps provide
+redundancy. The engine-driven fuel pump acts as the primary
+pump. The electric pump can supply fuel should the other fail.
+
+Downstream of the shutoff valve or selector valve, the fuel
+passes through a main system strainer. This often has a drain
+function to remove sediment and water. From there, it flows
+to the carburetor or to the primer pump for engine starting.
+Having no fuel pump, the gravity feed system is the simplest
+aircraft fuel system.
+
+The electric pump also supplies fuel pressure while starting
+and is used to prevent vapor lock during flight at high altitude.
+
+Pump Feed Systems
+Low- and mid-wing single reciprocating engine aircraft
+cannot utilize gravity-feed fuel systems because the fuel
+tanks are not located above the engine. Instead, one or
+more pumps are used to move the fuel from the tanks to
+the engine. A common fuel system of this type is shown in
+Figure 14-13. Each tank has a line from the screened outlet
+to a selector valve. However, fuel cannot be drawn from both
+tanks simultaneously; if the fuel is depleted in one tank, the
+pump would draw air from that tank instead of fuel from the
+full tank. Since fuel is not drawn from both tanks at the same
+time, there is no need to connect the tank vent spaces together.
+From the selector valve (LEFT, RIGHT, or OFF), fuel
+
+Engine-driven pump diaphragm type
+
+Carburetor
+
+Primer
+
+BOTH
+
+Fuel supply
+Pump delivery
+
+LEFT
+
+Lef
+
+RIGHT
+
+k
+t tan
+
+Some high-wing, high-performance, single-engine general
+aviation aircraft are equipped with a fuel system that
+features fuel injection rather than a carburetor. It combines
+gravity flow with the use of a fuel pump(s). The TeledyneContinental system is an example. [Figure 14-14]
+Note: Fuel injection systems spray pressurized fuel into the
+engine intake or directly into the cylinders. Fuel without any
+air mixed in is required to provide a measured, continuous
+spray and smooth engine operation.
+Fuel pressurized by an engine-driven pump is metered as a
+function of engine rpm on the Teledyne-Continental system.
+It is first delivered from the fuel tanks by gravity to two
+smaller accumulator or reservoir tanks. These tanks, one
+for each wing tank, consolidate the liquid fuel and have a
+relatively small airspace. They deliver fuel through a threeway selector valve (LEFT, RIGHT, or OFF). The selector
+valve also acts simultaneously as a diverter of air that has
+been separated out of the fuel in the engine-driven fuel pump
+and returned to the valve. It routes the air to the vent space
+above the fuel in the selected reservoir tank.
+An electric auxiliary fuel pump draws fuel through the
+selector valve. It forces the fuel through the strainer, making
+it available for the primer pump and the engine-driven fuel
+pump. This pump is typically used for starting and as a backup
+should the engine-driven pump fail. It is controlled by a
+switch in the flight deck and does not need to be operating
+to allow the engine-driven fuel pump access to the fuel.
+
+Electric pump plunger type
+Strainer
+
+High-Wing Aircraft with Fuel Injection System
+
+nk
+
+ht ta
+
+Rig
+
+OFF
+
+Fuel selector valve
+
+Figure 14-13. A single reciprocating engine aircraft with fuel tanks
+
+located in wings below the engine uses pumps to draw fuel from the
+tanks and deliver it to the engine.
+
+The engine-driven fuel pump intakes the pressurized fuel
+from the electrically driven pump or from the reservoir tanks
+if the electric pump is not operating. It supplies a higher-thanneeded volume of fuel under pressure to the fuel control.
+Excess fuel is returned to the pump, which pumps it through
+the selector valve into the appropriate reservoir tank. Fuel
+vapor is also returned to tanks by the pump. The fuel control
+unit meters the fuel according to engine rpm and mixture
+control inputs from the flight deck.
+
+14-10
+
+===== PDF PAGE 834 =====
+t tan
+
+k
+Aft
+
+Aft
+
+Righ
+
+tank
+
+Forward
+
+Left
+
+Vent check valve
+
+Vented filler caps
+
+Forward
+
+Vent check valve
+
+resFuel
+er
+tanvoir
+k
+
+l
+Fueoir
+erv
+resank
+t
+
+OFF
+
+Selector valve
+
+Auxiliary fuel pump
+
+To intake
+manifold
+
+Fuel strainer
+
+Engine primer
+Engine-driven fuel pump
+
+Fuel injection control unit
+Fuel flow indicator
+
+Fuel injection distributor manifold
+Figure 14-14. A Teledyne-Continental fuel system featuring fuel
+
+injection used on high-wing, high-performance single-engine
+aircraft.
+
+The fuel control delivers the fuel to the distribution manifold,
+which divides it and provides equal, consistent fuel flow for
+individual fuel injector in each cylinder. [Figure 14-15] A
+fuel flow indicator tapped off of the distribution manifold
+provides feedback in flight deck. It senses fuel pressure but
+is displayed on a dial calibrated in gallons per hour.
+Small Multiengine (Reciprocating) Aircraft Fuel
+Systems
+
+Low-Wing Twin
+
+The fuel system on a small, multiengine aircraft is more
+complicated than a single-engine aircraft but contains many
+of the same elements. An example system used on a low- wing
+aircraft is illustrated in Figure 14-16. It features the main
+
+Figure 14-15. A fuel distribution manifold for a fuel-injected engine.
+
+fuel tanks in the wing tips and auxiliary tanks in the wing
+structure. A boost pump is located at the outlet of each main
+tank. This pressurizes the entire fuel system from the tank
+to the injectors eliminating the possibility of vapor lock. An
+engine can operate with just its boost pump running in the
+event the engine-driven injection pump fails. Typically, the
+boost pumps are used to prime and start the engine.
+Two selector valves are required on twin-engine aircraft,
+one for each engine. The right selector valve receives fuel
+from a main tank on either side of the aircraft and directs it
+to the right engine. The left selector valve also receives fuel
+from either main tank and directs it to the left engine. This
+allows fuel to crossfeed from one side of the aircraft to the
+opposite engine if desired. The selector valves can also direct
+fuel from the auxiliary tank to the engine on the same side.
+Crossfeed of fuel from auxiliary tanks is not possible. From
+the outlet of the selector valve, fuel flows to the strainer. On
+some aircraft, the strainer is built into the selector valve unit.
+From the strainer, fuel flows to the engine-driven fuel pump.
+The engine-driven fuel pump is an assembly that also
+contains a vapor separator and a pressure regulating valve
+with an adjustment screw. The vapor separator helps
+eliminate air from the fuel. It returns a small amount of
+fuel and any vapor present back to the main fuel tank. The
+pump supplies pressurized fuel to the fuel control. The fuel
+control, one for each engine, responds to throttle and mixture
+control settings from the flight deck and supplies the proper
+amount of fuel to the fuel manifold. The manifold divides
+the fuel and sends it to an injector in each cylinder. A fuel
+pressure gauge is placed between the fuel control unit outlet
+and the manifold to monitor the injector-applied pressure
+that indicates engine power.
+
+14-11
+
+===== PDF PAGE 835 =====
+Fuel quantity indicator
+
+Vent in filler cap
+
+Vent in filler cap
+Filler cap
+
+Right
+aux.
+fuel tank (opt.)
+
+Left aux.
+fuel tank (opt.)
+
+Vent
+
+Drain valve
+
+LEFT
+
+OFF
+
+Strainer
+To right
+engine
+oil pump
+
+Right oil
+dilution solenoid
+
+Left engine
+fuel control unit
+
+Dual fuel flow gauge
+
+Fuel pressure
+adjusting screw
+
+Fuel injection nozzle
+
+To right aux. pump
+Fuel pressure
+switch for aux.
+pumps
+
+Right engine
+fuel control unit
+
+CODE
+
+Vapor
+separator
+
+Left engine fuel pump
+
+Fuel
+Vapor return line
+Mechaninal actuation
+Electrical actuation
+Check valve
+Pressure relief valve
+
+Filter screen
+
+Mixture control
+
+Mixture control
+
+To cylinders
+
+Drain control
+
+Drain valve Vapor return line
+
+Vapor
+separator
+
+To left
+engine
+oil pump
+
+Fuel pressure
+adjusting screw
+
+Filter screen
+
+Drain
+valve Aux. fuel pump
+On/off prime
+Selector valve
+
+Strainer
+
+Drain valve
+
+Fuel pressure
+switch for aux.
+pumps
+
+Throttle
+
+RIGHT
+
+OFF
+
+Left oil
+dilution solenoid
+
+To left aux. pump
+
+Drain
+plugs
+
+RIGHT
+
+Drain control
+Vapor return line
+
+AUX
+
+Ignition switches
+
+LEFT
+
+AUX
+
+Drain
+valve
+On/off prime Selector valve
+
+Vent
+
+Drain valve
+Aux pump
+to heater
+
+Drain plugs
+
+Aux fuel pump
+
+Right
+fuel tank
+
+Right engine fuel pump
+
+Left
+fuel tank
+
+Filler cap
+
+Aux. tank fuel quantity indicator
+
+To cylinders
+
+Left engine
+fuel manifold
+
+To cylinders
+
+Throttle
+
+To cylinders
+
+Right engine
+fuel manifold
+
+Fuel injection nozzle
+
+Figure 14-16. A low-wing, twin-engine, light aircraft fuel system.
+
+High-Wing Twin
+A simplified system on a high-wing, twin-engine aircraft that
+combines gravity feed with an electric fuel pump is illustrated
+in Figure 14-17. Directly downstream of the selector valves
+are the fuel strainers and then an electric fuel pump for each
+engine. This pump draws fuel from the selected tank and
+sends it under pressure to the inlet side of the fuel injection
+metering unit. The metering unit for each engine provides
+the proper flow of fuel to the distribution manifold which
+feeds the injectors.
+Large Reciprocating-Engine Aircraft Fuel Systems
+Large, multiengine transport aircraft powered by reciprocating
+radial engines are no longer produced. However, many are
+
+still in operation. They are mostly carbureted and share many
+features with the light aircraft systems previously discussed.
+Figure 14-18 shows the fuel system of a DC-3. A selector
+valve for each engine allows an engine-driven pump to
+pull fuel from the main tank or an auxiliary tank. The fuel
+passes through a strainer before reaching the pump where it
+is delivered to the engine. The outlet of the pump can feed
+either engine through the use of a crossfeed line with valves
+controlled in the flight deck. A hand-operated wobble pump
+located upstream of the strainer is used to prime the system for
+starting. Fuel vapor lines run from the pressure carburetor to
+the vent space in the main and auxiliary tanks. Fuel pressure
+gauges are tapped off of the carburetor for power indication.
+14-12
+
+===== PDF PAGE 836 =====
+Left
+
+t inb
+
+Selector valves
+
+rd
+
+tboa
+
+ou
+Left
+
+Righ
+
+ard
+
+inbo
+
+oard
+Righ
+
+t out
+
+boar
+
+d
+
+OFF
+OFF
+
+Fuel supply
+Pump delivery
+Metered fuel pressure
+
+Strainers
+
+Electric fuel pump
+Fuel injection metering unit
+Fuel injection distributor manifold
+
+Injection nozzles
+
+Figure 14-17. A simple high-wing fuel injection fuel system for a light twin reciprocating-engine aircraft.
+
+The hand-operated wobble pumps were replaced by electric
+pumps on later model aircraft. A fuel pressure warning light
+tapped in downstream of the engine-driven fuel pump alerts
+the crew should fuel pressure decline.
+Not all large, old aircraft have this fuel system. This is merely
+an example. Other aircraft share similar features and possess
+unique features of their own. The same is true for small
+reciprocating-engine aircraft. There are many systems that
+share features with those described above, but they also differ
+in some ways. Always consult the manufacturer’s data when
+working on aircraft fuel systems and follow all instructions
+for service and repair. The fuel system of an aircraft provides
+the life blood for engine operation and must be maintained
+with the highest discretion.
+Jet Transport Aircraft Fuel Systems
+Fuel systems on large transport category jet aircraft are
+complex with some features and components not found in
+reciprocating-engine aircraft fuel systems. They typically
+contain more redundancy and facilitate numerous options
+from which the crew can choose while managing the aircraft’s
+fuel load. Features like an onboard APU, single point pressure
+refueling, and fuel jettison systems, which are not needed
+on smaller aircraft, add to the complexity of an airliner fuel
+system.
+Jet transport fuel systems can be regarded as a handful of
+fuel subsystems as follows:
+1.
+
+2.
+
+Vent.
+
+3.
+
+Distribution.
+
+4.
+
+Feed.
+
+5.
+
+Indicating.
+
+Most transport category aircraft fuel systems are very much
+alike. Integral fuel tanks are the norm with much of each
+wing’s structure sealed to enable its use as a fuel tank. Center
+wing section or fuselage tanks are also common. These may
+be sealed structure or bladder type. Jet transport aircraft carry
+tens of thousands of pounds of fuel on board. Figure 14-19
+shows a diagram of a Boeing 777 fuel tank configuration
+with tank capacities.
+There are optional fuel storage configurations available on
+the same model airliner. For example, airlines expecting to
+use an aircraft on transoceanic flights may order the aircraft
+with long-range auxiliary tanks. These additional tanks,
+usually located in the fuselage section of the aircraft, can
+alter fuel management logistics in addition to complicating
+the fuel system.
+In addition to main and auxiliary fuel tanks, surge tanks may
+also be found on jet transports. These normally empty tanks
+located in the wing structure outboard of the main wing tanks
+are used for fuel overflow. A check valve allows the one-way
+drainage of fuel back into the main tanks. Surge tanks are
+also used for fuel system venting.
+
+Storage.
+14-13
+
+===== PDF PAGE 837 =====
+1
+
+Poppet valve
+
+8
+
+Fuel vapor to manifold
+
+13 Right hand engine-driven pump
+
+18 Wobble pump for left hand engine
+
+2
+
+Vacuum
+
+9
+
+Metered fuel
+
+14 Restrictor fitting
+
+19 Wobble pump for right hand engine
+
+3
+
+Diaphragm
+
+10
+
+Propane line (winterization)
+
+15 Fuel pressure warning switch
+
+20 Solenoid for oil dilution (closed)
+
+4
+
+Pressire
+
+11
+
+Prime line
+
+16 Left hand firewall
+
+21 Solenoid primer (closed)
+
+5
+
+Venturi tube
+
+12
+
+Left hand engine driven pump
+
+17 Right hand firewall
+
+22 Pressure gauge line
+
+6
+
+Throttle
+
+7
+
+Nozzle
+
+3
+
+2
+1
+
+4
+5
+Left hand engine
+carburetor
+9
+
+7
+
+6
+
+Fuel pressure gauges
+10
+
+8
+
+12
+
+Right hand engine
+carburetor
+
+11
+
+13
+18
+
+14
+
+15
+16
+20
+21
+
+17
+
+19
+
+22
+
+Crossfeed line (closed)
+Left hand
+fuel strainer
+
+Left hand
+crossfeed valve
+
+Right hand
+crossfeed valve
+
+CODE
+
+Tank selector for left hand engine
+
+Supply
+Supply flow
+Pressure
+Pressure flow
+Fuel vapor return
+Vent line
+Electric cable
+
+Right hand
+fuel strainer
+
+Tank selector for left hand engine
+
+Tank
+float
+
+Tank
+float
+
+Left hand
+main tank
+
+Right hand
+main tank
+
+Left hand auxiliary tank
+
+Right hand auxiliary tank
+
+Figure 14-18. DC-3 fuel system.
+
+Transport category fuel systems require venting similar to
+reciprocating engine aircraft fuel systems. A series of vent
+tubing and channels exists that connects all tanks to vent space
+in the surge tanks (if present) or vent overboard. Venting must
+be configured to ensure the fuel is vented regardless of the
+attitude of the aircraft or the quantity of fuel on board. This
+sometimes requires the installation of various check valves,
+float valves, and multiple vent locations in the same tank.
+Figure 14-20 shows the fuel vent system of a Boeing 737.
+A transport category aircraft fuel distribution subsystem
+
+consists of the pressure fueling components, defueling
+components, transfer system, and fuel jettison or dump
+system. Single-point pressure fueling at a fueling station
+accessible by ramp refueling trucks allows all aircraft fuel
+tanks to be filled with one connection of the fuel hose.
+Leading and trailing edge wing locations are common for
+these stations. Figure 14-21 shows an airliner fueling station
+with the fueling rig attached.
+To fuel with pressure refueling, a hose nozzle is attached
+at the fueling station and valves to the tanks required to be
+filled are opened. These valves are called fueling valves
+14-14
+
+===== PDF PAGE 838 =====
+Tank
+
+Gallons
+
+Pounds*
+
+Left main tank
+Right main tank
+Center tank
+Total
+
+9,560
+9,560
+26,100
+45,200
+
+64,000
+64,000
+174,900
+302,900
+
+Main tank
+
+* Usable fuel at level attitude
+Fuel density = 6.7 pounds per U.S. gallon.
+
+Surge tank
+
+Center tank
+
+Figure 14-19. Boeing 777 fuel tank locations and capacities.
+
+Relieves trapped air during fueling
+
+Vent duct (upper wing stringer)
+
+Wing tank float valve
+
+Float
+Hinge
+Float valve
+(normal vent) Valve stop
+(Typ 2 PLS)
+
+Check
+valves
+(Typ 2 places)
+
+Check
+valve
+
+Valve stop
+O-ring
+
+Wing lower skin
+Moulded seal
+phenolic gasket
+
+Climb vents
+Normal & climb vent
+
+Drain hole
+
+Float valve
+
+Upper surface (sealed stringer 9)
+
+Vent scoop &
+surge tank
+access panel
+
+at
+
+Flo
+
+Vent line
+
+Crossover tube
+
+Upper surface (sealed stringer 11)
+Surge tank gravity drain line
+Deflector
+Center
+tank
+
+k1
+
+Tan
+
+Tan
+
+k
+tan
+
+WS 583
+
+Sump drain (5 places)
+
+APU fuel line shroud drain mast
+
+Frame arrester
+
+Su
+rge
+
+rge
+
+Su
+
+Check valve
+
+tan
+k
+
+k2
+
+Drain
+
+Check valve
+
+Figure 14-20. A fuel vent system with associated float and check valves that stop fuel and keep the tanks vented regardless of the aircraft
+
+attitude.
+
+14-15
+
+===== PDF PAGE 839 =====
+or refueling valves depending upon the manufacturer’s
+preference. Various automatic shutoff systems have been
+designed to close tank fueling valves before the tanks overfill
+or are damaged. Gauges on the refueling panel allow refueling
+personnel to monitor progress.
+Occasionally, defueling the aircraft is required for an
+inspection or repair. The same fueling station is used, and
+the hose from the fuel truck is connected to same receptacle
+used to fuel the aircraft. To allow fuel to exit the aircraft, a
+defueling valve is opened. Fuel can either be pumped out of
+the aircraft using the boost pumps located in the tanks that
+need to be emptied, or the pump in the refueling truck can
+be used to draw the fuel out of the tanks. Control over the
+operation is maintained by positioning various shutoff and
+crossfeed valves, as well as the defuel valve so that fuel
+travels from the tank to the fueling station and into the truck.
+The fuel transfer system is a series of plumbing and valves
+that permits movement of fuel from one tank to another on
+board the aircraft. In-tank fuel boost pumps move the fuel
+into a manifold and, by opening the fuel valve (or refueling
+valve) for the desired tank, the fuel is transferred. Not all jet
+transports have such fuel transfer capability. Through the use
+of a fuel feed manifold and crossfeed valves, some aircraft
+simply allow engines to be run off fuel from any tank as a
+means for managing fuel location.
+Figure 14-22 shows the fuel system diagram for a DC-10.
+Dedicated transfer boost pumps move fuel into a transfer
+manifold. Opening the fuel valve on one of the tanks transfers
+the fuel into that tank. The transfer manifold and boost
+pumps are also used to jettison fuel overboard by opening the
+proper dump valves with a transfer boost pump(s) operating.
+Additionally, the transfer system can function to supply the
+engines if the normal engine fuel feed malfunctions.
+
+The fuel feed subsystem is sometimes considered part of the
+fuel distribution system. It is the heart of the fuel system since
+it delivers fuel to the engines. Jet transport aircraft supply
+fuel to the engines via in-tank fuel boost pumps, usually two
+per tank. They pump fuel under pressure through a shutoff
+valve for each engine. A manifold or connecting tubing
+typically allows any tank to supply any engine through the
+use of crossfeed valves. Boost pump bypasses allow fuel
+flow should a pump fail. The engines are designed to be
+able to run without any fuel boost pumps operating. But,
+each engine’s shutoff valve must be open to allow flow to
+the engines from the tanks.
+Most jet transport fuel feed systems, or the engine fuel
+systems, have some means for heating the fuel usually
+through an exchange with hot air or hot oil taken from the
+engine. Figure 14-23 shows the fuel cooled oil cooler (FCOC)
+on a Rolls Royce RB211 engine, which not only heats the
+fuel but also cools the engine oil.
+Fuel indicating systems on jet transport aircraft monitor a
+variety of parameters, some not normally found on general
+aviation aircraft. Business jet aircraft share many of these
+features. True fuel flow indicators for each engine are used
+as the primary means for monitoring fuel delivery to the
+engines. A fuel temperature gauge is common as are fuel
+filter bypass warning lights. The temperature sensor is usually
+located in a main fuel tank. The indicator is located on the
+instrument panel or is displayed on a multifunction display
+(MFD). These allow the crew to monitor the fuel temperature
+during high altitude flight in extremely frigid conditions. The
+fuel filters have bypasses that permit fuel flow around the
+filters if clogged. Indicator light(s) illuminate in the flight
+deck when this occurs.
+Low fuel pressure warning lights are also common on jet
+transport aircraft. The sensors for these are located in the
+boost pump outlet line. They give an indication of possible
+boost pump failure.
+Fuel quantity gauges are important features on all aircraft.
+Indications exist for all tanks on a transport category aircraft.
+Often, these use a capacitance type fuel quantity indication
+system and a fuel totalizer as is discussed later in this chapter.
+The location of fuel instrumentation varies depending on the
+type of flight deck displays utilized on the aircraft.
+
+Figure 14-21. A central pressure refueling station on a transport
+category aircraft allows all fuel tanks to be filled from one position.
+
+Helicopter Fuel Systems
+Helicopter fuel systems vary. They can be simple or complex
+depending on the aircraft. Always consult the manufacturer’s
+manuals for fuel system description, operation, and
+maintenance instructions.
+14-16
+
+===== PDF PAGE 840 =====
+Figure 14-22. The fuel distribution systems, components, and flight deck controls of a DC-10 airliner. Note: Fuel transfer system components
+
+and lines are used to complete the fuel dump system, the refuel/defuel system, back-up fuel delivery system, and the fuel storage system.
+
+14-17
+
+Outboard
+compartment
+
+Flight engineer’s
+upper panel
+
+Master caution
+
+Overhead
+panel
+
+Fuel
+
+To engine No. 1
+Eng 1 fire
+
+Fuel dump
+On-Off valve (fluid)
+Quantity transmitter
+Temperature sensor
+
+Crossfeed/Transfer
+
+Boast pump pressure
+
+Refuel/Defuel
+
+Off
+
+On
+
+Boost pump
+
+Float control valve
+
+Float control switch
+
+Pressure switch
+
+Check valve
+
+Pressure operated shutoff
+valve (normally closed)
+
+On-Off valve (air)
+
+Off
+
+Fuel
+sched
+
+Open
+
+Mechanically actuated
+
+Electrically actuated
+
+Float shutoff valve
+
+close
+
+Fuel valve
+open
+
+Fuel quantity
+test
+
+No. 3 Tank
+
+Close
+
+–20
+
+0
+
+– 40
+
+20
+
+GROSS WT
+
+Tank 3
+
+Over
+board
+
+Flight engineer’s
+lower panel
+
+Drain/Fill
+Norm
+
+Manifold drain
+& out fill
+Tank 1
+
+40
+
+FUEL
+TEMP
+°C
+– 60
+
+TOTAL FUEL QTY
+
+Outboard
+compartment
+
+L fuel pump
+valve open
+
+Flight
+engineer’s
+lower
+panel
+
+Fuel
+dump
+
+Fuel valve
+open
+
+Main
+compartment
+
+Off
+
+Flight engineer’s
+lower panel (typical
+No. 1 & No. 3 tank)
+
+Flight engineer’s
+lower panel
+(typical 3 places)
+
+APT boost
+pump
+
+Tank pump
+
+Trans
+Fwd
+Aft
+On
+On
+
+Tank pump
+press lo
+
+X-feed
+open
+
+Flight
+engineer’s
+lower panel
+typical 3
+places
+
+Eng 3 fire
+
+To engine No. 3
+
+X-Feed discharge
+
+APU fuel
+press lo
+
+Right
+compartment
+
+Off
+
+R. Aft
+L. Aft
+On
+
+Tank pump
+
+Fwd
+
+Flight
+engineer’s
+upper panel
+
+Run
+
+No. 2 Tank
+
+Off
+
+On
+
+Norm
+
+APU off
+agent arm
+
+Fire control
+
+APU
+master start Fuel pump
+
+To APU
+
+To No. 2 Fuel tank
+fuel quantity indicator
+
+Left
+compartment
+
+Trans
+
+Tank pump
+press lo
+
+Eng 2 fire
+
+To engine No. 2
+
+Flight engineer’s lower
+panel (typical 2 places)
+
+Fuel storage
+
+Fuel
+sched
+
+To No. 1 Fuel tank
+fuel quantity indicator
+
+Main
+compartment
+
+No. 1 Tank
+
+Glareshield (2)
+
+Master caution
+press to reset
+
+Refueling/defueling
+adapter (typical 4 places)
+
+Fuel
+manifold
+drain
+valve
+(typical
+2 places)
+
+Over
+board
+
+LEGEND
+
+Alt
+
+Upper main
+CB panel
+
+Norm
+
+Fuel quantity
+indicator
+power normal
+
+===== PDF PAGE 841 =====
+Vent tube
+Filler cap
+
+Fuel cooled oil cooler (FCOC)
+
+Tank
+Strainer
+On-off valve
+
+Sump drain
+Drain
+
+Engine
+
+Figure 14-23. Jet transport aircraft fly at high altitudes where
+
+temperatures can reach –50 °F. Most have fuel heaters somewhere
+in the fuel system to help prevent fuel icing. This fuel-cooled oil
+cooler on an RB211 turbofan engine simultaneously heats the fuel
+while cooling the oil.
+
+Typically, a helicopter has only one or two fuel tanks located
+near the center of gravity (CG) of the aircraft, which is near
+the main rotor mast. Thus, the tank, or tanks, are usually
+located in or near the aft fuselage. Some helicopter fuel tanks
+are mounted above the engine allowing for gravity fuel feed.
+Others use fuel pumps and pressure feed systems.
+Fundamentally, helicopter fuel systems differ little from those
+on fixed-wing aircraft. Gravity-feed systems have vented
+fuel tanks with an outlet strainer and shutoff valve. Fuel
+flows from the tank through a main filter to the carburetor.
+[Figure 14-24]
+A slightly more complex system for a light turbine-powered
+helicopter is shown in Figure 14-25. Two in-tank electric boost
+pumps send fuel through a shutoff valve rather than a selector
+valve, since there is only one fuel tank. It flows through an
+airframe filter to an engine filter and then to the engine-driven
+fuel pump. The fuel tank is vented and contains an electrically
+operated sump drain valve. A pressure gauge is used to monitor
+boost pump output pressure and differential pressure switches
+warn of fuel filter restrictions. Fuel quantity is derived through
+the use of two in-tank fuel probes with transmitters.
+Larger, heavy, multiengine transport helicopters have
+complex fuel systems similar to jet transport fixed-wing
+aircraft. They may feature multiple fuel tanks, crossfeed
+systems, and pressure refueling.
+
+Fuel System Components
+To better understand aircraft fuel systems and their operation,
+the following discussion of various components of aircraft
+fuel systems is included.
+
+Gascolator*
+*fuel filter with sediment
+trap and drain
+
+Carburetor
+
+Figure 14-24. A simple, gravity-feed fuel system on a Robinson
+
+helicopter.
+
+Fuel Tanks
+There are three types of aircraft fuel tanks: rigid removable
+tanks, bladder tanks, and integral fuel tanks. The type of
+aircraft, its design and intended use, as well as the age of the
+aircraft determine which fuel tank is installed in an aircraft.
+Most tanks are constructed of noncorrosive material(s).
+They are typically made to be vented either through a vent
+cap or a vent line. Aircraft fuel tanks have a low area called
+a sump that is designed as a place for contaminants and
+water to settle. The sump is equipped with a drain valve
+used to remove the impurities during preflight walk-around
+inspection. [Figure 14-26] Most aircraft fuel tanks contain
+some sort of baffling to subdue the fuel from shifting rapidly
+during flight maneuvers. Use of a scupper constructed around
+the fuel fill opening to drain away any spilled fuel is also
+common.
+
+Rigid Removable Fuel Tanks
+Many aircraft, especially older ones, utilize an obvious choice
+for fuel tank construction. A rigid tank is made from various
+materials, and it is strapped into the airframe structure. The
+tanks are often riveted or welded together and can include
+baffles, as well as the other fuel tank features described above.
+They typically are made from 3003 or 5052 aluminum alloy
+or stainless steel and are riveted and seam welded to prevent
+leaks. Many early tanks were made of a thin sheet steel coated
+with a lead/tin alloy called terneplate. The terneplate tanks
+have folded and soldered seams. Figure 14-27 shows the
+parts of a typical rigid removable fuel tank.
+
+14-18
+

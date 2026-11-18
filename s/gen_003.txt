@@ -1,0 +1,1986 @@
+FAA-H-8083-30B General Handbook, chapter 1 (Safety, Ground Operations, & Servicing), PDF pages 22-37
+
+===== PDF PAGE 22 =====
+Chapter 1
+
+Safety, Ground Operations, &
+Servicing
+Aviation maintenance technicians (AMTs) devote a portion of
+their aviation career to ground handling and operating aircraft.
+Technicians also need to be proficient in operating ground
+support equipment. The complexity of support equipment and
+the hazards involved in the ground handling of aircraft require
+that maintenance technicians possess a detailed knowledge of
+safety procedures used in aircraft servicing, taxiing, run-up,
+and in the use of ground support equipment. The information
+provided in this chapter is intended as a general guide for
+safely servicing and operating aircraft.
+
+Electrical Safety
+
+Introducing human factors to aircraft maintenance personnel
+makes them aware of how it affects maintenance performance.
+Although there are many human factors involved when
+dealing with maintenance performance, several areas can be
+considered. Some of these include fatigue, deadline pressure,
+stress, distractions, poor communication skills, complacency,
+and lack of information. Maintenance technicians need to
+understand how human factors can impact their performance
+and safety while completing maintenance tasks.
+
+Wearing or use of proper safety equipment can provide a
+psychological assurance and physically protect the user
+at the same time. The use of rubber gloves, safety glasses,
+rubber or grounded safety mats, and other safety equipment
+contributes to the overall safety of the technician working
+on or with electrical equipment.
+
+Shop Safety
+Keeping the shop, hangars, and flight line clean is essential
+to safety and efficient maintenance. The highest standards of
+orderly work arrangements and cleanliness must be observed
+during the maintenance of aircraft. Where continuous
+work shifts are established, the outgoing shift removes and
+properly stores personal tools, rollaway boxes, work stands,
+maintenance stands, hoses, electrical cords, hoists, crates,
+and boxes that were needed for the work to be accomplished.
+Signs are posted to indicate dangerous equipment or hazardous
+conditions. Additionally, there are signs that provide the
+location of first aid and fire equipment. Safety lanes, pedestrian
+walkways, and fire lanes are painted around the perimeter
+inside the hangars. This is a safety measure to prevent accidents
+and to keep pedestrian traffic out of work areas.
+Safety is everyone’s business. However, technicians and
+supervisors must watch for their own safety and for the
+safety of others working around them. Communication is
+key to ensuring everyone’s safety. If other personnel are
+conducting their actions in an unsafe manner, communicate
+with them, reminding them of their safety and that of others
+around them.
+
+Physiological Safety
+Working with electrical equipment poses certain physiological
+safety hazards. When electricity is applied to the human body,
+it can create severe burns in the area of entrance and at the
+point of exit from the body. In addition, the nervous system is
+affected and can be damaged or destroyed. To safely deal with
+electricity, the technician must have a working knowledge
+of the principles of electricity and a healthy respect for its
+capability to do both work and damage.
+
+Two factors that affect safety when dealing with electricity are
+fear and overconfidence. These two factors are major causes
+of accidents involving electricity. While a certain amount of
+respect for electrical equipment is healthy and a certain level
+of confidence is necessary, extremes of either can be deadly.
+Lack of respect is often due to lack of knowledge. Personnel
+who attempt to work with electrical equipment and have
+no knowledge of the principles of electricity lack the skills
+to deal with electrical equipment safely. Overconfidence
+leads to risk taking. The technician who does not respect
+the capabilities of electricity will, sooner or later, become a
+victim of electricity’s power.
+
+Fire Safety
+Anytime current flows, whether during generation or
+transmission, a by-product is heat. The greater the current
+flow, the greater the amount of heat created. When this heat
+becomes too great, protective coatings on wiring and other
+electrical devices can melt, causing shorting. That in turn
+leads to more current flow and greater heat. This heat can
+become so great that metals can melt, liquids vaporize, and
+flammable substances ignite.
+An important factor in preventing electrical fires is to keep
+the area around electrical work or electrical equipment
+
+1-1
+
+===== PDF PAGE 23 =====
+clean, uncluttered, and free of all unnecessary flammable
+substances. Ensure that all power cords, wires, and lines
+are free of kinks and bends that can damage the wire. Never
+place wires or cords where they may be walked on or run
+over by other equipment. When several wires inside a power
+cord are broken, the current passing through the remaining
+wires increases. This generates more heat than the insulation
+coatings on the wire are designed to withstand and can
+lead to a fire. Closely monitor the condition of electrical
+equipment. Repair or replace damaged equipment before
+further use.
+Safety Around Compressed Gases
+Compressed air, like electricity, is an excellent tool when
+it is under control. A typical nitrogen bottle set is shown
+in Figure 1-1. The following “dos and don’ts” apply when
+working with or around compressed gases:
+•
+
+Inspect air hoses frequently for breaks and worn spots.
+Unsafe hoses must be replaced immediately.
+
+•
+
+Keep all connections in a “no-leak condition.”
+
+•
+
+Maintain in-line oilers, if installed, in operating
+condition.
+
+•
+
+Ensure the system has water sumps installed and
+drained at regular intervals.
+
+•
+
+Filter air used for paint spraying to remove oil and
+water.
+
+•
+
+Never use compressed air to clean hands or clothing.
+Pressure can force debris into the flesh leading to
+infection.
+
+•
+
+Never spray compressed air in the area of other
+personnel.
+
+•
+
+Straighten, coil, and properly store air hoses when not
+in use.
+
+•
+
+Many accidents involving compressed gases occur
+during aircraft tire mounting. To prevent possible
+personal injury, use tire dollies and other appropriate
+devices to mount or remove heavy aircraft tires.
+
+When inflating tires on any type of aircraft wheels, always
+use tire cage guards. Extreme caution is required to avoid
+over inflation of high-pressure tires because of possible
+personal injury. Use pressure regulators on high-pressure air
+bottles to eliminate the possibility of over inflation of tires.
+Tire cages are not required when adjusting pressure in tires
+installed on an aircraft.
+Safety Around Hazardous Materials
+Material safety diamonds are important with regard to
+shop safety. These diamond-shaped labels are a simple
+and quick way to determine the risk of hazardous material
+
+within the associated container and, if used properly with
+the tags, indicate what personal safety equipment to use.
+The most observable portion of the Safety Data Sheets (SDSs)
+(formerly known as Material Safety Data Sheet (MSDS))
+label is the risk diamond. It is a four-color segmented
+diamond that represents flammability (red), reactivity
+(yellow), health (blue), and special hazard (white). In the
+flammability, reactivity, and health blocks, there is a number
+from 0 to 4. Zero represents little or no hazard to the user,
+while 4 means that the material is very hazardous. The special
+hazard segment contains a word or abbreviation to represent
+the specific hazard. Some examples are RAD for radiation,
+ALK for alkali materials, Acid for acidic materials, and
+CARC for carcinogenic materials. The letter W with a line
+through it stands for high reactivity to water. [Figure 1-2]
+The SDS is a more detailed version of the chemical safety
+issues. These forms have the detailed breakdown of the
+chemicals, including formulas and action to take if personnel
+come in contact with the chemicals. All sheets have the same
+information requirements; however, the exact location of the
+information on the sheet may vary depending on the SDS
+manufacturer. These forms are necessary for a safe shop that
+meets all the requirements of the governing safety body, the
+U.S. Department of Labor Occupational Safety and Health
+Administration (OSHA).
+Safety Around Machine Tools
+Hazards in a shop increase when the operation of lathes, drill
+presses, grinders, and other types of machines are used. Each
+machine has its own set of safety practices. The following
+discussions are necessary to avoid injury.
+The drill press can be used to bore and ream holes, to do
+facing, milling, and other similar types of operations. The
+following precautions can reduce the chance of injury:
+•
+
+Wear eye protection.
+
+•
+
+Securely clamp all work.
+
+•
+
+Set the proper revolutions per minute (rpm) for the
+material used.
+
+•
+
+Do not allow the spindle to feed beyond its limit of
+travel while drilling.
+
+•
+
+Stop the machine before adjusting work or attempting
+to remove jammed work.
+
+•
+
+Clean the area when finished.
+
+Lathes are used in turning work of a cylindrical nature.
+This work may be performed on the inside or outside of the
+cylinder. The work is secured in the chuck to provide the
+rotary motion, and the forming is done by contact with a
+1-2
+
+===== PDF PAGE 24 =====
+during milling.
+•
+
+Select the proper tools for the job.
+
+•
+
+Do not change the feed speed while working.
+
+•
+
+Lower the table before moving under or away from
+the work.
+
+•
+
+Ensure all clamps and bolts are passable under
+the arbor.
+
+Grinders are used to sharpen tools, dress metal, and perform
+other operations involving the removal of small amounts
+of metal. The following precautions can reduce the chance
+of injury:
+
+Figure 1-1. A typical nitrogen bottle.
+
+•
+
+Wear eye protection, even if the grinder has a shield.
+
+•
+
+Inspect the grinding wheel for defects prior to use.
+
+•
+
+Do not force grinding wheels onto the spindle. They fit
+snugly but do not require force to install them. Placing
+side pressure on a wheel could cause it to explode.
+
+•
+
+Check the wheel flanges and compression washer.
+They should be one-third the diameter of the wheel.
+
+•
+
+Do not stand in the arc of the grinding wheel while
+operating in case the wheel explodes.
+
+Welding must be performed only in designated areas. Any
+part that is to be welded must be removed from the aircraft, if
+possible. Repair would then be accomplished in a controlled
+environment, such as a welding shop. A welding shop must
+be equipped with proper tables, ventilation, tool storage, and
+fire prevention and extinguishing equipment.
+
+securely mounted tool. The following precautions can reduce
+the chance of injury:
+•
+
+Wear eye protection.
+
+•
+
+Use sharp cutting tools.
+
+•
+
+Allow the chuck to stop on its own. Do not attempt to
+stop the chuck by hand pressure.
+
+•
+
+Examine tools and work for cracks or defects before
+starting the work.
+
+•
+
+Do not set tools on the lathe. Tools may be caught by
+the work and thrown.
+
+•
+
+Before measuring the work, allow it to stop in the lathe.
+
+Milling machines are used to shape or dress; cut gear
+teeth, slots, or key ways; and similar work. The following
+precautions can reduce the chance of injury:
+•
+
+Wear eye protection.
+
+•
+
+Clean the work bed prior to work.
+
+•
+
+Secure the work to the bed to prevent movement
+
+2
+
+4
+W
+
+3
+
+Figure 1-2. A risk diamond.
+
+1-3
+
+===== PDF PAGE 25 =====
+Welding on an aircraft should be performed outside, if
+possible. If welding in the hangar is necessary, observe
+these precautions:
+•
+
+During welding operations, open fuel tanks and work
+on fuel systems are not permitted.
+
+•
+
+Painting is not permitted.
+
+•
+
+No aircraft are to be within 35 feet of the welding
+operation.
+
+•
+
+No flammable material is permitted in the area around
+the welding operation.
+
+•
+
+Only qualified welders are permitted to do the work.
+
+•
+
+The welding area is to be roped off and placarded.
+
+•
+
+Fire extinguishing equipment of a minimum rating
+of 20B must be in the immediate area with 80B rated
+equipment as a backup.
+
+•
+
+Trained fire watches are to be present in the area
+around the welding operation.
+
+•
+
+The aircraft being welded must be in a towable
+condition, with a tug attached, and the aircraft parking
+brakes released. A qualified operator must be on the
+tug and mechanics available to assist in the towing
+operation should it become necessary to tow the
+aircraft. If the aircraft is in the hangar, the hangar
+doors are to be open.
+
+Flight Line Safety
+Hearing Protection
+The flight line is a place of dangerous activity. Technicians
+who perform maintenance on the flight line must constantly
+be aware of what is going on around them. The noise on a
+flight line comes from many places. Aircraft are only one
+source of noise. There are auxiliary power units (APUs), fuel
+trucks, baggage handling equipment, and so forth. Each has
+its own frequency of sound. Combined all together, the noise
+on the ramp or flight line can cause hearing loss.
+There are many types of hearing protection available.
+Hearing protection can be external or internal. Earmuffs or
+headphones are considered external protection. The internal
+type of hearing protection fits into the auditory canal. Both
+types reduce the sound level reaching the eardrum and reduce
+the chances of hearing loss.
+Hearing protection is essential when working with
+pneumatic drills, rivet guns, or other loud tools. Even short
+duration exposure to these sounds can cause hearing loss
+because of their high frequency. Continued exposure will
+cause hearing loss.
+
+Foreign Object Damage (FOD)
+Foreign object damage (FOD) is any damage to aircraft,
+personnel, or equipment caused by any loose object. These
+loose objects can be anything, such as broken runway
+concrete, shop towels, safety wire, etc. To control FOD, keep
+ramp and operation areas clean, have a tool control program,
+and provide convenient receptacles for used hardware, shop
+towels, and other consumables.
+Never leave tools or other items around the intake of a turbine
+engine. The modern gas turbine engine creates a low-pressure
+area in front of the engine that causes any loose object to
+be drawn into the engine. The exhaust of these engines
+can propel loose objects great distances with enough force
+to damage anything that is hit. The importance of a FOD
+program cannot be overstressed when a technician considers
+the cost of engines, components, or a human life.
+Safety Around Airplanes
+As with the previously mentioned items, it is important to
+be aware of propellers. Technicians cannot assume the pilot
+of a taxiing aircraft can see them and must stay within the
+pilot’s view while on the ramp area. Turbine engine intakes
+and exhaust can also be very hazardous areas. Smoking or
+open flames are not permitted anywhere near an aircraft in
+operation. Be aware of aircraft fluids that can be detrimental
+to skin. When operating support equipment around aircraft,
+be sure to allow space between it and the aircraft, and secure
+it so it cannot roll into the aircraft. All items in the area of
+operating aircraft must be stowed properly.
+Safety Around Helicopters
+Every type of helicopter has different features. These
+differences must be learned to avoid damaging the helicopter
+or injuring the technician. When approaching a helicopter
+while the blades are turning, adhere to the following
+guidelines to ensure safety.
+•
+
+Observe the rotor head and blades to see if they
+are level. This allows maximum clearance when
+approaching the helicopter.
+
+•
+
+Approach the helicopter in view of the pilot.
+
+•
+
+Never approach a helicopter carrying anything with
+a vertical height that the blades could hit. This could
+cause blade damage and injury to the individual.
+
+•
+
+Never approach a single-rotor helicopter from the rear.
+The tail rotor is invisible when operating.
+
+•
+
+Never go from one side of the helicopter to the other
+by going around the tail. Always go around the nose
+of the helicopter.
+
+When securing the rotor on helicopters with elastomeric
+1-4
+
+===== PDF PAGE 26 =====
+bearings, check the maintenance manual for the proper
+method. Using the wrong method could damage the bearing.
+Fire Safety
+Performing maintenance on aircraft and their components
+requires the use of electrical tools that can produce sparks,
+heat-producing tools and equipment, flammable and
+explosive liquids, and gases. As a result, a high potential
+exists for fire to occur. Measures must be taken to prevent a
+fire from occurring and to have a plan for extinguishing it.
+The key to fire safety is knowledge of what causes a fire, how
+to prevent it, and how to put it out. This knowledge must be
+instilled in each technician, emphasized by their supervisors
+through sound safety programs, and occasionally practiced.
+Airport or other local fire departments can normally be
+called upon to assist in training personnel and helping to
+establish fire safety programs for the hangar, shops, and
+flight line.
+
+Fire Protection
+Requirements for Fire to Occur
+Three things are required for a fire. Remove any one of these
+things and the fire extinguishes:
+1.
+
+Fuel—combines with oxygen in the presence of heat,
+releasing more heat. As a result, it reduces itself to
+other chemical compounds.
+
+2.
+
+Heat—accelerates the combining of oxygen with fuel,
+in turn releasing more heat.
+
+3.
+
+Oxygen—the element that combines chemically with
+another substance through the process of oxidation.
+Rapid oxidation, accompanied by a noticeable release
+of heat and light, is called combustion or burning.
+[Figure 1-3]
+
+Classification of Fires
+For commercial purposes, the National Fire Protection
+Association (NFPA) has classified fires into three basic types:
+Class A, Class B, and Class C.
+1.
+
+Class A fires involve ordinary combustible materials,
+such as wood, cloth, paper, upholstery materials, and
+so forth.
+
+2.
+
+Class B fires involve flammable petroleum products
+or other flammable or combustible liquids, greases,
+solvents, paints, and so forth.
+
+3.
+
+Class C fires involve energized electrical wiring and
+equipment.
+
+A fourth class of fire, the Class D fire, involves flammable
+metal. Class D fires are not commercially considered by
+the NFPA to be a basic type of fire since they are caused
+
+by a Class A, B, or C fire. Usually Class D fires involve
+magnesium in the shop, or in aircraft wheels and brakes, or
+are the result of improper welding operations.
+Any one of these fires can occur during maintenance on or
+around, or operations involving aircraft. There is a particular
+type of extinguisher that is most effective for each type of fire.
+Types and Operation of Shop and Flight Line Fire
+Extinguishers
+Water extinguishers are the best type to use on Class A fires.
+Water has two effects on fire. It deprives fire of oxygen and
+cools the material being burned.
+Since most petroleum products float on water, water-type fire
+extinguishers are not recommended for Class B fires. Extreme
+caution must be used when fighting electrical fires (Class C)
+with water-type extinguishers. All electrical power must be
+removed or shut off to the burning area. Additionally, residual
+electricity in capacitors, coils, and so forth must be considered
+to prevent severe injury or possibly death from electrical shock.
+Never use water-type fire extinguishers on Class D fires. The
+cooling effect of water causes an explosive expansion of the
+metal, because metals burn at extremely high temperatures.
+Water fire extinguishers are operated in a variety of ways.
+Some are hand pumped, while others are pressurized. The
+pressurized types of extinguishers may have a gas charge
+stored in the container with the water, or it may contain a
+“soda-acid” container where acid is spilled into a container
+of soda inside the extinguisher. The chemical reaction of
+the soda and the acid causes pressure to build inside the fire
+extinguisher, forcing the water out.
+Carbon dioxide (CO2) extinguishers are used for Class A, B,
+and C fires, extinguishing the fire by depriving it of oxygen.
+[Figure 1-4] Additionally, like water-type extinguishers, CO2
+cools the burning material. Never use CO2 on Class D fires.
+As with water extinguishers, the cooling effect of CO2 on
+the hot metal can cause explosive expansion of the metal.
+When using CO 2 fire extinguishers, all parts of the
+extinguisher can become extremely cold, and remain so
+for a short time after operation. Wear protective equipment
+or take other precautions to prevent cold injury, such as
+frostbite. Extreme caution must be used when operating CO2
+fire extinguishers in closed or confined areas. Not only can
+the fire be deprived of oxygen, but so too can the operator.
+CO2 fire extinguishers generally use the self-expelling
+method of operation. This means that the CO2 has sufficient
+pressure at normal operating pressure to expel itself. This
+1-5
+
+===== PDF PAGE 27 =====
+It takes three things to start a fire:
+OXYGEN, HEAT, FUEL
+
+Oxygen
+
+Fuel
+
+Friction (heat)
+
+Figure 1-3. Three elements of fire.
+
+pressure is held inside the container by some type of seal
+or frangible disk that is broken or punctured by a firing
+mechanism, usually a pin. This means that once the seal or
+disk is broken, pressure in the container is released and the
+fire extinguisher is spent, requiring replacement. [Figure 1-5]
+Halogenated hydrocarbon extinguishers are most effective
+on Class B and C fires. They can be used on Class A and D
+fires, but they are less effective. Halogenated hydrocarbon,
+commonly called Freon™ by the industry, are numbered
+according to chemical formulas with Halon™ numbers.
+
+acts rapidly on fires by producing a heavy blanketing mist that
+eliminates oxygen from the fire source. More importantly, it
+interferes chemically with the combustion process of the fire.
+Furthermore, it has outstanding properties in preventing reflash after the fire has been extinguished.
+Bromotrifluoromethane (Halon 1301), chemical formula
+CF3Br, is also a liquefied gas and has a UL toxicity rating of
+6. It has all the characteristics of Halon 1211. The significant
+difference between the two is Halon 1211 forms a spray
+similar to CO2, while Halon 1301 has a vapor spray that is
+more difficult to direct.
+Note: The EPA has restricted Halon to its 1986 production
+level due to its effect on the ozone layer.
+Dry powder extinguishers, while effective on Class B and
+C fires, are best for use on Class D fires. The method of
+operation of dry powder fire extinguishers varies from gas
+cartridge charges, stored pressure within the container that
+forces the powder charge out of the container, to scooping
+pails or buckets of the powder from large containers or barrels
+to toss on the fire.
+
+Carbon tetrachloride (Halon 104), chemical formula CCl4,
+has an Underwriters Laboratory (UL) toxicity rating of 3. As
+such, it is extremely toxic. [Figure 1-6] Hydrochloric acid
+vapor, chlorine, and phosgene gas are produced whenever
+carbon tetrachloride is used on ordinary fires. The amount of
+phosgene gas is increased whenever carbon tetrachloride is
+brought in direct contact with hot metal, certain chemicals,
+or continuing electrical arcs. It is not approved for any fire
+extinguishing use. Old containers of Halon 104 found in or
+around shops or hangars should be disposed of in accordance
+with Environmental Protection Agency (EPA) regulations
+and local laws and ordinances.
+Methyl bromide (Halon 1001), chemical formula CH3Br,
+is a liquefied gas with a UL toxicity rating of 2. It is very
+toxic and corrosive to aluminum alloys, magnesium, and
+zinc. Halon 1001 is not recommended for aircraft use.
+Chlorobromomethane (Halon 1011), chemical formula
+CH2ClBr, is a liquefied gas with a UL toxicity rating of
+3. Like methyl bromide, Halon 1011 is not recommended
+for aircraft use. Dibromodifluoromethane (Halon 1202),
+chemical formula CBr2F2, has a UL toxicity rating of 4. Halon
+1202 is not recommended for aircraft use.
+Bromochlorodifluoromethane (Halon 1211), chemical formula
+CBrClF2, is a liquefied gas with a UL toxicity rating of 5. It
+is colorless, noncorrosive, and evaporates rapidly leaving no
+residue. It does not freeze or cause cold burns and does not
+harm fabrics, metals, or other materials it contacts. Halon 1211
+
+Figure 1-4. Carbon dioxide fire extinguisher.
+
+1-6
+
+===== PDF PAGE 28 =====
+•
+
+Gauge or indicator in operable range
+
+•
+
+Proper weight
+
+•
+
+No nozzle obstruction
+
+•
+
+No obvious damage
+
+A
+
+B
+
+C
+
+Water and antifreeze
+
+X
+
+Soda-acid (water)
+
+X
+
+Wetting agent
+
+X
+
+Foam
+
+X
+
+X
+
+Loaded stream
+
+X
+
+X+
+
+Multipurpose dry chemical
+
+X+
+
+X
+
+X
+
+Carbon dioxide
+
+X+
+
+X
+
+Dry chemical
+
+X
+
+X
+
+Bromotrifluoromethane — Halon 1301
+
+X
+
+X
+
+Bromochlorodifluoromethane — Halon 1211
+
+X
+
+X
+
+D
+
+Hand
+
+Classes of Fire
+
+Extinguishing Materials
+
+Pump
+
+Airport or other local fire departments can usually help in
+preparing or providing extinguisher checklists. In addition,
+these fire departments can be helpful in answering questions
+
+Stored
+Pressure
+
+Proper location of appropriate extinguisher
+
+All external dirt and rust removed
+
+Cartridge of
+N2 Cylinder
+
+•
+
+•
+
+Self-Expelling
+
+Inspection of Fire Extinguishers
+Fire extinguishers need to be checked periodically utilizing
+a checklist. If a checklist is unavailable, check the following
+as a minimum:
+
+Safety seals unbroken
+
+Self-Generating
+
+Dry powder is not recommended for aircraft use, except
+on metal fires, as a fire extinguisher. The leftover chemical
+residues and dust often make cleanup difficult and can
+damage electronic or other delicate equipment.
+
+•
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+
+Dry powder (metal fires)
+
+X
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+X
+X
+X
+
+X
+
+X
+
++ Smaller sizes of these extinguishers are not recognized for use on these classes of fire.
+Figure 1-5. Extinguisher operation and methods of expelling.
+
+Group
+
+Definition
+
+Examples
+
+6 (Least toxic)
+
+Gases or vapors in concentrations up to 20% by volume, for durations of
+exposure of up to approximately 2 hours, do not appear to produce injury.
+
+Bromotrifluoromethane
+(Halon 1301)
+
+5a
+
+Gases or vapors much less toxic than Group 4, but more toxic than Group 6.
+
+Carbon dioxide
+
+4
+
+Gases or vapors in concentrations of the order of 2 to 2 ½%, for durations
+of exposure of up to approximately 2 hours are lethal or produce serious injury.
+
+Dibromodifluormethane
+(Halon 1202)
+
+3
+
+Gases or vapors in concentrations of the order of 2 to 2 ½%, for durations
+of exposure of the order of 1 hour are lethal or produce serious injury.
+
+2
+
+Gases or vapors in concentrations of approximately ½ to 1%, for durations
+of exposure of up to approximately ½ hour are lethal or produce serious injury.
+
+Bromochloromethane
+(Halon 1011)
+Carbon tetrachloride
+(Halon 104)
+Methyl bromide
+(Halon 1001)
+
+Figure 1-6. Toxicity table.
+
+1-7
+
+===== PDF PAGE 29 =====
+and assisting in obtaining repairs to or replacement of fire
+extinguishers.
+Identifying Fire Extinguishers
+Fire extinguishers are marked to indicate suitability for a
+particular class of fire. The markings on Figure 1-7 must be
+placed on the fire extinguisher and in a conspicuous place
+in the vicinity of the fire extinguisher. When the location is
+marked, however, take extreme care to ensure that the fire
+extinguisher kept at that location is in fact the type depicted
+by the marking. In other words, if a location is marked for a
+Class B fire extinguisher, ensure that the fire extinguisher in
+that location is in fact suitable for Class B fires.
+Markings must be applied by decalcomanias (decals),
+painting, or similar methods. They are to be legible and as
+durable as necessary for the location. For example, markings
+used outside need to be more durable than those in the hangar
+or office spaces.
+When markings are applied to the extinguisher, they are placed
+on the front of the shell, if one is installed, above or below the
+extinguisher nameplate. Markings must be large enough and
+in a form that is easily seen and identifiable by the average
+person with average eyesight at a distance of at least 3 feet.
+When markings are applied to wall panels, and so forth, in
+the vicinity of extinguishers, they must be large enough and
+in a form that is easily seen and identifiable by the average
+person with average eyesight at a distance of at least 25 feet.
+[Figure 1-8]
+Using Fire Extinguishers
+When using a fire extinguisher, ensure the correct type is
+used for the fire. Most extinguishers have a pin to pull that
+allows the handle to activate the agent. Stand back 8 feet and
+aim at the base of the fire or flames. Squeeze the lever and
+sweep side to side until the fire is extinguished.
+
+Tie-Down Procedures for Land Planes
+
+Securing Light Aircraft
+
+Light aircraft are most often secured with ropes tied only at
+the aircraft tie-down rings provided for securing purposes.
+Rope is never to be tied to a lift strut, since this practice can
+bend a strut if the rope slips to a point where there is no slack.
+Since manila rope shrinks when wet, about 1 inch (1") of
+slack needs to be provided for movement. Too much slack,
+however, allows the aircraft to jerk against the ropes. Tight
+tie-down ropes put inverted flight stresses on the aircraft and
+many are not designed to take such loads.
+A tie-down rope holds no better than the knot. Anti-slip knots,
+such as the bowline, are quickly tied and are easy to untie.
+[Figure 1-10] Aircraft not equipped with tie-down fittings
+must be secured in accordance with the manufacturer’s
+instructions. Ropes are to be tied to outer ends of struts on
+high-wing monoplanes and suitable rings provided where
+structural conditions permit, if the manufacturer has not
+already provided them.
+
+Securing Heavy Aircraft
+The normal tie-down procedure for heavy aircraft can be
+accomplished with rope or cable tie-down. The number of
+tie-downs are governed by anticipated weather conditions.
+Most heavy aircraft are equipped with surface control locks
+that are engaged or installed when the aircraft is secured.
+Since the method of locking controls vary on different
+types of aircraft, check the manufacturer’s instructions for
+proper installation or engaging procedures. If high winds
+are anticipated, control surface battens can also be installed
+to prevent damage. Figure 1-11 illustrates four common tiedown points on heavy aircraft.
+The normal tie-down procedure for heavy aircraft includes
+the following:
+1.
+
+Head aircraft into prevailing wind whenever possible.
+
+Tie-Down Procedures
+
+2.
+
+Install control locks, all covers, and guards.
+
+Preparation of Aircraft
+Aircraft are to be tied down after each flight to prevent
+damage from sudden storms. The direction that aircraft are
+to be parked and tied down is determined by prevailing or
+forecast wind direction.
+
+3.
+
+Chock all wheels fore and aft. [Figure 1-12]
+
+4.
+
+Attach tie-down reels to aircraft tie-down loops, tiedown anchors, or tie-down stakes. Use tie-down stakes
+for temporary tie-down only. If tie-down reels are not
+available, 1⁄4" wire cable or 11⁄2" manila line may be
+used.
+
+Aircraft are to be headed into the wind, depending on
+the locations of the parking area’s fixed tie-down points.
+Spacing of tie-downs need to allow for ample wingtip
+clearance. [Figure 1-9] After the aircraft is properly
+located, lock the nosewheel or the tail wheel in the
+fore-and-aft position.
+
+Tie-Down Procedures for Seaplanes
+Seaplanes can be moored to a buoy, weather permitting, or
+tied to a dock. Weather causes wave action, and waves cause
+the seaplane to bob and roll. This bobbing and rolling while
+
+1-8
+
+===== PDF PAGE 30 =====
+ORDINARY
+
+ORDINARY
+
+FLAMMABLE
+
+COMBUSTIBLES
+
+LIQUIDS
+
+ELECTRICAL
+
+COMBUSTIBLE
+
+EQUIPMENT
+
+METALS
+
+COMBUSTIBLES
+1. Water
+FLAMMABLE
+
+ELECTRICAL
+
+LIQUIDS
+
+EQUIPMENT
+
+2. Carbon Dioxide, Dry Chemical
+Bromochlorodifluoromethane, and Bromotrifluoromethane
+
+ORDINARY
+
+FLAMMABLE
+
+COMBUSTIBLES
+
+LIQUIDS
+
+ELECTRICAL
+
+EQUIPMENT
+
+Figure 1-8. Identification of fire extinguisher type location.
+
+3. Multipurpose Dry Chemical
+FLAMMABLE
+
+ELECTRICAL
+
+2'
+Major axis
++
+
+CAPABILITY
+LIQUIDS
+
+EQUIPMENT
+
+10'
+
+4. Multipurpose Dry Chemical (Insufficient Agent for ‘A’ Rating)
+
+COMBUSTIBLE
+6'
+
+6'
+3'
+
+3'
+
+3'
+
+3'
+
+METALS
+5. Dry Powder
+Figure 1-7. Typical extinguisher markings.
+
+tied to a dock can cause damage.
+
+Figure 1-9. Diagram of tiedown dimensions.
+
+When warning of an impending storm is received and it is
+not possible to fly the aircraft out of the storm area, some
+compartments of the seaplane can be flooded, partially
+sinking the aircraft. Tie down the aircraft securely to anchors.
+Seaplanes tied down on land have been saved from high-wind
+damage by filling the floats with water in addition to tying
+the aircraft down in the usual manner. During heavy weather,
+if possible, remove the seaplane from the water and tie down
+in the same manner as a land plane. If this is not possible, the
+seaplane could be anchored in a sheltered area away from
+the wind and waves.
+
+Tie-Down Procedures for Ski Planes
+Ski planes are tied down, if the securing means are available,
+in the same manner as land planes. Ski-equipped airplanes
+can be secured on ice or in snow by using a device called a
+dead-man. A dead-man is any item at hand, such as a piece
+of pipe, log, and so forth, that a rope is attached to and buried
+in a snow or ice trench. Using caution to keep the free end
+of the rope dry and unfrozen, snow is packed in the trench.
+If available, pour water into the trench; when it is frozen, tie
+down the aircraft with the free end of the rope.
+
+1-9
+
+===== PDF PAGE 31 =====
+Operators of ski-equipped aircraft sometimes pack soft snow
+around the skis, pour water on the snow, and permit the skis
+to freeze to the ice. This, in addition to the usual tie-down
+procedures, aids in preventing damage from windstorms.
+Caution must be used when moving an aircraft that has been
+secured in this manner to ensure that a ski is not still frozen to
+the ground. Otherwise, damage to the aircraft or skis can occur.
+Tie-Down Procedures for Helicopters
+Helicopters, like other aircraft are secured to prevent structural
+damage that can occur from high-velocity surface winds.
+Helicopters are to be secured in hangars, when possible. If not,
+they must be tied down securely. Helicopters that are tied down
+can usually sustain winds up to approximately 65 mph. If at all
+possible, helicopters are evacuated to a safe area if tornadoes
+or hurricanes are anticipated. For added protection, helicopters
+can be moved to a clear area so that they are not damaged by
+flying objects or falling limbs from surrounding trees.
+If high winds are anticipated with the helicopter parked in the
+open, tie down the main rotor blades. Detailed instructions for
+securing and mooring each type of helicopter can be found in
+the applicable maintenance manual. [Figure 1-13] Methods
+of securing helicopters vary with weather conditions, the
+
+This one must be under
+
+Aft fuselage tiedown ring
+
+Nose landing gear tiedown loop
+
+Underside of wing
+tiedown loop
+
+Main gear wheel tiedown loop
+
+Figure 1-11. Common tie-down points.
+
+length of time the aircraft is expected to remain on the ground,
+and location and characteristics of the aircraft. Wheel chocks,
+control locks, rope tie-downs, mooring covers, tip socks, tie-
+
+Up through and
+around back
+
+Back down
+through
+
+A Tying a Bowline Knot
+Over
+Over
+Under
+
+Under
+B Tying a Square Knot
+Figure 1-10. Knots commonly used for aircraft tie-down.
+
+1-10
+down assemblies, parking brakes, and rotor brakes are used
+
+===== PDF PAGE 32 =====
+Procedures for Securing Powered Parachutes
+When securing powered parachutes, pack the parachute in a
+bag to prevent the chute from filling with air from the wind
+and dragging the seat and engine. The engine and seat can
+also be secured if needed.
+
+Ground Movement of Aircraft
+Engine Starting and Operation
+The following instructions cover the starting procedures
+for reciprocating, turboprop, turbofan, and APU. These
+procedures are presented only as a general guide for
+familiarization with typical procedures and methods. Detailed
+instructions for starting a specific type of engine can be found
+in the manufacturer’s instruction book.
+Figure 1-12. Wheels chocked fore and aft.
+
+to secure helicopters.
+Typical mooring procedures are as follows:
+1.
+
+Face the helicopter in the direction that the highest
+forecast wind or gusts are anticipated.
+
+2.
+
+Spot the helicopter slightly more than one rotor span
+distance from other aircraft.
+
+3.
+
+Place wheel chocks ahead of and behind all wheels
+(where applicable). On helicopters equipped with
+skids, retract the ground handling wheels, lower
+the helicopter to rest on the skids, and install wheel
+position lock pins or remove the ground-handling
+wheels. Secure ground-handling wheels inside the
+aircraft or inside the hangar or storage buildings. Do
+not leave them unsecured on the flight line.
+
+4.
+
+Align the blades and install tie-down assemblies
+as prescribed by the helicopter manufacturer.
+[Figure 1-14] Tie straps snugly without strain, and
+during wet weather, provide some slack to avoid the
+possibility of the straps shrinking, causing undue stress
+on the aircraft and/or its rotor system(s).
+
+5.
+
+Fasten the tie-down ropes or cables to the forward
+and aft landing gear cross tubes and secure to ground
+stakes or tie-down rings.
+
+Procedures for Securing Weight-Shift-Control
+There are many types of weight-shift-controlled aircraft—
+engine powered and non-powered. These types of aircraft are
+very susceptible to wind damage. The wings can be secured
+in a similar manner as a conventional aircraft in light winds.
+In high winds, the mast can be disconnected from the wing
+and the wing placed close to the ground and secured. This
+type of aircraft can also be partially disassembled or moved
+into a hangar for protection.
+
+Before starting an aircraft engine:
+1.
+
+Position the aircraft to head into the prevailing wind
+to ensure adequate airflow over the engine for cooling
+purposes.
+
+2.
+
+Make sure that no property damage or personal injury
+occurs from the propeller blast or jet exhaust.
+
+3.
+
+If external electrical power is used for starting, ensure
+that it can be removed safely, and it is sufficient for
+the total starting sequence.
+
+4.
+
+During any and all starting procedures, a “fireguard”
+equipped with a suitable fire extinguisher shall be
+stationed in an appropriate place. A fireguard is
+someone familiar with aircraft starting procedures.
+The fire extinguisher should be a CO2 extinguisher
+of at least 5-pound capacity. The appropriate place is
+adjacent to the outboard side of the engine, in view of
+the pilot, and also where they can observe the engine/
+aircraft for indication of starting problems.
+
+5.
+
+If the aircraft is turbine-engine powered, the area in
+front of the jet inlet must be kept clear of personnel,
+property, and/or debris (FOD).
+
+6.
+
+These “before starting” procedures apply to all aircraft
+powerplants.
+
+7.
+
+Follow manufacturer’s checklists for start procedures
+and shutdown procedures.
+
+Reciprocating Engines
+The following procedures are typical of those used to start
+reciprocating engines. There are, however, wide variations
+in the procedures for the many reciprocating engines. Do not
+attempt to use the methods presented here for actually starting
+an engine. Instead, always refer to the procedures contained
+in the applicable manufacturer’s instructions. Reciprocating
+engines are capable of starting in fairly low temperatures
+1-11
+
+===== PDF PAGE 33 =====
+Before starting a radial engine that has been shut down for
+more than 30 minutes, check the ignition switch for off. Turn
+the propeller three or four complete revolutions by hand to
+detect a hydraulic lock, if one is present. Any liquid present
+in a cylinder is indicated by the abnormal effort required to
+rotate the propeller or by the propeller stopping abruptly
+during rotation. Never use force to turn the propeller when
+a hydraulic lock is detected. Sufficient force can be exerted
+on the crankshaft to bend or break a connecting rod if a lock
+is present.
+
+Figure 1-13. Example of mooring of a helicopter.
+
+without the use of engine heating or oil dilution, depending
+on the grade of oil used.
+The various covers (wing, tail, flight deck, wheel, and
+so forth) protecting the aircraft must be removed before
+attempting to turn the engine. Use external sources of
+electrical power when starting engines equipped with electric
+starters, if possible or needed. This eliminates an excessive
+burden on the aircraft battery. Leave all unnecessary electrical
+equipment off until the generators are furnishing electrical
+power to the aircraft power bus.
+
+To eliminate a lock, remove either the front or rear spark
+plug from the lower cylinders and pull the propeller through.
+Never attempt to clear the hydraulic lock by pulling the
+propeller through in the direction opposite to normal
+rotation. This tends to inject the liquid from the cylinder into
+the intake pipe. The liquid is drawn back into the cylinder
+with the possibility of complete or partial lock occurring
+on the subsequent start.
+To start the engine, proceed as follows:
+1.
+
+Turn the auxiliary fuel pump on, if the aircraft is
+so equipped.
+
+2.
+
+Place the mixture control to the position recommended
+for the engine and carburetor combination being
+started. As a general rule, put the mixture control in
+the “idle cut-off” position for fuel injection and in the
+
+Align the blades
+
+Figure 1-14. Securing helicopter blades and fuselage.
+
+1-12
+
+===== PDF PAGE 34 =====
+“full rich” position for float-type carburetors. Many
+light aircraft are equipped with a mixture control pull
+rod that has no detent intermediate positions. When
+such controls are pushed in flush with the instrument
+panel, the mixture is set in the “full rich” position.
+Conversely, when the control rod is pulled all the
+way out, the carburetor is in the “idle cut-off” or “full
+lean” position. The operator can select unmarked
+intermediate positions between these two extremes
+to achieve any desired mixture setting.
+3.
+
+Open the throttle to a position that provides 1,000 to
+1,200 rpm (approximately 1⁄8" to 1⁄2" from the “closed”
+position).
+
+4.
+
+Leave the pre-heat or alternate air (carburetor air)
+control in the “cold” position to prevent damage
+and fire in case of backfire. These auxiliary heating
+devices are used after the engine warms up. They
+improve fuel vaporization, prevent fouling of the
+spark plugs, ice formation, and eliminate icing in
+the induction system.
+
+5.
+
+Move the primer switch to “on” intermittently (press
+to prime by pushing in on the ignition switch during
+the starting cycle), or prime with one to three strokes
+of priming pump, depending on how the aircraft is
+equipped. The colder the weather, the more priming
+is needed.
+
+6.
+
+Energize the starter and after the propeller has made
+at least two complete revolutions, turn the ignition
+switch on. On engines equipped with an induction
+vibrator (shower of sparks, magneto incorporates a
+retard breaker assembly), turn the switch to the “both”
+position and energize the starter by turning the switch
+to the “start” position. After the engine starts, release
+the starter switch to the “both” position. When starting
+an engine that uses an impulse coupling magneto,
+turn the ignition switch to the “left” position. Place
+the start switch to the “start” position. When the
+engine starts, release the start switch. Do not crank
+the engine continuously with the starter for more than
+1 minute. Allow a 3- to 5-minute period for cooling
+the starter (starter duty cycle) between successive
+attempts. Otherwise, the starter may be burned out
+due to overheating.
+
+7.
+
+After the engine is operating smoothly, move the
+mixture control to the “full rich” position if started in the
+“idle cutoff” position. Carbureted engines are already
+in the rich mixture position. Check for oil pressure.
+
+8.
+
+Instruments for monitoring the engine during
+operation include a tachometer for rpm, manifold
+pressure gauge, oil pressure gauge, oil temperature
+gauge, cylinder head temperature gauge, exhaust gas
+
+temperature gauge, and fuel flow gauge.
+Hand Cranking Engines
+If the aircraft has no self-starter, start the engine by turning the
+propeller by hand (hand propping the propeller). The person
+who is turning the propeller calls: “Fuel on, switch off, throttle
+closed, brakes on.” The person operating the engine checks
+these items and repeats the phrase. The switch and throttle must
+not be touched again until the person swinging the prop calls
+“contact.” The operator repeats “contact” and then turns on
+the switch. Never turn on the switch and then call “contact.”
+A few simple precautions help to avoid accidents when hand
+propping the engine. While touching a propeller, always
+assume that the ignition is on. The switches that control the
+magnetos operate on the principle of short-circuiting the
+current to turn the ignition off. If the switch is faulty, it can
+be in the “off” position and still permit current to flow in
+the magneto primary circuit. This condition could allow the
+engine to start when the switch is off.
+Be sure the ground is firm. Slippery grass, mud, grease, or loose
+gravel can lead to a fall into or under the propeller. Never allow
+any portion of your body to get in the way of the propeller. This
+applies even when the engine is not being cranked.
+Stand close enough to the propeller to be able to step away
+as it is pulled down. Stepping away after cranking is a
+safeguard in case the brakes fail. Do not stand in a position
+that requires leaning toward the propeller to reach it. This
+throws the body off balance and could cause a fall into the
+blades when the engine starts.
+In swinging the prop, always move the blade downward by
+pushing with the palms of the hands. Do not grip the blade
+with the fingers curled over the edge, since “kickback” may
+break them or draw your body in the blade path. Excessive
+throttle opening after the engine has fired is the principal
+cause of backfiring during starting. Gradual opening of the
+throttle, while the engine is cold, reduces the potential for
+backfiring. Slow, smooth movement of the throttle assures
+correct engine operation.
+Avoid over priming the engine before it is turned over by the
+starter. This can result in fires, scored or scuffed cylinders
+and pistons, or engine failures due to hydraulic lock. If the
+engine is inadvertently flooded or over primed, turn the
+ignition switch off and move the throttle to the “full open”
+position. To rid the engine of the excess fuel, turn it over by
+hand or by the starter. If excessive force is needed to turn
+over the engine, stop immediately. Do not force rotation of
+the engine. If in doubt, remove the lower cylinder spark plugs.
+
+1-13
+
+===== PDF PAGE 35 =====
+Immediately after the engine starts, check the oil pressure
+indicator. If oil pressure does not show within 30 seconds,
+stop the engine and determine the trouble. If oil pressure is
+indicated, adjust the throttle to the aircraft manufacturer’s
+specified rpm for engine warm up. Warm up rpm is usually
+between 1,000 to 1,300 rpm.
+Most aircraft reciprocating engines are air cooled and
+depend on the forward speed of the aircraft to maintain
+proper cooling. Therefore, particular care is necessary when
+operating these engines on the ground. During all ground
+running, operate the engine with the propeller in full low
+pitch and headed into the wind with the cowling installed to
+provide the best degree of engine cooling. Closely monitor
+the engine instruments at all times. Do not close the cowl
+flaps for engine warm-up, they need to be in the open
+position while operating on the ground. When warming up
+the engine, ensure that personnel, ground equipment that may
+be damaged, or other aircraft are not in the propeller wash.
+Extinguishing Engine Fires
+In all cases, a fireguard should stand by with a CO2 fire
+extinguisher while the aircraft engine is being started. This
+is a necessary precaution against fire during the starting
+procedure. The fireguard must be familiar with the induction
+system of the engine so that in case of fire, they can direct
+the CO2 into the air intake of the engine to extinguish it. A
+fire could also occur in the exhaust system of the engine from
+liquid fuel being ignited in the cylinder and expelled during
+the normal rotation of the engine.
+If an engine fire develops during the starting procedure, the
+operator should continue cranking to start the engine and
+extinguish the fire. If the engine does not start and the fire
+continues to burn, discontinue the start attempt. The fireguard
+then extinguishes the fire using the available equipment. The
+fireguard must observe all safety practices at all times while
+standing by during the starting procedure.
+Turboprop Engines
+The starting of any turbine engine consists of three steps that
+must be carried out in the correct sequence. The starter turns
+the main compressor to provide airflow though the engine. At
+the correct speed that provides enough airflow, the igniters
+are turned on and provide a hot spark to light the fuel that
+is engaged next. As the engine accelerates, it reaches a selfsustaining speed and the starter is disengaged.
+The various covers protecting the aircraft must be removed.
+Carefully inspect the engine exhaust areas for the presence
+of fuel or oil. Make a close visual inspection of all accessible
+parts of the engines and engine controls, followed by an
+inspection of all nacelle areas to determine that all inspection
+
+and access plates are secured. Check sumps for water. Inspect
+air inlet areas for general condition and foreign material.
+Check the compressor for free rotation, when the installation
+permits, by reaching in and turning the blades by hand.
+The following procedures are typical of those used to start
+turboprop engines. There are, however, wide variations in
+the procedures applicable to the many turboprop engines.
+Therefore, do not attempt to use these procedures in the actual
+starting of a turboprop engine. These procedures are presented
+only as a general guide for familiarization with typical
+procedures and methods. For starting of all turboprop engines,
+refer to the detailed procedures contained in the applicable
+manufacturer’s instructions or their approved equivalent.
+Turboprop engines are usually fixed turbine or free turbine.
+The propeller is connected to the engine directly in a fixed
+turbine, resulting in the propeller being turned as the engine
+starts. This provides extra drag that must be overcome during
+starting. If the propeller is not at the “start” position, difficulty
+may be encountered in making a start due to high loads. The
+propeller is in flat pitch at shut down and subsequently in flat
+pitch during start because of this.
+The free turbine engine has no mechanical connection
+between the gas generator and the power turbine that is
+connected to the propeller. In this type of engine, the propeller
+remains in the feather position during starting and only turns
+as the gas generator accelerates.
+Instrumentation for turbine engines varies according to the
+type of turbine engine. Turboprop engines use the normal
+instruments—oil pressure, oil temperature, inter-turbine
+temperature (ITT), and fuel flow. They also use instruments
+to measure gas generator speed, propeller speed, and torque
+produced by the propeller. [Figure 1-15] A typical turboprop
+uses a set of engine controls, such as power levelers (throttle),
+propeller levers, and condition levers. [Figure 1-16]
+The first step in starting a turbine engine is to provide an
+adequate source of power for the starter. On smaller turbine
+engines, the starter is an electric motor that turns the engine
+through electrical power. Larger engines need a much
+more powerful starter. Electric motors would be limited by
+current flow and weight. Air turbine starters were developed
+that were lighter and produced sufficient power to turn the
+engine at the correct speed for starting. When an air turbine
+starter is used, the starting air supply may be obtained from
+an APU onboard the aircraft, an external source (ground air
+cart), or an engine cross-bleed operation. In some limited
+cases, a low-pressure, large-volume tank can provide the air
+for starting an engine. Many smaller turboprop engines are
+started using the starter/generator, that is both the engine
+1-14
+
+===== PDF PAGE 36 =====
+starter and the generator.
+
+•
+
+While starting an engine, always observe the following:
+
+The engine fails to ignite by 4,500 rpm or maximum
+motoring rpm.
+
+•
+
+Abnormal vibration is noted or compressor surge
+occurs (indicated by backfiring).
+
+•
+
+Fire warning bell rings. (This may be due to either an
+engine fire or overheat.)
+
+•
+
+Always observe the starter duty cycle. Otherwise, the
+starter can overheat and be damaged.
+
+•
+
+Assure that there is enough air pressure or electrical
+capacity before attempting a start.
+
+•
+
+Do not perform a ground start if turbine inlet
+temperature (residual temperature) is above that
+specified by the manufacturer.
+
+•
+
+Provide fuel under low pressure to the engine’s fuel
+pump.
+
+Turboprop Starting Procedures
+To start an engine on the ground, perform the following
+operations:
+1.
+
+Turn the aircraft boost pumps on.
+
+2.
+
+Make sure that the power lever is in the “start”
+position.
+
+3.
+
+Place the start switch in the “start” position. This starts
+the engine turning.
+
+4.
+
+Place the ignition switch on. (On some engines, the
+ignition is activated by moving the fuel lever.)
+
+5.
+
+The fuel is now turned on. This is accomplished by
+moving the condition lever to the “on” position.
+
+6.
+
+Monitor the engine lights of the exhaust temperature.
+If it exceeds the limits, shut the engine down.
+
+7.
+
+Check the oil pressure and temperature.
+
+8.
+
+After the engine reaches a self-sustaining speed, the
+starter is disengaged.
+
+9.
+
+The engine continues to accelerate up to idle.
+
+10. Maintain the power lever at the “start” position until
+the specified minimum oil temperature is reached.
+11. Disconnect the ground power supply, if used.
+If any of the following conditions occur during the starting
+sequence, turn off the fuel and ignition switch, discontinue
+the start immediately, make an investigation, and record
+the findings.
+•
+
+Turbine inlet temperature exceeds the specified
+maximum. Record the observed peak temperature.
+
+•
+
+Acceleration time from start of propeller rotation to
+stabilized rpm exceeds the specified time.
+
+•
+
+There is no oil pressure indication at 5,000 rpm for
+either the reduction gear or the power unit.
+
+•
+
+Torching (visible burning in the exhaust nozzle).
+
+Turbofan Engines
+Unlike reciprocating engine aircraft, the turbine-powered
+aircraft does not require a preflight run-up unless it is
+necessary to investigate a suspected malfunction.
+Before starting, all protective covers and air inlet duct covers
+are removed. If possible, head the aircraft into the wind to
+obtain better cooling, faster starting, and smoother engine
+performance. It is especially important that the aircraft be
+headed into the wind if the engine is to be trimmed.
+The run-up area around the aircraft is cleared of both
+personnel and loose equipment. The turbofan engine intake
+and exhaust hazard areas are illustrated in Figure 1-17.
+Exercise care to ensure that the run-up area is clear of all
+items, such as nuts, bolts, rocks, shop towels, or other loose
+debris. Many very serious accidents have occurred involving
+personnel in the vicinity of turbine engine air inlets. Use
+extreme caution when starting turbine aircraft.
+Check the aircraft fuel sumps for water or ice. Inspect the
+engine air inlet for general condition and the presence of
+foreign objects. Visually inspect the fan blades, forward
+compressor blades, and the compressor inlet guide vanes for
+nicks and other damage. If possible, check the fan blades for
+free rotation by turning the fan blades by hand. All engine
+controls must be operational. Check engine instruments and
+warning lights for proper operation.
+Starting a Turbofan Engine
+The following procedures are typical of those used to start
+many turbine engines. There are, however, wide variations
+in the starting procedures used for turbine engines, and no
+attempts are to be made to use these procedures in the actual
+starting of an engine. These procedures are presented only as
+a general guide for familiarization with typical procedures
+and methods. In the starting of all turbine engines, refer
+to the detailed procedures contained in the applicable
+manufacturer’s instructions or their approved equivalent.
+Most turbofan engines can be started by either air turbine
+or electrical starters. Air-turbine starters use compressed air
+from an external source as discussed earlier. Fuel is turned on
+either by moving the start lever to “idle/start” position or by
+opening a fuel shutoff valve. If an air turbine starter is used,
+
+1-15
+
+===== PDF PAGE 37 =====
+the engine “lights off” within a predetermined time after the
+fuel is turned on. This time interval, if exceeded, indicates a
+malfunction has occurred and the start must be discontinued.
+26 TORQUE 0
+2
+24
+4
+22
+20 FTLB X 100 6
+8
+18
+16 14 12 10
+
+0
+
+23
+
+PROP
+
+22
+21
+20
+19
+
+26 TORQUE 0
+2
+24
+4
+22
+20 FTLB X 100 6
+8
+18
+16 14 12 10
+
+PROP
+
+22
+21
+20
+
+10
+
+13
+RPH X 100 14
+18
+15
+17 16
+
+19
+
+6
+
+5
+
+0
+
+23
+
+5
+
+10
+
+13
+RPH X 100 14
+18
+15
+17 16
+
+FUEL FLOW
+
+If the engine is so equipped, place the power lever in
+the “idle” position.
+
+6
+
+2.
+
+Turn the fuel boost pump(s) switch on.
+
+FUEL FLOW
+
+3.
+
+A fuel inlet pressure indicator reading ensures fuel is
+being delivered to engine fuel pump inlet.
+
+4.
+
+Turn engine starter switch on. Note that the engine
+rotates to a preset limit. Check for oil pressure.
+
+5.
+
+Turn ignition switch on. (This is usually accomplished
+by moving the start lever toward the “on” position.
+A micro switch connected to the leveler turns on the
+ignition.)
+
+6.
+
+Move the start lever to “idle” or “start” position, this
+starts fuel flow into the engine.
+
+7.
+
+Engine start (light off) is indicated by a rise in exhaust
+gas temperature.
+
+8.
+
+If a two-spool engine, check rotation of fan or N1.
+
+9.
+
+Check for proper oil pressure.
+
+4
+3
+
+2
+
+3
+
+0
+
+RPH X 100
+
+2
+
+OIL
+
+1
+
+OIL
+200
+
+140
+
+100
+60
+
+150
+
+20
+0 -20
+
+50
+
+100
+0
+
+°C
+
+0
+
+RPH X 100
+
+1
+
+140
+
+The following procedures are useful only as a general guide
+and are included to show the sequence of events in starting
+a turbofan engine.
+1.
+
+5
+
+4
+
+5
+
+Most turbofan engine controls consist of a power lever,
+reversing levers, and start levers. Newer aircraft have replaced
+the start levers with a fuel switch. [Figure 1-18] Turbofan
+engines also use all the normal instruments speeds, (percent
+of total rpm) exhaust gas temperature, fuel flow, oil pressure,
+and temperature. An instrument that measures the amount
+of thrust being delivered is the engine pressure ratio. This
+measures the ratio between the inlet pressures to the outlet
+pressure of the turbine.
+
+PSI
+
+200
+
+100
+60
+
+150
+
+20
+0 -20
+
+50
+
+100
+0
+
+°C
+
+PSI
+
+Figure 1-15. Typical examples of turboprop instruments.
+
+10. Turn engine starter switch off at proper speeds.
+POWER
+GA
+
+I
+D
+L
+E
+R
+E
+V
+E
+R
+S
+E
+
+Power levers
+
+P
+R
+O
+P
+E
+L
+L
+E
+R
+
+F
+E
+A
+T
+H
+E
+R
+
+Prop levers
+
+RUN
+
+S
+T
+O
+P
+
+Condition levers
+
+Figure 1-16. Engine controls of a turboprop aircraft.
+
+11. After engine stabilizes at idle, ensure that none of the
+engine limits are exceeded.
+12. Newer aircraft drop off the starter automatically.
+Auxiliary Power Units (APUs)
+APUs are generally smaller turbine engines that provide
+compressed air for starting engines, cabin heating and
+cooling, and electrical power while on the ground. Their
+operation is normally simple. By turning a switch on and
+up to the start position (spring loaded to on position), the
+engine starts automatically. During start, the exhaust gas
+temperature must be monitored. APUs are at idle at 100
+percent rpm with no load. After the engine reaches its
+operating rpm, it can be used for cooling or heating the
+1-16
+

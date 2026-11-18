@@ -1,0 +1,2204 @@
+FAA-H-8083-30B General Handbook, chapter 7 (Aircraft Materials, Hardware, & Processes), PDF pages 300-319
+
+===== PDF PAGE 300 =====
+used on exterior surfaces of the aircraft, because they offer
+only slight resistance to the slipstream and help to minimize
+turbulent airflow.
+
+D—Aluminum alloy, 2017-T composition
+
+The markings on the heads of rivets indicate the material
+of which they are made and, therefore, their strength.
+Figure 7-37 identifies the rivet head markings and the
+materials indicated by them. Although there are three
+materials indicated by a plain head, it is possible to
+distinguish their difference by color. The 1100 is an
+aluminum color; the mild steel is a typical steel color; and
+the copper rivet is a copper color. Any head marking can
+appear on any head style of the same material.
+
+C—Copper
+
+A part number identifies each type of rivet so that the user
+can select the correct rivet for the job. The type of rivet head
+is identified by AN or MS standard numbers. The numbers
+selected are in series and each series represents a particular
+type of head.
+The most common numbers and the types of heads they
+represent are:
+AN426 or MS20426—countersunk head rivets (100°)
+AN430 or MS20430—roundhead rivets
+
+DD—Aluminum alloy, 2024-T composition
+B—Aluminum alloy, 5056 composition
+M—Monel
+The absence of a letter following the AN standard number
+indicates a rivet manufactured from mild steel.
+The first number following the material composition letters
+expresses the diameter of the rivet shank in 32nds of an inch.
+For example, 3 indicates 3⁄32, 5 indicates 5⁄32, and so forth.
+[Figure 7-38]
+The last number(s), separated by a dash from the preceding
+number, expresses the length of the rivet shank in 16ths of an
+inch. For example, 3 indicates 3⁄16, 7 indicates 7⁄16, 11 indicates
+11
+⁄16, and so forth. [Figure 7-38]
+An example of identification marking of a rivet is:
+AN470AD3-5—complete part number
+AN—Air Force-Navy standard number
+470—universal head rivet
+
+AN441—flathead rivets
+
+AD—2117-T aluminum alloy
+
+AN456—brazier head rivets
+AN470 or MS20470—universal head rivets
+There are also letters and numbers added to a part number.
+The letters designate alloy content; the numbers designate
+rivet diameter and length. The letters in common uses for
+alloy designation are:
+A—Aluminum alloy, 1100 or 3003 composition
+AD—Aluminum alloy, 2117-T composition
+
+Heating Time—Air Furnace
+Rivet Alloy
+
+Time at
+Temperature
+
+Heat-Treating
+Temperature
+
+2024
+
+1 hour
+
+910 °F–930 °F
+
+2017
+
+1 hour
+
+925 °F–950 °F
+
+Heating Time—Salt Bath
+
+3—3⁄32 in diameter
+5—5⁄16 in length
+
+Blind Rivets
+There are many places on an aircraft where access to both
+sides of a riveted structure or structural part is impossible, or
+where limited space does not permit the use of a bucking bar.
+Also, in the attachment of many non-structural parts, such as
+aircraft interior furnishings, flooring, deicing boots, and the
+like, the full strength of solid shank rivets is not necessary.
+For use in such places, special rivets have been designed that
+can be bucked from the front. Special rivets are sometimes
+lighter than solid shank rivets, yet amply strong for intended
+use. These rivets are produced by several manufacturers and
+Group A
+
+Group B
+
+1100
+
+2117
+
+Rivet Alloy
+
+Time at
+Temperature
+
+Heat-Treating
+Temperature
+
+3003
+
+2017
+
+2024
+
+30 minutes
+
+910 °F–930 °F
+
+5052
+
+2124
+
+2017
+
+30 minutes
+
+925 °F–950 °F
+
+6053
+
+7075
+
+Figure 7-36. Rivet heating times and temperatures.
+
+Figure 7-37. Aluminum groupings.
+
+7-56
+
+===== PDF PAGE 301 =====
+have unique characteristics that require special installation
+tools, special installation procedures, and special removal
+procedures. That is why they are called special rivets.
+Because these rivets are often inserted in locations where
+one head (usually the shop head) cannot be seen, they are
+also called blind rivets.
+Mechanically-Expanded Rivets
+Two classes of mechanically-expanded rivets are discussed here:
+•
+
+Non-structural—self-plugging (friction lock) rivets,
+pull-thru rivets
+
+•
+
+Mechanical lock—flush fracturing, self-plugging rivets
+
+Self-Plugging Rivets (Friction Lock)
+The self-plugging (friction lock) blind rivets are manufactured
+by several companies. The same general basic information
+about their fabrication, composition, uses, selection,
+installation, inspection, and removal procedures apply to
+all of them.
+Self-plugging (friction lock) rivets are fabricated in two parts:
+a rivet head with a hollow shank or sleeve, and a stem that
+extends through the hollow shank. Figure 7-39 illustrates a
+protruding head and a countersunk head self-plugging rivet
+produced by one manufacturer.
+Several events, in their proper sequence, occur when a pulling
+force is applied to the stem of the rivet:
+1.
+
+The stem is pulled into the rivet shank.
+
+2.
+
+The mandrel portion of the stem forces the rivet shank
+to expand.
+
+3.
+
+When friction (or pulling action pressure) becomes
+great enough, it causes the stem to snap at a breakoff
+groove on the stem.
+
+The plug portion (bottom end of the stem) is retained in the
+shank of the rivet giving the rivet much greater shear strength
+than could be obtained from a hollow rivet.
+Self-plugging (friction lock) rivets are fabricated in two
+common head styles: a protruding head like the MS20470
+or universal head, and a 100° countersunk head. Other head
+styles are available from some manufacturers.
+The stem of the self-plugging (friction lock) rivet may have a
+knot or knob on the upper portion, or it may have a serrated
+portion. [Figure 7-39]
+Self-plugging (friction lock) rivets are fabricated from several
+materials. Rivets are available in the following material
+combinations: stem 2017 aluminum alloy and sleeve 2117
+
+aluminum alloy; stem 2017 aluminum alloy and sleeve 5056
+aluminum alloy; and stem steel and sleeve steel.
+Self-plugging (friction lock) rivets are designed so that
+installation requires only one person; it is not necessary
+to have the work accessible from both sides. The pulling
+strength of the rivet stem is such that a uniform job can always
+be assured. Because it is not necessary to have access to the
+opposite side of the work, self- plugging (friction lock) rivets
+can be used to attach assemblies to hollow tubes, corrugated
+sheet, hollow boxes, and so forth. Because a hammering force
+is not necessary to install the rivet, it can be used to attach
+assemblies to plywood or plastics.
+Factors to consider in the selection of the correct rivet for
+installation are: installation location, composition of the
+material being riveted, thickness of the material being riveted,
+and strength desired.
+If the rivet is to be installed on an aerodynamically
+smooth surface, or if clearance for an assembly is needed,
+countersunk head rivets should be selected. In other areas
+where clearance or smoothness is not a factor, the protruding
+head type rivet may be utilized.
+Material composition of the rivet shank depends upon the
+type of material being riveted. Aluminum alloy 2117 shank
+rivets can be used on most aluminum alloys. Aluminum alloy
+5056 shank rivets should be used when the material being
+riveted is magnesium. Steel rivets should always be selected
+for riveting assemblies fabricated from steel.
+The thickness of the material being riveted determines the
+overall length of the shank of the rivet. As a general rule,
+the shank of the rivet should extend beyond the material
+thickness approximately 3⁄64 inch to 1⁄8 inch before the stem
+is pulled. [Figure 7-40]
+
+Pull-Thru Rivets
+Several companies manufacture the pull-thru blind rivets.
+The same general basic information about their fabrication,
+composition, uses, selection, installation, inspection, and
+removal procedures apply to all of them.
+Pull-thru rivets are fabricated in two parts: a rivet head with
+a hollow shank or sleeve and a stem that extends through the
+hollow shank. Figure 7-41 illustrates a protruding head and
+a countersunk head pull-thru rivet.
+Several events, in their proper sequence, occur when a pulling
+force is applied to the stem of the rivet:
+1.
+
+The stem is pulled through the rivet shank.
+
+7-57
+
+===== PDF PAGE 302 =====
+ntersunk angle
+Cou
+
+Bulbed CherryLOCK® Rivets
+The large blind head of this fastener introduced the word
+“bulb” to blind rivet terminology. In conjunction with the
+unique residual preload developed by the high stem break
+load, its proven fatigue strength makes it the only blind rivet
+interchangeable structurally with solid rivets. [Figure 7-44]
+
+Length of rivet
+
+Diameter of shank
+
+Diameter of shank
+
+Figure 7-38. Methods of measuring rivets.
+
+2.
+
+the head and usually does not require further stem trimming
+when properly installed. Self-plugging (mechanical lock)
+rivets display all the strength characteristics of solid shank
+rivets and, in most cases, can be substituted rivet for rivet.
+
+The mandrel portion of the stem forces the shank to
+expand forming the blind head and filling the hole.
+
+Pull-thru rivets are fabricated in two common head styles:
+protruding head like the MS20470 or universal head and a
+100° countersunk head. Other head styles are available from
+some manufacturers.
+Pull-thru rivets are fabricated from several materials. The
+most commonly used are 2117-T4 aluminum alloy, 5056
+aluminum alloy, Monel. Pull-thru rivets are designed so that
+installation requires only one person; it is not necessary to
+have the work accessible from both sides.
+
+Wiredraw CherryLOCK® Rivets
+There is a wide range of sizes, materials, and strength levels
+from which to select. This fastener is especially suited for
+sealing applications and joints requiring an excessive amount
+of sheet take-up. [Figure 7-45]
+Huck® Mechanical Locked Rivets
+Self-plugging (mechanical lock) rivets are fabricated in two
+sections: a head and shank (including a conical recess and
+locking collar in the head) and a serrated stem that extends
+through the shank. Unlike the friction lock rivet, the Huck®
+mechanical lock rivet has a locking collar that forms a positive
+lock for retention of the stem in the shank of the rivet. This
+collar is seated in position during the installation of the rivet.
+
+Material
+Self-plugging (mechanical lock) rivets are fabricated with
+
+Factors to consider in the selection of the correct rivet for
+installation are: installation location, composition of the
+material being riveted, thickness of the material being riveted,
+and strength desired.
+The thickness of the material being riveted determines the
+overall length of the shank of the rivet. As a general rule,
+the shank of the rivet should extend beyond the material
+thickness approximately 3⁄64 inch to 1⁄8 inch before the stem
+is pulled. [Figure 7-42]
+Each company that manufactures pull-thru rivets has a code
+number to help users obtain correct rivet for the grip range of
+a particular installation. In addition, MS numbers are used for
+identification purposes. Numbers are similar to those shown
+on the preceding pages.
+
+Self-Plugging Rivets (Mechanical Lock)
+Self-plugging (mechanical lock) rivets are like self-plugging
+(friction lock) rivets, except for the way the stem is retained in
+the rivet sleeve. This type of rivet has a positive mechanical
+locking collar to resist vibrations that cause the friction lock
+rivets to loosen and possibly fall out. [Figure 7-43] Also,
+the mechanical locking-type rivet stem breaks off flush with
+
+Protruding head
+
+Countersunk head
+
+Figure 7-39. Self-plugging (friction lock) rivets.
+
+7-58
+
+===== PDF PAGE 303 =====
+sleeves (rivet shanks) of 2017 and 5056 aluminum alloys,
+Monel, or stainless steel.
+The mechanical lock type of self-plugging rivet can be
+used in the same applications as the friction lock type of
+rivet. In addition, because of its greater stem retention
+characteristic, installation in areas subject to considerable
+vibration is recommended.
+The same general requirements must be met in the
+selection of the mechanical lock rivet as for the friction
+lock rivet. Composition of the material being joined
+together determines the composition of the rivet sleeve.
+For example, 2017 aluminum alloy rivets for most aluminum
+alloys and 5056 aluminum rivets for magnesium.
+Figure 7-46 depicts the sequences of a typical mechanicallylocked blind rivet. The form and function may vary slightly
+between blind rivet styles and specifics should be obtained
+from manufacturers.
+
+Head Styles
+Self-plugging mechanical locked blind rivets are available
+in several head styles depending on the installation
+requirements. [Figure 7-47]
+
+Diameters
+
+A
+C
+B
+
+A = Thickness of material (grip range)
+B = 3⁄64 –1⁄8"
+C = Total rivet shank length
+Figure 7-40. Determining length of friction lock rivets.
+
+Rivet Identification
+Each company that manufactures self-plugging (friction
+lock) rivets has a code number to help users obtain the
+correct rivet for the grip range or material thickness of a
+particular installation. In addition, MS numbers are used for
+identification purposes. Figures 7-51 through 7-54 contain
+examples of part numbers for self-plugging (friction lock)
+rivets that are representative of each.
+
+Shank diameters are measured in 1⁄32-inch increments and are
+generally identified by the first dash number: -3 indicates 3⁄32
+inch diameter, -4 indicates 1⁄8 diameter, and so forth. Both
+nominal and 1⁄64-inch oversize diameters are available.
+
+Grip Length
+Grip length refers to the maximum total sheet thickness
+to be riveted and is measured in 1⁄16 of an inch. This is
+generally identified by the second dash number. Unless
+otherwise noted, most blind rivets have their grip lengths
+(maximum grip) marked on the rivet head and have a total
+grip range of 1⁄16 inch. For example, –04 grip rivet has a grip
+range of 3⁄16" to 1⁄4". [Figure 7-48]
+To determine the proper grip rivet to use, measure the material
+thickness with a grip selection gauge (available from blind
+rivet manufacturers). The proper use of a grip selector
+gauge is shown in Figure 7-49.
+The thickness of the material being riveted determines the
+overall length of the shank of the rivet. As a general rule,
+the shank of the rivet should extend beyond the material
+thickness approximately 3⁄64 inch to 1⁄8 inch before the stem
+is pulled. [Figure 7-50]
+
+Countersunk head
+
+Protruding head
+
+Figure 7-41. Pull-thru rivets.
+
+7-59
+
+===== PDF PAGE 304 =====
+A
+C
+
+B
+
+A = Thickness of material (grip range)
+B = 3/64 – 1/8"
+C = Total rivet shank length
+
+Figure 7-42. Determining length of pull-thru rivets.
+
+Special Shear and Bearing Load Fasteners
+Many special fasteners produce high strength with
+lightweight and can be used in place of conventional AN
+bolts and nuts. When AN bolts are tightened with the nut, the
+bolt stretches, narrowing the diameter and then the bolt is no
+longer tight in the hole. Special fasteners eliminate this loose
+fit, because they are held in place by a collar that is squeezed
+into position. These fasteners are not under the same tensile
+loads as a bolt during installation. Special fasteners are also
+used extensively for light sport aircraft (LSA). Always follow
+the aircraft manufacturer’s recommendations.
+
+Before installation
+
+After installation
+
+Figure 7-43. Self-plugging (mechanical lock) rivets.
+
+the shank diameter.
+Part numbers for pin rivets can be interpreted to give the
+diameter and grip length of the individual rivets. A typical
+part number breakdown would be:
+NAS177-14-17
+
+Pin Rivets
+Pin (Hi-Shear) rivets are classified as special rivets but are
+not of the blind type. Access to both sides of the material
+is required to install this type of rivet. Pin rivets have the
+same shear strength as bolts of equal diameters, are about 40
+percent of the weight of a bolt, and require only about onefifth as much time for installation as a bolt, nut, and washer
+combination. They are approximately three times as strong
+as solid shank rivets.
+Pin rivets are essentially threadless bolts. The pin is headed at
+one end and is grooved about the circumference at the other. A
+metal collar is swaged onto the grooved end effecting a firm,
+tight fit. [Figure 7-55] Pin rivets are fabricated in a variety
+of materials but should be used only in shear applications.
+They should never be used where the grip length is less than
+
+(Minimum grip illustrated)
+
+Figure 7-44. Bulbed CherryLOCK® rivet.
+
+7-60
+
+===== PDF PAGE 305 =====
+to completely fill the hole, but unlike the rivet, it fills the hole
+without deforming the shank. Instead, the washer head nut
+squeezes the metal with tremendous force against the tapered
+walls of the hole. This creates radial compression around
+the shank and vertical compression lines as the metals are
+squeezed together. The combination of these forces generates
+strength unequaled by any other fastener. [Figure 7-56]
+
+HI-LOK™ Fastening System
+The threaded end of the HI-LOK™ two-piece fastener
+contains a hexagonal shaped recess. The hex tip of an Allen
+wrench engages the recess to prevent rotation of the pin
+while the collar is being installed. The pin is designed in two
+basic head styles. For shear applications, the pin is made in
+countersunk style and in a compact protruding head style. For
+tension applications, the MS24694 countersunk and regular
+protruding head styles are available.
+
+Figure 7-45. Wiredraw CherryLOCK® rivet.
+
+The self-locking, threaded HI-LOK™ collar has an internal
+counterbore at the base to accommodate variations in material
+thickness. At the opposite end of the collar is a wrenching
+device that is torqued by the driving tool until it shears off
+during installation, leaving the lower portion of the collar
+seated with the proper torque without additional torque
+inspection. This shear-off point occurs when a predetermined
+preload or clamp-up is attained in the fastener during
+installation.
+
+NAS = National Aircraft Standard
+177 = 100° countersunk head rivet
+OR 178 = flathead rivet
+14 = Nominal diameter in 32nds of an inch
+17 = Maximum grip length in 16ths of an inch
+
+Taper-Lok
+Taper-Loks are the strongest special fasteners used in aircraft
+construction. The Taper-Lok exerts a force on the walls of the
+hole because of its tapered shape. The Taper-Lok is designed
+1
+
+Before pulling begins
+
+2
+
+Stem
+
+Note: For these fasteners, “Preload” is defined as the
+maximum tensile load experienced by a fastener in a joint
+during the fastener installation sequence. Consequently, the
+
+Stem is pulled into rivet
+sleeve and starts to form
+bulbed blind head.
+
+3
+
+Locking collar
+Rivet head
+
+Rivet head firmly seated
+Clamp-up and hole
+fill action begin.
+
+Sheet gap
+Rivet sleeve
+
+Blind side bulb head is
+formed below minimum
+grip.
+
+Shear ring
+4
+
+Formation of blind head
+and hole filling are completed.
+Shear ring now begins to
+shear from stem cone to allow
+stem to pull further into rivet.
+
+Shear ring guarantees
+blind side bulbed head
+
+Clamp-up completed as
+stem continues to bulb
+out blind head.
+
+5
+
+Shear ring has moved down
+stem cone until pulling head
+automatically stops stem
+break notch flush with top of
+rivet head.
+
+6
+
+Completely installed bulbed
+CherryLOCK® rivet
+Pulling head has inserted locking
+collar, and stem has fractured flush
+with rivet head.
+
+Locking collar is now
+ready to be inserted.
+Blind side bulbed head
+(In minimum grip, shear ring may not shear)
+
+(Maximum grip illustrated)
+
+Figure 7-46. CherryLOCK® rivet installation.
+
+7-61
+
+===== PDF PAGE 306 =====
+100° Countersunk (MS20426)
+For countersunk applications
+
+Universal (MS20470)
+For protruding head applications
+
+100° Countersunk NAS 1097
+For thin top sheet machine countersunk applications
+
+Unisink
+A combination of flush and protruding head
+for use in very thin top sheets. Eliminates need for
+double-dimpling. Not covered by NAS Standard.
+
+156° Countersunk NAS 1097
+A large diameter, shallow countersunk head providing wide
+area for honeycomb applications. Not covered by NAS Standard.
+Figure 7-47. CherryLOCK® rivet heads.
+
+term “Residual Tension” is defined as the remaining tensile
+load experienced by a fastener in a joint after the fastener
+installation sequence is complete, and after any residual
+relaxation of the joint assembly.
+The advantages of HI-LOK™ two-piece fastener include its
+lightweight, high fatigue resistance, high strength, and its
+inability to be over-torqued. The pins, made from alloy steel,
+corrosion-resistant steel, nickel, or titanium alloy, come in
+many standard and oversized shank diameters. The collars are
+made of aluminum alloy, corrosion-resistant steel, titanium,
+or alloy steel. The collars have wrenching flats, fracture point,
+
+threads, and a recess. The wrenching flats are used to install
+the collar. The fracture point has been designed to allow the
+wrenching flats to shear when the proper torque has been
+reached. The threads match the threads of the pins and have
+been formed into an ellipse that is distorted to provide the
+locking action. The recess serves as a built-in washer. This
+area contains a portion of the shank and the transition area
+of the fastener.
+The hole shall typically be prepared so that the maximum
+interference fit does not exceed 0.002-inch. This avoids
+build up of excessive internal stresses in the work adjacent
+
+7-62
+
+===== PDF PAGE 307 =====
+Huck Manufacturing Company
+9S P-B A 6 3
+Max.
+grip
+
+Grip
+
+9SP-B
+
+Head Style
+9SP-B = brazier or universal head
+9SP-100 = 100º countersunk head
+
+A
+
+Material composition of shank
+A = 2017 aluminum alloy
+B = 5056 aluminum alloy
+R = mild steel
+
+6
+
+Shank diameter in 32nds of an inch:
+4 = 1⁄8"
+6 = 3⁄16"
+8 = ¼"
+5 = 5⁄32"
+
+3
+
+Grip range (material thickness) in 16ths of an inch
+
+Min.
+grip
+
+4
+
+4
+
+4
+
+3/16 "
+
+¼"
+Diameter
+Figure 7-48. Typical grip length.
+
+269C3 Gauge
+
+Figure 7-51. Huck Manufacturing Company codes.
+2
+
+4
+
+6
+
+8
+
+Read
+Read
+
+Olympic Screw and Rivet Corporation
+RV 2 0 0 4 2
+
+Rivet grip number to be used: −04
+Figure 7-49. Grip gauge use.
+
+to the hole. The HI-LOK™ pin has a slight radius under its
+head to increase fatigue life. After drilling, deburr the edge
+of the hole to allow the head to seat fully in the hole. The
+HI-LOK™ is typically installed in interference fit holes for
+aluminum structure and a clearance fit for steel, titanium,
+and composite materials.
+
+HI-TIGUE™ Fastening System
+The HI-TIGUE™ fastener offers all the benefits of the
+HI-LOK™ fastening system along with a unique radius
+contour on the thread lead-in, or a raised bead design that
+enhances the fatigue performance of the structure making it
+ideal for situations that require a controlled interference fit.
+The HI-TIGUE™ fastener assembly consists of a pin and
+
+RV
+
+Manufacturer
+Olympic Screw and Rivet Corporation
+
+2
+
+Rivet type
+2 = self plugging (friction lock)
+5 = hollow pull through
+
+0
+
+Material composition of shank
+0 = 2017 aluminum alloy
+5 = 5056 aluminum alloy
+7 = mild steel
+
+0
+
+Head style
+0 = universal head
+1 = 100° countersunk
+
+4
+
+Shank diameter in 32nds of an inch:
+4 = 1⁄8"
+6 = 3⁄16"
+5 = 5⁄32"
+8 = ¼"
+
+2
+
+Grip range in 16ths of an inch
+
+Figure 7-52. Olympic Screw and Rivet Corporation codes.
+
+Townsend Company, Cherry Rivet Division
+CR 163 6 6
+CR
+
+Cherry rivet
+
+163
+
+Series number
+Designates rivet material, type of rivet, and head style
+(163 = 2117 aluminum alloy, self-plugging
+(friction lock) rivet, protruding head)
+
+A
+C
+B
+
+A = Thickness of material (grip range)
+B = 3/64 – 1/8"
+C = Total rivet shank length
+
+6
+
+Shank diameter in 32nds of an inch:
+4 = 1⁄8"
+6 = 3⁄16"
+5 = 5⁄32"
+8 = ¼"
+
+6
+
+Grip range (material thickness):
+Knob stem in 32nds of an inch; serrated stem in 16ths of
+an inch
+
+Figure 7-53. Townsend Company, Cherry Rivet Division codes.
+
+Figure 7-50. Determining rivet length.
+
+7-63
+
+===== PDF PAGE 308 =====
+Military Standard Number
+
+Collar
+
+MS 20600 B 4 K 2
+MS Military Standard
+20600
+
+B
+
+4
+
+Type of rivet and head style:
+20600 = self-plugging (friction lock) protruding head
+20600 = self-plugging (friction lock) 100º
+countersunk head
+Material composition of sleeve:
+AD = 2117 aluminum alloy
+B = 5056 aluminum alloy
+
+Pin
+
+Shank diameter in 32nds of an inch:
+4 = 1⁄8" 6 = 3⁄16"
+
+K
+
+5 = 5⁄32" 8 = 1⁄4"
+Type of stem:
+K = knot head stem
+W = serrated stem
+
+2
+
+Grip range (material thickness) in 16ths of an inch
+
+Driven collar
+
+Figure 7-54. Military Standard Numbers.
+
+collar. These pin rivets have a radius at the transition area.
+During installation in an interference fit hole, the radius area
+will “cold-work” the hole. These fastening systems can be
+easily confused, and visual reference should not be used for
+identification. Use part numbers to identify these fasteners.
+[Figure 7-57]
+
+HI-LITE™ Fastening System
+The HI-LITE™ fastener is similar in design and principle to
+the HI-LOK™ fastener, has the controlled radius from full
+diameter section to the threaded area of the HI-TIGUE™
+fastener, and has a shorter transition area between the shank
+and the first load-bearing thread. HI-LITE™ fasteners have
+approximately one less thread. These differences reduce
+the weight of the HI-LITE™ fastener without lessening
+the shear strength. HI-LITE™ fasteners are available in the
+same materials and head configurations as the HI-LOK™
+system, and can also be installed in high interference like the
+HI-TIGUE™ fastener. HI-LITE™ collars are also different
+and thus are not interchangeable with HI-LOK™ collars or
+HI-TIGUE™ collars.
+
+Figure 7-55. Pin (Hi-Shear) rivet.
+
+also referred to by such terms as quick opening, quick action,
+and stressed panel fasteners. The most desirable feature of
+these fasteners is that they permit quick and easy removal
+of access panels for inspection and servicing purposes. Turn
+lock fasteners are manufactured and supplied by several
+manufacturers under various trade names.
+
+Dzus Fasteners
+The Dzus turn lock fastener consists of a stud, grommet, and
+receptacle. Figure 7-58 illustrates an installed Dzus fastener
+and the various parts.
+The grommet is made of aluminum or aluminum alloy
+material. It acts as a holding device for the stud. Grommets
+can be fabricated from 1100 aluminum tubing, if none are
+available from normal sources.
+
+Manufacturing head
+
+Captive Fasteners
+Captive fasteners are used for quick removal of engine
+nacelles, inspection panels, and areas where fast and easy
+access is important. A captive fastener can turn in the body
+in which it is mounted, but will not drop out when it is
+unscrewed from the part it is holding. Some of the most
+commonly used are the Dzus, Camloc, and Airloc.
+
+Turn Lock Fasteners
+Turn lock fasteners are used to secure inspection plates, doors,
+and other removable panels on aircraft. Turn lock fasteners are
+
+Preload
+
+Lines of force
+
+Radial compression
+Washer nut
+
+Figure 7-56. Taper-Lok special fasteners
+
+7-64
+
+===== PDF PAGE 309 =====
+The spring is made of steel, which is cadmium plated to
+prevent corrosion. The spring supplies the force that locks
+or secures the stud in place when two assemblies are joined.
+The studs are fabricated from steel and are cadmium plated.
+They are available in three head styles: wing, flush, and oval.
+Body diameter, length, and head type may be identified or
+determined by the markings found on the head of the stud.
+[Figure 7-59] The diameter is always measured in sixteenths
+of an inch. Stud length is measured in hundredths of an inch
+and is the distance from the head of the stud to the bottom
+of the spring hole.
+A quarter of a turn of the stud (clockwise) locks the
+fastener. The fastener may be unlocked only by turning the
+stud counterclockwise. A Dzus key or a specially ground
+screwdriver locks or unlocks the fastener.
+
+Camloc Fasteners
+Camloc fasteners are made in a variety of styles and designs.
+Included among the most commonly used are the 2600, 2700,
+40S51, and 4002 series in the regular line, and the stressed
+panel fastener in the heavy-duty line. The latter is used in
+stressed panels, which carry structural loads.
+The Camloc fastener is used to secure aircraft cowlings and
+
+The hex portion
+breaks away once
+the correct seating
+torque is reached
+
+Collar
+
+Pin
+
+Figure 7-57. HI-TIGUETM special fasteners.
+
+fairings. It consists of three parts: a stud assembly, a grommet,
+and a receptacle. Two types of receptacles are available: rigid
+and floating. [Figure 7-60]
+The stud and grommet are installed in the removable portion;
+the receptacle is riveted to the structure of the aircraft. The
+stud and grommet are installed in either a plain, dimpled,
+countersunk, or counter bored hole, depending upon the
+location and thickness of the material involved.
+A quarter turn (clockwise) of the stud locks the fastener.
+The fastener can be unlocked only by turning the stud
+
+Stud
+Detachable part
+
+Stud assembly
+Grommet
+
+Cut-away view of complete Dzus assembly
+Fixed part
+
+Spring and rivets
+Spring assembly
+
+Figure 7-58. Dzus fastener.
+
+7-65
+
+===== PDF PAGE 310 =====
+counterclockwise.
+
+Airloc Fasteners
+The Airloc fastener consists of three parts: a stud, a cross pin,
+and a stud receptacle. [Figure 7-61] The studs are manufactured
+from steel and case hardened to prevent excessive wear. The
+stud hole is reamed for a press fit of the cross pin.
+The total amount of material thickness to be secured with
+the Airloc fastener must be known before the correct length
+of stud can be selected for installation. The total thickness
+of material that each stud satisfactorily locks together is
+stamped on the head of the stud in thousandths of an inch
+(0.040, 0.070, 0.190, and so forth). Studs are manufactured
+in three head styles: flush, oval, and wing.
+
+Stud assembly
+Grommet
+
+The cross pin is manufactured from chrome-vanadium steel
+and heat-treated to provide maximum strength, wear, and
+holding power. [Figure 7-61] It should never be used the
+second time; once removed from the stud, replace it with
+a new pin.
+Receptacles for Airloc fasteners are manufactured in two
+types: rigid and floating. Number—No. 2, No. 5, and No.
+7, classifies sizes. They are also classified by the center-tocenter distance between the rivet holes of the receptacle: No.
+2 is 3⁄4 inch; No. 5 is 1 inch; and No. 7 is 13⁄8 inch. Receptacles
+are fabricated from high-carbon, heat-treated steel. An upper
+wing assures ejection of the stud when unlocked and enables
+the cross pin to be held in a locked position between the upper
+wing, cam, stop, and wing detent, regardless of the tension
+to which the receptacle is subjected.
+Screws
+Screws are the most commonly used threaded fastening
+devices on aircraft. They differ from bolts because as they
+are generally made of lower strength materials. They can be
+installed with a loose-fitting thread, and the head shapes are
+made to engage a screwdriver or wrench. Some screws have
+a clearly defined grip or unthreaded portion, while others are
+threaded along their entire length.
+Several types of structural screws differ from the standard
+structural bolts only in head style. The material in them is
+
+DZUS
+F
+
+6½
+
+0.50
+
+F = flush head
+61/2= body diameter in 16ths of an inch
+0.50 = length (50⁄100 of an inch)
+
+Figure 7-59. Dzus identification.
+
+Receptacle
+
+Figure 7-60. Camloc fastener.
+
+the same, and a definite grip length is provided. The AN525
+washer head screw and the NAS220 through NAS227 series
+are such screws.
+Commonly used screws are classified in four groups:
+1.
+
+Structural screws, which have the same strength as
+equal size bolts.
+
+2.
+
+Machine screws, which include most types used for
+general repair.
+
+3.
+
+Self-tapping screws, which are used for attaching
+lighter parts.
+
+4.
+
+Drive screws, which are not actually screws but nails.
+They are driven into metal parts with a mallet or
+hammer and their heads are not slotted or recessed.
+
+Structural Screws
+Structural screws are made of alloy steel, are properly heattreated, and can be used as structural bolts. These screws
+7-66
+
+===== PDF PAGE 311 =====
+Installed fastener
+Receptacle
+
+Cross pin
+
+Roundhead screws, AN515 and AN520, have either slotted
+or recessed heads. The AN515 screw has coarse threads, and
+the AN520 has fine threads.
+Countersunk machine screws are listed as AN505 and
+AN510 for 82° and AN507 for 100°. The AN505 and AN510
+correspond to the AN515 and AN520 roundhead in material
+and usage.
+The fillister head screw, AN500 through AN503, is a general
+purpose screw and is used as a cap screw in light mechanisms.
+This could include attachments of cast aluminum parts, such
+as gearbox cover plates.
+
+Stud
+
+Panel
+
+The AN500 and AN501 screws are available in low-carbon
+steel, corrosion-resistant steel, and brass. The AN500 has
+coarse threads, while the AN501 has fine threads. They have
+no clearly defined grip length.
+Screws larger than No. 6 have a hole drilled through the head
+for safetying purposes.
+
+Stud receptacles
+
+Studs
+
+Airloc cross pin
+Figure 7-61. Airloc fastener.
+
+are found in the NAS204 through NAS235 and AN509 and
+AN525 series. They have a definite grip and the same shear
+strength as a bolt of the same size. Shank tolerances are
+similar to AN hex head bolts, and the threads are National
+Fine. Structural screws are available with round, brazier,
+or countersunk heads. Either a Phillips or a Reed & Prince
+screwdriver drives the recessed head screws.
+The AN509 (100°) flathead screw is used in countersunk
+holes where a flush surface is necessary.
+The AN525 washer head structural screw is used where raised
+heads are not objectionable. The washer head screw provides
+a large contact area.
+
+Machine Screws
+Machine screws are usually of the flathead (countersunk),
+roundhead, or washer head types. These are general purpose
+screws and are available in low-carbon steel, brass, corrosionresistant steel, and aluminum alloy.
+
+The AN502 and AN503 fillister head screws are made of
+heat-treated alloy steel, have a small grip, and are available in
+fine and coarse threads. These screws are used as cap screws
+where great strength is required. The coarse threaded screws
+are commonly used as cap screws in tapped aluminum alloy
+and magnesium castings because of the softness of the metal.
+
+Self-Tapping Screws
+Machine self-tapping screws are listed as AN504 and AN506.
+The AN504 screw has a roundhead, and the AN506 is 82°
+countersunk. These screws are used for attaching removable
+parts, such as nameplates, to castings and parts in which the
+screw cuts its own threads.
+AN530 and AN531 self-tapping sheet metal screws, such
+as the Parker-Kalon Z-type sheet metal screw, are blunt on
+the end. They are used in the temporary attachment of metal
+for riveting, and in the permanent assembly of nonstructural
+assemblies. Self-tapping screws should not be used to replace
+standard screws, nuts, bolts, or rivets.
+Drive Screws
+Drive screws, AN535, correspond to the Parker-Kalon
+U-type. They are plain head self-tapping screws used as cap
+screws for attaching nameplates in castings and for sealing
+drain holes in corrosion proofing tubular structures. They are
+not intended to be removed after installation.
+
+Identification & Coding for Screws
+The coding system used to identify screws is similar to that
+used for bolts. There are AN and NAS screws. NAS screws
+7-67
+
+===== PDF PAGE 312 =====
+are structural screws. Part numbers 510, 515, 550, and so
+on, catalog screws into classes, such as roundhead, flathead,
+washer head, and so forth. Letters and digits indicate their
+material composition, length, and thickness. Examples of
+AN and NAS code numbers follow.
+AN501B-416-7
+AN = Air Force-Navy standard
+501 = fillister head, fine thread
+B = brass
+416 = 4⁄16-inch diameter
+7 = 7⁄16-inch length
+The letter “D” in place of the “B” would indicate that the
+material is 2017-T aluminum alloy. The letter “C” would
+designate corrosion resistant steel. An “A” placed before the
+material code letter would indicate that the head is drilled
+for safetying.
+NAS144DH-22
+NAS = National Aircraft Standard
+144 = head style; diameter and thread—1⁄4-28 bolt, internal
+wrenching
+DH = drilled head
+22 = screw length in 16ths of an inch—13⁄8 inches long
+The basic NAS number identifies the part. The suffix letters
+and dash numbers separate different sizes, plating material,
+drilling specifications, and so forth. The dash numbers and
+suffix letters do not have standard meanings. It is necessary
+to refer to a specific NAS page in the Standards book for
+the legend.
+Riveted & Rivetless Nut Plates
+When access to the back of a screw or bolt installation is
+impractical, riveted or rivetless nut plates are used to secure
+the connection of panels. One example in aircraft this
+technique is especially useful is to secure the floorboards to
+the stringers and to each other.
+
+Nut Plates
+Nuts that are made to be riveted in place in aircraft are called
+nut plates. Their purpose is to allow bolts and screws to be
+inserted without having to hold the nut. They are permanently
+mounted to enable inspection panels and access doors to be
+easily removed and installed. When many screws are used on
+a panel, to make installation easier, normally floating anchor
+nuts are used. The floating anchor nut fits into a small bracket,
+which is riveted to the aircraft skin. The nut is free to move,
+which makes it much easier to align it with the screw. For
+production ease, sometimes ganged anchor nuts are used for
+
+inspection panels. Ganged anchor nuts allow the nuts to float
+in a channel, making alignment with the screw easy.
+Self-locking nut plates are made under several standards
+and come in several shapes and sizes. Figure 7-62 shows an
+MS21078 two-lug nut plate with a nonmetallic insert and an
+MS21047 lightweight, all-metal, 450 °F (232 °C) nut plate.
+Nut plates can also have three riveting points if the added
+strength is required.
+
+Rivnuts
+This is the trade name of a hollow, blind rivet made of 6053
+aluminum alloy, counter bored and threaded on the inside.
+One person using a special tool, which heads the rivet on the
+blind side of the material, can install Rivnuts. The Rivnut is
+threaded on the mandrel of the heading tool and inserted in
+the rivet hole. The heading tool is held at right angles to the
+material, the handle is squeezed, and the mandrel crank is
+turned clockwise after each stroke. Continue squeezing the
+handle and turning the mandrel crank of the heading tool until
+a solid resistance is felt, which indicates that the rivet is set.
+The Rivnut is used primarily as a nut plate and in the
+attachment of deicer boots to the leading edges of wings.
+It may be used as a rivet in secondary structures or for
+the attachment of accessories, such as brackets, fairings,
+instruments, or soundproofing materials.
+Rivnuts are manufactured in two head types, each with
+two ends: the flathead with open or closed end and the
+countersunk head with open or closed end. All Rivnuts,
+except the thin head countersunk type, are available with
+or without small projections (keys) attached to the head to
+keep the Rivnut from turning. Keyed Rivnuts are used as a
+nut plate, while those without keys are used for straight blind
+riveting repairs where no torque loads are imposed. A keyway
+cutter is needed when installing Rivnuts that have keys.
+The countersunk style Rivnut is made with two different head
+angles: the 100° with 0.048 and 0.063 inch head thickness and
+the 115° with 0.063 inch head thickness. Each of these head
+styles is made in three sizes: 6-32, 8-32, and 10-32. These
+numbers represent the machine screw size of the threads on
+the inside of the Rivnut. The actual outside diameters of the
+shanks are 3⁄16 inch for the 6-32 size, 7⁄32 inch for the 8-32 size,
+and 1⁄4 inch for the 10-32 size.
+Open-end Rivnuts are the most widely used and are
+recommended in preference to the closed end type wherever
+possible. However, closed-end Rivnuts must be used in
+pressurized compartments.
+Rivnuts are manufactured in six grip ranges. The minimum
+7-68
+
+===== PDF PAGE 313 =====
+MS33737
+Instrument nut
+
+MS21078
+Two-lug anchor nut
+
+MS21051
+One-lug anchor nut
+
+MS21055
+Corner anchor nut
+To reduce magnetic
+influences in the flightdeck,
+nonmagnetic mounting
+nuts secure instruments
+in a control panel.
+
+NAS680A
+Right-angle anchor nut
+
+MS21047
+High-temperature
+two-lug anchor nut
+
+MS21059
+Two-lug floating anchor nut
+
+Ganged anchor nuts
+
+NAS444 or A6195
+Anchor type tinnerman
+nuts are suitable for
+nonstructural applications
+
+A1777, A1789, or A1794
+U-type tinnerman nuts provide convenient
+anchor points for cowlings, fairings, and panels.
+
+Figure 7-62. Various nut plates.
+
+grip length is indicated by a plain head and the next higher
+grip length by one radial dash mark on the head. Each
+succeeding grip range is indicated by an additional radial
+dash mark until five marks indicate the maximum range.
+Notice in Figure 7-63 that some part number codes consist
+of a “6,” an “8,” or a “10,” a “dash,” and two or three more
+numbers. In some, the letters “K” or “KB” replaces the
+dash. The first number indicates the machine screw size of
+the thread, and the last two or three numbers indicate the
+maximum grip length in thousandths of an inch. A dash
+between the figures indicates that the Rivnut has an open
+end and is keyless; a “B” in place of the dash means it has
+a closed end and is keyless; a “K” means it has an open end
+and has a key; and a “KB” indicates that it has a closed end
+and a key. If the last two or three numbers are divisible by
+five, the Rivnut has a flathead; if they are not divisible by
+five, the Rivnut has a countersunk head.
+An example of a part number code is:
+10KB106
+10 = Grip length
+
+KB = Closed end and key
+106 = Screw and thread size
+
+Dill Lok-Skrus and Dill Lok-Rivets
+Dill “Lok-Skru” and “Lok-Rivet” are trade names for
+internally-threaded rivets. They are used for blind attachment
+of accessories, such as fairings, fillets, access door covers,
+door and window frames, floor panels, and the like. LokSkrus and Lok-Rivets are like the Rivnut in appearance
+and application; however, they come in two parts and
+require more clearance on the blind side than the Rivnut to
+accommodate the barrel. [Figure 7-64]
+The Lok-Rivet and the Lok-Skru are alike in construction,
+except the Lok-Skru is tapped internally for fastening an
+accessory by using an attaching screw, whereas the Lok-Rivet is
+not tapped and can be used only as a rivet. Since both Lok-Skrus
+and Lok-Rivets are installed in the same manner, the following
+discussion for the Lok-Skru also applies to the Lok-Rivet.
+The main parts of a Lok-Skru are the barrel, the head, and
+an attachment screw. The barrel is made of aluminum alloy
+7-69
+
+===== PDF PAGE 314 =====
+and comes in either closed or open ends. The head is either
+aluminum alloy or steel, and the attachment screw is made
+of steel. All the steel parts are cadmium plated, and all of
+aluminum parts are anodized to resist corrosion. When
+installed, the barrel screws up over the head and grips the
+metal on the blind side. The attaching screw is then inserted
+if needed. There are two head types: the flathead and the
+countersunk head. The Lok-Skru is tapped for 7-32, 8-32,
+10-32, or 10-24 screws, and the diameters vary from 0.230
+inch for 6-32 screws, to 0.292 inch for 10-32 screws. Grip
+ranges vary from 0.010 inch to 0.225 inch.
+
+Deutsch Rivets
+This rivet is a high-strength blind rivet used on late model
+aircraft. It has a minimum shear strength of 75,000 psi and
+can be installed by one person. The Deutsch rivet consists
+of two parts: the stainless-steel sleeve and the hardened steel
+drive pin. [Figure 7-65] The pin and sleeve are coated with
+a lubricant and a corrosion inhibitor.
+The Deutsch rivet is available in diameters of ⁄16, ⁄4, or ⁄8
+inch. Grip lengths for this rivet range from 3⁄16 to 1 inch.
+Some variation is allowed in grip length when installing the
+rivet. For example, a rivet with a grip length of 3⁄16 inch can
+be used where the total thickness of materials is between
+0.198 and 0.228 inch.
+3
+
+1
+
+3
+
+When driving a Deutsch rivet, an ordinary hammer or a
+pneumatic rivet gun and a flathead set are used. The rivet
+is seated in the previously drilled hole, and then the pin is
+driven into the sleeve. The driving action causes the pin to
+exert pressure against the sleeve and forces the sides of the
+sleeve out. This stretching forms a shop head on the end of
+the rivet and provides positive fastening. The ridge on the
+top of the rivet head locks the pin into the rivet as the last
+few blows are struck.
+
+Flat — 0.32 Head Thickness
+6-45
+
+6-75
+
+6-100
+
+8-45
+
+8-75
+
+8-100
+
+10-45
+
+10-75
+
+10-100
+
+6B45
+
+6B75
+
+6B100
+
+8B45
+
+8B75
+
+8B100
+
+10B45
+
+10B75
+
+10B100
+
+6K45
+
+6K75
+
+6K100
+
+8K45
+
+8K75
+
+8K100
+
+10K45
+
+10K75
+
+10K100
+
+6KB45
+
+6KB75
+
+6KB100
+
+8KB45
+
+8KB75
+
+8KB100
+
+10KB45
+
+10KB75
+
+10KB100
+
+100°— 0.48 Head Thickness
+6-91
+
+6-121
+
+6-146
+
+8-91
+
+8-121
+
+8-146
+
+10-91
+
+10-121
+
+10-146
+
+6B91
+
+6B121
+
+6B146
+
+8B91
+
+8B121
+
+8B146
+
+10B91
+
+10B121
+
+10B146
+
+100°— 0.63 Head Thickness
+6-106
+
+6-136
+
+6-161
+
+Sealing Nut Plates
+
+8-106
+
+8-136
+
+8-161
+
+When securing nut plates in pressurized aircraft and in fuel
+cells, a sealing nut plate is used instead of the open-ended
+variety previously described. Care must be taken to use
+exactly the correct length of bolt or screw. If a bolt or screw
+is too short, there is not enough threads to hold the device in
+place. If the bolt or screw is too long, it penetrates the back
+side of the nut plate and compromises the seal. Normally, a
+sealant is also used to ensure complete sealing of the nut plate.
+Check the manufacturer’s specifications for the acceptable
+sealant to be used for sealing nut plates.
+
+10-106
+
+10-136
+
+10-161
+
+6B106
+
+6B136
+
+6B161
+
+8B106
+
+8B136
+
+8B161
+
+10B106
+
+10B136
+
+10B161
+
+6K106
+
+6K136
+
+6K161
+
+8K106
+
+8K136
+
+8K161
+
+10K106
+
+10K136
+
+10K161
+
+6KB106
+
+6KB136
+
+6KB161
+
+8KB106
+
+8KB136
+
+8KB161
+
+10KB106
+
+10KB136
+
+10KB161
+
+Hole Repair & Hole Repair Hardware
+Many of the blind fasteners are manufactured in oversized
+diameters to accommodate slightly enlarged holes resulting
+from drilling out the original fastener. When using rivets
+
+Figure 7-63. Rivnut data chart.
+
+7-70
+
+===== PDF PAGE 315 =====
+sleeves. The sleeves are manufactured in 1-inch increments.
+Along their length, grooves provide a place to break or cut
+off excess length to match fastener grip range. The grooves
+also provide a place to hold adhesive or sealing agents when
+bonding the sleeve into the hole.
+
+Figure 7-64. Internally-threaded rivet (Rivnut).
+
+or even bolts, care must be taken to ensure the hole is not
+elongated or slanted.
+To reduce the chances of an incorrectly drilled rivet or bolt
+hole, use a slightly smaller drill bit first, then enlarge to the
+correct diameter. The last step to prepare the hole for the
+fastener is to deburr the hole using either a very large drill
+bit or a special deburring tool. This practice also works well
+when drilling out a previously attached fastener. If the drill
+bit does not exactly find the center of the rivet, bolt, or screw,
+the hole can easily be elongated, but when using a smaller
+drill bit, drill the head only off the fastener. Then the ring and
+stem that is left can be pushed out with a pin punch of the
+appropriate diameter. If an incorrectly drilled hole is found,
+the options are to re-drill the hole to the next larger diameter
+for an acceptable fastener or repair the hole using an Acres
+fastener sleeve.
+
+Repair of Damaged Holes with Acres Fastener
+Sleeves
+Acres fastener sleeves are thin-wall tubular elements with
+a flared end. The sleeves are installed in holes to accept
+standard bolts and rivet-type fasteners. The existing fastener
+holes are drilled 1⁄64 inch oversize for installation of the
+
+Advantages & Limitations
+The sleeves are used in holes that must be drilled 1⁄64 inch
+oversize to clean up corrosion or other damage. The oversize
+hole with the sleeve installed allows the use of the original
+diameter fastener in the repaired hole. The sleeves can be
+used in areas of high galvanic corrosion where the corrosion
+must be confined to a readily replaceable part. Oversizing of
+holes reduces the net cross-sectional area of a part and should
+not be done unless absolutely required.
+Consult the manufacturer of the aircraft, aircraft engine, or
+aircraft component prior to repair have damaged holes with
+Acres sleeves.
+Identification
+The sleeve is identified by a standard code number that
+represents the type and style of sleeve, a material code,
+the fastener shank diameter, and surface finish code letter,
+and grip tang for the sleeve. [Figure 7-66] The basic code
+number represents the type and material of the sleeve. The
+first dash number represents the diameter of the sleeve for
+the fastener installed, and the second dash represents the
+grip length of the sleeve. The required length of the sleeve
+is determined on installation and the excess is broken off the
+sleeve. A JK5512A-05N-10 is a 100° low profile head sleeve
+of aluminum alloy. The diameter is for a 5⁄32-inch fastener
+with no surface finish and is 5⁄8 inch in length.
+Hole Preparation
+Refer to Figure 7-67 for drill number for standard or close
+fit holes. Inspect hole after drilling to assure all corrosion is
+removed before installing the sleeve. The hole must also be
+the correct shape and free from burrs. The countersink must
+be enlarged to receive the flare of the sleeve, so the sleeve
+is flush with the surrounding surface.
+Installation
+After selecting the correct type and diameter sleeve, use the
+6501 sleeve breakoff tool for final installation length. Refer
+to Figure 7-67 for the sleeve breakoff procedure. The sleeve
+may be installed with or without being bonded in the hole.
+When bonding the sleeve in a hole, use MIL-S-8802A 1⁄2
+sealant. Reinstall original size fastener and torque as required.
+
+Figure 7-65. Deutsch rivet.
+
+Sleeve Removal
+Sleeves not bonded in the hole may be removed by either
+
+7-71
+
+===== PDF PAGE 316 =====
+driving them out with a drift pin of the same diameter as
+the outside diameter of the sleeve, or they may be deformed
+and removed with a pointed tool. Bonded sleeves may be
+removed by this method, but care should be used not to
+damage the structure hole. If this method cannot be used,
+drill the sleeves out with a drill 0.004 to 0.008 inch smaller
+than the installation drill size. The remaining portion of the
+sleeve after drilling can be removed using a pointed tool and
+applying an adhesive solvent to the sealant.
+
+Control Cables & Terminals
+Cables are the most widely used linkage in primary flight
+control systems. Cable-type linkage is also used in engine
+controls, emergency extension systems for the landing gear,
+and various other systems throughout the aircraft.
+Cable-type linkage has several advantages over the other
+types. It is strong and lightweight, and its flexibility makes it
+easy to route through the aircraft. An aircraft cable has a high
+mechanical efficiency and can be set up without backlash,
+which is very important for precise control.
+Cable linkage also has some disadvantages. Tension must be
+adjusted frequently due to stretching and temperature changes.
+Aircraft control cables are fabricated from carbon steel or
+stainless steel.
+Cable Construction
+The basic component of a cable is a wire. The diameter of
+the wire determines the total diameter of the cable. Several
+wires are preformed into a helical or spiral shape and then
+formed into a strand. These preformed strands are laid around
+a straight center strand to form a cable.
+Cable designations are based on the number of strands and the
+number of wires in each strand. The most common aircraft
+cables are the 7 × 7 and 7 × 19.
+The 7 × 7 cable consists of seven strands of seven wires
+each. Six of these strands are laid around the center strand.
+[Figure 7-68] This is a cable of medium flexibility and is used
+for trim tab controls, engine controls, and indicator controls.
+The 7 × 19 cable is made up of seven strands of 19 wires
+each. Six of these strands are laid around the center strand.
+[Figure 7-68] This cable is extra flexible and is used in
+primary control systems and in other places where operation
+over pulleys is frequent.
+Aircraft control cables vary in diameter, ranging from 1⁄16 to
+3
+⁄8 inch. The diameter is measured as shown in Figure 7-68.
+
+Cable Fittings
+Cables may be equipped with several different types of
+fittings, such as terminals, thimbles, bushings, and shackles.
+Terminal fittings are generally of the swaged type. They are
+available in the threaded end, fork end, eye end, single shank
+ball end, and double shank ball end. The threaded end, fork
+end, and eye end terminals are used to connect the cable to
+a turnbuckle, bell crank, or other linkage in the system. The
+ball end terminals are used for attaching cables to quadrants
+and special connections where space is limited. Figure 7-69
+illustrates the various types of terminal fittings.
+The thimble, bushing, and shackle fittings may be used
+in place of some types of terminal fittings when facilities
+and supplies are limited and immediate replacement of the
+cable is necessary.
+Turnbuckles
+A turnbuckle assembly is a mechanical screw device
+consisting of two threaded terminals and a threaded barrel.
+[Figure 7-70]
+Turnbuckles are fitted in the cable assembly for making
+minor adjustments in cable length and for adjusting cable
+tension. One of the terminals has right-hand threads and the
+other has left-hand threads. The barrel has matching rightand left-hand internal threads. The end of the barrel with the
+left-hand threads can usually be identified by a groove or
+knurl around that end of the barrel.
+When installing a turnbuckle in a control system, it is
+necessary to screw both terminals an equal number of turns
+into the barrel. It is also essential that all turnbuckle terminals
+be screwed into the barrel until not more than three threads
+are exposed on either side of the turnbuckle barrel.
+After a turnbuckle is properly adjusted, it must be safetied.
+The methods of safetying turnbuckles are discussed later in
+this chapter.
+
+Push-Pull Tube Linkage
+Push-pull tubes are used as linkage in various types of
+mechanically-operated systems. This type linkage eliminates
+the problem of varying tension and permits the transfer of
+either compression or tension stress through a single tube.
+A push-pull tube assembly consists of a hollow aluminum
+alloy or steel tube with an adjustable end fitting and a check
+nut at either end. [Figure 7-71] The check nuts secure the end
+fittings after the tube assembly has been adjusted to its correct
+length. Push-pull tubes are generally made in short lengths
+to prevent vibration and bending under compression loads.
+
+7-72
+
+===== PDF PAGE 317 =====
+Acres Sleeve
+
+Type
+
+100°
+509 tension head plus flange
+
+Protruding head (shear)
+
+100°
+Low profile head
+
+100°
+Standard profile head
+(509 type)
+
+Protruding head (tension)
+
+100°
+Oversize tension head
+(1⁄64 oversize bolt)
+
+Basic Part
+Number
+
+A
+
+Material code 1
+
+04
+
+Fastener shank diameter in 32nds
+
+N
+
+Surface finish
+N = No finish
+C = Chemical film per MIL-C-554
+
+JK5511( )04( )( )
+JK5512( )04( )( )
+JK5516( )04( )( )
+JK5517( )04( )( )
+
+1⁄
+
+JK5511( )45( )( )
+JK5512
+JK5516( )45( )( )
+JK5517( )45( )( )
+JK5511
+
+JK5512
+
+JK5516
+
+JK5517
+
+JK5533
+
+JK5511 A 04 N 08 L
+Basic part number
+
+Bolt
+Size
+
+2
+
+Sleeve
+Length
+
+8
+
+8
+
+JK5610
+
+Part Number Breakdown
+
+JK5511
+
+Sleeve
+Part Number
+
+08
+
+Length in sixteenth inch increments
+(Required installation length by breaking off at proper groove)
+
+L
+
+“L” at end of part number indicates cetyl alcohol lubricant
+
+Material Code
+
+5052 Aluminum alloy ½ hard
+
+8
+
+JK5511( )05( )( )
+JK5512( )05( )( )
+JK5516( )05( )( )
+JK5517( )05( )( )
+
+5⁄
+
+10
+
+JK5511( )55( )( )
+JK5512( )55( )( )
+JK5516( )55( )( )
+JK5517( )55( )( )
+JK5610( )55( )( )
+
+#8
+
+10
+
+JK5511( )06( )( )
+JK5512( )06( )( )
+JK5516( )06( )( )
+JK5517( )06( )( )
+JK5610( )06( )( )
+
+#10
+
+12
+
+JK5511( )08( )( )
+JK5512( )08( )( )
+JK5516( )08( )( )
+JK5517( )08( )( )
+JK5610( )08( )( )
+
+¼
+
+16
+
+JK5511( )10( )( )
+JK5512( )10( )( )
+JK5516( )10( )( )
+JK5517( )10( )( )
+JK5610( )10( )( )
+
+5⁄
+
+16
+
+JK5511( )12( )( )
+JK5512( )12( )( )
+JK5516( )12( )( )
+JK5517( )12( )( )
+JK5610( )12( )( )
+
+3⁄
+
+32
+
+16
+
+16
+
+8
+
+Acres Sleeve for 1⁄64 Oversize Bolt
+1
+
+Material
+
+#6
+
+Sleeve
+Part Number
+
+Bolt
+Size
+
+JK5533( )06( )( )
+
+13⁄
+
+A
+
+JK5533( )08( )( )
+
+17⁄
+
+6061 Aluminum alloy (T6 condition)
+
+B
+
+JK5533( )10( )( )
+
+21⁄
+
+A286 Stainless steel (passivate)
+
+C
+
+JK5533( )12( )( )
+
+25⁄
+
+64
+64
+64
+64
+
+2
+
+Sleeve
+Length
+12
+16
+16
+16
+
+NOTES:
+1
+2
+
+Acres sleeve, JK5533 1⁄64 oversize available in
+A286 steel only
+Acres sleeve length in sixteenth-inch increments
+
+Figure 7-66. Acres sleeve identification.
+
+7-73
+
+===== PDF PAGE 318 =====
+Hole Preparation for 1⁄64 Oversize Bolt
+Bolt Size
+
+Drill Number
+
+Drill Diameter
+
+13/64
+
+7/32
+
+0.2187
+
+17/64
+
+9/32
+
+0.2812
+
+21/64
+
+11/32
+
+0.3437
+
+25/64
+
+13/32
+
+0.4062
+
+Existing fastener
+
+Hole Preparation
+Standard Fit
+Bolt Size
+
+Acres sleeve
+
+Close Fit
+
+Drill Number
+
+Drill
+Diameter
+
+Drill Number
+
+Drill
+Diameter
+
+1/8
+
+9/64
+
+0.1406
+
+28
+
+0.1405
+
+#6
+
+23
+
+0.1540
+
+24
+
+0.1520
+
+5/32
+
+11/64
+
+0.1719
+
+18
+
+0.1695
+
+#8
+
+15
+
+0.1800
+
+16
+
+0.1770
+
+#10
+
+5
+
+0.2055
+
+6
+
+0.2040
+
+¼
+
+14
+
+0.2660
+
+17/64
+
+0.2656
+
+5/16
+
+21/64
+
+0.3281
+
+3/8
+
+25/64
+
+0.3908
+
+1/64 Oversize hole
+
+Installation Procedure
+A. Drill out corrosion or damage to existing hole to 1/64 oversize.
+B. Select proper type and length acres sleeve for existing fastener.
+C. Bond sleeve in structure hole with MIL-S-8802 class A ½ sealant.
+
+Structure
+
+Acres sleeve installation
+
+Figure 7-67. Acres sleeve identification, installation, and breakoff procedure.
+
+1/ — 3/ diameter 7 x 19
+8
+8
+
+7 strands, 19 wires to each strand
+
+Diameter
+
+1/ — 3/32 diameter 7 x 7
+16
+
+7 strands, 7 wires to each strand
+
+Diameter
+
+Figure 7-68. Cable cross-sections.
+
+7-74
+
+===== PDF PAGE 319 =====
+Safetying Methods
+To ensure fasteners do not separate from their nuts or holding
+ends, various safetying methods are used in aircraft from
+heavy aircraft to gliders to recreational aircraft. Safetying is
+the process of securing all aircraft, bolts, nuts, screws, pins,
+and other fasteners so that they do not work loose due to
+
+of safetying equipment on an aircraft is necessary to perform
+maintenance and inspection.
+There are various methods of safetying aircraft parts. The
+most widely used methods are safety wire, cotter pins, lock
+washers, snap rings, and special nuts, such as self-locking
+nuts, pal nuts, and jam nuts. Some of these nuts and washers
+have been previously described in this chapter.
+
+Pins
+The three main types of pins used in aircraft structures are
+the taper pin, flathead pin, and cotter pin. Pins are used in
+shear applications and for safetying. Roll pins are finding
+increasing uses in aircraft construction.
+
+MS20663 Double shank ball end terminal
+
+MS20664 Single shank ball end terminal
+
+Taper Pins
+Plain and threaded taper pins (AN385 and AN386) are used
+in joints that carry shear loads and where absence of play is
+essential. The plain taper pin is drilled and usually safetied
+with wire. The threaded taper pin is used with a taper pin
+washer (AN975) and shear nut (safetied with a cotter pin or
+safety clip) or self-locking nut.
+
+AN665 Rod end terminal
+
+Flathead Pin
+Commonly called a Clevis pin, the flathead pin (MS20392)
+is used with tie rod terminals and in secondary controls,
+which are not subject to continuous operation. The pin is
+customarily installed with the head up so that if the cotter
+pin fails or works out, the pin remains in place.
+
+AN666 Threaded cable terminal
+
+Cotter Pins
+The AN380 cadmium-plated, low-carbon steel cotter pin
+is used for safetying bolts, screws, nuts, other pins, and in
+various applications where such safetying is necessary. The
+AN381 corrosion-resistant steel cotter pin is used in locations
+where nonmagnetic material is required or in locations where
+resistance to corrosion is desired.
+
+MS20667 Fork end cable terminal
+
+AN668/MS20668 Eye end cable terminal
+Figure 7-69. Types of terminal fittings.
+
+Roll Pins
+The roll pin is a pressed fit pin with chamfered ends. It is
+Length (threads flush with ends of barrel)
+
+Swaged terminal
+
+Barrel
+
+Pin eye
+
+Figure 7-70. Typical turnbuckle assembly.
+
+vibration. A familiarity with the various methods and means
+
+7-75
+

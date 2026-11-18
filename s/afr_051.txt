@@ -1,0 +1,1401 @@
+FAA-H-8083-31B Airframe Handbook, chapter 13 (Aircraft Landing Gear Systems), PDF pages 800-817
+
+===== PDF PAGE 800 =====
+Br
+r es ak e
+er v
+oir
+
+hydraulic system. The hydraulic system should operate
+without air in the fluid as should the brake system. Therefore,
+bottom up pressure bleeding is not an option for power
+brakes. The trapped air in the brake system would be forced
+into the main hydraulic system, which is not acceptable.
+
+Master cylinder
+
+Many aircraft with power brake systems accept the
+connection of an auxiliary hydraulic mule that can be used
+to establish pressure in the system for bleeding. Regardless,
+the aircraft system must be pressurized to bleed power brake
+systems. Attach a clear hose to the brake bleed port fitting on
+the brake assembly and immerse the other end of the hose in
+a container of clean hydraulic fluid. With the bleeder valve
+open, carefully apply the brake to allow aircraft hydraulic
+fluid to enter the brake system. The fluid expels the fluid
+contaminated with air out of the bleed hose into the container.
+When air is no longer visible in the hose, close the bleed
+valve and restore the hydraulic system to normal operation
+configuration.
+Power brake systems on different aircraft contain many
+variations and a wide array of components that may affect
+the proper bleeding technique to be followed. Consult the
+manufacturer’s maintenance information for the correct
+bleeding procedure for each aircraft. Be sure to bleed
+auxiliary and emergency brake systems when bleeding the
+normal brake system to ensure proper operation when needed.
+
+Clear hose
+
+Figure 13-120. Arrangement for top down or gravity bleeding of
+
+aircraft brakes.
+
+no longer contains any air. Tighten the bleed port fitting and
+ensure the reservoir is filled to the proper level.
+Whenever bleeding the brakes, ensure that reservoirs and
+bleed tanks remain full during the process. Use only clean,
+specified fluid. Always check the brakes for proper operation,
+any leaks when bleeding is complete, and assure that the fluid
+quantity level is correct.
+
+Fluid Quantity & Type
+As mentioned, it is imperative that the correct hydraulic fluid
+is used in each brake system. Seals in the brake system are
+designed for a particular hydraulic fluid. Deterioration and
+failure occurs when they are exposed to other fluids. Mineralbased fluid, such as MIL-H-5606 (red oil), should never be
+mixed with phosphate-ester based synthetic hydraulic fluid,
+such as Skydrol®. Contaminated brake/hydraulic systems
+must have all of the fluid evacuated and all seals replaced
+before the aircraft is released for flight.
+Fluid quantity is also important. The technician is responsible
+for determining the method used to ascertain when the
+brake and hydraulic systems are fully serviced and for
+the maintenance of the fluid at this level. Consult the
+manufacturer’s specifications for this information.
+
+Bleeding Power Brake Systems
+
+Inspection for Leaks
+Aircraft brake systems should maintain all fluid inside lines
+and components and should not leak. Any evidence of a leak
+must be investigated for its cause. It is possible that the leak is
+a precursor to more significant damage that can be repaired,
+thus avoiding an incident or accident. [Figure 13-121]
+
+Top down brake bleeding is used in power brake systems.
+Power brakes are supplied with fluid from the aircraft
+
+Many leaks are found at brake system fittings. While
+13-69
+
+===== PDF PAGE 801 =====
+this type of leak may be fixed by tightening an obviously
+loose connection, the technician is cautioned against overtightening fittings. Removal of hydraulic pressure from the
+brake system followed by disconnection and inspection of
+the connectors is recommended. Over-tightening of fitting
+can cause damage and make the leak worse. MS flareless
+fitting are particularly sensitive to over-tightening. Replace
+all fittings suspected of damage. Once any leak is repaired, the
+brake system must be re-pressurized and tested for function
+as well as to ensure the leak no longer exists. Occasionally,
+a brake housing may seep fluid through the housing body.
+Consult the manufacturer’s maintenance manual for limits
+and remove any brake assembly that seeps excessively.
+Proper Bolt Torque
+The stress experience by the landing gear and brake system
+requires that all bolts are properly torqued. Bolts used to
+attach the brakes to the strut typically have the required
+torque specified in the manufacturer’s maintenance manual.
+Check for torque specifications that may exist for any landing
+gear and brake bolts, and ensure they are properly tightened.
+Whenever applying torque to a bolt on an aircraft, use of a
+calibrated torque wrench is required.
+
+Off Aircraft Brake Servicing & Maintenance
+Certain servicing and maintenance of an aircraft brake
+assembly is performed while it has been removed from the
+aircraft. A close inspection of the assembly and its many parts
+should be performed at this time. Some of the inspection
+items on a typical assembly follow.
+Bolt & Threaded Connections
+All bolts and threaded connections are inspected. They should
+be in good condition without signs of wear. Self-locking
+nuts should still retain their locking feature. The hardware
+should be what is specified in the brake manufacturer’s
+
+parts manual. Many aircraft brake bolts, for example, are
+not standard hardware and may be of closer tolerance or
+made of a different material. The demands of the high stress
+environment in which the brakes perform may cause brake
+failure if improper substitute hardware is used. Be sure to
+check the condition of all threads and O-ring seating areas
+machined into the housing. The fittings threaded into the
+housing must also be checked for condition.
+Discs
+Brake discs must be inspected for condition. Both rotating
+and stationary discs in a multiple disc brake can wear. Uneven
+wear can be an indication that the automatic adjusters may
+not be pulling the pressure plate back far enough to relieve
+all pressure on the disc stack.
+Stationary discs are inspected for cracks. Cracks usually
+extend from the relief slots, if so equipped. On multiple disc
+brakes, the slots that key the disc to the torque tube must
+also be inspected for wear and widening. The discs should
+engage the torque tube without binding. The maximum width
+of the slots is given in the maintenance manual. Cracks or
+excessive key slot wear are grounds for rejection. Brake wear
+pads or linings must also be inspected for wear while the
+brake assembly is removed from the aircraft. Signs of uneven
+wear should be investigated, and the problem corrected. The
+pads may be replaced if worn beyond limits as long as the
+stationary disc upon which they mount passes inspection.
+Follow the manufacturer’s procedures for inspections and
+for pad replacement.
+Rotating discs must be similarly inspected. The general
+condition of the disc must be observed. Glazing can occur
+when a disc or part of a disc is overheated. It causes brake
+squeal and chatter. It is possible to resurface a glazed disc
+if the manufacturer allows it. Rotating discs must also be
+inspected in the drive key slot or drive tang area for wear and
+deformation. Little damage is allowed before replacement
+is required.
+The pressure plate and back plate on multiple disc brakes
+must be inspected for freedom of movement, cracks, general
+condition, and warping. New linings may be riveted to the
+plates if the old linings are worn and the condition of the plate
+is good. Note that replacing brake pads and linings by riveting
+may require specific tools and technique as described in the
+maintenance manual to ensure secure attachment. Minor
+warping can be straightened on some brake assemblies.
+
+Figure 13-121. The cause of all aircraft brake leaks must be
+
+investigated, repaired, and tested before releasing the aircraft
+for flight.
+
+Automatic Adjuster Pins
+A malfunctioning automatic adjuster assembly can cause the
+brakes to drag on the rotating disc(s) by not fully releasing
+and pulling the lining away from the disc. This can lead to
+13-70
+
+===== PDF PAGE 802 =====
+excessive, uneven lining wear and disc glazing. The return
+pin must be straight with no surface damage so it can pass
+through the grip without binding. Damage under the head
+can weaken the pin and cause failure. Magnetic inspection
+is sometimes used to inspect for cracks.
+The components of the grip and tube assembly must be in
+good condition. Clean and inspect in accordance with the
+manufacturer’s maintenance instructions. The grip must
+move with the force specified and must move through its
+full range of travel.
+Torque Tube
+A sound torque tube is necessary to hold the brake assembly
+stable on the landing gear. General visual inspection should
+be made for wear, burrs, and scratches. Magnetic particle
+inspection is used to check for cracks. The key areas should
+be checked for dimension and wear. All limits of damage
+are referenced in the manufacturer’s maintenance data. The
+torque tube should be replaced if a limit is exceeded.
+Brake Housing & Piston Condition
+The brake housing must be inspected thoroughly. Scratches,
+gouges, corrosion, or other blemishes may be dressed out and
+the surface treated to prevent corrosion. Minimal material
+should be removed when doing so. Most important is that
+there are no cracks in the housing. Fluorescent dye penetrant
+is typically used to inspect for cracks. If a crack is found, the
+housing must be replaced. The cylinder area(s) of the housing
+must be dimensionally checked for wear. Limits are specified
+in the manufacturer’s maintenance manual.
+The brake pistons that fit into the cylinders in the housing
+must also be checked for corrosion, scratches, burrs, etc.
+Pistons are also dimensionally checked for wear limits
+specified in the maintenance data. Some pistons have
+insulators on the bottom. They should not be cracked and
+should be of a minimal thickness. A file can be used to smooth
+out minor irregularities.
+Seal Condition
+Brake seals are very important. Without properly functioning
+seals, brake operation will be compromised, or the brakes
+will fail. Over time, heat and pressure mold a seal into the
+seal groove and harden the material. Eventually, resilience
+is reduced and the seal leaks. New seals should be used to
+replace all seals in the brake assembly. Acquire seals by part
+number in a sealed package from a reputable supplier to
+avoid bogus seals and ensure the correct seals for the brake
+assembly in question. Check to ensure the new seals have
+not exceeded their shelf life, which is typically three years
+from the cure date.
+
+Many brakes use back-up rings in the seal groove to support
+the O-ring seals and reduce the tendency of the seal to extrude
+into the space which it is meant to seal. These are often made
+of Teflon® or similar material. Back-up seals are installed
+on the side of the O-ring away from the fluid pressure.
+[Figure 13-122] They are often reusable.
+
+Replacement of Brake Linings
+In general aviation, replacement of brake linings is commonly
+done in the hangar. The general procedure used on two
+common brake assemblies is given. Follow the actual
+manufacturer’s instruction when replacing brake linings on
+any aircraft brake assembly.
+Goodyear Brakes
+To replace the linings on a Goodyear single disc brake
+assembly, the aircraft must be jacked and supported.
+Detach the anti-rattle clips that help center the disc in the
+wheel before removing the wheel from the axle. The disc
+remains between the inner and outer lining when the wheel
+is removed. Extract the disc to provide access to the old
+lining pucks. These can be removed from the cavities in the
+housing and replaced with new pucks. Ensure the smooth
+braking surface of the puck contacts the disc. Reinsert the disc
+between the linings. Reinstall the wheel and anti-rattle clips.
+Tighten the axle nut in accordance with the manufacturer’s
+instructions. Secure it with a cotter pin and lower the aircraft
+from the jack. [Figure 13-123]
+Cleveland Brakes
+The popular Cleveland brake uniquely features the ability
+to change the brake linings without jacking the aircraft or
+removing the wheel. On these assemblies, the torque plate
+is bolted to the strut while the remainder of the brake is
+assembled on the anchor bolts. The disc rides between the
+pressure plate and back plate. Linings are riveted to both
+plates. By unbolting the cylinder housing from the backplate,
+Housing
+
+Piston
+Backup ring
+Fluid pressure
+O-ring
+Figure 13-122. Back-up rings are used to keep O-rings from
+
+extruding into the space between the piston and the cylinder. They
+are positioned on the side of the O-ring away from the fluid pressure.
+
+13-71
+
+===== PDF PAGE 803 =====
+Brake caliper
+Anti-rattle clip
+Backing plate lining puck
+Disc
+Pressure plate lining puck
+Pressure plate
+Housing
+
+Piston
+Brake disc
+Cylinder head
+
+Figure 13-123. Goodyear brake lining replacement requires that the wheel be removed from the axle to access the brake assembly. The
+lining pucks slip into recesses in the brake housing.
+
+the backplate is freed to drop away from the torque plate. The
+remainder of the assembly is pulled away, and the pressure
+plate slides off of the torque bolts. [Figure 13-124]
+The rivets that hold the linings on the pressure plate and back
+plate are removed with a knockout punch. After a thorough
+inspection, new linings are riveted to the pressure plate and
+backplate using a rivet clinching tool [Figure 13-125] Kits are
+sold that supply everything needed to perform the operation.
+The brake is reassembled in the reverse order. Be certain to
+include any shims if required. The bolts holding the backplate
+to the cylinder assembly must be torqued according to
+manufacturer specifications and safetied. The manufacturer’s
+data also provides a burn in procedure. The aircraft is taxied
+at a specified speed, and the brakes are smoothly applied.
+After a cooling period, the process is repeated, thus preparing
+the linings for service.
+Brake Malfunctions & Damage
+Aircraft brakes operate under extreme stress and varied
+conditions. They are susceptible to malfunction and damage.
+A few common brake problems are discussed in this section.
+
+Overheating
+While aircraft brakes slow the aircraft by changing kinetic
+energy into heat energy, overheating of the brakes is not
+desirable. Excessive heat can damage and distort brake
+parts weakening them to the point of failure. Protocol for
+brake usage is designed to prevent overheating. When a
+
+brake shows signs of overheating, it must be removed from
+the aircraft and inspected for damage. When an aircraft is
+involved in an aborted takeoff, the brakes must be removed
+and inspected to ensure they withstood this high level of use.
+The typical post-overheat brake inspection involves removal
+of the brake from the aircraft and disassembly of the brakes.
+All of the seals must be replaced. The brake housing must
+be checked for cracks, warping, and hardness per the
+maintenance manual. Any weakness or loss of heat treatment
+could cause the brake to fail under high-pressure braking. The
+brake discs must also be inspected. They must not be warped,
+and the surface treatment must not be damaged or transferred
+to an adjacent disc. Once reassembled, the brake should be
+bench tested for leaks and pressure tested for operation before
+being installed on the aircraft.
+
+Dragging
+Brake drag is a condition caused by the linings not retracting
+from the brake disc when the brakes are no longer being
+applied. It can be caused by several different factors. Brakes
+that drag are essentially partially on at all times. This can
+cause excessive lining wear and overheating leading to
+damage to the disc(s).
+A brake may drag when the return mechanism is not
+functioning properly. This could be due to a weak return
+spring, the return pin slipping in the auto adjuster pin grip,
+
+13-72
+
+===== PDF PAGE 804 =====
+Cylinder housing to back plate bolts (4 each)
+
+Pressure plate
+
+Rivets (8)
+
+Backplate
+Torque plate
+
+Cylinder assembly
+
+Backplate lining
+
+Bushings
+
+Pressure plate lining
+Anchor bolts (2)
+
+Figure 13-124. A Cleveland brake disassembles once the four bolts holding the cylinder to the backplate are removed while the aircraft
+
+wheel remains in place. The pressure plate slides off the anchor bolts and linings can be replaced by riveting on the pressure plate and
+back plate.
+
+line can also cause brake drag. Heat causes the air to expand,
+which pushes the brake linings against the disc prematurely. If
+no damage has been caused when reported, bleed the brakes
+to remove the air from the system to eliminate the drag.
+At all times, the technician should perform inspections
+to ensure the proper parts are used in the brake assembly.
+Improper parts, especially in the retraction/adjuster
+assemblies, can cause the brakes to drag.
+
+Chattering or Squealing
+
+Figure 13-125. Rivet setting tool is used to install brake linings on
+Cleveland brake pressure plates and back plates.
+
+or similar malfunction. Inspect the auto adjuster(s) and
+return units on the brake when dragging is reported. An
+overheated brake that has warped the disc also causes brake
+drag. Remove the brake and perform a complete inspection
+as discussed in the previous section. Air in the brake fluid
+
+Brakes may chatter or squeal when the linings do not ride
+smoothly and evenly along the disc. A warped disc(s) in
+a multiple brake disc stack produces a condition wherein
+the brake is actually applied and removed many times per
+minute. This causes chattering and, at high frequency, it
+causes squealing. Any misalignment of the disc stack out
+of parallel causes the same phenomenon. Discs that have
+been overheated may have damage to the surface layer of
+the disc. Some of this mix may be transferred to the adjacent
+disc resulting in uneven disc surfaces that also leads to
+chatter or squeal. In addition to the noise produced by brake
+chattering and squealing, vibration is caused that may lead
+to further damage of the brake and the landing gear system.
+The technician must investigate all reports of brake chattering
+and squealing.
+
+13-73
+
+===== PDF PAGE 805 =====
+Aircraft Tires & Tubes
+Aircraft tires may be tube-type or tubeless. They support the
+weight of the aircraft while it is on the ground and provide
+the necessary traction for braking and stopping. The tires also
+help absorb the shock of landing and cushion the roughness
+of takeoff, rollout, and taxi operations. Aircraft tires must
+be carefully maintained to perform as required. They accept
+a variety of static and dynamic stresses and must do so
+dependably in a wide range of operating conditions.
+
+Section width
+
+Rim diameter
+
+Tire Classification
+Aircraft tires are classified in various ways including by:
+type, ply rating, whether they are tube-type or tubeless, and
+whether they are bias ply tires or radials. Identifying a tire
+by its dimensions is also used. Each of these classifications
+is discussed as follows.
+
+Types
+A common classification of aircraft tires is by type as
+classified by the United States Tire and Rim Association.
+While there are nine types of tires, only Types I, III, VII,
+and VIII, also known as a Three-Part Nomenclature tires,
+are still in production.
+Type I tires are manufactured, but their design is no longer
+active. They are used on fixed gear aircraft and are designated
+only by their nominal overall diameter in inches. These are
+smooth profile tires that are obsolete for use in the modern
+aviation fleet. They may be found on older aircraft.
+Type III tires are common general aviation tires. They are
+typically used on light aircraft with landing speeds of 160
+miles per hour (mph) or less. Type III tires are relatively lowpressure tires that have small rim diameters when compared
+to the overall width of the tire. They are designed to cushion
+and provide flotation from a relatively large footprint. Type
+III tires are designated with a two-number system. The first
+number is the nominal section width of the tire, and the
+second number is the diameter of the rim the tire is designed
+to mount upon. [Figure 13-126]
+Type VII tires are high performance tires found on jet aircraft.
+They are inflated to high-pressure and have exceptional high
+load carrying capability. The section width of Type VII tires
+is typically narrower than Type III tires. Identification of
+Type VII aircraft tires involves a two-number system. An X
+is used between the two numbers. The first number designates
+the nominal overall diameter of the tire. The second number
+designates the section width. [Figure 13-127]
+Type VIII aircraft tires are also known as three-part
+nomenclature tires. [Figure 13-128] They are inflated to
+very high-pressure and are used on high-performance jet
+
+Figure 13-126. Type III aircraft tires are identified via a two-number
+system with a (-) separating the numbers. The first number is the
+tire section width in inches. The second number is the rim diameter
+in inches. For example: 6.00 – 6 is a Cessna 172 tire that is 6.00
+inches wide and fits on a rim that has a diameter of 6 inches.
+
+Section width
+
+Nominal outside diameter
+
+Figure 13-127. A Type VII aircraft tire is identified by its twonumber designation. The first number represents the tire’s overall
+diameter in inches and the second number represents the section
+width in inches. Type VII designators separate the first and second
+number an “X.” For example: 26 X 6.6 identifies a tire that is 26
+inches in diameter with a 6.6-inch nominal width.
+
+aircraft. The typical Type VIII tire has relatively low profile
+and is capable of operating at very high speeds and very
+high loads. It is the most modern design of all tire types. The
+three-part nomenclature is a combination of Type III and Type
+VII nomenclature where the overall tire diameter, section
+13-74
+
+===== PDF PAGE 806 =====
+A few special designators may also be found for aircraft tires.
+When a B appears before the identifier, the tire has a wheel
+rim to section width ratio of 60 to 70 percent with a bead taper
+of 15 degrees. When an H appears before the identifier, the
+tire has a 60 to 70 percent wheel rim to section width ratio
+but a bead taper of only 5 degrees.
+
+Section width
+
+Ply Rating
+Nominal outside diameter
+
+Rim diameter
+
+Tire plies are reinforcing layers of fabric encased in rubber
+that are laid into the tire to provide strength. In early tires,
+the number of plies used was directly related to the load the
+tire could carry. Nowadays, refinements to tire construction
+techniques and the use of modern materials to build up aircraft
+tires makes the exact number of plies somewhat irrelevant
+when determining the strength of a tire. However, a ply rating
+is used to convey the relative strength of an aircraft tire. A
+tire with a high ply rating is a tire with high strength able to
+carry heavy loads regardless of the actual number of plies
+used in its construction.
+
+Tube-Type or Tubeless
+
+N
+TI
+RA N
+
+G
+
+18x
+
+4.25—1
+
+0
+
+BS
+P
+M 0 L
+0
+3
+2
+
+As stated, aircraft tires can be tube-type or tubeless. This
+is often used as a means of tire classification. Tires that
+are made to be used without a tube inserted inside have an
+inner liner specifically designed to hold air. Tube-type tires
+do not contain this inner liner since the tube holds the air
+from leaking out of the tire. Tires that are meant to be used
+without a tube have the word tubeless on the sidewall. If
+this designation is absent, the tire requires a tube. Consult
+the aircraft manufacturer’s maintenance information for any
+allowable tire damage and the use of a tube in a tubeless tire.
+
+Bias Ply or Radial
+Figure 13-128. A Type VIII or three-part nomenclature tire is
+
+identified by 3 parameters: overall diameter, section width, and
+rim diameter. They are arranged in that order with the first two
+separated by an “X” and the second two separated by a “–.”
+For example: 18 X 4.25—10 designates a tire that is 18 inches in
+diameter with a 4.25-inch section width to be mounted on a 10inch wheel rim.
+
+width, and rim diameter are used to identify the tire. The X
+and “–” symbols are used in the same respective positions
+in the designator.
+When three-part nomenclature is used on a Type VIII tire,
+dimensions may be represented in inches or in millimeters.
+Bias tires follow the designation nomenclature and radial tires
+replace the “–” with the letter R. For example, 30 X 8.8 R
+15 designates a Type VIII radial aircraft tire with a 30-inch
+tire diameter, an 8.8-inch section width to be mounted on a
+15-inch wheel rim.
+
+Another means of classifying an aircraft tire is by the
+direction of the plies used in construction of the tire, either
+bias or radial. Traditional aircraft tires are bias ply tires. The
+plies are wrapped to form the tire and give it strength. The
+angle of the plies in relation to the direction of rotation of the
+tire varies between 30° and 60°. In this manner, the plies have
+the bias of the fabric from which they are constructed facing
+the direction of rotation and across the tire. Hence, they are
+called bias tires. The result is flexibility as the sidewall can
+flex with the fabric plies laid on the bias. [Figure 13-129]
+Some modern aircraft tires are radial tires. The plies in radial
+tires are laid at a 90° angle to the direction of rotation of the
+tire. This configuration puts the non-stretchable fiber of the
+plies perpendicular to the sidewall and direction of rotation.
+This creates strength in the tire allowing it to carry high loads
+with less deformation. [Figure 13-130]
+
+13-75
+
+===== PDF PAGE 807 =====
+They are typically made from high-strength carbon steel wire
+bundles encased in rubber. One, two, or three bead bundles
+may be found on each side of the tire depending on its size
+and the load it is designed to handle. Radial tires have a single
+bead bundle on each side of the tire. The bead transfers the
+impact loads and deflection forces to the wheel rim. The
+bead toe is closest to the tire centerline and the bead heel fit
+against the flange of the wheel rim.
+
+Figure 13-129. A bias ply tire has the fabric bias oriented with
+
+and across the direction of rotation and the sidewall. Since fabric
+can stretch on the bias, the tire is flexible, and can absorb loads.
+Strength is obtained by adding plies.
+
+Tire Construction
+An aircraft tire is constructed for the purpose it serves. Unlike
+an automobile or truck tire, it does not have to carry a load for
+a long period of continuous operation. However, an aircraft
+tire must absorb the high impact loads of landing and be able
+to operate at high speeds even if only for a short time. The
+deflection built into an aircraft tire is more than twice that of
+an automobile tire. This enables it to handle the forces during
+landings without being damaged. Only tires designed for
+an aircraft as specified by the manufacturer should be used.
+It is useful to the understanding of tire construction to
+identify the various components of a tire and the functions
+contributed to the overall characteristics of a tire. Refer to
+Figure 13-131 for tire nomenclature used in this discussion.
+
+Bead
+
+The tire bead is an important part of an aircraft tire. It anchors
+the tire carcass and provides a dimensioned, firm mounting
+surface for the tire on the wheel rim. Tire beads are strong.
+
+An apex strip is additional rubber formed around the bead
+to give a contour for anchoring the ply turn-ups. Layers
+of fabric and rubber called flippers are placed around the
+beads to insulate the carcass from the beads and improve tire
+durability. Chafers are also used in this area. Chafer strips
+made of fabric or rubber are laid over the outer carcass plies
+after the plies are wrapped around the beads. The chafers
+protect the carcass from damage during mounting and
+demounting of the tire. They also help reduce the effects of
+wear and chafing between the wheel rim and the tire bead
+especially during dynamic operations.
+
+Carcass Plies
+Carcass plies, or casing plies as they are sometimes called,
+are used to form the tire. Each ply consists of fabric, usually
+nylon, sandwiched between two layers of rubber. The plies
+are applied in layers to give the tire strength and form the
+carcass body of the tire. The ends of each ply are anchored
+by wrapping them around the bead on both sides of the tire
+to form the ply turn-ups. As mentioned, the angle of the fiber
+in the ply is manipulated to create a bias tire or radial tire
+as desired. Typically, radial tires require fewer plies than
+bias tires.
+Once the plies are in place, bias tires and radial tires each
+have their own type of protective layers on top of the plies
+but under the tread of the running surface of the tire. On bias
+tires, these single or multiple layers of nylon and rubbers are
+called tread reinforcing plies. On radial tires, an undertread
+and a protector ply do the same job. These additional plies
+stabilize and strengthen the crown area of the tire. They
+reduce tread distortion under load and increase stability of
+the tire at high speeds. The reinforcing plies and protector
+plies also help resist puncture and cutting while protecting
+the carcass body of the tire.
+
+Tread
+
+Figure 13-130. A radial tire has the fiber strands of the ply fabric
+oriented with and at 90° to the direction of rotation and the tire
+sidewall. This restricts flexibility directionally and the flexibility
+of the sidewall while it strengthens the tire to carry heavy loads.
+
+The tread is the crown area of the tire designed to come in
+contact with the ground. It is a rubber compound formulated to
+resist wear, abrasion, cutting, and cracking. It also is made to
+resist heat build-up. Most modern aircraft tire tread is formed
+with circumferential grooves that create tire ribs. The grooves
+provide cooling and help channel water from under the tire
+in wet conditions to increase adhesion to the ground surface.
+13-76
+
+===== PDF PAGE 808 =====
+Buff line cushion
+
+Breakers
+
+Tread reinforcing ply
+Tread
+Sidewalls
+
+Caroass plies
+
+Carcass Plies or
+Casing Plies
+
+Inner liner
+
+Bead heel
+Bead toe
+
+Chafers
+Apex strip
+Ply turn ups
+Wire beads
+
+Flippers
+
+Figure 13-131. Construction nomenclature of an aircraft tire.
+
+Tires designed for aircraft frequently operated from unpaved
+surfaces may have some type of cross-tread pattern. Older
+aircraft without brakes or brakes designed only to aid in taxi
+may not have any grooves in the tread. An all-weather tread
+may be found on some aircraft tires. This tread has typical
+circumferential ribs in the center of the tire with a diamond
+patterned cross tread at the edge of the tire. [Figure 13-132]
+The tread is designed to stabilize the aircraft on the operating
+
+A
+
+B
+
+C
+
+surface and wears with use. Many aircraft tires are designed
+with protective undertread layers as described above.
+Extra tread reinforcement is sometimes accomplished with
+breakers. These are layers of nylon cord fabric under the
+tread that strengthen the tread while protecting the carcass
+plies. Tires with reinforced tread are often designed to be
+re-treaded and used again once the tread has worn beyond
+limits. Consult the tire manufacturer’s data for acceptable
+tread wear and re-tread capability for a particular tire.
+
+D
+
+E
+
+Figure 13-132. Aircraft tire treads are designed for different uses. A is a rib tread designed for use on paved surfaces. It is the most
+common aircraft tire tread design. B is a diamond tread designed for unpaved runways. C is an all weather tread that combines a ribbed
+center tread with a diamond tread pattern of the edges. D is a smooth tread tire found on older, slow aircraft without brakes designed
+for stopping. E is a chine tire used on the nose gear of aircraft with fuselage mounted jet engines to deflect runway water away from
+the engine intake(s).
+
+13-77
+
+===== PDF PAGE 809 =====
+Tire Inspection on the Aircraft
+Tire condition is inspected while mounted on the aircraft on
+a regular basis. Inflation pressure, tread wear and condition,
+and sidewall condition are continuously monitored to ensure
+proper tire performance.
+
+S70
+26x
+
+-11
+10.0
+
+MADE
+
+IN
+U.S
+
+.A
+
+.
+
+Figure 13-133. A sidewall vent marked by a colored dot must be
+
+kept free from obstruction to allow trapped air or nitrogen to escape
+from the carcass plies of the tire.
+
+Sidewall
+The sidewall of an aircraft tire is a layer of rubber designed to
+protect the carcass plies. It may contain compounds designed
+to resist the negative effects of ozone on the tire. It also is
+the area where information about the tire is contained. The
+tire sidewall imparts little strength to the cord body. Its main
+function is protection.
+The inner sidewall of a tire is covered by the tire inner liner.
+A tube-type tire has a thin rubber liner adhered to the inner
+surface to prevent the tube from chafing on the carcass
+plies. Tubeless tires are lined with a thicker, less permeable
+rubber. This replaces the tube and contains the nitrogen or
+inflation air within the tire and keeps from seeping through
+the carcass plies.
+
+Inflation
+To perform as designed, an aircraft tire must be properly
+inflated. The aircraft manufacturer’s maintenance data
+must be used to ascertain the correct inflation pressure for
+a tire on a particular aircraft. Do not inflate to a pressure
+displayed on the sidewall of the tire or by how the tire looks.
+Tire pressure is checked while under load and is measured
+with the weight of the aircraft on the wheels. Loaded versus
+unloaded pressure readings can vary as much as 4 percent.
+Tire pressure measured with the aircraft on jacks or when
+the tire is not installed is lower due to the larger volume of
+the inflation gas space inside of the tire. On a tire designed
+to be inflated to 160 psi, this can result in a 6.4 psi error. A
+calibrated pressure gauge should always be used to measure
+inflation pressure. Digital and dial-type pressure gauges are
+more consistently accurate and preferred. [Figure 13-134]
+Aircraft tires disperse the energy from landing, rollout, taxi,
+and takeoff in the form of heat. As the tire flexes, heat builds
+and is transferred to the atmosphere, as well as to the wheel
+rim through the tire bead. Heat from braking also heats the
+tire externally. A limited amount of heat is able to be handled
+by any tire beyond which structural damage occurs.
+
+The inner liner does not contain 100 percent of the inflation
+gas. Small amounts of nitrogen or air seep through the liner
+into the carcass plies. This seepage is released through vent
+holes in the lower outer sidewall of the tires. These are
+typically marked with a green or white dot of paint and must
+be kept unobstructed. Gas trapped in the plies could expand
+with temperature changes and cause separation of the plies,
+thus weakening the tire leading to tire failure. Tube-type tires
+also have seepage holes in the sidewall to allow air trapped
+between the tube and the tire to escape. [Figure 13-133]
+
+An improperly inflated aircraft tire can sustain internal
+damage that is not readily visible and that can lead to tire
+failure. Tire failure upon landing is always dangerous.
+An aircraft tire is designed to flex and absorb the shock
+of landing. Temperature rises as a result. However, an
+underinflated tire may flex beyond design limits of the tire.
+This causes excessive heat build-up that weakens the carcass
+construction. To ensure tire temperature is maintained within
+limits, tire pressure must be checked and maintained within
+the proper range on a daily basis or before each flight if the
+aircraft is only flown periodically. Important reasons for
+maintaining proper tire pressure are to prolong tire life and
+prevent tire damage.
+
+Chine
+Some tire sidewalls are mounded to form a chine. A chine
+is a special built-in deflector used on nose wheels of certain
+aircraft, usually those with fuselage mounted engines. The
+chine diverts runway water to the side and away from the
+intake of the engines. [Figure 13-132E] Tires with a chine
+on both sidewalls are produced for aircraft with a single
+nose wheel.
+
+Tire pressure should be measured at ambient temperature.
+Fluctuations of ambient temperature greatly affect tire
+pressure and complicate maintenance of pressure within the
+allowable range for safe operation. Tire pressure typically
+changes 1 percent for every 5 °F of temperature change. When
+aircraft are flown from one environment to another, ambient
+temperature differences can be vast. Maintenance personnel
+must ensure that tire pressure is adjusted accordingly. For
+13-78
+
+===== PDF PAGE 810 =====
+When checking tire pressure, allow 3 hours to elapse after
+a typical landing to ensure the tire has cooled to ambient
+temperature. The correct tire pressure for each ambient
+temperature is typically provided by the manufacturer on a
+table or graph.
+
+ON
+
+ZERO UNITS
+
+80
+
+P/V
+
+100 120
+140
+
+60
+
+160
+
+40
+20
+
+psi
+0
+
+180
+200
+
+Figure 13-134. A calibrated bourdon tube dial-type pressure
+
+gauge or a digital pressure gauge is recommended for checking
+tire pressure.
+
+example, an aircraft with the correct tire pressure departing
+Phoenix, Arizona where the ambient temperature is 100 °F
+arrives in Vail, Colorado where the temperature is 50 °F.
+The 50° difference in ambient temperature results in a 10
+percent reduction in tire pressure. Therefore, the aircraft
+could land with underinflated tires that may be damaged due
+to over-temperature from flexing beyond design limits as
+described above. An increase in tire pressure before takeoff
+in Phoenix, Arizona prevents this problem as long as the tires
+are not inflated beyond the allowable limit provided in the
+maintenance data.
+
+In addition to overheating, under inflated aircraft tires wear
+unevenly, which leads to premature tire replacement. They
+may also creep or slip on the wheel rim when under stress or
+when the brakes are applied. Severely under inflated tires can
+pinch the sidewall between the rim and the runway causing
+sidewall and rim damage. Damage to the bead and lower
+sidewall area are also likely. This type of abuse like any
+over flexing damages the integrity of the tire and it must be
+replaced. In dual-wheel setups, a severely underinflated tire
+affects both tires and both should be replaced.
+Over inflation of aircraft tires is another undesirable
+condition. While carcass damage due to overheating does
+not result, adherence to the landing surface is reduced. Over
+a long period of time, over inflation leads to premature tread
+wear. Therefore, over inflation reduces the number of cycles
+in service before the tire must be replaced. It makes the tire
+more susceptible to bruises, cutting, shock damage, and
+blowout. [Figure 13-135]
+
+Tread Condition
+Condition of an aircraft tire tread is able to be determined while
+the tire is inflated and mounted on the aircraft. The following
+is a discussion of some of the tread conditions and damage that
+the technician may encounter while inspecting tires.
+Tread Depth & Wear Pattern
+Evenly worn tread is a sign of proper tire maintenance.
+Uneven tread wear has a cause that should be investigated
+and corrected. Follow all manufacturer instructions specific
+to the aircraft when determining the extent and serviceability
+of a worn tire. In the absence of this information, remove any
+tire that has been worn to the bottom of a tread groove along
+more than 1⁄8 of the circumference of the tire. If either the
+protector ply on a radial tire or the reinforcing ply on a bias
+tire is exposed for more than 1⁄8 of the tire circumference, the
+tire should also be removed. A properly maintained evenly
+worn tire usually reaches its wear limits at the centerline of
+the tire. [Figure 13-136]
+Asymmetrical tread wear may be caused by the wheels being
+out of alignment. Follow the manufacturer’s instructions
+while checking caster, camber, toe-in, and toe-out to correct
+this situation. Occasionally, asymmetrical tire wear is a result
+of landing gear geometry that cannot, or is not, required to be
+corrected. It may also be caused by regular taxiing on a single
+13-79
+
+===== PDF PAGE 811 =====
+Protector ply
+
+Tread reinforcing plies
+
+Casing outer ply
+
+Tread wear on an overinflated bias tire
+
+Bolt plies
+
+Casing outer ply
+
+Tread wear on an overinflated radial tire
+
+Tread reinforcing plies
+Tread wear on an underinflated bias tire
+
+Tread wear on an underinflated radial tire
+
+Figure 13-135. Tires that are overinflated lack adherence to the runway and develop excess tread wear in the center of the tread. Tires
+
+that are underinflated develop excess tread wear on the tire shoulders. Overheating resulting in internal carcass damage and potential
+failure are possible from flexing the tire beyond design limits.
+
+Protector ply
+
+Tread reinforcing plies
+
+Casing outer ply
+
+Bolt plies
+
+Normal tread wear on a bias tire
+
+Casing outer ply
+Normal tread wear on a radial tire
+
+Figure 13-136. Normal tire wear.
+
+Protector ply
+
+Tread reinforcing plies
+
+Casing outer ply
+
+Bolt plies
+
+Casing outer ply
+
+Figure 13-137. Tread wear on a bias ply tire (left) and a radial tire (right) show wear beyond limits of serviceability but still eligible to
+
+be retreaded.
+
+13-80
+
+===== PDF PAGE 812 =====
+engine or high-speed cornering while taxiing. It is acceptable
+to remove the tire from the wheel rim, turn it around, and
+remount it to even up tread wear if the tire passes all other
+criterion of inspection for serviceability.
+
+Figure 13-138. Marking of damaged area to enable closer
+
+inspection.
+
+Figure 13-139. Deflate a tire before removing or probing any area
+where a foreign object is lodged.
+
+B
+
+Removal of a tire before it is worn beyond limits to be
+eligible for retreading is cost effective and good maintenance
+practice. Considerable traction is lost when tire tread is
+severely worn and must also be considered when inspecting
+a tire for condition. [Figure 13-137] Consult airframe
+manufacturer and tire manufacturer specifications for wear
+and retread limitations.
+Tread Damage
+In addition to tread wear, an aircraft tire should be inspected
+for damage. Cuts, bruises, bulges, imbedded foreign objects,
+chipping, and other damage must be within limits to continue
+the tire in service. Some acceptable methods of dealing
+with this type of damage are described below. All damage,
+suspected damage, and areas with leaks should be marked
+with chalk, a wax marker, paint stick, or other device before
+the tire is deflated or removed. Often, it is impossible to
+relocate these areas once the tire is deflated. Tires removed
+
+Protector ply
+
+B
+
+A
+
+C
+
+C
+
+Tread reinforcing plies
+
+Bolt plies
+
+Casing outer ply
+
+Bias Ply Tire
+
+A
+
+Casing outer ply
+
+Radial Tire
+
+Peeled Rib
+Figure 13-140. Remove an aircraft tire from service when the depth of a cut exposes the casing outer plies of a bias ply tire or the outer
+
+belt layer of a radial tire (A); a tread rib has been severed across the entire width (B); or, when undercutting occurs at the base of any
+cut (C). These conditions may lead to a peeled rib.
+
+13-81
+
+===== PDF PAGE 813 =====
+for retread should be marked in damaged areas to enable
+closer inspection of the extent of the damage before the new
+tread is installed. [Figure 13-138]
+Foreign objects imbedded in a tire’s tread are of concern and
+should be removed when not imbedded beyond the tread.
+Objects of questionable depth should only be removed after
+the tire has been deflated. A blunt awl or appropriately sized
+screwdriver can be used to pry the object from the tread. Care
+must be exercised to not enlarge the damaged area with the
+removal tool. [Figure 13-139] Once removed, assess the
+remaining damage to determine if the tire is serviceable. A
+round hole caused by a foreign object is acceptable only if it
+is 3⁄8-inch or less in diameter. Embedded objects that penetrate
+or expose the casing cord body of a bias ply tire or the tread
+belt layer of a radial tire cause the tire to become unairworthy
+and it must be removed from service.
+Cuts and tread undercutting can also render a tire unairworthy.
+A cut that extends across a tread rib is cause for tire removal.
+These can sometimes lead to a section of the rib to peel off
+the tire. [Figure 13-140] Consult the aircraft maintenance
+manual, airline operations manual, or other technical
+documents applicable to the aircraft tire in question.
+A flat spot on a tire is the result of the tire skidding on the
+runway surface while not rotating. This typically occurs
+when the brakes lock on while the aircraft is moving. If the
+flat spot damage does not expose the reinforcing ply of a
+bias tire or the protector ply of a radial tire, it may remain in
+service. However, if the flat spot causes vibration, the tire
+must be removed. Landing with a brake applied can often
+cause a severe flat spot that exposes the tire under tread. It
+can also cause a blowout. The tire must be replaced in either
+case. [Figure 13-141]
+A bulge or separation of the tread from the tire carcass is cause
+for immediate removal and replacement of the tire. Mark the
+
+Tread reinforcing plies
+
+Figure 13-141. Landing with the brake on causes a tire flat spot
+that exposes the under tread and requires replacement of the tire.
+
+area before deflation as it could easily become undetectable
+without air in the tire. [Figure 13-142]
+Operation on a grooved runway can cause an aircraft tire
+tread to develop shallow chevron shaped cuts. These cuts are
+allowed for continued service, unless chunks or cuts into the
+fabric of the tire result. Deep chevrons that cause a chunk
+of the tread to be removed should not expose more than 1
+square inch of the reinforcing or protector ply. Consult the
+applicable inspection parameters to determine the allowable
+extent of chevron cutting. [Figure 13-143]
+Tread chipping and chunking sometimes occurs at the edge
+of the tread rib. Small amounts of rubber lost in this way
+are permissible. Exposure of more than 1 square inch of the
+reinforcing or protector ply is cause for removal of the tire.
+[Figure 13-144]
+Cracking in a tread groove of an aircraft tire is generally not
+acceptable if more than ¼-inch of the reinforcing or protector
+ply is exposed. Groove cracks can lead to undercutting of
+
+Casing outer ply
+
+Figure 13-142. Bulges and tread separation are cause for removal of a tire from service.
+
+13-82
+
+===== PDF PAGE 814 =====
+Protector ply
+
+Bolt plies
+
+Casing outer ply
+
+Figure 13-144. Tread chipping and chunking of a tire requires that
+the tire be removed from service if more than 1 square inch of the
+reinforcing ply or protector ply is exposed.
+
+Sidewall Condition
+Figure 13-143. Chevron cuts in a tire are caused by operation on
+
+grooved runway surfaces. Shallow chevron cuts are permitted on
+aircraft tires.
+
+the tread, which eventually can cause the entire tread to be
+thrown from the tire. [Figure 13-145]
+Oil, hydraulic fluid, solvents, and other hydrocarbon
+substances contaminate tire rubber, soften it, and make it
+spongy. A contaminated tire must be removed from service.
+If any volatile fluids come in contact with the tire, it is best
+to wash the tire or area of the tire with denatured alcohol
+followed by soap and water. Protect tires from contact
+with potentially harmful fluids by covering tires during
+maintenance in the landing gear area.
+Tires are also subject to degradation from ozone and weather.
+Tires on aircraft parked outside for long periods of times can
+be covered for protection from the elements. [Figure 13-146]
+
+The primary function of the sidewall of an aircraft tire is
+protection of the tire carcass. If the sidewall cords are exposed
+due to a cut, gouge, snag, or other injury, the tire must be
+replaced. Mark the area of concern before removal of the
+tire. Damage to the sidewall that does not reach the cords is
+typically acceptable for service. Circumferential cracks or
+slits in the sidewall are unacceptable. A bulge in a tire sidewall
+indicates possible delamination of the sidewall carcass plies.
+The tire must immediately be removed from service.
+Weather and ozone can cause cracking and checking of the
+sidewall. If this extends to the sidewall cords, the tire must
+be removed from service. Otherwise, sidewall checking as
+show in Figure 13-147 does not affect the performance of
+the tire and it may remain in service.
+Tire Removal
+Removal of any tire and wheel assembly should be
+accomplished following all aircraft manufacturer’s
+instructions for the procedure. Safety procedures are designed
+for the protection of the technician and the maintenance
+of aircraft parts in serviceable condition. Follow all safety
+
+Figure 13-145. A thrown tread can result from a groove crack or tread undercutting and must be removed from service.
+
+13-83
+
+===== PDF PAGE 815 =====
+Angle of approach
+Figure 13-148. To avoid potential injury, approach a tire/wheel
+assembly that has damage or has been overheated at an angle
+toward the tire shoulder only after it has cooled to ambient
+temperature.
+
+Figure 13-146. Cover tires to protect from harmful chemicals and
+from the elements when parked outside for long periods of time.
+
+pressure can cause serious human injury. When completely
+deflated, remove the valve core. [Figure 13-149] A tire and
+wheel assembly in airworthy condition may be removed to
+access other components for maintenance without deflating
+the tire. This is common practice, such as when accessing the
+brake when the wheel assembly is immediately reinstalled.
+For tracking purposes, ensure damaged areas of a tire are
+marked before deflation. Record all known information about
+an unserviceable tire and attach it to the tire for use by the
+retread repair station.
+Once removed from the aircraft, a tire must be separated from
+the wheel rim upon which it is mounted. Proper equipment
+and technique should be followed to avoid damage to the
+tire and wheel. The wheel manufacturer’s maintenance
+information is the primary source for dismounting guidelines.
+
+Figure 13-147. Cracking and checking in the sidewall of a tire is
+acceptable for service as long as it does not extend to or expose
+the sidewall carcass plies.
+
+procedures to prevent personal injury and damage to aircraft
+parts and assemblies.
+
+The bead area of the tire sits firmly against the rim shoulder
+and must be broken free. Always use proper bead breaking
+equipment for this purpose. Never pry a tire from a wheel
+rim as damage to the wheel is inevitable. The wheel tie bolts
+must remain installed and fully tightened when the bead is
+broken from the rim to prevent damage to the wheel half
+mating surfaces.
+
+An aircraft tire and wheel assembly, especially a highpressure assembly that has been damaged or overheated,
+should be treated as though it may explode. Never approach
+such a tire while its temperature is still elevated above
+ambient temperature. Once cooled, approach a damaged tire
+and wheel assembly from an oblique angle advancing toward
+the shoulder of the tire. [Figure 13-148]
+Deflate all unserviceable and damaged tires before removal
+from the aircraft. Use a valve core/deflation tool to deflate the
+tire. Stand to the side—away from the projectile path of the
+valve core. A dislodged valve core propelled by internal tire
+
+Figure 13-149. The tire valve core should be removed after the tire
+
+is completely deflated and before the tire and wheel assembly is
+removed from the aircraft.
+
+13-84
+
+===== PDF PAGE 816 =====
+When the bead breaking press contact surface is applied to
+the tire, it should be as close to the wheel as possible without
+touching it during the entire application of pressure. Tires
+and rims of different sizes require contact pads suitable for
+the tire. Hand presses and hydraulic presses are available.
+Apply the pressure and hold it to allow the bead to move
+on the rim. Gradually progress around the rim until the tire
+bead is broken free. Ring-type bead breakers apply pressure
+around the circumference of the entire sidewall so rotation
+is not required. [Figure 13-150] Once the bead is broken
+free, the wheel halves may be disassembled. [Figure 13-151]
+Radial tires have only one bead bundle on each side of the
+tire. The sidewall is more flexible in this area than a bias ply
+tire. The proper tooling should be used, and pressure should
+be applied slowly to avoid heavy distortion of the sidewall.
+Lubrication may be applied and allowed to soak into the tire-
+
+Fixed adaptor ring
+
+4" (100 mm) travel
+0.4" (10 mm)
+radial clearance
+
+Ram
+Movable adaptor ring
+
+Figure 13-150. A ring adapter applies pressure around the entire
+
+circumference of the lower sidewall of the tire to break the bead free
+from the wheel rim. The diameter of the adapter must be correct for
+the tire and the travel limited so as to not injure the tire.
+
+wheel interface. Only soapy tire solutions should be used.
+Never apply a hydrocarbon-based lubricant to an aircraft tire
+as this contaminates the rubber compound used to construct
+the tire. Beads on tube-type and tubeless tires are broken free
+in a similar manner.
+Tire Inspection Off of the Aircraft
+Once a tire has been removed from the wheel rim, it should
+be inspected for condition. It may be possible to retread the
+tire at an approved repair station and return it to service. A
+sequential inspection procedure helps ensure no parts of the
+tire are overlooked. Mark and record the extent of all damage.
+Advisory Circular (AC) 43-13-1 gives general guidelines
+for tire inspection and repair. Tires must only be repaired
+by those with the experience and equipment to do so. Most
+tire repairs are accomplished at a certified tire repair facility.
+When inspecting a tire removed from the aircraft, pay special
+attention to the bead area since it must provide an air tight
+seal to the wheel rim and transfer forces from the tire to the
+rim. Inspect the bead area closely as it is where the heat is
+concentrated during tire operation. Surface damage to the
+chafer is acceptable and can be repaired when the tire is
+retreaded. Other damage in the bead area is usually cause
+for rejection. Damage to the turn-ups, ply separation at the
+bead, or a kinked bead are examples of bead area damage
+that warrant the tire be discarded. The bead area of the tire
+may sustain damage or have an altered appearance or texture
+on a tire that has been overheated. Consult a certified tire
+repair station or re-tread facility when in doubt about the
+condition observed. The wheel rim must also be inspected
+for damage. An effective seal without slippage, especially on
+tubeless tires, is dependent on the condition and integrity of
+the wheel in the bead seat area.
+Overheating of a tire weakens it even though the damage
+might not be obvious. Any time a tire is involved in an aborted
+
+Figure 13-151. An electrohydraulic tire bead breaker (left) used on large tires and a manual tire bead breaker (right) used on small tires.
+
+13-85
+
+===== PDF PAGE 817 =====
+takeoff, severe braking, or the thermal plug in the wheel has
+melted to deflate the tire before explosion, the tire must be
+removed. On a dual installation, both tires must be removed.
+Even if only one tire shows obvious damage or deflates, the
+loads experienced by the mate are excessive. Internal damage
+such as ply separation, is likely. The history of having been
+through an overheat event is all that is required for the tire
+to be discarded.
+Damaged or suspected damaged areas of the tire should be
+re-inspected while the tire is off the aircraft. Cuts can be
+probed to check for depth and extent of damage below the
+tread. In general, damage that does not exceed 40 percent
+of the tire plies can be repaired when the tire is retreaded.
+Small punctures with a diameter on the tire inner surface
+of less than 1⁄8-inch and a diameter on the outer surface of
+less than ¼-inch can also be repaired and retreaded. A bulge
+caused by ply separation is reason to discard a tire. However,
+a bulge caused by tread separation from the tire carcass
+may be repairable during retread. Exposed sidewall cord or
+sidewall cord damage is unacceptable, and the tire cannot
+be repaired or retreaded. Consult the tire manufacturer or
+certified retreader for clarification on damage to a tire.
+Tire Repair & Retreading
+The technician should follow airframe and tire manufacturer
+instructions to determine if a tire is repairable. Many example
+guidelines have also been given in this section. Nearly all
+tire repairs must be made at a certified tire repair facility
+equipped to perform the approved repair. Bead damage, ply
+separation, and sidewall cord exposure all require that the
+tire be scrapped. Inner liner condition on tubeless tires is also
+critical. Replacing the tube in a tube-type tire is performed
+by the technician as are mounting and balancing all types
+of aircraft tires.
+Aircraft tires are very expensive. They are also extremely
+durable. The effective cost of a tire over its life can be
+reduced by having the tread replaced while the carcass is
+still sound, and injuries are within repairable limits. Federal
+Aviation Administration (FAA) certified tire retread repair
+stations, often the original equipment manufacturer (OEM),
+do this work. The technician inspects a tire to pre-qualify
+it for retread so that the cost of shipping it to the retread
+repair facility is not incurred if there is no chance to retread
+the tire. The tire retreader inspects and tests every tire to a
+level beyond the capability of the hangar or line technician.
+Shearography, an optical nondestructive testing method that
+provides detailed information about the internal integrity of
+the tire, is used by tire retread repair facilities to ensure a tire
+carcass is suitable for continued service.
+Tires that are retreaded are marked as such. They are not
+
+compromised in strength and give the performance of a new
+tire. No limits are established for the number of times a tire
+can be retreaded. This is based on the structural integrity of
+the tire carcass. A well maintained main gear tire may be able
+to be retreaded a handful of times before fatigue renders the
+carcass un-airworthy. Some nose tires can be retread nearly
+a dozen times.
+Tire Storage
+An aircraft tire can be damaged if stored improperly. A
+tire should always be stored vertically so that it is resting
+on its treaded surface. Horizontal stacking of tires is not
+recommended. Storage of tires on a tire rack with a minimum
+3–4-inch flat resting surface for the tread is ideal and avoids
+tire distortion.
+If horizontal stacking of tires is necessary, it should only be
+done for a short time. The weight of the upper tires on the
+lower tires cause distortion possibly making it difficult for
+the bead to seat when mounting tubeless tires. A bulging
+tread also stresses rib grooves and opens the rubber to ozone
+attack in this area. [Figure 13-152] Never stack aircraft tires
+horizontally for more than 6 months. Stack no higher than
+four tires if the tire is less than 40-inches in diameter and no
+higher than three tires if greater than 40-inches in diameter.
+The environment in which an aircraft tire is stored is critical.
+The ideal location in which to store an aircraft tire is cool,
+dry, and dark, free from air currents and dirt.
+An aircraft tire contains natural rubber compounds that are
+prone to degradation from chemicals and sunlight. Ozone
+(O3) and oxygen (O2) cause degradation of tire compounds.
+Tires should be stored away from strong air currents that
+continually present a supply of one or both of these gases.
+Fluorescent lights, mercury vapor lights, electric motors,
+battery chargers, electric welding equipment, electric
+generators, and similar shop equipment produce ozone and
+should not be operated near aircraft tires. Mounted inflated
+
+Figure 13-152. Ozone cracking in a tire tread groove is facilitated
+
+by horizontal stacking.
+
+13-86
+

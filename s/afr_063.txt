@@ -1,0 +1,1309 @@
+FAA-H-8083-31B Airframe Handbook, chapter 17 (Fire Protection Systems), PDF pages 990-1003
+
+===== PDF PAGE 990 =====
+Sharp bend
+
+Crushed
+section
+Fire extinguisher bottle
+Long unsupported loop
+Temperat
+
+ure Indicator
+
+Strip
+
+180° 200°
+230° 250°
+
+Temperature Indicator Strip
+
+Figure 17-25. Sensing element defects.
+
+180° 200° 230° 250°
+
+Figure 17-24. Lavatory fire extinguishing bottle.
+
+into a protective covering surrounding the inner
+insulated wire. Continuous bending of the cable or
+rough treatment can break these fine wires, especially
+those near the connectors.
+8.
+
+Sensing element routing and clamping should be
+inspected carefully. [Figure 17-27] Long, unsupported
+sections may permit excessive vibration that can cause
+breakage. The distance between clamps on straight
+runs, usually about 8 to 10 inches, is specified by each
+manufacturer. At end connectors, the first support
+clamp usually is located about 4 to 6 inches from the
+end connector fittings. In most cases, a straight run
+of one inch is maintained from all connectors before
+a bend is started, and an optimum bend radius of 3
+inches is normally adhered to.
+
+9.
+
+Interference between a cowl brace and a sensing
+element can cause rubbing. This interference may
+cause wear and short the sensing element.
+
+Sensing elements of a continuous-loop system should be
+inspected for the following:
+1.
+
+Cracked or broken sections caused by crushing or
+squeezing between inspection plates, cowl panels, or
+engine components.
+
+2.
+
+Abrasion caused by rubbing of the element on cowling,
+accessories, or structural members.
+
+3.
+
+Pieces of safety wire, or other metal particles, that
+may short the spot-detector terminals.
+
+4.
+
+Condition of rubber grommets in mounting clamps
+that may be softened from exposure to oils or hardened
+from excessive heat.
+
+5.
+
+6.
+
+7.
+
+Dents and kinks in sensing element sections. Limits
+on the element diameter, acceptable dents and
+kinks, and degree of smoothness of tubing contour
+are specified by manufacturers. No attempt should
+be made to straighten any acceptable dent or kink,
+since stresses may be set up that could cause tubing
+failure. [Figure 17-25]
+Nuts at the end of the sensing elements should be
+inspected for tightness and safety wire. [Figure 17-26]
+Loose nuts should be retorqued to the value specified
+by the manufacturer’s instructions. Some types of
+sensing element connection joints require the use of
+copper crush gaskets. These should be replaced any
+time a connection is separated.
+If shielded flexible leads are used, they should be
+inspected for fraying of the outer braid. The braided
+sheath is made up of many fine metal strands woven
+
+Kink
+
+10. Grommets should be installed on the sensing element
+so that both ends are centered on its clamp. The split
+end of the grommet should face the outside of the
+nearest bend. Clamps and grommets should fit the
+element snugly. [Figure 17-28]
+
+Fire Detection System Troubleshooting
+The following troubleshooting procedures represent the
+most common difficulties encountered in engine fire
+detection systems:
+1.
+
+Intermittent alarms are most often caused by an
+intermittent short in the detector system wiring. Such
+shorts may be caused by a loose wire that occasionally
+touches a nearby terminal, a frayed wire brushing
+against a structure, or a sensing element rubbing
+against a structural member long enough to wear
+through the insulation. Intermittent faults often can
+be located by moving wires to recreate the short.
+
+17-18
+
+===== PDF PAGE 991 =====
+3.
+
+Kinks and sharp bends in the sensing element can
+cause an internal wire to short intermittently to the
+outer tubing. The fault can be located by checking the
+sensing element with an ohm meter while tapping the
+element in the suspected areas to produce the short.
+
+4.
+
+Moisture in the detection system seldom causes a
+false fire alarm. If, however, moisture does cause an
+alarm, the warning persists until the contamination is
+removed, or boils away, and the resistance of the loop
+returns to its normal value.
+
+5.
+
+Failure to obtain an alarm signal when the test switch
+is actuated may be caused by a defective test switch or
+control unit, the lack of electrical power, inoperative
+indicator light, or an opening in the sensing element
+or connecting wiring. When the test switch fails to
+provide an alarm, the continuity of a two-wire sensing
+loop can be determined by opening the loop and
+measuring the resistance. In a single-wire, continuousloop system, the center conductor should be grounded.
+
+Heat-sensing element
+
+Figure 17-26. Connector joint fitting attached to the structure.
+
+Loose clamp
+
+Rub point
+
+Fire Extinguisher System Maintenance
+Regular maintenance of fire extinguisher systems typically
+includes such items as the inspection and servicing of fire
+extinguisher bottles (containers), removal and reinstallation
+of cartridge and discharge valves, testing of discharge tubing
+for leakage, and electrical wiring continuity tests. The
+following paragraphs contain details of some of the most
+typical maintenance procedures.
+
+Loose clamp
+Figure 17-27. Rubbing interference.
+
+Grommet
+Clamp screw
+
+Clamp hinge
+
+Bracket
+
+Heat-sensing element
+Figure 17-28. Inspection of fire detector loop clamp.
+
+2.
+
+Fire alarms and warning lights can occur when no
+engine fire or overheat condition exists. Such false
+alarms can be most easily located by disconnecting
+the engine sensing loop connections from the control
+unit. If the false alarm ceases when the engine sensing
+loop is disconnected, the fault is in the disconnected
+sensing loop, which should be examined for areas
+that have been bent into contact with hot parts of the
+engine. If no bent element can be found, the shorted
+section can be located by isolating the connecting
+elements consecutively around the entire loop.
+
+Container Pressure Check
+Fire extinguisher containers are checked periodically to
+determine that the pressure is between the prescribed
+minimum and maximum limits. Changes of pressure with
+ambient temperatures must also fall within prescribed
+limits. The graph shown in Figure 17-29 is typical of the
+pressure-temperature curve graphs that provide maximum
+and minimum gauge readings. If the pressure does not fall
+within the graph limits, the extinguisher container is replaced.
+Discharge Cartridges
+The service life of fire extinguisher discharge cartridges is
+determined from the manufacturer’s date stamp, which is
+usually placed on the face of the cartridge. The cartridge
+service life recommended by the manufacturer is usually in
+terms of years. Cartridges are available with a service life
+of 5 years or more. To determine the unexpired service life
+of a discharge cartridge, it is usually necessary to remove
+the electrical leads and discharge line from the plug body,
+which can then be removed from the extinguisher container.
+
+17-19
+
+===== PDF PAGE 992 =====
+flammable if soaked with oil of any kind. Any leakage or
+spillage of flammable fluid in the vicinity of combustion
+heaters is a serious fire risk, particularly if any vapor is drawn
+into the heater and passes over the hot combustion chamber.
+
+900
+800
+
+Pressure (psig)
+
+700
+600
+
+Oxygen system equipment must be kept absolutely free from
+traces of oil or grease, since these substances spontaneously
+ignite when in contact with oxygen under pressure. Oxygen
+servicing cylinders should be clearly marked so they cannot be
+mistaken for cylinders containing air or nitrogen, as explosions
+have resulted from this error during maintenance operations.
+
+Max. gauge reading
+
+500
+400
+300
+200
+
+Min. gauge reading
+
+100
+0
+
+−40 −30 −20 −10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Temperature (°F)
+Mounting lugs (4)
+Figure 17-29. Fire extinguisher container pressure-temperature
+
+chart.
+
+Agent Containers
+Care must be taken in the replacement of cartridge and
+discharge valves. Most new extinguisher containers
+are supplied with their cartridge and discharge valve
+disassembled. Before installation on the aircraft, the cartridge
+must be assembled properly in the discharge valve and the
+valve connected to the container, usually by means of a swivel
+nut that tightens against a packing ring gasket. [Figure 17-30]
+If a cartridge is removed from a discharge valve for any
+reason, it should not be used in another discharge valve
+assembly, since the distance the contact point protrudes may
+vary with each unit. Thus, continuity might not exist if a used
+plug that had been indented with a long contact point were
+installed in a discharge valve with a shorter contact point.
+Note: The preceding material in this chapter has been largely
+of a general nature dealing with the principles involved and
+general procedures to be followed. When actually performing
+maintenance, always refer to the applicable maintenance
+manuals and other related publications pertaining to a
+particular aircraft.
+
+Fire Prevention
+Leaking fuel, hydraulic, deicing, or lubricating fluids can
+be sources of fire in an aircraft. This condition should be
+noted, and corrective action taken when inspecting aircraft
+systems. Minute pressure leaks of these fluids are particularly
+dangerous for they quickly produce an explosive atmospheric
+condition. Carefully inspect fuel tank installations for signs
+of external leaks. With integral fuel tanks, the external
+evidence may occur at some distance from where the fuel
+is actually escaping. Many hydraulic fluids are flammable
+and should not be permitted to accumulate in the structure.
+Sound-proofing and lagging materials may become highly
+
+Pressure gauge
+Bottle
+Packing ring
+Bottle outlet
+Cartridge
+
+Strainer
+
+Contact assembly
+Gasket
+
+Nut
+
+Swivel nut
+
+Discharge plug (or valve) body
+Figure 17-30. Components of fire extinguisher container.
+
+17-20
+
+===== PDF PAGE 993 =====
+Glossary
+A
+Aborted takeoff. A takeoff that is terminated prematurely
+when it is determined that some condition exists that makes
+takeoff or further flight dangerous.
+
+of an object through the air. Aerodynamic drag is composed
+of both induced drag and parasite drag. See induced drag
+and parasite drag.
+
+Absolute pressure. Pressure measured from zero pressure
+or a vacuum.
+
+Aerodynamic lift. The force produced by air moving over
+a specially shaped surface called an airfoil. Aerodynamic
+lift acts in a direction perpendicular to the direction the air
+is moving.
+
+Absolute pressure regulator. A valve used in a pneumatic
+system at the pump inlet to regulate the compressor inlet
+air pressure to prevent excessive speed variation and/or
+overspeeding of the compressor.
+Absolute zero. The point at which all molecular motion
+ceases. Absolute zero is –460 °F and –273 °C.
+Accumulator. A hydraulic component that consists of two
+compartments separated by a movable component, such as
+a piston, diaphragm, or bladder. One compartment is filled
+with compressed air or nitrogen, and the other is filled with
+hydraulic fluid and is connected into the system pressure
+manifold.An accumulator allows an incompressible fluid to be
+stored under pressure by the force produced by a compressible
+fluid. Its primary purposes are to act as a shock absorber in the
+system, and to provide a source of additional hydraulic power
+when heavy demands are placed on the system.
+Actuator. A fluid power device that changes fluid pressure
+into mechanical motion.
+ADC. Air data computer.
+ADF. Automatic direction finder.
+ADI. Attitude director indicator.
+Advancing blade. The blade on a helicopter rotor whose
+tip is moving in the same direction the helicopter is moving.
+Adverse yaw. A condition of flight at the beginning of a
+turn in which the nose of an airplane momentarily yaws in
+the opposite direction from the direction in which the turn
+is to be made.
+Aerodynamic drag. The total resistance to the movement
+
+Aeronautical Radio Incorporated (ARINC). A corporation
+whose principal stockholders are the airlines. Its function is
+to operate certain communication links between airliners
+in flight and the airline ground facilities. ARINC also sets
+standards for communication equipment used by the airlines.
+Aging. A change in the characteristics of a material with time.
+Certain aluminum alloys do not have their full strength when
+they are first removed from the quench bath after they have
+been heat-treated, but they gain this strength after a few days
+by the natural process of aging.
+Agonic line. A line drawn on an aeronautical chart along
+which there is no angular difference between the magnetic
+and geographic north poles.
+Air carrier. An organization or person involved in
+the business of transporting people or cargo by air for
+compensation or hire.
+Air-cycle cooling system. A system for cooling the air in
+the cabin of a turbojet-powered aircraft. Compressor bleed
+air passes through two heat exchangers where it gives up
+some of its heat; then, it drives an expansion turbine where
+it loses still more of its heat energy as the turbine drives a
+compressor. When the air leaves the turbine, it expands and
+its pressure and temperature are both low.
+Aircraft communication addressing and reporting system
+(ACARS). A two-way communication link between an
+airliner in flight and the airline’s main ground facilities. Data
+is collected in the aircraft by digital sensors and is transmitted
+to the ground facilities. Replies from the ground may be
+printed out so the appropriate flight crewmember can have
+a hard copy of the response.
+G-1
+
+===== PDF PAGE 994 =====
+Airfoil. Any surface designed to obtain a useful reaction, or
+lift, from air passing over it.
+Airspeed indicator. A flight instrument that measures the
+pressure differential between the pitot, or ram, air pressure,
+and the static pressure of the air surrounding the aircraft.
+This differential pressure is shown in units of miles per hour,
+knots, or kilometers per hour.
+Airworthiness Directive (AD note). Airworthiness
+Directives (ADs) are legally enforceable rules issued by the
+FAA in accordance with 14 CFR part 39 to correct an unsafe
+condition in a product. 14 CFR part 39 defines a product as
+an aircraft, aircraft engine, propeller, or appliance.
+Alclad. A registered trade name for clad aluminum alloy.
+Alodine. The registered trade name for a popular conversion
+coating chemical used to produce a hard, airtight, oxide film
+on aluminum alloy for corrosion protection.
+Alphanumeric symbols. Symbols made up of all of the
+letters in our alphabet, numerals, punctuation marks, and
+certain other special symbols.
+Alternator. An electrical generator that produces alternating
+current. The popular DC alternator used on light aircraft
+produces three-phase AC in its stator windings. This AC is
+changed into DC by a six-diode, solid-state rectifier before
+it leaves the alternator.
+Altimeter setting. The barometric pressure at a given
+location corrected to mean (average) sea level.
+Altitude engine. A reciprocating engine whose rated sea-level
+takeoff power can be produced to an established higher altitude.
+Alumel. An alloy of nickel, aluminum, manganese, and
+silicon that is the negative element in a thermocouple used
+to measure exhaust gas temperature.
+Ambient pressure. The pressure of the air surrounding a
+person or an object.
+Ambient temperature. The temperature of the air
+surrounding a person or an object.
+American wire gauge. The system of measurement of wire
+size used in aircraft electrical systems.
+Amphibian. An airplane with landing gear that allows it to
+operate from both water and land surfaces.
+
+Amplifier. An electronic circuit in which a small change in
+voltage or current controls a much larger change in voltage
+or current.
+Analog electronics. Electronics in which values change in
+a linear fashion. Output values vary in direct relationship to
+changes of input values.
+Analog-type indicator. An electrical meter that indicates
+values by the amount a pointer moves across a graduated
+numerical scale.
+Aneroid. The sensitive component in an altimeter or
+barometer that measures the absolute pressure of the air. The
+aneroid is a sealed, flat capsule made of thin corrugated discs
+of metal soldered together and evacuated by pumping all of
+the air out of it. Evacuating the aneroid allows it to expand
+or collapse as the air pressure on the outside changes.
+Angle of attack. The acute angle formed between the chord
+line of an airfoil and the direction of the air that strikes the
+airfoil.
+Angle of attack indicator. An instrument that measures the
+angle between the local airflow around the direction detector
+and the fuselage reference plane.
+Angle of incidence. The acute angle formed between the
+chord line of an airfoil and the longitudinal axis of the aircraft
+on which it is mounted.
+Annual rings. The rings that appear in the end of a log cut
+from a tree. The number of annual rings per inch gives an
+indication of the strength of the wood. The more rings there
+are and the closer they are together, the stronger the wood.
+The pattern of alternating light and dark rings is caused by
+the seasonal variations in the growth rate of the tree. A tree
+grows quickly in the spring and produces the light-colored,
+less dense rings. The slower growth during the summer, or
+latter part of the growing season, produces the dark-colored,
+denser rings.
+Annunciator panel. A panel of warning lights in plain sight
+of the pilot. These lights are identified by the name of the
+system they represent and are usually covered with colored
+lenses to show the meaning of the condition they announce.
+Anodizing. The electrolytic process in which a hard, airtight,
+oxide film is deposited on aluminum alloy for corrosion
+protection.
+Antenna. Aspecial device used with electronic communication
+G-2
+
+===== PDF PAGE 995 =====
+and navigation systems to radiate and receive electromagnetic
+energy.
+Anti-ice system. A system that prevents the formation of ice
+on an aircraft structure.
+Anti-icing additive. A chemical added to the turbine-engine
+fuel used in some aircraft. This additive mixes with water that
+condenses from the fuel and lowers its freezing temperature
+so it will not freeze and block the fuel filters. It also acts as
+a biocidal agent and prevents the formation of microbial
+contamination in the tanks.
+Antidrag wire. A structural wire inside a Pratt truss airplane
+wing between the spars. Antidrag wires run from the rear spar
+inboard, to the front spar at the next bay outboard. Antidrag
+wires oppose the forces that try to pull the wing forward.
+Antiservo tab. A tab installed on the trailing edge of a
+stabilator to make it less sensitive. The tab automatically
+moves in the same direction as the stabilator to produce an
+aerodynamic force that tries to bring the surface back to a
+streamline position. This tab is also called an antibalance tab.
+Antiskid brake system. An electrohydraulic system in an
+airplane’s power brake system that senses the deceleration rate
+of every main landing gear wheel. If any wheel decelerates
+too rapidly, indicating an impending skid, pressure to that
+brake is released and the wheel stops decelerating. Pressure
+is then reapplied at a slightly lower value.
+Antitear strip. Strips of aircraft fabric laid under the
+reinforcing tape before the fabric is stitched to an aircraft wing.
+Arbor press. A press with either a mechanically or
+hydraulically operated ram used in a maintenance shop for
+a variety of pressing functions.
+Arcing. Sparking between a commutator and brush or
+between switch contacts that is caused by induced current
+when a circuit is broken.
+Area. The number of square units in a surface.
+Aspect ratio. The ratio of the length, or span, of an airplane
+wing to its width, or chord. For a nonrectangular wing, the
+aspect ratio is found by dividing the square of the span of the
+wing by its area. Aspect Ratio = span2 ÷ area.
+Asymmetrical airfoil. An airfoil section that is not the same
+on both sides of the chord line.
+Asymmetrical lift. A condition of uneven lift produced by
+
+the rotor when a helicopter is in forward flight. Asymmetrical
+lift is caused by the difference between the airspeed of the
+advancing blade and that of the retreating blade.
+Attenuate. To weaken, or lessen the intensity of, an activity.
+Attitude indicator. A gyroscopic flight instrument that gives
+the pilot an indication of the attitude of the aircraft relative to
+its pitch and roll axes. The attitude indicator in an autopilot
+is in the sensing system that detects deviation from a levelflight attitude.
+Augmenter tube. A long, stainless steel tube around the
+discharge of the exhaust pipes of a reciprocating engine.
+Exhaust gases flow through the augmenter tube and produce
+a low pressure that pulls additional cooling air through the
+engine compartment. Heat may be taken from the augmenter
+tubes and directed through the leading edges of the wings
+for thermal anti-icing.
+Autoclave. A pressure vessel inside of which air can be
+heated to a high temperature and pressure raised to a high
+value. Autoclaves are used in the composite manufacturing
+industry to apply heat and pressure for curing resins.
+Autogyro. A heavier-than-air rotor-wing aircraft sustained
+in the air by rotors turned by aerodynamic forces rather than
+by engine power. When the name Autogyro is spelled with
+a capital A, it refers to a specific series of machines built by
+Juan de la Cierva or his successors.
+Autoignition system. A system on a turbine engine that
+automatically energizes the igniters to provide a relight if
+the engine should flame out.
+Automatic adjuster. A subsystem in an aircraft disc brake
+that compensates for disc or lining wear. Each time the brakes
+are applied, the automatic adjuster is reset for zero clearance,
+and when the brakes are released, the clearance between the
+discs or the disc and lining is returned to a preset value. A
+malfunctioning automatic adjuster in a multiple-disc brake
+can cause sluggish and jerky operation.
+Automatic flight control system (AFCS). The full system
+of automatic flight control that includes the autopilot, flight
+director, horizontal situation indicator, air data sensors, and
+other avionics inputs.
+Automatic pilot (autopilot). An automatic flight control
+device that controls an aircraft about one or more of its three
+axes. The primary purpose of an autopilot is to relieve the
+pilot of the control of the aircraft during long periods of flight.
+
+G-3
+
+===== PDF PAGE 996 =====
+Autosyn system. A synchro system used in remote indicating
+instruments. The rotors in an Autosyn system are two-pole
+electromagnets, and the stators are delta-connected, three-phase,
+distributed-pole windings in the stator housings. The rotors in
+the transmitters and indicators are connected in parallel and
+are excited with 26-volt, 400-Hz AC. The rotor in the indicator
+follows the movement of the rotor in the transmitter.
+Auxiliary power unit (APU).A small turbine or reciprocating
+engine that drives a generator, hydraulic pump, and air pump.
+The APU is installed in the aircraft and is used to supply
+electrical power, compressed air, and hydraulic pressure
+when the main engines are not running.
+Aviation snips. Compound-action hand shears used for
+cutting sheet metal. Aviation snips come in sets of three. One
+pair cuts to the left, one pair cuts to the right, and the third
+pair of snips cuts straight.
+Aviator’s oxygen. Oxygen that has had almost all of the
+water and water vapor removed from it.
+Avionics. The branch of technology that deals with the
+design, production, installation, use, and servicing of
+electronic equipment mounted in aircraft.
+Azimuth. A horizontal angular distance, measured clockwise
+from a fixed reference direction to an object.
+
+B
+Back course. The reciprocal of the localizer course for an
+ILS (Instrument Landing System). When flying a back-course
+approach, the aircraft approaches the instrument runway from
+the end on which the localizer antennas are installed.
+Backhand welding. Welding in which the torch is pointed
+away from the direction the weld is progressing.
+Backplate (brake component). A floating plate on which the
+wheel cylinder and the brake shoes attach on an energizingtype brake.
+Backup ring. A flat leather or Teflon ring installed in the
+groove in which an O-ring or T-seal is placed. The backup
+ring is on the side of the seal away from the pressure, and it
+prevents the pressure extruding the seal between the piston
+and the cylinder wall.
+Balance cable. A cable in the aileron system of an airplane
+that connects to one side of each aileron. When the control
+wheel is rotated, a cable from the flight deck pulls one aileron
+down and relaxes the cable going to the other aileron. The
+
+balance cable pulls the other aileron up.
+Balance panel. A flat panel hinged to the leading edge of
+some ailerons that produces a force which assists the pilot
+in holding the ailerons deflected. The balance panel divides
+a chamber ahead of the aileron in such a way that when the
+aileron is deflected downward, for example, air flowing
+over its top surface produces a low pressure that acts on the
+balance panel and causes it to apply an upward force to the
+aileron leading edge.
+Balance tab. An adjustable tab mounted on the trailing edge
+of a control surface to produce a force that aids the pilot in
+moving the surface. The tab is automatically actuated in such
+a way it moves in the direction opposite to the direction the
+control surface on which it is mounted moves.
+Balanced actuator. A linear hydraulic or pneumatic actuator
+that has the same area on each side of the piston.
+Banana oil. Nitrocellulose dissolved in amyl acetate, so
+named because it smells like bananas.
+Bank (verb). The act of rotating an aircraft about its
+longitudinal axis.
+Barometric scale. A small window in the dial of a sensitive
+altimeter in which the pilot sets the barometric pressure level
+from which the altitude shown on the altimeter is measured.
+This window is sometimes called the “Kollsman” window.
+base. The electrode of a bipolar transistor between the emitter
+and the collector. Varying a small flow of electrons moving
+into or out of the base controls a much larger flow of electron
+between the emitter and the collector.
+Base. The electrode of a bipolar transistor between the emitter
+and the collector. Varying a small flow of electrons moving
+into or out of the base controls a much larger flow of electrons
+between the emitter and the collector.
+Bead (tire component). The high-strength carbon-steel wire
+bundles that give an aircraft tire its strength and stiffness
+where it mounts on the wheel.
+Bead seat area. The flat surface on the inside of the rim of
+an aircraft wheel on which the bead of the tire seats.
+Bearing strength (sheet metal characteristic). The amount
+of pull needed to cause a piece of sheet metal to tear at the
+points at which it is held together with rivets. The bearing
+strength of a material is affected by both its thickness and
+the diameter of the rivet.
+
+G-4
+
+===== PDF PAGE 997 =====
+Beehive spring. A hardened-steel, coil-spring retainer used
+to hold a rivet set in a pneumatic rivet gun. This spring gets
+its name from its shape. It screws onto the end of the rivet
+gun and allows the set to move back and forth, but prevents
+it being driven from the gun.
+Bend allowance. The amount of material actually used
+to make a bend in a piece of sheet metal. Bend allowance
+depends upon the thickness of the metal and the radius of
+the bend, and is normally found in a bend allowance chart.
+Bend radius. The radius of the inside of a bend.
+Bend tangent line. A line made in a sheet metal layout that
+indicates the point at which the bend starts.
+Bernoulli’s principle. The basic principle that explains
+the relation between kinetic energy and potential energy in
+fluids that are in motion. When the total energy in a column
+of moving fluid remains constant, any increase in the kinetic
+energy of the fluid (its velocity) results in a corresponding
+decrease in its potential energy (its pressure).
+Bezel. The rim that holds the glass cover in the case of an
+aircraft instrument.
+Bias-cut surface tape. A fabric tape in which the threads
+run at an angle of 45° to the length of the tape. Bias-cut tape
+may be stretched around a compound curve such as a wing
+tip bow without wrinkling.
+Bilge area. A low portion in an aircraft structure in which
+water and contaminants collect. The area under the cabin
+floorboards is normally called the bilge.
+Bipolar transistor. A solid-state component in which the
+flow of current between its emitter and collector is controlled
+by a much smaller flow of current into or out of its base.
+Bipolar transistors may be of either the NPN or PNP type.
+BITE. Built-in test equipment.
+Blade track. The condition of a helicopter rotor in which each
+blade follows the exact same path as the blade ahead of it.
+Black box. A term used for any portion of an electrical or
+electronic system that can be removed as a unit. A black box
+does not have to be a physical box.
+Bladder-type fuel cell. A plastic-impregnated fabric bag
+supported in a portion of an aircraft structure so that it forms
+a cell in which fuel is carried.
+
+Bleeder. A material such as glass cloth or mat that is placed
+over a composite lay-up to absorb the excess resin forced out
+of the ply fibers when pressure is applied.
+Bleeding dope. Dope whose pigments are soluble in the
+solvents or thinners used in the finishing system. The color
+will bleed up through the finished coats.
+Bleeding of brakes. The maintenance procedure of removing
+air entrapped in hydraulic fluid in the brakes. Fluid is bled
+from the brake system until fluid with no bubbles flows out.
+Blimp.A cigar-shaped, nonrigid lighter-than-air flying machine.
+Blush. A defect in a lacquer or dope finish caused by moisture
+condensing on the surface before the finish dries. If the
+humidity of the air is high, the evaporation of the solvents
+cools the air enough to cause the moisture to condense. The
+water condensed from the air mixes with the lacquer or dope
+and forms a dull, porous, chalky-looking finish called blush.
+A blushed finish is neither attractive nor protective.
+Bonding. The process of electrically connecting all isolated
+components to the aircraft structure. Bonding provides a
+path for return current from electrical components, and a
+low-impedance path to ground to minimize static electrical
+charges. Shock-mounted components have bonding braids
+connected across the shock mounts.
+Boost pump. An electrically driven centrifugal pump
+mounted in the bottom of the fuel tanks in large aircraft. Boost
+pumps provide a positive flow of fuel under pressure to the
+engine for starting and serve as an emergency backup in the
+event an engine-driven pump should fail. They are also used
+to transfer fuel from one tank to another and to pump fuel
+overboard when it is being dumped. Boost pumps prevent
+vapor locks by holding pressure on the fuel in the line to the
+engine-driven pump. Centrifugal boost pumps have a small
+agitator propeller on top of the impeller to force vapors from
+the fuel before it leaves the tank.
+Boundary layer. The layer of air that flows next to an
+aerodynamic surface. Because of the design of the surface
+and local surface roughness, the boundary layer often has a
+random flow pattern, sometimes even flowing in a direction
+opposite to the direction of flight. A turbulent boundary layer
+causes a great deal of aerodynamic drag.
+Bourdon tube. A pressure-indicating mechanism used in
+most oil pressure and hydraulic pressure gages. It consists of
+a sealed, curved tube with an elliptical cross section. Pressure
+inside the tube tries to straighten it, and as it straightens,
+it moves a pointer across a calibrated dial. Bourdon-tube
+G-5
+
+===== PDF PAGE 998 =====
+pressure gauges are used to measure temperature by
+measuring the vapor pressure in a sealed container of a
+volatile liquid, such as methyl chloride, whose vapor pressure
+varies directly with its temperature.
+Brazing. A method of thermally joining metal parts by
+wetting the surface with a molten nonferrous alloy. When
+the molten material cools and solidifies, it holds the pieces
+together. Brazing materials melt at a temperature higher than
+800 °F, but lower than the melting temperature of the metal
+on which they are used.
+British thermal unit (BTU). The amount of heat energy
+needed to raise the temperature of one pound of pure water 1 °F.
+Bucking bar. A heavy steel bar with smooth, hardened
+surfaces, or faces. The bucking bar is held against the end
+of the rivet shank when it is driven with a pneumatic rivet
+gun, and the shop head is formed against the bucking bar.
+Buffeting. Turbulent movement of the air over an
+aerodynamic surface.
+
+C
+Cage (verb). To lock the gimbals of a gyroscopic instrument
+so it will not be damaged by abrupt flight maneuvers or
+rough handling.
+Calendar month. A measurement of time used by the FAA
+for inspection and certification purposes. One calendar month
+from a given day extends from that day until midnight of the
+last day of that month.
+Calibrated airspeed (CAS). Indicated airspeed corrected
+for position error. See position error.
+Calorie. The amount of heat energy needed to raise the
+temperature of one gram of pure water 1 °C.
+Canted rate gyro. A rate gyro whose gimbal axis is tilted
+so it can sense rotation of the aircraft about its roll axis as
+well as its yaw axis.
+
+Bulb angle. An L-shaped metal extrusion having an enlarged,
+rounded edge that resembles a bulb on one of its legs.
+
+Camber (wheel alignment). The amount the wheels of an
+aircraft are tilted, or inclined, from the vertical. If the top of
+the wheel tilts outward, the camber is positive. If the top of
+the wheel tilts inward, the camber is negative.
+
+Bulkhead. A structural partition that divides the fuselage of
+an aircraft into compartments, or bays.
+
+Canard. A horizontal control surface mounted ahead of the
+wing to provide longitudinal stability and control.
+
+Bungee shock cord. A cushioning material used with the
+nonshock absorbing landing gears installed on older aircraft.
+Bungee cord is made up of many small rubber bands encased
+in a loose-woven cotton braid.
+
+Cantilever wing. A wing that is supported by its internal
+structure and requires no external supports. The wing spars
+are built in such a way that they carry all the bending and
+torsional loads.
+
+Burnish (verb). To smooth the surface of metal that has been
+damaged by a deep scratch or gouge. The metal piled up at
+the edge of the damage is pushed back into the damage with
+a smooth, hard steel burnishing tool.
+
+Cap strip. The main top and bottom members of a wing rib.
+The cap strips give the rib its aerodynamic shape.
+
+Burr. A sharp rough edge of a piece of metal left when the
+metal was sheared, punched, or drilled.
+Bus. A point within an electrical system from which the
+individual circuits get their power.
+Buttock line. A line used to locate a position to the right or
+left of the center line of an aircraft structure.
+Butyl. Trade name for a synthetic rubber product made by the
+polymerization of isobutylene. Butyl withstands such potent
+chemicals as phosphate ester-base (Skydrol) hydraulic fluids.
+
+Capacitance-type fuel quantity measuring system. A
+popular type of electronic fuel quantity indicating system
+that has no moving parts in the fuel tank. The tank units are
+cylindrical capacitors, called probes, mounted across the
+tank, from top to bottom. The dielectric between the plates
+of the probes is either fuel or the air above the fuel, and the
+capacitance of the probe varies with the amount of fuel in
+the tank. The indicator is a servo-type instrument driven by
+the amplified output of a capacitance bridge.
+Capillary tube. A soft copper tube with a small inside
+diameter. The capillary tube used with vapor-pressure
+thermometer connects the temperature sensing bulb to the
+Bourdon tube. The capillary tube is protected from physical
+damage by enclosing it in a braided metal wire jacket.
+
+G-6
+
+===== PDF PAGE 999 =====
+Carbon monoxide detector. A packet of chemical crystals
+mounted in the aircraft flight deck or cabin where they are
+easily visible. The crystals change their color from yellow to
+green when they are exposed to carbon monoxide.
+Carbon-pile voltage regulator. A type of voltage regulator
+used with high-output DC generators. Field current is
+controlled by varying the resistance of a stack of thin carbon
+discs. This resistance is varied by controlling the amount the
+stack is compressed by a spring whose force is opposed by
+the pull of an electromagnet. The electromagnet’s strength
+is proportional to the generator’s output voltage.
+Carburizing flame. An oxyacetylene flame produced by
+an excess of acetylene. This flame is identified by a feather
+around the inner cone. A carburizing flame is also called a
+reducing flame.
+
+where all of the aerodynamic forces are considered to be
+concentrated.
+Centering cam. A cam in the nose-gear shock strut that
+causes the piston to center when the strut fully extends.
+When the aircraft takes off and the strut extends, the wheel is
+straightened in its fore-and-aft position so it can be retracted
+into the wheel well.
+Charging stand (air conditioning service equipment).
+A handy and compact arrangement of air conditioning
+servicing equipment. A charging stand contains a vacuum
+pump, a manifold gauge set, and a method of measuring and
+dispensing the refrigerant.
+Chatter. A type of rapid vibration of a hydraulic pump caused
+by the pump taking in some air along with the hydraulic fluid.
+
+Carcass (tire component). The layers of rubberized fabric
+that make up the body of an aircraft tire.
+
+Check (wood defect). Longitudinal cracks that extend across
+a log’s annual rings.
+
+Case pressure. A low pressure that is maintained inside
+the case of a hydraulic pump. If a seal becomes damaged,
+hydraulic fluid will be forced out of the pump rather than
+allowing air to be drawn into the pump.
+
+Check valve. A hydraulic or pneumatic system component
+that allows full flow of fluid in one direction but blocks all
+flow in the opposite direction.
+
+Cathode-ray tube (CRT). A display tube used for
+oscilloscopes and computer video displays. An electron gun
+emits a stream of electrons that is attracted to a positively
+charged inner surface of the face of the tube. Acceleration and
+focusing grids speed the movement of the electrons and shape
+the beam into a pinpoint size. Electrostatic or electromagnetic
+forces caused by deflection plates or coils move the beam
+over the face of the tube. The inside surface of the face of
+the tube is treated with a phosphor material that emits light
+when the beam of electrons strikes it.
+
+Chemical oxygen candle system. An oxygen system used
+for emergency or backup use. Solid blocks of material that
+release oxygen when they are burned are carried in special
+fireproof fixtures. When oxygen is needed, the candles are
+ignited with an integral igniter, and oxygen flows into the
+tubing leading to the masks.
+Chevron seal. A form of one-way seal used in some fluidpower actuators. A chevron seal is made of a resilient material
+whose cross section is in the shape of the letter V. The pressure
+being sealed must be applied to the open side of the V.
+
+Cavitation. A condition that exist in a hydraulic pump when
+there is not enough pressure in the reservoir to force fluid to
+the inlet of the pump. The pump picks up air instead of fluid.
+
+Chromel. An alloy of nickel and chromium used as the
+positive element in a thermocouple for measuring exhaust
+gas temperature.
+
+CDI. Course deviation indicator.
+
+Circle. A closed plane figure with every point an equal
+distance from the center. A circle has the greatest area for its
+circumference of any enclosed shape.
+
+CDU. Control display unit.
+Center of gravity. The location on an aircraft about which
+the force of gravity is concentrated.
+Center of lift. The location of the chord line of an airfoil at
+which all the lift forces produced by the airfoil are considered
+to be concentrated.
+Center of pressure. The point on the chord line of an airfoil
+
+Circuit breaker. An electrical component that automatically
+opens a circuit any time excessive current flows through it.
+A circuit breaker may be reset to restore the circuit after the
+fault causing the excessive current has been corrected.
+Clad aluminum. A sheet of aluminum alloy that has a coating
+of pure aluminum rolled on one or both of its surfaces for
+corrosion protection.
+G-7
+
+===== PDF PAGE 1000 =====
+Clamp-on ammeter. An electrical instrument used to measure
+current without opening the circuit through which it is flowing.
+The jaws of the ammeter are opened, slipped over the currentcarrying wire, and then clamped shut. Current flowing through
+the wire produces a magnetic field which induces a voltage
+in the ammeter that is proportional to the amount of current.
+Cleco fastener. A patented spring-type fastener used to
+hold metal sheets in position until they can be permanently
+riveted together.
+Close-quarter iron. A small hand-held iron with an
+accurately calibrated thermostat. This iron is used for heatshrinking polyester fabrics in areas that would be difficult
+to work with a large iron.
+Closed angle. An angle formed in sheet metal that has been
+bent more than 90°.
+Closed assembly time. The time elapsing between the
+assembly of glued joints and the application of pressure.
+Closed-center hydraulic system. A hydraulic system in
+which the selector valves are installed in parallel with each
+other. When no unit is actuated, fluid circulates from the
+pump back to the reservoir without flowing through any of
+the selector valves.
+Closed-center selector valve. A type of flow-control valve
+used to direct pressurized fluid into one side of an actuator,
+and at the same time, direct the return fluid from the other
+side of the actuator to the fluid reservoir. Closed-center
+selector valves are connected in parallel between the pressure
+manifold and the return manifold.
+Coaxial. Rotating about the same axis. Coaxial rotors of a
+helicopter are mounted on concentric shafts in such a way
+that they turn in opposite directions to cancel torque.
+Coaxial cable. A special type of electrical cable that consists
+of a central conductor held rigidly in the center of a braided
+outer conductor. Coaxial cable, commonly called coax, is used
+for attaching radio receivers and transmitters to their antenna.
+Coefficient of drag. A dimensionless number used in the
+formula for determining induced drag as it relates to the
+angle of attack.
+Coefficient of lift. A dimensionless number relating to
+the angle of attack used in the formula for determining
+aerodynamic lift.
+
+Coin dimpling. A process of preparing a hole in sheet metal
+for flush riveting. A coining die is pressed into the rivet hole to
+form a sharp-edged depression into which the rivet head fits.
+Collective pitch control. The helicopter control that changes
+the pitch of all of the rotor blades at the same time. Movement
+of the collective pitch control increases or decreases the lift
+produced by the entire rotor disc.
+Collodion. Cellulose nitrate used as a film base for certain
+aircraft dopes.
+Combustion heater. A type of cabin heater used in some
+aircraft. Gasoline from the aircraft fuel tanks is burned in
+the heater.
+Compass fluid. A highly refined, water-clear petroleum
+product similar to kerosene. Compass fluid is used to dampen
+the oscillations of magnetic compasses.
+Compass rose. A location on an airport where an aircraft can
+be taken to have its compasses “swung.” Lines are painted on
+the rose to mark the magnetic directions in 30° increments.
+Compass swinging. A maintenance procedure that minimizes
+deviation error in a magnetic compass. The aircraft is aligned on
+a compass rose, and the compensating magnets in the compass
+case are adjusted so the compass card indicates the direction
+marked on the rose. After the deviation error is minimized on all
+headings, a compass correction card is completed and mounted
+on the instrument panel next to the compass.
+Compensated fuel pump. A vane-type, engine-driven
+fuel pump that has a diaphragm connected to the pressure
+regulating valve. The chamber above the diaphragm is vented
+to the carburetor upper deck where it senses the pressure
+of the air as it enters the engine. The diaphragm allows the
+fuel pump to compensate for altitude changes and keeps the
+carburetor inlet fuel pressure a constant amount higher than
+the carburetor inlet air pressure.
+Compensator port (brake system component). A small
+hole between a hydraulic brake master cylinder and the
+reservoir. When the brakes are released, this port is uncovered
+and the fluid in the master cylinder is vented to the reservoir.
+When the brake is applied, the master-cylinder piston covers
+the compensator port and allows pressure in the line to the
+brake to build up and apply the brakes. When the brake is
+released, the piston uncovers the compensator port. If any
+fluid has been lost from the brake, the reservoir will refill
+the master cylinder. A restricted compensator port will cause
+the brakes to drag or will cause them to be slow to release.
+
+G-8
+
+===== PDF PAGE 1001 =====
+Composite. Something made up of different materials
+combined in such a way that the characteristics of the
+resulting material are different from those of any of the
+components.
+Compound curve. A curve formed in more than one plane.
+The surface of a sphere is a compound curve.
+Compound gauge (air conditioning servicing equipment).
+A pressure gauge used to measure the pressure in the low
+side of an air conditioning system. A compound gauge is
+calibrated from zero to 30 inches of mercury vacuum, and
+from zero to about 150-psi positive gauge pressure.
+Compressibility effect. The sudden increase in the total drag
+of an airfoil in transonic flight caused by formation of shock
+waves on the surface.
+Compression failure. A type of structural failure in wood
+caused by the application of too great a compressive load. A
+compression failure shows up as a faint line running at right
+angles to the grain of the wood.
+Compression strut. A heavy structural member, often in
+the form of a steel tube, used to hold the spars of a Pratt
+truss airplane wing apart. A compression strut opposes the
+compressive loads between the spars arising from the tensile
+loads produced by the drag and antidrug wires.
+Compression wood. A defect in wood that causes it to have
+a high specific gravity and the appearance of an excessive
+growth of summerwood. In most species, there is little
+difference between the color of the springwood and the
+summerwood. Any material containing compression wood
+is unsuited for aircraft structural use and must be rejected.
+Compressor (air conditioning system component). The
+component in a vapor-cycle cooling system in which the lowpressure refrigerant vapors, after they leave the evaporator, are
+compressed to increase both their temperature and pressure
+before they pass into the condenser. Some compressors are
+driven by electric motors, others by hydraulic motors and,
+in the case of most light airplanes, are belt driven from the
+engine.
+Concave surface. A surface that is curved inward. The outer
+edges are higher than the center.
+Condenser (air conditioning system component). The
+component in a vapor-cycle cooling system in which the
+heat taken from the aircraft cabin is given up to the ambient
+air outside the aircraft.
+
+Conductor (electrical). A material that allows electrons to
+move freely from one atom to another within the material.
+Coning angle. The angle formed between the plane of
+rotation of a helicopter rotor blade when it is producing lift
+and a line perpendicular to the rotor shaft. The degree of the
+coning angle is determined by the relationship between the
+centrifugal force acting on the blades and the aerodynamic
+lift produced by the blades.
+Constant (mathematical). A value used in a mathematical
+computation that is the same every time it is used. For example,
+the relationship between the length of the circumference of
+a circle and the length of its diameter is a constant, 3.1416.
+This constant is called by the Greek name of Pi (π).
+Constant differential mode (cabin pressurization).
+The mode of pressurization in which the cabin pressure is
+maintained a constant amount higher than the outside air
+pressure. The maximum differential pressure is determined
+by the structural strength of the aircraft cabin.
+Constant-displacement pump. A fluid pump that moves a
+specific volume of fluid each time it rotates; the faster the
+pump turns, the more fluid it moves. Some form of pressure
+regulator or relief valve must be used with a constantdisplacement pump when it is driven by an aircraft engine.
+Constant-speed drive (CSD). A special drive system used to
+connect an alternating current generator to an aircraft engine.
+The drive holds the generator speed (and thus its frequency)
+constant as the engine speed varies.
+Constantan. A copper-nickel alloy used as the negative
+lead of a thermocouple for measuring the cylinder head
+temperature of a reciprocating engine.
+Contactor (electrical component). A remotely actuated,
+heavy-duty electrical switch. Contactors are used in an aircraft
+electrical system to connect the battery to the main bus.
+Continuity tester. A troubleshooting tool that consists of
+a battery, a light bulb, and test leads. The test leads are
+connected to each end of the conductor under test, and if the
+bulb lights up, there is continuity. If it does not light up, the
+conductor is open.
+Continuous Airworthiness Inspection Program. An
+inspection program that is part of a continuous airworthiness
+maintenance program approved for certain large airplanes
+(to which 14 CFR Part 125 is not applicable), turbojet
+multi-engine airplanes, turbopropeller-powered multi-engine
+airplanes, and turbine-powered rotorcraft.
+G-9
+
+===== PDF PAGE 1002 =====
+Continuous-duty solenoid. A solenoid-type switch designed
+to be kept energized by current flowing through its coil for an
+indefinite period of time. The battery contactor in an aircraft
+electrical system is a continuous-duty solenoid. Current flows
+through its coil all the time the battery is connected to the
+electrical system.
+Continuous-flow oxygen system. A type of oxygen system
+that allows a metered amount of oxygen to continuously
+flow into the mask. A rebreather-type mask is used with a
+continuous-flow system. The simplest form of continuousflow oxygen system regulates the flow by a calibrated orifice
+in the outlet to the mask, but most systems use either a manual
+or automatic regulator to vary the pressure across the orifice
+proportional to the altitude being flown.
+Continuous-loop fire-detection system. A fire-detection
+system that uses a continuous loop of two conductors
+separated with a thermistor-type insulation. Under normal
+temperature conditions, the thermistor material is an
+insulator; but if it is exposed to a fire, the thermistor changes
+into a conductor and completes the circuit between the two
+conductors, initiating a fire warning.
+Control horn. The arm on a control surface to which the
+control cable or push-pull rod attaches to move the surface.
+Control stick. The type of control device used in some
+airplanes. A vertical stick in the flight deck controls the
+ailerons by side-to-side movement and the elevators by foreand-aft movement.
+Control yoke. The movable column on which an airplane
+control wheel is mounted. The yoke may be moved in or out
+to actuate the elevators, and the control wheel may be rotated
+to actuate the ailerons.
+Controllability. The characteristic of an aircraft that allows
+it to change its flight attitude in response to the pilot’s
+movement of the flight deck controls.
+Conventional current. An imaginary flow of electricity that
+is said to flow from the positive terminal of a power source,
+through the external circuit to its negative terminal. The
+arrowheads in semiconductor symbols point in the direction
+of conventional current flow.
+Converging duct. A duct, or passage, whose cross-sectional
+area decreases in the direction of fluid flow.
+Conversion coating. A chemical solution used to form an
+airtight oxide or phosphate film on the surface of aluminum
+
+or magnesium parts. The conversion coating prevents air from
+reaching the metal and keeps it from corroding.
+Convex surface. A surface that is curved outward. The outer
+edges are lower than the center.
+Coriolis effect. The change in rotor blade velocity to
+compensate for a change in the distance between the center
+of mass of the rotor blade and the axis rotation of the blade
+as the blades flap in flight.
+Cornice brake. A large shop tool used to make straight bends
+across a sheet of metal. Cornice brakes are often called leaf
+brakes.
+Corrugated metal. Sheets of metal that have been made
+more rigid by forming a series of parallel ridges or waves
+in its surface.
+Cotter pin. A split metal pin used to safety a castellated or
+slotted nut on a bolt. The pin is passed through the hole in
+the shank of the bolt and the slots in the nut, and the ends
+of the pin are spread to prevent it backing out of the hole.
+Countersinking. Preparation of a rivet hole for a flush
+rivet by beveling the edges of the holes with a cutter of the
+correct angle.
+Coverite surface thermometer. A small surface-type
+bimetallic thermometer that calibrates the temperature of an
+iron used to heat-shrink polyester fabrics.
+Crabbing. Pointing the nose of an aircraft into the wind to
+compensate for wind drift.
+Crazing. A form of stress-caused damage that occurs in a
+transparent thermoplastic material. Crazing appears as a series
+of tiny, hair-like cracks just below the surface of the plastic.
+Critical Mach number. The flight Mach number at which
+there is the first indication of supersonic airflow over any
+part of the aircraft structure.
+Cross coat. A double coat of aircraft finishing material in
+which the second coat is sprayed at right angles to the first
+coat, before the solvents have evaporated from the first coat.
+Cross-feed valve (fuel system component). A valve in a
+fuel system that allows any of the engines of a multi-engine
+aircraft to draw fuel from any fuel tank. Cross-feed systems
+are used to allow a multi-engine aircraft to maintain a
+balanced fuel condition.
+
+G-10
+
+===== PDF PAGE 1003 =====
+Cross-flow valve. An automatic flow-control valve installed
+between the gear-up and gear-down lines of the landing gear
+of some large airplanes. When the landing gear is released
+from its uplocks, its weight causes it to fall faster than the
+hydraulic system can supply fluid to the gear-down side
+of the actuation cylinder. The cross-flow valve opens and
+directs fluid from the gear-up side into the gear-down side.
+This allows the gear to move down with a smooth motion.
+CRT. Cathode-ray tube.
+Cryogenic liquid. A liquid which boils at temperatures of less
+than about 110 °F (–163 °C) at normal atmospheric pressures.
+
+the power brake control valve and the wheel cylinder. This
+valve lowers the pressure of the fluid going to the brake
+and increases its volume. A debooster valve increases the
+smoothness of brake application and aids in rapid release
+of the brakes.
+Decay. The breakdown of the structure of wood fibers. Wood
+that shows any indication of decay must be rejected for use
+in aircraft structure.
+Decomposition. The breakdown of the structure of wood
+fibers. Wood that shows any indication of decay must be
+rejected for use in aircraft structure.
+
+Cuno filter. The registered trade name for a particular style
+of edge-type fluid filter. Cuno filters are made up of a stack
+of thin metal discs that are separated by thin scraper blades.
+Contaminants collect on the edge of the discs, and they are
+periodically scraped out and allowed to collect in the bottom
+of the filter case for future removal.
+
+Deciduous. A type of tree that sheds its foliage at the end of
+the growing season. Hardwoods come from deciduous trees.
+
+Current. A general term used for electrical flow. See
+conventional current.
+
+Deep-vacuum pump. A vacuum pump capable of removing
+almost all of the air from a refrigeration system. A deepvacuum pump can reduce the pressure inside the system to
+a few microns of pressure.
+
+Current limiter. An electrical component used to limit the
+amount of current a generator can produce. Some current
+limiters are a type of slow-blow fuse in the generator output.
+Other current limiters reduce the generator output voltage
+if the generator tries to put out more than its rated current.
+Cusp. A pointed end.
+Cyclic pitch control. The helicopter control that allows the
+pilot to change the pitch of the rotor blades individually, at
+a specific point in their rotation. The cyclic pitch control
+allows the pilot to tilt the plane of rotation of the rotor disc
+to change the direction of lift produced by the rotor.
+
+D
+Dacron. The registered trade name for a cloth woven from
+polyester fibers.
+Damped oscillation. Oscillation whose amplitude decreases
+with time.
+Database. A body of information that is available on any
+particular subject.
+Data bus. A wire or group of wires that are used to move
+data within a computer system.
+Debooster valve. A valve in a power brake system between
+
+Dedicated computer. A small digital computer, often built
+into an instrument or control device that contains a built-in
+program that causes it to perform a specific function.
+
+Deflator cap. A cap for a tire, strut, or accumulator air valve
+that, when screwed onto the valve, depresses the valve stem
+and allows the air to escape safely through a hole in the side
+of the cap.
+Deicer system. A system that removes ice after it has formed
+on an aircraft.
+Delamination. The separation of the layers of a laminated
+material.
+Delivery air duct check valve. An isolation valve at the
+discharge side of the air turbine that prevents the loss of
+pressurization through a disengaged cabin air compressor.
+Delta airplane. An airplane with a triangular-shaped wing.
+This wing has an extreme amount of sweepback on its leading
+edge, and a trailing edge that is almost perpendicular to the
+longitudinal axis of the airplane.
+Delta connection (electrical connection). A method of
+connecting three electrical coils into a ring or, as they are
+drawn on a schematic diagram as a triangle, a delta (D).
+Denier. A measure of the fineness of the yarns in a fabric.
+Density altitude. The altitude in standard air at which the
+G-11
+

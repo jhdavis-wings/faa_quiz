@@ -1,0 +1,2807 @@
+FAA-H-8083-30B General Handbook, chapter 6 (Aircraft Weight & Balance), PDF pages 223-240
+
+===== PDF PAGE 223 =====
+a calculation, using the actual weight versus the standard
+weight would make a difference of 10 to 15 lb.
+
+Figure 6-18. A Cessna 182 being weighed with portable electronic
+
+platform scales.
+
+chalk mark made on the hangar floor. The plumb bob could
+also be dropped from the center of the axle on the main
+landing gear, and a chalk mark made on the floor. With a tape
+measure, the distance between the two chalk marks could be
+determined, and the arm for the main landing gear would be
+known. Plumb bobs can also be used to level an aircraft, as
+described in the Helicopter Weight and Balance section of
+this chapter. Figure 6-22 shows a plumb bob being dropped
+from the leading edge of an aircraft wing.
+
+Hydrometer
+When an aircraft is weighed with full fuel in the tanks, the
+weight of the fuel must be accounted for by mathematically
+subtracting it from the scale readings. To subtract it, its
+weight, arm, and moment must be known. Although the
+standard weight for aviation gasoline (Avgas) is 6.0 lb/gal
+and jet fuel is 6.7 lb/gal, these values are not exact for all
+conditions. On a hot day versus a cold day, these values can
+vary dramatically. On a hot summer day in the state of Florida,
+Avgas checked with a hydrometer typically weighs between
+5.85 and 5.9 lb/gal. If 100 gallons of fuel were involved in
+
+Figure 6-19. M2000 platform scale digital indicator.
+
+When an aircraft is weighed with fuel in the tanks, the weight
+of fuel per gallon should be checked with a hydrometer. A
+hydrometer consists of a weighted glass tube that is sealed
+with a graduated set of markings on the side of the tube.
+The graduated markings and their corresponding number
+values represent units of pounds per gallon (lb/gal). When
+placed in a flask with fuel in it, the glass tube floats at a
+level dependent on the density of the fuel. Where the fuel
+intersects the markings on the side of the tube indicates the
+pounds per gallon.
+Preparing an Aircraft for Weighing
+Weighing an aircraft is a very important and exacting phase
+of aircraft maintenance and must be carried out with accuracy
+and good workmanship. Thoughtful preparation saves time
+and prevents mistakes. The aircraft should be weighed inside
+a hangar where wind cannot blow over the surface and cause
+fluctuating or false scale readings. The aircraft should be
+clean inside and out, with special attention paid to the bilge
+area to be sure no water or debris is trapped. The outside of
+the aircraft should be as free as possible of all mud and dirt.
+To begin, assemble all the necessary equipment, such as:
+1.
+
+Scales, hoisting equipment, jacks, and leveling
+equipment.
+
+2.
+
+Blocks, chocks, or sandbags for holding the airplane
+
+Figure 6-20. Airplane on jacks with load cells in use.
+
+6-12
+
+===== PDF PAGE 224 =====
+on the scales.
+3.
+
+Straightedge, spirit level, plumb bobs, chalk line, and
+a measuring tape.
+
+4.
+
+Applicable Aircraft Specifications and weight and
+balance computation forms.
+
+Fuel System
+When weighing an aircraft to determine its empty weight,
+only the weight of residual (unusable) fuel should be
+included. To ensure that only residual fuel is accounted for,
+the aircraft should be weighed in one of the following three
+conditions.
+1.
+
+2.
+
+3.
+
+Weigh the aircraft with absolutely no fuel in the
+aircraft tanks or fuel lines. If an aircraft is weighed in
+this condition, the technician can mathematically add
+the proper amount of residual fuel to the aircraft and
+account for its arm and moment. The proper amount
+of fuel can be determined by looking in the aircraft’s
+TCDS.
+Drain fuel from the tanks in the manner specified
+by the aircraft manufacturer. If there are no specific
+instructions, drain the fuel until the fuel quantity
+gauges read empty and until fuel stops draining from
+the tanks. The aircraft attitude may be a consideration
+when draining the fuel tanks and the maintenance
+manual should be consulted. In this case, the unusable
+fuel will remain in the lines and system, and its
+weight and arm can be determined by reference to the
+aircraft’s TCDS.
+Weigh the aircraft with the fuel tanks completely
+full. If an aircraft is weighed in this condition, the
+technician can mathematically subtract the weight of
+usable fuel and account for its arm and moment. If
+the weight of the fuel is in question, a hydrometer can
+
+Figure 6-22. Plumb bob dropped from a wing leading edge.
+
+also be used to determine the weight of each gallon of
+fuel, while the Aircraft Specifications or TCDS can
+be used to identify the fuel capacity of the aircraft. If
+an aircraft is to be weighed with load cells attached to
+jacks, the technician should check both the load cell
+instruction manual and aircraft maintenance manual
+to make sure it is permissible to jack the aircraft with
+the fuel tanks full as this may add additional stress to
+the aircraft structure.
+Never weigh an aircraft with fuel tanks partially full, because
+it will be impossible to determine exactly how much fuel to
+account for.
+
+Oil System
+The empty weight for older aircraft certificated under the
+Civil Air Regulations (CAR) part 3 does not include the
+engine lubricating oil. The oil must be drained before the
+aircraft is weighed, or its weight must be subtracted from the
+scale readings to determine the empty weight.
+To weigh an aircraft that does not include the engine
+lubricating oil as part of the empty weight, place it in level
+flight attitude, then open the drain valves and allow all the
+oil that is able, to drain out. Any remaining is undrainable
+oil and is part of the empty weight.
+If it is impractical to drain the oil, the reservoir can be filled
+to the specified level and the weight of the oil computed at 7.5
+lb/gal. Then its weight and moment are subtracted from the
+weight and moment of the aircraft as weighed. The amount
+and arm of the undrainable oil are found in NOTE 1 of the
+TCDS, and this must be added to the empty weight.
+
+Figure 6-21. Spirit level being used on a Mooney M20.
+
+For aircraft certificated since 1978 under 14 CFR parts 23
+and 25, full engine oil is typically included in an aircraft’s
+6-13
+
+===== PDF PAGE 225 =====
+empty weight. This can be confirmed by looking at the TCDS.
+If full oil is to be included, the oil level needs to be checked
+and the oil system serviced if it is less than full.
+
+Miscellaneous Fluids
+The hydraulic fluid reservoir and all other reservoirs
+containing fluids required for normal operation of the aircraft
+should be full. Fluids not considered to be part of the empty
+weight of the aircraft are potable (drinkable) water, lavatory
+precharge water, and water for injection into the engines.
+
+Flight Controls
+The position of such items as spoilers, slats, flaps, and
+helicopter rotor systems is an important factor when weighing
+an aircraft. Always refer to the manufacturer’s instructions
+for the proper position of these items.
+
+Other Considerations
+Inspect the aircraft to see that all items included in the
+certificated empty weight are installed in the proper location.
+Remove items that are not regularly carried in flight. Also,
+look in the baggage compartments to make sure they are
+empty. Replace all inspection plates, oil and fuel tank caps,
+junction box covers, cowling, doors, emergency exits, and
+other parts that have been removed during maintenance.
+All doors, windows, and sliding canopies should be in the
+normal flight position. Remove excessive dirt, oil, grease,
+and moisture from the aircraft.
+Some aircraft are not weighed with the wheels on the scales,
+but are weighed with the scales placed either at the jacking
+points or at special weighing points. Regardless of what
+provisions are made for placing the aircraft on the scales
+or jacks, be careful to prevent it from falling or rolling off,
+thereby damaging the aircraft and equipment. When weighing
+an aircraft with the wheels placed on the scales, release the
+brakes to reduce the possibility of incorrect readings caused
+by side loads on the scales.
+All aircraft have leveling points or lugs, and care must be
+taken to level the aircraft, especially along the longitudinal
+axis. With light, fixed-wing airplanes, the lateral level is
+not as critical as it is with heavier airplanes. However, a
+reasonable effort should be made to level the light airplanes
+along the lateral axis. Helicopters must be level longitudinally
+and laterally when they are weighed. Accuracy in leveling all
+aircraft longitudinally cannot be overemphasized.
+
+Weighing Points
+When an aircraft is being weighed, the arms must be known
+for the points where the weight of the aircraft is being
+transferred to the scales. If a tricycle gear small airplane has
+
+its three wheels sitting on floor scales, the weight transfer
+to each scale happens through the center of the axle for each
+wheel. If an airplane is weighed while it is on jacks, the
+weight transfer happens through the center of the jack pad.
+For a helicopter with skids for landing gear, determining the
+arm for the weighing points can be difficult if the skids are
+sitting directly on floor scales. The problem is that the skid
+is in contact with the entire top portion of the scale, and it
+is impossible to know exactly where the center of weight
+transfer is occurring. In such a case, place a piece of pipe
+between the skid and the scale, and the center of the pipe will
+now be the known point of weight transfer.
+The arm for each of the weighing points is the distance from
+the center of the weight transfer point to the aircraft’s datum.
+If the arms are not known, based on previous weighing of the
+aircraft or some other source of data, they must be measured
+when the aircraft is weighed. This involves dropping a
+plumb bob from the center of each weighing point and from
+the aircraft datum, and putting a chalk mark on the hangar
+floor representing each point. The perpendicular distance
+between the datum and each of the weighing points can then
+be measured. In Figure 6-23, the distance from the nosewheel
+centerline to the datum is being measured on an airplane.
+The nosewheel sitting on an electronic scale can be seen in
+the background.
+Jacking the Aircraft
+Aircraft are often weighed by rolling them onto ramps in
+which load cells are embedded. This eliminates the problems
+associated with jacking the aircraft off the ground. However,
+many aircraft are weighed by jacking the aircraft up and then
+lowering them onto scales or load cells. Extra care must be
+used when raising an aircraft on jacks for weighing. If the
+aircraft has spring steel landing gear and it is jacked at the
+wheel, the landing gear will slide inward as the weight is
+taken off the tire. Care must be taken to prevent the jack
+from tipping over. For some aircraft, stress panels or plates
+must be installed before they are raised with wing jacks to
+distribute the weight over the jack pad. Be sure to follow
+the recommendations of the aircraft manufacturer in detail
+anytime an aircraft is jacked. When using two wing jacks,
+take special care to raise them simultaneously, so the aircraft
+does not slip off the jacks. As the jacks are raised, keep the
+safety collars screwed down against the jack cylinder to
+prevent the aircraft from tilting if one of the jacks should
+lose hydraulic pressure.
+Leveling the Aircraft
+When an aircraft is weighed, it must be in its level flight
+attitude so that all the components are at the correct distance
+from the datum. This attitude is determined by information in
+the TCDS. Some aircraft require a plumb line to be dropped
+6-14
+
+===== PDF PAGE 226 =====
+from a specified location so that the point of the weight, the
+bob, hangs directly above an identifiable point. Others specify
+that a spirit level be placed across two leveling lugs (special
+screws on the outside of the fuselage). Other aircraft call for a
+spirit level to be placed on the upper door sill. Lateral level is
+not specified for all light aircraft, but provisions are normally
+made on helicopters for determining both longitudinal
+and lateral level. This may be done by built-in leveling
+indicators or by a plumb bob that shows the conditions of
+both longitudinal and lateral level. The actual adjustments
+to level the aircraft using load cells are made with the jacks.
+When weighing from the wheels, leveling is normally done
+by adjusting the air pressure in the nosewheel shock strut.
+
+The range gets smaller because of the forward limit moving
+back, while the aft limit stays in the same place.
+
+Safety Considerations
+Special precautions must be taken when raising an aircraft
+on jacks.
+
+In Figure 6-25, the red line represents the forward limit up
+to a weight of 2,780 lb. The blue and green lines represent
+the straight-line variation that occurs for the forward limit
+as the weight increases up to a maximum of 4,000 lb. The
+yellow line represents the maximum weight for the airplane,
+and the purple line represents the aft limit.
+
+1.
+
+Stress plates must be installed under the jack pads if
+the manufacturer specifies them.
+
+2.
+
+If anyone is required to be in the aircraft while it is
+being jacked, there must be no movement.
+
+3.
+
+The jacks must be straight under the jack pads before
+beginning to raise the aircraft.
+
+4.
+
+All jacks must be raised simultaneously and safety
+devices placed against the jack cylinder to prevent the
+aircraft from tipping if any jack should lose pressure.
+Not all jacks have screw-down collars, some use drop
+pins or friction locks.
+
+CG Range
+The CG range for an aircraft is the limits within which the
+aircraft must balance. It is identified as a range and considered
+an arm extending from the forward most limit to the aft most
+limit usually expressed in inches. In the TCDS for the Piper
+Seneca airplane, shown earlier in this chapter, the range is
+given in Figure 6-24.
+
+The data sheet identifies that there is a straight-line variation
+between the points given. The points being referred to are
+the forward and aft CG limits. From a weight of 2,780 lb to
+a weight of 3,400 lb, the forward limit moves from +80.7"
+to +82.0", and if plotted on a graph, that change would
+form a straight line. From 3,400 lb to 4,000 lb, the forward
+limit moves from +82 to +86.4", again forming a straight
+line. Plotted on a graph, the CG limits would look like
+Figure 6-25. When graphically plotted, the CG limits form
+what is known as the CG envelope.
+
+Empty Weight Center of Gravity (EWCG) Range
+For some aircraft, a CG range is given for the aircraft in the
+empty weight condition in the TCDS. This practice is not very
+common with airplanes, but is often done for helicopters. This
+range would only be listed for an airplane if the fuel tanks,
+seats, and baggage compartments are so located that changes
+in the fuel or occupant load have a very limited effect on the
+balance of the aircraft. If the EWCG of an aircraft falls within
+the EWCG limits, it is impossible to legally load the aircraft
+so that its loaded CG falls outside of its allowable range. If the
+TCDS lists an EWCG range and, after a repair or alteration
+is completed, the EWCG falls within this range, then there is
+no need to compute a fore and aft check for adverse loading.
+But if the TCDS lists the EWCG range as “None” (and most
+of them do), a check must be made to determine whether it
+is possible by any combination of legal loading to cause the
+
+Because the Piper Seneca is a retractable gear airplane, the
+specifications identify that the range applies when the landing
+gear is extended, and that the airplane’s total moment is
+decreased by 32 when the gear retracts. To know how much
+the CG changes when the gear is retracted, the moment of
+32 in-lb would need to be divided by the loaded weight of
+the airplane. For example, if the airplane weighed 3,500 lb,
+the CG would move forward 0.009" (32 ÷ 3,500).
+Based on the numbers given, up to a loaded weight of
+2,780 lb, the forward CG limit is +80.7" and the aft CG limit
+is +94.6". As the loaded weight of the airplane increases to
+3,400 lb, and eventually to the maximum of 4,000 lb, the
+forward CG limit moves aft. In other words, as the loaded
+weight of the airplane increases, the CG range gets smaller.
+
+Figure 6-23. Measuring the nosewheel arm on an airplane.
+
+6-15
+
+===== PDF PAGE 227 =====
+aircraft CG to move outside of either its forward or aft limits.
+
+Operating CG Range
+
+CG Range: (Gear Extended)
+S/N 34-E4, 34-7250001 through 34-7250214
+(See NOTE 3)
+(+86.4") to (+94.6") at 4,000 lb
+(+82.0") to (+94.6") at 3,400 lb
+(+80.7") to (+94.6") at 2,780 lb
+Straight line variation between points given.
+Moment change due to gear retracting
+landing gear (–32 in-lb)
+
+All aircraft have CG limits identified for the operational
+condition, with the aircraft loaded and ready for flight. If an
+aircraft can operate in more than one category, such as normal
+and utility, more than one set of limits might be listed. As
+shown earlier for the Piper Seneca airplane, the limits can
+change as the weight of the aircraft increases. To legally fly,
+the CG for the aircraft must fall within the CG limits.
+
+Figure 6-24. Piper Seneca airplane center of gravity range.
+
+Standard Weights Used for Aircraft Weight and
+Balance
+Unless the specific weight for an item is known, the standard
+weights used in aircraft weight and balance are as follows:
+
+the CG forward of the main landing gear, which must be the
+case for a tricycle gear airplane. This number is the result of
+dividing the total moment of 66,698 in-lb by the total weight
+of 1,331.5 lb.
+
+•
+
+Avgas
+
+6 lb/gal
+
+•
+
+Turbine fuel
+
+6.7 lb/gal
+
+•
+
+Lubricating oil
+
+7.5 lb/gal
+
+•
+
+Water
+
+8.35 lb/gal
+
+•
+
+Crew and passengers
+
+170 lb per person
+
+Example Weighing of an Airplane
+In Figure 6-26, a tricycle gear airplane is being weighed by
+using three floor scales. The specifications on the airplane
+and the weighing specific data are shown in Figure 6-27.
+By analyzing the data identified for the airplane being weighed
+in Figure 6-26, the following information is determined.
+•
+
+•
+
+•
+•
+
+Because the airplane was weighed with the fuel tanks
+full, the full weight of the fuel must be subtracted and
+the unusable fuel added back in. The weight of the fuel
+being subtracted is based on the pounds per gallon
+determined by the hydrometer check (5.9 lb/gal).
+Because wheel chocks are used to keep the airplane
+from rolling off the scales, their weight must be
+subtracted from the scale readings as tare weight.
+Because the main wheel centerline is 70" behind the
+datum, its arm is a +70".
+The arm for the nosewheel is the difference between
+the wheelbase (100") and the distance from the datum
+to the main wheel centerline (70"). Therefore, the arm
+for the nosewheel is −30".
+
+To calculate the airplane’s empty weight and EWCG, a sixcolumn chart is used. Figure 6-28 shows the calculation for
+the airplane in Figure 6-26.
+Based on the calculation shown in the chart, the CG is at
++50.1", which means it is 50.1" aft of the datum. This places
+
+EWCG Formulas
+The EWCG can be quickly calculated by using the following
+formulas. There are four possible conditions and formulas
+that relate the location of the CG to the datum. Notice that
+the formula for each condition first determines the moment
+of the nose F W× L wheel or tail RW× L wheel and then divides it
+by the total weight of the airplane. The arm is then added
+to or subtracted from the distance between the main wheels
+and the datum (distance D).
+Formula 1 Nosewheel airplanes with datum forward of
+the main wheels.
+CG = D –
+
+Formula 2
+
+( FW× L )
+
+Nosewheel airplanes with the datum aft of
+the main wheels.
+
+(
+
+CG = – D +
+
+Formula 3
+
+)
+
+Tail wheel airplanes with the datum forward
+of the main wheels.
+
+CG = D +
+
+Formula 4
+
+F×L
+W
+
+( RW× L )
+
+Tail wheel airplanes with the datum aft of
+the main wheels.
+
+CG = – D +
+
+( RW× L )
+
+Datum Forward of the Airplane–Nosewheel Landing
+Gear
+The datum of the airplane in Figure 6-29 is 100" forward
+of the leading edge of the wing root, or 128" forward of the
+6-16
+
+===== PDF PAGE 228 =====
+4,200
+4,100
+4,000
+3,900
+3,800
+
+86.4 at 4,000 lb
+
+Weight (lb)
+
+3,700
+3,600
+3,500
+
+82 at 3,400 lb
+
+3,400
+3,200
+
+Forward
+CG Limit
+
+3,000
+
+Aft
+CG Limit
+
+2,900
+2,800
+
+80.7 at 2,780 lb
+
+2,700
+2,600
+78
+
+79
+
+80
+
+81
+
+82
+
+83
+
+84
+
+85
+
+86
+
+87
+
+88
+
+89
+
+90
+
+91
+
+92
+
+93
+
+94
+
+95
+
+96
+
+97
+
+98
+
+Center of Gravity (in)
+Figure 6-25. Center of gravity envelope for the Piper Seneca.
+
+main-wheel weighing points. This is distance (D). The weight
+of the nosewheel (F) is 340 lb, and the distance between
+main wheels and nosewheel (L) is 78". The total weight of
+the airplane (W) is 2,006 lb.
+The location of the CG may be determined by using this
+formula:
+F×L
+CG = D –
+
+W
+
+(
+
+= 128 –
+
+)
+
+(
+
+340 × 78
+2,006
+
+)
+
+= 114.8
+The CG is 114.8" aft of the datum. This is 13.2" forward of
+the main-wheel weighing points, which proves the location
+of the datum has no effect on the location of the CG so long
+as all measurements are made from the same location.
+Datum Aft of the Main Wheels–Nosewheel Landing
+Gear
+The datum of some aircraft may be located aft of the main
+wheels. The airplane in this example is the same one just
+discussed, but the datum is at the intersection of the trailing
+edge of the wing with the fuselage. The distance (D) between
+
+the datum of the airplane in Figure 6-30 and the main-wheel
+weighing points is 75", the weight of the nosewheel (F) is 340
+lb, and the distance between main wheels and nosewheel (L)
+is 78". The total net weight of the airplane (W) is 2,006 lb.
+The location of the CG may be determined by using this
+formula:
+F×L
+CG = – D +
+
+W
+
+(
+
+= –
+
+)
+
+× 78
+( 75 + 3402,006
+)
+
+= –88.2
+The CG location is a negative value, which means it is 88.2"
+forward of the datum. This places it 13.2" forward of the main
+wheels, the same location as it was when it was measured
+from other datum locations.
+Location of Datum
+It makes no difference where the datum is located if all
+measurements are made from the same location.
+Datum Forward of the Main Wheels–Tail Wheel
+
+6-17
+
+===== PDF PAGE 229 =====
+Datum
+
+Right scale reading 640 lb
+
+Main wheel centerline
+70"
+100"
+
+Nose scale reading 225 lb
+
+Left scale reading 650 lb
+
+Chocks
+
+Nosewheel centerline
+Wheel base
+
+Figure 6-26. Example airplane being weighed. The datum is 70" forward of the wing root leading edge.
+
+Landing Gear
+Locating the CG of a tail wheel airplane is done in the
+same way as locating it for a nosewheel airplane except the
+formulas use RW× L rather than F W× L .
+
+Aircraft datum:
+
+Leading edge of the wing
+
+Leveling means:
+
+Two screws, left side of fuselage
+below window
+
+Wheelbase:
+
+100"
+
+Fuel capacity:
+
+30 gal aviation gasoline at +95"
+
+Unusable fuel:
+
+6 lb at +98"
+
+Oil capacity:
+
+8 qt at –38"
+
+Note 1:
+
+Empty weight includes unusable
+fuel and full oil
+
+Left main scale reading:
+
+650 lb
+
+Item
+
+Weight
+(lb)
+
+Tare
+(lb)
+
+Right main scale reading:
+
+640 lb
+
+Nose
+
+225
+
+–2.5
+
+222.5
+
+–30
+
+–6,675
+
+Nose scale reading:
+
+225 lb
+
+Left Main
+
+650
+
+–5
+
+645
+
++70
+
+45,150
+
+Tare weight:
+
+5 lb chocks on left main
+5 lb chocks on right main
+2.5 lb chock on nose
+
+Right Main
+
+640
+
+–5
+
+635
+
++70
+
+44,450
+
+Subtotal
+
+1,515
+
+–12.5
+
+1,502.5
+
+During weighing:
+
+Fuel tanks full and oil full
+Hydrometer check on
+Fuel shows 5.9 lb/gal
+
+Figure 6-27. Specifications and weighing specific data for tricycle
+
+gear airplane.
+
+The distance (D) between the datum of the airplane in
+Figure 6-31 and the main-gear weighing points is 7.5", the
+weight of the tail wheel (R) is 67 lb, and the distance (L)
+between the main-wheel and the tail wheel weighing points
+is 222". The total weight of the airplane (W) is 1,218 lb.
+Determine the CG by using this formula:
+Net Wt.
+Arm
+Moment
+(lb)
+(inches)
+(in-lb)
+
+82,925
+
+Fuel Total
+
+–177
+
++95
+
+–16,815
+
+Fuel Unuse
+
++6
+
++98
+
+588
+
+Oil
+
+Full
+
+Total
+
+1,331.5
+
++50.1
+
+66,698
+
+Figure 6-28. Center of gravity calculation for airplane being
+
+weighed.
+
+6-18
+
+===== PDF PAGE 230 =====
+CG = D +
+
+( RW× L )
+
+= 7.5 +
+
+Datum
+
+D = 128.0
+114.8
+100.0
+50.0
+
+× 222
+( 671,218
+)
+
+13.2
+
+= 19.7
+L = 78.0
+
+The CG is 19.7 inches behind the datum.
+Datum Aft of the Main Wheels–Tail Wheel Landing
+Gear
+The datum of the airplane in Figure 6-32 is located at the
+intersection of the wing root trailing edge and the fuselage.
+This places the arm of the main gear (D) at –80". The net
+weight of the tail wheel (R) is 67 lb, the distance between
+the main wheels and the tail wheel (L) is 222", and the total
+net weight (W) of the airplane is 1,218 lb.
+Since the datum is aft of the main wheels, use the formula:
+CG = – D +
+
+( RW× L )
+
+= – 80 +
+
+(
+
+67 × 222
+1,218
+
+Figure 6-29. The datum is 100" forward of the wing root leading
+
+edge.
+
+For the example loading of the airplane, the following
+information applies:
+•
+
+Airplane Serial Number:
+
+34-7250816
+
+•
+
+Airplane Empty Weight:
+
+2,650 lb
+
+•
+
+Airplane EWCG:
+
++86.8"
+
+For today’s flight, the following useful load items are
+included:
+
+)
+
+= –67.8
+The CG is 67.8" forward of the datum, or 12.2" aft of the
+main-gear weighing points. The CG is in the same location
+relative to the main wheels, regardless of where the datum
+is located.
+
+Loading an Aircraft for Flight
+The ultimate test of whether there is a problem with an
+airplane’s weight and balance is when it is loaded and ready
+to fly. The only real importance of an airplane’s empty weight
+and EWCG is how it affects the loaded weight and balance
+of the airplane, since an airplane does not fly when it is
+empty. The pilot-in-command is responsible for the weight
+and balance of the loaded airplane, and they make the final
+decision on whether the airplane is safe to fly.
+
+•
+
+1 pilot at 180 lb at an arm of +85.5"
+
+•
+
+1 passenger at 160 lb at an arm of +118.1"
+
+•
+
+1 passenger at 210 lb at an arm of +118.1"
+
+•
+
+1 passenger at 190 lb at an arm of +118.1"
+
+•
+
+1 passenger at 205 lb at an arm of +155.7"
+
+•
+
+50 lb of baggage at an arm of +22.5"
+
+•
+
+100 lb of baggage at an arm of +178.7"
+
+•
+
+80 gal of fuel at an arm of +93.6"
+
+To calculate the loaded weight and CG of this airplane, a
+four-column chart is used in Figure 6-34.
+Based on the information in the TCDS, the maximum takeoff
+weight of this airplane is 4,200 lb and the aft-most CG limit
+Datum
+
+153.0
+88.2
+D =75.0
+
+Example Loading of an Airplane
+As an example of an airplane being loaded for flight, the
+Piper Seneca twin will be used. The TCDS for this airplane
+was shown earlier in this chapter, and its CG range and CG
+envelope were also shown.
+The information from the TCDS that pertains to this example
+loading is shown in Figure 6-33.
+
+L = 78.0
+
+Figure 6-30. The datum is aft of the main wheels at the wing
+
+trailing edge.
+
+6-19
+
+===== PDF PAGE 231 =====
+is +94.6". The loaded airplane in Figure 6-34 is 25 lb too
+heavy, and the CG is 1.82" too far aft. To make the airplane
+safe to fly, the load needs to be reduced by 25 lb and some
+of the load needs to be shifted forward. For example, the
+baggage can be reduced by 25 lb, and a full 100 lb of it can
+be placed in the more forward compartment. One passenger
+can be moved to the forward seat next to the pilot, and the
+aft-most passenger can then be moved forward.
+With the changes made, the loaded weight is now at the
+maximum allowable of 4,200 lb, and the CG has moved
+forward 4.42". [Figure 6-35] The airplane is now safe to fly.
+
+Datum
+
+19.7
+D = 7.5
+
+L = 222.0
+229.5
+
+Figure 6-31. The datum of this tail wheel airplane is the wing root
+
+leading edge.
+
+Adverse-Loaded CG Checks
+Many modern aircraft have multiple rows of seats and often
+more than one baggage compartment. After any repair or
+alteration that changes the weight and balance, the A&P
+mechanic or repairman must ensure that no legal condition of
+loading can move the CG outside of its allowable limits. To
+determine this, adverse-loaded CG checks must be performed
+and the results noted in the weight and balance revision sheet.
+During a forward adverse-loaded CG check, all useful load
+items in front of the forward CG limit are loaded and all useful
+load items behind the forward CG limit are left empty. So,
+if there are two seats and a baggage compartment located in
+front of the forward CG limit, two people weighing 170 lb
+each are seated and the maximum allowable baggage is
+placed in the baggage compartment. Any seat or baggage
+compartment located behind the forward CG limit is left
+empty. If the fuel is located behind the forward CG limit,
+minimum fuel will be shown in the tank. Minimum fuel is
+calculated by dividing the engine’s METO hp by 2.
+During an aft adverse-loaded CG check, all useful load items
+behind the aft CG limit are loaded and all useful load items
+in front of the aft CG limit are left empty. Even though the
+pilot’s seat will be in front of the aft CG limit, the pilot’s seat
+cannot be left empty. If the fuel tank is located forward of
+the aft CG limit, minimum fuel will be shown.
+Example Forward & Aft Adverse-Loaded CG Checks
+Using the stick airplane in Figure 6-36 as an example,
+adverse forward and aft CG checks are calculated. Some
+of the data for the airplane is shown in Figure 6-36, such
+as seat, baggage, and fuel information. The CG limits are
+shown, with arrows pointing in the direction where maximum
+and minimum weights are loaded. On the forward check,
+any useful load item located in front of 89" is loaded, and
+anything behind that location is left empty. On the aft check,
+maximum weight is added behind 99" and minimum weight
+in front of that location. For either of the checks, if fuel is not
+located in a maximum weight location, minimum fuel must
+
+Datum
+
+67.8
+
+D = –80
+L = 222.0
+
+142
+
+Figure 6-32. The datum is aft of the main wheels, at the intersection
+
+of the wing trailing edge and the fuselage.
+
+be accounted for. Notice that the front seats show a location
+of 82" to 88", meaning they are adjustable fore and aft. In a
+forward check, the pilot’s seat will be shown at 82", and in
+the aft check it will be at 88". Additional specifications for
+the airplane shown in Figure 6-36 are as follows:
+•
+
+Airplane empty weight:
+
+1,850 lb
+
+•
+
+EWCG: 			+92.45"
+
+•
+
+CG limits:
+
++89" to +99"
+
+•
+
+Maximum weight:
+
+3,200 lb
+
+• Fuel capacity:
+45 gal at +95"
+				(44 usable)
+
+40 gal at +102"
+				(39 usable)
+In evaluating the two extreme condition checks, the following
+key points should be recognized. [Figure 6-37]
+•
+
+The total arm is the airplane CG and is found by
+dividing the total moment by the total weight.
+
+•
+
+For the forward check, the only thing loaded behind
+the forward limit was minimum fuel.
+
+•
+
+For the forward check, the pilot and passenger seats
+were shown at the forward position of 82".
+
+6-20
+
+===== PDF PAGE 232 =====
+S/N 34-7250215 through 34-7450220:
+CG Range
+(Gear Extended) (+87.9") to (+94.6") at 4,200 lb
+(+82.0") to (+94.6") at 3,400 lb
+(+80.7") to (+94.6") at 2,780 lb
+Straight line variation between points given.
+−32 in-lb moment change due to gear
+retracting landing gear
+Empty Weight
+CG Range
+
+None
+
+Maximum
+Weight
+
+S/N 34-7250215 through 34-7450220:
+4,200 lb—Takeoff
+4,000 lb—Landing
+
+No. of Seats
+
+7 (2 at +85.5", 3 at +118.1", 2 at +155.7")
+
+Maximum
+Baggage
+
+200 lb (100 lb at +22.5, 100 lb at +178.7)
+
+Fuel Capacity
+
+98 gal (2 wing tanks) at (+93.6") (93 gal
+usable). See NOTE 1 for data on system fuel.
+
+Figure 6-33. Example loading information pertaining to TCDS.
+
+warning system, or the removal of a radio or seat, the weight
+and balance of an aircraft changes. An alteration performed
+on an aircraft, such as a cargo door being installed or a
+reinforcing plate being attached to the spar of a wing, also
+changes the weight and balance of an aircraft. Any time the
+equipment is changed or an alteration is performed, the new
+empty weight and EWCG must be determined. This can be
+accomplished by placing the aircraft on scales and weighing
+it, or by mathematically calculating the new weight and
+balance. The mathematical calculation is acceptable if the
+exact weight and arm of all the changes are known.
+
+Example Calculation After an Equipment Change
+A small, twin-engine airplane has some new equipment
+installed and some of its existing equipment removed. The
+details of the equipment changes are shown in Figure 6-38.
+To calculate the new empty weight and EWCG, a fourcolumn chart is used. [Figure 6-39] In evaluating the weight
+and balance calculation shown in Figure 6-39, the following
+key points should be recognized.
+•
+
+For the aft check, the only thing loaded in front of the
+aft limit was the pilot, at an arm of 88".
+
+The weight of the equipment needs to be identified
+with a plus or minus to signify whether it is being
+installed or removed.
+
+•
+
+•
+
+For the aft check, the fuel tank at 102" was filled, which
+more than accounted for the required minimum fuel.
+
+The sign of the moment (plus or minus) is determined
+by the signs of the weight and arm.
+
+•
+
+•
+
+For the aft check, the CG was out of limits by 0.6",
+so the airplane should not be flown this way.
+
+The strobe and the ADF are both being removed
+(negative weight), but only the strobe has a negative
+moment. This is because the arm for the ADF is
+also negative, and two negatives multiplied together
+produce a positive result.
+
+•
+
+The total arm is the airplane’s CG and is found by
+dividing the total moment by the total weight.
+
+•
+
+For the forward check, the CG was within limits, so
+the airplane could be flown this way.
+
+•
+
+Equipment Change & Aircraft Alteration
+When the equipment in an aircraft is changed, such as the
+installation of a new radar system or ground proximity
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+2,650
+
++86.80
+
+230,020.0
+
+Pilot
+
+180
+
++85.50
+
+15,390.0
+
+Passenger
+
+160
+
++118.10
+
+18,896.0
+
+Passenger
+
+210
+
++118.10
+
+24,801.0
+
+Passenger
+
+190
+
++118.10
+
+22,439.0
+
+Passenger
+
+205
+
++155.70
+
+31,918.5
+
+Baggage
+
+50
+
++22.50
+
+1,125.0
+
+Baggage
+
+100
+
++178.70
+
+17,870.0
+
+Fuel
+
+480
+
++93.60
+
+44,928.0
+
+Total
+
+4,225
+
++96.42
+
+407, 387.50
+
+Item
+Empty Weight
+
+Figure 6-34. Center of gravity calculation for Piper Seneca.
+
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+2,650
+
++86.80
+
+230,020.0
+
+Pilot
+
+180
+
++85.50
+
+15,390.0
+
+Passenger
+
+210
+
++85.50
+
+17,955.0
+
+Passenger
+
+160
+
++155.01
+
+24,801.6
+
+Passenger
+
+190
+
++118.10
+
+22,439.0
+
+Passenger
+
+205
+
++118.10
+
+24,210.5
+
+Baggage
+
+100
+
++22.50
+
+2,250.0
+
+Baggage
+
+25
+
++178.70
+
+4,467.5
+
+Fuel
+
+480
+
++93.60
+
+44,928.0
+
+Total
+
+4,200
+
++92.01
+
+386,461.0
+
+Item
+Empty Weight
+
+Figure 6-35. Center of gravity calculation for Piper Seneca with
+
+weights shifted.
+
+6-21
+
+===== PDF PAGE 233 =====
+2 at 82"–88"
+
+2 at 105"
+
+2 at 125"
+
+375 hp
+
+100 lb at 140"
+FUEL
+
+FUEL
+
+75 lb at 60"
+
+95"
+
+102"
+
+Maximum weight
+
+Minimum weight
+
+Forward limit 89"
+Minimum weight
+
+Aft limit 99"
+Maximum weight
+
+Figure 6-36. Example airplane for extreme condition checks.
+
+•
+
+The result of the equipment change is that the
+airplane’s weight was reduced by 22.5 lb and the CG
+has moved forward 0.67".
+
+Use of Ballast
+Ballast is used in an aircraft to attain the desired CG balance,
+when the CG is not within limits or is not at the location
+desired by the operator. It is usually located as far aft or as
+far forward as possible to bring the CG within limits, while
+using a minimum amount of weight.
+
+Temporary Ballast
+Temporary ballast, in the form of lead bars, heavy canvas
+bags of sand, or lead shot, is often carried in the baggage
+compartments to adjust the balance for certain flight
+conditions. The bags are marked “Ballast XX Pounds–
+Removal Requires Weight and Balance Check.” Temporary
+ballast must be secured so it cannot shift its location in flight,
+and the structural limits of the baggage compartment must not
+be exceeded. All temporary ballast must be removed before
+the aircraft is weighed.
+Temporary Ballast Formula
+The CG of a loaded airplane can be moved into its allowable
+range by shifting passengers or cargo or by adding temporary
+ballast. To determine the amount of temporary ballast needed,
+use this formula:
+Ballast weight = Total wt. × dist. needed to shift CG
+needed
+Dist. between ballast and desired CG
+Figures 6-36 and 6-40 show an aft adverse-loaded CG check
+being performed on an airplane. In this previous example,
+the airplane’s CG was out of limits by 0.6". If there were a
+need or a desire to fly the airplane loaded this way, one way
+to make it possible would be the installation of temporary
+
+ballast in the front of the airplane. The logical choice for
+placement of this ballast is the forward baggage compartment.
+The CG for this airplane is 0.6" too far aft. If the forward
+baggage compartment is used as a temporary ballast location,
+the ballast calculation will be as shown in Figure 6-41.
+Ballast weight = Total wt. × dist. needed to shift CG
+needed
+Dist. between ballast and desired CG
+
+Extreme Condition Forward Check
+Item
+
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+Empty Weight
+
+1,850.0
+
++92.45
+
+171,032.5
+
+Pilot
+
+170.0
+
++82.00
+
+13,940.0
+
+Passenger
+
+170.0
+
++82.00
+
+13,940.0
+
+Baggage
+
+75.0
+
++60.00
+
+4,500.0
+
+Fuel
+
+187.5
+
++95.00
+
+17,812.5
+
+Total
+
+2,452.5
+
++90.20
+
+221,225.0
+
+Extreme Condition Aft Check
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+1,850
+
++92.45
+
+171,032.5
+
+Pilot
+
+170
+
++88.00
+
+14,960.0
+
+2 Passengers
+
+340
+
++105.00
+
+35,700.0
+
+2 Passengers
+
+340
+
++125.00
+
+42,500.0
+
+Baggage
+
+100
+
++140.00
+
+14,000.0
+
+Fuel
+
+234
+
++102.00
+
+23,868.0
+
+Total
+
+3,034
+
++99.60
+
+302,060.5
+
+Item
+Empty Weight
+
+Figure 6-37. Center of gravity extreme conditions check.
+
+6-22
+
+===== PDF PAGE 234 =====
+=
+
+is being placed in the baggage compartment at
+an arm of 60". The difference between the two
+is 39", the quantity divided by in the formula.
+
+3,034 lb × (0.6")
+39"
+
+= 46.68 lb
+When ballast is calculated, the answer should always be
+rounded up to the next higher whole pound, or in this case, 47
+lb of ballast would be used. To ensure the ballast calculation
+is correct, the weight of the ballast should be plugged back
+into the four-column calculation and a new CG calculated.
+The aft limit for the airplane was 99", and the new CG is at
+98.96", which puts it within acceptable limits. The new CG
+did not fall exactly at 99" because the amount of needed
+ballast was rounded up to the next whole pound. If the ballast
+could have been placed farther forward, such as being bolted
+to the engine firewall, less ballast would have been needed.
+That is why ballast is always placed as far away from the
+affected limit as possible.
+In evaluating the ballast calculation shown above, the
+following key points should be recognized.
+•
+
+The loaded weight of the aircraft, as identified in the
+formula, is what the airplane weighed when the CG
+was out of limits.
+
+•
+
+The distance the CG is out of limits is the difference
+between the CG location and the CG limit, in this case
+99.6" minus 99".
+
+•
+
+The affected limit identified in the formula is the CG
+limit which has been exceeded. If the CG is too far
+aft, it is the aft limit that has been exceeded.
+
+•
+
+The aft limit for this example is 99", and the ballast
+
+Viewed as a first-class lever problem, Figure 6-42 shows
+what this ballast calculation would look like. A ballast weight
+of 46.68 lb on the left side of the lever multiplied by the arm
+of 39" (99 minus 60) would equal the aircraft weight of 3,034
+lb multiplied by the distance the CG is out of limits, which
+is 0.6" (99.6 minus 99).
+
+Permanent Ballast
+If a repair or alteration causes the aircraft CG to fall outside
+of its limit, permanent ballast can be installed. Usually,
+permanent ballast is made of blocks of lead painted red and
+marked “Permanent Ballast–Do Not Remove.” It should be
+attached to the structure so that it does not interfere with any
+control action, and attached rigidly enough that it cannot be
+dislodged by any flight maneuvers or rough landing. The
+installation of permanent ballast results in an increase in the
+aircraft empty weight, and it reduces the useful load.
+Three things must be known to determine the amount of
+ballast needed to bring the CG within limits: the amount
+the CG is out of limits, the distance between the location of
+the ballast, and the limit that is affected. If an airplane with
+an empty weight of 1,876 lb has been altered so its EWCG
+is +32.2, and CG range for weights up to 2,250 lb is +33.0
+to +46.0, permanent ballast must be installed to move the
+EWCG from +32.2 to +33.0. There is a bulkhead at fuselage
+station 228 strong enough to support the ballast. To determine
+the amount of ballast needed, use this formula:
+Ballast weight
+
+Aircraft empty wt. × dist. out of limits
+Dist. between ballast and desired CG
+
+=
+
+1,876 lb × 0.8"
+
+Airplane empty weight:
+
+2,350 lb
+
+Airplane EWCG:
+
++24.7"
+
+Airplane datum:
+
+Leading edge of the wing
+
+Item
+
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+Radio installed:
+
+5.8 lb at an arm of –28"
+
+Empty Weight
+
+2,350.0
+
++24.70
+
+58,045.0
+
+Global positioning
+system installed:
+
+Radio Install
+
++5.8
+
+–28.00
+
+–162.4
+
+7.3 lb at an arm of –26"
+
+GPS Install
+
++7.3
+
+–26.00
+
+–189.8
+
+Emergency locater
+transmitter installed:
+
+2.8 lb at an arm of +105"
+
+ELT Install
+
++2.8
+
++105.00
+
+294.0
+
+Strobe light removed:
+
+1.4 lb at an arm of +75"
+
+Strobe Remove
+
+–1.4
+
++75.00
+
+–105.0
+
+ADF Remove
+
+–3.0
+
+–28.00
+
+84.0
+
+–34.0
+
++60.00
+
+–2,040.0
+
+2,327.5
+
+24.03
+
+55,925.8
+
+=
+
+Automatic direction
+finder (ADF) removed:
+
+3 lb at an arm of –28"
+
+Seat Remove
+
+Seat removed:
+
+34 lb at an arm of +60"
+
+Total
+
+Figure 6-38. Twin-engine airplane equipment changes.
+
+Figure 6-39. Center of gravity calculation after equipment change.
+
+6-23
+
+===== PDF PAGE 235 =====
+228 – 33
+=
+
+Item
+
+1,500.8
+195
+
+Loaded Weight
+Ballast
+
+= 7.7 lb
+A block of lead weighing 7.7 pounds attached to the bulkhead
+at fuselage station 228, moves the EWCG back to its proper
+forward limit of +33. This block should be painted red and
+marked “Permanent Ballast– Do Not Remove.”
+
+Loading Graphs & CG Envelopes
+The weight and balance computation system, commonly
+called the loading graph and CG envelope system, is an
+excellent and rapid method for determining the CG location
+for various loading arrangements. This method can be applied
+to any make and model of aircraft, but is more often seen
+with small GA aircraft.
+Aircraft manufacturers using this method of weight and
+balance computation prepare graphs like those shown in
+Figures 6-43 and 6-44 for each make and model aircraft
+at the time of original certification. The graphs become
+a permanent part of the aircraft records and are typically
+found in the AFM/POH. These graphs, used in conjunction
+with the empty weight and EWCG data found in the weight
+and balance report, allow the pilot to plot the CG for the
+loaded aircraft.
+The loading graph in Figure 6-43 is used to determine the
+index number (moment value) of any item or weight that may
+be involved in loading the aircraft. To use this graph, find the
+point on the vertical scale that represents the known weight.
+Project a horizontal line to the point where it intersects the
+proper diagonal weight line (i.e., pilot, copilot, baggage).
+Where the horizontal line intersects the diagonal, project
+a vertical line downward to determine the loaded moment
+(index number) for the weight being added.
+After the moment for each item of weight has been
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+1,850
+
++92.45
+
+171,032.5
+
+Pilot
+
+170
+
++88.00
+
+14,960.0
+
+2 Passengers
+
+340
+
++105.00
+
+35,700.0
+
+2 Passengers
+
+340
+
++125.00
+
+42,500.0
+
+Baggage
+
+100
+
++140.00
+
+14,000.0
+
+Fuel
+
+234
+
++102.00
+
+23,868.0
+
+Total
+
+3,034
+
++99.60
+
+302,060.5
+
+Item
+Empty Weight
+
+Figure 6-40. Extreme condition check.
+
+Total
+
+Weight
+(lb)
+
+Arm
+(inches)
+
+Moment
+(in-lb)
+
+3,034
+
++99.60
+
+302,060.5
+
+47
+
++60.00
+
+2,820.0
+
+3,081
+
++98.96
+
+304,880.5
+
+Figure 6-41. Ballast calculation.
+
+determined, all weights are added and all moments are
+added. The total weight and moment is then plotted on the
+CG envelope. [Figure 6-44] The total weight is plotted on the
+vertical scale of the graph, with a horizontal line projected out
+from that point. The total moment is plotted on the horizontal
+scale of the graph, with a vertical line projected up from that
+point. Where the horizontal and vertical plot lines intersect
+on the graph is the CG for the loaded aircraft. If the point
+where the plot lines intersect falls inside the CG envelope,
+the aircraft CG is within limits. In Figure 6-44, there are two
+CG envelopes, one for the aircraft in the Normal Category
+and one for the aircraft in the Utility Category.
+The loading graph and CG envelope shown in Figures 6-43 and
+6-44 are for an airplane with the following specifications and
+weight and balance data.
+•
+
+Number of seats:
+
+4
+
+•
+
+Fuel capacity (usable):
+
+38 gal of Avgas
+
+•
+
+Oil capacity:
+8 qt (included in empty
+				weight)
+
+•
+
+Baggage:
+
+120 lb
+
+•
+
+Empty weight:
+
+1,400 lb
+
+•
+
+EWCG: 			38.5"
+
+•
+
+Empty weight moment:
+
+53,900 in-lb
+
+An example of loading the airplane for flight and calculating
+the total loaded weight and the total loaded moment is shown
+
+Ballast weight of
+46.68 lb at an
+arm of 60"
+
+Aircraft weight of
+3,034 lb at a
+CG of 99.6"
+
+Distance from aft limit to ballast = 39"
+
+0.6"
+Distance out
+of limits
+
+In order to balance at the aft limit of 99", the moment to the left of
+the fulcrum must equal the moment to the right of the fulcrum. The
+moment to the right is the weight of the airplane multiplied by 0.6".
+The moment to the left is the ballast weight multiplied by 39".
+
+Figure 6-42. Ballast calculation as a first class lever.
+
+6-24
+
+===== PDF PAGE 236 =====
+in Figures 6-45 and 6-46. The use of the loading graph to
+determine the moment for each of the useful load items is
+shown in Figure 6-46. The color used for each useful load
+item in Figure 6-45 matches the color used for the plot on
+the loading graph.
+The total loaded weight of the airplane is 2,258 lb and the
+total loaded moment is 99,400 in-lb. These two numbers can
+now be plotted on the CG envelope to see if the airplane is
+within CG limits. Figure 6-47 shows the CG envelope with
+the loaded weight and moment of the airplane plotted. The
+CG location shown falls within the normal category envelope,
+so the airplane is within CG limits for this category.
+
+and aft of the main rotor mast or centered between the main
+rotors of a dual rotor system. Whereas airplanes have a CG
+range only along the longitudinal axis, helicopters have both
+longitudinal and lateral CG ranges. Because the wings extend
+outward from the CG, airplanes tend to have a great deal of
+lateral stability. A helicopter, on the other hand, acts like a
+pendulum, with the weight of the helicopter hanging from
+the main rotor shaft.
+
+It is interesting to note that the lines that form the CG
+envelope are graphic plots of the forward and aft CG limits.
+In Figure 6-47, the red line is a graphic plot of the forward
+limit, and the blue and green lines are graphic plots of the
+aft limit for the two different categories.
+
+Ideally, the helicopter should have such perfect balance
+that the fuselage remains horizontal while in a hover. If
+the helicopter is too nose heavy or tail heavy while it is
+hovering, the cyclic pitch control is used to keep the fuselage
+horizontal. If the CG location is too extreme, it may not be
+possible to keep the fuselage horizontal or maintain control
+of the helicopter.
+
+Helicopter Weight & Balance
+
+Helicopter Weighing
+When a helicopter is being weighed, the location of both
+longitudinal and lateral weighing points must be known to
+determine its empty weight and EWCG. This is because
+helicopters have longitudinal and lateral CG limits. As with
+the airplane, the longitudinal arms are measured from the
+datum, with locations behind the datum being positive arms
+and locations in front of the datum being negative arms.
+Laterally, the arms are measured from the butt line, which is
+a line from the nose to the tail running through the middle of
+the helicopter. When facing forward, arms to the right of the
+butt line are positive; to the left they are negative.
+
+General Concepts
+All the terminology and concepts that apply to airplane
+weight and balance also apply generally to helicopter weight
+and balance. However, there are some specific differences
+that need to be identified.
+Most helicopters have a much more restricted CG range
+than airplanes. In some cases, this range is less than 3". The
+exact location and length of the CG range is specified for
+each helicopter and usually extends a short distance fore
+
+Before a helicopter is weighed, it must be leveled
+longitudinally and laterally. This can be done with a spirit
+
+360
+
+se
+n
+
+ge
+
+r
+
+280
+
+tP
+
+ar
+
+Re
+
+P
+
+120
+
+Fu
+
+lot
+
+160
+
+el
+
+&
+
+Fr
+
+on
+
+200
+
+s
+as
+
+r
+
+ge
+
+en
+
+as
+
+240
+
+Pi
+
+Load Weight (lb)
+
+320
+
+4
+
+6
+
+ge
+
+ga
+
+g
+Ba
+
+80
+40
+0
+
+Oi
+
+l
+
+−2
+
+0
+
+2
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+26
+
+28
+
+Moment Index (Moment/1,000)
+Figure 6-43. Aircraft loading graph.
+
+6-25
+
+===== PDF PAGE 237 =====
+2,400
+Normal Category
+
+2,200
+2,100
+2,000
+
+go
+
+ry
+
+1,900
+
+Ca
+te
+
+1,800
+
+Ut
+ilit
+y
+
+Load Aircraft Weight (lb)
+
+2,300
+
+1,700
+1,600
+1,500
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95 100 105 110 115
+
+Loaded Aircraft Moment/1,000 (in-lb)
+Figure 6-44. CG envelope.
+
+level, but often it is done with a plumb bob. For example,
+the Bell JetRanger has a location inside the aft cabin where a
+plumb can be attached and allowed to hang down to the cabin
+floor. On the cabin floor is a plate bearing cross hairs that
+correspond to the horizontal and lateral axis of the helicopter.
+When the point of the plumb bob falls in the middle of the
+cross hairs, the helicopter is level along both axes. If the tip
+of the plumb bob falls forward of this point, the nose of the
+helicopter is too low; if it falls to the left of this point, the left
+side of the helicopter is too low. In other words, the tip of the
+plumb bob always moves toward the low point.
+A Bell JetRanger helicopter is shown in Figure 6-48 with
+the leveling plate depicted on the bottom right of the figure.
+The helicopter has three jack pads, two at the front and one
+in the back. To weigh this helicopter, three jacks would be
+placed on floor scales, and the helicopter would be raised off
+the hangar floor. To level the helicopter, the jacks would be
+adjusted until the plumb bob point falls exactly in the middle
+of the cross hairs.
+
+Item
+
+Weight (lb)
+
+Moment (in-lb)
+
+1,400
+
+53,900
+
+Pilot
+
+180
+
+6,000
+
+Front Passengers
+
+140
+
+4,500
+
+Rear Passengers
+
+210
+
+15,000
+
+Baggage
+
+100
+
+9,200
+
+Fuel
+
+228
+
+10,800
+
+Total
+
+2,258
+
+99,400
+
+Aircraft Empty Weight
+
+As an example of weighing a helicopter, consider the Bell
+JetRanger in Figure 6-48, and the following specifications
+and weighing data shown in Figure 6-49.
+Using six-column charts for the calculations, the empty
+weight and the longitudinal and lateral CG for the helicopter
+is shown in Figure 6-50. Based on the calculations in
+Figure 6-50, it has been determined that the empty weight of
+the helicopter is 1,985 lb, the longitudinal CG is at +108.73",
+and the lateral CG is at –0.31".
+
+Weight and Balance—Weight-Shift Control
+Aircraft and Powered Parachutes
+The terminology, theory, and concepts of weight and balance
+that applies to airplanes also applies to weight-shift control
+aircraft and powered parachutes. Weight is still weight, and
+the balance point is still the balance point. However, there are
+a few differences that need to be discussed. Before reading
+about the specifics of weight and balance on weight-shift
+control aircraft and powered parachutes, be sure to read
+about their aerodynamic characteristics in Chapter 5, Physics.
+Weight-shift control aircraft and powered parachutes do not
+fall under the same Code of Federal Regulations that govern
+certified airplanes and helicopters and, therefore, do not have
+TCDS or the same type of FAA-mandated weight and balance
+reports. Weight and balance information and guidelines are
+left to the individual owners and the companies with which
+they work in acquiring this type of aircraft. Overall, the
+industry that is supplying these aircraft is regulating itself
+well, and the safety record is good for those aircraft being
+operated by experienced pilots.
+
+Figure 6-45. Aircraft load chart.
+
+6-26
+
+===== PDF PAGE 238 =====
+er
+ng
+se
+tP
+as
+
+360
+
+Fr
+on
+
+ar
+
+Re
+
+Pi
+lo
+
+t&
+
+280
+240
+
+Pa
+
+er
+
+ng
+
+e
+ss
+
+200
+
+Fu
+el
+
+Load Weight (lb)
+
+320
+
+160
+120
+
+e
+
+ag
+
+gg
+
+Ba
+
+80
+40
+0
+
+Oi
+
+l
+
+−2
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+22
+
+24
+
+26
+
+28
+
+Moment Index (Moment/1,000)
+Figure 6-46. Example plots on a loading graph.
+
+Weight-Shift Control Aircraft
+Weight-shift control aircraft, commonly known by the name
+“trikes,” have very few options for loading, because they have
+very few places to put useful load items. Some trikes have
+only one seat and a fuel tank, so the only variables for a flight
+are amount of fuel and weight of the pilot. Some trikes have
+two seats and a small storage bin in addition to the fuel tank.
+The most significant factor affecting the weight and balance
+of a trike is the weight of the pilot; if the aircraft has two seats,
+the weight of the passenger must be considered. The trike
+acts somewhat like a single main rotor helicopter because
+
+the weight of the aircraft is hanging like a pendulum under
+the wing. Figure 6-51 shows a two-place trike, in which the
+mast and the nose strut come together slightly below the
+wing attach point. When the trike is in flight, the weight of
+the aircraft is hanging from the wing attach point. The weight
+of the engine and fuel is behind this point, the passenger is
+almost directly below this point, and the pilot is forward of
+this point. The balance of the aircraft is determined by how
+all these weights compare.
+The wing attach point, with respect to the wing keel, is an
+adjustable location. The attach point can be loosened and
+
+2,400
+Normal Category
+
+2,200
+2,100
+2,000
+
+CG Location
+
+Forward Limit
+
+go
+
+ry
+
+1,900
+
+yC
+
+ate
+
+1,800
+
+ilit
+
+1,700
+
+Aft Limit
+
+Ut
+
+Load Aircraft Weight (lb)
+
+2,300
+
+1,600
+1,500
+50
+
+55
+
+60
+
+65
+
+70
+
+75
+
+80
+
+85
+
+90
+
+95 100 105 110 115
+
+Loaded Aircraft Moment/1,000 (in-lb)
+Figure 6-47. CG envelope example plot.
+
+6-27
+
+===== PDF PAGE 239 =====
+moved slightly forward or slightly aft, depending on the
+weight of the occupants. For example, if the aircraft is flown
+by a person that weighs more, the attach point can be moved
+a little farther aft, bringing the wing forward, to compensate
+for the change in CG. Figure 6-52 shows a close-up of the
+wing attach point, and the small amount of forward and aft
+movement that is available.
+
+Mean Aerodynamic Chord
+On small airplanes and on all helicopters, the CG location
+is identified as being a specific number of inches from the
+datum. The CG range is identified the same way. On larger
+airplanes, from private business jets to large jumbo jets, the
+CG and its range are typically identified in relation to the
+width of the wing.
+
+Powered Parachutes
+Powered parachutes have many of the same characteristics
+as weight-shift aircraft when it comes to weight and balance.
+They have the same limited loading, with only one or two seats
+and a fuel tank. They also act like a pendulum, with the weight
+of the aircraft hanging beneath the inflated wing (parachute).
+
+The width of the wing on an airplane is known as the chord.
+If the leading edge and trailing edge of a wing are parallel to
+each other, the chord of the wing is the same along the wing’s
+length. Business jets and commercial transport airplanes
+have wings that are tapered and that are swept back, so the
+width of their wings is different along their entire length.
+The width is greatest where the wing meets the fuselage
+and progressively decreases toward the tip. In relation to the
+aerodynamics of the wing, the average length of the chord
+on these tapered swept-back wings is known as the mean
+aerodynamic chord (MAC).
+
+The point at which the inflated wing attaches to the structure
+of the aircraft is adjustable to compensate for pilots and
+passengers of varying weights. With a very heavy pilot, the
+wing attach point would be moved forward to prevent the
+aircraft from being too nose heavy. Figure 6-53 shows the
+structure of a powered parachute with the adjustable wing
+attach points.
+
+Weight & Balance for Large Airplanes
+
+Weight and balance for large airplanes is almost identical
+to what it is for small airplanes, on a much larger scale. If a
+technician can weigh a small airplane and calculate its empty
+weight and EWCG, that same technician should be able to
+do it for a large airplane. The jacks and scales are larger, and
+it may take more personnel to handle the equipment, but the
+concepts and processes are the same.
+Built-In Electronic Weighing
+One difference that may be found with large airplanes is the
+incorporation of electronic load cells in the aircraft’s landing
+gear. With this type of system, the airplane can weigh itself as
+it sits on the tarmac. The load cells are built into the axles of
+the landing gear, or the landing gear strut, and they work in
+the same manner as load cells used with jacks. This system is
+currently in use on the Boeing 747-400, Boeing 777, Boeing
+787, McDonnell Douglas MD-11, and the wide body Airbus
+airplanes like the A-330, A-340, and A-380.
+The Boeing 777 utilizes two independent systems that
+provide information to the airplane’s flight management
+system (FMS). If the two systems agree on the weight and
+CG of the airplane, the data being provided are considered
+accurate and the airplane can be dispatched based on that
+information. The flight crew has access to the information
+on the flight deck by accessing the FMS and bringing up the
+weight and balance page.
+
+On these larger airplanes, the CG is identified as being at a
+location that is a specific percent of the mean aerodynamic
+chord (% MAC). For example, imagine that the MAC on
+an airplane is 100", and the CG falls 20" behind the leading
+edge of the MAC. That means it falls one-fifth of the way
+back, or at 20 percent of the MAC.
+Figure 6-54 shows a large twin-engine commercial transport
+airplane. The datum is forward of the nose of the airplane,
+and all the arms are being measured from that point. The CG
+for the airplane is shown as an arm measured in inches. In
+the lower left corner of the figure, a cross section of the wing
+is shown, with the same CG information being presented.
+To convert the CG location from inches to a percent of MAC,
+for the airplane shown in Figure 6-54, the steps are as follows:
+1.
+
+Identify the CG location, in inches from the datum.
+
+2.
+
+Identify the leading edge of the MAC (LEMAC), in
+inches from the datum.
+
+3.
+
+Subtract LEMAC from the CG location.
+
+4.
+
+Divide the difference by the length of the MAC.
+
+5.
+
+Convert the result in decimals to a percentage by
+multiplying by 100.
+As a formula, the solution to solve for the percent of MAC
+would be:
+Percent of MAC =
+
+CG – LEMAC
+× 100
+MAC
+
+The result using the numbers shown in Figure 6-52 would be:
+CG – LEMAC
+Percent of MAC =
+× 100
+		MAC
+
+6-28
+
+===== PDF PAGE 240 =====
+Forward ballast station
++13"
+
+Aft ballast station
++377"
+
+Datum
+
+Plumb bob
+Aft jack point
++204.92"
+
+il
+
+Leveling plate
++117.7"
+
+Ta
+
+ide
+
+ts
+
+gh
+Ri
+
+No
+se
+
+Forward jack point +55.16"
++25" and −25" laterally
+
+ft
+Le
+
+e
+
+sid
+
+Leveling plate with crosshairs
+Figure 6-48. Bell JetRanger.
+Datum:
+
+55.16" forward of the front jack point
+centerline
+
+Left Front
+Scale Reading:
+
+650 lb
+
+Leveling Means:
+
+Plumb line from ceiling left rear cabin to
+index plate on floor
+
+Left Front
+Jack Point:
+
+Longitudinal arm of +55.16"
+Lateral arm of –25"
+
+Longitudinal CG
+Limits:
+
++106" to +111.4" at 3,200 lb
++106" to +112.1" at 3,000 lb
++106" to +112.4" at 2,900 lb
++106" to +113.4" at 2,600 lb
++106" to +114.2" at 2,350 lb
++106" to +114.2" at 2,100 lb
+Straight line variation between points
+
+Right Front
+Scale Reading:
+
+625 lb
+
+Right Front
+Jack Point:
+
+Longitudinal arm of +55.16"
+Lateral arm of +25"
+
+After Scales
+Reading:
+
+710 lb
+
+Aft Jack Point:
+
+Longitudinal arm of +204.92"
+Lateral arm of 0.0"
+
+Notes:
+
+The helicopter was weighed with unusable
+fuel and oil. Electronic scales were used
+and zeroed with the jacks in place, so no
+tare weight needs to be accounted for.
+
+Lateral CG
+Limits:
+
+Fuel and Oil:
+
+2.3" left to 3.0" right at longitudinal CG
++ 106.0"
+3.0" left to 4.0" right at longitudinal CG
++108" to +114.2"
+Straight line variation between points
+Empty weight includes unusable fuel
+and unusable oil
+
+Figure 6-49. Specifications and weighing data for Bell JetRanger.
+
+6-29
+

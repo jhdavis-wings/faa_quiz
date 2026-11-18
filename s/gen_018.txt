@@ -1,0 +1,1549 @@
+FAA-H-8083-30B General Handbook, chapter 7 (Aircraft Materials, Hardware, & Processes), PDF pages 245-256
+
+===== PDF PAGE 245 =====
+Chapter 7
+
+Aircraft Materials, Hardware, &
+Processes
+Aircraft Metals
+
+Knowledge and understanding of the uses, strengths,
+limitations, and other characteristics of structural metals
+is vital to properly construct and maintain any equipment,
+especially airframes. In aircraft maintenance and repair,
+even a slight deviation from design specification, or the
+substitution of inferior materials, may result in the loss of
+both lives and equipment. The use of unsuitable materials can
+readily erase the finest craftsmanship. The selection of the
+correct material for a specific repair job demands familiarity
+with the most common physical properties of various metals.
+Properties of Metals
+Of primary concern in aircraft maintenance are such general
+properties of metals and their alloys as hardness, malleability,
+ductility, elasticity, toughness, density, brittleness, fusibility,
+conductivity contraction and expansion, and so forth. These
+terms are explained to establish a basis for further discussion
+of structural metals.
+
+Hardness
+Hardness refers to the ability of a material to resist abrasion,
+penetration, cutting action, or permanent distortion. Hardness
+may be increased by cold-working the metal and, in the case
+of steel and certain aluminum alloys, by heat-treatment.
+Structural parts are often formed from metals in their soft
+state and are then heat-treated to harden them so that the
+finished shape is retained. Hardness and strength are closely
+associated properties of metals.
+
+Strength
+One of the most important properties of a material is strength.
+Strength is the ability of a material to resist deformation.
+Strength is also the ability of a material to resist stress without
+breaking. The type of load or stress on the material affects
+the strength it exhibits.
+
+Density
+Density is the weight of a unit volume of a material. In
+aircraft work, the specified weight of a material per cubic
+inch is preferred since this figure can be used in determining
+the weight of a part before actual manufacture. Density is
+an important consideration when choosing a material to be
+used in the design of a part to maintain the proper weight
+and balance of the aircraft.
+
+Malleability
+A metal that can be hammered, rolled, or pressed into various
+shapes without cracking, breaking, or leaving some other
+detrimental effect, is said to be malleable. This property is
+necessary in sheet metal that is worked into curved shapes,
+such as cowlings, fairings, or wingtips. Copper is an example
+of a malleable metal.
+
+Ductility
+Ductility is the property of a metal that permits it to be
+permanently drawn, bent, or twisted into various shapes
+without breaking. This property is essential for metals used in
+making wire and tubing. Ductile metals are greatly preferred
+for aircraft use because of their ease of forming and resistance
+to failure under shock loads. For this reason, aluminum alloys
+are used for cowl rings, fuselage and wing skin, and formed
+or extruded parts, such as ribs, spars, and bulkheads. Chrome
+molybdenum steel is also easily formed into desired shapes.
+Ductility is similar to malleability.
+
+Elasticity
+Elasticity is a property that enables a metal to return to
+its original size and shape when the force that causes the
+change of shape is removed. This property is extremely
+valuable, because it would be highly undesirable to have
+a part permanently distorted after an applied load was
+removed. Each metal has a point known as the elastic limit,
+beyond which it cannot be loaded without causing permanent
+distortion. In aircraft construction, members and parts are so
+designed that the maximum loads to which they are subjected
+do not stress them beyond their elastic limits. This desirable
+property is present in spring steel.
+
+Toughness
+A material that possesses toughness withstands tearing or
+shearing and may be stretched or otherwise deformed without
+breaking. Toughness is a desirable property in aircraft metals.
+
+Brittleness
+Brittleness is the property of a metal that allows little bending
+or deformation without shattering. A brittle metal is apt to
+break or crack without change of shape. Because structural
+metals are often subjected to shock loads, brittleness is not a
+7-1
+
+===== PDF PAGE 246 =====
+very desirable property. Cast iron, cast aluminum, and very
+hard steel are examples of brittle metals.
+
+Fusibility
+Fusibility is the ability of a metal to become liquid by
+the application of heat. Metals are fused in welding.
+Steels fuse around 2,600 °F and aluminum alloys at
+approximately 1,100 °F.
+
+Conductivity
+Conductivity is the property that enables a metal to carry heat
+or electricity. The heat conductivity of a metal is especially
+important in welding, because it governs the amount of heat
+that is required for proper fusion. Conductivity of the metal,
+to a certain extent, determines the type of jig to be used to
+control expansion and contraction. In aircraft, electrical
+conductivity must also be considered in conjunction with
+bonding to eliminate radio interference.
+
+Thermal Expansion
+Thermal expansion refers to contraction and expansion that
+are reactions produced in metals as the result of heating or
+cooling. Heat applied to a metal causes it to expand or become
+larger. Cooling and heating affect the design of welding jigs,
+castings, and tolerances necessary for hot rolled material.
+Ferrous Aircraft Metals
+Many different metals are required in the repair of aircraft.
+This is a result of the varying needs with respect to strength,
+weight, durability, and resistance to deterioration of specific
+structures or parts. In addition, the particular shape or form of
+the material plays an important role. In selecting materials for
+aircraft repair, these factors (plus many others) are considered
+in relation to the mechanical and physical properties. Among
+the common materials used are ferrous metals. The term
+“ferrous” applies to the group of metals having iron as their
+principal element.
+
+Iron
+If carbon is added to iron in percentages ranging up to
+approximately 1 percent, the product is vastly superior to iron
+alone and is classified as carbon steel. Carbon steel forms
+the base of those alloy steels produced by combining carbon
+steel with other elements known to improve the properties of
+steel. A base metal (such as iron) to which small quantities of
+other metals have been added is called an alloy. The addition
+of other metals changes or improves the chemical or physical
+properties of the base metal for a particular use.
+
+Steel and Steel Alloys
+To facilitate the discussion of steels some familiarity with
+their nomenclature is desirable. A numerical index, sponsored
+
+by the Society of Automotive Engineers (SAE) and the
+American Iron and Steel Institute (AISI), is used to identify
+the chemical compositions of the structural steels. In this
+system, a four-numeral series is used to designate the plain
+carbon and alloy steels; five numerals are used to designate
+certain types of alloy steels. The first two digits indicate the
+type of steel, the second digit also generally (but not always)
+gives the approximate amount of the major alloying element,
+and the last two (or three) digits are intended to indicate
+the approximate middle of the carbon range. However, a
+deviation from the rule of indicating the carbon range is
+sometimes necessary.
+Small quantities of certain elements are present in alloy
+steels that are not specified as required. These elements are
+considered as incidental and may be present to the maximum
+amounts as follows: copper, 0.35 percent; nickel, 0.25
+percent; chromium, 0.20 percent; molybdenum, 0.06 percent.
+The list of standard steels is altered from time to time to
+accommodate steels of proven merit and to provide for
+changes in the metallurgical and engineering requirements
+of industry. [Figure 7-1]
+Metal stock is manufactured in several forms and shapes,
+including sheets, bars, rods, tubing, extrusions, forgings,
+and castings. Sheet metal is made in a number of sizes
+and thicknesses. Specifications designate thicknesses in
+thousandths of an inch. Bars and rods are supplied in a variety
+of shapes, such as round, square, rectangular, hexagonal, and
+octagonal. Tubing can be obtained in round, oval, rectangular,
+or streamlined shapes. The size of tubing is generally
+specified by outside diameter and wall thickness.
+The sheet metal is usually formed cold in machines, such as
+presses, bending brakes, draw benches, or rolls. Forgings are
+shaped or formed by pressing or hammering heated metal
+in dies. Pouring molten metal into molds produces castings.
+Machining finishes the casting.
+Spark testing is a common means of identifying various
+ferrous metals. In this test, the piece of iron or steel is held
+against a revolving grinding stone, and the metal is identified
+by the sparks thrown off. Each ferrous metal has its own
+peculiar spark characteristics. The spark streams vary from
+a few tiny shafts to a shower of sparks several feet in length.
+(Few nonferrous metals give off sparks when touched to a
+grinding stone. Therefore, these metals cannot be successfully
+identified by the spark test.)
+Identification by spark testing is often inexact unless
+performed by an experienced person or the test pieces differ
+greatly in their carbon content and alloying elements.
+
+7-2
+
+===== PDF PAGE 247 =====
+Wrought iron produces long shafts that are straw colored as
+they leave the stone and white at the end. Cast iron sparks
+are red as they leave the stone and turn to a straw color.
+Low carbon steels give off long, straight shafts having a few
+white sprigs. As the carbon content of the steel increases, the
+number of sprigs along each shaft increases and the stream
+becomes whiter in color. Nickel steel causes the spark stream
+to contain small white blocks of light within the main burst.
+Types, Characteristics, and Uses of Alloyed Steels
+Steel containing carbon in percentages ranging from 0.10 to
+0.30 percent is classed as low carbon steel. The equivalent
+SAE numbers range from 1010 to 1030. Steels of this grade
+are used for making items, such as safety wire, certain nuts,
+cable bushings, or threaded rod ends. This steel in sheet
+form is used for secondary structural parts and clamps and
+in tubular form for moderately stressed structural parts.
+Steel containing carbon in percentages ranging from 0.30 to
+0.50 percent is classed as medium carbon steel. This steel
+is especially adaptable for machining or forging and where
+surface hardness is desirable. Certain rod ends and light
+forgings are made from SAE 1035 steel.
+Steel containing carbon in percentages ranging from 0.50 to
+1.05 percent is classed as high carbon steel. The addition of
+other elements in varying quantities adds to the hardness of
+this steel. In the fully heat-treated condition, it is very hard,
+withstands high shear and wear, and has little deformation. It
+has limited use in aircraft. SAE 1095 in sheet form is used for
+making flat springs and in wire form for making coil springs.
+The various nickel steels are produced by combining nickel
+with carbon steel. Steels containing from 3 to 3.75 percent
+nickels are commonly used. Nickel increases the hardness,
+tensile strength, and elastic limit of steel without appreciably
+decreasing the ductility. It also intensifies the hardening effect
+of heat-treatment. SAE 2330 steel is used extensively for
+aircraft parts, such as bolts, terminals, keys, clevises, and pins.
+Chromium steel is high in hardness, strength, and corrosionresistant properties and is particularly adaptable for heat-treated
+forgings, which require greater toughness and strength than
+may be obtained in plain carbon steel. It can be used for articles
+such as the balls and rollers of antifriction bearings. Chromenickel or stainless steels are the corrosion resistant metals.
+The anticorrosive degree of this steel is determined by the
+surface condition of the metal, as well as by the composition,
+temperature, and concentration of the corrosive agent. The
+principal alloy of stainless steel is chromium. The corrosion
+resistant steel most often used in aircraft construction is known
+as 18-8 steel because its content is 18 percent chromium and
+8 percent nickel. One of the distinctive features of 18-8 steel
+
+is that cold-working may increase its strength.
+Stainless steel may be rolled, drawn, bent, or formed to any
+shape. Because these steels expand about 50 percent more
+than mild steel and conduct heat only about 40 percent as
+rapidly, they are more difficult to weld. Stainless steel can be
+used for almost any part of an aircraft. Some of its common
+applications are the fabrication of exhaust collectors, stacks
+and manifolds, structural and machined parts, springs,
+castings, tie rods, and control cables.
+The chrome-vanadium steels are made of approximately
+18 percent vanadium and about 1 percent chromium. When
+heat-treated, they have strength, toughness, and resistance to
+wear and fatigue. A special grade of this steel in sheet form
+can be cold formed into intricate shapes. It can be folded and
+flattened without signs of breaking or failure. SAE 6150 is
+used for making springs; chrome-vanadium with high carbon
+content, SAE 6195, is used for ball and roller bearings.
+Molybdenum in small percentages is used in combination
+with chromium to form chrome-molybdenum steel, which
+has various uses in aircraft. Molybdenum is a strong alloying
+element. It raises the ultimate strength of steel without
+affecting ductility or workability. Molybdenum steels are
+tough and wear resistant, and they harden throughout when
+heat-treated. They are especially adaptable for welding and,
+for this reason, are used principally for welded structural
+parts and assemblies. This type steel has practically replaced
+carbon steel in the fabrication of fuselage tubing, engine
+mounts, landing gears, and other structural parts. For example,
+a heat-treated SAE X4130 tube is approximately four times
+as strong as an SAE 1025 tube of the same weight and size.
+A series of chrome-molybdenum steel most used in aircraft
+construction is that series containing 0.25 to 0.55 percent
+carbon, 0.15 to 0.25 percent molybdenum, and 0.50 to 1.10
+percent chromium. These steels, when suitably heat-treated,
+are deep hardening, easily machined, readily welded by either
+gas or electric methods, and are especially adapted to high
+temperature service.
+Inconel is a nickel-chromium-iron alloy closely resembling
+stainless steel (corrosion resistant steel (CRES)) in
+appearance. Aircraft exhaust systems use both alloys
+interchangeably. Because the two alloys look very much
+alike, a distinguishing test is often necessary. One method
+of identification is to use an electrochemical technique, as
+described in the following paragraph, to identify the nickel
+(Ni) content of the alloy. Inconel has nickel content greater
+than 50 percent, and the electrochemical test detects nickel.
+The tensile strength of Inconel is 100,000 pounds per square
+7-3
+
+===== PDF PAGE 248 =====
+Series Designation
+
+Types
+
+10xx
+
+Non-sulfurized carbon steels
+
+11xx
+
+Resulfurized carbon steels (free machining)
+
+12xx
+
+Rephosphorized and resulfurized carbon steels (free machining)
+
+13xx
+
+Manganese 1.75%
+
+*23xx
+
+Nickel 3.50%
+
+*25xx
+
+Nickel 5.00%
+
+31xx
+
+Nickel 1.25%, chromium 0.65%
+
+33xx
+
+Nickel 3.50%, chromium 1.55%
+
+40xx
+
+Molybdenum 0.20 or 0.25%
+
+41xx
+
+Chromium 0.50% or 0.95%, molybdenum 0.12 or 0.20%
+
+43xx
+
+Nickel 1.80%, chromium 0.5 or 0.80%, molybdenum 0.25%
+
+44xx
+
+Molybdenum 0.40%
+
+45xx
+
+Molybdenum 0.52%
+
+46xx
+
+Nickel 1.80%, molybdenum 0.25%
+
+47xx
+
+Nickel 1.05% chromium 0.45%, molybdenum 0.20 or 0.35%
+
+48xx
+
+Nickel 3.50%, molybdenum 0.25%
+
+50xx
+
+Chromium 0.25, or 0.40 or 0.50%
+
+50xxx
+
+Carbon 1.00%, chromium 0.50%
+
+51xx
+
+Chromium 0.80, 0.90, 0.95 or 1.00%
+
+51xxx
+
+Carbon 1.00%, chromium 1.05%
+
+52xxx
+
+Carbon 1.00%, chromium 1.45%
+
+61xx
+
+Chromium 0.60, 0.80, 0.95%, vanadium 0.12%, 0.10% min., or 0.15% min.
+
+81xx
+
+Nickel 0.30%, chromium 0.40%, molybdenum 0.12%
+
+86xx
+
+Nickel 0.55%, chromium 0.50%, molybdenum 0.20%
+
+87xx
+
+Nickel 0.55%, chromium 0.05%, molybdenum 0.25%
+
+88xx
+
+Nickel 0.55%, chromium 0.05%, molybdenum 0.35%
+
+92xx
+
+Manganese 0.85%, silicon 2.00%, chromium 0 or 0.35%
+
+93xx
+
+Nickel 3.25%, chromium 1.20%, molybdenum 0.12%
+
+94xx
+
+Nickel 0.45%, chromium 0.40%, molybdenum 0.12%
+
+98xx
+
+Nickel 1.00%, chromium 0.80%, molybdenum 0.25%
+
+*Not included in the current list of standard steels
+Figure 7-1. SAE numerical index.
+
+inch (psi) annealed, and 125,000 psi when hard rolled. It is
+highly resistant to salt water and can withstand temperatures
+as high as 1,600 °F. Inconel welds readily and has working
+qualities like those of corrosion resistant steels.
+
+Electrochemical Test
+Prepare a wiring assembly as shown in Figure 7-2, and prepare
+the two reagents (ammonium fluoride and dimethylglyoxime
+solutions) placing them in separate dedicated dropper solution
+7-4
+
+===== PDF PAGE 249 =====
+bottles. Before testing, you must thoroughly clean the metal for
+the electrolytic deposit to take place. You may use nonmetallic
+hand scrubbing pads or 320–600 grit “crocus cloth” to remove
+deposits and corrosion products (thermal oxide).
+Connect the alligator clip of the wiring assembly to the bare
+metal being tested. Place one drop of a 0.05 percent reagent
+grade ammonium fluoride solution in deionized water on
+the center of a 1 inch × 1 inch sheet of filter paper. Lay the
+moistened filter paper over the bare metal alloy being tested.
+Firmly press the end of the aluminum rod over the center
+of the moist paper. Maintain connection for 10 seconds
+while rocking the aluminum rod on the filter paper. Ensure
+that the light emitting diode (LED) remains lit (indicating
+good electrical contact and current flow) during this period.
+Disconnect the wiring assembly and set it aside. Remove
+the filter paper and examine it to determine that a light spot
+appears where the connection was made.
+Deposit one drop of 1.0 percent solution of reagent grade
+dimethylglyoxime in ethyl alcohol on the filter paper (same
+side that was in contact with the test metal). A bright,
+distinctly pink spot will appear within seconds on the filter
+paper if the metal being tested is Inconel. A brown spot will
+appear if the test metal is stainless steel. Some stainless-steel
+alloys may leave a very light pink color. However, the shade
+and depth of color will be far less than would appear for
+Inconel. For flat surfaces, the test spot will be circular while
+for curved surfaces, such as the outside of a tube or pipe,
+the test spot may appear as a streak. (Refer to Figure 7-3 for
+sample test results.) This procedure should not be used in the
+heat-affected zone of weldments or on nickel coated surfaces.
+Nonferrous Aircraft Metals
+The term “nonferrous” refers to all metals that have elements
+other than iron as its base or principal constituent. This
+group includes metals, such as aluminum, titanium, copper,
+and magnesium, as well as alloyed metals, such as Monel
+and Babbitt.
+
+Aluminum & Aluminum Alloys
+Commercially pure aluminum is a white lustrous metal,
+which stands second in the scale of malleability, sixth
+in ductility, and ranks high in its resistance to corrosion.
+Aluminum combined with various percentages of other
+metals forms alloys, which are used in aircraft construction.
+Aluminum alloys with principal alloying ingredients are
+manganese, chromium, or magnesium and silicon show
+little attack in corrosive environments. Alloys with which
+substantial percentages of copper are more susceptible to
+corrosive action. The total percentage of alloying elements
+is seldom more than 6 or 7 percent in the wrought alloys.
+
+Aluminum is one of the most widely used metals in modern
+aircraft construction. It is vital to the aviation industry because
+of its high strength-to-weight ratio and its comparative ease
+of fabrication. The outstanding characteristic of aluminum
+is its lightweight. Aluminum melts at the comparatively low
+temperature of 1,250 °F. It is nonmagnetic and is an excellent
+conductor.
+Commercially pure aluminum has a tensile strength of about
+13,000 psi, but rolling or other cold-working processes
+may approximately double its strength. By alloying with
+other metals, or by using heat-treating processes, the tensile
+strength may be raised to as high as 65,000 psi or to within
+the strength range of structural steel.
+Aluminum alloys, although strong, are easily worked because
+they are malleable and ductile. They may be rolled into
+sheets as thin as 0.0017 inch or drawn into wire 0.004 inch
+in diameter. Most aluminum alloy sheet stock used in aircraft
+construction range from 0.016 to 0.096 inch in thickness;
+however, some of the larger aircraft use sheet stock that may
+be as thick as 0.356 inch.
+The various types of aluminum may be divided into two
+general classes:
+•
+
+Casting alloys (those suitable for casting in sand,
+permanent mold, or die castings)
+
+•
+
+Wrought alloys (those which may be shaped by rolling,
+drawing, or forging).
+
+Of these two, the wrought alloys are the most widely used
+in aircraft construction, being used for stringers, bulkheads,
+skin, rivets, and extruded sections.
+Aluminum casting alloys are divided into two basic groups.
+In one, the physical properties of the alloys are determined
+by the alloying elements and cannot be changed after the
+metal is cast. In the other, the alloying elements make it
+LED
+
+9v battery
+−
+
++
+
+Aluminum rod stock
+
+Alligator clip
+
+Figure 7-2. Wiring assembly schematic.
+
+7-5
+
+===== PDF PAGE 250 =====
+possible to heat-treat the casting to produce the desired
+physical properties.
+A letter preceding the alloy number identifies the casting
+alloys. When a letter precedes a number, it indicates a slight
+variation in the composition of the original alloy. This
+variation in composition is simply to impart some desirable
+quality. For example, in casting alloy 214, the addition of zinc
+to improve its pouring qualities is indicated by the letter A
+in front of the number, thus creating the designation A214.
+When castings have been heat-treated, the heat-treatment
+and the composition of the casting is indicated by the letter
+T, followed by an alloying number. An example of this
+is the sand casting alloy 355, which has several different
+compositions and tempers and is designated by 355-T6,
+355-T51, or C355-T51.
+Aluminum alloy castings are produced by one of three basic
+methods: sand mold, permanent mold, or die cast. In casting
+aluminum, it is important to note that in most cases different
+types of alloys must be used for different types of castings.
+Sand castings and die-castings require different types of
+alloys than those used in permanent molds.
+Sand and permanent mold castings are parts produced by
+pouring molten metal into a previously prepared mold,
+allowing the metal to solidify or freeze and then removing the
+part. If the mold is made of sand, the part is a sand casting; if
+it is a metallic mold (usually cast iron), the part is a permanent
+mold casting. Sand and permanent castings are produced by
+pouring liquid metal into the mold, the metal flowing under
+the force of gravity alone.
+The two principal types of sand casting alloys are 112 and
+212. Little difference exists between the two metals in
+mechanical properties, since both are adaptable to a wide
+range of products.
+The permanent mold process is a later development of the
+sand casting process, the major difference being in the
+
+Figure 7-3. Electrochemical test results of Inconel (In) and stainless
+
+steel (SS) alloys.
+
+material from which the molds are made. The advantage of
+this process is that there are fewer openings (called porosity)
+than in sand castings. The sand and the binder, which is mixed
+with the sand to hold it together, give off a certain amount of
+gas, that causes porosity in a sand casting.
+Permanent mold castings are used to obtain higher
+mechanical properties, better surfaces, or more accurate
+dimensions. There are two specific types of permanent
+mold castings: permanent metal mold with metal cores, and
+semi-permanent types containing sand cores. Because finer
+grain structure is produced in alloys subjected to the rapid
+cooling of metal molds, they are far superior to the sand type
+castings. Alloys 122, A132, and 142 are commonly used in
+permanent mold castings, the principal uses of which are in
+internal combustion engines.
+Die-castings used in aircraft are usually aluminum or
+magnesium alloy. If weight is of primary importance,
+magnesium alloy is used, because it is lighter than aluminum
+alloy. However, aluminum alloy is frequently used because
+it is stronger than most magnesium alloys.
+Forcing molten metal under pressure into a metallic die and
+allowing it to solidify produces a die-casting; then the die is
+opened and the part removed. The basic difference between
+permanent mold casting and die-casting is that in the permanent
+mold process, the metal flows into the die under gravity. In the
+die-casting operation, the metal is forced under great pressure.
+Die-castings are used where relatively large production of
+a given part is involved. Remember, any shape that can be
+forged, can be cast.
+Wrought aluminum and wrought aluminum alloys are divided
+into two general classes: non-heat-treatable alloys and heattreatable alloys.
+Non-heat-treatable alloys are those in which the mechanical
+properties are determined by the amount of cold-work
+introduced after the final annealing operation. The mechanical
+properties obtained by cold-working are destroyed by any
+subsequent heating and cannot be restored except by
+additional cold-working, which is not always possible. The
+“full hard” temper is produced by the maximum amount of
+cold-work that is commercially practicable. Metal in the “as
+fabricated” condition is produced from the ingot without any
+subsequent controlled amount of cold-working or thermal
+treatment. There is, consequently, a variable amount of strain
+hardening depending upon the thickness of the section.
+For heat-treatable aluminum alloys, the mechanical properties
+are obtained by heat-treating to a suitable temperature,
+7-6
+
+===== PDF PAGE 251 =====
+holding at that temperature long enough to allow the alloying
+constituent to enter into solid solution, and then quenching
+to hold the constituent in solution. The metal is left in a
+supersaturated, unstable state and is then age hardened either
+by natural aging at room temperature or by artificial aging at
+some elevated temperature.
+
+Wrought Aluminum
+
+the group. [Figure 7-4]
+
+Effect of Alloying Element
+1000 series: 99 percent aluminum or higher, excellent
+corrosion resistance, high thermal and electrical conductivity,
+low mechanical properties, excellent workability. Iron and
+silicon are major impurities.
+
+Wrought aluminum and wrought aluminum alloys are
+designated by a four-digit index system. The system is broken
+into three distinct groups: 1xxx group, 2xxx through 8xxx
+group, and 9xxx group (which is currently unused).
+
+2000 series: Copper is the principal alloying element.
+Solution heat-treatment, optimum properties equal to mild
+steel, poor corrosion resistance unclad. It is usually clad
+with 6000 or high purity alloy. Its best-known alloy is 2024.
+
+The first digit of a designation identifies the alloy type. The
+second digit indicates specific alloy modifications. Should the
+second number be zero, it would indicate no special control
+over individual impurities. Digits 1 through 9, however, when
+assigned consecutively as needed for the second number in
+this group, indicate the number of controls over individual
+impurities in the metal.
+
+3000 series: Manganese is the principal alloying element
+of this group, which is generally non-heat-treatable. The
+percentage of manganese that is alloy effective is 1.5 percent.
+The most popular is 3003, which is of moderate strength and
+has good working characteristics.
+
+The last two digits of the 1xxx group are used to indicate
+the hundredths of 1 percent above the original 99 percent
+designated by the first digit. Thus, if the last two digits were
+30, the alloy would contain 99 percent plus 0.30 percent of
+pure aluminum, or a total of 99.30 percent pure aluminum.
+Examples of alloys in this group are:
+•
+
+1100—99.00 percent pure aluminum with one control
+over individual impurities.
+
+•
+
+1130—99.30 percent pure aluminum with one control
+over individual impurities.
+
+•
+
+1275—99.75 percent pure aluminum with two controls
+over individual impurities.
+
+In the 2xxx through 8xxx groups, the first digit indicates the major
+alloying element used in the formation of the alloy as follows:
+•
+
+2xxx—copper
+
+•
+
+3xxx—manganese
+
+•
+
+4xxx—silicon
+
+•
+
+5xxx—magnesium
+
+•
+
+6xxx—magnesium and silicon
+
+•
+
+7xxx—zinc
+
+•
+
+8xxx—other elements
+
+In the 2xxx through 8xxx alloy groups, the second digit in
+the alloy designation indicates alloy modifications. If the
+second digit is zero, it indicates the original alloy, while digits
+1 through 9 indicate alloy modifications. The last two of the
+four digits in the designation identify the different alloys in
+
+4000 series: Silicon is the principal alloying element of
+this group and lowers melting temperature. Its primary
+use is in welding and brazing. When used in welding heattreatable alloys, this group responds to a limited amount
+of heat-treatment.
+5000 series: Magnesium is the principal alloying element.
+It has good welding and corrosion resistant characteristics.
+High temperatures (over 150 °F) or excessive cold-working
+increases susceptibility to corrosion.
+6000 series: Silicon and magnesium form magnesium
+silicide, which makes alloys heat-treatable. It is of medium
+strength, good forming qualities, and has corrosion
+resistant characteristics.
+7000 series: Zinc is the principal alloying element. The
+most popular alloy of the series is 6061. When coupled with
+magnesium, it results in heat-treatable alloys of very high
+strength. It usually has copper and chromium added. The
+principal alloy of this group is 7075.
+
+Hardness Identification
+Where used, the temper designation follows the alloy
+designation and is separated from it by a dash (i.e., 7075T6, 2024-T4, and so forth). The temper designation consists
+of a letter indicating the basic temper, which may be more
+specifically defined by the addition of one or more digits.
+These designations are as follows:
+•
+
+F—as fabricated
+
+•
+
+O—annealed, recrystallized (wrought products only)
+
+•
+
+H—strain hardened
+
+7-7
+
+===== PDF PAGE 252 =====
+•
+
+H1 (plus one or more digits)—strain hardened only
+
+•
+
+H2 (plus one or more digits)—strain hardened and
+partially annealed
+
+•
+
+H3 (plus one or more digits)—strain hardened and
+stabilized
+
+The digit following the designations H1, H2, and H3 indicates
+the degree of strain hardening, number 8 representing the
+ultimate tensile strength equal to that achieved by a cold
+reduction of approximately 75 percent following a full anneal,
+0 representing the annealed state.
+
+Magnesium & Magnesium Alloys
+Magnesium, the world’s lightest structural metal, is a silvery
+white material weighing only two-thirds as much as aluminum.
+Magnesium does not possess sufficient strength in its pure state
+for structural uses, but when alloyed with zinc, aluminum, and
+manganese, it produces an alloy having the highest strengthto-weight ratio of any of the commonly used metals.
+Magnesium is probably more widely distributed in nature
+than any other metal. It can be obtained from such ores
+as dolomite and magnesite, as well as from seawater,
+underground brines, and waste solutions of potash. With
+about 10 million pounds of magnesium in one cubic mile of
+
+seawater, there is no danger of a dwindling supply.
+Some of today’s aircraft require more than one-half ton of this
+metal for use in hundreds of vital spots. Some wing panels are
+fabricated entirely from magnesium alloys, weigh 18 percent
+less than standard aluminum panels, and have flown hundreds
+of satisfactory hours. Among the aircraft parts that have been
+made from magnesium with a substantial savings in weight
+are nosewheel doors, flap cover skin, aileron cover skin, oil
+tanks, floorings, fuselage parts, wingtips, engine nacelles,
+instrument panels, radio masts, hydraulic fluid tanks, oxygen
+bottle cases, ducts, and seats.
+Magnesium alloys possess good casting characteristics. Their
+properties compare favorably with those of cast aluminum.
+In forging, hydraulic presses are ordinarily used, although,
+under certain conditions, forging can be accomplished in
+mechanical presses or with drop hammers.
+Magnesium alloys are subject to such treatments as annealing,
+quenching, solution heat-treatment, aging, and stabilizing.
+Sheet and plate magnesium are annealed at the rolling mill.
+The solution heat-treatment is used to put as much of the
+alloying ingredients as possible into solid solution, which
+results in high tensile strength and maximum ductility.
+Aging is applied to castings following heat-treatment where
+
+Percentage of Alloying Elements
+Aluminum and normal impurities constitute remainder
+
+Alloy
+Copper
+
+Silicon
+
+Manganese Magnesium
+
+Zinc
+
+Nickel
+
+Chromium
+
+Lead
+
+Bismuth
+
+1100
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+3003
+
+—
+
+—
+
+1.2
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2011
+
+5.5
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+0.5
+
+0.5
+
+2014
+
+4.4
+
+0.8
+
+0.8
+
+0.4
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2017
+
+4.0
+
+—
+
+0.5
+
+0.5
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2117
+
+2.5
+
+—
+
+—
+
+0.3
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2018
+
+4.0
+
+—
+
+—
+
+0.5
+
+—
+
+2.0
+
+—
+
+—
+
+—
+
+2024
+
+4.5
+
+—
+
+0.6
+
+1.5
+
+—
+
+—
+
+—
+
+—
+
+—
+
+2025
+
+4.5
+
+0.8
+
+0.8
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+4032
+
+0.9
+
+12.5
+
+—
+
+1.0
+
+—
+
+0.9
+
+—
+
+—
+
+—
+
+6151
+
+—
+
+1.0
+
+—
+
+0.6
+
+—
+
+—
+
+0.25
+
+—
+
+—
+
+5052
+
+—
+
+—
+
+—
+
+2.5
+
+—
+
+—
+
+0.25
+
+—
+
+—
+
+6053
+
+—
+
+0.7
+
+—
+
+1.3
+
+—
+
+—
+
+0.25
+
+—
+
+—
+
+6061
+
+0.25
+
+0.6
+
+—
+
+1.0
+
+—
+
+—
+
+0.25
+
+—
+
+—
+
+7075
+
+1.6
+
+—
+
+—
+
+2.5
+
+5.6
+
+—
+
+0.3
+
+—
+
+—
+
+Figure 7-4. Nominal composition of wrought aluminum alloys.
+
+7-8
+
+===== PDF PAGE 253 =====
+maximum hardness and yield strength are desired.
+Magnesium embodies fire hazards of an unpredictable nature.
+When in large sections, its high thermal conductivity makes
+it difficult to ignite and prevents it from burning. It does not
+burn until the melting point of 1,204 °F is reached. However,
+magnesium dust and fine chips are ignited easily. Precautions
+must be taken to avoid this if possible. Should a fire occur, it
+could be extinguished with an extinguishing powder, such as
+soapstone or graphite. Water or any standard liquid or foam
+fire extinguisher causes magnesium to burn more rapidly and
+can cause explosions.
+Magnesium alloys produced in the United States contain
+varying proportions of aluminum, manganese, and zinc. A
+letter of the alphabet designates these alloys, with the number
+1 indicating high purity and maximum corrosion resistance.
+Many of the magnesium alloys manufactured in the United
+States are produced by the Dow Chemical Company and
+have been given the trade name of Dow-metal™ alloys. To
+distinguish between these alloys, each is assigned a letter.
+Thus, we have Dow-metal™ J, Dow-metal™ M, and so forth.
+Another manufacturer of magnesium alloys is the American
+Magnesium Corporation, a subsidiary of the Aluminum
+Company of America. This company uses an identification
+system like that used for aluminum alloys, with the exception
+that magnesium alloy numbers are preceded with the letters
+AM. Thus, AM240C is a cast alloy, and AM240C4 is the
+same alloy in the heat-treated state. AM3S0 is an annealed
+wrought alloy, and AM3SRT is the same alloy rolled after
+heat-treatment.
+
+Titanium and Titanium Alloys
+An English priest named Gregot discovered titanium. A crude
+separation of titanium ore was accomplished in 1825. In 1906,
+enough pure titanium was isolated in metallic form to permit
+a study. Following this study, in 1932, an extraction process
+was developed and became the first commercial method
+for producing titanium. The United States Bureau of Mines
+began making titanium sponge in 1946, and 4 years later the
+melting process began.
+The use of titanium is widespread. It is used in many
+commercial enterprises and is in constant demand for such
+items as pumps, screens, and other tools and fixtures where
+corrosion attack is prevalent. In aircraft construction and
+repair, titanium is used for fuselage skins, engine shrouds,
+firewalls, longerons, frames, fittings, air ducts, and fasteners.
+Titanium is used for making compressor disks, spacer rings,
+compressor blades and vanes, through bolts, turbine housings
+
+and liners, and miscellaneous hardware for turbine engines.
+Titanium, in appearance, is like stainless steel. One quick
+method used to identify titanium is the spark test. Titanium
+gives off a brilliant white trace ending in a brilliant white
+burst. Also, moistening the titanium and using it to draw a
+line on a piece of glass can accomplish identification. This
+leaves a dark line similar in appearance to a pencil mark.
+Titanium falls between aluminum and stainless steel in terms
+of elasticity, density, and elevated temperature strength. It
+has a melting point from 2,730 °F to 3,155 °F, low thermal
+conductivity, and a low coefficient of expansion. It is light,
+strong, and resistant to stress corrosion cracking. Titanium is
+approximately 60 percent heavier than aluminum and about
+50 percent lighter than stainless steel.
+Because of the high melting point of titanium, high
+temperature properties are disappointing. The ultimate
+yield strength of titanium drops rapidly above 800 °F.
+The absorption of oxygen and nitrogen from the air at
+temperatures above 1,000 °F makes the metal so brittle on
+long exposure that it soon becomes worthless. However,
+titanium does have some merit for short time exposure up to
+3,000 °F where strength is not important. Aircraft firewalls
+demand this requirement.
+Titanium is nonmagnetic and has an electrical resistance
+comparable to that of stainless steel. Some of the base alloys
+of titanium are quite hard. Heat-treating and alloying do not
+develop the hardness of titanium to the high levels of some
+of the heat-treated alloys of steel. It was only recently that
+a heat-treatable titanium alloy was developed. Prior to the
+development of this alloy, heating and rolling was the only
+method of forming that could be accomplished. However, it
+is possible to form the new alloy in the soft condition and
+heat-treat it for hardness.
+Iron, molybdenum, and chromium are used to stabilize
+titanium and produce alloys that quench-harden and ageharden. The addition of these metals also adds ductility.
+The fatigue resistance of titanium is greater than that of
+aluminum or steel.
+Titanium becomes softer as the degree of purity is increased.
+It is not practical to distinguish between the various grades of
+commercially pure or unalloyed titanium by chemical analysis;
+therefore, the grades are determined by mechanical properties.
+Titanium Designations
+The A-B-C classification of titanium alloys was established
+to provide a convenient and simple means of describing all
+titanium alloys. Titanium and titanium alloys possess three
+
+7-9
+
+===== PDF PAGE 254 =====
+basic types of crystals: A (alpha), B (beta), and C (combined
+alpha and beta). Their characteristics are:
+•
+
+A (alpha)—all-around performance; good weld ability;
+tough and strong both cold and hot; and resistant to
+oxidation.
+
+•
+
+B (beta)—bendability; excellent bend ductility; strong
+both cold and hot, but vulnerable to contamination.
+
+•
+
+C (combined alpha and beta for compromise
+performances)—strong when cold and warm, but weak
+when hot; good bendability; moderate contamination
+resistance; excellent forge ability.
+
+Titanium is manufactured for commercial use in two basic
+compositions: commercially-pure titanium and alloyed
+titanium. A-55 is an example of commercially-pure titanium.
+It has yield strength of 55,000 to 80,000 psi and is a generalpurpose grade for moderate to severe forming. It is sometimes
+used for nonstructural aircraft parts and for all types of
+corrosion-resistant applications, such as tubing. Type A-70
+titanium is closely related to type A-55 but has yield strength
+of 70,000 to 95,000 psi. It is used where higher strength is
+required, and it is specified for many moderately stressed
+aircraft parts. For many corrosion applications, it is used
+interchangeably with type A-55. Both type A-55 and type
+A-70 is weldable.
+One of the widely-used titanium base alloys is designated
+as C-110M. It is used for primary structural members and
+aircraft skin, has 110,000 psi minimum yield strength, and
+contains 8 percent manganese.
+Type A-110AT is a titanium alloy that contains 5 percent
+aluminum and 2.5 percent tin. It also has high minimum yield
+strength at elevated temperatures with the excellent welding
+characteristics inherent in alpha-type titanium alloys.
+Corrosion Characteristics
+The corrosion resistance of titanium deserves special
+mention. The resistance of the metal to corrosion is caused
+by the formation of a protective surface film of stable oxide
+or chemi-absorbed oxygen. Film is often produced by the
+presence of oxygen and oxidizing agents.
+Corrosion of titanium is uniform. There is little evidence of
+pitting or other serious forms of localized attack. Normally,
+it is not subject to stress corrosion, corrosion fatigue,
+intergranular corrosion, or galvanic corrosion. Its corrosion
+resistance is equal or superior to 18-8 stainless steel.
+Laboratory tests with acid and saline solutions show titanium
+polarizes readily. The net effect, in general, is to decrease
+current flow in galvanic and corrosion cells. Corrosion
+
+currents on the surface of titanium and metallic couples are
+naturally restricted. This partly accounts for good resistance
+to many chemicals; also, the material may be used with some
+dissimilar metals with no harmful galvanic effect on either.
+
+Copper and Copper Alloys
+Copper is one of the most widely distributed metals. It is
+the only reddish-colored metal and is second only to silver
+in electrical conductivity. Its use as a structural material is
+limited because of its great weight. However, some of its
+outstanding characteristics, such as its high electrical and heat
+conductivity, in many cases overbalance the weight factor.
+Because it is very malleable and ductile, copper is ideal for
+making wire. It is corroded by salt water but is not affected
+by fresh water. The ultimate tensile strength of copper varies
+greatly. For cast copper, the tensile strength is about 25,000
+psi, and when cold rolled or cold drawn, its tensile strength
+increases to a range of 40,000 to 67,000 psi.
+In aircraft, copper is used primarily in the electrical system
+for bus bars, bonding, and as lock wire.
+Beryllium copper is one of the most successful of all
+the copper base alloys. It is a recently developed alloy
+containing about 97 percent copper, 2 percent beryllium, and
+sufficient nickel to increase the percentage of elongation.
+The most valuable feature of this metal is that the physical
+properties can be greatly stepped up by heat-treatment, the
+tensile strength rising from 70,000 psi in the annealed state
+to 200,000 psi in the heat-treated state. The resistance of
+beryllium copper to fatigue and wear makes it suitable for
+diaphragms, precision bearings and bushings, ball cages,
+and spring washers.
+Brass is a copper alloy containing zinc and small amounts
+of aluminum, iron, lead, manganese, magnesium, nickel,
+phosphorous, and tin. Brass with a zinc content of 30 to 35
+percent is very ductile, but that containing 45 percent has
+relatively high strength.
+Muntz metal is a brass composed of 60 percent copper and 40
+percent zinc. It has excellent corrosion-resistant qualities in
+salt water. Its strength can be increased by heat-treatment. As
+cast, this metal has an ultimate tensile strength of 50,000 psi,
+and it can be elongated 18 percent. It is used in making bolts
+and nuts, as well as parts that come in contact with salt water.
+Red brass, sometimes termed “bronze” because of its tin
+content, is used in fuel and oil line fittings. This metal has
+good casting and finishing properties and machines freely.
+Bronzes are copper alloys containing tin. The true bronzes have
+up to 25 percent tin, but those with less than 11 percent are
+7-10
+
+===== PDF PAGE 255 =====
+most useful, especially for such items as tube fittings in aircraft.
+Among the copper alloys are the copper aluminum alloys,
+of which the aluminum bronzes rank very high in aircraft
+usage. They would find greater usefulness in structures if
+it were not for their strength-to-weight ratio as compared
+with alloy steels. Wrought aluminum bronzes are almost as
+strong and ductile as medium carbon steel, and they possess
+a high degree of resistance to corrosion by air, salt water, and
+chemicals. They are readily forged, hot or cold rolled, and
+many react to heat-treatment.
+These copper base alloys contain up to 16 percent of aluminum
+(usually 5 to 11 percent), to which other metals, such as iron,
+nickel, or manganese, may be added. Aluminum bronzes have
+good tearing qualities, great strength, hardness, and resistance
+to both shock and fatigue. Because of these properties, they are
+used for diaphragms, gears, and pumps. Aluminum bronzes
+are available in rods, bars, plates, sheets, strips, and forgings.
+Cast aluminum bronzes, using about 89 percent copper, 9
+percent aluminum, and 2 percent of other elements, have
+high strength combined with ductility and are resistant to
+corrosion, shock, and fatigue. Because of these properties,
+cast aluminum bronze is used in bearings and pump parts.
+These alloys are useful in areas exposed to salt water and
+corrosive gases.
+Manganese bronze is an exceptionally high strength, tough,
+corrosion-resistant copper zinc alloy containing aluminum,
+manganese, iron, and occasionally, nickel or tin. This metal
+can be formed, extruded, drawn, or rolled to any desired
+shape. In rod form, it is generally used for machined parts
+for aircraft landing gears and brackets.
+Silicon bronze is a more recent development composed of
+about 95 percent copper, 3 percent silicon, and 2 percent
+manganese, zinc, iron, tin, and aluminum. Although not a
+bronze in the true sense because of its small tin content, silicon
+bronze has high strength and great corrosion resistance.
+
+Monel has been successfully used for gears and chains to
+operate retractable landing gears and for structural parts subject
+to corrosion. In aircraft, Monel is used for parts demanding
+both strength and high resistance to corrosion, such as exhaust
+manifolds and carburetor needle valves and sleeves.
+K-Monel
+K-Monel is a nonferrous alloy containing mainly nickel,
+copper, and aluminum. Adding a small amount of aluminum
+to the Monel formula produces it. It is corrosion resistant and
+capable of being hardened by heat-treatment.
+K-Monel has been successfully used for gears and structural
+members in aircraft, which are subjected to corrosive
+attacks. This alloy is nonmagnetic at all temperatures. Both
+oxyacetylene and electric arc welding have successfully
+welded K-Monel sheet.
+
+Nickel & Nickel Alloys
+There are basically two nickel alloys used in aircraft: Monel
+and Inconel. Monel contains about 68 percent nickel and 29
+percent copper, plus small amounts of iron and manganese.
+Nickel alloys can be welded or easily machined. Some of the
+nickel Monel, especially the nickel Monels containing small
+amounts of aluminum, are heat-treatable to similar tensile
+strengths of steel. Nickel Monel is used in gears and parts
+that require high strength and toughness, such as exhaust
+systems that require high strength and corrosion resistance
+at elevated temperatures.
+Inconel alloys of nickel produce a high strength, high
+temperature alloy containing approximately 80 percent
+nickel, 14 percent chromium, and small amounts of iron
+and other elements. The nickel Inconel alloys are frequently
+used in turbine engines because of their ability to maintain
+their strength and corrosion resistance under extremely hightemperature conditions.
+
+Monel
+Monel, the leading high nickel alloy, combines the properties
+of high strength and excellent corrosion resistance. This metal
+consists of 68 percent nickel, 29 percent copper, 0.2 percent
+iron, 1 percent manganese, and 1.8 percent of other elements.
+It cannot be hardened by heat-treatment.
+
+Inconel and stainless steel are similar in appearance and are
+frequently found in the same areas of the engine. Sometimes
+it is important to identify the difference between the metal
+samples. A common test is to apply one drop of cupric
+chloride and hydrochloric acid solution to the unknown metal
+and allow it to remain for 2 minutes. At the end of the soak
+period, a shiny spot indicates the material is nickel Inconel,
+and a copper-colored spot indicates stainless steel.
+
+Monel, adaptable to casting and hot or cold-working, can be
+successfully welded. It has working properties like those of
+steel. When forged and annealed, it has a tensile strength of
+80,000 psi. This can be increased by cold-working to 125,000
+psi, sufficient for classification among the tough alloys.
+
+Substitution of Aircraft Metals
+In selecting substitute metals for the repair and maintenance
+of aircraft, it is very important to check the appropriate
+structural repair manual. Aircraft manufacturers design
+structural members to meet a specific load requirement for an
+7-11
+
+===== PDF PAGE 256 =====
+aircraft. The methods of repairing these members, apparently
+similar in construction, vary with different aircraft.
+
+affecting the interior grain structure, as well as the exterior
+to give the best possible structure throughout.
+
+Four requirements must be kept in mind when selecting
+substitute metals. The first and most important of these is
+maintaining the original strength of the structure. The other
+three are maintaining contour or aerodynamic smoothness;
+maintaining original weight, if possible, or keeping added
+weight to a minimum; and maintaining the original corrosionresistant properties of the metal.
+
+Hammering can be used only on relatively small pieces. Since
+hammering transmits its force almost instantly, its effect is
+limited to a small depth. Thus, it is necessary to use a very
+heavy hammer or to subject the part to repeated blows to
+ensure complete working of the section. If the force applied
+is too weak to reach the center, the finished forged surface
+is concave. If the center was properly worked, the surface is
+convex or bulged. The advantage of hammering is that the
+operator has control over both the amount of pressure applied
+and the finishing temperature and can produce small parts
+of the highest grade. This type of forging is usually referred
+to as smith forging. It is used extensively where only a
+small number of parts are needed. Considerable machining
+time and material are saved when a part is smith forged to
+approximately the finished shape.
+
+Metalworking Processes
+There are three methods of metalworking: hot-working,
+cold-working, and extruding. The method used depends on
+the metal involved and the part required, although in some
+instances both hot and cold-working methods may be used
+to make a single part.
+
+Hot-Working
+Almost all steel is hot-worked from the ingot into some form
+from which it is either hot or cold-worked to the finished
+shape. When an ingot is stripped from its mold, its surface is
+solid, but the interior is still molten. The ingot is then placed
+in a soaking pit, which retards loss of heat, and the molten
+interior gradually solidifies. After soaking, the temperature
+is equalized throughout the ingot, then it is reduced to
+intermediate size by rolling, making it more readily handled.
+The rolled shape is called a bloom when its section
+dimensions are 6 inches × 6 inches or larger and square. The
+section is called a billet when it is square and less than 6
+inches × 6 inches. Rectangular sections, which have a width
+greater than twice their thickness, are called slabs. The slab
+is the intermediate shape from which sheets are rolled.
+Blooms, billets, or slabs are heated above the critical range
+and rolled into a variety of shapes of uniform cross section.
+Common rolled shapes are sheet, bar, channel, angle, and
+I-beam. As discussed later in this chapter, hot-rolled material
+is frequently finished by cold rolling or drawing to obtain
+accurate finish dimensions and a bright, smooth surface.
+Complicated sections, which cannot be rolled, or sections of
+which only a small quantity is required, are usually forged.
+Forging of steel is a mechanical working at temperatures
+above the critical range to shape the metal as desired. Forging
+is done either by pressing or hammering the heated steel until
+the desired shape is obtained.
+Pressing is used when the parts to be forged are large and
+heavy; this process also replaces hammering where highgrade steel is required. Since a press is slow acting, its force
+is uniformly transmitted to the center of the section, thus
+
+Steel is often harder than necessary and too brittle for most
+practical uses when put under severe internal strain. To relieve
+such strain and reduce brittleness, it is tempered after being
+hardened. This consists of heating the steel in a furnace to a
+specified temperature and then cooling it in air, oil, water, or
+a special solution. Temper condition refers to the condition of
+metal or metal alloys with respect to hardness or toughness.
+Rolling, hammering, or bending these alloys, or heat-treating
+and aging them, causes them to become tougher and harder.
+At times, these alloys become too hard for forming and must
+be re-heat-treated or annealed.
+Metals are annealed to relieve internal stresses, soften the metal,
+make it more ductile, and refine the grain structure. Annealing
+consists of heating the metal to a prescribed temperature,
+holding it there for a specified length of time, and then cooling
+the metal back to room temperature. To produce maximum
+softness, the metal must be cooled very slowly. Some metals
+must be furnace cooled; others may be cooled in air.
+Normalizing applies to iron base metals only. Normalizing
+consists of heating the part to the proper temperature, holding it
+at that temperature until it is uniformly heated, and then cooling
+it in still air. Normalizing is used to relieve stresses in metals.
+Strength, weight, and reliability are three factors that
+determine the requirements to be met by any material used in
+airframe construction and repair. Airframes must be strong and
+yet as lightweight as possible. There are very definite limits to
+which increases in strength can be accompanied by increases
+in weight. An airframe so heavy that it could not support a few
+hundred pounds of additional weight would be of little use.
+All metals, in addition to having a good strength-to7-12
+

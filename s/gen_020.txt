@@ -1,0 +1,1936 @@
+FAA-H-8083-30B General Handbook, chapter 7 (Aircraft Materials, Hardware, & Processes), PDF pages 269-282
+
+===== PDF PAGE 269 =====
+Solution Heat—Treatment
+
+Precipitation Heat—Treatment
+
+Alloy
+Temperature
+(°F)
+
+Quench
+
+Temperature
+Designation
+
+Temperature
+(°F)
+
+2017
+
+930–950
+
+Cold water
+
+T4
+
+T
+
+2117
+
+930–950
+
+Cold water
+
+T4
+
+T
+
+2024
+
+910–930
+
+Cold water
+
+T4
+
+T
+
+6053
+
+960–980
+
+Water
+
+T4
+
+445–455
+
+960–980
+
+7075
+
+870
+
+Water
+
+T4
+
+Water
+
+Temperature
+Designation
+
+1–2 hours
+or
+8 hours
+
+T5
+
+T6
+
+345–355
+
+18 hours
+or
+8 hours
+
+250
+
+24 hours
+
+T6
+
+345–355
+6061
+
+Time of Aging
+
+315–325
+
+T6
+
+T6
+
+Figure 7-8. Conditions for heat-treatment of aluminum alloys.
+
+Generally, the aging treatments are used merely to relieve
+stress and stabilize the alloys to prevent dimensional changes
+later, especially during or after machining. Both yield strength
+and hardness are improved somewhat by this treatment at
+the expense of a slight amount of ductility. The corrosion
+resistance is also improved, making it closer to the “as cast”
+alloy.
+Precipitation heat-treatment temperatures are considerably
+lower than solution heat-treatment temperatures and range
+from 325 °F to 500 °F. Soaking time ranges from 4 to 18 hours.
+Heat-Treatment of Titanium
+Titanium is heat-treated for the following purposes:
+•
+
+Relief of stresses set up during cold forming or
+machining.
+
+•
+
+Annealing after hot-working or cold-working, or
+to provide maximum ductility for subsequent coldworking.
+
+•
+
+Thermal hardening to improve strength.
+
+Stress Relieving
+Stress relieving is generally used to remove stress concentrations
+resulting from forming of titanium sheet. It is performed at
+temperatures ranging from 650 °F to 1,000 °F. The time at
+temperature varies from a few minutes for a very thin sheet to
+an hour or more for heavier sections. A typical stress relieving
+treatment is 900 °F for 30 minutes, followed by an air cool.
+The discoloration or scale that forms on the surface of the
+metal during stress relieving is easily removed by pickling
+in acid solutions. The recommended solution contains 10 to
+20 percent nitric acid and 1 to 3 percent hydrofluoric acid.
+The solution should be at room temperature or slightly above.
+
+Full Annealing
+The annealing of titanium and titanium alloys provides
+toughness, ductility at room temperature, dimensional
+and structural stability at elevated temperatures, and
+improved machinability.
+The full anneal is usually called for as preparation for further
+working. It is performed at 1,200 to 1,650 °F. The time at
+temperature varies from 16 minutes to several hours, depending
+on the thickness of the material and the amount of cold-work
+to be performed. The usual treatment for the commonly used
+alloys is 1,300 °F for 1 hour, followed by an air cool. A full
+anneal generally results in sufficient scale formation to require
+the use of caustic descaling, such as sodium hydride salt bath.
+
+Thermal Hardening
+Unalloyed titanium cannot be heat-treated, but the alloys
+commonly used in aircraft construction can be strengthened
+by thermal treatment, usually at some sacrifice in ductility.
+For best results, a water quench from 1,450 °F, followed by
+reheating to 900 °F for 8 hours is recommended.
+
+Case Hardening
+The chemical activity of titanium and its rapid absorption of
+oxygen, nitrogen, and carbon at relatively low temperatures
+make case hardening advantageous for special applications.
+Nitriding, carburizing, or carbonitriding can be used to produce
+a wear-resistant case of 0.0001 to 0.0002 inch in depth.
+Hardness Testing
+Hardness testing is a method of determining the results of heattreatment, as well as the state of a metal prior to heat-treatment.
+Since hardness values can be tied in with tensile strength values
+and, in part, with wear resistance. Hardness tests are a valuable
+
+7-25
+
+===== PDF PAGE 270 =====
+check of heat-treat control and of material properties.
+Practically all hardness testing equipment now uses the
+resistance to penetration as a measure of hardness. Included
+among the better-known hardness testers are the Brinell and
+Rockwell, both of which are described and illustrated in this
+section. Also included is the Barcol tester, a popular portabletype hardness tester currently in use.
+
+Brinell Tester
+The Brinell hardness tester uses a hardened spherical ball
+that is forced into the surface of the metal. [Figure 7-9] This
+ball is 10 millimeters (0.3937 inch) in diameter. A pressure of
+3,000 kilograms is used for ferrous metals and 500 kilograms
+for nonferrous metals. The pressure must be maintained at
+least 10 seconds for ferrous metals and at least 30 seconds
+for nonferrous metals. The load is applied by hydraulic
+pressure. A hand pump or an electric motor, depending on the
+model of tester, builds up the hydraulic pressure. A pressure
+gauge indicates the amount of pressure. There is a release
+mechanism for relieving the pressure after the test has been
+made, and a calibrated microscope is provided for measuring
+the diameter of the impression in millimeters. The machine
+has various shaped anvils for supporting the specimen and
+an elevating screw for bringing the specimen in contact with
+the ball penetrator. These are attachments for special tests.
+To determine the Brinell hardness number for a metal,
+measure the diameter of the impression using the calibrated
+microscope furnished with the tester. Then convert the
+measurement into the Brinell hardness number on the
+conversion table furnished with the tester.
+
+Rockwell Tester
+The Rockwell hardness tester measures the resistance to
+penetration, as does the Brinell tester. [Figure 7-10] Instead
+of measuring the diameter of the impression, the Rockwell
+tester measures the depth, and the hardness is indicated
+directly on a dial attached to the machine. The dial numbers
+in the outer circle are black and the inner numbers are red.
+Rockwell hardness numbers are based on the difference
+between the depth of penetration at major and minor loads.
+The greater this difference, the lower the hardness number
+and the softer the material.
+Two types of penetrators are used with the Rockwell tester:
+a diamond cone and a hardened steel ball. The load, which
+forces the penetrator into the metal, is called the major load
+and is measured in kilograms. The results of each penetrator
+and load combination are reported on separate scales
+designated by letters. The penetrator, the major load, and the
+scale vary with the kind of metal being tested.
+
+For hardened steels, the diamond penetrator is used; the
+major load is 150 kilograms; and the hardness is read on the
+“C” scale. When this reading is recorded, the letter “C” must
+precede the number indicated by the pointer. The C-scale
+setup is used for testing metals ranging in hardness from
+C-20 to the hardest steel (usually about C-70). If the metal is
+softer than C-20, the B-scale setup is used. With this setup,
+the 1⁄16-inch ball is used as a penetrator; the major load is 100
+kilograms; and the hardness is read on the B-scale.
+In addition to the C and B scales, there are other setups for
+special testing. The scales, penetrators, major loads, and dial
+numbers to be read are listed in Figure 7-11.
+The Rockwell tester is equipped with a weight pan, and
+two weights are supplied with the machine. One weight
+is marked in red. The other weight is marked in black.
+With no weight in the weight pan, the machine applies
+a major load of 60 kilograms. If the scale setup calls for
+a 100-kilogram load, the red weight is placed in the pan.
+For a 150-kilogram load, the black weight is added to the
+red weight. The black weight is always used with the red
+weight; it is never used alone.
+Practically all testing is done with either the B-scale setup or
+the C-scale setup. For these scales, the colors may be used as
+a guide in selecting the weight (or weights) and in reading
+the dial. For the B-scale test, use the red weight and read the
+red numbers. For a C-scale test, add the black weight to the
+red weight and read the black numbers.
+In setting up the Rockwell machine, use the diamond
+penetrator for testing materials known to be hard. If the
+hardness is unknown, try the diamond, since the steel ball
+may be deformed if used for testing hard materials. If the
+metal tests below C-22, then change to the steel ball.
+Use the steel ball for all soft materials, those testing less than
+B-100. Should an overlap occur at the top of the B-scale and
+the bottom of the C-scale, use the C-scale setup.
+Before the major load is applied, securely lock the test specimen
+in place to prevent slipping and to seat the anvil and penetrator
+properly. To do this, apply a load of 10 kilograms before the
+lever is tripped. This preliminary load is called the minor load.
+The minor load is 10 kilograms regardless of the scale setup.
+The metal to be tested in the Rockwell tester must be ground
+smooth on two opposite sides and be free of scratches and
+foreign matter. The surface should be perpendicular to the
+axis of penetration, and the two opposite ground surfaces
+should be parallel. If the specimen is tapered, the amount of
+error depends on the taper. A curved surface also causes a
+slight error in the hardness test. The amount of error depends
+7-26
+
+===== PDF PAGE 271 =====
+on the curvature (i.e., the smaller the radius of curvature, the
+greater the error). To eliminate such error, a small flat should
+be ground on the curved surface if possible.
+Clad aluminum alloy sheets cannot be tested directly
+with any accuracy with a Rockwell hardness tester. If
+the hardness value of the base metal is desired, the pure
+aluminum coating must be removed from the area to be
+checked prior to testing.
+
+Barcol Tester
+The Barcol tester is a portable unit designed for testing
+aluminum alloys, copper, brass, or other relatively soft
+materials. [Figure 7-12] It should not be used on aircraft
+steels. Approximate range of the tester is 25 to 100 Brinell.
+The unit can be used in any position and in any space that
+allows for the operator’s hand. It is of great value in the
+hardness testing of assembled or installed parts, especially
+to check for proper heat-treatment. The hardness is indicated
+on a dial conveniently divided into 100 graduations.
+
+2500
+2000 3000
+3500
+
+Pressure gauge
+
+Each tester is supplied with a test disk for checking the
+condition of the point. To check the point, press the instrument
+down on the test disk. When the downward pressure brings
+the end of the lower plunger guide against the surface of the
+disk, the indicator reading should be within the range shown
+on the test disk.
+Forging
+Forging is the process of forming a product by hammering
+or pressing. When the material is forged below the
+recrystallization temperature, it is called cold forged. When
+worked above the recrystallization temperature, it is referred
+
+4500
+500
+0 5000
+
+c0
+c 0
+9
+
+B30
+
+20
+
+B
+
+Hydraulic
+actuating unit
+
+c
+80
+
+ZEROMNDER
+FOR RAP TESTING
+
+B
+10
+
+B
+50
+
+B
+60
+
+B
+0
+
+c
+20
+
+c
+30
+
+c
+40
+B
+70
+
+c
+60
+
+B
+90
+
+c
+70
+
+c
+10
+
+4000
+
+Several typical readings for aluminum alloys are listed in
+Figure 7-13. Note that the harder the material is, the higher
+the Barcol number. To prevent damage to the point, avoid
+sliding or scraping when it is in contact with the material
+being tested. If the point should become damaged, it must be
+replaced with a new one. Do not attempt to grind the point.
+
+B
+40
+
+1500
+1000
+
+The design of the Barcol tester is such that operating
+experience is not necessary. It is only necessary to exert
+a light pressure against the instrument to drive the springloaded indenter into the material to be tested. The hardness
+reading is instantly indicated on the dial.
+
+B30
+
+c
+B
+
+20
+
+c
+
+c0
+
+90
+
+B
+40
+
+Hand pump
+
+c
+10
+
+c50
+
+c
+B
+80 10
+
+ER
+MND
+ZERO TESTING
+RAP
+FOR
+
+70 B
+
+B
+
+0
+
+B
+50
+
+c
+20
+
+B c
+60 30
+
+40 c
+
+c
+60
+
+B
+90
+
+c
+70
+
+c50
+
+Penetrator
+Penetrator
+Elevating screw
+
+Specimen
+
+Weights
+
+Anvil
+Elevating screw
+
+Hand wheel
+
+Weight pan
+
+Zero adjuster
+
+Trip lever
+Microscope
+
+Figure 7-9. Brinell hardness tester.
+
+Figure 7-10. Rockwell hardness tester.
+
+7-27
+
+===== PDF PAGE 272 =====
+Scale
+Symbol
+
+Penetrator
+
+Major
+Load (kg)
+
+Dial
+Color⁄Number
+
+A
+
+Diamond
+
+60
+
+Black
+
+B
+
+1/
+
+16" ball
+
+100
+
+Red
+
+C
+
+Diamond
+
+150
+
+Black
+
+D
+
+Diamond
+
+100
+
+Black
+
+E
+
+1/ " ball
+8
+
+100
+
+Red
+
+F
+
+1/
+
+60
+
+Red
+
+G
+
+1/
+
+16" ball
+
+150
+
+Red
+
+H
+
+1/ " ball
+8
+
+60
+
+Red
+
+K
+
+1/ " ball
+8
+
+150
+
+Red
+
+16" ball
+
+Figure 7-11. Standard Rockwell hardness scales.
+
+to as hot forged. Drop forging is a hammering process that
+uses a hot ingot that is placed between a pair of formed dies in
+a machine called a drop hammer and a weight of several tons
+is dropped on the upper die. This results in the hot metal being
+forced to take the form of the dies. Because the process is
+very rapid, the grain structure of the metal is altered, resulting
+in a significant increase in the strength of the finished part.
+Casting
+Melting the metal and pouring it into a mold of the desired
+shape forms casting. Since plastic deformation of the metal
+does not occur, no alteration of the grain shape or orientation
+is possible. The cooling rate, the alloys of the metal, and
+the thermal treatment can control the gain size of the metal.
+Castings are normally lower in strength and are more brittle
+than a wrought product of the same material. For intricate
+shapes or items with internal passages, such as turbine blades,
+casting may be the most economical process. Except for
+engine parts, most metal components found on an aircraft
+are wrought instead of cast.
+
+Extruding
+The extrusion process involves the forcing of metal through
+an opening in a die, thus causing the metal to take the shape
+of the die opening. The shape of the die will be the cross
+section of an angle, channel, tube, or some other shape. Some
+metals, such as lead, tin, and aluminum, may be extruded
+cold; however, most metals are heated before extrusion. The
+main advantage of the extrusion process is its flexibility.
+For example, because of its workability, aluminum can be
+economically extruded to more intricate shapes and larger
+sizes than is practical with other metals.
+Extruded shapes are produced in very simple, as well as
+extremely complex, sections. In this process, a cylinder of
+aluminum, for instance, is heated to 750–850 °F and is then
+forced through the opening of a die by a hydraulic ram. The
+opening is the shape desired for the cross section of the finished
+extrusion. The extrusion process forms many structural parts,
+such as channels, angles, T-sections, and Z-sections.
+Aluminum is the most extruded metal used in aircraft.
+Aluminum is extruded at a temperature of 700–900 °F (371–482
+°C) and requires pressure of up to 80,000 psi (552 MPa). After
+extrusion, the product frequently is subjected to both thermal
+and mechanical processes to obtain the desired properties.
+Extrusion processes are limited to the more ductile materials.
+
+90
+
+0
+
+80
+
+10
+20
+
+70
+
+30
+
+60
+
+40
+
+50
+
+All metal products start in the form of casting. Wrought
+metals are converted from cast ingots by plastic deformation.
+For high-strength aluminum alloys, an 80 to 90 percent
+reduction (dimensional change in thickness) of the material
+is required to obtain the high mechanical properties of a fully
+wrought structure.
+Both iron and aluminum alloys are cast for aircraft uses. Cast
+iron contains 6 to 8 percent carbon and silicon.
+Cast iron is a hard un-malleable pig iron made by casting or
+pouring into a mold. Cast aluminum alloy has been heated
+to its molten state and poured into a mold to give it the
+desired shape.
+
+Figure 7-12. Barcol portable hardness tester.
+
+7-28
+
+===== PDF PAGE 273 =====
+Cold-Working/Hardening
+Cold-working applies to mechanical working performed at
+temperatures below the critical range. It results in a strain
+hardening of the metal. In fact, the metal often becomes so
+hard that it is difficult to continue the forming process without
+softening the metal by annealing.
+Since the errors attending shrinkage are eliminated in coldworking, a much more compact and better metal is obtained.
+The strength and hardness, as well as the elastic limit, are
+increased; but the ductility decreases. Since this makes
+the metal more brittle, it must be heated from time to time
+during certain operations to remove the undesirable effects
+of the working.
+While there are several cold-working processes, the two with
+which the aviation mechanic is principally concerned are cold
+rolling and cold drawing. These processes give the metals
+desirable qualities that cannot be obtained by hot working.
+Cold rolling usually refers to the working of metal at room
+temperature. In this operation, the materials that have been
+rolled to approximate sizes are pickled to remove the scale,
+after which they are passed through chilled finishing rolls.
+This gives a smooth surface and brings the pieces to accurate
+dimensions. The principal forms of cold-rolled stocks are
+sheets, bars, and rods.
+Cold drawing is used in making seamless tubing, wire,
+streamlined tie rods, and other forms of stock. Wire is made
+from hot-rolled rods of various diameters. These rods are
+pickled in acid to remove scale, dipped in limewater, and
+then dried in a steam room where they remain until ready
+for drawing. The lime coating adhering to the metal serves
+as a lubricant during the drawing operation.
+The size of the rod used for drawing depends upon the
+diameter wanted in the finished wire. To reduce the rod to
+Alloy and Temper
+
+Barcol Number
+
+1100-O
+
+35
+
+3003-O
+
+42
+
+3003-H14
+
+56
+
+2024-O
+
+60
+
+5052-O
+
+62
+
+5052-H34
+
+75
+
+6061-T
+
+78
+
+2024-T
+
+85
+
+Figure 7-13. Typical Barcol readings for aluminum alloy.
+
+the desired size, it is drawn cold through a die. One end of
+the rod is filed or hammered to a point and slipped through
+the die opening. Here it is gripped by the jaws of the drawing
+block and pulled through the die. This series of operations is
+done by a mechanism known as a draw bench.
+To reduce the rod gradually to the desired size, it is necessary
+to draw the wire through successively smaller dies. Because
+each of these drawings reduces the ductility of the wire, it
+must be annealed from time to time before further drawings
+can be accomplished. Although cold-working reduces the
+ductility, it increases the tensile strength of the wire.
+In making seamless steel aircraft tubing, the tubing is cold
+drawn through a ring-shaped die with a mandrel or metal bar
+inside the tubing to support it while the drawing operations
+are being performed. This forces the metal to flow between
+the die and the mandrel and affords a means of controlling
+the wall thickness and the inside and outside diameters.
+
+Nonmetallic Aircraft Materials
+The use of magnesium, plastic, fabric, and wood in aircraft
+construction has nearly disappeared since the mid-1950s.
+Aluminum has also greatly diminished in use, from 80 percent
+of airframes in 1950 to about 15 percent aluminum and
+aluminum alloys today for airframe construction. Replacing
+those materials are nonmetallic aircraft materials, such as
+reinforced plastics and advanced composites.
+Wood
+The earliest aircraft were constructed of wood and cloth.
+Today, except for restorations and some home-built aircraft,
+very little wood is used in aircraft construction.
+Plastics
+Plastics are used in many applications throughout modern
+aircraft. These applications range from structural components
+of thermosetting plastics reinforced with fiberglass to
+decorative trim of thermoplastic materials to windows.
+Transparent Plastics
+Transparent plastic materials used in aircraft canopies,
+such as windshields, windows and other similar transparent
+enclosures, may be divided into two major classes or groups:
+thermoplastic and thermosetting. These plastics are classified
+according to their reaction to heat. Thermoplastic materials
+soften when heated and harden when cooled. These materials
+can be heated until soft and then formed into the desired
+shape. When cooled, they retain this shape. The same piece
+of plastic can be reheated and reshaped any number of times
+without changing the chemical composition of the materials.
+Thermosetting plastics harden upon heating, and reheating
+7-29
+
+===== PDF PAGE 274 =====
+has no softening effect. These plastics cannot be reshaped
+once being fully cured by the application of heat.
+
+and all precautions regarding the use of flammable liquids
+must be observed.
+
+In addition to the above classes, transparent plastics are
+manufactured in two forms: monolithic (solid) and laminated.
+Laminated transparent plastics are made from transparent
+plastic face sheets bonded by an inner layer material, usually
+polyvinyl butyryl. Because of its shatter resistant qualities,
+laminated plastic is superior to solid plastics and is used in
+many pressurized aircraft.
+
+Composite Materials
+In the 1940s, the aircraft industry began to develop synthetic
+fibers to enhance aircraft design. Since that time, composite
+materials have been used more and more. When composites
+are mentioned, most people think of only fiberglass, or maybe
+graphite or aramids (Kevlar). Composites began in aviation,
+but now are being embraced by many other industries,
+including auto racing, sporting goods, and boating, as well
+as defense industry uses.
+
+Most of the transparent sheet used in aviation is manufactured
+in accordance with various military specifications. A new
+development in transparent plastics is stretched acrylic.
+Stretched acrylic is a type of plastic, which before being
+shaped, is pulled in both directions to rearrange its molecular
+structure. Stretched acrylic panels have a greater resistance to
+impact and are less subject to shatter; its chemical resistance
+is greater, edging is simpler, and crazing and scratches are
+less detrimental.
+Individual sheets of plastic are covered with a heavy masking
+paper to which a pressure sensitive adhesive has been added.
+This paper helps to prevent accidental scratching during
+storage and handling. Be careful to avoid scratches and
+gouges which may be caused by sliding sheets against one
+another or across rough or dirty tables.
+If possible, store sheets in bins that are tilted at approximately
+10° from vertical. If they must be stored horizontally, piles
+should not be over 18 inches high, and small sheets should
+be stacked on the larger ones to avoid unsupported overhang.
+Store in a cool, dry place away from solvent fumes, heating
+coils, radiators, and steam pipes. The temperature in the
+storage room should not exceed 120 °F.
+While direct sunlight does not harm acrylic plastic, it causes
+drying and hardening of the masking adhesive, making
+removal of the paper difficult. If the paper does not roll off
+easily, place the sheet in an oven at 250 °F for 1 minute,
+maximum. The heat softens the masking adhesive for easy
+removal of the paper.
+If an oven is not available, remove hardened masking paper
+by softening the adhesive with aliphatic naphtha. Rub the
+masking paper with a cloth saturated with naphtha. This
+softens the adhesive and frees the paper from the plastic.
+Sheets so treated must be washed immediately with clean
+water, taking care not to scratch the surfaces.
+Note: Aliphatic naphtha is not to be confused with aromatic
+naphtha and other dry cleaning solvents, which have harmful
+effects on plastic. However, aliphatic naphtha is flammable
+
+A “composite” material is defined as a mixture of different
+materials or things. This definition is so general that it could
+refer to metal alloys made from several different metals to
+enhance the strength, ductility, conductivity, or whatever
+characteristics are desired. Likewise, the composition of
+composite materials is a combination of reinforcement, such
+as a fiber, whisker, or particle, surrounded and held in place by
+a resin forming a structure. Separately, the reinforcement and
+the resin are very different from their combined state. Even in
+their combined state, they can still be individually identified
+and mechanically separated. One composite, concrete, is
+composed of cement (resin) and gravel or reinforcement rods
+for the reinforcement to create the concrete.
+
+Advantages/Disadvantages of Composites
+Some of the many advantages for using composite materials
+are:
+•
+
+High strength-to-weight ratio
+
+•
+
+Fiber-to-fiber transfer of stress allowed by chemical
+bonding
+
+•
+
+Modulus (stiffness-to-density ratio) 3.5 to 5 times that
+of steel or aluminum
+
+•
+
+Longer life than metals
+
+•
+
+Higher corrosion resistance
+
+•
+
+Tensile strength 4 to 6 times that of steel or aluminum
+
+•
+
+Greater design flexibility
+
+•
+
+Bonded construction eliminates joints and fasteners
+
+•
+
+Easily repairable
+
+The disadvantages of composites include:
+•
+
+Inspection methods difficult to conduct, especially
+delamination detection (Advancements in technology
+will eventually correct this problem.)
+
+•
+
+Lack of long-term design database, relatively new
+technology methods
+
+•
+
+Cost
+7-30
+
+===== PDF PAGE 275 =====
+•
+
+Very expensive processing equipment
+
+•
+
+Lack of standardized system of methodology
+
+•
+
+Great variety of materials, processes, and techniques
+
+•
+
+General lack of repair knowledge and expertise
+
+•
+
+Products often toxic and hazardous
+
+•
+
+Lack of standardized methodology for construction
+and repairs
+
+The increased strength and the ability to design for the
+performance needs of the product makes composites much
+superior to the traditional materials used in today’s aircraft.
+As more and more composites are used, the costs, design,
+inspection ease, and information about strength-to-weight
+advantages help composites become the material of choice
+for aircraft construction.
+
+Composite Safety
+Composite products can be very harmful to the skin, eyes,
+and lungs. In the long or short term, people can become
+sensitized to the materials with serious irritation and health
+issues. Personal protection is often uncomfortable, hot, and
+difficult to wear; however, a little discomfort while working
+with the composite materials can prevent serious health issues
+or even death.
+Respirator particle protection is very important to protecting
+the lungs from permanent damage from tiny glass bubbles
+and fiber pieces. At a minimum, a dust mask approved for
+fiberglass is a necessity. The best protection is a respirator
+with dust filters. The proper fit of a respirator or dust mask is
+very important, because if the air around the seal is breathed,
+the mask cannot protect the wearer’s lungs. When working
+with resins, it is important to use vapor protection. Charcoal
+filters in a respirator remove the vapors for a period of time.
+When removing the respirator for breaks, and upon placing
+the mask back on, if you can smell the resin vapors, replace
+the filters immediately. Sometimes, charcoal filters last less
+than 4 hours. Store the respirator in a sealed bag when not in
+use. If working with toxic materials for an extended period,
+a supplied air mask and hood are recommended.
+Avoid skin contact with the fibers and other particles by
+wearing long pants and long sleeves along with gloves or
+barrier creams. The eyes must be protected using leak-proof
+goggles (no vent holes) when working with resins or solvents,
+because chemical damage to the eyes is usually irreversible.
+
+Fiber Reinforced Materials
+The purpose of reinforcement in reinforced plastics is to
+provide most of the strength. The three main forms of fiber
+reinforcements are particles, whiskers, and fibers.
+
+A particle is a square piece of material. Glass bubbles (Q-cell)
+are hollow glass spheres, and since their dimensions are equal
+on all axes, they are called a particle.
+A whisker is a piece of material that is longer than it is wide.
+Whiskers are usually single crystals. They are very strong
+and used to reinforce ceramics and metals.
+Fibers are single filaments that are much longer than they
+are wide. Fibers can be made of almost any material and are
+not crystalline like whiskers. Fibers are the base for most
+composites. Fibers are smaller than the finest human hair
+and are normally woven into cloth-like materials.
+
+Laminated Structures
+Composites can be made with or without an inner core of
+material. Laminated structure with a core center is called
+a sandwich structure. Laminate construction is strong and
+stiff, but heavy. The sandwich laminate is equal in strength,
+and its weight is much less; less weight is very important to
+aerospace products.
+The core of a laminate can be made from nearly anything. The
+decision is normally based on use, strength, and fabricating
+methods to be used.
+Various types of cores for laminated structures include rigid
+foam, wood, metal, or the aerospace preference of honeycomb
+made from paper, Nomex®, carbon, fiberglass, or metal.
+Figure 7-14 shows a typical sandwich structure. It is very
+important to follow proper techniques to construct or repair
+laminated structures to ensure the strength is not compromised.
+Taking a high-density laminate or solid face and back plate and
+sandwiching a core in the middle make a sandwich assembly.
+The design engineer, depending on the intended application
+of the part, decides the selection of materials for the face
+and the back plate. It is important to follow manufacturers’
+maintenance manual specific instructions regarding testing
+and repair procedures as they apply to a particular aircraft.
+
+Reinforced Plastic
+Reinforced plastic is a thermosetting material used in the
+manufacture of radomes, antenna covers, and wingtips, and as
+insulation for various pieces of electrical equipment and fuel
+cells. It has excellent dielectric characteristics that make it
+ideal for radomes; however, its high strength-to-weight ratio,
+resistance to mildew, rust, and rot, and ease of fabrication
+make it equally suited for other parts of the aircraft.
+Reinforced plastic components of aircraft are formed of either
+solid laminates or sandwich-type laminates. Resins used
+to impregnate glass cloths are of the contact pressure type
+7-31
+
+===== PDF PAGE 276 =====
+(requiring little or no pressure during cure). These resins are
+supplied as a liquid, which can vary in viscosity from water
+like consistency to thick syrup. Cure or polymerization is
+affected by the use of a catalyst, usually benzoyl peroxide.
+Solid laminates are constructed of three or more layers of
+resin impregnated cloths “wet laminated” together to form
+a solid sheet facing or molded shape.
+Sandwich-type laminates are constructed of two or more
+solid sheet facings or a molded shape enclosing a fiberglass
+honeycomb or foam-type core. Honeycomb cores are made
+of glass cloths impregnated with polyester or a combination
+of nylon and phenolic resins. The specific density and cell
+size of honeycomb cores varies over considerable latitude.
+Honeycomb cores are normally fabricated in blocks that are
+later cut to the desired thickness on a band saw.
+Foam-type cores are formulated from combinations of
+alkyd resins and metatoluene di-isocyanate. Sandwichtype fiberglass components filled with foam-type cores are
+manufactured to exceedingly close tolerances on overall
+thickness of the molded facing and core material. To achieve
+this accuracy, the resin is poured into a close tolerance,
+molded shape. The resin formulation immediately foams up
+to fill the void in the molded shape and forms a bond between
+the facing and the core.
+Rubber
+Rubber is used to prevent the entrance of dirt, water, or air,
+and to prevent the loss of fluids, gases, or air. It is also used
+to absorb vibration, reduce noise, and cushion impact loads.
+The term “rubber” is as all-inclusive as the term “metal.” It is
+used to include not only natural rubber, but also all synthetic
+and silicone rubbers.
+
+Natural Rubber
+Natural rubber has better processing and physical properties
+than synthetic or silicone rubber. These properties include
+flexibility, elasticity, tensile strength, tear strength, and low
+heat buildup due to flexing (hysteresis). Natural rubber is a
+general-purpose product; however, its suitability for aircraft
+use is somewhat limited because of its inferior resistance
+to most influences that cause deterioration. Although it
+provides an excellent seal for many applications, it swells
+and often softens in all aircraft fuels and in many solvents
+(naphthas and so forth). Natural rubber deteriorates more
+rapidly than synthetic rubber. It is used as a sealing material
+for water/methanol systems.
+
+Synthetic Rubber
+Synthetic rubber is available in several types, each of which
+is compounded of different materials to give the desired
+
+properties. The most widely used are the butyls, Bunas,
+and neoprene.
+Butyl is a hydrocarbon rubber with superior resistance to gas
+permeation. It is also resistant to deterioration; however, its
+comparative physical properties are significantly less than
+those of natural rubber. Butyl resists oxygen, vegetable oils,
+animal fats, alkalies, ozone, and weathering.
+Like natural rubber, butyl swells in petroleum or coal
+tar solvents. It has a low water absorption rate and good
+resistance to heat and low temperature. Depending on
+the grade, it is suitable for use in temperatures ranging
+from −65 °F to 300 °F. Butyl is used with phosphate ester
+hydraulic fluids (Skydrol™), silicone fluids, gases, ketones,
+and acetones.
+Buna-S rubber resembles natural rubber both in processing and
+performance characteristics. Buna-S is as water resistant as
+natural rubber, but has somewhat better aging characteristics.
+It has good resistance to heat, but only in the absence of severe
+flexing. Generally, Buna-S has poor resistance to gasoline, oil,
+concentrated acids, and solvents. Buna-S is normally used for
+tires and tubes as a substitute for natural rubber.
+Buna-N is outstanding in its resistance to hydrocarbons and
+other solvents; however, it has poor resilience in solvents at
+low temperature. Buna-N compounds have good resistance
+to temperatures up to 300 °F and may be procured for low
+temperature applications down to −75 °F. Buna-N has fair
+tear, sunlight, and ozone resistance. It has good abrasion
+resistance and good breakaway properties when used in
+contact with metal. When used as a seal on a hydraulic piston,
+it does not stick to the cylinder wall. Buna-N is used for oil
+and gasoline hoses, tank linings, gaskets, and seals.
+Neoprene can take more punishment than natural rubber
+and has better low-temperature characteristics. It possesses
+exceptional resistance to ozone, sunlight, heat, and aging.
+Neoprene looks and feels like rubber. Neoprene, however,
+is less like rubber in some of its characteristics than butyl
+or Buna. The physical characteristics of neoprene, such as
+tensile strength and elongation, are not equal to natural rubber
+but do have a definite similarity. Its tear resistance, as well
+as its abrasion resistance, is slightly less than that of natural
+rubber. Although its distortion recovery is complete, it is not
+as rapid as natural rubber.
+Neoprene has superior resistance to oil. Although it is good
+material for use in nonaromatic gasoline systems, it has poor
+resistance to aromatic gasoline. Neoprene is used primarily
+for weather seals, window channels, bumper pads, oil resistant
+hose, and carburetor diaphragms. It is also recommended for
+7-32
+
+===== PDF PAGE 277 =====
+Adhesive
+
+Face sheet
+Honeycomb
+
+Face sheet
+Fabricated sandwich panel
+Figure 7-14. Sandwich structure.
+
+use with Freon™ and silicate ester lubricants.
+Thiokol, known also as polysulfide rubber, has the highest
+resistance to deterioration but ranks the lowest in physical
+properties. Petroleum, hydrocarbons, esters, alcohols,
+gasoline, or water, in general, does not seriously affect
+Thiokols. Thiokols are ranked low in such physical properties
+as compression set, tensile strength, elasticity, and tear
+abrasion resistance. Thiokol is used for oil hoses, tank linings
+for aromatic aviation gasoline, gaskets, and seals.
+Silicone rubbers are a group of plastic rubber materials made
+from silicon, oxygen, hydrogen, and carbon. The silicones have
+excellent heat stability and very low temperature flexibility.
+They are suitable for gaskets, seals, or other applications where
+elevated temperatures up to 600 °F are prevalent. Silicone
+rubbers are also resistant to temperatures down to −150 °F.
+Throughout this temperature range, silicone rubber remains
+extremely flexible and useful with no hardness or gumminess.
+Although this material has good resistance to oils, it reacts
+unfavorably to both aromatic and nonaromatic gasoline.
+Silastic, one of the best-known silicones, is used to insulate
+electrical and electronic equipment. Because of its dielectric
+properties over a wide range of temperatures, it remains
+flexible and free from crazing and cracking. Silastic is also
+used for gaskets and seals in certain oil systems.
+Shock Absorber Cord
+Shock absorber cord is made from natural rubber strands
+encased in a braided cover of woven cotton cords treated to
+resist oxidation and wear. Great tension and elongation are
+obtained by weaving the jacket upon the bundle of rubber
+strands while they are stretched about three times their
+original length.
+
+There are two types of elastic shock absorbing cord. Type I
+is a straight cord, and type II is a continuous ring known as
+a “bungee.” The advantages of the type II cord are that it is
+easily and quickly replaced and does not need to be secured
+by stretching and whipping. Shock cord is available in
+standard diameters from 1⁄4 inch to 13⁄16 inch.
+Three colored threads are braided into the outer cover for
+the entire length of the cord. Two of these threads are of the
+same color and represent the year of manufacture; the third
+thread, a different color, represents the quarter of the year in
+which the cord was made. The code covers a 5-year period
+and then repeats itself. This makes it easy to figure forward
+or backward from the years shown in Figure 7-15.
+
+Seals
+Seals are used to prevent fluid from passing a certain point,
+as well as to keep air and dirt out of the system in which they
+are used. The increased use of hydraulics and pneumatics in
+aircraft systems has created a need for packings and gaskets
+of varying characteristics and design to meet the many
+variations of operating speeds and temperatures to which they
+are subjected. No one style or type of seal is satisfactory for
+all installations. Some of the reasons for this are:
+•
+
+Pressure at which the system operates
+
+•
+
+Type fluid used in the system
+
+•
+
+Metal finish and the clearance between adjacent parts
+
+•
+
+Type motion (rotary or reciprocating), if any
+
+Seals are divided into three main classes: packings, gaskets,
+and wipers.
+
+7-33
+
+===== PDF PAGE 278 =====
+Packings
+Packings are made of synthetic or natural rubber. They
+are generally used as “running seals,” that is, in units that
+contain moving parts, such as actuating cylinders, pumps,
+selector valves, and so forth. Packings are made in the form
+of O-rings, V-rings, and U-rings, each designed for a specific
+purpose. [Figure 7-16]
+
+fluid is always coded with a green stripe, but may also have a
+blue, grey, red, green, or yellow dot as a part of the color code.
+Color codes on O-rings that are compatible with hydrocarbon
+fluid always contains red but never contain blue. A colored
+stripe around the circumference indicates that the O-ring
+is a boss gasket seal. The color of the stripe indicates fluid
+compatibility: red for fuel, blue for hydraulic fluid.
+
+O-Ring Packings
+
+The coding on some rings is not permanent. On others
+it may be omitted due to manufacturing difficulties or
+interference with operation. Furthermore, the color-coding
+system provides no means to establish the age of the O-ring
+or its temperature limitations.
+
+O-ring packings are used to prevent both internal and
+external leakage. This type of packing ring seals effectively
+in both directions and is the type most commonly used. In
+installations subject to pressures above 1,500 psi, backup
+rings are used with O-rings to prevent extrusion.
+When O-ring packing is subjected to pressure from both sides,
+as in actuating cylinders, two backup rings must be used (one
+on either side of the O-ring). When an O-ring is subject to
+pressure on only one side, a single backup ring is generally
+used. In this case, the backup ring is always placed on the
+side of the O-ring away from the pressure.
+The materials from which O-rings are manufactured have been
+compounded for various operating conditions, temperatures,
+and fluids. An O-ring designed specifically for use as a static
+(stationary) seal, probably will not do the job when installed
+on a moving part, such as a hydraulic piston. Most O-rings
+are similar in appearance and texture, but their characteristics
+may differ widely. An O-ring is useless if it is not compatible
+with the system fluid and operating temperature.
+Advances in aircraft design have necessitated new O-ring
+compositions to meet changed operating conditions. Hydraulic
+O-rings were originally established under AN specification
+numbers (6227, 6230, and 6290) for use in MIL-H-5606 fluid
+at temperatures ranging from −65 °F to +160 °F. When new
+designs raised operating temperatures to a possible 275 °F,
+more compounds were developed and perfected.
+Recently, a compound was developed that offered improved
+low-temperature performance without sacrificing hightemperature performance, rendering the other series obsolete.
+This superior material was adopted in the MS28775 series.
+This series is now the standard for MIL-H-5606 systems in
+which the temperature may vary from −65 °F to +275 °F.
+Manufacturers provide color-coding on some O-rings, but this
+is not a reliable or complete means of identification. The colorcoding system does not identify sizes but only system fluid
+or vapor compatibility and, in some cases, the manufacturer.
+Color codes on O-rings that are compatible with MIL-H-5606
+fluid always contains blue but may also contain red or other
+colors. Packings and gaskets suitable for use with Skydrol™
+
+Because of the difficulties with color-coding, O-rings
+are available in individual hermetically-sealed envelopes
+labeled with all pertinent data. When selecting an O-ring for
+installation, the basic part number on the sealed envelope
+provides the most reliable compound identification.
+Although an O-ring may appear perfect at first glance, slight
+surface flaws may exist. These flaws are often capable of
+preventing satisfactory O-ring performance under the variable
+operating pressures of aircraft systems; therefore, O-rings
+Year
+
+Threads
+
+Color
+
+2000
+
+2
+
+Black
+
+2001
+
+2
+
+Green
+
+2002
+
+2
+
+Red
+
+2003
+
+2
+
+Blue
+
+2004
+
+2
+
+Yellow
+
+2005
+
+2
+
+Black
+
+2006
+
+2
+
+Green
+
+2007
+
+2
+
+Red
+
+2008
+
+2
+
+Blue
+
+2009
+
+2
+
+Yellow
+
+2010
+
+2
+
+Black
+
+Quarter Marking
+Quarter
+
+Threads
+
+Color
+
+January, February, March
+
+1
+
+Red
+
+April, May, June
+
+1
+
+Blue
+
+July, August, September
+
+1
+
+Green
+
+October, November, December
+
+1
+
+Yellow
+
+Figure 7-15. Shock absorber cord color coding.
+
+7-34
+
+===== PDF PAGE 279 =====
+should be rejected for flaws that affect their performance.
+Such flaws are difficult to detect, and one aircraft manufacturer
+recommends using a 4-power magnifying glass with adequate
+lighting to inspect each ring before it is installed.
+By rolling the ring on an inspection cone or dowel, the
+inner diameter surface can also be checked for small cracks,
+particles of foreign material, or other irregularities that cause
+leakage or shorten the life of the O-ring. The slight stretching
+of the ring when it is rolled inside out helps to reveal some
+defects not otherwise visible.
+Backup Rings
+Backup rings (MS28782) made of Teflon™ do not deteriorate
+with age, are unaffected by any system fluid or vapor, and can
+tolerate temperature extremes in excess of those encountered
+in high-pressure hydraulic systems. Their dash numbers
+indicate not only their size but also relate directly to the dash
+number of the O-ring for which they are dimensionally suited.
+They are procurable under several basic part numbers, but
+they are interchangeable; that is, any Teflon™ backup ring
+may be used to replace any other Teflon™ backup ring if it is
+of proper overall dimension to support the applicable O-ring.
+Backup rings are not color-coded or otherwise marked and
+must be identified from package labels.
+The inspection of backup rings should include a check to
+ensure that surfaces are free from irregularities, that the edges
+are clean cut and sharp, and that scarf cuts are parallel. When
+checking Teflon™ spiral backup rings, make sure that the
+coils do not separate more than 1⁄4 inch when unrestrained.
+
+U-ring
+
+O-ring
+
+V-ring
+
+U-cup
+
+Male
+
+Female
+
+Figure 7-16. Packing rings.
+
+V-Ring Packings
+V-ring packings (AN6225) are one-way seals and are always
+installed with the open end of the “V” facing the pressure.
+V-ring packings must have a male and female adapter to
+hold them in the proper position after installation. It is also
+necessary to torque the seal retainer to the value specified
+by the manufacturer of the component being serviced, or the
+seal may not give satisfactory service. An installation using
+V-rings is shown in Figure 7-17.
+
+U-Ring Packings
+U-ring packings (AN6226) and U-cup packings are used in
+brake assemblies and brake master cylinders. The U-ring and
+U-cup seal pressure in only one direction; therefore, the lip of
+the packings must face toward the pressure. U-ring packings
+are primarily low-pressure packings to be used with pressures
+of less than 1,000 psi.
+Gaskets
+Gaskets are used as static (stationary) seals between two
+flat surfaces. Some of the more common gasket materials
+are asbestos, copper, cork, and rubber. Asbestos sheeting
+is used wherever a heat-resistant gasket is needed. It is
+used extensively for exhaust system gaskets. Most asbestos
+exhaust gaskets have a thin sheet of copper edging to
+prolong their life.
+A solid copper washer is used for spark plug gaskets where it
+is essential to have a non-compressible, yet semisoft gasket.
+Cork gaskets can be used as an oil seal between the engine
+crankcase and accessories, and where a gasket is required that
+can occupy an uneven or varying space caused by a rough
+surface or expansion and contraction.
+Rubber sheeting can be used where there is a need for a
+compressible gasket. It should not be used in any place
+where it may come in contact with gasoline or oil because
+the rubber deteriorates very rapidly when exposed to these
+substances. Gaskets are used in fluid systems around the
+end caps of actuating cylinders, valves, and other units. The
+gasket generally used for this purpose is in the shape of an
+O-ring, similar to O-ring packings.
+Wipers
+Wipers are used to clean and lubricate the exposed portions
+of piston shafts. They prevent dirt from entering the system
+and help protect the piston shaft against scoring. Wipers may
+be either metallic or felt. They are sometimes used together,
+a felt wiper installed behind a metallic wiper.
+Sealing Compounds
+Certain areas of all aircraft are sealed to withstand
+pressurization by air, to prevent leakage of fuel, to prevent
+7-35
+
+===== PDF PAGE 280 =====
+passage of fumes, or to prevent corrosion by sealing against
+the weather. Most sealants consist of two or more ingredients
+properly proportioned and compounded to obtain the best
+results. Some materials are ready for use as packaged, but
+others require mixing before application.
+
+Adjustment nuts
+Male V-ring adapter
+
+One Part Sealants
+One part sealants are prepared by the manufacturer and are
+ready for application as packaged. However, the consistency
+of some of these compounds may be altered to satisfy a
+particular method of application. If thinning is desired, use
+the thinner recommended by the sealant manufacturer.
+
+Female V-ring adapter
+
+V-ring packing
+
+Two Part Sealants
+Two part sealants are compounds requiring separate
+packaging to prevent cure prior to application and are
+identified as the base sealing compound and the accelerator.
+Any alteration of the prescribed ratios reduces the quality of
+the material. Combining equal portions, by weight, of base
+compound and accelerator, mixes two part sealants.
+All sealant material should be carefully weighed in accordance
+with the sealant manufacturer’s recommendations. Sealant
+material is usually weighed with a balance scale equipped
+with weights specially prepared for various quantities of
+sealant and accelerator.
+Before weighing the sealant materials, thoroughly stir both
+the base sealant compound and the accelerator. Do not use
+accelerator, which is dried out, lumpy, or flaky. Pre-weighed
+sealant kits do not require weighing of the sealant and
+accelerator before mixing when the entire quantity is to be
+mixed.
+After determining the proper amount of base sealant
+compound and accelerator, add the accelerator to the
+base sealant compound. Immediately after adding the
+accelerator, thoroughly mix the two parts by stirring or
+folding, depending on the consistency of the material.
+Carefully mix the material to prevent entrapment of air in
+the mixture. Overly rapid or prolonged stirring builds up
+heat in the mixture and shortens the normal application time
+(working life) of the mixed sealant.
+To ensure a well-mixed compound, test by smearing a small
+portion on a clean, flat metal, or glass surface. If flecks or
+lumps are found, continue mixing. If the flecks or lumps
+cannot be eliminated, reject the batch.
+The working life of mixed sealant is from 1⁄2 hour to 4 hours
+(depending upon the class of sealant); therefore, apply
+mixed sealant as soon as possible or place in refrigerated
+storage. Figure 7-18 presents general information
+
+Figure 7-17. V-ring installation.
+
+concerning various sealants.
+The curing rate of mixed sealants varies with changes in
+temperature and humidity. Curing of sealants is extremely slow
+if the temperature is below 60 °F. A temperature of 77 °F with
+50 percent relative humidity is the ideal condition for curing
+most sealants.
+Curing may be accelerated by increasing the temperature, but
+the temperature should never be allowed to exceed 120 °F at
+any time in the curing cycle. Heat may be applied by using
+infrared lamps or heated air. If heated air is used, it must be
+properly filtered to remove moisture and dirt.
+Heat should not be applied to any faying surface sealant
+installation until all work is completed. All faying surface
+applications must have all attachments, permanent or
+temporary, completed within the application limitations of
+the sealant.
+Sealant must be cured to a tack-free condition before applying
+brush top coatings. (Tack-free consistency is the point at
+which a sheet of cellophane pressed onto the sealant no
+longer adheres.)
+
+Aircraft Hardware
+Aircraft hardware is the term used to describe the various
+types of fasteners and miscellaneous small items used in
+the manufacture and repair of aircraft. The importance of
+aircraft hardware is often overlooked because of its small
+size; however, the safe and efficient operation of any aircraft
+is greatly dependent upon the correct selection and use of
+aircraft hardware.
+An aircraft, even though made of the best materials and
+strongest parts, would be of doubtful value unless those parts
+7-36
+
+===== PDF PAGE 281 =====
+were firmly held together. Several methods are used to hold
+metal parts together; they include riveting, bolting, brazing,
+and welding. The process used must produce a union that is
+as strong as the parts that are joined.
+Identification
+Their specification number or trade name identifies most
+items of aircraft hardware. Threaded fasteners and rivets are
+identified by AN (Air Force-Navy) numbers, NAS (National
+Aircraft Standard) numbers, or MS (Military Standard)
+numbers. Quick-release fasteners are usually identified by
+factory trade names and size designations.
+Threaded Fasteners
+Various types of fastening devices allow quick dismantling
+or replacement of aircraft parts that must be taken apart and
+put back together at frequent intervals. Riveting or welding
+these parts each time they are serviced would soon weaken
+or ruin the joint. Furthermore, some joints require greater
+tensile strength and stiffness than rivets can provide. Bolts
+and screws are two types of fastening devices that give the
+required security of attachment and rigidity. Generally, bolts
+are used where great strength is required, and screws are used
+where strength is not the deciding factor. Bolts and screws
+are similar in many ways. They are both used for fastening
+or holding, and each has a head on one end and screw threads
+on the other. Regardless of these similarities, there are several
+distinct differences between the two types of fasteners. The
+threaded end of a bolt is always blunt while that of a screw
+may be either blunt or pointed.
+
+between the American National series and the American
+Standard Unified series that should be pointed out. In the
+1-inch diameter size, the NF thread specifies 14 threads per
+inch (1-14 NF), while the UNF thread specifies 12 threads
+per inch (1-12 UNF). Both types of threads are designated
+by the number of times the incline (threads) rotates around a
+1-inch length of a given diameter bolt or screw. For example,
+a 1/4-28 thread indicates that a 1⁄4-inch (4⁄16 inch) diameter bolt
+has 28 threads in 1 inch of its threaded length.
+Class of fit also designates threads. The Class of a thread
+indicates the tolerance allowed in manufacturing:
+•
+
+Class 1 is a loose fit
+
+•
+
+Class 2 is a free fit
+
+•
+
+Class 3 is a medium fit
+
+•
+
+Class 4 is a close fit
+
+Aircraft bolts are almost always manufactured in the Class
+3, medium fit.
+A Class 4 fit requires a wrench to turn the nut onto a bolt,
+whereas a Class 1 fit can easily be turned by hand. Generally,
+aircraft screws are manufactured with a Class 2 thread fit for
+ease of assembly.
+Bolts and nuts are also produced with right-hand and left-hand
+threads. A right-hand thread tightens when turned clockwise;
+a left-hand thread tightens when turned counterclockwise.
+
+The threaded end of a bolt usually has a nut screwed onto it
+to complete the assembly. The threaded end of a screw may
+fit into a female receptacle, or it may fit directly into the
+material being secured. A bolt has a short threaded section
+and a comparatively long grip length or unthreaded portion,
+whereas a screw has a longer threaded section and may have
+no clearly defined grip length. Turning the nut on the bolt
+generally tightens a bolt assembly; the head of the bolt may
+or may not be designed for turning. Turning its head always
+tightens a screw.
+
+Aircraft Bolts
+Aircraft bolts are fabricated from cadmium- or zinc-plated
+corrosion-resistant steel, un-plated corrosion-resistant steel,
+or anodized-aluminum alloys. Most bolts used in aircraft
+structures are either general purpose, AN bolts, NAS
+internal wrenching or close tolerance bolts, or MS bolts. In
+certain cases, aircraft manufacturers make bolts of different
+dimensions or greater strength than the standard types. Such
+bolts are made for a particular application, and it is of extreme
+importance to use like bolts in replacement. The letter “S”
+stamped on the head usually identifies special bolts.
+
+When it becomes necessary to replace aircraft fasteners, a
+duplicate of the original fastener should be used if possible.
+If duplicate fasteners are not available, extreme care and
+caution must be used in selecting substitutes.
+
+AN bolts come in three head styles: hex head, Clevis, and
+eyebolt. [Figure 7-19] NAS bolts are available in hex head,
+internal wrenching, and countersunk head styles. MS bolts
+come in hex head and internal wrenching styles.
+
+Classification of Threads
+
+General Purpose Bolts
+
+Aircraft bolts, screws, and nuts are threaded in the American
+National Coarse (NC) thread series, the American National
+Fine (NF) thread series, the American Standard Unified
+Coarse (UNC) thread series, or the American Standard
+Unified Fine (UNF) thread series. There is one difference
+
+The hex head aircraft bolt (AN-3 through AN-20) is an
+all-purpose structural bolt used for general applications
+involving tension or shear loads where a light drive fit is
+permissible (0.006-inch clearance for a 5⁄8-inch hole and
+
+7-37
+
+===== PDF PAGE 282 =====
+Sealant Base
+
+Accelerator
+(Catalyst)
+
+Mixing Ratio
+by Weight
+
+Application
+Life (Work)
+
+Storage
+(Shelf) Life
+After Mixing
+
+Storage
+(Shelf) Life
+Unmixed
+
+Temperature
+Range
+
+Application
+and Limitations
+
+EC-801 (black)
+MIL-S-7502A
+Class B-2
+
+EC-807
+
+12 parts of
+EC-807 to 100
+parts of
+EC-801
+
+2–4 hours
+
+5 days at
+−20 °F after
+flash freeze
+at −65 °F
+
+6 months
+
+−65 °F to 200 °F
+
+Faying surfaces,
+fillet seals, and
+packing gaps
+
+EC-800 (red)
+
+None
+
+Use as is
+
+8–12 hours
+
+Not applicable
+
+6–9 months
+
+−65 °F to 200 °F
+
+Coating rivet
+
+EC-612 P
+(pink)
+MIL-P-20628
+
+None
+
+Use as is
+
+Indefinite
+non-drying
+
+Not applicable
+
+6–9 months
+
+−40 °F to 200 °F
+
+Packing voids
+up to ¼"
+
+PR-1302HT
+(red)
+MIL-S-8784
+
+PR-1302HT-A
+
+6 months
+
+−65 °F to 200 °F
+
+Sealing access
+door gaskets
+
+PR-727
+potting
+compound
+MIL-S-8516B
+
+PR-727A
+
+6 months
+
+−65 °F to 200 °F
+
+Potting electrical
+connections and
+bulkhead seals
+
+HT-3
+(grey–green)
+
+None
+
+Use as is
+
+Solvent
+release, sets
+up in 2–4
+hours
+
+Not applicable
+
+6–9 months
+
+−60 °F to 200 °F
+
+Sealing hot air
+ducts passing
+through
+bulkheads
+
+EC-776
+(clear amber)
+MIL-S-4383B
+
+None
+
+Use as is
+
+8–12 hours
+
+Not applicable
+
+Indefinite
+in airtight
+containers
+
+−65 °F to 200 °F
+
+Top coating
+
+10 parts of
+PR-1302HT-A
+to 100 parts
+of PR-1302HT
+12 parts of
+PR-727A to
+100 parts of
+PR-727
+
+2–4 hours
+
+1½ hours
+minimum
+
+5 days at
+−20 °F after
+flash freeze
+at −65 °F
+5 days at
+−20 °F after
+flash freeze
+at −65 °F
+
+Figure 7-18. General sealant information.
+
+other sizes in proportion).
+Alloy-steel bolts smaller than No. 10-32 and aluminumalloy bolts smaller than 1⁄4 inch in diameter are not used in
+primary structures. Aluminum-alloy bolts and nuts are not
+used where they are repeatedly removed for purposes of
+maintenance and inspection. Aluminum-alloy nuts may be
+used with cadmium-plated steel bolts loaded in shear on land
+airplanes, but are not used on seaplanes due to the increased
+possibility of dissimilar metal corrosion.
+The AN-73 drilled head bolt is like the standard hex
+bolt, but has a deeper head, which is drilled to receive
+wire for safetying. The AN-3 and the AN-73 series bolts
+are interchangeable, for all practical purposes, from the
+standpoint of tension and shear strengths.
+
+Close Tolerance Bolts
+Close tolerance bolts are machined more accurately than the
+general-purpose bolt. Close tolerance bolts may be hex headed
+(AN-173 through AN-186) or have a 100° countersunk head
+(NAS-80 through NAS-86). They are used in applications
+where a tight drive fit is required. (The bolt moves into position
+only when struck with a 12- to 14-ounce hammer.)
+
+Internal Wrenching Bolts
+Internal wrenching bolts, (MS-20004 through MS-20024 or
+
+NAS-495) are fabricated from high-strength steel and are
+suitable for use in both tension and shear applications. When
+they are used in steel parts, the bolt hole must be slightly
+countersunk to seat the large corner radius of the shank at
+the head. In Dural material, a special heat-treated washer
+must be used to provide an adequate bearing surface for the
+head. The head of the internal wrenching bolt is recessed to
+allow the insertion of an internal wrench when installing or
+removing the bolt. Special high-strength nuts are used on
+these bolts. Replace an internal wrenching bolt with another
+internal wrenching bolt. Standard AN hex head bolts and
+washers cannot be substituted for them, as they do not have
+the required strength.
+
+Identification and Coding
+Bolts are manufactured in many shapes and varieties. A
+clear-cut method of classification is difficult. The shape of
+the head, method of securing, material used in fabrication,
+or the expected usage can identify bolts.
+AN-type aircraft bolts can be identified by the code markings
+on the bolt heads. The markings generally denote the bolt
+manufacturer, the material used to make the bolt, and whether
+the bolt is a standard AN-type or a special purpose bolt.
+•
+
+AN standard steel bolts are marked with either a raised
+
+7-38
+

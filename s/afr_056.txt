@@ -1,0 +1,2106 @@
+FAA-H-8083-31B Airframe Handbook, chapter 15 (Ice & Rain Protection), PDF pages 881-902
+
+===== PDF PAGE 881 =====
+Chapter 15
+
+Ice & Rain Protection
+Ice Control Systems
+Rain, snow, and ice are transportation’s longtime enemies.
+Flying has added a new dimension, particularly with respect
+to ice. Under certain atmospheric conditions, ice can build
+rapidly on airfoils and air inlets. On days when there is
+visible moisture in the air, ice can form on aircraft leadingedge surfaces at altitudes where freezing temperatures
+start. Water droplets in the air can be supercooled to below
+freezing without actually turning into ice unless they are
+disturbed in some manner. This unusual occurrence is partly
+due to the surface tension of the water droplet not allowing
+the droplet to expand and freeze. However, when aircraft
+surfaces disturb these droplets, they immediately turn to ice
+on the aircraft surfaces.
+The two types of ice encountered during flight are clear and
+rime. Clear ice forms when the remaining liquid portion of
+the water drop flows out over the aircraft surface, gradually
+freezing as a smooth sheet of solid ice. Formation occurs
+when droplets are large, such as in rain or in cumuliform
+clouds. Clear ice is hard, heavy, and tenacious. Its removal
+by deicing equipment is especially difficult.
+Rime ice forms when water drops are small, such as those in
+stratified clouds or light drizzle. The liquid portion remaining
+after initial impact freezes rapidly before the drop has time
+to spread over the aircraft surface. The small frozen droplets
+trap air giving the ice a white appearance. Rime ice is lighter
+in weight than clear ice and its weight is of little significance.
+However, its irregular shape and rough surface decrease
+the effectiveness of the aerodynamic efficiency of airfoils,
+reducing lift and increasing drag. Rime ice is brittle and more
+easily removed than clear ice.
+
+2.
+
+The additional weight and unequal formation of the ice
+that could cause unbalancing of the aircraft, making
+it hard to control.
+
+Enough ice to cause an unsafe flight condition can form in a
+very short period of time, thus some method of ice prevention
+or removal is necessary. Figure 15-1 shows the effects of ice
+on a leading edge.
+Icing Effects
+Ice buildup increases drag and reduces lift. It causes
+destructive vibration and hampers true instrument readings.
+Control surfaces become unbalanced or frozen. Fixed slots
+are filled and movable slots jammed. Radio reception is
+hampered, and engine performance is affected. Ice, snow, and
+slush have a direct impact on the safety of flight. Not only
+because of degraded lift, reduced takeoff performance, and/
+or maneuverability of the aircraft, but when chunks break off,
+they can also cause engine failures and structural damage.
+Fuselage aft-mounted engines are particularly susceptible
+to this foreign object damage (FOD) phenomenon. Wingmounted engines are not excluded however. Ice can be present
+on any part of the aircraft and, when it breaks off, there is
+some probability that it could go into an engine. The worst
+case is that ice on the wing breaks off during takeoff due to the
+flexing of the wing and goes directly into the engine, leading
+to surge, vibration, and complete thrust loss. Light snow that
+is loose on the wing surfaces and the fuselage can also cause
+engine damage leading to surge, vibration, and thrust loss.
+
+Mixed clear and rime icing can form rapidly when water
+drops vary in size or when liquid drops intermingle with
+snow or ice particles. Ice particles become imbedded in
+clear ice, building a very rough accumulation sometimes in
+a mushroom shape on leading edges. Ice may be expected
+to form whenever there is visible moisture in the air and
+temperature is near or below freezing. An exception is
+carburetor icing, which can occur during warm weather with
+no visible moisture present.
+Ice or frost forming on aircraft creates two basic hazards:
+1.
+
+The resulting malformation of the airfoil that could
+decrease the amount of lift.
+
+Figure 15-1. Formation of ice on aircraft leading edge.
+
+15-1
+
+===== PDF PAGE 882 =====
+Effects of icing are cumulative
+Lift decreases
+
+Thrust decreases
+
+Drag increases
+
+increased airspeed must be maintained to compensate for
+this increased stall speed. After touchdown with heavy ice
+accumulation, landing distances may be as much as twice the
+normal distance due to the increased landing speeds. In this
+chapter, ice prevention and ice elimination using pneumatic
+pressure, application of heat, and the application of fluid is
+discussed.
+The ice and rain protection systems used on aircraft keep ice
+from forming on the following airplane components:
+•
+
+Wing leading edges.
+
+Weight increases
+
+•
+
+Horizontal and vertical stabilizer leading edges.
+
+Stalling speed increases
+
+•
+
+Engine cowl leading edges.
+
+•
+
+Propellers.
+
+•
+
+Propeller spinner.
+
+•
+
+Air data probes.
+
+•
+
+Flight deck windows.
+
+•
+
+Water and waste system lines and drains.
+
+•
+
+Antenna.
+
+Figure 15-2. Effects of structural icing.
+
+Whenever icing conditions are encountered, the performance
+characteristics of the airplane deteriorate. [Figure 15-2]
+Increased aerodynamic drag increases fuel consumption,
+reducing the airplane’s range and making it more difficult to
+maintain speed. Decreased rate of climb must be anticipated,
+not only because of the decrease in wing and empennage
+efficiency but also because of the possible reduced efficiency
+of the propellers and increase in gross weight. Abrupt
+maneuvering and steep turns at low speeds must be avoided
+because the airplane stalls at higher-than-published speeds
+with ice accumulation. On final approach for landing,
+
+Figure 15-3 gives an overview of ice and rain protection
+systems installed in a large transport category aircraft. In
+modern aircraft, many of these systems are automatically
+controlled by the ice detection system and onboard computers.
+
+Ice and rain
+protection
+
+Wing anti-ice
+
+Engine anti-ice
+
+Ice detection
+
+Air data
+sensor heat
+
+Windows
+
+Pitot probe
+heat
+
+Angle of attack
+sensor heat
+
+Total air
+temperature
+probe heat
+
+Engine probe
+heat
+
+Hydrophobic
+coating
+
+Flight
+compartment
+window anti-ice
+
+Windshield
+wiper system
+
+Hydrophobic
+coating
+
+Gray water
+drain line
+heater
+
+Drain mast
+heater
+
+Waste drain
+line heat
+
+Water supply
+inline heater
+
+Water tank
+drain heater
+
+Drain and
+water line
+heating
+
+Waste tank
+rinse fitting
+heater
+
+Figure 15-3. Ice and rain protection systems.
+
+15-2
+
+===== PDF PAGE 883 =====
+Electrical connector
+
+Housing
+
+Strut
+Right ice detector
+Probe
+
+Left ice detector
+
+Figure 15-4. An ice detector alerts the flight crew of icing conditions and, on some aircraft, automatically activates ice protection systems.
+One or more detectors are located on the forward fuselage.
+
+Ice Detector System
+Ice can be detected visually, but most modern aircraft have
+one or more ice detector sensors that warn the flight crew of
+icing conditions. An annunciator light comes on to alert the
+flight crew. In some aircraft models, multiple ice detectors
+are used, and the ice detection system automatically turns
+on the WAI systems when icing is detected. [Figure 15-4]
+Ice Prevention
+Several means to prevent or control ice formation are used
+in aircraft today:
+1.
+
+Heating surfaces with hot air.
+
+2.
+
+Heating by electrical elements.
+
+3.
+
+Breaking up ice formations, usually by inflatable
+boots.
+
+4.
+
+Chemical application.
+
+Equipment is designed for anti-icing or for deicing. Anti-icing
+equipment is turned on before entering icing conditions and
+is designed to prevent ice from forming. A surface may be
+anti-iced by keeping it dry, by heating to a temperature that
+
+evaporates water upon impingement, or by heating the surface
+just enough to prevent freezing, maintaining it running wet.
+Deicing equipment is designed to remove ice after it begins
+to accumulate typically on the wings and stabilizer leading
+edges. Ice may be controlled on aircraft structure by the
+methods described in Figure 15-5.
+
+Wing & Stabilizer Anti-Icing Systems
+The wing leading edges, or leading-edge slats, and horizontal
+and vertical stabilizer leading edges of many aircraft make
+and models have anti-icing systems installed to prevent the
+formation of ice on these components. The most common
+anti-icing systems used are thermal pneumatic, thermal
+electric, and chemical. Most general aviation (GA) aircraft
+equipped to fly in icing conditions use pneumatic deicing
+boots or a chemical anti-ice system. High-performance
+aircraft may have “weeping wings.” Large transport-category
+aircraft are equipped with advanced thermal pneumatic
+or thermal electric anti-icing systems that are controlled
+automatically to prevent the formation of ice.
+
+Location of Ice
+
+Method of Control
+
+Leading edge of the wing
+
+Thermal pneumatic, thermal electric, chemical, and pneumatic (deice)
+
+Leading edges of vertical and horizontal stabilizers
+
+Thermal pneumatic, thermal electric, and pneumatic (deice)
+
+Windshield, windows
+
+Thermal pneumatic, thermal electric, and chemical
+
+Heater and engine air inlets
+
+Thermal pneumatic and thermal electric
+
+Pitot and static air data sensors
+
+Thermal electric
+
+Propeller blade leading edge and spinner
+
+Thermal electric and chemical
+
+Carburetor(s)
+
+Thermal pneumatic and chemical
+
+Lavatory drains and potable water lines
+
+Thermal electric
+
+Figure 15-5. Typical ice control methods.
+
+15-3
+
+===== PDF PAGE 884 =====
+wings, leading edge slats, horizontal and vertical stabilizers,
+engine inlets, and more. There are several sources of heated
+air, including hot bleed air from the turbine compressor,
+engine exhaust heat exchangers, and ram air heated by a
+combustion heater.
+
+Wing Anti-Ice (WAI) System
+
+Figure 15-6. Aircraft with thermal WAI system.
+
+Thermal Pneumatic Anti-icing
+Thermal systems used for the purpose of preventing the
+formation of ice or for deicing airfoil leading edges usually
+use heated air ducted spanwise along the inside of the leading
+edge of the airfoil and distributed around its inner surface.
+These thermal pneumatic anti-icing systems are used for
+
+Thermal wing anti-ice (WAI or TAI) systems for business
+jet and large-transport category aircraft typically use hot air
+bled from the engine compressor. [Figure 15-6] Relatively
+large amounts of very hot air can be bled off the compressor,
+providing a satisfactory source of anti-icing heat. The hot
+air is routed through ducting, manifolds, and valves to
+components that need to be anti-iced. Figure 15-7 shows a
+typical WAI system schematic for a business jet. The bleed
+air is routed to each wing leading edge by an ejector in each
+wing inboard area. The ejector discharges the bleed air into
+piccolo tubes for distribution along the leading edge. Fresh
+ambient air is introduced into the wing leading edge by two
+flush-mounted ram air scoops in each wing leading edge,
+one at the wing root and one near the wingtip. The ejectors
+entrain ambient air, reduce the temperature of the bleed air,
+
+Overboard outlet
+
+350 °F overtemp switch
+
+MASTER
+
+STBY BATT
+ARM
+
+FAIL
+ON
+
+O
+F
+F
+
+212 °F overtemp switches
+BATT TEST
+
+Normally closed (NC) 41 psi
+regulator shutoff valve
+
+140 °F operation switches
+
+3.5 psi switch
+212 °F overtemp switches
+
+R
+H
+
+350 °F overtemp switch
+
+L
+O
+A
+D
+B
+U
+S
+
+Overboard outlet
+
+Thrust lever 60% switches
+
+Figure 15-7. Thermal WAI system.
+
+15-4
+
+===== PDF PAGE 885 =====
+and increase the mass airflow in the piccolo tubes. The wing
+leading edge is constructed of two skin layers separated by a
+narrow passageway. [Figure 15-8] The air directed against
+the leading edge can only escape through the passageway,
+after which it is vented overboard through a vent in the
+bottom of the wingtip.
+When the WAI switch is turned on, the pressure regulator is
+energized, and the shutoff valve opens. When the wing leading
+edge temperature reaches approximately +140 °F, temperature
+switches turn on the operation light above the switch. If the
+temperature in the wing leading edge exceeds approximately
++212 °F (outboard) or +350 °F (inboard), the red WING OV
+HT warning light on the annunciator panel illuminates.
+The ducting of WAI systems usually consists of aluminum
+alloy, titanium, stainless steel, or molded fiberglass tubes. The
+tube, or duct, sections are attached to each other by bolted end
+flanges or by band-type V-clamps. The ducting is lagged with
+a fire-resistant, heat-insulating material, such as fiberglass.
+In some installations, thin stainless-steel expansion bellows
+are used. Bellows are located at strategic positions to absorb
+any distortion or expansion of the ducting that may occur due
+to temperature variations. The joined sections of ducting are
+hermetically sealed by sealing rings. These seals are fitted
+into annular recesses in the duct joint faces.
+When installing a section of duct, make certain that the seal
+bears evenly against and is compressed by the adjacent joint’s
+flange. When specified, the ducts should be pressure tested
+at the pressure recommended by the manufacturer of the
+aircraft concerned. Leak checks are made to detect defects
+in the duct that would permit the escape of heated air. The
+rate of leakage at a given pressure should not exceed that
+recommended in the aircraft maintenance manual.
+
+Contour-etched outer skin
+
+Front
+spar
+Inner skin
+Anti-icing
+air
+duct
+
+Leading edge
+diaphragm
+Inner
+skin
+
+Exhaust
+Figure 15-8. Heated wing leading edge.
+
+Air leaks can often be detected audibly and are sometimes
+revealed by holes in the lagging or thermal insulation material.
+However, if difficulty arises in locating leaks, a soap-andwater solution may be used. All ducting should be inspected
+for security, general condition, or distortion. Lagging or
+insulating blankets must be checked for security and must
+be free of flammable fluids, such as oil or hydraulic fluid.
+
+Leading Edge Slat Anti-Ice System
+Aircraft that utilize leading edge slats often use bleed air from
+the engine compressor to prevent the formation of frost on
+these surfaces. On a modern transport category aircraft, the
+pneumatic system supplies bleed air for this purpose. WAI
+valves control the air flow from the pneumatic system to WAI
+ducts. The WAI ducts carry the air to the slats. Holes in the
+bottom of each slat let the air out.
+The airfoil and cowl ice protection system (ACIPS) computer
+card controls the WAI valves, and pressure sensors send duct
+air pressure data to the computer. The aircrew can select an
+auto or manual mode with the WAI selector. In the auto mode,
+the system turns on when the ice detection system detects
+ice. The off and on positions are used for manual control of
+the WAI system. The WAI system is only used in the air,
+except for ground tests. The weight on wheels system and/
+or airspeed data disarms the system when the aircraft is on
+the ground. [Figure 15-9]
+WAI Valve
+The WAI valve controls the flow of bleed air from the
+pneumatic system to the WAI ducts. The valve is electrically
+controlled and pneumatically actuated. The torque motor
+controls operation of the valve. With no electrical power to
+the torque motor, air pressure on one side of the actuator holds
+the valve closed. Electrical current through the torque motor
+allows air pressure to open the valve. As the torque motor
+current increases, the valve opening increases. [Figure 15-10]
+WAI Pressure Sensor
+The WAI pressure sensor senses the air pressure in the WAI
+duct after the WAI valve. The ACIPS computer card uses the
+pressure information to control the WAI system.
+WAI Ducts
+The WAI ducts move air from the pneumatic system
+through the wing leading edge to the leading-edge slats.
+Figure 15-9 shows that only leading edge slat sections 3, 4,
+and 5 on the left wing and 10, 11, and 12 on the right wing
+receive bleed air for WAI. Sections of the WAI ducting are
+perforated. The holes allow air to flow into the space inside
+the leading-edge slats. The air leaves the slats through holes
+in the bottom of each slat. Some WAI ducts have connecting
+“T” ducts that telescope to direct air into the slats while
+15-5
+
+===== PDF PAGE 886 =====
+OFF
+
+AUTO
+
+ON
+
+OPAS
+
+AIMS
+
+WOW
+
+ASCPC
+ECSMC
+WES
+
+ADIRU
+
+L&R systems
+ARINC 629 buses
+
+Anti-ice/lighting panel (P5)
+
+Ice detector
+(left)
+
+ACIPS control
+card—EAI (left)
+
+ACIPS control
+card—WAI
+
+Engine bleed air
+
+ACIPS control
+card—EAI (right)
+
+Ice detector
+(right)
+
+Engine bleed air
+
+WAI valve
+
+WAI valve
+7
+
+WAI pressure sensor
+
+8
+
+6
+
+WAI pressure sensor
+
+9
+5
+
+WAI duct
+
+4
+3
+
+2
+
+10
+
+d
+
+te
+
+a
+He
+
+1
+
+11
+
+He
+
+s
+
+t
+sla
+
+WAI duct
+
+at
+
+ed
+
+sla
+
+ts
+
+APU bleed air
+
+12
+13
+14
+
+Figure 15-9. Wing leading edge slat anti-ice system.
+
+Locking crank and position indicator
+Locking screw
+Electrical connector
+
+Torque motor
+
+Actuator
+
+Body
+
+extended. The telescoping section attached to the slat on
+one end, slides over the narrow diameter “T” section that
+is connected into the WAI duct. A seal prevents any loss of
+air. This arrangement allows warm air delivery to the slats
+while retracted, in transit, and fully deployed. [Figure 15-11]
+WAI Control System
+Modern aircraft use several onboard computers to control
+aircraft systems. The WAI system is controlled by the ACIPS
+computer card. The ACIPS computer card controls both WAI
+valves. The required positions of the WAI valves change
+as bleed air temperature and altitude change. The left and
+right valves operate at the same time to heat both wings
+equally. This keeps the airplane aerodynamically stable in
+icing conditions. The WAI pressure sensors supply feedback
+information to the WAI ACIPS computer card for WAI valve
+control and position indication. If either pressure sensor fails,
+the WAI ACIPS computer card sets the related WAI valve to
+either fully open or fully closed. If either valve fails closed,
+the WAI computer card keeps the other valve closed.
+
+Figure 15-10. A wing anti-ice valve.
+
+15-6
+
+===== PDF PAGE 887 =====
+Wing anti-ice control valve
+Ground overheat thermal switch
+
+Wing TAI supply manifold
+A
+
+Pneumatic duct
+A
+
+Wing TAI supply manifold duct
+
+Wing front spar
+
+Inner telescoping duct
+Telescoping duct door
+Outer telescoping duct
+Slat inner skin
+TAI airflow between beam
+and slat upper skin
+Spacers between
+skin and beam
+Slat anti-icing spray ducts
+
+Slat
+
+Slat beam
+
+Figure 15-11. WAI ducting.
+
+15-7
+
+===== PDF PAGE 888 =====
+There is one selector for the WAI system. The selector has
+three positions: auto, on, and off. With the selector in auto
+and no operational mode inhibits, the WAI ACIPS computer
+card sends a signal to open the WAI valves when either ice
+detector detects ice. The valves close after a 3-minute delay
+when the ice detector no longer detects ice. The time delay
+prevents frequent on/off cycles during intermittent icing
+conditions. With the selector on and no operational mode
+inhibits, the WAI valves open. With the selector off, the WAI
+valves close. The operational mode for the WAI valves can be
+inhibited by many different sets of conditions. [Figure 15-12]
+The operational mode is inhibited if all of these conditions
+occur:
+•
+
+Auto mode is selected.
+
+•
+
+Takeoff mode is selected.
+
+•
+
+Airplane has been in the air less than 10 minutes.
+
+With auto or on selected, the operational mode is inhibited
+if any of these conditions occur:
+
+28V DC
+right
+main
+WAI
+bus
+CTRL
+P210 right power
+management panel
+WING
+
+•
+
+Airplane on the ground (except during an initiated or
+periodic built-in test equipment (BITE) test).
+
+•
+
+Total Air Temperature (TAT) is more than 50 °F
+(10 °C) and the time since takeoff is less than 5
+minutes.
+
+•
+
+Auto slat operation.
+
+•
+
+Air-driven hydraulic pump operation.
+
+•
+
+Engine start.
+
+•
+
+Bleed air temperature less than 200 °F (93 °C).
+
+The WAI valves stay closed as long as the operational mode
+inhibit is active. If the valves are already open, the operational
+mode inhibit causes the valves to close.
+WAI Indication System
+The aircrew can monitor the WAI system on the onboard
+computer maintenance page. [Figure 15-13] The following
+information is shown:
+•
+
+WING MANIFOLD PRESS—pneumatic duct
+pressure in PSIG.
+
+On
+Auto &
+wing ice
+
+Left, Right Arinc
+629 systems
+buses
+
+Right WAI
+valve
+
+Takeoff
+mode
+
+OFF AUTO ON
+
+Air < 10
+minutes
+
+OPAS
+
+Set valve
+positions
+according
+to flow
+schedule
+
+Ground
+mach < 0.18
+In air < 5 min
+
+Wing
+ice
+
+Wing
+ice
+
+Air
+Ice detector (2)
+
+ACIPS
+control
+card—
+EAI (2)
+
+WOW
+ADIRU
+WES
+ASCPC
+ECSMC
+AIMS
+FMCS
+
+ASG
+cards
+(2)
+
+TAT > SOF
+(10 °C)
+Auto slat
+ADP operation
+Engine start
+Bleed temp
+< 200 °F (93 °C)
+
+Left WAI
+pressure
+sensor
+
+Precooler out temp
+Flow rate
+
+WAI selector (P5)
+
+Right WAI
+pressure
+sensor
+
+240 °F
+310 °F
+380 F
+450 °°F
+
+Left WAI
+pressure
+sensor
+
+Altitude
+Flow schedule example
+ACIPS control card—WAI
+P84 right systems card file
+Figure 15-12. WAI inhibit logic schematic.
+
+15-8
+
+===== PDF PAGE 889 =====
+Ice Protection
+Altitude 10,000
+TAT
+-2
+Ice detection:
+Engine anti-ice:
+Fincase duct leak signal
+Valve
+Supply air temp
+Air pressure
+Air flow
+Wing anti-ice:
+Wing manifold pressure
+Valve
+Air pressure
+Air flow
+
+Eng Type - L
+Engine/wing
+
+R
+Engine/wing
+
+Normal
+Regulating
+884
+13
+13
+
+Normal
+Regulating
+884
+13
+13
+
+50
+Regulating
+19
+85
+
+50
+Regulating
+19
+85
+
+Figure 15-13. Ice protection onboard computer maintenance page.
+
+•
+
+VALVE—WAI valve open, closed, or regulating.
+
+•
+
+AIR PRESS—pressure downstream of the WAI valves
+in PSIG.
+
+•
+
+AIR FLOW—air flow through the WAI valves in
+pounds per minute.
+
+WAI System Built-In Test Equipment (BITE) Test
+BITE circuits in the WAI ACIPS computer card continuously
+monitor the WAI system. Faults that affect the dispatch
+of the aircraft cause status messages. Other faults cause
+central maintenance computer system (CMCS) maintenance
+messages. The BITE in the WAI ACIPS computer card also
+performs automatic power-up and periodic tests. Faults
+found during these tests that affect dispatch cause status
+messages. Other faults cause CMCS maintenance messages.
+The power-up test occurs when the card gets power. BITE
+does a test of the card hardware and software functions and
+the valve and pressure sensor interfaces. The valves do not
+move during this test.
+The periodic test occurs when all these conditions are true:
+•
+
+The airplane has been on the ground between 1 and
+5 minutes.
+
+•
+
+The WAI selector is set to auto or on.
+
+•
+
+Air-driven hydraulic pumps are not in intermittent
+operation.
+
+•
+
+Bleed pressure is sufficient to open the WAI valves.
+
+•
+
+The time since the last periodic test is more than
+24 hours.
+
+•
+
+During this test, the WAI valves cycle open and
+closed. This test makes sure that valve malfunctions
+are detected.
+
+Thermal Electric Anti-Icing
+Electricity is used to heat various components on an aircraft
+so that ice does not form. This type of anti-ice is typically
+limited to small components due to high amperage draw.
+Effective thermal electric anti-ice is used on most air data
+probes, such as pitot tubes, static air ports, TAT and AOA
+probes, ice detectors, and engine P2/T2 sensors. Water lines,
+waste water drains, and some turboprop inlet cowls are also
+heated with electricity to prevent ice from forming. Transport
+category and high-performance aircraft use thermal electric
+anti-icing in windshields.
+In devices that use thermal electric anti-ice, current flows
+through an integral conductive element that produces heat.
+The temperature of the component is elevated above the
+freezing point of water, so ice cannot form. Various schemes
+are used, such as an internal coil wire, externally wrapped
+blankets or tapes, as well as conductive films and heated
+gaskets. A basic discussion of probe heat follows. Windshield
+heat and portable water heat anti-ice are discussed later in
+this chapter. Propeller deice boots, which also are used for
+anti-ice, are also thermal electric and discussed in this chapter.
+Data probes that protrude into the ambient airstream
+are particularly susceptible to ice formation in flight.
+Figure 15-14 illustrates the types and location probes that use
+thermal electric heat on one airliner. A pitot tube, for example,
+contains an internal electric element that is controlled by a
+switch in the flight deck. Use caution checking the function
+of the pitot heat when the aircraft is on the ground. The tube
+gets extremely hot since it must keep ice from forming at
+altitude in temperatures near -50 °F at speeds possibly over
+500 miles per hour. An ammeter or load meter in the circuit
+can be used to safely determine functionality.
+Simple probe heat circuits exist on GA aircraft with a switch
+and a circuit breaker to activate and protect the device.
+Advanced aircraft may have more complex circuitry in which
+control is by computer and flight condition of the aircraft
+is considered before thermal electric heaters are activated
+automatically. Figure 15-15 shows such a circuit for a pitot
+tube. The primary flight computer (PFC) supplies signals
+for the air data card (ADC) to energize ground and air heat
+control relays to activate probe heat. Information concerning
+speed of the aircraft, whether it is in the air or on the ground,
+and if the engines are running, are factors considered by the
+ADC logic. Similar controls are used for other probe heaters.
+Chemical Anti-Icing
+Chemical anti-icing is used in some aircraft to anti-ice the
+leading edges of the wing, stabilizers, windshields, and
+propellers. The wing and stabilizer systems are often called
+weeping wing systems or are known by their trade name of
+15-9
+
+===== PDF PAGE 890 =====
+Right AOA sensor
+
+Left AOA sensor
+
+P2/T2 probe
+Right pitot probe
+
+TAT probe
+
+Left pitot probe
+
+Right ice detector
+
+Left ice detector
+
+Center pitot probe
+
+Figure 15-14. Probes with thermal electric anti-icing on one commercial airliner.
+
+Left pitot probe
+
+Off
+115V AC
+left XFR bus
+
+AIMS
+
+Pitot probe HTR L
+AFDC
+
+On
+
+28V DC
+left main bus
+
+1
+
+1
+
+1
+
+Probe heat
+sensor relay
+
+PFC
+
+ADIRU
+
+SAARU
+
+Flight controls ARINC 629 bus
+
+Probe/vane
+HTR ctrl L
+Ground
+heat
+control
+relay
+
+Air heat
+control relay
+
+Pitot heat indication
+• Failed On
+• Failed Off
+In air or
+> 50 knots
+
+On GND and
+One or both
+engines on
+
+P110 left power management panel
+NOTE: Left pitot probe heat system shown
+Right and center systems similar
+1
+
+See AOA probe heat
+
+Left pitot ADM
+
+Figure 15-15. Pitot probe heat system.
+
+15-10
+
+===== PDF PAGE 891 =====
+TKS™ systems. Ice protection is based upon the freezing
+point depressant concept. An antifreeze solution is pumped
+from a reservoir through a mesh screen embedded in the
+leading edges of the wings and stabilizers. Activated by a
+switch in the flight deck, the liquid flows over the wing and
+tail surfaces, preventing the formation of ice as it flows.
+The solution mixes with the supercooled water in the cloud,
+depresses its freezing point, and allows the mixture to flow
+off of the aircraft without freezing. The system is designed
+to anti-ice, but it is also capable of deicing an aircraft as
+well. When ice has accumulated on the leading edges,
+the antifreeze solution chemically breaks down the bond
+between the ice and airframe. This allows aerodynamic
+forces to carry the ice away. Thus, the system clears the
+airframe of accumulated ice before transitioning to anti-ice
+protection. Figure 15-16 shows a chemical anti-ice system.
+
+with non-perforated stainless-steel rear panels and bonded
+to wing and stabilizer leading edges. As fluid is delivered
+from a central reservoir and pump, it seeps through the holes.
+Aerodynamic forces cause the fluid to coat the upper and
+lower surfaces of the airfoil. The glycol-based fluid prevents
+ice from adhering to the aircraft structure.
+
+The TKS™ weeping wing system contains formed titanium
+panels that are laser drilled with over 800 tiny holes
+(.0025-inch diameter) per square inch. These are mated
+
+Wing & Stabilizer Deicing Systems
+
+Some aircraft with weeping wing systems are certified to
+fly into known icing conditions. Others use it as a hedge
+against unexpected ice encountered in flight. The systems
+are basically the same. Reservoir capacity permits 1- 2 hours
+of operation. TKSTM weeping wings are used primarily on
+reciprocating aircraft that lack a supply of warm bleed air
+for the installation of a thermal anti-ice system. However,
+the system is simple and effective leading to its use on some
+turbine powered corporate aircraft as well.
+
+GA aircraft and turboprop commuter-type aircraft often use a
+pneumatic deicing system to break off ice after it has formed
+
+Slinger ring in spinner
+
+Spray bar
+Porous panel on wing
+
+Proportioning unit
+
+Filter
+Solenoid
+valve
+
+Proportioning unit
+High pressure switch
+Tank
+
+Vent
+
+Metering pump
+
+3/16" OD nylon
+
+Windshield pump
+
+5/16" OD nylon
+
+Low pressure switch
+
+1/2" OD nylon
+3/16" OD stainless steel
+Porous panel on stabilizer
+
+Proportioning unit
+
+Porous panel on vertical stabilizer
+
+Figure 15-16. Chemical deicing system.
+
+15-11
+
+===== PDF PAGE 892 =====
+on the leading-edge surfaces. The leading edges of the wings
+and stabilizers have inflatable boots attached to them. The
+boots expand when inflated by pneumatic pressure, which
+breaks away ice accumulated on the boot. Most boots are
+inflated for 6 to 8 seconds. They are deflated by vacuum
+suction. The vacuum is continuously applied to hold the boots
+tightly against the aircraft while not in use.
+Sources of Operating Air
+The source of operating air for deice boot systems varies with
+the type of powerplant installed on the aircraft. Reciprocating
+engine aircraft typically use a dedicated engine-driven air
+pump mounted on the accessory drive gear box of the engine.
+The suction side of the pump is used to operate the gyroscopic
+instruments installed on the aircraft. It is also used to hold the
+deice boots tight to the aircraft when they are not inflated.
+The pressure side of the pump supplies air to inflate the deice
+boots, which breaks up ice that has formed on the wing and
+stabilizer leading edges. The pump operates continuously.
+Valves, regulators, and switches in the flight deck are used
+to control the flow of source air to the system.
+
+Turbine Engine Bleed Air
+The source of deice boot operating air on turbine engine
+aircraft is typically bleed air from the engine compressor(s).
+A relatively low volume of air on an intermittent basis is
+required to operate the boots. This has little effect on engine
+power enabling use of bleed air instead of adding a separate
+engine-driven air pump. Valves controlled by switches in the
+flight deck deliver air to the boots when requested.
+Pneumatic Deice Boot System for GA Aircraft
+GA aircraft, especially twin-engine models, are commonly
+equipped with pneumatic deicer systems. Rubber boots are
+attached with glue to the leading edges of the wings and
+stabilizers. These boots have a series of inflatable tubes.
+During operation, the tubes are inflated and deflated in an
+alternating cycle. [Figure 15-17] This inflation and deflation
+causes the ice to crack and break off. The ice is then carried
+away by the airstream. Boots used in GA aircraft typically
+inflate and deflate along the length of the wing. In larger
+turbo prop aircraft, the boots are installed in sections along
+the wing with the different sections operating alternately
+and symmetrically about the fuselage. This is done so that
+any disturbance to airflow caused by an inflated tube is kept
+to a minimum by inflating only short sections on each wing
+at a time.
+
+GA System Operation
+Figure 15-18 shows a deice system used on a GA twin-engine
+aircraft with reciprocating engines. In normal flight, all of the
+components in the deice system are de-energized. Discharge
+air from the dry air pumps is dumped overboard through the
+
+Figure 15-17. Cross-section of a pneumatic deicing boot uninflated
+
+(top) and inflated (bottom).
+
+deice control valves. The deflate valve is open connecting the
+deice boots to the suction side of the pump through the check
+valve manifold and the vacuum regulator. The gyroscopic
+instruments are also connected to the vacuum side of the dry
+air pump. The vacuum regulator is set to supply the optimum
+suction for the gyros, which is sufficient to hold the boots
+tightly against the airfoil surfaces.
+When the switch shown in Figure 15-19 is pushed ON, the
+solenoid-operated deice control valves in each nacelle open
+and the deflate valve energizes and closes. Pressurized air
+from the discharge side of the pumps is routed through the
+control valves to the deice boot. When the system reaches 17
+psi, pressure switches located on the deflate valve de-energize
+the deice control valve solenoids. The valves close and route
+pump air output overboard. The deflate valve opens and the
+boots are again connected to vacuum.
+On this simple system, the pilot must manually start this
+inflation/deflation cycle by pushing the switch each time deice
+is required. Larger aircraft with more complex systems may
+include a timer, which will cycle the system automatically
+until turned OFF. The use of distributor valves is also
+common. A distributor valve is a multi-position control valve
+controlled by the timer. It routes air to different deice boots in
+a sequence that minimizes aerodynamic disturbances as the
+ice breaks of the aircraft. Boots are inflated symmetrically on
+each side of the fuselage to maintain control in flight while
+deicing occurs. Distributor valves are solenoid operated and
+incorporate the deflate valve function to reconnect the deice
+boots with the vacuum side of the pump after all have been
+inflated.
+15-12
+
+===== PDF PAGE 893 =====
+Check valve manifold
+
+Vacuum regulator
+
+Vacuum regulator
+Gyro
+
+Vacuum
+gauge
+
+Dry air pump
+
+Inlet
+filter
+Gyro
+
+Cooling air
+
+Deflate valve
+Check valve
+Deice control valve
+To left wing device boot(s)
+
+Check valve
+Deice control valve
+To right wing device boot(s)
+
+LEGEND
+
+To empennage deice boot(s)
+Vacuum
+Pressure
+Vacuum and Pressure
+
+Figure 15-18. Pneumatic deicing system for a twin engine GA aircraft with reciprocating engines.
+
+Figure 15-19. Wing deice switch.
+
+Combining functional components of a deice system into
+a single unit is fairly common. Figure 15-20 illustrates the
+right side of a large aircraft deice boot system. The left side
+is the same. In addition to the distributor valves, which
+combine functions of a control valve and deflate valve, the
+system also uses a combination unit. This unit combines the
+functions of a shutoff control valve for all pump supply air,
+as well as a pressure regulator for the system. It also contains
+a secondary air filter.
+Deice System for Turboprop Aircraft
+Figure 15-21 shows a pneumatic deice system used on a
+turboprop aircraft. The source of pneumatic air is engine
+bleed air, which is used to inflate two inboard wing boots, two
+
+outboard boots, and horizontal stabilizer boots. Additional
+bleed air is routed through the brake deice valve to the brakes.
+A three-position switch controls the operation of the boots.
+This switch is spring loaded to the center OFF position.
+When ice has accumulated, the switch should be selected to
+the single-cycle (up) position and released. [Figure 15-22]
+Pressure-regulated bleed air from the engine compressors
+supply air through bleed air flow control units and pneumatic
+shutoff valves to a pneumatic control assembly that inflates
+the wing boots. After an inflation period of 6 seconds,
+an electronic timer switches the distributor in the control
+assembly to deflate the wing boots, and a 4-second inflation
+begins in the horizontal stabilizer boots. After these boots
+have been inflated and deflated, the cycle is complete, and
+all boots are again held down tightly against the wings and
+horizontal stabilizer by vacuum. The spring-loaded switch
+must be selected up again for another cycle to occur.
+Each engine supplies a common bleed air manifold. To ensure
+the operation of the system, if one engine is inoperative, a
+flow control unit with check valve is incorporated in the
+bleed air line from each engine to prevent the loss of pressure
+through the compressor of the inoperative engine. If the
+boots fail to function sequentially, they may be operated
+manually by selecting the DOWN position of the same
+deice cycle switch. Depressing and holding it in the manual
+15-13
+
+===== PDF PAGE 894 =====
+Outboard section
+
+}
+}
+
+Inboard section
+
+A1
+Inner
+
+Suction
+indicator
+
+A
+
+B
+
+Ram air
+inlet
+
+Combination unit
+
+Pressure
+relief valve
+
+Oil drain
+
+Ram air
+inlet
+
+Suction
+manifold
+
+Oil cooler
+
+Motor-operated
+shutoff valve
+
+Suction
+relief valve
+
+To flight deck
+switch
+
+Check valve
+
+Distributor valve
+(solenoid B
+shown energized,
+pressurizing
+boot B6)
+
+Horizontal stabilizer boots
+
+Dump
+B
+
+Electrical and electronic
+control timer
+
+Air overboard
+
+Shroud
+
+Engine-driven
+air pump
+
+B
+
+Dump
+
+Primary oil
+separator
+
+Pressure
+manifold
+
+Distributor
+valve
+A
+
+Distributor
+valve
+
+Pressure
+indicator
+
+B4
+Outer
+
+Solenoid
+
+Solenoid
+Dump
+
+To opposite wing
+engine air supply,
+distributor valves,
+and boots
+
+A3
+Inner
+
+B2
+Outer
+
+A
+
+Solenoid
+
+A5
+Inner
+
+B6
+Outer
+
+To boots on opposite side
+of horizontal stabilizer
+Pressure
+
+Suction
+
+Electrical connection
+
+Figure 15-20. Right-side deice boot system on a large aircraft (left side similar).
+
+15-14
+
+===== PDF PAGE 895 =====
+Pneumatic shutoff valves
+Vacuum regulator
+Engine P3 bleed air source
+
+Engine P3 bleed air source
+
+Bleed air flow control unit
+
+Bleed air flow control unit
+
+Deice boot
+
+Deice boot
+
+Brake deice valve
+Brake deice valve
+
+Deice boot
+
+Pneumatic control assembly
+
+Deice boot
+
+Pressure
+Vacuum
+Pressure or vacuum
+
+Figure 15-21. Wing deice system for turboprop aircraft.
+
+does not affect boot operation. Electric power to the boot
+system is required to inflate the boots in either single-cycle
+or manual operation. When electric power is lost, the vacuum
+holds the boots tightly against the leading edge.
+
+Figure 15-22. Ice protection panel on a turboprop aircraft with
+
+deice boots.
+
+DOWN position inflates all the boots simultaneously. When
+the switch is released, it returns to the (spring-loaded) off
+position, and each boot is deflated and held by vacuum. When
+operated manually, the boot should not be left inflated for
+more than 7 to 10 seconds, as a new layer of ice may begin
+to form on the expanded boots and become un-removable. If
+one engine is inoperative, the loss of its pneumatic pressure
+
+Deicing System Components
+Several components are used to construct all deice boot
+systems. The components may differ slightly in name
+and location within the system depending on the aircraft.
+Components may also combine functions to save space and
+weight. The basic functions of filtering, pressure regulation,
+distribution, and attachment to a vacuum when boots are not
+in use must all be present. Check valves must also be installed
+to prevent back flow in the system. Manifolds are common
+on multiengine aircraft to allow sourcing of low pressure
+air from both engine pumps. Note that air-pump pressure is
+typically expelled overboard when not needed. Bleed air is
+shut off by a valve when not needed for deice boot operation
+on turbine engine aircraft. A timer, or control unit with an
+automatic mode, exists on many aircraft to repeat the deice
+cycle periodically.
+
+15-15
+
+===== PDF PAGE 896 =====
+Wet-Type Engine-Driven Air Pump
+To provide pressure for the deice boots, older aircraft may use
+a wet-type engine-driven air pump mounted on the accessory
+drive gear case of the engine. Some modern aircraft may
+also use a wet-type air pump because of its durability. The
+pump is typically a four vane, positive displacement pump.
+Engine oil passes from the accessory case through the pump
+mounting base flange to lubricate the pump. Some of the
+oil is entrained in the output air and must be removed by
+an oil separator before it is sent through other components
+in the deice system. When installing a wet-type pump, care
+should be taken to ensure that the oil passage in the gasket,
+pump, and mounting flange are aligned to ensure lubrication.
+[Figure 15-23]
+
+Outlet port
+Intake port
+
+Dry-Type Engine-Driven Air Pump
+Most modern GA aircraft are equipped with a dry-type
+engine-driven air pump. It is also mounted on the engine
+accessory drive case; however, it is not lubricated with engine
+oil. The pump is constructed with carbon rotor vanes and
+bearings. The carbon material wears at a controlled rate to
+provide adequate lubrication without the need for oil. This
+keeps output air oil-free; thus, the use of an oil separator is
+not required. Caution should be used to prevent oil, grease,
+or degreasing fluids from entering the pump or the air system
+to ensure proper pump and system operation. [Figure 15-24]
+Dry-type and wet-type pumps are virtually maintenance free.
+Mounting bolts should be checked for security as should all
+hose connections. Wet-type pumps have a longer time before
+requiring overhaul, but dry-type pumps give the assurance
+that the deice system will not be contaminated with oil.
+
+Figure 15-23. A wet-type air pump with engine oil lubricating ports
+in the mounting flange.
+
+Oil Separator
+An oil separator is required for each wet-type air pump. Pump
+output air flows through the separator where most of the oil
+is removed and sent back to the engine though a drain line.
+Some systems may include a secondary separator to ensure oil
+free air is delivered to the deice system. There are no moving
+parts in an oil separator. A convoluted (coiled or twisted)
+interior allows the air to pass, while the oil condenses and
+drains back to the engine. The only maintenance required
+on the separator is flushing the interior of the unit with a
+specified solvent. This should be done at intervals prescribed
+in the applicable maintenance manual. [Figure 15-25]
+
+Control Valve
+A control valve is a solenoid operated valve that allows air
+from the pump to enter the deice system. When energized
+by the deice switch in the flight deck, the valve opens.
+The control valve dumps pump air overboard when the
+deice system is not in use. Many control valves are built in
+combination with pressure relief valves that keeps the deice
+system safe from over pressure. [Figure 15-26]
+
+Figure 15-24. Dry-type engine-driven air pump.
+
+Deflate Valve
+All deice boot systems require a means for connecting
+vacuum from the air pump to the boots when the boots are
+not in use. This ensures the boots are held tightly deflated
+against the aircraft structure to provide the significant change
+in size and shape needed to break off accumulated ice when
+the boots inflate. One single deflate valve is used on simple
+deice boot systems. The deflate valve is solenoid operated.
+It is located at a point in the system where when closed, air
+is delivered to the boots. When open, vacuum is applied.
+Often, the deflate function is built into another unit, such as
+a distributor valve discussed next.
+
+Distributor Valve
+A distributer valve is a type of control valve used in relatively
+complex deice boot systems. It is an electrically-operated
+solenoid valve controlled by the deice boot system timer
+15-16
+
+===== PDF PAGE 897 =====
+or control unit. On some systems, a distributor valve is
+assigned to each set of deice boots it controls. It differs from
+a control valve in that it has the deflate valve function built
+into it. Therefore, the distributor valve transfers connection
+of the boots from the pressure side of the air pump to the
+vacuum side of the pump once the proper inflation time has
+elapsed. The valve also dumps the unneeded air from the
+pump overboard.
+Another type of distributor valve exists that handles the
+inflation and deflation of numerous sets of deice boots in a
+single unit. It also connects the boots to vacuum and dumps
+pump air when deice is not needed. A servo motor is used to
+position the multi-position valve. These centralized units are
+controlled by a timer or control unit. They inflate and deflate
+all of the boots on the aircraft. The timer may be built into
+the unit on some models.
+
+Timer/Control Unit
+
+Figure 15-25. An oil separator used with a wet-type engine-driven
+
+air pump.
+
+All but the simplest of deice systems contain a timer or
+control unit. This device controls the action of the distributor
+valve(s) to ensure all boots are inflated in the proper sequence
+and for the correct duration. Six seconds of inflation is
+common to break off accumulated ice. The boot then must
+be immediately deflated so that ice does not adhere to the
+inflated geometry of the boot. This could cause it to fail to
+deflate or break off ice when the boot is re-inflated. The
+timer, or control unit, can also be made to cycle through the
+inflation and deflation of all boots periodically, thus relieving
+the flight crew of repetitive manual activation of the system.
+The function and capabilities of timers and control units vary.
+Consult the manufacturer’s maintenance information for the
+performance characteristics of the timer/control unit on the
+aircraft in question.
+The timer, or control unit, may be an independent device, or
+it may be built-in as part of another deice system component,
+such as a central distribution valve.
+Note: A modern system design may use a pressure switch to
+signal deflation of the deice boots. When pressure builds in
+the boots to a preset amount, the switch signals the control
+valve to close and connect the boots to vacuum. However,
+this system retains a control unit for automatic cycling of the
+system at a set time interval.
+
+Regulators & Relief Valves
+
+Figure 15-26. A solenoid operated deice control valve.
+
+Both the pressure and vacuum developed by an air pump
+must be regulated for use in the deice boot system. Typical
+boot inflation air pressure is between 15 and 20 psi. Vacuum
+pressure is set for the requirements of the gyroscopic
+instruments operated by the vacuum side of the air pump.
+Measured in inches of mercury, normal vacuum pressure
+(suction) is 4.5 to 5.5 "Hg.
+15-17
+
+===== PDF PAGE 898 =====
+Deice boot system air pressure is controlled by a pressure
+regulator valve located somewhere in the system downstream
+of the pump or oil separator, if installed. The regulator may
+be a stand-alone unit, or it may be combined into another
+deice system component. Regardless, the spring-loaded
+valve relieves pressure overboard when it exceeds the limit
+for which the system is designed.
+A vacuum regulator is installed in the vacuum manifold on
+the suction side of the air pump to maintain the vacuum at
+the designed level. Also known as a suction regulating valve
+or similar, the spring-loaded valve contains a filter for the
+ambient air drawn through the valve during operation. This
+filter must be changed or kept clean per manufacturer’s
+instructions. [Figure 15-27]
+
+Manifold Assembly
+In all pneumatic deice boot systems, it is necessary for check
+valves to be installed to prevent backflow of air in the system.
+The location(s) depends on system design. Sometimes, the
+check valve is built into another system component. On
+twin-engine aircraft, it is common to unite the air supplied
+from each engine-driven pump to provide redundancy.
+Check valves are required to guard against backflow should
+one pump fail. A manifold assemble is commonly used to
+join both sides of the system. [Figure 15-28] It contains the
+required check valves in a single assembly.
+
+Inlet Filter
+The air used in a deice boot system is ambient air drawn
+in upstream of the gyroscopic instruments on the suction
+side of the engine-driven air pump. This air must be free
+of contaminants for use spinning the gyros, as well as for
+inflation of the deice boots. To ensure clean air, an inlet
+filter is installed as the air intake point for the system. This
+filter must be regularly maintained as per manufacturer’s
+
+Figure 15-27. A vacuum regulator.
+
+Figure 15-28. A manifold assembly used in multiengine aircraft
+
+deice systems.
+
+instructions. Figure 15-29 shows a typical inlet air filter.
+Figure 15-30 shows the relationship of the vacuum regulator
+and inlet air filter to other system components.
+Construction & Installation of Deice Boots
+Deicer boots are made of soft, pliable rubber, or rubberized
+fabric, and contain tubular air cells. The outer ply of the
+deicer boot is of conductive neoprene to provide resistance
+to deterioration by the elements and many chemicals. The
+neoprene also provides a conductive surface to dissipate static
+electricity charges. These charges, if allowed to accumulate,
+would eventually discharge through the boot to the metal
+skin beneath, causing static interference with the radio
+equipment. [Figure 15-31]
+On modern aircraft, the deicer boots are bonded with an
+adhesive to the leading edge of wing and tail surfaces. The
+trailing edges of this type boot are tapered to provide a smooth
+airfoil. Elimination of fairing strips, screws, and rivnuts used
+
+Figure 15-29. Air filter for vacuum system.
+
+15-18
+
+===== PDF PAGE 899 =====
+Inlet air filter
+
+Vacuum regulator
+
+From deflate valve of deice boot system
+
+To control valve and deice boot system
+Engine-driven air pump
+
+Figure 15-30. Location of the inlet air filter in relationship to other components in a gyro instrument/pneumatic deice boot system.
+
+Figure 15-31. Deicing boots inflated (left) and deflated (right).
+
+15-19
+
+===== PDF PAGE 900 =====
+on older types of deicing boots reduces the weight of the deice
+system. The deicer boot air cells are connected to system
+pressure and vacuum lines by non-kinking flexible hose.
+When gluing the deice boots to the leading edge of wings
+and stabilizers, the manufacturer’s instruction must be strictly
+followed. The glue is typically a contact cement normally
+spread on both the airfoil and the boot and allowed to become
+tacky before mating the surfaces. Clean, paint-free surfaces
+are required for the glue to adhere properly. Removal of old
+boots is performed by re-softening the cement with solvent.
+Inspection, Maintenance, & Troubleshooting of
+Rubber Deicer Boot Systems
+Maintenance on pneumatic deicing systems varies with
+each aircraft model. The instructions of the airframe or
+system components manufacturer should be followed in
+all cases. Depending on the aircraft, maintenance usually
+consists of operational checks, adjustments, troubleshooting,
+and inspection.
+
+Operational Checks
+An operational check of the system can be made by operating
+the aircraft engines or by using an external source of air.
+Most systems are designed with a test plug to permit ground
+checking the system without operating the engines. When
+using an external air source, make certain that the air pressure
+does not exceed the test pressure established for the system.
+Before turning the deicing system on, observe the vacuumoperated instruments. If any of the gauges begin to operate,
+it is an indication that one or more check valves have failed
+to close and that reverse flow through the instruments is
+occurring. Correct the difficulty before continuing the test.
+If no movement of the instrument pointers occurs, turn on
+the deicing system. With the deicer system controls in their
+proper positions, check the suction and pressure gauges for
+
+proper indications. The pressure gauge fluctuates as the deicer
+tubes inflate and deflate. A relatively steady reading should
+be maintained on the vacuum gauge. It should be noted
+that not all systems use a vacuum gauge. If the operating
+pressure and vacuum are satisfactory, observe the deicers
+for actuation. With an observer stationed outside the aircraft,
+check the inflation sequence to be certain that it agrees with
+the sequence indicated in the aircraft maintenance manual.
+Check the timing of the system through several complete
+cycles. If the cycle time varies more than is allowable,
+determine the difficulty and correct it. Inflation of the deicers
+must be rapid to provide efficient deicing. Deflation of the
+boot being observed should be completed before the next
+inflation cycle. [Figure 15-32]
+
+Adjustments
+Examples of adjustments that may be required include
+adjusting the deicing system control cable linkages, adjusting
+system pressure relief valves, and deicing system vacuum
+(suction) relief valves. A pressure relief valve acts as a safety
+device to relieve excess pressure in the event of regulator
+valve failure. To adjust this valve, operate the aircraft engines
+and adjust a screw on the valve until the deicing pressure
+gauge indicates the specified pressure at which the valve
+should relieve. Vacuum relief valves are installed in a system
+that uses a vacuum pump to maintain constant suction during
+varying vacuum pump speeds. To adjust a vacuum relief
+valve, operate the engines. While watching the vacuum
+(suction) gauge, an assistant should adjust the suction relief
+valve adjusting screw to obtain the correct suction specified
+for the system.
+
+Troubleshooting
+Not all troubles that occur in a deicer system can be corrected
+by adjusting system components. Some troubles must be
+corrected by repair or replacement of system components or
+
+Figure 15-32. Test equipment used to test a wing deice system (left), and test equipment installed in the aircraft for testing (right).
+
+15-20
+
+===== PDF PAGE 901 =====
+by tightening loose connections. Several troubles common to
+pneumatic deicing systems are shown in the left-hand column
+of the chart in Figure 15-33. Note the probable causes and the
+remedy of each trouble listed in the chart. In addition to using
+troubleshooting charts, operational checks are sometimes
+necessary to determine the possible cause of trouble.
+
+Inspection
+During each preflight and scheduled inspection, check the
+deicer boots for cuts, tears, deterioration, punctures, and
+security; during periodic inspections, go a little further and
+check deicer components and lines for cracks. If weather
+cracking of rubber is noted, apply a coating of conductive
+cement. The cement, in addition to sealing the boots against
+weather, dissipates static electricity so that it does not
+
+Problem
+Boots do not inflate
+
+puncture the boots by arcing to the metal surfaces.
+Deice Boot Maintenance
+The life of the deicers can be greatly extended by storing
+them when they are not needed and by observing these rules
+when they are in service:
+1.
+
+Do not drag gasoline hoses over the deicers.
+
+2.
+
+Keep deicers free of gasoline, oil, grease, dirt, and
+other deteriorating substances.
+
+3.
+
+Do not lay tools on or lean maintenance equipment
+against the deicers.
+
+4.
+
+Promptly repair or resurface the deicers when abrasion
+or deterioration is noted.
+
+5.
+
+Wrap deice boots in paper or canvas when storing.
+
+Causes
+(most of which can be identified with a 343 Test Kit)
+• Open circuit breaker
+• Faulty deflate valve
+Solenoid inoperable:
+1. Improper voltage at solenoid
+2. Blocked air vent in solenoid
+3. Inoperative plunger
+Diaphragm not seated
+1. Blocked vent orifice located in rivet bottom at
+center of diaphragm
+2. Dirty diaphragm seal area
+3. Diaphragm ruptured
+• Two faulty deice control valves of faulty two-stage
+regulators
+• Faulty check valve
+• Relay not functioning
+• Leak in system boots
+
+Slow boot inflation
+
+• Lines blocked or disconnected
+• Low air pump capacity
+• One or more deice control valves not functioning
+properly
+• Deflate valve not fully closed
+• Ball check in deflate valve inoperative
+• Leaks in system or boots
+
+System will not cycle
+
+• Pressure in system not reaching specified psi to
+activate pressure switch
+
+Corrective action(s)
+• Reset circuit breaker
+• Check deflate valves as follows:
+Solenoid inoperable:
+1. Correct electrical system
+2. Clean with alcohol or replace
+3. Clean with alcohol or replace
+Diaphragm not seated
+1. Clean with .010 diameter wire and
+alcohol
+2. Clean with blunt instrument and
+alcohol
+3. Replace valve
+• Clean or replace valve assembly as noted
+above
+• Replace check valve
+• Check wiring or replace relay
+• Repair as needed
+• Check and replace lines
+• Replace air pump
+• Clean or replace valve assembly as noted
+above
+• Clean or replace valve assembly as noted
+above
+• Clean check valve or replace deflate valve
+• Repair as needed
+
+• Pressure switch on deflate valve inoperative
+
+• Clean or replace deice control valve as
+noted above
+• Clean or replace deflate valve, as noted
+above
+• Repair as needed, tighten all hose
+connections
+• Replace switch
+
+Slow deflation
+
+• Low vacuum
+• Faulty deflate valve (indicated by temporary reduction
+in suction gauge reading)
+
+• Repair as needed
+• Clean or replace valve assembly as noted
+above
+
+No vacuum for boot hold down
+
+• Malfunctioning deflate valve or deice valve
+• Leak in system or boots
+
+• Clean or replace valve assembly as noted
+above
+• Repair as needed
+
+Boots will not deflate during cycle
+
+• Faulty deflate valve
+
+• Check and replace valve
+
+Boots appear to inflate on aircraft climb
+
+• Vacuum source for boot holddown inoperative
+
+• Check operation of ball check in deflate
+valve
+• Check for loose or disconnected vacuum
+lines and repair
+
+• Leak in system or boots
+
+• Lines running through pressurized cabin loose or
+disconnected
+
+Figure 15-33. Troubleshooting guide for wing deice system.
+
+15-21
+
+===== PDF PAGE 902 =====
+Thus far, preventive maintenance has been discussed. The
+actual work on the deicers consists of cleaning, resurfacing,
+and repairing. Cleaning should ordinarily be done at the
+same time the aircraft is washed, using a mild soap and water
+solution. Grease and oil can be removed with a cleaning
+agent, such as naptha, followed by soap and water scrubbing.
+Whenever the degree of wear is such that it indicates that
+the electrical conductivity of the deicer surface has been
+destroyed, it may be necessary to resurface the deicer. The
+resurfacing substance is a black, conductive neoprene cement.
+Prior to applying the resurfacing material, the deicer must be
+cleaned thoroughly and the surface roughened. Cold patch
+repairs can be made on a damaged deicer. The deicer must
+be relieved of its installed tension before applying the patch.
+The area to be patched must be clean and buffed to roughen
+the surface slightly. Patches are glued in place. Follow
+manufacturer’s instructions for all repairs.
+Electric Deice Boots
+A few modern aircraft are equipped with electric deice
+boots on wing sections or on the horizontal stabilizer. These
+boots contain electric heating elements which are bonded
+
+to the leading edges similarly to pneumatic deice boots.
+When activated, the boots heat up and melt the ice off of
+leading edge surfaces. The elements are controlled by a
+sequence timer in a deice controller. Ice detector and ram
+air temperature probe inputs initiate operation when other
+flight condition parameters exist. The boot elements turn ON
+and OFF in paired sections to avoid aerodynamic imbalance.
+The system is inoperative while the aircraft is on the ground.
+Figure 15-34 illustrated such a system. A benefit of electric
+deice boots is the conservation of engine bleed air. Current
+draw is limited to only those periods when de-ice is required.
+
+Propeller Deice System
+The formation of ice on the propeller leading edges, cuffs,
+and spinner reduces the efficiency of the powerplant system.
+Deice systems using electrical heating elements and systems
+using chemical deicing fluid are used.
+Electrothermal Propeller Device System
+Many propellers are deiced by an electrically heated boot
+on each blade. The boot, firmly cemented in place, receives
+current from a slip ring and brush assembly on the spinner
+
+Left and right squat switches
+Top view
+STBY
+
+TEST
+
+190 KT
+170 KT
+
+FLAP
+
+180 KT
+
+OAT
+BIAS
+box
+Cycle
+
+Ram air
+temperature probe
+Deice
+controller
+
+0° flap
+10°
+
+Front view
+Temp control
+
+10° flap
+LDG flap delay
+
+20°
+
+30°
+
+Ice detector
+Flaps
+
+Icing
+Top view
+
+Figure 15-34. Electric stabilizer deice system.
+
+15-22
+

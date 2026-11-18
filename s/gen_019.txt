@@ -1,0 +1,1937 @@
+FAA-H-8083-30B General Handbook, chapter 7 (Aircraft Materials, Hardware, & Processes), PDF pages 257-268
+
+===== PDF PAGE 257 =====
+weight ratio, must be thoroughly reliable, thus minimizing
+the possibility of dangerous and unexpected failures. In
+addition to these general properties, the material selected
+for a definite application must possess specific qualities
+suitable for the purpose.
+The material must possess the strength required by the
+dimensions, weight, and use. The five basic stresses that
+metals may be required to withstand are tension, compression,
+shear, bending, and torsion.
+The tensile strength of a material is its resistance to a force,
+which tends to pull it apart. Tensile strength is measured in
+pounds per square inch (psi) and is calculated by dividing
+the load in pounds required to pull the material apart by its
+cross-sectional area in square inches.
+The compression strength of a material is its resistance to
+a crushing force, which is the opposite of tensile strength.
+Compression strength is also measured in psi. When a piece
+of metal is cut, the material is subjected, as it comes in contact
+with the cutting edge, to a force known as shear. Shear is the
+tendency on the part of parallel members to slide in opposite
+directions. It is like placing a cord or thread between the
+blades of a pair of scissors (shears). The shear strength is
+the shear force in psi at which a material fails. It is the load
+divided by the shear area.
+
+Another significant factor to consider in maintenance and
+repair is the ability of a material to be formed, bent, or
+machined to required shapes. The hardening of metals by
+cold-working or forming is termed work hardening. If a piece
+of metal is formed (shaped or bent) while cold, it is said to be
+cold-worked. Practically all the work an aviation mechanic
+does on metal is cold-work. While this is convenient, it causes
+the metal to become harder and more brittle.
+If the metal is cold-worked too much, that is, if it is bent
+back and forth or hammered at the same place too often, it
+will crack or break. Usually, the more malleable and ductile
+a metal is, the more cold-working it can stand. Any process
+that involves controlled heating and cooling of metals to
+develop certain desirable characteristics (such as hardness,
+softness, ductility, tensile strength, or refined grain structure)
+is called heat-treatment or heat-treating. With steels, the term
+“heat-treating” has a broad meaning and includes processes
+such as annealing, normalizing, hardening, and tempering.
+
+Bending can be described as the deflection or curving of a
+member due to forces acting upon it. The bending strength of
+material is the resistance it offers to deflecting forces. Torsion
+is a twisting force. Such action would occur in a member fixed
+at one end and twisted at the other. The torsional strength of
+material is its resistance to twisting.
+
+In the heat-treatment of aluminum alloys, only two processes
+are included: the hardening and toughening process and the
+softening process. The hardening and toughening process
+is called heat-treating, and the softening process is called
+annealing. Aircraft metals are subjected to both shock and
+fatigue (vibrational) stresses. Fatigue occurs in materials that
+are exposed to frequent reversals of loading or repeatedly
+applied loads, if the fatigue limit is reached or exceeded.
+Repeated vibration or bending ultimately causes a minute crack
+to occur at the weakest point. As vibration or bending continues,
+the crack lengthens until the part completely fails. This is
+termed “shock and fatigue failure.” Resistance to this condition
+is known as shock and fatigue resistance. It is essential that
+materials used for critical parts be resistant to these stresses.
+
+The relationship between the strength of a material and its
+weight per cubic inch, expressed as a ratio, is known as
+the strength-to-weight ratio. This ratio forms the basis for
+comparing the desirability of various materials for use in
+airframe construction and repair. Neither strength nor weight
+alone can be used as a means of true comparison. In some
+applications, such as the skin of monocoque structures,
+thickness is more important than strength. In this instance,
+the material with the lightest weight for a given thickness
+or gauge is best. Thickness or bulk is necessary to prevent
+bucking or damage caused by careless handling.
+
+Heat-treatment is a series of operations involving the heating
+and cooling of metals in the solid state. Its purpose is to
+change a mechanical property, or combination of mechanical
+properties, so that the metal is more useful, serviceable, and
+safe for a definite purpose. By heat-treating, a metal can be
+made harder, stronger, and more resistant to impact. Heattreating can also make a metal softer and more ductile. No one
+heat-treating operation can produce all these characteristics.
+In fact, some properties are often improved at the expense
+of others. In being hardened, for example, a metal may
+become brittle.
+
+Corrosion is the eating away or pitting of the surface or the
+internal structure of metals. Because of the thin sections and
+the safety factors used in aircraft design and construction,
+it would be dangerous to select a material possessing poor
+corrosion-resistant characteristics.
+
+The various heat-treating processes are similar in that they
+all involve the heating and cooling of metals. They differ,
+however, in the temperatures to which the metal is heated,
+the rate at which it is cooled, and, of course, in the result.
+The most common forms of heat-treatment for ferrous metals
+7-13
+
+===== PDF PAGE 258 =====
+are hardening, tempering, normalizing, annealing, and case
+hardening. Most nonferrous metals can be annealed and
+many of them can be hardened by heat-treatment. However,
+there is only one nonferrous metal, titanium, that can be case
+hardened, and none can be tempered or normalized.
+
+Internal Structure of Metals
+The results obtained by heat-treatment depend on the
+structure of the metal and on the way the structure changes
+when the metal is heated and cooled. A pure metal cannot
+be hardened by heat-treatment, because there is little change
+in its structure when heated. On the other hand, most alloys
+respond to heat-treatment since their structures change with
+heating and cooling.
+An alloy may be in the form of a solid solution, a mechanical
+mixture, or a combination of a solid solution and a mechanical
+mixture. When an alloy is in the form of a solid solution, the
+elements and compounds that form the alloy are absorbed,
+one into the other, in much the same way that salt is dissolved
+in a glass of water, and the constituents cannot be identified
+even under a microscope.
+When two or more elements or compounds are mixed but
+can be identified by microscopic examination, a mechanical
+mixture is formed. A mechanical mixture can be compared to
+the mixture of sand and gravel in concrete. The sand and gravel
+are both visible. Just as the sand and gravel are held together and
+kept in place by the matrix of cement, the other constituents of
+an alloy are embedded in the matrix formed by the base metal.
+An alloy in the form of a mechanical mixture at ordinary
+temperatures may change to a solid solution when heated.
+When cooled back to normal temperature, the alloy may
+return to its original structure. On the other hand, it may
+remain a solid solution or form a combination of a solid
+solution and mechanical mixture. An alloy, which consists
+of a combination of solid solution and mechanical mixture
+at normal temperatures, may change to a solid solution when
+heated. When cooled, the alloy may remain a solid solution,
+return to its original structure, or form a complex solution.
+
+Heat-Treating Equipment
+Successful heat-treating requires close control over all factors
+affecting the heating and cooling of metals. Such control is
+possible only when the proper equipment is available and
+the equipment is selected to fit the job. Thus, the furnace
+must be of the proper size and type and must be controlled
+so that temperatures are kept within the limits prescribed
+for each operation. Even the atmosphere within the furnace
+affects the condition of the part being heat-treated. Further,
+the quenching equipment and the quenching medium must
+be selected to fit the metal and the heat-treating operation.
+
+Finally, there must be equipment for handling parts and
+materials, for cleaning metals, and for straightening parts.
+Furnaces & Salt Baths
+There are many different types and sizes of furnaces used in
+heat-treatment. As a rule, furnaces are designed to operate in
+certain specific temperature ranges and attempted use in other
+ranges frequently results in work of inferior quality.
+In addition, using a furnace beyond its rated maximum
+temperature shortens its life and may necessitate costly and
+time-consuming repairs.
+Fuel-fired furnaces (gas or oil) require air for proper
+combustion, and an air compressor or blower is therefore
+necessary. These furnaces are usually of the muffler type;
+that is, the combustion of the fuel takes place outside of and
+around the chamber in which the work is placed. If an open
+muffler is used, the furnace should be designed to prevent
+the direct impingement of flame on the work.
+In furnaces heated by electricity, the heating elements are
+generally in the form of wire or ribbon. Good design requires
+incorporation of additional heating elements at locations
+where maximum heat loss may be expected. Such furnaces
+commonly operate at up to a maximum temperature of about
+2,000 °F. Furnaces operating at temperatures up to about
+2,500 °F usually employ resistor bars of sintered carbides.
+Temperature Measurement and Control
+A thermoelectric instrument, known as a pyrometer, measures
+temperature in the heat-treating furnace. This instrument
+measures the electrical effect of a thermocouple and, hence,
+the temperature of the metal being treated. A complete
+pyrometer consists of three parts: a thermocouple, extension
+leads, and meter.
+Furnaces intended primarily for tempering may be heated by
+gas or electricity and are frequently equipped with a fan for
+circulating the hot air.
+Salt baths are available for operating at either tempering or
+hardening temperatures. Depending on the composition of the
+salt bath, heating can be conducted at temperatures as low as
+325 °F to as high as 2,450 °F. Lead baths can be used in the
+temperature range of 650 °F to 1,700 °F. The rate of heating
+in lead or salt baths is much faster in furnaces.
+Heat-treating furnaces differ in size, shape, capacity,
+construction, operation, and control. They may be circular
+or rectangular and may rest on pedestals or directly on the
+floor. There are also pit-type furnaces, which are below the
+surface of the floor. When metal is to be heated in a bath of
+7-14
+
+===== PDF PAGE 259 =====
+molten salt or lead, the furnace must contain a pot or crucible
+for the molten bath.
+The size and capacity of a heat-treating furnace depends
+on the intended use. A furnace must be capable of heating
+rapidly and uniformly, regardless of the desired maximum
+temperature or the mass of the charge. An oven-type furnace
+should have a working space (hearth) about twice as long and
+three times as wide as any part that is heated in the furnace.
+Accurate temperature measurement is essential to good heattreating. The usual method is by means of thermocouples: the
+most common base metal couples are copper-constantan (up
+to about 700 °F), iron-constantan (up to about 1,400 °F), and
+chromel-alumel (up to about 2,200 °F). The most common
+noble metal couples (which can be used up to about 2,800 °F)
+are platinum coupled with either the alloy 87 percent platinum
+(13 percent rhodium) or the alloy 90 percent platinum (10
+percent rhodium). The temperatures quoted are for continuous
+operation.
+The life of thermocouples is affected by the maximum
+temperature (which may frequently exceed those given
+above) and by the furnace atmosphere. Iron-constantan
+is more suited for use in reducing and chromel-alumel in
+oxidizing atmospheres. Thermocouples are usually encased
+in metallic or ceramic tubes closed at the hot end to protect
+them from the furnace gases. A necessary attachment is
+an instrument, such as a millivoltmeter or potentiometer,
+for measuring the electromotive force generated by the
+thermocouple. In the interest of accurate control, place the
+hot junction of the thermocouple as close to the work as
+possible. The use of an automatic controller is valuable in
+controlling the temperature at the desired value.
+
+this transition takes time, a relatively slow rate of heating
+must be used. Ordinarily, the cold steel is inserted when the
+temperature in the furnace is from 300 °F to 500 °F below
+the hardening temperature. In this way, too rapid heating
+through the critical range is prevented.
+If temperature-measuring equipment is not available, it
+becomes necessary to estimate temperatures by some other
+means. An inexpensive, yet accurate method involves the
+use of commercial crayons, pellets, or paints that melt at
+various temperatures within the range of 125 °F to 1,600 °F.
+The least accurate method of temperature estimation is by
+observation of the color of the hot hearth of the furnace or
+of the work. The heat colors observed are affected by many
+factors, such as the conditions of artificial or natural light, the
+character of the scale on the work, and so forth. Steel begins
+to appear dull red at about 1,000 °F, and as the temperature
+increases, the color changes gradually through various shades
+of red to orange, to yellow, and finally to white. A rough
+approximation of the correspondence between color and
+temperature is indicated in Figure 7-5.
+It is also possible to secure some idea of the temperature of
+a piece of carbon or low alloy steel, in the low temperature
+range used for tempering, from the color of the thin oxide film
+that forms on the cleaned surface of the steel when heated in
+this range. The approximate temperature/color relationship
+is indicated on the lower portion of the scale in Figure 7-5.
+
+Pyrometer installations on all modern furnaces provide
+automatic regulation of the temperature at any desired setting.
+Instruments of this type are called controlling potentiometer
+pyrometers. They include a current regulator and an operating
+mechanism, such as a relay.
+
+It is often necessary or desirable to protect steel or cast iron
+from surface oxidation (scaling) and loss of carbon from
+the surface layers (decarburization). Commercial furnaces,
+therefore, are generally equipped with some means of
+atmosphere control. This usually is in the form of a burner for
+burning controlled amounts of gas and air and directing the
+products of combustion into the furnace muffle. Water vapor, a
+product of this combustion, is detrimental and many furnaces
+are equipped with a means for eliminating it. For furnaces
+not equipped with atmosphere control, a variety of external
+atmosphere generators are available. The gas so generated is
+piped into the furnace and one generator may supply several
+furnaces. If no method of atmosphere control is available,
+some degree of protection may be secured by covering the
+work with cast iron borings or chips. Since the liquid heating
+medium surrounds the work in salt or lead baths, the problem
+of preventing scaling or decarburization is simplified. Vacuum
+furnaces also are used for annealing steels, especially when a
+bright non-oxidized surface is a prime consideration.
+
+Heating
+
+Soaking
+
+The object in heating is to transform pearlite (a mixture of
+alternate strips of ferrite and iron carbide in a single grain) to
+austenite as the steel is heated through the critical range. Since
+
+The temperature of the furnace must be held constant
+during the soaking period, since it is during this period that
+rearrangement of the internal structure of the steel takes place.
+
+Pyrometers may have meters either of the indicating type
+or recording type. Indicating pyrometers give direct reading
+of the furnace temperature. The recording type produces a
+permanent record of the temperature range throughout the
+heating operation by means of an inked stylus attached to
+an arm, which traces a line on a sheet of calibrated paper or
+temperature chart.
+
+7-15
+
+===== PDF PAGE 260 =====
+Soaking temperatures for various types of steel are specified
+in ranges varying as much as 100 °F. [Figure 7-6] Small parts
+are soaked in the lower part of the specified range and heavy
+parts in the upper part of the specified range. The length of
+the soaking period depends upon the type of steel and the size
+of the part. Naturally, heavier parts require longer soaking to
+ensure equal heating throughout. As a general rule, a soaking
+period of 30 minutes to 1 hour is sufficient for the average
+heat-treating operation.
+
+abstraction markedly. Vigorous agitation of the steel or the
+use of a pressure spray quench is necessary to dislodge these
+vapor films and thus permit the desired rate of cooling.
+The tendency of steel to warp and crack during the quenching
+process is difficult to overcome because certain parts of
+the article cool more rapidly than others. The following
+recommendations greatly reduce the warping tendency.
+1.
+
+Never throw a part into the quenching bath. By
+permitting it to lie on the bottom of the bath, it is apt
+to cool faster on the topside than on the bottom side,
+thus causing it to warp or crack.
+
+2.
+
+Agitate the part slightly to destroy the coating of
+vapor that could prevent it from cooling evenly and
+rapidly. This allows the bath to dissipate its heat to the
+atmosphere.
+
+3.
+
+Immerse irregular shaped parts so that the heavy end
+enters the bath first.
+
+Cooling
+The rate of cooling through the critical range determines the
+form that the steel retains. Various rates of cooling are used to
+produce the desired results. Still air is a slow cooling medium
+but is much faster than furnace cooling. Liquids are the fastest
+cooling media and are therefore used in hardening steels.
+There are three commonly used quenching liquids: brine,
+water, and oil. Brine is the strongest quenching medium,
+water is next, and oil is the least. Generally, an oil quench
+is used for alloy steels and brine or water for carbon steels.
+
+Quenching Media
+Quenching solutions act only through their ability to cool
+the steel. They have no beneficial chemical action on
+the quenched steel and in themselves impart no unusual
+properties. Most requirements for quenching media are met
+satisfactorily by water or aqueous solutions of inorganic salts,
+such as table salt or caustic soda, or by some type of oil. The
+rate of cooling is relatively rapid during quenching in brine,
+somewhat less rapid in water, and slow in oil.
+Brine usually is made of a 5 to 10 percent solution of salt
+(sodium chloride) in water. In addition to its greater cooling
+speed, brine has the ability to “throw” the scale from steel
+during quenching. Their temperature considerably affects the
+cooling ability of both water and brine, particularly water.
+Both should be kept cold—well below 60 °F. If the volume
+of steel being quenched tends to raise the temperature of the
+bath appreciably, add ice or use some means of refrigeration
+to cool the quenching bath.
+There are many specially prepared quenching oils on the
+market; their cooling rates do not vary widely. A straight
+mineral oil with a Saybolt viscosity of about 100 at 100 °F
+is generally used. Unlike brine and water, the oils have the
+greatest cooling velocity at a slightly elevated temperature—
+about 100–140 °F—because of their decreased viscosity at
+these temperatures.
+When steel is quenched, the liquid in immediate contact with
+the hot surface vaporizes; this vapor reduces the rate of heat
+
+Quenching Equipment
+The quenching tank should be of the proper size to handle
+the material being quenched. Use circulating pumps and
+coolers to maintain approximately constant temperatures
+when doing a large amount of quenching. To avoid building
+up a high concentration of salt in the quenching tank, make
+provisions for adding fresh water to the quench tank used
+for molten salt baths.
+Tank location in reference to the heat-treating furnace is very
+important. Situate the tank to permit rapid transfer of the part
+from the furnace to the quenching medium. A delay of more
+than a few seconds, in many instances, proves detrimental to
+the effectiveness of the heat-treatment. During transfer to the
+quench tank, employ guard sheets to retard the loss of heat
+when heat-treating material of thin section. Provide a rinse
+tank to remove all salt from the material after quenching if
+the salt is not adequately removed in the quenching tank.
+Heat-Treatment of Ferrous Metals
+The first important consideration in the heat-treatment of a
+steel part is to know its chemical composition. This, in turn,
+determines its upper critical point. When the upper critical
+point is known, the next consideration is the rate of heating
+and cooling to be used. Carrying out these operations involves
+the use of uniform heating furnaces, proper temperature
+controls, and suitable quenching mediums.
+
+Behavior of Steel During Heating & Cooling
+Changing the internal structure of a ferrous metal is
+accomplished by heating to a temperature above its upper
+critical point, holding it at that temperature for a time
+sufficient to permit certain internal changes to occur, and then
+7-16
+
+===== PDF PAGE 261 =====
+cooling to atmospheric temperature under predetermined,
+controlled conditions.
+
+Approximate Temperature Colors
+°Fahrenheit
+2,700
+2,600
+
+2,500
+2,400
+
+°F
+
+Color of Hot Body
+
+2192
+
+White
+
+2012
+
+Light Yellow
+
+1922
+
+Yellow
+
+1796
+
+Light Orange
+
+°Centigrade
+1,500
+
+1,400
+
+1,300
+
+2,300
+2,200
+
+1,200
+
+°C
+1200
+
+2,100
+
+2,000
+
+Orange
+
+1598
+
+Light Red
+
+1490
+
+Light cherry
+
+1400
+
+Cherry
+
+1292
+
+Dark Cherry
+
+1202
+
+Blood Red
+
+1112
+
+Brown Red
+
+1,000
+
+900
+1,600
+800
+
+1,400
+1,300
+
+700
+
+870
+810
+760
+700
+650
+
+1,200
+1,100
+
+980
+930
+
+1,700
+
+1,500
+
+1100
+1050
+
+1,900
+1,800
+
+1706
+
+1,100
+
+600
+
+600
+
+1,000
+900
+
+400
+
+Temper Colors
+
+550
+520
+460
+
+Dark Blue
+Purple
+Yellow Brown
+
+430
+
+Straw
+
+700
+600
+
+°C
+300
+
+500
+400
+
+200
+
+290
+270
+250
+220
+
+300
+200
+
+Hardening
+Pure iron, wrought iron, and extremely low carbon steels
+cannot be appreciably hardened by heat-treatment, since they
+contain no hardening element. Cast iron can be hardened, but
+its heat-treatment is limited. When cast iron is cooled rapidly,
+it forms white iron, which is hard and brittle. When cooled
+slowly, it forms gray iron, which is soft but brittle under impact.
+
+500
+
+800
+
+°F
+
+At ordinary temperatures, the carbon in steel exists in the
+form of particles of iron carbide scattered throughout an iron
+matrix known as “ferrite.” The number, size, and distribution
+of these particles determine the hardness of the steel. At
+elevated temperatures, the carbon is dissolved in the iron
+matrix in the form of a solid solution called “austenite,”
+and the carbide particles appear only after the steel has
+been cooled. If the cooling is slow, the carbide particles are
+relatively coarse and few. In this condition, the steel is soft.
+If the cooling is rapid, as by quenching in oil or water, the
+carbon precipitates as a cloud of very fine carbide particles,
+and the steel is hard. The fact that the carbide particles can
+be dissolved in austenite is the basis of the heat-treatment
+of steel. The temperatures at which this transformation
+takes place are called the critical points and vary with the
+composition of the steel. The percent of carbon in the steel has
+the greatest influence on the critical points of heat-treatment.
+
+100
+
+100
+
+0
+
+Figure 7-5. Temperature chart indicating conversion of Centigrade
+
+to Fahrenheit or vice versa, color temperature scale for hardening
+temperature range, and tempering temperature range.
+
+In plain carbon steel, the maximum hardness depends
+almost entirely on the carbon content of the steel. As carbon
+content increases, the ability of steel to harden also increases.
+However, this increase in the ability to harden with an
+increase in carbon content continues only to a certain point.
+In practice, that point is 0.85 percent carbon content. When
+the carbon content is increased beyond 0.85 percent, there
+is no increase in wear resistance.
+For most steels, the hardening treatment consists of heating
+the steel to a temperature just above the upper critical point,
+soaking or holding for the required length of time, and then
+cooling it rapidly by plunging the hot steel into oil, water,
+or brine. Although most steels must be cooled rapidly for
+hardening, a few may be cooled in still air. Hardening increases
+the hardness and strength of the steel but makes it less ductile.
+Carbon steel must be cooled to below 1,000 °F in less than
+1 second when hardening. Should the time required for the
+temperature to drop to 1,000 °F exceed 1 second, the austenite
+begins to transform into fine pearlite. This pearlite varies
+in hardness, but is much harder than the pearlite formed by
+annealing and much softer than the martensite desired. After
+the 1,000 °F temperature is reached, the rapid cooling must
+7-17
+
+===== PDF PAGE 262 =====
+Steel
+Number
+1020
+
+Temperatures
+Normalizing
+Air Cool (°F)
+
+Annealing
+(°F)
+
+Hardening
+(°F)
+
+1,650–1,750
+
+1,600–1,700
+
+1,575–1,675
+
+1022 (x1020) 1,650–1,750
+
+Quenching
+Medium (n)
+Water
+
+Tempering (drawing) Temperature for
+Tensile Strength (psi)
+100,000
+(°F)
+
+125,000
+(°F)
+
+150,000
+(°F)
+
+180,000
+(°F)
+
+200,000
+(°F)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1,600–1,700
+
+1,575–1,675
+
+Water
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1025
+
+1,600–1,700
+
+1,575–1,650
+
+1,575–1,675
+
+Water
+
+(a)
+
+—
+
+—
+
+—
+
+—
+
+1035
+
+1,575–1,650
+
+1,575–1,625
+
+1,525–1,600
+
+Water
+
+875
+
+—
+
+—
+
+—
+
+—
+
+1045
+
+1,550–1,600
+
+1,550–1,600
+
+1,475–1,550
+
+Oil or water
+
+1,150
+
+—
+
+—
+
+(n)
+
+—
+
+1095
+
+1,475–1,550
+
+1,450–1,500
+
+1,425–1,500
+
+Oil
+
+(b)
+
+—
+
+1,100
+
+850
+
+750
+
+2330
+
+1,475–1,525
+
+1,425–1,475
+
+1,450–1,500
+
+Oil or water
+
+1,100
+
+950
+
+800
+
+—
+
+—
+
+3135
+
+1,600–1,650
+
+1,500–1,550
+
+1,475–1,525
+
+Oil
+
+1,250
+
+1,050
+
+900
+
+750
+
+650
+
+3140
+
+1,600–1,650
+
+1,500–1,550
+
+1,475–1,525
+
+Oil
+
+1,325
+
+1,075
+
+925
+
+775
+
+700
+
+4037
+
+1,600
+
+1,525–1,575
+
+1,525–1,575
+
+Oil or water
+
+1,225
+
+1,100
+
+975
+
+—
+
+—
+
+4130 (x4130) 1,600–1,700
+
+1,525–1,575
+
+1,525–1,625
+
+Oil (c)
+
+(d)
+
+1,050
+
+900
+
+700
+
+575
+
+4140
+
+1,600–1,650
+
+1,525–1,575
+
+1,525–1,575
+
+Oil
+
+1,350
+
+1,100
+
+1,025
+
+825
+
+675
+
+4150
+
+1,550–1,600
+
+1,475–1,525
+
+1,550–1,550
+
+Oil
+
+—
+
+1,275
+
+1,175
+
+1,050
+
+950
+
+4340 (x4340) 1,550–1,625
+
+1,525–1,575
+
+1,475–1,550
+
+Oil
+
+—
+
+1,200
+
+1,050
+
+950
+
+850
+
+4640
+
+1,675–1,700
+
+1,525–1,575
+
+1,500–1,550
+
+Oil
+
+—
+
+1,200
+
+1,050
+
+750
+
+625
+
+6135
+
+1,600–1,700
+
+1,550–1,600
+
+1,575–1,625
+
+Oil
+
+1,300
+
+1,075
+
+925
+
+800
+
+750
+
+6150
+
+1,600–1,650
+
+1,525–1,575
+
+1,550–1,625
+
+Oil
+
+(d)(e)
+
+1,200
+
+1,000
+
+900
+
+800
+
+6195
+
+1,600–1,650
+
+1,525–1,575
+
+1,500–1,550
+
+Oil
+
+(f )
+
+—
+
+—
+
+—
+
+—
+
+NE8620
+
+—
+
+—
+
+1,525–1,575
+
+Oil
+
+—
+
+1,000
+
+—
+
+—
+
+—
+
+NE8630
+
+1,650
+
+1,525–1,575
+
+1,525–1,575
+
+Oil
+
+—
+
+1,125
+
+975
+
+775
+
+675
+
+NE8735
+
+1,650
+
+1,525–1,575
+
+1,525–1,575
+
+Oil
+
+—
+
+1,175
+
+1,025
+
+875
+
+775
+
+NE8740
+
+1,625
+
+1,500–1,550
+
+1,500–1,550
+
+Oil
+
+—
+
+1,200
+
+1,075
+
+925
+
+850
+
+30905
+
+—
+
+(g)(h)
+
+(i)
+
+—
+
+—
+
+—
+
+—
+
+—
+
+—
+
+51210
+
+1,525–1,575
+
+1,525–1,575 1,775–1,825 (j)
+
+Oil
+
+1,200
+
+1,100
+
+(k)
+
+750
+
+—
+
+51335
+
+—
+
+1,525–1,575
+
+1,775–1,850
+
+Oil
+
+—
+
+—
+
+—
+
+—
+
+—
+
+52100
+
+1,625–1,700
+
+1,400–1,450
+
+1,525–1,550
+
+Oil
+
+(f )
+
+—
+
+—
+
+—
+
+—
+
+Corrosion
+resisting
+(16-2)(1)
+
+—
+
+—
+
+—
+
+—
+
+(m)
+
+—
+
+—
+
+—
+
+—
+
+Silicon
+chromium
+(for springs)
+
+—
+
+—
+
+1,700–1,725
+
+Oil
+
+—
+
+—
+
+—
+
+—
+
+—
+
+NOTES:
+(a) Draw at 1,150 °F for tensile strength of 70,000 psi.
+(b) For spring temper draw at 800–900 °F. Rockwell hardness C-40–45.
+(c) Bars or forgings may be quenched in water from 1,500–1,600 °F.
+(d) Air cooling from the normalizing temperature produces a tensile
+strength of approximately 90,000 psi.
+(e) For spring temper draw at 850–950 °F. Rockwell hardness C-40–45.
+(f ) Draw at 350–450 °F to remove quenching strains. Rockwell hardness
+C-60–65.
+(g) Anneal at 1,600–1,700 °F to remove residual stresses due to welding or
+cold-work. May be applied only to steel containing titanium or
+columbium.
+(h) Anneal at 1,900–2,100 °F to produce maximum softness and corrosion
+resistance. Cool in air or quench in water.
+(i) Harden by cold-work only.
+
+(j) Lower side of range for sheet 0.06 inch and under. Middle of range for
+sheet and wire 0.125 inch. Upper side of range for forgings.
+(k) Not recommended for intermediate tensile strengths because of low
+impact.
+(l) AN-QQ-S-770—It is recommended that, prior to tempering,
+corrosion-resisting (16 Cr-2 Ni) steel be quenched in oil from a
+temperature of 1,875–1,900 °F, after a soaking period of 30 minutes at
+this temperature. To obtain a tensile strength at 115,000 psi, the
+tempering temperature should be approximately 525 °F. A holding
+time at these temperatures of about 2 hours is recommended.
+Tempering temperatures between 700 °F and 1,100 °F is not approved.
+(m) Draw at approximately 800 °F and cool in air for Rockwell hardness of C-50.
+(n) Water used for quenching shall be within the temperature range of
+80–150 °F.
+
+Figure 7-6. Heat-treatment procedures for steels.
+
+7-18
+
+===== PDF PAGE 263 =====
+continue if the final structure is to be all martensite.
+The time limit for the temperature drop to 1,000 °F increases
+above the 1 second limit for carbon steels when alloys are
+added to steel. Therefore, a slower quenching medium
+produces hardness in alloy steels.
+Because of the high internal stresses in the “as quenched”
+condition, steel must be tempered just before it becomes
+cold. The part should be removed from the quenching
+bath at a temperature of approximately 200 °F, since the
+temperature range from 200 °F down to room temperature
+is the cracking range.
+Hardening temperatures and quenching mediums for the
+various types of steel are listed in Figure 7-6.
+
+Hardening Precautions
+A variety of different shapes and sizes of tongs for handling
+hot steels is necessary. It should be remembered that cooling
+of the area contacted by the tongs is retarded and that such
+areas may not harden, particularly if the steel being treated is
+very shallow hardening. Small parts may be wired together
+or quenched in baskets made of wire mesh.
+Special quenching jigs and fixtures are frequently used to hold
+steels during quenching in a manner to restrain distortion.
+When selective hardening is desired, covering with alundum
+cement or some other insulating material may protect portions
+of the steel. Selective hardening may be accomplished by
+using water or oil jets designed to direct quenching medium
+on the areas to be hardened. This also is accomplished by
+the induction and flame hardening procedures previously
+described, particularly on large production jobs.
+Shallow hardening steels, such as plain carbon and certain
+varieties of alloy steels, have such a high critical cooling
+rate that they must be quenched in brine or water to effect
+hardening. In general, intricately-shaped sections should not
+be made of shallow hardening steels because of the tendency
+of these steels to warp and crack during hardening. Such
+items should be made of deeper hardening steels capable of
+being hardened by quenching in oil or air.
+
+low critical point of the steel. In this respect, tempering
+differs from annealing, normalizing, or hardening, all of
+which require temperatures above the upper critical point.
+When hardened steel is reheated, tempering begins at 212 °F
+and continues as the temperature increases toward the low
+critical point. By selecting a definite tempering temperature,
+the resulting hardness and strength can be predetermined.
+Approximate temperatures for various tensile strengths are
+listed in Figure 7-6. The minimum time at the tempering
+temperature should be 1 hour. If the part is over one inch in
+thickness, increase the time by 1 hour for each additional inch
+of thickness. Tempered steels used in aircraft work have from
+125,000 to 200,000 psi ultimate tensile strength.
+Generally, the rate of cooling from the tempering temperature
+has no effect on the resulting structure; therefore, the steel is
+usually cooled in still air after being removed from the furnace.
+
+Annealing
+Annealing of steel produces a fine-grained, soft, ductile metal
+without internal stresses or strains. In the annealed state, steel
+has its lowest strength. In general, annealing is the opposite
+of hardening.
+Heating the metal to just above the upper critical point,
+soaking at that temperature, and cooling very slowly in
+the furnace accomplishes annealing of steel. (Refer to
+Figure 7-6 for recommended temperatures.) Soaking time is
+approximately 1 hour per inch of thickness of the material.
+To produce maximum softness in steel, the metal must be
+cooled very slowly. Slow cooling is obtained by shutting off
+the heat and allowing the furnace and metal to cool together
+to 900 °F or lower, then removing the metal from the furnace
+and cooling in still air. Another method is to bury the heated
+steel in ashes, sand, or other substance that does not conduct
+heat readily.
+
+Normalizing
+The normalizing of steel removes the internal stresses set up
+by heat-treating, welding, casting, forming, or machining.
+Stress, if not controlled, leads to failure. Because of the
+better physical properties, aircraft steels are often used in the
+normalized state, but seldom, if ever, in the annealed state.
+
+Tempering reduces the brittleness imparted by hardening
+and produces definite physical properties within the steel.
+Tempering always follows, never precedes, the hardening
+operation. In addition to reducing brittleness, tempering
+softens the steel.
+
+One of the most important uses of normalizing in aircraft work
+is in welded parts. Welding causes strains to be set up in the
+adjacent material. In addition, the weld itself is a cast structure
+as opposed to the wrought structure of the rest of the material.
+These two types of structures have different grain sizes, and
+to refine the grain as well as to relieve the internal stresses, all
+welded parts should be normalized after fabrication.
+
+Tempering is always conducted at temperatures below the
+
+Heating the steel above the upper critical point and cooling in
+
+Tempering
+
+7-19
+
+===== PDF PAGE 264 =====
+still air accomplish normalizing. The more rapid quenching
+obtained by air-cooling, as compared to furnace cooling,
+results in a harder and stronger material than that obtained
+by annealing. Recommended normalizing temperatures for
+the various types of aircraft steels are listed in Figure 7-6.
+
+Case Hardening
+Case hardening produces a hard, wear-resistant surface or
+case over a strong, tough core. Case hardening is ideal for
+parts that require a wear-resistant surface and, at the same
+time, must be tough enough internally to withstand the
+applied loads. The steels best suited to case hardening are
+the low carbon and low-alloy steels. If high-carbon steel is
+case hardened, the hardness penetrates the core and causes
+brittleness. In case hardening, the surface of the metal is
+changed chemically by introducing a high carbide or nitride
+content. The core is unaffected chemically.
+When heat-treated, the surface responds to hardening while
+the core toughens. The common forms of case hardening
+are carburizing, cyaniding, and nitriding. Since cyaniding is
+not used in aircraft work, only carburizing and nitriding are
+discussed in this section.
+Carburizing
+Carburizing is a case hardening process in which carbon is
+added to the surface of low-carbon steel. Thus, carburized
+steel has a high-carbon surface and a low-carbon interior.
+When the carburized steel is heat-treated, the case is hardened
+while the core remains soft and tough.
+A common method of carburizing is called “pack carburizing.”
+When carburizing is to be done by this method, the steel
+parts are packed in a container with charcoal or some other
+material rich in carbon. The container is then sealed with fire
+clay, placed in a furnace, heated to approximately 1,700 °F,
+and soaked at that temperature for several hours. As the
+temperature increases, carbon monoxide gas forms inside
+the container and, being unable to escape, combines with the
+gamma iron in the surface of the steel. The depth to which
+the carbon penetrates depends on the length of the soaking
+period. For example, when carbon steel is soaked for 8 hours,
+the carbon penetrates to a depth of about 0.062 inch.
+In another method of carburizing, called “gas carburizing,”
+a material rich in carbon is introduced into the furnace
+atmosphere. The carburizing atmosphere is produced by
+using various gases or by the burning of oil, wood, or other
+materials. When the steel parts are heated in this atmosphere,
+carbon monoxide combines with the gamma iron to produce
+practically the same results as those described under the pack
+carburizing process.
+
+A third method of carburizing is that of “liquid carburizing.”
+In this method, the steel is placed in a molten salt bath that
+contains the chemicals required to produce a case comparable
+with one resulting from pack or gas carburizing.
+Alloy steels with low-carbon content, as well as low-carbon
+steels, may be carburized by any of the three processes.
+However, some alloys, such as nickel, tend to retard the
+absorption of carbon. Thus, the time required to produce
+a given thickness of case varies with the composition of
+the metal.
+Nitriding
+Nitriding is unlike other case hardening processes in that,
+before nitriding, the part is heat-treated to produce definite
+physical properties. Thus, parts are hardened and tempered
+before being nitrided. Most steels can be nitrided, but special
+alloys are required for best results. These special alloys
+contain aluminum as one of the alloying elements and are
+called “nitralloys.”
+In nitriding, the part is placed in a special nitriding furnace and
+heated to a temperature of approximately 1,000 °F. With the
+part at this temperature, ammonia gas is circulated within the
+specially constructed furnace chamber. The high temperature
+cracks the ammonia gas into nitrogen and hydrogen. The
+ammonia, which does not break down, is caught in a water trap
+below the regions of the other two gases. The nitrogen reacts
+with the iron to form nitride. The iron nitride is dispersed in
+minute particles at the surface and works inward. The depth
+of penetration depends on the length of the treatment. Soaking
+periods (as long as 72 hours) are frequently required to produce
+the desired thickness during nitriding.
+Nitriding can be accomplished with a minimum of distortion,
+because of the low temperature at which parts are case
+hardened and because no quenching is required after exposure
+to the ammonia gas.
+Heat-Treatment of Nonferrous Metals
+
+Aluminum Alloys
+
+In the wrought form, commercially-pure aluminum is known
+as 1100. It has a high degree of resistance to corrosion and
+is easily formed into intricate shapes. It is relatively low
+in strength and does not have the properties required for
+structural aircraft parts. The process of alloying generally
+obtains high strengths. The resulting alloys are less easily
+formed and, with some exceptions, have lower resistance to
+corrosion than 1100 aluminum.
+Alloying is not the only method of increasing the strength of
+aluminum. Like other materials, aluminum becomes stronger
+and harder as it is rolled, formed, or otherwise cold-worked.
+7-20
+
+===== PDF PAGE 265 =====
+Since the hardness depends on the amount of cold-working
+done, 1100 and some wrought aluminum alloys are available
+in several strain-hardened tempers. The soft or annealed
+condition is designated O. If the material is strain hardened,
+it is said to be in the H condition.
+The most widely used alloys in aircraft construction are
+hardened by heat-treatment rather than by cold-work.
+These alloys are designated by a somewhat different set
+of symbols: T4 and W indicate solution heat-treated and
+quenched but not aged, and T6 indicates an alloy in the
+heat-treated, hardened condition.
+
+any attack caused by scratching or from other abrasions.
+There are two types of heat-treatments applicable to
+aluminum alloys: solution heat-treatment and precipitation
+heat-treatment. Some alloys, such as 2017 and 2024, develop
+their full properties as a result of solution heat-treatment
+followed by about 4 days of aging at room temperature. Other
+alloys, such as 2014 and 7075, require both heat-treatments.
+The alloys that require precipitation heat-treatment (artificial
+aging) to develop their full strength also age to a limited extent
+at room temperature; the rate and amount of strengthening
+depends upon the alloy. Some reach their maximum natural
+or room temperature aging strength in a few days, and are
+designated as –T4 or –T3 temper. Others continue to age
+appreciably over a long period of time.
+
+•
+
+W—solution heat-treated, unstable temper
+
+•
+
+T—treated to produce stable tempers other than F, O,
+or H
+
+•
+
+T2—annealed (cast products only)
+
+•
+
+T3—solution heat-treated and then cold-worked
+
+•
+
+T4—solution heat-treated
+
+•
+
+T5—artificially aged only
+
+•
+
+T6—solution heat-treated and then artificially aged
+
+•
+
+T7—solution heat-treated and then stabilized
+
+•
+
+T8—solution heat-treated, cold-worked, and then
+artificially aged
+
+1.
+
+Heating to a predetermined temperature.
+
+•
+
+T9—solution heat-treated, artificially aged, and then
+cold-worked
+
+2.
+
+Soaking at temperature for a specified length of time.
+
+3.
+
+Rapidly quenching to a relatively low temperature.
+
+•
+
+T10—artificially aged and then cold-worked
+
+4.
+
+Aging or precipitation-hardening either spontaneously
+at room temperature, or because of a low temperature
+thermal treatment.
+
+Additional digits may be added to T1 through T10 to indicate
+a variation in treatment, which significantly alters the
+characteristics of the product.
+Aluminum-alloy sheets are marked with the specification
+number on approximately every square foot of material. If
+for any reason this identification is not on the material, it is
+possible to separate the heat-treatable alloys from the nonheat-treatable alloys by immersing a sample of the material
+in a 10 percent solution of caustic soda (sodium hydroxide).
+The heat-treatable alloys turn black due to the copper content,
+whereas the others remain bright. In the case of clad material,
+the surface remains bright, but there is a dark area in the
+middle when viewed from the edge.
+
+Alclad Aluminum
+The terms “Alclad and Pureclad” are used to designate sheets
+that consist of an aluminum-alloy core coated with a layer
+of pure aluminum to a depth of approximately 51⁄2 percent
+on each side. The pure aluminum coating affords a dual
+protection for the core, preventing contact with any corrosive
+agents, and protecting the core electrolytically by preventing
+
+Because of this natural aging, the –W designation is specified
+only when the period of aging is indicated, for example,
+7075–W (1⁄2 hour). Thus, there is considerable difference in
+the mechanical and physical properties of freshly quenched
+(–W) material and material that is in the –T3 or –T4 temper.
+The hardening of an aluminum alloy by heat-treatment
+consists of four distinct steps:
+
+The first three steps above are known as solution heat-treatment,
+although it has become common practice to use the shorter term,
+“heat-treatment.” Room temperature hardening is known as
+natural aging, while hardening done at moderate temperatures
+is called artificial aging, or precipitation heat-treatment.
+
+Solution Heat-Treatment
+Temperature
+The temperatures used for solution heat-treating vary with
+different alloys and range from 825 °F to 980 °F. As a rule,
+they must be controlled within a very narrow range (±10 °F)
+to obtain specified properties.
+If the temperature is too low, maximum strength is not
+obtained. When excessive temperatures are used, there is
+danger of melting the low melting constituents of some
+alloys with consequent lowering of the physical properties
+of the alloy. Even if melting does not occur, the use of higher
+than recommended temperatures promotes discoloration and
+increases quenching strains.
+
+7-21
+
+===== PDF PAGE 266 =====
+Time at Temperature
+The time at temperature, referred to as soaking time, is
+measured from the time the coldest metal reaches the minimum
+limit of the desired temperature range. The soaking time varies,
+depending upon the alloy and thickness, from 10 minutes for
+thin sheets to approximately 12 hours for heavy forgings. For
+the heavy sections, the nominal soaking time is approximately
+1 hour for each inch of cross-sectional thickness. [Figure 7-7]
+Choose the minimum soaking time necessary to develop the
+required physical properties. The effect of an abbreviated
+soaking time is obvious. An excessive soaking period
+aggravates high-temperature oxidation. With clad material,
+prolonged heating results in excessive diffusion of copper
+and other soluble constituents into the protective cladding
+and may defeat the purpose of cladding.
+
+Quenching
+
+of quench also minimizes distortion and alleviates quench
+cracking. However, many specifications forbid the use of
+spray quenching for bare 2017 and 2024 sheet materials
+because of the effect on their resistance to corrosion.
+
+Lag Between Soaking & Quenching
+The time interval between the removal of the material from
+the furnace and quenching is critical for some alloys and
+should be held to a minimum. The elapsed time must not
+exceed 10 seconds when solution heat-treating 2017 or 2024
+sheet material. The allowable time for heavy sections may
+be slightly greater.
+Allowing the metal to cool slightly before quenching promotes
+re-precipitation from the solid solution. The precipitation
+occurs along grain boundaries and in certain slip planes causing
+poorer formability. In the case of 2017, 2024, and 7075 alloys,
+their resistance to intergranular corrosion is adversely affected.
+
+After the soluble constituents are in solid solution, the material
+is quenched to prevent or retard immediate re-precipitation.
+Three distinct quenching methods are employed. The one to
+be used in any instance depends upon the part, the alloy, and
+the properties desired.
+
+Reheat-Treatment
+
+Cold Water Quenching
+Parts produced from sheet, extrusions, tubing, small forgings,
+and similar type material are generally quenched in a cold
+water bath. The temperature of the water before quenching
+should not exceed 85 °F.
+
+The number of solution heat-treatments allowed for clad
+sheet is limited due to increased diffusion of core and
+cladding with each reheating. Existing specifications allow
+one to three reheat-treatments of clad sheet depending upon
+cladding thickness.
+
+Using a sufficient quantity of water keeps the temperature
+rise under 20 °F. Such a drastic quench ensures maximum
+resistance to corrosion. This is particularly important when
+working with alloys, such as 2017, 2024, and 7075. This is
+the reason a drastic quench is preferred, even though a slower
+quench may produce the required mechanical properties.
+
+Straightening After Solution Heat-Treatment
+Some warping occurs during solution heat-treatment,
+producing kinks, buckles, waves, and twists. Straightening and
+flattening operations generally remove these imperfections.
+Where the straightening operations produce an appreciable
+increase in the tensile and yield strengths and a slight decrease
+in the percent of elongation, the material is designated –T3
+temper. When the above values are not materially affected,
+the material is designated –T4 temper.
+
+Hot Water Quenching
+Large forgings and heavy sections can be quenched in hot or
+boiling water. This type of quench minimizes distortion and
+alleviates cracking, which may be produced by the unequal
+temperatures obtained during the quench. The use of a hot
+water quench is permitted with these parts, because the
+temperature of the quench water does not critically affect the
+resistance to corrosion of the forging alloys. In addition, the
+resistance to corrosion of heavy sections is not as critical a
+factor as for thin sections.
+Spray Quenching
+High-velocity water sprays are useful for parts formed from
+clad sheet and for large sections of almost all alloys. This type
+
+The treatment of material, which has been previously
+heat-treated, is considered a reheat-treatment. The unclad
+heat-treatable alloys can be solution heat-treated repeatedly
+without harmful effects.
+
+Precipitation Heat-Treating
+As previously stated, the aluminum alloys are in a
+comparatively soft state immediately after quenching
+from a solution heat-treating temperature. To obtain their
+maximum strengths, they must be either naturally aged or
+precipitation-hardened.
+During this hardening and strengthening operation,
+precipitation of the soluble constituents from the supersaturated solid solution takes place. The strength of the
+material increases (often by a series of peaks) until a maximum
+is reached, as precipitation progresses. Further aging, or over7-22
+
+===== PDF PAGE 267 =====
+Thickness (inch)
+
+Time (minutes)
+
+Up to 0.032
+
+30
+
+0.032 to 1⁄8
+
+30
+
+1⁄
+
+1/
+4
+
+40
+
+Over ¼
+
+60
+
+8 to
+
+NOTE: Soaking time starts when the metal (or the molten bath)
+reaches a temperature within the range specified above.
+Figure 7-7. Typical soaking times for heat-treatment.
+
+aging, causes the strength to steadily decline until a somewhat
+stable condition is obtained. The submicroscopic particles that
+are precipitated provide the keys or locks within the grain
+structure and between the grains to resist internal slippage and
+distortion when a load of any type is applied. In this manner,
+the strength and hardness of the alloy are increased.
+
+depending upon the alloys.
+Many of the artificially-aged alloys reach their maximum
+natural or room temperature aging strengths after a few
+days. These can be stocked for fabrication in the –T4 or –T3
+tempers. High zinc content alloys, such as 7075, continue to
+age appreciably over a long period of time. Their mechanical
+property changes being sufficient to reduce their formability.
+The advantage of –W temper formability can be utilized;
+however, in the same manner as with natural-aging alloys;
+that is, by fabricating shortly after solution heat-treatment or
+retaining formability by using refrigeration.
+Refrigeration retards the rate of natural aging. At 32 °F,
+the beginning of the aging process is delayed for several
+hours, while dry ice (−50 °F to −100 °F) retards aging for
+an extended period of time.
+
+Precipitation-hardening produces a great increase in the
+strength and hardness of the material with corresponding
+decreases in the ductile properties. The process used to obtain
+the desired increase in strength is therefore known as aging
+or precipitation-hardening.
+
+Precipitation Practices
+
+The strengthening of the heat-treatable alloys by aging is
+not due merely to the presence of a precipitate. The strength
+is due to both the uniform distribution of a finely dispersed
+submicroscopic precipitate and its effects upon the crystal
+structure of the alloy.
+
+The time at temperature is dependent upon the temperature
+used, the properties desired, and the alloy. It ranges from 8
+to 96 hours. Increasing the aging temperature decreases the
+soaking period necessary for proper aging. However, a closer
+control of both time and temperature is necessary when using
+the higher temperatures.
+
+The aging practices used depend upon many properties
+other than strength. As a rule, the artificially-aged alloys are
+slightly over-aged to increase their resistance to corrosion.
+This is especially true with the artificially-aged, high-copper
+content alloys that are susceptible to intergranular corrosion
+when inadequately aged.
+The heat-treatable aluminum alloys are subdivided into
+two classes: those that obtain their full strength at room
+temperature and those that require artificial aging.
+The alloys that obtain their full strength after 4 or 5 days
+at room temperature are known as natural-aging alloys.
+Precipitation from the supersaturated solid solution starts
+soon after quenching, with 90 percent of the maximum
+strength generally being obtained in 24 hours. Alloys 2017
+and 2024 are natural-aging alloys.
+The alloys that require precipitation thermal treatment
+to develop their full strength are artificially-aged alloys.
+However, these alloys also age a limited amount at room
+temperature, the rate and extent of the strengthening
+
+The temperatures used for precipitation-hardening depend
+upon the alloy and the properties desired, ranging from 250 °F
+to 375 °F. They should be controlled within a very narrow
+range (±5 °F) to obtain best results. [Figure 7-8]
+
+After receiving the thermal precipitation treatment, the
+material should be air cooled to room temperature. Water
+quenching, while not necessary, produces no ill effects.
+Furnace cooling tends to produce over-aging.
+Annealing of Aluminum Alloys
+The annealing procedure for aluminum alloys consists
+of heating the alloys to an elevated temperature, holding
+or soaking them at this temperature for a length of time
+depending upon the mass of the metal, and then cooling in
+still air. Annealing leaves the metal in the best condition for
+cold-working. However, when prolonged forming operations
+are involved, the metal takes on a condition known as
+“mechanical hardness” and resists further working. It may be
+necessary to anneal a part several times during the forming
+process to avoid cracking. Aluminum alloys should not be
+used in the annealed state for parts or fittings.
+Clad parts should be heated as quickly and carefully as
+possible, since long exposure to heat tends to cause some of
+the constituents of the core to diffuse into the cladding. This
+7-23
+
+===== PDF PAGE 268 =====
+reduces the corrosion resistance of the cladding.
+Heat-Treatment of Aluminum Alloy Rivets
+Aluminum alloy rivets are furnished in the following
+compositions: alloys 1100, 5056, 2117, 2017, and 2024.
+Alloy 1100 rivets are used in the “as fabricated” condition
+for riveting aluminum alloy sheets where a low-strength rivet
+is suitable. Alloy 5056 rivets are used in the “as fabricated”
+condition for riveting magnesium alloy sheets.
+Alloy 2117 rivets have moderately high strength and are
+suitable for riveting aluminum alloy sheets. These rivets
+receive only one heat-treatment, which is performed by the
+manufacturer, and are anodized after being heat-treated.
+They require no further heat-treatment before they are used.
+Alloy 2117 rivets retain their characteristics indefinitely after
+heat-treatment and can be driven anytime. Rivets made of
+this alloy are the most widely used in aircraft construction.
+Alloy 2017 and 2024 rivets are high-strength rivets suitable
+for use with aluminum alloy structures. They are purchased
+from the manufacturer in the heat-treated condition. Since
+the aging characteristics of these alloys at room temperatures
+are such that the rivets are unfit for driving, they must be
+reheat-treated just before they are to be used. Alloy 2017
+rivets become too hard for driving in approximately 1 hour
+after quenching. Alloy 2024 rivets become hardened in 10
+minutes after quenching. Both alloys may be reheat-treated
+as often as required; however, they must be anodized before
+the first reheat-treatment to prevent intergranular oxidation
+of the material. If these rivets are stored in a refrigerator at a
+temperature lower than 32 °F immediately after quenching,
+they remain soft enough to be usable for several days.
+Rivets requiring heat-treatment are heated either in tubular
+containers in a salt bath or in small screen wire baskets
+in an air furnace. The heat-treatment of alloy 2017 rivets
+consists of subjecting the rivets to a temperature between
+930 °F to 950 °F for approximately 30 minutes and
+immediately quenching in cold water. These rivets reach
+maximum strength in about 9 days after being driven. Alloy
+2024 rivets should be heated to a temperature of 910 °F
+to 930 °F and immediately quenched in cold water. These
+rivets develop greater shear strength than 2017 rivets and
+are used in locations where extra strength is required. Alloy
+2024 rivets develop their maximum shear strength in 1 day
+after being driven.
+The 2017 rivet should be driven within approximately 1 hour
+and the 2024 rivet within 10 to 20 minutes after heat-treating
+or removal from refrigeration. If not used within these times,
+the rivets should be reheat-treated before being refrigerated.
+
+Heat-Treatment of Magnesium Alloys
+Magnesium alloy castings respond readily to heat-treatment,
+and about 95 percent of the magnesium used in aircraft
+construction is in the cast form. The heat-treatment of
+magnesium alloy castings is like the heat-treatment of
+aluminum alloys in that there are two types of heat-treatment:
+solution heat-treatment and precipitation (aging) heattreatment. Magnesium, however, develops a negligible
+change in its properties when allowed to age naturally at
+room temperatures.
+
+Solution Heat-Treatment
+Magnesium alloy castings are solution heat-treated to
+improve tensile strength, ductility, and shock resistance. This
+heat-treatment condition is indicated by using the symbol –T4
+following the alloy designation. Solution heat-treatment plus
+artificial aging is designated –T6. Artificial aging is necessary
+to develop the full properties of the metal.
+Solution heat-treatment temperatures for magnesium alloy
+castings range from 730 °F to 780 °F, the exact range
+depending upon the type of alloy. The temperature range
+for each type of alloy is listed in Specification MIL-H-6857.
+The upper limit of each range listed in the specification is
+the maximum temperature to which the alloy may be heated
+without danger of melting the metal.
+The soaking time ranges from 10 to 18 hours, the exact time
+depending upon the type of alloy as well as the thickness of the
+part. Soaking periods longer than 18 hours may be necessary
+for castings over 2 inches in thickness. Never heat magnesium
+alloys in a salt bath as this may result in an explosion.
+A serious potential fire hazard exists in the heat-treatment
+of magnesium alloys. If through oversight or malfunctioning
+of equipment the maximum temperatures are exceeded, the
+casting may ignite and burn freely. For this reason, the furnace
+used should be equipped with a safety cutoff that turns off
+the power to the heating elements and blowers if the regular
+control equipment malfunctions or fails. Some magnesium
+alloys require a protective atmosphere of sulfur dioxide
+gas during solution heat-treatment. This aids in preventing
+the start of a fire even if the temperature limits are slightly
+exceeded.
+Air quenching is used after solution heat-treatment of
+magnesium alloys since there appears to be no advantage
+in liquid cooling.
+
+Precipitation Heat-Treatment
+After solution treatment, magnesium alloys may be given
+an aging treatment to increase hardness and yield strength.
+7-24
+

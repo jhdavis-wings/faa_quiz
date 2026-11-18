@@ -1,0 +1,1639 @@
+FAA-H-8083-30B General Handbook, chapter 8 (Cleaning & Corrosion Control), PDF pages 325-341
+
+===== PDF PAGE 325 =====
+Chapter 8
+
+Cleaning & Corrosion Control
+Corrosion
+Many aircraft structures are made of metal, and the most
+insidious form of damage to those structures is corrosion.
+From the moment the metal is manufactured, it must be
+protected from the deleterious effects of the environment that
+surrounds it. This protection can be the introduction of certain
+elements into the base metal, creating a corrosion-resistant
+alloy, or the addition of a surface coating of a chemical
+conversion coating, metal, or paint. While in use, additional
+moisture barriers, such as viscous lubricants and protectants,
+may be added to the surface.
+The introduction of airframes built primarily of composite
+components has not eliminated the need for careful
+monitoring of aircraft with regard to corrosion. The airframe
+itself may not be subject to corrosion; however, the use
+of metal components and accessories within the airframe
+means the aviation maintenance technician (AMT) must be
+on the alert for the evidence of corrosion when inspecting
+any aircraft.
+
+[Figure 8-2] On the surface of aluminum alloys and
+magnesium, it appears as pitting and etching and is often
+combined with a gray or white powdery deposit. On copper
+and copper alloys, the corrosion forms a greenish film; on
+steel, a reddish corrosion byproduct commonly referred to
+as rust. When the gray, white, green, or reddish deposits
+are removed, each of the surfaces may appear etched and
+pitted, depending upon the length of exposure and severity
+of attack. If these surface pits are not too deep, they may not
+significantly alter the strength of the metal; however, the
+pits may become sites for crack development, particularly if
+the part is highly stressed. Some types of corrosion burrow
+between the inside of surface coatings and the metal surface,
+spreading until the part fails.
+Factors Affecting Corrosion
+Many factors affect the type, speed, cause, and seriousness of
+metal corrosion. Some of these factors that influence metal
+corrosion and the rate of corrosion are:
+1.
+
+Type of metal
+
+This chapter provides an overview to the problems associated
+with aircraft corrosion. For more in-depth information on
+the subject, refer to the latest edition of the Federal Aviation
+Administration (FAA) Advisory Circular (AC) 43-4, Corrosion
+Control for Aircraft. The AC is an extensive handbook that
+deals with the sources of corrosion particular to aircraft
+structures, as well as steps the AMT can take in the course
+of maintaining aircraft that have been attacked by corrosion.
+
+2.
+
+Heat-treatment and grain direction
+
+3.
+
+Presence of a dissimilar, less corrodible metal
+
+4.
+
+Anodic and cathodic surface areas (in galvanic
+corrosion)
+
+5.
+
+Temperature
+
+6.
+
+Presence of electrolytes (hard water, salt water, battery
+fluids, etc.)
+
+Metal corrosion is the deterioration of the metal by chemical
+or electrochemical attack. This type of damage can take place
+internally, as well as on the surface. As in the rotting of wood,
+this deterioration may change the smooth surface, weaken
+the interior, or damage or loosen adjacent parts.
+
+7.
+
+Availability of oxygen
+
+8.
+
+Presence of biological organisms
+
+9.
+
+Mechanical stress on the corroding metal
+
+Water or water vapor containing salt combines with oxygen
+in the atmosphere to produce the main source of corrosion
+in aircraft. Aircraft operating in a marine environment, or
+in areas where the atmosphere contains industrial fumes
+that are corrosive, are particularly susceptible to corrosive
+attacks. [Figure 8-1]
+If left unchecked, corrosion can cause eventual structural
+failure. The appearance of corrosion varies with the metal.
+
+10. Time of exposure to a corrosive environment
+11. Lead/graphite pencil marks on aircraft surface metals
+
+Pure Metals
+Most pure metals are not suitable for aircraft construction and
+are used only in combination with other metals to form alloys.
+Most alloys are made up entirely of small crystalline regions
+called grains. Corrosion can occur on surfaces of those
+regions that are less resistant and also at boundaries between
+regions, resulting in the formation of pits and intergranular
+corrosion. Metals have a wide range of corrosion resistance.
+8-1
+
+===== PDF PAGE 326 =====
+The most active metals (those that lose electrons easily), such
+as magnesium and aluminum, corrode easily. The most noble
+metals (those that do not lose electrons easily), such as gold
+and silver, do not corrode easily.
+
+Climate
+The environmental conditions that an aircraft is maintained
+and operated under greatly affects corrosion characteristics.
+In a predominately marine environment (with exposure to sea
+water and salt air), moisture-laden air is considerably more
+detrimental to an aircraft than it would be if all operations
+were conducted in a dry climate. Temperature considerations
+are important, because the speed of electrochemical attack is
+increased in a hot, moist climate.
+
+Geographical Location
+The flight routes and bases of operation expose some
+airplanes to more corrosive conditions than others. The
+operational environment of an aircraft may be categorized
+as mild, moderate, or severe with respect to the corrosion
+severity of the operational environment. The corrosion
+severity of the operational environments in North America are
+identified in Figure 8-3. Additional maps for other locations
+around the world are published in AC 43-4.
+The corrosion severity of any particular area may be increased
+by many factors, including airborne industrial pollutants,
+chemicals used on runways and taxiways to prevent ice
+formation, humidity, temperatures, prevailing winds from a
+corrosive environment, etc. Suggested intervals for cleaning,
+inspection, lubrication, and preservation when located in mild
+zones are every 90 days, moderate zones every 45 days, and
+severe zones every 15 days.
+
+Foreign Material
+Among the controllable factors that affect the onset and
+spread of corrosive attack is foreign material that adheres to
+the metal surfaces. Such foreign material includes:
+
+•
+
+Soil and atmospheric dust
+
+•
+
+Oil, grease, and engine exhaust residues
+
+•
+
+Salt water and salt moisture condensation
+
+•
+
+Spilled battery acids and caustic cleaning solutions
+
+•
+
+Welding and brazing flux residues
+
+Micro-organisms
+Slimes, molds, fungi and other living organisms (some
+microscopic) can grow on damp surfaces. Once they are
+established, the area tends to remain damp, increasing the
+possibility of corrosion.
+
+Manufacturing Processes
+Manufacturing processes, such as machining, forming, welding,
+or heat-treatment, can leave stresses in aircraft parts. The
+residual stress can cause cracking in a corrosive environment
+when the threshold for stress corrosion is exceeded.
+It is important that aircraft be kept clean. How often and to
+what extent an aircraft must be cleaned depends on several
+factors, including geographic location, model of aircraft, and
+type of operation.
+Types of Corrosion
+There are two general classifications of corrosion that
+cover most of the specific forms: direct chemical attack and
+electrochemical attack. In both types of corrosion, the metal
+is converted into a metallic compound, such as an oxide,
+hydroxide, or sulfate. The corrosion process involves two
+simultaneous changes: the metal that is attacked or oxidized
+suffers what is called anodic change, and the corrosive agent
+is reduced and is considered as undergoing cathodic change.
+
+Direct Chemical Attack
+Direct chemical attack, or pure chemical corrosion, is an
+attack resulting from direct exposure of a bare surface to
+caustic liquid or gaseous agents. Unlike electrochemical
+attack where anodic and cathodic changes take place a
+measurable distance apart, the changes in direct chemical
+attack occur simultaneously at the same point. The most
+common agents causing direct chemical attack on aircraft
+are: spilled battery acid or fumes from batteries; residual
+flux deposits resulting from inadequately cleaned, welded,
+brazed, or soldered joints; and entrapped caustic cleaning
+solutions. [Figure 8-4]
+With the introduction of sealed lead-acid batteries and the use
+of nickel-cadmium batteries, spilled battery acid is becoming
+less of a problem. The use of these closed units lessens the
+hazards of acid spillage and battery fumes.
+
+Figure 8-1. Seaplane operations.
+
+Many types of fluxes used in brazing, soldering, and welding
+8-2
+
+===== PDF PAGE 327 =====
+Alloy
+Magnesium
+
+Appearance of corrosion product
+
+Type of attack to which alloy is susceptible
+Highly susceptible to pitting
+
+White, powdery, snow-like mounds and white spots on
+surface
+
+Surface oxidation and pitting, surface, and intergranular
+
+Reddish–brown oxide (rust)
+
+Aluminum
+
+Surface pitting, intergranular, exfoliation stress–
+corrosion and fatigue cracking, and fretting
+
+White–to–grey powder
+
+Titanium
+
+Highly corrosion resistant; extended or repeated
+contact with chlorinated solvents may result in
+degradation of the metal’s structural properties at high
+temperature
+
+No visible corrosion products at low temperature.
+Colored surface oxides develop above 700 °F (370 °C)
+
+Cadmium
+
+Uniform surface corrosion; used as sacrificial plating
+to protect steel
+
+From white powdery deposit to brown or black mottling
+of the surface
+
+Stainless steels
+(300–400 series)
+
+Crevice corrosion; some pitting in marine environments;
+corrosion cracking; intergranular corrosion (300 series);
+surface corrosion (400 series)
+
+Rough surface; sometimes a uniform red, brown, stain
+
+Nickel–base
+(Inconel, Monel)
+
+Generally has good corrosion resistant qualities;
+susceptible to pitting in sea water
+
+Green powdery deposit
+
+Copper–base Brass,
+Bronze
+
+Surface and intergranular corrosion
+
+Blue or blue–green powdery deposit
+
+Chromium (Plate)
+
+Pitting (promotes rusting of steel where pits occur in
+plating)
+
+No visible corrosion products; blistering of plating due to
+rusting and lifting
+
+Silver
+
+Will tarnish in the presence of sulfur
+
+Brown–to–black film
+
+Gold
+
+Highly corrosion resistant
+
+Deposits cause darkening of reflective surfaces
+
+Tin
+
+Subject to whisker growth
+
+Whisker–like deposit
+
+Low alloy steel
+(4,000–8,000 series)
+
+Figure 8-2. Corrosion of metals.
+
+are corrosive, chemically attacking the metals or alloys that
+they are used with. Therefore, it is important to remove
+residual flux from the metal surface immediately after the
+joining operation. Flux residues are hygroscopic in nature,
+absorbing moisture, and unless carefully removed, tend to
+cause severe pitting.
+Caustic cleaning solutions in concentrated form are
+kept tightly capped and as far from aircraft as possible.
+Some cleaning solutions used in corrosion removal are,
+in themselves, potentially corrosive agents. Therefore,
+particular attention must be directed toward their complete
+removal after use on aircraft. Where entrapment of the
+cleaning solution is likely to occur, use a noncorrosive
+cleaning agent, even though it is less efficient.
+
+Electrochemical Attack
+
+Corrosion is a natural occurrence that attacks metal by
+chemical or electrochemical action, converting it back to a
+metallic compound. The following four conditions must exist
+before electrochemical corrosion can occur. [Figure 8-5]
+1.
+
+A metal subject to corrosion (anode)
+
+2.
+
+A dissimilar conductive material (cathode) that has
+less tendency to corrode
+
+3.
+
+Presence of a continuous, conductive liquid path
+(electrolyte)
+
+4.
+
+Electrical contact between the anode and the cathode
+(usually in the form of metal to metal contact, such
+as rivets, bolts, and corrosion)
+
+Elimination of any one of these conditions stops
+electrochemical corrosion.
+NOTE: Paint can mask the initial stages of corrosion.
+Since corrosion products occupy more volume than the
+original metal, painted surfaces must be inspected often for
+irregularities, such as blisters, flakes, chips, and lumps.
+An electrochemical attack may be likened chemically to
+the electrolytic reaction that takes place in electroplating,
+anodizing, or in a dry cell battery. The reaction in this corrosive
+attack requires a medium, usually water, that is capable of
+conducting a tiny current of electricity. When a metal comes
+in contact with a corrosive agent and is also connected by a
+liquid or gaseous path that electrons flow through, corrosion
+begins as the metal decays by oxidation. [Figure 8-5] During
+the attack, the quantity of corrosive agent is reduced and,
+if not renewed or removed, may completely react with the
+8-3
+
+===== PDF PAGE 328 =====
+FAIRBANKS
+ANCHORAGE
+
+SEATTLE
+
+MONTREAL
+
+CHICAGO
+DENVER
+
+LOS ANGELES
+
+DALLAS
+
+NEW YORK
+
+ATLANTA
+
+HOUSTON
+MIAMI
+HAVANA
+
+CORROSION SEVERITY ZONE
+MILD
+MODERATE
+SEVERE
+
+HAITI
+MEXICO
+JAMAICA
+
+PUERTO RICO
+
+ST. DOMINGO
+
+Figure 8-3. North America corrosion severity chart.
+
+metal becoming neutralized. Different areas of the same
+metal surface have varying levels of electrical potential and,
+if connected by a conductor such as salt water, sets up a series
+of corrosion cells and corrosion will commence.
+All metals and alloys are electrically active and have a
+specific electrical potential in a given chemical environment.
+This potential is commonly referred to as the metal’s
+“nobility.” [Figure 8-6] The less noble a metal is, the more
+easily it can be corroded. The metals chosen for use in aircraft
+structures are a studied compromise with strength, weight,
+corrosion resistance, workability, and cost balanced against
+the structure’s needs.
+The constituents in an alloy also have specific electrical
+potentials that are generally different from each other.
+Exposure of the alloy surface to a conductive, corrosive
+medium causes the more active metal to become anodic and
+the less active metal to become cathodic, thereby establishing
+conditions for corrosion. These are called local cells. The
+greater the difference in electrical potential between the two
+metals, the greater the severity of a corrosive attack if the
+proper conditions are allowed to develop.
+Figure 8-4. Direct chemical attack in a battery compartment.
+
+8-4
+
+===== PDF PAGE 329 =====
+The conditions for these corrosion reactions are the presence
+of a conductive fluid and metals having a difference in
+potential. If, by regular cleaning and surface refinishing,
+the medium is removed and the minute electrical circuit
+eliminated, corrosion cannot occur. This is the basis for
+effective corrosion control. The electrochemical attack is
+responsible for most forms of corrosion on aircraft structure
+and component parts.
+Forms of Corrosion
+There are many forms of corrosion. The form of corrosion
+depends on the metal involved, its size and shape, its
+specific function, atmospheric conditions, and the corrosion
+producing agents present. Those described in this section
+are the more common forms found on airframe structures.
+
+Surface Corrosion
+
+General surface corrosion (also referred to as uniform etch
+or uniform attack corrosion) is the most common form of
+corrosion. Surface corrosion appears as a general roughening,
+
+etching, or pitting of the surface of a metal, frequently
+accompanied by a powdery deposit of corrosion products.
+Surface corrosion may be caused by either direct chemical or
+electrochemical attack. Sometimes corrosion spreads under
+the surface coating and cannot be recognized by either the
+roughening of the surface or the powdery deposit. Instead,
+closer inspection reveals the paint or plating is lifted off the
+surface in small blisters that result from the pressure of the
+underlying accumulation of corrosion products. [Figure 8-7]
+
+Filiform Corrosion
+Filiform corrosion is a special form of oxygen concentration
+cell that occurs on metal surfaces having an organic
+coating system. It is recognized by its characteristic wormlike trace of corrosion products beneath the paint film.
+[Figure 8-8] Polyurethane finishes are especially susceptible
+to filiform corrosion. Filiform occurs when the relative
+humidity of the air is between 78–90 percent, and the surface
+is slightly acidic. This corrosion usually attacks steel and
+aluminum surfaces. The traces never cross on steel, but they
+
+Simplified corrosion cell showing conditions that must exist for electrochemical corrosion.
+
+Continuous liquid path (electrolyte)
+Current flow
+Cathodic area
+
+Anodic area
+Electron flow
+Electron conductor metal
+
+Elimination of corrosion by application of an organic film to metal surface.
+No contact between electrolyte
+and anode and cathode
+
+Unbroken paint film
+
+Continuous liquid path (electrolyte)
+
+Anodic area
+
+Cathodic area
+
+Electron conductor metal
+
+Figure 8-5. Electrochemical attack.
+
+8-5
+
+===== PDF PAGE 330 =====
+cross under one another on aluminum, making the damage
+deeper and more severe for aluminum. If the corrosion is not
+removed, the area treated, and a protective finish applied,
+the corrosion can lead to intergranular corrosion, especially
+around fasteners and at seams.
+Filiform corrosion can be removed using glass bead blasting
+material with portable abrasive blasting equipment or
+sanding. Filiform corrosion can be prevented by storing
+aircraft in an environment with a relative humidity below 70
+percent, using coating systems having a low rate of diffusion
+for oxygen and water vapors, and by washing the aircraft to
+remove acidic contaminants from the surface, such as those
+created by pollutants in the air.
+
+Pitting Corrosion
+
+Pitting corrosion is one of the most destructive and intense
+forms of corrosion. It can occur in any metal but is most
+common on metals that form protective oxide films, such
+as aluminum and magnesium alloys. It is first noticeable
+as a white or gray powdery deposit, similar to dust, which
+blotches the surface. When the deposit is cleaned away, tiny
+holes or pits can be seen in the surface. These small surface
+openings may penetrate deeply into structural members and
+cause damage completely out of proportion to its surface
+appearance. [Figure 8-9]
+
+Dissimilar Metal Corrosion
+Extensive pitting damage may result from contact between
+dissimilar metal parts in the presence of a conductor. While
+surface corrosion may or may not be taking place, a galvanic
+action, not unlike electroplating, occurs at the points or areas
+of contact where the insulation between the surfaces has
+broken down or been omitted. This electrochemical attack
+can be very serious because, in many instances, the action
+is taking place out of sight, and the only way to detect it
+prior to structural failure is by disassembly and inspection.
+[Figure 8-10]
+The contamination of a metal’s surface by mechanical means
+can also induce dissimilar metal corrosion. The improper use
+of steel cleaning products, such as steel wool or a steel wire
+brush on aluminum or magnesium, can force small pieces
+of steel into the metal being cleaned, causing corrosion and
+ruining the adjoining surface. Carefully monitor the use of
+nonwoven abrasive pads, so that pads used on one type of
+metal are not used again on a different metal surface.
+
+Concentration Cell Corrosion
+Concentration cell corrosion, (also known as crevice
+corrosion) is corrosion of metals in a metal-to-metal joint,
+corrosion at the edge of a joint even though the joined metals
+are identical, or corrosion of a spot on the metal surface
+covered by a foreign material. Metal ion concentration cells,
+
+Metal most
+likely to corrode
+(anodic)
+Magnesium
+Magnesium alloy
+Zinc
+Aluminum (1100)
+Cadmium
+Aluminum 2024-T4
+Steel or iron
+Cast iron
+Chromium-iron (active)
+Ni-Resist cast iron
+Type 304 stainless steel (active)
+Type 316 stainless steel (active)
+Lead-tin solder
+Lead
+Tin
+Nickel (active)
+Inconel nickel-chromium alloy
+(active)
+Hastelloy alloy C (active)
+Brass
+Copper
+Bronze
+Copper-nickel alloy
+Monel nickel-copper alloy
+Silver solder
+Nickel (passive)
+Inconel nickel-chromium alloy
+(passive)
+Chromium-iron (passive)
+Type 304 stainless steel (passive)
+Type 316 stainless steel (passive)
+Hastelloy alloy C (passive)
+Silver
+Titanium
+Graphite
+Gold
+Platinum
+
+Metal least likely
+to corrode
+(cathodic)
+Figure 8-6. The galvanic series of metals and alloys.
+
+8-6
+
+===== PDF PAGE 331 =====
+oxygen concentration cells, and active-passive cells are three
+general types of concentration cell corrosion.
+Metal Ion Concentration Cells
+The solution may consist of water and ions of the metal that
+are in contact with water. A high concentration of metal ions
+normally exists under faying surfaces where the solution is
+stagnant and a low concentration of metal ions exist adjacent
+to the crevice, created by the faying surface. [Figure 8-11] An
+electrical potential exists between the two points: the area
+of the metal in contact with the low concentration of metal
+ions is anodic and corrodes; the area in contact with the high
+metal ion concentration is cathodic and does not show signs
+of corrosion.
+Oxygen Concentration Cells
+The solution in contact with the metal surface normally
+contains dissolved oxygen. An oxygen cell can develop
+at any point where the oxygen in the air is not allowed to
+diffuse into the solution, thereby creating a difference in
+oxygen concentration between two points. Typical locations
+of oxygen concentration cells are under gaskets, wood,
+rubber, and other materials in contact with the metal surface.
+Corrosion occurs at the area of low oxygen concentration
+(anode). Alloys such as stainless steel are particularly
+susceptible to this type of crevice corrosion. [Figure 8-12]
+Active-Passive Cells
+Metals that depend on a tightly adhering passive film, usually
+an oxide for corrosion protection, are prone to rapid corrosive
+attack by active-passive cells. The corrosive action usually
+starts as an oxygen concentration cell. The passive film is
+broken beneath the dirt particle exposing the active metal to
+corrosive attack. An electrical potential will develop between
+the large area of the passive film and the small area of the
+active metal, resulting in rapid pitting. [Figure 8-13]
+
+Figure 8-8. Filiform corrosion.
+
+Intergranular Corrosion
+This type of corrosion is an attack along the grain boundaries of
+an alloy and commonly results from a lack of uniformity in the
+alloy structure. Aluminum alloys and some stainless steels are
+particularly susceptible to this form of electrochemical attack.
+[Figure 8-14] The lack of uniformity is caused by changes
+that occur in the alloy during the heating and cooling process
+of the material’s manufacturing. Intergranular corrosion
+may exist without visible surface evidence. High-strength
+aluminum alloys, such as 2014 and 7075, are more susceptible
+to intergranular corrosion if they have been improperly heattreated and then exposed to a corrosive environment.
+
+Exfoliation Corrosion
+Exfoliation corrosion is an advanced form of intergranular
+corrosion and shows itself by lifting up the surface grains
+of a metal by the force of expanding corrosion products
+occurring at the grain boundaries just below the surface.
+[Figure 8-15] It is visible evidence of intergranular corrosion
+and is most often seen on extruded sections where grain
+thickness is usually less than in rolled forms. This type of
+corrosion is difficult to detect in its initial stage. Extruded
+components, such as spars, can be subject to this type of
+corrosion. Ultrasonic and eddy current inspection methods
+are being used with a great deal of success.
+
+Stress-Corrosion/Cracking
+
+Figure 8-7. Surface corrosion.
+
+This form of corrosion involves a constant or cyclic stress
+acting in conjunction with a damaging chemical environment.
+The stress may be caused by internal or external loading.
+[Figure 8-16] Internal stress may be trapped in a part of
+structure during manufacturing processes, such as coldworking or by unequal cooling from high temperatures.
+Most manufacturers follow these processes with a stress
+relief operation. Even so, sometimes stress remains trapped.
+The stress may be externally introduced in part structure by
+riveting, welding, bolting, clamping, press fit, etc. If a slight
+mismatch occurs or a fastener is over-torqued, internal stress
+8-7
+
+===== PDF PAGE 332 =====
+Narrow, deep
+
+is present. Internal stress is more important than design stress,
+because stress corrosion is difficult to recognize before it has
+overcome the design safety factor. The level of stress varies
+from point to point within the metal. Stresses near the yield
+strength are generally necessary to promote stress corrosion
+cracking. However, failures may occur at lower stresses.
+
+Wide, shallow
+
+Specific environments have been identified that cause stress
+corrosion cracking of certain alloys.
+
+TROUGH PITS
+
+1.
+
+Salt solutions and sea water cause stress corrosion
+cracking of high-strength, heat-treated steel and
+aluminum alloys.
+
+2.
+
+Methyl alcohol-hydrochloric acid solutions cause
+stress corrosion cracking of some titanium alloys.
+
+3.
+
+Magnesium alloys may stress corrode in moist air.
+
+Elliptical
+
+Vertical
+
+SIDEWAY PITS
+Subsurface
+
+Stress corrosion may be reduced by applying protective
+coatings, stress relief heat-treatments, using corrosion
+inhibitors, or controlling the environment. Shot peening a
+metal surface increases resistance to stress corrosion cracking
+by creating compressive stresses on the surface which should
+be overcome by applied tensile stress before the surface
+sees any tension load. Therefore, the threshold stress level
+is increased.
+
+Low metal ion concentration
+Undercutting
+
+Horizontal
+
+High metal ion concentration
+METAL ION CONCENTRATION CELL
+Figure 8-9. Types of pitting corrosion.
+
+Figure 8-11. Metal ion concentration cell.
+
+High oxygen concentration
+
+Low oxygen concentration
+OXYGEN CONCENTRATION CELL
+Figure 8-10. Dissimilar metal corrosion.
+
+Figure 8-12. Oxygen concentration cell.
+
+8-8
+
+===== PDF PAGE 333 =====
+Passive film protects
+exposed surface
+
+Foreign material
+creates a low oxygen
+region that prevents
+the re-formation of
+passive film
+
+Active metal
+ACTIVE – PASSIVE CELL
+Figure 8-13. Active-passive cell.
+
+Figure 8-15. Exfoliation corrosion.
+
+Fretting Corrosion
+Fretting corrosion is a particularly damaging form of
+corrosive attack that occurs when two mating surfaces,
+normally at rest with respect to one another, are subject to
+slight relative motion. It is characterized by pitting of the
+surfaces and the generation of considerable quantities of
+finely divided debris. Since the restricted movements of the
+two surfaces prevent the debris from escaping very easily,
+an extremely localized abrasion occurs. [Figure 8-17]
+The presence of water vapor greatly increases this type of
+deterioration. If the contact areas are small and sharp, deep
+grooves resembling brinell markings or pressure indentations
+may be worn in the rubbing surface. As a result, this type
+of corrosion on bearing surfaces has also been called false
+brinelling. The most common example of fretting corrosion
+is the smoking rivet found on engine cowling and wing
+skins. This is one corrosion reaction that is not driven by an
+electrolyte, and in fact, moisture may inhibit the reaction. A
+smoking rivet is identified by a black ring around the rivet.
+
+Fatigue Corrosion
+Fatigue corrosion involves cyclic stress and a corrosive
+
+environment. Metals may withstand cyclic stress for an
+infinite number of cycles so long as the stress is below
+the endurance limit of the metal. Once the limit has been
+exceeded, the metal eventually cracks and fails from metal
+fatigue. However, when the part or structure undergoing
+cyclic stress is also exposed to a corrosive environment, the
+stress level for failure may be reduced many times. Thus,
+failure occurs at stress levels that can be dangerously low
+depending on the number of cycles assigned to the lifelimited part.
+Fatigue corrosion failure occurs in two stages. During the
+first stage, the combined action of corrosion and cyclic stress
+damages the metal by pitting and crack formations to such
+a degree that fracture by cyclic stress occurs, even if the
+corrosive environment is completely removed. The second
+stage is essentially a fatigue stage where failure proceeds by
+propagation of the crack (often from a corrosion pit or pits).
+It is controlled primarily by stress concentration effects and
+the physical properties of the metal. Fracture of a metal part
+due to fatigue corrosion generally occurs at a stress level far
+
+Electrolyte enters through cracks in paint film
+
+Paint film
+Cladding
+
+Cladding
+
+Preferential
+corrosion along
+grain boundaries
+
+Cathode
+
+Anode
+
+Intergranular corrosion
+Steel fastener
+
+7075-T6 Aluminum
+
+Figure 8-14. Intergranular corrosion of 7075-T6 aluminum adjacent to steel fastener.
+
+8-9
+
+===== PDF PAGE 334 =====
+Figure 8-16. Stress corrosion cracking.
+
+below the fatigue limit of an uncorroded part, even though
+the amount of corrosion is relatively small.
+
+Figure 8-17. Fretting corrosion.
+
+Galvanic Corrosion
+Galvanic corrosion occurs when two dissimilar metals
+make electrical contact in the presence of an electrolyte.
+[Figure 8-18] The rate which corrosion occurs depends on
+the difference in the activities. The greater the difference
+in activity, the faster corrosion occurs. The rate of galvanic
+corrosion also depends on the size of the parts in contact. If
+the surface area of the corroding metal is smaller than the
+surface area of the less active metal, corrosion is rapid and
+severe. When the corroding metal is larger than the less active
+metal, corrosion is slow and superficial.
+
+extremely vulnerable. Exposure of airframe materials
+to salts or their solutions is extremely undesirable.
+•
+
+Atmosphere—the major atmospheric corrosive agents
+are oxygen and airborne moisture. Corrosion often
+results from the direct action of atmospheric oxygen
+and moisture on metal, and the presence of additional
+moisture often accelerates corrosive attack, particularly
+on ferrous alloys. However, the atmosphere may
+also contain other corrosive gases and contaminants,
+particularly industrial and marine salt spray.
+
+•
+
+Water—the corrosiveness of water depends on the
+type and quantity of dissolved mineral and organic
+impurities and dissolved gasses (particularly oxygen)
+in the water. One characteristic of water that determines
+its corrosiveness is the conductivity or ability to act as
+an electrolyte and conduct a current. Physical factors,
+such as water temperature and velocity, also have a
+direct bearing on its corrosiveness.
+
+Common Corrosive Agents
+Substances that cause corrosion of metals are called corrosive
+agents. The most common corrosive agents are acids, alkalies,
+and salts. The atmosphere and water, the two most common
+media for these agents, may also act as corrosive agents.
+•
+
+•
+
+•
+
+Acids—moderately strong acids severely corrode
+most of the alloys used in airframes. The most
+destructive are sulfuric acid (battery acid), halogen
+acids (hydrochloric, hydrofluoric, and hydrobromic),
+nitrous oxide compounds, and organic acids found in
+the wastes of humans and animals.
+Alkalies—as a group, alkalies are not as corrosive
+as acids. Aluminum and magnesium alloys are
+exceedingly prone to corrosive attack by many
+alkaline solutions unless the solutions contain a
+corrosion inhibitor. Substances particularly corrosive
+to aluminum are washing soda, potash (wood ashes),
+and lime (cement dust). Ammonia, an alkali, is
+an exception because aluminum alloys are highly
+resistant to it.
+Salts—most salt solutions are good electrolytes and
+can promote corrosive attack. Some stainless-steel
+alloys are resistant to attack by salt solutions but
+aluminum alloy, magnesium alloys, and other steels are
+
+Preventive Maintenance
+Much has been done to improve the corrosion resistance
+of aircraft, such as improvements in materials, surface
+treatments, insulation, and modern protective finishes. All of
+these have been aimed at reducing the overall maintenance
+effort, as well as improving reliability. In spite of these
+improvements, corrosion and its control is a very real problem
+that requires continuous preventive maintenance. During any
+corrosion control maintenance, consult the Safety Data Sheet
+(SDS) for information on any chemicals used in the process.
+Corrosion preventive maintenance includes the following
+specific functions:
+1.
+
+Adequate cleaning
+
+2.
+
+Thorough periodic lubrication
+
+3.
+
+Detailed inspection for corrosion and failure of
+8-10
+
+===== PDF PAGE 335 =====
+protective systems
+4.
+
+Prompt treatment of corrosion and touch up of
+damaged paint areas
+
+5.
+
+Accurate record keeping and reporting of material or
+design deficiencies to the manufacturer and the FAA
+
+6.
+
+Use of appropriate materials, equipment, technical
+publications, and adequately-training personnel
+
+7.
+
+Maintenance of the basic finish systems
+
+8.
+
+Keeping drain holes free of obstructions
+
+9.
+
+Daily draining of fuel cell sumps
+
+10. Daily wipe down of exposed critical areas
+11. Sealing of aircraft against water during foul weather
+and proper ventilation on warm, sunny days
+12. Replacing deteriorated or damaged gaskets and
+sealants to avoid water intrusion and/or entrapment
+13. Maximum use of protective covers on parked aircraft
+After any period where regular corrosion preventive
+maintenance is interrupted, the amount of maintenance
+required to repair accumulated corrosion damage and bring
+the aircraft back up to standard is usually quite high.
+
+Inspection
+Inspection for corrosion is a continuing problem and must
+be handled daily. Overemphasizing a particular corrosion
+problem when it is discovered and then forgetting about
+corrosion until the next crisis is an unsafe, costly, and
+troublesome practice. Most scheduled maintenance checklists
+are complete enough to cover all parts of the aircraft or
+engine, thus no part of the aircraft goes uninspected. Use these
+checklists as a general guide when an area is to be inspected
+for corrosion. Through experience, one learns that most
+aircraft have trouble areas where, despite routine inspection
+and maintenance, corrosion still sets in.
+All corrosion inspections start with a thorough cleaning of
+
+the area to be inspected. A general visual inspection of the
+area follows using a flashlight, inspection mirror, and a 5–
+l0X magnifying glass. The general inspection is to look for
+obvious defects and suspected areas. A detailed inspection
+of damage or suspected areas found during the general
+inspection follows.
+Visual inspection is the most widely used technique and
+is an effective method for the detection and evaluation of
+corrosion. Visual inspection employs the eyes to look directly
+at an aircraft surface or at a low angle of incidence to detect
+corrosion. Using the sense of touch is also an effective
+inspection method for the detection of hidden, well-developed
+corrosion. Other tools used during the visual inspection are
+mirrors, optical micrometers, and depth gauges.
+Sometimes the inspection areas are obscured by structural
+members, equipment installations, or for some reason are
+awkward to check visually. Adequate access for inspection
+must be obtained by removing access panels and adjacent
+equipment, cleaning the area as necessary, and removing
+loose or cracked sealants and paints. Mirrors, borescopes, and
+fiber optics are useful in providing the means of observing
+obscure areas.
+In addition to visual inspection, there are several NDI
+methods, such as liquid penetrant, magnetic particle, eddy
+current, x-ray, ultrasonic, and acoustical emission, that may
+be of value in the detection of corrosion. These methods have
+limitations and must be performed only by qualified and
+certified NDI personnel. Eddy current, x-ray, and ultrasonic
+inspection methods require properly calibrated (each time
+used) equipment and a controlling reference standard to
+obtain reliable results.
+In addition to routine maintenance inspections, amphibians
+or seaplanes must be checked daily and critical areas cleaned
+or treated, as necessary.
+
+Corrosion Prone Areas
+Discussed briefly in this section are most of the corrosion
+problem areas common to all aircraft. These areas should
+be cleaned, inspected, and treated more frequently than less
+corrosion prone areas. This information is not necessarily
+complete and may be amplified and expanded to cover
+the special characteristics of the particular aircraft model
+involved by referring to the applicable maintenance manual.
+
+Figure 8-18. Galvanic corrosion.
+
+Exhaust Trail Areas
+Both jet and reciprocating engine exhaust deposits are very
+corrosive and give particular trouble where gaps, seams,
+hinges, and fairings are located downstream from the exhaust
+pipes or nozzles. [Figure 8-19] Deposits may be trapped
+8-11
+
+===== PDF PAGE 336 =====
+and not reached by normal cleaning methods. Pay special
+attention to areas around rivet heads and in skin lap joints
+and other crevices. Remove and inspect fairings and access
+plates in the exhaust areas. Do not overlook exhaust deposit
+buildup in remote areas, such as the empennage surfaces.
+Buildup in these areas is slower and may not be noticed until
+corrosive damage has begun.
+Battery Compartments and Battery Vent Openings
+Despite improvements in protective paint finishes and in
+methods of sealing and venting, battery compartments
+continue to be corrosion prone areas. Fumes from overheated
+electrolyte are difficult to contain and spread to adjacent
+cavities, causing a rapid corrosive attack on all unprotected
+metal surfaces. Battery vent openings on the aircraft skin
+should be included in the battery compartment inspection and
+maintenance procedure. If aircraft batteries with electrolytes,
+sulfuric acid, or potassium hydroxide are in use, their leakage
+will cause corrosion. Regular cleaning and neutralization of
+acid deposits minimizes corrosion from this cause. Consult
+the applicable maintenance manuals for the particular
+aircraft to determine the type of battery installed and the
+recommended maintenance.
+Bilge Areas
+These are natural collection points for waste hydraulic fluids,
+water, dirt, and odds and ends of debris. Residual oil quite
+often masks small quantities of water that settle to the bottom
+and set up a hidden chemical cell.
+Instead of using chemical treatments for the bilge water,
+current float manufacturers recommend the diligent
+maintenance of the internal coatings applied to the float’s
+interior during manufacture. In addition to chemical
+conversion coatings applied to the surface of the sheet metal
+and other structural components and to sealants installed in
+lap joints during construction, the interior compartments are
+painted to protect the bilge areas. When seaplane structures
+are repaired or restored, this level of corrosion protection
+must be maintained.
+
+Wheel Well and Landing Gear
+More than any other area on the aircraft, this area probably
+receives more punishment due to mud, water, salt, gravel,
+and other flying debris. [Figure 8-20] Because of the many
+complicated shapes, assemblies, and fittings, complete
+area paint film coverage is difficult to attain and maintain.
+A partially applied preservative tends to mask corrosion
+rather than prevent it. Due to heat generated by braking
+action, preservatives cannot be used on some main landing
+gear wheels.
+During inspection of this area, pay particular attention to the
+following trouble spots:
+1.
+
+Magnesium wheels, especially around bolt heads, lugs,
+and wheel web areas, for the presence of entrapped
+water or its effects
+
+2.
+
+Exposed rigid tubing, especially at B-nuts and ferrules,
+under clamps and tubing identification tapes
+
+3.
+
+Exposed position indicator switches and other
+electrical equipment
+
+4.
+
+Crevices between stiffeners, ribs, and lower skin
+surfaces that are typical water and debris traps
+
+5.
+
+Axle interiors
+
+6.
+
+Exposed surfaces of struts, oleos, arms, links, and
+attaching hardware (bolts, pins, etc.)
+
+Water Entrapment Areas
+Design specifications require that aircraft have drains installed
+in all areas where water may collect. Daily inspection of low
+point drains is a standard requirement. If this inspection is
+neglected, the drains may become ineffective because of
+accumulated debris, grease, or sealants.
+
+Lavatories, Buffets, & Galleys
+These areas, particularly deck areas behind lavatories,
+sinks, and ranges, where spilled food and waste products
+may collect if not kept clean, are potential trouble spots.
+Even if some contaminants are not corrosive in themselves,
+they attract and retain moisture and, in turn, cause corrosive
+attack. Pay attention to bilge areas located under galleys and
+lavatories. Clean these areas frequently and maintain the
+protective sealant and paint finishes.
+
+Figure 8-19. Exhaust nozzle area.
+
+8-12
+
+===== PDF PAGE 337 =====
+Engine Frontal Areas & Cooling Air Vents
+These areas are being constantly abraded with airborne dirt
+and dust, bits of gravel from runways, and rain erosion,
+leading to removal of the protective finish. Furthermore,
+cores of radiator coolers, reciprocating engine cylinder
+fins, etc., may not be painted due to the requirement for
+heat dissipation. Engine accessory mounting bases usually
+have small area of unpainted magnesium or aluminum on
+the machined-mounted surfaces. Inspection of these areas
+must include all sections in the cooling air path, with special
+attention to places where salt deposits may be built up during
+marine operations. It is imperative that incipient corrosion be
+inhibited and that paint touchup and hard film preservative
+coatings are maintained on seaplane and amphibian engine
+surfaces at all times.
+
+buckling in its early stages may be detected by sighting along
+spot welded seams or by using a straightedge. The only
+technique for preventing this condition is to keep potential
+moisture entry points, including seams and holes created
+by broken spot welds, filled with a sealant or a suitable
+preservative compound.
+
+Wing Flap & Spoiler Recesses
+Dirt and water may collect in flap and spoiler recesses
+unnoticed, because they are normally retracted. For this
+reason, these recesses are potential corrosion problem areas.
+Inspect these areas with the spoilers and flaps in the fully
+deployed position.
+
+Circuit breakers, contact points, and switches are extremely
+sensitive to moisture and corrosive attack, thus inspection is
+required for these conditions as thoroughly as design permits.
+If design features hinder examination of these items while
+in the installed condition, inspection is accomplished after
+component removal for other reasons.
+
+External Skin Areas
+External aircraft surfaces are readily visible and accessible
+for inspection and maintenance. Even here, certain types
+of configurations or combinations of materials become
+troublesome under certain operating conditions and require
+special attention.
+
+Miscellaneous Trouble Areas
+Helicopter rotor heads and gearboxes, in addition to being
+constantly exposed to the elements, contain bare steel
+surfaces, many external working parts, and dissimilar metal
+contacts. Inspect these areas frequently for evidence of
+corrosion. The proper maintenance, lubrication, and the use
+of preservative coatings can prevent corrosion in these areas.
+
+Relatively little corrosion trouble is experienced with
+magnesium skins if the original surface finish and insulation
+are adequately maintained. Trimming, drilling, and riveting
+destroy some of the original surface treatment and can
+never be completely restored by touchup procedures. Any
+inspection for corrosion must include all magnesium skin
+surfaces with special attention to edges, areas around
+fasteners, and cracked, chipped, or missing paint.
+
+Electronic & Electrical Compartments
+Electronic and electrical compartments cooled by ram air or
+compressor bleed air are subjected to the same conditions
+common to engine and accessory cooling vents and engine
+frontal areas. While the degree of exposure is less, because
+a lower volume of air passing through and special design
+features incorporated to prevent water formation in enclosed
+spaces, this is still a trouble area that requires special attention.
+
+All control cables, whether plain carbon steel or corrosionresistant steel, are to be inspected to determine their condition
+at each inspection period. In this process, inspect cables for
+corrosion by random cleaning of short sections with solvent
+soaked cloths. If external corrosion is evident, relieve tension
+
+Piano-type hinges are prime spots for corrosion due to the
+dissimilar metal contact between the steel pin and aluminum
+hinge. They are also natural traps for dirt, salt, and moisture.
+Inspection of hinges must include lubrication and actuation
+through several cycles to ensure complete lubricant
+penetration. Use water-displacing lubricants when servicing
+piano hinges. [Figures 8-21 and 8-22]
+Corrosion of metal skins joined by spot welding is the result
+of the entrance and entrapment of corrosive agents between
+the layers of metal. This type of corrosion is evidenced
+by corrosion products appearing at the crevices where the
+corrosive agents enter. More advanced corrosive attack
+causes skin buckling and eventual spot weld fracture. Skin
+
+Figure 8-20. The landing gear area should be cleaned and inspected
+
+more frequently than other areas.
+
+8-13
+
+===== PDF PAGE 338 =====
+and check the cable for internal corrosion. Replace cables
+that have internal corrosion. Remove light external corrosion
+with a nonwoven abrasive pad lightly soaked in oil or,
+alternatively, a steel wire brush. When corrosion products
+have been removed, recoat the cable with preservative.
+
+Bare steel hinge pin
+
+Al alloy extrusions
+
+Corrosion Removal
+In general, any complete corrosion treatment involves
+cleaning and stripping of the corroded area, removing as
+much of the corrosion products as practicable, neutralizing
+any residual materials remaining in pits and crevices,
+restoring protective surface films, and applying temporary
+or permanent coatings or paint finishes.
+Repair of corrosion damage includes removal of all corrosion
+and corrosion products. When the corrosion damage is
+severe and exceeds the damage limits set by the aircraft or
+parts manufacturer, the part must be replaced. The following
+paragraphs deal with the correction of corrosive attack on
+aircraft surface and components where deterioration has not
+progressed to the point requiring rework or structural repair
+of the part involved.
+Several standard methods are available for corrosion
+removal. The methods normally used to remove corrosion are
+mechanical and chemical. Mechanical methods include hand
+sanding using abrasive mat, abrasive paper, or metal wool,
+and powered mechanical sanding, grinding, and buffing,
+using abrasive mat, grinding wheels, sanding discs, and
+abrasive rubber mats. However, the method used depends
+upon the metal and the degree of corrosion.
+Surface Cleaning and Paint Removal
+The removal of corrosion includes removal of surface finishes
+covering the attacked or suspected area. To assure maximum
+efficiency of the stripping compound, the area must be
+
+Hidden corrosion occurs here. Joint freezes and lugs
+break off when hinge is actuated.
+Figure 8-22. Hinge corrosion points.
+
+cleaned of grease, oil, dirt, or preservatives. This preliminary
+cleaning operation is also an aid in determining the extent
+of the spread of the corrosion, since the stripping operation
+is held to the minimum consistent with full exposure of the
+corrosion damage. Extensive corrosion spread on any panel
+is to be corrected by fully treating the entire section.
+The selection of the type of materials to be used in cleaning
+depends on the nature of the matter to be removed. Modern
+environmental standards encourage the use of water-based,
+non-toxic cleaning compounds whenever possible. In some
+locations, local or state laws may require the use of such
+products, and prohibit the use of solvents that contain volatile
+organic compounds (VOCs). Where permitted, dry cleaning
+solvent (P-D-680) may be used for removing oil, grease, or
+soft preservative compounds. For heavy-duty removal of
+thick or dried preservatives, other compounds of the solvent
+emulsion type are available.
+The use of a general purpose, water soluble stripper can be
+used for most applications. There are other methods for paint
+removal that have minimal impact upon the aircraft structure,
+and are considered “environmentally friendly.”
+Wherever practicable, chemical paint removal from any
+large area is to be accomplished outside (in open air) and
+preferably in shaded areas. If inside removal is necessary,
+adequate ventilation must be assured. Synthetic rubber
+surfaces, including aircraft tires, fabric, and acrylics, must
+be thoroughly protected against possible contact with paint
+remover. Care must be exercised in using paint remover,
+especially around gas or watertight seam sealants, since
+the stripper tends to soften and destroy the integrity of
+these sealants.
+
+Figure 8-21. Piano hinge.
+
+8-14
+
+===== PDF PAGE 339 =====
+Mask off any opening that would permit the stripping
+compound to get into aircraft interiors or critical cavities.
+Paint stripper is toxic and contains ingredients harmful to
+both skin and eyes. Therefore, wear rubber gloves, aprons
+of acid repellent material, and goggle type eyeglasses. The
+following is a general stripping procedure:
+1.
+
+Brush the entire area to be stripped with a cover of
+stripper to a depth of 1⁄32" to 1⁄16". Any paintbrush makes
+a satisfactory applicator, except that the bristles will be
+loosened by the effect of paint remover on the binder,
+and the brush must not be used for other purposes after
+being exposed to paint remover.
+
+2.
+
+Allow the stripper to remain on the surface for a
+sufficient length of time to wrinkle and lift the paint.
+This may be from 10 minutes to several hours,
+depending on temperature, humidity, and the condition
+of the paint coat being removed. Scrub the surface with
+a bristle brush saturated with paint remover to further
+loosen finish that may still be adhering to the metal.
+
+3.
+
+Reapply the stripper as necessary in areas where the
+paint remains tightly adhered or where the stripper has
+dried, and repeat the above process. Only nonmetallic
+scrapers are to be used to assist in removing persistent
+paint finishes. Nonwoven abrasive pads intended for
+paint stripping may also prove to be useful in removing
+the loosened paint.
+
+4.
+
+Remove the loosened paint and residual stripper by
+washing and scrubbing the surface with water and
+a broom, brush, or fresh nonwoven abrasive pad. If
+water spray is available, use a low to medium pressure
+stream of water directly on the area being scrubbed.
+If steam-cleaning equipment is available and the area
+is sufficiently large, cleaning may be accomplished
+using this equipment together with a solution of steamcleaning compound. On small areas, any method may
+be used that assures complete rinsing of the cleaned
+area. Use care to dispose of the stripped residue in
+accordance with environmental laws.
+
+Fairing or Blending Reworked Areas
+All depressions resulting from corrosion rework must be
+faired or blended with the surrounding surface. Fairing can
+be accomplished as follows:
+1.
+
+Remove rough edges and all corrosion from the
+damaged area. All dish-outs must be elliptically
+shaped with the major axis running spanwise on wings
+and horizontal stabilizers, longitudinally on fuselages,
+and vertically on vertical stabilizers.
+
+2.
+
+In critical and highly stressed areas, all pits remaining
+after the removal of corrosion products must be
+blended out to prevent stress risers that may cause
+
+stress corrosion cracking. [Figure 8-23] On a noncritical structure, it is not necessary to blend out pits
+remaining after removal of corrosion products by
+abrasive blasting, since this results in unnecessary
+metal removal.
+Rework depressions by forming smoothly blended dish-outs,
+using a ratio of 20:1, length to depth. [Figure 8-24] In areas
+having closely-spaced, multiple pits, intervening material
+must be removed to minimize surface irregularity or
+waviness. [Figure 8-25] Steel nut-plates and steel fasteners
+are to be removed before blending corrosion out of aluminum
+structure. Steel or copper particles embedded in aluminum
+can become a point of future corrosion. All corrosion products
+must be removed during blending to prevent reoccurrence
+of corrosion.
+
+Corrosion of Ferrous Metals
+One of the most familiar types of corrosion is ferrous oxide
+(rust), generally resulting from atmospheric oxidation of
+steel surfaces. Some metal-oxides protect the underlying
+base metal, but rust is not a protective coating in any sense
+of the word. Its presence actually promotes additional attack
+by attracting moisture from the air and acting as a catalyst
+for additional corrosion. If complete control of the corrosive
+attack is to be realized, all rust must be removed from steel
+surfaces.
+Rust first appears on bolt heads, hold-down nuts, or other
+unprotected aircraft hardware. [Figure 8-26] Its presence in
+these areas is generally not dangerous and has no immediate
+effect on the structural strength of any major components.
+The residue from the rust may also contaminate other ferrous
+components, promoting corrosion of those parts. The rust is
+indicative of a need for maintenance and of possible corrosive
+attack in more critical areas. It is also a factor in the general
+appearance of the equipment. When paint failures occur or
+mechanical damage exposes highly-stressed steel surfaces
+to the atmosphere, even the smallest amount of rusting is
+potentially dangerous in these areas and must be removed
+and controlled. Rust removal from structural components,
+followed by an inspection and damage assessment, must be
+done as soon as feasible. [Figure 8-27]
+Mechanical Removal of Iron Rust
+The most practicable means of controlling the corrosion
+of steel is the complete removal of corrosion products
+by mechanical means and restoring corrosion preventive
+coatings. Except on highly-stressed steel surfaces, the use
+of abrasive papers and compounds, small power buffers and
+buffing compounds, hand wire brushing, or steel wool are
+all acceptable cleanup procedures. However, it should be
+recognized that in any such use of abrasives, residual rust
+8-15
+
+===== PDF PAGE 340 =====
+usually remains in the bottom of small pits and other crevices.
+It is practically impossible to remove all corrosion products
+by abrasive or polishing methods alone. As a result, once a
+part cleaned in such a manner has rusted, it usually corrodes
+again more easily than it did the first time.
+
+Pit has been cleaned up to the
+extent that all loose corrosion
+products have been removed.
+
+CORROSION DAMAGE BEFORE REWORK
+
+The introduction of variations of the nonwoven abrasive pad
+has also increased the options available for the removal of
+surface rust. [Figure 8-28] Flap wheels, pads intended for
+use with rotary or oscillating power tools, and hand-held
+nonwoven abrasive pads all can be used alone or with light
+oils to remove corrosion from ferrous components.
+Chemical Removal of Rust
+As environmental concerns have been addressed in recent
+years, interest in noncaustic chemical rust removal has
+increased. A variety of commercial products that actively
+remove the iron oxide without chemically etching the
+base metal are available and can be considered for use. If
+at all possible, the steel part is removed from the airframe
+for treatment, as it can be nearly impossible to remove all
+residue. The use of any caustic rust removal product requires
+the isolation of the part from any nonferrous metals during
+treatment and probably inspection for proper dimensions.
+
+AL
+
+DIN
+
+U
+GIT
+
+Rough edges have been
+smoothed and all corrosion
+has been removed. However,
+depression has not been shaped.
+
+N
+LO
+
+Dish-out
+after blending
+
+Figure 8-24. Blend of corrosion as a single depression.
+
+Chemical Surface Treatment of Steel
+There are approved methods for converting active rust to
+phosphates and other protective coatings. Other commercial
+preparations are effective rust converters where tolerances
+are not critical and where thorough rinsing and neutralizing
+of residual acid is possible. These situations are generally
+not applicable to assembled aircraft, and the use of chemical
+
+Location of corrosion pits
+
+Width of cleaned up area
+(10 times depth min)
+
+TOP VIEW
+
+TRUE PERSPECTIVE
+
+Length of cleaned up area
+(20 times depth min)
+Depth of cleaned up of corrosion
+
+CROSS SECTION
+
+NOT ACCEPTABLE
+
+ACCEPTABLE
+
+Figure 8-23. Blending or blending corrosion damage.
+
+8-16
+
+===== PDF PAGE 341 =====
+Corrosion of Aluminum & Aluminum Alloys
+
+AN
+
+SV
+
+ER
+
+SE
+
+10
+
+D
+
+M
+IN
+
+TR
+
+Corrosion damage
+before removal
+
+5D
+
+Bottom of depression
+after corrosion removal
+
+MI
+
+N
+
+AL
+
+DIN
+
+U
+GIT
+
+N
+LO
+
+Damage removed and surface smoothed
+with shallow elliptical dish-out
+Figure 8-25. Blend out of multiple pits in a corroded area.
+
+inhibitors on installed steel parts is not only undesirable, but
+also very dangerous. The danger of entrapment of corrosive
+solutions and the resulting uncontrolled attack, that could
+occur when such materials are used under field conditions,
+outweigh any advantages to be gained from their use.
+Removal of Corrosion from Highly Stressed Steel
+Parts
+Any corrosion on the surface of a highly-stressed steel part is
+potentially dangerous, and the careful removal of corrosion
+products is required. Surface scratches or change in surface
+structure from overheating can also cause sudden failure of
+these parts. Corrosion products must be removed by careful
+processing, using mild abrasive papers, such as rouge or fine
+grit aluminum oxide or fine buffing compounds on cloth
+buffing wheels. Nonwoven abrasive pads can also be used.
+It is essential that steel surfaces not be overheated during
+buffing. After careful removal of surface corrosion, reapply
+protective paint finishes immediately. The use of chemical
+corrosion removers is prohibited without engineering
+authorization, because high-strength steel parts are subject
+to hydrogen embrittlement.
+
+Figure 8-26. Rust.
+
+Aluminum and aluminum alloys are the most widely used
+material for aircraft construction. Aluminum appears high
+in the electro-chemical series of elements and corrodes
+very easily. However, the formation of a tightly-adhering
+oxide film offers increased resistance under most corrosive
+conditions. Most metals in contact with aluminum form
+couples that undergo galvanic corrosion attack. The alloys
+of aluminum are subject to pitting, intergranular corrosion,
+and intergranular stress corrosion cracking. In some cases,
+the corrosion products of metal in contact with aluminum are
+corrosive to aluminum. Therefore, aluminum and its alloys
+must be cleaned and protected.
+Corrosion on aluminum surfaces is usually quite obvious,
+since the products of corrosion are white and generally more
+voluminous than the original base metal. Even in its early
+stages, aluminum corrosion is evident as general etching,
+pitting, or roughness of the aluminum surfaces.
+NOTE: Aluminum alloys commonly form a smooth surface
+oxidation that is from 0.001" to 0.0025" thick. This is not
+considered detrimental. The coating provides a hard-shell
+barrier to the introduction of corrosive elements. Such
+oxidation is not to be confused with the severe corrosion
+discussed in this paragraph.
+General surface attack of aluminum penetrates relatively
+slowly, but speeds up in the presence of dissolved salts.
+Considerable attack can usually take place before serious
+loss of structural strength develops.
+At least three forms of attack on aluminum alloys are
+particularly serious: the penetrating pit-type corrosion
+through the walls of aluminum tubing, stress-corrosion
+cracking of materials under sustained stress, and intergranular
+corrosion, which is characteristic of certain improperly heattreated aluminum alloys.
+In general, corrosion of aluminum can be more effectively
+
+Figure 8-27. Rust on structural components.
+
+8-17
+
