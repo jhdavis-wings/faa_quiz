@@ -1,0 +1,2012 @@
+FAA-H-8083-31B Airframe Handbook, chapter 9 (Aircraft Electrical System), PDF pages 454-475
+
+===== PDF PAGE 454 =====
+120°
+
+Phase C
+
+A
+
+120°
+B
+
+120°
+C
+
+Phase A
+Phase B
+
+90°
+
+180°
+
+270°
+
+360°
+
+One full rotation of the AC alternator
+Figure 9-66. Sine waves.
+
+Phase 1
+Figure 9-64. DC alternator installation.
+Phase 2
+
+The armature used in DC alternators actually contains three
+coils of wire. Each coil receives current as the magnetic
+field rotates inside the armature. The resulting output
+voltage consists of three distinct AC sine waves, as shown in
+Figure 9-66. The armature winding is known as a three- phase
+armature, named after the three different voltage waveforms
+produced.
+Figure 9-67 shows the two common methods used to connect
+the three phase armature windings: the delta winding and
+the Y winding. For all practical purposes, the two windings
+produce the same results in aircraft DC alternators.
+Since the three-phase voltage produced by the alternators
+armature is AC, it is not compatible with typical DC electrical
+loads and must be rectified (changed to DC). Therefore, the
+armature output current is sent through a rectifier assembly that
+changes the three-phase AC to DC. [Figure 9-67] Each phase
+of the three-phase armature overlaps when rectified, and the
+output becomes a relatively smooth ripple DC. [Figure 9-68]
+The invention of the diode has made the development of the
+alternator possible. The rectifier assembly is comprised of
+six diodes. This rectifier assembly replaces the commutator
+
+Phase 3
+Figure 9-67. Three-phase armature windings: Y on the left and
+
+delta winding on the right.
+1
+
+2
+
+Time
+
+3
+
+Resultant DC waveform
+
+Figure 9-68. Relatively smooth ripple DC.
+
+and brushes found on DC generators and helps to make the
+alternator more efficient. Figure 9-69 shows the inside of a
+typical alternator; the armature assembly is located on the
+outer edges of the alternator and the diodes are mounted to
+the case.
+The field winding, shown in Figure 9-70, is mounted to a
+rotor shaft so it can spin inside of the armature assembly.
+
+Armature
+winding
+
+Rectifier assembly
+Field
+−
+
++
+To electrical load
+
+Figure 9-65. Diagram of a typical alternator.
+
+The field winding must receive current from an aircraft
+battery in order to produce an electromagnet. Since the field
+rotates, a set of brushes must be used to send power to the
+rotating field. Two slip rings are mounted to the rotor and
+connect the field winding to electrical contacts called brushes.
+Since the brushes carry relatively low current, the brushes
+of an alternator are typically smaller than those found inside
+a DC generator. [Figure 9-71] DC alternator brushes last
+
+9-38
+
+===== PDF PAGE 455 =====
+Armature
+
+Diode
+
+Figure 9-71. Alternator brushes.
+
+Solid-State Regulators
+
+Figure 9-69. Diode assembly.
+
+Field winding
+
+Slip rings
+
+Figure 9-70. Alternator field winding.
+
+longer and require less maintenance than those found in a
+DC generator.
+The alternator case holds the alternator components inside
+a compact housing that mounts to the engine. Aircraft
+alternators either produce a nominal 14-volt output or
+a 26-volt output. The physical size of the alternator is
+typically a function of the alternator’s amperage output.
+Common alternators for light aircraft range in output form
+60–120 amps.
+
+Alternator Voltage Regulators
+Voltage regulators for DC alternators are similar to those found
+on DC generators. The general concepts are the same in that
+adjusting alternator field current controls alternator output.
+Regulators for most DC alternators are either the vibratingrelay type or solid-state regulators, which are found on most
+modern aircraft. Vibrating-relay regulators are similar to those
+discussed in the section on generator regulators. As the points
+of the relay open, the field current is lowered and alternator
+output is lowered and vice versa.
+
+Solid-state regulators for modern light aircraft are often
+referred to as alternator control units (ACUs). These units
+contain no moving parts and are generally considered
+to be more reliable and provide better system regulation
+than vibrating-type regulators. Solid-state regulators rely
+on transistor circuitry to control alternator field current
+and alternator output. The regulator monitors alternator
+output voltage/current and controls alternator field current
+accordingly. Solid-state regulators typically provide additional
+protection circuitry not found in vibrating-type regulators.
+Protection may include over- or under-voltage protection,
+overcurrent protection, as well as monitoring the alternator
+for internal defects, such as a defective diode. In many cases,
+the ACU also provides a warning indication to the pilot if a
+system malfunction occurs.
+A key component of any solid-state voltage regulator is known
+as the zener diode. Figure 9-72 shows the schematic diagram
+symbol of a zener diode, as well as one installed in an ACU.
+The operation of a zener diode is similar to a common diode
+in that the zener only permits current flow in one direction.
+This is true until the voltage applied to the zener reaches a
+certain level. At that predetermined voltage level, the zener
+then permits current flow with either polarity. This is known
+as the breakdown or zener voltage.
+As an ACU monitors alternator output, the zener diode is
+connected to system voltage. When the alternator output
+reaches the specific zener voltage, the diode controls a
+transistor in the circuit, which in turn controls the alternator
+field current. This is a simplified explanation of the complete
+circuitry of an ACU. [Figure 9-73] However, it is easy to see
+how the zener diode and transistor circuit are used in place
+of an electromechanical relay in a vibrating-type regulator.
+The use of solid-state components creates a more accurate
+regulator that requires very little maintenance. The solidstate ACU is, therefore, the control unit of choice for modern
+aircraft with DC alternators.
+9-39
+
+===== PDF PAGE 456 =====
+Anode
+
+Cathode
+
+Figure 9-72. Zener diode.
+
+Power Systems
+Since certain electrical systems operate only on AC, many
+aircraft employ a completely AC electrical system, as well
+as a DC system. The typical AC system would include
+an AC alternator (generator), a regulating system for that
+alternator, AC power distribution buses, and related fuses and
+wiring. Note that when referring to AC systems, the terms
+“alternator” and “generator” are often used interchangeably.
+This chapter uses the term “AC alternator.”
+AC power systems are becoming more popular on modern
+aircraft. Light aircraft tend to operate most electrical systems
+using DC, therefore the DC battery can easily act as a backup
+power source. Some modern light aircraft also employ a small
+AC system. In this case, the light aircraft probably uses an
+AC inverter to produce the AC needed for this system.
+Inverters are commonly used when only a small amount of
+AC is required for certain systems. Inverters may also be
+used as a backup AC power source on aircraft that employ
+an AC alternator. Figure 9-74 shows a typical inverter that
+might be found on modern aircraft.
+
+Alternator
+output
+
+A modern inverter is a solid-state device that converts DC
+power into AC power. The electronic circuitry within an
+inverter is quite complex; however, for an aircraft technician’s
+purposes, the inverter is simply a device that uses DC power,
+then feeds power to an AC distribution bus. Many inverters
+supply both 26-volt AC, as well as 115-volt AC. The aircraft
+can be designed to use either voltage or both simultaneously.
+If both voltages are used, the power must be distributed on
+separate 26-and 115-volt AC buses.
+AC Alternators
+AC alternators are found only on aircraft that use a large
+amount of electrical power. Virtually all transport category
+aircraft, such as the Boeing 757 or the Airbus A-380, employ
+one AC alternator driven by each engine. These aircraft
+also have an auxiliary AC alternator driven by the auxiliary
+power unit. In most cases, transport category aircraft also
+have at least one more AC backup power source, such as
+an AC inverter or a small AC alternator driven by a ram-air
+turbine (RAT).
+AC alternators produce a three-phase AC output. For each
+revolution of the alternator, the unit produces three separate
+voltages. The sine waves for these voltages are separated
+by 120°. [Figure 9-75] This wave pattern is similar to those
+produced internally by a DC alternator; however, in this case,
+the AC alternator does not rectify the voltage and the output
+of the unit is AC.
+The modern AC alternator does not utilize brushes or slip
+rings and is often referred to as a brushless AC alternator.
+This brushless design is extremely reliable and requires
+very little maintenance. In a brushless alternator, energy to
+or from the alternator’s rotor is transferred using magnetic
+energy. In other words, energy from the stator to the rotor
+
+Zener
+Diode
+Transistor
+
+Alternator
+field
+
+Ground
+
+Figure 9-73. ACU circuitry.
+
+Figure 9-74. Inverter.
+
+9-40
+
+===== PDF PAGE 457 =====
+120°
+
+Phase C
+
+A
+
+120°
+B
+
+120°
+C
+
+Phase A
+Phase B
+
+90°
+
+180°
+
+270°
+
+360°
+
+One full rotation of the AC alternator
+Figure 9-75. AC alternator sine waves.
+
+is transferred using magnetic flux energy and the process
+of electromagnetic induction. A typical large aircraft AC
+alternator is shown in Figure 9-76.
+As seen in Figure 9-77, the brushless alternator actually
+contains three generators: the exciter generator (armature
+and permanent magnet field), the pilot exciter generator
+(armature and fields windings), and the main AC alternator
+(armature winding and field windings). The need for
+brushes is eliminated by using a combination of these three
+distinct generators.
+The exciter is a small AC generator with a stationary field
+made of a permanent magnet and two electromagnets. The
+exciter armature is three phase and mounted on the rotor shaft.
+The exciter armature output is rectified and sent to the pilot
+exciter field and the main generator field.
+The pilot exciter field is mounted on the rotor shaft and is
+connected in series with the main generator field. The pilot
+exciter armature is mounted on the stationary part of the
+assembly. The AC output of the pilot exciter armature is
+supplied to the generator control circuitry where it is rectified,
+regulated, and then sent to the exciter field windings. The
+current sent to the exciter field provides the voltage regulation
+for the main AC alternator. If greater AC alternator output
+is needed, there is more current sent to the exciter field and
+vice versa.
+
+Figure 9-76. Large aircraft AC alternator.
+
+Pilot exciter
+armature
+
+Exciter
+permanent
+magnet field
+N
+
+Main AC alternator
+armature winding
+
+Main AC alternator field
+
+S
+
+Exciter
+electromagnet
+field
+
+Exciter
+armature
+
+3-phase
+bridge rectifier
+
+Figure 9-77. Schematic of an AC alternator.
+
+9-41
+
+===== PDF PAGE 458 =====
+Constant-speed drive
+
+Aspirator
+
+Check valve
+
+Case relief valve
+
+Terminal block
+
+Input shaft (aneroid valve inside)
+D
+FW
+
+Electrical connector A
+Disconnect solenoid with thermal plug
+Integrated drive generator
+
+Figure 9-78. Constant-speed drive (top) and integrated drive generator (bottom).
+
+9-42
+
+===== PDF PAGE 459 =====
+unit called a constant-speed drive (CSD) is used to ensure
+the alternator rotates at the correct speed to ensure a 400Hz frequency. The CSD can be an independent unit or
+mounted within the alternator housing. When the CSD and
+the alternator are contained within one unit, the assembly is
+known as an integrated drive generator (IDG).
+
+Figure 9-79. A hydraulic constant speed drive for an AC
+
+The CSD is a hydraulic unit similar to an automatic
+transmission found in a modern automobile. The engine of
+the automobile can change rpm while the speed of the car
+remains constant. This is the same process that occurs for an
+aircraft AC alternator. If the aircraft engine changes speed, the
+alternator speed remains constant. A typical hydraulic-type
+drive is shown in Figure 9-79. This unit can be controlled
+either electrically or mechanically. Modern aircraft employ
+an electronic system. The constant-speed drive enables the
+alternator to produce the same frequency at slightly above
+engine idle rpm as it does at maximum engine rpm.
+
+In short, the exciter permanent magnet and armature starts the
+generation process, and the output of the exciter armature is
+rectified and sent to the pilot exciter field. The pilot exciter
+field creates a magnetic field and induces power in the
+pilot exciter armature through electromagnetic induction.
+The output of the pilot exciter armature is sent to the main
+alternator control unit and then sent back to the exciter field.
+As the rotor continues to turn, the main AC alternator field
+generates power into the main AC alternator armature, also
+using electromagnetic induction. The output of the main AC
+armature is three-phase AC and used to power the various
+electrical loads.
+
+The hydraulic transmission is mounted between the AC
+alternator and the aircraft engine. Hydraulic oil or engine oil
+is used to operate the hydraulic transmission, which creates a
+constant output speed to drive the alternator. In some cases,
+this same oil is used to cool the alternator as shown in the CSD
+cutaway view of Figure 9-79. The input drive shaft is powered
+by the aircraft engine gear case. The output drive shaft, on the
+opposite end of the transmission, engages the drive shaft of
+the alternator. The CSD employs a hydraulic pump assembly,
+a mechanical speed control, and a hydraulic drive. Engine
+rpm drives the hydraulic pump, the hydraulic drive turns the
+alternator. The speed control unit is made up of a wobble plate
+that adjusts hydraulic pressure to control output speed.
+
+alternator.
+
+Some alternators are cooled by circulating oil through
+the internal components of the alternator. The oil used for
+cooling is supplied from the constant speed drive assembly
+and often cooled by an external oil cooler assembly. Located
+in the flange connecting the generator and drive assemblies,
+ports make oil flow between the constant speed drive and
+the generator possible. This oil level is critical and typically
+checked on a routine basis.
+Alternator Drive
+The unit shown in Figure 9-78 contains an alternator assembly
+combined with an automatic drive mechanism. The automatic
+drive controls the alternator’s rotational speed which allows
+the alternator to maintain a constant 400-Hz AC output.
+All AC alternators must rotate at a specific rpm to keep
+the frequency of the AC voltage within limits. Aircraft AC
+alternators should produce a frequency of approximately
+400 Hz. If the frequency strays more than 10 percent from
+this value, the electrical systems do not operate correctly. A
+
+Figure 9-80 shows a typical electrical circuit used to control
+alternator speed. The circuit controls the hydraulic assembly
+found in a typical CSD. As shown, the alternator input speed
+is monitored by a tachometer (tach) generator. The tach
+generator signal is rectified and sent to the valve assembly.
+The valve assembly contains three electromagnetic coils that
+operate the valve. The AC alternator output is sent through a
+control circuit that also feeds the hydraulic valve assembly.
+By balancing the force created by the three electromagnets,
+the valve assembly controls the flow of fluid through the
+automatic transmission and controls the speed of the AC
+alternator.
+It should be noted that an AC alternator also produces a
+constant 400 Hz if that alternator is driven directly by an
+engine that rotates at a constant speed. On many aircraft,
+the auxiliary power unit operates at a constant rpm. AC
+alternators driven by these APUs are typically driven directly
+by the engine, and there is no CSD required. For these
+units, the APU engine controls monitor the alternator output
+9-43
+
+===== PDF PAGE 460 =====
+Speed adjustment
+Tach generator rectifier
+Tach generator
+
+AC alternator
+Constant
+speed drive
+
+Control circuit
+
+Hydraulic
+valve assembly
+
+To load
+
+Figure 9-80. Speed control circuit.
+
+frequency. If the alternator output frequency varies from 400
+Hz, the APU speed control adjusts the engine rpm accordingly
+to keep the alternator output within limits.
+AC Alternators Control Systems
+Modern aircraft that employ AC alternators use several
+computerized control units, typically located in the aircraft’s
+equipment bay for the regulation of AC power throughout the
+aircraft. Figure 9-81 shows a photo of a typical equipment
+bay and computerized control units.
+
+connected to the same bus are out of phase, damage occurs to
+the system. All AC alternator control units contain circuitry
+that regulates both voltage and frequency. These control
+units also monitor a variety of factors to detect any system
+failures and take protective measures to ensure the integrity
+of the electrical system. The two most common units used
+to control AC alternators are the bus power control unit
+(BPCU) and the generator control unit (GCU). In this case,
+the term “generator” is used, and not alternator, although the
+meaning is the same.
+
+Since AC alternators are found on large transport category
+aircraft designed to carry hundreds of passengers, their
+control systems always have redundant computers that
+provide safety in the event of a system failure. Unlike DC
+systems, AC systems must ensure that the output frequency
+of the alternator stays within limits. If the frequency of an
+alternator varies from 400 Hz, or if two or more alternators
+
+The GCU is the main computer that controls alternator
+functions. The BPCU is the computer that controls the
+distribution of AC power to the power distribution buses
+located throughout the aircraft. There is typically one GCU
+used to monitor and control each AC alternator, and there
+can be one or more BPCUs on the aircraft. BPCUs are
+described later in this chapter; however, please note that the
+9-44
+
+===== PDF PAGE 461 =====
+is never exceeded. The GCU provides fault detection and
+circuit protection in the event of an alternator failure. The
+GCU monitors AC frequency and ensures the output if the
+alternator remains 400 Hz. The basic method of voltage
+regulation is similar to that found in all alternator systems; the
+output of the alternator is controlled by changing the strength
+of a magnetic field. As shown in Figure 9-82, the GCU
+controls the exciter field magnetism within the brushless
+alternator to control alternator output voltage. The frequency
+is controlled by the CDS hydraulic unit in conjunction with
+signals monitored by the GCU.
+
+Figure 9-81. Line replaceable units in an equipment rack.
+
+BPCU works in conjunction with the GCUs to control AC
+on modern aircraft.
+A typical GCU ensures the AC alternator maintains a
+constant voltage, typically between 115 to 120 volts. The
+GCU ensures the maximum power output of the alternator
+
+The GCU is also used to turn the AC alternator on or off.
+When the pilot selects the operation of an AC alternator, the
+GCU monitors the alternator’s output to ensure voltage and
+frequency are within limits. If the GCU is satisfied with the
+alternator’s output, the GCU sends a signal to an electrical
+contactor that connects the alternator to the appropriate
+AC distribution bus. The contactor, often call the generator
+breaker, is basically an electromagnetic solenoid that controls
+a set of large contact points. The large contact points are
+necessary in order to handle the large amounts of current
+produced by most AC alternators. This same contactor is
+activated in the event the GCU detects a fault in the alternator
+
+GCU
+
+Pilot exciter
+armature
+
+Exciter
+permanent
+magnet field
+N
+
+Main AC alternator
+armature winding
+
+Main AC alternator field
+
+S
+
+Exciter
+electromagnet
+field
+
+Exciter
+armature
+
+3 phase
+bridge rectifier
+
+Figure 9-82. Schematic GCU control of the exciter field magnetism.
+
+9-45
+
+===== PDF PAGE 462 =====
+output; however, in this case the contactor would disconnect
+the alternator from the bus.
+
+Aircraft Electrical Systems
+Virtually all aircraft contain some form of an electrical
+system. The most basic aircraft must produce electricity for
+operation of the engine’s ignition system. Modern aircraft
+have complex electrical systems that control almost every
+aspect of flight. In general, electrical systems can be divided
+into different categories according to the function of the
+system. Common systems include lighting, engine starting,
+and power generation.
+Small Single-Engine Aircraft
+Light aircraft typically have a relatively simple electrical
+system because simple aircraft generally require less
+redundancy and less complexity than larger transport
+category aircraft. On most light aircraft, there is only one
+electrical system powered by the engine-driven alternator or
+generator. The aircraft battery is used for emergency power
+and engine starting. Electrical power is typically distributed
+through one or more common points known as an electrical
+bus (or bus bar).
+Almost all electrical circuits must be protected from faults
+that can occur in the system. Faults are commonly known
+as opens or shorts. An open circuit is an electrical fault that
+occurs when a circuit becomes disconnected. A short circuit is
+an electrical fault that occurs when one or more circuits create
+an unwanted connection. The most dangerous short circuit
+occurs when a positive wire creates an unwanted connection
+to a negative connection or ground. This is typically called
+a short to ground.
+There are two ways to protect electrical systems from faults:
+mechanically and electrically. Mechanically, wires and
+components are protected from abrasion and excess wear
+through proper installation and by adding protective covers
+and shields. Electrically, wires can be protected using circuit
+breakers and fuses. The circuit breakers protect each system
+in the event of a short circuit. It should be noted that fuses
+can be used instead of circuit breakers. Fuses are typically
+found on older aircraft. A circuit breaker panel from a light
+aircraft is shown in Figure 9-83.
+
+leaving the battery positive connection), which is used in the
+battery circuit due to the heavy current provided through
+these wires. Because batteries can supply large current flows,
+a battery is typically connected to the system through an
+electrical solenoid. At the start/end of each flight, the battery
+is connected/disconnected from the electrical distribution bus
+through the solenoid contacts. A battery master switch on the
+flight deck is used to control the solenoid.
+Although they are very similar, there is often confusion
+between the terms “solenoid” and “relay.” A solenoid is
+typically used for switching high current circuits and relays
+are used to control lower current circuits. To help illuminate
+the confusion, the term “contactor” is often used when
+describing a magnetically operated switch. For general
+purposes, an aircraft technician may consider the terms relay,
+solenoid, and contactor synonymous. Each of these three
+terms may be used on diagrams and schematics to describe
+electrical switches controlled by an electromagnet.
+Here it can be seen that the battery positive wire is connected
+to the electrical bus when the battery master switch is active.
+A battery solenoid is shown in Figure 9-85. The battery
+switch is often referred to as the master switch since it turns
+off or on virtually all electrical power by controlling the
+battery connection. Note how the electrical connections of
+the battery solenoid are protected from electrical shorts by
+rubber covers at the end of each wire.
+The ammeter shown in the battery circuit is used to monitor
+the current flow from the battery to the distribution bus. When
+all systems are operating properly, battery current should flow
+from the main bus to the battery giving a positive indication on
+the ammeter. In this case, the battery is being charged. If the
+aircraft alternator (or generator) experiences a malfunction,
+the ammeter indicates a negative value. A negative indication
+means current is leaving the battery to power any electrical
+
+Battery Circuit
+The aircraft battery and battery circuit is used to supply
+power for engine starting and to provide a secondary power
+supply in the event of an alternator (or generator) failure. A
+schematic of a typical battery circuit is shown in Figure 9-84.
+This diagram shows the relationship of the starter and external
+power circuits that are discussed later in this chapter. The bold
+lines found on the diagram represent large wire (see the wire
+
+Figure 9-83. Light aircraft circuit breaker panel.
+
+9-46
+
+===== PDF PAGE 463 =====
+Starter
+
+B
+Alternator
+
+Ammeter
+Starter switch
+
+MAIN BUS
+
+15A
+
+50A
+
+Starter solenoid
+
+Battery
+
+Ammeter shunt
+
+External power relay
+
+Master switch
+
+External power jack
+
+BAT
+
+Master solenoid
+
+Figure 9-84. Schematic of typical battery circuit.
+
+load connected to the bus. The battery is being discharged and
+the aircraft is in danger of losing all electrical power.
+
+Generator Circuit
+Generator circuits are used to control electrical power
+between the aircraft generator and the distribution bus.
+Typically, these circuits are found on older aircraft that have
+not upgraded to an alternator. Generator circuits control
+power to the field winding and electrical power from the
+generator to the electrical bus. A generator master switch is
+used to turn on the generator typically by controlling field
+current. If the generator is spinning and current is sent to
+
+Figure 9-85. Battery solenoid.
+
+the field circuit, the generator produces electrical power.
+The power output of the generator is controlled through the
+generator control unit (or voltage regulator). A simplified
+generator control circuit is shown in Figure 9-86.
+As can be seen in Figure 9-86, the generator switch controls
+the power to the generator field (F terminal). The generator
+output current is supplied to the aircraft bus through the
+armature circuit (A terminal) of the generator.
+
+Alternator Circuit
+Alternator circuits, like generator circuits, must control power
+both to and from the alternator. The alternator is controlled by
+the pilot through the alternator master switch. The alternator
+master switch in turn operates a circuit within the alternator
+control unit (or voltage regulator) and sends current to the
+alternator field. If the alternator is powered by the aircraft
+engine, the alternator produces electrical power for the aircraft
+electrical loads. The alternator control circuit contains the three
+major components of the alternator circuit: alternator, voltage
+regulator, and alternator master switch. [Figure 9-87]
+The voltage regulator controls the generator field current
+according to aircraft electrical load (alternator). If the aircraft
+engine is running and the alternator master switch is on,
+the voltage regulator adjusts current to the alternator field
+9-47
+
+===== PDF PAGE 464 =====
+F
+
+monitor the aircraft ammeter. If the alternator system is
+inoperative, the ammeter gives a zero indication. In this
+case, the battery is being discharged. A voltmeter is also a
+valuable tool when troubleshooting an alternator system. The
+voltmeter should be installed in the electrical system while
+the engine is running and the alternator operating. A system
+operating normally produces a voltage within the specified
+limits (approximately 14 volts or 28 volts depending on the
+electrical system). Consult the aircraft manual and verify the
+system voltage is correct. If the voltage is below specified
+values, the charging system should be inspected.
+
+G
+A
+
+Current
+produced
+by generator
+
+Generator
+control
+unit
+
+Bus
+
+Current to generator field
+Figure 9-86. Simplified generator control circuit.
+
+as needed. If more current flows to the alternator field, the
+alternator output increases and feeds the aircraft loads through
+the distribution bus.
+All alternators must be monitored for correct output. Most
+light aircraft employ an ammeter to monitor alternator output.
+Figure 9-88 shows a typical ammeter circuit used to monitor
+alternator output. An ammeter placed in the alternator circuit
+is a single polarity meter that shows current flow in only one
+direction. This flow is from the alternator to the bus. Since
+the alternator contains diodes in the armature circuit, current
+cannot reverse flow from the bus to the alternator.
+When troubleshooting an alternator system, be sure to
+
+Starter
+
+External Power Circuit
+Many aircraft employ an external power circuit that provides
+a means of connecting electrical power from a ground source
+to the aircraft. External power is often used for starting the
+engine or maintenance activities on the aircraft. This type of
+system allows operation of various electrical systems without
+discharging the battery. The external power systems typically
+consists of an electrical plug located in a convenient area of
+the fuselage, an electrical solenoid used to connect external
+power to the bus, and the related wiring for the system. A
+common external power receptacle is shown in Figure 9-89.
+Figure 9-90 shows how the external power receptacle
+connects to the external power solenoid through a reverse
+polarity diode. This diode is used to prevent any accidental
+
+Voltage regulator
+
+B
+F
+A
+Alternator
+
+S A F
+
+AVIONICS BUS
+
+Master switch
+35A
+
+Starter switch
+
+S
+
+B
+
+MAIN BUS
+
+5A
+
+ALT
+
+Avionics master switch
+
+BAT
+
+Starter solenoid
+
+Ammeter
+15A
+
+50A
+
+Battery
+
+Ammeter shunt
+External power relay
+
+External power jack
+
+Master solenoid
+
+Figure 9-87. Alternator control circuit.
+
+9-48
+
+===== PDF PAGE 465 =====
+blocks current and the external power solenoid does not close.
+This diagram also shows that external power can be used
+to charge the aircraft battery or power the aircraft electrical
+loads. For external power to start the aircraft engine or power
+electrical loads, the battery master switch must be closed.
+
+To ACU
+
+F
+
+Alternator
+
+A
+
+Starter Circuit
+
+Alternator
+output
+60A
+
+B
+U
+S
+
+0A
+
+0-60A
+Ammeter
+
+To aircraft loads
+
++
+-
+
+Figure 9-88. Typical ammeter circuit used to monitor alternator
+
+output.
+
+Virtually all modern aircraft employ an electric motor to start
+the aircraft engine. Since starting the engine requires several
+horsepower, the starter motor can often draw 100 or more
+amperes. For this reason, all starter motors are controlled
+through a solenoid. [Figure 9-91]
+The starter circuit must be connected as close as practical
+to the battery since large wire is needed to power the starter
+motor and weight savings can be achieved when the battery
+and the starter are installed close to each other in the aircraft.
+As shown in the starter circuit diagram, the start switch can
+be part of a multifunction switch that is also used to control
+the engine magnetos. [Figure 9-92]
+The starter can be powered by either the aircraft battery or
+the external power supply. Often when the aircraft battery
+is weak or in need of charging, the external power circuit is
+used to power the starter. During most typical operations, the
+starter is powered by the aircraft battery. The battery master
+must be on and the master solenoid closed in order to start
+the engine with the battery.
+
+Avionics Power Circuit
+
+Figure 9-89. External power receptacle.
+
+connection in the event the external power supply has the
+incorrect polarity (i.e., a reverse of the positive and negative
+electrical connections). A reverse polarity connection could
+be catastrophic to the aircraft’s electrical system. If a ground
+power source with a reverse polarity is connected, the diode
+
+External power receptacle
+
+Many aircraft contain a separate power distribution bus
+specifically for electronics equipment. This bus is often
+referred to as an avionics bus. Since modern avionics
+equipment employs sensitive electronic circuits, it is often
+advantageous to disconnect all avionics from electrical power
+to protect their circuits. For example, the avionics bus is often
+depowered when the starter motor is activated. This helps to
+To Electrical loads
+
+External power solenoid
+
+Battery solenoid
+
++
++
+Starter
+motor
+
+Reverse polarity diode
+
++
+-
+
+Aircraft battery
+
+Battery master switch
+
+To Bus
+Starter switch
+
+Figure 9-90. A simple external power circuit diagram.
+
+9-49
+
+===== PDF PAGE 466 =====
+prevent any transient voltage spikes produced by the starter
+from entering the sensitive avionics. [Figure 9-93]
+External power plug
+
+External power solenoid
+
++
++
+
+Starter solenoid
+
+Battery (master) solenoid
+
+To main bus
+Master switch
+
++
+R
+
+Starter
+motor
+
+B
+
+L
+
+OFF
+To split bus
+
+S
+
++V
+
+The circuit employs a normally closed (NC) solenoid that
+connects the avionics bus to the main power bus. The
+electromagnet of the solenoid is activated whenever the
+starter is engaged. Current is sent from the starter switch
+through diode D1, causing the solenoid to open and depower
+the avionics bus. At that time, all electronics connected to
+the avionics bus will lose power. The avionics contactor is
+also activated whenever external power is connected to the
+aircraft. In this case, current travels through diodes D2 and
+D3 to the avionics bus contactor.
+A separate avionics power switch may also be used to
+disconnect the entire avionics bus. A typical avionics power
+switch is shown wired in series with the avionics power bus.
+In some cases, this switch is combined with a circuit breaker
+and performs two functions (called a circuit breaker switch).
+It should also be noted that the avionics contactor is often
+referred to as a split bus relay, since the contactor separates
+(splits) the avionics bus from the main bus.
+
+Landing Gear Circuit
+Another common circuit found on light aircraft operates
+the retractable landing gear systems on high-performance
+
+Figure 9-91. Starter circuit.
+External power plug
+
+External power solenoid (NO)
+To main
+bus
+
++
++
+
+D3
+
+Avionics contactor (NC)
+(a.k.a. split bus relay)
+
+A
+V
+I
+O
+N
+I
+C
+S
+
+Avionics master switch
+D1
+
+B
+U
+S
+
+Figure 9-92. Multifunction starter switch.
+
+D2
+
+R
+
+L
+
+B
+To starter
+contactor
+
+M
+A
+I
+N
+B
+U
+S
+
+OFF
+
+Ignition
+S switch
+
+Figure 9-93. Avionics power circuit.
+
+9-50
+
+===== PDF PAGE 467 =====
+light aircraft. These airplanes typically employ a hydraulic
+system to move the gear. After takeoff, the pilot moves
+the gear position switch to the retract position, starting an
+electric motor. The motor operates a hydraulic pump, and the
+hydraulic system moves the landing gear. To ensure correct
+operation of the system, the landing gear electrical system
+is relatively complex. The electrical system must detect the
+position of each gear (right, left, nose) and determine when
+each reaches full up or down; the motor is then controlled
+accordingly. There are safety systems to help prevent
+accidental actuation of the gear.
+A series of limit switches are needed to monitor the position
+of each gear during the operation of the system. (A limit
+switch is simply a spring-loaded, momentary contact switch
+that is activated when a gear reaches its limit of travel.)
+Typically, there are six limit switches located in the landing
+gear wheel wells. The three up-limit switches are used to
+detect when the gear reaches the full retract (UP) position.
+Three down-limit switches are used to detect when the gear
+reaches the full extended (DOWN) position. Each of these
+switches is mechanically activated by a component of the
+landing gear assembly when the appropriate gear reaches
+a given limit.
+The landing gear system must also provide an indication to
+
+the pilot that the gear is in a safe position for landing. Many
+aircraft employ a series of three green lights when all three
+gears are down and locked in the landing position. These three
+lights are activated by the up- and down-limit switches found
+in the gear wheel well. A typical instrument panel showing
+the landing gear position switch and the three gears down
+indicators is shown in Figure 9-94.
+The hydraulic motor/pump assembly located in the upper left
+corner of Figure 9-95 is powered through either the UP or
+DOWN solenoids (top left). The solenoids are controlled by
+the gear selector switch (bottom left) and the six landing gear
+limit switches (located in the center of Figure 9-95). The three
+gear DOWN indicators are individual green lights (center of
+Figure 9-95) controlled by the three gear DOWN switches.
+As each gear reaches its DOWN position, the limit switch
+moves to the DOWN position, and the light is illuminated.
+Figure 9-95 shows the landing gear in the full DOWN
+position. It is always important to know gear position
+when reading landing gear electrical diagrams. Knowing
+gear position helps the technician to analyze the diagram
+and understand correct operation of the circuits. Another
+important concept is that more than one circuit is used to
+operate the landing gear. On this system, there is a low
+current control circuit fused at 5 amps (CB2, top right of
+
+Figure 9-94. Instrument panel showing the landing gear position switch and the three gear down indicators.
+
+9-51
+
+===== PDF PAGE 468 =====
+30A
+C.B.1
+
+DN UP
+Terminal #1
+
+UP
+
+Control current
+
+5A
+
+DN
+limit
+
+Not DN
+
+RIGHT GEAR
+DN
+
+UP
+limit
+
+Right green
+down light
+
+Not UP
+
+DN
+limit
+
+Not DN
+
+NOSE GEAR
+DN
+
+Nose green
+down light
+
+UP
+
+UP
+limit
+
+Not UP
+
+DN
+limit
+
+LEFT GEAR
+DN
+
+UP
+
+Left green
+down light
+
+Not UP
+
+Squat switch
+
+GND POS
+
+FLT POS
+
+UP
+limit
+
+Not DN
+
+DOWN
+
+UP
+
+C.B.2
+
+Landing gear
+Landing gear
+motor (25 Amp) control (5 Amp)
+
+Down motor, high current
+
+Hydraulic pump motor assembly
+
+Terminal #2
+
+Terminal #3
+
+Throttle switch
+
+Retarded
+
+Advanced
+
+Gear selector switch
+
+Gear horn
+
+Gear unsafe light (red)
+
+Figure 9-95. Aircraft landing gear schematic while gear is in the DOWN and locked position.
+
+Figure 9-95). This circuit is used for indicator lights and
+the control of the gear motor contactors. There is a separate
+circuit to power the gear motor fused at 30 amps (CB3, top
+right of Figure 9-95). Since this circuit carries a large current
+flow, the wires would be as short as practical and carefully
+
+protected with rubber boots or nylon insulators.
+The following paragraphs describe current flow through
+the landing gear circuit as the system moves the gear up
+and down. Be sure to refer to Figure 9-96 often during the
+9-52
+
+===== PDF PAGE 469 =====
+following discussions. Figure 9-96 shows current flow when
+the gear is traveling to the extend (DOWN) position. Current
+flow is highlighted in red for each description.
+To run the gear DOWN motor, current must flow in the control
+circuit leaving CB2 through terminal 1 to the NOT DOWN
+contacts of the DOWN limit switches, through terminal 3,
+to the DOWN solenoid positive terminal (upper left). The
+negative side of the DOWN solenoid coil is connected to
+ground through the gear selector switch. Remember, the gear
+DOWN switches are wired in parallel and activated when
+the gear reach the full-DOWN position. All three gears must
+reach full-DOWN to shut off the gear DOWN motor. Also
+note that the gear selector switch controls the negative side
+of the gear solenoids. The selector switch has independent
+control of the gear UP and DOWN motors through control
+of the ground circuit to both the UP and DOWN solenoids.
+When the landing gear control circuit is sending a positive
+voltage to the DOWN solenoid, and the gear selector switch
+is sending negative voltage, the solenoid magnet is energized.
+When the gear-DOWN solenoid is energized, the high-current
+gear motor circuit sends current from CB1 through the down
+solenoid contact points to the gear DOWN motor. When the
+motor runs, the hydraulic pump produces pressure and the
+gear begins to move. When all three gears reach the DOWN
+position, the gear-DOWN switches move to the DOWN
+position, the three green lights illuminate, and the gear motor
+turns off completing the gear-DOWN cycle.
+Figure 9-97 shows the landing gear electrical diagram with
+the current flow path shown in red as the gear moves to the
+retract (UP) position. Starting in the top right corner of the
+diagram, current must flow through CB2 in the control circuit
+through terminal 1 to each of the three gear-UP switches.
+With the gear-UP switches in the not UP position, current
+flows to terminal 2 and eventually through the squat switch
+to the UP solenoid electromagnet coil. The UP solenoid coil
+receives negative voltage through the gear selector switch.
+With the UP solenoid coil activated, the UP solenoid closes
+and power travels through the motor circuit. To power the
+motor, current leaves the bus through CB1 to the terminal
+at the DOWN solenoid onward through the UP solenoid to
+the UP motor. (Remember, current cannot travel through the
+DOWN solenoid at this time since the DOWN solenoid is
+not activated.) As the UP motor runs, each gear travels to the
+retract position. As this occurs, the gear UP switches move
+from the NOT UP position to the UP position. When the last
+gear reaches up, the current no longer travels to terminal 2
+and the gear motor turns off. It should be noted that similar
+to DOWN, the gear switches are wired in parallel, which
+means the gear motor continues to run until all three gear
+reach the required position.
+
+During both the DOWN and UP cycles of the landing gear
+operation, current travels from the limit switches to terminal
+2. From terminal 2, there is a current path through the gear
+selector switch to the gear unsafe light. If the gear selector
+disagrees with the current gear position (e.g., gear is DOWN
+and pilot has selected UP), the unsafe light is illuminated.
+The gear unsafe light is shown at the bottom of Figure 9-96.
+The squat switch (shown mid left of Figure 9-96) is used to
+determine if the aircraft is on the GROUND or in FLIGHT.
+This switch is located on a landing gear strut. When the weight
+of the aircraft compresses the strut, the switch is activated and
+moved to the GROUND position. When the switch is in the
+GROUND position, the gear cannot be retracted and a warning
+horn sounds if the pilot selects gear UP. The squat switch is
+sometimes referred to as the weight-on-wheels switch.
+A throttle switch is also used in conjunction with landing gear
+circuits on most aircraft. If the throttle is retarded (closed)
+beyond a certain point, the aircraft descends and eventually
+lands. Therefore, many manufacturers activate a throttle
+switch whenever engine power is reduced. If engine power
+is reduced too low, a warning horn sounds telling the pilot to
+lower the landing gear. Of course, this horn need not sound
+if the gear is already DOWN or the pilot has selected the
+DOWN position on the gear switch. This same horn also
+sounds if the aircraft is on the ground, and the gear handle
+is moved to the UP position. Figure 9-96 shows the gear
+warning horn in the bottom left corner.
+
+AC Supply
+Many modern light aircraft employ a low-power AC
+electrical system. Commonly, the AC system is used to
+power certain instruments and some lighting that operate
+only using AC. The electroluminescent panel has become
+a popular lighting system for aircraft instrument panels and
+requires AC. Electroluminescent lighting is very efficient
+and lightweight; therefore, excellent for aircraft installations.
+The electroluminescent material is a paste-like substance that
+glows when supplied with a voltage. This material is typically
+molded into a plastic panel and used for lighting.
+A device called an inverter is used to supply AC when needed
+for light aircraft. Simply put, the inverter changes DC into
+AC. Two types of inverters may be found on aircraft: rotary
+inverters and static inverters. Rotary inverters are found only
+on older aircraft due to its poor reliability, excess weight,
+and inefficiency. The rotary inverters employee a DC motor
+that spins an AC generator. The unit is typically one unit and
+contains a voltage regulator circuit to ensure voltage stability.
+Most aircraft have a modern static inverter instead of a rotary
+inverter. Static inverters, as the name implies, contain no
+moving parts and use electronic circuitry to convert DC to
+9-53
+
+===== PDF PAGE 470 =====
+30A
+C.B.1
+
+DOWN
+
+Terminal #1
+
+Control current
+
+Landing gear
+control 5 Amp
+
+UP
+UP
+
+Landing gear
+motor 25 Amp
+
+Down motor, high current
+
+Hydraulic pump motor assembly
+
+5A
+
+DN
+limit
+
+Not DN
+
+RIGHT GEAR
+DN
+
+UP
+limit
+
+Right green
+down light
+
+Not UP
+
+DN
+limit
+
+Not DN
+
+NOSE GEAR
+DN
+
+Nose green
+down light
+
+UP
+
+UP
+limit
+
+Not UP
+
+DN
+limit
+
+LEFT GEAR
+DN
+
+UP
+
+Left green
+down light
+
+Not UP
+
+Squat switch
+
+GND POS
+
+FLT POS
+
+UP
+limit
+
+Not DN
+
+DOWN
+
+UP
+
+C.B.2
+
+Terminal #2
+
+Terminal #3
+
+Throttle switch
+
+Retarded
+
+Advanced
+
+Gear selector switch
+
+Gear horn
+
+Gear unsafe light (red)
+
+Current flow
+
+Figure 9-96. Landing gear moving down diagram.
+
+AC. Figure 9-98 shows a static inverter. Whenever AC is
+used on light aircraft, a distribution circuit separated from
+the DC system must be employed. [Figure 9-99]
+Some aircraft use an inverter power switch to control AC
+power. Many aircraft simply power the inverter whenever the
+
+DC bus is powered and no inverter power switch is needed.
+On complex aircraft, more than one inverter may be used to
+provide a backup AC power source. Many inverters also offer
+more than one voltage output. Two common voltages found
+on aircraft inverters are 26VAC and 115VAC.
+
+9-54
+
+===== PDF PAGE 471 =====
+C.B.1
+
+DOWN
+
+Terminal #1
+
+Control current
+
+5A
+C.B.2
+
+RIGHT GEAR
+DN
+
+Right green
+down light
+
+UP
+
+UP
+limit
+
+Not UP
+
+DN
+limit
+
+Not DN
+
+NOSE GEAR
+DN
+
+Nose green
+down light
+
+UP
+
+UP
+limit
+
+Not UP
+
+DN
+limit
+
+LEFT GEAR
+DN
+
+UP
+
+Left green
+down light
+
+Not UP
+
+Squat switch
+
+GND POS
+
+FLT POS
+
+UP
+limit
+
+Not DN
+
+DOWN
+
+DN
+limit
+
+Not DN
+
+UP
+UP
+
+30A
+
+Landing gear
+Landing gear
+motor (25 Amp) control (5 Amp)
+
+Down motor, high current
+
+Hydraulic pump motor assembly
+
+Terminal #2
+
+Terminal #3
+
+Throttle switch
+
+Retarded
+
+Advanced
+
+Gear selector switch
+
+Gear horn
+
+Gear unsafe light (red)
+
+Current flow
+
+Figure 9-97. Aircraft landing gear schematic while gear is moving to the UP position.
+
+Light Multiengine Aircraft
+Multiengine aircraft typically fly faster, higher, and farther
+than single engine aircraft. Multiengine aircraft are designed
+for added safety and redundancy and, therefore, often contain
+a more complex power distribution system when compared to
+
+light single-engine aircraft. With two engines, these aircraft
+can drive two alternators (or generators) that supply current
+to the various loads of the aircraft. The electrical distribution
+bus system is also divided into two or more systems. These
+bus systems are typically connected through a series of circuit
+9-55
+
+===== PDF PAGE 472 =====
+the paralleling systems must ensure both power producers
+maintain system voltage within a few tenths of a volt. For
+most twin-engine aircraft, the voltage would be between
+26.5-volt and 28-volt DC with the alternators operating. A
+simple vibrating point system used for paralleling alternators
+is found in Figure 9-100.
+As can be seen in Figure 9-100, both left and right voltage
+regulators contain a paralleling coil connected to the output
+of each alternator. This paralleling coil works in conjunction
+with the voltage coil of the regulator to ensure proper
+alternator output. The paralleling coils are wired in series
+between the output terminals of both alternators. Therefore,
+if the two alternators provide equal voltages, the paralleling
+coil has no effect. If one alternator has a higher voltage output,
+the paralleling coils create the appropriate magnetic force to
+open/close the contact points, controlling field current and
+control alternator output.
+
+Figure 9-98. A static inverter.
+
+protectors, diodes, and relays. The bus system is designed to
+create a power distribution system that is extremely reliable by
+supplying current to most loads through more than one source.
+
+Paralleling Alternators or Generators
+Since two alternators (or generators) are used on twin engine
+aircraft, it becomes vital to ensure both alternators share the
+electrical load equally. This process of equalizing alternator
+outputs is often called paralleling. In general, paralleling is a
+simple process when dealing with DC power systems found
+on light aircraft. If both alternators are connected to the
+same load bus and both alternators produce the same output
+voltage, the alternators share the load equally. Therefore,
+
+Today’s aircraft employ solid-state control circuits to ensure
+proper paralleling of the alternators. Older aircraft use
+vibrating point voltage regulators or carbon-pile regulators
+to monitor and control alternator output. For the most part,
+all carbon-pile regulators have been replaced except on
+historic aircraft. Many aircraft still maintain a vibrating
+point system, although these systems are no longer being
+used on contemporary aircraft. The different types of voltage
+regulators were described earlier in this chapter.
+
+Power Distribution on Multiengine Aircraft
+The power distribution systems found on modern multiengine
+aircraft contain several distribution points (buses) and a
+variety of control and protection components to ensure
+the reliability of electrical power. As aircraft employ more
+electronics to perform various tasks, the electrical power
+systems becomes more complex and more reliable. One
+115 VAC (optional)
+
+Inverter power switch (optional)
+Various DC loads
+
+Inverter
+DC
+
+DC bus
+
+AC
+
+A
+C
+L
+O
+A
+D
+S
+
+AC loads
+
+Power from
+aircraft battery
+or alternator
+
+Figure 9-99. Distribution circuit.
+
+9-56
+
+===== PDF PAGE 473 =====
+Left voltage regulator and alternator
+
+Right voltage regulator and alternator
+
+To voltage
+regulator and
+circuit breaker
+
+Paralleling
+coil
+
+To voltage
+regulator and
+circuit breaker
+
+Paralleling
+coil
+
+Paralleling switch
+Voltage
+coil
+
+Alternator
+output to bus
+
+Voltage
+coil
+
+Alternator
+output to bus
+A+
+F
+Right
+alternator
+
+A+
+F
+Left
+alternator
+
+Generator control
+
+Figure 9-100. Vibrating point system used for paralleling alternators.
+
+means to increase reliability is to ensure more than one
+power source can be used to power any given load. Another
+important design concept is to supply critical electrical
+loads from more than one bus. Twin-engine aircraft, such
+as a typical corporate jet or commuter aircraft, have two
+DC generators; they also have multiple distribution buses
+fed from each generator. Figure 9-101 shows a simplified
+diagram of the power distribution system for a twin-engine
+turboprop aircraft.
+
+The hot battery bus (right side of Figure 9-101) shows a direct
+connection to the aircraft battery. This bus is always hot if
+there is a charged battery in the aircraft. Items powered by this
+bus may include some basics like the entry door lighting and
+the aircraft clock, which should always have power available.
+Other items on this bus would be critical to flight safety, such
+as fire extinguishers, fuel shutoffs, and fuel pumps. During
+a massive system failure, the hot battery bus is the last bus
+on the aircraft that should fail.
+
+This aircraft contains two starter generator units used to start
+the engines and generate DC electrical power. The system
+is typically defined as a split-bus power distribution system
+since there is a left and right generator bus that splits (shares)
+the electrical loads by connecting to each sub-bus through
+a diode and current limiter. The generators are operated in
+parallel and equally carry the loads.
+
+If the battery switch is closed and the battery relay activated,
+battery power is connected to the main battery bus and the
+isolation bus. The main battery bus carries current for engine
+starts and external power. So the main battery bus must
+be large enough to carry the heaviest current loads of the
+aircraft. It is logical to place this bus as close as practical to
+the battery and starters and to ensure the bus is well protected
+from shorts to ground.
+
+The primary power supplied for this aircraft is DC, although
+small amounts of AC are supplied by two inverters. The
+aircraft diagram shows the AC power distribution at the top
+and mid left side of the diagram. One inverter is used for
+main AC power and the second is operated in standby and
+ready as a backup. Both inverters produce 26-volt AC and
+115-volt AC. There is an inverter select relay operated by a
+pilot controlled switch used to choose which inverter is active.
+
+The isolation bus connects to the left and right buses and
+receives power whenever the main battery bus is energized.
+The isolation bus connects output of the left and right
+generators in parallel. The output of the two generators is
+then sent to the loads through additional buses. The generator
+buses are connected to the isolation bus through a fuse known
+as a current limiter. Current limiters are high amperage
+fuses that isolate buses if a short circuit occurs. There are
+several current limiters used in this system for protection
+9-57
+
+===== PDF PAGE 474 =====
+Avionics bus No. 3
+To avionics
+master control CB
+Avionics bus No. 1
+
+Avionics bus No. 3
+power relay (optional)
+
+Left gen bus
+
+OFF ON
+
+Avionics No. 1
+power relay
+
+INV
+No. 1
+
+Left gen control
+26 V AC
+
+Left
+starter
+gen
+
+115 V AC
+
+115 V AC
+
+Current limiter
+
++
+
+−
+
+Loads powered by hot battery bus
+
+ISOLATION BUS
+
+−
+
+EXT power
+relay
+
+MAIN BATTERY BUS
+
+HOT BATTERY BUS
+
+No. 1 DUAL FED BUS
+To miscellaneous DC loads
+
+No. 2 DUAL FED BUS
+To miscellaneous DC loads
+
+To miscellaneous DC loads
+
+No. 3 DUAL FED BUS
+
++
+
+No. 4 DUAL FED BUS
+
+To AC loads (115V AC)
+
+EXT power connection
+
++
+
+Battery sw
+
+−
+
+Battery
+
+Right
+start
+relay
+
+50 A
+
+Current limiter
+
+60A
+
+SUB BUS
+
+INV
+No. 2
+
+Left
+start
+relay
+
+To miscellaneous DC loads
+
+To AC loads (26V AC)
+
+26V AC
+
+115V AC
+
+Relay
+panel
+
+Right
+starter
+gen
+Right gen control
+
+50A
+Avionics bus No. 2
+60A
+Right gen bus
+
+Avionics bus No. 2
+power relay
+
+Figure 9-101. Diagram of the power distribution system for a twin-engine turboprop aircraft.
+
+between buses. As can be seen in Figure 9-101, a current
+limiter symbol looks like two triangles pointed toward each
+other. The current limiter between the isolation bus and the
+main generator buses are rated at 325 amps and can only be
+replaced on the ground. Most current limiters are designed
+for ground replacement only and only after the malfunction
+
+that caused the excess current draw is repaired.
+The left and right DC generators are connected to their
+respective main generator buses. Each generator feeds its
+respective bus, and since the buses are connected under
+normal circumstances, the generators operate in parallel.
+9-58
+
+===== PDF PAGE 475 =====
+Both generators feed all loads together. If one generator
+fails or a current limiter opens, the generators can operate
+independently. This design allows for redundancy in the
+event of failure and provides battery backup in the event of
+a dual generator failure.
+In the center of Figure 9-101 are four dual-feed electrical
+buses. These buses are considered dual-feed since they receive
+power from both the left and right generator buses. If a fault
+occurs, either generator bus can power any or all loads on a
+dual-feed bus. During the design phase of the aircraft, the
+electrical loads must be evenly distributed between each of
+the dual-feed buses. It is also important to power redundant
+systems from different buses. For example, the pilot’s
+windshield heat would be powered by a different bus from
+the one that powers the copilot’s windshield heat. If one bus
+fails, at least one windshield heat continues to work properly,
+and the aircraft can be landed safely in icing conditions.
+Notice that the dual-feed buses are connected to the main
+generator buses through both a current limiter and a diode.
+Remember, a diode allows current flow in only one direction.
+[Figure 9-102]
+The current can flow from the generator bus to the dualfeed bus, but the current cannot flow from the dual fed bus
+to the main generator bus. The diode is placed in the circuit
+so the main bus must be more positive than the sub bus for
+current flow. This circuit also contains a current limiter and
+a circuit breaker. The circuit breaker is located on the flight
+deck and can be reset by the pilot. The current limiter can
+only be replaced on the ground by a technician. The circuit
+breaker is rated at a slightly lower current value than the
+current limiter; therefore, the circuit breaker should open
+if a current overload exists. If the circuit breaker fails to
+open, the current limiter provides backup protection and
+disconnects the circuit.
+Large Multiengine Aircraft
+Transport category aircraft typically carry hundreds of
+passengers and fly thousands of miles each trip. Therefore,
+large aircraft require extremely reliable power distribution
+
+systems that are computer controlled. These aircraft have
+multiple power sources (AC generators) and a variety of
+distribution buses. A typical airliner contains two or more
+main AC generators driven by the aircraft turbine engines,
+as well as more than one backup AC generator. DC systems
+are also employed on large aircraft and the ship’s battery is
+used to supply emergency power in case of a multiple failures.
+The AC generator (sometimes called an alternator) produces
+three-phase 115-volt AC at 400 Hz. AC generators were
+discussed previously in this chapter. Since most modern
+transport category aircraft are designed with two engines,
+there are two main AC generators. The APU also drives an
+AC generator. This unit is available during flight if one of the
+main generators fails. The main and auxiliary generators are
+typically similar in output capacity and supply a maximum
+of 110 kilovolt amps (KVA). A fourth generator, driven by
+an emergency ram air turbine, is also available in the event
+the two main generators and one auxiliary generator fail.
+The emergency generator is typically smaller and produces
+less power. With four AC generators available on modern
+aircraft, it is highly unlikely that a complete power failure
+occurs. However, if all AC generators are lost, the aircraft
+battery will continue to supply DC electrical power to operate
+vital systems.
+
+AC Power Systems
+Transport category aircraft use large amounts of electrical
+power for a variety of systems. Passenger comfort requires
+power for lighting, audio visual systems, and galley power
+for food warmers and beverage coolers. A variety of electrical
+systems are required to fly the aircraft, such as flight control
+systems, electronic engine controls, communication, and
+navigation systems. The output capacity of one engine-driven
+AC generator can typically power all necessary electrical
+systems. A second engine-driven generator is operated during
+flight to share the electrical loads and provide redundancy.
+The complexity of multiple generators and a variety of
+distribution buses requires several control units to maintain
+a constant supply of safe electrical power. The AC electrical
+system must maintain a constant output of 115 to 120 volts at
+
+Circuit breaker
+
+Reverse polarity diode
+
+Current limiter
+
+Dual fed bus # 1
+Main generator bus
+
+Circuit breaker
+
+Dual fed bus # 2
+
+Reverse polarity diode
+
+Current limiter
+
+Right
+main
+generator
+bus
+
+Figure 9-102. Dual-feed bus system.
+
+9-59
+

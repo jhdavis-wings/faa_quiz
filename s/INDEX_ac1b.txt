@@ -1,0 +1,33 @@
+INDEX: AC 43.13-1B with Change 1 (inspection and repair)
+File | size | covers | headings inside
+Each file is at https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/<file name>
+
+ac1b_001.txt | 56 KB | AC 43.13-1B Chg 1, front matter, PDF pages 1-14 | Advisory; Federal Aviation; 4-58.  REPAIR METHODS AND PRECAUTIONS FOR; 4-76.  ACCURATELY IDENTIFY THE TYPE OF; 5-77.  ADVANTAGE OF REAL-TIME RADIOGRAPHY OVER; 6-135.  CORROSION REMOVAL AROUND COUNTERSUNK FASTENERS IN; 6-136. EXAMPLES OF REMOVING CORROSION FROM ALUMINUM AND; 6-150. REPAIR OF MAGNESIUM SHEET METAL AFTER EXTENSIVE; 7-45.  INTERNAL WRENCHING BOLTS; 7-47. TWELVE-POINT, EXTERNAL WRENCHING BOLTS
+ac1b_002.txt | 55 KB | AC 43.13-1B Chg 1, front matter, PDF pages 15-26 | 8-34.  FUEL CROSS-FEED, FIREWALL SHUTOFF, AND TANK SELECTOR; 11-35.  ACCEPTABLE MEANS OF CONTROLLING OR MONITORING THE; 11-67. METHODS FOR DETERMINING CURRENT CARRYING CAPACITY OF; 11-101. JUNCTION BOXES, PANELS, SHIELDS, AND; 11-108. IDENTIFICATION STENCILS AND PLACARDS ON ELECTRICAL; 11-123. MOISTURE PROTECTION, WHEEL WELLS, AND
+ac1b_003.txt | 44 KB | AC 43.13-1B Chg 1, front matter, PDF pages 27-35 | 
+ac1b_004.txt | 60 KB | AC 43.13-1B Chg 1, chapter 1 (Wood Structure), PDF pages 36-69 | Maximum
+ac1b_005.txt | 13 KB | AC 43.13-1B Chg 1, chapter 1 (Wood Structure), PDF pages 70-76 | 
+ac1b_006.txt | 59 KB | AC 43.13-1B Chg 1, chapter 2 (Fabric Covering), PDF pages 77-108 | Minimum; Hand-Sewing
+ac1b_007.txt | 21 KB | AC 43.13-1B Chg 1, chapter 2 (Fabric Covering), PDF pages 109-118 | 
+ac1b_008.txt | 57 KB | AC 43.13-1B Chg 1, chapter 3 (Fiberglass And Plastics), PDF pages 119-151 | 
+ac1b_009.txt | 59 KB | AC 43.13-1B Chg 1, chapter 4 (Metal Structure, Welding, And Brazing), PDF pages 152-184 | Columbium or; Tantalum; Magnetic; Precipitation; Hardening; Brinell Number; Material Commercial; Designation
+ac1b_010.txt | 59 KB | AC 43.13-1B Chg 1, chapter 4 (Metal Structure, Welding, And Brazing), PDF pages 185-225 | Inches; Rivet Size; Stabilization; Thickness of Steel
+ac1b_011.txt | 28 KB | AC 43.13-1B Chg 1, chapter 4 (Metal Structure, Welding, And Brazing), PDF pages 226-247 | 
+ac1b_012.txt | 58 KB | AC 43.13-1B Chg 1, chapter 5 (Nondestructive Inspection (Ndi)), PDF pages 248-275 | Corrosion-Resistant Steels Magnetic Particle Inspection
+ac1b_013.txt | 58 KB | AC 43.13-1B Chg 1, chapter 5 (Nondestructive Inspection (Ndi)), PDF pages 276-306 | Application; Washable; Lipophilic; Removable; Hydrophilic; Mechanical Methods; Chemical Methods; Solvent Methods; Examination Using the Lipophilic Post-Emulsification; 5-77. ADVANTAGE OF REAL-TIME RADIOGRAPHY OVER FILM
+ac1b_014.txt | 57 KB | AC 43.13-1B Chg 1, chapter 6 (Corrosion, Inspection, And Protection), PDF pages 307-338 | 6-135. CORROSION REMOVAL AROUND COUNTERSUNK FASTENERS IN; 6-136. EXAMPLES OF REMOVING CORROSION FROM ALUMINUM AND
+ac1b_015.txt | 38 KB | AC 43.13-1B Chg 1, chapter 6 (Corrosion, Inspection, And Protection), PDF pages 339-355 | 
+ac1b_016.txt | 59 KB | AC 43.13-1B Chg 1, chapter 7 (Aircraft Hardware, Control Cables, And Turnbuckles), PDF pages 356-387 | Pounds; Minimum
+ac1b_017.txt | 35 KB | AC 43.13-1B Chg 1, chapter 7 (Aircraft Hardware, Control Cables, And Turnbuckles), PDF pages 388-438 | Hydraulic
+ac1b_018.txt | 59 KB | AC 43.13-1B Chg 1, chapter 8 (Engines, Fuel, Exhaust, And Propellers), PDF pages 439-470 | Royce; Approximate Distance; Between Supports
+ac1b_019.txt | 35 KB | AC 43.13-1B Chg 1, chapter 8 (Engines, Fuel, Exhaust, And Propellers), PDF pages 471-489 | 
+ac1b_020.txt | 58 KB | AC 43.13-1B Chg 1, chapter 9 (Aircraft Systems And Components), PDF pages 490-511 | 
+ac1b_021.txt | 59 KB | AC 43.13-1B Chg 1, chapter 9 (Aircraft Systems And Components), PDF pages 512-543 | Alum; Alloy
+ac1b_022.txt | 6 KB | AC 43.13-1B Chg 1, chapter 9 (Aircraft Systems And Components), PDF pages 544-546 | 
+ac1b_023.txt | 23 KB | AC 43.13-1B Chg 1, chapter 10 (Weight And Balance), PDF pages 547-571 | 
+ac1b_024.txt | 59 KB | AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 572-597 | Federal Register; Designation; Standard Guide for Aircraft; Source Capacity Analysis; Systems; Standard Practice for; 11-35. ACCEPTABLE MEANS OF CONTROLLING OR MONITORING THE; Nominal; Derating; Factor; Voltage; Allowable Voltage; Drop Continuous; Operation; Maximum
+ac1b_025.txt | 59 KB | AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 598-628 | Nominal; Conductor; 11-67. METHODS FOR DETERMINING CURRENT CARRYING CAPACITY OF; 11-108. IDENTIFICATION STENCILS AND PLACARDS ON ELECTRICAL
+ac1b_026.txt | 56 KB | AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 629-660 | Maximum Allowable Nicked and Broken Strands; Wire Size
+ac1b_027.txt | 49 KB | AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 661-705 | As-Supplied; Inside; Diameter; Wire or Cable Diameter; Wall; Cable; Strap; Miniature; Intermediate; Standard; Minimum Bending; Radius Inside; Connector Installation Types; Sealing Plugs or Teflon Sealing; Rods
+ac1b_028.txt | 55 KB | AC 43.13-1B Chg 1, chapter 12 (Aircraft Avionics Systems), PDF pages 706-731 | 
+ac1b_029.txt | 52 KB | AC 43.13-1B Chg 1, chapter 13 (Human Factors), PDF pages 732-756 | Addressing and Reporting System; System; Instrument; Administration Parts Manufacturer Approval; Board; Documents; Avoidance System; Advisory Circular Feedback Form; Inspection and Repair

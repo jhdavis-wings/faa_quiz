@@ -1,0 +1,1613 @@
+FAA-H-8083-31B Airframe Handbook, chapter 3 (Aircraft Fabric Covering), PDF pages 139-154
+
+===== PDF PAGE 139 =====
+Chapter 3
+
+Aircraft Fabric Covering
+General History
+Fabric-covered aircraft play an important role in the history of
+aviation. The famous Wright Flyer utilized a fabric-covered
+wood frame in its design, and fabric covering continued
+to be used by many aircraft designers and builders during
+the early decades of production aircraft. The use of fabric
+covering on an aircraft offers one primary advantage: light
+weight. In contrast, fabric coverings have two disadvantages:
+flammability and lack of durability.
+Finely woven organic fabrics, such as Irish linen and cotton,
+were the original fabrics used for covering airframes, but
+their tendency to sag left the aircraft structure exposed to the
+elements. To counter this problem, builders began coating the
+fabrics with oils and varnishes. In 1916, a mixture of cellulose
+dissolved in nitric acid, called nitrate dope, came into use as
+an aircraft fabric coating. Nitrate dope protected the fabric,
+adhered to it well, and tautened it over the airframe. It also
+gave the fabric a smooth, durable finish when dried. The
+major drawback to nitrate dope was its extreme flammability.
+To address the flammability issue, aircraft designers tried
+a preparation of cellulose dissolved in butyric acid called
+butyrate dope. This mixture protected the fabric from dirt
+and moisture, but it did not adhere as well to the fabric as
+nitrate dope. Eventually, a system combining the two dope
+coatings was developed. First, the fabric was coated with
+nitrate dope for its adhesion and protective qualities. Then,
+subsequent coats of butyrate dope were added. Since the
+butyrate dope coatings reduced the overall flammability of
+the fabric covering, this system became the standard fabric
+treatment system.
+The second problem, lack of durability, stems from the
+eventual deterioration of fabric from exposure to the elements
+that results in a limited service life. Although the mixture of
+nitrate dope and butyrate dope kept out dirt and water, solving
+some of the degradation issue, it did not address deterioration
+caused by ultraviolet (UV) radiation from the sun. Ultraviolet
+radiation passed through the dope and degraded not only the
+fabric, but also the aircraft structure underneath. Attempts to
+paint the coated fabric proved unsuccessful, because paint
+does not adhere well to nitrate dope. Eventually, aluminum
+solids were added to the butyrate coatings. This mixture
+reflected the sun’s rays, prevented harmful UV rays from
+penetrating the dope, and protected the fabric, as well as the
+aircraft structure.
+
+Regardless of treatments, organic fabrics have a limited
+lifespan; cotton or linen covering on an actively flown aircraft
+lasts only about 5–10 years. Furthermore, aircraft cotton has
+not been available for over 25 years. As the aviation industry
+developed more powerful engines and more aerodynamic
+aircraft structures, aluminum became the material of
+choice. Its use in engines, aircraft frames, and coverings
+revolutionized aviation. As a covering, aluminum protected
+the aircraft structure from the elements, was durable, and
+was not flammable.
+Although aluminum and composite aircraft dominate modern
+aviation, advances in fabric coverings continue to be made
+because gliders, home-built, and light sport aircraft, as well
+as some standard and utility certificated aircraft, are still
+produced with fabric coverings. [Figure 3-1] The nitrate/
+butyrate dope process works well, but does not mitigate
+the short lifespan of organic fabrics. It was not until the
+introduction of polyester fabric as an aircraft covering in
+the 1950s that the problem of the limited lifespan of fabric
+covering was solved. The transition to polyester fabric had
+some problems because the nitrate and butyrate dope coating
+
+Figure 3-1. Examples of aircraft produced using fabric skin.
+
+3-1
+
+===== PDF PAGE 140 =====
+process is not as suitable for polyester as it is for organic
+fabrics. Upon initial application of the dopes to polyester,
+good adhesion and protection occurred; as the dopes dried,
+they would eventually separate from the fabric. In other
+words, the fabric outlasted the coating.
+
+Re-covering existing fabric aircraft is an accepted maintenance
+procedure. Not all aircraft covering systems include the use
+of dope coating processes. Modern aircraft covering systems
+that include the use of nondope fabric treatments show no
+signs of deterioration even after decades of service. In this
+chapter, various fabrics and treatment systems are discussed,
+as well as basic covering techniques.
+
+Warp
+
+as
+
+Bi
+
+Selvage edge
+
+Fill
+
+Selvage edge
+
+Eventually, dope additives were developed that minimized
+the separation problem. For example, plasticizers keep the
+dried dope flexible and nontautening dope formulas eliminate
+separation of the coatings from the fabric. Properly protected
+and coated, polyester lasts indefinitely and is stronger
+than cotton or linen. Today, polyester fabric coverings are
+the standard and use of cotton and linen on United States
+certificated aircraft has ceased. In fact, the long staple cotton
+from which grade-A cotton aircraft fabric is made is no longer
+produced in this country.
+
+Pinked edge
+
+Figure 3-2. Aircraft fabric nomenclature.
+
+Fabric Terms
+To facilitate the discussion of fabric coverings for aircraft,
+the following definitions are presented. Figure 3-2 illustrates
+some of these items.
+•
+
+Warp—the direction along the length of fabric.
+
+•
+
+Fill or weave—the direction across the width of the
+fabric.
+
+•
+
+Count—the number of threads per inch in warp or
+filling.
+
+•
+
+Ply—the number of yarns making up a thread.
+
+•
+
+Bias—a cut, fold, or seam made diagonally to the warp
+or fill threads.
+
+•
+
+Pinked edge—an edge which has been cut by machine
+or special pinking shears in a continuous series of Vs
+to prevent raveling.
+
+•
+
+Selvage edge—the edge of cloth, tape, or webbing
+woven to prevent raveling.
+
+•
+
+Greige—condition of polyester fabric upon completion
+of the production process before being heat shrunk.
+
+•
+
+Cross-coat—brushing or spraying where the second
+coat is applied 90° to the direction the first coat was
+applied. The two coats together make a single cross
+coat. [Figure 3-3]
+
+Legal Aspects of Fabric Covering
+When a fabric-covered aircraft is certificated, the aircraft
+manufacturer uses materials and techniques to cover the
+aircraft that are approved under the type certificate issued
+for that aircraft. The same materials and techniques must be
+used by maintenance personnel when replacing the aircraft
+fabric. Descriptions of these materials and techniques are
+in the manufacturer’s service manual. For example, aircraft
+originally manufactured with cotton fabric can only be
+re-covered with cotton fabric unless the Federal Aviation
+Administration (FAA) approves an exception. Approved
+exceptions for alternate fabric-covering materials and
+procedures are common. Since polyester fabric coverings
+deliver performance advantages, such as lighter weight,
+longer life, additional strength, and lower cost, many older
+aircraft originally manufactured with cotton fabric have
+received approved alteration authority and have been recovered with polyester fabric.
+There are three ways to gain FAA approval to re-cover an
+aircraft with materials and processes other than those with
+which it was originally certificated. One is to do the work in
+accordance with an approved supplemental type certificate
+(STC). The STC must specify that it is for the particular
+aircraft model in question. It states in detail exactly what
+alternate materials must be used and what procedure(s) must
+be followed. Deviation from the STC data in any way renders
+3-2
+
+===== PDF PAGE 141 =====
+First application
+
+Second application
+(applied when first
+coat is tacky)
+
+Figure 3-3. A single cross coat is made up of two coats of paint applied 90° to each other.
+
+the aircraft unairworthy. The holder of the STC typically sells
+the materials and the use of the STC to the person wishing
+to re-cover the aircraft.
+The second way to gain approval to re-cover an aircraft with
+different materials and processes is with a field approval. A
+field approval is a one-time approval issued by the FAA Flight
+Standards District Office (FSDO) permitting the materials
+and procedures requested to replace those of the original
+manufacturer. A field approval request is made on FAA Form
+337. A thorough description of the materials and processes
+must be submitted with proof that, when the alteration is
+completed, the aircraft meets or exceeds the performance
+parameters set forth by the original type certificate.
+The third way is for a manufacturer to secure approval
+through the Type Certificate Data Sheet (TCDS) for a new
+process. For example, Piper Aircraft Co. originally covered
+their PA-18s in cotton. Later, they secured approval to recover
+their aircraft with Dacron fabric. Recovering an older PA-18
+with Dacron in accordance with the TCDS would be a major
+repair, but not an alteration as the TCDS holder has current
+approval for the fabric.
+Advisory Circular (AC) 43.13-1, Acceptable Methods,
+Techniques, and Practices—Aircraft Inspection and Repair,
+contains acceptable practices for covering aircraft with fabric.
+It is a valuable source of general and specific information on
+fabric and fabric repair that can be used on Form 337 to justify
+procedures requested for a field approval. Submitting an FAA
+Form 337 does not guarantee a requested field approval. The
+FSDO inspector considers all aspects of the procedures and
+their effect(s) on the aircraft for which the request is being
+filed. Additional data may be required for approval.
+Title 14 of the Code of Federal Regulations (14 CFR) part
+43, Appendix A, states which maintenance actions are
+
+considered major repairs and which actions are considered
+major alterations. Fabric re-covering is considered a major
+repair and FAA Form 337 is executed whenever an aircraft is
+re-covered with fabric. Appendix A also states that changing
+parts of an aircraft wing, tail surface, or fuselage when not
+listed in the aircraft specifications issued by the FAA is a
+major alteration. This means that replacing cotton fabric with
+polyester fabric is a major alteration. A properly executed
+FAA Form 337 also needs to be approved in order for this
+alteration to be legal.
+FAA Form 337, which satisfies the documentation requirements
+for major fabric repairs and alterations, requires participation of
+an FAA-certificated Airframe and Powerplant (A&P) mechanic
+with an Inspection Authorization (IA) in the re-covering
+process. Often the work involved in re-covering a fabric aircraft
+is performed by someone else, but under the supervision of the
+IA (IA certification requires A&P certification). This typically
+means the IA inspects the aircraft structure and the re-cover job
+at various stages to be sure STC or field approval specifications
+are being followed. The signatures of the IA and the FSDO
+inspector are required on the approved FAA Form 337. The
+aircraft logbook also must be signed by the FAA-certificated
+A&P mechanic. It is important to contact the local FSDO before
+making any major repair or alteration.
+
+Approved Materials
+There are a variety of approved materials used in aircraft
+fabric covering and repair processes. In order for the items
+to legally be used, the FAA must approve the fabric, tapes,
+threads, cords, glues, dopes, sealants, coatings, thinners,
+additives, fungicides, rejuvenators, and paints for the
+manufacturer, the holder of an STC, or a field approval.
+Fabric
+A Technical Standard Order (TSO) is a minimum performance
+standard issued by the FAA for specified materials, parts,
+3-3
+
+===== PDF PAGE 142 =====
+processes, and appliances used on civil aircraft. For example,
+TSO-C15d, Aircraft Fabric, Grade A, prescribes the minimum
+performance standards that approved aircraft fabric must
+meet. Fabric that meets or exceeds the TSO can be used as a
+covering. Fabric approved to replace Grade-A cotton, such as
+polyester, must meet the same criteria. TSO-C15d also refers
+to another document, Society of Automotive Engineers (SAE)
+Aerospace Material Specification (AMS) 3806D, which details
+properties a fabric must contain to be an approved fabric for
+airplane cloth. Lighter weight fabrics typically adhere to the
+specifications in TSO-C14b, which refers to SAEAMS 3804C.
+When a company is approved to manufacture or sell an
+approved aviation fabric, it applies for and receives a Parts
+Manufacturer Approval (PMA). Currently, only a few
+approved fabrics are used for aircraft coverings, such as
+the polyester fabrics Ceconite™, Stits/Polyfiber™, and
+Superflite™. These fabrics and some of their characteristics
+are shown in Figure 3-4. The holders of the PMA for these
+fabrics have also developed and gained approval for the
+various tapes, chords, threads, and liquids that are used
+in the covering process. These approved materials, along
+with the procedures for using them, constitute the STCs for
+each particular fabric covering process. Only the approved
+materials can be used. Substitution of other materials is
+forbidden and results in the aircraft being unairworthy.
+Other Fabric Covering Materials
+The following is an introduction to the supplemental materials
+used to complete a fabric covering job per manufacturer’s
+
+instruction or a STC.
+
+Anti-Chafe Tape
+Anti-chafe tape is used on sharp protrusions, rib caps, metal
+seams, and other areas to provide a smoother surface to keep
+the fabric from being torn. It is usually self-adhesive cloth
+tape and is applied after the aircraft is cleaned, inspected,
+and primed, but before the fabric is installed.
+
+Reinforcing Tape
+Reinforcing tape is most commonly used on rib caps after
+the fabric covering is installed to protect and strengthen the
+area for attaching the fabric to the ribs.
+
+Rib Bracing
+Rib bracing tape is used on wing ribs before the fabric is
+installed. It is applied spanwise and alternately wrapped
+around a top rib cap and then a bottom rib cap progressing
+from rib to rib until all are braced. [Figure 3-5] Lacing
+the ribs in this manner holds them in the proper place and
+alignment during the covering process.
+
+Surface Tape
+Surface tape, made of polyester material and often preshrunk, is obtained from the STC holder. This tape, also
+known as finishing tape, is applied after the fabric is installed.
+It is used over seams, ribs, patches, and edges. Surface tape
+can have straight or pinked edges and comes in various
+widths. For curved surfaces, bias cut tape is available, which
+allows the tape to be shaped around a radius.
+
+Approved Aircraft Fabrics
+Fabric
+Name or Type
+
+Weight
+(oz/sq yd)
+
+Count
+(warp x fill)
+
+New Breaking
+Strength (lb)
+(warp, fill)
+
+Minimum Deteriorated
+Breaking Strength
+
+TSO
+
+Ceconite™ 101
+
+3.5
+
+69 x 63
+
+125,116
+
+70% of original specified fabric
+
+C-15d
+
+Ceconite™ 102
+
+3.16
+
+60 x 60
+
+106,113
+
+70% of original specified fabric
+
+C-15d
+
+Polyfiber™ Heavy Duty-3
+
+3.5
+
+69 x 63
+
+125,116
+
+70% of original specified fabric
+
+C-15d
+
+Polyfiber™ Medium-3
+
+3.16
+
+60 x 60
+
+106,113
+
+70% of original specified fabric
+
+C-15d
+
+Polyfiber™ Uncertified Light
+
+1.87
+
+90 x 76
+
+66,72
+
+uncertified
+
+Superflight™ SF 101
+
+3.7
+
+70 x 51
+
+80,130
+
+70% of original specified fabric
+
+C-15d
+
+Superflight™ SF 102
+
+2.7
+
+72 x 64
+
+90,90
+
+70% of original specified fabric
+
+C-15d
+
+Superflight™ SF 104
+
+1.8
+
+94 x 91
+
+75,55
+
+uncertified
+
+Grade A Cotton
+
+4.5
+
+80 x 84
+
+80,80
+
+56 lb/in (70% of New)
+
+C-15d
+
+Figure 3-4. Approved fabrics for covering aircraft.
+
+3-4
+
+===== PDF PAGE 143 =====
+Clips
+Martin clip
+Trailing edge
+Rib cap
+
+Section of rib
+
+Screws
+
+Figure 3-5. Inter-rib bracing holds the ribs in place during the
+
+covering process.
+
+PK screw
+
+Rib Lacing Cord
+
+Washer
+
+Rib lacing cord is used to lace the fabric to the wing ribs.
+It must be strong and applied as directed to safely transfer
+in-flight loads from the fabric to the ribs. Rib lacing cord is
+available in a round or flat cross-section. The round cord is
+easier to use than the flat lacing, but if installed properly, the
+flat lacing results in a smoother finish over the ribs.
+
+Reinforcing tape
+
+Sewing Thread
+
+Fabric
+Rib
+
+Rivets
+
+Sewing of polyester fabric is rare and mostly limited to the
+creation of prefitted envelopes used in the envelope method
+covering process. When a fabric seam must be made with no
+structure underneath it, a sewn seam could be used. Polyester
+threads of various specifications are used on polyester fabric.
+Different thread is specified for hand sewing versus machine
+sewing. For hand sewing, the thread is typically a three-ply,
+uncoated polyester thread with a 15-pound tensile strength.
+Machine thread is typically four-ply polyester with a 10pound tensile strength.
+
+Special Fabric Fasteners
+Each fabric covering job involves a method of attaching
+the fabric to wing and empennage ribs. The original
+manufacturer’s method of fastening should be used. In
+addition to lacing the fabric to the ribs with approved rib
+lacing cord, special clips, screws, and rivets are employed
+on some aircraft. [Figure 3-6] The first step in using any
+of these fasteners is to inspect the holes into which they fit.
+Worn holes may have to be enlarged or re-drilled according
+to the manufacturer’s instructions. Use of approved fasteners
+is mandatory. Use of unapproved fasteners can render the
+covering job unairworthy if substituted. Screws and rivets
+often incorporate the use of a plastic or aluminum washer.
+All fasteners and rib lacing are covered with finishing tape
+once installed to provide a smooth finish and airflow.
+
+Lace
+
+Figure 3-6. Clips, screws, rivets, or lace are used to attach the fabric
+
+to wing and empennage ribs.
+
+3-5
+
+===== PDF PAGE 144 =====
+Primer
+
+Figure 3-7. Plastic, aluminum, and seaplane grommets are used to
+
+reinforce drain holes in the fabric covering.
+
+Grommets
+Grommets are used to create reinforced drain holes in the
+aircraft fabric. Usually made of aluminum or plastic, they
+are glued or doped into place on the fabric surface. Once
+secured, a hole is created in the fabric through the center of
+the grommet. Often, this is done with a hot soldering pencil
+that also heat seals the fabric edge to prevent raveling.
+Seaplane grommets have a shield over the drain hole to
+prevent splashed water from entering the interior of the
+covered structure and to assist in siphoning out any water
+from within. [Figure 3-7] Drain holes using these grommets
+must be made before the grommets are put in place. Note that
+some drain holes do not require grommets if they are made
+through two layers of fabric.
+
+Inspection Rings
+The structure underneath an aircraft covering must be
+inspected periodically. To facilitate this in fabric-covered
+aircraft, inspection rings are glued or doped to the fabric.
+They provide a stable rim around an area of fabric that can be
+cut to allow viewing of the structure underneath. The fabric
+remains uncut until an inspection is desired. The rings are
+typically plastic or aluminum with an approximately threeinch inside diameter. Spring clip metal panel covers can be
+fitted to close the area once the fabric inside the inspection
+ring has been cut for access. [Figure 3-8] The location
+of the inspection rings are specified by the manufacturer.
+Additional rings are sometimes added to permit access to
+important areas that may not have been fitted originally with
+inspection access.
+
+The airframe structure of a fabric covered aircraft must be
+cleaned, inspected, and prepared before the fabric covering
+process begins. The final preparation procedure involves
+priming the structure with a treatment that works with the
+adhesive and first coats of fabric sealant that are to be utilized.
+Each STC specifies which primers, or if a wood structure,
+which varnishes are suitable. Most often, two-part epoxy
+primers are used on metal structure and two-part epoxy
+varnishes are used on wood structure. Utilize the primer
+specified by the manufacturer’s or STC’s instructions.
+
+Fabric Cement
+Modern fabric covering systems utilize special fabric cement
+to attach the fabric to the airframe. There are various types of
+cement. [Figure 3-9] In addition to good adhesion qualities,
+flexibility, and long life, fabric cements must be compatible
+with the primer and the fabric sealer that are applied before
+and after the cement.
+
+Fabric Sealer
+Fabric sealer surrounds the fibers in the fabric with a
+protective coating to provide adhesion and keep out dirt and
+moisture. The sealer is the first coat applied to the polyester
+fabric after it is attached to the airframe and heat shrunk to
+fit snugly. Dope-based fabric coating systems utilize nontautening nitrate dope as the primary fabric sealant. The
+application of tautening dope may cause the fabric to become
+too taut resulting in excess stress on the airframe that could
+damage it. Nondope coating systems use proprietary sealers
+that are also nontautening. [Figure 3-9]
+
+Fillers
+After the fabric sealer is applied, a filler is used. It is sprayed
+on in a number of cross coats as required by the manufacturer
+or the fabric covering process STC. The filler contains
+solids or chemicals that are included to block UV light from
+reaching the fabric. Proper fill coating is critical because
+UV light is the single most destructive element that causes
+polyester fabric to deteriorate. Dope-based processes use
+butyrate dope fillers while other processes have their own
+proprietary formulas. When fillers and sealers are combined,
+they are known as fabric primers. Aluminum pastes and
+powders, formerly added to butyrate dope to provide the
+UV protection, have been replaced by premixed formulas.
+
+Topcoats
+
+Figure 3-8. Inspection rings and an inspection cover.
+
+Once the aircraft fabric has been installed, sealed, and fillcoat protected, finishing or topcoats are applied to give
+the aircraft its final appearance. Colored butyrate dope is
+common in dope-based processes, but various polyurethane
+topcoats are also available. It is important to use the topcoat
+3-6
+
+===== PDF PAGE 145 =====
+Aircraft Covering Systems
+APPROVED PROPRIETARY PRODUCT NAME
+
+Covering System
+Air-Tech
+
+STC #
+SA7965SW
+
+Allowable Fabrics
+Ceconite™
+Poly-Fiber™
+Superflite™
+
+Base
+Urethane
+
+Cement
+UA-55
+
+Water
+
+Filler
+
+UV Block
+
+Topcoats
+
+PFU 1020
+PFU 1030
+
+PFU 1020
+PFU 1030
+
+CHSM Color
+Coat
+
+PFUW 1050
+
+PFUW 1050
+
+Ceconite™/
+Randolph System
+
+SA4503NM
+
+Ceconite™
+
+Dope
+
+New Super
+Seam
+
+Nitrate Dope
+
+Rand-O-Fill
+
+Colored
+Butyrate Dope
+Ranthane
+Polyurethane
+
+Stits/Poly-Fiber™
+
+SA1008WE
+
+Poly-Fiber™
+
+Vinyl
+
+Poly-tak
+
+Poly-brush
+
+Poly-spray
+
+Vinyl Poly-tone,
+Aero-Thane, or
+Ranthane
+Polyurethane
+
+Stewart System
+
+SA01734SE
+
+Ceconite™
+Poly-Fiber™
+
+Water-borne
+
+EkoBond
+
+EkoFill
+
+EkoFIll
+
+EkoPoly
+
+Superflite™
+• System1
+• System VI
+
+SA00478CH
+and others
+
+Superflite™
+101,102
+Superflite™
+101,102
+
+Dope
+
+U-500
+
+Dacproofer
+
+SrayFil
+
+Urethane
+
+U-500
+
+SF6500
+
+SF6500
+
+Tinted Butyrate
+Dope
+Superflite™
+CAB
+
+Figure 3-9. Examples of FAA-approved fabric covering processes.
+
+above the ideal temperature for a product. It also can
+be used to prevent blushing of a dope finish when high
+humidity conditions exist.
+
+products and procedures specified in the applicable STC to
+complete an airworthy fabric re-covering job.
+The use of various additives is common at different stages
+when utilizing the above products. The following is a short
+list of additional products that facilitate the proper application
+of the fabric coatings. Note again that only products approved
+under a particular STC can be used. Substitution of similar
+products, even though they perform the same basic function,
+is not allowed.
+•
+
+A catalyst accelerates a chemical reaction. Catalysts
+are specifically designed for each product with which
+they are mixed. They are commonly used with epoxies
+and polyurethanes.
+
+•
+
+A thinner is a solvent or mixture of solvents added
+to a product to give it the proper consistency for
+application, such as when spraying or brushing.
+
+•
+
+A retarder is added to a product to slow drying time.
+Used mostly in dope processes and topcoats, a retarder
+allow more time for a sprayed coating to flow and
+level, resulting in a deeper, glossier finish. It is used
+when the working temperature is elevated slightly
+
+•
+
+An accelerators contains solvents that speed up the
+drying time of the product with which it is mixed.
+It is typically used when the application working
+temperature is below that of the ideal working
+temperature. It can also be used for faster drying when
+airborne contaminants threaten a coating finish.
+
+•
+
+Rejuvenator, used on dope finishes only, contains
+solvents that soften coatings and allow them to flow
+slightly. Rejuvenator also contains fresh plasticizers
+that mix into the original coatings. This increases the
+overall flexibility and life of the coatings.
+
+•
+
+Fungicide and mildewicide additives are important
+for organic fabric covered aircraft because fabrics,
+such as cotton and linen, are hosts for fungus and
+mildew. Since fungus and mildew are not concerns
+when using polyester fabric, these additives are not
+required. Modern coating formulas contain premixed
+anti-fungal agents, providing sufficient insurance
+against the problem of fungus or mildew.
+3-7
+
+===== PDF PAGE 146 =====
+Available Covering Processes
+The covering processes that utilize polyester fabric are the
+primary focus of this chapter. Examples of FAA-approved
+aircraft covering processes are listed in Figure 3-9. The
+processes can be distinguished by the chemical nature of the
+glue and coatings that are used. A dope-based covering process
+has been refined out of the cotton fabric era, with excellent
+results on polyester fabric. In particular, plasticizers added
+to the nitrate and butyrate dopes minimize the shrinking and
+tautening effects of the dope, establish flexibility, and allow
+esthetically pleasing tinted butyrate dope finishes that last
+indefinitely. Durable polyurethane-based processes integrate
+well with durable polyurethane topcoat finishes. Vinyl is the
+key ingredient in the popular Poly-Fiber covering system. Air
+Tech uses an acetone thinned polyurethane compatible system.
+The most recent entry into the covering systems market is the
+Stewart Finishing System that uses waterborne technology
+to apply polyurethane coatings to the fabric. The glue used
+in the system is water-based and nonvolatile. The Stewart
+Finishing System is Environmental Protection Agency (EPA)
+compliant and STC approved. Both the Stewart and Air Tech
+systems operate with any of the approved polyester fabrics
+as stated in their covering system STCs.
+All the modern fabric covering systems listed in Figure 3-9
+result in a polyester fabric covered aircraft with an indefinite
+service life. Individual preferences exist for working with the
+different approved processes. A description of basic covering
+procedures and techniques common to most of these systems
+follows later in this chapter.
+Ceconite™, Polyfiber™, and Superflight™ are STC-approved
+fabrics with processes used to install polyester fabric
+coverings. Two companies that do not manufacturer their own
+fabric have gained STC approval for covering accessories
+and procedures to be used with these approved fabrics. The
+STCs specify the fabrics and the proprietary materials that are
+required to legally complete the re-covering job.
+The aircraft fabric covering process is a three-step process.
+First, select an approved fabric. Second, follow the applicable
+STC steps to attach the fabric to the airframe and to protect it
+from the elements. Third, apply the approved topcoat to give
+the aircraft its color scheme and final appearance.
+Although Grade-A cotton can be used on all aircraft originally
+certificated to be covered with this material, approved aircraft
+cotton fabric is no longer available. Additionally, due to
+the shortcomings of cotton fabric coverings, most of these
+aircraft have been re-covered with polyester fabric. In the rare
+instance the technician encounters a cotton fabric covered
+aircraft that is still airworthy, inspection and repair procedures
+
+specified in AC 43.13-1, Chapter 2, Fabric Covering, should
+be followed.
+
+Determining Fabric Condition—Repair or
+Recover?
+Re-covering an aircraft with fabric is a major repair and
+should only be undertaken when necessary. Often a repair
+to the present fabric is sufficient to keep the aircraft
+airworthy. The original manufacturer’s recommendations
+or the covering process STC should be consulted for the
+type of repair required for the damage incurred by the fabric
+covering. AC 43.13-1 also gives guidelines and acceptable
+practices for repairing cotton fabric, specifically when
+stitching is concerned.
+Often a large area that needs repair is judged in reference to
+the overall remaining lifespan of the fabric on the aircraft. For
+example, if the fabric has reached the limit of its durability, it
+is better to re-cover the entire aircraft than to replace a large
+damaged area when the remainder of the aircraft would soon
+need to be re-covered.
+On aircraft with dope-based covering systems, continued
+shrinkage of the dope can cause the fabric to become too tight.
+Overly tight fabric may require the aircraft to be re-covered
+rather than repaired because excess tension on fabric can
+cause airframe structural damage. Loose fabric flaps in the
+wind during flight, affecting weight distribution and unduly
+stressing the airframe. It may also need to be replaced because
+of damage to the airframe.
+Another reason to re-cover rather than repair occurs when
+dope coatings on fabric develop cracks. These cracks could
+expose the fabric beneath to the elements that can weaken
+it. Close observation and field testing must be used to
+determine if the fabrics are airworthy. If not, the aircraft
+must be re-covered. If the fabric is airworthy and no other
+problems exist, a rejuvenator can be used per manufacturer’s
+instructions. This product is usually sprayed on and softens
+the coatings with very powerful solvents. Plasticizers in the
+rejuvenator become part of the film that fills in the cracks.
+After the rejuvenator dries, additional coats of aluminumpigmented dope must be added and then final topcoats applied
+to finish the job. While laborious, rejuvenating a dope finish
+over strong fabric can save a great deal of time and money.
+Polyurethane-based finishes cannot be rejuvenated.
+
+Fabric Strength
+Deterioration of the strength of the present fabric covering is
+the most common reason to re-cover an aircraft. The strength
+of fabric coverings must be determined at every 100-hour
+and annual inspection. Minimum fabric breaking strength is
+used to determine if an aircraft requires re-covering.
+3-8
+
+===== PDF PAGE 147 =====
+Fabric strength is a major factor in the airworthiness of
+an aircraft. Fabric is considered to be airworthy until it
+deteriorates to a breaking strength less than 70 percent of
+the strength of the new fabric required for the aircraft. For
+example, if an aircraft was certificated with Grade-A cotton
+fabric that has a new breaking strength of 80 pounds, it
+becomes unairworthy when the fabric strength falls to 56
+pounds, which is 70 percent of 80 pounds. If polyester fabric,
+which has a higher new breaking strength, is used to re-cover
+this same aircraft, it would also need to exceed 56 pounds
+breaking strength to remain airworthy.
+In general, an aircraft is certified with a certain fabric based
+on its wing loading and its never exceed speed (VNE). The
+higher the wing loading and VNE, the stronger the fabric must
+be. On aircraft with wing loading of 9 pounds per square foot
+and over, or a VNE of 160 miles per hour (mph) or higher,
+fabric equaling or exceeding the strength of Grade A cotton is
+required. This means the new fabric breaking strength must be
+at least 80 pounds and the minimum fabric breaking strength
+at which the aircraft becomes unairworthy is 56 pounds.
+On aircraft with wing loading of 9 pounds per square foot or
+less, or a VNE of 160 mph or less, fabric equaling or exceeding
+the strength of intermediate grade cotton is required. This
+means the new fabric breaking strength must be at least 65
+pounds and the minimum fabric breaking strength at which
+the aircraft becomes unairworthy is 46 pounds.
+Lighter weight fabric may be found to have been certified on
+gliders or sailplanes and may be used on many uncertificated
+aircraft or aircraft in the Light Sport Aircraft (LSA) category.
+For aircraft with wing loading less than 8 pounds per square
+foot or less, or VNE of 135 mph or less, the fabric is considered
+unairworthy when the breaking strength has deteriorated to
+below 35 pounds (new minimum strength of 50 pounds).
+Figure 3-10 summarizes these parameters.
+
+How Fabric Breaking Strength is Determined
+Manufacturer’s instructions should always be consulted
+first for fabric strength inspection methodology. These
+instructions are approved data and may not require removal
+of a test strip to determine airworthiness of the fabric. In some
+cases, the manufacturer’s information does not include any
+fabric inspection methods. It may refer the IA to AC 43.131, Chapter 2, Fabric Covering, which contains the approved
+FAA test strip method for breaking strength.
+The test strip method for the breaking strength of aircraft
+covering fabrics uses standards published by the American
+Society for Testing and Materials (ASTM) for the testing
+of various materials. Breaking strength is determined by
+cutting a 1¼ inch by 4–6 inch strip of fabric from the aircraft
+covering. This sample should be taken from an area that is
+exposed to the elements—usually an upper surface. It is also
+wise to take the sample from an area that has a dark colored
+finish since this has absorbed more of the sun’s UV rays
+and degraded faster. All coatings are then removed and the
+edges raveled to leave a 1-inch width. One end of the strip is
+clamped into a secured clamp and the other end is clamped
+such that a suitable container may be suspended from it.
+Weight is added to the container until the fabric breaks. The
+breaking strength of the fabric is equal to the weight of the
+lower clamp, the container, and the weight added to it. If the
+breaking strength is still in question, a sample should be sent
+to a qualified testing laboratory and breaking strength tests
+made in accordance with ASTM publication D5035.
+Note that the fabric test strip must have all coatings removed
+from it for the test. Soaking and cleaning the test strip in
+methyl ethyl ketone (MEK) usually removes all the coatings.
+Properly installed and maintained polyester fabric should
+give years of service before appreciable fabric strength
+degradation occurs. Aircraft owners often prefer not to
+have test strips cut out of the fabric, especially when the
+aircraft or the fabric covering is relatively new, because
+removal of a test strip damages the integrity of an airworthy
+
+Fabric Performance Criteria
+IF YOUR PERFORMANCE IS. . .
+
+FABRIC STRENGTH MUST BE. . .
+New Breaking
+Strength
+
+Minimum Breaking
+Strength
+
+≥ Grade A
+
+> 80 lb
+
+> 56
+
+< 160 mph
+
+≥ Intermediate
+
+> 65 lb
+
+> 46
+
+< 135 mph
+
+≥Lightweight
+
+> 50 lb
+
+> 35
+
+Loading
+
+VNE Speed
+
+Type
+
+> 9 lb/sq ft
+
+> 160 mph
+
+< 9 lb/sq ft
+< 8 lb/sq ft
+
+Figure 3-10. Aircraft performance affects fabric selection.
+
+3-9
+
+===== PDF PAGE 148 =====
+component if the fabric passes. The test strip area then must
+be repaired, costing time and money. To avoid cutting a
+strip out of airworthy fabric, the IA makes a decision based
+on knowledge, experience, and available nondestructive
+techniques as to whether removal of a test strip is warranted
+to ensure that the aircraft can be returned to service.
+An aircraft made airworthy under an STC is subject to the
+instructions for continued airworthiness in that STC. Most
+STCs refer to AC 43.13-1 for inspection methodology. PolyFiber™ and Ceconite™ re-covering process STCs contain their
+own instructions and techniques for determining fabric strength
+and airworthiness. Therefore, an aircraft covered under those
+STCs may be inspected in accordance with this information.
+In most cases, the aircraft can be approved for return to service
+without cutting a strip from the fabric covering.
+The procedures in the Poly-Fiber™ and Ceconite™ STCs
+outlined in the following paragraphs are useful when inspecting
+any fabric covered aircraft as they add to the information
+gathered by the IA to determine the condition of the fabric.
+However, following these procedures alone on aircraft not
+re-covered under these STCs does not make the aircraft
+airworthy. The IA must add their own knowledge, experience,
+and judgment to make a final determination of the strength of
+the fabric and whether it is airworthy.
+Exposure to UV radiation appreciably reduces the strength of
+polyester fabric and forms the basis of the Poly-Fiber™ and
+Ceconite™ fabric evaluation process. All approved covering
+systems utilize fill coats applied to the fabric to protect it
+from UV. If installed according to the STC, these coatings
+should be sufficient to protect the fabric from the sun and
+should last indefinitely. Therefore, most of the evaluation
+of the strength of the fabric is actually an evaluation of the
+condition of its protective coating(s).
+Upon a close visual inspection, the fabric coating(s) should
+be consistent, contain no cracks, and be flexible, not brittle.
+Pushing hard against the fabric with a knuckle should not
+damage the coating(s). It is recommended the inspector
+check in several areas, especially those most exposed to the
+sun. Coatings that pass this test can move to a simple test
+that determines whether or not UV light is passing through
+the coatings.
+This test is based on the assumption that if visible light
+passes through the fabric coatings, then UV light can also. To
+verify whether or not visible light passes through the fabric
+coating, remove an inspection panel from the wing, fuselage,
+or empennage. Have someone hold an illuminated 60-watt
+lamp one foot away from the exterior of the fabric. No light
+should be visible through the fabric. If no light is visible, the
+
+fabric has not been weakened by UV rays and can be assumed
+to be airworthy. There is no need to perform the fabric strip
+strength test. If light is visible through the coatings, further
+investigation is required.
+Fabric Testing Devices
+Mechanical devices used to test fabric by pressing against
+or piercing the finished fabric are not FAA approved and
+are used at the discretion of the FAA-certificated mechanic
+to form an opinion on the general fabric condition. Punch
+test accuracy depends on the individual device calibration,
+total coating thickness, brittleness, and types of coatings
+and fabric. If the fabric tests in the lower breaking strength
+range with the mechanical punch tester or if the overall
+fabric cover conditions are poor, then more accurate field
+tests may be made.
+The test should be performed on exposed fabric where there
+is a crack or chip in the coatings. If there is no crack or chip,
+coatings should be removed to expose the fabric wherever
+the test is to be done.
+The Maule punch tester, a spring-loaded device with its
+scale calibrated in breaking strength, tests fabric strength
+by pressing against it while the fabric is still on the aircraft.
+It roughly equates strength in pounds per square inch (psi)
+of resistance to breaking strength. The tester is pushed
+squarely against the fabric until the scale reads the amount
+of maximum allowable degradation. If the tester does not
+puncture the fabric, it may be considered airworthy. Punctures
+near the breaking strength should be followed with further
+testing, specifically the strip breaking strength test described
+above. Usually, a puncture indicates the fabric is in need of
+replacement.
+A second type of punch tester, the Seyboth, is not as popular
+as the Maule because it punctures a small hole in the fabric
+when the mechanic pushes the shoulder of the testing unit
+against the fabric. A pin with a color-coded calibrated scale
+protrudes from the top of the tester and the mechanic reads
+this scale to determine fabric strength. Since this device
+requires a repair regardless of the strength of the fabric
+indicated, it is not widely used.
+Seyboth and Maule fabric strength testers designed for
+cotton- and linen-covered aircraft, not to be used on modern
+Dacron fabrics. Mechanical devices, combined with other
+information and experience, help the FAA-certificated
+mechanic judge the strength of the fabric. [Figure 3-11]
+
+General Fabric Covering Process
+It is required to have an IA involved in the process of recovering a fabric aircraft because re-covering is a major repair
+3-10
+
+===== PDF PAGE 149 =====
+Maule tester
+25
+40
+50
+60
+70
+
+35
+45
+55
+65
+
+Calibrated scale
+
+30
+
+75
+
+80
+
+Seyboth or punch tester
+
+Red
+Yellow
+Green
+
+M
+A
+U
+L
+E
+
+Fabric
+
+Fabric
+
+Figure 3-11. Seyboth and Maule fabric strength testers.
+
+or major alteration. Signatures are required on FAA Form
+337 and in the aircraft logbook. To ensure work progresses
+as required, the IA should be involved from the beginning,
+as well as at various stages throughout the process.
+This section describes steps common to various STC and
+manufacturer covering processes, as well as the differences
+of some processes. To aid in proper performance of fabric
+covering and repair procedures, STC holders produce
+illustrated, step-by-step instructional manuals and videos that
+demonstrate the correct covering procedures. These training
+aids are invaluable to the inexperienced technician.
+Since modern fabric coverings last indefinitely, a rare
+opportunity to inspect the aircraft exists during the recovering process. Inspectors and owner-operators should
+use this opportunity to perform a thorough inspection of the
+aircraft before new fabric is installed.
+The method of fabric attachment should be identical, as far as
+strength and reliability are concerned, to the method used by
+the manufacturer of the aircraft being recovered or repaired.
+Carefully remove the old fabric from the airframe, noting the
+location of inspection covers, drain grommets, and method
+of attachment. Either the envelope method or blanket method
+of fabric covering is acceptable, but a choice must be made
+prior to beginning the re-covering process.
+Blanket Method vs. Envelope Method
+In the blanket method of re-covering, multiple flat sections
+of fabric are trimmed and attached to the airframe. Certified
+greige polyester fabric for covering an aircraft can be up to
+70 inches in width and used as it comes off the bolt. Each
+aircraft must be considered individually to determine the
+
+Figure 3-12. Laying out fabric during a blanket method re-covering
+
+job.
+
+size and layout of blankets needed to cover it. A single
+blanket cut for each small surface (i.e., stabilizers and control
+surfaces) is common. Wings may require two blankets that
+overlap. Fuselages are covered with multiple blankets that
+span between major structural members, often with a single
+blanket for the bottom. Very large wings may require more
+than two blankets of fabric to cover the entire top and bottom
+surfaces. In all cases, the fabric is adhered to the airframe
+using the approved adhesives, following specific rules for the
+covering process being employed. [Figure 3-12]
+An alternative method of re-covering, the envelope method,
+saves time by using precut and pre-sewn envelopes of fabric to
+cover the aircraft. The envelopes must be sewn with approved
+machine sewing thread, edge distance, fabric fold, etc., such
+as those specified in AC 43.13-1 or an STC. Patterns are
+made and fabric is cut and stitched so that each major surface,
+including the fuselage and wings, can be covered with a single,
+close-fitting envelope. Since envelopes are cut to fit, they are
+slid into position, oriented with the seams in the proper place,
+and attached with adhesive to the airframe. Envelope seams
+are usually located over airframe structure in inconspicuous
+places, such as the trailing edge structures and the very top and
+bottom of the fuselage, depending on airframe construction.
+Follow the manufacturer’s or STC’s instructions for proper
+location of the sewn seams of the envelope when using this
+method. [Figure 3-13]
+Preparation for Fabric Covering Work
+Proper preparation for re-covering a fabric aircraft is
+essential. First, assemble the materials and tools required to
+complete the job. The holder of the STC usually supplies a
+materials and tools list either separately or in the STC manual.
+Control of temperature, humidity, and ventilation is needed
+in the work environment. If ideal environmental conditions
+cannot be met, additives are available that compensate for
+this for most re-covering products.
+Rotating work stands for the fuselage and wings provide
+3-11
+
+===== PDF PAGE 150 =====
+prevent static electricity build-up may be required. All fabric
+re-covering processes also involve multiple coats of various
+products that are sprayed onto the fabric surface. Use of a
+high-volume, low-pressure (HVLP) sprayer is recommended.
+Good ventilation is needed for all of the processes.
+
+Figure 3-13. A custom-fit presewn fabric envelope is slid into
+
+position over a fuselage for the envelope method of fabric covering.
+Other than fitting, most steps in the covering process are the same
+as with the blanket covering method.
+
+easy, alternating access to the upper and lower surfaces
+while the job is in progress. [Figure 3-14] They can be
+used with sawhorses or sawhorses can be used alone to
+support the aircraft structure while working. A workbench
+or table, as well as a rolling cart and storage cabinet, are also
+recommended. Figure 3-15 shows a well conceived fabric
+covering workshop. A paint spray booth for sprayed-on
+coatings and space to store components awaiting work is
+also recommended.
+Many of the substances used in most re-covering processes
+are highly toxic. Proper protection must be used to avoid
+serious short- and long-term adverse health effects. Eye
+protection, a proper respirator, and skin protection are
+vital. As mentioned in the beginning of this chapter, nitrate
+dope is very flammable. Proper ventilation and a rated fire
+extinguisher should be on hand when working with this and
+other covering process materials. Grounding of work to
+
+Rotatable wood stand and sawhorse
+
+Removal of Old Fabric Coverings
+Removal of the old covering is the first step in replacing
+an aircraft fabric covering. Cut away the old fabric from
+the airframe with razor blades or utility knife. Care should
+be taken to ensure that no damage is done to the airframe.
+[Figure 3-16] To use the old covering for templates in
+transferring the location of inspection panels, cable guides,
+and other features to the new covering, the old covering
+should be removed in large sections. NOTE: any rib stitching
+fasteners, if used to attach the fabric to the structure, should
+be removed before the fabric is pulled free of the airframe. If
+fasteners are left in place, damage to the structure may occur
+during fabric removal.
+Preparation of the Airframe Before Covering
+Once the old fabric has been removed, the exposed airframe
+structure must be thoroughly cleaned and inspected. The
+IA collaborating on the job should be involved in this step
+of the process. Details of the inspection should follow the
+manufacturer’s guidelines, the STC, or AC 43.13-1. All
+of the old adhesive must be completely removed from the
+airframe with solvent, such as MEK. A thorough inspection
+must be done and various components may be selected to be
+removed for cleaning, inspection, and testing. Any repairs
+that are required, including the removal and treatment of all
+corrosion, must be done at this time. If the airframe is steel
+tubing, many technicians take the opportunity to grit blast
+the entire airframe at this stage.
+The leading edge of a wing is a critical area where airflow
+
+Rotating stand and sawhorse
+
+Figure 3-14. Rotating stands and sawhorses facilitate easy access to top and bottom surfaces during the fabric covering process.
+
+3-12
+
+===== PDF PAGE 151 =====
+Work bench
+
+Hazardous
+material storage
+
+Tool
+cart
+
+Exhaust fan
+
+Work area with rotating stands
+
+Shelving
+
+Storage area
+Fabric rack
+
+Thermometer
+FNCN
+
++
+
+VOL BATT
+PWR
+
+−
+
+SEL
+
+Wash basin/water
+emergency supplies
+
+Fire extinguisher
+
+Figure 3-15. Some components of a work area for covering an aircraft with fabric.
+
+diverges and begins its laminar flow over the wing’s surfaces,
+which results in the generation of lift. It is beneficial to have
+a smooth, regular surface in this area. Plywood leading edges
+must be sanded until smooth, bare wood is exposed. If oil
+or grease spots exist, they must be cleaned with naphtha or
+other specified cleaners. If there are any chips, indentations,
+or irregularities, approved filler may be spread into these
+areas and sanded smooth. The entire leading edge should be
+cleaned before beginning the fabric covering process.
+To obtain a smooth finish on fabric-covered leading edges
+of aluminum wings, a sheet of felt or polyester padding may
+be applied before the fabric is installed. This should only be
+done with the material specified in the STC under which
+
+Carefully cut away the fabric.
+
+Gently roll the fabric back as the cut is made.
+
+Figure 3-16. Old fabric coverings are cut off in large pieces to
+preserve them as templates for locating various airframe features.
+Sharp blades and care must be used to avoid damaging the
+structure.
+
+the technician is working. The approved padding ensures
+compatibility with the adhesives and first coatings of the
+covering process. When a leading edge pad is used, check the
+STC process instructions for permission to make a cemented
+fabric seam over the padding. [Figure 3-17]
+When completely cleaned, inspected, and repaired, an
+approved primer, or varnish if it is a wood structure, should
+be applied to the airframe. This step is sometimes referred
+to as dope proofing. Exposed aluminum must first be acid
+etched. Use the product(s) specified by the manufacturer
+or in the STC to prepare the metal before priming. Two
+part epoxy primers and varnishes, which are not affected
+by the fabric adhesive and subsequent coatings, are usually
+specified. One part primers, such as zinc chromate and spar
+varnish, are typically not acceptable. The chemicals in the
+adhesives dissolve the primers, and adhesion of the fabric
+to the airframe is lost.
+Sharp edges, metal seams, the heads of rivets, and any
+other feature on the aircraft structure that might cut or wear
+through the fabric should be covered with anti-chafe tape. As
+described above, this cloth sticky-back tape is approved and
+should not be substituted with masking or any other kind of
+tape. Sometimes, rib cap strips need to have anti-chafe tape
+applied when the edges are not rounded over. [Figure 3-18]
+Inter-rib bracing must also be accomplished before the fabric
+is installed. It normally does not have an adhesive attached to
+it and is wrapped only once around each rib. The single wrap
+3-13
+
+===== PDF PAGE 152 =====
+Figure 3-17. The use of specified felt or padding over the wing
+leading edges before the fabric is installed results in a smooth
+regular surface.
+
+Figure 3-18. Anti-chafe tape is applied to all features that might
+
+cut or wear through the fabric.
+
+around each rib is enough to hold the ribs in place during
+the covering process but allows small movements during the
+fabric shrinking process. [Figure 3-19]
+Attaching Polyester Fabric to the Airframe
+Inexperienced technicians are encouraged to construct a
+test panel upon which they can practice with the fabric and
+various substances and techniques to be used on the aircraft.
+It is often suggested to cover smaller surfaces first, such as
+the empennage and control surfaces. Mistakes on these can
+be corrected and are less costly if they occur. The techniques
+employed for all surfaces, including the wings and fuselage,
+are basically the same. Once dexterity has been established,
+the order in which one proceeds is often a personal choice.
+When the airframe is primed and ready for fabric installation,
+it must receive a final inspection by an A&P with IA.
+When approved, attachment of the fabric may begin. The
+manufacturer’s or STC’s instructions must be followed
+without deviation for the job to be airworthy. The following
+are the general steps taken. Each approved process has its
+own nuances.
+
+Seams
+During installation, the fabric is overlapped and seamed
+
+Figure 3-19. Inter-rib bracing holds the ribs in place during the
+
+re-covering process.
+
+3-14
+
+===== PDF PAGE 153 =====
+Fabric overlap covering a low wing aircraft
+Top fabric
+2" typical overlap on the leading edge
+
+Bottom fabric
+1" typical overlap on the trailing edge
+Fabric overlap covering a high wing aircraft
+2" typical overlap on the leading edge
+
+Top fabric
+
+Bottom fabric
+
+1" typical overlap on the trailing edge
+
+Figure 3-20. For appearance, fabric can be overlapped differently on high wing and low wing aircraft.
+
+together. Primary concerns for fabric seams are strength,
+elasticity, durability, and good appearance. Whether using the
+blanket method or envelope method, position all fabric seams
+over airframe structure to which the fabric is to be adhered
+during the covering process, whenever possible. Unlike the
+blanket method, fabric seam overlap is predetermined in the
+envelope method. Seams sewn to the specifications in AC
+43.13-1, the STC under which the work is being performed,
+or the manufacturer’s instructions should perform adequately.
+Most covering procedures for polyester fabric rely on doped
+or glued seams as opposed to sewn seams. They are simple
+and easy to make and provide excellent strength, elasticity,
+durability, and appearance. When using the blanket method,
+seam overlap is specified in the covering instructions and
+the FAA-certificated A&P mechanic must adhere to these
+specifications. Typically, a minimum of two to four inches
+of fabric overlap seam is required where ends of fabric are
+joined in areas of critical airflow, such as the leading edge of
+a wing. One to two inches of overlap is often the minimum
+in other areas.
+When using the blanket method, options exist for deciding
+where to overlap the fabric for coverage. Function and the
+final appearance of the covering job should be considered.
+For example, fabric seams made on the wing’s top surface
+of a high wing aircraft are not visible when approaching the
+aircraft. Seams on low wing aircraft and many horizontal
+stabilizers are usually made on the bottom of the wing for
+the same reason. [Figure 3-20]
+
+Fabric Seams
+Seams parallel to the line of flight are preferable; however,
+spanwise seams are acceptable.
+Sewn Seams
+
+Machine-sewn seams should be double stitched using any
+of the styles illustrated in Figure 3-21 A, B, C, or D. A
+machine-sewn seam used to close an envelope at a wingtip,
+wing trailing edge, empennage and control surface trailing
+edge, and a fuselage longeron may be made with a single
+stitch when the seam will be positioned over a structure.
+[Figure 3-21E] The envelope size should accommodate
+fittings or other small protrusions with minimum excess for
+installation. Thick or protruding leading edge sewn seams
+should be avoided on thin airfoils with a sharp leading edge
+radius because they may act as a stall strip.
+Hand sew, with plain overthrow or baseball stitches at a
+minimum of four stitches per inch, or permanent tacking,
+to the point where uncut fabric or a machine-sewn seam
+is reached. Lock hand sewing at a maximum of 10 stitch
+intervals with a double half hitch, and tie off the end stitch
+with a double half hitch. At the point where the hand-sewing
+or permanent tacking is necessary, cut the fabric so that it
+can be doubled under a minimum of 3/8 inch before sewing
+or permanent tacking is performed.
+After hand sewing is complete, any temporary tacks used
+to secure the fabric over wood structures may be removed.
+Cover a sewn spanwise seam on a wing’s leading edge with
+3-15
+
+===== PDF PAGE 154 =====
+3/8"
+
+1/16"
+
+1/16"
+
+1/16"
+
+1/4"
+
+1/16"
+
+stitching
+
+stitching
+
+A. Plain overlap seam, straight edge
+
+B. French fell seam
+step 1
+
+3/8"
+
+1/16"
+
+1/16"
+
+1/16"
+
+step 2
+
+3/8"
+
+1/16"
+
+stitching
+
+stitching
+
+C. Folded fell seam
+
+D. Modified folded fell seam sewn in two steps
+1/4"
+
+stitching
+
+E. Single stitch seam to close an envelope when the stitch
+will be located over a structure
+Figure 3-21. Fabric Seams.
+
+a minimum 4-inch wide pinked-edged surface tape with the
+tape centered on the seam.
+Cover a spanwise-sewn seam at the wing trailing edge with
+pinked-edge surface tape that is at least 3 inches wide. For
+aircraft with never-exceed speeds in excess of 200 mph, cut
+V notches at least 1 inch in depth and 1/4 inch in width in
+both edges of the surface tape when used to cover spanwise
+seams on trailing edges of control surfaces. Space notches at
+intervals not exceeding 6 inches. On tape less than 3 inches
+wide, the notches should be 1/3 the tape width. In the event
+the surface tape begins to separate because of poor adhesion
+or other causes, the tape will tear at a notched section, thus
+preventing progressive loosening of the entire length of the
+tape which could seriously affect the controllability of the
+aircraft. A loose tape acts as a trim tab only on a movable
+surface. It becomes a spoiler on a fixed surface and has no
+effect at the trailing edge other than drag.
+
+Make spanwise-sewn seams on the wing’s upper or lower
+surfaces in a manner that will minimize any protrusions.
+Cover the seams with finishing tape at least 3 inches wide,
+centering the tape on the seam.
+Sewn seams parallel to the line of flight (chordwise) may be
+located over ribs. However, careful attention must be given to
+avoid damage to the seam threads by rib lace needles, screws,
+rivets, or wire clips that are used to attach the fabric to the
+rib. Cover chordwise seams with a finishing tape at least 3
+inches wide with the tape centered on the seam.
+Doped Seams
+
+For an overlapped and doped span-wise seam on a wing’s
+leading edge, overlap the fabric at least 4 inches and cover
+with finishing tape at least 4 inches wide, with the tape
+centered at the outside edge of the overlap seam.
+3-16
+

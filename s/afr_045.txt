@@ -1,0 +1,1734 @@
+FAA-H-8083-31B Airframe Handbook, chapter 12 (Hydraulic & Pneumatic Power Systems), PDF pages 680-695
+
+===== PDF PAGE 680 =====
+Chapter 12
+
+Hydraulic & Pneumatic Power Systems
+Aircraft Hydraulic Systems
+The word “hydraulics” is based on the Greek word for water
+and originally meant the study of the physical behavior of
+water at rest and in motion. Today, the meaning has been
+expanded to include the physical behavior of all liquids,
+including hydraulic fluid. Hydraulic systems are not new
+to aviation. Early aircraft had hydraulic brake systems. As
+aircraft became more sophisticated, newer systems with
+hydraulic power were developed.
+Hydraulic systems in aircraft provide a means for the
+operation of aircraft components. The operation of landing
+gear, flaps, flight control surfaces, and brakes is largely
+accomplished with hydraulic power systems. Hydraulic
+system complexity varies from small aircraft that require
+fluid only for manual operation of the wheel brakes to large
+transport aircraft where the systems are large and complex. To
+achieve the necessary redundancy and reliability, the system
+may consist of several subsystems. Each subsystem has a
+power generating device (pump), reservoir, accumulator, heat
+exchanger, filtering system, etc. System operating pressure
+may vary from a couple hundred pounds per square inch (psi)
+in small aircraft and rotorcraft to 5,000 psi in large transports.
+Hydraulic systems have many advantages as power sources
+for operating various aircraft units; they combine the
+advantages of light weight, ease of installation, simplification
+of inspection, and minimum maintenance requirements.
+Hydraulic operations are also almost 100 percent efficient,
+with only negligible loss due to fluid friction.
+
+Hydraulic Fluid
+Hydraulic system liquids are used primarily to transmit and
+distribute forces to various units to be actuated. Liquids
+are able to do this because they are almost incompressible.
+Pascal’s Law states that pressure applied to any part of a
+confined liquid is transmitted with undiminished intensity
+to every other part. Thus, if a number of passages exist in a
+system, pressure can be distributed through all of them by
+means of the liquid.
+Manufacturers of hydraulic devices usually specify the type
+of liquid best suited for use with their equipment in view of
+the working conditions, the service required, temperatures
+
+expected inside and outside the systems, pressures the liquid
+must withstand, the possibilities of corrosion, and other
+conditions that must be considered. If incompressibility
+and fluidity were the only qualities required, any liquid that
+is not too thick could be used in a hydraulic system. But a
+satisfactory liquid for a particular installation must possess
+a number of other properties. Some of the properties and
+characteristics that must be considered when selecting a
+satisfactory liquid for a particular system are discussed in
+the following paragraphs.
+Viscosity
+One of the most important properties of any hydraulic fluid is
+its viscosity. Viscosity is internal resistance to flow. A liquid
+such as gasoline that has a low viscosity flows easily, while
+a liquid such as tar that has a high viscosity flows slowly.
+Viscosity increases as temperature decreases. A satisfactory
+liquid for a given hydraulic system must have enough body to
+give a good seal at pumps, valves, and pistons, but it must not
+be so thick that it offers resistance to flow, leading to power
+loss and higher operating temperatures. These factors add to
+the load and to excessive wear of parts. A fluid that is too thin
+also leads to rapid wear of moving parts or of parts that have
+heavy loads. The instruments used to measure the viscosity of
+a liquid are known as viscometers or viscosimeters. Several
+types of viscometers are in use today. The Saybolt viscometer
+measures the time required, in seconds, for 60 milliliters of
+the tested fluid at 100 °F to pass through a standard orifice.
+The time measured is used to express the fluid’s viscosity,
+in Saybolt universal seconds or Saybolt FUROL seconds.
+[Figure 12-1]
+Chemical Stability
+Chemical stability is another property that is exceedingly
+important in selecting a hydraulic liquid. It is the liquid’s
+ability to resist oxidation and deterioration for long periods.
+All liquids tend to undergo unfavorable chemical changes
+under severe operating conditions. This is the case, for
+example, when a system operates for a considerable period
+of time at high temperatures. Excessive temperatures have
+a great effect on the life of a liquid. It should be noted that
+the temperature of the liquid in the reservoir of an operating
+hydraulic system does not always represent a true state of
+operating conditions. Localized hot spots occur on bearings,
+12-1
+
+===== PDF PAGE 681 =====
+a low degree of evaporation at normal temperatures.
+Heating unit
+
+Liquid bath
+
+Thermometer
+
+Oil
+
+Fire Point
+Fire point is the temperature at which a substance gives off
+vapor in sufficient quantity to ignite and continue to burn
+when exposed to a spark or flame. Like flash point, a high
+fire point is required of desirable hydraulic liquids.
+
+Types of Hydraulic Fluids
+
+Cork
+
+Reservoir
+60 c.c.
+
+Container
+Figure 12-1. Saybolt viscosimeter.
+
+gear teeth, or at the point where liquid under pressure is
+forced through a small orifice. Continuous passage of a liquid
+through these points may produce local temperatures high
+enough to carbonize or sludge the liquid, yet the liquid in the
+reservoir may not indicate an excessively high temperature.
+Liquids with a high viscosity have a greater resistance
+to heat than light or low-viscosity liquids that have been
+derived from the same source. The average hydraulic liquid
+has a low viscosity. Fortunately, there is a wide choice of
+liquids available for use within the viscosity range required
+of hydraulic liquids.
+Liquids may break down if exposed to air, water, salt, or
+other impurities, especially if they are in constant motion or
+subject to heat. Some metals, such as zinc, lead, brass, and
+copper, have an undesirable chemical reaction on certain
+liquids. These chemical processes result in the formation
+of sludge, gums, and carbon or other deposits that clog
+openings, cause valves and pistons to stick or leak, and give
+poor lubrication to moving parts. As soon as small amounts
+of sludge or other deposits are formed, the rate of formation
+generally increases more rapidly. As they are formed, certain
+changes in the physical and chemical properties of the liquid
+take place. The liquid usually becomes darker in color, higher
+in viscosity, and acids are formed.
+Flash Point
+Flash point is the temperature at which a liquid gives off vapor
+in sufficient quantity to ignite momentarily or flash when a
+flame is applied. A high flash point is desirable for hydraulic
+liquids because it indicates good resistance to combustion and
+
+To assure proper system operation and to avoid damage to
+nonmetallic components of the hydraulic system, the correct
+fluid must be used. When adding fluid to a system, use the
+type specified in the aircraft manufacturer’s maintenance
+manual or on the instruction plate affixed to the reservoir or
+unit being serviced.
+The three principal categories of hydraulic fluids are:
+1.
+
+Minerals.
+
+2.
+
+Polyalphaolefins.
+
+3.
+
+Phosphate esters.
+
+When servicing a hydraulic system, the technician must
+be certain to use the correct category of replacement fluid.
+Hydraulic fluids are not necessarily compatible. For example,
+contamination of the fire-resistant fluid MIL-H-83282 with
+MIL-H-5606 may render the MIL-H-83282 non-fire-resistant.
+Mineral-Based Fluids
+Mineral oil-based hydraulic fluid (MIL-H-5606) is the oldest,
+dating back to the 1940s. It is used in many systems, especially
+where the fire hazard is comparatively low. MIL-H-6083
+is simply a rust-inhibited version of MIL-H-5606. They
+are completely interchangeable. Suppliers generally ship
+hydraulic components with MIL-H-6083. Mineral-based
+hydraulic fluid (MIL–H-5606) is processed from petroleum.
+It has an odor similar to penetrating oil and is dyed red. Some
+synthetic hydraulic fluids are dyed purple and even green,
+depending on the identity of the fluid. Synthetic rubber seals
+are used with petroleum-based fluids.
+Polyalphaolefin-Based Fluids
+MIL-H-83282 is a fire-resistant hydrogenated polyalphaolefinbased fluid developed in the 1960s to overcome the
+flammability characteristics of MIL-H-5606. MIL-H-83282
+is significantly more flame resistant than MIL-H-5606, but
+a disadvantage is the high viscosity at low temperature.
+It is generally limited to –40 °F. However, it can be used
+in the same system and with the same seals, gaskets, and
+hoses as MIL-H-5606. MIL-H-46170 is the rust-inhibited
+version of MIL-H-83282. Small aircraft predominantly use
+MIL-H-5606, but some have switched to MIL-H-83282 if
+12-2
+
+===== PDF PAGE 682 =====
+they can accommodate the high viscosity at low temperature.
+Phosphate Ester-Based Fluid
+These fluids are used in most commercial transport category
+aircraft and are extremely fire-resistant. However, they are
+not fireproof and under certain conditions, they burn. In
+addition, these fluids are very susceptible to contamination
+from water in the atmosphere. The earliest generation of
+these fluids was developed after World War II as a result of
+the growing number of aircraft hydraulic brake fires that drew
+the collective concern of the commercial aviation industry.
+Progressive development of these fluids occurred as a result
+of performance requirements of newer aircraft designs. The
+airframe manufacturers dubbed these new generations of
+hydraulic fluid, such as Skydrol® and Hyjet®, as types based
+on their performance.
+Today, types IV and V fluids are used. Two distinct classes
+of type IV fluids exist based on their density: class I fluids
+are low density and class II fluids are standard density. The
+class I fluids provide weight savings advantages versus
+class II. In addition to the type IV fluids that are currently
+in use, type V fluids are being developed in response to
+industry demands for a more thermally stable fluid at higher
+operating temperatures. Type V fluids will be more resistant
+to hydrolytic and oxidative degradation at high temperature
+than the type IV fluids.
+Intermixing of Fluids
+Due to the difference in composition, petroleum-based and
+phosphate ester-based fluids will not mix; neither are the
+seals for any one fluid usable with or tolerant of any of the
+other fluids. Should an aircraft hydraulic system be serviced
+with the wrong type fluid, immediately drain and flush the
+system and maintain the seals according to the manufacturer’s
+specifications.
+Compatibility with Aircraft Materials
+Aircraft hydraulic systems designed around phosphate
+ester-based fluids should be virtually trouble-free if properly
+serviced. Phosphate ester-based fluids do not appreciably
+affect common aircraft metals—aluminum, silver, zinc,
+magnesium, cadmium, iron, stainless steel, bronze,
+chromium, and others—as long as the fluids are kept free
+of contamination. Thermoplastic resins, including vinyl
+compositions, nitrocellulose lacquers, oil-based paints,
+linoleum, and asphalt may be softened chemically due to
+phosphate ester-based fluids. However, this chemical action
+usually requires longer than just momentary exposure, and
+spills that are wiped up with soap and water do not harm
+most of these materials. Paints that are resistant to phosphate
+ester-based fluids include epoxies and polyurethanes. Today,
+polyurethanes are the standard of the aircraft industry because
+
+of their ability to keep a bright, shiny finish for long periods
+of time and for the ease with which they can be removed.
+Hydraulic systems require the use of special accessories that
+are compatible with the hydraulic fluid. Appropriate seals,
+gaskets, and hoses must be specifically designated for the
+type of fluid in use. Care must be taken to ensure that the
+components installed in the system are compatible with the
+fluid. When gaskets, seals, and hoses are replaced, positive
+identification should be made to ensure that they are made of
+the appropriate material. Phosphate ester-based type V fluid is
+compatible with natural fibers and with a number of synthetics,
+including nylon and polyester, which are used extensively in
+most aircraft. Petroleum oil hydraulic system seals of neoprene
+or Buna-N are not compatible with phosphate ester-based
+fluids and must be replaced with seals of butyl rubber or
+ethylene-propylene elastomers.
+Hydraulic Fluid Contamination
+Experience has shown that trouble in a hydraulic system
+is inevitable whenever the liquid is allowed to become
+contaminated. The nature of the trouble, whether a simple
+malfunction or the complete destruction of a component,
+depends to some extent on the type of contaminant. Two
+general contaminants are:
+•
+
+Abrasives, including such particles as core sand, weld
+spatter, machining chips, and rust.
+
+•
+
+Nonabrasives, including those resulting from oil
+oxidation and soft particles worn or shredded from
+seals and other organic components.
+
+Contamination Check
+Whenever it is suspected that a hydraulic system has become
+contaminated or the system has been operated at temperatures
+in excess of the specified maximum, a check of the system
+should be made. The filters in most hydraulic systems are
+designed to remove most foreign particles that are visible
+to the naked eye. Hydraulic liquid that appears clean to the
+naked eye may be contaminated to the point that it is unfit for
+use. Thus, visual inspection of the hydraulic liquid does not
+determine the total amount of contamination in the system.
+Large particles of impurities in the hydraulic system are
+indications that one or more components are being subjected
+to excessive wear. Isolating the defective component requires
+a systematic process of elimination. Fluid returned to the
+reservoir may contain impurities from any part of the system.
+To determine which component is defective, liquid samples
+should be taken from the reservoir and various other locations
+in the system. Samples should be taken in accordance with
+the applicable manufacturer’s instructions for a particular
+hydraulic system. Some hydraulic systems are equipped with
+permanently installed bleed valves for taking liquid samples,
+12-3
+
+===== PDF PAGE 683 =====
+whereas on other systems, lines must be disconnected to
+provide a place to take a sample.
+Hydraulic Sampling Schedule
+•
+
+Routine sampling—each system should be sampled
+at least once a year, or every 3,000 flight hours, or
+whenever the airframe manufacturer suggests.
+
+•
+
+Unscheduled maintenance—when malfunctions may
+have a fluid related cause, samples should be taken.
+
+•
+
+Suspicion of contamination—if contamination is
+suspected, fluids should be drained and replaced,
+with samples taken before and after the maintenance
+procedure.
+
+Sampling Procedure
+•
+
+Pressurize and operate hydraulic system for 10 to
+15 minutes. During this period, operate various
+flight controls to activate valves and thoroughly mix
+hydraulic fluid.
+
+•
+
+Shut down and depressurize the system.
+
+•
+
+Before taking samples, always be sure to wear the
+proper personal protective equipment that should
+include, at the minimum, safety glasses and gloves.
+
+•
+
+Wipe off sampling port or tube with a lint-free cloth.
+Do not use shop towels or paper products that could
+produce lint. Generally speaking, the human eye can
+see particles down to about 40 microns in size. Since
+we are concerned with particles down to 5 microns in
+size, it is easy to contaminate a sample without ever
+knowing it.
+
+•
+
+Place a waste container under the reservoir drain valve
+and open valve so that a steady, but not forceful, stream
+is running.
+
+•
+
+Allow approximately 1 pint (250 ml) of fluid to drain.
+This purges any settled particles from the sampling
+port.
+
+•
+
+Insert a precleaned sample bottle under the fluid stream
+and fill, leaving an air space at the top. Withdraw the
+bottle and cap immediately.
+
+•
+
+Close drain valve.
+
+•
+
+Fill out sample identification label supplied in sample
+kit, making sure to include customer name, aircraft
+type, aircraft tail number, hydraulic system sampled,
+and date sampled. Indicate on the sample label under
+remarks if this is a routine sample or if it is being taken
+due to a suspected problem.
+
+•
+
+Service system reservoirs to replace the fluid that was
+removed.
+
+•
+
+Submit samples for analysis to laboratory.
+
+Contamination Control
+Filters provide adequate control of the contamination
+problem during all normal hydraulic system operations.
+Control of the size and amount of contamination entering
+the system from any other source is the responsibility of the
+people who service and maintain the equipment. Therefore,
+precautions should be taken to minimize contamination
+during maintenance, repair, and service operations. If the
+system becomes contaminated, the filter element should be
+removed and cleaned or replaced. As an aid in controlling
+contamination, the following maintenance and servicing
+procedures should be followed at all times:
+•
+
+Maintain all tools and the work area (workbenches
+and test equipment) in a clean, dirt-free condition.
+
+•
+
+A suitable container should always be provided to
+receive the hydraulic liquid that is spilled during
+component removal or disassembly procedures.
+
+•
+
+Before disconnecting hydraulic lines or fittings, clean
+the affected area with dry-cleaning solvent.
+
+•
+
+All hydraulic lines and fittings should be capped or
+plugged immediately after disconnecting.
+
+•
+
+Before assembly of any hydraulic components, wash
+all parts in an approved dry-cleaning solvent, i.e.,
+Stoddard solvent.
+
+•
+
+After cleaning the parts in the dry-cleaning solution,
+dry the parts thoroughly and lubricate them with the
+recommended preservative or hydraulic liquid before
+assembly. Use only clean, lint-free cloths to wipe or
+dry the component parts.
+
+•
+
+All seals and gaskets should be replaced during the
+reassembly procedure. Use only those seals and
+gaskets recommended by the manufacturer.
+
+•
+
+All parts should be connected with care to avoid
+stripping metal slivers from threaded areas. All fittings
+and lines should be installed and torqued in accordance
+with applicable technical instructions.
+
+•
+
+All hydraulic servicing equipment should be kept clean
+and in good operating condition.
+
+Contamination, both particulate and chemical, is detrimental
+to the performance and life of components in the aircraft
+hydraulic system. Contamination enters the system through
+normal wear of components, by ingestion through external
+seals during servicing, or maintenance, when the system is
+opened to replace/repair components, etc. To control the
+particulate contamination in the system, filters are installed
+in the pressure line, in the return line, and in the pump case
+
+12-4
+
+===== PDF PAGE 684 =====
+drain line of each system. The filter rating is given in microns
+as an indication of the smallest particle size that is filtered
+out. The replacement interval of these filters is established
+by the manufacturer and is included in the maintenance
+manual. In the absence of specific replacement instructions,
+a recommended service life of the filter elements is:
+•
+
+Pressure filters—3,000 hours.
+
+•
+
+Return Filters—1,500 hours.
+
+•
+
+Case drain filters—600 hours.
+
+Hydraulic System Flushing
+When inspection of hydraulic filters or hydraulic fluid
+evaluation indicates that the fluid is contaminated, flushing
+the system may be necessary. This must be done according to
+the manufacturer’s instructions; however, a typical procedure
+for flushing is as follows:
+1.
+
+Connect a ground hydraulic test stand to the inlet and
+outlet test ports of the system. Verify that the ground
+unit fluid is clean and contains the same fluid as
+the aircraft.
+
+2.
+
+Change the system filters.
+
+3.
+
+Pump clean, filtered fluid through the system, and
+operate all subsystems until no obvious signs of
+contamination are found during inspection of the
+filters. Dispose of contaminated fluid and filter. Note:
+A visual inspection of hydraulic filters is not always
+effective.
+
+4.
+
+Disconnect the test stand and cap the ports.
+
+5.
+
+Ensure that the reservoir is filled to the full line or
+proper service level.
+
+It is very important to check if the fluid in the hydraulic test
+stand, or mule, is clean before the flushing operation starts.
+A contaminated hydraulic test stand can quickly contaminate
+other aircraft if used for ground maintenance operations.
+
+small amounts do not appear to be highly hazardous, any
+significant amount should be tested in accordance with
+manufacturer’s direction, followed with hospital supervised
+stomach treatment.
+
+Basic Hydraulic Systems
+Regardless of its function and design, every hydraulic system
+has a minimum number of basic components in addition to a
+means through which the fluid is transmitted. A basic system
+consists of a pump, reservoir, directional valve, check valve,
+pressure relieve valve, selector valve, actuator, and filter.
+[Figure 12-2]
+Open Center Hydraulic Systems
+An open center system is one having fluid flow, but no
+pressure in the system when the actuating mechanisms
+are idle. The pump circulates the fluid from the reservoir,
+through the selector valves, and back to the reservoir.
+[Figure 12-3] The open center system may employ any
+number of subsystems, with a selector valve for each
+subsystem. Unlike the closed center system, the selector
+valves of the open center system are always connected
+in series with each other. In this arrangement, the system
+pressure line goes through each selector valve. Fluid is always
+allowed free passage through each selector valve and back
+to the reservoir until one of the selector valves is positioned
+to operate a mechanism.
+When one of the selector valves is positioned to operate an
+actuating device, fluid is directed from the pump through one
+of the working lines to the actuator. [Figure 12-3B] With the
+selector valve in this position, the flow of fluid through the
+valve to the reservoir is blocked. The pressure builds up in
+the system to overcome the resistance and moves the piston
+of the actuating cylinder; fluid from the opposite end of the
+
+Reservoir
+
+Health & Handling
+Some phosphate ester-based fluids are blended with
+performance additives. Phosphate esters are good solvents
+and dissolve away some of the fatty materials of the skin.
+Repeated or prolonged exposure may cause drying of the
+skin, which if unattended, could result in complications,
+such as dermatitis or even secondary infection from bacteria.
+Phosphate ester-based fluids could cause itching of the
+skin but have not been known to cause allergic-type skin
+rashes. Always use the proper gloves and eye protection
+when handling any type of hydraulic fluid. When phosphate
+ester-based mist or vapor exposure is possible, a respirator
+capable of removing organic vapors and mists must be worn.
+Ingestion of any hydraulic fluid should be avoided. Although
+
+Hand
+pump
+
+Motor-driven pump
+
+Filter
+
+Suction
+Pressure
+
+One-way
+check
+valve
+
+Pressure
+relief
+valve
+
+Actuating cylinder
+
+Return
+
+Figure 12-2. Basic hydraulic system.
+
+12-5
+
+===== PDF PAGE 685 =====
+Reservoir
+
+A
+
+Relief
+valve
+
+Directional
+control valves
+
+The manually engaged and pressure disengaged type of
+selector valve is similar to the valve previously discussed.
+When the actuating mechanism reaches the end of its cycle,
+the pressure continues to rise to a predetermined pressure.
+The valve automatically returns to the neutral position and
+to open center flow.
+
+Pump
+B
+
+Suction
+Pressure
+Return
+Figure 12-3. Open center hydraulic system.
+
+actuator returns to the selector valve and flows back to the
+reservoir. Operation of the system following actuation of the
+component depends on the type of selector valve being used.
+Several types of selector valves are used in conjunction with
+the open center system. One type is both manually engaged
+and manually disengaged. First, the valve is manually moved
+to an operating position. Then, the actuating mechanism
+reaches the end of its operating cycle, and the pump output
+continues until the system relief valve relieves the pressure.
+The relief valve unseats and allows the fluid to flow back to
+
+Selector valve
+(closed) A
+
+the reservoir. The system pressure remains at the relief valve
+set pressure until the selector valve is manually returned to the
+neutral position. This action reopens the open center flow and
+allows the system pressure to drop to line resistance pressure.
+
+Selector valve
+(operating) B
+
+Closed-Center Hydraulic Systems
+In the closed-center system, the fluid is under pressure
+whenever the power pump is operating. The three actuators are
+arranged in parallel and actuating units B and C are operating
+at the same time, while actuating unit A is not operating. This
+system differs from the open-center system in that the selector
+or directional control valves are arranged in parallel and not in
+series. The means of controlling pump pressure varies in the
+closed-center system. If a constant delivery pump is used, the
+system pressure is regulated by a pressure regulator. A relief
+valve acts as a backup safety device in case the regulator fails.
+If a variable displacement pump is used, system pressure
+is controlled by the pump’s integral pressure mechanism
+compensator. The compensator automatically varies the
+volume output. When pressure approaches normal system
+pressure, the compensator begins to reduce the flow output
+of the pump. The pump is fully compensated (near zero flow)
+when normal system pressure is attained. When the pump
+is in this fully compensated condition, its internal bypass
+mechanism provides fluid circulation through the pump
+for cooling and lubrication. A relief valve is installed in the
+system as a safety backup. [Figure 12-4] An advantage of the
+open-center system over the closed-center system is that the
+continuous pressurization of the system is eliminated. Since
+the pressure is built up gradually after the selector valve is
+
+Selector valve
+(operating) C
+Actuating
+unit
+
+Actuating
+unit
+
+Actuating
+unit
+
+Relief valve
+
+Static
+Suction
+Pressure
+Return
+
+Reservoir
+Pump
+
+Figure 12-4. A basic closed-center hydraulic system with a variable displacement pump.
+
+12-6
+
+===== PDF PAGE 686 =====
+moved to an operating position, there is very little shock from
+pressure surges. This action provides a smoother operation of
+the actuating mechanisms. The operation is slower than the
+closed-center system, in which the pressure is available the
+moment the selector valve is positioned. Since most aircraft
+applications require instantaneous operation, closed-center
+systems are the most widely used.
+
+Hydraulic Power Systems
+Evolution of Hydraulic Systems
+Smaller aircraft have relatively low flight control surface
+loads, and the pilot can operate the flight controls by hand.
+Hydraulic systems were utilized for brake systems on early
+aircraft. When aircraft started to fly faster and got larger in
+size, the pilot was not able to move the control surfaces by
+hand anymore, and hydraulic power boost systems were
+introduced. Power boost systems assist the pilot in overcoming
+high control forces, but the pilot still actuates the flight
+controls by cable or push rod.
+Many modern aircraft use a power supply system and fly-bywire flight control. The pilot input is electronically sent to the
+flight control servos. Cables or push rods are not used. Small
+power packs are the latest evolution of the hydraulic system.
+They reduce weight by eliminating hydraulic lines and large
+quantities of hydraulic fluid. Some manufacturers are reducing
+hydraulic systems in their aircraft in favor of electrically
+controlled systems. The Boeing 787 is the first aircraft designed
+with more electrical systems than hydraulic systems.
+Hydraulic Power Pack System
+A hydraulic power pack is a small unit that consists of an
+electric pump, filters, reservoir, valves, and pressure relief
+valve. [Figure 12-5] The advantage of the power pack is that
+there is no need for a centralized hydraulic power supply
+system and long stretches of hydraulic lines, which reduces
+weight. Power packs could be driven by either an engine
+gearbox or electric motor. Integration of essential valves,
+filters, sensors, and transducers reduces system weight,
+virtually eliminates any opportunity for external leakage, and
+simplifies troubleshooting. Some power pack systems have
+an integrated actuator. These systems are used to control the
+stabilizer trim, landing gear, or flight control surfaces directly,
+thus eliminating the need for a centralized hydraulic system.
+Hydraulic System Components
+Figure 12-6 is a typical example of a hydraulic system in a
+large commercial aircraft. The following sections discuss the
+components of such system in more detail.
+
+Figure 12-5. Hydraulic power pack.
+
+Reservoirs
+The reservoir is a tank in which an adequate supply of fluid
+for the system is stored. Fluid flows from the reservoir to the
+pump, where it is forced through the system and eventually
+returned to the reservoir. The reservoir not only supplies the
+operating needs of the system, but it also replenishes fluid
+lost through leakage. Furthermore, the reservoir serves as an
+overflow basin for excess fluid forced out of the system by
+thermal expansion (the increase of fluid volume caused by
+temperature changes), the accumulators, and by piston and
+rod displacement.
+The reservoir also furnishes a place for the fluid to purge
+itself of air bubbles that may enter the system. Foreign matter
+picked up in the system may also be separated from the fluid
+in the reservoir or as it flows through line filters. Reservoirs
+are either pressurized or nonpressurized.
+Baffles and/or fins are incorporated in most reservoirs to keep
+the fluid within the reservoir from having random movement,
+such as vortexing (swirling) and surging. These conditions
+can cause fluid to foam and air to enter the pump along with
+the fluid. Many reservoirs incorporate strainers in the filler
+neck to prevent the entry of foreign matter during servicing.
+These strainers are made of fine mesh screening and are
+usually referred to as finger strainers because of their shape.
+Finger strainers should never be removed or punctured as a
+means of speeding up the pouring of fluid into the reservoir.
+Reservoirs could have an internal trap to make sure fluid goes
+to the pumps during negative-G conditions.
+Most aircraft have emergency hydraulic systems that take
+over if main systems fail. In many such systems, the pumps of
+both systems obtain fluid from a single reservoir. Under such
+circumstances, a supply of fluid for the emergency pump is
+ensured by drawing the hydraulic fluid from the bottom of the
+reservoir. The main system draws its fluid through a standpipe
+12-7
+
+===== PDF PAGE 687 =====
+Reservoir fill select valve
+
+Hand pump
+
+Left system
+
+Right system
+Left
+system
+return
+
+Center system
+Right
+system
+return
+
+ALTN EXT
+power pack
+
+Heat exchanger
+
+Center
+system
+return
+
+Heat
+exchanger
+Left
+EDP
+
+Left
+ACM
+
+ACMP
+C1
+
+ACMP
+C2
+
+ADP
+C1
+
+ADP
+C2
+
+Right
+ACM
+
+RAT
+
+Center
+system
+return
+
+Brakes
+
+Flap/slat
+priority valve
+Autobrake
+priority valve
+
+Nose landing
+gear actuation
+
+Nose landing
+gear steering
+
+TE flaps
+primary drive
+
+LE slats
+primary drive
+
+Main landing
+gear actuation
+
+Thrust
+reversers
+
+Main landing
+gear steering
+
+Right
+EDP
+
+Right system return
+
+Tail flight
+controls
+
+Tail flight
+controls
+
+Wing flight
+controls
+
+Wing flight
+controls
+
+Left system
+return
+Tail flight
+controls
+Wing flight
+controls
+
+Pressure
+Return
+Supply
+Bleed air
+
+Figure 12-6. Large commercial aircraft hydraulic system.
+
+located at a higher level. With this arrangement, should the
+main system’s fluid supply become depleted, adequate fluid
+is left for operation of the emergency system. Figure 12-7
+illustrates that the engine-driven pump (EDP) is not able
+to draw fluid any more if the reservoir gets depleted below
+the standpipe. The alternating current motor-driven pump
+(ACMP) still has a supply of fluid for emergency operations.
+Nonpressurized Reservoirs
+Nonpressurized reservoirs are used in aircraft that are not
+designed for violent maneuvers, do not fly at high altitudes, or
+in which the reservoir is located in the pressurized area of the
+aircraft. High altitude in this situation means an altitude where
+atmospheric pressure is inadequate to maintain sufficient
+flow of fluid to the hydraulic pumps. Most nonpressurized
+reservoirs are constructed in a cylindrical shape. The outer
+housing is manufactured from a strong corrosion-resistant
+metal. Filter elements are normally installed within the
+reservoir to clean returning system hydraulic fluid.
+In some of the older aircraft, a filter bypass valve is
+incorporated to allow fluid to bypass the filter in the event the
+
+filter becomes clogged. Reservoirs can be serviced by pouring
+fluid directly into the reservoir through a filler strainer (finger
+strainer) assembly incorporated within the filler well to strain
+out impurities as the fluid enters the reservoir. Generally,
+nonpressurized reservoirs use a visual gauge to indicate the
+fluid quantity. Gauges incorporated on or in the reservoir may
+be a direct reading glass tube-type or a float-type rod that is
+visible through a transparent dome. In some cases, the fluid
+quantity may also be read in the flight deck through the use
+of quantity transmitters. A typical nonpressurized reservoir
+is shown in Figure 12-8. This reservoir consists of a welded
+body and cover assembly clamped together. Gaskets are
+incorporated to seal against leakage between assemblies.
+Nonpressurized reservoirs are slightly pressurized due to
+thermal expansion of fluid and the return of fluid to the
+reservoir from the main system. This pressure ensures that
+there is a positive flow of fluids to the inlet ports of the
+hydraulic pumps. Most reservoirs of this type are vented
+directly to the atmosphere or cabin with only a check valve and
+filter to control the outside air source. The reservoir system
+includes a pressure and vacuum relief valve. The purpose of
+12-8
+
+===== PDF PAGE 688 =====
+RSVR pressurized shutoff valve
+RSVR pressurized module
+
+RSVR pressurized relief valve
+
+Pressurized air
+Supply
+Pressure
+Return
+
+RSVR
+pressurized
+SW
+
+EDP supply shutoff valve
+
+RSVR
+temp
+XDCR
+
+Sample valve
+
+EDP
+S
+
+Return filter module
+
+Drain valve
+
+Depress solenoid valve
+
+ACMP
+
+TEMP
+XDCR
+Pressurized
+XDCR
+
+GND SVC
+pressurized disk
+
+GND
+SVC
+RTN
+disk
+
+Temp XDCR
+Pressurized XDCR
+
+ACMP
+filter
+module
+
+SYS pressurized XDCR
+
+T/R
+
+EDP filter
+module
+RLF valve
+
+Brakes
+(R SYS)
+
+PFCS
+
+Heat exchanger
+From RSVR servicing
+
+Figure 12-7. Hydraulic reservoir standpipe for emergency operations.
+
+the valve is to maintain a differential pressure range between
+the reservoir and cabin. A manual air bleed valve is installed
+on top of the reservoir to vent the reservoir. The valve is
+connected to the reservoir vent line to allow depressurization
+of the reservoir. The valve is actuated prior to servicing the
+reservoir to prevent fluid from being blown out of the filler as
+the cap is being removed. The manual bleed valve also needs
+to be actuated if hydraulic components need to be replaced.
+Pressurized Reservoirs
+Reservoirs on aircraft designed for high-altitude flight are
+usually pressurized. Pressurizing assures a positive flow of
+fluid to the pump at high altitudes when low atmospheric
+pressures are encountered. On some aircraft, the reservoir is
+pressurized by bleed air taken from the compressor section
+of the engine. On others, the reservoir may be pressurized
+by hydraulic system pressure.
+Air-Pressurized Reservoirs
+Air-pressurized reservoirs are used in many commercial
+transport-type aircraft. [Figures 12-9 and 12-10]
+Pressurization of the reservoir is required because the
+reservoirs are often located in wheel wells or other nonpressurized areas of the aircraft and at high altitude there
+is not enough atmospheric pressure to move the fluid to
+
+the pump inlet. Engine bleed air is used to pressurize the
+reservoir. The reservoirs are typically cylindrical in shape.
+The following components are installed on a typical reservoir:
+•
+
+Reservoir pressure relief valve—prevents over
+pressurization of the reservoir. Valve opens at a preset
+value.
+
+•
+
+Sight glasses (low and overfull)—provides visual
+indication for flight crews and maintenance personnel
+that the reservoir needs to be serviced.
+
+•
+
+Reservoir sample valve—used to draw a sample of
+hydraulic fluid for testing.
+
+•
+
+Reservoir drain valve—used to drain the fluids out of
+the reservoir for maintenance operation.
+
+•
+
+Reservoir temperature transducer—provides hydraulic
+fluid temperature information for the flight deck.
+[Figure 12-11]
+
+•
+
+Reservoir quantity transmitter—transmits fluid
+quantity to the flight deck so that the flight crew can
+monitor fluid quantity during flight. [Figure 12-11]
+
+A reservoir pressurization module is installed close to the
+reservoir. [Figure 12-12] The reservoir pressurization module
+supplies airplane bleed air to the reservoirs. The module
+12-9
+
+===== PDF PAGE 689 =====
+Connection for vent line or pressurizing line
+
+Reservoir pressure relief valve
+
+Filler neck, cap, and fastener
+
+Return and fill line
+
+Quantity
+indicator/
+transmitter
+
+Glass sight gauge
+
+Finger strainer
+Fin
+
+EDP supply line
+
+Baffle
+
+Drain/sampling valve
+Connection for return line
+
+Standpipe
+Fin
+
+e
+
+lin
+
+From reservoir
+pressurization
+module
+
+Normal fluid level
+
+Fin
+
+nt
+
+Ve
+
+Fin
+
+ACMP supply line
+
+Figure 12-10. Components of an air-pressurized reservoir.
+
+Connection for main system pump
+
+Connection for emergency system pump
+Figure 12-8. Nonpressurized reservoir.
+
+Figure 12-11. Temperature and quantity sensors.
+
+consists of the following parts:
+
+Figure 12-9. Air-pressurized reservoir.
+
+•
+
+Filters (2).
+
+•
+
+Check valves (2).
+
+•
+
+Test port.
+
+•
+
+Manual bleed valve.
+
+•
+
+Gauge port.
+
+A manual bleeder valve is incorporated into the module.
+During hydraulic system maintenance, it is necessary to
+relieve reservoir air pressure to assist in the installation and
+removal of components, lines, etc. This type of valve is small
+in size and has a push button installed in the outer case. When
+the bleeder valve push button is pushed, pressurized air from
+the reservoir flows through the valve to an overboard vent
+until the air pressure is depleted or the button is released.
+When the button is released, the internal spring causes the
+12-10
+
+===== PDF PAGE 690 =====
+Filters
+
+Check valves
+
+Gauge port
+
+Reservoir pressure switch
+
+RSVR pressurized shutoff valve
+To HYD RSWR
+Manual bleed valve
+Test port
+Figure 12-12. Reservoir pressurization module.
+
+poppet to return to its seat. Some hydraulic fluid can escape
+from the manual bleed valve when the button is depressed.
+Caution: Put a rag around the air bleed valve on the reservoir
+pressurization module to catch hydraulic fluid spray.
+Hydraulic fluid spray can cause injuries to persons.
+Fluid-Pressurized Reservoirs
+Some aircraft hydraulic system reservoirs are pressurized
+by hydraulic system pressure. Regulated hydraulic pump
+output pressure is applied to a movable piston inside the
+cylindrical reservoir. This small piston is attached to and
+moves a larger piston against the reservoir fluid. The reduced
+force of the small piston when applied by the larger piston is
+adequate to provide head pressure for high altitude operation.
+The small piston protrudes out of the body of the reservoir.
+The amount exposed is used as a reservoir fluid quantity
+indicator. Figure 12-13 illustrates the concept behind the
+fluid-pressurized hydraulic reservoir.
+The reservoir has five ports: pump suction, return,
+pressurizing, overboard drain, and bleed port. Fluid is
+supplied to the pump through the pump suction port. Fluid
+returns to the reservoir from the system through the return
+port. Pressure from the pump enters the pressurizing cylinder
+in the top of the reservoir through the pressurizing port. The
+overboard drain port drains the reservoir, when necessary,
+while performing maintenance. The bleed port is used as
+an aid in servicing the reservoir. When servicing a system
+equipped with this type of reservoir, place a container under
+the bleed drain port. The fluid should then be pumped into
+the reservoir until air-free fluid flows through the bleed
+drain port.
+The reservoir fluid level is indicated by the markings on
+the part of the pressurizing cylinder that moves through
+the reservoir dust cover assembly. There are three fluid
+level markings indicated on the cover: full at zero system
+pressure (FULL ZERO PRESS), full when system is
+
+pressurized (FULL SYS PRESS), and REFILL. When the
+system is unpressurized and the pointer on the reservoir lies
+between the two full marks, a marginal reservoir fluid level
+is indicated. When the system is pressurized, and the pointer
+lies between REFILL and FULL SYS PRESS, a marginal
+reservoir fluid level is also indicated.
+Reservoir Servicing
+Nonpressurized reservoirs can be serviced by pouring fluid
+directly into the reservoir through a filler strainer (finger
+strainer) assembly incorporated within the filler well to
+
+Amount piston
+protrudes indicates
+reservoir fluid
+quantity
+
+Small piston
+
+Pressurized
+fluid to pump inlet
+
+Hydraulic
+fluid
+
+30–50 psi
+
+Large piston
+
+Fluid
+pressurized
+reservoir
+
+Hydraulic system pressure (3,000 psi)
+
+Vent
+
+Figure 12-13. Operating principle behind a fluid-pressurized
+
+hydraulic reservoir.
+
+12-11
+
+===== PDF PAGE 691 =====
+strain out impurities as the fluid enters the reservoir. Many
+reservoirs also have a quick disconnect service port at
+the bottom of the reservoir. A hydraulic filler unit can be
+connected to the service port to add fluid to the reservoir. This
+method reduces the chances of contamination of the reservoir.
+Aircraft that use pressurized reservoirs often have a central
+filling station in the ground service bay to service all
+reservoirs from a single point. [Figure 12-14]
+
+Before servicing always make sure that the:
+•
+
+Spoilers are retracted,
+
+•
+
+Landing gear is down,
+
+•
+
+Landing gear doors are closed,
+
+•
+
+Thrust reversers are retracted, and
+
+•
+
+Parking brake accumulator pressure reads at least
+2,500 psi.
+
+A built-in hand pump is available to draw fluid from
+a container through a suction line and pump it into the
+reservoirs. Additionally, a pressure fill port is available for
+attachment of a hydraulic mule or serving cart, which uses an
+external pump to push fluid into the aircraft hydraulic system.
+A check valve keeps the hand pump output from exiting the
+pressure fill port. A single filter is located downstream of
+both the pressure fill port and the hand pump to prevent the
+introduction of contaminants during fluid servicing.
+
+Filters
+A filter is a screening or straining device used to clean
+the hydraulic fluid, preventing foreign particles and
+contaminating substances from remaining in the system.
+[Figure 12-15] If such objectionable material were not
+removed, the entire hydraulic system of the aircraft could
+fail through the breakdown or malfunctioning of a single
+unit of the system.
+
+It is very important to follow the maintenance instructions
+when servicing the reservoir. To get the correct results when
+the hydraulic fluid quantities are checked, or the reservoirs are
+to be filled, the airplane should be in the correct configuration.
+Failure to do so could result in overservicing of the reservoir.
+This configuration could be different for each aircraft. The
+following service instructions are an example of a large
+transport-type aircraft.
+
+The hydraulic fluid holds in suspension tiny particles of
+metal that are deposited during the normal wear of selector
+valves, pumps, and other system components. Such minute
+particles of metal may damage the units and parts through
+which they pass if they are not removed by a filter. Since
+tolerances within the hydraulic system components are quite
+small, it is apparent that the reliability and efficiency of the
+entire system depends upon adequate filtering.
+
+Fluid quantity indicator
+
+To reservoir pressurization system
+Balance lines
+
+System A reservoir
+System B reservoir
+Check valve
+
+Pressure fill fitting for
+hydraulic service cart
+
+Filter
+
+Standby reservoir
+
+Hand pump
+
+Suction line to clean
+container of fluid
+
+Figure 12-14. The hydraulic ground serive station on a Boeing 737 provides for hydraulic fluid servicing with a hand pump or via an
+external pressure fluid source. All three reservoirs are serviced from the same location.
+
+12-12
+
+===== PDF PAGE 692 =====
+The element may be a micron, porous metal, or magnetic
+type. The micron element is made of a specially treated paper
+and is normally thrown away when removed. The porous
+metal and magnetic filter elements are designed to be cleaned
+by various methods and replaced in the system.
+
+Differential pressure indicators
+
+Micron-Type Filters
+Pressure
+transducer
+Temperature
+transducer
+Pressure filter
+Case drain filter
+
+Ground service disconnect
+
+Figure 12-15. Filter module components.
+
+Filters may be located within the reservoir, in the pressure
+line, in the return line, or in any other location the designer
+of the system decides that they are needed to safeguard the
+hydraulic system against impurities. Modern design often
+uses a filter module that contains several filters and other
+components. [Figure 12-16] There are many models and
+styles of filters. Their position in the aircraft and design
+requirements determine their shape and size. Most filters
+used in modern aircraft are of the inline type. The inline filter
+assembly is comprised of three basic units: head assembly,
+bowl, and element. The head assembly is secured to the
+aircraft structure and connecting lines. Within the head,
+there is a bypass valve that routes the hydraulic fluid directly
+from the inlet to the outlet port if the filter element becomes
+clogged with foreign matter. The bowl is the housing that
+holds the element to the filter head and is removed when
+element removal is required.
+
+A typical micron-type filter assembly utilizes an element
+made of specially treated paper that is formed in vertical
+convolutions (wrinkles). An internal spring holds the
+elements in shape. The micron element is designed to prevent
+the passage of solids greater than 10 microns (0.000394 inch)
+in size. [Figure 12-17] In the event that the filter element
+becomes clogged, the spring-loaded relief valve in the filter
+head bypasses the fluid after a differential pressure of 50 psi
+has been built up. Hydraulic fluid enters the filter through
+the inlet port in the filter body and flows around the element
+inside the bowl. Filtering takes place as the fluid passes
+through the element into the hollow core, leaving the foreign
+material on the outside of the element.
+
+Maintenance of Filters
+Maintenance of filters is relatively easy. It mainly involves
+cleaning the filter and element or cleaning the filter and
+replacing the element. Filters using the micron-type element
+should have the element replaced periodically according
+to applicable instructions. Since reservoir filters are of the
+micron type, they must also be periodically changed or
+cleaned. For filters using other than the micron-type element,
+cleaning the filter and element is usually all that is necessary.
+However, the element should be inspected very closely to
+ensure that it is completely undamaged. The methods and
+materials used in cleaning all filters are too numerous to be
+included in this text. Consult the manufacturer’s instructions
+for this information.
+
+Differential pressure indicator
+Filter head assembly with bypass valve
+System pressure gauge
+Human hair is about
+100 micron in diameter
+40-micron
+particle
+
+10-micron
+particle
+
+5-micron
+particle
+
+25,400 microns = 1 inch
+Filters (bowl outside, filter inside)
+Figure 12-16. A transport category filter module with two filters.
+
+Figure 12-17. Size comparison in microns.
+
+12-13
+
+===== PDF PAGE 693 =====
+Indicator button
+Thermal lockout
+
+Detail A-B thermal lockout
+B
+
+A
+
+When replacing filter elements, be sure that there is no
+pressure on the filter bowl. Protective clothing and a face
+shield must be used to prevent fluid from contacting the
+eye. Replace the element with one that has the proper rating.
+After the filter element has been replaced, the system must
+be pressure tested to ensure that the sealing element in the
+filter assembly is intact.
+
+Magnet
+Cold condition
+
+Hot condition
+
+In the event of a major component failure, such as a pump,
+consideration must be given to replacing the system filter
+elements, as well as the failed component.
+
+Filter Bypass Valve
+Filter modules are often equipped with a bypass relief valve.
+The bypass relief valve opens if the filter clogs, permitting
+continued hydraulic flow and operation of aircraft systems.
+Dirty oil is preferred over no flow at all. Figure 12-18 shows
+the principle of operation of a filter bypass valve. The ball
+valve opens when the filter becomes clogged and the pressure
+over the filter increases.
+
+Filter Differential Pressure Indicators
+The extent to which a filter element is loaded can be
+determined by measuring the drop in hydraulic pressure
+across the element under rated flow conditions. This drop,
+or differential pressure, provides a convenient means of
+monitoring the condition of installed filter elements and is
+the operating principle used in the differential pressure or
+loaded-filter indicators found on many filter assemblies.
+Differential pressure indicating devices have many
+configurations, including electrical switches, continuousreading visual indicators (gauges), and visual indicators
+with memory. Visual indicators with memory usually take
+the form of magnetic or mechanically latched buttons or
+pins that extend when the differential pressure exceeds that
+allowed for a serviceable element. [Figure 12-18, top] When
+this increased pressure reaches a specific value, inlet pressure
+forces the spring-loaded magnetic piston downward, breaking
+the magnetic attachment between the indicator button and
+the magnetic piston. This allows the red indicator to pop out,
+signifying that the element must be cleaned. The button or
+pin, once extended, remains in that position until manually
+reset and provides a permanent (until reset) warning of a
+loaded element. This feature is particularly useful where it
+is impossible for an operator to continuously monitor the
+visual indicator, such as in a remote location on the aircraft.
+Some button indicators have a thermal lockout device
+incorporated in their design that prevents operation of the
+indicator below a certain temperature. The lockout prevents
+the higher differential pressure generated at cold temperatures
+by high fluid viscosity from causing a false indication of a
+
+Figure 12-18. Filter bypass valve.
+
+loaded filter element.
+Differential pressure indicators are a component part of the
+filter assembly in which they are installed and are normally
+tested and overhauled as part of the complete assembly.
+With some model filter assemblies, however, it is possible
+to replace the indicator itself without removal of the filter
+assembly if it is suspected of being inoperative or out of
+calibration. It is important that the external surfaces of buttontype indicators be kept free of dirt or paint to ensure free
+movement of the button. Indications of excessive differential
+pressure, regardless of the type of indicator employed,
+should never be disregarded. All such indications must be
+verified and action taken, as required, to replace the loaded
+filter element. Failure to replace a loaded element can result
+in system starvation, filter element collapse, or the loss of
+filtration where bypass assemblies are used. Verification of
+loaded filter indications is particularly important with buttontype indicators as they may have been falsely triggered by
+mechanical shock, vibration, or cold start of the system.
+Verification is usually obtained by manually resetting the
+indicator and operating the system to create a maximum flow
+demand ensuring that the fluid is at near normal operating
+temperatures.
+Pumps
+All aircraft hydraulic systems have one or more power-driven
+pumps and may have a hand pump as an additional unit when
+the engine-driven pump is inoperative. Power-driven pumps
+are the primary source of energy and may be either engine
+driven, electric motor driven, or air driven. As a general rule,
+electrical motor pumps are installed for use in emergencies
+or during ground operations. Some aircraft can deploy a ram
+12-14
+
+===== PDF PAGE 694 =====
+air turbine (RAT) to generate hydraulic power.
+Hand Pumps
+The hydraulic hand pump is used in some older aircraft for the
+operation of hydraulic subsystems and in a few newer aircraft
+systems as a backup unit. Hand pumps are generally installed
+for testing purposes, as well as for use in emergencies. Hand
+pumps are also installed to service the reservoirs from a
+single refilling station. The single refilling station reduces the
+chances for the introduction of fluid contamination.
+
+chamber to the right of the piston is forced out of the outlet
+port into the hydraulic system. When the piston is moved to
+the left, the inlet port ball check valve seats. Pressure in the
+chamber left of the piston rises, forcing the piston ball check
+valve off of its seat. Fluid flows from the left chamber through
+the piston to the right chamber. The volume in the chamber
+right of the piston is smaller than that of the left chamber due
+to the displacement created by the piston rod. As the fluid
+from the left chamber flows into the smaller right chamber,
+the excess volume of fluid is forced out of the outlet port to
+the hydraulic system.
+
+Several types of hand pumps are used: single action, double
+action, and rotary. A single action hand pump draws fluid into
+the pump on one stroke and pumps that fluid out on the next
+stroke. It is rarely used in aircraft due to this inefficiency.
+
+A rotary hand pump may also be employed. It produces
+continuous output while the handle is in motion. Figure 12-20
+shows a rotary hand pump in a hydraulic system.
+
+Double-action hand pumps produce fluid flow and pressure
+on each stroke of the handle. [Figure 12-19] The doubleaction hand pump consists essentially of a housing that has
+a cylinder bore and two ports, a piston, two spring-loaded
+check valves, and an operating handle. An O-ring on the
+piston seals against leakage between the two chambers of
+the piston cylinder bore. An O-ring in a groove in the end of
+the pump housing seals against leakage between the piston
+rod and housing.
+
+Power-Driven Pumps
+Many of the power driven hydraulic pumps of current
+aircraft are of variable delivery, compensator-controlled
+type. Constant delivery pumps are also in use. Principles
+of operation are the same for both types of pumps. Modern
+aircraft use a combination of engine-driven power pumps,
+electrical-driven power pumps, air-driven power pumps,
+power transfer units (PTU), and pumps driven by a RAT.
+For example, large aircraft, such as the Airbus A380, have
+
+When the piston is moved to the right, the pressure in the
+chamber left of the piston is lowered. The inlet port ball check
+valve opens, and hydraulic fluid is drawn into the chamber.
+At the same time, the rightward movement of the piston
+forces the piston ball check valve against its seat. Fluid in the
+
+O-ring
+
+Inlet port
+
+Outlet port
+
+O-ring
+
+tin
+
+gh
+
+an
+
+dle
+
+Piston
+
+Op
+
+era
+
+A
+
+Check valve
+Piston rod
+Outlet port
+
+O
+pe
+
+ra
+
+tin
+
+g
+
+ha
+
+nd
+
+le
+
+Inlet port
+
+Figure 12-19. Double action hand pump.
+
+B
+
+Figure 12-20. Rotary hand pump.
+
+12-15
+
+===== PDF PAGE 695 =====
+two hydraulic systems, eight engine-driven pumps, and three
+electrical driven pumps. The Boeing 777 has three hydraulic
+systems with two engine driven pumps, four electrical driven
+pumps, two air driven pumps, and a hydraulic pump motor
+driven by the RAT. [Figure 12-21 and 12-22]
+
+Although the pumping element would continue moving,
+flow would stop because of slippage inside the pump. In a
+positive-displacement pump, slippage is negligible compared
+to the pump’s volumetric output flow. If the output port were
+plugged, pressure would increase instantaneously to the point
+that the pump pressure relief valve opens.
+
+Constant-Displacement Pumps
+A constant-displacement pump, regardless of pump
+rotations per minute, forces a fixed or unvarying quantity
+of fluid through the outlet port during each revolution of
+the pump. Constant-displacement pumps are sometimes
+called constant-volume or constant-delivery pumps. They
+deliver a fixed quantity of fluid per revolution, regardless
+of the pressure demands. Since the constant-delivery pump
+provides a fixed quantity of fluid during each revolution
+of the pump, the quantity of fluid delivered per minute
+depends upon pump rotations per minute. When a constantdisplacement pump is used in a hydraulic system in which
+the pressure must be kept at a constant value, a pressure
+regulator is required.
+Figure 12-21. Engine-driven pump.
+
+Gear-Type Power Pump
+A gear-type power pump is a constant-displacement pump.
+It consists of two meshed gears that revolve in a housing.
+[Figure 12-23] The driving gear is driven by the aircraft
+engine or some other power unit. The driven gear meshes
+with, and is driven by, the driving gear. Clearance between
+the teeth as they mesh and between the teeth and the housing
+is very small. Excessive clearance will result in lower output
+pressure. The inlet port of the pump is connected to the
+reservoir, and the outlet port is connected to the pressure line.
+When the driving gear turns, as shown in Figure 12-23, it
+turns the driven gear. Fluid is captured by the teeth as they
+pass the inlet, and it travels around the housing and exits at
+the outlet.
+
+Figure 12-22. Electrically-driven pump.
+
+Outlet
+
+Classification of Pumps
+All pumps may be classified as either positive-displacement
+(constant displacement) or nonpositive-displacement
+(variable displacement). Most pumps used in hydraulic
+systems are positive displacement. Engine driven pumps may
+be either constant displacement or variable displacement.
+A nonpositive-displacement pump produces a continuous
+flow. However, because it does not provide a positive
+internal seal against slippage, its output varies considerably
+as pressure varies. Centrifugal and impeller pumps are
+examples of nonpositive-displacement pumps. If the output
+port of a nonpositive-displacement pump was blocked off,
+the pressure would rise, and output would decrease to zero.
+
+Driving
+
+Driven
+
+Inlet
+Figure 12-23. Gear-type power pump.
+
+12-16
+

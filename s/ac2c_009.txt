@@ -1,0 +1,288 @@
+AC 43.13-2C, chapter 8 (Rotorcraft External-Load Device Installations, Cargo Slings, And External Racks), PDF pages 89-101
+
+===== PDF PAGE 89 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 8. ROTORCRAFT EXTERNAL-LOAD DEVICE INSTALLATIONS,
+   CARGO SLINGS, AND EXTERNAL RACKS
+
+   Section 1. General
+
+ 8.1 Purpose. This section contains structural and design information for the fabrication and
+   installation of a cargo sling used as an external-load attaching means for a Class B
+   rotorcraft-load combination operation under 14 CFR part 133. As an external-load
+   attaching means, a “cargo sling” includes a quick-release device (hook) and the
+   associated cables, fittings, etc., used for the attachment of the cargo sling to the rotorcraft.
+   Title 14 CFR § 133.43(b) specifies the requirements for the quick-release device.
+
+ 8.2 Hazards and Warnings. Particular attention should be paid to the effect of the sling load
+   on the lateral as well as the fore and aft center of gravity (CG) of the rotorcraft. Use type
+   certificate (TC), Parts Manufacturer Approval (PMA), TS0, or Designated Engineering
+   Representative (DER) approved parts.
+
+ 8.3 References. It is the installer’s responsibility to ensure that the latest revisions of any
+   regulations, ACs, manufacturer’s data, etc., are used in any cargo sling or rack
+   installation. Refer to 14 CFR parts 27 and 29; Civil Air Regulation (CAR) 6, Rotorcraft
+   Airworthiness; Normal Category; and CAR 7, Rotorcraft Airworthiness; Transport
+   Categories.
+
+ 8.4 Installation Considerations.
+
+8.4.1 Location of Cargo Release in Relation to the Rotorcraft’s CG Limits. An ideal location
+   would be one that allows the line of action to pass through the rotorcraft’s CG at all times
+   (see Figure 8-1, Location of Cargo Release in Relation to the Rotorcraft’s Center of
+   Gravity, Illustration A). However, with most cargo sling installations, this ideal situation
+   is realized only when the line of action is vertical or near vertical and through the
+   rotorcraft’s CG (see Figure 8-1, Illustration B).
+
+   8.4.1.1  Whenever the line of action does not pass through the rotorcraft’s CG due to
+   the attachment method used, acceleration forces, or aerodynamic forces, the
+   rotorcraft-load combined CG will shift from the rotorcraft’s CG position.
+   Depending upon the factors involved, the shift may occur along either or both
+   the longitudinal or lateral axes. The amount of shift is dependent upon the
+   force applied (F) and the length of the arm of the line of action. Their product
+   (F x Arm) yields a moment that can be used to determine the rotorcraft-load
+   combined CG (see Figure 8-1, Illustration C). If the rotorcraft-load CG is
+   allowed to shift beyond the rotorcraft’s approved CG limits, the rotorcraft may
+   become violently uncontrollable.
+
+   8-1
+
+===== PDF PAGE 90 =====
+7/29/26  AC 43.13-2C
+
+  Figure 8-1. Location of Cargo Release in Relation to the Rotorcraft’s Center of Gravity
+
+   8.4.1.2  Thus, any attachment method or location that decreases the length of the arm
+   will reduce the distance that the combined CG will shift for a given load (F)
+   and line of action angle (see Figure 8-1, Illustration D).
+
+8.4.2 Maximum External-Load. The maximum external-load (including the weight of the cargo
+   sling) for which authorization is requested may not exceed the rated capacity of the
+   quick-release device.
+
+ 8.5 Fabrication and Installation.
+
+8.5.1 Static Test. The cargo sling installation must be able to withstand the static load required
+   by 14 CFR §§ 27.865(a) and 29.865(a). Conduct the test as outlined in Chapter 2,
+   Structural Data. If required during the test, supports may be placed at the landing gear to
+   airframe attach fittings to prevent detrimental deformation of the landing gear due to the
+   weight of the aircraft.
+
+8.5.2 Sling-Leg Angles of Cable-Supported Slings. The optimum sling-leg angle (measured
+   from the horizontal) is 45 to 60 degrees. Minimum tension in a sling leg occurs with a
+   sling-leg angle of 90 degrees, and the tension approaches infinity as the angle approaches
+   zero. Thus, larger sling-leg angles are desirable from a standpoint of cable strength
+   requirements. Slings should not be attached in such a manner as to provide sling-leg
+   angles of less than 30 degrees.
+
+   8-2
+
+===== PDF PAGE 91 =====
+7/29/26  AC 43.13-2C
+
+8.5.3 Minimum Sling-Leg Cable Strength.
+
+   8.5.3.1  An analysis that considered the effects of 30-degree sling angles showed that
+   the minimum cable strength design factor required would be 2.5 times the
+   maximum external load for each leg regardless of the number of legs.
+   Although this is the minimum strength required by 14 CFR part 133, it may be
+   desirable to double this value to allow for the deterioration of the sling-leg
+   cables in service. This will result in a cable strength equal to five times the
+   maximum external load.
+
+   Example: Maximum external load 850 pounds
+   Minimum required sling-leg cable
+   strength 850 x 2.5 = 2,125
+   Minimum desired sling-leg cable
+   strength 850 x 2.5 x 2 = 4,250
+
+   8.5.3.2  A 3/16-inch, nonflexible 19-wire cable (MIL-DTL-87161G) provides a
+   satisfactory cable strength. For convenience, the cable sizes desired for
+   various loads have been calculated and are tabulated in Table 8-1 based on a
+   factor of five:
+
+   Table 8-1. Cable Load Table
+
+  Maximum  Aircraft Cable Size for Each Cargo Sling Leg
+ External Load  MIL-DTL-87161G  MIL-DTL-83420N  MIL-DTL-83420N
+   (pounds)  Type II Carbon Steel  Carbon Steel Corrosion Resistant Steel
+   100  1/16  3/32  3/32
+   200  3/32  3/32  1/8
+   300  7/64  1/8  1/8
+   400  1/8  1/8  5/32
+   500  5/32  5/32  3/16
+   600  5/32  3/16  3/16
+   700  3/16  3/16  3/16
+   800  3/16  3/16  7/32
+   900  3/16  7/32  7/32
+   1,000  7/32  7/32  7/32
+   1,200  7/32  1/4  1/4
+   1,400  1/4  1/4  9/32
+   1,600  1/4  9/32  5/16
+   1,800  5/16  5/16  5/16
+   2,000  5/16  3/8  3/8
+
+   8-3
+
+===== PDF PAGE 92 =====
+7/29/26  AC 43.13-2C
+
+8.5.4 Sling Installation.
+
+   8.5.4.1  Attach the cargo sling to landing gear members or other structure capable of
+   supporting the loads to be carried. Install the quick-release device in a level
+   attitude with the throat opening facing the direction as indicated on the
+   quick-release device. When cables are used to support the quick-release
+   device, make sure the cables are not twisted or allowed to twist in the
+   direction to unlay the cable.
+
+   8.5.4.2  Some cargo release devices are provided with a fitting to permit installation of
+   a guideline to assist in fully automatic engagement of the load target ring or
+   load bridle. Secure the guideline to the quick-release device with a shear pin
+   of a definite known value that will shear if a load becomes entangled on or
+   over the guideline. Provision should also be made for cable-supported slings
+   to be drawn up against the fuselage into a stowage position to prevent striking
+   or dragging the release on the ground when not in use.
+
+8.5.5 Installation of Release Controls. See Figure 8-2, Typical Cargo Sling Wiring Diagram,
+   for a typical wiring diagram of the electrical controls.
+
+   8.5.5.1  Install a cargo release master switch, readily accessible to the pilot, to provide
+   a means of deactivating the release circuit. The power for the electrical release
+   circuit should originate at the primary bus. The “auto” position of the release
+   master switch on some cargo release units provides for automatic release
+   when the load contacts the ground and the load on the release is reduced to a
+   preset value.
+
+   8.5.5.2  Install the cargo release switch on one of the pilot’s primary controls. It is
+   usually installed on the cyclic stick to allow the pilot to release the load with
+   minimum distraction after maneuvering the load into the release position.
+
+   8-4
+
+===== PDF PAGE 93 =====
+7/29/26  AC 43.13-2C
+
+   Figure 8-2. Typical Cargo Sling Wiring Diagram
+
+   8.5.5.3  Install the emergency manual release control in a suitable position that is
+   readily accessible to the pilot or other crewmember. Allow sufficient slack in
+   the control cable to permit complete cargo movement without tripping the
+   cargo release.
+
+   8.5.5.4  The manual ground release handle, a feature of some cargo release units,
+   permits ground personnel to open the cargo release.
+
+   8.5.5.5  Label or placard all release controls as to each function and operation.
+
+8.5.6 Functional Test.
+
+   8.5.6.1  Test the release action of each quick-release device release control with
+   various loads up to and including the maximum external load. If the necessary
+   load can be applied, this may be done in a test fixture or while installed on the
+   rotorcraft.
+
+   8-5
+
+===== PDF PAGE 94 =====
+7/29/26  AC 43.13-2C
+
+   8.5.6.2  If the quick-release device incorporates an automatic release, the unit should
+   not release the load when the master switch is placed in the “automatic”
+   position until the load on the device is reduced to the preset value (usually
+   80 to 120 pounds).
+
+   Figure 8-3. Typical Cargo Sling Installation No. 1
+
+8.5.7 Supplemental Flight Information. The aircraft may not be used in 14 CFR part 133
+   external-load operations until a Rotorcraft-Load Combination Flight Manual (RLCFM) is
+   prepared in accordance with 14 CFR § 133.47. Appropriate entries should also be made
+   in the aircraft’s Weight and Balance (W&B) data, equipment list, and logbooks. The
+   FAA Form 337, Major Repair and Alteration (Airframe, Powerplant, Propeller, or
+   Appliance), should also be executed as required by 14 CFR § 43.5(a) and (b).
+
+   8-6
+
+===== PDF PAGE 95 =====
+7/29/26  AC 43.13-2C
+
+8.5.8 Inspection and Maintenance. Inspection of the complete installation should be
+   accomplished prior to each lift for security and functionality. Maintenance should be
+   accomplished in accordance with the manufacturer’s instructions.
+
+ Figure 8-4. Typical Cargo Sling Installation No. 1 (Showing Fuselage Attachment Fitting)
+
+   8-7
+
+===== PDF PAGE 96 =====
+7/29/26  AC 43.13-2C
+
+   Figure 8-5. Typical Cargo Sling Installation No. 1 (Showing Fore Aft Limiting Stops)
+
+   Figure 8-6. Typical Cargo Sling Installation No. 2 (Cargo Hook Attached Directly to
+   Underside of Fuselage)
+
+   8-8
+
+===== PDF PAGE 97 =====
+7/29/26  AC 43.13-2C
+
+   Figure 8-7. Typical Cargo Sling Installation No. 3 (4-Leg, Cable Suspended)
+
+Figure 8-8. Typical Cargo Sling Installation No. 3 (Showing Cable Sling Leg Attachment to
+   Landing Gear Crosstube Fitting)
+
+   8-9
+
+===== PDF PAGE 98 =====
+7/29/26  AC 43.13-2C
+
+   Figure 8-9. Typical Cargo Sling Installation No. 3 (Showing Cargo Sling in Stowed
+   Position)
+
+   8-10
+
+===== PDF PAGE 99 =====
+7/29/26  AC 43.13-2C
+
+   Section 2. Cargo Racks
+
+ 8.6 General. This section contains structural and design information for the fabrication and
+   installation of a cargo rack used as an external-load attaching means for a Class A
+   rotorcraft-load combination operation under 14 CFR part 133.
+
+ 8.7 Fabrication of Cargo Racks. The type of construction and method of attachment depend
+   upon the material to be used and the configuration of the rotorcraft involved.
+   Figures 8-10 through 8-14, Typical Cargo Rack Installation No. 3, illustrate typical
+   construction and installation methods.
+
+   Figure 8-10. Typical Cargo Rack Installation No. 1
+
+ 8.8 Static Test. The cargo rack installation must withstand the static test load required by
+   14 CFR § 27.865(a). Conduct the test as outlined in Chapter 2.
+
+ 8.9 Supplemental Flight Information. The aircraft may not be used in 14 CFR part 133
+   external-load operations until an RLCFM is prepared in accordance with 14 CFR
+   § 133.47.
+
+   8-11
+
+===== PDF PAGE 100 =====
+7/29/26  AC 43.13-2C
+
+   Figure 8-11. Typical Cargo Rack Installation No. 1 (Showing Attachment Detail)
+
+   Figure 8-12. Typical Cargo Rack Installation No. 2
+
+   8-12
+
+===== PDF PAGE 101 =====
+7/29/26  AC 43.13-2C
+
+  Figure 8-13. Typical Cargo Rack Installation No. 2 (Showing Rack Partially Installed)
+
+   Figure 8-14. Typical Cargo Rack Installation No. 3
+
+   8-13
+

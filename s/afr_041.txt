@@ -1,0 +1,2791 @@
+FAA-H-8083-31B Airframe Handbook, chapter 11 (Communication & Navigation), PDF pages 622-639
+
+===== PDF PAGE 622 =====
++
+
+Expoxy lens/case
+Wire bond
+
+P-type
+
+−
+
+N-type
+
+Reflective cavity
+Semiconductor die
+Anvil
+Post
+
+Leadframe
+
+Electron
+
+Hole
+
+Flat spot
+
+Conduction band
+Light
+Band gap
+
+Anode
+
+Cathode
+
+Valence band
+
+Figure 11-42. A close up of a single LED (left) and the process of a semi-conductor producing light by electrons dropping into holes and
+giving off energy (right). The symbol for a light emitting diode is the diode symbol with two arrows pointing away from the junction.
+
+of the secondary coil changes. [Figure 11-44B] Current then
+flows from ground, through the load resistor, Diode 2, and
+the bottom half of the secondary coil. Current flow through
+Diode 1 is blocked. This arrangement yields positive DC
+from cycling AC with no wasted current.
+
+from the top of the coil through diode (D3), then through the
+load resistor, and through diode (D4) on its way back to the
+bottom of the secondary coil. The output waveform reflects
+the higher voltage achieved by rectifying the full AC cycle
+through the entire length of the secondary coil.
+
+Another way to construct a full wave rectifier uses four
+semiconductor diodes in a bridge circuit. Because the
+secondary coil of the transformer is not tapped at the center,
+the resultant DC voltage output is twice that of the two-diode
+full wave rectifier. [Figure 11-45] During the first half of
+the AC cycle, the bottom of the secondary coil is negative.
+Current flows from it through diode (D1), then through the
+load resistor, and through diode (D2) on its way back to the
+top of the secondary coil. When the AC reverses its cycle,
+the polarity of the secondary coil changes. Current flows
+
+Use and rectification of three-phase AC is also possible on
+aircraft with a specific benefit. The output DC is very smooth
+and does not drop to zero. A six-diode circuit is built to rectify
+
+A
+
+−
++
+
+AC input
+
+AC output
+
+B
+
+Load resistor
+
+Diode 1
+
+OV
+
+Diode
+
+Transformer
+
++
+
+−
+
+Diode 2
+
+VRL
+OV
+
+Diode 1
+
+−
+OV
+
++
+
+Positive half wave
+
+0
+−
+
++
+
+Diode 2
+
+VRL
+
+Output waveform
+
+Figure 11-43. A half wave rectifier uses one diode to produce
+
+pulsating DC current from AC. Half of the AC cycle is wasted when
+the diode blocks the current flow as the AC cycles below zero.
+
+Figure 11-44. A full wave rectifier can be built by center tapping the
+secondary coil of the transformer and using two diodes in separate
+circuits. This rectifies the entire AC input into a pulsating DC with
+twice the frequency of a half wave rectifier.
+
+11-19
+
+===== PDF PAGE 623 =====
+the typical three-phase AC produced by an aircraft alternator.
+[Figure 11-46]
+
+Amplifiers
+An amplifier is a circuit that changes the amplitude of an
+electric signal. This is done through the use of transistors.
+As mentioned, a transistor that is forward biased at the
+base-emitter junction and reversed biased at the collectorbase junction is turned on. It can conduct current from the
+collector to the emitter. Because a small signal at the base
+can cause a large current to flow from collector to emitter, a
+transistor in itself can be said to be an amplifier. However, a
+transistor properly wired into a circuit with resistors, power
+sources, and other electronic components, such as capacitors,
+can precisely control more than signal amplitude. Phase and
+impedance can also be manipulated.
+Since the typical bipolar junction transistor requires a based
+circuit and a collector-emitter circuit, there should be four
+Transformer
++
+D2
+
+D3
+
+D4
+
+D1
+
+AC
+Input
+
+−
++
+0
+−
+Output waveform
+Figure 11-45. The bridge-type four-diode full wave rectifier circuit
+is most commonly used to rectify single-phase AC into DC.
+
+D3
+Rotor
+(field)
+
+D1
+
+−
+
+1
+
+2
+
+D5
+
+Stator
++
+
+3
+D6
+
+D4
+
+Load resistor
+
+Each stator coil corresponds to a phase of AC and becomes
+negative for 120° of rotation of the rotor. When stator 1 or
+the first phase is negative, current flows from it through
+diode (D1), then through the load resistor and through diode
+(D2) on its way back to the third phase coil. Next, the second
+phase coil becomes negative and current flows through diode
+(D3). It continues to flow through the load resistor and diode
+(D4) on its way back to the first phase coil. Finally, the third
+stage coil becomes negative causing current to flow through
+diode (D5), then the load resistor and diode (D6) on its way
+back to the second phase coil. The output waveform of this
+three-phase rectifier depicts the DC produced. It is a relatively
+steady, non-pulsing flow equivalent to just the tops of the
+individual curves. The phase overlap prevents voltage from
+falling to zero producing smooth DC from AC.
+
+D2
+
++
+−
+
+12 3
+Output waveform
+
+Figure 11-46. A six-diode, three-phase AC rectifier.
+
+terminals, two for each circuit. However, the transistor only
+has three terminals (i.e., the base, the collector, and the
+emitter). Therefore, one of the terminals must be common to
+both transistor circuits. The selection of the common terminal
+affects the output of the amplifier.
+The three basic amplifier types, named for which terminal
+of the transistor is the common terminal to both transistor
+circuits, include:
+1.
+
+Common-emitter amplifier.
+
+2.
+
+Common-collector amplifier.
+
+3.
+
+Common-base amplifier.
+
+Common-Emitter Amplifier
+The common-emitter amplifier controls the amplitude of
+an electric signal and inverts the phase of the input signal.
+Figure 11-47 illustrates a common-emitter amplifier for AC
+using a NPN transistor and its output signal graph. Common
+emitter circuits are characterized by high current gain and
+a 180° voltage phase shift from input to output. It is for the
+amplification of a microphone signal to drive a speaker. As
+always, adequate voltage of the correct polarity to the base puts
+the transistor in the active mode or turns it on. Then, as the
+base input current fluctuates, the current through the transistor
+fluctuates proportionally. However, AC cycles through
+positive and negative polarity. Every 180°, the transistor shuts
+off because the polarity to the base-emitter junction of the
+transistor is not correct to forward bias the junction. To keep
+the transistor on, a DC biasing voltage of the correct polarity
+(shown as a 2.3 volts (V) battery) is placed in series with the
+input signal in the base circuit to hold the transistor in the active
+mode as the AC polarity changes. This way the transistor stays
+11-20
+
+===== PDF PAGE 624 =====
+in the active mode to amplify an entire AC signal.
+Transistors are rated by ratio of the collector current to
+the base current, or Beta (β). This is established during
+the manufacture of the unit and cannot be changed. A 100
+β transistor can handle 100 times more current through a
+collector-emitter circuit than the base input signal. This
+current in Figure 11-47 is provided from the 15V battery,
+V1. So, the amplitude of amplification is a factor of the
+beta of the transistor and any inline resistors used in the
+circuits. The fluctuations of the output signal, however, are
+entirely controlled by the fluctuations of current input to the
+transistor base.
+If measurements of input and output voltages are made, it is
+shown that as the input voltage increases, the output voltage
+decreases. This accounts for the inverted phase produced by
+a common-emitter circuit. [Figure 11-47]
+Common-Collector Amplifier
+Another basic type of amplifier circuit is the common-collector
+amplifier. Common-collector circuits are characterized by
+high current gain, but virtually no voltage gain. The input
+circuit and the load circuit in this amplifier share the collector
+terminal of the transistor used. Because the load is in series
+with the emitter, both the input current and output current run
+through it. This causes a directly proportional relationship
+between the input and the output. The current gain in this
+circuit configuration is high. A small amount of input current
+can control a large amount of current to flow from the
+collector to the emitter. A common collector amplifier circuit
+Speaker 8Ω
+
+AC
+Vinput
+1.5V
+2 kHz
+
+R1 1kΩ
+
++
+
+Q1
+
+Input
+Output
+
+V
+4.0
+
+15 V
+
+−
+
+Vbias 2.3V
+Units V
+
+V1
+
+I(v(1))
+
+v(1)
+
+2.0
+0.0
+−2.0
+−4.0
+0.0
+
+0
+I(v(1))
+
+500.0
+Time uS
+
+−20 mA
+−40 mA
+1000.0
+
+Figure 11-47. A common-emitter amplifier circuit for amplifying
+an AC microphone signal to drive a speaker (top) and the graph
+of the output signal showing a 180 degree shift in phase (bottom).
+
+is illustrated in Figure 11-48. The base current needs to flow
+through the PN junction of the transistor, which has about
+a 0.7V threshold to be turned on. The output current of the
+amplifier is the beta value of the transistor plus 1.
+During AC amplification, the common-collector amplifier has
+the same problem that exists in the common-emitter amplifier.
+The transistor must stay on or in the active mode regardless
+of input signal polarity. When the AC cycles through zero, the
+transistor turns off because the minimum amount of current
+to forward bias the transistor is not available. The addition
+of a DC biasing source (battery) in series with the AC signal
+in the input circuit keeps the transistor in the active mode
+throughout the full AC cycle. [Figure 11-49]
+A common-collector amplifier can also be built with a PNP
+transistor. [Figure 11-50] It has the same characteristics as the
+NPN common-collector amplifier shown in Figure 11-50. When
+arranged with a high resistance in the input circuit and a small
+resistance in the load circuit, the common-collector amplifier can
+be used to step down the impedance of a signal. [Figure 11-51]
+Common-Base Amplifier
+A third type of amplifier circuit using a bipolar transistor
+is the common-base amplifier. In this circuit, the shared
+transistor terminal is the base terminal. [Figure 11-52] This
+causes a unique situation in which the base current is actually
+larger than the collector or emitter current. As such, the
+common-base amplifier does not boost current as the other
+amplifiers do. It attenuates current but causes a high gain in
+voltage. A very small fluctuation in base voltage in the input
+circuit causes a large variation in output voltage. The effect
+on the circuit output is direct, so the output voltage phase is
+the same as the input signal but much greater in amplitude.
+As with the other amplifier circuits, when amplifying an
+AC signal with a common-base amplifier circuit, the input
+signal to the base must include a DC source to forward bias
+the transistor’s base-emitter junction. This allows current
+to flow from the collector to the emitter during both cycles
+of the AC. A circuit for AC amplification is illustrated in
+Figure 11-53 with a graph of the output voltage showing
+the large increase produced. The common-base amplifier is
+limited in its use since it does not increase current flow. This
+makes it the least used configuration. However, it is used in
+radio frequency amplification because of the low input Z.
+Figure 11-54 summarizes the characteristics of the bipolar
+amplifier circuits discussed above.
+Note: There are many variations in circuit design. JFETs and
+MOSFETS are also used in amplifier circuits, usually in small
+signal amplifiers due to their low noise outputs.
+
+11-21
+
+===== PDF PAGE 625 =====
+B
+
+C
+−
+
+E
+Vinput
+Voutput
+
++
+
+Vinput
+
+Rload
+
+Rload
+−
+0.0
+
+Figure 11-48. A basic common-collector amplifier circuit. Both
+
+the input and output circuits share a path through the load and the
+emitter. This causes a direct relationship of the output current to
+the input current.
+
+v(1)
+
+−1.0
+−2.0
+
+Oscillator Circuits
+Oscillators function to make AC from DC. They can produce
+various waveforms as required by electronic circuits. There
+are many different types of oscillators and oscillator circuits.
+Some of the most common types are discussed below.
+A sine wave is produced by generators when a conductor
+is rotated in a uniform magnetic field. The typical AC sine
+wave is characterized by a gradual build-up and decline of
+voltage in one direction, followed by a similar smooth buildup to peak voltage and decline to zero again in the opposite
+direction. The value of the voltage at any given time in
+the cycle can be calculated by taking the peak voltage and
+
++
+
+v(3)
+
+−3.0
+−4.0
+0.0
+
+500.0
+Time uS
+
+1000.0
+
+Figure 11-50. A common-collector amplifier circuit with a PNP
+
+transistor has the same characteristics as that of a commoncollector amplifier with a NPN transistor except for reversed voltage
+polarities and current direction.
+
+Input
+
+RB 20KΩ
+
+Output
+
+RE 50Ω
+ECE
+
+V1 15V
+
+Vinput
+1.5V
+2 kHz
+
+Vbias
+2.3V
+
+−
+
+EEB
+
++
+
+Rload 5 kΩ
+
++
+
+−
+C
+
+4.0
+v(1)
+Input signal
+
+3.0
+2.0
+
+v(3)
+
+Figure 11-51. This common-collector circuit has high input
+
+impedance and low output impedance.
+
+1.0
+0.0
+0.0
+
+Output signal
+
+500.0
+Time uS
+
+1000.0
+
+Figure 11-49. A DC biasing current is used to keep the transistor of
+
+a common-collector amplifier in the active mode when amplifying
+AC (top). The output of this amplifier is in phase and directly
+proportional to the input (bottom). The difference in amplitude
+between the two is the 0.7V used to bias the PN junction of the
+transistor in the input circuit.
+
+multiplying it by the sine of the angle through which the
+conductor has rotated. [Figure 11-55]
+A square wave is produced when there is a flow of electrons
+for a set period that stops for a set amount of time and
+then repeats. In DC current, this is simply pulsing DC.
+[Figure 11-56] This same wave form can be of opposite
+polarities when passed through a transformer to produce AC.
+Certain oscillators produce square waves.
+11-22
+
+===== PDF PAGE 626 =====
+Electronic Oscillation
+E
+
+B
+
+C
+Voutput
+
+Rload
+Vinput
++
+−
+
+−
+
++
+
+Figure 11-52. A common-base amplifier circuit for DC current.
+
+Q1
+Vinput
+0.12Vpp
+0Voffset
+2 kHz
+
+R1100Ω
+
+Rload
+5.0kΩ
+
+Vinput
++
+−
+
+Voutput
+
+V1 15V
++
+−
+
+15.0
+10.0
+
+v(4)
+
+5.0
+0.0
+
+I0*V(5.2)
+
+−5.0
+0.0
+
+500.0
+Time uS
+
+1000.0
+
+Figure 11-53. In a common-base amplification circuit for AC (top),
+
+output voltage amplitude is greatly increased in phase with the
+input signal (bottom).
+
+An oscillator known as a relaxation oscillator produces
+another kind of wave form, a sawtooth wave. A slow rise
+from zero to peak voltage is followed by a rapid drop-off of
+voltage back to almost zero. Then it repeats. [Figure 11-57] In
+the circuit, a capacitor slowly charges through a resistor. A
+neon bulb is wired across the capacitor. When its ignition
+voltage is reached, the bulb conducts. This short-circuits the
+charged capacitor, which causes the voltage to drop to nearly
+zero and the bulb goes out. Then, the voltage rises again as
+the cycle repeats.
+Voltage Gain
+
+Oscillation in electronic circuits is accomplished by
+combining a transistor and a tank circuit. A tank circuit is
+comprised of a capacitor and coil parallel to each other.
+[Figure 11-58] When attached to a power source by closing
+switch A, the capacitor charges to a voltage equal to the
+battery voltage. It stays charged, even when the circuit to
+the battery is open (switch in position B). When the switch
+is put in position C, the capacitor and coil are in a closed
+circuit. The capacitor discharges through the coil. While
+receiving the energy from the capacitor, the coil stores it by
+building up an electromagnetic field. When the capacitor is
+fully discharged, the coil stops conducting. The magnetic
+field collapses, which induces current flow. The current
+charges the opposite plate of the capacitor. When completely
+charged, the capacitor discharges into the coil again. The
+magnetic field builds again and stops when the capacitor is
+fully discharged. The magnetic field collapses again, which
+induces current that charges the original plate of the capacitor
+and the cycle repeats.
+This oscillation of charging and discharging the capacitor
+through the coil would continue indefinitely if a circuit could
+be built with no resistance. This is not possible. However, a
+circuit can be built using a transistor that restores losses due
+to resistance. There are various ways to accomplish this. The
+Hartley oscillator circuit in Figure 11-59 is one. The circuit
+can oscillate indefinitely as long as it is connected to power.
+When the switch is closed, current begins to flow in the
+oscillator circuit. The transistor base is supplied with biasing
+current through the voltage divider RA and RB. This allows
+current to flow through the transistor from the collector to
+the emitter, through RE and through the lower portion of the
+center tapped coil that is labeled L1. The current increasing
+through this coil builds a magnetic field that induces current
+in the upper half of the coil labeled L2. The current from
+L2 charges capacitor C2, which increases the forward bias
+of the transistor. This allows an increasing flow of current
+through the transistor, RE, and L1 until the transistor is
+saturated and capacitor C1 is fully charged. Without force
+to add electrons to capacitor C1, it discharges and begins
+
+Type of Amplifier
+
+Impedance
+
+Current Gain
+
+Power Gain
+
+Phase
+
+Common-emitter
+
+Input: fairly high
+Output: fairly high
+
+Relatively large
+
+Relatively large
+
+Large
+
+Inverts phase
+
+Common-collector
+
+Input: high
+Output: low
+
+Always less than one
+
+Relatively large
+
+Relatively large
+
+Output same as input
+
+Common-base
+
+Input: low
+Output: high
+
+Large
+
+Always less than one
+
+Relatively large
+
+Output same as input
+
+Figure 11-54. PN junction transistor amplifier characteristics.
+
+11-23
+
+===== PDF PAGE 627 =====
+B
+
+90°
+
+1.0
+0°
+0°
+
+180°
+
+A
+.87
+.5
+
+Battery
+
+N
+
+240°300° 360°
+60° 120°
+
+.5
+.87
+
+120°
+270°
+
+1.0
+
+S
+
+C
+
++
+−
+
++
+0
+
+Figure 11-55. Voltage over time of sine waveform electricity created
+
+when a conductor is rotated through a uniform magnetic field, such
+as in a generator.
+
+−
+Damped oscillation caused by resistance in the circuit
+
+Figure 11-58. A tank circuit alternately charges opposite plates of
+
+a capacitor through a coil in a closed circuit. The oscillation is an
+alternating current that diminishes due to resistance in the circuit.
+
++
+−
+Square wave
+
+Figure 11-56. The waveform of pulsing DC is a square wave.
+
+Ignition
+voltage
+
+Rise rate determined by resistor
+
+0
+Resistor
+
++
+−
+
++
+C
+
+NE
+
+E
+
+The frequency of the AC oscillating in the Hartley oscillator
+circuit depends on the inductance and capacitance values
+of the components used. Use of a crystal in an oscillator
+circuit can control the frequency more accurately. A crystal
+vibrates at a single, consistent frequency. When flexed, a
+small pulse of current is produced through the piezoelectric
+effect. Placed in the feedback loop, the pulses from the
+crystal control the frequency of the oscillator circuit. The tank
+circuit component values are tuned to match the frequency
+of the crystal. Oscillation is maintained as long as power is
+supplied. [Figure 11-60]
+Other types of oscillator circuits used in electronics and
+computers have two transistors that alternate being in the
+active mode. They are called multi-vibrators. The choice of
+oscillator in an electronic device depends on the exact type
+of manipulation of electricity required to permit the device
+to function as desired.
+
+Digital Electronics
+Figure 11-57. A relaxation oscillator produces a sawtooth wave
+
+output.
+
+the oscillation in the tank circuit described in the previous
+section. As C1 becomes fully charged, current to charge C2
+reduces and C2 also discharges. This adds the energy needed
+to the tank circuit to compensate for resistance losses. As C2
+is discharging, it reduces forward biasing and eventually the
+transistor becomes reversed biased and cuts off. When the
+opposite plate of capacitor C1 is fully charged, it discharges,
+and the oscillation is in progress. The transistor base becomes
+forward biased again, allowing for current flow through the
+resistor RE, coil L1, etc.
+
+The above discussion of semiconductors, semiconductor
+devices, and circuitry is only an introduction to the electronics
+found in communications and navigation avionics. In-depth
+maintenance of the interior electronics on most avionics
+devices is performed only by certified repair stations and
+trained avionics technicians. The airframe technician is
+responsible for installation, maintenance, inspection, and
+proper performance of avionics in the aircraft.
+Modern aircraft increasingly employs digital electronics in
+avionics rather than analog electronics. Transistors are used
+in digital electronics to construct circuits that act as digital
+logic gates. The purpose and task of a device is achieved
+by manipulating electric signals through the logic gates.
+Thousands, and even millions, of tiny transistors can be
+11-24
+
+===== PDF PAGE 628 =====
+C2
+RFC
+RA
+
+RFC
+
+C2
+
+RB
+S
+
+RB
+C1
+
+L2
+L1
+
+S
+
+C1
+
+L
+Crystal
+
+C3
+
+RE
+Figure 11-60. A crystal in an electronic oscillator circuit is used to
+tune the frequency of oscillation.
+
+Figure 11-59. A Hartley oscillator uses a tank circuit and a transistor
+
+to maintain oscillation whenever power is applied.
+
+placed on a chip to create the digital logic landscape through
+which a component’s signals are processed.
+Digital Building Blocks
+Digital logic is based on the binary number system. There are
+two conditions that may exist, 1 or 0. In a digital circuit, these
+are equivalent to voltage or no voltage. Within the binary
+system, these two conditions are called Logic 1 and Logic 0.
+Using just these two conditions, gates can be constructed to
+manipulate information. There are a handful of common logic
+gates that are used. By combining any number of these tiny
+solid-state gates, significant memorization, manipulation,
+and calculation of information can be performed.
+The NOT Gate
+
+The NOT gate is the simplest of all gates. If the input to the
+gate is Logic 1, then the output is NOT Logic 1. This means
+that it is Logic 0, since there are only two conditions in the
+binary world. In an electronic circuit, a NOT gate would
+invert the input signal. In other words, if there was voltage at
+the input to the gate, there would be no output voltage. The
+gate can be constructed with transistors and resistors to yield
+this electrical logic every time. (The gate or circuit would also
+have to invert an input of Logic 0 into an output of Logic 1.)
+To understand logic gates, truth tables are often used. A truth
+table gives all of the possibilities in binary terms for each
+gate containing a characteristic logic function. For example, a
+truth table for a NOT gate is illustrated in Figure 11-61. Any
+input (A) is NOT present at the output (B). This is simple,
+but it defines this logic situation. A tiny NOT gate circuit can
+be built using transistors that produce these results. In other
+words, a circuit can be built such that if voltage arrives at
+
+the gate, no voltage is output or vice-versa.
+When using transistors to build logic gates, the primary
+concern is to operate them within the circuits so the transistors
+are either OFF (not conducting) or fully ON (saturated). In
+this manner, reliable logic functions can be performed. The
+variable voltage and current situations present during the
+active mode of the transistor are of less importance.
+Figure 11-62 illustrates an electronic circuit diagram that
+performs the logic NOT gate function. Any input, either a
+no voltage or voltage condition, yields the opposite output.
+This gate is built with bipolar junction transistors, resistors,
+and a few diodes. Other designs exist that may have different
+components.
+When examining and discussing digital electronic circuits, the
+electronic circuit design of a gate is usually not presented. The
+symbol for the logic gate is most often used. [Figure 11-61]
+The technician can then concentrate on the configuration of
+the logic gates in relation to each other. A brief discussion of
+the other logic gates, their symbols, and truth tables follow.
+Buffer Gate
+
+Another logic gate with only one input and one output is the
+buffer. It is a gate with the same output as the input. While
+this may seem redundant or useless, an amplifier may be
+considered a buffer in a digital circuit because if there is
+voltage present at the input, there is an output voltage. If
+there is no voltage at the input, there is no output voltage.
+When used as an amplifier, the buffer can change the values
+of a signal. This is often done to stabilize a weak or varying
+signal. All gates are amplifiers subject to output fluctuations.
+The buffer steadies the output of the upstream device while
+maintaining its basic characteristic. Another application of a
+buffer that is two NOT gates, is to use it to isolate a portion
+of a circuit. [Figure 11-63]
+11-25
+
+===== PDF PAGE 629 =====
+A
+
+B
+
+A
+
+B
+
+1
+
+0
+
+0
+
+1
+
+Input
+
+Output
+
+Input
+
+Output
+
+0
+
+0
+
+1
+
+1
+
+The Buffer gate
+
+The NOT gate
+Figure 11-61. A NOT logic gate symbol and a NOT gate truth table.
+
+Figure 11-63. A buffer or amplifier symbol and the truth table of the
+
+AND Gate
+
+a Logic 1 output because it still meets the condition of one
+of the inputs being Logic 1.
+
+Most common logic gates have two inputs. Three or more
+inputs are possible on some gates. When considering the
+characteristics of any logic gate, an output of Logic 1 is
+sought and a condition for the inputs is stated or examined.
+For example, Figure 11-64 illustrates an AND gate. For an
+AND gate to have a Logic 1 output, both inputs have to be
+Logic 1. In an actual electronic circuit, this means that for a
+voltage to be present at the output, the AND gate circuit has to
+receive voltage at both of its inputs. As pointed out, there are
+different arrangements of electronic components that yield
+this result. Whichever is used is summarized and presented
+as the AND gate symbol. The truth table in Figure 11-64
+illustrates that there is only one way to have an output of
+Logic 1 or voltage when using an AND gate.
+OR Gate
+
+Another useful and common logic gate is the OR gate. In an
+OR gate, to have an output of Logic 1 (voltage present), one
+of the inputs must be Logic 1. As seen in Figure 11-65, only
+one of the inputs needs to be Logic 1 for there to be an output
+of Logic 1. When both inputs are Logic 1, the OR gate has
+
+R1
+
+R4
+
+Q3
+
+Q1
+
+Input
+
+Q2
+
+D2
+Output
+
+D1
+
+NAND Gate
+
+The AND, OR, and NOT gates are the basic logic gates. A few
+other logic gates are also useful. They can be derived from
+combining the AND, OR, and NOT gates. The NAND gate is
+a combination of an AND gate and a NOT gate. This means
+that AND gate conditions must be met and then inverted. So,
+the NAND gate is an AND gate followed by a NOT gate.
+The truth table for a NAND gate is shown in Figure 11-66
+along with its symbol. If a Logic 1 output is to exist from a
+NAND gate, inputs A and B must not both be Logic 1. Or, if
+a NAND gate has both inputs Logic 1, the output is Logic 0.
+Stated in electronic terms, if there is to be an output voltage,
+then the inputs cannot both have voltage or, if both inputs
+have voltage, there is no output voltage.
+Note: The values in the output column of the NAND gate
+table are exactly the opposite of the output values in the AND
+gate truth table.
+NOR Gate
+
+A NOR gate is similarly arranged except that it is an inverted
+OR gate. If there is to be a Logic 1 output, or output voltage,
+then neither input can be Logic 1 or have input voltage. This
+is the same as satisfying the OR gate conditions and then
+putting output through a NOT gate. The NOR gate truth table
+in Figure 11-67 shows that the NOR gate output values are
+exactly the opposite of the OR gate output values.
+
+VCC
+
+R2
+
+buffer, which is actually two consecutive NOT gates.
+
+Q4
+R3
+
+The NAND gate and the NOR gate have a unique distinction.
+Each one can be the only gate used in circuitry to produce the
+same output as any of the other logic gates. While it may be
+inefficient, it is testimonial to the flexibility that designers
+have when working with logic gates, the NAND and NOR
+gates in particular.
+EXCLUSIVE OR Gate
+
+Figure 11-62. An electronic circuit that reliably performs the NOT
+logic function.
+
+Another common logic gate is the EXCLUSIVE OR gate.
+It is the same as an OR gate except for the condition where
+both inputs are Logic 1. In an OR gate, there would be Logic
+11-26
+
+===== PDF PAGE 630 =====
+Input
+InputA
+Output
+InputB
+
+The AND gate
+
+B
+
+0
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+B
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+InputB
+
+The NAND gate
+
+that the NAND gate is an inverted AND gate.
+
+Input
+InputA
+Output
+
+Negative Logic Gates
+
+There are also negative logic gates. The negative OR and the
+negative AND gates are gates wherein the inputs are inverted
+rather than inverting the output. This creates a unique set of
+outputs as seen in the truth tables in Figure 11-69. The negative
+OR gate is not the same as the NOR gate as is sometimes
+misunderstood. Neither is the negative AND gate the same
+as the NAND gate. However, as the truth tables reveal, the
+output of a negative AND gate is the same as a NOR gate, and
+the output of a negative OR gate is the same as a NAND gate.
+In summary, electronic circuits use transistors to construct
+logic gates that produce outputs related to the inputs shown
+in the truth tables for each kind of gate. The gates are then
+assembled with other components to manipulate data in digital
+circuits. The electronic digital signals used are voltage or no
+voltage representations of Logic 1 or Logic 0 conditions. By
+using a series of voltage output or no voltage output gates,
+manipulation, computation, and storage of data takes place.
+Digital Aircraft Systems
+Digital aircraft systems are the present and future of aviation.
+From communication and navigation to engine and flight
+controls, increased proliferation of digital technology
+increases reliability and performance. Processing, storing,
+and transferring vital information for the operation of an
+aircraft in digital form provides a usable common language
+
+InputA
+Output
+
+The OR gate
+
+Output
+
+Figure 11-66. A NAND gate symbol and its truth table illustrating
+
+1 output when both inputs are Logic 1. This is not allowed
+in an EXCLUSIVE OR gate. When either of the inputs is
+Logic 1, the output is Logic 1. But, if both inputs are logic
+1, the Logic 1 output is excluded or Logic 0. [Figure 11-68]
+
+Input
+
+Output
+
+A
+
+B
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+Figure 11-65. An OR gate symbol and its truth table.
+
+Output
+
+A
+
+InputA
+
+Figure 11-64. An AND gate symbol and its truth table.
+
+InputB
+
+Input
+
+Output
+
+A
+
+InputB
+
+The NOR gate
+
+Output
+
+A
+
+B
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+Figure 11-67. A NOR gate symbol and its truth table illustrating
+
+that the NOR gate is an inverted OR gate.
+
+for monitoring, control, and safety. Integration of information
+from different systems is simplified. Self-monitoring, built-in
+test equipment (BITE) and air-to-ground data links increase
+maintenance efficiency. Digital buss networking allows
+aircraft system computers to interact for a coordinated
+comprehensive approach to flight operations.
+Digital Data Displays
+Modern digital data displays are the most visible features
+of digital aircraft systems. They extend the functional
+advantages of state of the art digital communication and
+navigation avionics and other digital aircraft systems via
+the use of an enhanced interface with the pilot. The result
+is an increase in situational awareness and overall safety of
+flight. Digital data displays are the glass of the glass flight
+deck. They expand the amount, clarity, and proximity of the
+information presented to the pilot. [Figure 11-70]
+Many digital data displays are available from numerous
+manufacturers as original equipment in new aircraft, or
+as retrofit components or complete retrofit systems for
+older aircraft. Approval for retrofit displays is usually
+accomplished through supplementary type certificate (STC)
+awarded to the equipment manufacturer.
+Early digital displays presented scale indication in digital
+or integer format readouts. Today’s digital data displays
+are analogous to computer screen presentations. Numerous
+aircraft and flight instrument readouts and symbolic
+presentations are combined with communication and
+navigational information on multifunctional displays (MFD).
+11-27
+
+===== PDF PAGE 631 =====
+provide the different information portrayed on the displays.
+Input
+InputA
+Output
+InputB
+
+The Exclusive OR gate
+
+Output
+
+A
+
+B
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+Figure 11-68. An EXCLUSIVE OR gate symbol and its truth table,
+
+which is similar to an OR gate but excludes output when both inputs
+are the same.
+A.
+
+Input
+
+InputA
+
+A
+
+B
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+Output
+InputB
+The Negative AND gate
+
+Output
+1
+
+B.
+
+Input
+
+InputA
+
+A
+
+B
+
+0
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+Output
+InputB
+The Negative OR gate
+
+Output
+
+Figure 11-69. The NEGATIVE AND gate symbol and its truth table
+(A) and the NEGATIVE OR gate symbol and truth table (B). The
+inputs are inverted in the NEGATIVE gates.
+
+Often a display has a main function with potential to back-up
+another display should it fail. Names, such as primary flight
+display (PFD), secondary flight display, navigational display
+(ND), etc., are often used to describe a display by its primary
+use. The hardware composition of the displays is essentially
+the same. Avionics components and computers combine to
+
+Controls on the instrument panel or on the display unit itself
+are used for selection. Some screens have limited display
+capability because they are not part of a totally integrated
+system; however, they are extremely powerful electronic
+units with wide capability. [Figure 11-71]
+The basis of the information displayed on what is known as a
+PFD, is usually an electronic flight instrument system (EFIS)
+like representation of the aircraft attitude indicator in the
+upper half of the display, and an electronic horizontal situation
+indicator display on the lower half. Numerous ancillary
+readouts are integrated or surround the electronic attitude
+indicator and the horizontal situation indicator (HSI). On full
+glass flight deck PFDs, all of the basic T instrument indications
+are presented and much more, such as communication and
+navigation information, weather data, terrain features, and
+approach information. Data displays for engine parameters,
+hydraulics, fuel, and other airframe systems are often displayed
+on the secondary flight display or on an independent display
+made for this purpose. [Figure 11-72]
+As with other avionics components, repair and maintenance
+of the internal components of digital data displays is reserved
+for licensed repair stations only.
+Digital Tuners & Audio Panels
+Numerous communication and navigation devices are
+described in the following sections of this chapter. Many
+of these use radio waves and must be tuned to a desired
+frequency for operation. As a flight progresses, retuning
+and changing from one piece of equipment to another can
+occur frequently. An audio panel or digital tuner consolidates
+various communication and navigation radio selection
+controls into a single unit. The pilot can select and use, or
+
+E-W
+
+N-S
+
+NAV1 108.00
+NAV2 108.00
+
+113.00
+110.60
+
+WPT _ _ _ _ _ _ DIS _ _ ._ NM
+
+DTK _ _ _°
+
+TRK
+
+360°
+
+134.000
+123.800
+
+130
+
+4000
+4300
+
+120
+
+4200
+
+110
+
+4100
+
+118.000 COM1
+118.000 COM2
+
+NAV1 108.00
+NAV2 108.00
+
+113.00
+110.60
+
+WPT _ _ _ _ _ _ DIS _ _ ._ NM
+
+DTK _ _ _°
+
+TRK
+
+360°
+
+134.000
+123.800
+
+130
+
+4000
+4300
+
+120
+
+4200
+
+110
+
+4100
+
+2
+
+1
+100
+9
+
+2
+
+1
+
+1
+100
+9
+
+60
+
+44000
+000
+3900
+
+90
+80
+
+270°
+
+70
+
+20
+
+3800
+
+OAT
+
+7°C
+
+3900
+
+80
+
+270°
+
+2
+
+70
+
+20
+1
+
+3800
+2
+
+4300
+
+TAS 100KT
+
+VOR 1
+
+1
+
+60
+
+44000
+000
+
+90
+
+1
+
+4300
+
+TAS 100KT
+
+118.000 COM1
+118.000 COM2
+
+VOR 1
+
+XPDR 5537 IDNT LCL23:00:34
+
+OAT
+
+7°C
+
+XPDR 5537 IDNT LCL23:00:34
+
+Figure 11-70. A modern glass flight deck on a general aviation aircraft. Digital data displays replace many older instruments and
+indicators of the past.
+
+11-28
+
+===== PDF PAGE 632 =====
+105 kt
+
+8500
+6500
+
+160
+150
+
+10
+
+140
+130
+
+110
+
+Vlo
+
+100
+
+R
+E
+V
+
+6400
+
+Vle
+Va
+
+1
+120
+9
+
+6500
+6280
+6560
+
+10
+
+10
+
+20
+
+20 5520
+
++
+R
+N
+G
+
+-
+
+6200
+
+105 kt
+
+8500
+6500
+
+160
+150
+
+10
+
+140
+
+Vlg
+ILS1
+
+90
+TAS
+
+10
+
+134 kt
+
+GS 119 kt
+
+ILS1
+110.90
+
+MIN
+
+OAT 11°C
+
+163°
+
+CRS
+
+164°
+
+15
+
+FPM
+
+VERDI
+
+W
+4SD
+
+-01
+
+3
+
+TAKLE
+
+N
+
+33
+
+30
+
+2
+−
+2
+L
+T
+N
+G
+N
+X
+R
+D
+
+VLOC1
+
+M
+E
+N
+U
+
+130
+
+110
+
+F
+C
+
+Vlg
+ILS1
+
+_
+
+90
+
+_
+
+ILS1
+110.90
+
+134 kt
+
+GS 119 kt
+
+TRFC
+
+10nm
+
+CRS
+
+199°
+
+−580
+
+FPM
+
+VERDI
+
+W
+4SD
+
+-01
+
+3
+
+TAKLE
+
+R
+E
+V
+
+33
+
+30
+
+2
+−
+2
+L
+T
+N
+G
+N
+X
+R
+D
+
+24
+
+N
+
+_
+
+HDG
+
+RW16R 21
+
+6
+
+_
+
+6100
+
+29.92 in
+148°/16 kt
+
+S
+KANO
+
++02
+
+-
+
+M
+E
+N
+U
+
+_
+
+_
+
+_
+
+T
+
+.5 R
+F
+C
+
+_
+
+1
+N
+R
+
+2 M
+
+VLOC1
+
++
+R
+N
+G
+
+6200
+MIN
+5520
+
+20
+
+163°
+
+164°
+
+E
+
+_
+
+HDG
+
+HDG
+E
+D
+O C
+M YN
+S
+
+MODE
+SYNC
+
+E
+D
+O C
+M YN
+S
+
+MODE
+SYNC
+
+20
+OAT 11°C
+
+CRS
+
+15
+
+_
+
+6500
+6280
+6560
+
+10
+
+12
+
+1
+N
+R
+
+10
+
+Vlo
+
+100
+
+TAS
+
+6400
+
+Vle
+Va
+
+1
+120
+9
+
+T
+
+.5 R
+
+2 M
+
+10nm
+
+CRS
+
+199°
+
+−580
+
+24
+
+6
+TRFC
+
+HDG
+
+RW16R 21
+
++02
+
+E
+
+29.92 in
+148°/16 kt
+
+S
+KANO
+
+12
+
+6100
+
+10
+
+Figure 11-71. A retrofit digital data display.
+
+select and tune, most of the aircraft’s avionics from this one
+control interface. [Figure 11-73]
+
+Radio Communication
+Much of aviation communication and navigation is
+accomplished through the use of radio waves. Communication
+by radio was the first use of radio frequency transmissions
+in aviation.
+Radio Waves
+A radio wave is invisible to the human eye. It is electromagnetic
+in nature and part of the electronic spectrum of wave
+activity that includes gamma rays, x-rays, ultraviolet rays,
+infrared waves, and visible light rays, as well all radio
+waves. [Figure 11-74] The atmosphere is filled with these
+waves. Each wave occurs at a specific frequency and has
+a corresponding wavelength. The relationship between
+frequency and wavelength is inversely proportional. A high
+frequency wave has a short wavelength and a low frequency
+wave has a long wavelength.
+
+AC power of a particular frequency has a characteristic
+length of conductor that is resonant at that frequency. This
+length is the wavelength of the frequency that can be seen on
+an oscilloscope. Fractions of the wavelength also resonate,
+especially half of a wavelength, which is the same as half of
+the AC sine wave or cycle.
+The frequency of an AC signal is the number of times the
+AC cycles every second. AC applied to the center of a radio
+antenna, a conductor half the wavelength of the AC frequency,
+travels the length of the antenna, collapses, and travels the
+
+In aviation, a variety of radio waves are used for
+communication. Figure 11-75 illustrates the radio spectrum
+that includes the range of common aviation radio frequencies
+and their applications.
+Note:A wide range of frequencies are used from low frequency
+(LF) at 100 kHz (100,000 cycles per second) to super high
+frequency (SHF) at nearly 10gHz (10,000,000,000 cycles per
+second). The Federal Communications Commission (FCC)
+controls the assignment of frequency usage.
+
+Figure 11-72. A digital data display dedicated to the depiction of
+engine and airframe system parameter status.
+
+11-29
+
+===== PDF PAGE 633 =====
+length of the antenna in the opposite direction. The number
+of times it does this every second is known as the radio wave
+signal frequency or radio frequency as shown in Figure 11-75.
+As the current flows through the antenna, corresponding
+electromagnetic and electric fields build, collapse, build in
+the opposite direction, and collapse again. [Figure 11-76]
+
+Radio waves are directional and propagate out into space at
+186,000 miles per second. The distance they travel depends on
+the frequency and the amplification of the signal AC sent to the
+antenna. The electric field component and the electromagnetic
+field component are oriented at 90° to each other, and at 90°
+to the direction that the wave is traveling. [Figure 11-77]
+
+To transmit radio waves, an AC generator is placed at the
+midpoint of an antenna. As AC current builds and collapses in
+the antenna, a magnetic field also builds and collapses around
+it. An electric field also builds and subsides as the voltage
+shifts from one end of the antenna to the other. Both fields,
+the magnetic and the electric, fluctuate around the antenna at
+the same time. The antenna is half the wavelength of the AC
+signal received from the generator. At any one point along
+the antenna, voltage and current vary inversely to each other.
+
+Types of Radio Waves
+Radio waves of different frequencies have unique
+characteristics as they propagate through the atmosphere.
+Very low frequency (VLF), LF, and medium frequency
+(MF) waves have relatively long wavelengths and utilize
+correspondingly long antennas. Radio waves produced at
+these frequencies ranging from 3 kHz to 3 mHz are known
+as ground waves or surface waves. This is because they
+follow the curvature of the earth as they travel from the
+broadcast antenna to the receiving antenna. Ground waves are
+particularly useful for long distance transmissions. Automatic
+direction finders (ADF) and LORAN navigational aids use
+these frequencies. [Figure 11-78]
+
+Because of the speed of the AC, the electromagnetic fields
+and electric fields created around the antenna do not have time
+to completely collapse as the AC cycles. Each new current
+flow creates new fields around the antenna that force the nottotally-collapsed fields from the previous AC cycle out into
+space. These are the radio waves. The process is continuous
+as long as AC is applied to the antenna. Thus, steady radio
+waves of a frequency determined by the input AC frequency
+propagate out into space.
+
+High frequency (HF) radio waves travel in a straight line
+and do not curve to follow the earth’s surface. This would
+limit transmissions from the broadcast antenna to receiving
+antennas only in the line-of-sight of the broadcast antenna
+except for a unique characteristic. HF radio waves bounce
+off of the ionosphere layer of the atmosphere. This refraction
+
+Figure 11-73. An audio panel in a general aviation aircraft integrates the selection of several radio-based communication and navigational
+aids into a single control panel (left). A digital tuner (right) does the same on a business class aircraft and allows the frequency of each
+device to be tuned from the same panel as well.
+
+Electronic Spectrum
+Wavelength (centimeters)
+
+Shorter
+10
+
+-10
+
+10
+
+-9
+
+10
+
+-8
+
+10
+
+Gamma ray
+
+X-ray
+
+1020
+
+1018
+
+Higher
+
+1019
+
+-7
+
+10
+
+-6
+
+10
+
+Longer
+-5
+
+10
+
+-4
+
+Ultraviolet
+1017
+
+1016
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+-1
+
+1
+
+10
+
+100 1,000 10,000 100,000
+
+Infrared
+1015
+
+1014
+
+Frequency (number of waves per second)
+
+1013
+Visible
+
+Radio
+1012
+
+1011
+
+1010
+
+109
+
+108
+
+107
+
+106
+
+UHF
+
+VHF
+
+HF
+
+MF
+
+LF
+
+VLF
+
+Lower
+
+Figure 11-74. Radio waves are just some of the electromagnetic waves found in space.
+
+11-30
+
+===== PDF PAGE 634 =====
+Radio Frequencies
+
+Aviation Uses
+
+300 GHz
+Extremely high
+frequency (EHF)
+30 GHz
+Super high
+frequency (SHF)
+3 GHz
+Ultra high
+frequency (UHF)
+300 MHz
+Very high
+frequency (VHF)
+30 MHz
+High frequency
+(HF)
+3 MHz
+Medium
+frequency (MF)
+300 KHz
+Very low
+frequency (LF)
+30 KHz
+
+Weather radar 9.375 GHz
+Doppler NAV 8.8 GHz
+Radar altimeter 4.3 GHz
+GPS 1.6 GHz
+Transponder 1030 & 1090 MHz
+DME 960 - 1215 MHz
+Glideslope 328 - 336 MHz
+VHF comm 118 - 137 MHz
+VHF NAV (VOR) 108 - 118 MHz
+FM broadcast 88 - 108 MHz
+Marker beacons 75 MHz
+HF comm 2 - 30 MHz
+
+AM broadcast 550 - 1800 KHz
+NDBs 190 - 535 KHz
+ADF 200 - 1600 KHz
+Loran C 100 KHz
+
+Very low
+frequency
+3 KHz
+Figure 11-75. There is a wide range of radio frequencies. Only the
+very low frequencies and the extremely high frequencies are not
+used in aviation.
+
+extends the range of HF signals beyond line-of-sight. As a
+result, transoceanic aircraft often use HF radios for voice
+communication. The frequency range is between 2 to 25
+MHz. These kinds of radio waves are known as sky waves.
+[Figure 11-78]
+Above HF transmissions, radio waves are known as space
+waves. They are only capable of line-of-sight transmission
+and do not refract off of the ionosphere. [Figure 11-78] Most
+aviation communication and navigational aids operate with
+space waves. This includes VHF (30 - 300 MHz), UHF (300
+MHz - 3 GHz), and super high frequency (SHF) (3 - 30 Ghz)
+radio waves.
+VHF communication radios are the primary communication
+radios used in aviation. They operate in the frequency
+range from 118.0 MHz to 136.975 MHz. Seven hundred
+and twenty separate and distinct channels have been
+designated in this range with 25 kilohertz spacing between
+each channel. Further division of the bandwidth is possible,
+such as in Europe where 8.33 kilohertz separate each
+
+VHF communication channel. VHF radios are used for
+communications between aircraft and air traffic control
+(ATC), as well as air-to-air communication between aircraft.
+When using VHF, each party transmits and receives on the
+same channel. Only one party can transmit at any one time.
+Loading Information onto a Radio Wave
+The production and broadcast of radio waves does not convey
+any significant information. The basic radio wave discussed
+above is known as a carrier wave. To transmit and receive
+useful information, this wave is altered or modulated by
+an information signal. The information signal contains the
+unique voice or data information desired to be conveyed. The
+modulated carrier wave then carries the information from the
+transmitting radio to the receiving radio via their respective
+antennas. Two common methods of modulating carrier waves
+are amplitude modulation and frequency modulation.
+
+Amplitude Modulation (AM)
+A radio wave can be altered to carry useful information by
+modulating the amplitude of the wave. A DC signal, for example
+from a microphone, is amplified and then superimposed over
+the AC carrier wave signal. As the varying DC information
+signal is amplified, the amplifier output current varies
+proportionally. The oscillator that creates the carrier wave does
+so with this varying current. The oscillator frequency output
+is consistent because it is built into the oscillator circuit. But
+the amplitude of the oscillator output varies in relation to the
+fluctuating current input. [Figure 11-79]
+When the modulated carrier wave strikes the receiving
+antenna, voltage is generated that is the same as that which
+was applied to the transmitter antenna. However, the signal
+is weaker. It is amplified so that it can be demodulated.
+Demodulation is the process of removing the original
+information signal from the carrier wave. Electronic circuits
+containing capacitors, inductors, diodes, filters, etc., remove
+all but the desired information signal identical to the original
+input signal. Then, the information signal is typically
+amplified again to drive speakers or other output devices.
+[Figure 11-80]
+AM has limited fidelity. Atmospheric noises or static alter
+the amplitude of a carrier wave making it difficult to separate
+the intended amplitude modulation caused by the information
+signal and that which is caused by static. It is used in aircraft
+VHF communication radios.
+
+Frequency Modulation (FM)
+Frequency modulation (FM) is widely considered superior
+to AM for carrying and deciphering information on radio
+waves. A carrier wave modulated by FM retains its constant
+amplitude. However, the information signal alters the
+11-31
+
+===== PDF PAGE 635 =====
+To transmit radio waves, an AC generator is placed at the
+midpoint of an antenna.
+
+Antenna
+Generator
+I
+
+Magnetic field
+
+Electric field
+
+Electric field
+Magnetic
+field
+
+An electric field also builds and subsides as the voltage shifts
+from one end of the antenna to the other.
+
+Both fields, the magnetic and the electric, fluctuate around the
+antenna at the same time.
+
+I
+
+2
+
+Voltage
+
+As AC current builds and collapses in the antenna, a magnetic
+field also builds and collapses around it.
+
+The antenna is ½ the wavelength of the AC signal received
+from the generator.
+
+At any one point along the antenna, voltage and current
+vary inversely to each other.
+
+Current
+
+Figure 11-76. Radio waves are produced by applying an AC signal to an antenna. This creates a magnetic and electric field around the
+
+antenna. They build and collapse as the AC cycles. The speed at which the AC cycles does not allow the fields to completely collapse
+before the next fields build. The collapsing fields are then forced out into space as radio waves.
+
+11-32
+
+===== PDF PAGE 636 =====
+tion
+
+paga
+
+pro
+on of
+irecti
+
+D
+
+Magnetic field
+Electric field
+
+Figure 11-77. The electric field and the magnetic field of a radio wave are perpendicular to each other and to the direction of propagation
+
+of the wave.
+
+Ionosphere
+Li
+
+Sp
+
+ne
+
+ac
+
+Repeater
+
+e
+
+wa
+
+-o
+
+ve
+
+f-s
+
+s
+
+ig
+
+ht
+
+F)
+
+(V
+
+HF
+
+e
+
+-U
+
+HF
+
+ky
+
+)
+
+Receiver
+
+Li
+
+w
+
+S
+
+ht
+
+g
+si
+
+-
+
+of
+
+ne
+
+av
+
+(H
+
+Gr
+
+w
+nd
+ou
+
+ave (VLF
+
+to
+
+Receiver
+
+Radio station
+
+Figure 11-78. Radio waves behave differently in the atmosphere depending in their frequency.
+
+frequency of the carrier wave in proportion to the strength of
+the signal. Thus, the signal is represented as slight variations
+to the normally consistent timing of the oscillations of the
+carrier wave. [Figure 11-81]
+Since the transmitter oscillator output fluctuates during
+modulation to represent the information signal, FM bandwidth
+is greater than AM bandwidth. This is overshadowed by the
+ease with which noise and static can be removed from the
+FM signal. FM has a steady current flow and requires less
+power to produce since modulating an oscillator producing a
+carrier wave takes less power than modulating the amplitude
+of a signal using an amplifier.
+
+Demodulation of an FM signal is similar to that of an AM
+receiver. The signal captured by the receiving antenna is
+usually amplified immediately since signal strength is lost as
+the wave travels through the atmosphere. Numerous circuits
+are used to isolate, stabilize, and remove the information
+from the carrier wave. The result is then amplified to drive
+the output device.
+
+Single Sideband (SSB)
+When two AC signals are mixed together, such as when a
+carrier wave is modulated by an information signal, three
+main frequencies result:
+11-33
+
+===== PDF PAGE 637 =====
++
+
+A. 121.5 MHz carrier
+
+0
+
+−
+
++
+
+A. Amplitude modulated carrier in receiver
+0
++
+−
+B. Varying DC audio information
+
+0
+B. Detected modulated carrier
+
++
++
+0
+0
+−
+C. Demodulated signal
+
+C. Amplitude modulated carrier leaving transmitter
++
+
+Figure 11-79. A DC audio signal modifies the 121.5 MHz carrier
+
+wave as shown in C. The amplitude of the carrier wave (A) is
+changed in relation to modifier (B). This is known as amplitude
+modulation (AM).
+
+0
+D. Audio frequency signal in speaker
+
+1.
+
+Original carrier wave frequency;
+
+2.
+
+Carrier wave frequency plus the modulating
+frequency; and
+
+Figure 11-80. Demodulation of a received radio signal involves
+
+3.
+
+Carrier wave frequency minus the modulating
+frequency.
+
+broadcasts are made on frequencies that are too close
+together, some of the broadcast from one frequency interferes
+with the adjacent broadcast due to overlapping sidebands. The
+FCC divides the various frequency bands and issues rules for
+their use. Much of this allocation is to prevent interference.
+The spacing between broadcast frequencies is established
+so that a carrier wave can expand to include the upper and
+lower sidebands and still not interfere with a signal on an
+adjacent frequency.
+
+Due to the fluctuating nature of the information signal,
+the modulating frequency varies from the carrier wave
+up or down to the maximum amplitude of the modulating
+frequency during AM. These additional frequencies on either
+side of the carrier wave frequency are known as sidebands.
+Each sideband contains the unique information signal desired
+to be conveyed. The entire range of the lower and upper
+sidebands including the center carrier wave frequency is
+known as bandwidth. [Figure 11-82]
+There are a limited number of frequencies within the usable
+frequency ranges (i.e., LF, HF, and VHF). If different
+
+separating the carrier wave from the information signal.
+
+As use of the radio frequencies increases, more efficient
+allocation of bandwidth is imperative. Sending information
+via radio waves using the narrowest bandwidth possible is
+the focus of engineering moving forward. At the same time,
+fully representing all of the desired information or increasing
+11-34
+
+===== PDF PAGE 638 =====
+the initial information signal in its entirety. Therefore, in
+an SSB broadcast, the carrier wave and either the upper
+or lower sidebands are filtered out. Only one sideband
+with its frequencies is broadcast since it contains all of the
+needed information. This cuts the bandwidth required in
+half and allows more efficient use of the radio spectrum.
+SSB transmissions also use less power to transmit the same
+amount of information over an equal distance. Many HF longdistance aviation communications are SSB. [Figure 11-83]
+
+Carrier wave
+
+Modulating
+signal
+
+Radio Transmitters & Receivers
+Radio transmitters and receivers are electronic devices that
+manipulate electricity resulting in the transmission of useful
+information through the atmosphere or space.
+
+Transmitters
+A transmitter consists of a precise oscillating circuit or
+oscillator that creates an AC carrier wave frequency. This
+is combined with amplification circuits or amplifiers. The
+distance a carrier wave travels is directly related to the
+amplification of the signal sent to the antenna.
+
+FM signal
+
+Figure 11-81. A frequency modulated (FM) carrier wave retains
+
+Carrier
+
+the consistent amplitude of the AC sine wave. It encodes the unique
+information signal with slight variations to the frequency of the
+carrier wave. These variations are shown as space variations
+between the peaks and valleys of the wave on an oscilloscope.
+
+Lower sidebands
+
+Upper sidebands
+
+Other circuits are used in a transmitter to accept the input
+information signal and process it for loading onto the carrier
+wave. Modulator circuits modify the carrier wave with the
+processed information signal. Essentially, this is all there is
+to a radio transmitter.
+Note: Modern transmitters are highly refined devices with
+extremely precise frequency oscillation and modulation. The
+circuitry for controlling, filtering, amplifying, modulating,
+and oscillating electronic signals can be complex.
+A transmitter prepares and sends signals to an antenna that, in
+the process described above, radiates the waves out into the
+atmosphere. A transmitter with multiple channel (frequency)
+capability contains tuning circuitry that enables the user to
+select the frequency upon which to broadcast. This adjusts
+
+Figure 11-82. The bandwidth of an AM signal contains the carrier
+wave, the carrier wave plus the information signal frequencies, and
+the carrier wave minus the information signal frequencies.
+
+the amount of information conveyed is also desired. Various
+methods are employed to keep bandwidth to a minimum,
+many of which restrict the quality or quantity of information
+able to be transmitted.
+In lower frequency ranges, such as those used for ground
+wave and some sky wave broadcasts, SSB transmissions
+are a narrow bandwidth solution. Each sideband represents
+
+Carrier is
+removed
+
+AM bandwidth
+
+Lower sidebands
+
+Upper sidebands
+are removed
+
+SSB bandwidth
+Figure 11-83. The additional frequencies above and below the carrier
+
+wave produced during modulation with the information signal are
+known as sidebands. Each sideband contains the unique information
+of the information signal and can be transmitted independent of the
+carrier wave and the other sideband.
+
+11-35
+
+===== PDF PAGE 639 =====
+the oscillator output to the precise frequency desired. It is
+the oscillator frequency that is being tuned. [Figure 11-84]
+As shown in Figure 11-84, most radio transmitters generate
+a stable oscillating frequency and then use a frequency
+multiplier to raise the AC to the transmitting frequency. This
+allows oscillation to occur at frequencies that are controllable
+and within the physical working limits of the crystal in
+crystal-controlled oscillators.
+
+Receivers
+Antennas are simply conductors of lengths proportional to
+the wavelength of the oscillated frequency put out by the
+transmitter. An antenna captures the desired carrier wave
+as well as many other radio waves that are present in the
+atmosphere. A receiver is needed to isolate the desired carrier
+wave with its information. The receiver also has circuitry
+to separate the information signal from the carrier wave.
+It prepares it for output to a device, such as speakers or a
+display screen. The output is the information signal originally
+introduced into the transmitter.
+A common receiver is the super heterodyne receiver. As with
+any receiver, it must amplify the desired radio frequency
+captured by the antenna since it is weak from traveling
+through the atmosphere. An oscillator in the receiver is
+used to compare and select the desired frequency out of all
+of the frequencies picked up by the antenna. The undesired
+frequencies are sent to ground.
+A local oscillator in the receiver produces a frequency that is
+different than the radio frequency of the carrier wave. These
+two frequencies are mixed in the mixer. Four frequencies
+result from this mixing. They are the radio frequency, the
+local oscillator frequency, and the sum and difference of
+these two frequencies. The sum and difference frequencies
+contain the information signal.
+The frequency that is the difference between the local
+oscillator frequency and the radio frequency carrier wave
+frequency is used during the remaining processing. In VHF
+aircraft communication radios, this frequency is 10.8 MHz.
+Called the intermediate frequency, it is amplified before it is
+
+Frequency
+oscillator
+
+Over the years, with the development of transistors, microtransistors, and integrated circuits, radio transmitters and
+receivers have become smaller. Electronic bays were
+established on older aircraft as remote locations to mount
+radio devices simply because they would not fit in the flight
+deck. Today, many avionics devices are small enough to be
+mounted in the instrument panel, which is customary on most
+light aircraft. Because of the number of communication and
+navigation aids, as well as the need to present an uncluttered
+interface to the pilot, most complicated aircraft retain an area
+away from the flight deck for the mounting of avionics. The
+control heads of these units remain on the flight deck.
+
+Transceivers
+A transceiver is a communication radio that transmits
+and receives. The same frequency is used for both. When
+transmitting, the receiver does not function. The push to
+talk (PTT) switch blocks the receiving circuitry and allows
+the transmitter circuitry to be active. In a transceiver, some
+of the circuitry is shared by the transmitting and receiving
+functions of the device. So is the antenna. This saves space
+and the number of components used. Transceivers are half
+duplex systems where communication can occur in both
+directions but only one party can speak while the other
+must listen. VHF aircraft communication radios are usually
+transceivers. [Figure 11-86]
+Antennas
+As stated, antennas are conductors that are used to transmit
+and receive radio frequency waves. Although the airframe
+technician has limited duties in relation to maintaining and
+repairing avionics, it is the responsibility of the technician to
+install, inspect, repair, and maintain aircraft radio antennas.
+
+RF
+amplifier
+
+Frequency
+multiplier
+Modulator
+
+Audio
+microphone
+
+sent to the detector. The detector, or demodulator, is where the
+information signal is separated from the carrier wave portion
+of the signal. In AM, since both sidebands contain the useful
+information, the signal is rectified leaving just one sideband
+with a weak version of the original transmitter input signal. In
+FM receivers, the varying frequency is changed to a varying
+amplitude signal at this point. Finally, amplification occurs
+for the output device. [Figure 11-85]
+
+Power
+amplifier
+
+Audio
+processing
+
+Figure 11-84. Block diagram of a basic radio transmitter.
+
+Mixer
+
+IF
+amplifier
+
+Detector/
+Demodulator
+
+AF
+amplifier
+
+Local
+oscillator
+
+Figure 11-85. The basic stages used in a receiver to produce an
+output from a radio wave.
+
+11-36
+

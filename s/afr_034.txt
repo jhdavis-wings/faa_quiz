@@ -1,0 +1,572 @@
+FAA-H-8083-31B Airframe Handbook, chapter 9 (Aircraft Electrical System), PDF pages 514-519
+
+===== PDF PAGE 514 =====
+Figure 9-168. A micro switch.
+
+type of relay that has a moving core. The electromagnet core
+in a relay is fixed. Solenoids are mostly used as mechanical
+actuators but can also be used for switching large currents.
+Relays are only used to switch currents.
+
+Solenoids
+Solenoids are used as switching devices where a weight
+reduction can be achieved or electrical controls can be
+simplified. The foregoing discussion of switch ratings is
+generally applicable to solenoid contact ratings. Solenoids
+have a movable core/armature that is usually made of steel
+or iron, and the coil is wrapped around the armature. The
+solenoid has an electromagnetic tube and the armature moves
+in and out of the tube. [Figure 9-169]
+Figure 9-167. Toggle and rocker switches.
+
+Rotary Switches
+Rotary switches are activated by twisting a knob or shaft and
+are commonly found on radio control panels. Rotary switches
+are utilized for controlling more than two circuits.
+
+Precision (Micro) Switches
+Micro switches require very little pressure to activate. These
+types of switches are spring loaded, once the pressure is
+removed, the contacts return to the normal position. These
+types of switches are typically single-pole double-throw
+(SPDT) or double-pole double-throw (DPDT) and have three
+contacts: normally open, normally closed, and common.
+Micro switches are used to detect position or to limit travel
+of moving parts, such as landing gear, flaps, spoilers, etc.
+[Figure 9-168]
+Relays & Solenoids (Electromagnetic Switches)
+Relays are used to control the flow of large currents using a
+small current. A low-power DC circuit is used to activate the
+relay and control the flow of large AC currents. They are used
+to switch motors and other electrical equipment on and off
+and to protect them from overheating. A solenoid is a special
+
+Relays
+The two main types of relays are electromechanical and
+solid state. Electromechanical relays have a fixed core and
+a moving plate with contacts on it, while solid-state relays
+work similar to transistors and have no moving parts. Current
+flowing through the coil of an electromechanical relay creates
+a magnetic field that attracts a lever and changes the switch
+contacts. The coil current can be on or off so relays have
+two switch positions. These can be made as a single throw
+or double throw switch. Residual magnetism is a common
+problem and the contacts may stay closed or are opened by a
+slight amount of residual magnetism. A relay is an electrically
+operated switch and is therefore subject to dropout under
+low system voltage conditions. Relays allow one circuit to
+switch a second circuit that can be completely separate from
+the first. For example, a low voltage DC battery circuit can
+use a relay to switch a 110-volt three-phase AC circuit. There
+is no electrical connection inside the relay between the two
+circuits; the link is magnetic and mechanical. [Figure 9-170]
+Current Limiting Devices
+Conductors should be protected with circuit breakers or fuses
+located as close as possible to the electrical power source
+bus. Normally, the manufacturer of the electrical equipment
+specifies the fuse or circuit breaker to be used when installing
+9-98
+
+===== PDF PAGE 515 =====
+Figure 9-169. Solenoid.
+
+equipment. The circuit breaker or fuse should open the circuit
+before the conductor emits smoke. To accomplish this, the
+time current characteristic of the protection device must fall
+below that of the associated conductor. Circuit protector
+characteristics should be matched to obtain the maximum
+utilization of the connected equipment. Figure 9-171 shows a
+chart used in selecting the circuit breaker and fuse protection
+for copper conductors. This limited chart is applicable to a
+specific set of ambient temperatures and wire bundle sizes
+and is presented as typical only. It is important to consult such
+guides before selecting a conductor for a specific purpose.
+For example, a wire run individually in the open air may be
+protected by the circuit breaker of the next higher rating to
+that shown on the chart.
+
+Fuses
+A fuse is placed in series with the voltage source and all
+current must flow through it. [Figure 9-172] The fuse consists
+of a strip of metal that is enclosed in a glass or plastic housing.
+The metal strip has a low melting point and is usually made
+of lead, tin, or copper. When the current exceeds the capacity
+of the fuse the metal strip heats up and breaks. As a result of
+this, the flow of current in the circuit stops.
+
+Figure 9-170. Relay.
+
+Wire AN
+gauge copper
+
+Circuit breaker
+amperage
+
+Fuse amperage
+
+22
+
+5
+
+5
+
+20
+
+7.5
+
+5
+
+18
+
+10
+
+10
+
+16
+
+15
+
+10
+
+14
+
+20
+
+15
+
+12
+
+30
+
+20
+
+10
+
+40
+
+30
+
+8
+
+50
+
+50
+
+6
+
+80
+
+70
+
+4
+
+100
+
+70
+
+2
+
+125
+
+100
+
+1
+
+150
+
+0
+
+150
+
+Figure 9-171. Wired and circuit protection chart.
+
+There are two basic types of fuses: fast acting and slow
+blow. The fast-acting type opens very quickly when their
+particular current rating is exceeded. This is important for
+electric devices that can quickly be destroyed when too much
+current flows through them for even a very small amount
+of time. Slow blow fuses have a coiled construction inside.
+They are designed to open only on a continued overload,
+such as a short circuit.
+
+Circuit Breakers
+A circuit breaker is an automatically operated electrical
+switch designed to protect an electrical circuit from damage
+caused by an overload or short circuit. Its basic function
+is to detect a fault condition and immediately discontinue
+electrical flow. Unlike a fuse that operates once and then has
+to be replaced, a circuit breaker can be reset to resume normal
+operation. All resettable circuit breakers should open the
+circuit in which they are installed regardless of the position of
+the operating control when an overload or circuit fault exists.
+Such circuit breakers are referred to as trip-free. Automatic
+reset circuit breakers automatically reset themselves. They
+should not be used as circuit protection devices in aircraft.
+When a circuit breaker trips, the electrical circuit should be
+checked and the fault removed before the circuit breaker
+is reset. Sometimes circuit breakers trip for no apparent
+
+Figure 9-172. A fuse.
+
+9-99
+
+===== PDF PAGE 516 =====
+reason, and the circuit breaker can be reset one time. If the
+circuit breaker trips again, there exists a circuit fault and the
+technician must troubleshoot the circuit before resetting the
+circuit breaker. [Figure 9-173]
+Some new aircraft designs use a digital circuit protection
+architecture. This system monitors the amperage through
+a particular circuit. When the maximum amperage for that
+circuit is reached, the power is rerouted away from the circuit.
+This system reduces the use of mechanical circuit breakers.
+The advantages are weight savings and the reduction of
+mechanical parts.
+
+Aircraft Lighting Systems
+Aircraft lighting systems provide illumination for both
+exterior and interior use. Lights on the exterior provide
+illumination for such operations as landing at night, inspection
+of icing conditions, and safety from midair collision. Interior
+lighting provides illumination for instruments, flight decks,
+cabins, and other sections occupied by crewmembers and
+passengers. Certain special lights, such as indicator and
+warning lights, indicate the operation status of equipment.
+
+On some types of installations, a switch in the flight deck
+provides for steady or flashing operation of the position
+lights. On many aircraft, each light unit contains a single lamp
+mounted on the surface of the aircraft. Other types of position
+light units contain two lamps and are often streamlined into
+the surface of the aircraft structure. The green light unit is
+always mounted at the extreme tip of the right wing. The red
+unit is mounted in a similar position on the left wing. The
+white unit is usually located on the vertical stabilizer in a
+position where it is clearly visible through a wide angle from
+the rear of the aircraft. Figure 9-176 illustrates a schematic
+diagram of a position light circuit. Position lights are also
+known as navigation lights.
+There are, of course, many variations in the position light
+circuits used on different aircraft. All circuits are protected by
+fuses or circuit breakers, and many circuits include flashing
+and dimming equipment. Small aircraft are usually equipped
+
+Exterior Lights
+Position, anticollision, landing, and taxi lights are common
+examples of aircraft exterior lights. Some lights are required
+for night operations. Other types of exterior lights, such as
+wing inspection lights, are of great benefit for specialized
+flying operations.
+
+Position Lights
+Aircraft operating at night must be equipped with position
+lights that meet the minimum requirements specified by
+Title 14 of the Code of Federal Regulations. A set of position
+lights consist of one red, one green, and one white light.
+[Figures 9-174 and 9-175]
+
+Figure 9-173. Circuit breaker panel.
+
+Figure 9-174. A left wing tip position light (red) and a white
+
+strobe light.
+
+Figure 9-175. A right wing tip position light, also known as a
+
+navigation light.
+
+9-100
+
+===== PDF PAGE 517 =====
+WG
+STA
+124.6
+J282 P282
+L168A20
+A223 panel assembly
+subpanel, L INBD
+
+H
+
+L168B20
+91-29
+
+Nav light PWR 20
+
+G
+
+Ground 20
+
+DS104/XDS104
+R Nav light
+
+25-53-02
+W159
+5A
+CB121
+NAV LIGHT
+
+P238 J238
+L168D20
+
+I
+
+Red
+
+I
+
+L170A20N
+
+P239 J239
+
+WG
+STA
+124.6
+
+DS103/XDS103
+Tail nav light
+
+C
+
+Blk
+
+33-47
+
+GS129
+
+J281 P281
+L168F20
+
+H
+
+L168G20
+91-28
+
+Nav light PWR 20
+Ground 20
+
+R
+
+DS104/XDS104
+L Nav light
+
+Figure 9-176. Navigation light system schematic.
+
+with a simplified control switch and circuitry. In some cases,
+one control knob or switch is used to turn on several sets
+of lights; for example, one type utilizes a control knob, the
+first movement of which turns on the position lights and the
+instrument panel lights. Further rotation of the control knob
+increases the intensity of only the panel lights. A flasher unit
+is seldom included in the position light circuitry of very light
+aircraft but is used in small twin-engine aircraft. Traditional
+position lights use incandescent light bulbs. LED lights have
+been introduced on modern aircraft because of their good
+visibility, high reliability, and low power consumption.
+
+especially in congested areas.
+
+Anticollision Lights
+
+Landing & Taxi Lights
+
+An anticollision light system may consist of one or more
+lights. They are rotating beam lights that are usually installed
+on top of the fuselage or tail in such a location that the light
+does not affect the vision of the crewmember or detract from
+the visibility of the position lights. Large transport type
+aircraft use an anticollision light on top and one on the bottom
+of the aircraft. Figure 9-177 shows a typical anticollision
+light installation in a vertical stabilizer.
+
+Landing lights are installed in aircraft to illuminate runways
+during night landings. These lights are very powerful and
+are directed by a parabolic reflector at an angle providing a
+maximum range of illumination. Landing lights of smaller
+aircraft are usually located midway in the leading edge of
+each wing or streamlined into the aircraft surface. Landing
+lights for larger transport category aircraft are usually located
+in the leading edge of the wing close to the fuselage. Each
+light may be controlled by a relay, or it may be connected
+directly into the electric circuit. On some aircraft, the
+landing light is mounted in the same area with a taxi light.
+[Figure 9-178] A sealed beam, halogen, or high intensity
+xenon discharge lamp is used.
+
+An anticollision light unit usually consists of one or two
+rotating lights operated by an electric motor. The light may be
+fixed but mounted under rotating mirrors inside a protruding
+red glass housing. The mirrors rotate in an arc, and the
+resulting flash rate is between 40 and 100 cycles per minute.
+Newer aircraft designs use a LED type of anticollision light.
+The anticollision light is a safety light to warn other aircraft,
+
+A white strobe light is a second type of anti-collision light
+that is also common. Usually mounted at the wing tips and,
+possibly, at empennage extremities, strobe lights produce
+an extremely bright intermittent flash of white light that
+is highly visible. The light is produced by a high voltage
+discharge of a capacitor. A dedicated power pack houses the
+capacitor and supplies voltage to a sealed xenon-filled tube.
+The xenon ionizes with a flash when the voltage is applied.
+A strobe light is shown in Figure 9-174.
+
+Taxi lights are designed to provide illumination on the ground
+while taxiing or towing the aircraft to or from a runway, taxi
+9-101
+
+===== PDF PAGE 518 =====
+Figure 9-178. Landing lights.
+
+Figure 9-177. Anticollision lights.
+
+strip, or in the hangar area. [Figure 9-179] Taxi lights are
+not designed to provide the degree of illumination necessary
+for landing lights. On aircraft with tricycle landing gear,
+either single or multiple taxi lights are often mounted on
+the non-steerable part of the nose landing gear. They are
+positioned at an oblique angle to the center line of the aircraft
+to provide illumination directly in front of the aircraft and
+also some illumination to the right and left of the aircraft’s
+path. On some aircraft, the dual taxi lights are supplemented
+by wingtip clearance lights controlled by the same circuitry.
+Taxi lights are also mounted in the recessed areas of the wing
+leading edge, often in the same area with a fixed landing light.
+Many small aircraft are not equipped with any type of taxi
+light, but rely on the intermittent use of a landing light to
+illuminate taxiing operations. Still other aircraft utilize
+a dimming resistor in the landing light circuit to provide
+reduced illumination for taxiing. A typical circuit for taxi
+lights is shown in Figure 9-180.
+Some large aircraft are equipped with alternate taxi lights
+located on the lower surface of the aircraft, aft of the nose
+radome. These lights, operated by a separate switch from the
+main taxi lights, illuminate the area immediately in front of
+and below the aircraft nose.
+Figure 9-179. Taxi lights.
+
+9-102
+
+===== PDF PAGE 519 =====
+24-53-02
+W159
+
+TB102
+2
+
+C
+
+C
+
+5
+
+L176B18
+L177A18N
+DS110
+XDS110
+RIGHT LANDING
+LIGHT
+L178B16
+L179A16N
+DS106
+XDS106
+TAXI LIGHT
+
+CR127
+5
+
+15A
+CB121
+TAXI LIGHT
+
+L178A16
+
+10A
+CB178
+R LANDING
+LIGHT
+
+CR217
+
+C
+
+L178A16
+
+4
+4
+
+S104-4-20
+
+6
+32-61
+S104 NOSE GEAR UP
+LOCK SWITCH
+
+L173B18
+L174A18N
+DS109
+XDS109
+LEFT LANDING
+LIGHT
+
+24-53-01
+
+CR126
+
+W119
+L173A18
+
+3
+
+10A
+CB177
+L LANDING
+LIGHT
+
+A223 PANEL ASSY - SUBPANEL,
+L INBOARD
+1
+
+L30A22
+
+31-51-04
+
+32-61
+
+Figure 9-180. Taxi light circuit.
+
+Wing Inspection Lights
+Some aircraft are equipped with wing inspection lights to
+illuminate the leading edge of the wings to permit observation
+of icing and general condition of the
+se areas in
+flight. These lights permit visual detection of ice formation
+on wing leading edges while flying at night. They are usually
+controlled through a relay by an on/off toggle switch in the
+flight deck. Some wing inspection light systems may include
+or be supplemented by additional lights, sometimes called
+nacelle lights, that illuminate adjacent areas, such a cowl
+flaps or the landing gear. These are normally the same type
+of lights and can be controlled by the same circuits.
+
+connections, terminals, fuses, and switches. A continuity
+light or meter can be used in making these checks, since the
+cause of many troubles can often be located by systematically
+testing each circuit for continuity.
+
+Interior Lights
+Aircraft are equipped with interior lights to illuminate the
+cabin. [Figure 9-181] Often white and red light settings are
+provided. Commercial aircraft have a lighting system that
+illuminates the main cabin, an independent lighting system
+so that passengers can read when the cabin lights are off, and
+an emergency lighting system on the floor of the aircraft to
+aid passengers during an emergency.
+Maintenance & Inspection of Lighting Systems
+Inspection of an aircraft’s lighting system normally includes
+checking the condition and security of all visible wiring,
+
+Figure 9-181. Interior flight deck and cabin light system.
+
+9-103
+

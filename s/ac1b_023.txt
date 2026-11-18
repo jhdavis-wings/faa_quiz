@@ -1,0 +1,543 @@
+AC 43.13-1B Chg 1, chapter 10 (Weight And Balance), PDF pages 547-571
+
+===== PDF PAGE 547 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   CHAPTER 10. WEIGHT AND BALANCE
+
+   SECTION 1. TERMINOLOGY
+
+10-1. GENERAL. The removal or addition of equipment results in changes to the center of
+gravity (CG). The empty weight of the aircraft, and the permissible useful load are affected
+accordingly. Investigate the effects of these changes, since the aircraft flight characteristics may
+be adversely affected. Information on which to base the record of Weight and Balance (W&B)
+changes to the aircraft may be obtained from the pertinent Aircraft Specifications, Type
+Certificate Data Sheet (TCDS), prescribed aircraft operating limitations, Aircraft Flight Manual
+(AFM), aircraft W&B report, and maintenance manual. Removal of standard parts with
+negligible weight or addition of minor items of equipment such as nuts, bolts, rivets, washers,
+and similar standard parts of negligible weight on fixed-wing aircraft do not require a W&B
+check. Rotorcraft are, in general, more critical with respect to control with changes in the CG
+position. Refer to the procedures and instructions in that particular model’s maintenance or flight
+manual.
+
+10-2. TERMINOLOGY. The following terminology is used in the practical application of
+W&B control.
+
+   a. Maximum Weight. The maximum weight is the maximum authorized weight of the
+aircraft and its contents as listed in the specifications.
+
+   b. Empty Weight. The empty weight of an aircraft includes all operating equipment that
+has a fixed location and is actually installed in the aircraft. It includes the weight of the airframe,
+powerplant, required equipment, optional and special equipment, fixed ballast, full engine
+coolant, hydraulic fluid, residual fuel, and oil. Additional information regarding fluids that may
+be contained in the aircraft systems and must be included in the empty weight will be indicated
+in the pertinent Aircraft Specifications or TCDS.
+
+   c. Negligible Weight Change. Any change of one pound or less for aircraft whose weight
+empty is less than 5,000 lb.; 2 lb. or less for aircraft whose weight empty is more than 5,000 and
+50,000 lb.; and 5 lb. or less for aircraft whose weight empty is more than 50,000 lb. Negligible
+CG change is any change of less than 0.05 percent mean aerodynamic chord (MAC) for
+fixed-wing aircraft, 0.2 percent of the maximum allowable CG range for rotary wing aircraft.
+
+   d. Useful Load. The useful load is the empty weight subtracted from the maximum weight
+of the aircraft. This load consists of the pilot, crew (if applicable), maximum oil, fuel,
+passengers, and baggage unless otherwise noted.
+
+   e. Weight Check. The weight check consists of checking the sum of the weights of all
+items of useful load against the authorized useful load (maximum weight less empty weight) of
+the aircraft.
+
+   f. Datum. The datum is an imaginary vertical plane from which all horizontal
+measurements are taken for balance purposes with the aircraft in level flight attitude. The datum
+is indicated in most Aircraft Specifications or TCDS. On some of the older aircraft, when the
+datum is not indicated, any convenient datum may be selected. Once the datum is selected, all
+
+Par 10-1  Page 10-1
+
+===== PDF PAGE 548 =====
+9/8/98  AC 43.13-1B
+
+moment arms and the location of the permissible CG range must be taken with reference to it.
+Examples of typical locations of the datum are shown in Figure 10-1.
+
+   FIGURE 10-1. TYPICAL DATUM LOCATIONS
+
+   g. Arm (or Moment Arm). The arm (or moment arm) is the horizontal distance in inches
+from the datum to the CG of an item. The algebraic sign is plus ( + ) if measured aft of the
+datum, and minus (-) if measured forward of the datum. Examples of plus and minus arms are
+shown in Figure 10-2.
+
+Par 10-2  Page 10-2
+
+===== PDF PAGE 549 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 10-2. ILLUSTRATION OF ARM (OR MOMENT ARM)
+
+   h. Moment. The moment is the product of a weight multiplied by its arm. The moment of
+an item about the datum is obtained by multiplying the weight of the item by its horizontal
+distance from the datum. A typical moment calculation is given in Figure 10-3.
+
+   FIGURE 10-3. EXAMPLE OF MOMENT COMPUTATION
+
+Par 10-2  Page 10-3
+
+===== PDF PAGE 550 =====
+9/8/98  AC 43.13-1B
+
+   i. Center of Gravity. The CG is a point about which the nose heavy and tail heavy
+moments are exactly equal in magnitude. If the aircraft is suspended from the CG, it will not
+have a tendency to pitch in either direction (nose up or down). The weight of the aircraft (or any
+object) may be assumed to be concentrated at its CG (see Figure 10-3.)
+
+   j. Empty Weight Center of Gravity. The empty weight center of gravity (EWCG) is the
+CG of an aircraft in its empty weight condition, and is an essential part of the W&B record.
+Formulas for determining the CG for tail and nosewheel type aircraft are given in Figure 10-4.
+Typical examples of computing the empty weight and EWCG for aircraft are shown in
+Figures 10-5 and 10-6.
+
+   FIGURE 10-4. EMPTY WEIGHT CENTER OF GRAVITY FORMULAS
+
+Par 10-2  Page 10-4
+
+===== PDF PAGE 551 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 10-5. EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITY
+   TAILWHEEL TYPE AIRCRAFT
+
+Par 10-2  Page 10-5
+
+===== PDF PAGE 552 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 10-6. EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITY
+   NOSEWHEEL TYPE AIRCRAFT
+
+Par 10-2  Page 10-6
+
+===== PDF PAGE 553 =====
+9/8/98  AC 43.13-1B
+
+   k. Empty Weight Center of Gravity Range. The EWCG range is determined so that the
+EWCG limits will not be exceeded under standard specifications loading arrangements.
+Calculations, as outlined in paragraph 10-18, should be completed when it is possible to load an
+aircraft in a manner not covered in the Aircraft Specifications or TCDS (extra tanks, extra seats,
+etc.). The EWCG range, when applicable, is listed in the Aircraft Specifications or TCDS.
+Calculation of EWCG is shown in Figures 10-5 and 10-6.
+
+   l. Operating Center of Gravity Range. The operating CG range is the distance between
+the forward and rearward CG limits indicated in the pertinent Aircraft Specifications or TCDS.
+These limits are determined for the most forward and most rearward loaded CG positions at
+which the aircraft meets the requirements of Title 14 of the Code of Federal Regulations
+(14 CFR). The limits are indicated in the specifications in either percent of MAC or inches from
+the datum. The CG of the loaded aircraft must be within these limits at all times as illustrated in
+Figure 10-7.
+
+   FIGURE 10-7. OPERATING CENTER OF GRAVITY RANGE
+
+   m. Mean Aerodynamic Chord (MAC). The MAC is established by the manufacturer who
+defines its leading edge and its trailing edge in terms of inches from the datum. The CG location
+and various limits are then expressed in percentages of the chord. The location and dimensions of
+the MAC can be found in the Aircraft Specifications, the TCDS, the AFM, or the aircraft W&B
+report.
+
+   n. Weighing Point. If the CG location is determined by weighing, it is necessary to obtain
+horizontal measurements between the points on the scale at which the aircraft’s weight is
+concentrated. If weighed using scales under the landing gear tires, a vertical line passing through
+the center line of the axle will locate the point on the scale at which the weight is concentrated.
+
+Par 10-2  Page 10-7
+
+===== PDF PAGE 554 =====
+9/8/98  AC 43.13-1B
+
+This point is called the “weighing point.” Other structural locations capable of supporting the
+aircraft, such as jack pads on the main spar, may also be used if the aircraft weight is resting on
+the jack pads. Indicate these points clearly in the W&B report when used instead of the landing
+gear. Typical locations of the weighing points are shown in Figure 10-8.
+
+   FIGURE 10-8. WEIGHING POINT CENTER LINE
+
+   o. Zero Fuel Weight. The maximum permissible weight of a loaded aircraft (passengers,
+crew, cargo, etc.) less its fuel is zero fuel weight. All weights in excess of maximum zero fuel
+weight must consist of usable fuel.
+
+Par 10-2  Page 10-8
+
+===== PDF PAGE 555 =====
+9/8/98  AC 43.13-1B
+
+   p. Minimum Fuel. The minimum fuel for balance purposes is 1/12 gallon per maximum
+except take off horsepower (METO). Minimum fuel is the maximum amount of fuel which can
+be used in W&B computations when low fuel might adversely affect the most critical balance
+conditions. To determine the weight of fuel in pounds divide the METO horsepower by two.
+
+   q. Full Oil. The full oil is the quantity of oil shown in the Aircraft Specifications or TCDS
+as oil capacity. Use full oil as the quantity of oil when making the loaded W&B computations.
+
+   r. Tare. The weight of chocks, blocks, stands, etc., used when weighing aircraft is called
+tare and is included in the scale readings. Tare is deducted from the scale reading at each
+respective weighing point when tare is involved, to obtain the actual aircraft weight.
+
+10-3.–10-13. [RESERVED.]
+
+Par 10-2  Page 10-9
+
+===== PDF PAGE 556 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 2. WEIGHING PROCEDURES
+
+10-14. GENERAL. Weighing procedures may vary with the aircraft and the type of weighing
+equipment employed. The weighing procedures contained in the manufacturer’s maintenance
+manual should be followed for each particular aircraft.
+
+10-15. PROCEDURES. Accepted procedures when weighing an aircraft are:
+
+   a. Remove excessive dirt, grease, moisture, etc., from the aircraft before weighing.
+
+   b. Weigh the aircraft inside a closed building to prevent error in scale reading due to
+wind.
+
+   c. Determine the EWCG by placing the aircraft in a level flight attitude.
+
+   d. Have all items of equipment that are included in the certificated empty weight report
+installed in the aircraft when weighing. These items of equipment are a part of the current W&B
+report.
+
+   e. The scales should have a current calibration before weighing begins. Zero and use the
+scales in accordance with the scale manufacturer’s instructions. Platform scales and suitable
+support for the aircraft, if necessary, are usually placed under the wheels of a landplane, the keel
+of a seaplane float, or the skis of a skiplane. Other structural locations capable of supporting the
+aircraft, such as jack pads, may be used. Clearly indicate these points and the alternate equipment
+used in the W&B report.
+
+   f. Drain the fuel system until the quantity indicator reads zero or until the tanks are
+empty with the aircraft in level flight attitude, unless otherwise noted in the TCDS or Aircraft
+Specifications. The amount of fuel remaining in the tank, lines, and engine is termed residual
+fuel and is to be included in the empty weight. In special cases, the aircraft may be weighed with
+full fuel in tanks provided a definite means of determining the exact weight of the fuel is
+available.
+
+   g. The oil system should be filled to the quantity noted in the TCDS or Aircraft
+Specifications.
+
+   NOTE: On Civil Aeronautics Regulations (CAR 3) Certified Aircraft, the
+   weight of the oil was subtracted mathematically to get the empty weight. In
+   14 CFR part 23 aircraft, the weight of the oil is included in the empty weight.
+
+   When weighed with full oil, actual empty weight equals the actual recorded weight less the
+   weight of the oil in the oil tank (oil weight = oil capacity in gallons x 7.5 lb.). Indicate on
+   all W&B reports whether weights include full oil or oil drained. (See Figure 10-9.)
+
+Par 10-14  Page 10-10
+
+===== PDF PAGE 557 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 10-9. EMPTY WEIGHT AND EMPTY WEIGHT CENTER OF GRAVITY
+   WHEN AIRCRAFT IS WEIGHED WITH OIL
+
+   h. Do not set brakes while taking scale reading.
+
+   i. Note any tare reading when the aircraft is removed from the scales.
+
+10-16. REPAIRS AND ALTERATIONS. These are the major sources of weight changes, and
+it is the responsibility of the aircraft mechanic making any repairs or alteration to know the
+weight and location of these changes, and to compute the new CG and record the new empty
+weight and EWCG data in the AFM.
+
+10-17. ANNUAL OR 100-HOUR INSPECTION. After conducting an annual or 100-hour
+inspection, the aircraft mechanic must ensure the W&B data in the aircraft records is current and
+accurate.
+
+Par 10-15  Page 10-11
+
+===== PDF PAGE 558 =====
+9/8/98  AC 43.13-1B
+
+10-18. W&B COMPUTATIONS. It is often necessary after completing an extensive alteration
+to establish by computation that the authorized weight and CG limits as shown in the TCDS and
+Aircraft Specifications are not exceeded. Subparagraph b(2) explains the significance of
+algebraic signs used in balance computations.
+
+   a. The TCDS or Aircraft Specifications contain the following information relating to the
+subject:
+
+   (1) CG range.
+
+   (2) EWCG range when applicable.
+
+   (3) Leveling means.
+
+   (4) Datum.
+
+   (5) Maximum weights.
+
+   (6) Number of seats and arm.
+
+   (7) Maximum baggage and arm.
+
+   (8) Fuel capacity and arm.
+
+   (9) Oil capacity and arm.
+
+   (10) Equipment items and arm.
+
+   b. The TCDS do not list the basic required equipment prescribed by the applicable
+airworthiness regulations for certification. Refer to the manufacturer’s equipment list for such
+information.
+
+   (1) Unit weight for W&B purposes.
+
+   Gasoline  6 lb. per U.S. gal.
+   Turbine Fuel  6.7 lb. per U.S. gal.
+   Lubricating oil  7.5 lb. per U.S. gal.
+   Crew and passengers  170 lb. per person.
+
+   (2) It is important to retain the proper algebraic sign (+ or -) through all balance
+computations. For the sake of uniformity in these computations, visualize the aircraft with the
+nose to the left. In this position, any arm to the left (forward) of the datum is “minus” and any
+arm to the right (rearward) of the datum is “plus.” Any item of weight added to the aircraft either
+side of the datum is plus weight, any weight item removed is a minus weight. When multiplying
+weights by arms, the answer is plus if the signs are the same, and minus if the signs are different.
+The following combinations are possible:
+
+Par 10-18  Page 10-12
+
+===== PDF PAGE 559 =====
+9/8/98  AC 43.13-1B
+
+   Items added forward of the datum:
+
+   ( + ) weight x (-) arm = (-) moment.
+
+   Items added to the rear of the datum:
+
+   ( + ) weight x ( + ) arm = ( + ) moment.
+
+   Items removed forward of the datum:
+
+   (-) weight x (-) arm = ( + ) moment.
+
+   Items removed rear of the datum:
+
+   (-) weight x ( + ) arm = (-) moment.
+
+   (3) The total weight of the airplane is equal to the weight of the empty aircraft plus the
+weight of the items added minus the weight of the items removed.
+
+   (4) The total moment of the aircraft is the algebraic sum of the empty weight moment
+of the aircraft and all of the individual moments of the items added and/or removed.
+
+10-19. W&B EXTREME CONDITIONS. The W&B extreme conditions represent the
+maximum forward and rearward CG position for the aircraft. Include the W&B data information
+showing that the CG of the aircraft (usually in the fully loaded condition) falls between the
+extreme conditions.
+
+   a. Forward W&B Check. When a forward W&B check is made, establish that neither the
+maximum weight nor the forward CG limit listed in the TCDS and Aircraft Specifications are
+exceeded. To make this check, the following information is needed:
+
+   (1) The weights, arms, and moment of the empty aircraft.
+
+   (2) The maximum weights, arms, and moments of the items of useful load that are
+located ahead of the forward CG limit.
+
+   (3) The minimum weights, arms, and moments of the items of useful load that are
+located aft of the forward CG limit. A typical example of the computation necessary to make this
+check, using this data, is shown in Figure 10-10.
+
+   b. Rearward W&B Check. When a rearward W&B check is made, establish that neither
+the maximum weight nor the rearward CG limit listed in the TCDS and Aircraft Specifications
+are exceeded. To make this check, the following information is needed:
+
+   (1) The weight, arms, and moments of the empty aircraft.
+
+   (2) The maximum weights, arms, and moments of the items of useful load that are
+located aft of the rearward CG limit.
+
+Par 10-18  Page 10-13
+
+===== PDF PAGE 560 =====
+9/8/98  AC 43.13-1B
+
+   (3) The minimum weights, arms, and moments of the items of useful load that are
+located ahead of the rearward CG limit. A typical example of the computation necessary to make
+this check, using this data, is shown in Figure 10-11.
+
+   FIGURE 10-10. EXAMPLE OF CHECK OF MOST FORWARD WEIGHT AND
+   BALANCE EXTREME
+
+Par 10-19  Page 10-14
+
+===== PDF PAGE 561 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 10-11. EXAMPLE OF CHECK OF MOST REARWARD WEIGHT AND
+   BALANCE EXTREME
+
+Par 10-19  Page 10-15
+
+===== PDF PAGE 562 =====
+9/8/98  AC 43.13-1B
+
+10-20. LOADING CONDITIONS AND/OR PLACARDS. If the following items have not
+been covered in the W&B extreme condition checks and are not covered by suitable placards in
+the aircraft, additional computations are necessary. These computations should indicate the
+permissible distribution of fuel, passengers, and baggage that may be carried in the aircraft at any
+one time without exceeding either the maximum weight or CG range. The conditions to check
+are:
+
+   a. With full fuel, determine the number of passengers and baggage permissible.
+
+   b. With maximum passengers, determine the fuel and baggage permissible.
+
+   c. With maximum baggage, determine the fuel and the number and location of
+passengers.
+
+   d. Examples of the computations for the above items are given in Figures 10-12, 10-13,
+and 10-14 respectively. The above cases are mainly applicable to the lighter type personal
+aircraft. In the case of the larger type transport aircraft, a variety of loading conditions is possible
+and it is necessary to have a loading schedule.
+
+Par 10-20  Page 10-16
+
+===== PDF PAGE 563 =====
+9/8/98  AC 43.13-1B
+
+ FIGURE 10-12. LOADING CONDITIONS: DETERMINATION OF THE NUMBER OF
+   PASSENGERS AND BAGGAGE PERMISSIBLE WITH FULL FUEL
+
+Par 10-20  Page 10-17
+
+===== PDF PAGE 564 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 10-13. LOADING CONDITIONS: DETERMINATION OF THE FUEL AND
+   BAGGAGE PERMISSIBLE WITH MAXIMUM PASSENGERS
+
+Par 10-20  Page 10-18
+
+===== PDF PAGE 565 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 10-14. LOADING CONDITIONS: DETERMINATION OF THE FUEL AND
+   THE NUMBER AND LOCATION OF PASSENGERS PERMISSIBLE WITH
+   MAXIMUM BAGGAGE
+
+10-21. EQUIPMENT LIST. A list of the equipment included in the certificated empty weight
+may be found in either the approved AFM or the W&B report. Enter into the W&B report all
+required, optional, and special equipment installed in the aircraft at time of weighing and/or
+subsequent equipment changes.
+
+   a. Required equipment items are listed in the pertinent Aircraft Specifications.
+
+   b. Optional equipment items are listed in the pertinent Aircraft Specifications and may be
+installed in the aircraft at the option of the owner.
+
+Par 10-20  Page 10-19
+
+===== PDF PAGE 566 =====
+9/8/98  AC 43.13-1B
+
+   c. Special equipment is any item not corresponding exactly to the descriptive information
+in the Aircraft Specifications. This includes items such as emergency locator transmitter (ELT),
+tail or logo lights, instruments, ashtrays, radios, navigation lights, and carpets.
+
+   d. Required and optional equipment may be shown on the equipment list with reference
+to the pertinent item number listed in the applicable specifications only when they are identical
+to that number item with reference to description, weight, and arm given in the specifications.
+Show all special equipment items with reference to the item by name, make, model, weight, and
+arm. When the arm for such an item is not available, determine by actual measurement.
+
+10-22. EQUIPMENT CHANGE. The person making an equipment change is obligated to
+make an entry on the equipment list indicating items added, removed, or relocated with the date
+accomplished, and identify himself by name and certificate number in the aircraft records.
+Examples of items so affected are the installation of extra fuel tanks, seats, and baggage
+compartments.
+
+   a. Figure 10-15 illustrates the effect on balance when equipment items are added within
+the acceptable CG limits and fore and aft of the established CG limits.
+
+   FIGURE 10-15. EFFECTS OF THE ADDITION OF EQUIPMENT ITEMS ON
+   BALANCE
+
+Par 10-21  Page 10-20
+
+===== PDF PAGE 567 =====
+9/8/98  AC 43.13-1B
+
+   b. Moment computations for typical equipment changes are given in Figure 10-16 and are
+also included in the sample W&B sheet in Figure 10-18.
+
+10-23. SAMPLE W&B REPORT. Suggested methods of tabulating the various data and
+computations for determining the CG, both in the empty weight condition and the fully loaded
+condition, are given in Figures 10-17 and 10-18, respectively, and represent a suggested means
+of recording this information. The data presented in Figure 10-17 have previously been
+computed in Figures 10-10 and 10-11 for the extreme load conditions and Figure 10-16 for
+equipment change, and represents suggested means of recording this information.
+
+  FIGURE 10-16. EXAMPLE OF MOMENT AND WEIGHT CHANGES RESULTING
+   FROM EQUIPMENT CHANGES
+
+Par 10-22  Page 10-21
+
+===== PDF PAGE 568 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 10-17. SAMPLE WEIGHT AND BALANCE REPORT TO DETERMINE
+   EMPTY WEIGHT CENTER OF GRAVITY
+
+Par 10-23  Page 10-22
+
+===== PDF PAGE 569 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 10-18. SAMPLE WEIGHT AND BALANCE REPORT INCLUDING AN
+   EQUIPMENT CHANGE FOR AIRCRAFT FULLY LOADED
+
+Par 10-23  Page 10-23
+
+===== PDF PAGE 570 =====
+9/8/98  AC 43.13-1B
+
+10-24. INSTALLATION OF BALLAST. Ballast is sometimes permanently installed for CG
+balance purposes as a result of installation or removal of equipment items and is not used to
+correct a nose-up or nose-down tendency of an aircraft. It is usually located as far aft or as far
+forward as possible in order to bring the CG position within acceptable limits with a minimum of
+weight increase. Permanent ballast is often lead plate wrapped around and bolted to the fuselage
+primary structure (e.g., tail-post, longerons, or bulkhead members). Permanent ballast invariably
+constitutes a concentrated load; therefore, the strength of the local structure and the attachment
+of the ballast thereto should be investigated for the design loading conditions pertinent to that
+particular aircraft. Placard permanent ballast with “Permanent ballast - do not remove.” It is not
+desirable to install permanent ballast by pouring melted lead into the tail-post or longerons due to
+difficulties that may be encountered in subsequent welding repair operations. It should be noted
+that the installation of permanent ballast results in an increase of aircraft empty weight. See
+Figure 10-19 for ballast computation. The local strength of the compartment in which the ballast
+is carried and the effect of the ballast on aircraft W&B should be investigated when disposable
+ballast is carried.
+
+   FIGURE 10-19. PERMANENT BALLAST COMPUTATION FORMULA
+
+Par 10-24  Page 10-24
+
+===== PDF PAGE 571 =====
+9/8/98  AC 43.13-1B
+
+10-25. LOADING SCHEDULE. The loading schedule should be kept with the aircraft and
+form a part of the AFM. It includes instructions on the proper load distribution such as filling of
+fuel and oil tanks, passenger seating, restrictions of passenger movement, and distribution of
+cargo.
+
+   a. Other means of determining safe loading conditions such as the use of a graphical index
+and load adjuster are acceptable and may be used in lieu of the information in paragraph 10-20.
+
+   b. Compute a separate loading condition when the aircraft is to be loaded in other than the
+specified conditions shown in the loading schedule.
+
+10-26.–10-34. [RESERVED.]
+
+Par 10-25  Page 10-25
+

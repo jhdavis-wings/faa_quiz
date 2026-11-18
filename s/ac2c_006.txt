@@ -1,0 +1,161 @@
+AC 43.13-2C, chapter 5 (Anticollision And Supplementary Light Installation), PDF pages 57-61
+
+===== PDF PAGE 57 =====
+7/29/26  AC 43.13-2C
+
+ CHAPTER 5. ANTICOLLISION AND SUPPLEMENTARY LIGHT INSTALLATION
+
+ 5.1 Purpose. This chapter gives procedures and standards to be used when replacing older
+   rotating beacon assemblies and wing lights with strobe or other anticollision systems.
+   This chapter assumes that the newer units have FAA approval in the form of a Parts
+   Manufacturer Approval (PMA) or Technical Standard Order (TSO) and not an
+   experimental or aviation unit.
+
+ 5.2 Hazards and Warnings. When installing anticollision lights, take care to ensure the unit
+   is properly grounded, the airframe structure can support the new unit, and the aircraft
+   wiring is of the correct size. Mechanics should take special precautions to protect their
+   eyes when testing the new unit. Strobe lights are especially hazardous in dark or darkened
+   hangars when activated.
+
+ 5.3 Regulations and Other References. The operational requirements for anticollision lights
+   can be found in 14 CFR § 91.205. Information regarding installation requirements for
+   nontransport category aircraft is included in 14 CFR §§ 23.1401 and 27.1401. Additional
+   information can be found in AC 20-30, Aircraft Position Light and Anticollision Light
+   Installations; AC 20-74, Aircraft Position and Anticollision Light Measurements; and
+   Civil Air Regulation (CAR) 6, Rotorcraft Airworthiness; Normal Category. Aircraft for
+   which an application for type certificate (TC) was made before April 1, 1957, may
+   conform to either the above regulations or to the following standards:
+
+5.3.1 Anticollision lights, when installed, should be installed on top of the fuselage or tail in
+   such a location that the light will not impair the flight crewmembers’ vision and will not
+   detract from the conspicuity of the position lights. If there is no acceptable location on
+   top of the fuselage or tail, a bottom fuselage or wing tip installation may be used.
+
+5.3.2 The color of the anticollision light must be either aviation red or aviation white in
+   accordance with the specifications of 14 CFR § 23.1397 or 14 CFR § 27.1397, as
+   applicable.
+
+5.3.3 The arrangement of the anticollision light system (i.e., number of light sources, beam
+   width, speed of rotation, other characteristics, etc.) must give an effective flash frequency
+   of no less than 40 but not more than 100 cycles per minute. The effective flash frequency
+   is the frequency at which the aircraft’s complete anticollision light system is observed
+   from a distance and applies to each sector of light, including any overlaps that exist when
+   the system consists of more than one light source. In overlaps, flash frequencies may
+   exceed 100 but not more than 180 cycles per minute.
+
+5.3.4 The system must consist of enough lights to illuminate the vital areas around the aircraft,
+   considering the physical configuration and flight characteristics of the aircraft. The field
+   of coverage must extend in each direction within at least 75 degrees above and
+   75 degrees below the horizontal plane of the aircraft. The minimum light intensity and
+   minimum effective intensities are given in 14 CFR §§ 23.1401 and 27.1401, respectively.
+
+5.3.5 Supplementary lights may be installed, in addition to position and anticollision lights
+   required by applicable regulations, provided that the required position and anticollision
+
+   5-1
+
+===== PDF PAGE 58 =====
+7/29/26  AC 43.13-2C
+
+   lights are continuously visible and unmistakably recognizable and their conspicuity is not
+   degraded by such supplementary lights.
+
+ 5.4 Operational Considerations: Crew Vision. Partial masking of the anticollision light
+   may be necessary to prevent direct or reflected light rays from any anticollision or
+   supplementary light from interfering with crew vision. Determine if the field of coverage
+   requirements are met. An acceptable method of preventing light reflection from the
+   propeller disc, nacelle, or wing surface is an application of nonreflective paint on surfaces
+   that present a reflection problem. Perform a night flight check to ensure that any
+   objectionable light reflection, sometimes known as flicker vertigo, has been eliminated.
+   Enter a notation to that effect in the aircraft records.
+
+ 5.5 Installation Considerations.
+
+5.5.1 Communication and Navigation. Ensure that the installation and operation of any
+   anticollision or supplementary light does not interfere with the performance of installed
+   communication or navigation equipment. Capacitor discharge light (strobe) systems may
+   generate radio-frequency interference (RFI). This radiated interference can be induced
+   into the audio circuits of communication or navigation systems and is noticeable by
+   audible clicks in the speaker or headphones. The magnitude of RFI disturbance does not
+   usually disrupt the intelligence of audio reception.
+
+5.5.2 Precautions. RFI can be reduced or eliminated by observing the following precautions
+   during installation of capacitor discharge light systems:
+
+   1. Locate the power supply at least 3 feet from any antenna, especially antennas for
+   radio systems that operate in the lower frequency bands.
+   2. Ensure that the lamp unit (flash tube) wires are separated from other aircraft wiring,
+   placing particular emphasis on coaxial cables and radio equipment input power wires.
+   3. Make sure that the power supply case is adequately bonded to the airframe.
+   4. Ground the shield around the interconnecting wires between the lamp unit and power
+   supply at the power supply end only.
+
+ 5.6 Markings and Placards. Identify each switch for an anticollision/supplementary light
+   and indicate its operation. The aircraft should be flight tested under haze, overcast, and
+   visible moisture conditions to ascertain that no interference to pilot vision is produced by
+   operation of these lights. If found unsatisfactory by test or in the absence of such testing,
+   a placard should be provided to the pilot stating that the appropriate lights be turned off
+   while operating in these conditions.
+
+ 5.7 Electrical Installation. Install an individual switch for the anticollision light or
+   supplementary light system that is independent of the position light system switch. Data
+   for the installation of wiring, protection devices, and generator/alternator limitations is
+   contained in AC 43.13-1, Acceptable Methods, Techniques, and Practices—Aircraft
+   Inspection and Repair, Chapter 11, Aircraft Electrical Systems. Ensure that the terminal
+   voltage at each light is within the limits as prescribed by the manufacturer.
+
+   5-2
+
+===== PDF PAGE 59 =====
+7/29/26  AC 43.13-2C
+
+ 5.8 Alteration of Structure.
+
+5.8.1 The simplest light installation is to secure the light to a reinforced fuselage skin panel.
+   The reinforcement doubler shall be of equivalent thickness, material, and strength as the
+   existing skin. (Install as shown in Figure 5-1.)
+
+   Figure 5-1. Typical Anticollision or Supplementary Light Installation in a Skin Panel
+   (Unpressurized)
+
+5.8.2 When a formed angle stringer is cut and partially removed, position the reinforcement
+   doubler between the skin and the frame. The doubler is to be equivalent to the stringer in
+   thickness and extend lengthwise beyond the adjacent fuselage frames. The distance
+   between the light and the edge of the doubler is to be twice the height of the doubler
+   flange (see Figure 5-2, Typical Anticollision or Supplementary Light Installation
+   Involving a Cut Stringer (Unpressurized), for typical installation).
+
+   5-3
+
+===== PDF PAGE 60 =====
+7/29/26  AC 43.13-2C
+
+   Figure 5-2. Typical Anticollision or Supplementary Light Installation Involving a Cut
+   Stringer (Unpressurized)
+
+5.8.3 Engineering evaluation is required for installations involving the cutting of complex
+   formed or extruded stiffeners, fuselage frames, or pressurized skin of pressurized aircraft.
+
+5.8.4 Vertical stabilizer installations may be made on the aircraft if the stabilizer is large
+   enough in cross-section to accommodate the light installation and if aircraft flutter and
+   vibration characteristics are not adversely affected. Locate such an installation near a
+   spar, and add formers as required to stiffen the structure near the light. A typical
+   installation is shown in Figure 5-3, Typical Anticollision or Supplementary Light
+   Installation in a Fin Tip.
+
+   5-4
+
+===== PDF PAGE 61 =====
+7/29/26  AC 43.13-2C
+
+   Figure 5-3. Typical Anticollision or Supplementary Light Installation in a Fin Tip
+
+   Note: Skin thickness of the mounting ring and fairing are at least equivalent.
+
+5.8.5 Rudder installations are not recommended because of the possible structural difficulties.
+   However, if such installations are considered, an FAA engineering evaluation must be
+   made to determine whether the added mass of the light installation will adversely affect
+   the flutter and vibration characteristics of the tail surfaces.
+
+   5-5
+

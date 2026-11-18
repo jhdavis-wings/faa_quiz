@@ -1,0 +1,28 @@
+AMT QUIZ SOURCES: MASTER INDEX (web-fetch path)
+The study sources are split into small plain-text files. Each source has its own index listing its files
+and the section headings inside each file. Fetch a source index, pick the files you need, fetch only those.
+Every file is at: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/<file name>
+
+14 CFR Parts 1, 21, 33, 34, 35, 39, 43, 45, 47, 65, 91, 121, 135, 145, 147 (eCFR, issue date 2026-10-15) (55 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_cfr_a.txt (14 CFR Part 1 (1/2) to 14 CFR Part 91 (10/11)) and https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_cfr_b.txt (14 CFR Part 91 (11/11) to 14 CFR Part 147 (1/1))
+  covers: 14 CFR Part 1; 14 CFR Part 21; 14 CFR Part 33; 14 CFR Part 34; 14 CFR Part 35; 14 CFR Part 39; 14 CFR Part 43; 14 CFR Part 45; 14 CFR Part 47; 14 CFR Part 65; 14 CFR Part 91; 14 CFR Part 121; 14 CFR Part 135; 14 CFR Part 145; 14 CFR Part 147
+
+FAA-H-8083-30B AMT General Handbook (2023) (46 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_gen.txt
+  covers: front matter; chapter 1 (Safety, Ground Operations, & Servicing); chapter 2 (Regulations, Maintenance Forms, Records, & Publications); chapter 3 (Mathematics in Aviation); chapter 4 (Aircraft Drawings); chapter 5 (Physics for Aviation); chapter 6 (Aircraft Weight & Balance); chapter 7 (Aircraft Materials, Hardware, & Processes); chapter 8 (Cleaning & Corrosion Control); chapter 9 (Fluid Lines & Fittings); chapter 10 (Inspection Concepts & Techniques); chapter 11 (Hand Tools & Measuring Devices); chapter 12 (Fundamentals of Electricity & Electronics); chapter 13 (Mechanic Privileges & Limitations); chapter 14 (Human Factors)
+
+FAA-H-8083-31B AMT Airframe Handbook (2023) (66 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_afr.txt
+  covers: front matter; chapter 1 (Aircraft Structures); chapter 2 (Aerodynamics, Aircraft Assembly, & Rigging); chapter 3 (Aircraft Fabric Covering); chapter 4 (Aircraft Metal Structural Repair); chapter 5 (Aircraft Welding); chapter 6 (Aircraft Wood & Structural Repair); chapter 7 (Advanced Composite Materials); chapter 8 (Aircraft Painting & Finishing); chapter 9 (Aircraft Electrical System); chapter 10 (Aircraft Systems); chapter 11 (Communication & Navigation); chapter 12 (Hydraulic & Pneumatic Power Systems); chapter 13 (Aircraft Landing Gear Systems); chapter 14 (Aircraft Fuel Systems); chapter 15 (Ice & Rain Protection); chapter 16 (Cabin Environmental Control); chapter 17 (Fire Protection Systems)
+
+FAA-H-8083-32B AMT Powerplant Handbook (2023) (35 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_pwr.txt
+  covers: front matter; chapter 1 (Aircraft Engines); chapter 2 (Engine Fuel & Fuel Metering Systems); chapter 3 (Induction & Exhaust Systems); chapter 4 (Engine Ignition & Electrical Systems); chapter 5 (Engine Starting Systems); chapter 6 (Lubrication & Cooling Systems); chapter 7 (Propellers); chapter 8 (Engine Removal & Replacement); chapter 9 (Engine Fire Protection Systems); chapter 10 (Engine Maintenance & Operation); chapter 11 (Light-Sport Aircraft Engines)
+
+AC 43.13-1B with Change 1 (inspection and repair) (29 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_ac1b.txt
+  covers: front matter; chapter 1 (Wood Structure); chapter 2 (Fabric Covering); chapter 3 (Fiberglass And Plastics); chapter 4 (Metal Structure, Welding, And Brazing); chapter 5 (Nondestructive Inspection (Ndi)); chapter 6 (Corrosion, Inspection, And Protection); chapter 7 (Aircraft Hardware, Control Cables, And Turnbuckles); chapter 8 (Engines, Fuel, Exhaust, And Propellers); chapter 9 (Aircraft Systems And Components); chapter 10 (Weight And Balance); chapter 11 (Aircraft Electrical Systems); chapter 12 (Aircraft Avionics Systems); chapter 13 (Human Factors)
+
+AC 43.13-2C (alterations, 2026) (15 files)
+  index: https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX_ac2c.txt
+  covers: front matter; chapter 1 (General); chapter 2 (Structural Data); chapter 3 (Communication, Navigation, And Emergency Locator Transmitter System); chapter 4 (Antenna Installation); chapter 5 (Anticollision And Supplementary Light Installation); chapter 6 (Ski Installations); chapter 7 (Oxygen System Installations In Nonpressurized Aircraft); chapter 8 (Rotorcraft External-Load Device Installations, Cargo Slings, And External Racks); chapter 9 (Glider And Banner Tow-Hitch Installations); chapter 10 (Shoulder Harness Installations); chapter 11 (Aircraft Battery Installations); chapter 12 (Adding Or Relocating Instruments); chapter 13 (Cargo Tiedown Device Installations); chapter 14 (Larger Tire Installations)

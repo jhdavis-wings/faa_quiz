@@ -1,0 +1,882 @@
+AC 43.13-2C, chapter 10 (Shoulder Harness Installations), PDF pages 115-141
+
+===== PDF PAGE 115 =====
+ 7/29/26  AC 43.13-2C
+
+   CHAPTER 10. SHOULDER HARNESS INSTALLATIONS
+
+   Section 1. General
+
+ 10.1 Purpose. The purpose of this chapter is to provide guidance for retrofit shoulder harness
+   installations. Information contained herein may be adaptable for the installation of
+   shoulder harnesses in aircraft for which aircraft manufacturer or Supplemental Type
+   Certificate (STC) retrofit installations have not been developed.
+
+ 10.2 Hazards and Warnings. Installations that do not meet the minimum standards
+   prescribed by regulations are not acceptable. At no time should a retrofit shoulder harness
+   installation perform at less than the static test load requirements specified in Table 10-1,
+   Static Test Requirements.
+
+ 10.3 Additional References. The following references provide additional information for
+   shoulder harness installations.
+
+   •  AC 21-34, Shoulder Harness-Safety Belt Installations.
+   •  AC 23-17, Systems and Equipment Guide for Certification of Part 23 Airplanes and
+   Airships.
+   •  AC 91-65, Use of Shoulder Harness in Passenger Seats.
+   •  Civil Air Regulation (CAR) 6, Rotorcraft Airworthiness; Normal Category.
+   •  Technical Standard Order (TSO)-C22g, Safety Belts.
+   •  TSO-C114, Torso Restraint Systems.
+   •  Society of Automotive Engineers (SAE) Aerospace Standard (AS) AS8043, Restraint
+   Systems for Civil Aircraft.
+
+ 10.4 Installation Methods. Shoulder harness installations can be performed by minor or by
+   major alterations to the type design depending on the complexity.
+
+10.4.1 Minor alterations are limited to those where no change in the aircraft structure is required
+   for mounting the harness. If the installation does not require operations such as drilling
+   holes into or welding brackets onto the primary structure, it could be classified as a minor
+   alteration (see Figure 10-1, Major Versus Minor Alterations). Two examples of minor
+   alterations for shoulder harnesses are:
+
+   10.4.1.1  Some aircraft manufacturers have included hardpoints in the type design, such
+   as nutplates or predrilled holes, for the mounting of harnesses. Some also
+   provide service kits or service instructions that include parts and instructions
+   necessary to install harnesses. If the harness installation does not involve
+   modification of primary structures, it can be returned to service as a minor
+   alteration unless otherwise specified in the installation instructions. The
+   authorized mechanic needs only to complete a maintenance record entry and
+   update the equipment list and Weight and Balance (W&B) as required.
+
+   10-1
+
+===== PDF PAGE 116 =====
+7/29/26  AC 43.13-2C
+
+   10.4.1.2  In some instances, a cable or a bracket can be secured around a structural
+   member without altering the structure, which will accommodate attachment of
+   the harness. Truss tube construction is most commonly retrofitted with
+   harnesses using this method. After performing static load tests or obtaining
+   stress analysis documentation, the record entries as described above are
+   completed. See Chapter 2, Structural Data, to determine design loads.
+
+10.4.2 Major alterations can be accomplished by one or more of the following methods and will
+   require completion of the FAA Form 337, Major Repair and Alteration (Airframe,
+   Powerplant, Propeller, or Appliance), using approved data. Refer to 14 CFR part 43.
+
+   10.4.2.1  STC. There are many STCs issued for installation of shoulder harnesses in a
+   variety of aircraft. The STCs are issued for specific makes and models (M/M)
+   of aircraft. A listing of STCs can be searched for applicability on the FAA
+   website.
+
+   10.4.2.2  Field Approval. A properly trained and certified FAA Airworthiness aviation
+   safety inspector (ASI) can field approve data under certain conditions. ASIs
+   are not engineers, so unless the case for field approval is supported with
+   adequate data to evaluate the installation, the request for field approval may
+   be turned down. An example of justification for field approval might be if an
+   STC exists for the same M/M with a similar mounting configuration but the
+   STC does not cover the aircraft by year of manufacture or serial number.
+
+   10.4.2.3  Designated Engineering Representatives (DER) Data. DERs can evaluate
+   structural attachments and provide approved data on FAA Form 8110-3,
+   Determination of Compliance With Airworthiness Standards. This data can be
+   substituted for static tests, allowing the installation to be approved for return
+   to service on the FAA Form 337 by an appropriately authorized person.
+
+   10.4.2.4  Manufacturer Data. Some manufacturers have developed service kits or
+   service instructions that are FAA-approved for harness retrofit installations.
+   Depending on the complexity, these installations may be performed as major
+   or minor alterations. For example, if the installation consists of affixing
+   harness assemblies to existing hard points, such as nutplates, the installation
+   could be classified as minor with no requirement to complete FAA Form 337.
+   If the kit is FAA-approved but results in modification to the airframe
+   structure, FAA Form 337 must be completed, referencing the approved
+   kit/instructions, with no additional approval required.
+
+   10.4.2.5  Other FAA-Approved Data. As specified in the Chapter 1, General, the data
+   contained herein may conditionally be used as approved data. Data such as
+   static tests, attachments, and materials could be used to show that the
+   installation complies with regulations. Previously performed static tests
+   meeting the minimum standards specified in this AC may be applicable for a
+   retrofit installation if adequately documented.
+
+   10-2
+
+===== PDF PAGE 117 =====
+ 7/29/26  AC 43.13-2C
+
+   Figure 10-1. Major Versus Minor Alterations
+
+ 10.5 Restraint System Configurations. Restraint systems incorporating a shoulder harness
+   are available in three configurations.
+
+10.5.1 The three-point system consists of a single shoulder belt that is positioned diagonally
+   across the occupant’s upper torso (see Figure 10-2, The Three-Point Single Harness
+   Positioning).
+
+10.5.2 The four-point system consists of dual shoulder belts with one belt passing over each of
+   the occupant’s shoulders. Upper end attachment is accomplished at either two locations
+   aft of the occupant’s shoulders or at one location aft of the occupant’s head after the belts
+   have been joined together in a “Y.” Lower end attachment is accomplished at a buckle
+   centered on the occupant’s lap belt or symmetrically at each side of the occupant (see
+   Figure 10-8, The Four-Point Independent Harnesses Positioning).
+
+10.5.3 The five-point system is similar to the four-point system except that an additional belt,
+   the negative-G strap, commonly referred to as a “crotch strap,” is passed between the
+   occupant’s legs, attaching one end at the lap belt and the other end at the front edge of the
+   seat or to the airframe under the seat. A variation of the five-point system is the
+   six-point system where two belts pass between the occupant’s legs (see Figure 10-9, The
+   Five-Point Harness Positioning).
+
+ 10.6 Advantages of Different Configurations.
+
+10.6.1 The three-point single diagonal shoulder harness in combination with a lap belt is the
+   least-cost, most-simple restraint system and has been proven to work effectively for
+   longitudinal (forward) decelerations. However, during lateral (sideward) decelerations
+   away from the shoulder harness, an occupant in this type of harness has a tendency to slip
+   out from the harness even when it fits snugly.
+
+   10-3
+
+===== PDF PAGE 118 =====
+ 7/29/26  AC 43.13-2C
+
+10.6.2 The four-point dual shoulder harness works well for both longitudinal and lateral
+   decelerations.
+
+10.6.3 The five-point system, incorporating the negative-G strap, resists the upward motion of
+   the buckle during loading and limits submarining, which is the tendency for the occupant
+   to slide underneath the lap belt during rapid decelerations. The five-point system has
+   proven to be very effective and has been adopted for many commercial, agricultural,
+   military, and aerobatic operations.
+
+ 10.7 Manufacturing Standards. There are several standards that aircraft restraint systems
+   may be manufactured to.
+
+10.7.1 Restraint Systems Produced by or for the Aircraft Manufacturer. These Original
+   Equipment Manufacturer (OEM) harnesses may bear the manufacturer’s part number or
+   other identification.
+
+10.7.2 Restraint Systems Produced Under a Parts Manufacturer Approval (PMA). Restraint
+   systems produced under a PMA, with specific aircraft eligibility listed in the PMA, will
+   bear the PMA markings required by 14 CFR § 45.15(a).
+
+10.7.3 TSO Restraints. Two TSOs are applicable to the performance standards of restraint
+   systems. These TSOs do not approve the restraint system for installation in the aircraft.
+   Restraint systems approved to a TSO will be marked in accordance with 14 CFR
+   § 45.15(b) and the specific TSO marking instructions.
+
+   10.7.3.1  TSO-C22g, Safety Belts, prescribes the minimum performance standards that
+   safety belts must meet in order to be identified with the applicable TSO
+   marking. This TSO applies to the pelvic or lap belt portion of a restraint
+   system. Belts bearing an earlier revision TSO marking (e.g., C22f) are
+   acceptable for continued use if their condition remains satisfactory.
+
+   10.7.3.2  TSO-C114, Torso Restraint Systems, prescribes the minimum performance
+   standards that torso restraint systems must meet in order to be identified with
+   the applicable TSO marking. This TSO applies to pelvic and upper torso
+   restraints and includes the fifth belt of a five-point system. Harnesses
+   manufactured prior to March 27, 1987, the effective date of this TSO, will not
+   be marked as meeting this TSO.
+
+10.7.4 Restraint Systems Produced Under a Military Specification (MIL-SPEC). Restraint
+   systems produced under a MIL-SPEC, such as MIL-R-81729, are marked in accordance
+   with MIL-STD-130. FAA-approved data will need to be obtained for installation of
+   restraints designed to MIL-SPEC standards.
+
+ 10.8 Compliance With Standards.
+
+10.8.1 Prior to March 27, 1987, the TSO-C114 shoulder harness standards were established.
+   Lacking such standards, harnesses manufactured prior to this date often were not
+   identified with any markings. These harnesses are acceptable for existing installations if
+
+   10-4
+
+===== PDF PAGE 119 =====
+ 7/29/26  AC 43.13-2C
+
+   they were installed before the effective date of this TSO and remain in satisfactory
+   condition.
+
+10.8.2 For harness installations performed under this AC, use only those restraints that are
+   properly marked and traceable to one of the above standards. There are several restraint
+   manufacturers who can custom-build restraint system components that are manufactured
+   to and identified with TSO-C114 markings. There are also several companies that can
+   manufacture restraints under a PMA for specific applications.
+
+10.8.3 It is acceptable to replace existing restraints, including lap belts, with OEM, TSO, or
+   PMA units after compatibility has been determined. The aircraft owner/operator can
+   perform this as preventive maintenance, defined under 14 CFR part 43 appendix A,
+   paragraph (c)(14), along with the required maintenance record entry. However, if the
+   aircraft is operated under 14 CFR part 121, 129, or 135, the work must be accomplished
+   by an appropriately rated mechanic.
+
+10.8.4 Used TSO restraints, typically obtained through salvage companies, must be overhauled
+   by an FAA-approved facility in accordance with an FAA-approved specification prior to
+   installation as these harnesses may have been exposed to unknown environmental
+   conditions or accident loads.
+
+ 10.9 Materials. For a more thorough discussion of restraint assembly materials, refer to
+   AC 21-34.
+
+10.9.1 Webbing, the woven fabric portion of the restraint, is made from synthetic materials, such
+   as nylon or polyester. Minimum breaking strength is determined by the standard under
+   which the restraint was manufactured.
+
+10.9.2 Attachment hardware must conform to Army/Navy and Air Force/Navy (AN), Military
+   Standard (MS), National Aerospace Standards (NAS), or other acceptable industry
+   standards or specifications and be able to withstand the loads it will be subjected to.
+
+10.9.3 Retractors are frequently incorporated into the shoulder harnesses and sometimes into
+   pelvic restraints. Some current production aircraft incorporate retractors into the harness
+   and the lap belt. Retractors function to provide for adjustment in length and allow the
+   occupant additional freedom of movement when compared to fixed harnesses. They are
+   available in two categories.
+
+   10.9.3.1  Automatic locking retractors provide automatic retraction of webbing for
+   length adjustment and stowage of webbing. Their mechanism permits free
+   webbing extension for coupling of the belt, but the moment any webbing is
+   automatically retracted, the locking mechanism locks to prevent further
+   webbing extension.
+
+   10.9.3.2  Emergency locking retractors are frequently called “inertia reels” because
+   their mechanism provides positive restraint only when inertial forces are
+   experienced. The most common type of inertia reel appropriate for aircraft use
+   is known as the webbing sensitive reel. It produces locking by a change in the
+
+   10-5
+
+===== PDF PAGE 120 =====
+  7/29/26  AC 43.13-2C
+
+   rate (acceleration) of webbing withdrawal from the retractor, which is
+   functional for occupant accelerations in any direction producing extension of
+   the webbing. Emergency locking retractors may be equipped with a
+   mechanism that will allow the user to manually lock the reel when a
+   deceleration is anticipated. This feature relieves the possibility of a
+   malfunctioning inertia mechanism.
+
+ 10.9.4 Buckles suitable for shoulder harness installations are defined by their release mechanism
+   and come in three types:
+
+   •  Lift lever,
+   •  Push button, and
+   •  Rotary.
+
+ 10.10 Parts Produced by Owners/Others. Title 14 CFR § 21.9 allows owners or operators to
+   produce parts for altering their own aircraft under certain conditions. Since approved
+   restraints meeting TSO, PMA, or other standards are readily available, applying this
+   regulation for the production of restraints is not advised, as owner-produced restraints
+   would also need to demonstrate proof of compliance with these standards. However,
+   airframe attachment brackets or fittings might be candidates to be produced under this
+   regulation. To qualify, the owner must have participated in controlling the design,
+   manufacture, or quality of the part such as by:
+
+10.10.1 Providing the manufacturer with the design or performance data from which to make the
+   part. The owner could provide the manufacturer with a part to be duplicated.
+
+10.10.2 Providing the manufacturer with the materials from which to make the part.
+
+10.10.3 Providing the manufacturer with fabrication processes or assembly methods to make the
+   part.
+
+10.10.4 Providing the quality control procedures to make the part.
+
+10.10.5 Personally supervising the manufacture of the part.
+
+   10.10.5.1 An example of this might be if the owner has discovered a desirable harness
+   attachment bracket in an aircraft similar to their own, and they create a
+   drawing to duplicate this bracket, specifying materials and performance
+   standards. They could then either make the part themself or contract out for
+   the manufacture of the part. When a mechanic installs the part, the
+   maintenance record entry would include the installation information as
+   required from the mechanic and an entry by the owner that the part was
+   produced under 14 CFR § 21.9 by the owner for their aircraft. Note that this
+   regulation provides no authority for the owner to install the part. Furthermore,
+   the mechanic will need to show that the installation meets minimum strength
+   standards through static testing or stress analysis.
+
+   10-6
+
+===== PDF PAGE 121 =====
+7/29/26  AC 43.13-2C
+
+   10.10.5.2 Parts and kits to install harnesses are sometimes available from parts
+   warehouses or individuals who supply components and instructions for
+   harness installations without FAA approval, such as STC, TSO, or PMA. The
+   installer of these parts will need to obtain FAA approval, typically a field
+   approval, for such installations.
+
+   10-7
+
+===== PDF PAGE 122 =====
+  7/29/26  AC 43.13-2C
+
+   Section 2. Geometry and Attachment
+
+ 10.11 General.
+
+10.11.1 Harness attachment points physically locate the shoulder harness relative to the occupant
+   being restrained and establish the angles that will impose loads upon the aircraft
+   structure. Careful selection of appropriate attachment points will maximize the restraint
+   system’s overall performance.
+
+10.11.2 For best results, the restraint system should be anchored to the primary aircraft structure,
+   defined as “that structure which contributes significantly to resisting or transmitting flight
+   or ground loads, or may lead to an unsafe condition if failed.” 1 The structural attachment
+   should be designed to spread the suddenly applied impact loads over as large an area of
+   the structure as possible. The shoulder harness may be attached to selected secondary
+   members that will deform slowly or collapse at a limited rate. This will assist in
+   dissipating the high impact “G” loads to a level tolerable to the human body. However,
+   the possibility of secondary members collapsing and creating a new impact hazard for the
+   occupant or making it difficult for an occupant to exit the aircraft should not be
+   overlooked.
+
+ 10.12 Mounting Configurations. The type of shoulder restraint configuration acceptable for
+   installation is dependent upon the attachments available in the aircraft. Basic harness
+   mounting configurations are:
+
+10.12.1 Seat mounted.
+
+10.12.2 Airframe mounted:
+
+   •  Side.
+   •  Ceiling.
+   •  Floor.
+   •  Directly rearward.
+
+ 10.13 Belt Length. In all installations, it is desirable to keep the harness belt lengths as short as
+   practical while still allowing for the required freedom of movement. Belt stretching,
+   which reduces the effectiveness of the restraint by allowing slack during loading,
+   increases as the belt length increases. If too much slack is present, the occupant may
+   contact the instrument panel or slide out of the harness during rapid decelerations.
+
+ 10.14 Attachment Geometry. The following are general guidelines for attachment of
+   three-point and four/five-point harness configurations:
+
+10.14.1 Single Diagonal Three-Point Harness. A proper installation for this type of harness
+   positions the shoulder belt so that it passes over the midpoint of the shoulder with the
+
+  1
+   AC 23-15, Small Airplane Certification Compliance Program, subparagraph 1a.
+
+   10-8
+
+===== PDF PAGE 123 =====
+  7/29/26  AC 43.13-2C
+
+   lower end fastened well to the opposite side of the occupant’s hip, as shown in
+   Figure 10-2. The optimum rearward attachment area for this type of harness is within an
+   angle of 30 degrees above the horizontal measured from the midpoint on the occupant’s
+   shoulder as shown in Figure 10-3, Side Mounted Single Diagonal Type Harness. Upper
+   harness attachments should be located to the rear and outboard of the occupant’s neck.
+   This mounting area is shown in Figure 10-4, Acceptable Harness Mounting Areas.
+
+   10.14.1.1 Attachment points inboard of this area would allow the harness to impinge on
+   the neck and could result in neck injury during crash impact (see Figure 10-5,
+   Undesirable Horizontal Harness Positioning). In addition, the constant rubbing
+   of the strap on the neck would be uncomfortable and, as a result, act as a
+   distraction to the safe operation of the aircraft and a deterrent to use of the
+   harness.
+
+   10.14.1.2 Attachment points forward of this area would reduce the effectiveness of the
+   harness due to a reduction of contact between the harness and the upper torso
+   of the occupant (see Figure 10-6, Undesirable Vertical Harness Positioning).
+   As a result, the potential for increased forward movement of the torso
+   increases the likelihood of head impact injuries from the instrument panel.
+   Additionally, the chances of twisting out of the harness are significantly
+   increased.
+
+   10.14.1.3 A retractor can be used with the diagonal harness. It has the added benefit of
+   allowing for more freedom of movement, especially when controls such as
+   fuel selectors are located on the flight deck floor. However, it may be more
+   complicated to mount a retractor and maintain an unrestricted, straight-line
+   entry and exit of the webbing.
+
+10.14.2 Double Over-the-Shoulder Four/Five-Point Harness. This type of harness should be
+   mounted either directly rearward or to the ceiling. Ideally, the mount should be within the
+   30-degree vertical angle, or, because of the limited number of rearward shoulder harness
+   attachment points in many aircraft, a five-degree angle below the horizontal is also
+   considered satisfactory, as shown in Figure 10-7, Ceiling Mounted Inertia Reel―Double
+   Over-the-Shoulder Type Harness. These mounting angles may be used for either the dual
+   independent or the “Y” type belts. Figures 10-8 and 10-9 depict correct harness
+   positioning of four/five-point harnesses.
+
+   10.14.2.1 If the harness attachment is located more than 5 degrees below the horizontal
+   angle measured from the midpoint on the occupant’s shoulder, there is an
+   increased risk of spinal compression caused by the vertical component
+   induced during impact deceleration (see Figure 10-6).
+
+   10.14.2.2 For dual independent harnesses, the outboard limit must be established to
+   provide sufficient contact that will prevent the belt from slipping off the
+   shoulder, and the maximum inboard angle is limited to a point that will
+   prevent impingement on the neck (see Figure 10-5). Where the mounting
+   structure is incapable of withstanding loads imposed by a “Y” type harness
+
+   10-9
+
+===== PDF PAGE 124 =====
+7/29/26  AC 43.13-2C
+
+   single retractor, two retractors used with dual independent harnesses may
+   spread the load enough to satisfy strength requirements. Dual independent
+   harnesses that are crossed aft of the occupant’s head will need careful
+   evaluation to preclude neck impingement.
+
+   10.14.2.3 Retractors are often used with “Y” type and dual independent harnesses. The
+   single retractor used with a “Y” type harness is mounted aft of the center
+   vertical plane of the occupant (see Figures 10-4 and 10-10, “Y” Type
+   Retractor Positioning). The fifth belt, if used, is attached to the seat or
+   airframe so that it joins the buckle perpendicular to the lap belt in the
+   centerline of the seat. Figure 10-9 shows a five-point system.
+
+   Figure 10-2. The Three-Point Single Harness Positioning
+
+   10-10
+
+===== PDF PAGE 125 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-3. Side Mounted Single Diagonal Type Harness
+
+   Figure 10-4. Acceptable Harness Mounting Areas
+
+   10-11
+
+===== PDF PAGE 126 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-5. Undesirable Horizontal Harness Positioning
+
+   Figure 10-6. Undesirable Vertical Harness Positioning
+
+   10-12
+
+===== PDF PAGE 127 =====
+7/29/26  AC 43.13-2C
+
+  Figure 10-7. Ceiling Mounted Inertia Reel―Double Over-the-Shoulder Type Harness
+
+   Figure 10-8. The Four-Point Independent Harnesses Positioning
+
+   10-13
+
+===== PDF PAGE 128 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-9. The Five-Point Harness Positioning
+
+   Figure 10-10. “Y” Type Retractor Positioning
+
+   10-14
+
+===== PDF PAGE 129 =====
+  7/29/26  AC 43.13-2C
+
+ 10.15 Area and Angle Deviations. While the areas and angles given in the above paragraphs
+   are intended to assist in the selection of attachment points, they should be considered the
+   desirable optimum. Area or angle deviations, or both, could decrease the overall
+   efficiency of the restraint system. However, they may be necessary in order to permit
+   harness installation in an aircraft that cannot accommodate ideal harness geometry. As
+   discussed in Section 3, Static Strength and Testing, angles have a significant bearing on
+   static test load requirements.
+
+ 10.16 Structural Attachment. This chapter presents only a few generic examples of structural
+   attachment of harnesses that may be determined to be acceptable for a specific
+   application. See Section 3 for strength requirements of the attachment.
+
+10.16.1 Floor and Seat Attachments. The dual over-the-shoulder or “Y” type harness may be used
+   with either floor or seat mounting points. Typical installations are illustrated in
+   Figures 10-11, Floor Mounted Inertia Reel―Double Over-the-Shoulder Type Harness;
+   10-12, Typical Floor Mounted Inertia Reel Installation; and 10-13, Typical Seat Mounted
+   Inertia Reel Installation. Several factors need to be considered that may make this
+   configuration undesirable.
+
+   10.16.1.1 The floor, seat structure, and anchorages must be capable of withstanding the
+   additional “G” loads imposed upon them by the restraints.
+
+   10.16.1.2 The height of the seat back should at least be equal to the shoulder height of
+   the seated occupant to reduce the possibility of spinal compression injuries.
+
+   10.16.1.3 Harness guides may be necessary to maintain proper harness position over the
+   occupant’s shoulders.
+
+   10.16.1.4 Seat back strength is critical to performance of these installations. Folding seat
+   backs must have a locking mechanism that can withstand the imposed loads;
+   however, a locked seat back may impede emergency egress of other occupants
+   and create an impact hazard for occupants seated aft of the locked seat back.
+
+   10-15
+
+===== PDF PAGE 130 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-11. Floor Mounted Inertia Reel―Double Over-the-Shoulder Type Harness
+
+   Figure 10-12. Typical Floor Mounted Inertia Reel Installation
+
+   10-16
+
+===== PDF PAGE 131 =====
+  7/29/26  AC 43.13-2C
+
+   Figure 10-13. Typical Seat Mounted Inertia Reel Installation
+
+10.16.2 Airframe Attachments. The method used for the attachment of shoulder harness
+   anchorages is dependent upon the construction features of the aircraft involved. When
+   selecting a point of attachment, careful consideration should be given to the static
+   strength and testing requirements found in Section 3.
+
+   10.16.2.1 Monocoque/Semimonocoque Type Constructions. Illustrations of typical
+   aircraft members and installation methods are shown in Figures 10-14,
+   Typical Wing Carry-Through Installation, through 10-18, Typical Localized
+   Stringer Section Reinforcement Installation. Intercostal doublers and stiffeners
+   are frequently added to provide increased strength. AC 43.13-1, Acceptable
+   Methods, Techniques, and Practices—Aircraft Inspection and Repair,
+   Chapter 4, Metal Structure, Welding, and Brazing, provides useful
+   information on fabrication and installation of sheet metal repairs that may be
+   applicable to doubler and stiffener installations.
+
+   10.16.2.2 Tube Type Construction. Various typical methods of attaching shoulder
+   harness anchorages are shown in Figure 10-19, Typical Attachments to
+   Tubular Members. Attachment should be accomplished at the intersection of
+   tubular members and not at the center of single unsupported tubes. When
+   aircraft cable is used as a component in a shoulder harness anchorage, swage
+   the cable terminals in accordance with the procedures contained in
+   AC 43.13-1, Chapter 7, Aircraft Hardware, Control Cables, and Turnbuckles.
+
+   10-17
+
+===== PDF PAGE 132 =====
+  7/29/26  AC 43.13-2C
+
+10.16.3 Structural Repair Instructions. In some instances, structural repair instructions are
+   provided in the aircraft manufacturer’s maintenance manual. While these instructions are
+   primarily intended for use in repairing defective or damaged structure, they may also be
+   used as reinforcement methods for shoulder harness attach fittings.
+
+10.16.4 Flexible Attachments. Various aircraft are designed so that fuselage members or skin, or
+   both, will flex or “work.” This type of structure should not be heavily reinforced for the
+   purpose of attaching shoulder harnesses, as this would defeat the design purpose. In these
+   cases, use a localized reinforcement, such as that shown in Figure 10-18, at the
+   attachment point. This will allow the fuselage to flex while still maintaining a collapsible
+   structure to absorb the loads encountered in a crash.
+
+   Figure 10-14. Typical Wing Carry-Through Installation
+
+   Figure 10-15. Typical Hat Section Reinforcement Installation
+
+   10-18
+
+===== PDF PAGE 133 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-16. Typical Bulkhead Reinforcement Installation
+
+   Figure 10-17. Typical Stringer Section Reinforcement Installation
+
+   10-19
+
+===== PDF PAGE 134 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-18. Typical Localized Stringer Section Reinforcement Installation
+
+   Figure 10-19. Typical Attachments to Tubular Members
+
+   10-20
+
+===== PDF PAGE 135 =====
+  7/29/26  AC 43.13-2C
+
+   Section 3. Static Strength and Testing
+
+ 10.17 Proof of Compliance. Retrofit harness installations must be proven to meet minimum
+   strength requirements applicable to the aircraft certification basis; otherwise, their ability
+   to provide adequate restraint under accident decelerations is undetermined. Static strength
+   requirements can be demonstrated by static testing or stress analysis.
+
+10.17.1 Static tests are accomplished by application of the ultimate load to the harness attachment
+   point. Since TSO and PMA restraints have already been shown to comply with strength
+   requirements, static tests are accomplished to substantiate the airframe attachment. Static
+   testing in operational aircraft is undesirable because there is the risk of airframe damage;
+   however, static testing in a conforming but unserviceable fuselage or cabin section of the
+   same M/M aircraft is an acceptable alternative.
+
+10.17.2 Stress analysis is accomplished through engineering data developed for the specific
+   attachment point. This data can be developed by FAA DERs with aircraft structural
+   approval authority. The DER will perform the analysis, prepare a report, and complete
+   FAA Form 8110-3, which demonstrates that a specific regulation has been met. The DER
+   will list on FAA Form 8110-3 the data needed to show the structural adequacy of the
+   installation of the harness. Since the DER is only approving the structural aspects of
+   harness attachment, approval for return to service for the installation as a whole is
+   accomplished by the authorized individual or agency on FAA Form 337. To locate an
+   appropriately authorized DER in your locality, contact the FAA Flight Standards District
+   Office (FSDO) or the responsible Aircraft Certification Service office for the area.
+
+   Note: It is up to the installer to determine which method will be the most
+   efficient. For simple installations, it is possible that the DER could perform stress
+   analysis in just a few hours. The DER may also be able to assist in the design of
+   attachment points.
+
+ 10.18 Load and Distribution―Airplanes. Table 10-1 provides a reference to determine
+   minimum static test loads based upon certification date, category, standard occupant
+   weight, fitting factors, and harness factors. The numbers in each line are multiplied
+   together to obtain the static test load minimum standard.
+
+10.18.1 Load. For airplanes type certificated prior to September 14, 1988, occupant weights were
+   established as 170 pounds for normal category and 190 pounds for utility and acrobatic
+   category airplanes. The additional 20 pounds accounts for a parachute. For aircraft type
+   certificated on or after this date, 215 pounds is the established weight for the
+   three categories.
+
+10.18.2 Distribution. In the assessment of a combined shoulder harness-safety belt restraint
+   system, a forward static test load distribution of 40 percent to the shoulder harness and
+   60 percent to the safety belt has been an acceptable combined static test load distribution.
+   Therefore, demonstration of harness attachment static strength is accomplished by
+   applying 40 percent of the ultimate restraint system load to a single or “Y” type harness
+   attachment or 20 percent of the load simultaneously to each attachment of a dual
+
+   10-21
+
+===== PDF PAGE 136 =====
+  7/29/26  AC 43.13-2C
+
+   independent harness. Static strength test load requirements for the fifth belt of a
+   five-point system have not been established for aircraft.
+
+10.18.3 Factor. The airplane must be designed to protect each occupant during emergency
+   landing conditions. The critical ultimate static load is established at 9.0 Gs in the forward
+   direction. If the attachment can sustain this load, it is assumed the lesser loads in upward,
+   sideward, and downward directions will be accommodated.
+
+10.18.4 Fitting Factors. Regulations prescribe multiplying factors of safety, fitting factors, that
+   structural attachments must be subjected to in order to prove minimum load bearing
+   capabilities. A 1.15 fitting factor for restraint attachments in small aircraft type
+   certificated prior to September 14, 1969, must be used. For aircraft type certificated on or
+   after this date, a fitting factor of 1.33 must be used.
+
+ 10.19 Load and Distribution―Normal Category Helicopters.
+
+10.19.1 Load. For helicopters type certificated in the normal category, occupant weights are
+   established as 170 pounds.
+
+10.19.2 Distribution. In the assessment of a combined shoulder harness-safety belt restraint
+   system, for helicopters type certificated prior to December 13, 1989, a forward static test
+   load distribution of 40 percent to the shoulder harness and 60 percent to the safety belt is
+   the required combined static test load distribution.
+
+10.19.3 G Factor. For helicopters type certificated prior to December 13, 1989, the critical
+   ultimate static load is established at 4.0 Gs in the forward direction. If the attachment can
+   sustain this load, it is assumed the loads in upward, sideward, and downward directions
+   will be accommodated.
+
+   Note: Due to increased G factors and limited applicability for retrofit harness
+   installations, helicopters type certificated on or after December 13, 1989, are not
+   addressed in this chapter. Additionally, airplanes seat/restraint systems type
+   certificated after September 14, 1988, must undergo dynamic testing, as
+   prescribed by 14 CFR § 23.562, which is not covered in this chapter.
+
+ 10.20 Demonstrating Static Loads. Two methods are available to demonstrate compliance
+   with static load requirements. One method involves the fabrication of test blocks and
+   application of the ultimate load to the blocks that are being restrained by the harness. The
+   other method involves use of an equation to calculate and simulate the ultimate load at
+   the harness attachment fitting, compensating for horizontal and vertical angles as a result
+   of restraint attachment geometry.
+
+10.20.1 Test Blocks. Although AC 23-4, Static Strength Substantiation of Attachment Points for
+   Occupant Restraint System Installations, was cancelled on January 27, 2003, it is still
+   available in various archives and can be used as an acceptable method for fabricating test
+   blocks and applying static loads to restraints. Using this method, deceleration loads
+   imposed upon the restraint by the occupant are accurately duplicated, and the load figures
+   in Table 10-1 can be applied directly to the test blocks. Because of the time-consuming
+
+   10-22
+
+===== PDF PAGE 137 =====
+  7/29/26  AC 43.13-2C
+
+   nature of fabricating test blocks for this procedure, it may be desirable to use the second
+   method described below that, in effect, replaces the test blocks with an equation.
+
+10.20.2 Calculation. The alternate method is to perform a mathematical calculation to account for
+   the angles that the attachment points are subjected to during decelerations. Increases in
+   angles can result in a significant increase in the load that must be applied to simulate belt
+   loading during occupant decelerations. It is not uncommon for a harness to impose both
+   vertical and horizontal angles that must be compensated for by use of the equation (see
+   Figures 10-20, Vertical Angle, and 10-21, Horizontal Angle). In the case of a “Y” type
+   harness, the horizontal angle is eliminated if the attachment is located along the vertical
+   centerline of the occupant.
+
+   10.20.2.1 The equation used to perform the calculation is:
+
+   Test Load = [Static Test Minimum] [1/Cosine(vertical angle)]
+   [1/Cosine(horizontal angle)]
+
+   10.20.2.2 Table 10-2, Calculated 1/Cosine Values, provides 1/Cosine numbers for
+   various angles. These numbers can be inserted into the equation to determine
+   the static load that needs to be applied. For example, using Tables 10-1
+   and 10-2, if the airplane is normal category, post-September 14, 1969, and
+   pre-September 14, 1988, the test load is 814 pounds. If the horizontal angle is
+   10 degrees and the vertical angle is 15 degrees, the belt load is calculated as
+   follows.
+
+   Test Load = [814][1/Cos(15)][1/Cos(10)]
+   = [814][1.035][1.015]
+   = 855 pounds
+
+   This is not a large increase, but if both angles were 30 degrees, the belt load
+   would be 1,086 pounds.
+   [814][1.155][1.155] = 1,086
+
+   If there is no angle present in one of the directions, that portion of the equation
+   is eliminated. For an airplane type certificated in the normal category prior to
+   September 14, 1969, with a vertical angle of 25 degrees, the equation would
+   be: [704][1.103] = 777 pounds.
+
+10.20.3 After obtaining the test load value, the load is applied for a minimum of 3 seconds
+   forward (horizontally) when using test blocks or in the direction of the restraint angles
+   when applying the load to the attachment point(s).
+
+10.20.4 Equipment used for measuring test loads must be calibrated to a standard acceptable to
+   the FAA. Load cells can perform these measurements; however, other equivalent
+   equipment as determined by the user may be acceptable.
+
+   10-23
+
+===== PDF PAGE 138 =====
+7/29/26  AC 43.13-2C
+
+   Table 10-1. Static Test Requirements
+
+   Static Test
+   Weight  Harness
+  TC Basis  Fitting  Minimum
+   Category  G Factor  Factor  Factor
+  Airplanes  Factor  Load
+   (pounds)  (40%)
+   (pounds)
+Effective
+09/14/88 and  N, U, A  9  215  1.33  0.4  1,029
+on
+Effective  N  9  170  1.33  0.4  814
+09/14/69
+   U, A  9  190  1.33  0.4  910
+Pre  N  9  170  1.15  0.4  704
+09/14/69
+   U, A  9  190  1.15  0.4  787
+Helicopter
+   N  4  170  1.15  0.6  469
+Pre-12/16/84
+Helicopter
+Post-12/16/84  N  4  170  1.33  0.6  543
+Pre-12/13/89
+Note 1:  N = Normal, U = Utility, A = Acrobatic
+Note 2: Airplane seat/restraint systems type certificated after September 14, 1988, must
+   undergo dynamic testing, as prescribed by 14 CFR § 23.562, which is not covered in
+   this chapter.
+
+   Table 10-2. Calculated 1/Cosine Values
+
+Degrees  5  10  15  20  25  30  35  40  50  60
+1/Cos
+   1.004  1.015  1.035  1.064  1.103  1.155  1.221  1.305  1.556  2.0
+Multiplier
+
+   10-24
+
+===== PDF PAGE 139 =====
+7/29/26  AC 43.13-2C
+
+   Figure 10-20. Vertical Angle
+
+   Figure 10-21. Horizontal Angle
+
+   10-25
+
+===== PDF PAGE 140 =====
+  7/29/26  AC 43.13-2C
+
+   Section 4. Installation and Inspection Checklists
+
+ 10.21 General. The following checklists are not all-inclusive but may provide a quick reference
+   for factors to consider when installing retrofit shoulder harnesses and for establishing
+   instructions for continued airworthiness (ICA) of retrofit harness installations. If
+   available, the manufacturer’s instructions take precedence over this AC.
+
+10.21.1 Shoulder Harness Installation Checklist.
+
+   1. Locate potential attach points.
+   2. Evaluate the geometry of attach points in relation to the occupant and determine the
+   best harness configuration. Short belt lengths are desirable.
+   3. Ensure that the configuration will allow unimpeded egress for all occupants.
+   Single-point release is mandatory. There should be a means to secure belts and
+   harnesses when not in use to avoid interfering with operation of the airplane or egress
+   from it.
+   4. Restraints must allow crewmembers to perform all necessary flight operation
+   functions while seat belts and harnesses are fastened.
+   5. Utility and acrobatic category airplane restraints must accommodate an occupant
+   wearing a parachute.
+   6. If retractors will be used, ensure that mounting will provide straight-line entry and
+   exit of webbing to prevent binding or frictional drag. Retractor loading should not
+   impose bending forces upon retractor mounting brackets.
+   7. If harness installation will impose loads on the seat back or seat attachment,
+   additional evaluation will be needed for structural integrity.
+   8. Refer to the aircraft type certificate (TC) to find the certification date and basis to
+   establish minimum static load requirements. Determine the feasibility of performing
+   static tests or stress analysis. Static testing on operational aircraft is not
+   recommended.
+   9. Select only restraints that meet OEM, TSO, PMA, or other established industry
+   standards or specifications.
+   10. Install restraints using AN, MS, NAS, or other acceptable aircraft hardware with
+   adequate strength properties.
+   11. Perform a check to ensure all components function properly.
+   12. Complete record entries as required, including FAA Form 337, logbook, W&B, and
+   equipment list.
+
+10.21.2 Shoulder Harness Inspection Checklist. Inspect restraint system for condition and
+   function at each annual or each required inspection of cabin or flight deck equipment. If
+   questions arise regarding any of the conditions listed below, contact the restraint
+   manufacturer for specific limits.
+
+   10-26
+
+===== PDF PAGE 141 =====
+7/29/26  AC 43.13-2C
+
+   10.21.2.1 Inspect stitching on webbing for broken or missing stitches.
+
+   10.21.2.2 Inspect webbing for fraying, fading, or cuts. Fraying that causes binding in the
+   retractor is excessive. Fading caused by exposure to sunlight or chemicals
+   may indicate a reduction in strength.
+
+   10.21.2.3 Ensure that TSO, PMA, OEM, or other required identification tags are present
+   and legible on each belt assembly. Tags may not be required for harnesses
+   manufactured prior to March 27, 1987. Contact the aircraft or restraint
+   manufacturer for specific requirements.
+
+   10.21.2.4 If so equipped, check the harness post on the lap belt to make sure the nylon
+   bushing or grommet is present and functional to provide positive harness end
+   fitting engagement. Do not replace the bushing with nylon bundle ties.
+   Contact the belt manufacturer for replacement bushings/grommets and
+   instructions.
+
+   10.21.2.5 Check the belt buckle for latching and release functions.
+
+   10.21.2.6 Check the retractors to ensure that locking mechanisms engage when webbing
+   is positioned at the normal operating length. Inertia reels should lock when the
+   webbing is accelerated quickly out of the reel. Automatic locking retractors
+   should lock at approximately 1-inch increments as the webbing retracts back
+   into the reel.
+
+   10.21.2.7 Inspect buckles, connectors, and fittings for corrosion, cracks, or other
+   damage. Check mounting hardware for security and ensure that airframe
+   attachment of end fittings self-align and do not bind.
+
+   10.21.2.8 Inspect quick release end fittings for cotter pins.
+
+   10.21.2.9 If equipped with a manual locking inertia reel, check for proper operation and
+   condition.
+
+   10-27
+

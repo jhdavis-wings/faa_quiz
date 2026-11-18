@@ -1,0 +1,1647 @@
+FAA-H-8083-31B Airframe Handbook, chapter 10 (Aircraft Systems), PDF pages 592-603
+
+===== PDF PAGE 592 =====
+Upper DU
+Discrete caution
+& warning lights
+
+Data buses
+Warning & cautions
+Engine primary displays
+
+Aural warning
+Standby engine
+indicators
+
+L computer
+
+Engine sensors
+Oil pressure
+N1
+N2
+Oil quantity
+Oil temperature
+N3
+EPR
+Vibration
+EGT
+FF
+
+Lower DU
+
+Display switching
+
+Engine secondary
+or
+status display
+or
+maintenance display
+
+Maintenance panel
+
+Display select panel
+
+R computer
+
+System sensors
+Hydraulic quantity & pressure
+ADC hydraulic system temperature
+Control surface positions
+Electical system: volts, amps, frequency
+Generator drive temperature
+ECS temps
+APU EGT RPM
+Brake temperature
+
+Other system discretes
+FCC MCDP
+TMC interface
+FEC interface
+FMC interface
+RAD altitude interface
+ADC interface
+
+Figure 10-124. Schematic of an engine indicating and crew alerting system (EICAS).
+
+Warnings & Cautions
+Annunciator Panels
+An annunciator panel is a panel of warning lights in plain
+sight of the pilot. These lights are identified by the name
+of the system they represent and are usually covered with
+colored lenses to show the meaning of the condition they
+announce. Annunciator panels are installed for two purposes:
+to display current conditions and to notify of unsatisfactory
+conditions. Standardized colors are used to differentiate
+between visual messages. For example, the color green
+indicates a satisfactory condition. Yellow is used to caution of
+a serious condition that requires further monitoring. Red is the
+color for an unsatisfactory condition which needs immediate
+attention or action. Whether part of the instrument face or of
+a visual warning system, these colors give quick-reference
+information to the pilot.
+
+Most aircraft include annunciator lights that illuminate
+when an event demanding attention occurs. These use the
+aforementioned colors in a variety of presentations. Individual
+lights near the associated flight deck instrument or a collective
+display of lights for various systems in a central location are
+common. Words label each light or are part of the light itself
+to identify any problem quickly and plainly.
+On complex aircraft, the status of numerous systems and
+components must be known and maintained. Centralized
+warning systems have been developed to annunciate critical
+messages concerning a multitude of systems and components
+in a simplified, organized manner. Often, this will be done
+by locating a single annunciator panel somewhere on the
+instrument panel. These analog aircraft warning systems may
+look different in various aircraft and depend on manufacturer
+10-73
+
+===== PDF PAGE 593 =====
+Environmental control systems and maintenance message formats
+
+Selects data from auto or manual event in memory
+
+Electrical and hydraulic systems format
+Performance and auxiliary power unit formats
+
+EICAS MAINT
+
+EVENT
+READ
+
+DISPLAY SELECT
+ECS
+
+ELEC
+
+PERF
+
+MSG
+
+HYD
+
+APU
+
+CONF
+
+ENG
+
+MCDP
+
+EXCD
+
+Engine exceedances
+
+MANUAL
+
+REC
+
+ERASE
+
+TEST
+
+BITE test switch for self-test routine
+Configuration and maintenance control/display panel
+
+AUTO
+
+Erases stored data currently displayed
+
+Records real-time data currently displayed (in manual event)
+
+Figure 10-125. The EICAS maintenance control panel is for the exclusive use of technicians.
+
+preference and the systems installed. [Figure 10-128] EFIS
+provide for annunciation of advisory and warning messages
+as part of its flight control and monitoring capabilities, as
+previously described. Usually, the primary display unit is
+designated as the location to display annunciations.
+Master caution lights are used to draw the attention of the
+crew to a critical situation in addition to an annunciator that
+describes the problem. These master caution lights are centrally
+wired and illuminate whenever any of the participating
+systems or components require attention. Once notified, the
+pilot may cancel the master caution, but a dedicated system
+or component annunciator light stays illuminated until the
+situation that caused the warning is rectified. Cancelling resets
+the master caution lights to warn of a subsequent fault event
+even before the initial fault is corrected. [Figure 10-129]
+Press to test is available for the entire annunciator system,
+which energizes all warning circuitry and lights to confirm
+readiness. Often, this test exposes the need to replace the tiny
+light bulbs that are used in the system.
+
+Aural Warning Systems
+Aircraft aural warning systems work in conjunction with
+illuminated annunciator systems. They audibly inform the
+pilot of a situation requiring attention. Various tones and
+phrases sound in the flight deck to alert the crew when certain
+conditions exist. For example, an aircraft with retractable
+landing gear uses an aural warning system to alert the crew
+to an unsafe condition. A bell sounds if the throttle is retarded
+and the landing gear is not in a down and locked condition.
+A typical transport category aircraft has an aural warning
+system that alerts the pilot with audio signals for the
+following: abnormal takeoff, landing, pressurization, mach
+airspeed conditions, an engine or wheel well fire, calls from
+the crew call system, collision avoidance recommendations,
+and more. Figure 10-130 shows some of the problems that
+trigger aural warnings and the action to be taken to correct
+the situation.
+
+Clocks
+Whether called a clock or a chronometer, an FAA-approved
+time indicator is required in the flight deck of IFR-certified
+10-74
+
+===== PDF PAGE 594 =====
+Flight crew
+
+Controls and indicators
+
+Control panels
+AFCS mode
+IRS mode
+ILS
+EFIS
+VOR/DME
+ADF
+
+EFIS
+ADI
+
+FMC CDU
+
+HSI
+Maintenance
+control and display
+
+ATC
+RDMI
+WXR
+
+Data buses
+
+Radio NAV
+VOR
+ADF
+DME
+ILS
+RAD. ALT
+ATC
+transponder
+WXR
+
+Antennae
+
+AFCS
+
+EFIS
+symbol
+generators
+
+Control surface
+servos
+
+Operational
+program
+Fuel quantity
+& fuel flow data
+
+IRS
+
+Navigation
+database
+
+TMC
+Autothrottle
+servos
+
+Database
+loading
+
+ADC
+Sensing
+probes
+
+Discrete inputs
+from aircraft
+systems
+
+Engine control
+& monitoring
+(indicating &
+alerting)
+
+GPWS
+
+FMC
+
+Figure 10-126. A flight management system (FMS) integrates numerous engine, aircraft, and navigational systems to provide overall
+management of the flight.
+
+aircraft. Pilots use a clock during flight to time maneuvers and
+for navigational purposes. The clock is usually mounted near
+the flight instrument group, often near the turn coordinator.
+It indicates hours, minutes, and seconds.
+For many years, the mechanical 8-day clock was the standard
+aircraft timekeeping device largely because it continues to run
+without electrical power as long as it has been hand wound.
+The mechanical 8-day clock is reliable and accurate enough
+for its intended use. Some mechanical aircraft clocks feature
+a push-button elapsed time feature. [Figure 10-131]
+As electrical systems developed into the reliable, highly
+
+redundant systems that exist today, use of an electric clock
+to replace the mechanical clock began. An electric clock is an
+analog devise that may also have an elapsed time feature. It
+can be wired to the battery or battery bus. Thus, it continues
+to operate in the event of a power failure. Electric aircraft
+clocks are often used in multiengine aircraft where complete
+loss of electrical power is unlikely.
+Many modern aircraft have a digital electronic clock with
+LED readout. This device comes with the advantages of low
+power consumption and high reliability due to the lack of
+moving parts. It is also very accurate. Solid-state electronics
+allow for expanded features, such as elapsed time, flight
+10-75
+
+===== PDF PAGE 595 =====
+Figure 10-129. A master caution switch removed from the instrument
+
+panel.
+Figure 10-127. The control display unit (CDU) of an FMS.
+
+usually located somewhere on the primary flight display.
+
+time that starts automatically upon takeoff, a stop watch, and
+memories for all functions. Some even have temperature and
+date readouts. Although wired into the aircraft’s electrical
+system, electronic digital clocks may include a small
+independent battery inside the unit that operates the device
+should aircraft electrical power fail. [Figure 10-132]
+
+Instrument Housings & Handling
+Various materials are used to protect the inner workings of
+aircraft instruments, as well as to enhance the performance
+of the instrument and other equipment mounted in the
+immediate vicinity. Instrument cases can be one piece or
+multipiece. Aluminum alloy, magnesium alloy, steel, iron,
+and plastic are all common materials for case construction.
+Electric instruments usually have a steel or iron alloy case to
+contain electromagnetic flux caused by current flow inside.
+
+On aircraft with fully digital computerized instrument
+systems utilizing flat panel displays, the computer’s internal
+clock, or a GPS clock, can be used with a digital time readout
+
+3 6 0
+M
+
+3 6 0
+
+2 9 9 9 1
+
+I
+
+Master warning and master caution
+LNV1
+
+VALT
+AP
+
+0
+400
+350
+250
+
+00
+
+50
+
+F
+
+100
+120
+
+000
+200
+
+S
+
+140
+
+20
+
+20
+
+10
+
+10
+
+10
+
+10
+
+20
+
+20
+
+AT
+
+ALT
+
+9
+
+NAV
+
+AUX
+
+1
+
+8 00 018 2
+7 29
+6
+
+160
+
+5
+
+50 60 70
+
+40
+30
+20
+10
+0
+
+91 3
+4
+
+0 2 5
+
+7
+
+4
+
+10
+
+14.2 NM
+
+2 9 9 9 1
+
+14.2
+
+9
+
+0
+
+8
+
+NAV
+
+.5
+.5
+
+2
+
+1
+Up
+
+1
+
+7
+
+2
+
+4
+
+6
+
+5
+
+4
+
+10
+
+7
+
+4
+
+16
+
+10
+
+7
+
+4
+
+16
+
+0
+
+10 20
+
+30
+
+0
+
+10 20
+
+30
+
+80
+
+Annunciator panel
+90
+100
+
+0 2 5
+
+13
+
+10
+
+13
+16
+
+1
+
+19
+
+3 0 3
+
+50 60 70
+
+40
+30
+20
+10
+0
+
+80
+
+90
+100
+
+1
+
+19
+
+3 0 3
+
+50 60 70
+
+0 2 5
+
+13
+
+1
+
+19
+
+3 0 3
+
+7
+
+4
+
+16
+
+40
+30
+20
+10
+0
+
+80
+
+90
+100
+
+19
+
+3 0 3
+
+2
+3
+
+6
+
+4
+Vert
+Speed
+
+Down
+
+1
+
+50 60 70
+
+0 2 5
+
+13
+
+1
+
+-----
+
+40
+30
+20
+10
+0
+
+80
+
+90
+100
+
+70
+60
+
+80 90
+100
+110
+
+70
+60
+
+50
+40
+
+6
+20
+
+80 90
+100
+110
+
+70
+60
+
+50
+30
+
+20 10
+
+30 40
+
+40
+
+0
+
+50
+
+20
+
+80 90
+100
+110
+
+70
+60
+
+50
+30
+
+20 10
+
+30 40
+
+40
+
+0
+
+50
+
+20
+
+30
+
+20 10
+
+30 40
+
+40
+
+0
+
+50
+
+20
+
+10
+
+60
+
+10
+
+60
+
+10
+
+60
+
+10
+
+0
+
+70
+
+0
+
+70
+
+0
+
+70
+
+0
+
+0 3 1
+
+20
+10
+
+30 40
+
+50
+60
+70
+
+0 3 1
+
+20
+10
+
+30 40
+
+50
+60
+70
+
+80 90
+100
+110
+
+50
+
+0 3 1
+
+20
+10
+
+30 40
+
+50
+60
+70
+
+30
+
+20 10
+
+30 40
+
+0
+
+50
+60
+
+0 3 1
+
+70
+
+FT
+LEAR
+GE
+
+Figure 10-128. The centralized analog annunciator panel has indicator lights from systems and components throughout the aircraft. It
+
+is supported by the master caution system.
+
+10-76
+
+===== PDF PAGE 596 =====
+Examples of Aircraft Aural Warnings
+Stage of Operation
+
+Warning System
+
+Warning Signal
+
+Cause of Warning Signal Activation
+
+Corrective action
+
+Takeoff
+
+Flight control
+
+Intermittent
+horn
+
+Correct the aircraft to
+proper takeoff conditions
+
+In flight
+
+Mach warning
+
+Clacker
+
+In flight
+
+Pressurization
+
+Intermittent
+horn
+
+Landing
+
+Landing gear
+
+Continuous
+horn
+
+Any stage
+
+Fire warning
+
+Continuous
+bell
+
+Throttles are advanced and any of the
+following conditions exist:
+1. Speed brakes are not down
+2. Flaps are not in takeoff range
+3. Auxiliary power exhaust door is open
+4. Stabilizer is not in the takeoff setting
+Equivalent airspeed or mach number
+exceeds limits
+If cabin pressure becomes equal to
+atmospheric pressure at the specific altitude
+(altitude at time of occurrence)
+Landing gear is not down and locked when
+flaps are less than full up and throttle is
+retarded to idle
+Any overheat condition or fire in any engine or
+nacelle, or main wheel or nose wheel well,
+APU engine, or any compartment having fire
+warning system installed
+Whenever the fire warning system is tested
+
+Any stage
+
+Communications
+
+High chime
+
+Any time captain’s call button is pressed at
+external power panel forward or rearward
+cabin attendant’s panel
+
+Decrease aircraft speed
+Correct the condition
+
+Raise flaps; advance
+throttle
+1. Lower the heat in the
+the area where in the
+F/W was activated
+2. Signal may be silenced
+pushing the F/W bell
+cutout switch or the
+APU cutout switch
+Release button; if button
+remains locked in, pull
+button out
+
+Figure 10-130. Aircraft aural warnings.
+
+D
+
+UP
+
+12
+
+B
+DIM
+
+SET
+
+1 hr
+up
+
+8 DAYS
+
+9
+
++
+
+3
+
+TIME
+F.
+T.
+
+6
+
+Figure 10-131. A typical mechanical 8-day aircraft clock.
+
+Despite their rugged outward appearance, all instruments,
+especially analog mechanical instruments, should be handled
+with special care and should never be dropped. A crack in an
+airtight instrument case renders it unairworthy. Ports should
+never be blown into and should be plugged until the instrument
+is installed. Cage all gyro instruments until mounted in
+the instrument panel. Observe all cautions written on the
+instrument housing and follow the manufacturer’s instruction
+
+DAVTRON
+
+°C
+
+ZERO
+
+s
+t
+o
+p
+
+RUN
+
+E.T.
+M811B
+
+Figure 10-132. A typical aircraft electronic clock.
+
+for proper handling and shipping, as well as installation.
+
+Instrument Installations & Markings
+Instrument Panels
+Instrument panels are usually made from sheet aluminum
+alloy and are painted a dark, nonglare color. They sometimes
+contain subpanels for easier access to the backs of instruments
+during maintenance. Instrument panels are usually shock10-77
+
+===== PDF PAGE 597 =====
+mounted to absorb low-frequency, high-amplitude shocks.
+The mounts absorb most of the vertical and horizontal
+vibration but permit the instruments to operate under
+conditions of minor vibration. Bonding straps are used to
+ensure electrical continuity from the panel to the airframe.
+[Figure 10-133]
+The type and number of shock mounts to be used for
+instrument panels are determined by the weight of the unit.
+Shock-mounted instrument panels should be free to move
+in all directions and have sufficient clearance to avoid
+striking the supporting structure. When a panel does not have
+adequate clearance, inspect the shock mounts for looseness,
+cracks, or deterioration.
+Airframe structure
+Instrument panel
+
+Bonding strap
+
+Instrument panel layout is seemingly random on older
+aircraft. The advent of instrument flight made the flight
+instruments of critical importance when flying without
+outside reference to the horizon or ground. As a result, the
+basic T arrangement for flight instruments was adopted, as
+mentioned in the beginning of this chapter. [Figure 10-4]
+Electronic flight instrument systems and digital flight deck
+displays have kept the same basic T arrangement for flight
+instrument and data presentations. The flight instruments and
+basic T are located directly in front of the pilot and copilot’s
+seats. Some light aircraft have only one full set of flight
+instruments that are located in front of the left seat.
+The location of engine instruments and navigation instruments
+varies. Ideally, they should be accessible to both the pilot
+and copilot. Numerous variations exist to utilize the limited
+space in the center of the instrument panel and still provide
+accessibility by the flight crew to all pertinent instruments.
+On large aircraft, a center pedestal and overhead panels help
+create more space. On small aircraft, the engine instruments
+are often moved to allow navigation instruments and radios
+to occupy the center of the instrument panel. [Figure 10-134]
+On modern aircraft, EFIS and digital flight information
+systems reduce panel clutter and allow easier access to all
+instruments by both crewmembers. Controllable display
+panels provide the ability to select from pages of information
+that, when not displayed, are completely gone from view and
+use no instrument panel space.
+
+Figure 10-133. Instrument panel shock mounts.
+
+Engine instruments
+
+Navigation
+instruments
+
+Flight instruments
+
+Basic “T” layout
+
+Figure 10-134. Flight instruments directly in front of the pilot, engine instruments to the left and right, and navigation instruments and
+radios primarily to the right, which is the center of the instrument panel. This arrangement is commonly on light aircraft to be flown by
+a single pilot.
+
+10-78
+
+===== PDF PAGE 598 =====
+Instrument Mounting
+The method of mounting instruments in their respective
+panels depends on the design of the instrument case. In
+one design, the bezel is flanged in such a manner that the
+instrument can be flush mounted in its cutout from the rear of
+the panel. Integral, self-locking nuts are provided at the rear
+faces of the flange corners to receive mounting screws from
+the front of the panel. The flanged-type instrument can also
+be mounted to the front of the panel. In this case, nut-plates
+are usually installed in the panel itself. Nonferrous screws
+are usually used to mount the instruments.
+There are also instrument mounting systems where the
+instruments are flangeless. A special clamp, shaped and
+dimensioned to fit the instrument case, is permanently
+secured to the rear face of the panel. The instrument is slid
+into the panel from the front and into the clamp. The clamp’s
+tightening screw is accessible from the front side of the panel.
+[Figure 10-135] Regardless of how an instrument is mounted,
+it should not be touching or be so close as to touch another
+instrument during the shock of landing.
+
+Nut plates mounted in panel
+
+Front mounted
+
+Nut plates mounted in instrument
+
+Rear mounted
+
+Strap tightened by clamp
+
+Instrument Power Requirements
+Many aircraft instruments require electric power for
+operation. Even nonelectric instruments may include electric
+lighting. Only a limited amount of electricity is produced by
+the aircraft’s electric generator(s). It is imperative that the
+electric load of the instruments, radios, and other equipment
+on board the aircraft does not exceed this amount.
+Electric devices, including instruments, have power ratings.
+These show what voltage is required to correctly operate the
+unit and the amount of amperage it draws when operating
+to capacity. The rating must be checked before installing
+any component. Replacement of a component with one that
+has the same power rating is recommended to ensure the
+potential electric load of the installed equipment remains
+within the limits the aircraft manufacturer intended. Adding
+a component with a different rating or installing a completely
+new component may require a load check be performed. This
+is essentially an on the ground operational check to ensure the
+electrical system can supply all of the electricity consuming
+devices installed on the aircraft. Follow the manufacturer’s
+instructions on how to perform this check.
+Instrument Range Markings
+Many instruments contain colored markings on the dial
+face to indicate, at a glance, whether a particular system
+or component is within a range of operation that is safe
+and desirable or if an undesirable condition exists. These
+markings are put on the instrument by the original equipment
+manufacturer in accordance with the Aircraft Specifications
+in the Type Certificate Data Sheet. Data describing these
+
+Clamp mounted
+
+Clamp mounted on instrument panel
+Figure 10-135. Instrument mounts— flanged (top and middle) and
+
+flangeless (bottom).
+
+limitations can also sometimes be found in the aircraft
+manufacturer’s operating and maintenance manuals and in
+the flight manual.
+Occasionally, the aircraft technician may find it necessary to
+apply these marking to an approved replacement instrument
+on which they do not appear. It is crucial that the instrument
+be marked correctly and only in accordance with approved
+data. The marking may be placed on the cover glass of the
+instrument with paint or decals. A white slippage mark is
+made to extend from the glass to the instrument case. Should
+the glass rotate in the bezel, the marking will no longer be
+aligned properly with the calibrated instrument dial. The
+broken slippage mark indicates this to the pilot or technician.
+The colors used as range markings are red, yellow, green,
+blue, or white. The markings can be in the form of an arc or
+a radial line. Red is used to indicate maximum and minimum
+10-79
+
+===== PDF PAGE 599 =====
+ranges; operations beyond these markings are dangerous and
+should be avoided. Green indicates the normal operating
+range. Yellow is used to indicate caution. Blue and white
+are used on airspeed indicators to define specific conditions.
+[Figures 10-136 and 10-137]
+
+Maintenance of Instruments & Instrument
+Systems
+An FAA airframe and powerplant (A&P) technician is not
+qualified to do internal maintenance on instruments and
+related line replaceable units discussed in this chapter. This
+must be carried out at facilities equipped with the specialized
+equipment needed to perform the maintenance properly.
+Qualified technicians with specialized training and intimate
+knowledge of instruments perform this type of work, usually
+under repair station certification.
+However, certified airframe technicians and A&P technicians
+Instrument
+White arc
+bottom
+top
+Green arc
+bottom
+top
+Blue radial line
+Yellow arc
+bottom
+top
+Red radial line
+Green arc
+Yellow arc
+Red radial line
+Green arc
+Yellow arc
+Red radial line
+Green arc
+Yellow arc
+Red radial line
+
+Green arc
+Yellow arc
+Red radial line
+
+Green arc
+Yellow arc
+Red radial line
+
+Range marking
+Airspeed indicator
+Flap operating range
+Flaps-down stall speed
+Maximum airspeed for flaps-down flight
+Normal operating range
+Flaps-up stall speed
+Maximum airspeed for rough air
+Best single-engine rate-of-climb airspeed
+Structural warning area
+Maximum airspeed for rough air
+Never-exceed airspeed
+Never-exceed airspeed
+Carburetor air temperature
+Normal operating range
+Range in which carburetor ice is most likely
+to form
+Maximum allowable inlet air temperature
+Cylinder head temperature
+Normal operating range
+Operation approved for limited time
+Never-exceed temperature
+Manifold pressure gauge
+Normal operating range
+Precautionary range
+Maximum permissible manifold absolute
+pressure
+Fuel pressure gauge
+Normal operating range
+Precautionary range
+Maximum and/or minimum permissible fuel
+pressure
+Oil pressure gauge
+Normal operating range
+Precautionary range
+Maximum and/or minimum permissible oil
+pressure
+
+are charged with a wide variety of maintenance functions
+related to instruments and instrument systems. Installation,
+removal, inspection, troubleshooting, and functional checks
+are all performed in the field by certified personnel. It is also
+a responsibility of the certified technician holding an airframe
+rating to know what maintenance is required and to access
+the approved procedures for meeting those requirements.
+In the following paragraphs, various maintenance and
+servicing procedures and suggestions are given. The
+discussion follows the order in which the various instruments
+and instrument systems were presented throughout this
+chapter. This is not meant to represent all of the maintenance
+required by any of the instruments or instruments systems.
+The aircraft manufacturer’s and instrument manufacturer’s
+approved maintenance documents should always be consulted
+for required maintenance and servicing instructions. FAA
+regulations must also be observed.
+Instrument
+
+Range marking
+
+Oil temperature gauge
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Maximum and/or minimum permissible oil
+Red radial line
+temperature
+Tachometer (reciprocating engine)
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Restricted operating range
+Red arc
+Maximum permissible rotational speed
+Red radial line
+Tachometer (turbine engine)
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Maximum permissible rotational speed
+Red radial line
+Tachometer (helicopter)
+Engine tachometer
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Maximum permissible rotational speed
+Red radial line
+Rotor tachometer
+Normal operating range
+Green arc
+Maximum and minimum rotor speed for
+Red radial line
+power-off operational conditions
+Torque indicator
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Maximum permissible torque pressure
+Red radial line
+Exhaust gas temperature indicator (turbine engine)
+Normal operating range
+Green arc
+Precautionary range
+Yellow arc
+Maximum permissible gas temperature
+Red radial line
+Gas producer N1 tachometer (turboshaft helicopter)
+Green arc
+Normal operating range
+Yellow arc
+Precautionary range
+Red radial line
+Maximum permissible rotational speed
+
+Figure 10-136. Instrument range markings.
+
+10-80
+
+===== PDF PAGE 600 =====
+such as called out in 14 CFR part 91, section 91.411. Certified
+airframe and A&P technicians may perform this test.
+
+240 40
+220
+60
+AIR
+200 SPEED
+80
+180 KNOTS 100
+160
+
+140
+
+120
+
+Figure 10-137. An airspeed indicator makes extensive use of range
+
+markings.
+
+Altimeter Tests
+When an aircraft is to be operated under IFR, an altimeter test
+must have been performed within the previous 24 months.
+Title 14 of the Code of Federal Regulations (14 CFR) part
+91, section 91.411, requires this test, as well as tests on the
+pitot-static system and on the automatic pressure altitude
+reporting system. The certified airframe or A&P mechanic is
+not qualified to perform the altimeter inspections. They must
+be conducted by either the manufacturer or a certified repair
+station. 14 CFR part 43, Appendix E details the requirements
+for these tests.
+Pitot-Static System Maintenance & Tests
+Water trapped in a pitot static system may cause inaccurate or
+intermittent indications on the pitot-static flight instruments.
+This is especially a problem if the water freezes in flight.
+Many systems are fitted with drains at the low points in
+the system to remove any moisture during maintenance.
+Lacking this, dry compressed air or nitrogen may be blown
+through the lines of the system. Always disconnect all pitotstatic instruments before doing so and always blow from
+the instrument end of the system towards the pitot and static
+ports. This procedure must be followed by a leak check
+described below. Systems with drains can be drained without
+requiring a leak check. Upon completion, the technician
+must ensure that the drains are closed and made secure in
+accordance with approved maintenance procedures.
+Aircraft pitot-static systems must be tested for leaks after
+the installation of any component parts or when system
+malfunction is suspected. It must also be tested every 24
+months if on an IFR certified aircraft intended to be flown as
+
+The method of leak testing depends on the type of aircraft,
+its pitot-static system, and the testing equipment available.
+[Figure 10-138] Essentially, a testing device is connected into
+the static system at the static vent end, and pressure is reduced
+in the system by the amount required to indicate 1,000 feet
+on the altimeter. Then, the system is sealed and observed
+for 1 minute. A loss of altitude of more than 100 feet is not
+permissible. If a leak exists, a systematic check of portions of
+the system is conducted until the leak is isolated. Most leaks
+occur at fittings. The pitot portion of the pitot-static system
+is checked in a similar fashion. Follow the manufacturer’s
+instructions when performing all pitot-static system checks.
+In all cases, pressure and suction must be applied and
+released slowly to avoid damage to the aircraft instruments.
+Pitot-static system leak check units usually have their own
+built-in altimeters. This allows a functional cross-check of
+the aircraft’s altimeter with the calibrated test unit’s altimeter
+while performing the static system check. However, this does
+not meet the requirements of 14 CFR part 91, section 91.411
+for altimeter tests.
+Upon completion of the leak test, be sure that the system is
+returned to the normal flight configuration. If it is necessary
+to block off various portions of a system, check to be sure
+that all blanking plugs, adaptors, or pieces of adhesive tape
+have been removed.
+Tachometer Maintenance
+Tachometer indicators should be checked for loose glass,
+chipped scale markings, or loose pointers. The difference in
+indications between readings taken before and after lightly
+tapping the instrument should not exceed approximately
+15 rpm. This value may vary, depending on the tolerance
+established by the indicator manufacturer. Both tachometer
+generator and indicator should be inspected for tightness of
+mechanical and electrical connections, security of mounting,
+and general condition. For detailed maintenance procedures,
+the manufacturer’s instructions should always be consulted.
+When an engine equipped with an electrical tachometer
+is running at idle rpm, the tachometer indicator pointers
+may fluctuate and read low. This is an indication that the
+synchronous motor is not synchronized with the generator
+output. As the engine speed is increased, the motor should
+synchronize and register the rpm correctly. The rpm at
+which synchronization occurs varies with the design of the
+tachometer system. If the instrument pointer(s) oscillate(s)
+at speeds above the synchronizing value, determine that the
+total oscillation does not exceed the allowable tolerance.
+
+10-81
+
+===== PDF PAGE 601 =====
+Pointer oscillation can also occur with a mechanical
+indication system if the flexible drive is permitted to whip.
+The drive shaft should be secured at frequent intervals
+to prevent it from whipping. When installing mechanical
+type indicators, be sure that the flexible drive has adequate
+clearance behind the panel. Any bends necessary to route
+the drive should not cause strain on the instrument when it
+is secured to the panel. Avoid sharp bends in the drive. An
+improperly installed drive can cause the indicator to fail to
+read or to read incorrectly.
+Magnetic Compass Maintenance & Compensation
+The magnetic compass is a simple instrument that does
+not require setting or a source of power. A minimum of
+maintenance is necessary, but the instrument is delicate and
+should be handled carefully during inspection. The following
+items are usually included in an inspection:
+1.
+
+The compass indicator should be checked for correct
+readings on various cardinal headings and recompensated if necessary.
+
+2.
+
+Moving parts of the compass should work easily.
+
+3.
+
+The compass bowl should be correctly suspended on
+an antivibration device and should not touch any part
+of the metal container.
+
+4.
+
+The compass bowl should be filled with liquid. The
+liquid should not contain any bubbles or have any
+discoloration. Airframe mechanics cannot refill the
+fluid of a whiskey compass.
+
+5.
+
+The scale should be readable and be well lit.
+
+Compass magnetic deviation is caused by electromagnetic
+interference from ferrous materials and operating electrical
+components in the flight deck. Deviation can be reduced
+by swinging the compass and adjusting its compensating
+magnets. An example of how to perform this calibration
+
+process is given below. The results are recorded on a compass
+correction card which is placed near the compass in the flight
+deck. [Figure 10-139]
+There are various ways to swing a compass. The following
+is meant as a representative method. Follow the aircraft
+manufacturer’s instructions for method and frequency of
+swinging the magnetic compass. This is usually accomplished
+at flight hour or calendar intervals. Compass calibration is also
+performed when a new electric component is added to the
+flight deck, such as a new radio. A complete list of conditions
+requiring a compass swing and procedure can be found in
+FAA Advisory Circular (AC) 43.13-1 (as revised), Chapter
+12, Section 3, paragraph 12-37.
+To swing a compass, a compass rose is required. Most airports
+have one painted on the tarmac in a low-traffic area where
+maintenance personnel can work. One can also be made with
+chalk and a good compass. The area where the compass rose
+is laid out should be far from any possible electromagnetic
+disturbances, including those underground, and should
+remain clear of any ferrous vehicles or large equipment while
+the procedure takes place. [Figure 10-140]
+The aircraft should be in level flight attitude for the compass
+swing procedure. Tail draggers need to have the aft end of
+the fuselage propped up, preferably with wood, aluminum,
+or some other nonferrous material. The aircraft interior and
+baggage compartments should be free from miscellaneous
+items that might interfere with the compass. All normal
+equipment should be on board and turned on to simulate a
+flight condition. The engine(s) should be running.
+The basic idea when swinging a compass is to note the
+deviation along the north-south radial and the east-west
+radial. Then, adjust the compensating magnets of the
+compass to eliminate as much deviation as possible. Begin
+
+Figure 10-138. An analog pitot-static system test unit (left) and a digital pitot static test unit (right).
+
+10-82
+
+===== PDF PAGE 602 =====
+by centering or zeroing the compass’ compensating magnets
+with a non-ferrous screw driver. Align the longitudinal axis
+of the aircraft on the N-S radial facing north. Adjust the N-S
+compensating screw so the indication is 0°. Next, align the
+longitudinal axis of the aircraft on the E-W radial facing east.
+Adjust the E-W compensating screw so that the compass
+indicates 90°. Now, move the aircraft to be aligned with
+the N-S radial facing south. If the compass indicates 180°,
+there is no deviation while the aircraft is heading due north
+or due south. However, this is unlikely. Whatever the southfacing indication is, adjust the N-S compensating screw to
+eliminate half of the deviation from 180°. Continue around
+to face the aircraft west on the E-W radial and use the E-W
+compensating screw to eliminate half of the west-facing
+deviation from 270°.
+Once this is done, return the aircraft to alignment with the
+N-S radial facing north and record the indication. Up to 10°
+deviation is allowed. If the deviation cannot be corrected
+to within 10° , the compass should be replaced if further
+inspection reveals that there is no other reasons for this
+deviation. Align the aircraft with the radials every 30° around
+the compass rose and record each indication on the compass
+compensation card. Date and sign the card and place it in full
+view of the pilot near the compass in the flight deck.
+Vacuum System Maintenance
+Errors in the indication presented on a vacuum gyroscopic
+instrument could be the result of any factor that prevents the
+vacuum system from operating within the design suction
+limits. Errors can also be caused by problems within the
+instrument, such as friction, worn parts, or broken parts. Any
+source that disturbs the free rotation of the gyro at design
+
+Figure 10-139. A magnetic compass with a deviation correction
+
+card attached, on which the results of swinging the compass should
+be recorded.
+
+speed is undesirable resulting in excessive precession and
+failure of the instruments to maintain accurate indication.
+The aircraft technician is responsible for the prevention
+or correction of vacuum system malfunctions. Usually
+this consists of cleaning or replacing filters, checking and
+correcting insufficient vacuum, or removing and replacing
+the vacuum pump or instruments. A list of the most common
+malfunctions, together with their correction, is included in
+Figure 10-141.
+Autopilot System Maintenance
+The information in this section does not apply to any particular
+autopilot system but gives general information that relates
+to all autopilot systems. Maintenance of an autopilot system
+consists of visual inspection, replacement of components,
+cleaning, lubrication, and an operational checkout of the
+system. Consult the manufacturer’s maintenance manual for
+all of these procedures.
+With the autopilot disengaged, the flight controls should
+function smoothly. The resistance offered by the autopilot
+servos should not affect the control of the aircraft. The
+interconnecting mechanisms between the autopilot system
+and the flight control system should be correctly aligned and
+smooth in operation. When applicable, the operating cables
+should be checked for tension.
+An operational check is important to assure that every circuit
+is functioning properly. An autopilot operational check should
+be performed on new installations, after replacement of
+an autopilot component, or whenever a malfunction in the
+autopilot is suspected.
+After the aircraft’s main power switch has been turned on,
+allow the gyros to come up to speed and the amplifier to
+warm up before engaging the autopilot. Some systems are
+designed with safeguards that prevent premature autopilot
+
+Figure 10-140. The compass rose on this airport ramp can be used
+
+to swing an aircraft magnetic compass.
+
+10-83
+
+===== PDF PAGE 603 =====
+engagement. While holding the control column in the normal
+flight position, engage the autopilot system using the switch
+on the autopilot controller.
+After the system is engaged, perform the operational checks
+specified for the particular aircraft. In general, the checks
+are as follows:
+1.
+
+Rotate the turn knob to the left; the left rudder pedal
+should move forward, and the control column wheel
+should move to the left and slightly aft.
+
+2.
+
+Rotate the turn knob to the right; the right rudder pedal
+should move forward, and the control column wheel
+should move to the right and slightly aft. Return the
+turn knob to the center position; the flight controls
+should return to the level-flight position.
+
+3.
+
+Rotate the pitch-trim knob forward; the control column
+should move forward.
+
+4.
+
+Rotate the pitch-trim knob aft; the control column
+should move aft.
+
+If the aircraft has a pitch-trim system installed, it should
+function to add down-trim as the control column moves
+forward and add up-trim as the column moves aft. Many
+pitch-trim systems have an automatic and a manual mode
+of operation. The above action occurs only in the automatic
+mode.
+
+Problem and Potential Causes
+
+Check to see if it is possible to manually override or
+overpower the autopilot system in all control positions.
+Center all the controls when the operational checks have
+been completed. Disengage the autopilot system and check
+for freedom of the control surfaces by moving the control
+columns and rudder pedals. Then, reengage the system and
+check the emergency disconnect release circuit. The autopilot
+should disengage each time the release button on the control
+yoke is actuated.
+When performing maintenance and operational checks on
+a specific autopilot system, always follow the procedure
+recommended by the aircraft or equipment manufacturer.
+LCD Display Screens
+Electronic and digital instrument systems utilizing LCD
+technology may have special considerations for the care of
+the display screens. Antireflective coatings are sometimes
+used to reduce glare and make the displays more visible.
+These treatments can be degraded by human skin oils and
+certain cleaning agents, such as those containing ammonia.
+It is very important to clean the display lens using a clean,
+lint-free cloth and a cleaner that is specified as safe for
+antireflective coatings, preferable one recommended by the
+aircraft manufacturer.
+
+Isolation Procedure
+
+1. No vacuum pressure or insufficient pressure
+Defective vacuum gauge
+Check opposite engine system on the gauge
+Vacuum relief valve incorrectly adjusted
+Change valve adjustment
+Vacuum relief valve installed backward
+Visually inspect
+Broken lines
+Visually inspect
+Lines crossed
+Visually inspect
+Obstruction in vacuum line
+Check for collapsed line
+Vacuum pump failure
+Remove and inspect
+Vacuum regulator valve incorrectly adjusted Make valve adjustment and note pressure
+Vacuum relief valve dirty
+Clean and adjust relief valve
+2. Excessive vacuum
+Relief valve improperly adjusted
+Inaccurate vacuum gauge
+Check calibration of gauge
+3. Gyro horizon bar fails to respond
+Instrument caged
+Visually inspect
+Instrument filter dirty
+Check filter
+Insufficient vacuum
+Check vacuum setting
+Instrument assembly worn or dirty
+4. Turn-and-bank indicator fails to respond
+No vacuum supplied to instrument
+Check lines and vacuum system
+Instrument filter clogged
+Visually inspect
+Defective instrument
+Test with properly functioning instrument
+5. Turn-and-bank pointer vibrates
+Defective instrument
+Test with properly functioning instrument
+
+Correction
+Replace faulty vacuum gauge
+Make final adjustment to correct setting
+Install lines properly
+Replace line
+Install lines properly
+Clean & test line; replace defective part(s)
+Replace faulty pump
+Adjust to proper pressure
+Replace valve if adjustment fails
+Adjust relief valve to proper setting
+Replace faulty gauge
+Uncage instrument
+Replace or clean as necessary
+Adjust relief valve to proper setting
+Replace instrument
+Clean and replace lines and components
+Replace filter
+Replace faulty instrument
+Replace defective instrument
+
+Figure 10-141. Vacuum system troubleshooting guide.
+
+10-84
+

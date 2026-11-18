@@ -1,0 +1,1802 @@
+FAA-H-8083-31B Airframe Handbook, chapter 9 (Aircraft Electrical System), PDF pages 437-453
+
+===== PDF PAGE 437 =====
+separators with no free electrolyte and are sometimes referred
+to as sealed batteries. [Figure 9-33] The electrochemical
+reactions for VRLA batteries are the same as flooded
+batteries, except for the gas recombination mechanism that
+is predominant in VRLA batteries. These types of battery
+are used in general aviation and turbine powered aircraft and
+are sometimes authorized replacements for NiCd batteries.
+When VRLA batteries are on charge, oxygen combines
+chemically with the lead at the negative plates in the presence
+of H2SO4 to form lead sulfate and water. This oxygen
+recombination suppresses the generation of hydrogen at
+the negative plates. Overall, there is no water loss during
+charging. A very small quantity of water may be lost as a
+result of self-discharge reactions; however, such loss is so
+small that no provisions are made for water replenishment.
+The battery cells have a pressure relief safety valve that may
+vent if the battery is overcharged.
+
+NiCd Batteries
+A NiCd battery consists of a metallic box, usually stainless
+steel, plastic-coated steel, painted steel, or titanium
+containing a number of individual cells. [Figure 9-34] These
+cells are connected in series to obtain 12 volts or 24 volts.
+The cells are connected by highly conductive nickel copper
+links. Inside the battery box, the cells are held in place by
+partitions, liners, spacers, and a cover assembly. The battery
+has a ventilation system to allow the escape of the gases
+produced during an overcharge condition and provide cooling
+during normal operation.
+NiCd cells installed in an aircraft battery are typical of
+the vented cell type. The vented cells have a vent or low
+pressure release valve that releases any generated oxygen
+and hydrogen gases when overcharged or discharged rapidly.
+This also means the battery is not normally damaged by
+
+Figure 9-34. NiCd battery installation.
+
+excessive rates of overcharge, discharge, or even negative
+charge. The cells are rechargeable and deliver a voltage of
+1.2 volts during discharge.
+Aircraft that are outfitted with NiCd batteries typically have
+a fault protection system that monitors the condition of the
+battery. The battery charger is the unit that monitors the
+condition of the battery and the following conditions are
+monitored:
+1.
+
+Overheat condition,
+
+2.
+
+Low temperature condition (below –40 °F),
+
+3.
+
+Cell imbalance,
+
+4.
+
+Open circuit, and
+
+5.
+
+Shorted circuit.
+
+If the battery charger finds a fault, it turns off and sends a fault
+signal to the Electrical Load Management System (ELMS).
+NiCd batteries are capable of performing to their rated
+capacity when the ambient temperature of the battery is in the
+range of approximately 60–90 °F. An increase or decrease in
+temperature from this range results in reduced capacity. NiCd
+batteries have a ventilation system to control the temperature
+of the battery. A combination of high battery temperature (in
+excess of 160 °F) and overcharging can lead to a condition
+called thermal runaway. [Figure 9-35] The temperature of
+the battery has to be constantly monitored to ensure safe
+operation. Thermal runaway can result in a NiCd chemical
+fire and/or explosion of the NiCd battery under recharge by a
+constant-voltage source and is due to cyclical, ever-increasing
+temperature and charging current. One or more shorted cells
+or an existing high temperature and low charge can produce
+the following cyclical sequence of events:
+1.
+
+Excessive current,
+
+2.
+
+Increased temperature,
+
+Figure 9-35. Thermal runaway damage.
+
+9-21
+
+===== PDF PAGE 438 =====
+3.
+
+Decreased cell(s) resistance,
+
+4.
+
+Further increased current, and
+
+5.
+
+Further increased temperature.
+
+This does not become a self-sustaining thermal-chemical
+action if the constant-voltage charging source is removed
+before the battery temperature is in excess of 160 °F.
+
+Capacity
+Capacity is measured quantitatively in ampere-hours
+delivered at a specified discharge rate to a specified cut-off
+voltage at room temperature. The cut-off voltage is 1.0 volt
+per cell. Battery available capacity depends upon several
+factors including such items as:
+1.
+
+Cell design (cell geometry, plate thickness, hardware,
+and terminal design govern performance under
+specific usage conditions of temperature, discharge
+rate, etc.).
+
+2.
+
+Discharge rate (high current rates yield less capacity
+than low rates).
+
+3.
+
+Temperature (capacity and voltage levels decrease
+as battery temperature moves away from the 60 °F
+(16 °C) to 90 °F (32 °C) range toward the high and
+low extremes).
+
+4.
+
+Charge rate (higher charge rates generally yield greater
+capacity).
+
+Aircraft Battery Ratings by Specification
+The one-hour rate is the rate of discharge a battery can endure
+for 1 hour with the battery voltage at or above 1.67 volts per
+cell, or 20 volts for a 24-volt lead-acid battery, or 10 volts for
+a 12-volt lead-acid battery. The one-hour capacity, measured
+in ampere hours (Ah), is the product of the discharge rate and
+time (in hours) to the specified end voltage.
+The emergency rate is the total essential load, measured in
+amperes, required to support the essential bus for 30 minutes.
+This is the rate of discharge a battery can endure for 30
+minutes with the battery voltage at or above 1.67 volts per
+cell, or 20 volts for a 24 volt lead-acid battery, or 10 volts
+for a 12 volt lead-acid battery.
+
+Storing & Servicing Facilities
+Separate facilities for storing and/or servicing flooded
+electrolyte lead-acid and NiCd batteries must be maintained.
+Introduction of acid electrolyte into alkaline electrolyte
+causes permanent damage to vented (flooded electrolyte)
+NiCd batteries and vice versa. However, batteries that are
+sealed can be charged and capacity checked in the same area.
+Because the electrolyte in a valve-regulated lead-acid battery
+is absorbed in the separators and porous plates, it cannot
+
+contaminate a NiCd battery even when they are serviced in
+the same area.
+Warning: It is extremely dangerous to store or service leadacid and NiCd batteries in the same area. Introduction of
+acid electrolytes into alkaline electrolyte destroys the NiCd,
+and vice versa.
+
+Battery Freezing
+Discharged lead-acid batteries exposed to cold temperatures
+are subject to plate damage due to freezing of the electrolyte.
+To prevent freezing damage, maintain each cell’s specific
+gravity at 1.275 or, for sealed lead-acid batteries, check
+open circuit voltage. [Figure 9-36] NiCd battery electrolyte
+is not as susceptible to freezing because no appreciable
+chemical change takes place between the charged and
+discharged states. However, the electrolyte freezes at
+approximately –75 °F.
+Note: Only a load check determines overall battery condition.
+
+Temperature Correction
+U.S.-manufactured lead-acid batteries are considered fully
+charged when the specific gravity reading is between 1.275
+and 1.300. A 1⁄3 discharged battery reads about 1.240 and a
+2
+⁄3 discharged battery shows a specific gravity reading of
+about 1.200 when tested by a hydrometer at an electrolyte
+temperature of 80 °F. However, to determine precise
+specific gravity readings, a temperature correction should be
+applied to the hydrometer indication. [Figure 9-37] As an
+example, for a hydrometer reading of 1.260 and electrolyte
+temperature of 40 °F, the corrected specific gravity reading
+of the electrolyte is 1.244.
+
+Battery Charging
+Operation of aircraft batteries beyond their ambient
+temperature or charging voltage limits can result in excessive
+cell temperatures leading to electrolyte boiling, rapid
+
+Specific
+Gravity
+1.300
+1.275
+1.250
+1.225
+1.200
+1.175
+1.150
+1.125
+1.100
+
+Freezing
+Point
+
+State of Charge (SOC) for Sealed
+Lead-Acid Batteries at 70°
+
+°C
+–70
+–62
+–52
+–37
+–26
+–20
+–15
+–10
+–08
+
+SOC
+100%
+75%
+50%
+25%
+
+°F
+–95
+–80
+–62
+–35
+–16
+–04
++05
++13
++19
+
+12 volt
+12.9
+12.7
+12.4
+12.0
+
+24 volt
+25.8
+25.4
+24.8
+24.0
+
+Figure 9-36. Lead-acid battery electrolyte freezing points.
+
+9-22
+
+===== PDF PAGE 439 =====
+Electrolyte
+Temperature
+°C
+°F
++60
++140
++55
++130
++49
++120
++43
++110
++38
++100
++33
++90
++27
++80
++23
++70
++15
++60
++10
++50
++05
++40
+–02
++30
+–07
++20
+–13
++10
+–18
+0
+–23
+–10
+–28
+–20
+–35
+–30
+
+Points to Subtract From or Add
+to Specific Gravity Readings
+12 volt
++0.024
++0.020
++0.016
++0.012
++0.008
++0.004
+0
+–0.004
+–0.008
+–0.012
+–0.016
+–0.020
+–0.024
+–0.028
+–0.032
+–0.036
+–0.040
+–0.044
+
+Figure 9-37. Sulfuric acid temperature correction.
+
+deterioration of the cells, and battery failure. The relationship
+between maximum charging voltage and the number of cells
+in the battery is also significant. This determines (for a given
+ambient temperature and state of charge) the rate at which
+energy is absorbed as heat within the battery. For lead-acid
+batteries, the voltage per cell must not exceed 2.35 volts.
+In the case of NiCd batteries, the charging voltage limit
+varies with design and construction. Values of 1.4 and 1.5
+volts per cell are generally used. In all cases, follow the
+recommendations of the battery manufacturer.
+Constant Voltage (CV) Charging
+The battery charging system in an airplane is of the constant
+voltage type. An engine-driven generator, capable of
+supplying the required voltage, is connected through the
+aircraft electrical system directly to the battery. A battery
+switch is incorporated in the system so that the battery may
+be disconnected when the airplane is not in operation.
+The voltage of the generator is accurately controlled by means
+of a voltage regulator connected in the field circuit of the
+generator. For a 12-volt system, the voltage of the generator
+is adjusted to approximately 14.25. On 24-volt systems,
+the adjustment should be between 28 and 28.5 volts. When
+these conditions exist, the initial charging current through the
+battery is high. As the state of charge increases, the battery
+voltage also increases, causing the current to taper down.
+When the battery is fully charged, its voltage is almost equal
+to the generator voltage, and very little current flows into the
+battery. When the charging current is low, the battery may
+
+remain connected to the generator without damage.
+When using a constant-voltage system in a battery shop, a
+voltage regulator that automatically maintains a constant
+voltage is incorporated in the system. A higher capacity
+battery (e.g., 42 Ah) has a lower resistance than a lower
+capacity battery (e.g., 33 Ah). Hence, a high-capacity battery
+draws a higher charging current than a low-capacity battery
+when both are in the same state of charge and when the
+charging voltages are equal. The constant voltage method is
+the preferred charging method for lead-acid batteries.
+Constant Current (CC) Charging
+Constant current charging is the most convenient for charging
+batteries outside the airplane because several batteries of
+varying voltages may be charged at once on the same system.
+A constant current charging system usually consists of a
+rectifier to change the normal AC supply to DC. A transformer
+is used to reduce the available 110-volt or 220-volt AC supply
+to the desired level before it is passed through the rectifier. If
+a constant current charging system is used, multiple batteries
+may be connected in series, provided that the charging current
+is kept at such a level that the battery does not overheat or
+gas excessively.
+The constant current charging method is the preferred method
+for charging NiCd batteries. Typically, a NiCd battery is
+constant current charged at a rate of 1CA until all the cells
+have reached at least 1.55V. Another charge cycle follows at
+0.1CA, again until all cells have reached 1.55V. The charge
+is finished with an overcharge or top-up charge, typically for
+not less than 4 hours at a rate of 0.1CA. The purpose of the
+overcharge is to expel as much, if not all the gases collected
+on the electrodes, hydrogen on the anode, and oxygen on
+the cathode; some of these gases recombine to form water
+that, in turn, raises the electrolyte level to its highest level
+after which it is safe to adjust the electrolyte levels. During
+the overcharge or top-up charge, the cell voltages go beyond
+1.6V and then slowly start to drop. No cell should rise above
+1.71V (dry cell) or drop below 1.55V (gas barrier broken).
+Charging is done with vent caps loosened or open. A stuck
+vent might increase the pressure in the cell. It also allows
+for refilling of water to correct levels before the end of the
+top-up charge while the charge current is still on. However,
+cells should be closed again as soon as the vents have been
+cleaned and checked since carbon dioxide dissolved from
+outside air carbonates the cells and ages the battery.
+
+Battery Maintenance
+Battery inspection and maintenance procedures vary with
+the type of chemical technology and the type of physical
+construction. Always follow the battery manufacturer’s
+9-23
+
+===== PDF PAGE 440 =====
+approved procedures. Battery performance at any time in
+a given application depends upon the battery’s age, state of
+health, state of charge, and mechanical integrity, which you
+can determine according to the following:
+•
+
+To determine the life and age of the battery, record the
+install date of the battery on the battery. During normal
+battery maintenance, battery age must be documented
+either in the aircraft maintenance log or in the shop
+maintenance log.
+
+•
+
+Lead-acid battery state of health may be determined
+by duration of service interval (in the case of vented
+batteries), by environmental factors (such as excessive
+heat or cold), and by observed electrolyte leakage (as
+evidenced by corrosion of wiring and connectors or
+accumulation of powdered salts). If the battery needs to
+be refilled often, with no evidence of external leakage,
+this may indicate a poor state of the battery, the battery
+charging system, or an overcharge condition.
+
+•
+
+•
+
+•
+
+Use a hydrometer to determine the specific gravity of
+the lead-acid battery electrolyte, which is the weight of
+the electrolyte compared to the weight of pure water.
+Take care to ensure the electrolyte is returned to the
+cell from which it was extracted. When a specific
+gravity difference of 0.050 or more exists between
+cells of a battery, the battery is approaching the end of
+its useful life and replacement should be considered.
+Electrolyte level may be adjusted by the addition of
+distilled water. Do not add electrolyte.
+Battery state of charge is determined by the cumulative
+effect of charging and discharging the battery. In
+a normal electrical charging system, the aircraft
+generator or alternator restores a battery to full charge
+during a flight of 1 hour to 90 minutes.
+Proper mechanical integrity involves the absence
+of any physical damage, as well as assurance that
+hardware is correctly installed and the battery is
+properly connected. Battery and battery compartment
+venting system tubes, nipples, and attachments, when
+required, provide a means of avoiding the potential
+buildup of explosive gases, and should be checked
+periodically to ensure that they are securely connected
+and oriented in accordance with the maintenance
+manual’s installation procedures. Always follow
+procedures approved for the specific aircraft and
+battery system to ensure that the battery system is
+capable of delivering specified performance.
+
+Battery & Charger Characteristics
+The following information is provided to acquaint the user
+with characteristics of the more common aircraft battery
+and battery charger types. [Figure 9-38] Products may vary
+
+Figure 9-38. Battery charger.
+
+from these descriptions due to different applications of
+available technology. Consult the manufacturer for specific
+performance data.
+Note: Never connect a lead-acid battery to a charger, unless
+properly serviced.
+Lead-Acid Batteries
+Lead-acid vented batteries have a two volt nominal cell
+voltage. Batteries are constructed so that individual cells
+cannot be removed. Occasional addition of water is required
+to replace water loss due to overcharging in normal service.
+Batteries that become fully discharged may not accept
+recharge. Lead-acid sealed batteries are similar in most
+respects to lead-acid vented batteries, but do not require the
+addition of water.
+The lead-acid battery is economical and has extensive
+application but is heavier than an equivalent performance
+battery of another type. The battery is capable of a high rate
+of discharge and low-temperature performance. However,
+maintaining a high rate of discharge for a period of time
+usually warps the cell plates, shorting out the battery. Its
+electrolyte has a moderate specific gravity, and state of charge
+can be checked with a hydrometer.
+Lead-acid batteries are usually charged by regulated DC
+voltage sources. This allows maximum accumulation of
+charge in the early part of recharging.
+NiCd Batteries
+NiCd vented batteries have a 1.2-volt nominal cell voltage.
+Occasional addition of distilled water is required to replace
+water loss due to overcharging in normal service. Cause
+of failure is usually shorting or weakening of a cell. After
+replacing the bad cell with a good cell, the battery’s life can
+be extended for 5 or more years. Full discharge is not harmful
+to this type of battery.
+9-24
+
+===== PDF PAGE 441 =====
+NiCd sealed batteries are similar in most respects to NiCd
+vented batteries, but do not normally require the addition of
+water. Fully discharging the battery (to zero volts) may cause
+irreversible damage to one or more cells, leading to eventual
+battery failure due to low capacity.
+The state of charge of a NiCd battery cannot be determined
+by measuring the specific gravity of the potassium hydroxide
+electrolyte. The electrolyte specific gravity does not change
+with the state of charge. The only accurate way to determine
+the state of charge of a NiCd battery is by a measured
+discharge with a NiCd battery charger and following the
+manufacturer’s instructions. After the battery has been
+fully charged and allowed to stand for at least 2 hours, the
+fluid level may be adjusted, if necessary, using distilled or
+demineralized water. Because the fluid level varies with the
+state of charge, water should never be added while the battery
+is installed in the aircraft. Overfilling the battery results in
+electrolyte spewage during charging. This causes corrosive
+effects on the cell links, self-discharge of the battery, dilution
+of the electrolyte density, possible blockage of the cell vents,
+and eventual cell rupture.
+Constant current battery chargers are usually provided for
+NiCd batteries because the NiCd cell voltage has a negative
+temperature coefficient. With a constant voltage charging
+source, a NiCd battery having a shorted cell might overheat
+due to excessive overcharge and undergo a thermal runaway,
+destroying the battery and creating a possible safety hazard
+to the aircraft. Pulsed-current battery chargers are sometimes
+provided for NiCd batteries.
+Caution: It is important to use the proper charging
+procedures for batteries under test and maintenance. These
+charging regimes for reconditioning and charging cycles
+are defined by the aircraft manufacturer and should be
+closely followed.
+
+Ventilation Systems
+Modern airplanes are equipped with battery ventilating
+systems. The ventilating system removes gasses and acid
+fumes from the battery in order to reduce fire hazards and
+to eliminate damage to airframe parts. Air is carried from a
+scoop outside the airplane through a vent tube to the interior
+of the battery case. After passing over the top of the battery,
+air, battery gasses, and acid fumes are carried through another
+tube to the battery sump. This sump is a glass or plastic jar
+of at least one pint capacity. In the jar is a felt pad about 1
+inch thick saturated with a 5-percent solution of bicarbonate
+of soda and water. The tube carrying fumes to the sump
+extends into the jar to within about 1⁄4 inch of the felt pad.
+An overboard discharge tube leads from the top of the sump
+jar to a point outside the airplane. The outlet for this tube is
+designed so there is negative pressure on the tube whenever
+the airplane is in flight. This helps to ensure a continuous
+flow of air across the top of the battery through the sump
+and outside the airplane. The acid fumes going into the
+sump are neutralized by the action of the soda solution, thus
+preventing corrosion of the aircraft’s metal skin or damage
+to a fabric surface.
+
+Installation Practices
+•
+
+External surface—Clean the external surface of the
+battery prior to installation in the aircraft.
+
+•
+
+Replacing lead-acid batteries—When replacing
+lead-acid batteries with NiCd batteries, a battery
+temperature or current monitoring system must be
+installed. Neutralize the battery box or compartment
+and thoroughly flush with water and dry. A flight
+manual supplement must also be provided for the NiCd
+battery installation. Acid residue can be detrimental to
+the proper functioning of a NiCd battery, as alkaline
+is to a lead-acid battery.
+
+•
+
+Battery venting—Battery fumes and gases may cause
+an explosive mixture or contaminated compartments
+and should be dispersed by adequate ventilation.
+Venting systems often use ram pressure to flush
+fresh air through the battery case or enclosure to a
+safe overboard discharge point. The venting system
+pressure differential should always be positive
+and remain between recommended minimum and
+maximum values. Line runs should not permit battery
+overflow fluids or condensation to be trapped and
+prevent free airflow.
+
+•
+
+Battery sump jars—A battery sump jar installation
+may be incorporated in the venting system to dispose
+of battery electrolyte overflow. The sump jar should
+be of adequate design and the proper neutralizing
+agent used. The sump jar must be located only on the
+
+Aircraft Battery Inspection
+Aircraft battery inspection consists of the following items:
+1.
+
+Inspect battery sump jar and lines for condition and
+security.
+
+2.
+
+Inspect battery terminals and quickly disconnect plugs
+and pins for evidence of corrosion, pitting, arcing, and
+burns. Clean as required.
+
+3.
+
+Inspect battery drain and vent lines for restriction,
+deterioration, and security.
+
+4.
+
+Routine preflight and postflight inspection procedures
+should include observation for evidence of physical
+damage, loose connections, and electrolyte loss.
+
+9-25
+
+===== PDF PAGE 442 =====
+Probable Cause
+
+Trouble
+Apparent loss of capacity
+
+Very common when recharging on a
+constant potential bus, as in aircraft
+
+Corrective Action
+Reconditioning will alleviate this
+condition.
+
+Usually indicates imbalance between cells
+because of difference in temperature,
+charge efficiency, self-discharge rate, etc.,
+in the cells
+Electrolyte level too low
+Battery not fully charged
+
+Charge. Adjust electrolyte level. Check
+aircraft voltage regulator. If OK, reduce
+maintenance interval.
+
+Defective connection in equipment circuitry in
+which battery is installed, such as broken
+lead, inoperative relay, or improper receptacle
+installation
+
+Check and correct external circuitry.
+
+End terminal connector loose or disengaged
+Poor intercell connections
+
+Clean and retighten hardware using
+proper torque values.
+
+Open circuit or dry cell
+
+Replace defective cell.
+
+High charge voltage
+High temperature during charge
+Electrolyte level too high
+
+Clean battery, charge, and adjust
+electrolyte level.
+
+Loose or damaged vent cap
+
+Clean battery, tighten or replace cap,
+charge, and adjust electrolyte level.
+
+Damaged cell and seal
+
+Short out all cells to 0 volts, clean
+battery, replace defective cell, charge,
+and adjust electrolyte level.
+
+Failure of one or more cells to rise to
+the required 1.55 volts at the end of
+charge
+
+Negative electrode not fully charged
+Cellophane separator damage
+
+Discharge battery and recharge. If the
+cell still fails to rise to 1.55 volts or if
+the cell’s voltage rises to 1.55 volts or
+above and then drops, remove cell
+and replace.
+
+Distortion of cell case to cover
+
+Overcharged, overdischarged, or
+overheated cell with internal short
+
+Discharge battery and disassemble.
+Replace defective cell. Recondition
+battery.
+
+Plugged vent cap
+
+Replace vent cap.
+
+Overheated battery
+
+Check voltage regulator: treat battery
+as above, replacing battery case and
+cover and all other defective parts.
+
+Foreign material within the cell case
+
+Introduced into cell through addition of
+impure water or water contaminated with
+acid
+
+Discharge battery and disassemble,
+remove cell and replace, recondition
+battery.
+
+Frequent addition of water
+
+Cell out of balance
+
+Recondition battery.
+
+Damaged “O” ring, vent cap
+
+Replace damaged parts.
+
+Leaking cell
+
+Discharge battery and disassemble.
+Replace defective cell, recondition
+battery.
+
+Charge voltage too high
+
+Adjust voltage regulator.
+
+Corrosion of top hardware
+
+Acid flumes or spray or other corrosive
+atmosphere
+
+Replace parts. Battery should be kept
+clean and kept away from such
+environments.
+
+Discolored or burned end connectors
+or intercell connectors.
+
+Dirty connections.
+Loose connection.
+Improper mating of parts.
+
+Clean parts: replace if necessary.
+Retighten hardware using proper
+torque values. Check to see that parts
+are properly mated.
+
+Distortion of battery case and/or cover.
+
+Explosion caused by:
+Dry cells
+Charger failure
+High charge voltage
+Plugged vent caps
+Loose intercell connectors
+
+Discharge battery and disassemble.
+Replace damaged parts and
+recondition.
+
+Complete failure to operate
+
+Excessive spewage of electrolyte
+
+Figure 9-39. Battery troubleshooting guide.
+
+9-26
+
+===== PDF PAGE 443 =====
+•
+
+•
+
+Installing batteries—When installing batteries in an
+aircraft, exercise care to prevent inadvertent shorting
+of the battery terminals. Serious damage to the aircraft
+structure (frame, skin and other subsystems, avionics,
+wire, fuel, etc.) can be sustained by the resultant high
+discharge of electrical energy. This condition may
+normally be avoided by insulating the terminal posts
+during the installation process. Remove the grounding
+lead first for battery removal, then the positive lead.
+Connect the grounding lead of the battery last to
+minimize the risk of shorting the hot terminal of the
+battery during installation.
+
++ Voltage
+
+•
+
+– Voltage
+
+discharge side of the battery venting system.
+
+1 cycle
+
+Maximum
+
+Minimum
+
+0°
+
+Troubleshooting
+See Figure 9-39 for a troubleshooting chart.
+DC Generators & Controls
+DC generators transform mechanical energy into electrical
+energy. As the name implies, DC generators produce direct
+current and are typically found on light aircraft. In many
+cases, DC generators have been replaced with DC alternators.
+Both devices produce electrical energy to power the aircraft’s
+electrical loads and charge the aircraft’s battery. Even though
+they share the same purpose, the DC alternator and DC
+generator are very different. DC generators require a control
+circuit in order to ensure the generator maintains the correct
+voltage and current for the current electrical conditions of
+the aircraft. Typically, aircraft generators maintain a nominal
+output voltage of approximately 14 volts or 28 volts.
+
+Generators
+The principles of electromagnetic induction were discussed
+earlier in this chapter. These principles show that voltage is
+induced in the armature of a generator throughout the entire
+360° rotation of the conductor. The armature is the rotating
+portion of a DC generator. As shown, the voltage being
+induced is AC. [Figure 9-40]
+Since the conductor loop is constantly rotating, some means
+
+270°
+
+180°
+
+360°
+
+Maximum
+
+Figure 9-40. Output of an elementary generator.
+
+Battery hold down devices—Ensure that the battery
+hold down devices are secure, but not so tight as to
+exert excessive pressure that may cause the battery to
+buckle causing internal shorting of the battery.
+Quick-disconnect type battery—If a quick-disconnect
+type of battery connector that prohibits crossing the
+battery lead is not employed, ensure that the aircraft
+wiring is connected to the proper battery terminal.
+Reverse polarity in an electrical system can seriously
+damage a battery and other electrical components.
+Ensure that the battery cable connections are tight to
+prevent arcing or a high resistance connection.
+
+90°
+
+B
+
+S
+
+N
+
+A
+
+Figure 9-41. Generator slip rings and loop rotate; brushes are
+
+stationary.
+
+must be provided to connect this loop of wire to the electrical
+loads. As shown in Figure 9-41, slip rings and brushes can
+be used to transfer the electrical energy from the rotating
+loop to the stationary aircraft loads. The slip rings are
+connected to the loop and rotate; the brushes are stationary
+and allow a current path to the electrical loads. The slip
+rings are typically a copper material and the brushes are a
+soft carbon substance.
+It is important to remember that the voltage being produced
+by this basic generator is AC, and AC voltage is supplied to
+the slip rings. Since the goal is to supply DC loads, some
+means must be provided to change the AC voltage to a DC
+voltage. Generators use a modified slip ring arrangement,
+known as a commutator, to change the AC produced in
+the generator loop into a DC voltage. The action of the
+commutator allows the generator to produce a DC output.
+By replacing the slip rings of the basic AC generator with
+two half cylinders (the commutator), a basic DC generator is
+obtained. In Figure 9-42, the red side of the coil is connected
+to the red segment and the amber side of the coil to the amber
+segment. The segments are insulated from each other. The
+two stationary brushes are placed on opposite sides of the
+9-27
+
+===== PDF PAGE 444 =====
+B
+
+C
+
+D
+
+E
+
+Induced EMF
+
+A
+
+1 Revolution
+Figure 9-42. A two-piece slip ring, or commutator, allows brushes to transfer current that flows in a single direction (DC).
+
+commutator and are so mounted that each brush contacts
+each segment of the commutator as the commutator revolves
+simultaneously with the loop. The rotating parts of a DC
+generator (coil and commutator) are called an armature.
+As seen in the very simple generator of Figure 9-42, as the
+loop rotates the brushes make contact with different segments
+of the commutator. In positions A, C, and E, the brushes touch
+the insulation between the brushes; when the loop is in these
+positions, no voltage is being produced. In position B, the
+positive brush touches the red side of the conductor loop. In
+position D, the positive brush touches the amber side of the
+armature conductor. This type of connection reversal changes
+the AC produced in the conductor coil into DC to power the
+aircraft. An actual DC generator is more complex, having
+several loops of wire and commutator segments.
+
+the rotor, another two commutator segments is required. A
+photo of a typical DC generator commutator is shown in
+Figure 9-44.
+
+Construction Features of DC Generators
+The major parts, or assemblies, of a DC generator are a field
+frame, a rotating armature, and a brush assembly. The parts
+of a typical aircraft generator are shown in Figure 9-45.
+Field Frame
+The frame has two functions: to hold the windings needed to
+produce a magnetic field, and to act as a mechanical support
+for the other parts of the generator. The actual electromagnet
+
+Because of this switching of commutator elements, the
+red brush is always in contact with the coil side moving
+downward, and the amber brush is always in contact with
+the coil side moving upward. Though the current actually
+reverses its direction in the loop in exactly the same way as
+in the AC generator, commutator action causes the current
+to flow always in the same direction through the external
+circuit or meter.
+
+As the number of loops is increased, the variation between
+maximum and minimum values of voltage is reduced
+[Figure 9-43], and the output voltage of the generator
+approaches a steady DC value. For each additional loop in
+
+A
+
+N
+B
+
+C
+
+D
+
+E
+
+1/2
+
+3/4
+
+1
+
+Induced EMF
+
+The voltage generated by the basic DC generator in
+Figure 9-42 varies from zero to its maximum value twice
+for each revolution of the loop. This variation of DC voltage
+is called ripple and may be reduced by using more loops, or
+coils, as shown in Figure 9-43.
+
+S
+
+0
+
+1/4
+
+Revolutions (B)
+Figure 9-43. Increasing the number of coils reduces the ripple in
+
+the voltage.
+
+9-28
+
+===== PDF PAGE 445 =====
+regulation for the generator system. Generator control
+systems are discussed later in this chapter.
+Armature
+The armature assembly of a generator consists of two primary
+elements: the wire coils (called windings) wound around
+an iron core and the commutator assembly. The armature
+windings are evenly spaced around the armature and mounted
+on a steel shaft. The armature rotates inside the magnetic field
+produced by the field coils. The core of the armature acts as
+an iron conductor in the magnetic field and, for this reason,
+is laminated to prevent the circulation of eddy currents. A
+typical armature assembly is shown in Figure 9-47.
+Figure 9-44. Typical DC generator commutator.
+
+conductor is wrapped around pieces of laminated metal called
+field poles. The poles are typically bolted to the inside of the
+frame and laminated to reduce eddy current losses and serve
+the same purpose as the iron core of an electromagnet; they
+concentrate the lines of force produced by the field coils.
+The field coils are made up of many turns of insulated wire
+and are usually wound on a form that fits over the iron core
+of the pole to which it is securely fastened. [Figure 9-46]
+A DC current is fed to the field coils to produce an
+electromagnetic field. This current is typically obtained
+from an external source that provides voltage and current
+
+Commutators
+Figure 9-48 shows a cross-sectional view of a typical
+commutator. The commutator is located at the end of an
+armature and consists of copper segments divided by a thin
+insulator. The insulator is often made from the mineral mica.
+The brushes ride on the surface of the commutator forming the
+electrical contact between the armature coils and the external
+circuit. A flexible, braided copper conductor, commonly called
+a pigtail, connects each brush to the external circuit. The
+brushes are free to slide up and down in their holders in order
+to follow any irregularities in the surface of the commutator.
+The constant making and breaking of electrical connections
+between the brushes and the commutator segments, along with
+
+Sealed ball bearings
+
+Connector lugs
+Field frame
+
+Air scoop
+
+Drive end frame
+
+Brush connector bars
+Commutator
+Steel ring
+Drive shaft
+Commutator
+end frame
+
+Brush and holder
+
+Pole shoe
+
+Screw
+
+Field winding
+
+Field frame
+
+Armature
+Drive end
+Figure 9-45. Typical 24-volt aircraft generator.
+
+9-29
+
+===== PDF PAGE 446 =====
+Commutator
+
+Shaft
+
+Coils
+
+Figure 9-46. Generator field frame.
+
+Figure 9-47. A drum-type armature.
+
+the friction between the commutator and the brush, causes
+brushes to wear out and need regular attention or replacement.
+For these reasons, the material commonly used for brushes is
+high-grade carbon. The carbon must be soft enough to prevent
+undue wear of the commutator and yet hard enough to provide
+reasonable brush life. Since the contact resistance of carbon is
+fairly high, the brush must be quite large to provide a current
+path for the armature windings.
+
+Types of DC Generators
+
+The commutator surface is highly polished to reduce friction
+as much as possible. Oil or grease must never be used on a
+commutator, and extreme care must be used when cleaning
+it to avoid marring or scratching the surface.
+
+There are three types of DC generators: series wound,
+parallel (shunt) wound, and series-parallel (or compound
+wound). The appropriate generator is determined by the
+connections to the armature and field circuits with respect to
+the external circuit. The external circuit is the electrical load
+powered by the generator. In general, the external circuit is
+used for charging the aircraft battery and supplying power to
+all electrical equipment being used by the aircraft. As their
+names imply, windings in series have characteristics different
+from windings in parallel.
+
+Tightening nut
+Iron ring
+Mica V-ring
+Front V-ring
+Commutator bars
+
+Commutator bar
+Mica
+
+Mica insulation between bars
+Iron shell
+
+Slots
+
+Back V-ring with mica inner and outer rings for insulation
+
+Figure 9-48. Commutator with portion removed to show construction.
+
+9-30
+
+===== PDF PAGE 447 =====
+Series Wound DC Generators
+The series generator contains a field winding connected
+in series with the external circuit. [Figure 9-49] Series
+generators have very poor voltage regulation under changing
+load, since the greater the current is through the field coils
+to the external circuit, the greater the induced EMFs and the
+greater the output voltage is. When the aircraft electrical
+load is increased, the voltage increases; when the load is
+decreased, the voltage decreases.
+Since the series wound generator has such poor voltage
+and current regulation, it is never employed as an airplane
+generator. Generators in airplanes have field windings, that
+are connected either in shunt or in compound formats.
+Parallel (Shunt) Wound DC Generators
+A generator having a field winding connected in parallel with
+the external circuit is called a shunt generator. [Figure 9-50]
+It should be noted that, in electrical terms, shunt means
+parallel. Therefore, this type of generator could be called
+either a shunt generator or a parallel generator.
+In a shunt generator, any increase in load causes a decrease
+in the output voltage, and any decrease in load causes an
+increase output voltage. This occurs since the field winding
+is connected in parallel to the load and armature, and all the
+current flowing in the external circuit passes only through
+the armature winding (not the field).
+
+Field winding
+
+As shown in Figure 9-50A, the output voltage of a shunt
+generator can be controlled by means of a rheostat inserted
+in series with the field windings. As the resistance of the field
+circuit is increased, the field current is reduced; consequently,
+the generated voltage is also reduced. As the field resistance
+
+Field rheostat
+
+−
+
+S
+
+N
++
+Load
+
+Figure 9-49. Diagram of a series wound generator.
+
+A
+
+Field
+winding
+Field
+rheostat
+
+Armature winding
+
+−
+
+S
+
+Load
+
+N
++
+
+Shunt circuit
+
+Main circuit
+
+B
+Field coils
+
+Armature
+
+Figure 9-50. Shunt wound generator.
+
+is decreased, the field current increases and the generator
+output increases. In the actual aircraft, the field rheostat
+would be replaced with an automatic control device, such
+as a voltage regulator.
+Compound Wound DC Generators
+A compound wound generator employs two field windings one
+in series and another in parallel with the load. [Figure 9-51]
+This arrangement takes advantage of both the series and
+parallel characteristics described earlier. The output of a
+compound wound generator is relatively constant, even with
+changes in the load.
+
+Generator Ratings
+A DC generator is typically rated for its voltage and power
+output. Each generator is designed to operate at a specified
+voltage, approximately 14 or 28 volts. It should be noted that
+aircraft electrical systems are designed to operate at one of
+these two voltage values. The aircraft’s voltage depends on
+which battery is selected for that aircraft. Batteries are either
+12 or 24 volts when fully charged. The generator selected
+must have a voltage output slightly higher than the battery
+voltage. Hence, the 14- or 28-volt rating is required for
+aircraft DC generators.
+9-31
+
+===== PDF PAGE 448 =====
+the generator installed in the aircraft should include the
+following items:
+A
+Parallel
+field
+winding
+
+Series
+field
+winding
+
+−
+
+S
+Load
+
+N
++
+Armature winding
+
+Series field coil
+
+B
+Shunt
+field
+coil
+
+To load
+Armature
+
+Compound wound
+
+Figure 9-51. Compound wound generator.
+
+The power output of any generator is given as the maximum
+number of amperes the generator can safely supply. Generator
+rating and performance data are stamped on the nameplate
+attached to the generator. When replacing a generator, it is
+important to choose one of the proper ratings.
+The rotation of generators is termed either clockwise or
+counterclockwise, as viewed from the driven end. The
+direction of rotation may also be stamped on the data plate. It
+is important that a generator with the correct rotation be used;
+otherwise, the polarity of the output voltage is reversed. The
+speed of an aircraft engine varies from idle rpm to takeoff
+rpm; however, during the major portion of a flight, it is at a
+constant cruising speed. The generator drive is usually geared
+to turn the generator between 11⁄8 and 11⁄2 times the engine
+crankshaft speed. Most aircraft generators have a speed at
+which they begin to produce their normal voltage. Called the
+“coming in” speed, it is usually about 1,500 rpm.
+
+1.
+
+Security of generator mounting.
+
+2.
+
+Condition of electrical connections.
+
+3.
+
+Dirt and oil in the generator. If oil is present, check
+engine oil seals. Blow out any dirt with compressed air.
+
+4.
+
+Condition of generator brushes.
+
+5.
+
+Generator operation.
+
+6.
+
+Voltage regulator operation.
+
+Sparking of brushes quickly reduces the effective brush area
+in contact with the commutator bars. The degree of such
+sparking should be determined. Excessive wear warrants
+a detailed inspection and possible replacement of various
+components. [Figure 9-52]
+Manufacturers usually recommend the following procedures
+to seat brushes that do not make good contact with slip
+rings or commutators. Lift the brush sufficiently to permit
+the insertion of a strip of extra-fine 000 (triple aught) grit,
+or finer, sandpaper under the brush, rough side towards the
+carbon brush. [Figure 9-53]
+Pull the sandpaper in the direction of armature rotation, being
+careful to keep the ends of the sandpaper as close to the slip
+ring or commutator surface as possible in order to avoid
+rounding the edges of the brush. When pulling the sandpaper
+back to the starting point, raise the brush so it does not ride
+on the sandpaper. Sand the brush only in the direction of
+rotation. Carbon dust resulting from brush sanding should
+be thoroughly cleaned from all parts of the generators after
+a sanding operation.
+After the generator has run for a short period, brushes should
+be inspected to make sure that pieces of sand have not become
+
+DC Generator Maintenance
+The following information about the inspection and
+maintenance of DC generator systems is general in nature
+because of the large number of differing aircraft generator
+systems. These procedures are for familiarization only.
+Always follow the applicable manufacturer’s instructions
+for a given generator system. In general, the inspection of
+
+Figure 9-52. Wear areas of commutator and brushes.
+
+9-32
+
+===== PDF PAGE 449 =====
+all generators must be regulated by some control system. The
+generator control system is designed to keep the generator
+output within limits for all flight variables. Generator
+control systems are often referred to as voltage regulators
+or generator control units (GCU).
+Unseated brush
+
+/
+
+/
+
+1 32" to 1 16"
+
+000 sandpaper (sand side next to brush)
+
+Properly seated brush
+Figure 9-53. Seating brushes with sandpaper.
+
+embedded in the brush. Under no circumstances should
+emery cloth or similar abrasives be used for seating brushes
+(or smoothing commutators), since they contain conductive
+materials that cause arcing between brushes and commutator
+bars. It is important that the brush spring pressure be correct.
+Excessive pressure causes rapid wear of brushes. Too little
+pressure, however, allows bouncing of the brushes, resulting
+in burned and pitted surfaces. The pressure recommended by
+the manufacturer should be checked by the use of a spring
+scale graduated in ounces. Brush spring tension on some
+generators can be adjusted. A spring scale is used to measure
+the pressure that a brush exerts on the commutator.
+Flexible low-resistance pigtails are provided on most heavy
+current carrying brushes, and their connections should be
+securely made and checked at frequent intervals. The pigtails
+should never be permitted to alter or restrict the free motion of
+the brush. The purpose of the pigtail is to conduct the current
+from the armature, through the brushes, to the external circuit
+of the generator.
+Generator Controls
+
+Aircraft generator output can easily be adjusted through
+control of the generator’s magnetic field strength. Remember,
+the strength of the magnetic field has a direct effect on
+generator output. More field current means more generator
+output and vice versa. Figure 9-54 shows a simple generator
+control used to adjust field current. When field current is
+controlled, generator output is controlled. Keep in mind, this
+system is manually adjusted and would not be suitable for
+aircraft. Aircraft systems must be automatic and are therefore
+a bit more complex.
+There are two basic types of generator controls:
+electromechanical and solid-state (transistorized). The
+electromechanical type controls are found on older aircraft
+and tend to require regular inspection and maintenance. Solidstate systems are more modern and typically considered to
+have better reliability and more accurate generator output
+control.
+
+Functions of Generator Control Systems
+Most generator control systems perform a number of
+functions related to the regulation, sensing, and protection
+of the DC generation system. Light aircraft typically
+require a less complex generator control system than larger
+multiengine aircraft. Some of the functions listed below are
+not found on light aircraft.
+Voltage Regulation
+The most basic of the GCU functions is that of voltage
+regulation. Regulation of any kind requires the regulation
+unit to take a sample of a generator output and compare
+that sample to a known reference. If the generator’s output
+B
+Generator control
+
++
+
+Shunt field
+
+Load
+
+−
+
+Theory of Generator Control
+All aircraft are designed to operate within a specific voltage
+range (for example 13.5–14.5 volts). And since aircraft
+operate at a variety of engine speeds (remember, the engine
+drives the generator) and with a variety of electrical demands,
+
+Figure 9-54. Regulation of generator voltage by field rheostat.
+
+9-33
+
+===== PDF PAGE 450 =====
+voltage falls outside of the set limits, then the regulation unit
+must provide an adjustment to the generator field current.
+Adjusting field current controls generator output.
+Overvoltage Protection
+The overvoltage protection system compares the sampled
+voltage to a reference voltage. The overvoltage protection
+circuit is used to open the relay that controls the field
+excitation current. It is typically found on more complex
+generator control systems.
+Parallel Generator Operations
+On multiengine aircraft, a paralleling feature must be
+employed to ensure all generators operate within limits. In
+general, paralleling systems compare the voltages between
+two or more generators and adjust the voltage regulation
+circuit accordingly.
+Overexcitation Protection
+When one generator in a paralleled system fails, one of the
+generators can become overexcited and tends to carry more
+than its share of the load, if not all of the loads. Basically,
+this condition causes the generator to produce too much
+current. If this condition is sensed, the overexcited generator
+must be brought back within limits, or damage occurs. The
+overexcitation circuit often works in conjunction with the
+overvoltage circuit to control the generator.
+Differential Voltage
+This function of a control system is designed to ensure all
+generator voltage values are within a close tolerance before
+being connected to the load bus. If the output is not within
+the specified tolerance, then the generator contactor is not
+allowed to connect the generator to the load bus.
+Reverse Current Sensing
+If the generator cannot maintain the required voltage level,
+it eventually begins to draw current instead of providing it.
+This situation occurs, for example, if a generator fails. When
+a generator fails, it becomes a load to the other operating
+generators or the battery. The defective generator must be
+removed from the bus. The reverse current sensing function
+monitors the system for a reverse current. Reverse current
+indicates that current is flowing to the generator not from
+the generator. If this occurs, the system opens the generator
+relay and disconnects the generator from the bus.
+
+Generator Controls for High-Output Generators
+Most modern high-output generators are found on turbinepowered corporate-type aircraft. These small business
+jets and turboprop aircraft employ a generator and starter
+combined into one unit. This unit is referred to as a starter-
+
+generator. A starter-generator has the advantage of combining
+two units into one housing, saving space and weight. Since
+the starter-generator performs two tasks, engine starting and
+generation of electrical power, the control system for this unit
+is relatively complex.
+A simple explanation of a starter-generator shows that the
+unit contains two sets of field windings. One field is used to
+start the engine and one used for the generation of electrical
+power. [Figure 9-55]
+During the start function, the GCU must energize the series
+field and the armature causes the unit to act like a motor.
+During the generating mode, the GCU must disconnect
+the series field, energize the parallel field, and control the
+current produced by the armature. At this time, the startergenerator acts like a typical generator. Of course, the GCU
+must perform all the functions described earlier to control
+voltage and protect the system. These functions include
+voltage regulation, reverse current sensing, differential
+voltage, overexcitation protection, overvoltage protection,
+and parallel generator operations. A typical GCU is shown
+in Figure 9-56.
+In general, modern GCUs for high-output generators employ
+solid-state electronic circuits to sense the operations of the
+generator or starter-generator. The circuitry then controls a
+series of relays and/or solenoids to connect and disconnect the
+unit to various distribution buses. One unit found in almost
+all voltage regulation circuitry is the zener diode. The zener
+diode is a voltage sensitive device that is used to monitor
+system voltage. The zener diode, connected in conjunction
+to the GCU circuitry, then controls the field current, which
+in turn controls the generator output.
+
+Generator Controls for Low-Output Generators
+A typical generator control circuit for low-output generators
+modifies current flow to the generator field to control
+
+Series field
+Armature
+
+Parallel
+(shunt) field
+
+LOAD
+
+Figure 9-55. Starter-generator.
+
+9-34
+
+===== PDF PAGE 451 =====
+leads. The voltage coil acts like an electromagnet that
+increases or decrease strength as generator output voltage
+changes. The magnetism of the voltage coil controls the
+pressure on the carbon stack. The pressure on the carbon
+stack controls the resistance of the carbon; the resistance of
+the carbon controls field current and the field current controls
+generator output.
+Carbon pile regulators require regular maintenance to ensure
+accurate voltage regulation; therefore, most have been
+replaced on aircraft with more modern systems.
+Three-Unit Regulators
+The three-unit regulator used with DC generator systems is
+made of three distinct units. Each of these units performs
+a specific function vital to correct electrical system
+operation. A typical three-unit regulator consists of three
+relays mounted in a single housing. Each of the three relays
+monitors generator outputs and opens or closes the relay
+contact points according to system needs. A typical threeunit regulator is shown in Figure 9-59.
+Voltage Regulator
+The voltage regulator section of the three-unit regulator
+is used to control generator output voltage. The voltage
+Figure 9-56. Generator control unit (GCU).
+Generator output to electrical loads
+
+generator output power. As flight variables and electrical
+loads change, the GCU must monitor the electrical system and
+make the appropriate adjustments to ensure proper system
+voltage and current. The typical generator control is referred
+to as a voltage regulator or a GCU.
+Since most low-output generators are found on older aircraft,
+the control systems for these systems are electromechanical
+devices. (Solid-state units are found on more modern aircraft
+that employ DC alternators and not DC generators.) The
+two most common types of voltage regulator are the carbon
+pile regulator and the three-unit regulator. Each of these
+units controls field current using a type of variable resistor.
+Controlling field current then controls generator output. A
+simplified generator control circuit is shown in Figure 9-57.
+Carbon Pile Regulators
+The carbon pile regulator controls DC generator output by
+sending the field current through a stack of carbon discs (the
+carbon pile). The carbon discs are in series with the generator
+field. If the resistance of the discs increases, the field
+current decreases and the generator output goes down. If the
+resistance of the discs decreases, the field current increases
+and generator output goes up. As seen in Figure 9-58, a
+voltage coil is installed in parallel with the generator output
+
+Generator
+control
+
+Field circuit
+
+Armature
+
+Field winding
+
+Figure 9-57. Voltage regulator for low-output generator.
+
+Voltage coil
+Armature
+
+Field
+
+Carbon stack
+
+Figure 9-58. Carbon pile regulator.
+
+9-35
+
+===== PDF PAGE 452 =====
+normal system operation, the points are opening and closing
+at regular intervals. The points are in effect vibrating. This
+type of regulator is sometimes referred to as a vibratingtype regulator. As the points vibrate, the field current raises
+and lowers and the field magnetism averages to a level that
+maintains the correct generator output voltage. If the system
+requires more generator output, the points remain closed
+longer and vice versa.
+
+Figure 9-59. The three relays found on this regulator are used to
+
+regulate voltage, limit current, and prevent reverse current flow.
+
+To electrical loads
+Field circuit
+
+Armature
+
+Field current
+
+Voltage coil
+Contact points
+
+Resistance
+
+DC generator
+
+Voltage regulator
+
+Figure 9-60. Voltage regulator.
+
+regulator monitors generator output and controls the
+generator field current as needed. If the regulator senses
+that system voltage is too high, the relay points open and the
+current in the field circuit must travel through a resistor. This
+resistor lowers field current and therefore lowers generator
+output. Remember, generator output goes down whenever
+generator field current goes down.
+As seen in Figure 9-60, the voltage coil is connected in parallel
+with the generator output, and it therefore measures the
+voltage of the system. If voltage gets beyond a predetermined
+limit, the voltage coil becomes a strong magnet and opens the
+contact points. If the contact points are open, field current
+must travel through a resistor and therefore field current goes
+down. The dotted arrow shows the current flow through the
+voltage regulator when the relay points are open.
+Since this voltage regulator has only two positions (points
+open and points closed), the unit must constantly be in
+adjustment to maintain accurate voltage control. During
+
+Current Limiter
+The current limiter section of the three-unit regulator is
+designed to limit generator output current. This unit contains
+a relay with a coil wired in series with respect to the generator
+output. As seen in Figure 9-61, all the generator output
+current must travel through the current coil of the relay. This
+creates a relay that is sensitive to the current output of the
+generator. That is, if generator output current increases, the
+relay points open and vice versa. The dotted line shows the
+current flow to the generator field when the current limiter
+points are open. It should be noted that, unlike the voltage
+regulator relay, the current limiter is typically closed during
+normal flight. Only during extreme current loads must the
+current limiter points open; at that time, field current is
+lowered and generator output is kept within limits.
+Reverse-Current Relay
+The third unit of a three-unit regulator is used to prevent
+current from leaving the battery and feeding the generator.
+This type of current flow would discharge the battery and is
+opposite of normal operation. It can be thought of as a reverse
+current situation and is known as reverse-current relay. The
+simple reverse-current relay shown in Figure 9-62 contains
+both a voltage coil and a current coil.
+The voltage coil is wired in parallel to the generator output
+and is energized any time the generator output reaches its
+To electrical loads
+
+Field circuit
+
+Current
+coil
+
+Contact
+points (NC)
+
+Armature
+
+DC generator
+
+Current limiter
+
+Figure 9-61. Current limiter.
+
+9-36
+
+===== PDF PAGE 453 =====
+To electrical loads
+Contact points (N.O.)
+
+Current coil
+
+Voltage
+regulator
+and current
+limiter
+
+Armature
+
+DC generator
+
+Voltage coil
+
+Reverse-current relay
+
+Figure 9-62. Reverse-current relay.
+
+operational voltage. As the voltage coil is energized, the
+contact points close and the current is then allowed to flow
+to the aircraft electrical loads, as shown by the dotted lines.
+The diagram shows the reverse current relay in its normal
+operating position; the points are closed and current is
+flowing from the generator to the aircraft electrical loads.
+As current flows to the loads, the current coil is energized
+and the points remain closed. If there is no generator output
+due to a system failure, the contact points open because
+magnetism in the relay is lost. With the contact points open,
+the generator is automatically disconnected from the aircraft
+electrical system, which prevents reverse flow from the load
+bus to the generator. A typical three-unit regulator for aircraft
+generators is shown in Figure 9-63.
+
+As seen in Figure 9-63, all three units of the regulator work
+together to control generator output. The regulator monitors
+generator output and controls power to the aircraft loads as
+needed for flight variables. Note that the vibrating regulator
+just described was simplified for explanation purposes.
+A typical vibrating regulator found on an aircraft would
+probably be more complex.
+DC Alternators & Controls
+DC alternators (like generators) change mechanical energy
+into electrical energy by the process of electromagnetic
+induction. In general, DC alternators are lighter and more
+efficient than DC generators. DC alternators and their related
+controls are found on modern, light, piston-engine aircraft.
+The alternator is mounted in the engine compartment driven
+by a v-belt, or drive gear mechanism, which receives power
+from the aircraft engine. [Figure 9-64] The control system
+of a DC alternator is used to automatically regulate alternator
+output power and ensure the correct system voltage for
+various flight parameters.
+
+DC Alternators
+DC alternators contain two major components: the armature
+winding and the field winding. The field winding (which
+produces a magnetic field) rotates inside the armature and,
+using the process of electromagnetic induction, the armature
+produces a voltage. This voltage produced by the armature
+is fed to the aircraft electrical bus and produces a current to
+power the electrical loads. Figure 9-65 shows a basic diagram
+of a typical alternator.
+
+Reverse current relay
+
+A
+
+Armature
+
++
+−
+
+DC generator
+
+Voltage regulator
+
+Current limiter
+Three-unit regulator
+
+Figure 9-63. Three-unit regulator for variable speed generators.
+
+9-37
+

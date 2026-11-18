@@ -1,0 +1,1806 @@
+FAA-H-8083-31B Airframe Handbook, chapter 2 (Aerodynamics, Aircraft Assembly, & Rigging), PDF pages 89-106
+
+===== PDF PAGE 89 =====
+For forward flight, the tip-path plane is tilted forward, thus
+tilting the total lift-thrust force forward from the vertical. This
+resultant lift-thrust force can be resolved into two components:
+lift acting vertically upward and thrust acting horizontally in
+the direction of flight. In addition to lift and thrust, there is
+weight, the downward acting force, and drag, the rearward
+acting or retarding force of inertia and wind resistance.
+In straight-and-level, unaccelerated forward flight, lift equals
+weight and thrust equals drag. (Straight-and-level flight is
+flight with a constant heading and at a constant altitude.)
+If lift exceeds weight, the helicopter climbs; if lift is less
+than weight, the helicopter descends. If thrust exceeds drag,
+the helicopter increases speed; if thrust is less than drag, it
+decreases speed.
+In sideward flight, the tip-path plane is tilted sideward in the
+direction that flight is desired, thus tilting the total lift-thrust
+vector sideward. In this case, the vertical or lift component
+is still straight up, weight straight down, but the horizontal
+or thrust component now acts sideward with drag acting to
+the opposite side.
+For rearward flight, the tip-path plane is tilted rearward and
+tilts the lift-thrust vector rearward. The thrust is then rearward
+and the drag component is forward, opposite that for forward
+flight. The lift component in rearward flight is straight up;
+weight, straight down.
+
+Torque Compensation
+Newton’s third law of motion states “To every action there
+is an equal and opposite reaction.” As the main rotor of a
+helicopter turns in one direction, the fuselage tends to rotate
+in the opposite direction. This tendency for the fuselage to
+rotate is called torque. Since torque effect on the fuselage is
+a direct result of engine power supplied to the main rotor,
+any change in engine power brings about a corresponding
+change in torque effect. The greater the engine power, the
+greater the torque effect. Since there is no engine power
+being supplied to the main rotor during autorotation, there
+is no torque reaction during autorotation.
+The force that compensates for torque and provides for
+directional control can be produced by various means. The
+defining factor is dictated by the design of the helicopter,
+some of which do not have a torque issue. Single main
+rotor designs typically have an auxiliary rotor located on
+the end of the tail boom. This auxiliary rotor, generally
+referred to as a tail rotor, produces thrust in the direction
+opposite the torque reaction developed by the main rotor.
+[Figure 2-25] Foot pedals in the flight deck permit the pilot to
+increase or decrease tail rotor thrust, as needed, to neutralize
+torque effect.
+Other methods of compensating for torque and providing
+directional control include the Fenestron® tail rotor system,
+an SUD Aviation design that employs a ducted fan enclosed
+by a shroud. Another design, called NOTAR®, a McDonnell
+Douglas design with no tail rotor, employs air directed
+through a series of slots in the tail boom, with the balance
+
+Figure 2-28. Aerospatiale Fenestron tail rotor system (left) and the McDonnell Douglas NOTAR® System (right).
+
+2-18
+
+===== PDF PAGE 90 =====
+Axis
+
+New axis
+
+Old axis
+
+Gyro tips down here
+
+Gyro tips up here
+
+90
+
+Upward force applied here
+
+Reaction occurs here
+
+Figure 2-29. Gyroscopic precession principle.
+
+exiting through a 90° duct located at the rear of the tail boom.
+[Figure 2-28]
+Gyroscopic Forces
+The spinning main rotor of a helicopter acts like a gyroscope.
+As such, it has the properties of gyroscopic action, one of
+which is precession. Gyroscopic precession is the resultant
+action or deflection of a spinning object when a force is
+applied to this object. This action occurs approximately 90°
+in the direction of rotation from the point where the force
+is applied. [Figure 2-29] Through the use of this principle,
+the tip-path plane of the main rotor may be tilted from the
+horizontal.
+Examine a two-bladed rotor system to see how gyroscopic
+precession affects the movement of the tip-path plane. Moving
+the cyclic pitch control increases the AOA of one rotor blade
+with the result that a greater lifting force is applied at that
+point in the plane of rotation. This same control movement
+simultaneously decreases the AOA of the other blade the same
+amount, thus decreasing the lifting force applied at that point
+in the plane of rotation. The blade with the increased AOA
+tends to flap up; the blade with the decreased AOA tends to
+flap down. Because the rotor disc acts like a gyro, the blades
+reach maximum deflection at a point approximately 90°
+later in the plane of rotation. As shown in Figure 2-30, the
+retreating blade AOA is increased and the advancing blade
+AOA is decreased resulting in a tipping forward of the tip-path
+plane, since maximum deflection takes place 90° later when
+the blades are at the rear and front, respectively. In a rotor
+system using three or more blades, the movement of the cyclic
+pitch control changes the AOA of each blade an appropriate
+amount so that the end result is the same.
+
+The movement of the cyclic pitch control in a two-bladed
+rotor system increases the AOA of one rotor blade with
+the result that a greater lifting force is applied at this point
+in the plane of rotation. This same control movement
+simultaneously decreases the AOA of the other blade a like
+amount, thus decreasing the lifting force applied at this point
+in the plane of rotation. The blade with the increased AOA
+tends to rise; the blade with the decreased AOA tends to
+lower. However, gyroscopic precession prevents the blades
+from rising or lowering to maximum deflection until a point
+approximately 90° later in the plane of rotation.
+In a three-bladed rotor, the movement of the cyclic pitch
+control changes the AOA of each blade an appropriate
+amount so that the end result is the same, a tipping forward
+of the tip-path plane when the maximum change in AOA
+is made as each blade passes the same points at which the
+maximum increase and decrease are made for the twobladed rotor as shown in Figure 2-30. As each blade passes
+the 90° position on the left, the maximum increase in AOA
+occurs. As each blade passes the 90° position to the right,
+the maximum decrease in AOA occurs. Maximum deflection
+takes place 90° later, maximum upward deflection at the rear
+and maximum downward deflection at the front; the tip-path
+plane tips forward.
+
+Helicopter Flight Conditions
+Hovering Flight
+During hovering flight, a helicopter maintains a constant
+position over a selected point, usually a few feet above the
+ground. For a helicopter to hover, the lift and thrust produced
+by the rotor system act straight up and must equal the weight
+2-19
+
+===== PDF PAGE 91 =====
+Low pitch applied
+
+High flap result
+
+Blade rotation
+
+Blade rotation
+
+Low flap result
+
+High pitch applied
+
+Figure 2-30. Gyroscopic precession.
+
+and drag, which act straight down. [Figure 2-31] While
+hovering, the amount of main rotor thrust can be changed
+to maintain the desired hovering altitude. This is done by
+changing the angle of incidence (by moving the collective) of
+the rotor blades and hence the AOA of the main rotor blades.
+Changing the AOA changes the drag on the rotor blades, and
+the power delivered by the engine must change as well to
+keep the rotor speed constant.
+
+the engine turns the main rotor system in a counterclockwise
+direction, the helicopter fuselage tends to turn clockwise. The
+amount of torque is directly related to the amount of engine
+power being used to turn the main rotor system. Remember,
+as power changes, torque changes.
+
+The weight that must be supported is the total weight of the
+helicopter and its occupants. If the amount of lift is greater
+than the actual weight, the helicopter accelerates upwards
+until the lift force equals the weight gain altitude; if thrust is
+less than weight, the helicopter accelerates downward. When
+operating near the ground, the effect of the closeness to the
+ground changes this response.
+
+Thrust
+
+The drag of a hovering helicopter is mainly induced drag
+incurred while the blades are producing lift. There is,
+however, some profile drag on the blades as they rotate
+through the air. Throughout the rest of this discussion, the
+term drag includes both induced and profile drag.
+An important consequence of producing thrust is torque. As
+discussed earlier, Newton’s third law states that for every
+action there is an equal and opposite reaction. Therefore, as
+
+Lift
+
+Weight
+Drag
+
+Figure 2-31. To maintain a hover at a constant altitude, enough lift
+
+and thrust must be generated to equal the weight of the helicopter
+and the drag produced by the rotor blades.
+
+2-20
+
+===== PDF PAGE 92 =====
+To counteract this torque-induced turning tendency, an
+antitorque rotor or tail rotor is incorporated into most
+helicopter designs. A pilot can vary the amount of thrust
+produced by the tail rotor in relation to the amount of torque
+produced by the engine. As the engine supplies more power
+to the main rotor, the tail rotor must produce more thrust to
+overcome the increased torque effect. This is done through
+the use of antitorque pedals.
+
+Bla
+
+otation
+de r
+
+Tor
+
+qu
+e
+
+Drift
+
+Translating Tendency or Drift
+
+•
+
+The main transmission is mounted at a slight angle to
+the left (when viewed from behind) so that the rotor
+mast has a built-in tilt to oppose the tail rotor thrust.
+
+•
+
+Flight controls can be rigged so that the rotor disc is
+tilted to the right slightly when the cyclic is centered.
+Whichever method is used, the tip-path plane is tilted
+slightly to the left in the hover.
+
+•
+
+•
+
+If the transmission is mounted so that the rotor shaft
+is vertical with respect to the fuselage, the helicopter
+“hangs” left skid low in the hover. The opposite is true
+for rotor systems turning clockwise when viewed from
+above.
+In forward flight, the tail rotor continues to push to
+the right, and the helicopter makes a small angle with
+the wind when the rotors are level and the slip ball is
+in the middle. This is called inherent sideslip.
+
+Ground Effect
+When hovering near the ground, a phenomenon known
+as ground effect takes place. This effect usually occurs at
+heights between the surface and approximately one rotor
+diameter above the surface. The friction of the ground
+causes the downwash from the rotor to move outwards from
+the helicopter. This changes the relative direction of the
+downwash from a purely vertical motion to a combination
+of vertical and horizontal motion. As the induced airflow
+through the rotor disc is reduced by the surface friction, the
+lift vector increases. This allows a lower rotor blade angle for
+the same amount of lift, which reduces induced drag. Ground
+effect also restricts the generation of blade tip vortices due to
+the downward and outward airflow making a larger portion
+of the blade produce lift. When the helicopter gains altitude
+vertically, with no forward airspeed, induced airflow is no
+longer restricted, and the blade tip vortices increase with
+the decrease in outward airflow. As a result, drag increases
+
+qu
+e
+
+To counteract this drift, one or more of the following features
+may be used. All examples are for a counterclockwise rotating
+main rotor system.
+
+Tail rotor
+downwash
+
+Tor
+
+During hovering flight, a single main rotor helicopter tends to
+drift or move in the direction of tail rotor thrust. This drifting
+tendency is called translating tendency. [Figure 2-32]
+
+ti
+Blade rota
+
+on
+
+Tail rotor thrust
+
+Figure 2-32. A tail rotor is designed to produce thrust in a direction
+opposite torque. The thrust produced by the tail rotor is sufficient
+to move the helicopter laterally.
+
+which means a higher pitch angle, and more power is needed
+to move the air down through the rotor.
+Ground effect is at its maximum in a no-wind condition over
+a firm, smooth surface. Tall grass, rough terrain, and water
+surfaces alter the airflow pattern, causing an increase in rotor
+tip vortices. [Figure 2-33]
+
+Coriolis Effect (Law of Conservation of Angular
+Momentum)
+The Coriolis effect is also referred to as the law of
+conservation of angular momentum. It states that the value
+of angular momentum of a rotating body does not change
+unless an external force is applied. In other words, a rotating
+body continues to rotate with the same rotational velocity
+until some external force is applied to change the speed of
+rotation. Angular momentum is moment of inertia (mass
+times distance from the center of rotation squared) multiplied
+by speed of rotation. Changes in angular velocity, known as
+angular acceleration and deceleration, take place as the mass
+of a rotating body is moved closer to or further away from
+the axis of rotation. The speed of the rotating mass increases
+or decreases in proportion to the square of the radius. An
+excellent example of this principle is a spinning ice skater.
+The skater begins rotation on one foot, with the other leg
+and both arms extended. The rotation of the skater’s body is
+relatively slow. When a skater draws both arms and one leg
+inward, the moment of inertia (mass times radius squared)
+becomes much smaller and the body is rotating almost faster
+than the eye can follow. Because the angular momentum
+must remain constant (no external force applied), the angular
+velocity must increase. The rotor blade rotating about the
+rotor hub possesses angular momentum. As the rotor begins
+2-21
+
+===== PDF PAGE 93 =====
+to cone due to G-loading maneuvers, the diameter or the
+disc shrinks. Due to conservation of angular momentum,
+the blades continue to travel the same speed even though
+Thrust
+the blade tips have a shorter distance to travel due to
+Vertical ascent
+reduced disc diameter. The action results in an increase in
+Lift
+rotor rpm. Most pilots arrest this increase with an increase
+in collective pitch. Conversely, as G-loading subsides and
+the rotor disc flattens out from the loss of G-load induced
+coning, the blade tips now have a longer distance to travel
+at the same tip speed. This action results in a reduction of
+rotor rpm. However, if this drop in the rotor rpm continues
+to the point at which it attempts to decrease below normal
+Weight
+operating rpm, the engine control system adds more fuel/
+power to maintain the specified engine rpm. If the pilot
+Drag
+does not reduce collective pitch as the disc unloads, the
+combination of engine compensation for the rpm slow down
+and the additional pitch as G-loading increases may result
+in exceeding the torque limitations or power the engines Figure 2-34. To ascend vertically, more lift and thrust must be
+generated to overcome the forces of weight and drag.
+can produce.
+Vertical Flight
+Hovering is actually an element of vertical flight. Increasing
+the AOA of the rotor blades (pitch) while keeping their
+rotation speed constant generates additional lift and the
+helicopter ascends. Decreasing the pitch causes the helicopter
+to descend. In a no wind condition, when lift and thrust are
+less than weight and drag, the helicopter descends vertically.
+If lift and thrust are greater than weight and drag, the
+helicopter ascends vertically. [Figure 2-34]
+Forward Flight
+In steady forward flight with no change in airspeed or vertical
+speed, the four forces of lift, thrust, drag, and weight must
+be in balance. Once the tip-path plane is tilted forward, the
+total lift-thrust force is also tilted forward. This resultant
+
+lift-thrust force can be resolved into two components—lift
+acting vertically upward and thrust acting horizontally in the
+direction of flight. In addition to lift and thrust, there is weight
+(the downward acting force) and drag (the force opposing the
+motion of an airfoil through the air). [Figure 2-35]
+In straight-and-level (constant heading and at a constant
+altitude), unaccelerated forward flight, lift equals weight
+and thrust equals drag. If lift exceeds weight, the helicopter
+accelerates vertically until the forces are in balance; if thrust
+is less than drag, the helicopter slows until the forces are in
+balance. As the helicopter moves forward, it begins to lose
+altitude because lift is lost as thrust is diverted forward.
+However, as the helicopter begins to accelerate, the rotor
+system becomes more efficient due to the increased airflow.
+The result is excess power over that which is required to
+
+Out of Ground Effect (OGE)
+
+In Ground Effect (IGE)
+Large blade tip vortex
+
+No
+wind
+hover
+
+Blade tip vortex
+
+Downwash pattern
+equidistant 360°
+Figure 2-33. Air circulation patterns change when hovering out of ground effect (OGE) and when hovering in ground effect (IGE).
+
+2-22
+
+===== PDF PAGE 94 =====
+Resultant
+
+800
+
+Drag
+Helicopter movement
+
+Weight
+
+flight and a stabilized airspeed.
+
+hover. Continued acceleration causes an even larger increase
+in airflow through the rotor disc and more excess power. In
+order to maintain unaccelerated flight, the pilot must not
+make any changes in power or in cyclic movement. Any
+such changes would cause the helicopter to climb or descend.
+Once straight-and-level flight is obtained, the pilot should
+make note of the power (torque setting) required and not
+make major adjustments to the flight controls. [Figure 2-36]
+
+Translational Lift
+Improved rotor efficiency resulting from directional flight is
+called translational lift. The efficiency of the hovering rotor
+system is greatly improved with each knot of incoming wind
+gained by horizontal movement of the aircraft or surface
+wind. As incoming wind produced by aircraft movement or
+surface wind enters the rotor system, turbulence and vortices
+are left behind and the flow of air becomes more horizontal.
+In addition, the tail rotor becomes more aerodynamically
+efficient during the transition from hover to forward flight.
+Translational thrust occurs when the tail rotor becomes more
+aerodynamically efficient during the transition from hover
+to forward flight. As the tail rotor works in progressively
+less turbulent air, this improved efficiency produces more
+antitorque thrust, causing the nose of the aircraft to yaw left
+(with a main rotor turning counterclockwise) and forces the
+pilot to apply right pedal (decreasing the AOA in the tail
+rotor blades) in response. In addition, during this period, the
+airflow affects the horizontal components of the stabilizer
+found on most helicopters which tends to bring the nose
+of the helicopter to a more level attitude. Figure 2-37 and
+Figure 2-38 show airflow patterns at different speeds and
+how airflow affects the efficiency of the tail rotor.
+
+GE
+
+w
+Po
+
+400
+
+200
+
+Resultant
+Figure 2-35. The power required to maintain a straight-and-level
+
+A
+
+C
+
+B
+
+er
+
+Thrust
+
+Power required (horsepower)
+
+600
+
+rO
+
+Increasing power for
+decreasing airspeed
+
+re
+qu
+ire
+dt
+oh
+ove
+
+Lift
+
+Maximum continuous power available
+
+0
+20
+
+Minimum power
+for level flight (VY)
+
+40
+
+60
+
+Increasing power for
+decreasing airspeed
+
+Maximum
+continuous
+level
+(horizontal)
+flight
+airspeed (VH)
+
+80
+
+100
+
+120
+
+Indicated airspeed (knots)
+Figure 2-36. Changing force vectors results in aircraft movement.
+
+Effective Translational Lift (ETL)
+While transitioning to forward flight at about 16–24 knots,
+the helicopter experiences effective translational lift (ETL).
+As mentioned earlier in the discussion on translational lift,
+the rotor blades become more efficient as forward airspeed
+increases. Between 16–24 knots, the rotor system completely
+outruns the recirculation of old vortices and begins to work
+in relatively undisturbed air. The flow of air through the
+rotor system is more horizontal, therefore induced flow
+and induced drag are reduced. The AOA is subsequently
+increased, which makes the rotor system operate more
+efficiently. This increased efficiency continues with increased
+airspeed until the best climb airspeed is reached, and total
+drag is at its lowest point.
+As speed increases, translational lift becomes more effective,
+the nose rises or pitches up, and the aircraft rolls to the right.
+The combined effects of dissymmetry of lift, gyroscopic
+precession, and transverse flow effect cause this tendency. It is
+important to understand these effects and anticipate correcting
+for them. Once the helicopter is transitioning through ETL,
+the pilot needs to apply forward and left lateral cyclic input to
+maintain a constant rotor-disc attitude. [Figure 2-39]
+
+Dissymmetry of Lift
+Dissymmetry of lift is the differential (unequal) lift between
+advancing and retreating halves of the rotor disc caused by the
+different wind flow velocity across each half. This difference
+in lift would cause the helicopter to be uncontrollable in any
+situation other than hovering in a calm wind. There must
+2-23
+
+===== PDF PAGE 95 =====
+1–5 knots
+
+ty
+eloci
+ard v
+w
+n
+w
+Do
+
+r
+of ai
+
+e
+m ol
+
+su
+c u le
+
+sed
+
+by aft secti
+
+on of ro
+to
+
+r
+
+Figure 2-37. The airflow pattern for 1–5 knots of forward airspeed. Note how the downwind vortex is beginning to dissipate and induced
+flow down through the rear of the rotor system is more horizontal.
+
+Airflow pattern just prior to effective translational lift
+
+10–15 knots
+
+Figure 2-38. An airflow pattern at a speed of 10–15 knots. At this increased airspeed, the airflow continues to become more horizontal.
+
+The leading edge of the downwash pattern is being overrun and is well back under the nose of the helicopter.
+
+be a means of compensating, correcting, or eliminating this
+unequal lift to attain symmetry of lift.
+More horizontal
+flow of air
+
+No recirculation
+of air
+
+16–24 knots
+
+Reduced induced flow
+increases angle of attack
+
+Tail rotor operates in
+relatively clean air
+
+Figure 2-39. Effective translational lift is easily recognized in actual
+
+flight by a transient induced aerodynamic vibration and increased
+performance of the helicopter.
+
+When the helicopter moves through the air, the relative airflow
+through the main rotor disc is different on the advancing side
+than on the retreating side. The relative wind encountered
+by the advancing blade is increased by the forward speed
+of the helicopter; while the relative windspeed acting on
+the retreating blade is reduced by the helicopter’s forward
+airspeed. Therefore, as a result of the relative windspeed,
+the advancing blade side of the rotor disc produces more lift
+than the retreating blade side. [Figure 2-40]
+If this condition was allowed to exist, a helicopter with a
+counterclockwise main rotor blade rotation would roll to the
+left because of the difference in lift. In reality, the main rotor
+blades flap and feather automatically to equalize lift across
+the rotor disc. Articulated rotor systems, usually with three or
+2-24
+
+===== PDF PAGE 96 =====
+Direction of Flight
+
+Advancing Side
+
+tion
+
+Blade tip
+speed
+minus
+helicopter
+speed
+(200 knots)
+
+Blade tip
+speed
+plus
+helicopter
+speed
+(400 knots)
+
+Relative wind
+
+a
+rot
+de
+
+io
+at
+rot
+
+n
+
+Relative wind
+
+Bl
+a
+
+Retreating Side
+
+As the rotor blade reaches the advancing side of the rotor
+disc, it reaches its maximum upward flapping velocity.
+[Figure 2-41A] When the blade flaps upward, the angle
+between the chord line and the resultant relative wind
+decreases. This decreases the AOA, which reduces the
+amount of lift produced by the blade. At position C, the rotor
+blade is at its maximum downward flapping velocity. Due
+to downward flapping, the angle between the chord line and
+the resultant relative wind increases. This increases the AOA
+and thus the amount of lift produced by the blade.
+
+Blade
+
+The combination of blade flapping and slow relative wind
+acting on the retreating blade normally limits the maximum
+forward speed of a helicopter. At a high forward speed, the
+retreating blade stalls due to high AOA and slow relative
+wind speed. This situation is called “retreating blade
+stall” and is evidenced by a nose-up pitch, vibration, and
+a rolling tendency—usually to the left in helicopters with
+counterclockwise blade rotation. Pilots can avoid retreating
+blade stall by not exceeding the never-exceed speed. This
+speed is designated VNE and is indicated on a placard and
+marked on the airspeed indicator by a red line.
+
+Forward flight at 100 knots
+Figure 2-40. The blade tip speed of this helicopter is approximately
+300 knots. If the helicopter is moving forward at 100 knots, the
+relative windspeed on the advancing side is 400 knots. On the
+retreating side, it is only 200 knots. This difference in speed causes
+a dissymmetry of lift.
+
+more blades, incorporate a horizontal hinge (flapping hinge)
+to allow the individual rotor blades to move, or flap up and
+down as they rotate. A semirigid rotor system (two blades)
+utilizes a teetering hinge, which allows the blades to flap as
+a unit. When one blade flaps up, the other blade flaps down.
+
+During aerodynamic flapping of the rotor blades as they
+
+B Angle of attack over nose
+Chord
+
+line
+
+Bl
+a
+
+Resultant relative wind
+
+C Angle of attack at 9 o’clock position
+Chord
+
+de
+
+n
+atio B
+rot
+A Angle of attack at 3 o’clock position
+Chord
+
+line
+
+C
+
+Downflap velocity
+
+Resultant relative
+
+A
+
+wind
+
+line
+
+Resultant relati
+
+ve wind
+
+Upflap velocity
+
+D
+
+D Angle of attack over tail
+Chord
+
+line
+
+Relative wind
+Angle of attack
+
+Resultant relative wind
+
+Figure 2-41. The combined upward flapping (reduced lift) of the advancing blade and downward flapping (increased lift) of the retreating
+blade equalizes lift across the main rotor disc counteracting dissymmetry of lift.
+
+2-25
+
+===== PDF PAGE 97 =====
+compensate for dissymmetry of lift, the advancing blade
+achieves maximum upward flapping displacement over the
+nose and maximum downward flapping displacement over
+the tail. This causes the tip-path plane to tilt to the rear and
+is referred to as blowback. Figure 2-42 shows how the rotor
+disc is originally oriented with the front down following
+the initial cyclic input. As airspeed is gained and flapping
+eliminates dissymmetry of lift, the front of the disc comes
+up, and the back of the disc goes down. This reorientation
+of the rotor disc changes the direction in which total rotor
+thrust acts; the helicopter’s forward speed slows, but can be
+corrected with cyclic input. The pilot uses cyclic feathering to
+compensate for dissymmetry of lift allowing them to control
+the attitude of the rotor disc.
+Cyclic feathering compensates for dissymmetry of lift
+(changes the AOA) in the following way. At a hover, equal
+lift is produced around the rotor system with equal pitch and
+AOA on all the blades and at all points in the rotor system
+(disregarding compensation for translating tendency). The
+rotor disc is parallel to the horizon. To develop a thrust force,
+
+the rotor system must be tilted in the desired direction of
+movement. Cyclic feathering changes the angle of incidence
+differentially around the rotor system. Forward cyclic
+movements decrease the angle of incidence at one part on
+the rotor system while increasing the angle at another part.
+Maximum downward flapping of the blade over the nose and
+maximum upward flapping over the tail tilt both rotor disc and
+thrust vector forward. To prevent blowback from occurring,
+the pilot must continually move the cyclic forward as the
+velocity of the helicopter increases. Figure 2-42 illustrates
+the changes in pitch angle as the cyclic is moved forward at
+increased airspeeds. At a hover, the cyclic is centered and
+the pitch angle on the advancing and retreating blades is the
+same. At low forward speeds, moving the cyclic forward
+reduces pitch angle on the advancing blade and increases
+pitch angle on the retreating blade. This causes a slight
+rotor tilt. At higher forward speeds, the pilot must continue
+to move the cyclic forward. This further reduces pitch angle
+on the advancing blade and further increases pitch angle on
+the retreating blade. As a result, there is even more tilt to the
+rotor than at lower speeds.
+This horizontal lift component (thrust) generates higher
+helicopter airspeed. The higher airspeed induces blade
+flapping to maintain symmetry of lift. The combination of
+flapping and cyclic feathering maintains symmetry of lift and
+desired attitude on the rotor system and helicopter.
+
+Normal Powered Flight
+
+Autorotation
+
+flig
+
+ht
+
+Figure 2-42. To compensate for blowback, move the cyclic forward.
+Blowback is more pronounced with higher airspeeds.
+
+Autorotation
+Autorotation is the state of flight in which the main rotor system
+of a helicopter is being turned by the action of air moving up
+through the rotor rather than engine power driving the rotor.
+[Figure 2-43] In normal, powered flight, air is drawn into the
+main rotor system from above and exhausted downward, but
+during autorotation, air moves up into the rotor system from
+below as the helicopter descends. Autorotation is permitted
+
+Di
+
+re
+
+cti
+
+on
+
+of
+
+Direction of flight
+
+Figure 2-43. During an autorotation, the upward flow of relative wind permits the main rotor blades to rotate at their normal speed. In
+
+effect, the blades are “gliding” in their rotational plane.
+
+2-26
+
+===== PDF PAGE 98 =====
+Pitch link
+
+Stationary swash plate
+
+Rotating swash plate
+Control rod
+Figure 2-44. Stationary and rotating swash plate.
+
+mechanically by a freewheeling unit, which is a special clutch
+mechanism that allows the main rotor to continue turning even
+if the engine is not running. If the engine fails, the freewheeling
+unit automatically disengages the engine from the main rotor
+allowing the main rotor to rotate freely. It is the means by
+which a helicopter can be landed safely in the event of an
+engine failure; consequently, all helicopters must demonstrate
+this capability in order to be certificated.
+
+Rotorcraft Controls
+Swash Plate Assembly
+The purpose of the swash plate is to transmit control inputs
+from the collective and cyclic controls to the main rotor
+blades. It consists of two main parts: the stationary swash
+plate and the rotating swash plate. [Figure 2-44]
+
+The stationary swash plate is mounted around the main rotor
+mast and connected to the cyclic and collective controls
+by a series of pushrods. It is restrained from rotating by
+an antidrive link but is able to tilt in all directions and
+move vertically. The rotating swash plate is mounted to the
+stationary swash plate by a uniball sleeve. It is connected to
+the mast by drive links and is allowed to rotate with the main
+rotor mast. Both swash plates tilt and slide up and down as
+one unit. The rotating swash plate is connected to the pitch
+horns by the pitch links.
+There are three major controls in a helicopter that the pilot
+must use during flight. They are the collective pitch control,
+cyclic pitch control, and antitorque pedals or tail rotor control.
+In addition to these major controls, the pilot must also use the
+throttle control, which is mounted directly to the collective
+pitch control in order to fly the helicopter.
+Collective Pitch Control
+The collective pitch control is located on the left side of the
+pilot’s seat and is operated with the left hand. The collective
+is used to make changes to the pitch angle of all the main
+rotor blades simultaneously, or collectively, as the name
+implies. As the collective pitch control is raised, there is a
+simultaneous and equal increase in pitch angle of all main
+rotor blades; as it is lowered, there is a simultaneous and
+equal decrease in pitch angle. [Figure 2-45] This is done
+through a series of mechanical linkages, and the amount
+
+Figure 2-45. Raising the collective pitch control increases the pitch angle by the same amount on all blades.
+
+2-27
+
+===== PDF PAGE 99 =====
+of movement in the collective lever determines the amount
+of blade pitch change. An adjustable friction control helps
+prevent inadvertent collective pitch movement.
+Throttle Control
+The function of the throttle is to regulate engine rpm. If the
+correlator or governor system does not maintain the desired
+rpm when the collective is raised or lowered, or if those
+systems are not installed, the throttle must be moved manually
+with the twist grip to maintain rpm. The throttle control is
+much like a motorcycle throttle, and works almost the same
+way; twisting the throttle to the left increases rpm, twisting
+the throttle to the right decreases rpm. [Figure 2-46]
+Governor/Correlator
+A governor is a sensing device that senses rotor and engine rpm
+and makes the necessary adjustments in order to keep rotor rpm
+constant. Once the rotor rpm is set in normal operations, the
+governor keeps the rpm constant, and there is no need to make
+any throttle adjustments. Governors are common on all turbine
+helicopters (as it is a function of the fuel control system of the
+turbine engine), and used on some piston-powered helicopters.
+A correlator is a mechanical connection between the
+collective lever and the engine throttle. When the collective
+lever is raised, power is automatically increased and when
+lowered, power is decreased. This system maintains rpm
+close to the desired value, but still requires adjustment of
+the throttle for fine tuning.
+Some helicopters do not have correlators or governors and
+require coordination of all collective and throttle movements.
+When the collective is raised, the throttle must be increased;
+when the collective is lowered, the throttle must be decreased.
+As with any aircraft control, large adjustments of either
+collective pitch or throttle should be avoided. All corrections
+
+Twist grip throttle
+
+Figure 2-46. A twist grip throttle is usually mounted on the end of
+the collective lever. The throttles on some turbine helicopters are
+mounted on the overhead panel or on the floor in the flight deck.
+
+should be made with smooth pressure.
+In piston helicopters, the collective pitch is the primary
+control for manifold pressure, and the throttle is the primary
+control for rpm. However, the collective pitch control also
+influences rpm, and the throttle also influences manifold
+pressure; therefore, each is considered to be a secondary
+control of the other’s function. Both the tachometer (rpm
+indicator) and the manifold pressure gauge must be analyzed
+to determine which control to use. Figure 2-47 illustrates
+this relationship.
+Cyclic Pitch Control
+The cyclic pitch control is mounted vertically from the flight
+deck floor, between the pilot’s legs or, in some models,
+between the two pilot seats. [Figure 2-48] This primary flight
+control allows the pilot to fly the helicopter in any horizontal
+direction; fore, aft, and sideways. The total lift force is always
+perpendicular to the tip-path place of the main rotor. The
+purpose of the cyclic pitch control is to tilt the tip-path plane
+in the direction of the desired horizontal direction. The cyclic
+control changes the direction of this force and controls the
+attitude and airspeed of the helicopter.
+The rotor disc tilts in the same direction the cyclic pitch
+control is moved. If the cyclic is moved forward, the rotor
+disc tilts forward; if the cyclic is moved aft, the disc tilts
+aft, and so on. Because the rotor disc acts like a gyro, the
+mechanical linkages for the cyclic control rods are rigged
+in such a way that they decrease the pitch angle of the rotor
+blade approximately 90° before it reaches the direction of
+cyclic displacement, and increase the pitch angle of the
+rotor blade approximately 90° after it passes the direction of
+displacement. An increase in pitch angle increases AOA; a
+decrease in pitch angle decreases AOA. For example, if the
+cyclic is moved forward, the AOA decreases as the rotor blade
+passes the right side of the helicopter and increases on the left
+side. This results in maximum downward deflection of the
+If manifold
+pressure is
+
+and rpm is
+
+Solution
+
+LOW
+
+LOW
+
+Increasing the throttle increases
+manifold pressure and rpm
+
+HIGH
+
+LOW
+
+Lowering the collective pitch
+decreases manifold pressure
+and increases rpm
+
+LOW
+
+HIGH
+
+Raising the collective pitch
+increases manifold pressure and
+decreases rpm
+
+HIGH
+
+HIGH
+
+Reducing the throttle decreases
+manifold pressure and rpm
+
+Figure 2-47. Relationship between manifold pressure, rpm,
+collective, and throttle.
+
+2-28
+
+===== PDF PAGE 100 =====
+Cyclic pitch control
+
+Cyclic pitch control
+
+Figure 2-49. Antitorque pedals compensate for changes in torque
+and control heading in a hover.
+
+Figure 2-48. The cyclic pitch control may be mounted vertically
+
+between the pilot’s knees or on a teetering bar from a single cyclic
+located in the center of the helicopter. The cyclic can pivot in all
+directions.
+
+rotor blade in front of the helicopter and maximum upward
+deflection behind it, causing the rotor disc to tilt forward.
+Antitorque Pedals
+The antitorque pedals are located on the cabin floor by the
+pilot’s feet. They control the pitch and, therefore, the thrust of
+the tail rotor blades. [Figure 2-49] Newton’s third law applies
+to the helicopter fuselage and how it rotates in the opposite
+direction of the main rotor blades unless counteracted and
+controlled. To make flight possible and to compensate for this
+torque, most helicopter designs incorporate an antitorque rotor
+or tail rotor. The antitorque pedals allow the pilot to control
+the pitch angle of the tail rotor blades which in forward flight
+puts the helicopter in longitudinal trim and while at a hover,
+enables the pilot to turn the helicopter 360°. The antitorque
+pedals are connected to the pitch change mechanism on the
+tail rotor gearbox and allow the pitch angle on the tail rotor
+blades to be increased or decreased.
+Helicopters that are designed with tandem rotors do not have
+an antitorque rotor. These helicopters are designed with both
+rotor systems rotating in opposite directions to counteract the
+torque, rather than using a tail rotor. Directional antitorque
+pedals are used for directional control of the aircraft while in
+
+flight, as well as while taxiing with the forward gear off the
+ground. With the right pedal displaced forward, the forward
+rotor disc tilts to the right, while the aft rotor disc tilts to
+the left. The opposite occurs when the left pedal is pushed
+forward; the forward rotor disc inclines to the left, and the aft
+rotor disc tilts to the right. Differing combinations of pedal
+and cyclic application can allow the tandem rotor helicopter
+to pivot about the aft or forward vertical axis, as well as
+pivoting about the center of mass.
+
+Stabilizer Systems
+Bell Stabilizer Bar System
+Arthur M. Young discovered that stability could be increased
+significantly with the addition of a stabilizer bar perpendicular
+to the two blades. The stabilizer bar has weighted ends, which
+cause it to stay relatively stable in the plane of rotation. The
+stabilizer bar is linked with the swash plate in a manner that
+reduces the pitch rate. The two blades can flap as a unit and,
+therefore, do not require lag-lead hinges (the whole rotor slows
+down and accelerates per turn). Two-bladed systems require
+a single teetering hinge and two coning hinges to permit
+modest coning of the rotor disc as thrust is increased. The
+configuration is known under multiple names, including Hiller
+panels, Hiller system, Bell-Hiller system, and flybar system.
+Offset Flapping Hinge
+The offset flapping hinge is offset from the center of the rotor
+hub and can produce powerful moments useful for controlling
+the helicopter. The distance of the hinge from the hub (the
+offset) multiplied by the force produced at the hinge produces
+a moment at the hub. Obviously, the larger the offset, the
+greater the moment for the same force produced by the blade.
+The flapping motion is the result of the constantly changing
+2-29
+
+===== PDF PAGE 101 =====
+balance between lift, centrifugal, and inertial forces. This
+rising and falling of the blades is characteristic of most
+helicopters and has often been compared to the beating of
+a bird’s wing. The flapping hinge, together with the natural
+flexibility found in most blades, permits the blade to droop
+considerably when the helicopter is at rest and the rotor is not
+turning over. During flight, the necessary rigidity is provided
+by the powerful centrifugal force that results from the rotation
+of the blades. This force pulls outward from the tip, stiffening
+the blade, and is the only factor that keeps it from folding up.
+
+or lateral. A 1/rev is caused simply by one blade developing
+more lift at a given point than the other blade develops at
+the same point.
+
+Stability Augmentation Systems (SAS)
+Some helicopters incorporate stability augmentation systems
+(SAS) to help stabilize the helicopter in flight and in a hover.
+The simplest of these systems is a force trim system, which
+uses a magnetic clutch and springs to hold the cyclic control in
+the position at which it was released. More advanced systems
+use electric actuators that make inputs to the hydraulic servos.
+These servos receive control commands from a computer
+that senses helicopter attitude. Other inputs, such as heading,
+speed, altitude, and navigation information may be supplied
+to the computer to form a complete autopilot system. The
+SAS may be overridden or disconnected by the pilot at any
+time. SAS reduces pilot workload by improving basic aircraft
+control harmony and decreasing disturbances. These systems
+are very useful when the pilot is required to perform other
+duties, such as sling loading and search and rescue operations.
+
+High Frequency Vibration
+
+Helicopter Vibration
+The following paragraphs describe the various types of
+vibrations. Figure 2-50 shows the general levels into which
+frequencies are divided.
+
+Extreme Low Frequency Vibration
+Extreme low frequency vibration is pretty well limited to pylon
+rock. Pylon rocking (two to three cycles per second) is inherent
+with the rotor, mast, and transmission system. To keep the
+vibration from reaching noticeable levels, transmission mount
+dampening is incorporated to absorb the rocking.
+
+Medium Frequency Vibration
+Medium frequency vibration (4/rev and 6/rev) is another
+vibration inherent in most rotors. An increase in the level of
+these vibrations is caused by a change in the capability of the
+fuselage to absorb vibration, or a loose airframe component,
+such as the skids, vibrating at that frequency.
+
+High frequency vibrations can be caused by anything in the
+helicopter that rotates or vibrates at extremely high speeds.
+A high frequency vibration typically occurs when the tail
+rotor gears, tail drive shaft or the tail rotor engine, fan or
+shaft assembly vibrates or rotates at an equal or greater speed
+than the tail rotor.
+Rotor Blade Tracking
+Blade tracking is the process of determining the positions
+of the tips of the rotor blade relative to each other while the
+rotor head is turning, and of determining the corrections
+necessary to hold these positions within certain tolerances.
+The blades should all track one another as closely as possible.
+The purpose of blade tracking is to bring the tips of all blades
+into the same tip path throughout their entire cycle of rotation.
+Various methods of blade tracking are explained below.
+
+Flag & Pole
+The flag and pole method, as shown in Figure 2-51, shows
+the relative positions of the rotor blades. The blade tips are
+marked with chalk or a grease pencil. Each blade tip should
+be marked with a different color so that it is easy to determine
+the relationship of the other tips of the rotor blades to each
+other. This method can be used on all types of helicopters
+that do not have jet propulsion at the blade tips. Refer to
+the applicable maintenance manual for specific procedures.
+
+Electronic Blade Tracker
+
+Low Frequency Vibration
+Low frequency vibrations (1/rev and 2/rev) are caused by the
+rotor itself. 1/rev vibrations are of two basic types: vertical
+
+Helicopter Vibration Types
+Frequency Level
+
+Vibration
+
+Extreme low frequency
+Low frequency
+Medium frequency
+High frequency
+
+Less than 1/rev PYLON ROCK
+1/rev or 2/rev type vibration
+Generally 4, 5, or 6/rev
+Tail rotor speed or faster
+
+Figure 2-50. Various helicopter vibration types.
+
+The most common electronic blade tracker consists of
+a Balancer/Phazor, Strobex tracker, and Vibrex tester.
+[Figures 2-52 through 2-54] The Strobex blade tracker
+permits blade tracking from inside or outside the helicopter
+while on the ground or inside the helicopter in flight. The
+system uses a highly concentrated light beam flashing in
+sequence with the rotation of the main rotor blades so that a
+fixed target at the blade tips appears to be stopped. Each blade
+is identified by an elongated retroreflective number taped or
+attached to the underside of the blade in a uniform location.
+When viewed at an angle from inside the helicopter, the taped
+numbers will appear normal. Tracking can be accomplished
+with tracking tip cap reflectors and a strobe light. The tip
+2-30
+
+===== PDF PAGE 102 =====
+Curtain
+Curtain
+
+Blade
+
+7
+
+Leading edge
+
+0°
+
+80°
+to
+
+BLADE
+Pole
+Position of chalk mark (approximately 2 inches long)
+
+Pole
+
+Line parallel to longitudinal axis of helicopter
+
+Handle
+
+Curtain
+1/2" max spread (typical)
+
+Approximate position of chalk marks
+
+Pole
+Figure 2-51. Flag and pole blade tracking.
+
+Strobe flash tube
+
+RPM dial
+
+Meter
+A Channel B
+A
+
+B
+
+TRACK
+COMMON
+FUNCTION
+
+MAGNETIC
+PICKUP
+
+RPM
+
+Band-pass filter
+
+BALANCER
+
+STROBEX
+MODEL 135M-11
+
+MODEL 177M-6A
+RPM TONE
+X10
+X100
+
+X1
+
+PUSH FOR
+SCALE 2
+
+Phase meter
+
+RPM RANGE
+
+DOUBLE
+
+11
+
+TEST
+
+12
+
+1
+2
+
+10
+
+PHAZOR
+
+3
+
+9
+8
+
+4
+7
+
+Figure 2-52. Balancer/Phazor.
+
+6
+
+5
+
+Figure 2-53. Strobex tracker.
+
+2-31
+
+===== PDF PAGE 103 =====
+Interrupter plate
+
+Motor
+
+TES
+
+TER
+
+Figure 2-54. Vibrex tracker.
+
+caps are temporarily attached to the tip of each blade. The
+high-intensity strobe light flashes in time with the rotating
+blades. The strobe light operates from the aircraft electrical
+power supply. By observing the reflected tip cap image, it is
+possible to view the track of the rotating blades. Tracking is
+accomplished in a sequence of four separate steps: ground
+tracking, hover verification, forward flight tracking, and
+autorotation rpm adjustment.
+Tail Rotor Tracking
+The marking and electronic methods of tail rotor tracking
+are explained in the following paragraphs.
+
+Marking Method
+Procedures for tail rotor tracking using the marking method,
+as shown in Figure 2-55, are as follows:
+•
+
+•
+
+After replacement or installation of tail rotor hub,
+blades, or pitch change system, check tail rotor rigging
+and track tail rotor blades. Tail rotor tip clearance shall
+be set before tracking and checked again after tracking.
+The strobe-type tracking device may be used if
+available. Instructions for use are provided with the
+device. Attach a piece of soft rubber hose six inches
+long on the end of a ½ × ½ inch pine stick or other
+flexible device. Cover the rubber hose with Prussian
+blue or similar type of coloring thinned with oil.
+
+Note: Ground run-up shall be performed by authorized
+personnel only. Start engine in accordance with applicable
+
+Figure 2-55. Tail rotor tracking.
+
+maintenance manual. Run engine with pedals in neutral
+position. Reset marking device on underside of tail boom
+assembly. Slowly move marking device into disc of tail rotor
+approximately one inch from tip. When near blade is marked,
+stop engine and allow rotor to stop. Repeat this procedure
+until tracking mark crosses over to the other blade, then
+extend pitch control link of unmarked blade one half turn.
+
+Electronic Method
+The electronic Vibrex balancing and tracking kit is housed in
+a carrying case and consists of a Model 177M-6A Balancer,
+a Model 135M-11 Strobex, track and balance charts, an
+accelerometer, cables, and attaching brackets.
+The Vibrex balancing kit is used to measure and indicate the
+level of vibration induced by the main rotor and tail rotor of
+a helicopter. The Vibrex analyzes the vibration induced by
+out-of-track or out-of-balance rotors, and then by plotting
+vibration amplitude and clock angle on a chart the amount
+and location of rotor track or weight change is determined. In
+addition, the Vibrex is used in troubleshooting by measuring
+the vibration levels and frequencies or rpm of unknown
+disturbances.
+
+2-32
+
+===== PDF PAGE 104 =====
+Rotor Blade Preservation & Storage
+Accomplish the following requirements for rotor blade
+preservation and storage:
+•
+
+Condemn, demilitarize, and dispose of locally any
+blade which has incurred nonrepairable damage.
+
+•
+
+Tape all holes in the blade, such as tree damage, or
+foreign object damage (FOD) to protect the interior
+of the blade from moisture and corrosion.
+
+•
+
+Thoroughly remove foreign matter from the entire
+exterior surface of blade with mild soap and water.
+
+•
+
+Protect blade outboard eroded surfaces with a light
+coating of corrosion preventive or primer coating.
+
+•
+
+Protect blade main bolt hole bushing, drag brace
+retention bolt hole bushing, and any exposed bare
+metal (i.e., grip and drag pads) with a light coating of
+corrosion preventive.
+
+•
+
+Secure blade to shock-mounted support and secure
+container lid.
+
+•
+
+Place copy of manufacturer’s blade records, containing
+information required by Title 14 of the Code of Federal
+Regulations (14 CFR) section 91.417(a)(2)(ii), and
+any other blade records in a waterproof bag and insert
+into container record tube.
+
+•
+
+Obliterate old markings from the container that
+pertained to the original shipment or to the original
+item it contained. Annotate the blade model, part
+number (P/N) and serial number, as applicable, on
+the outside of the container.
+
+Helicopter Power Systems
+Powerplant
+The two most common types of engines used in helicopters
+are the reciprocating engine and the turbine engine.
+Reciprocating engines, also called piston engines, are
+generally used in smaller helicopters. Most training
+helicopters use reciprocating engines because they are
+relatively simple and inexpensive to operate. Turbine
+engines are more powerful and are used in a wide variety of
+helicopters. They produce a tremendous amount of power
+for their size but are generally more expensive to operate.
+Reciprocating Engine
+The reciprocating engine consists of a series of pistons
+connected to a rotating crankshaft. As the pistons move up
+and down, the crankshaft rotates. The reciprocating engine
+gets its name from the back-and-forth movement of its
+internal parts. The four-stroke engine is the most common
+type, and refers to the four different cycles the engine
+undergoes to produce power. [Figure 2-56]
+
+Intake valve
+
+Exhaust valve
+
+Spark plug
+
+Piston
+
+Crankshaft
+
+Connecting rod
+
+1. Intake
+
+2. Compression
+
+3. Power
+
+4. Exhaust
+
+Figure 2-56. The arrows indicate the direction of motion of the
+
+crankshaft and piston during the four-stroke cycle.
+
+When the piston moves away from the cylinder head on the
+intake stroke, the intake valve opens and a mixture of fuel
+and air is drawn into the combustion chamber. As the cylinder
+moves back toward the cylinder head, the intake valve closes,
+and the air-fuel mixture is compressed. When compression
+is nearly complete, the spark plugs fire and the compressed
+mixture is ignited to begin the power stroke. The rapidly
+expanding gases from the controlled burning of the air-fuel
+mixture drive the piston away from the cylinder head, thus
+providing power to rotate the crankshaft. The piston then
+moves back toward the cylinder head on the exhaust stroke
+where the burned gases are expelled through the opened
+exhaust valve. Even when the engine is operated at a fairly
+low speed, the four-stroke cycle takes place several hundred
+times each minute. In a four-cylinder engine, each cylinder
+operates on a different stroke. Continuous rotation of a
+crankshaft is maintained by the precise timing of the power
+strokes in each cylinder.
+
+2-33
+
+===== PDF PAGE 105 =====
+Turbine Engine
+The gas turbine engine mounted on most helicopters is
+made up of a compressor, combustion chamber, turbine,
+and accessory gearbox assembly. The compressor draws
+filtered air into the plenum chamber and compresses it. The
+compressed air is directed to the combustion section through
+discharge tubes where atomized fuel is injected into it. The
+air-fuel mixture is ignited and allowed to expand. This
+combustion gas is then forced through a series of turbine
+wheels causing them to turn. These turbine wheels provide
+power to both the engine compressor and the accessory
+gearbox. Power is provided to the main rotor and tail rotor
+systems through the freewheeling unit which is attached
+to the accessory gearbox power output gear shaft. The
+combustion gas is finally expelled through an exhaust outlet.
+[Figure 2-57]
+
+Transmission System
+The transmission system transfers power from the engine to
+the main rotor, tail rotor, and other accessories during normal
+flight conditions. The main components of the transmission
+system are the main rotor transmission, tail rotor drive
+system, clutch, and freewheeling unit. The freewheeling unit,
+or autorotative clutch, allows the main rotor transmission to
+drive the tail rotor drive shaft during autorotation. Helicopter
+transmissions are normally lubricated and cooled with their
+own oil supply. A sight gauge is provided to check the
+oil level. Some transmissions have chip detectors located
+in the sump. These detectors are wired to warning lights
+located on the pilot’s instrument panel that illuminate in the
+event of an internal problem. The chip detectors on modern
+
+Centrifugal Compression Section
+
+Gearbox
+Section
+
+Exhaust air outlet
+
+helicopters have a “burn off” capability and attempt to correct
+the situation without pilot action. If the problem cannot be
+corrected on its own, the pilot must refer to the emergency
+procedures for that particular helicopter.
+Main Rotor Transmission
+The primary purpose of the main rotor transmission is
+to reduce engine output rpm to optimum rotor rpm. This
+reduction is different for the various helicopters. As an
+example, suppose the engine rpm of a specific helicopter
+is 2,700. A rotor speed of 450 rpm would require a 6:1
+reduction. A 9:1 reduction would mean the rotor would turn
+at 300 rpm. Most helicopters use a dual-needle tachometer
+or a vertical scale instrument to show both engine and rotor
+rpm or a percentage of engine and rotor rpm. The rotor rpm
+indicator normally is used only during clutch engagement to
+monitor rotor acceleration, and in autorotation to maintain
+rpm within prescribed limits. [Figure 2-58]
+In helicopters with horizontally mounted engines, another
+purpose of the main rotor transmission is to change the axis of
+rotation from the horizontal axis of the engine to the vertical
+axis of the rotor shaft. [Figure 2-59]
+Clutch
+In a conventional airplane, the engine and propeller are
+directly connected. However, in a helicopter there is a
+different relationship between the engine and the rotor.
+Because of the greater weight of a rotor in relation to the
+power of the engine, as compared to the weight of a propeller
+and the power in an airplane, the rotor must be disconnected
+from the engine when the starter is engaged. A clutch allows
+
+Turbine Section
+N2 Rotor
+
+Stator
+
+Combustion Section
+N1 Rotor
+
+Compressor rotor
+
+Igniter plug
+Air inlet
+
+Fuel nozzle
+Inlet air
+Compressor discharge air
+Combustion gases
+Exhaust gases
+
+Gear
+Output Shaft
+
+Combustion liner
+
+Figure 2-57. Many helicopters use a turboshaft engine as shown above to drive the main transmission and rotor systems. The main
+difference between a turboshaft and a turbojet engine is that most of the energy produced by the expanding gases is used to drive a
+turbine rather than producing thrust through the expulsion of exhaust gases.
+
+2-34
+
+===== PDF PAGE 106 =====
+15
+
+20
+
+10
+1
+
+4
+
+30
+5
+
+RPM
+X100
+
+5
+
+35
+
+R
+
+0
+
+E
+
+25
+
+3
+
+2
+
+ROTOR
+
+110
+100
+90
+
+110
+100
+90
+
+80
+70
+60
+50
+
+80
+70
+60
+50
+
+40
+
+ENGINE
+
+R
+
+% RPM
+
+% RPM
+120
+110
+
+50
+40
+
+105
+
+60
+
+70
+
+100
+
+ROTOR 80
+PEEVER
+TURBINEA 90
+
+95
+
+30
+100
+
+R
+
+20
+10
+
+PERCENT
+RPM
+T
+
+0
+
+110
+
+120
+
+NR
+
+90
+80
+70
+60
+40
+0
+
+NP
+
+Figure 2-58. There are various types of dual-needle tachometers;
+however, when the needles are superimposed, or married, the ratio
+of the engine rpm is the same as the gear reduction ratio.
+
+Main rotor
+
+transmission and rotor system dragging it down. As the gas
+pressure increases through the power turbine, the rotor blades
+begin to turn, slowly at first and then gradually accelerate to
+normal operating rpm.
+On reciprocating helicopters, the two main types of clutches
+are the centrifugal clutch and the belt drive clutch.
+
+Centrifugal Clutch
+The centrifugal clutch is made up of an inner assembly and
+an outer drum. The inner assembly, which is connected to
+the engine driveshaft, consists of shoes lined with material
+similar to automotive brake linings. At low engine speeds,
+springs hold the shoes in, so there is no contact with the outer
+drum, which is attached to the transmission input shaft. As
+engine speed increases, centrifugal force causes the clutch
+shoes to move outward and begin sliding against the outer
+drum. The transmission input shaft begins to rotate, causing
+the rotor to turn, slowly at first, but increasing as the friction
+increases between the clutch shoes and transmission drum.
+As rotor speed increases, the rotor tachometer needle shows
+an increase by moving toward the engine tachometer needle.
+When the two needles are superimposed, the engine and the
+rotor are synchronized, indicating the clutch is fully engaged
+and there is no further slippage of the clutch shoes.
+
+Belt Drive Clutch
+Antitorque rotor
+
+Main transmission
+
+to engine
+Gearbox
+Figure 2-59. The main rotor transmission and gearbox reduce
+engine output rpm to optimum rotor rpm and change the axis of
+rotation of the engine output shaft to the vertical axis for the rotor
+shaft.
+
+the engine to be started and then gradually pick up the load
+of the rotor.
+On free turbine engines, no clutch is required, as the gas
+producer turbine is essentially disconnected from the power
+turbine. When the engine is started, there is little resistance
+from the power turbine. This enables the gas producer turbine
+to accelerate to normal idle speed without the load of the
+
+Some helicopters utilize a belt drive to transmit power from
+the engine to the transmission. A belt drive consists of a
+lower pulley attached to the engine, an upper pulley attached
+to the transmission input shaft, a belt or a series of V-belts,
+and some means of applying tension to the belts. The belts
+fit loosely over the upper and lower pulley when there is
+no tension on the belts. This allows the engine to be started
+without any load from the transmission. Once the engine is
+running, tension on the belts is gradually increased. When the
+rotor and engine tachometer needles are superimposed, the
+rotor and the engine are synchronized, and the clutch is then
+fully engaged. Advantages of this system include vibration
+isolation, simple maintenance, and the ability to start and
+warm up the engine without engaging the rotor.
+Freewheeling Unit
+Since lift in a helicopter is provided by rotating airfoils,
+these airfoils must be free to rotate if the engine fails. The
+freewheeling unit automatically disengages the engine from
+the main rotor when engine rpm is less than main rotor rpm.
+This allows the main rotor and tail rotor to continue turning
+at normal in-flight speeds. The most common freewheeling
+unit assembly consists of a one-way sprag clutch located
+between the engine and main rotor transmission. This is
+usually in the upper pulley in a piston helicopter or mounted
+on the accessory gearbox in a turbine helicopter. When the
+2-35
+

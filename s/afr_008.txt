@@ -1,0 +1,2224 @@
+FAA-H-8083-31B Airframe Handbook, chapter 2 (Aerodynamics, Aircraft Assembly, & Rigging), PDF pages 107-127
+
+===== PDF PAGE 107 =====
+engine is driving the rotor, inclined surfaces in the sprag
+clutch force rollers against an outer drum. This prevents the
+engine from exceeding transmission rpm. If the engine fails,
+the rollers move inward, allowing the outer drum to exceed
+the speed of the inner portion. The transmission can then
+exceed the speed of the engine. In this condition, engine
+speed is less than that of the drive system, and the helicopter
+is in an autorotative state.
+
+Airplane Assembly & Rigging
+The primary assembly of a type certificated aircraft is normally
+performed by the manufacturer at the factory. The assembly
+includes putting together the major components, such as
+the fuselage, empennage, wing sections, nacelles, landing
+gear, and installing the powerplant. Attached to the wing
+and empennage are primary flight control surfaces including
+ailerons, elevators, and rudder. Additionally, installation of
+auxiliary flight control surfaces may include wing flaps,
+spoilers, speed brakes, slats, and leading edge flaps.
+The assembly of other aircraft outside of a manufacturer’s
+facility is usually limited to smaller size and experimental
+amateur-built aircraft. Typically, after a major overhaul,
+repair, or alteration, the reassembly of an aircraft may
+include reattaching wings to the fuselage, balancing of and
+installation of flight control surfaces, installation of the
+landing gear, and installation of the powerplant(s).
+
+when supported from its own CG. There are two ways in
+which a control surface may be out of static balance. They
+are called underbalance and overbalance.
+When a control surface is mounted on a balance stand, a
+downward travel of the trailing edge below the horizontal
+position indicates underbalance. Some manufacturers
+indicate this condition with a plus (+) sign. An upward
+movement of the trailing edge, above the horizontal position
+indicates overbalance. This is designated by a minus (–) sign.
+These signs show the need for more or less weight in the
+correct area to achieve a balanced control surface, as shown
+in Figure 2-60.
+A tail-heavy condition (static underbalance) causes
+undesirable flight performance and is not usually allowed.
+Better flight operations are gained by nose-heavy static
+overbalance. Most manufacturers advocate the existence of
+nose-heavy control surfaces.
+
+Dynamic Balance
+Dynamic balance is that condition in a rotating body wherein
+all rotating forces are balanced within themselves so that no
+vibration is produced while the body is in motion. Dynamic
+balance as related to control surfaces is an effort to maintain
+balance when the control surface is submitted to movement
+on the aircraft in flight. It involves the placing of weights
+in the correct location along the span of the surfaces. The
+
+Rebalancing of Control Surfaces
+This section is presented for familiarization purposes only.
+Explicit instructions for the balancing of control surfaces are
+given in the manufacturer’s service and overhaul manuals for
+the specific aircraft and must be followed closely.
+Any time repairs on a control surface add weight fore or aft of
+the hinge center line, the control surface must be rebalanced.
+When an aircraft is repainted, the balance of the control
+surfaces must be checked. Any control surface that is out
+of balance is unstable and does not remain in a streamlined
+position during normal flight. For example, an aileron that
+is trailing edge heavy moves down when the wing deflects
+upward, and up when the wing deflects downward. Such a
+condition can cause unexpected and violent maneuvers of
+the aircraft. In extreme cases, fluttering and buffeting may
+develop to a degree that could cause the complete loss of
+the aircraft.
+Rebalancing a control surface concerns both static and
+dynamic balance. A control surface that is statically balanced
+is also dynamically balanced.
+
+Static Balance
+Static balance is the tendency of an object to remain stationary
+
+Chord line
+
+Tail-down underbalance
+Plus ( + ) condition
+
+Chord line
+
+Nose-down overbalance
+Minus ( − ) condition
+
+Chord line
+
+Level-horizontal position
+Balance condition
+Figure 2-60. Control surface static balance.
+
+2-36
+
+===== PDF PAGE 108 =====
+location of the weights are, in most cases, forward of the
+hinge center line.
+Rebalancing Procedures
+Repairs to a control surface or its tabs generally increase the
+weight aft of the hinge center line, requiring static rebalancing
+of the control surface system, as well as the tabs. Control
+surfaces to be rebalanced should be removed from the aircraft
+and supported, from their own points, on a suitable stand,
+jig, or fixture. [Figure 2-61]
+Trim tabs on the surface should be secured in the neutral
+position when the control surface is mounted on the stand.
+The stand must be level and be located in an area free of air
+currents. The control surface must be permitted to rotate
+freely about the hinge points without binding. Balance
+condition is determined by the behavior of the trailing edge
+when the surface is suspended from its hinge points. Any
+excessive friction would result in a false reaction as to the
+overbalance or underbalance of the surface.
+When installing the control surface in the stand or jig, a
+neutral position should be established with the chord line of
+the surface in a horizontal position. Use a bubble protractor
+to determine the neutral position before continuing balancing
+procedures. [Figure 2-62]
+Sometimes a visual check is all that is needed to determine
+whether the surface is balanced or unbalanced. Any trim tabs
+or other assemblies that are to remain on the surface during
+balancing procedures should be in place. If any assemblies
+or parts must be removed before balancing, they should be
+removed.
+
+Hinge center line
+
+Support stand
+
+Bubble protractor
+
+Chord line
+
+Figure 2-62. Establishing a neutral position of the control surface.
+
+Rebalancing Methods
+Several methods of balancing (rebalancing) control surfaces
+are in use by the various manufacturers of aircraft. The most
+common are the calculation method, scale method, and the
+balance beam method.
+The calculation method of balancing a control surface has one
+advantage over the other methods in that it can be performed
+without removing the surface from the aircraft. In using the
+calculation method, the weight of the material from the repair
+area and the weight of the materials used to accomplish the
+repair must be known. Subtract the weight removed from
+the weight added to get the resulting net gain in the amount
+added to the surface. The distance from the hinge center line
+to the center of the repair area is then measured in inches. This
+distance must be determined to the nearest one-hundredth of
+an inch. [Figure 2-63]
+The next step is to multiply the distance times the net weight
+of the repair. This results in an inch-pounds (in-lb) answer.
+If the in-lb result of the calculations is within specified
+tolerances, the control surface is considered balanced. If
+
+Inboard hinge fitting
+
+Outboard hinge fitting
+
+Figure 2-61. Locally fabricated balancing fixture.
+
+2-37
+
+===== PDF PAGE 109 =====
+Center of repair area
+Measurement in inches
+
+Hinge center line
+
+Bubble protractor
+Trim tab
+
+Rudder
+
+Mounting bracket
+Hinge center line
+
+Chord line
+
+Figure 2-63. Calculation method measurement.
+
+it is not within specified limits, consult the manufacturer’s
+service manuals for the needed weights, material to use for
+weights, design for manufacture, and installation locations
+for addition of the weights.
+
+Adjustable support
+Support stand
+Weight scale
+
+The scale method of balancing a control surface requires the
+use of a scale that is graduated in hundredths of a pound.
+A support stand and balancing jigs for the surface are also
+required. Figure 2-64 illustrates a control surface mounted
+for rebalancing purposes. Use of the scale method requires
+the removal of the control surface from the aircraft.
+The balance beam method is used by the Cessna and Piper
+Aircraft companies. This method requires that a specialized
+tool be locally fabricated. The manufacturer’s maintenance
+manual provides specific instructions and dimensions to
+fabricate the tool.
+Once the control surface is placed on level supports, the
+weight required to balance the surface is established by
+moving the sliding weight on the beam. The maintenance
+manual indicates where the balance point should be. If the
+surface is found to be out of tolerance, the manual explains
+where to place weight to bring it into tolerance.
+Aircraft manufacturers use different materials to balance
+control surfaces, the most common being lead or steel.
+Larger aircraft manufacturers may use depleted uranium
+because it has a heavier mass than lead. This allows the
+counterweights to be made smaller and still retain the same
+weight. Specific safety precautions must be observed when
+handling counterweights of depleted uranium because it is
+radioactive. The manufacturer’s maintenance manual and
+service instructions must be followed and all precautions
+observed when handling the weights.
+
+Aircraft Rigging
+Aircraft rigging involves the adjustment and travel of movable
+flight controls which are attached to aircraft major surfaces,
+such as wings and vertical and horizontal stabilizers. Ailerons
+are attached to the wings, elevators are attached to the
+horizontal stabilizer, and the rudder is attached to the vertical
+
+Figure 2-64. Balancing setup.
+
+stabilizer. Rigging involves setting cable tension, adjusting
+travel limits of flight controls, and setting travel stops.
+In addition to the flight controls, rigging is also performed
+on various components to include engine controls, flight
+deck controls, and retractable landing gear component parts.
+Rigging also includes the safetying of the attaching hardware
+using various types of cotter pins, locknuts, or safety wire.
+Rigging Specifications
+
+Type Certificate Data Sheet
+The Type Certificate Data Sheet (TCDS) is a formal
+description of an aircraft, engine, or propeller. It is issued by
+the Federal Aviation Administration (FAA) when the FAA
+determines that the product meets the applicable requirements
+for certification under 14 CFR. It lists the limitations and
+information required for type certification, including airspeed
+limits, weight limits, control surface movements, engine
+make and model, minimum crew, fuel type, thrust limits,
+rpm limits, etc., and the various components eligible for
+installation on the product.
+
+Maintenance Manual
+A maintenance manual is developed by the manufacturer of
+the applicable product and provides the recommended and
+acceptable procedures to be followed when maintaining or
+repairing that product. Maintenance personnel are required
+2-38
+
+===== PDF PAGE 110 =====
+by regulation to follow the applicable instructions set forth
+by the manufacturer. The Limitations section of the manual
+lists “life limits” of the product or its components that must
+be complied with during inspections and maintenance.
+
+Structural Repair Manual (SRM)
+The structural repair manual is developed by the manufacturer’s
+engineering department to be used as a guideline to assist in
+the repair of common damage to a specific aircraft structure.
+It provides information for acceptable repairs of specific
+sections of the aircraft.
+
+stabilizer, is not normally removed and installed, unless the
+aircraft was damaged. Elevators, rudders, and stabilators
+are rigged the same as any other control surface, using the
+instructions provided in the manufacturer’s maintenance
+manuals.
+Control Operating Systems
+
+Cable Systems
+
+There are various types of cable:
+•
+
+Material—aircraft control cables are fabricated from
+carbon steel or stainless (corrosion resistant) steel.
+Additionally, some manufacturers use a nylon coated
+cable that is produced by extruding a flexible nylon
+coating over corrosion-resistant steel (CRES) cable.
+By adding the nylon coating to the corrosion resistant
+steel cable, it increases the service life by protecting
+the cable strands from friction wear, keeping dirt and
+grit out, and dampening vibration which can workharden the wires in long runs of cable.
+
+•
+
+Cable construction—the basic component of a cable
+is a wire. The diameter of the wire determines the
+total diameter of the cable. A number of wires are
+preformed into a helical or spiral shape and then
+formed into a strand. These preformed strands are laid
+around a straight center strand to form a cable.
+
+Manufacturer’s Service Information
+Information from the manufacturer may be in the form of
+information bulletins, service instructions, service bulletins,
+service letters, etc., that the manufacturer publishes to provide
+instructions for product improvement. Service instructions may
+include a recommended modification or repair that precedes
+the issuance of an Airworthiness Directive (AD). Service letters
+may provide more descriptive procedures or revise sections of
+the maintenance manuals. They may also include instructions
+for the installation and repair of optional equipment, not listed
+in the Type Certificate Data Sheet (TCDS).
+Airplane Assembly
+
+Aileron Installation
+
+The manufacturer’s maintenance and illustrated parts
+book must be followed to ensure the correct procedures
+and hardware are being used for installation of the control
+surfaces. All of the control surfaces require specific hardware,
+spacers, and bearings be installed to ensure the surface does
+not jam or become damaged during movement. After the
+aileron is connected to the flight deck controls, the control
+system must be inspected to ensure the cables/push-pull rods
+are routed properly. When a balance cable is installed, check
+for correct attachment and operation to determine the ailerons
+are moving in the proper direction and opposite each other.
+
+•
+
+Flap Installation
+
+Types of control cable termination include:
+
+The design, installation, and systems that operate flaps are as
+varied as the models of airplanes on which they are installed.
+As with any system on a specific aircraft, the manufacturer’s
+maintenance manual and the illustrated parts book must
+be followed to ensure the correct procedures and parts are
+used. Simple flap systems are usually operated manually by
+cables and/or torque tubes. Typically, many of the smaller
+manufactured airplane designs have flaps that are actuated
+by torque tubes and chains through a gear box driven by an
+electric motor.
+
+Cable designations—based on the number of strands
+and wires in each strand. The 7 × 19 cable is made up
+of seven strands of 19 wires each. Six of these strands
+are laid around the center strand. This cable is very
+flexible and is used in primary control systems and
+in other locations where operation over pulleys is
+frequent. The 7 × 7 cable consists of seven strands of
+seven wires each. Six of these strands are laid around
+the center strand. This cable is of medium flexibility
+and is used for trim tab controls, engine controls, and
+indicator controls. [Figure 2-65]
+
+•
+
+Woven splice—a hand-woven 5-tuck splice used on
+aircraft cable. The process is very time consuming and
+produces only about 75 percent of the original cable
+
+1/8 — 3/8 diameter 7 x 19
+7 strands, 19 wires to each strand
+
+1/16 — 3/32 diameter 7 x 7
+7 strands, 7 wires to each strand
+
+Diameter
+
+Diameter
+
+Empennage Installation
+The empennage, consisting of the horizontal and vertical
+
+Figure 2-65. Cable construction and cross-section.
+
+2-39
+
+===== PDF PAGE 111 =====
+strength. The splice is rarely used except on some
+antique aircraft where the effort is made to keep all
+parts in their original configuration.
+•
+
+•
+
+Nicopress® process—a patented process using copper
+sleeves and may be used up to the full rated strength of
+the cable when the cable is looped around a thimble.
+[Figure 2-66] This process may also be used in place
+of the 5-tuck splice on cables up to and including 3⁄8inch diameter. Whenever this process is used for cable
+splicing, it is imperative that the tools, instructions,
+and data supplied by Nicopress® be followed exactly
+to ensure the desired cable function and strength
+is attained. The use of sleeves that are fabricated
+of material other than copper requires engineering
+approval for the specific application by the FAA.
+
+AN663 Double shank ball end terminal
+
+AN664 Single shank ball end terminal
+
+AN665 Rod end terminal
+
+Swage-type terminals—manufactured in accordance
+with Army-Navy (AN) and Military Standards (MS),
+are suitable for use in civil aircraft up to, and including,
+maximum cable loads. [Figure 2-67]
+
+AN666 Threaded cable terminal
+
+When swaging tools are used, it is imperative that all the
+manufacturer’s instructions, including ‘go’ and ‘no-go’
+dimensions, be followed exactly to avoid defective and
+inferior swaging. Compliance with all of the instructions
+should result in the terminal developing the full-rated strength
+of the cable. The following basic procedures are used when
+swaging terminals onto cable ends:
+•
+
+Cut the cable to length, allowing for growth during
+swaging. Apply a preservative compound to the cable
+end before insertion into the terminal barrel. Measure
+the internal length of the terminal end/barrel of the
+fitting to determine the proper length of the cable to
+be inserted. Transfer that measurement to the end of
+the cable and mark it with a piece of masking tape
+wrapped around the cable. This provides a positive
+mark to ensure the cable did not slip during the
+swaging process.
+
+3
+
+1
+
+2
+
+Figure 2-66. Typical Nicopress® thimble-eye splice.
+
+AN667 Fork end cable terminal
+
+AN667 Eye end cable terminal
+Figure 2-67. Swage-type terminal fittings.
+
+Note: Never solder the cable ends to prevent fraying
+since the solder greatly increases the tendency of the
+cable to pull out of the terminal.
+•
+
+Insert the cable into the terminal approximately one
+inch and bend it toward the terminal. Then, push the
+cable end all the way into the terminal. The bending
+action puts a slight kink in the cable end and provides
+enough friction to hold the terminal in place until the
+swaging operation is performed. [Figure 2-68]
+
+•
+
+Accomplish the swaging operation in accordance with
+the instructions furnished by the manufacturer of the
+swaging equipment.
+
+•
+
+Inspect the terminal after swaging to determine that it
+is free of die marks and splits and is not out of round.
+Check the cable for slippage at the masking tape and
+for cut and broken wire strands.
+
+•
+
+Using a go/no-go gauge supplied by the swaging
+tool manufacturer or a micrometer and swaging
+chart, check the terminal shank diameter for proper
+dimension. [Figures 2-69 and 2-70]
+2-40
+
+===== PDF PAGE 112 =====
+This load should be held for at least 3 minutes. Any testing
+of this type can be dangerous. Suitable guards should be
+placed over the cable during the test to prevent injury to
+personnel in the event of cable failure. If a proper test fixture
+is not available, the load test should be contracted out and
+performed by a properly equipped facility.
+
+1
+
+Bend cable, then push into swaging position
+
+Cable Inspection
+
+2
+
+Aircraft cable systems are subject to a variety of environmental
+conditions and deterioration. Wire or strand breakage is easy
+to recognize visually. Other kinds of deterioration, such as
+wear, corrosion, and distortion, are not easily seen. Special
+attention should be given to areas where cables pass through
+battery compartments, lavatories, and wheel wells. These are
+prime areas for corrosion. Special attention should be given to
+critical fatigue areas. Those areas are defined as anywhere the
+cable runs over, under, or around a pulley, sleeve, or through
+a fairlead; or any section where the cable is flexed, rubbed,
+or within 1 foot of a swaged-on fitting. Close inspection in
+these critical fatigue areas can be performed by rubbing a rag
+along the cable. If there are any broken strands, the rag snags
+on the cable. A more detailed inspection can be performed
+in areas that may be corroded or indicate a fatigue failure by
+loosing or removing the cable and bending it. This technique
+reveals internal broken strands not readily apparent from the
+outside. [Figure 2-72]
+
+Figure 2-68. Insertion of cable into terminal.
+
+Figure 2-69. Gauging terminal shank dimension after swaging.
+
+•
+
+Test the cable by proof-loading locally fabricated
+splices and newly installed swage terminal cable
+fittings for proper strength before installation. This
+is conducted by slowly applying a test load equal to
+60 percent of the rated breaking strength of the cable
+listed in Figure 2-71.
+
+Cable System Installation
+Cable Guides
+Pulleys are used to guide cables and also to change the direction
+of cable movement. Pulley bearings are sealed and need no
+lubrication other than the lubrication done at the factory.
+Brackets fastened to the structure of the aircraft support the
+pulleys. Cables passing over pulleys are kept in place by
+guards. The guards are close fitting to prevent jamming or
+
+Before Swaging
+
+After Swaging
+
+Cable size
+(inches)
+
+Wire
+strands
+
+Outside
+diameter
+
+Bore
+diameter
+
+Bore
+length
+
+Swaging
+length
+
+Minimum breaking
+strength (pounds)
+
+Shank diameter *
+
+1/16
+3/32
+1/8
+5/32
+3/16
+7/32
+1/4
+9/32
+5/16
+3/8
+
+7x7
+7x7
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+
+0.160
+0.218
+0.250
+0.297
+0.359
+0.427
+0.494
+0.563
+0.635
+0.703
+
+0.078
+0.109
+0.141
+0.172
+0.203
+0.234
+0.265
+0.297
+0.328
+0.390
+
+1.042
+1.261
+1.511
+1.761
+2.011
+2.261
+2.511
+2.761
+3.011
+3.510
+
+0.969
+1.188
+1.438
+1.688
+1.938
+2.188
+2.438
+2.688
+2.938
+3.438
+
+480
+920
+2,000
+2,800
+4,200
+5,600
+7,000
+8,000
+9,800
+14,400
+
+0.138
+0.190
+0.219
+0.250
+0.313
+0.375
+0.438
+0.500
+0.563
+0.625
+
+*Use gauges in kit for checking diameters.
+Figure 2-70. Straight shank terminal dimensions.
+
+2-41
+
+===== PDF PAGE 113 =====
+Minimum Breaking Strength (Pounds)
+Nominal diameter
+of wire rope cable
+
+Construction
+
+INCHES
+
+1/32
+3/64
+1/16
+1/16
+3/32
+3/32
+1/8
+5/32
+3/16
+7/32
+1/4
+9/32
+5/16
+11/32
+3/8
+7/16
+1/2
+9/16
+5/8
+3/4
+7/8
+1
+1 - 1/8
+1 - 1/4
+1 - 3/8
+1 - 1/2
+
+3x7
+7x7
+7x7
+7 x 19
+7x7
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+7 x 19
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+6 x 19 IWRC
+
+Tolerance
+on diameter
+(plus only)
+
+Allowable
+increase of
+diameter
+at cut end
+
+INCHES
+
+0.006
+0.008
+0.010
+0.010
+0.012
+0.012
+0.014
+0.016
+0.018
+0.018
+0.018
+0.020
+0.022
+0.024
+0.026
+0.030
+0.033
+0.036
+0.039
+0.045
+0.048
+0.050
+0.054
+0.057
+0.060
+0.062
+
+MIL-W-83420
+COMP A
+
+MIL-W-83420
+COMP B (CRES)
+
+MIL-C-18375
+(CRES)
+
+INCHES
+
+POUNDS
+
+POUNDS
+
+POUNDS
+
+0.006
+0.008
+0.009
+0.009
+0.010
+0.010
+0.011
+0.017
+0.019
+0.020
+0.021
+0.023
+0.024
+0.025
+0.027
+0.030
+0.033
+0.036
+0.039
+0.045
+0.048
+0.050
+0.054
+0.057
+0.060
+0.062
+
+110
+270
+480
+480
+920
+1,000
+2,000
+2,800
+4,200
+5,000
+6,400
+7,800
+9,800
+12,500
+14,400
+17,600
+22,800
+28,500
+35,000
+49,600
+66,500
+85,400
+106,400
+129,400
+153,600
+180,500
+
+110
+270
+480
+480
+920
+920
+1,760
+2,400
+3,700
+5,000
+6,400
+
+1,300
+2,000
+2,900
+3,800
+4,900
+
+7,800
+9,000
+
+6,100
+7,600
+
+12,000
+16,300
+22,800
+28,500
+35,000
+49,600
+66,500
+85,400
+106,400
+129,400
+153,600
+180,500
+
+11,000
+14,900
+19,300
+24,300
+30,100
+42,900
+58,000
+75,200
+
+360
+700
+
+Figure 2-71. Flexible cable construction.
+
+to prevent the cables from slipping off when they slacken
+due to temperature variations. Pulleys should be examined to
+ensure proper lubrication; smooth rotation and freedom from
+
+abnormal cable wear patterns which can provide an indication
+of other problems in the cable system. [Figure 2-73]
+Fairleads may be made from a nonmetallic material, such as
+phenolic, or a metallic material, such as soft aluminum. The
+fairlead completely encircles the cable where it passes through
+holes in bulkheads or other metal parts. Fairleads are used to
+guide cables in a straight line through or between structural
+members of the aircraft. Fairleads should never deflect the
+alignment of a cable more than 3° from a straight line.
+Pressure seals are installed where cables (or rods) move
+through pressure bulkheads. The seal grips tightly enough
+to prevent excess air pressure loss but not enough to hinder
+movement of the cable. Pressure seals should be inspected
+at regular intervals to determine that the retaining rings are
+in place. If a retaining ring comes off, it may slide along the
+cable and cause jamming of a pulley. [Figure 2-74]
+
+Figure 2-72. Cable inspection technique.
+
+2-42
+
+===== PDF PAGE 114 =====
+the following:
+
+Excessive cable tension
+
+Pully wear from misalignment
+
+Pully too large for cable
+
+Cable misalignment
+
+Frozen bearing
+
+Normal condition
+
+Figure 2-73. Pulley wear patterns.
+
+Travel Adjustment
+Control surfaces should move a certain distance in either
+direction from the neutral position. These movements must
+be synchronized with the movement of the flight deck
+controls. The flight control system must be adjusted (rigged)
+to obtain these requirements. The tools for measuring surface
+travel primarily include protractors, rigging fixtures, contour
+templates, and rulers. These tools are used when rigging
+flight control systems to assure that the desired travel has
+been obtained. Generally speaking, the rigging consists of
+
+Fairlead
+
+1.
+
+Positioning the flight control system in neutral and
+temporarily locking it there with rig pins or blocks;
+
+2.
+
+Adjusting system cable tension and maintaining
+rudder, elevator, and ailerons in the neutral position;
+and
+
+3.
+
+Adjusting the control stops to the aircraft manufacturer’s
+specifications.
+
+Cable Tension
+For the aircraft to operate as it was designed, the cable tension
+for the flight controls must be correct. To determine the
+amount of tension on a cable, a tensiometer is used. When
+properly maintained, a tensiometer is 98 percent accurate.
+Cable tension is determined by measuring the amount of force
+needed to make an offset in the cable between two hardened
+steel blocks called anvils. A riser or plunger is pressed against
+the cable to form the offset. Several manufacturers make
+a variety of tensiometers, each type designed for different
+kinds of cable, cable sizes, and cable tensions. [Figure 2-75]
+Rigging Fixtures
+Rigging fixtures and templates are special tools (gauges)
+designed by the manufacturer to measure control surface
+travel. Markings on the fixture or template indicate desired
+control surface travel.
+
+Rubstrip
+
+Split fairlead
+Solid fairlead
+Retaining rings
+Control cable
+
+Guard pin
+Bulkhead groove
+ed
+
+uriz
+
+ress
+
+Unp
+
+Bracket
+
+zed
+
+suri
+
+Air seal
+
+Pres
+
+Bulkhead
+
+Pulley
+
+Figure 2-74. Cable guides.
+
+2-43
+
+===== PDF PAGE 115 =====
+Pointer Lock
+
+Riser
+
+Anvil
+
+Anvil
+
+0
+20
+40 60
+
+120
+100
+80
+
+Trigger
+
+Figure 2-75. Tensiometer.
+
+Tension Regulators
+Cable tension regulators are used in some flight control
+systems because there is considerable difference in
+temperature expansion of the aluminum aircraft structure
+and the steel control cables. Some large aircraft incorporate
+tension regulators in the control cable systems to maintain
+a given cable tension automatically. The unit consists of a
+compression spring and a locking mechanism that allows the
+spring to make correction in the system only when the cable
+system is in neutral.
+Turnbuckles
+A turnbuckle assembly is a mechanical screw device
+consisting of two threaded terminals and a threaded barrel.
+[Figure 2-76] Turnbuckles are fitted in the cable assembly
+for the purpose of making minor adjustments in cable length
+and for adjusting cable tension. One of the terminals has
+right-hand threads, and the other has left-hand threads. The
+barrel has matching right- and left-hand internal threads. The
+end of the barrel with the left-hand threads can usually be
+identified by a groove or knurl around that end of the barrel.
+
+When installing a turnbuckle in a control system, it is
+necessary to screw both of the terminals an equal number of
+turns into the barrel. It is also essential that all turnbuckle
+terminals be screwed into the barrel until not more than three
+threads are exposed on either side of the turnbuckle barrel.
+After a turnbuckle is properly adjusted, it must be safetied.
+There are a number of methods to safety a turnbuckle and/
+or other types of swaged cable ends that are satisfactory. A
+double-wrap safety wire method is preferred.
+Some turnbuckles are manufactured and designed to
+accommodate special locking devices. A typical unit is shown
+in Figure 2-77.
+Cable Connectors
+In addition to turnbuckles, cable connectors are used in some
+systems. These connectors enable a cable length to be quickly
+connected or disconnected from a system. Figure 2-78
+illustrates one type of cable connector in use.
+Spring-Back
+With a control cable properly rigged, the flight control should
+hit its stops at both extremes prior to the flight deck control.
+The spring-back is the small extra push that is needed for the
+flight deck control to hit its mechanical stop.
+
+Push Rods (Control Rods)
+Push rods are used as links in the flight control system to
+give push-pull motion. They may be adjusted at one or both
+ends. Figure 2-79 shows the parts of a push rod. Notice that
+it consists of a tube with threaded rod ends. An adjustable
+antifriction rod end, or rod end clevis, attaches at each end
+of the tube. The rod end, or clevis, permits attachment of
+the tube to flight control system parts. The checknut, when
+tightened, prevents the rod end or clevis from loosening.
+They may have adjustments at one or both ends.
+The rods should be perfectly straight, unless designed to be
+otherwise. When installed as part of a control system, the assembly
+should be checked for correct alignment and free movement.
+
+Length (threads flush with ends of barrel)
+
+Swaged terminal
+
+Barrel
+
+Pin eye
+
+Figure 2-76. Typical turnbuckle assembly.
+
+2-44
+
+===== PDF PAGE 116 =====
+Turnbuckle body
+
+Locking-clip
+
+Figure 2-77. Clip-type locking device and assembling in turnbuckle.
+
+Anchored end
+Flange
+Spring connector
+
+Flange ends
+
+Peening
+
+Figure 2-78. Spring-type connector.
+
+Figure 2-80. Attached rod end.
+
+It is possible for control rods fitted with bearings to become
+disconnected because of failure of the peening that retains the
+ball races in the rod end. This can be avoided by installing
+the control rods so that the flange of the rod end is interposed
+between the ball race and the anchored end of the attaching
+pin or bolt as shown in Figure 2-80.
+
+Another alternative is to place a washer, having a larger
+diameter than the hole in the flange, under the retaining nut
+on the end of the attaching pin or bolt. This retains the rod
+on the bolt in the event of a bearing failure.
+
+Checknut
+
+Threaded rod end
+
+Adjustable antifriction rod end
+
+Tube
+
+Rivets
+
+Adjustable rod end clevis
+
+Figure 2-79. Push rod.
+
+2-45
+
+===== PDF PAGE 117 =====
+Torque Tubes
+Where an angular or twisting motion is needed in a control
+system, a torque tube is installed. Figure 2-81 shows how a
+torque tube is used to transmit motion in opposite directions.
+
+Quadrant
+
+Cable Drums
+Cable drums are used primarily in trim tab systems. As the trim
+tab control wheel is moved clockwise or counterclockwise, the
+cable drum winds or unwinds to actuate the trim tab cables.
+[Figure 2-82]
+Rigging Checks
+All aircraft assembly and rigging must be performed in
+accordance with the requirements prescribed by the specific
+aircraft and/or aircraft component manufacturer. Correctly
+following the procedures provides for proper operation
+of the components in regard to their mechanical and
+aerodynamic function and ensures the structural integrity
+of the aircraft. Rigging procedures are detailed in the
+applicable manufacturer’s maintenance or service manuals
+and applicable structural repair manuals. Additionally,
+aircraft specification or TCDS also provide information
+regarding control surface movement and weight and balance
+limits.
+The purpose of this section is to explain the methods of
+checking the relative alignment and adjustment of an aircraft’s
+
+Bearing
+
+Shaft
+
+Torque tube
+
+Horn
+Push-pull rod
+
+Figure 2-81. Torque tube.
+
+main structural components. It is not intended to imply that the
+procedures are exactly as they may be in a particular aircraft.
+When rigging an aircraft, always follow the procedures and
+methods specified by the aircraft manufacturer.
+
+Drum
+
+Control wheel
+
+Figure 2-82. Trim tab cable drum.
+
+2-46
+
+===== PDF PAGE 118 =====
+on the aircraft floor or supporting structure. [Figure 2-83]
+
+Structural Alignment
+The position or angle of the main structural components is
+related to a longitudinal datum line parallel to the aircraft
+center line and a lateral datum line parallel to a line joining
+the wing tips. Before checking the position or angle of the
+main components, the aircraft must be jacked and leveled.
+Small aircraft usually have fixed pegs or blocks attached to
+the fuselage parallel to or coincident with the datum lines.
+A spirit level and a straight edge are rested across the pegs
+or blocks to check the level of the aircraft. This method of
+checking aircraft level also applies to many of the larger types
+of aircraft. However, the grid method is sometimes used on
+large aircraft. The grid plate is a permanent fixture installed
+
+When the aircraft is to be leveled, a plumb bob is suspended
+from a predetermined position in the ceiling of the aircraft
+over the grid plate. The adjustments to the jacks necessary to
+level the aircraft are indicated on the grid scale. The aircraft
+is level when the plumb bob is suspended over the center
+point of the grid.
+Certain precautions must be observed in all instances when
+jacking an aircraft. Normally, rigging and alignment checks
+should be performed in an enclosed hangar. If this cannot
+be accomplished, the aircraft should be positioned with the
+nose into the wind.
+
+Plumb bob attachment
+
+AFT
+
+Right main wheel wall AFT bulkhead
+
+AF
+
+T
+
+3
+
+3
+2
+
+Plumb bob stowage clip
+
+2
+1
+
+Pitch(deg)
+
+1
+0
+
+1
+2
+
+Plumb bob
+
+2
+3
+Roll (deg)
+
+3
+Right wing down
+
+Nose down
+
+Grid plate
+
+1
+
+Left wing down
+
+Nose up
+
+INBD
+
+Figure 2-83. Grid plate installed.
+
+2-47
+
+===== PDF PAGE 119 =====
+The weight and loading of the aircraft should be exactly as
+described in the manufacturer’s manual. In all cases, the
+aircraft should not be jacked until it is determined that the
+maximum jacking weight (if applicable) specified by the
+manufacturer is not exceeded.
+
+positions using the special boards provided by the aircraft
+manufacturer. If no such boards are available, a straight edge
+and a inclinometer can be used. Dihedral is normally checked
+using the front spar. The methods for checking dihedral are
+shown in Figure 2-84.
+
+With a few exceptions, the dihedral and incidence angles
+of conventional modern aircraft cannot be adjusted. Some
+manufacturers permit adjusting the wing angle of incidence
+to correct for a wing-heavy condition. The dihedral and
+incidence angles should be checked after hard landings or
+after experiencing abnormal flight loads to ensure that the
+components are not distorted and that the angles are within
+the specified limits.
+
+It is important that the dihedral be checked at the positions
+specified by the manufacturer. Certain portions of the wings
+or horizontal stabilizer may sometimes be horizontal or, on
+rare occasions, anhedral angles may be present.
+
+There are several methods for checking structural alignment
+and rigging angles. Special rigging boards that incorporate,
+or on which can be placed, a special instrument (spirit level
+or inclinometer) for determining the angle are used on some
+aircraft. On a number of aircraft, the alignment is checked
+using a transit and plumb bobs or a theodolite and sighting
+rods. The particular equipment to use is usually specified in
+the manufacturer’s maintenance manual.
+When checking alignment, a suitable sequence should be
+developed and followed to be certain that the checks are
+made at all the positions specified. The alignment checks
+specified usually include:
+•
+
+Wing dihedral angle
+
+•
+
+Wing incidence angle
+
+•
+
+Verticality of the fin
+
+•
+
+Engine alignment
+
+•
+
+A symmetry check
+
+•
+
+Horizontal stabilizer incidence
+
+•
+
+Horizontal stabilizer dihedral
+
+Checking Dihedral
+The dihedral angle should be checked in the specified
+
+Special dihedral board with
+spirit level incorporated
+
+Checking Incidence
+Incidence is usually checked in at least two specified
+positions on the surface of the wing to ensure that the wing
+is free from twist. A variety of incidence boards are used to
+check the incidence angle. Some have stops at the forward
+edge, which must be placed in contact with the leading edge
+of the wing. Others are equipped with location pegs which
+fit into some specified part of the structure. The purpose in
+either case is to ensure that the board is fitted in exactly the
+position intended. In most instances, the boards are kept clear
+of the wing contour by short extensions attached to the board.
+A typical incidence board is shown in Figure 2-85.
+When used, the board is placed at the specified locations on
+the surface being checked. If the incidence angle is correct,
+a inclinometer on top of the board reads zero, or within a
+specified tolerance of zero. Modifications to the areas where
+incidence boards are located can affect the reading. For
+example, if leading edge deicer boots have been installed,
+the position of a board having a leading edge stop is affected.
+Checking Fin Verticality
+After the rigging of the horizontal stabilizer has been checked,
+the verticality of the vertical stabilizer relative to the lateral
+datum can be checked. The measurements are taken from a
+given point on either side of the top of the fin to a given point
+on the left and right horizontal stabilizers. [Figure 2-86] The
+measurements should be similar within prescribed limits.
+When it is necessary to check the alignment of the rudder
+
+Straight edge and
+adjustable level
+
+Figure 2-84. Checking dihedral.
+
+2-48
+
+===== PDF PAGE 120 =====
+Bubble level
+Straight edge and adjustable level
+Stop
+
+Incidence board
+
+Chord line
+Figure 2-85. A typical incidence board.
+
+String or tape measure lateral datum
+
+Figure 2-86. Checking fin verticality.
+
+hinges, remove the rudder and pass a plumb bob line through
+the rudder hinge attachment holes. The line should pass
+centrally through all the holes. It should be noted that some
+aircraft have the leading edge of the vertical fin offset to the
+longitudinal center line to counteract engine torque.
+
+taken using a steel tape. When measuring long distances, it is
+suggested that a spring scale be used with the tape to obtain
+equal tension. A five-pound pull is usually sufficient.
+
+Checking Engine Alignment
+Engines are usually mounted with the thrust line parallel to
+the horizontal longitudinal plane of symmetry. However, this
+is not always true when the engines are mounted on the wings.
+Checking to ensure that the position of the engines, including
+any degree of offset is correct, depends largely on the type of
+mounting. Generally, the check entails a measurement from
+the center line of the mounting to the longitudinal center
+line of the fuselage at the point specified in the applicable
+manual. [Figure 2-87]
+Symmetry Check
+The principle of a typical symmetry check is illustrated in
+Figure 2-87. The precise figures, tolerances, and checkpoints
+for a particular aircraft are found in the applicable service or
+maintenance manual.
+On small aircraft, the measurements between points are usually
+
+Figure 2-87. Typical measurements used to check aircraft symmetry.
+
+2-49
+
+===== PDF PAGE 121 =====
+On large aircraft, the positions at which the dimensions are
+to be taken are usually chalked on the floor. This is done by
+suspending a plumb bob from the checkpoints and marking
+the floor immediately under the point of each plumb bob.
+The measurements are then taken between the centers of
+each marking.
+
+Pointer lock
+
+Riser
+
+Anvil
+
+Anvil
+
+Cable Tension
+When it has been determined that the aircraft is symmetrical
+and structural alignment is within specifications, the cable
+tension and control surface travel can be checked. To
+determine the amount of tension on a cable, a tensiometer is
+used. When properly maintained, a tensiometer is 98 percent
+accurate. Tensiometers are calibrated to maintain accuracy.
+Cable tension is determined by measuring the amount of force
+needed to make an offset in the cable between two hardened
+steel blocks called anvils. A riser or plunger is pressed against
+the cable to form the offset. Several manufacturers make
+a variety of tensiometers, each type designed for different
+kinds of cable, cable sizes, and cable tensions. One type of
+tensiometer is illustrated in Figure 2-88.
+Following the manufacturer’s instructions, lower the trigger.
+Then, place the cable to be tested under the two anvils and
+close the trigger (move it up). Movement of the trigger pushes
+up the riser, which pushes the cable at right angles to the two
+clamping points under the anvils. The force that is required
+to do this is indicated by the dial pointer. As the sample chart
+beneath the illustration shows, different numbered risers are
+used with different size cables. Each riser has an identifying
+number and is easily inserted into the tensiometer.
+Included with each tensiometer is a conversion chart, which is
+used to convert the dial reading to pounds. The dial reading is
+converted to pounds of tension as follows. Using a No. 2 riser
+to measure the tension of a 5/32" diameter cable, a reading of
+30 is obtained. The actual tension (see chart) of the cable is
+70 lbs. Referring to the chart, also notice that a No. 1 riser is
+used with 1/16", 3/32", and 1/8" cable. Since the tensiometer
+is not designed for use in measuring 7/32" or 1/4" cable, no
+values are shown in the No. 3 riser column of the chart.
+When actually taking a reading of cable tension in an aircraft,
+it may be difficult to see the dial. Therefore, a pointer lock
+is built in on the tensiometer. Push it in to lock the pointer,
+then remove the tensiometer from the cable and observe the
+reading. After observing the reading, pull the lock out and
+the pointer returns to zero.
+Another variable that must be taken into account when
+adjusting cable tension is the ambient temperature of cable
+and the aircraft. To compensate for temperature variations,
+cable rigging charts are used when establishing cable tensions
+
+120
+
+0
+
+100
+
+20
+
+80
+
+40 60
+
+Trigger
+
+Example
+
+No. 1
+
+Riser
+
+Diameter
+1/16 3/32 1/8
+
+Tension
+(lb)
+
+5/32
+
+3/16
+
+12
+19
+25
+31
+36
+41
+46
+51
+
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+
+12
+17
+22
+26
+30
+34
+38
+42
+46
+50
+
+20
+26
+32
+37
+42
+47
+52
+56
+60
+64
+
+16
+23
+30
+36
+42
+48
+54
+60
+
+21
+29
+36
+43
+50
+57
+63
+69
+
+No. 2
+
+No. 3
+7/32
+
+1/4
+
+Figure 2-88. Cable tensiometer and sample conversion chart.
+
+in flight control, landing gear, and other cable-operated
+systems. [Figure 2-89]
+To use the chart, determine the size of the cable that is to
+be adjusted and the ambient air temperature. For example,
+assume that the cable size is 1/8" diameter, which is a 7-19
+cable and the ambient air temperature is 85 °F. Follow the
+85 °F line upward to where it intersects the curve for 1/8"
+cable. Extend a horizontal line from the point of intersection
+to the right edge of the chart. The value at this point indicates
+the tension (rigging load in pounds) to establish on the cable.
+The tension for this example is 70 pounds.
+
+Control Surface Travel
+In order for a control system to function properly, it must
+be correctly adjusted. Correctly rigged control surfaces
+move through a prescribed arc (surface-throw) and are
+synchronized with the movement of the flight deck controls.
+Rigging any control system requires that the aircraft
+manufacturer’s instructions be followed as outlined in their
+maintenance manual.
+2-50
+
+===== PDF PAGE 122 =====
+340
+320
+
+Design limit rig load
+
+300
+280
+260
+240
+
+200
+180
+160
+7
+/16
+
+140
+
+9
+
+x1
+
+3
+
+5/
+
+x
+32 7
+
+120
+
+19
+
+1/8 7
+
+Rigging load (lb)
+
+220
+
+e
+siz
+e
+l
+b
+19
+Ca 7 x
+4
+1/
+
+x 19
+
+100
+80
+60
+
+27x7
+
+3/3
+
+−70 −60 −50 −40 −30 −20 −10 0
+
+1/16 7 x 7
+
+40
+20
+
+0
+10 20 30 40 50 60 70 80 90 100 110 120 130 140 150 160
+Temperature (°F)
+
+Figure 2-89. Typical cable rigging chart.
+
+Therefore, the explanations in this chapter are limited to the
+three general steps listed below:
+1.
+
+Lock the flight deck control, bellcranks, and the
+control surfaces in the neutral position.
+
+2.
+
+Adjust the cable tension, maintaining the rudder,
+elevators, or ailerons in the neutral position.
+
+3.
+
+Adjust the control stops to limit the control surface
+travel to the dimensions given for the aircraft being
+rigged.
+
+The range of movement of the controls and control
+surfaces should be checked in both directions from neutral.
+There are various tools used for measuring surface travel,
+including protractors, rigging fixtures, contour templates,
+and rulers. These tools are used when rigging flight control
+systems to ensure that the aircraft is properly rigged and
+the manufacturer’s specifications have been complied with.
+Rigging fixtures and contour templates are special tools
+(gauges) designed by the manufacturer to measure control
+
+surface travel. Markings on the fixture or template indicate
+desired control surface travel. In many instances, the aircraft
+manufacturer gives the travel of a particular control surface
+in degrees and inches. If the travel in inches is provided, a
+ruler can be used to measure surface travel in inches.
+Protractors are tools for measuring angles in degrees. Various
+types of protractors are used to determine the travel of flight
+control surfaces. One protractor that can be used to measure
+aileron, elevator, or wing flap travel is the universal propeller
+protractor shown in Figure 2-90.
+This protractor is made up of a frame, disc, ring, and two
+spirit levels. The disc and ring turn independently of each
+other and of the frame. (The center spirit level is used to
+position the frame vertically when measuring propeller
+blade angle.) The center spirit level is used to position the
+disc when measuring control surface travel. A disc-to-ring
+lock is provided to secure the disc and ring together when
+the zero on the ring vernier scale and the zero on the disc
+degree scale align. The ring-to-frame lock prevents the ring
+from moving when the disc is moved. Note that they start at
+2-51
+
+===== PDF PAGE 123 =====
+Ring vernier scale
+Disk adjuster
+
+Center spirit level
+
+Ring
+
+Disk degree scale
+Ring adjuster
+
+Disk
+10
+
+0
+
+10
+
+30 2 0 1
+
+0
+
+0
+
+10
+
+20
+
+30
+
+Corner spirit level
+on frame folded in
+
+the range of movement of the control surface, the controls
+must be operated from the flight deck and not by moving
+the control surfaces. During the checking of control surface
+travel, ensure that chains, cables, etc., have not reached
+the limit of their travel when the controls are against their
+respective stops.
+
+Ring-to-frame lock
+
+Disk-to-ring lock on ring engages only
+when zeros on scales are aligned.
+Figure 2-90. Universal propeller protractor.
+
+the same point and advance in opposite directions. A double
+10-part vernier is marked on the ring.
+The rigging of the trim tab systems is performed in a similar
+manner. The trim tab control is set to the neutral (no trim)
+position, and the surface tab is usually adjusted to streamline
+with the control surface. However, on some aircraft, the
+specifications may require that the trim tabs be offset a degree
+or two from streamline when in the neutral position. After
+the tab and tab control are in the neutral position, adjust the
+control cable tension.
+Pins, usually called rig pins, are sometimes used to simplify
+the setting of pulleys, levers, bellcranks, etc., in their neutral
+positions. A rig pin is a small metallic pin or clip. When rig
+pins are not provided, the neutral positions can be established
+by means of alignment marks, by special templates, or by
+taking linear measurements.
+If the final alignment and adjustment of a system are correct,
+it should be possible to withdraw the rigging pins easily. Any
+undue tightness of the pins in the rigging holes indicates
+incorrect tensioning or misalignment of the system.
+After a system has been adjusted, the full and synchronized
+movement of the controls should be checked. When checking
+
+Adjustable and nonadjustable stops (whichever the case
+requires) are used to limit the throw-range or travel movement
+of the ailerons, elevator, and rudder. Usually there are two
+sets of stops for each of the three main control surfaces. One
+set is located at the control surface, either in the snubber
+cylinders or as structural stops; the other, at the flight deck
+control. Either of these may serve as the actual limit stop.
+However, those situated at the control surface usually perform
+this function. The other stops do not normally contact each
+other, but are adjusted to a definite clearance when the
+control surface is at the full extent of its travel. These work
+as override stops to prevent stretching of cables and damage
+to the control system during violent maneuvers. When rigging
+control systems, refer to the applicable maintenance manual
+for the sequence of steps for adjusting these stops to limit the
+control surface travel.
+Where dual controls are installed, they must be synchronized
+and function satisfactorily when operated from both positions.
+Trim tabs and other tabs should be checked in a manner
+similar to the main control surfaces. The tab position
+indicator must be checked to see that it functions correctly.
+If jackscrews are used to actuate the trim tab, check to see
+that they are not extended beyond the specified limits when
+the tab is in its extreme positions.
+After determining that the control system functions properly
+and is correctly rigged, it should be thoroughly inspected to
+determine that the system is correctly assembled and operates
+freely over the specified range of movement.
+
+Checking & Safetying the System
+Whenever rigging is performed on any aircraft, it is good
+practice to have a second set of eyes inspect the control
+system to make certain that all turnbuckles, rod ends, and
+attaching nuts and bolts are correctly safetied.
+As a general rule, all fasteners on an aircraft are safetied in
+some manner. Safetying is defined as securing by various
+means any nut, bolt, turnbuckle, etc., on the aircraft so that
+vibration does not cause it to loosen during operation.
+Most aircraft manufacturers have a Standard Practices section
+in their maintenance manuals. These are the methods that
+should be used when working on a particular system of a
+2-52
+
+===== PDF PAGE 124 =====
+The most commonly used safety wire method is the doubletwist, utilizing stainless steel or Monel wire in the .032 to
+.040-inch diameter range. This method is used on studs, cable
+turnbuckles, flight controls, and engine accessory attaching
+bolts. A single-wire method is used on smaller screws, bolts,
+and/or nuts when they are located in a closely spaced or
+closed geometrical pattern. The single-wire method is also
+used on electrical components and in places that are difficult
+to reach. [Figure 2-91]
+Small screw in closely spaced closed
+geometrical pattern • Single-twist method
+
+Single-fastener application • Double-twist method
+
+Screwheads • Double-twist method
+
+Safety-of-flight emergency equipment, such as portable fire
+extinguishers, oxygen regulators, emergency valves, firewall
+shut-offs, and seals on first-aid kits, are safetied using a
+single copper wire (.020-inch diameter) or aluminum wire
+(.031-inch diameter). The wire on this emergency equipment
+is installed only to indicate the component is sealed or has
+not been actuated. It must be possible to break the wire seal
+by hand, without the use of any tools.
+The use of safety wire pliers, or wire twisters, makes the
+job of safetying much easier on the mechanic’s hands and
+produces a better finished product. [Figure 2-92]
+The wire should have six to eight twists per inch of wire and
+be pulled taut while being installed. Where practicable, install
+the safety wire around the head of the fastener and twist it in
+such a manner that the loop of the wire is pulled close to the
+contour of the unit being safety wired, and in the direction that
+would have the tendency to tighten the fastener. [Figure 2-93]
+
+External snapring • Single-wire method
+Outer sleeve
+
+Castle nuts
+
+To
+l
+
+oc
+
+Bolt heads
+
+kj
+
+aw
+
+Pu
+
+s
+
+ll k
+
+Figure 2-91. Double-wrap and single safety wire methods for nuts,
+
+bolts, and snap rings.
+
+specific aircraft. However, most standard aircraft hardware
+has a standard method of being safetied. The following
+information provides some of the most common methods
+used in aircraft safetying.
+
+no
+
+bt
+
+ot
+
+wis
+
+tw
+
+ire
+
+Plier handles will spin
+when knob is pulled
+
+Figure 2-92. Use of safety-wire pliers or wire twisters.
+
+2-53
+
+===== PDF PAGE 125 =====
+Example 1
+
+Example 2
+
+Examples apply to all types of bolts, fillister-head
+screws, square-head plugs, and other similar parts
+which are wired so that the loosening tendency of
+either part is counteracted by tightening of the other
+part. The direction of twist from the second to the
+third unit is counterclockwise in examples to keep the
+loop in position against the head of the bolt. The wire
+entering the hole in the third unit is the lower
+wire, and by making a counterclockwise twist after it
+leaves the hole, the loop is secured in place
+around the head of that bolt.
+
+Example 6
+
+Correct application of
+single wire to closely
+spaced multiple group.
+
+Example 7
+
+Example 3
+
+Example 4
+
+Example 5
+
+Example shows methods for wiring various standard items.
+NOTE: Wire may be wrapped over the unit rather than around it when wiring
+castellated nuts or on other items when there is clearance problem.
+
+Example 8
+
+Example 9
+
+Example 10
+
+Fittings incorporating wire lugs shall be wired as shown in 7 and 8. Where no lock-wire lug is
+provided, wire should be applied as shown in 9 and 10 with caution being exerted to ensure that
+wire is wrapped tightly around the fitting.
+
+Example 6
+
+Example 10
+
+Coupling nuts attached to straight connectors shall be wired as shown when hex
+is an integral part of the connector.
+
+Coupling nuts on a tee shall be wired, as shown
+above, so that tension is always in the tightening
+direction.
+
+Figure 2-93. Examples of various fasteners and methods of safetying.
+
+2-54
+
+===== PDF PAGE 126 =====
+Cotter pins are used to secure such items as bolts, screws,
+pins, and shafts. They are used at any location where a turning
+or actuating movement takes place. The diameter of the cotter
+pin selected for any application should be the largest size that
+will fit consistent with the diameter of the cotter pin hole and/
+or the slots in the castellated nut. Cotter pins, like safety wire,
+should never be re-used on aircraft. [Figure 2-94]
+Self-locking nuts are used in applications where they are
+not removed often. There are two types of self-locking nuts
+currently in use. One is all metal and the other has an insert,
+usually of fiber or nylon.
+It is extremely important that the manufacturer’s Illustrated
+Parts Book (IPB) be consulted for the correct type and
+grade of lock nut for various locations on the aircraft.
+The finish or plating color of the nut identifies the type of
+application and environment in which it can be used. For
+example, a cadmium-plated nut is gold in color and provides
+exceptionally good protection against corrosion, but should
+not be used in applications where the temperature may
+exceed 450 °F.
+Repeated removal and installation causes the self-locking nut
+to lose its locking feature. They should be replaced when they
+are no longer capable of maintaining the minimum prevailing
+torque. [Figure 2-95]
+Lock washers may be used with bolts and machine screws
+whenever a self-locking nut or castellated nut is not
+applicable. They may be of the split washer spring type, or
+a multi-serrated internal or external star washer.
+Pal nuts may be a second nut tightened against the first and
+used to force the primary nut thread against the bolt or screw
+thread. They may also be of the type that are made of stamped
+spring steel and are to be used only once and replaced with
+new ones when removed.
+
+Biplane Assembly & Rigging
+Biplanes were some of the very first aircraft designs. The
+first powered heavier-than-air aircraft, the Wright Brothers’
+Wright Flyer, successfully flown on December 17, 1903,
+was a biplane.
+The first biplanes were designed with very thin wing
+sections and, consequently, the wing structure needed to
+be strengthened by external bracing wires. The biplane
+configuration allowed the two wings to be braced against one
+another, increasing the structural strength. When the assembly
+and rigging of a biplane is accomplished in accordance with
+the approved instructions, a stable airworthy aircraft is the
+
+Figure 2-94. Securing hardware with cotter pins.
+Fine Thread Series
+Thread Size
+
+Minimum Prevailing Torque
+
+7/16 - 20
+1/2 - 20
+9/16 - 18
+5/8 - 18
+3/4 - 16
+7/8 - 14
+1 - 14
+1-1/8 - 12
+1-1/4 - 12
+
+8 inch-pounds
+10 inch-pounds
+13 inch-pounds
+18 inch-pounds
+27 inch-pounds
+40 inch-pounds
+55 inch-pounds
+73 inch-pounds
+94 inch-pounds
+Coarse Thread Series
+
+Thread Size
+
+Minimum Prevailing Torque
+
+7/16 - 14
+1/2 - 13
+9/16 - 12
+5/8 - 11
+3/4 - 10
+7/8 - 9
+1-8
+1-1/8 - 8
+1-1/4 - 8
+
+8 inch-pounds
+10 inch-pounds
+14 inch-pounds
+20 inch-pounds
+27 inch-pounds
+40 inch-pounds
+51 inch-pounds
+68 inch-pounds
+68 inch-pounds
+
+Figure 2-95. Minimum prevailing torque values for reused self-
+
+locking nuts.
+
+result.
+Whether assembling an early model vintage aircraft that
+may have been disassembled for repair and restoration, or
+constructing and assembling a new aircraft, the following are
+some basic alignment procedures to follow.
+To start, the fuselage must be level, fore and aft and laterally.
+The aircraft usually has specific leveling points designated
+2-55
+
+===== PDF PAGE 127 =====
+Note
+
+Select easy-to-identify
+points from which to
+cross-measure.
+
+• Make crossmeasurements with a 50'
+steel tape.
+• Ideally, distances on
+both sides should match.
+(A1-A2 / B1-B2, etc.)
+
+Distance “Y”
+same both sides
+
+Fuselage centerline
+Straight edge clamp to firewall
+
+90°
+
+90°
+
+90°
+
+Firewall centerline
+CENTER SECTION
+
+Top view
+C1
+
+B1
+
+D1
+
+D2
+
+B2
+
+C2
+
+Both tie rods “Z”
+same length
+
+Level
+
+90°
+
+Reference point
+Z
+
+Top view
+Vertical tail post (reference)
+
+Distance
+“X” same
+both sides
+
+Z
+
+X
+
+X
+
+9 8 7 6 5 4 3 2 1
+
+Ruler
+
+1 2 3 4 5 6 7 8 9
+
+Plumb bob
+A1
+
+90°
+
+A2
+
+Rear view
+
+Front view
+
+Figure 2-96. Checking aircraft symmetry.
+
+Figure 2-97. Center section alignment.
+
+by the manufacturer or indicated on the plans. The fuselage
+should be blocked up off the landing gear so it is stable. A
+center line should be drawn on the floor the length of the
+fuselage and another line perpendicular to it at the firewall,
+for use as an additional alignment reference.
+
+If the biplane has a center section for the upper wing, it
+must be aligned as accurately as possible, because even the
+smallest error is compounded at the wing tip. Applicable
+cables and turnbuckles should be connected and the tension
+set as specified. [Figure 2-97] The stagger measurement can
+be checked as shown in Figure 2-98.
+
+With the horizontal and vertical tail surfaces installed, the
+incident angle for the horizontal stabilizer should be set.
+The tail brace wires should be connected and tightened until
+the slack is removed. Alignment measurements should be
+checked as shown in Figure 2-96.
+Install the elevator and rudder and clamp them in a neutral
+position. Verify the neutral position of the control stick
+and rudder pedals in the flight deck and secure them in
+order to simplify the connecting and final tensioning of
+the control cables.
+
+The lower wing sections should be individually attached to
+the fuselage and blocked up for support while the landing
+wires are connected and adjusted to obtain the dihedral called
+for in the specifications or plans. [Figure 2-99]
+Next, connect the outer “N” struts to the left and right sections
+of the lower wing. Now, the upper wing can be attached and
+the flying wires installed. The slave struts can be installed
+and the ailerons connected using the same alignment and
+adjustment procedures used for the elevator and rudder. The
+incidence angle can be checked, as shown in Figure 2-100.
+2-56
+

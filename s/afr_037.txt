@@ -1,0 +1,1928 @@
+FAA-H-8083-31B Airframe Handbook, chapter 10 (Aircraft Systems), PDF pages 556-573
+
+===== PDF PAGE 556 =====
+The Wheatstone-bridge indicator is subject to errors from
+line voltage fluctuation. The ratiometer is more stable and
+can deliver higher accuracy. As its name suggests, the
+ratiometer electrical resistance thermometer measures a
+ratio of current flows.
+The resistance bulb sensing portion of the ratiometer electric
+resistance thermometer is essentially the same as described
+above. The circuit contains a variable resistance and a fixed
+resistance to provide the indication. It contains two branches
+for current flow. Each has a coil mounted on either side of
+the pointer assembly that is mounted within the magnetic
+field of a large permanent magnet. Varying current flow
+through the coils causes different magnetic fields to form,
+which react with the larger magnetic field of the permanent
+magnet. This interaction rotates the pointer against the dial
+face that is calibrated in degrees Fahrenheit or Celsius, giving
+a temperature indication. [Figure 10-70]
+The magnetic pole ends of the permanent magnet are closer at
+the top than they are at the bottom. This causes the magnetic
+field lines of flux between the poles to be more concentrated
+at the top. As the two coils produce their magnetic fields, the
+stronger field interacts and pivots downward into the weaker,
+less concentrated part of the permanent magnet field, while
+the weaker coil magnetic field shifts upward toward the more
+concentrated flux field of the large magnet. This provides a
+balancing effect that changes but stays in balance as the coil
+field strengths vary with temperature and the resultant current
+flowing through the coils.
+For example, if the resistance of the temperature bulb is
+equal to the value of the fixed resistance (R), equal values
+
+N
+
+S
+
+R
+
+N
+
+A
+
+B
+
+N
+
+S
+
+S
+
+Sensitive
+element (bulb)
+
+Figure 10-70. A ratiometer temperature measuring indicator has two
+coils. As the sensor bulb resistance varies with temperature, different
+amounts of current flow through the coils. This produces varying
+magnetic fields. These fields interact with the magnetic field of a
+large permanent magnet, resulting in an indication of temperature.
+
+of current flow through the coils. The torques, caused by
+the magnetic field each coil creates, are the same and cancel
+any movement in the larger magnetic field. The indicator
+pointer will be in the vertical position. If the bulb temperature
+increases, its resistance also increases. This causes the current
+flow through coil A circuit branch to increase. This creates a
+stronger magnetic field at coil A than at coil B. Consequently,
+the torque on coil A increases, and it is pulled downward
+into the weaker part of the large magnetic field. At the same
+time, less current flows through the sensor bulb resistor and
+coil B, causing coil B to form a weaker magnetic field that
+is pulled upward into the stronger flux area of the permanent
+magnet’s magnetic field. The pointer stops rotating when the
+fields reach a new balance point that is directly related to the
+resistance in the sensing bulb. The opposite of this action
+would take place if the temperature of the heat-sensitive
+bulb should decrease.
+Ratiometer temperature measuring systems are used to
+measure engine oil, outside air, carburetor air, and other
+temperatures in many types of aircraft. They are especially
+in demand to measure temperature conditions where
+accuracy is important, or large variations of supply voltages
+are encountered.
+Thermocouple Temperature Indicators
+A thermocouple is a circuit or connection of two unlike
+metals. The metals are touching at two separate junctions.
+If one of the junctions is heated to a higher temperature than
+the other, an electromotive force is produced in the circuit.
+This voltage is directly proportional to the temperature. So,
+by measuring the amount of electromotive force, temperature
+can be determined. A voltmeter is placed across the colder
+of the two junctions of the thermocouple. It is calibrated in
+degrees Fahrenheit or Celsius, as needed. The hotter the hightemperature junction (hot junction) becomes, the greater the
+electromotive force produced, and the higher the temperature
+indication on the meter. [Figure 10-71]
+Thermocouples are used to measure high temperatures. Two
+common applications are the measurement of cylinder head
+temperature (CHT) in reciprocating engines and exhaust gas
+temperature (EGT) in turbine engines. Thermocouple leads
+are made from a variety of metals, depending on the maximum
+temperature to which they are exposed. Iron and constantan,
+or copper and constantan, are common for CHT measurement.
+Chromel and alumel are used for turbine EGT thermocouples.
+The amount of voltage produced by the dissimilar metals when
+heated is measured in millivolts. Therefore, thermocouple
+leads are designed to provide a specific amount of resistance
+in the thermocouple circuit (usually very little). Their
+material, length, or cross-sectional size cannot be altered
+10-37
+
+===== PDF PAGE 557 =====
+Back of indicating instrument
+
+Voltmeter inside forms cold junction
+
+Typical Thermocouple
+
+Constantan (chrome on turbine engine)
+Connectors
+
+Hot junction
+
+Copper or iron
+(alumel on turbine
+engines)
+
+Black
+
+Thermocouple leads
+Figure 10-71. Thermocouples combine two unlike metals that cause current flow when heated.
+
+without compensation for the change in total resistance that
+would result. Each lead that makes a connection back to the
+voltmeter must be made of the same metal as the part of the
+thermocouple to which it is connected. For example, a copper
+wire is connected to the copper portion of the hot junction
+and a constantan wire is connected to the constantan part.
+The hot junction of a thermocouple varies in shape depending
+on its application. Two common types are the gasket and the
+bayonet. In the gasket type, two rings of the dissimilar metals
+are pressed together to form a gasket that can be installed
+under a spark plug or cylinder hold down nut. In the bayonet
+type, the metals come together inside a perforated protective
+sheath. Bayonet thermocouples fit into a hole or well in a
+cylinder head. On turbine engines, they are found mounted
+on the turbine inlet or outlet case and extend through the case
+into the gas stream. Note that for CHT indication, the cylinder
+chosen for the thermocouple installation is the one that runs
+the hottest under most operating conditions. The location of
+this cylinder varies with different engines. [Figure 10-72]
+The cold junction of the thermocouple circuit is inside the
+instrument case. Since the electromotive force set up in the
+circuit varies with the difference in temperature between
+the hot and cold junctions, it is necessary to compensate the
+indicator mechanism for changes in flight deck temperature
+which affect the cold junction. This is accomplished by using
+a bimetallic spring connected to the indicator mechanism.
+This actually works the same as the bimetallic thermometer
+described previously. When the leads are disconnected
+
+from the indicator, the temperature of the flight deck area
+around the instrument panel can be read on the indicator
+dial. [Figure 10-73] Numeric LED indictors for CHT are
+also common in modern aircraft.
+
+A
+
+Gasket type thermocouple
+
+Engine cylinder spark plug bore
+B
+
+Figure 10-72. A cylinder head temperature thermocouple with a
+gasket type hot junction is made to be installed under the spark plug
+or a cylinder hold down nut of the hottest cylinder (A). A bayonet
+type thermocouple is installed in a bore in the cylinder wall (B).
+
+10-38
+
+===== PDF PAGE 558 =====
+the temperature of the exhaust gases is measured at the
+entrance to the turbine unit. This is referred to as a turbine
+inlet temperature (TIT) indicating system.
+
+3
+2
+
+Several thermocouples are used to measure EGT or TIT.
+They are spaced at intervals around the perimeter of the
+engine turbine casing or exhaust duct. The tiny thermocouple
+voltages are typically amplified and used to energize a
+servomotor that drives the indicator pointer. Gearing a
+digital drum indication off of the pointer motion is common.
+[Figure 10-74] The EGT indicator shown is a hermetically
+sealed unit. The instrument’s scale ranges from 0 °C to 1,200
+°C, with a vernier dial in the upper right-hand corner and a
+power off warning flag located in the lower portion of the dial.
+
+°C
+x 100
+
+1
+0
+
+1
+
+50
+
+0
+
+150
+
+°C
+
+2
+
+250
+
+3
+350
+
+Figure 10-73. Typical thermocouple temperature indicators.
+
+Turbine Gas Temperature Indicating Systems
+EGT is a critical variable of turbine engine operation.
+The EGT indicating system provides a visual temperature
+indication in the flight deck of the turbine exhaust gases
+as they leave the turbine unit. In certain turbine engines,
+
+9
+
+10
+
+11
+
+8
+
+A schematic for the turbine inlet temperature system for
+one engine of a four-engine turbine aircraft is shown in
+Figure 10-75. Circuits for the other three engines are identical
+to this system. The indicator contains a bridge circuit, a
+chopper circuit, a two-phase motor to drive the pointer,
+and a feedback potentiometer. Also included are a voltage
+reference circuit, an amplifier, a power-off flag, a power
+supply, and an over-temperature warning light. Output of
+the amplifier energizes the variable field of the two-phase
+motor that positions the indicator main pointer and a digital
+indicator. The motor also drives the feedback potentiometer
+to provide a humming signal to stop the drive motor when
+
+0
+2
+
+6
+
+7
+
+A TIT indicating system provides a visual indication at the
+instrument panel of the temperature of gases entering the
+turbine. Numerous thermocouples can be used with the
+average voltage representing the TIT. Dual thermocouples
+exist containing two electrically independent junctions within
+a single probe. One set of these thermocouples is paralleled
+to transmit signals to the flight deck indicator. The other
+set of parallel thermocouples provides temperature signals
+to engine monitoring and control systems. Each circuit is
+electrically independent, providing dual system reliability.
+
+4
+
+6
+
+0
+
+CX 100
+
+5
+
+OFF
+
+4
+
+3
+
+CR
+
+A
+M
+P
+
+AL
+
+Indicator
+
+2
+
+1
+
+D
+A
+C
+
+115 V.A.C. bus
+
+Chromel
+Alumel
+
+Turbine outlet circuit breaker
+Figure 10-74. A typical exhaust gas temperature thermocouple system.
+
+10-39
+
+===== PDF PAGE 559 =====
+Engine No. 1
+B
+Bridge
+
+A
+
+0
+
+C 1200
+
+Thermocouples
+
+Digital
+indicator
+M
+
+Overtemp
+warning light
+test switch
+F
+E
+G
+D
+
+Eng. 1
+
+Eng. 2
+
+Eng. 3
+
+Eng. 4
+
+1
+
+Zener
+voltage
+reference
+
+Chopper
+
+Amplifier
+
+Power
+supply
+Overtemp R
+warning light
+Power oft warning flag
+
+1
+
+1
+
+Figure 10-75. A typical analog turbine inlet temperature indicating system.
+
+the correct pointer position, relative to the temperature signal,
+has been reached. The voltage reference circuit provides a
+closely regulated reference voltage in the bridge circuit to
+preclude error from input voltage variation to the indicator
+power supply.
+The over-temperature warning light in the indicator
+illuminates when the TIT reaches a predetermined limit.
+An external test switch is usually installed so that overtemperature warning lights for all the engines can be tested
+at the same time. When the test switch is operated, an overtemperature signal is simulated in each indicator temperature
+control bridge circuit.
+Digital flight deck instrumentation systems need not
+employ resistance-type indicators and adjusted servo-driven
+thermocouple gauges to provide the pilot with temperature
+information. Sensor resistance and voltage values are
+input to the appropriate computer, where they are adjusted,
+processed, monitored, and output for display on flight deck
+
+display panels. They are also sent for use by other computers
+requiring temperature information for the control and
+monitoring of various integrated systems.
+Total Air Temperature Measurement
+Air temperature is a valuable parameter that many
+performance monitoring and control variables depend on.
+During flight, static air temperature changes continuously
+and accurate measurement presents challenges. Below Mach
+0.2, a simple resistance-type or bimetallic temperature gauge
+can provide relatively accurate air temperature information.
+At faster speeds, friction, the air’s compressibility, and
+boundary layer behavior make accurate temperature capture
+more complex. Total air temperature (TAT) is the static air
+temperature plus any rise in temperature caused by the highspeed movement of the aircraft through the air. The increase
+in temperature is known as ram rise. TAT-sensing probes are
+constructed specifically to accurately capture this value and
+transmit signals for flight deck indication, as well as for use
+in various engine and aircraft systems.
+10-40
+
+===== PDF PAGE 560 =====
+Simple TAT systems include a sensor and an indicator with a
+built-in resistance balance circuit. Air flow through the sensor
+is designed so that air with the precise temperature impacts a
+platinum alloy resistance element. The sensor is engineered
+to capture temperature variations in terms of varying the
+resistance of the element. When placed in the bridge circuit,
+the indicator pointer moves in response to the imbalance
+caused by the variable resistor.
+More complex systems use signal correction technology
+and amplified signals sent to a servo motor to adjust the
+indicator in the flight deck. These systems include closely
+regulated power supply and failure monitoring. They often use
+numeric drum type readouts but can also be sent to an LCD
+driver to illuminate LCD displays. Many LCD displays are
+Balanced bridge indicator
+40
+
+20
+
+80
+
+20
+-20
+
+-20
+
+Total air temp
+
+100
+
+40
+
+-40
+-40
+-60
+
+120
+
+60
+
+C
+
+140
+
+F
+
+Servo driven
+indicator
+
+LCD
+indicator
+Mode annunciation
+
+TAT
+
++
+
+TAT
+
+°C
+
+°C
+
++
+
+OFF
+
+Failure flag
+
+TAT sensor/probe design is complicated by the potential of ice
+forming during icing conditions. Left unheated, a probe may
+cease to function properly. The inclusion of a heating element
+threatens accurate data collection. Heating the probe must not
+affect the resistance of the sensor element. [Figure 10-77]
+Close attention is paid to airflow and materials conductivity
+during the design phase. Some TAT sensors channel bleed
+air through the units to affect the flow of outside air, so that
+it flows directly onto the platinum sensor without gaining
+added energy from the probe heater.
+
+Direction Indicating Instruments
+
+60
+
+0
+0
+
+multifunctional, capable of displaying static air temperature
+and true airspeed. In fully digital systems, the correction
+signals are input into the ADC. There, they can be manipulated
+appropriately for flight deck display or for whichever system
+requires temperature information. [Figure 10-76]
+
+Function selector push button
+
+A myriad of techniques and instruments exist to aid the
+pilot in navigation of the aircraft. An indication of direction
+is part of this navigation. While the next chapter deals with
+communication and navigation, this section discusses some of
+the magnetic direction indicating instruments. Additionally, a
+common, reliable gyroscopic direction indicator is discussed
+in the gyroscopic instrument section of this chapter.
+Magnetic Compass
+Having an instrument on board an aircraft that indicates
+direction can be invaluable to the pilot. 14 CFR part 91,
+section 91.205 requires that aircraft with standard category
+airworthiness certificates have a magnetic direction indicator
+for VFR flight during the day. The magnetic compass is a
+direction finding instrument that has been used for navigation
+for hundreds of years. It is a simple instrument that takes
+advantage of the earth’s magnetic field.
+
+Full digital display
+D
+
+TAT - 15 c
+96.1
+
+TO
+
+85.0
+10
+8
+6
+
+4
+
+FW
+
+96.1
+
+85.0
+
+0
+
+10
+
+2
+
+8
+
+0
+6
+
+4
+
+2
+
+N1
+
+450
+10
+8
+6
+
+4
+
+450
+
+0
+
+10
+
+2
+
+8
+
+0
+6
+
+4
+
+2
+
+EGT
+
+50 OIL ORESS 50
+105 OIL TEMP 100
+97.0
+20 OIL QTY
+20
+8.4
+1.9 N2 VIB
+1.9 FAN
+
+N2
+FF
+
+97.0
+8.4
+
+Figure 10-76. Different flight deck TAT displays.
+
+FWD
+
+Figure 10-77. Total air temperature (TAT) probes.
+
+10-41
+
+===== PDF PAGE 561 =====
+Figure 10-78 shows the earth and the magnetic field that
+surrounds it. The magnetic north pole is very close to the
+geographic North Pole of the globe, but they are not the same.
+An ordinary permanent magnet that is free to do so, aligns
+itself with the direction of the earth’s magnetic field. Upon
+this principle, an instrument is constructed that the pilot can
+reference for directional orientation. Permanent magnets are
+attached under a float that is mounted on a pivot so it is free
+to rotate in the horizontal plane. As such, the magnets align
+with the earth’s magnetic field. A numerical compass card,
+usually graduated in 5° increments, is constructed around
+the perimeter of the float. It serves as the instrument dial.
+The entire assembly is enclosed in a sealed case that is filled
+with a liquid similar to kerosene. This dampens vibration and
+
+Geographic pole
+
+Magnetic pole
+
+N
+
+S
+
+oscillation of the moving float assembly and decreases friction.
+On the front of the case, a glass face allows the numerical
+compass card to be referenced against a vertical lubber line.
+The magnetic heading of the aircraft is read by noting the
+graduation on which the lubber line falls. Thus, direction
+in any of 360° can be read off the dial as the magnetic float
+compass card assembly holds its alignment with magnetic
+north, while the aircraft changes direction.
+The liquid that fills the compass case expands and contracts
+as altitude changes and temperature fluctuates. A bellows
+diaphragm expands and contracts to adjust the volume of
+the space inside the case so it remains full. [Figure 10-79]
+There are accuracy issues associated with using a magnetic
+compass. The main magnets of a compass align not only
+with the earth’s magnetic field, they actually align with the
+composite field made up of all magnetic influences around
+them, meaning local electromagnetic influence from metallic
+structures near the compass and operation of the aircraft’s
+electrical system. This is called magnetic deviation. It causes
+a magnet’s alignment with the earth’s magnetic field to be
+altered. Compensating screws are turned, which move small
+permanent magnets in the compass case to correct for this
+magnetic deviation. The two set-screws are on the face of
+the instrument and are labeled N-S and E-W. They position
+the small magnets to counterbalance the local magnetic
+influences acting on the main compass magnets.
+The process for knowing how to adjust for deviation is known
+as swinging the compass. It is described in the instrument
+maintenance pages near the end of this chapter. Magnetic
+
+Figure 10-78. The earth and its magnetic field.
+
+Instrument lamp
+
+Float
+
+Bellows expansion unit
+
+Lubber line
+
+Compass card
+
+N
+
+33
+
+30 27
+
+Lens
+Jewel
+Sensing magnet
+N-S
+
+Pivot
+Jewel spring
+
+E-W
+
+Compensating screws
+Outer case
+
+Jewel post
+Compensating magnet
+
+Filler hole
+
+Figure 10-79. The parts of a typical magnetic compass.
+
+10-42
+
+===== PDF PAGE 562 =====
+deviation cannot be overlooked. It should never be more
+than 10°. Using nonferrous mounting screws and shielding
+or twisting the wire running to the compass illuminating lamp
+are additional steps taken to keep deviation to a minimum.
+Another compass error is called magnetic variation. It is
+caused by the difference in location between the earth’s
+magnetic poles and the geographic poles. There are only
+a few places on the planet where a compass pointing to
+magnetic north is also pointing to geographic North. A line
+drawn through these locations is called the Agonic line. At
+all other points, there is some variation between that which
+a magnetic compass indicates is north and geographic (true)
+North. Isogonic lines drawn on aeronautical charts indicate
+points of equal variation. Depending on the location of
+the aircraft, airmen must add or subtract degrees from the
+magnetic indication to obtain true geographic location
+information. [Figure 10-80]
+The earth’s magnetic field exits the poles vertically and arches
+around to extend past the equator horizontally or parallel to
+the earth’s surface. [Figure 10-78] Operating an aircraft near
+the magnetic poles causes what is known as dip error. The
+compass magnets pull downward toward the pole, rather than
+horizontally, as is the case near the equator. This downward
+motion causes inaccuracy in the indication. Although the
+compass float mechanism is weighted to compensate, the
+closer the aircraft is to the north or south magnetic poles,
+the more pronounced the errors.
+Dip errors manifest themselves in two ways. The first is called
+acceleration error. If an aircraft is flying on an east-west path
+and simply accelerates, the inertia of the float mechanism
+causes the compass to swing to the north. Rapid deceleration
+causes it to swing southward. Second, if flying toward the
+North Pole and a banked turn is made, the downward pull
+
+Add to magnetic
+heading
+
+Subtract from
+magnetic heading
+20°W
+15°W
+
+20°E
+
+15°E
+
+10°W
+
+10°E
+
+5°E
+
+0°
+
+5°W
+
+Figure 10-80. Aircraft located along the agonic line have 0° of
+variation between magnetic north and true north. Locations on and
+between the isogonic lines require addition or subtraction, as shown,
+to magnetic indications to arrive at a true geographic direction.
+
+of the magnetic field initially pulls the card away from the
+direction of the turn. The opposite is true if flying south from
+the North Pole and a banked turn is initiated. In this case, there
+is initially a pull of the compass indicator toward the direction
+of the turn. These kinds of movements are called turning errors.
+Another peculiarity exists with the magnetic compass that
+is not dip error. Look again at the magnetic compass in
+Figure 10-79. If flying north or toward any indicated heading,
+turning the aircraft to the left causes a steady decrease in the
+heading numbers. But, before the turn is made, the numbers
+to the left on the compass card are actually increasing. The
+numbers to the right of the lubber line rotate behind it on a left
+turn. So, the compass card rotates opposite to the direction of
+the intended turn. This is because, from the pilot’s seat, you
+are actually looking at the back of the compass card. While
+not a major problem, it is more intuitive to see the 360° of
+direction oriented as they are on an aeronautical chart or a
+hand-held compass.
+Vertical Magnetic Compass
+Solutions to the shortcomings of the simple magnetic
+compass described above have been engineered. The vertical
+magnetic compass is a variation of the magnetic compass
+that eliminates the reverse rotation of the compass card just
+described. By mounting the main indicating magnets of the
+compass on a shaft rather than a float, through a series of
+gears, a compass card can be made to turn about a horizontal
+axis. This allows the numbers for a heading, towards which
+the pilot wants to turn, to be oriented correctly on the
+indicating card. In other words, when turning right, increasing
+numbers are to the right; when turning left, decreasing
+numbers rotate in from the left. [Figure 10-81]
+Many vertical magnetic compasses have also replaced the
+liquid-filled instrument housing with a dampening cup that
+uses eddy currents to dampen oscillations. Note that a vertical
+magnetic compass and a directional gyro look very similar
+and are often in the lower center position of the instrument
+panel basic T. Both use the nose of an aircraft as the lubber
+line against which a rotating compass card is read. Vertical
+magnetic compasses are characterized by the absence of the
+hand adjustment knob found on DGs, which is used to align
+the gyro with a magnetic indication.
+Remote Indicating Compass
+Magnetic deviation is compensated for by swinging the
+compass and adjusting compensating magnets in the
+instrument housing. A better solution to deviation is to
+remotely locate the magnetic compass in a wing tip or vertical
+stabilizer where there is very little interference with the
+earth’s magnetic field. By using a synchro remote indicating
+system, the magnetic compass float assembly can act as the
+rotor of the synchro system. As the float mechanism rotates to
+10-43
+
+===== PDF PAGE 563 =====
+section of this chapter assists in understanding this device.
+
+N
+
+3
+
+6
+
+W 30
+24
+
+33
+
+E 12
+15
+
+S 21
+
+Figure 10-81. A vertical magnetic direction indicator provides a
+realistic reference of headings.
+
+align with magnetic north in the remotely located compass, a
+varied electric current can be produced in the transmitter. This
+alters the magnetic field produced by the coils of the indicator
+in the flight deck, and a magnetic indication relatively free
+from deviation is displayed. Many of these systems are of
+the magnesyn type.
+Remote Indicating Slaved Gyro Compass (Flux
+Gate Compass)
+An elaborate and very accurate method of direction
+indication has been developed that combines the use of a
+gyro, a magnetic compass, and a remote indicating system.
+[Figure 10-82] It is called the slaved gyro compass or flux
+gate compass system. A study of the gyroscopic instruments
+
+A gyroscopic direction indicator is augmented by magnetic
+direction information from a remotely located compass.
+The type of compass used is called a flux valve or flux gate
+compass. It consists of a very magnetically permeable circular
+segmented core frame called a spider. The earth’s magnetic
+field flows through this iron core and varies its distribution
+through segments of the core as the flux valve is rotated
+via the movement of the aircraft. Pickup coil windings are
+located on each of the core’s spider legs that are positioned
+120° apart. [Figure 10-83]
+The distribution of earth’s magnetic field flowing through
+the legs is unique for every directional orientation of the
+aircraft. A coil is placed in the center of the core and is
+energized by AC current. As the AC flow passes through
+zero while changing direction, the earth’s magnetic field
+is allowed to flow through the core. Then, it is blocked or
+gated as the magnetic field of the core current flow builds
+to its peak again. The cycle is repeated at the frequency of
+the AC supplied to the excitation coil. The result is repeated
+flow and nonflow of the earth’s flux across the pickup coils.
+During each cycle, a unique voltage is induced in each of
+the pickup coils reflecting the orientation of the aircraft in
+the earth’s magnetic field.
+The electricity that flows from each of the pickup coils is
+transmitted out of the flux valve via wires into a second
+unit. It contains an autosyn transmitter, directional gyro, an
+amplifier, and a triple wound stator that is similar to that
+found in the indicator of a synchro system. Unique voltage
+is induced in the center rotor of this stator which reflects
+the voltage received from the flux valve pickup coils sent
+through the stator coils. It is amplified and used to augment
+the position of the DG. The gyro is wired to be the rotor of
+an autosyn synchro system, which transmits the position
+
+DC
+
+I5
+
+GS
+
+I2
+6
+
+30
+
+3
+
+DG/Amplifier or slaved gyro
+
+GS
+
+33
+
+Flux valve or flux gate
+
+2I
+HDG
+
+24
+
+NOV
+
+Direction indicator
+
+Figure 10-82. Components used to provide direction indication.
+
+10-44
+
+===== PDF PAGE 564 =====
+Universal joint
+
+Exciter coil
+
+Pickup coils
+
+Mounting flange
+
+Sealed outer case
+
+Sealed inner case
+
+Damping fluid
+
+Figure 10-83. As the aircraft turns in the earth’s magnetic field, the lines of flux flow lines vary through the permeable core of flux gate,
+
+creating variable voltages at the three pickoffs.
+
+of the gyro into an indicator unit located in the flight deck.
+[Figure 10-84] In the indicator, a vertical compass card is
+rotated against a small airplane type lubber line like that in
+a vertical magnetic compass.
+Further enhancements to direction finding systems of this
+type involving the integration of radio navigation aids are
+common. The radio magnetic indicator (RMI) is one such
+variation. [Figure 10-85] In addition to the rotating direction
+indicator of the slaved gyro compass, it contains two pointers.
+Each pointer can show the bearing to either a very high
+frequency (VHF) omnidirectional range (VOR) station
+or to a non-directional automatic direction finder (ADF)
+beacon. These and other radio navigation aids are discussed
+further in the communications and navigation chapter of this
+handbook. It should also be noted that integration of slaved
+gyro direction indicating system information into auto-pilot
+systems is also possible.
+Solid State Magnetometers
+Solid state magnetometers are used on many modern aircraft.
+They have no moving parts and are extremely accurate.
+Tiny layered structures react to magnetism on a molecular
+level resulting in variations in electron activity. These low
+power consuming devices can sense not only the direction
+to the earth’s magnetic poles, but also the angle of the flux
+field. They are free from oscillation that plagues a standard
+magnetic compass. They feature integrated processing
+algorithms and easy integration with digital systems.
+[Figure 10-86]
+
+Sources of Power for Gyroscopic
+Instruments
+Gyroscopic instruments are essential instruments used on
+all aircraft. They provide the pilot with critical attitude and
+directional information and are particularly important while
+flying under IFR. The sources of power for these instruments
+can vary. The main requirement is to spin the gyroscopes
+at a high rate of speed. Originally, gyroscopic instruments
+were strictly vacuum driven. A vacuum source pulled air
+across the gyro inside the instruments to make the gyros
+spin. Later, electricity was added as a source of power. The
+turning armature of an electric motor doubles as the gyro
+rotor. In some aircraft, pressure, rather than vacuum, is used
+to induce the gyro to spin. Various systems and powering
+configurations have been developed to provide reliable
+operation of the gyroscopic instruments.
+Vacuum Systems
+Vacuum systems are very common for driving gyro
+instruments. In a vacuum system, a stream of air directed
+against the rotor vanes turns the rotor at high speed. The
+action is similar to a water wheel. Air at atmospheric pressure
+is first drawn through a filter(s). It is then routed into the
+instrument and directed at vanes on the gyro rotor. A suction
+line leads from the instrument case to the vacuum source.
+From there, the air is vented overboard. Either a venturi or a
+vacuum pump can be used to provide the vacuum required
+to spin the rotors of the gyro instruments.
+The amount of vacuum required for instrument operation
+is usually between 3½ inches to 4½ inches of mercury. It is
+usually adjusted by a vacuum relief valve located in the supply
+line. Some turn-and-bank indicators require a lower vacuum
+setting. This can be obtained through the use of an additional
+regulating valve in the turn and bank vacuum supply line.
+10-45
+
+===== PDF PAGE 565 =====
+400 Hz AC
+
+400 Hz AC
+
+Autosyn
+transmitter
+
+Autosyn
+indicator
+
+Directional gyro
+
+Fixed phase
+
+Earth’s
+magnetic field
+
+400 Hz AC
+
+Dial of
+remote
+indicator
+
+Variable phase
+
+Slaving torque
+motor
+
+Rotor
+
+Amplifier
+
+Stator
+
+Flux valve
+
+Slaved gyro control
+
+Figure 10-84. A simplified schematic of a flux gate, or slaved gyro, compass system.
+
+Venturi Tube Systems
+The velocity of the air rushing through a venturi can create
+sufficient suction to spin instrument gyros. A line is run from
+the gyro instruments to the throat of the venturi mounted on
+the outside of the airframe. The low pressure in the venturi
+tube pulls air through the instruments, spins the gyros, and
+expels the air overboard through the venturi. This source of
+gyro power is used on many simple, early aircraft.
+A light, single-engine aircraft can be equipped with a
+2-inch venturi (2 inches of mercury vacuum capacity) to
+operate the turn and bank indicator. It can also have a larger
+8-inch venturi to power the attitude and heading indicators.
+Simplified illustrations of these venturi vacuum systems
+are shown in Figure 10-87. Normally, air going into the
+instruments is filtered.
+The advantages of a venturi as a suction source are its
+relatively low cost and its simplicity of installation and
+
+operation. It also requires no electric power. But there are
+serious limitations. A venturi is designed to produce the
+desired vacuum at approximately 100 mph at standard sea
+level conditions. Wide variations in airspeed or air density
+cause the suction developed to fluctuate. Airflow can also
+be hampered by ice that can form on the venturi tube.
+Additionally, since the rotor does not reach normal operating
+speed until after takeoff, preflight operational checks of
+venturi powered gyro instruments cannot be made. For these
+reasons, alternate sources of vacuum power were developed.
+
+Engine-Driven Vacuum Pump
+The vane-type engine-driven pump is the most common
+source of vacuum for gyros installed in general aviation,
+light aircraft. One type of engine-driven pump is geared
+to the engine and is connected to the lubricating system to
+seal, cool, and lubricate the pump. Another commonly used
+pump is a dry vacuum pump. It operates without external
+lubrication and installation requires no connection to the
+10-46
+
+===== PDF PAGE 566 =====
+S
+
+2I
+
+E
+
+24
+
+I2
+
+I5
+
+it is utilized to operate pressure gyro instruments. The
+components for pressure systems are much the same as those
+for a vacuum system as listed below. Other times, the pressure
+developed by the vacuum pump is used to inflate de-ice boots
+or inflatable seals or it is vented overboard.
+
+30
+
+6
+
+W
+33
+
+N
+
+3
+
+Figure 10-85. A radio magnetic indicator (RMI) combines a slaved
+
+gyro heading indication (red triangle at top of gauge) with magnetic
+bearing information to a VOR station (solid pointer) and an ADF
+station (hollow pointer).
+
+An advantage of engine-driven pumps is their consistent
+performance on the ground and in flight. Even at low
+engine rpm, they can produce more than enough vacuum
+so that a regulator in the system is needed to continuously
+provide the correct suction to the vacuum instruments. As
+long as the engine operates, the relatively simple vacuum
+system adequately spins the instrument gyros for accurate
+indications. However, engine failure, especially on singleengine aircraft, could leave the pilot without attitude and
+directional information at a critical time. To thwart this
+shortcoming, often the turn and bank indicator operates with
+an electrically driven gyro that can be driven by the battery
+for a short time. Thus, when combined with the aircraft’s
+magnetic compass, sufficient attitude and directional
+information is still available.
+Multiengine aircraft typically contain independent vacuum
+systems for the pilot and copilot instruments driven by
+separate vacuum pumps on each of the engines. Should an
+engine fail, the vacuum system driven by the still operating
+engine supplies a full complement of gyro instruments. An
+interconnect valve may also be installed to connect the failed
+instruments to the still operational pump.
+
+Typical Pump-Driven System
+The following components are found in a typical vacuum
+system for gyroscopic power supply. A brief description is
+given of each. Refer to the figures for detailed illustrations.
+6
+
+0 48
+30 2#
+R2 23
+HM m:@
+Co :
+ID
+:
+no
+
+X
+Z
+Y
+
+Figure 10-86. Solid state magnetometer units.
+
+engine oil supply. It also does not need the air oil separator or
+gate check valve found in wet pump systems. In many other
+respects, the dry pump system and oil lubricated system are
+the same. [Figure 10-88]
+When a vacuum pump develops a vacuum (negative
+pressure), it also creates a positive pressure at the outlet
+of the pump. This pressure is compressed air. Sometimes,
+
+Air-oil separator—oil and air in the vacuum pump are
+exhausted through the separator, which separates the oil from
+the air; the air is vented overboard, and the oil is returned
+to the engine sump. This component is not present when a
+dry-type vacuum pump is used. The self-lubricating nature
+of the pump vanes requires no oil.
+Vacuum regulator or suction relief valve—since the
+system capacity is more than is needed for operation of the
+instruments, the adjustable vacuum regulator is set for the
+vacuum desired for the instruments. Excess suction in the
+instrument lines is reduced when the spring-loaded valve
+opens to atmospheric pressure. [Figure 10-89]
+Gate check valve—prevents possible damage to the
+instruments by engine backfire that would reverse the flow
+of air and oil from the pump. [Figure 10-90]
+
+10-47
+
+===== PDF PAGE 567 =====
+L
+
+R
+
+Turn-and-bank indicator
+2 MIN TURN
+DC
+
+4
+2
+
+8
+0
+
+2
+I
+
+I0
+
+6
+
+PRESSURE
+
+ELEC
+
+Vacuum/suction gauge
+
+I0
+
+0
+0
+I0
+
+20
+
+20
+
+Altitude indicator
+
+Heading indicator
+
+Figure 10-87. Simple venturi tube systems for powering gyroscopic instruments.
+
+Inlet
+
+Shaft
+
+Outlet
+
+Vane
+
+Figure 10-89. A vacuum regulator, also known as a suction relief
+valve, includes a foam filter. To relieve vacuum, outside air of a
+higher pressure must be drawn into the system. This air must be
+clean to prevent damage to the pump.
+
+Rotor
+Case
+
+Spring
+
+Figure 10-88. Cutaway view of a vane-type engine-driven vacuum
+
+pump used to power gyroscopic instruments.
+
+Pressure relief valve—since a reverse flow of air from
+the pump would close both the gate check valve and the
+suction relief valve, the resulting pressure could rupture the
+lines. The pressure relief valve vents positive pressure into
+the atmosphere.
+Selector valve—In twin-engine aircraft having vacuum
+pumps driven by both engines, the alternate pump can be
+selected to provide vacuum in the event of either engine or
+pump failure, with a check valve incorporated to seal off
+the failed pump.
+Restrictor valve—Since the turn needle of the turn and bank
+
+Air flow to vacuum pump
+
+Air flow from vacuum pump
+
+Gate check valve open
+
+Gate check valve closed
+
+Figure 10-90. Gate check valve used to prevent vacuum system
+damage from engine backfire.
+
+indicator operates on less vacuum than that required by the
+other instruments, the vacuum in the main line must be
+reduced for use by this instrument. An inline restrictor valve
+performs this function. This valve is either a needle valve or
+10-48
+
+===== PDF PAGE 568 =====
+a spring-loaded regulating valve that maintains a constant,
+reduced vacuum for the turn-and-bank indicator.
+Air filter—A master air filter screens foreign matter from the
+air flowing through all the gyro instruments. It is an extremely
+important filter requiring regular maintenance. Clogging of
+the master filter reduces airflow and causes a lower reading
+on the suction gauge. Each instrument is also provided with
+individual filters. In systems with no master filter that rely
+only upon individual filters, clogging of a filter does not
+necessarily show on the suction gauge.
+Suction gauge—a pressure gauge which indicates the
+difference between the pressure inside the system and
+atmospheric or flight deck pressure. It is usually calibrated in
+inches of mercury. The desired vacuum and the minimum and
+maximum limits vary with gyro system design. If the desired
+vacuum for the attitude and heading indicators is 5 inches
+and the minimum is 4.6 inches, a reading below the latter
+value indicates that the airflow is not spinning the gyros fast
+enough for reliable operation. In many aircraft, the system
+provides a suction gauge selector valve permitting the pilot
+to check the vacuum at several points in the system.
+Suction/vacuum pressures discussed in conjunction with the
+operation of vacuum systems are actually negative pressures,
+indicated as inches of mercury below that of atmospheric
+pressure. The minus sign is usually not presented, as the
+
+importance is placed on the magnitude of the vacuum
+developed. In relation to an absolute vacuum (0 psi or 0 "Hg),
+instrument vacuum systems have positive pressure.
+Figure 10-91 shows a typical engine-driven pump vacuum
+system containing the above components. A pump capacity
+of approximately 10 "Hg at engine speeds above 1,000 rpm
+is normal. Pump capacity and pump size vary in different
+aircraft, depending on the number of gyros to be operated.
+
+Twin-Engine Aircraft Vacuum System Operation
+Twin-engine aircraft vacuum systems are more complicated.
+They contain an engine-driven vacuum pump on each engine.
+The associated lines and components for each pump are
+isolated from each other and act as two independent vacuum
+systems. The vacuum lines are routed from each vacuum
+pump through a vacuum relief valve and through a check
+valve to the vacuum four-way selector valve. The four-way
+valve permits either pump to supply a vacuum manifold.
+From the manifold, flexible hoses connect the vacuumoperated instruments into the system. To reduce the vacuum
+for the turn and bank indicators, needle valves are included
+in both lines to these units. Lines to the artificial horizons
+and the directional gyro receive full vacuum. From the
+instruments, lines are routed to the vacuum gauge through a
+turn and bank selector valve. This valve has three positions:
+main, left turn and bank (T&B), and right T&B. In the main
+position, the vacuum gauge indicates the vacuum in the lines
+
+Air filter
+
+Heading indicator
+
+Air
+Oil
+Air/oil separator
+
+Attitude indicator
+
+Selector
+valve
+
+Pressure
+relief valve
+
+Vacuum
+pump
+Suction
+relief valve
+
+Suction
+gauge
+
+Gate
+check valve
+
+Turn-and-bank
+indicator
+Restrictor valve
+
+Figure 10-91. A typical pump-driven vacuum system for powering gyroscopic instruments.
+
+10-49
+
+===== PDF PAGE 569 =====
+of the artificial horizons and directional gyro. In the other
+positions, the lower value of vacuum for the turn and bank
+indicators can be read.
+A schematic of this twin-engine aircraft vacuum system is
+shown in Figure 10-92. Note the following components: two
+engine-driven pumps, two vacuum relief valves, two flapper
+type check valves, a vacuum manifold, a vacuum restrictor
+for each turn and bank indicator, an engine four-way selector
+valve, one vacuum gauge, and a turn-and-bank selector valve.
+Not shown are system and individual instrument filters. A
+drain line may also be installed at the low point in the system.
+Pressure-Driven Gyroscopic Instrument Systems
+Gyroscopic instruments are finely balanced devices with
+jeweled bearings that must be kept clean to perform properly.
+When early vacuum systems were developed, only oil-
+
+lubricated pumps were available. Even with the use of air-oil
+separators, the pressure outputs of these pumps contain traces
+of oil and dirt. As a result, it was preferred to draw clean air
+through the gyro instruments with a vacuum system, rather
+than using pump output pressure that presented the risk of
+contamination. The development of self-lubricated dry pumps
+greatly reduced pressure output contaminates. This made
+pressure gyro systems possible.
+At high altitudes, the use of pressure-driven gyros is more
+efficient. Pressure systems are similar to vacuum systems
+and make use of the same components, but they are
+designed for pressure instead of vacuum. Thus, a pressure
+regulator is used instead of a suction relief valve. Filters are
+still extremely important to prevent damage to the gyros.
+Normally, air is filtered at the inlet and outlet of the pump
+in a pressure gyro system.
+
+Main
+Vacuum gauge
+
+Turn-and-bank selector valve
+
+Right turn and bank
+
+Left turn and bank
+Pilot’s turn and bank
+
+Copilot’s turn and bank
+Needle valve
+
+Needle valve
+
+Copilot’s artificial horizon
+
+Pilot’s directional gyro
+
+Pilot’s artificial horizon
+
+Vacuum manifold
+
+Relief valve
+
+Vacuum 4-way selector valve
+
+Relief valve
+
+Check valve
+
+Check valve
+
+Right engine vacuum pump
+
+Left engine vacuum pump
+
+Figure 10-92. An example of a twin-engine instrument vacuum system.
+
+10-50
+
+===== PDF PAGE 570 =====
+Electric gyros have the advantage of being powered by battery
+for a limited time if a generator fails or an engine is lost. Since
+air is not sent through the gyro to spin the rotor, contamination
+worries are also reduced. Also, elimination of vacuum pumps,
+plumbing, and vacuum system components saves weight.
+
+Different mounting configurations are available for the rotor
+and axle, which allow the rotor assembly to rotate about one
+or two axes perpendicular to its axis of spin. To suspend the
+rotor for rotation, the axle is first mounted in a supporting ring
+called a gimbal. [Figure 10-93B] If brackets are attached 90°
+around the supporting ring from where the spin axle attached,
+the supporting ring and rotor can both move freely 360°.
+When in this configuration, the gyro is said to be a captive
+gyro. It can rotate about only one axis that is perpendicular
+to the axis of spin. [Figure 10-93C]
+
+On many small, single-engine aircraft, electric turn-and-bank
+or turn coordinators are combined with vacuum-powered
+attitude and directional gyro instruments as a means for
+redundancy. The reverse is also possible. By combining
+both types of instruments in the instrument panel, the pilot
+has more options. On more complex multiengine aircraft,
+reliable, redundant electrical systems make use of all electricpowered gyro instruments possible.
+
+The supporting ring can also be mounted inside an outer
+ring. The bearing points are the same as the bracket just
+described, 90° around the supporting ring from where the
+spin axle attached. Attachment of a bracket to this outer ring
+allows the rotor to rotate in two planes while spinning. Both
+of these are perpendicular to the spin axis of the rotor. The
+plane that the rotor spins in due to its rotation about its axle
+is not counted as a plane of rotation.
+
+It should be noted that electric gyro instruments have a failure
+flag. The flag will come in if the gyro is not powered or is
+spinning at too slow of a speed. Usually, this is in the form
+of a red flag with the word “off” or “gyro” written on it.
+
+A gyroscope with this configuration, two rings plus the
+mounting bracket, is said to be a free gyro because it is free
+to rotate about two axes that are both perpendicular to the
+rotor’s spin axis. [Figure 10-93D] As a result, the supporting
+ring with spinning gyro mounted inside is free to turn 360°
+inside the outer ring.
+
+Electrically-Driven Gyroscopic Instrument Systems
+A spinning motor armature can act as a gyroscope. This is
+the basis for electrically driven gyroscopic instruments in
+which the gyro rotor spin is powered by an electric motor.
+
+Principles of Gyroscopic Instruments
+Mechanical Gyros
+Three of the most common flight instruments, the attitude
+indicator, heading indicator, and turn needle of the turn-andbank indicator, are controlled by gyroscopes. To understand
+how these instruments operate, knowledge of gyroscopic
+principles and instrument power systems is required.
+A mechanical gyroscope, or gyro, is comprised of a wheel or
+rotor with its mass concentrated around its perimeter. The rotor
+has bearings to enable it to spin at high speeds. [Figure 10-93A]
+
+Unless the rotor of a gyro is spinning, it has no unusual
+properties; it is simply a wheel universally mounted. When
+the rotor is rotated at a high speed, the gyro exhibits a couple
+of unique characteristics. The first is called gyroscopic
+rigidity, or rigidity in space. This means that the rotor of
+a free gyro always points in the same direction no matter
+which way the base of the gyro is positioned. [Figure 10-94]
+Gyroscopic rigidity depends upon several design factors:
+1.
+
+Weight—for a given size, a heavy mass is more
+
+A
+
+A
+
+B
+
+A
+
+C
+
+D
+
+Figure 10-93. Gyroscopes.
+
+10-51
+
+===== PDF PAGE 571 =====
+resistant to disturbing forces than a light mass.
+2.
+3.
+
+ne
+
+Radius at which the weight is concentrated—
+maximum effect is obtained from a mass when its
+principal weight is concentrated near the rim, rotating
+at high speed.
+ied
+Appl
+e
+c
+r
+o
+f
+
+ion
+mot
+lting sion)
+u
+s
+Re reces
+(p
+
+n
+
+Figure 10-94. Once spinning, a free gyro rotor stays oriented in the
+same position in space despite the position or location of its base.
+
+ied fo
+
+Appl
+
+io
+ss
+ce
+re
+
+Pole
+
+ce
+
+of For
+
+P
+
+North
+
+rce
+
+Plane
+
+f
+
+Equa
+tor
+
+ion
+
+o
+
+Precession is a second important characteristic of gyroscopes.
+By applying a force to the horizontal axis of the gyro, a unique
+phenomenon occurs. The applied force is resisted. Instead of
+responding to the force by moving about the horizontal axis,
+the gyro moves in response about its vertical axis. Stated
+another way, an applied force to the axis of the spinning gyro
+does not cause the axis to tilt. Rather, the gyro responds as
+though the force was applied 90° around in the direction of
+rotation of the gyro rotor. The gyro rotates rather than tilts.
+[Figure 10-95] This predictable controlled precession of a
+gyroscope is utilized in a turn and bank instrument.
+
+tat
+
+e
+
+This characteristic of gyros to remain rigid in space is
+exploited in the attitude-indicating instruments and the
+directional indicators that use gyros. The spinning gyro
+remains fixed in space and the airplane moves around it.
+It acts as a reference to allow measurement of changes in
+attitude or direction.
+
+Ro
+
+n
+la
+
+Bearing friction—any friction applies a deflecting
+force to a gyro. Minimum bearing friction keeps
+deflecting forces at a minimum.
+
+of
+
+P
+
+4.
+
+Pla
+
+Angular velocity—the higher the rotational speed, the
+greater the rigidity or resistance is to deflection.
+
+Figure 10-95. When a force is applied to a spinning gyroscope, it
+reacts as though the force came from 90° further around the rotor in
+the direction it is spinning. The plane of the applied force, the plane
+of the rotation, and the plane in which the gyro responds (known
+as the plane of precession), are all perpendicular to each other.
+
+Solid State Gyros & Related Systems
+Improved attitude and direction information is always a goal
+in aviation. Modern aircraft make use of highly accurate solidstate attitude and directional devices with no moving parts.
+This results in very high reliability and low maintenance.
+
+Ring Laser Gyros (RLG)
+The ring laser gyro (RLG) is widely used in commercial
+aviation. The basis for RLG operation is that it takes time
+for light to travel around a stationary, nonrotating circular
+path. Light takes longer to complete the journey if the path is
+rotating in the same direction as the light is traveling. And, it
+takes less time for the light to complete the loop if the path is
+rotating in the direction opposite to that of the light. Essentially,
+the path is made longer or shorter by the rotation of the path.
+[Figure 10-96] This is known as the Sagnac effect.
+A laser is light amplification by stimulated emission of
+radiation. A laser operates by exciting atoms in plasma to
+release electromagnetic energy, or photons. A ring laser
+gyro produces laser beams that travel in opposite directions
+around a closed triangular cavity. The wavelength of the
+light traveling around the loop is fixed. As the loop rotates,
+the path the lasers must travel lengthens or shortens. The
+light wavelengths compress or expand to complete travel
+around the loop as the loop changes its effective length.
+As the wavelengths change, the frequencies also change.
+By examining the difference in the frequencies of the two
+counter-rotating beams of light, the rate at which the path is
+rotating can be measured. A piezoelectric dithering motor in
+the center of the unit vibrates to prevent lock-in of the output
+10-52
+
+===== PDF PAGE 572 =====
+Start and finish—nonrotationg path
+
+Corner prism
+
+Anode
+
+Readout detector
+
+Piezoelectric dithering motor
+Mirror
+
+1
+am 2
+Be am
+Be
+
+Light beams
+
+e patte
+ing
+
+Fr
+
+rn
+
+Cathode
+Anode
+Start
+
+Gas discharge region
+Finish when path rotates
+Frequency
+difference
+
+Figure 10-97. The ring laser gyro is rugged, accurate, and free of
+
+friction.
+
+virtually no maintenance due to their lack of moving parts.
+They measure movement about an axis extremely quickly and
+provide continuous output. They are extremely accurate and
+generally are considered superior to mechanical gyroscopes.
+Ω
+Direction of
+path rotation
+
+A ring laser gyro functions due to the Sagnac Effect
+Figure 10-96. Light traveling in opposite directions around a non-
+
+rotating path arrives at the end of the loop at the same time (top).
+When the path rotates, light traveling with the rotation must travel
+farther to complete one loop. Light traveling against the rotation
+completes the loop sooner (bottom).
+
+signal at low rotational speeds. It causes units installed on
+aircraft to hum when operating. [Figure 10-97]
+An RLG is remotely mounted so the cavity path rotates
+around one of the axes of flight. The rate of frequency
+phase shift detected between the counter-rotating lasers is
+proportional to the rate that the aircraft is moving about that
+axis. On aircraft, an RLG is installed for each axis of flight.
+Output can be used in analog instrumentation and autopilot
+systems. It is also easily made compatible for use by digital
+display computers and for digital autopilot computers.
+RLGs are very rugged and have a long service life with
+
+Microelectromechanical-Based Attitude &
+Directional Systems
+On aircraft, microelectromechanical systems (MEMS)
+devices save space and weight. Through the use of solid-state
+MEMS devices, reliability is increased primarily due to the
+lack of moving parts. The development of MEMS technology
+for use in aviation instrumentation integrates with the use of
+ADCs. This newest improvement in technology is low cost
+and promises to proliferate through all forms of aviation.
+MEMS for gyroscopic applications are used in small, general
+aviation aircraft, as well as larger commercial aircraft.
+Tiny vibration-based units with resistance and capacitance
+measuring pick-offs are accurate and reliable and only a few
+millimeters in length and width. They are normally integrated
+into a complete micro-electronic solid-state chip designed
+to yield an output after various conditioning processes are
+performed. The chips, which are analogous to tiny circuit
+boards, can be packaged for installation inside a dedicated
+computer or module that is installed on the aircraft.
+While a large mechanical gyroscope spins in a plane,
+its rigidity in space is used to observe and measure the
+movement of the aircraft. The basis of operation of many
+MEMS gyroscopes is the same despite their tiny size. The
+difference is that a vibrating or oscillating piezoelectric
+10-53
+
+===== PDF PAGE 573 =====
+device replaces the spinning, weighted ring of the mechanical
+gyro. Still, once set in motion, any out-of-plane motion is
+detectable by varying microvoltages or capacitances detected
+through geometrically arranged pickups. Since piezoelectric
+substances have a relationship between movement and
+electricity, microelectrical stimulation can set a piezoelectric
+gyro in motion and the tiny voltages produced via the
+movement in the piezo can be extracted. They can be input as
+the required variables needed to compute attitude or direction
+information. [Figure 10-98]
+
+Other Attitude & Directional Systems
+In modern aircraft, attitude heading and reference systems
+(AHRS) have taken the place of the gyroscope and other
+individual instruments. While MEMS devices provide part
+of the attitude information for the system, GPS, solid state
+
+Figure 10-98. The relative scale size of a MEMS gyro.
+
+NAV1 117.60
+NAV2 117.90
+
+117.90
+117.60
+
+WPT _ _ _ _ _ _ DIS _ _ ._ NM
+
+DTK _ _ _°
+
+TRK
+
+360°
+
+132.675
+118.525
+
+130
+
+4000
+4300
+
+120
+
+4200
+
+110
+
+4100
+
+120.000 COM1
+132.900 COM2
+
+2
+
+magnetometers, solid state accelerometers, and digital air
+data signals are all combined in an AHRS to compute and
+output highly reliable information for display on a flight deck
+panel. [Figure 10-99]
+
+Common Gyroscopic Instruments
+Vacuum-Driven Attitude Gyros
+The attitude indicator, or artificial horizon, is one of the most
+essential flight instruments. It gives the pilot pitch and roll
+information that is especially important when flying without
+outside visual references. The attitude indicator operates
+with a gyroscope rotating in the horizontal plane. Thus, it
+mimics the actual horizon through its rigidity in space. As
+the aircraft pitches and rolls in relation to the actual horizon,
+the gyro gimbals allow the aircraft and instrument housing
+to pitch and roll around the gyro rotor that remains parallel
+to the ground. A horizontal representation of the airplane
+in miniature is fixed to the instrument housing. A painted
+semisphere simulating the horizon, the sky, and the ground
+is attached to the gyro gimbals. The sky and ground meet
+at what is called the horizon bar. The relationship between
+the horizon bar and the miniature airplane are the same as
+those of the aircraft and the actual horizon. Graduated scales
+reference the degrees of pitch and roll. Often, an adjustment
+knob allows pilots of varying heights to place the horizon
+bar at an appropriate level. [Figure 10-100]
+In a typical vacuum-driven attitude gyro system, air is
+pulled through a filter and then through the attitude indicator
+in a manner that spins the gyro rotor inside. An erecting
+
+NAV1 117.60
+NAV2 117.90
+
+117.90
+117.60
+
+WPT _ _ _ _ _ _ DIS _ _ ._ NM
+
+DTK _ _ _°
+MAP - NAVIGATION MAP
+
+TRK
+
+360°
+
+132.675
+118.525
+
+120.000 COM1
+132.900 COM2
+
+27.3
+
+1
+
+1
+100
+9
+
+20
+
+2090
+
+4000
+3900
+80
+
+90
+
+3900
+
+80
+
+270°
+
+70
+
+3800
+
+1
+
+2
+
+4300
+
+TAS 100KT
+
+VOR 1
+
+VOLTS
+OAT
+
+7°C
+
+XPDR 5537 IDNT LCL23:00:34
+
+ALERTS
+
+Figure 10-99. Instrumentation displayed within a glass flight deck using an attitude heading and reference system (AHRS) computer.
+
+10-54
+

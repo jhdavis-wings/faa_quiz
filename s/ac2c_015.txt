@@ -1,0 +1,504 @@
+AC 43.13-2C, chapter 14 (Larger Tire Installations), PDF pages 186-196
+
+===== PDF PAGE 186 =====
+ 7/29/26  AC 43.13-2C
+
+   CHAPTER 14. LARGER TIRE INSTALLATIONS
+
+ 14.1 Purpose. Many aircraft operating in harsh and/or rough terrain environments have
+   obtained FAA approval for installation of wheel/tire combinations larger than originally
+   certificated on small single-engine airplanes of less than 6,000 pounds gross weight.
+   These larger wheel/tire combinations are commonly referred to as tundra tire
+   modifications and better adapt airplanes to a particular operating flying environment. The
+   information provided in this chapter can generally be applied to fixed gear airplanes less
+   than 6,000 pounds gross takeoff weight when installing tires and wheel assemblies that
+   do not exceed 130 percent of the standard tire and wheel combination that the aircraft
+   was originally designed with.
+
+ 14.2 Hazards and Warnings. Persons operating aircraft with larger size (tundra) tire
+   installations should be aware of the safety risks involved and take appropriate measures
+   to reduce those risks. With a wide range of operating parameters, it is not always possible
+   to predict the effects of vibration, harmonics, drag, loading, or other characteristics
+   induced by aircraft operating with these configurations. Therefore, it is incumbent on the
+   operator to understand the potential risks and take appropriate measures for safe
+   operation of the aircraft.
+
+14.2.1 The FAA published guidance in AC 23-17, Systems and Equipment Guide for
+   Certification of Part 23 Airplanes and Airships, summarizing flight test results, possible
+   safety hazards, and general information about certification of aircraft with larger tires.
+   This information is useful for other installations, even though the test aircraft for the data
+   collected was primarily a Piper PA-18.
+
+14.2.2 Operation of airplanes with larger tires may expose the occupants to additional risks
+   because there is evidence of increased structural failure of the landing gear or
+   components on aircraft operating with these modifications. The additional weight and
+   surface area of tires can impose additional ground and air loads on the airplane. Ground
+   handling, taxiing, takeoff, and landing can place significant side loads and twisting
+   moments to the landing gear and its attachment structure, which can cause hidden
+   damage or cumulative damage, or both. In-service failure of main landing gear struts,
+   wheels and attachment hardware have resulted in aircraft accidents and incidents with
+   injury to the occupants of the airplane. Installation, rigging, periodic inspection, and
+   maintenance of larger tires, wheels, landing gear, and their attaching parts are of utmost
+   importance to safety. Consultation with maintenance technicians and operators
+   experienced in installing and operating aircraft with larger tires is strongly recommended
+   when considering any new installation or alteration of an existing aircraft with larger
+   tires.
+
+ 14.3 Additional Reference (current editions).
+
+   •  Airframe, tire, wheel, and brake manufacturers’ data, if available.
+   •  AC 43.9-1, Instructions for Completion of FAA Form 337.
+
+   14-1
+
+===== PDF PAGE 187 =====
+ 7/29/26  AC 43.13-2C
+
+   •  AC 43.13-1, Acceptable Methods, Techniques, and Practices—Airplane Inspection
+   and Repair.
+   •  AC 43-210, Standardized Procedures for Obtaining Approval of Data Used in the
+   Performance of Major Repairs and Major Alterations.
+   •  Original certification standards of the aircraft being modified (i.e., 14 CFR part 23,
+   Civil Air Regulation (CAR) 3, etc.).
+   •  National Transportation Safety Board (NTSB) Safety Recommendation A-95-13,
+   dated February 7, 1995.
+   •  Technical Standard Order (TSO)-C62e, Aircraft Tires.
+
+ 14.4 Installation Considerations.
+
+14.4.1 Determining Eligibility of an Airplane. Many aircraft have been approved to use larger
+   tires through the original manufacturer, field approval, or Supplemental Type Certificate
+   (STC) process. It is advisable to research the aircraft Type Certificate Data Sheet
+   (TCDS), specification sheet, or FAA STC database available through the FAA website at
+   https://www.faa.gov website to see if the aircraft in question already has approval for the
+   size tire. The FAA should not field approve a wheel/tire/brake combination that is already
+   approved via another method such as STC. If larger tires are not previously approved for
+   your particular airplane, the guidance in this chapter can be used to approve tires and
+   wheels that are not categorized a major design change. The information provided in this
+   chapter is limited to fixed gear airplanes with a gross weight of 6,000 pounds or less.
+   Prior to an aircraft modification, a conformity evaluation of the aircraft and review of the
+   aircraft records for previous alterations and repairs should be accomplished to ensure
+   there is no effect on the proposed alteration. This evaluation should include inspection of
+   the aircraft wings, tail, and control surfaces for improper repair or alterations and proper
+   rigging.
+
+14.4.2 Identification of Approved Tires, Wheels, and Brakes. Only tires, wheels, and brakes of
+   an FAA-approved type and load rating for aircraft may be utilized. Approved wheels,
+   brakes, and tires will be marked using plates, placards, or other methods identifying the
+   TSO number (TSO-C26d, Aircraft Wheels, Brakes and Wheel/Brake Assemblies for
+   Parts 23, 27 and 29 Aircraft, wheels and brakes) (TSO-C62e tires), an aircraft
+   component, accessory, equipment type certificate (TC) number, an airplane part number
+   (for type certificated airplanes), or a Parts Manufacturer Approval (PMA).
+
+14.4.3 Maximum Limit Load Rating.
+
+   14.4.3.1  Known limit landing load factor. Before installation, determine that the
+   maximum limit load rating (L) of the wheels specified on its identification
+   plate or placard is at least equal to the maximum static load on it (S) times the
+   limit landing load factor (fl) previously determined from drop tests of the
+
+   14-2
+
+===== PDF PAGE 188 =====
+ 7/29/26  AC 43.13-2C
+
+   airplane by its manufacturer. This requirement can be expressed by the
+   following equation:
+
+   L = S x fl
+
+   14.4.3.2  Unknown limit landing load factor (fl). In lieu of a value fl determined from
+   such drop tests, a value of fl determined from the following formula may be
+   used:
+
+   9,000
+   fl = 2.80 + (W + 4000)
+   where “W” is the certificated gross weight of the airplane
+
+14.4.4 Landing Gear Moment Reactions: Landing Gear Bending Moments. In order to avoid
+   excessive bending moments on the landing gear and attachment structure, the axle height
+   (y) measured from the bottom surface of the tire to the axle centerline, as indicated in the
+   figure below, must not exceed 130 percent of the static rolling radius of the standard
+   tire/wheel approved for the airplane when the tire is inflated to the maximum rated
+   inflation pressure. The maximum rated tire pressure can be found stamped on the side of
+   the tire or will be included in the servicing information for the aircraft. It is not
+   appropriate to use oversize or “tundra” tires to determine the static rolling radius. If
+   lower-than-maximum rated tire pressure is used on the proposed larger tire to meet this
+   requirement then that becomes a limitation on the installation. For example, if the larger
+   tire is rated at 30 pounds per square inch (psi) maximum and can only be inflated to
+   26 psi to meet the axle height requirement, 26 psi becomes the new maximum rated
+   inflation limitation and needs to be placarded as a limitation.
+
+   Figure 14-1. Diagram of Axle Height Measurement
+
+14.4.5 Field Experience. This chapter contains feedback from maintenance personnel and pilots
+   with extensive operational experience in these types of installations. The information is
+   for informational purposes to aid in understanding some aspects concerning installation
+   of larger wheels, tires, and brakes. Larger tires usually require more effective braking to
+   meet certification requirements. Typical installations involve replacing drum wheels and
+   brake assemblies with more effective hydraulic wheel and brake assemblies or in the case
+
+   14-3
+
+===== PDF PAGE 189 =====
+ 7/29/26  AC 43.13-2C
+
+   of the latter, changing from a single puck to a double puck style caliper to increase brake
+   effectiveness. While additional brake effectiveness is needed to meet certain certification
+   standards, it has been found that too much brake can be detrimental. As tire size and
+   brake effectiveness increase, so do the effects on the aircraft. For example, the larger
+   footprint and dynamic force of the tire combined with more effective braking will result
+   in the increased tendency for the aircraft to nose over. On conventional gear aircraft, it
+   results in an increased chance of propeller strike and ground loop. On tricycle gear
+   aircraft, it increases the stress on the forward landing gear structure to include the firewall
+   and engine mount. Moving the forward center of gravity (CG) aft will reduce the stresses
+   on the nose landing gear.
+
+   14.4.5.1  When increasing tire size, it is recommended that the axle strength be
+   increased to reduce in-service failures. For example, Piper model J-3 through
+   PA-20 aircraft equipped with 1¼ inch axles are known to bend at the inner
+   bearing stop. This has been prevented by pressing a Chrome-Moly sleeve
+   inside the axle to reinforce it or by changing to the larger 1½ inch axles. On
+   Cessna aircraft, it is recommended that the higher strength axles designed for
+   ski installations should be installed.
+
+   14.4.5.2  In addition, several other modifications are available to adapt aircraft to a
+   harsher operating environment such as landing gear attach reinforcement kits,
+   check cables, horizontal stabilizer leading edge abrasion boots, and gravel
+   guards that have been born out of necessity to reduce damage and increase the
+   longevity of aircraft while operating off airports.
+
+14.4.6 Performing the Modification. The modification must be performed by appropriately
+   certificated persons using aircraft quality parts in accordance with acceptable methods,
+   techniques, and practices. ACs 23-17, 43-210, and 43.13-1, and manufactures’
+   information are good sources of information to evaluate, perform, and document the
+   larger tire installations. After the installation is complete, the equipment list and Weight
+   and Balance (W&B) data need to be updated to reflect the new installation. The W&B
+   can be accomplished by actual weighing or computation. A summary of considerations,
+   not all inclusive, for approval of larger tire installations is provided and may be useful as
+   a job aid.
+
+ 14.5 Flight and Ground Handling Operational Checks.
+
+14.5.1 Characteristics. Accomplish an operational check in accordance with 14 CFR § 91.407(b)
+   to determine the takeoff, landing, and ground handling characteristics. Verify that ground
+   control is adequate to satisfactorily complete a landing run with a turnoff at slow speed.
+   In flight, the larger tires must not produce excessive drag or undesirable flight
+   characteristics. Where climb requirements are not critical, and the climb reduction is
+   small (not exceeding 50 feet per minute), the FAA will accept a statement of the
+   approximate reduction in climb performance placed in the performance information
+   section of the Aircraft Flight Manual Supplement (AFMS). For larger variations in climb
+   performance, where the minimum requirements are critical, appropriate climb data should
+
+   14-4
+
+===== PDF PAGE 190 =====
+7/29/26  AC 43.13-2C
+
+   be obtained to determine the changes; new curves, tables, or a note should be
+   incorporated into the AFMS.
+
+14.5.2 Airplane Without an AFM. For an airplane that does not require an AFM, make the
+   revised performance information available to the pilot in the form of placards, markings,
+   manuals, or any combination thereof. One type of acceptable manual is an approved
+   AFMS. Enter a notation of this check-in the airplane records.
+
+14.5.3 Potential Adverse Effects of Larger Tire Installations. Larger tire installations on
+   airplanes may produce one or more of the following effects on handling characteristics:
+
+   1. Reduced ability of brakes to hold against takeoff power.
+   2. Reduced brake effectiveness during rejected takeoff and balked landing.
+   3. Reduced stability and controllability during rejected or balked landing and go around.
+   4. Change in either trim range or trim authority, or both.
+   5. Reduced directional stability and control during takeoff and landing ground rolls,
+   with increased tendency to ground loop.
+   6. Increased tendency for conventional gear airplanes to nose over during landing on
+   paved surfaces more than during landings on gravel, grass, or other surfaces that
+   allow the tires to skid more easily.
+   7. Reduced stall warning margin, change in either aerodynamic stall warning
+   characteristics (warning buffet) or reduced effectiveness of stall warning system, or
+   both, in both level and turning flight with power either on or off, or both.
+   8. Changes in stalling and stall recovery behavior in both level and turning flight with
+   power either on or off, or both. Stalls may become more abrupt and altitude loss
+   before recovery may increase.
+   9. Increased tendency to enter an inadvertent spin and reduced ability to recover from
+   the spin.
+   10. Reduced longitudinal, lateral, and directional stability.
+   11. Increased airframe vibration and buffet.
+
+14.5.4 Potential Propulsion Systems Effects.
+
+   1. Fuel flow may be affected by changes in normal flying attitude.
+   2. Unusable fuel may be affected by changes in normal flying attitude.
+   3. The fuel tank sump may be affected by a change in ground attitude.
+   4. Fuel drains may be affected by a change in ground attitude.
+   5. Engine cooling may be affected by performance or flying attitude changes.
+
+   14-5
+
+===== PDF PAGE 191 =====
+ 7/29/26  AC 43.13-2C
+
+   6. Changes in tires may affect the air induction system certification for operation on wet
+   runways.
+   7. Changes in tires that change ground attitude may affect the induction system icing
+   protection.
+
+ 14.6 Testing the Modification. After the modification has been installed and all necessary
+   maintenance entries have been made for the approval for return to service, an operational
+   maintenance check is required in accordance with 14 CFR § 91.407 to ensure that the
+   installation functions as intended. The operational check should be performed as follows:
+
+14.6.1 No passengers permitted during operational maintenance checks.
+
+14.6.2 All flights conducted in accordance with the aircraft’s flight manual or limitations.
+
+14.6.3 Prepare the aircraft for testing.
+
+   1. The checks should be performed at maximum gross weight.
+   2. Inflate tire to the minimum allowable inflation pressure for the airplane weight.
+   3. Using white shoe polish or equivalent, coat the brake (inboard) side of tire sidewall. If
+   larger nose tires are installed coat both sides of sidewall also.
+
+14.6.4 Ground turning and braking tests for tire slippage and interference.
+
+   1. Conduct at least two maximum effort non-skidding taxi turns to the right and left.
+   2. With takeoff power applied, ensure that the brakes hold the aircraft static.
+   3. Conduct a minimum of two short field landings using maximum braking at max gross
+   operating weight.
+
+14.6.5 Aircraft minimum weight: Flight(s) conducted at the most forward and at the most aft
+   CG.
+
+14.6.6 Aircraft at gross weight: Flight(s) conducted at the most forward and at the most aft CG.
+
+14.6.7 After completion of operational flights, inspect the tire, wheel, and brake installation for
+   evidence of abrasion contact on the sidewall of the tire and any other indication that the
+   clearance between the installed components is insufficient. If all ground handling and
+   performance checks are found satisfactory, the pilot will sign the aircraft’s airframe
+   maintenance (log) book, certifying that the aircraft is safe to operate within the
+   operational limits of the aircraft’s design. This certification must contain the pilot’s name,
+   certificate number, and date the operational check was performed.
+
+   Note: In the event operational performance is found to be below that established
+   during certification, corrective action needs to be taken. On fixed landing gear
+   landplanes, where climb requirements are not critical and the climb reduction is
+   small (30 to 50 feet per minute), the FAA will accept a statement of the
+   approximate reduction in climb performance placed in the performance
+
+   14-6
+
+===== PDF PAGE 192 =====
+ 7/29/26  AC 43.13-2C
+
+   information section of the AFMS. For larger variations in climb performance,
+   where the minimum requirements are critical, appropriate climb data should be
+   obtained to determine the changes and new curves, tables, or a note should be
+   incorporated into the AFMS.
+
+ 14.7 Maintenance (Including Inspection).
+
+14.7.1 Inspection and Repair Data Sources. Contact the airplane, wheel, brake, or tire
+   manufacturers for any specific inspection and maintenance instructions they may have
+   developed. Check the applicable directory for Airworthiness Directives (AD) for the
+   products being used. Refer to AC 43.13-1, Chapter 9, Aircraft Systems and Components,
+   for more information.
+
+14.7.2 Instructions for Continued Airworthiness (ICA). The installer must provide instructions
+   for future inspection, maintenance, and repair of the added or altered parts, and is also
+   responsible for assessing the need for any changes to the product-level ICA (changes that
+   affect the airplane as a whole when the tires are installed). For simple airplane/tire
+   combinations where tires of the same size have been approved on similar airplanes with
+   appropriate ICA, it may only be necessary to reference those ICA in the maintenance
+   records of the newly altered airplane and/or in block 8 of the FAA Form 337, Major
+   Repair and Alteration (Airframe, Powerplant, Propeller, or Appliance), documenting the
+   larger tire installation. For complex tire installations requiring special considerations, the
+   modifier may need to develop new installation-specific ICA. In either case, the modifier
+   must ensure that adequate and appropriate ICA is available to the owner or operator of
+   the modified aircraft. Refer to AC 43-210, Paragraph 5, Maintenance Information, for
+   additional guidance regarding ICA. Operators intending to modify aircraft to these
+   configurations should consider the following:
+
+   14.7.2.1  Inspect the area of the fuselage attachment clamp area, axle attachment area,
+   and the axle for cracks, corrosion, and any other defect that might induce
+   failure. Performance of these inspections should be in accordance with “best
+   practices” commonly used in industry with, at a minimum, the use of a dye
+   penetrate method of Nondestructive Testing (NDT) with the aid of
+   magnification or other methods, techniques, and practices acceptable to the
+   FAA.
+
+   14-7
+
+===== PDF PAGE 193 =====
+7/29/26  AC 43.13-2C
+
+   Figure 14-2. Typical Main Landing Gear Spring Strut and Axle Assembly
+
+   14.7.2.2  Corrosion, fatigue, or hardware substitution, or all, can be detrimental to other
+   areas of the strut as well, and the manufacturer’s recommendations should be
+   thoroughly reviewed and understood. Compatibility of materials should be
+   considered, particularly when aircraft have been modified with components of
+   different base metals than originally certified, such as titanium/cadmium
+   combinations or other non-compatible materials. The effects of time in service
+   on hardware should be considered and replacement intervals established.
+
+   14.7.2.3  Aircraft in service with these modifications should have an increased
+   inspection frequency with records maintained to indicate the method and
+   status since last inspection.
+
+   14.7.2.4  Under current guidance, ICA are required to be addressed prior to returning
+   the aircraft to service. Apply careful consideration when developing field
+   approval data packages that define the methods, techniques, and practices
+   used in determining the continuous airworthiness of the aircraft. AC 43-210,
+   Figure 5-1, Major Repair or Major Alteration Maintenance Information
+   Checklist, contains the minimum requirements that should be addressed. The
+   ICA should be referenced in block 8 of FAA Form 337.
+
+   14.7.2.5  In establishing the frequency of these repetitive inspections, special
+   consideration should be given to the number of hours flown, type of flying,
+   operational environment, age, and previous operating history of the aircraft.
+
+   14.7.2.6  Operators of aircraft having obtained approval for these installations, prior to
+   the data package requirement for field approval, may wish to develop ICA for
+   their aircraft.
+
+   14-8
+
+===== PDF PAGE 194 =====
+  7/29/26  AC 43.13-2C
+
+   14.8 Interchanging of Skis and Wheels.
+
+ 14.8.1 W&B Computation. A person appropriately authorized by 14 CFR § 43.3 must perform a
+   new W&B computation when the larger tires are initially installed. The FAA
+   recommends that the airplane be weighed for this initial computation. After the initial
+   installation, removing the larger tires and/or brakes and returning the aircraft to its
+   original configuration or vice versa is considered a preventive maintenance operation if it
+   does not involve complex assembly operations or a new W&B computation. Refer to
+   14 CFR part 43 appendix A, paragraph (c)(18).
+
+   Note: During subsequent W&B changes to the airplane, be sure to update the
+   W&B records and equipment list to ensure proper configuration of all approved
+   ski, wheel, and float installations.
+
+ 14.8.2 Periodic Inspection Required. Seasonally removed and installed equipment items such as
+   tires, skis and floats should be inspected at installation to comply with 14 CFR
+   §§ 91.407(a) and 91.409(a), and 14 CFR part 43 appendix D, if they were not installed on
+   the airplane at the time of the last inspection. All available data described in this
+   paragraph should be used during the inspection.
+
+   14.9 Documentation.
+
+ 14.9.1 Alterations. Modifications not listed in the aircraft specifications, incorporating larger
+   tires, wheels, or brakes are considered a major alteration. Therefore, it is recommended
+   that the procedures contained in ACs 43.9-1 and 43-210 be utilized to meet the recording
+   requirements contained in 14 CFR part 43.
+
+ 14.9.2 Performance Information. The following paragraphs contain the minimum additional
+   performance data required for airplanes equipped with larger tire installations. Refer to
+   AC 43-210, Paragraph 4, Flight Manual Supplements, for additional guidance regarding
+   approved AFMS.
+
+   Note: In estimating landing distances for other conditions, caution should be
+   exercised as temperatures or other environmental conditions may either decrease
+   or increase these distances.
+
+ 14.10 Summary of Considerations for Approval of Larger Tire Installation (may be used
+   as a job aid).
+
+14.10.1 If an STC exists, it must be used.
+
+14.10.2 All tires must be either TSO or PMA approved.
+
+14.10.3 Tire size must not exceed 35 x 15 inches.
+
+   14-9
+
+===== PDF PAGE 195 =====
+ 7/29/26  AC 43.13-2C
+
+14.10.4 Procedures:
+
+   1. Review ACs 23-17 and 43-210.
+   2. Review the aircraft records for previous alterations and repairs to ensure there is no
+   effect on the proposed alteration.
+   3. Conduct a conformity evaluation to ensure that the proposed alteration will not
+   impact the airworthiness of the aircraft.
+   4. Submit FAA Form 337 prepared in accordance with 14 CFR part 43 and ACs 43-210
+   and 43.9-1, including the certification basis used for the field approval, a description
+   of the proposed alteration, and ICA.
+   5. The alteration must be performed by a certificated airframe mechanic, and
+   accomplished using acceptable methods, techniques, and practices. Refer to 14 CFR
+   §§ 43.7 and 43.13.
+   6. Aircraft must be weighed with tires installed, and a new W&B generated. Refer to
+   14 CFR §§ 43.13, 91.9, and 91.103.
+   7. Aircraft CG must be determined for the most forward and aft conditions, at both
+   empty and gross weights. Refer to AC 43.13-1, Chapter 10, Weight and Balance.
+   8. The holder of an Inspection Authorization (IA) should inspect the aircraft for:
+   •  Previous alterations or repairs that may not have been recorded.
+   •  Compatibility of previous alterations or repairs.
+   •  Airworthiness of the aircraft.
+
+   14.10.4.1 Ensure that the aircraft wing, tail, and control surfaces have not been
+   improperly altered and the aircraft is properly rigged (log book entry by a
+   certified mechanic).
+
+   14.10.4.2 Perform a series of maintenance operational check flights as follows:
+
+   •  No passengers permitted.
+   •  All flights conducted in accordance with the aircraft’s flight manual or
+   limitations.
+   •  Turning and braking tests for tire slippage and interference. Recommend
+   conducting at minimum and maximum tire pressures.
+   •  Aircraft minimum weight: Flight(s) conducted at the most forward and at
+   the most aft CG.
+   •  Aircraft at gross weight: Flight(s) conducted at the most forward and at the
+   most aft CG.
+
+   14.10.4.3 After completion of check flights, the pilot will sign the aircraft’s airframe
+   maintenance log book, certifying that the aircraft is safe to operate within the
+   operational limits of the aircraft’s design. Refer to 14 CFR § 91.407(b).
+
+   14-10
+
+===== PDF PAGE 196 =====
+   OMB Control Number: 2120-0746
+   Expiration Date:12/31/2027
+
+   Advisory Circular Feedback Form
+
+Paperwork Reduction Act Burden Statement: A federal agency may not conduct or sponsor, and a person is not
+required to respond to, nor shall a person be subject to a penalty for failure to comply with a collection of
+information subject to the requirements of the Paperwork Reduction Act unless that collection of information
+displays a currently valid OMB Control Number. The OMB Control Number for this information collection
+is 2120-0746. Public reporting for this collection of information is estimated to be approximately 20 minutes per
+response, including the time for reviewing instructions, searching existing data sources, gathering, and maintaining
+the data needed, completing, and reviewing the collection of information.
+All responses to this collection of information are voluntary. Send comments regarding this burden estimate or any
+other aspect of this collection of information, including suggestions for reducing this burden to:
+Information Collection Clearance Officer, Federal Aviation Administration, 10101 Hillwood Parkway,
+Fort Worth, TX 76177-1524.
+
+If you find an error in this Advisory Circular, have recommendations for improving it, or have
+suggestions for new items/subjects to be added, you may let us know by emailing this form to
+the Flight Standards Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.
+
+Subject: AC 43.13-2C, Acceptable Methods, Techniques, and Practices – Aircraft Alterations
+
+Date: _____________________
+
+Please mark all appropriate line items:
+
+☐  An error (procedural or typographical) has been noted in paragraph ____________
+   on page _______.
+☐  Recommend paragraph _____________ on page __________ be changed as follows:
+
+☐  In a future change to this AC, please cover the following subject:
+   (Briefly describe what you want added.)
+
+☐  Other comments:
+
+☐  I would like to discuss the above. Please contact me using the information below.
+
+Submitted by:  Date: ______________________
+FAA 1320-73 (01/25) SUPERSEDES PREVIOUS EDITIONS

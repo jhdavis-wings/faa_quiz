@@ -1,0 +1,1607 @@
+FAA-H-8083-31B Airframe Handbook, chapter 5 (Aircraft Welding), PDF pages 294-308
+
+===== PDF PAGE 294 =====
+and select the appropriate filler metal that is compatible with
+the base metal. The filler should not be a larger diameter than
+the pieces to be welded. [Figure 5-26]
+Begin by tacking the pieces. The tacks should be applied
+1–11⁄2-inches apart. Tacks are done hot and fast by melting
+the edges of the metal together, if they are touching, or by
+adding filler to the melting edges when there is a gap. Tacking
+requires a hotter flame than welding. So, if the thickness of
+the metal being welded is known, set the length of the inner
+cone of the flame roughly three to four metal thicknesses in
+length for tacking. (Example: .063 aluminum sheet = 3⁄16–1⁄4
+inch inner cone.)
+Once the edges are tacked, begin welding by either starting
+at the second tack and continuing on, or starting the weld
+one inch in from the end and then welding back to the edge
+of the sheet. Allow this initial skip-weld to chill and solidify.
+Then, begin to weld from the previous starting point and
+continue all the way to the end. Decrease the heat at the end
+of the seam to allow the accumulated heat to dissipate. The
+last inch or so is tricky and must be dabbed to prevent blowthrough. (Dabbing is the adding of filler metal in the molten
+pool while controlling the heat on the metal by raising and
+lowering the torch.)
+Weld bead appearance, or making ringlets, is caused by the
+movement of the torch and dabbing the filler metal. If the
+torch and add filler metal is moved at the same time, the
+ringlet is more pronounced. A good weld has a bead that is
+not too proud and has penetration that is complete.
+Immediately after welding, the flux must be cleaned by using
+hot (180 °F) water and the stainless steel brush, followed by
+liberal rinsing with fresh water. If only the filler was fluxed,
+the amount of cleanup is minimal. All flux residues must
+be removed from voids and pinholes. If any particular area
+is suspect to hidden flux, pass a neutral flame over it and a
+yellow-orange incandescence will betray hiding residues.
+Proper scrubbing with an etching solution and waiting no
+longer than 20 minutes to prime and seal avoids the lifting,
+peeling, or blistering of the finished topcoat.
+Magnesium Welding
+Gas welding of magnesium is very similar to welding
+aluminum using the same equipment. Joint design also
+follows similar practice to aluminum welding. Care must be
+taken to avoid designs that may trap flux after the welding
+is completed, with butt and edge welds being preferred. Of
+special interest is the high expansion rate of magnesiumbased alloys, and the special attention that must be given to
+avoid stresses being set up in the parts. Rigid fixtures should
+
+Filler Metal Selection Chart
+Base
+Metals
+
+1100
+3003
+
+6061
+
+4043 (a)
+4047
+
+5005
+
+4043 (a)
+5183
+5356
+5556
+5554 (d)
+5654 (c)
+5086
+5356
+5356
+DO NOT
+4043
+(a)
+5183
+GAS WELD
+5556
+5183
+4043 (a)
+5052
+5356
+5183
+5556
+5356
+4043 (a,b) 5556
+4047
+5005
+
+1100
+3003
+
+5052
+
+5086
+
+DO NOT
+GAS WELD
+
+5356
+5183
+5554
+5556
+5654 (d)
+4043 (a)
+5356
+5183
+5556
+5654 (c)
+5183
+5356
+5556
+5554 (d)
+4043 (a)
+
+5356
+5183
+5356
+5556
+5654 (c)
+
+6061
+4043 (a)
+4047
+5556
+5183
+5554 (d)
+
+5356
+5183
+5556
+
+5183
+5183
+5356
+5356
+5556
+4043 (a,b)
+4043 (a,b)
+1110
+4043 (a)
+For explanation of (a. b. c. d) see below
+Copyright © 1997 TM Technologies
+
+(a) 4043, because of its silicon (Si) content, is less susceptible to hot
+cracking but has less ductility and may crack when planished.
+(b) For applications at sustained temperatures above ISOF because
+of intergranular corrosion.
+(c) Low temperature service at ISOF and below.
+(d) 5554 is suitable for elevated temperatures.
+Note: When choosing between 5356, 5183, 5556, be aware that
+5356 is the weakest and 5556 is the strongest, with 5183 in between.
+Also, 4047 has more Si than 4043, therefore less sensitivity to
+hot cracking, slightly higher weld shear strength, and less ductility.
+
+Figure 5-26. Filler metal selection chart.
+
+be avoided; use careful planning to eliminate distortion.
+In most cases, filler material should match the base material
+in alloy. When welding two different magnesium alloys
+together, the material manufacturer should be consulted
+for recommendations. Aluminum should never be welded
+to magnesium. As in aluminum welding, a flux is required
+to break down the surface oxides and ensure a sound weld.
+Fluxes sold specifically for the purpose of fusion welding
+magnesium are available in powder form and are mixed with
+water in the same manner as for aluminum welding. Use the
+minimum amount of flux necessary to reduce the corrosive
+effects and cleaning time required after the weld is finished.
+The sodium-flare reducing eye protection used for aluminum
+welding is of the same benefit on magnesium welding.
+
+5-18
+
+===== PDF PAGE 295 =====
+Welding is done with a neutral flame setting using the same
+tip size for aluminum welding. The welding technique
+follows the same pattern as aluminum with the welding being
+completed in a single pass on sheet gauge material. Generally,
+the TIG process has replaced gas welding of magnesium
+due to the elimination of the corrosive flux and its inherent
+limitations on joint design.
+
+Brazing & Soldering
+Torch Brazing of Steel
+The definition of joining two pieces of metal by brazing
+typically meant using brass or bronze as the filler metal.
+However, that definition has been expanded to include any
+metal joining process in which the bonding material is a
+nonferrous metal or alloy with a melting point higher than
+800 °F, but lower than that of the metals being joined.
+Brazing requires less heat than welding and can be used to
+join metals that may be damaged by high heat. However,
+because the strength of a brazed joint is not as great as that
+of a welded joint, brazing is not used for critical structural
+repairs on aircraft. Also, any metal part that is subjected to a
+sustained high temperature should not be brazed.
+Brazing is applicable for joining a variety of metals, including
+brass, copper, bronze and nickel alloys, cast iron, malleable
+iron, wrought iron, galvanized iron and steel, carbon steel,
+and alloy steels. Brazing can also be used to join dissimilar
+metals, such as copper to steel or steel to cast iron.
+When metals are joined by brazing, the base metal parts are
+not melted. The brazing metal adheres to the base metal by
+molecular attraction and intergranular penetration; it does
+not fuse and amalgamate with them.
+In brazing, the edges of the pieces to be joined are usually
+beveled as in welding steel. The surrounding surfaces must be
+cleaned of dirt and rust. Parts to be brazed must be securely
+fastened together to prevent any relative movement. The
+strongest brazed joint is one in which the molten filler metal
+is drawn in by capillary action, requiring a close fit.
+A brazing flux is necessary to obtain a good union between
+the base metal and the filler metal. It destroys the oxides and
+floats them to the surface, leaving a clean metal surface free
+from oxidation. A brazing rod can be purchased with a flux
+coating already applied, or any one of the numerous fluxes
+available on the market for specific application may be used.
+Most fluxes contain a mixture of borax and boric acid.
+The base metal should be preheated slowly with a neutral soft
+flame until it reaches the flowing temperature of the filler
+metal. If a filler rod that is not precoated with flux is used,
+
+heat about 2 inches of the rod end with the torch to a dark
+purple color and dip it into the flux. Enough flux adheres to
+the rod that it is unnecessary to spread it over the surface
+of the metal. Apply the flux-coated rod to the red-hot metal
+with a brushing motion, using the side of the rod; the brass
+flows freely into the steel. Keep the torch heat on the base
+metal to melt the filler rod. Do not melt the rod with the torch.
+Continue to add the rod as the brazing progresses, with a
+rhythmic dipping action so that the bead is built to a uniform
+width and height. The job should be completed rapidly and
+with the fewest possible passes of the rod and torch.
+Notice that some metals are good conductors of heat and
+dissipate the heat more rapidly away from the joint. Other
+metals are poor conductors that tend to retain the heat and
+overheat readily. Controlling the temperature of the base
+metal is extremely important. The base metal must be hot
+enough for the brazing filler to flow, but never overheated
+to the filler boiling point. This causes the joint to be porous
+and brittle.
+The key to even heating of the joint area is to watch the
+appearance of the flux. The flux should change appearance
+uniformly when even heat is being applied. This is especially
+important when joining two metals of different mass or
+conductivity.
+The brazing rod melts when applied to the red-hot base
+metal and runs into the joint by capillary attraction. (Note
+that molten brazing filler metal tends to flow toward the
+area of higher temperature.) In a torch heated assembly,
+the outer metal surfaces are slightly hotter than the interior
+joint surfaces. The filler metal should be deposited directly
+adjacent to the joint. Where possible, the heat should be
+applied to the assembly on the side opposite to where the
+filler is applied because the filler metal tends to flow toward
+the source of greater heat.
+After the brazing is complete, the assembly or component
+must be cleaned. Since most brazing fluxes are water soluble,
+a hot water rinse (120 °F or hotter) and a wire brush remove
+the flux. If the flux was overheated during the brazing
+process, it usually turns green or black. In this case, the flux
+needs to be removed with a mild acid solution recommended
+by the manufacturer of the flux in use.
+Torch Brazing of Aluminum
+Torch brazing of aluminum is done using similar methods
+as brazing of other materials. The brazing material itself is
+an aluminum/silicon alloy having a slightly lower melting
+temperature than the base material. Aluminum brazing occurs
+at temperatures over 875 °F, but below the melting point of
+the parent metal. This is performed with a specific aluminum
+5-19
+
+===== PDF PAGE 296 =====
+brazing flux. Brazing is best suited to joint configurations that
+have large surface areas in contact, such as the lap, or for fitting
+fuel tank bungs and fittings. Either acetylene or hydrogen may
+be used as fuel gas, both being used for production work for
+many years. Using eye protection that reduces the sodium
+flare, such as the TM2000 lens, is recommended.
+When using acetylene, the tip size is usually the same, or one
+size smaller than that used for welding of aluminum. A 1–2X
+reducing flame is used to form a slightly cooler flame, and the
+torch is held back at a greater distance using the outer envelope
+as the heat source rather than the inner cone. Prepare the flux
+and apply in the same manner as the aluminum welding flux,
+fluxing both the base metal and filler material. Heat the parts
+with the outer envelope of the flame, watching for the flux to
+begin to liquefy; the filler may be applied at that point. The
+filler should flow easily. If the part gets overheated, the flux
+turns brown or grey. If this happens, reclean and re-flux the
+part before continuing. Brazing is more easily accomplished
+on 1100, 3003, and 6061 aluminum alloys. 5052 alloy is more
+difficult; proper cleaning and practice are vital. There are
+brazing products sold that have the flux contained in hollow
+spaces in the filler metal itself, which typically work only on
+1100, 3003, and 6061 alloys as the flux is not strong enough
+for use on 5052. Cleaning after brazing is accomplished the
+same as with oxy-fuel welding of aluminum, using hot water
+and a clean stainless brush. The flux is corrosive, so every
+effort should be made to remove it thoroughly and quickly
+after the brazing is completed.
+Soldering
+Soldering is a method of thermally joining metal parts with
+a molten nonferrous alloy that melts at a temperature below
+800 °F. The molten alloy is pulled up between close-fitting
+parts by capillary action. When the alloy cools and hardens,
+it forms a strong, leak-proof connection.
+Soft solder is chiefly used to join copper and brass where a
+leak proof joint is desired, and sometimes for fitting joints
+to promote rigidity and prevent corrosion. Soft soldering is
+generally performed only in minor repair jobs. Soft solder
+is also used to join electrical connections. It forms a strong
+union with low electrical resistance.
+Soft soldering does not require the heat of an oxy-fuel
+gas torch and can be performed using a small propane or
+MAPP® torch, an electrical soldering iron, or in some cases, a
+soldering copper, that is heated by an outside source, such as
+an oven or torch. The soft solders are chiefly alloys of tin and
+lead. The percentages of tin and lead vary considerably in the
+various solders with a corresponding change in their melting
+points ranging from 293 °F to 592 °F. Half-and-half (50/50)
+is the most common general-purpose solder. It contains equal
+
+portions of tin and lead and melts at approximately 360 °F.
+To get the best results for heat transfer when using an electrical
+soldering iron or a soldering copper, the tip must be clean and
+have a layer of solder on it. This is usually referred to as being
+tinned. The hot iron or copper should be fluxed and the solder
+wiped across the tip to form a bright, thin layer of solder.
+Flux is used with soft solder for the same reasons as with
+brazing. It cleans the surface area to be joined and promotes
+the flow by capillary action into the joint. Most fluxes should
+be cleaned away after the job is completed because they cause
+corrosion. Electrical connections should be soldered only
+with soft solder containing rosin. Rosin does not corrode the
+electrical connection.
+
+Aluminum Soldering
+The soldering of aluminum is much like the soldering of
+other metals. The use of special aluminum solders is required,
+along with the necessary flux. Aluminum soldering occurs at
+temperatures below 875 °F. Soldering can be accomplished
+using the oxy-acetylene, oxy-hydrogen, or even an airpropane torch setup. A neutral flame is used in the case of
+either oxy-acetylene or oxy-hydrogen. Depending on the
+solder and flux type, most common aluminum alloys can be
+soldered. Being of lower melting temperature, a tip one or
+two sizes smaller than required for welding is used, along
+with a soft flame setting.
+Joint configurations for aluminum soldering follow the same
+guidelines as any other base material. Lap joints are preferred
+to tee or butt joints due to the larger surface contact area.
+However parts, such as heat exchanger tubes, are a common
+exception to this.
+Normally, the parts are cleaned as for welding or brazing, and
+the flux is applied according to manufacturer’s instructions.
+The parts are evenly heated with the outer envelope of the
+flame to avoid overheating the flux, and the solder is applied
+in a fashion similar to that for other base metals. Cleaning
+after soldering may not be required to prevent oxidation
+because some fluxes are not corrosive. However, it is always
+advisable to remove all flux residues after soldering.
+Aluminum soldering is commonly used in such applications
+as the repair of heat exchanger or radiator cores originally
+using a soldered joint. It is not, however, to be used as a direct
+replacement repair for brazing or welding.
+
+Silver Soldering
+The principle use of silver solder in aircraft work is in the
+fabrication of high-pressure oxygen lines and other parts that
+must withstand vibration and high temperatures.
+5-20
+
+===== PDF PAGE 297 =====
+Silver solder is used extensively to join copper and its alloys,
+nickel and silver, as well as various combinations of these
+metals and thin steel parts. Silver soldering produces joints
+of higher strength than those produced by other brazing
+processes.
+Flux must be used in all silver soldering operations to ensure
+the base metal is chemically clean. The flux removes the film
+of oxide from the base metal and allows the silver solder to
+adhere to it.
+All silver solder joints must be physically, as well as
+chemically, clean. The joint must be free of dirt, grease, oil,
+and/or paint. After removing the dirt, grease, etc., any oxide
+(rust and/or corrosion) should be removed by grinding or
+filing the piece until bright metal can be seen. During the
+soldering operation, the flux continues to keep the oxide away
+from the metal and aid in the flow of the solder.
+The three recommended types of joint for silver soldering
+are lap, flanged, and edge. With these, the metal is formed
+to furnish a seam wider than the base metal thickness and
+provide the type of joint that holds up under all types of
+loads. [Figure 5-27]
+The oxy-acetylene flame for silver soldering should be a
+soft neutral or slightly reducing flame. That is, a flame with
+a slight excess of acetylene. During both preheating and
+application of the solder, the tip of the inner cone of the
+flame should be held about 1⁄2-inch from the work. The flame
+should be kept moving so that the metal does not overheat.
+When both parts of the base metal are at the correct
+temperature, the flux flows and solder can be applied
+directly adjacent to the edge of the seam. It is necessary to
+simultaneously direct the flame over the seam and keep it
+moving so that the base metal remains at an even temperature.
+
+Gas Tungsten Arc Welding (TIG Welding)
+The TIG process as it is known today is a combination of
+the work done by General Electric in the 1920s to develop
+the basic process, the work done by Northrop in the 1940s
+to develop the torch itself, and the use of helium-shielding
+gas and a tungsten electrode. The process was developed for
+Solder
+Solder
+Lap joint
+
+Solder
+
+Flanged butt joint
+
+Figure 5-27. Silver solder joints.
+
+Solder
+Edge joint
+
+welding magnesium in the Northrop XP-56 flying wing to
+eliminate the corrosion and porosity issues with the atomic
+hydrogen process they had been using with a boron flux. It
+was not readily used on other materials until the late 1950s
+when it found merit in welding space-age super alloys. It was
+also later used on other metals, such as aluminum and steel,
+to a much greater degree.
+Modern TIG welding machines are offered in DC, AC, or
+with AC/DC configurations, and use either transformer or
+inverter-based technology. Typically, a machine capable of
+AC output is required for aluminum. The TIG torch itself has
+changed little since the first Northrop patent. TIG welding
+is similar to oxy-fuel welding in that the heat source (torch)
+is manipulated with one hand, and the filler, if used, is
+manipulated with the other. A distinct difference is to control
+the heat input to the metal. The heat control may be preset
+and fixed by a machine setting or variable by use of a foot
+pedal or torch-mounted control.
+Several types of tungsten electrode are used with the TIG
+welder. Thoriated and zirconiated electrodes have better
+electron emission characteristics than pure tungsten, making
+them more suitable for DC operations on transformer-based
+machines, or either AC or DC with the newer inverter-based
+machines. Pure tungsten provides a better current balance
+with AC welding with a transformer based machine, which
+is advantageous when welding aluminum and magnesium.
+The equipment manufacturers’ suggestions for tungsten type
+and form should be followed as this is an ever changing part
+of the TIG technology.
+The shape of the electrode used in the TIG welding torch
+is an important factor in the quality and penetration of the
+weld. The tip of the electrode should be shaped on a dedicated
+grinding stone or a special-purpose tungsten grinder to avoid
+contaminating the electrode. The grinding should be done
+longitudinally, not radially, with the direction of stone travel
+away from the tip. Figure 5-28 shows the effects of a sharp
+versus blunt electrode with transformer-based machines.
+When in doubt, consult the machine manufacturer for the
+Sharper Electrode
+
+Blunter Electrode
+
+Easy arc starting
+
+Usually harder to start the arc
+
+Handles less amperage
+
+Handles more amperage
+
+Wider arc shape
+
+Narrower arc shape
+
+Good arc stability
+
+Potential for arc wander
+
+Less weld penetration
+
+Better weld penetration
+
+Shorter electrode life
+
+Longer electrode life
+
+Figure 5-28. Effects of sharp and blunt electrodes.
+
+5-21
+
+===== PDF PAGE 298 =====
+latest up-to-date suggestions on tungsten preparation or if
+problems arise.
+The general guidelines for weld quality, joint fit prior to
+welding, jigging, and controlling warp all apply to this
+process in the same regard as any other welding method. Of
+particular note are the additional process steps that sometimes
+must be taken to perform a quality weld; these are dealt within
+their appropriate sections.
+TIG Welding 4130 Steel Tubing
+Welding 4130 with TIG is not much different than welding
+other steels as far as technique is concerned. The following
+information generally addresses material under 0.120-inch
+thick.
+Clean the steel of any oil or grease and use a stainless steel
+wire brush to clean the work piece prior to welding. This is
+to prevent porosity and hydrogen embrittlement during the
+welding process. The TIG process is highly susceptible to
+these problems, much more so than oxy-acetylene welding,
+so care must be taken to ensure all oils and paint are removed
+from all surfaces of the parts to be welded.
+Use a TIG welder with high-frequency starting to eliminate
+arc strikes. Do not weld where there is any breeze or draft;
+the welds should be allowed to cool slowly. Preheating
+is not necessary for tubing of less than 0.120-inch wall
+thickness; however, post-weld tempering (stress relieving) is
+still recommended to prevent the possible brittleness of the
+area surrounding the weld due to the untempered martensite
+formations caused by the rapid cooling of the weld inherent
+to the TIG process.
+If you use 4130 filler rod, preheat the work before welding
+and heat treat afterward to avoid cracking. In a critical
+situation such as this, engineering should be done to
+determine preheat and post-weld heat treatment needed for
+the particular application.
+Weld at a slower speed, make sufficiently large fillets, and
+make them flat or slightly convex, not concave. After the
+welding is complete, allow the weldment to cool to room
+temperature. Using an oxy-acetylene torch set to a neutral
+flame, heat the entire weldment evenly to 1,100 °F–1,200 °F;
+hold this temperature for about 45 minutes per inch of metal
+thickness. The temperature is generally accepted to be a dull
+red in ambient lighting. Note that for most tubing sections, the
+temperature needs to be held for only a minute or two. This
+process is found in most materials engineering handbooks
+written by the Materials Information Society (ASM) and
+other engineering sources. When working on a critical
+component, seek engineering help if there is any doubt.
+
+TIG Welding Stainless Steel
+Stainless steels, or more precisely, corrosion-resisting steels,
+are a family of iron-based metals that contain chromium
+in amounts ranging from 10 percent to about 30 percent.
+Nickel is added to some of the stainless steels, which
+reduces the thermal conductivity and decreases the electrical
+conductivity. The chromium-nickel steels belong in the AISI
+300 series of stainless steels. They are nonmagnetic and have
+austenitic microstructure. These steels are used extensively
+in aircraft in which strength or resistance to corrosion at high
+temperature is required.
+All of the austenitic stainless steels are weldable with most
+welding processes, with the exception of AISI 303, which
+contains high sulfur, and AISI 303Se, which contains
+selenium to improve its machinability.
+The austenitic stainless steels are slightly more difficult
+to weld than mild-carbon steel. They have lower melting
+temperatures, and a lower coefficient of thermal conductivity,
+so welding current can be lower. This helps on thinner
+materials because these stainless steels have a higher
+coefficient of thermal expansion, requiring special
+precautions and procedures to be used to reduce warping and
+distortion. Any of the distortion-reducing techniques, such as
+skip welding or back-step welding, should be used. Fixtures
+and/or jigs should be used where possible. Tack welds should
+be applied twice as often as normal.
+The selection of the filler metal alloy for welding the stainless
+steel is based on the composition of the base metal. Filler
+metal alloys for welding austenitic type stainless include
+AISI No. 309, 310, 316, 317, and 347. It is possible to weld
+several different stainless base metals with the same filler
+metal alloy. Follow the manufacturer’s recommendations.
+Clean the base metal just prior to welding to prevent the
+formation of oxides. Clean the surface and joint edges with
+a nonchlorinated solvent, and brush with a stainless steel
+wire brush to remove the oxides. Clean the filler material in
+the same manner.
+To form a weld bead, move the torch along the joint at
+a steady speed using the forehand method. Dip the filler
+metal into the center of the weld puddle to ensure adequate
+shielding from the gas.
+The base metal needs protection during the welding process
+by either an inert gas shield, or a backing flux, on both sides
+of the weld. Back purging uses a separate supply of shielding
+gas to purge the backside of the weld of any ambient air.
+Normally, this requires sealing off the tubular structures or
+5-22
+
+===== PDF PAGE 299 =====
+using other various forms of shields and tapes to contain
+the shielding gas. A special flux may also be used on the
+inside of tubular structures in place of a back purge. This is
+especially advantageous with exhaust system repairs in which
+sealing off the entire system is time consuming. The flux is
+the same as is used for the oxy-acetylene welding process
+on stainless materials.
+TIG Welding Aluminum
+TIG welding of aluminum uses similar techniques and filler
+materials as oxy-fuel welding. Consult with the particular
+welding machine manufacturer for recommendations on
+tungsten type and size, as well as basic machine settings
+for a particular weldment because this varies with specific
+machine types. Typically, the machine is set to an AC output
+waveform because it causes a cleaning action that breaks
+up surface oxides. Argon or helium shielding gas may be
+used, but argon is preferred because it uses less by volume
+than helium. Argon is a heavier gas than helium, providing
+better cover, and it provides a better cleaning action when
+welding aluminum.
+Filler metal selection is the same as used with the oxy-fuel
+process; however, the use of a flux is not needed as the
+shielding gas prevents the formation of aluminum oxide on
+the surface of the weld pool, and the AC waveform breaks
+up any oxides already on the material. Cleaning of the base
+metal and filler follows the same guidelines as for oxy-fuel
+welding. When welding tanks of any kind, it is a good practice
+to back-purge the inside of the tank with a shielding gas. This
+promotes a sound weld with a smooth inner bead profile that
+can help lessen pinhole leaks and future fatigue failures.
+Welding is done with similar torch and filler metal angles as
+in oxy-fuel welding. The tip on the tungsten is held a short
+distance (1⁄16 –1⁄8-inch) from the surface of the material, taking
+care not to ever let the molten pool contact the tungsten and
+contaminate it. Contamination of the tungsten must be dealt
+with by removal of the aluminum from the tungsten and regrinding the tip to the factory recommended profile.
+TIG Welding Magnesium
+Magnesium alloys can be welded successfully using the
+same type joints and preparation that are used for steel or
+aluminum. However, because of its high thermal conductivity
+and coefficient of thermal expansion, which combine to cause
+severe stresses, distortion, and cracking, extra precautions
+must be taken. Parts must be clamped in a fixture or jig.
+Smaller welding beads, faster welding speed, and the use
+of a lower melting point and lower shrinkage filler rods are
+recommended.
+DC, both straight or reverse polarity, and AC, with
+
+superimposed high frequency for arc stabilization, are
+commonly used for welding magnesium. DC reverse polarity
+provides better cleaning action of the metal and is preferred
+for manual welding operations.
+AC power sources should be equipped with a primary
+contactor operated by a control switch on the torch or a foot
+control for starting or stopping the arc. Otherwise, the arcing
+that occurs while the electrode approaches or draws away
+from the work piece may result in burned spots on the work.
+Argon is the most common used shielding gas for manual
+welding operations. Helium is the preferred gas for automated
+welding because it produces a more stable arc than argon and
+permits the use of slightly longer arc lengths. Zirconiated,
+thoriated, and pure tungsten electrodes are used for TIG
+welding magnesium alloys.
+The welding technique for magnesium is similar to that used
+for other non-ferrous metals. The arc should be maintained
+at about 5⁄16-inch. Tack welds should be used to maintain fit
+and prevent distortion. To prevent weld cracking, weld from
+the middle of a joint towards the end, and use starting and
+run off plates to start and end the weld. Minimize the number
+of stops during welding. After a stop, the weld should be
+restarted about ½-inch from the end of the previous weld.
+When possible, make the weld in one uninterrupted pass.
+TIG Welding Titanium
+The techniques for welding titanium are similar to those
+required for nickel-based alloys and stainless steels. To
+produce a satisfactory weld, emphasis is placed on the
+surface cleanliness and the use of inert gas to shield the
+weld area. A clean environment is one of the requirements
+to weld titanium.
+TIG welding of titanium is performed using DC straight
+polarity. A water-cooled torch, equipped with a ¾-inch
+ceramic cup and a gas lens, is recommended. The gas lens
+provides a uniform, nonturbulent inert gas flow. Thoriated
+tungsten electrodes are recommended for TIG welding of
+titanium. The smallest diameter electrode that can carry
+the required current should be used. A remote contactor
+controlled by the operator should be employed to allow the
+arc to be broken without removing the torch from the cooling
+weld metal, allowing the shielding gas to cover the weld until
+the temperature drops.
+Most titanium welding is performed in an open fabrication
+shop. Chamber welding is still in use on a limited basis, but
+field welding is common. A separate area should be set aside
+and isolated from any dirt producing operations, such as
+grinding or painting. Additionally, the welding area should
+be free of air drafts and the humidity should be controlled.
+5-23
+
+===== PDF PAGE 300 =====
+Molten titanium weld metal must be totally shielded from
+contamination by air. Molten titanium reacts readily with
+oxygen, nitrogen, and hydrogen; exposure to these elements
+in air or in surface contaminants during welding can adversely
+affect titanium weld properties and cause weld embrittlement.
+Argon is preferred for manual welding because of better
+arc stability characteristics. Helium is used in automated
+welding and when heavier base metals or deeper penetration
+is required.
+Care must be taken to ensure that the heat affected zones
+and the root side of the titanium welds are shielded until
+the weld metal temperature drops below 800 °F. This can
+be accomplished using shielding gas in three separate gas
+streams during welding.
+1.
+
+2.
+
+3.
+
+The first shielding of the molten puddle and adjacent
+surfaces is provided by the flow of gas through the
+torch. Manufacturer recommendations should be
+followed for electrodes, tip grinding, cup size, and
+gas flow rates.
+The secondary, or trailing, shield of gas protects
+the solidified weld metal and the heat affected zone
+until the temperature drops. Trailing shields are
+custom-made to fit a specific torch and a particular
+welding operation.
+The third, or backup, flow is provided by a shielding
+device that can take many forms. On straight seam
+welds, it may be a grooved copper backing bar
+clamped behind the seam allowing the gas flow in the
+groove and serving as a heat sink. Irregular areas may
+be enclosed with aluminum tents taped to the backside
+of welds and purged with the inert gas.
+
+Titanium weld joints are similar to those employed with
+other metals. Before welding, the weld joint surfaces must
+be cleaned and remain free of any contamination during the
+welding operation. Detergent cleaners and nonchlorinated
+cleaners, such as denatured isopropyl alcohol, may be used.
+The same requirements apply to the filler rod, it too must
+be cleaned and free of all contaminates. Welding gloves,
+especially the one holding the filler, must be contaminate free.
+A good indication and measure of weld quality for titanium
+is the weld color. A bright silver weld indicates that the
+shielding is satisfactory and the heat affected zone and
+backup was properly purged until weld temperatures
+dropped. Straw-colored films indicate slight contamination,
+unlikely to affect mechanical properties; dark blue films or
+white powdery oxide on the weld would indicate a seriously
+deficient purge. A weld in that condition must be completely
+removed and rewelded.
+
+Arc Welding Procedures, Techniques, &
+Welding Safety Equipment
+Arc welding, also referred to as stick welding, has been
+performed successfully on almost all types of metals. This
+section addresses the procedures as they may apply to
+fusion welding of steel plate and provides the basic steps
+and procedures required to produce an acceptable arc
+weld. Additional instruction and information pertaining to
+arc welding of other metals can be obtained from training
+institutions and the various manufacturers of the welding
+equipment.
+The first step in preparing to arc weld is to make certain that
+the necessary equipment is available and that the welding
+machine is properly connected and in good working order.
+Particular attention should be given to the ground connection,
+since a poor connection results in a fluctuating arc, that is
+difficult to control.
+When using a shielded electrode, the bare end of the electrode
+should be clamped in its holder at a 90° angle to the jaws.
+(Some holders allow the electrode to be inserted at a 45°
+angle when needed for various welding positions.)
+Before starting to weld, the following typical list of items
+should be checked:
+•
+
+Is the proper personal safety equipment being used,
+including a welding helmet, welding gloves, protective
+clothing, and footwear; if not, in an adequately
+ventilated area, appropriate breathing equipment?
+
+•
+
+Has the ground connection been properly made to the
+work piece and is it making a good connection?
+
+•
+
+Has the proper type and size electrode been selected
+for the job?
+
+•
+
+Is the electrode properly secured in the holder?
+
+•
+
+Does the polarity of the machine coincide with that
+of the electrode?
+
+•
+
+Is the machine in good working order and is it adjusted
+to provide the necessary current for the job?
+
+The welding arc is established by touching the base metal
+plate with the electrode and immediately withdrawing it a
+short distance. At the instant the electrode touches the plate,
+a rush of current flows through the point of contact. As the
+electrode is withdrawn, an electric arc is formed, melting a
+spot on the plate and at the end of the electrode.
+Correctly striking an arc takes practice. The main difficulty
+in confronting a beginner in striking the arc is sticking the
+electrode to the work. If the electrode is not withdrawn
+promptly upon contact with the metal, the high amperage
+5-24
+
+===== PDF PAGE 301 =====
+experience, it becomes easy. The key is to raise the electrode
+quickly, but only about ¼-inch from the base or the arc is
+lost. If it is raised too slowly, the electrode sticks to the plate.
+
+Withdraw to long
+arc 1/8" to 3/16"
+
+Figure 5-29. Touch method of starting an arc.
+
+Long arc immediately
+after striking
+
+20°-2
+5°
+
+Sweeping motion
+of electrode
+
+Figure 5-30. Scratch/sweeping method of starting the arc.
+
+flows through the electrode causing it to stick or freeze to
+the plate and practically short circuits the welding machine.
+A quick roll of the wrist, either right or left, usually breaks
+the electrode loose from the work piece. If that does not
+work, quickly unclamp the holder from the electrode, and
+turn off the machine. A small chisel and hammer frees the
+electrode from the metal so it can be regripped in the holder.
+The welding machine can then be turned back on.
+There are two essentially similar methods of striking the arc.
+One is the touch or tapping method. When using this method,
+the electrode should be held in a vertical position and lowered
+until it is an inch or so above the point where the arc is to
+be struck. Then, the electrode is lightly tapped on the work
+piece and immediately lifted to form an arc approximately
+¼-inch in length. [Figure 5-29]
+The second (and usually easier to master) is a scratch or
+sweeping method. To strike the arc by the scratch method, the
+electrode is held just above the plate at an angle of 20°–25°.
+The arc should be struck by sweeping the electrode with a
+wrist motion and lightly scratching the plate. The electrode
+is then lifted immediately to form an arc. [Figure 5-30]
+Either method takes some practice, but with time and
+
+To form a uniform bead, the electrode must be moved along
+the plate at a constant speed in addition to the downward
+feed of the electrode. If the rate of advance is too slow, a
+wide overlapping bead forms with no fusion at the edges. If
+the rate is too fast, the bead is too narrow and has little or no
+fusion at the plate.
+The proper length of the arc cannot be judged by looking at it.
+Instead, depend on the sound that the short arc makes. This is a
+sharp cracking sound, and it should be heard during the time the
+arc is being moved down to and along the surface of the plate.
+A good weld bead on a flat plate should have the following
+characteristics:
+•
+
+Little or no splatter on the surface of the plate.
+
+•
+
+An arc crater in the bead of approximately 1⁄16-inch
+when the arc has been broken.
+
+•
+
+The bead should be built up slightly, without metal
+overlap at the top surface.
+
+•
+
+The bead should have a good penetration of
+approximately 1⁄16-inch into the base metal.
+
+Figure 5-31 provides examples of operator’s technique and
+welding machine settings.
+When advancing the electrode, it should be held at an angle
+of about 20° to 25° in the direction of travel moving away
+from the finished bead. [Figure 5-32]
+If the arc is broken during the welding of a bead and the
+electrode is removed quickly, a crater is formed at the point
+where the arc ends. This shows the depth of penetration
+or fusion that the weld is getting. The crater is formed by
+the pressure of the gases from the electrode tip forcing the
+weld metal toward the edges of the crater. If the electrode is
+removed slowly, the crater is filled.
+If you need to restart an arc of an interrupted bead, start
+just ahead of the crater of the previous weld bead, as shown
+in position 1, Figure 5-33. Then, the electrode should be
+returned to the back edge of the crater (step 2). From this
+point, the weld may be continued by welding right through the
+crater and down the line of weld as originally planned (step 3).
+Once a bead has been formed, every particle of slag must
+be removed from the area of the crater before restarting the
+arc. This is accomplished with a pick hammer and wire brush
+and prevents the slag from becoming trapped in the weld.
+5-25
+
+===== PDF PAGE 302 =====
+Examples of Good and Bad Stick Welds
+Good weld
+
+Travel too fast
+
+° to
+20
+
+25°
+
+Travel too slow
+
+1/16 " to 1/8 " arc length
+
+Arc too short
+
+Figure 5-32. Angle of electrode.
+
+beveled and multiple passes.
+
+Arc too long
+
+The sequence of the bead deposits is determined by the
+kind of joint and the position of the metal. All slag must be
+removed from each bead before another bead is deposited.
+Typical multiple-pass groove welding of butt joints is shown
+in Figure 5-34.
+
+Amperage too high
+
+Techniques of Position Welding
+Each time the position of a welded joint or the type of joint
+is changed, it may be necessary to change any one or a
+combination of the following:
+
+Amperage too low
+
+Figure 5-31. Examples of good and bad stick welds.
+
+Multiple Pass Welding
+Groove and fillet welds in heavy metals often require the
+deposit of a number of beads to complete a weld. It is
+important that the beads be deposited in a predetermined
+sequence to produce the soundest welds with the best
+proportions. The number of beads is determined by the
+thickness of the metal being welded.
+Plates from 1⁄8-inch to ¼-inch can be welded in one pass, but
+they should be tacked at intervals to keep them aligned. Any
+weld on a plate thicker than ¼-inch should have the edges
+
+•
+
+Current value
+
+•
+
+Electrode
+
+•
+
+Polarity
+
+•
+
+Arc length
+
+•
+
+Welding technique
+
+Current values are determined by the electrode size, as well
+as the welding position. Electrode size is governed by the
+thickness of the metal and the joint preparation. The electrode
+type is determined by the welding position. Manufacturers
+2
+1
+
+3
+
+Crater
+
+Figure 5-33. Restarting the arc.
+
+5-26
+
+===== PDF PAGE 303 =====
+3
+2
+1
+
+3
+2
+1
+
+6
+3
+
+12
+
+5
+
+1
+
+2
+
+11
+10
+6
+5
+2
+
+4
+
+7
+
+3
+
+1
+4
+
+8
+
+9
+
+First pass-string bead, second, and third weave pattern.
+On plate thicknesses 3/4" or more, double vee
+the edges and use multiple-pass welding.
+
+Notice the variations of edge preparation and bead
+patterns as stock becomes progressively larger.
+Figure 5-34. Multiple-pass groove welding of butt joints.
+
+pa
+
+S
+
+specify the polarity to be used with each electrode. Arc length
+is controlled by a combination of the electrode size, welding
+position, and welding current.
+
+tte
+
+A
+
+r
+
+Crater
+
+pa
+
+S
+
+Bead Weld
+The bead weld utilizes the same technique that is used when
+depositing a bead on a flat metal surface. [Figure 5-35] The
+only difference is that the deposited bead is at the butt joint
+of two steel plates, fusing them together. Square butt joints
+may be welded in one or multiple passes. If the thickness of
+the metal is such that complete fusion cannot be obtained
+by welding from one side, the joint must be welded from
+both sides. Most joints should first be tack-welded to ensure
+alignment and reduce warping.
+
+Groove Weld
+Groove welding may be performed on a butt joint or an
+outside corner joint. Groove welds are made on butt joints
+where the metal to be welded is ¼-inch or more in thickness.
+The butt joint can be prepared using either a single or double
+groove depending on the thickness of the plate. The number
+of passes required to complete a weld is determined by
+the thickness of the metal being welded and the size of the
+electrode being used.
+Any groove weld made in more than one pass must have
+
+r
+
+Flat Position Welding
+There are four types of welds commonly used in flat position
+welding: bead, groove, fillet, and lap joint. Each type is
+discussed separately in the following paragraphs.
+
+tte
+
+Since it is impractical to cite every possible variation
+occasioned by different welding conditions, only the
+information necessary for the commonly used positions and
+welds is discussed here.
+
+Bead build up
+
+Crater
+
+B
+1/16" Penetration
+
+Bead weld
+No overlap
+
+No overlap
+
+C
+1/16" Penetration
+
+Figure 5-35. Proper bead weld.
+
+the slag, spatter, and oxide carefully removed from all
+previous weld deposits before welding over them. Some of
+the common types of groove welds performed on butt joints
+in the flat position are shown in Figure 5-36.
+
+Fillet Weld
+Fillet welds are used to make tee and lap joints. The electrode
+should be held at an angle of 45° to the plate surface. The
+electrode should be tilted at an angle of about 15° in the
+direction of welding. Thin plates should be welded with little
+or no weaving motion of the electrode and the weld is made
+in one pass. Fillet welding of thicker plates may require two
+or more passes using a semicircular weaving motion of the
+electrode. [Figure 5-37]
+5-27
+
+===== PDF PAGE 304 =====
+Reinforcement of weld
+
+Reinforcement of weld
+
+Profile view
+Short arc
+
+A
+
+Square groove weld
+
+B
+
+t of we l d
+Roo
+
+Double “V” groove weld
+45°
+
+Reinforcement of weld
+
+Reinforcement of weld
+
+n
+ctio
+
+1
+
+C
+
+Single “V” groove weld
+
+D
+
+Dire
+
+/4"
+
+Le
+
+Single bevel groove weld
+
+Figure 5-36. Groove welds on butt joints in the flat position.
+
+gs
+
+ize
+
+Figure 5-37. Tee joint fillet weld.
+
+Lap Joint Weld
+The procedure for making fillet weld in a lap joint is similar
+to that used in the tee joint. The electrode is held at about a
+30° angle to the vertical and tilted to an angle of about 15°
+in the direction of welding when joining plates of the same
+thickness. [Figure 5-38]
+Vertical Position Welding
+Vertical positing welding includes any weld applied to a
+surface inclined more than 45° from the horizontal. Welding
+in the vertical position is more difficult than welding in the
+flat position because of the force of gravity. The molten metal
+has the tendency to run down. To control the flow of molten
+metal, the voltage and current adjustments of the welding
+machine must be correct.
+The current setting, or amperage, is less for welding in
+the vertical position than for welding in the flat position
+for similar size electrodes. Additionally, the current used
+for welding upward should be set slightly higher than the
+current used for welding downward on the same work piece.
+When welding up, hold the electrode 90° to the vertical, and
+weld moving the bead upward. Focus on welding the sides
+of the joint and the middle takes care of itself. In welding
+downward, with the hand below the arc and the electrode
+tilted about 15° upward, the weld should move downward.
+Overhead Position Welding
+Overhead position welding is one of the most difficult in
+welding since a very short arc must be constantly maintained
+to control the molten metal. The force of gravity tends to
+cause the molten metal to drop down or sag from the plate,
+so it is important that protective clothing and head gear be
+worn at all times when performing overhead welding.
+For bead welds in an overhead position, the electrode should
+
+ing
+
+eld
+
+of w
+
+30°
+
+3/8"
+
+1
+
+2
+3/8"
+
+Figure 5-38. Typical lap joint fillet weld.
+
+be held at an angle of 90° to the base metal. In some cases
+where it is desirable to observe the arc and the crater of the
+weld, the electrode may be held at an angle of 15° in the
+direction of welding.
+When making fillet welds on overhead tee or lap joints, a
+short arc should be held, and there should be no weaving of
+the electrode. The arc motion should be controlled to secure
+good penetration to the root of the weld and good fusion to the
+plates. If the molten metal becomes too fluid and tends to sag,
+the electrode should be whipped away quickly from the center
+ahead of the weld to lengthen the arc and allow the metal to
+solidify. The electrode should then be returned immediately
+to the crater of the weld and the welding continued.
+Anyone learning or engaged in arc welding should always
+have a good view of the weld puddle. Otherwise there is no
+way to ensure that the welding is in the joint and keeping
+the arc on the leading edge of the puddle. For the best view,
+the welder should keep their head off to the side and out of
+the fumes so they can see the puddle.
+
+Expansion & Contraction of Metals
+The expansion and contraction of metal is a factor taken into
+consideration during the design and manufacturing of all
+5-28
+
+===== PDF PAGE 305 =====
+aircraft. It is equally important to recognize and allow for the
+dimensional changes and metal stress that may occur during
+any welding process.
+Heat causes metals to expand; cooling causes them to
+contract. Therefore, uneven heating causes uneven expansion,
+and uneven cooling causes uneven contraction. Under such
+conditions, stresses are set up within the metal. These forces
+must be relieved, and unless precautions are taken, warping
+or buckling of the metal takes place. Likewise, on cooling, if
+nothing is done to take up the stress set up by the contraction
+forces, further warping may result; or if the metal is too heavy
+to permit this change in shape, the stresses remain within
+the metal itself.
+The coefficient of linear expansion of a metal is the amount
+in inches that a one inch piece of metal expands when its
+temperature is raised 1 °F. The amount that a piece of metal
+expands when heat is applied is found by multiplying the
+coefficient of linear expansion by the temperature rise and
+multiplying that product by the length of the metal in inches.
+Expansion and contraction have a tendency to buckle and warp
+thin sheet metal 1⁄8-inch or thinner. This is the result of having
+a large surface area that spreads heat rapidly and dissipates it
+soon after the source of heat is removed. The most effective
+method of alleviating this situation is to remove the heat
+from the metal near the weld, preventing it from spreading
+across the whole surface area. This can be done by placing
+heavy pieces of metal, known as chill bars, on either side of
+the weld; to absorb the heat and prevent it from spreading.
+Copper is most often used for chill bars because of its ability to
+absorb heat readily. Welding fixtures sometimes use this same
+principle to remove heat from the base metal. Expansion can
+also be controlled by tack welding at intervals along the joint.
+The effect of welding a seam longer than 10 or 12 inches is
+to draw the seam together as the weld progresses. If the edges
+of the seam are placed in contact with each other throughout
+their length before welding starts, the far ends of the seam
+actually overlap before the weld is completed. This tendency
+can be overcome by setting the pieces to be welded with the
+seam spaced correctly at one end and increasing the space
+at the opposite end. [Figure 5-39]
+The amount of space allowed depends on the type of material,
+the thickness of the material, the welding process being used,
+and the shape and size of the pieces to be welded. Instruction
+and/or welding experience dictates the space needed to
+produce a stress-free joint.
+The weld is started at the correctly spaced end and proceeds
+toward the end that has the increased gap. As the seam is
+
+Figure 5-39. Allowance for a straight butt weld when joining
+
+steel sheets.
+
+welded, the space closes and should provide the correct gap
+at the point of welding. Sheet metal under 1⁄16-inch can be
+handled by flanging the edges, tack welding at intervals, and
+then by welding between the tacks.
+There are fewer tendencies for plate stock over 1⁄8-inch to
+warp and buckle when welded because the greater thickness
+limits the heat to a narrow area and dissipates it before it
+travels far on the plate.
+Preheating the metal before welding is another method
+of controlling expansion and contraction. Preheating is
+especially important when welding tubular structures and
+castings. Great stress can be set up in tubular welds by
+contraction. When welding two members of a tee joint, one
+tube tends to draw up because of the uneven contraction. If
+the metal is preheated before the welding operation begins,
+contraction still takes place in the weld, but the accompanying
+contraction in the rest of the structure is at almost the same
+rate, and internal stress is reduced.
+
+Welded Joints Using Oxy-Acetylene Torch
+Figure 5-40 shows various types of basic joints.
+Butt Joints
+A butt joint is made by placing two pieces of material edge to
+edge, without overlap, and then welding. A plain butt joint is
+used for metals from 1⁄16-inch to 1⁄8-inch in thickness. A filler
+rod is used when making this joint to obtain a strong weld.
+The flanged butt joint can be used in welding thin sheets, 1⁄16inch or less. The edges are prepared for welding by turning
+up a flange equal to the thickness of the metal. This type of
+joint is usually made without the use of a filler rod.
+If the metal is thicker than 1⁄8-inch, it may be necessary to
+bevel the edges so that the heat from the torch can completely
+penetrate the metal. These bevels may be either single
+or double-bevel type or single or double-V type. A filler
+rod is used to add strength and reinforcement to the weld.
+5-29
+
+===== PDF PAGE 306 =====
+[Figure 5-41]
+
+Butt joint
+
+Lap joint
+
+Corner joint
+
+Tee joint
+
+Edge joint
+
+Figure 5-40. Basic joints.
+
+Flanged
+
+Plain
+
+Single bevel
+
+Double bevel
+
+Single bevel
+
+Double bevel
+
+Figure 5-42. Types of tee joints showing filler penetration.
+
+A
+
+B
+
+Thin stock
+
+Thick stock
+
+Figure 5-43. Edge joints.
+
+Tee Joints
+A tee joint is formed when the edge or end of one piece is
+welded to the surface of another. [Figure 5-42] These joints
+are quite common in aircraft construction, particularly in
+tubular structures. The plain tee joint is suitable for most
+thicknesses of metal used in aircraft, but heavier thicknesses
+require the vertical member to be either single or doublebeveled to permit the heat to penetrate deeply enough. The
+dark areas in Figure 5-42 show the depth of heat penetration
+and fusion required. It is a good practice to leave a gap
+between the parts, about equal to the metal thickness to aid
+full penetration of the weld. This is common when welding
+from only one side with tubing clusters. Tight fitment of the
+parts prior to welding does not provide for a proper weldment
+unless full penetration is secured, and this is much more
+difficult with a gapless fitment.
+Edge Joints
+An edge joint is used when two pieces of sheet metal must be
+fastened together and load stresses are not important. Edge
+joints are usually made by bending the edges of one or both
+parts upward, placing the two ends parallel to each other,
+and welding along the outside of the seam formed by the two
+joined edges. The joint shown in Figure 5-43A requires no
+filler rod since the edges can be melted down to fill the seam.
+The joint shown in Figure 5-43B, being thicker material,
+must be beveled for heat penetration; filler rod is added for
+reinforcement.
+
+Figure 5-41. Types of butt joints.
+
+Plain
+
+Repair of cracks by welding may be considered just another
+type of butt joint. The crack should be stop drilled at either
+end and then welded like a plain butt joint using filler rod.
+In most cases, the welding of the crack does not constitute
+a complete repair and some form of reinforcement is still
+required, as described in following sections.
+
+Corner Joints
+A corner joint is made when two pieces of metal are
+brought together so that their edges form a corner of a
+box or enclosure. [Figure 5-44] The corner joint shown
+in Figure 5-44A requires no filler rod, since the edges
+fuse to make the weld. It is used where the load stress is not
+important. The type shown in Figure 5-44B is used on heavier
+metals, and filler rod is added for roundness and strength.
+If a higher stress is to be placed on the corner, the inside is
+reinforced with another weld bead. [Figure 5-44C]
+Lap Joints
+The lap joint is seldom used in aircraft structures when
+welding with oxy-acetylene, but is commonly used and joined
+by spot welding. The single lap joint has very little resistance
+
+5-30
+
+===== PDF PAGE 307 =====
+Repair of Steel Tubing Aircraft Structure by
+Welding
+A
+
+B
+
+Closed type
+
+Open type
+
+C
+Braced
+Figure 5-44. Corner joints.
+
+Single lap
+
+Double lap
+
+Figure 5-45. Single and double lap joints.
+
+to bending, and cannot withstand the shearing stress to which
+the weld may be subjected under tension or compression
+loads. The double lap joint offers more strength, but requires
+twice the amount of welding required on the simpler, more
+efficient butt weld. [Figure 5-45]
+
+Dents at a Cluster Weld
+Dents at a cluster weld can be repaired by welding a formed
+steel patch plate over the dented area and surrounding
+tubes. Remove any existing finish on the damaged area and
+thoroughly clean prior to welding.
+To prepare the patch plate, cut a section from a steel sheet of
+the same material and thickness as the heaviest tube damaged.
+Fashion the reinforcement plate so that the fingers extend
+over the tubes a minimum of 1½ times the respective tube
+diameter. The plate may be cut and formed prior to welding
+or cut and tack welded to the cluster, then heated and formed
+around the joint to produce a snug smooth contour. Apply
+sufficient heat to the plate while forming so there is a gap of
+no more than 1⁄16-inch from the contour of the joint to the plate.
+In this operation, avoid unnecessary heating and exercise care
+to prevent damage at the point of the angle formed by any
+two adjacent fingers of the plate. After the plate is formed
+and tack welded to the joint, weld all the plate edges to the
+cluster joint. [Figure 5-46]
+Dents Between Clusters
+A damaged tubular section can be repaired using welded
+split sleeve reinforcement. The damaged member should be
+carefully straightened and should be stop drilled at the ends
+of any cracks with a No. 40 drill bit.
+
+B
+11/2 B
+Thickness of patch
+plate same as
+longeron thickness
+
+Longeron dented at a station
+
+Patch plate formed and welded to tubes
+
+A
+11/2 A
+
+Patch plate before forming and welding
+
+Figure 5-46. Repair of tubing dented at a cluster.
+
+5-31
+
+===== PDF PAGE 308 =====
+Dented or bent tube
+
+Cracked tube
+Reinforcement tube split
+
+11/2 A
+
+30°
+
+Weld
+
+A
+11/2 A
+
+Weld
+
+30°
+
+Figure 5-47. Repair using welded sleeve.
+
+1/8" gap for weldings
+
+Rosette weld
+3/4 A
+
+Inside sleeve tube
+
+Original tube
+30°
+
+A
+
+1/2 A
+
+A
+
+A
+Replacement tube
+
+1/2 A
+
+Figure 5-48. Splicing with inner sleeve method.
+
+Select a length of steel tube of the same material and at
+least the same wall thickness having an inside diameter
+approximately equal to the outside diameter of the
+damaged tube.
+Diagonally cut the selected piece at a 30° angle on both ends
+so the minimum distance of the sleeve from the edge of the
+crack or dent is not less than 1½ times the diameter of the
+damaged tube. Then, cut through the entire length of the
+sleeve and separate the half sections as shown in Figure 5-47.
+Clamp the two sleeve sections in the proper position on the
+damaged area of the tube. Weld the reinforcement sleeve
+along the length of the two sides, and weld both ends of the
+sleeve to the damaged tube.
+Tube Splicing with Inside Sleeve Reinforcement
+If a partial replacement of the tube is necessary, do an inner
+sleeve splice, especially where you want a smooth tube
+surface.
+
+Make a diagonal cut to remove the damaged section of the
+tube, and remove the burrs from the inner and outer cut edges
+with a file or similar means. Diagonally cut a replacement
+steel tube of the same material, diameter, and wall thickness
+to match the length of the removed section of the damaged
+tube. The replacement tube should allow a 1⁄8-inch gap for
+welding at each end to the stubs of the original tube.
+Select a length of steel tubing of the same material and at
+least the same wall thickness with an outside diameter equal
+to the inside diameter of the damaged tube. From this inner
+sleeve tube material, cut two sections of tubing, each of
+such a length that the ends of the inner sleeve is a minimum
+distance of 1½ times the tube diameter from the nearest end of
+the diagonal cut. Tack the outer and inner replacement tubes
+using rosette welds. Weld the inner sleeve to the tube stubs
+through the 1⁄8-inch gap forming a weld bead over the gap
+and joining with the new replacement section. [Figure 5-48]
+Tube Splicing with Outer Split Sleeve
+Reinforcement
+If partial replacement of a damaged tube is necessary, make
+the outer sleeve splice using a replacement tube of the same
+diameter and material. [Figures 5-49 and 5-50]
+To perform the outer sleeve repair, remove the damaged
+section of the tube, utilizing a 90° cut at either end. Cut a
+replacement steel tube of the same material, diameter, and
+at least the same wall thickness to match the length of the
+removed portion of the damaged tube. The replacement
+5-32
+

@@ -1,0 +1,1848 @@
+FAA-H-8083-31B Airframe Handbook, chapter 11 (Communication & Navigation), PDF pages 659-676
+
+===== PDF PAGE 659 =====
+Figure 11-128. Air traffic control radar technology and an onboard radar beacon transponder work together to convey and display air
+
+traffic information on a PPI radar screen. A modern approach ATC PPI is shown. Targets representing aircraft are shown as little aircraft
+on the screen. The nose of the aircraft indicates the direction of travel. Most targets shown above are airliners. The data block for each
+target includes the following information either transmitted by the transponder or matched and loaded from flight plans by a flight data
+processor computer: call sign, altitude/speed, origination/destination, and aircraft type/ETA (ZULU time). A “C” after the altitude indicates
+the information came from a Mode C equipped transponder. The absence of a C indicates Mode S is in use. An arrow up indicates the
+aircraft is climbing. An arrow down indicates a descent. White targets are arrivals, light blue targets are departures, all other colors are
+for arrivals and departures to different airports in the area.
+
+New applications of electronic technology combined with
+lower costs make this possible.
+
+Traffic Collision Avoidance Systems (TCAS)
+Traffic collision avoidance systems (TCAS) are transponder
+based air-to-air traffic monitoring and alerting systems.
+There are two classes of TCAS. TCAS I was developed to
+accommodate the general aviation community and regional
+airlines. This system identifies traffic in a 35–40 mile range
+of the aircraft and issues Traffic Advisories (TA) to assist
+pilots in visual acquisition of intruder aircraft. TCAS I is
+mandated on aircraft with 10 to 30 seats.
+TCAS II is a more sophisticated system. It is required
+internationally in aircraft with more than 30 seats or weighing
+more than 15,000 kg. TCAS II provides the information
+
+of TCAS I, but also analyzes the projected flightpath of
+approaching aircraft. If a collision or near miss is imminent, the
+TCAS II computer issues a Resolution Advisory (RA). This is an
+aural command to the pilot to take a specific evasive action (i.e.,
+DESCEND). The computer is programmed such that the pilot in
+the encroaching aircraft receives an RA for evasive action in the
+opposite direction (if it is TCAS II equipped). [Figure 11-131]
+The transponder of an aircraft with TCAS is able to
+interrogate the transponders of other aircraft nearby using
+SSR technology (Mode C and Mode S). This is done with
+a 1030 MHz signal. Interrogated aircraft transponders
+reply with an encoded 1090 MHz signal that allows the
+TCAS computer to display the position and altitude of each
+aircraft. Should the aircraft come within the horizontal or
+vertical distances shown in Figure 11-131, an audible TA is
+11-56
+
+===== PDF PAGE 660 =====
+A1
+
+B4
+
+A2
+
+C1
+
+POW
+
+C2
+
+ER M
+
+PIN
+
+PIN
+
+8
+
+1
+
+PIN
+
+A4
+
+B1
+
+C4
+
+B2
+
+D4
+
+OTIO
+
+4
+
+N
+
+PIN
+
+7
+
+Figure 11-130. Modern altitude encoders for general aviation
+
+PIN
+
+14
+
+PIN
+
+aircraft.
+15
+
+Figure 11-129. A handheld transponder test unit.
+
+announced. The pilot must decide whether to take action and
+what action to take. TCAS II equipped aircraft use continuous
+reply information to analyze the speed and trajectory of target
+aircraft in close proximity. If a collision is calculated to be
+imminent, an RA is issued.
+TCAS target aircraft are displayed on a screen on the
+flight deck. Different colors and shapes are used to depict
+approaching aircraft depending on the imminent threat
+level. Since RAs are currently limited to vertical evasive
+maneuvers, some stand-alone TCAS displays are electronic
+vertical speed indicators. Most aircraft use some version
+of an electronic HSI on a navigational screen or page to
+display TCAS information. [Figure 11-132] A multifunction
+display may depict TCAS and weather radar information
+on the same screen. [Figure 11-133] A TCAS control panel
+[Figure 11-134] and computer are required to work with a
+compatible transponder and its antenna(s). Interface with
+EFIS or other previously installed or selected display(s) is
+also required.
+TCAS may be referred to as airborne collision avoidance
+system (ACAS), which is the international name for the same
+system. TCAS II with the latest revisions is known as Version
+7. The accuracy and reliability of this TCAS information is
+such that pilots are required to follow a TCAS RA over an
+ATC command.
+
+ADS-B
+Collision avoidance is a significant part of the FAA’s
+NextGen plan for transforming the National Airspace
+
+System (NAS). Increasing the number of aircraft using the
+same quantity of airspace and ground facilities requires the
+implementation of new technologies to maintain a high level
+of performance and safety. The successful proliferation of
+global navigation satellite systems (GNSS), such as GPS,
+has led to the development of a collision avoidance system
+known as Automatic Dependent Surveillance-Broadcast
+(ADS-B). ADS-B is an integral part of NextGen program.
+The implementation of its ground and airborne infrastructure
+is currently underway. ADS-B is active in parts of the United
+States and around the world. [Figure 11-135]
+ADS-B is considered in two segments: ADS-B OUT
+and ADS-B IN. ADS-B OUT combines the positioning
+information available from a GPS receiver with on-board
+flight status information, i.e., location including altitude,
+velocity, and time. It then broadcasts this information
+to other ADS-B equipped aircraft and ground stations.
+[Figure 11-136]
+Two different frequencies are used to carry these broadcasts
+with data link capability. The first is an expanded use of the
+1090 MHz Mode-S transponder protocol known as 1090 ES.
+The second, largely being introduced as a new broadband
+solution for general aviation implementation of ADS-B, is at
+978 MHz. A 978 universal access transceiver (UAT) is used
+to accomplish this. An omni-directional antenna is required in
+addition to the GPS antenna and receiver. Airborne receivers
+of an ADS-B use the information to plot the location and
+movement of the transmitting aircraft on a flight deck display
+similar to TCAS. [Figure 11-137]
+Inexpensive ground stations (compared to radar) are
+constructed in remote and obstructed areas to proliferate
+ADS-B. Ground stations share information from airborne
+ADS-Bs with other ground stations that are part of the air
+11-57
+
+===== PDF PAGE 661 =====
+traffic management system (ATMS). Data is transferred
+with no need for human acknowledgement. Microwave and
+satellite transmissions are used to link the network.
+For traffic separation and control, ADS-B has several
+advantages over conventional ground-based radar. The first is
+the entire airspace can be covered with a much lower expense.
+The aging ATC radar system that is in place is expensive to
+maintain and replace. Additionally, ADS-B provides more
+accurate information since the vector state is generated
+from the aircraft with the help of GPS satellites. Weather is
+a greatly reduced factor with ADS-B. Ultra-high frequency
+GPS transmissions are not affected. Increased positioning
+
+accuracy allows for higher density traffic flow and landing
+approaches, an obvious requirement to operate more aircraft
+in and out of the same number of facilities. The higher degree
+of control available also enables routing for fewer weather
+delays and optimal fuel burn rates. Collision avoidance is
+expanded to include runway incursion from other aircraft
+and support vehicles on the surface of an airport.
+ADS-B IN offers features not available in TCAS. Equipped
+aircraft are able to receive abundant data to enhance
+situational awareness. Traffic information services-broadcast
+(TIS-B) supply traffic information from non-ADS-B aircraft
+and ADS-B aircraft on a different frequency. Ground radar
+
+40 seconds
+25 seconds
+
+Traffic advisory (TA)
+region (TCAS I & II)
+
+Range criterion
+
+Targets displayed
+on-screen (TCAS I & II)
+
+Resolution advisory (RA)
+region (TCAS II only)
+Pilot commanded to
+take evasive action
+
+Intruder
+
+Pilot alerted to traffic in range
+
+2.1 NM
+
+RA issued
+
+for 300 KT
+
+3.3 NM
+
+TA issed
+
+Closure
+
+20 NM
+
+Surveillance
+
+Range
+
+TA Region
+1200'
+850'
+
+Intruder
+Altitude criterion
+
+RA Region (TCAS II only)
+
+850'
+1200'
+
+Figure 11-131. Traffic collision and avoidance system (TCAS) uses an aircraft’s transponder to interrogate and receive replies from other
+aircraft in close proximity. The TCAS computer alerts the pilot as to the presence of an intruder aircraft and displays the aircraft on a
+screen in the flight deck. Additionally, TCAS II equipped aircraft receive evasive maneuver commands from the computer that calculates
+trajectories of the aircraft to predict potential collisions or near misses before they become unavoidable.
+
+11-58
+
+===== PDF PAGE 662 =====
+ABOVE
+
+ABS
+
+ABOVE
+
+0000
+
+N
+BELOW
+STBY
+TEST
+
+REL
+XPDR
+
+BELOW
+FAIL
+
+TA
+
+ABS
+
+N
+
+L
+
+REL
+R
+
+TA/RA
+
+TCAS/ATC
+Figure 11-134. This control panel from a Boeing 767 controls the
+transponder for ATC use and TCAS.
+
+ADS-B test units are available for trained maintenance
+personnel to verify proper operation of ADS-B equipment.
+This is critical since close tolerance of air traffic separation
+depends on accurate data from each aircraft and throughout
+all components of the ADS-B system. [Figure 11-139]
+Figure 11-132. TCAS information displayed on an electronic vertical
+
+speed indicator.
+
+GS 356 TAS386
+195° 17
+
+HDG 197 MAG
+
+21
+
+5
+
+24
+
+15
+
++30
+
+TRAFFIC
+
++13
++02
+−12
+
+Radio Altimeter
+A radio altimeter, or radar altimeter, is used to measure the
+distance from the aircraft to the terrain directly beneath it. It
+is used primarily during instrument approach and low level
+or night flight below 2,500 feet. The radio altimeter supplies
+the primary altitude information for landing decision height.
+It incorporates an adjustable altitude bug that creates a visual
+or aural warning to the pilot when the aircraft reaches that
+altitude. Typically, the pilot will abort a landing if the decision
+height is reached and the runway is not visible.
+Using a transceiver and a directional antenna, a radio
+altimeter broadcasts a carrier wave at 4.3 GHz from the
+aircraft directly toward the ground. The wave is frequency
+
+Figure 11-133. TCAS information displayed on a multifunction
+
+display. An open diamond indicates a target; a solid diamond
+represents a target that is within 6 nautical miles of 1,200 feet
+vertically. A yellow circle represents a target that generates a TA
+(25-48 seconds before contact). A red square indicates a target
+that generates an RA in TCAS II (contact within 35 seconds). A (+)
+indicates the target aircraft is above and a (-) indicates it is below.
+The arrows show if the target is climbing or descending.
+
+monitoring of surface targets, and any traffic data in the
+linked network of ground stations is sent via ADS-B IN
+to the flight deck. This provides a more complete picture
+than air-to-air only collision avoidance. Flight information
+services-broadcast (FIS-B) is also received by ADS-B IN.
+Weather text and graphics, ATIS information, and NOTAMs
+are able to be received in aircraft that have 987 UAT
+capability. [Figure 11-138]
+
+Figure 11-135. Low power requirements allow remote ADS-B
+
+stations with only solar or propane support. This is not possible with
+ground radar due to high power demands which inhibit remote area
+radar coverage for air traffic purposes.
+
+11-59
+
+===== PDF PAGE 663 =====
+GNSS position data
+
+ADS-B signal
+
+ADS-B signal
+
+Aircraft broadcast position, Altitude, Speed, etc.
+
+Ground transceiver
+Conventional data networks
+Figure 11-136. ADS-B OUT uses satellites to identify the position aircraft. This position is then broadcast to other aircraft and to ground
+stations along with other flight status information.
+
+modulated at 50 MHz and travels at a known speed. It strikes
+surface features and bounces back toward the aircraft where
+a second antenna receives the return signal. The transceiver
+processes the signal by measuring the elapsed time the signal
+traveled and the frequency modulation that occurred. The
+display indicates height above the terrain also known as
+above ground level (AGL). [Figure 11-140]
+A radar altimeter is more accurate and responsive than an air
+pressure altimeter for AGL information at low altitudes. The
+transceiver is usually located remotely from the indicator.
+Multifunctional and glass flight deck displays typically
+integrate decision height awareness from the radar altimeter
+as a digital number displayed on the screen with a bug, light,
+or color change used to indicate when that altitude is reached.
+
+Large aircraft may incorporate radio altimeter information
+into a ground proximity warning system (GPWS) which
+aurally alerts the crew of potentially dangerous proximity to
+the terrain below the aircraft. A decision height (DH) window
+displays the radar altitude on the EADI in Figure 11-141.
+Weather Radar
+There are three common types of weather aids used in an
+aircraft flight deck that are often referred to as weather radar:
+1.
+
+Actual on-board radar for detecting and displaying
+weather activity;
+
+2.
+
+Lightning detectors; and
+
+3.
+
+Satellite or other source weather radar information that
+is uploaded to the aircraft from an outside source.
+
+Figure 11-137. A flight deck display of ADS-B generated targets (left) and an ADS-B airborne receiver with antenna (right).
+
+11-60
+
+===== PDF PAGE 664 =====
+Aircraft “See” each other
+UAT + MFD
+
+AWOS
+
+Wind
+barometer
+temp/DP etc.
+
+UAT + MFD
+
+Text weather radar weather
+VHF
+
+Visibility
+Ceiling
+
+Weather data
+A/C position
+Figure 11-138. ADS-B IN enables weather and traffic information to be sent into the flight deck. In addition to AWOS weather, NWS can
+also be transmitted.
+
+Figure 11-139. An ADS-B test unit.
+
+On-board weather radar systems can be found in aircraft
+of all sizes. They function similar to ATC primary radar
+except the radio waves bounce off of precipitation instead
+of aircraft. Dense precipitation creates a stronger return than
+light precipitation. The on-board weather radar receiver is
+set up to depict heavy returns as red, medium returns as
+yellow and light returns as green on a display in the flight
+deck. Clouds do not create a return. Magenta is reserved to
+depict intense or extreme precipitation or turbulence. Some
+aircraft have a dedicated weather radar screen. Most modern
+
+Figure 11-140. A digital display radio altimeter (top), and the two
+
+antennas and transceiver for a radio/radar altimeter (bottom).
+
+11-61
+
+===== PDF PAGE 665 =====
+110
+80
+
+VI
+INOP
+
+60
+6
+45
+4
+
+SPD
+LIM
+
+10
+
+10
+
+20
+
+20
+
+DH200
+-4
+
+NAV1 117.95
+NAV2 108.00
+
+115.40
+117.95
+
+GS 123kts DIS 53.2NM
+
+ETE 25:58 ESA 16800
+
+MAP - NAVIGATION MAP
+
+123.750
+135.975
+
+KLAR
+
+119.925 COM1
+120.050 COM2
+NORTH
+UP
+NORTH
+H UP
+NORT
+UP
+NEXRAD
+AGE: 5min
+RAIN
+
+308
+308
+
+23.0
+
+KFTC
+KFTC
+
+KCLN
+
+Figure 11-141. The decision height, DH200, in the lower right
+
+corner of this EADI display uses the radar altimeter as the source
+of altitude information.
+
+L89
+L89
+
+W GPH
+
+KBJC
+C
+KBJ
+
+Special precautions must be followed by the technician
+during maintenance and operation of weather radar systems.
+The radome covering the antenna must only be painted with
+approved paint to allow the radio signals to pass unobstructed.
+Many radomes also contain grounding strips to conduct
+lightning strikes and static away from the dome.
+
+Y
+
+KDEN
+KFTR
+
+LAR
+
+KBUC
+C
+KBU
+
+HCT
+
+KCEN
+KCEN
+
+46
+
+H82
+H8
+2
+
+200
+KLVL
+
+1652
+
+1
+
+338
+
+KHEF
+KHEF
+
+5
+
+Severe turbulence, windshear, and hail are of major concern
+to the pilot. While hail provides a return on weather radar,
+windshear and turbulence must be interpreted from the
+movement of any precipitation that is detected. An alert is
+annunciated if this condition occurs on a weather radar system
+so equipped. Dry air turbulence is not detectable. Ground
+clutter must also be attenuated when the radar sweep includes
+any terrain features. The control panel facilitates this.
+
+H
+E
+A
+
+KGRN
+
+25
+
+13.7
+
+Radio waves used in weather radar systems are in the
+SHF range such as 5.44 GHz or 9.375 GHz. They are
+transmitted forward of the aircraft from a directional antenna
+usually located behind a non-metallic nose cone. Pulses of
+approximately 1 micro-second in length are transmitted.
+A duplexer in the radar transceiver switches the antenna
+to receive for about 2,500 micro seconds after a pulse is
+transmitted to receive and process any returns. This cycle
+repeats and the receiver circuitry builds a two dimensional
+image of precipitation for display. Gain adjustments control
+the range of the radar. A control panel facilitates this and
+other adjustments. [Figure 11-143]
+
+MIX
+
+SNOW V
+
+KGHR
+
+2300
+
+aircraft integrate weather radar display into the navigation
+display(s). Figure 11-142 illustrates weather radar displays
+found on aircraft.
+
+L
+I
+G
+H
+T
+
+ENGINE
+
+KCOS
+KCOS
+
+MAP
+AUX NRST
+NRST
+MAP WPT
+WPT AUX
+
+NEXRAD ECHO TOP CLD TOP
+
+LTNG
+
+CELL MOV
+SIG/ AIR
+/ AIR
+V SIG
+
+METAR
+
+30
+30NM
+NM
+
+LEGEND MORE WX
+
+Figure 11-142. A dedicated weather radar display (top) and a
+multifunctional navigation display with weather radar overlay
+(bottom).
+
+When operating the radar, it is important to follow all
+manufacturer instructions. Physical harm is possible from
+the high energy radiation emitted, especially to the eyes and
+testes. Do not look into the antenna of a transmitting radar.
+Operation of the radar should not occur in hangars unless
+special radio wave absorption material is used. Additionally,
+operation of radar should not take place while the radar is
+pointed toward a building or when refueling takes place.
+Radar units should be maintained and operated only by
+qualified personnel.
+Lightning detection is a second reliable means for identifying
+potentially dangerous weather. Lightning gives off its own
+electromagnetic signal. The azimuth of a lightning strike can
+be calculated by a receiver using a loop type antenna such as
+that used in ADF. [Figure 11-144] Some lightning detectors
+make use of the ADF antenna. The range of the lightning
+strike is closely associated with its intensity. Intense strikes
+are plotted as being close to the aircraft.
+Stormscope is a proprietary name often associated with
+lightning detectors. There are others that work in a similar
+11-62
+
+===== PDF PAGE 666 =====
+LEFT MODE
+TFR
+
+WX/T
+
+WX
+
+MAP
+
+GCS
+
+5
+
+W
+X
+R
+D
+R
+
+5
+15
+UP
+
+GAIN
+
+0
+
+0
+
+TEST
+DOWN
+15
+
+UCAL
+
+UCAL
+
+DOWN
+15
+
+RIGHT MODE
+
+5
+TFR
+
+15
+UP
+
+GAIN
+
+WX/T
+
+WX
+
+5
+MAP
+
+GCS
+
+Figure 11-143. A typical on-board weather radar system for a high performance aircraft uses a nose-mounted antenna that gimbals. It is
+usually controlled by the inertial reference system (IRS) to automatically adjust for attitude changes during maneuvers so that the radar
+remains aimed at the desired weather target. The pilot may also adjust the angle and sweep manually as well as the gain. A dual mode
+control panel allows separate control and display on the left or right HSI or navigational display.
+
+manner. A dedicated display plots the location of each strike
+within a 200 mile range with a small mark on the screen. As
+time progresses, the marks may change color to indicate their
+age. Nonetheless, a number of lightning strikes in a small
+area indicates a storm cell, and the pilot can navigate around
+it. Lightning strikes can also be plotted on a multifunctional
+navigation display. [Figure 11-145]
+A third type of weather radar is becoming more common in
+all classes of aircraft. Through the use of orbiting satellite
+systems and/or ground up-links, such as described with
+ADS-B IN, weather information can be sent to an aircraft
+in flight virtually anywhere in the world. This includes
+text data as well as real-time radar information for overlay
+on an aircraft’s navigational display(s). Weather radar
+data produced remotely and sent to the aircraft is refined
+through consolidation of various radar views from different
+angles and satellite imagery. This produces more accurate
+depictions of actual weather conditions. Terrain databases
+are integrated to eliminate ground clutter. Supplemental
+data includes the entire range of intelligence available from
+
+Figure 11-144. A receiver and antenna from a lightning detector
+
+system.
+
+the National Weather Service (NWS) and the National
+Oceanographic and Atmospheric Administration (NOAA).
+Figure 11-146 illustrates a plain language weather summary
+received in an aircraft along with a list of other weather
+information available through satellite or ground link weather
+information services.
+As mentioned, to receive an ADS-B weather signal, a 1090
+ES or 970 UAT transceiver with associated antenna needs to
+be installed on board the aircraft. Satellite weather services
+are received by an antenna matched to the frequency of
+the service. Receivers are typically located remotely and
+interfaced with existing navigational and multifunction
+displays. Handheld GPS units also may have satellite weather
+capability. [Figure 11-147]
+Emergency Locator Transmitter (ELT)
+An emergency locator transmitter (ELT) is an independent
+battery powered transmitter activated by the excessive
+G-forces experienced during a crash. It transmits a digital
+signal every 50 seconds on a frequency of 406.025 MHz at 5
+watts for at least 24 hours. The signal is received anywhere
+in the world by satellites in the Cospas-Sarsat satellite
+system. Two types of satellites, low earth orbiting satellites
+(LEOSATs) and geostationary satellites (GEOSATs), are
+used with different, complimentary capability. The signal is
+partially processed and stored in the satellites and then relayed
+to ground stations known as local user terminals (LUTs).
+Further deciphering of a signal takes place at the LUTs, and
+appropriate search and rescue operations are notified through
+mission control centers (MCCs) set up for this purpose.
+Note: Maritime vessel emergency locating beacons (EPIRBs)
+and personal locator beacons (PLBs) use the exact same system.
+The United States portion of the Cospas-Sarsat system is
+11-63
+
+===== PDF PAGE 667 =====
+ILX 310°
+5.8 nm
+310°
+
+BR
+T
+G
+N P
+A S
+V
+1
+
+T
+
+18
+
+24
+
+2I
+
+R
+
+CL
+
+MA34
+
+I5
+
+25
+
+TS
+
+T53
+
+AZT
+
+B
+R
+G
+
+100 200
+50
+
+ON
+FWD
+
+M
+A
+P
+
+6
+
+OFF
+
++
++
+++ +
++
++++
+++
++ ++
++
+KUTG +
+
+M
+
+3
+6
+0 V
+U
+E
+
+3
+
+9
+
+165 KT
+RNG 20 nm
+310°
+S107
+
+33
+30
+FF22
+MD
+ARBLE
+ILX
+
+3
+
+27
+
+310°
+
+I2
+
+0
+
+NAV1
+16.1 nm
+337°
+
+SHFT
+
+SYNC
+
+WX-10
+
+Figure 11-145. A dedicated stormscope lightning detector display (left), and an electronic navigational display with lightning strikes
+overlaid in the form of green “plus” signs (right).
+Bern / Belp, CH (LSZB)
+METAR
+
+Conditions at: 08:20 AM local time (9th)
+
+Daylight:
+Wind:
+
+Sunrise 06:03 AM. Sunset 08:50 PM LT
+270 degrees (W) 9 knots (~10 MPH)
+Variable between 220 and 310 degrees
+
+Visibility:
+
+6 or more miles
+
+VFR
+
+Clouds:
+broken clouds at 5,500 feet
+Temperature: 59°F, dewpoint: 50°F, RH:72%
+Pressure:
+30.15 inches Hg
+No significant changes
+Updated at 02:43 PM Source:NWS
+
+Satellite weather services available
+
+• METARs/TAFs/PIREPs/SIGMETs/NOTAMs
+• Hundreds of web-based graphical weather charts
+• Area forecasts and route weather briefings
+• Wind and temperature aloft data
+• “Plain language” passenger weather briefs
+• Route of flight images with weather overlays
+• Significant weather charts and other prognostic charts
+• Worldwide radar and satellite imagery
+Figure 11-146. A plain language METAR weather report received in
+the flight deck from a satellite weather service for aircraft followed
+by a list of various weather data that can be radioed to the flight
+deck from a satellite weather service.
+
+maintained and operated by NOAA. Figure 11-148 illustrates
+the basic components in the Cospas-Sarsat system.
+ELTs are required to be installed in aircraft according to
+FAR 91.207. This encompasses most general aviation
+aircraft not operating under parts 135 or 121. ELTs must be
+inspected within 12 months of previous inspection for proper
+
+installation, battery corrosion, operation of the controls and
+crash sensor, and the presence of a sufficient signal at the
+antenna. Built-in test equipment facilitates testing without
+transmission of an emergency signal. The remainder of the
+inspection is visual. Technicians are cautioned to not activate
+the ELT and transmit an emergency distress signal. Inspection
+must be recorded in maintenance records including the new
+expiration date of the battery. This must also be recorded on
+the outside of the ELT.
+ELTs are typically installed as far aft in the fuselage of an
+aircraft as is practicable just forward of the empennage. The
+built-in G-force sensor is aligned with the longitudinal axis of
+the aircraft. Helicopter ELTs may be located elsewhere on the
+airframe. They are equipped with multidirectional activation
+devices. Follow ELT and airframe manufacturer’s instructions
+for proper installation, inspection, and maintenance of all ELTs.
+Figure 11-149 illustrates ELTs mounted locations.
+Use of Doppler technology enables the origin of the 406
+MHz ELT signal to be calculated within 2 to 5 kilometers.
+Second generation 406 MHz ELT digital signals are loaded
+with GPS location coordinates from a receiver inside the
+ELT unit or integrated from an outside unit. This reduces
+the location accuracy of the crash site to within 100 meters.
+The digital signal is also loaded with unique registration
+information. It identifies the aircraft, the owner, and contact
+information, etc. When a signal is received, this is used to
+immediately research the validity of the alert to ensure it is
+a true emergency transmission so that rescue resources are
+not deployed needlessly.
+11-64
+
+===== PDF PAGE 668 =====
+Figure 11-147. A satellite weather receiver and antenna enable display of real-time textual and graphic weather information beyond that
+of airborne weather radar. A handheld GPS can also be equipped with these capabilities. A built-in multifunctional display with satellite
+weather overlays and navigation information can be found on many aircraft.
+
+ELTs with automatic G-force activation mounted in aircraft
+are easily removable. They often contain a portable antenna
+so that crash victims may leave the site and carry the
+operating ELT with them. A flight deck mounted panel is
+required to alert the pilot if the ELT is activated. It also
+allows the ELT to be armed, tested, and manually activated
+if needed. [Figure 11-150]
+Modern ELTs may also transmit a signal on 121.5 MHz. This
+is an analog transmission that can be used for homing. Prior
+to 2009, 121.5 MHz was a worldwide emergency frequency
+monitored by the Cospas-Sarsat satellites. However, it has
+been replaced by the 406 MHz standard. Transmissions on
+121.5 MHz are no longer received and relayed via satellite.
+The use of a 406 MHz ELT has not been mandated by the
+FAA. An older 121.5 MHz ELT satisfies the requirements
+of FAR Part 91.207 in all except new aircraft. Thousands of
+aircraft registered in the United States remain equipped with
+ELTs that transmit a .75 watt analog 121.5 MHz emergency
+signal when activated. The 121.5 MHz frequency is still an
+emergency frequency and is not monitored by over-flying
+aircraft and control towers.
+Technicians are required to perform an inspection/test of
+121.5 MHz ELTs within 12 months of the previous one and
+inspect for the same integrity as required for the 406 MHz
+ELTs mentioned above. However, older ELTs often lack the
+built-in test circuitry of modern ELTs certified to TSO C-126.
+Therefore, a true operational test may include activating
+the signal. This can be done by removing the antenna and
+installing a dummy load. Any activation of an ELT signal is
+required to only be done between the top of each hour and 5
+minutes after the hour. The duration of activation must be no
+longer than three audible sweeps. Contact of the local control
+tower or flight service station before testing is recommended.
+
+It must be noted that older 121.5 MHz analog signal ELTs
+often also transmit an emergency signal on a frequency of
+243.0 MHz. This has long been the military emergency
+frequency. Its use is being phased out in favor of digital ELT
+signals and satellite monitoring. Testing the functionality
+of a 121.5 MHz transmitter should be accomplished per
+manufacturer’s instructions. Improvements in coverage,
+location accuracy, identification of false alerts, and shortened
+response times are so significant with 406 MHz ELTs, they
+are currently the service standard worldwide.
+
+Testing Considerations for 406 MHz ELTs
+Care should be taken to prevent accidentally triggering a
+SAR (search and rescue) response. Accidental activation
+of an ELT will generate an emergency signal that cannot
+be distinguished from that of an actual emergency and
+could lead to expensive and frustrating searches. Moreover,
+the unwarranted ELT signal could tie up the emergency
+frequencies such that a genuine emergency signal would not
+be picked up. In addition, if an ELT signal is transmitted on
+or near an airport, it may render some radio communications
+channels unusable.
+Regardless of where the ELT is, or the duration of activation,
+a 406 MHz beacon broadcast will be detected by at least one
+Geostationary Local User Terminal (GEOLUT) and possibly
+every Low Earth Orbit Local User Terminal (LEOLUT) in
+the Cospas-Sarsat System. Alert messages will be routed to
+every Mission Control Center (MCC) in the Cospas-Sarsat
+System for coordination around the world and a response
+will be made (unless prior coordination is made with CospasSarsat and local authorities).
+Direct connect testing is preferred to prevent inadvertent
+activation of the SAR response system. Over-air testing
+should always be avoided if possible. Use of an antenna boot
+11-65
+
+===== PDF PAGE 669 =====
+GOES
+
+MSG
+
+LEO Satellites
+
+INSAT
+
+Cospas
+
+Sarsat
+
+406
+
+PLB
+
+406 MHz
+
+406 MHz
+
+SAR
+
+z
+MH
+406
+
+Dow
+
+nlin
+
+406 MHz
+
+k
+
+Do
+wn
+l
+
+in
+k
+
+GEO Satellites
+
+MH
+z
+406
+
+Local user terminal (LUT)
+
+MH
+
+Mission control center (MCC)
+
+z
+
+EPIRB
+Rescue coordination center (RCC)
+Distressed vessel
+
+ELT
+
+Distressed aircraft
+Key:
+EPIRB: Emergency position indicating radio beacon
+ELT: Emergency locator transmitter
+PLB: Personal locator beacon
+SAR: Search and rescue
+
+SAR
+
+Figure 11-148. The basic operating components of the satellite-based Cospas-Sarsat rescue system of which aircraft ELTs are a part.
+
+or a direct connection from test equipment to the antenna
+port is preferred.
+Testing an ELT system in a metal hangar will not guarantee
+the radiated signal will not be detected by the Cospas-Sarsat
+System. Technicians testing ELT devices in a hangar should
+treat the test as if they were testing outside.
+When testing an ELT, a 50-ohm dummy load or antenna boot
+should be used to prevent the signal from being radiated into
+space. The signal must be attenuated to less than -51 dBW
+(a power flux density of -37.4 dB (W/m2) or a field intensity
+of -11.6 dB (V/m).
+
+If over-air testing must be accomplished, technicians should
+carefully follow Cospas-Sarsat instructions and use the builtin test message on the ELT device. The ELT test message is
+different from messages transmitted during an emergency, but
+is still detectable by the Cospas-Sarsat System. Cospas-Sarsat
+should be contacted prior to performing over-air testing.
+Cospas-Sarsat can be contacted at www.cospas-sarsat.int/en/.
+If over-air testing must be accomplished, the local air traffic
+control (ATC) facility should be contacted in advance.
+Follow test set instructions or place the test set a minimum
+11-66
+
+===== PDF PAGE 670 =====
+test message is an indication the unit is transmitting on a
+correct frequency.
+Using appropriate test equipment and shielding, note the ELT
+code transmitted and verify that the ELT code is registered
+with Cospas-Sarsat. The testing technician or aircraft owner
+should verify the information on file with Cospas-Sarsat is
+accurate and up to date.
+Determine that the ELT aural indicator can be heard in the
+flight deck with the aircraft engine(s) off, and that the visual
+indicator can be seen from the crew’s normal sitting position.
+If possible, this should be performed in a way that will prevent
+a SAR response (e.g., with a dummy load installed).
+
+Figure 11-149. An emergency locator transmitter (ELT) mounting
+
+location is generally far aft in a fixed-wing aircraft fuselage in
+line with the longitudinal axis. Helicopter mounting location and
+orientation varies.
+
+Perform an operational check of the g switch. This should be
+performed in a way that will prevent a SAR response (e.g.,
+with a dummy load installed). Replace if the g switch fails
+to activate.
+Ensure all cables except the 406 MHz transmitter output are
+reconnected. Ensure the 406 MHz transmitter is connected to
+a test set if possible. Activate the ELT (use the remote switch
+if installed), and determine if the system is radiating a strong
+406 MHz signal. Ensure the system is reset if necessary.
+If equipped with a water-activated circuit, connect the ELT to
+a test set if possible. Activate the ELT by shorting the watersensing leads and determine if the system is radiating a strong
+406 MHz signal. Ensure the system is reset if necessary.
+
+Figure 11-150. An ELT and its components including a flight
+
+deck-mounted panel, the ELT, a permanent mount antenna, and a
+portable antenna.
+
+of 12 meters, (39.4 feet) from the ELT antenna. Test in each
+mode and frequency the ELT unit transmits.
+
+406 MHz Testing
+Verify the device is outputting a signal of not less than 17
+dBm (50 mW) and not greater than 26 dBm (400 mW).
+Verify the device is transmitting on the correct frequency.
+This can be done by running the ELT self-test and detecting
+the signal with an ELT test set. Receiving and decoding a
+
+Long Range Aid to Navigation System (LORAN)
+Long range aid to navigation system (LORAN) is a type of
+RNAV that is no longer available in the United States. It was
+developed during World War II, and the most recent edition,
+LORAN-C, has been very useful and accurate to aviators as
+well as maritime sailors. LORAN uses radio wave pulses
+from a series of towers and an on-board receiver/computer
+to positively locate an aircraft amid the tower network. There
+are twelve LORAN transmitter tower “chains” constructed
+across North America. Each chain has a master transmitter
+tower and a handful of secondary towers. All broadcasts
+from the transmitters are at the same frequency, 100 KHz.
+Therefore, a LORAN receiver does not need to be tuned.
+Being in the low frequency range, the LORAN transmissions
+travel long distances and provide good coverage from a small
+number of stations.
+Precisely-timed, synchronized pulse signals are transmitted
+from the towers in a chain. The LORAN receiver measures
+the time to receive the pulses from the master tower and two
+other towers in the chain. It calculates the aircraft’s position
+based on the intersection of parabolic curves representing
+11-67
+
+===== PDF PAGE 671 =====
+elapsed signal times from each of these known points.
+The accuracy and proliferation of GPS navigation has
+caused the U.S. Government to cease support for the
+LORAN navigation system citing redundancy and expense
+of operating the towers as reasons. Panel-mounted LORAN
+navigation units will likely be removed and replaced by GPS
+units in aircraft that have not already done so. [Figure 11-151]
+Global Positioning System (GPS)
+Global positioning system (GPS) navigation is the fastest
+growing type of navigation in aviation. It is accomplished
+through the use of NAVSTAR satellites set and maintained in
+orbit around the earth by the U.S. Government. Continuous
+coded transmissions from the satellites facilitate locating the
+position of an aircraft equipped with a GPS receiver with
+extreme accuracy. GPS can be utilized on its own for en
+route navigation, or it can be integrated into other navigation
+systems, such as VOR/RNAV, inertial reference, or flight
+management systems.
+There are three segments of GPS: the space segment, the
+control segment, and the user segment. Aircraft technicians
+are only involved with user segment equipment such as GPS
+receivers, displays, and antennas.
+Twenty-four satellites (21 active, 3 spares) in six separate
+planes of orbit 12,625 miles above the planet comprise
+what is known as the space segment of the GPS system. The
+satellites are positioned such that in any place on earth at any
+one time, at least four will be a minimum of 15° above the
+horizon. Typically, between five and eight satellites are in
+view. [Figure 11-152]
+Two signals loaded with digitally coded information are
+transmitted from each satellite. The L1 channel transmission
+on a 1575.42 MHz carrier frequency is used in civilian
+aviation. Satellite identification, position, and time are
+
+Figure 11-151. Panel-mounted LORAN units are now obsolete as
+
+LORAN signals are no longer generated from the tower network.
+
+conveyed to the aircraft GPS receiver on this digitally
+modulated signal along with status and other information. An
+L2 channel 1227.60 MHz transmission is used by the military.
+The amount of time it takes for signals to reach the aircraft
+GPS receiver from transmitting satellites is combined with
+each satellite’s exact location to calculate the position of
+an aircraft. The control segment of the GPS monitors each
+satellite to ensure its location and time are precise. This
+control is accomplished with five ground-based receiving
+stations, a master control station, and three transmitting
+antennas. The receiving stations forward status information
+received from the satellites to the master control station.
+Calculations are made, and corrective instructions are sent
+to the satellites via the transmitters.
+The user segment of the GPS is comprised of the thousands
+of receivers installed in aircraft as well as every other
+receiver that uses the GPS transmissions. Specifically, for
+the aircraft technician, the user section consists of a control
+panel/display, the GPS receiver circuitry, and an antenna. The
+control, display and receiver are usually located in a single
+unit which also may include VOR/ILS circuitry and a VHF
+communications transceiver. GPS intelligence is integrated
+into the multifunctional displays of glass flight deck aircraft.
+[Figure 11-153]
+The GPS receiver measures the time it takes for a signal to
+arrive from three transmitting satellites. Since radio waves
+travel at 186,000 miles per second, the distance to each
+satellite can be calculated. The intersection of these ranges
+provides a two dimensional position of the aircraft. It is
+expressed in latitude/longitude coordinates. By incorporating
+
+Figure 11-152. The space segment of GPS consists of 24 NAVSTAR
+
+satellites in six different orbits around the earth.
+
+11-68
+
+===== PDF PAGE 672 =====
+required for category I, II, and III landings. It enables the
+NextGen NAS plan along with ADS-B.
+
+Wide Area Augmentation System (WAAS)
+To increase the accuracy of GPS for aircraft navigation, the
+wide area augmentation system (WAAS) was developed.
+It consists of approximately 25 precisely surveyed ground
+stations that receive GPS signals and ultimately transmit
+correction information to the aircraft. An overview of WAAS
+components and its operation is shown in Figure 11-154.
+
+Figure 11-153. A GPS unit integrated with NAV/COM circuitry.
+
+the distance to a fourth satellite, the altitude above the
+surface of the earth can be calculated as well. This results in
+a three dimensional fix. Additional satellite inputs refine the
+accuracy of the position.
+Having deciphered the position of the aircraft, the GPS unit
+processes many useful navigational outputs such as speed,
+direction, bearing to a waypoint, distance traveled, time of
+arrival, and more. These can be selected to display for use.
+Waypoints can be entered and stored in the unit’s memory.
+Terrain features, airport data, VOR/RNAV and approach
+information, communication frequencies, and more can also
+be loaded into a GPS unit. Most modern units come with
+moving map display capability.
+A main benefit of GPS use is immunity from service
+disruption due to weather. Errors are introduced while the
+carrier waves travel through the ionosphere; however, these
+are corrected and kept to a minimum. GPS is also relatively
+inexpensive. GPS receivers for IFR navigation in aircraft
+must be built to TSO-129A. This raises the price above that
+of handheld units used for hiking or in an automobile. But the
+overall cost of GPS is low due to its small infrastructure. Most
+of the inherent accuracy is built into the space and control
+segments permitting reliable positioning with inexpensive
+user equipment.
+The accuracy of current GPS is within 20 meters horizontally
+and a bit more vertically. This is sufficient for en route
+navigation with greater accuracy than required. However,
+departures and approaches require more stringent accuracy.
+Integration of the wide area augmentation system (WAAS)
+improves GPS accuracy to within 7.6 meters and is discussed
+below. The future of GPS calls for additional accuracy by
+adding two new transmissions from each satellite. An L2C
+channel is for general use in non-safety critical application.
+An aviation dedicated L5 channel provides the accuracy
+
+WAAS ground stations receive GPS signals and forward
+position errors to two master ground stations. Time and
+location information is analyzed, and correction instructions
+are sent to communication satellites in geostationary orbit
+over the NAS. The satellites broadcast GPS-like signals
+that WAAS enabled GPS receivers use to correct position
+information received from GPS satellites.
+A WAAS-enabled GPS receiver is required to use the wide
+area augmentation system. If equipped, an aircraft qualifies
+to perform precision approaches into thousands of airports
+without any ground-based approach equipment. Separation
+minimums are also able to be reduced between aircraft that
+are WAAS equipped. The WAAS system is known to reduce
+position errors to 1–3 meters laterally and vertically.
+
+Inertial Navigation System (INS)/Inertial
+Reference System (IRS)
+An inertial navigation system (INS) is used on some
+large aircraft for long range navigation. This may also be
+Communication satellites
+
+GPS satellites
+
+L1
+L1
+
+Ground
+Earth
+station
+
+Wide area
+master station
+
+Wide area reference station
+
+Figure 11-154. The wide area augmentation system (WAAS) is used
+to refine GPS positions to a greater degree of accuracy. A WAAS
+enabled GPS receiver is required for its use as corrective information
+is sent from geostationary satellites directly to an aircraft’s GPS
+receiver for use.
+
+11-69
+
+===== PDF PAGE 673 =====
+identified as an inertial reference system (IRS), although
+the IRS designation is generally reserved for more modern
+systems. An INS/IRS is a self-contained system that does
+not require input radio signals from a ground navigation
+facility or transmitter. The system derives attitude, velocity,
+and direction information from measurement of the aircraft’s
+accelerations given a known starting point. The location of the
+aircraft is continuously updated through calculations based on
+the forces experienced by INS accelerometers. A minimum
+of two accelerometers is used, one referenced to north, and
+the other referenced to east. In older units, they are mounted
+on a gyro-stabilized platform. This averts the introduction
+of errors that may result from acceleration due to gravity.
+An INS uses complex calculation made by an INS computer to
+convert applied forces into location information. An interface
+control head is used to enter starting location position data
+while the aircraft is stationary on the ground. This is called
+initializing. [Figure 11-155] From then on, all motion of
+the aircraft is sensed by the built-in accelerometers and run
+through the computer. Feedback and correction loops are used
+to correct for accumulated error as flight time progresses. The
+amount an INS is off in one hour of flight time is a reference
+point for determining performance. Accumulated error of less
+than one mile after one hour of flight is possible. Continuous
+accurate adjustment to the gyro-stabilized platform to keep it
+parallel to the Earth’s surface is a key requirement to reduce
+accumulated error. A latitude/longitude coordinate system is
+used when giving the location output.
+
+DISPLAY
+DATA
+PPOS
+TK/GS
+
+HDG
+
+TEST
+
+STS
+
+IR1
+
+OFF
+
+ADR1
+
+SYS
+1
+
+WIND
+
+3
+
+OFF
+
+OFF
+
+ADR3
+
+3
+
+W
+4
+
+H
+5
+
+E
+6
+
+7
+
+S
+8
+
+9
+
+ENT
+
+0
+
+CLR
+
+2
+
+IR2
+
+IR3
+
+NAV ATT
+
+1
+
+N
+2
+
+NAV ATT
+
+OFF
+
+NAV ATT
+
+ADR2
+
+Figure 11-155. An interface panel for three air data and inertial
+
+reference systems on an Airbus. The keyboard is used to initialize
+the system. Latitude and longitude position is displayed at the top.
+
+INS is integrated into an airliner’s flight management system
+and automatic flight control system. Waypoints can be entered
+for a predetermined flightpath and the INS will guide the
+aircraft to each waypoint in succession. Integration with other
+NAV aids is also possible to ensure continuous correction and
+improved accuracy but is not required.
+Modern INS systems are known as IRS. They are completely
+solid-state units with no moving parts. Three-ring, laser
+gyros replace the mechanical gyros in the older INS
+platform systems. This eliminates precession and other
+mechanical gyro shortcomings. The use of three solid-state
+accelerometers, one for each plane of movement, also
+increases accuracy. The accelerometer and gyro output
+are input to the computer for continuous calculation of the
+aircraft’s position.
+The most modern IRS integration is the satellite GPS. The
+GPS is extremely accurate in itself. When combined with
+IRS, it creates one of the most accurate navigation systems
+available. The GPS is used to initialize the IRS so the pilot
+no longer needs to do so. GPS also feeds data into the IRS
+computer to be used for error correction. Occasional service
+interruptions and altitude inaccuracies of the GPS system pose
+no problem for IRS/GPS. The IRS functions continuously and
+is completely self-contained within the IRS unit. Should the
+GPS falter, the IRS portion of the system continues without
+it. The latest electronic technology has reduced the size and
+weight of INS/IRS avionics units significantly. Figure 11-156
+shows a modern micro-IRS unit that measures approximately
+six inches on each side.
+Aircraft Communication Addressing & Reporting
+System (ACARS)
+ACARS is a two-way communication link between an airliner
+in flight and the airline’s main ground facilities. Data is
+collected in the aircraft by digital sensors and is transmitted
+to the ground facilities. Replies from the ground may be
+printed out so the appropriate flight crewmember can have
+a hard copy of the response.
+
+Installation of Communication & Navigation
+Equipment
+Approval of New Avionics Equipment
+Installations
+Most of the avionics equipment discussed in this chapter is only
+repairable by the manufacturer or FAA-certified repair stations
+that are licensed to perform specific work. The airframe
+technician; however, must competently remove, install,
+inspect, maintain, and troubleshoot these ever increasingly
+complicated electronic devices and systems. It is imperative to
+follow all equipment and airframe manufacturers’ instruction
+11-70
+
+===== PDF PAGE 674 =====
+will be performed in accordance with approved data.
+CAUTION
+
+CAUTION
+
+Figure 11-156. A modern micro-IRS with built-in GPS.
+
+when dealing with an aircraft’s avionics.
+The revolution to GPS navigation and the pace of modern
+electronic development results in many aircraft owner
+operators upgrading flight decks with new avionics. The
+aircraft technician must only perform airworthy installations.
+The avionics equipment to be installed must be a TSO’d
+device that is approved for installation in the aircraft in
+question. The addition of a new piece of avionics equipment
+and/or its antenna is a minor alteration if previously approved
+by the airframe manufacturer. A certificated airframe
+technician is qualified to perform the installation and return
+the aircraft to service. The addition of new avionics not on
+the aircraft’s approved equipment list is considered a major
+alteration and requires an FAA Form 337 to be completed.
+A technician with an inspection authorization is required to
+complete the approval for return to service following a major
+alteration and to sign the corresponding approval for return
+to service block on Form 337.
+Most new avionics installations are approved and performed
+under an STC. The equipment manufacturer supplies a list
+of aircraft on which the equipment has been approved for
+installation. The STC includes thorough installation and
+maintenance instructions which the technician must follow.
+Regardless, if not on the aircraft’s original equipment list,
+the STC installation is considered a major alteration and an
+FAA Form 337 must be filed. The STC is referenced as the
+required approved data.
+Occasionally, an owner/operator or technician wishes to install
+an electronic device in an aircraft that has no STC for the
+model aircraft in question. A field approval and a Form 337
+must be filed on which it must be shown that the installation
+
+Considerations
+There are many factors which the technician must consider
+prior to altering an aircraft by the addition of avionics
+equipment. These factors include the space available, the size
+and weight of the equipment, and previously accomplished
+alterations. The power consumption of the added equipment
+must be considered to calculate and determine the maximum
+continuous electrical load on the aircraft’s electrical system.
+Each installation should also be planned to allow easy access
+for inspection, maintenance, and exchange of units.
+The installation of avionics equipment is partially mechanical,
+involving sheet metal work to mount units, racks, antennas,
+and controls. Routing of the interconnecting wires, cables,
+antenna leads, etc. is also an important part of the installation
+process. When selecting a location for the equipment, use
+the area(s) designated by the airframe manufacturer or the
+STC. If such information is not available, select a location for
+installation that will carry the loads imposed by the weight
+of the equipment, and which is capable of withstanding the
+additional inertia forces.
+If an avionics device is to be mounted in the instrument panel
+and no provisions have been made for such an installation,
+ensure that the panel is not a primary structure prior to making
+any cutouts. To minimize the load on a stationary instrument
+panel, a support bracket may be installed between the rear of
+the electronics case or rack and a nearby structural member
+of the aircraft. [Figure 11-157]
+Avionics radio equipment must be securely mounted to the
+aircraft. All mounting bolts must be secured by locking devices
+to prevent loosening from vibration. Adequate clearance
+between all units and adjacent structure must be provided to
+prevent mechanical damage to electric wiring or to the avionic
+equipment from vibration, chafing, or landing shock.
+Do not locate avionics equipment and wiring near
+units containing combustible fluids. When separation is
+impractical, install baffles or shrouds to prevent contact of
+the combustible fluids with any electronic equipment in the
+event of plumbing failure.
+Cooling & Moisture
+The performance and service life of most avionics equipment
+is seriously limited by excessive ambient temperatures. High
+performance aircraft with avionics equipment racks typically
+route air-conditioned air over the avionics to keep them cool.
+It is also common for non-air conditioned aircraft to use a
+blower or scooped ram air to cool avionics installations.
+When adding a unit to an aircraft, the installation should
+11-71
+
+===== PDF PAGE 675 =====
+Machine screws and self-locking nuts
+
+Rivets or machine screws
+and self-locking nuts
+
+Shock mount
+Rear case support
+Figure 11-158. A shock mounted equipment rack is often used to
+
+Figure 11-157. An avionics installation in a stationary instrument
+
+install avionics.
+
+panel may include a support for the avionics case.
+
+be planned so that it can dissipate heat readily. In some
+installations, it may be necessary to produce airflow over
+the new equipment either with a blower or through the use
+of routed ram air. Be sure that proper baffling is used to
+prevent water from reaching any electronics when ducting
+outside air. The presence of water in avionics equipment areas
+promotes rapid deterioration of the exposed components and
+could lead to failure.
+Vibration Isolation
+Vibration is a continued motion by an oscillating force. The
+amplitude and frequency of vibration of the aircraft structure
+will vary considerably with the type of aircraft. Avionics
+equipment is sensitive to mechanical shock and vibration
+and is normally shock mounted to provide some protection
+against in-flight vibration and landing shock.
+Special shock mounted racks are often used to isolate avionics
+equipment from vibrating structure. [Figure 11-158] Such
+mounts should provide adequate isolation over the entire
+range of expected vibration frequencies. When installing
+shock mounts, assure that the equipment weight does not
+exceed the weight-carrying capabilities of the mounts. Radio
+equipment installed on shock mounts must have sufficient
+clearance from surrounding equipment and structure to allow
+for normal swaying of the equipment.
+Radios installed in instrument panels do not ordinarily require
+vibration protection since the panel itself is usually shock
+mounted. However, make certain that the added weight of any
+added equipment can be safely carried by the existing mounts.
+In some cases, it may be necessary to install larger capacity
+mounts or to increase the number of mounting points.
+Periodic inspection of the shock mounts is required, and
+defective mounts should be replaced with the proper type.
+The following factors to observe during the inspection are:
+
+1.
+
+Deterioration of the shock-absorbing material;
+
+2.
+
+Stiffness and resiliency of the material; and
+
+3.
+
+Overall rigidity of the mount.
+
+If the mount is too stiff, it may not provide adequate
+protection against the shock of landing. If the shock mount is
+not stiff enough, it may allow prolonged vibration following
+an initial shock.
+Shock-absorbing materials commonly used in shock
+mounts are usually electrical insulators. For this reason,
+each electronic unit mounted with shock mounts must be
+electrically bonded to a structural member of the aircraft to
+provide a current path to ground. This is accomplished by
+secure attachment of a tinned copper wire braid from the
+component, across the mount, to the aircraft structure as
+shown in Figure 11-159. Occasional bonding is accomplished
+with solid aluminum or copper material where a short flexible
+strap is not possible.
+
+Reducing Radio Interference
+Suppression of unwanted electromagnetic fields and
+electrostatic interference is essential on all aircraft. In
+communication radios, this is noticeable as audible noise.
+In other components, the effects may not be audible but
+pose a threat to proper operation. Large discharges of static
+electricity can permanently damage the sensitive solid-state
+microelectronics found in nearly all modern avionics.
+Shielding
+Many components of an aircraft are possible sources of
+electrical interference which can deteriorate the performance
+and reliability of avionics components. Rotating electrical
+devices, switching devices, ignition systems, propeller
+control systems, AC power lines, and voltage regulators
+all produce potential damaging fields. Shielding wires to
+11-72
+
+===== PDF PAGE 676 =====
+Bonding jumper
+Shock mount
+
+Figure 11-159. A bonding jumper is used to ground an equipment
+rack and avionics chassis around the non-conductive shock mount
+material.
+
+electric components and ignition systems dissipates radio
+frequency noise energy. Instead of radiating into space, the
+braided conductive shielding guides unwanted current flows
+to ground. To prevent the build-up of electrical potential, all
+electrical components should also be bonded to the aircraft
+structure (ground).
+Isolation
+Isolation is another practical method of radio frequency
+suppression to prevent interference. This involves separating
+the source of the noise from the input circuits of the affected
+equipment. In some cases, noise in a receiver may be entirely
+eliminated simply by moving the antenna lead-in wire just
+a few inches away from a noise source. On other occasions,
+when shielding and isolation are not effective, a filter may need
+to be installed in the input circuit of an affected component.
+Bonding
+The aircraft surface can become highly charged with static
+electricity while in flight. Measures are required to eliminate
+the build-up and radiation of unwanted electrical charges.
+One of the most important measures taken to eliminate
+unwanted electrical charges which may damage or interfere
+with avionics equipment is bonding. Charges flowing in
+paths of variable resistance due to such causes as intermittent
+contact from vibration or the movement of a control surface
+produce electrical disturbances (noise) in avionics. Bonding
+provides the necessary electric connection between metallic
+parts of an aircraft to prevent variable resistance in the
+airframe. It provides a low-impedance ground return which
+minimizes interference from static electricity charges.
+All metal parts of the aircraft should be bonded to prevent
+the development of electrical potential build-up. Bonding
+also provides the low resistance return path for singlewire electrical systems. Bonding jumpers and clamps are
+examples of bonding connectors. Jumpers should be as short
+
+as possible. Be sure finishes are removed in the contact area
+of a bonding device so that metal-to-metal contact exists.
+Resistance should not exceed .003 ohm. When a jumper
+is used only to reduce radio frequency noise and is not
+for current carrying purposes, a resistance of 0.01 ohm is
+satisfactory.
+Static Discharge Wicks
+Static dischargers, or wicks, are installed on aircraft to
+reduce radio receiver interference. This interference is
+caused by corona discharge emitted from the aircraft as a
+result of precipitation static. Corona occurs in short pulses
+which produce noise at the radio frequency spectrum. Static
+dischargers are normally mounted on the trailing edges of the
+control surfaces, wing tips and the vertical stabilizer. They
+discharge precipitation static at points a critical distance away
+from avionics antennas where there is little or no coupling
+of the static to cause interference or noise.
+Flexible and semi-flexible dischargers are attached to the
+aircraft structure by metal screws, rivets, or epoxy. The
+connections should be checked periodically for security.
+A resistance measurement from the mount to the airframe
+should not exceed 0.1 ohm. Inspect the condition of all static
+dischargers in accordance with manufacturer’s instructions.
+Figure 11-160 illustrates examples of static dischargers.
+
+Installation of Aircraft Antenna Systems
+Knowledge of antenna installation and maintenance is
+especially important as these tasks are performed by the
+aircraft technician. Antennas take many forms and sizes
+dependent upon the frequency of the transmitter and
+receiver to which they are connected. Airborne antennas
+must be mechanically secure. The air loads on an antenna
+are significant and must be considered. Antennas must be
+electrically matched to the receiver and transmitter that
+they serve. They must also be mounted in interference
+free locations and in areas where signals can be optimally
+transmitted and received. Antennas must also have the same
+polarization as the ground station.
+The following procedures describe the installation of a
+typical rigid antenna. They are presented as an example
+only. Always follow the manufacturer’s instructions when
+installing any antenna. An incorrect antenna installation could
+cause equipment failure.
+1.
+
+Place a template similar to that shown in Figure 11-161
+on the fore-and-aft centerline at the desired location.
+Drill the mounting holes and correct diameter hole for
+the transmission line cable in the fuselage skin.
+
+2.
+
+Install a reinforcing doubler of sufficient thickness
+to reinforce the aircraft skin. The length and width of
+11-73
+

@@ -1,0 +1,1199 @@
+AC 43.13-1B Chg 1, chapter 7 (Aircraft Hardware, Control Cables, And Turnbuckles), PDF pages 356-387
+
+===== PDF PAGE 356 =====
+9/8/98  AC 43.13-1B
+
+CHAPTER 7. AIRCRAFT HARDWARE, CONTROL CABLES, AND TURNBUCKLES
+
+   SECTION 1. RIVETS
+
+7-1. GENERAL.
+
+   a. Standard solid-shank rivets and the universal head rivets (AN470) are used in aircraft
+construction in both interior and exterior locations. All protruding head rivets may be replaced
+by MS20470 (supersedes AN470) rivets. This has been adopted as the standard for protruding
+head rivets in the United States.
+
+   b. Roundhead rivets (AN430) are used in the interior of aircraft except where clearance
+is required for adjacent members.
+
+   c. Flathead rivets (AN442) are used in the interior of the aircraft where interference of
+adjacent members does not permit the use of roundhead rivets.
+
+   d. Brazier head rivets (AN455 and AN456) are used on the exterior surfaces of aircraft
+where flush riveting is not essential.
+
+   e. Countersunk head rivets MS20426 (supersedes AN426 100-degree) are used on the
+exterior surfaces of aircraft to provide a smooth aerodynamic surface, and in other applications
+where a smooth finish is desired. The 100-degree countersunk head has been adopted as the
+standard in the United States. Refer to MIL-HDBK-5, Department of Defense Handbook:
+Metallic Materials and Elements for Aerospace Vehicle Structures, or MMPDS-10, and
+USAF/Navy T.O. 1-1A-8, Structural Hardware.
+
+   f. Typical rivet types are shown in Table 7-10.
+
+7-2. MATERIAL APPLICATIONS.
+
+   a. Rivets made with 2117-T4 are the most commonly used rivets in aluminum alloy
+structures. The main advantage of 2117-T4 is that it may be used in the condition received
+without further treatment.
+
+   b. The 2017-T3, 2017-T31, and 2024-T4 rivets are used in aluminum alloy structures
+where strength higher than that of the 2117-T4 rivet is needed. Refer to MIL-HDBK-5 or
+MMPDS-10 for differences between the types of rivets specified here.
+
+   c. The 1100 rivets of pure aluminum are used for riveting nonstructural parts fabricated
+from the softer aluminum alloys, such as 1100, 3003, and 5052.
+
+   d. When riveting magnesium alloy structures, 5056 rivets are used exclusively due to
+their corrosion-resistant qualities in combination with the magnesium alloys.
+
+   e. Mild steel rivets are used primarily in riveting steel parts. Do not use galvanized rivets
+on steel parts subjected to high heat.
+
+Par 7-1  Page 7-1
+
+===== PDF PAGE 357 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   f. Corrosion-resistant steel rivets are used primarily in riveting corrosion-resistant steel
+parts such as firewalls, exhaust stack bracket attachments, and similar structures.
+
+   g. Monel rivets are used in special cases for riveting high-nickel steel alloys and nickel
+alloys. They may be used interchangeably with stainless steel rivets as they are more easily
+driven. However, it is preferable to use stainless steel rivets in stainless steel parts.
+
+   h. Copper rivets are used for riveting copper alloys, leather, and other nonmetallic
+materials. This rivet has only limited usage in aircraft.
+
+   i. Hi-Shear rivets are sometimes used in connections where the shearing loads are the
+primary design consideration. Its use is restricted to such connections. It should be noted that
+Hi-Shear rivets are not to be used for the installation of control surface hinges and hinge
+brackets. Do not paint the rivets before assembly, even where dissimilar metals are being joined.
+However, it is advisable to touch up each end of the driven rivet with primer to allow the later
+application of the general airplane finish.
+
+   j. Blind rivets in the NASM20600 through NASM20603 series rivets and the
+mechanically-locked stem NAS1398, 1399, 1738, and 1739 rivets sometimes may be substituted
+for solid rivets. They should not be used where the looseness or failure of a few rivets will impair
+the airworthiness of the aircraft. Design allowable for blind rivets are specified in MIL-HDBK-5
+or MMPDS-10. Specific structural applications are outlined in NASM33522. Nonstructural
+applications for such blind rivets as NASM20604 and NASM20605 are contained in
+NASM33557.
+
+   CAUTION: For sheet metal repairs to airframe, the use of blind rivets must
+   be authorized by the airframe manufacturer or approved by a representative
+   of the Federal Aviation Administration (FAA).
+
+   NOTE: For more information on blind rivets, see Chapter 4,
+   subparagraph 4-57f.
+
+7-3.–7-13. [RESERVED.]
+
+Par 7-2  Page 7-2
+
+===== PDF PAGE 358 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 2. SCREWS
+
+7-14. GENERAL. In general, screws differ from bolts by the following characteristics.
+
+   a. Screws usually have lower material strength, a looser thread fit, head shapes formed to
+engage a screwdriver, and the shank may be threaded along its entire length without a clearly
+defined grip. Screws may be divided into three basic groups: structural screws, machine screws,
+and self-tapping screws. Screws are marked as required by the applicable Army/Navy (AN),
+National Aerospace Standard (NAS), or Military Standard (MS) drawing. Normally a
+manufacturer places their trademark on the head of the screw. Several types of structural screws
+are available that differ from the standard structural bolts only in the type of head.
+
+   b. It would be impossible to cover all screws that are available to the aviation market;
+therefore, only the most frequently used screws will be discussed in this text. Design
+specifications are available in MIL-HDBK-5, MMPDS-10, or USAF/Navy T.O. 1-1A-8/
+NAVAIR 01-1A-8, Structural Hardware.
+
+   c. Typical screw types are shown in Table 7-11.
+
+7-15. STRUCTURAL SCREWS. NAS502, NAS503, AN509, NAS220 through NAS227, and
+NAS583 through NAS590 may be used for structural applications, similar to structural bolts or
+rivets. These screws are fabricated from a material with a high-tensile strength and differ from
+structural bolts only in the type of head.
+
+7-16. MACHINE SCREWS. These screws are available in four basic head styles: flathead
+(countersunk), roundhead, fillister, and socket head.
+
+   a. Flathead machine screws (AN505, AN510, AN507, NAS200, NAS514, NAS517, and
+NAS662) are used in countersunk holes where a flush surface is desired.
+
+   b. Roundhead machine screws (AN515 and AN520) are general-purpose screws for use
+in nonstructural applications.
+
+   c. Fillister head machine screws (AN500 through AN503, AN116901 through
+AN116912, AN116913 through AN116924, AN116962 through AN116990, AN117002 through
+AN117030, and AN117042 through AN117070) are general-purpose screws that may be used as
+capscrews in light mechanical applications and are usually drilled for safety wire.
+
+   d. Socket head machine screws (NAS608 and NAS609) are designed to be driven into
+tapped holes by means of internal wrenches. They may be used in applications requiring high
+strength, compactness of assembled parts, or sinking of heads below surfaces into fitted holes.
+
+7-17. PAN HEAD SCREWS (NAS600 THROUGH NAS606, NAS610 THROUGH
+NAS616, NAS623, AND NAS1402 THROUGH NAS1406). Flathead screws (MS35188
+through MS35203), pan head machine screws (MS35024 through MS35219), and truss-head
+screws (AN526) are general-purpose screws used where head height is not important.
+
+Par 7-14  Page 7-3
+
+===== PDF PAGE 359 =====
+9/8/98  AC 43.13-1B
+
+7-18. SELF-TAPPING SCREWS. The self-tapping screw taps their own mating thread when
+driven into untapped or punched holes slightly smaller than the diameter of the screw.
+Self-tapping machine screws (AN504 and AN530) may be used to attach minor nonstructural
+parts. Self-tapping sheet metal screws (AN504, AN530, AN531, and NAS548) may be used in
+blind applications for the temporary attachment of sheet metal for riveting and the permanent
+assembly of nonstructural assemblies. The MS21318 is a roundhead drive screw used in the
+attachment of nameplates or in sealing drain holes, and is not intended to be removed after
+installation. They are normally installed by driving the screw into a drilled hole with a hammer.
+
+   CAUTION: Self-tapping screws should never be used as a replacement for
+   standard screws, nuts, bolts, or rivets in any aircraft structure.
+
+7-19. WOOD SCREWS. AN545, AN550, MS35492, and MS35493 are screws used in wood
+structures of aircraft.
+
+7-20.–7-33. [RESERVED.]
+
+Par 7-18  Page 7-4
+
+===== PDF PAGE 360 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 3. BOLTS
+
+7-34. GENERAL. “Hardware” is the term used to describe the various types of fasteners and
+small items used to assemble and repair aircraft structures and components. Only hardware with
+traceability to an approved manufacturing process or source should be used. This traceability will
+ensure that the hardware is at least equal to the original or properly-altered condition. Hardware
+that is not traceable or is improperly altered may be substandard or counterfeit, since their
+physical properties cannot be substantiated. Selection and use of fasteners are as varied as the
+types of aircraft; therefore, care should be taken to ensure fasteners are approved by the FAA for
+the intended installation, repair, or replacement. Threaded fasteners (bolts/screws) and rivets are
+the most commonly used fasteners because they are designed to carry shear and/or tensile loads.
+
+7-35. BOLTS. Most bolts used in aircraft structures are either general-purpose, internal
+wrenching, or close-tolerance AN, NAS, or MS bolts. In certain cases, fastener manufacturers
+produce bolts of different dimensions or greater strength than the standard types. Such bolts are
+made for a particular application, and it is of extreme importance to use like bolts in replacement.
+Design specifications are available in MIL-HDBK-5, MMPDS-10, or USAF/Navy T.O. 1-1A-8/
+NAVAIR 01-1A-8. References should be made to military specifications and industry design
+standards such as NAS, the Society of Automotive Engineers (SAE), and Aerospace Material
+Standards (AMS). Typical bolt types are shown in Table 7-12.
+
+7-36. IDENTIFICATION. Aircraft bolts may be identified by code markings on the bolt heads.
+These markings generally denote the material of which the bolt is made, whether the bolt is a
+standard AN-type or a special-purpose bolt, and sometimes include the manufacturer.
+
+   a. AN standard steel bolts are marked with either a raised dash or asterisk,
+corrosion-resistant steel is marked by a single dash, and AN aluminum alloy bolts are marked
+with two raised dashes.
+
+   b. Special-purpose bolts include high-strength, low-strength, and close-tolerance types.
+These bolts are normally inspected by magnetic particle inspection methods. Typical markings
+include “SPEC” (usually heat-treated for strength and durability) and an aircraft manufacturer’s
+part number stamped on the head. Bolts with no markings are low strength. Close-tolerance NAS
+bolts are marked with either a raised or recessed triangle. The material markings for NAS bolts
+are the same as for AN bolts, except they may be either raised or recessed. Bolts requiring
+nondestructive inspection (NDI) by magnetic particle inspection are identified by means of
+colored lacquer or head markings of a distinctive type. (See Figure 7-1.)
+
+Par 7-34  Page 7-5
+
+===== PDF PAGE 361 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-1. TYPICAL AIRCRAFT BOLT MARKINGS
+
+7-37. GRIP LENGTH. In general, the bolt grip length of a fastener is the thickness of the
+material the fastener is designed to hold when two or more parts are being assembled. Bolts of
+slightly greater grip length may be used, provided washers are placed under the nut or bolt head.
+The maximum combined height of washers that should be used is 1/8 inch. This limits the use of
+washers necessary to compensate for grip, up to the next standard grip size. Over the years, some
+fasteners’ specifications have been changed. For this reason, it is recommended when making
+repairs to an aircraft, whose original hardware is being replaced, that you must first measure the
+bolt before ordering, rather than relying on the parts manual for identification. In the case of
+plate nuts, if proper bolt grip length is not available, add shims under the plate. All bolt
+installations which involve self-locking or plain nuts should have at least one thread of the bolt
+protruding through the nut.
+
+7-38. LOCKING OR SAFETYING OF BOLTS. Lock or safety all bolts and/or nuts, except
+self-locking nuts. Do not reuse cotter pins or safety wire.
+
+7-39. BOLT FIT. Bolt holes, particularly those of primary connecting elements, have close
+tolerances. Generally, it is permissible to use the first-lettered drill size larger than the nominal
+bolt diameter, except when the AN hexagon bolts are used in light-drive fit (reamed) applications
+
+Par 7-36  Page 7-6
+
+===== PDF PAGE 362 =====
+9/8/98  AC 43.13-1B
+
+and where NAS close-tolerance bolts or AN clevis bolts are used. A light-drive fit can be defined
+as an interference of 0.0006 inch for a 5/8-inch bolt. Bolt holes should be flush to the surface,
+and free of debris to provide full bearing surface for the bolt head and nut. In the event of
+oversized or elongated holes in structural members, reaming or drilling the hole to accept the
+next larger bolt size may be permissible. Care should be taken to ensure items, such as edge
+distance, clearance, and structural integrity are maintained. Consult the manufacturer’s structural
+repair manual, the manufacturer’s engineering department, or the FAA before drilling or reaming
+any bolt hole in a critical structural member.
+
+7-40. TORQUES. The importance of correct torque application cannot be overemphasized.
+Undertorque can result in unnecessary wear of nuts and bolts, as well as the parts they secure.
+Overtorque can cause failure of a bolt or nut from overstressing the threaded areas. Uneven or
+additional loads that are applied to the assembly may result in wear or premature failure. The
+following are a few simple but important procedures that should be followed to ensure that
+correct torque is applied.
+
+   NOTE: Be sure that the torque applied is for the size of the bolt shank and
+   not the wrench size.
+
+   a. Calibrate the torque wrench at least once a year, or immediately after it has been
+abused or dropped, to ensure continued accuracy.
+
+   b. Be sure the bolt and nut threads are clean and dry, unless otherwise specified by the
+manufacturer.
+
+   c. Run the nut down to near contact with the washer or bearing surface and check the
+friction drag torque required to turn the nut. Whenever possible, apply the torque to the nut and
+not the bolt. This will reduce rotation of the bolt in the hole and reduce wear.
+
+   d. Add the friction drag torque to the desired torque. This is referred to as “final torque,”
+which should register on the indicator or setting for a snap-over type torque wrench.
+
+   e. Apply a smooth even pull when applying torque pressure. If chattering or a jerking
+motion occurs during final torque, back off the nut and retorque.
+
+   NOTE: Many applications of bolts in aircraft/engines require stretch checks
+   prior to reuse. This requirement is due primarily to bolt stretching caused by
+   overtorquing.
+
+   f. When installing a castle nut, start alignment with the cotter pin hole at the minimum
+recommended torque plus friction drag torque.
+
+   NOTE: Do not exceed the maximum torque plus the friction drag. If the hole
+   and nut castellation do not align, change the washer or nut and try again.
+   Exceeding the maximum recommended torque is not recommended.
+
+   g. When torque is applied to bolt heads or capscrews, apply the recommended torque
+plus friction drag torque.
+
+Par 7-39  Page 7-7
+
+===== PDF PAGE 363 =====
+9/8/98  AC 43.13-1B
+
+   h. If special adapters are used which will change the effective length of the torque
+wrench, the final torque indication or wrench setting must be adjusted accordingly. Determine
+the torque wrench indication or setting with adapter installed as shown in Figure 7-2.
+
+   FIGURE 7-2. TORQUE WRENCH WITH VARIOUS ADAPTERS
+
+Par 7-40  Page 7-8
+
+===== PDF PAGE 364 =====
+9/8/98  AC 43.13-1B
+
+   i. Table 7-1 shows the recommended torque to be used when specific torque is not
+supplied by the manufacturer. The table includes standard nut and bolt combinations, currently
+used in aviation maintenance. For further identification of hardware, see Section 11.
+
+   TABLE 7-1. RECOMMENDED TORQUE VALUES (INCH-POUNDS)
+
+   CAUTION
+   THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE
+   CADMIUM-PLATED THREADS.
+   TORQUE LIMITS RECOMMENDED  MAXIMUM ALLOWABLE
+   FOR INSTALLATION (BOLTS  TIGHTENING TORQUE LIMITS
+   LOADED PRIMARILY IN SHEAR)
+ Thread Size  Tension type nuts  Shear type nuts  Nuts MS20365  Nuts MS20364
+   MS20365 and AN310  MS20364 and  and AN310  and AN320
+   (40,000 psi in bolts)  AN320 (24,000 psi  (90,000 psi in  (54,000 psi in
+   in bolts)  bolts)  bolts)
+   FINE THREAD SERIES
+   8-36  12-15  7-9  20  12
+   10-32  20-25  12-15  40  25
+   1/4-28  50-70  30-40  100  60
+   5/16-24  100-140  60-85  225  140
+   3/8-24  160-190  95-110  390  240
+   7/16-20  450-500  270-300  840  500
+   1/2-20  480-690  290-410  1100  660
+   9/16-18  800-1000  480-600  1600  960
+   5/8-18  1100-1300  600-780  2400  1400
+   3/4-16  2300-2500  1300-1500  5000  3000
+   7/8-14  2500-3000  1500-1800  7000  4200
+   1-14  3700-5500  2200-3300*  10,000  6000
+   1-1/8-12  5000-7000  3000-4200*  15,000  9000
+   1-1/4-12  9000-11,000  5400-6600*  25,000  15,000
+   COARSE THREAD SERIES
+   8-32  12-15  7-9  20  12
+   10-24  20-25  12-15  35  21
+   1/4-20  40-50  25-30  75  45
+   5/16-18  80-90  48-55  160  100
+   3/8-16  160-185  95-100  275  170
+   7/16-14  235-255  140-155  475  280
+   1/2-13  400-480  240-290  880  520
+   9/16-12  500-700  300-420  1100  650
+   5/8-11  700-900  420-540  1500  900
+   3/4-10  1150-1600  700-950  2500  1500
+   7/8-9  2200-3000  1300-1800  4600  2700
+   The above torque values may be used for all cadmium-plated steel nuts of the fine or coarse thread
+   series which have approximately equal number of threads and equal face bearing areas.
+   *Estimated corresponding values.
+
+Par 7-40  Page 7-9
+
+===== PDF PAGE 365 =====
+9/8/98  AC 43.13-1B
+
+7-41. STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20). These are
+all-purpose structural bolts used for general applications that require tension or shear loads. Steel
+bolts smaller than No. 10-32, and aluminum alloy bolts smaller than 1/4-inch diameter, should
+not be used in primary structures. Do not use aluminum bolts or nuts in applications requiring
+frequent removal for inspection or maintenance.
+
+7-42. DRILLED HEAD BOLTS (AN73 THROUGH AN81). The AN drilled head bolt is
+similar to the standard hex bolt, but has a deeper head which is drilled to receive safety wire. The
+physical differences preventing direct interchangeability are the slightly greater head height, and
+longer thread length of the AN73 through AN81 series. The AN73 through AN81 drilled head
+bolts have been superseded by MS20073 for fine thread bolts and MS20074 for coarse thread
+bolts. AN73, AN74, MS20073, and MS20074 bolts of like thread and grip lengths are
+universally, functionally, and dimensionally interchangeable.
+
+7-43. ENGINE BOLTS. These are hex head bolts (AN101001 through AN101900), drilled
+shank hex head bolts (AN101901 through AN102800), drilled hex head (one hole) bolts
+(AN102801 through AN103700), and drilled hex head (six holes) bolts (AN103701 through
+AN104600). They are similar to each other except for the holes in the head and shank. Hex head
+bolts (AN104601 through AN105500), drilled shank hex head bolts (AN105501 through
+AN106400), drilled hex head (one hole) bolts (AN106401 through AN107300), and drilled hex
+head (six holes) bolts (AN107301 through AN108200) are similar to the bolts described in
+paragraph 7-42, except that this series is manufactured from corrosion-resistant steel.
+
+7-44. CLOSE-TOLERANCE BOLTS. Close-tolerance, hex head, machine bolts (AN173
+through AN186); 100-degree countersunk head, close-tolerance, high-strength bolts (NAS333
+through NAS340); hex head, close-tolerance, short thread, titanium alloy bolts (NAS653 through
+NAS658); 100-degree countersunk flathead, close-tolerance titanium alloy bolts (NAS663
+through NAS668); and drilled hex head close-tolerance titanium alloy bolts (NAS673 through
+NAS678) are used in applications where two parts bolted together are subject to severe load
+reversals and vibration. Because of the interference fit, this type of bolt may require light tapping
+with a mallet to set the bolt shank into the bolt hole.
+
+   NOTE: Elimination of friction in interference fit applications may
+   sometimes be attained by placing the bolt in a freezer prior to installation.
+   When this procedure is used, the bolt should be allowed to warm up to
+   ambient temperature before torquing.
+
+   CAUTION: Caution must be exercised in the use of close-tolerance bolts for
+   all critical applications, such as landing gear, control systems, and helicopter
+   rotary controls. Do not substitute for close-tolerance fasteners without
+   specific instructions from the aircraft manufacturer or the FAA.
+
+7-45. INTERNAL WRENCHING BOLTS (NAS144 THROUGH NAS158 AND NAS172
+THROUGH NAS176). These are high-strength bolts used primarily in tension applications. Use
+a special heat-treated washer (NAS143C) under the head to prevent the large radius of the shank
+from contacting only the sharp edge of the hole. Use a special heat-treated washer (NAS143)
+under the nut.
+
+Par 7-41  Page 7-10
+
+===== PDF PAGE 366 =====
+9/8/98  AC 43.13-1B
+
+7-46. INTERNAL WRENCHING BOLTS (MS20004 THROUGH MS20024) AND
+SIX HOLE, DRILLED SOCKET HEAD BOLTS (AN148551 THROUGH AN149350).
+These are very similar to the bolts in paragraph 7-45, except these bolts are made from different
+alloys. The NAS144 through NAS158 and NAS172 through NAS176 are interchangeable with
+MS20004 through MS20024 in the same thread configuration and grip lengths. The AN148551
+through AN149350 have been superseded by MS9088 through MS9094 with the exception of
+AN149251 through 149350, which has no superseding MS standard.
+
+7-47. TWELVE-POINT, EXTERNAL WRENCHING BOLTS (NAS624 THROUGH
+NAS644). These bolts are used primarily in high-tensile, high-fatigue strength applications. The
+twelve-point head, heat-resistant machine bolts (MS9033 through MS9039) and drilled
+twelve-point head machine bolts (MS9088 through MS9094) are similar to the NAS624 through
+NAS644, but are made from different steel alloys, and their shanks have larger tolerances.
+
+7-48. CLOSE-TOLERANCE SHEAR BOLTS (NAS464). These bolts are designed for use
+where stresses normally are in shear only. These bolts have a shorter thread than bolts designed
+for torquing.
+
+7-49. NAS6200 SERIES BOLTS. These are close-tolerance bolts and are available in two
+oversized diameters to fit slightly elongated holes. These bolts can be ordered with an “X” or
+“Y” after the length to designate the oversized grip portion of the bolt (i.e., NAS6204-6X for a
+1/4-inch bolt with a 1/64-inch larger diameter). The elongated hole may have to be reamed to
+ensure a good fit.
+
+7-50. CLEVIS BOLTS (AN21 THROUGH AN36). These bolts are only used in applications
+subject to shear stress, and are often used as mechanical pins in control systems.
+
+7-51. EYEBOLTS (AN42 THROUGH AN49). These bolts are used in applications where
+external tension loads are to be applied. The head of this bolt is specially designed for the
+attachment of a turnbuckle, a clevis, or a cable shackle. The threaded shank may or may not be
+drilled for safetying.
+
+7-52.–7-62. [RESERVED.]
+
+Par 7-46  Page 7-11
+
+===== PDF PAGE 367 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 4. NUTS
+
+7-63. GENERAL. Aircraft nuts are available in a variety of shapes, sizes, and material
+strengths. The types of nuts used in aircraft structures include castle nuts, shear nuts, plain nuts,
+light hex nuts, checknuts, wingnuts, and sheet spring nuts. Many are available in either
+self-locking or nonself-locking style. Typical nut types are shown in Table 7-13. Refer to the
+aircraft manufacturer’s structural repair manual, the manufacturer’s engineering department, or
+the FAA before replacing any nut with any other type.
+
+7-64. SELF-LOCKING NUTS. These nuts are acceptable for use on certificated aircraft
+subject to the aircraft manufacturer’s recommended practice sheets or specifications. Two types
+of self-locking nuts are currently in use: the all-metal type and the fiber or nylon type.
+
+   a. DO NOT use self-locking nuts on parts subject to rotation.
+
+   b. Self-locking castellated nuts with cotter pins or lock wire may be used in any system.
+
+   c. Self-locking nuts should not be used with bolts or screws on turbine engine airplanes in
+locations where the loose nut, bolt, washer, or screw could fall or be drawn into the engine air
+intake scoop.
+
+   d. Self-locking nuts should not be used with bolts, screws, or studs to attach access panels
+or doors, or to assemble any parts that are routinely disassembled before or after each flight.
+They may be used with anti-friction bearings and control pulleys, provided the inner race of the
+bearing is secured to the supporting structure by the nut and bolt.
+
+   e. Metal locknuts are constructed with either the threads in the locking insert,
+out-of-round with the load-carrying section, or with a saw-cut insert with a pinched-in thread in
+the locking section. The locking action of the all-metal nut depends upon the resiliency of the
+metal when the locking section and load carrying section are engaged by screw threads. Metal
+locknuts are primarily used in high temperature areas.
+
+   f. Fiber or nylon locknuts are constructed with an unthreaded fiber or nylon locking
+insert held securely in place. The fiber or nylon insert provides the locking action because it has
+a smaller diameter than the nut. Fiber or nylon self-locking nuts are not installed in areas where
+temperatures exceed 250 ºF. After the nut has been tightened, make sure the bolt or stud has at
+least one thread showing past the nut. DO NOT reuse a fiber or nylon locknut if the nut cannot
+meet the minimum prevailing torque values. (See Table 7-2.)
+
+Par 7-63  Page 7-12
+
+===== PDF PAGE 368 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-2. MINIMUM PREVAILING TORQUE VALUES FOR REUSED
+   SELF-LOCKING NUTS
+
+   FINE THREAD SERIES
+   THREAD SIZE  MINIMUM PREVAILING
+   TORQUE
+   7/16-20  8 inch-pounds
+   1/2-20  10 inch-pounds
+   9/16-18  13 inch-pounds
+   5/8-18  18 inch-pounds
+   3/4-16  27 inch-pounds
+   7/8-14  40 inch-pounds
+   1-14  55 inch-pounds
+   1-1/8-12  73 inch-pounds
+   1-1/4-12  94 inch-pounds
+
+   COARSE THREAD SERIES
+   THREAD SIZE  MINIMUM PREVAILING
+   TORQUE
+   7/16-14  8 inch-pounds
+   1/2-13  10 inch-pounds
+   9/16-12  14 inch-pounds
+   5/8-11  20 inch-pounds
+   3/4-10  27 inch-pounds
+   7/8-9  40 inch-pounds
+   1-8  51 inch-pounds
+   1-1/8-8  68 inch-pounds
+   1-1/4-8  88 inch-pounds
+
+   g. Self-locking nut plates are produced in a variety of forms and materials for riveting or
+welding to aircraft structures or parts. Certain applications require the installation of self-locking
+nuts in channel arrangement permitting the attachment of many nuts in a row with only a few
+rivets.
+
+7-65. NUT IDENTIFICATION FINISHES. Several types of finishes are used on self-locking
+nuts. The particular type of finish is dependent on the application and temperature requirement.
+The most commonly used finishes are described briefly as follows.
+
+   a. Cadmium-Plating. This is an electrolytically deposited silver-gray plating which
+provides exceptionally good protection against corrosion, particularly in salty atmosphere, but is
+
+Par 7-64  Page 7-13
+
+===== PDF PAGE 369 =====
+9/8/98  AC 43.13-1B
+
+not recommended in applications where the temperature exceeds 450 ºF. The following
+additional finishes or refinements to the basic cadmium can be applied.
+
+   (1) Chromic Clear Dip. Cadmium surfaces are passivated, and cyanide from the
+plating solution is neutralized. The protective film formed gives a bright, shiny appearance, and
+resists staining and finger marks.
+
+   (2) Olive Drab Dichromate. Cadmium-plated work is dipped in a solution of chromic
+acid, nitric acid, acetic acid, and a dye which produces corrosion resistance.
+
+   (3) Iridescent Dichromate. Cadmium-plated work is dipped in a solution of sodium
+dichromate and takes on a surface film of basic chromium chromate which resists corrosion.
+Finish is yellow to brown in color.
+
+   NOTE: Cadmium-plated nuts are restricted for use in temperatures not to
+   exceed 450 ºF. When used in temperatures in excess of 450 ºF, the cadmium
+   will diffuse into the base material causing it to become very brittle and
+   subject to early failure.
+
+   b. Silver plating. Silver plating is applied to locknuts for use at higher temperatures.
+Important advantages are its resistance to extreme heat (1,400 ºF) and its excellent lubricating
+characteristics. Silver resists galling and seizing of mating parts when subjected to heat or heavy
+pressure.
+
+   c. Anodizing for Aluminum. An inorganic oxide coating is formed on the metal by
+connecting the metals and anodes in a suitable electrolyte. The coating offers excellent corrosion
+resistance and can be dyed in a number of colors.
+
+   d. Solid Lubricant Coating. Locknuts are also furnished with molybdenum disulfide for
+lubrication purposes. It provides a clean, dry, permanently-bonded coating to prevent seizing and
+galling of threads. Molybdenum disulfide is applied to both cadmium and silver-plated parts.
+Other types of finishes are available, but the finishes described in this chapter are the most
+widely used.
+
+7-66. CASTLE NUT (AN310). The castle nut is used with drilled shank hex head bolts, clevis
+bolts, drilled head bolts, or studs that are subjected to tension loads. The nut has slots or
+castellations cut to accommodate a cotter pin or safety wire as a means of safetying.
+
+7-67. CASTELLATED SHEAR NUT (AN320). The castellated shear nut is designed for use
+with hardware subjected to shear stress only.
+
+7-68. PLAIN NUT (AN315 AND AN335). The plain nut is capable of withstanding large
+tension loads; however, it requires an auxiliary locking device, such as a checknut or safety wire.
+Use of this type on aircraft structures is limited.
+
+7-69. LIGHT HEX NUTS (AN340 AND AN345). These nuts are used in nonstructural
+applications requiring light tension. Like the AN315 and AN335, they require a locking device to
+secure them.
+
+Par 7-65  Page 7-14
+
+===== PDF PAGE 370 =====
+9/8/98  AC 43.13-1B
+
+7-70. CHECKNUT (AN316). The checknut is used as a locking device for plain nuts, screws,
+threaded rod ends, and other devices.
+
+7-71. WINGNUTS (AN350). The wingnut is used where the desired torque is obtained by use
+of the fingers or hand tools. Wingnuts are normally drilled to allow safetying with safety wire.
+
+7-72. SHEET SPRING NUTS (AN365). Sheet spring nuts are commonly called speed nuts.
+They are used with standard and sheet metal self-tapping screws in nonstructural applications.
+They are used to support line and conduit clamps, access doors, etc. Their use should be limited
+to applications where they were originally used in assembly of the aircraft.
+
+7-73.–7-84. RESERVED.
+
+Par 7-70  Page 7-15
+
+===== PDF PAGE 371 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 5. WASHERS
+
+7-85. GENERAL. The type of washers used in aircraft structure are plain washers and special
+washers. Typical washer types are shown in Table 7-14.
+
+7-86. PLAIN WASHERS (AN960 AND AN970). Plain washers are widely used with hex nuts
+to provide a smooth bearing surface, act as a shim to obtain the proper grip length, and to
+position castellated nuts in relation to drilled cotter pin holes in bolts. Use plain washers under
+lock washers to prevent damage to bearing surfaces. Cadmium-plated steel washers are
+recommended for use under bolt heads and nuts used on aluminum alloy or magnesium
+structures to prevent corrosion. The AN970 steel washer provides a larger bearing surface than
+the plain type and is often used in wooden structures under bolt heads and nuts to prevent local
+crushing of the surface.
+
+7-87. LOCK WASHERS (AN935 AND AN936). Lock washers may be used with machine
+screws or bolts whenever the self-locking or castellated type nut is not applicable. Do not use
+lock washers where frequent removal is required, in areas subject to corrosion, or in areas
+exposed to airflow. Use a plain washer between the lock washer and material to prevent gouging
+the surface of the metal.
+
+   CAUTION: Lock washers are not to be used on primary structures,
+   secondary structures, or accessories where failure might result in damage or
+   danger to aircraft or personnel.
+
+7-88. BALL SOCKET AND SEAT WASHERS (AN950 AND AN955). Ball socket and seat
+washers are used in special applications where the bolt is installed at an angle to the surface or
+when perfect alignment with the surface is required. These washers are used together as a pair.
+
+7-89. TAPER PIN WASHERS (AN975). Taper pin washers are used with the threaded taper
+pin. NAS143 and MS20002 washers are used with NAS internal wrenching bolts and internal
+wrenching nuts. They may be plain or countersunk. The countersunk washer (designated as
+NAS143C and MS20002C) is used to seat the bolt head shank radius, and the plain washer is
+used under the nut.
+
+7-90.–7-100. [RESERVED.]
+
+Par 7-85  Page 7-16
+
+===== PDF PAGE 372 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 6. PINS
+
+7-101. TAPER PINS. Plain (AN385) and threaded (AN386) taper pins are used in joints which
+carry shear loads and where the absence of play is essential. The plain taper pin is usually drilled
+and secured with wire. The threaded taper pin is used with a taper pin washer (AN975) and shear
+nut (safetied with a cotter pin) or self-locking nut (if undrilled). Typical pin types are shown in
+Table 7-15.
+
+7-102. FLATHEAD PINS (AN392 THROUGH AN406). Commonly called a clevis pin, this
+pin is used in conjunction with tie-rod terminals and in secondary controls which are not subject
+to continuous operation. The pin is normally installed with the head up, or forward, to prevent
+loss should the cotter pin fail or work out.
+
+7-103. COTTER PINS (AN380). Cotter pins are used for securing bolts, screws, nuts, and pins.
+Use AN381 or MS24665 cotter pins in locations where nonmagnetic material or resistance to
+corrosion is desired. Cotter pins should not be reused.
+
+7-104. SPRING PINS. The spring pin is designed for use in double-shear applications. The pins
+are manufactured with the diameter greater than the holes in which they are to be used. Spring
+pins are stronger than mild carbon steel straight pins, taper pins, or grooved pins of the
+equivalent size. The spring pin is compressed as it is driven into the hole and exerts continuous
+spring pressure against the sides of the hole to prevent loosening by vibration. Spring pins
+require no other means of securing and can be used inside one another to increase shear strength.
+
+   a. Be careful when using these pins, since spring-pin performance depends entirely on
+the fit and the durability of the fit under vibration or repeated load conditions (especially in soft
+materials, such as aluminum alloys and magnesium). They should not be used in an aircraft
+component or system where the loss or failure of the pin might endanger safe flight.
+
+   b. The joints where spring pins are used for fastening shall be designed like riveted and
+bolted joints. Spring pins should not be mixed with other structural fasteners in the same joint.
+These pins, for primary structural applications, should be used only where there will be no
+rotation or relative movement of the joint. Spring pins may be reused if a careful inspection
+reveals no deformation of the pin or hole.
+
+   c. Be careful to observe that the hole has not enlarged or deformed preventing proper
+functioning of the spring pin. Where hole misalignment results in the pin gap closing or
+necessitates excess inserting force, the spring pin will not be used. The spring pin should not be
+used as a substitute for a cotter pin. When a spring pin is used in a clevis joint, it is recommended
+that the pin be held by the outer members of the unit for maximum efficiency and reduced
+maintenance.
+
+7-105. QUICK-RELEASE PINS. These pins are used in some applications where rapid
+removal and replacement of equipment is necessary. When equipment is secured with these pins,
+no binding of the spindle should be present. Spindle binding could cause the locking balls to
+remain in the open position which could result in the pin falling out under vibration.
+
+7-106.–7-121. [RESERVED.]
+
+Par 7-101  Page 7-17
+
+===== PDF PAGE 373 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 7. SAFETYING
+
+7-122. GENERAL. The word safetying is a term universally used in the aircraft industry.
+Briefly, safetying is defined as, “Securing by various means any nut, bolt, turnbuckle etc., on the
+aircraft so that vibration will not cause it to loosen during operation.” These practices are not a
+means of obtaining or maintaining torque, rather a safety device to prevent the disengagement of
+screws, nuts, bolts, snap rings, oil caps, drain cocks, valves, and parts. Three basic methods are
+used in safetying: safety wire, cotter pins, and self-locking nuts. Retainer washers and pal nuts
+are also sometimes used.
+
+   a. Wire, either soft brass or steel, is used on cylinder studs, control cable turnbuckles, and
+engine accessory attaching bolts.
+
+   b. Cotter pins are used on aircraft and engine controls, landing gear, and tailwheel
+assemblies, or any other point where a turning or actuating movement takes place.
+
+   c. Self-locking nuts are used in applications where they will not be removed often.
+Repeated removal and installation will cause the self-locking nut to lose its locking feature. They
+should be replaced when they are no longer capable of maintaining the minimum prevailing
+torque. (See Table 7-2.)
+
+   d. Pal or speed nuts include designs which force the nut thread against the bolt or screw
+thread when tightened. These nuts should never be reused and should be replaced with new ones
+when removed.
+
+7-123. SAFETY WIRE. Do not use stainless steel, Monel, carbon steel, or aluminum alloy
+safety wire to secure emergency mechanisms such as switch handles, guards covering handles
+used on exits, fire extinguishers, emergency gear releases, or other emergency equipment. Some
+existing structural equipment or safety-of-flight emergency devices require copper or brass
+safety wire (.020-inch diameter only). Where successful emergency operation of this equipment
+is dependent on shearing or breaking of the safety wire, particular care should be used to ensure
+that safetying does not prevent emergency operation.
+
+   a. There are two methods of safety wiring: the double-twist method that is most
+commonly used, and the single-wire method used on screws, bolts, and/or nuts in a
+closely-spaced or closed-geometrical pattern such as a triangle, square, rectangle, or circle. The
+single-wire method may also be used on parts in electrical systems and in places that are difficult
+to reach. (See Figures 7-3 and 7-3a.)
+
+Par 7-122  Page 7-18
+
+===== PDF PAGE 374 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-3. SECURING SCREWS, NUTS, BOLTS, AND SNAPRINGS
+
+   FIGURE 7-3A. WIRE TWISTING BY HAND
+
+   b. When using double-twist method of safety wiring, .032-inch minimum diameter wire
+should be used on parts that have a hole diameter larger than .045 inch. Safety wire of .020-inch
+
+Par 7-123  Page 7-19
+
+===== PDF PAGE 375 =====
+9/8/98  AC 43.13-1B
+
+diameter (double strand) may be used on parts having a nominal hole diameter between .045 and
+.062 inch with a spacing between parts of less than 2 inches. When using the single-wire method,
+the largest size wire that the hole will accommodate should be used. Copper wire (.020-inch
+diameter), aluminum wire (.031-inch diameter), or other similar wire called for in specific
+technical orders should be used as seals on equipment such as first-aid kits, portable fire
+extinguishers, emergency valves, or oxygen regulators.
+
+   CAUTION: Care should be taken not to confuse steel with aluminum wire.
+
+   c. A secure seal indicates that the component has not been opened. Some emergency
+devices require installation of brass or soft copper shear safety wire. Particular care should be
+exercised to ensure that the use of safety wire will not prevent emergency operation of the
+devices.
+
+7-124. SAFETY-WIRING PROCEDURES. There are many combinations of safety wiring
+with certain basic rules common to all applications. These rules are as follows:
+
+   a. When bolts, screws, or other parts are closely grouped, it is more convenient to safety
+wire them in series. The number of bolts, nuts, screws, etc. that may be wired together depends
+on the application.
+
+   b. Drilled bolt heads and screws need not be safety wired if installed with self-locking
+nuts.
+
+   c. To prevent failure due to rubbing or vibration, safety wire must be tight after
+installation.
+
+   d. Safety wire must be installed in a manner that will prevent the tendency of the part to
+loosen.
+
+   e. Safety wire must never be overstressed. Safety wire will break under vibrations if
+twisted too tightly. Safety wire must be pulled taut when being twisted and maintain a light
+tension when secured. (See Figure 7-3a.)
+
+   f. Safety wire ends must be bent under and inward toward the part to avoid sharp or
+projecting ends, which might present a safety hazard.
+
+   g. Safety wire inside a duct or tube must not cross over or obstruct a flow passage when
+an alternate routing can be used.
+
+   (1) Check the units to be safety wired to make sure that they have been correctly
+torqued, and that the wiring holes are properly aligned to each other. When there are two or more
+units, it is desirable that the holes in the units be aligned to each other. Never overtorque or
+loosen to obtain proper alignment of the holes. It should be possible to align the wiring holes
+when the bolts are torqued within the specified limits. Washers may be used (see paragraph 7-37)
+to establish proper alignment. However, if it is impossible to obtain a proper alignment of the
+holes without undertorquing or overtorquing, try another bolt which will permit proper alignment
+within the specified torque limits.
+
+Par 7-123  Page 7-20
+
+===== PDF PAGE 376 =====
+9/8/98  AC 43.13-1B
+
+   (2) To prevent mutilation of the twisted section of wire, when using pliers, grasp the
+wires at the ends. Safety wire must not be nicked, kinked, or mutilated. Never twist the wire ends
+off with pliers, and, when cutting off ends, leave at least four to six complete turns (1/2- to
+5/8-inch long) after the loop. When removing safety wire, never twist the wire off with pliers.
+Cut the safety wire close to the hole, exercising caution.
+
+   h. Install safety wire where practicable with the wire positioned around the head of the
+bolt, screw, or nut, and twisted in such a manner that the loop of the wire fits closely to the
+contour of the unit being safety wired.
+
+7-125. TWISTING WITH SPECIAL TOOLS. Twist the wire with a wire twister as follows.
+(See Figure 7-4.)
+
+   CAUTION: When using wire twisters, and the wire extends 3 inches beyond
+   the jaws of the twisters, loosely wrap the wire around the pliers to prevent
+   whipping and possible personal injury. Excessive twisting of the wire will
+   weaken the wire.
+
+   a. Grip the wire in the jaws of the wire twister and slide the outer sleeve down with your
+thumb to lock the handles or lock the spring-loaded pin.
+
+   b. Pull the knob, and the spiral rod spins and twists the wire.
+
+   c. Squeeze handles together to release wire.
+
+   FIGURE 7-4. USE OF A TYPICAL WIRE TWISTER
+
+7-126. SECURING OIL CAPS, DRAIN COCKS, AND VALVES. (See Figure 7-4a.) When
+securing oil caps and drain cocks, the safety wire should be anchored to an adjacent fillister head
+screw. This method of safety wiring is applied to wingnuts, filler plugs, single-drilled head bolts,
+fillister head screws, etc., which are safety wired individually. When securing valve handles in
+the vertical position, the wire is looped around the threads of the pipe leading into one side of the
+
+Par 7-124  Page 7-21
+
+===== PDF PAGE 377 =====
+9/8/98  AC 43.13-1B
+
+valve, double-twisted around the valve handle, and anchored around the threads of the pipe
+leading into the opposite side of the valve. When castellated nuts are to be secured with safety
+wire, tighten the nut to the low side of the selected torque range, unless otherwise specified, and,
+if necessary, continue tightening until a slot lines with the hole. In blind tapped hole applications
+of bolts or castellated nuts on studs, the safety wiring should be in accordance with the general
+instructions of this chapter. Hollow-head bolts are safetied in the manner prescribed for regular
+bolts.
+
+   NOTE: Do not loosen or tighten properly tightened nuts to align safety wire
+   holes.
+
+   FIGURE 7-4A. SECURING OIL CAPS, DRAIN COCKS, AND VALVES
+
+   NOTE: Although there are numerous safety wiring techniques used to
+   secure aircraft hardware, practically all are derived from the basic examples
+   shown in Figures 7-5 through 7-5B.
+
+Par 7-126  Page 7-22
+
+===== PDF PAGE 378 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-5. SAFETY-WIRING PROCEDURES
+
+Par 7-126  Page 7-23
+
+===== PDF PAGE 379 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-5A. SAFETY-WIRING PROCEDURES
+
+Par 7-126  Page 7-24
+
+===== PDF PAGE 380 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-5B. SAFETY-WIRING PROCEDURES
+
+7-127. SECURING WITH COTTER PINS.
+
+   a. Cotter pins are used to secure such items as bolts, screws, pins, and shafts. Their use is
+favored because they can be removed and installed quickly. The diameter of the cotter pins
+
+Par 7-126  Page 7-25
+
+===== PDF PAGE 381 =====
+9/8/98  AC 43.13-1B
+
+selected for any application should be the largest size that will fit consistent with the diameter of
+the cotter pin hole and/or the slots in the nut. Cotter pins should not be reused on aircraft.
+
+   b. To prevent injury during and after pin installation, the end of the cotter pin can be
+rolled and tucked.
+
+   NOTE: In using the method of cotter pin safetying, as shown in Figures 7-6
+   and 7-7, ensure the prong, bent over the bolt, is seated firmly against the bolt
+   shank, and does not exceed bolt diameter. Also, when the prong is bent over
+   the nut, ensure the bent prong is down and firmly flat against the nut and
+   does not contact the surface of the washer.
+
+   FIGURE 7-6. SECURING WITH COTTER PINS
+
+   FIGURE 7-7. ALTERNATE METHOD FOR SECURING WITH COTTER PINS
+
+7-128.–7-139. [RESERVED.]
+
+Par 7-127  Page 7-26
+
+===== PDF PAGE 382 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 8. INSPECTION AND REPAIR OF CONTROL CABLES AND
+   TURNBUCKLES
+
+7-140. GENERAL. Aircraft control cables are generally fabricated from carbon steel or
+corrosion-resistant steel wire of either flexible or nonflexible-type construction.
+
+7-141. CABLE DEFINITIONS. The following cable components are defined in accordance
+with Military Specifications MIL-W-83420, MIL-C-18375, and MIL-W-87161.
+
+   a. Wire Center. The center of all strands shall be an individual wire and shall be
+designated as a wire center.
+
+   b. Strand Center or Core. A strand center is a single, straight strand made of preformed
+wires, similar to the other strands comprising the cable, in arrangement and number of wires.
+
+   c. Independent Wire Rope Center (IWRC) 7 by 7. A 7 by 7 independent wire rope
+center as specified herein shall consist of a cable or wire rope of six strands of seven wires each,
+twisted or laid around a strand center or core consisting of seven wires.
+
+7-142. FLEXIBLE CABLES.
+
+   a. Flexible, preformed, carbon steel, Type I, composition A cables, MIL-W-83420, are
+manufactured from steel made by the acid-open-hearth, basic-open hearth, or electric furnace
+process. The wire used is coated with pure tin or zinc.
+
+   b. Flexible, preformed, corrosion-resistant, Type I, composition B cables, MIL-W-87161,
+MIL-W-83420, and MIL-C-18375, are manufactured from steel made by the electric furnace
+process. (See Table 7-3 and Figure 7-8.)
+
+  TABLE 7-3. FLEXIBLE CABLE CONSTRUCTION AND PHYSICAL PROPERTIES
+
+   MINIMUM BREAKING
+   STRENGTH (Pounds)
+NOMINAL
+   TOLERANCE  ALLOWABLE
+DIAMETER  MIL-W-83420
+   ON  INCREASE OF MIL-W-83420  MIL-C-18375
+ OF WIRE  CONSTRUCTION  COMP B
+   DIAMETER  DIAMETER  COMP A  (CRES)
+  ROPE  (CRES)
+   (PLUS ONLY)  AT CUT END
+  CABLE
+
+ INCHES  INCHES  INCHES  LBS  LBS  LBS
+   1/32  3x7  0.006  0.006  110  110
+   3/64  7x7  0.008  0.008  270  270
+   1/16  7x7  0.010  0.009  480  480  360
+   1/16  7 x 19  0.010  0.009  480  480
+   3/32  7x7  0.012  0.010  920  920  700
+   3/32  7 x 19  0.012  0.010  1,000  920
+
+Par 7-140  Page 7-27
+
+===== PDF PAGE 383 =====
+9/8/98  AC 43.13-1B
+
+   MINIMUM BREAKING
+   STRENGTH (Pounds)
+NOMINAL
+   TOLERANCE  ALLOWABLE
+DIAMETER  MIL-W-83420
+   ON  INCREASE OF MIL-W-83420  MIL-C-18375
+ OF WIRE  CONSTRUCTION  COMP B
+   DIAMETER  DIAMETER  COMP A  (CRES)
+  ROPE  (CRES)
+   (PLUS ONLY)  AT CUT END
+  CABLE
+
+ INCHES  INCHES  INCHES  LBS  LBS  LBS
+   1/8  7 x 19  0.014  0.011  2,000  1,760  1,300
+   5/32  7 x 19  0.016  0.017  2,800  2,400  2,000
+   3/16  7 x 19  0.018  0.019  4,200  3,700  2,900
+   7/32  7 x 19  0.018  0.020  5,600  5,000  3,800
+   1/4  7 x 19  0.018  0.021  7,000  6,400  4,900
+   9/32  7 x 19  0.020  0.023  8,000  7,800  6,100
+   5/16  7 x 19  0.022  0.024  9,800  9,000  7,600
+   11/32  7 x 19  0.024  0.025  12,500
+   3/8  7 x 19  0.026  0.027  14,400  12,000  11,000
+   7/16  6 x 19 IWRC  0.030  0.030  17,600  16,300  14,900
+   1/2  6 x 19 IWRC  0.033  0.033  22,800  22,800  19,300
+   9/16  6 x 19 IWRC  0.036  0.036  28,500  28,500  24,300
+   5/8  6 x 19 IWRC  0.039  0.039  35,000  35,000  30,100
+   3/4  6 x 19 IWRC  0.045  0.045  49,600  49,600  42,900
+   7/8  6 x 19 IWRC  0.048  0.048  66,500  66,500  58,000
+   1  6 x 19 IWRC  0.050  0.050  85,400  85,400  75,200
+   1-1/8  6 x 19 IWRC  0.054  0.054  106,400  106,400
+   1-1/4  6 x 19 IWRC  0.057  0.057  129,400  129,400
+   1-3/8  6 x 19 IWRC  0.060  0.060  153,600  153,600
+   1-1/2  6 x 19 IWRC  0.062  0.062  180,500  180,500
+
+Par 7-142  Page 7-28
+
+===== PDF PAGE 384 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-8. FLEXIBLE CABLE CROSS-SECTION
+
+   c. These cables are of the 3 by 7, 7 by 7, 7 by 19, or 6 by 19 IWRC construction,
+according to the diameter as specified in Table 7-3.
+
+   (1) The 3 by 7 cable consists of three strands of seven wires each. There is no core in
+this construction. The 3 by 7 cable has a length of lay of not more than eight times or less than
+five times the nominal cable diameter.
+
+   (2) The 7 by 7 cable consists of six strands of seven wires each, laid around a center
+strand of seven wires. The wires are laid so as to develop a cable which has the greatest bending
+and wearing properties. The 7 by 7 cable has a length of lay of not more than eight times or less
+than six times the cable diameter.
+
+   (3) The 7 by 19 cable consists of six strands laid around a center strand in a clockwise
+direction. The wires composing the seven individual strands are laid around a center wire in two
+layers. The center core strand consists of a lay of six wires laid around the central wire in a
+clockwise direction and a layer of 12 wires laid around this in a clockwise direction. The six
+outer strands of the cable consist of a layer of six wires laid around the center wire in a
+counterclockwise direction and a layer of 12 wires laid around this in a counterclockwise
+direction.
+
+   (4) The 6 by 19 cable consists of six strands of 19 wires each, laid around a 7 by 7
+MIL-C-18375 cable, although not as strong as MIL-W-83420, is equal in corrosion resistance
+and superior in non-magnetic and coefficient of thermal expansion properties.
+
+7-143. NYLON-COATED CABLES.
+
+   a. Nylon-coated cable is made by extruding a flexible nylon coating over corrosion
+resistant steel (CRES) cable. The bare CRES cable must conform and be qualified to
+MIL-W-83420. After coating, the jacketed cable must still conform to MIL-W-83420.
+
+   b. The service life of nylon-coated cable is much greater than the service life of the same
+cable when used bare. Most cable wear occurs at pulleys where the cable bends. Wear is caused
+by friction between strands and between wires. In bare cable, this is aggravated by dirt and grit
+
+Par 7-142  Page 7-29
+
+===== PDF PAGE 385 =====
+9/8/98  AC 43.13-1B
+
+working its way into the cable and the lubricant working its way out leaving dry, dirty wires
+rubbing against each other. In long, straight runs of cable, vibration work hardens the wires
+causing the brittle wires to fracture with eventual failure of the cable.
+
+   c. The nylon jacket protects the cable in a threefold manner. It keeps the lubricant from
+oozing out and evaporating, it keeps dirt and grit out, and it dampens the vibrations, thereby,
+greatly reducing their effect on the cable.
+
+7-144. NONFLEXIBLE CABLES. (See Table 7-4 and Figure 7-9.) Nonflexible, preformed,
+carbon steel cables, MIL-W-87161, composition A, are manufactured by the same processes as
+MIL-W-83420, composition B, flexible corrosion-resistant steel cables. The nonflexible steel
+cables are of the 1 by 7 (Type I) or 1 by 19 (Type II) construction according to the diameter as
+specified in Table 7-4. The 1 by 7 cable consists of six wires laid around a center wire in a
+counterclockwise direction. The 1 by 19 cable consists of a layer of six wires laid around a center
+wire in a clockwise direction plus twelve wires laid around the inner strand in a
+counterclockwise direction.
+
+   TABLE 7-4. NONFLEXIBLE CABLE CONSTRUCTION AND PHYSICAL
+   PROPERTIES
+
+   MIL-W-87161
+   NOMINAL TOLERANCE ALLOWABLE
+   MINIMUM
+   DIAMETER  ON  INCREASE IN
+  STRAND  BREAK
+   OF WIRE DIAMETER DIAMETER CONSTRUCTION
+   TYPE  STRENGTH
+   STRAND  (Plus Only)  AT THE END
+   COMP A & B
+   Inches  Inches  Inches
+   Pounds
+   I  1/32  0.003  0.006  1x7  185
+   I  3/64  0.005  0.008  1x7  375
+   II  3/64  0.005  0.008  1 x 19  375
+   I  1/16  0.006  0.009  1x7  500
+   II  1/16  0.006  0.009  1 x 19  500
+   II  5/64  0.008  0.009  1 x 19  800
+   II  3/32  0.009  0.010  1 x 19  1,200
+   II  7/64  0.009  0.010  1 x 19  1,600
+   II  1/8  0.013  0.011  1 x 19  2,100
+   II  5/32  0.013  0.016  1 x 19  3,300
+   II  3/16  0.013  0.019  1 x 19  4,700
+   II  7/32  0.015  0.020  1 x 19  6,300
+   II  1/4  0.018  0.021  1 x 19  8,200
+   II  5/16  0.022  0.024  1 x 19  12,500
+   II  3/8  0.026  0.027  1 x 19  17,500
+
+Par 7-144  Page 7-30
+
+===== PDF PAGE 386 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-9. NONFLEXIBLE CABLE CROSS-SECTION
+
+7-145. CABLE SPECIFICATIONS. Cable diameter and strength data are given in Table 7-3
+and Table 7-4. These values are acceptable for repair and modification of civil aircraft.
+
+7-146. CABLE PROOF LOADS. Cable terminals and splices should be tested for proper
+strength before installation. Gradually apply a test load equal to 60 percent of the cable breaking
+strengths given in Table 7-3 and Table 7-4, for a period of 3 minutes. Place a suitable guard over
+the cable during the test to prevent injury to personnel in the event of cable failure.
+
+7-147. REPLACEMENT OF CABLES. Replace control cables when they become worn,
+distorted, corroded, or otherwise damaged. If spare cables are not available, prepare exact
+duplicates of the damaged cable. Use materials of the same size and quality as the original.
+Standard swaged cable terminals develop the full cable strength and may be substituted for the
+original terminals wherever practical. However, if facilities and supplies are limited and
+immediate corrective action is necessary, repairs may be made by using cable bushings, eye
+splices, and the proper combination of turnbuckles in place of the original installation. (See
+Figure 7-12, image (c).)
+
+   a. Location of Splices. Locate splices so that no portion of the splice comes closer than
+2 inches to any fair-lead or pulley. Locate connections at points where jamming cannot occur
+during any portion of the travel of either the loaded cable or the slack cable in the deflected
+position.
+
+   b. Cutting and Heating. Cut cables to length by mechanical means. The use of a torch, in
+any manner, is not permitted. Do not subject wires and cables to excessive temperature.
+Soldering the bonding braid to the control cable is not permitted.
+
+   c. Ball-and-Socket Type Terminals. Do not use ball-and-socket type terminals or other
+types for general replacement that do not positively prevent cable untwisting, except where they
+were utilized on the original installation by the aircraft manufacturer.
+
+   d. Substitution of Cable. Substitution of cable for hard or streamlined wires will not be
+acceptable unless specifically approved by a representative of the FAA.
+
+Par 7-144  Page 7-31
+
+===== PDF PAGE 387 =====
+9/8/98  AC 43.13-1B
+
+7-148. MECHANICALLY-FABRICATED CABLE ASSEMBLIES.
+
+   a. Swage-Type Terminals. Swage-type terminals, manufactured in accordance with AN,
+are suitable for use in civil aircraft up to, and including, maximum cable loads. When swaging
+tools are used, it is important that all the manufacturers’ instructions, including “go and no-go”
+dimensions, be followed in detail to avoid defective and inferior swaging. Observance of all
+instructions should result in a terminal developing the full-rated strength of the cable. Critical
+dimensions, both before and after swaging, are shown in Table 7-5.
+
+ TABLE 7-5. STRAIGHT-SHANK TERMINAL DIMENSIONS (CROSS REFERENCE
+AN TO MS: AN-666 TO MS 21259, AN-667 TO MS 20667, AN-668 TO MS 20668, AN-669
+   TO MS 21260)
+
+   Before swaging  After swaging
+   Minimum
+ Cable size  Wire  Outside  Bore  Bore  Swaging  breaking  Shank
+  (inches)  strands  diameter  diameter  length  length  strength  diameter*
+   (pounds)
+   1/16  7x7  0.160  0.078  1.042  0.969  480  0.138
+   3/32  7x7  .218  .109  1.261  1.188  920  .190
+   1/8  7 x 19  .250  .141  1.511  1.438  2,000  .219
+   5/32  7 x 19  .297  .172  1.761  1.688  2,800  .250
+   3/16  7 x 19  .359  .203  2.011  1.938  4,200  .313
+   7/32  7 x 19  .427  .234  2.261  2.188  5,600  .375
+   1/4  7 x 19  .494  .265  2.511  2.438  7,000  .438
+   9/32  7 x 19  .563  .297  2.761  2.688  8,000  .500
+   5/16  7 x 19  .635  .328  3.011  2.938  9,800  .563
+   3/8  7 x 19  .703  .390  3.510  3.438  14,400  .625
+*Use gauges in kit for checking diameters.
+
+   (1) Terminals. When swaging terminals onto cable ends, observe the following
+procedures.
+
+   (a) Cut the cable to the proper length allowing for growth during swaging. Apply a
+preservative compound to the cable ends before insertion into the terminal barrel.
+
+   NOTE: Never solder cable ends to prevent fraying since the presence of the
+   solder will greatly increase the tendency of the cable to pull out of the
+   terminal.
+
+   (b) Insert the cable into the terminal approximately 1 inch, and bend toward the
+terminal, then push the cable end entirely into the terminal barrel. The bending action puts a kink
+or bend in the cable end and provides enough friction to hold the terminal in place until the
+
+Par 7-148  Page 7-32
+

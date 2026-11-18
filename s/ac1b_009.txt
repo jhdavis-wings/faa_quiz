@@ -1,0 +1,1144 @@
+AC 43.13-1B Chg 1, chapter 4 (Metal Structure, Welding, And Brazing), PDF pages 152-184
+
+===== PDF PAGE 152 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   CHAPTER 4. METAL STRUCTURE, WELDING, AND BRAZING
+
+   SECTION 1. IDENTIFICATION OF METALS
+
+4-1. GENERAL. Proper identification of the aircraft structural material is the first step in
+ensuring that the continuing airworthiness of the aircraft will not be degraded by making an
+improper repair using the wrong materials.
+
+   a. Ferrous (iron) alloy materials are generally classified according to carbon content.
+(See Table 4-1.)
+
+   TABLE 4-1. FERROUS (IRON) ALLOY MATERIALS
+
+   MATERIALS  CARBON CONTENT
+   Wrought iron  Trace to 0.08%
+   Low carbon steel  0.08% to 0.30%
+   Medium carbon steel  0.30% to 0.60%
+   High carbon steel  0.60% to 2.2%
+   Cast iron  2.3% to 4.5%
+
+   b. The strength and ductility, or toughness of steel, is controlled by the kind and quantity
+of alloys used and also by cold-working or heat-treating processes used in manufacturing. In
+general, any process that increases the strength of a material will also decrease its ductility.
+
+   c. Normalizing is heating steel to approximately 150 °F to 225 °F above the steel’s
+critical temperature range, followed by cooling to below that range in still air at ordinary
+temperature. Normalizing may be classified as a form of annealing. This process also removes
+stresses due to machining, forging, bending, and welding. After the metal has been held at this
+temperature for a sufficient time to be heated uniformly throughout, remove the metal from the
+furnace and cool in still air. Avoid prolonging the soaking of the metal at high temperatures, as
+this practice will cause the grain structure to enlarge. The length of time required for the soaking
+temperature depends on the mass of the metal being treated. The soaking time is roughly
+1/4 hour per inch of the diameter of thickness (refer to Military Technical Order (TO) 1-1A-9).
+
+4-2. IDENTIFICATION OF STEEL STOCK. The Society of Automotive Engineers (SAE)
+and the American Iron and Steel Institute (AISI) use a numerical index system to identify the
+composition of various steels. The numbers assigned in the combined listing of standard steels
+issued by these groups represent the type of steel and make it possible to readily identify the
+principal elements in the material.
+
+   a. The basic numbers for the four digit series of the carbon and alloy steel may be
+found in Table 4-2. The first digit of the four number designation indicates the type to which the
+steel belongs. Thus, “1” indicates a carbon steel, “2” a nickel steel, “3” a nickel chromium
+steel, etc. In the case of simple alloy steels, the second digit indicates the approximate percentage
+of the predominant alloying element. The last two digits usually indicate the mean of the range
+
+Par 4-1  Page 4-1
+
+===== PDF PAGE 153 =====
+9/27/01  AC 43.13-1B CHG 1
+
+of carbon content. Thus, the designation “1020” indicates a plain carbon steel lacking a principal
+alloying element and containing an average of 0.20 percent (0.18 to 0.23) carbon. The
+designation “2330” indicates a nickel steel of approximately 3 percent (3.25 to 3.75) nickel and
+an average of 0.30 percent (0.28 to 0.33) carbon content. The designation “4130” indicates a
+chromium molybdenum steel of approximately 1 percent (0.80 to 1.10) chromium, 0.20 percent
+(0.15 to 0.25) molybdenum, and 0.30 percent (0.28 to 0.33) carbon.
+
+   TABLE 4-2. NUMERICAL SYSTEM FOR STEEL IDENTIFICATION
+
+   TYPES OF STEELS  NUMERALS AND
+   DIGITS
+Plain carbon steel  10XX
+Carbon steel with additional sulfur for easy machining  11XX
+Carbon steel with about 1.75% manganese  13XX
+.25% molybdenum  40XX
+1% chromium, .25% molybdenum  41XX
+2% nickel, 1% chromium, .25% molybdenum  43XX
+1.7% nickel, .2% molybdenum  46XX
+3.5% nickel, .25% molybdenum  48XX
+1% chromium steels  51XX
+1% chromium, 1.00% carbon  51XXX
+1.5% chromium steels  52XX
+1.5% chromium, 1.00% carbon  52XXX
+1% chromium steel with .15% vanadium  61XX
+.5% chromium, .5% nickel, .20% molybdenum  86XX
+.5% chromium, .5% nickel, .25% molybdenum  87XX
+2% silicon steels, .85% manganese  92XX
+3.25% nickel, 1.20% chromium, .12% molybdenum  93XX
+
+   b. There are numerous steels with higher percentages of alloying elements that do not fit
+into this numbering system. These include a large group of stainless and heat resisting alloys in
+which chromium is an essential alloying element. Some of these alloys are identified by three
+digit AISI numbers and many others by designations assigned by the steel company that
+produces them. The few examples in Table 4-3 will serve to illustrate the kinds of designations
+used and the general alloy content of these steels.
+
+Par 4-2  Page 4-2
+
+===== PDF PAGE 154 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 4-3. EXAMPLES OF STAINLESS AND HEAT-RESISTANT STEELS
+   NOMINAL COMPOSITION (PERCENT)
+
+   ALLOY  GENERAL
+   CARBON  CHROMIUM  NICKEL  OTHER
+DESIGNATION  CLASS OF STEEL
+   302  0.15  18  9  Austenitic
+   310  0.25  25  20  Austenitic
+   321  0.08  18  11  Titanium  Austenitic
+   Columbium or
+   347  0.08  18  11  Austenitic
+   Tantalum
+   Martensitic,
+   410  0.15  12.5
+   Magnetic
+   430  0.12  17  Ferritic, Magnetic
+   446  0.20  25  Nitrogen  Ferritic, Magnetic
+   Molybdenum,  Precipitation
+   PH15-7 Mo  0.09  15  7
+   Aluminum  Hardening
+   Copper,
+   Precipitation
+   17-4 PH  0.07  16.5  4  Columbium, or
+   Hardening
+   Tantalum
+
+   c. “1025” welded tubing as per SAE Specification AMST5066B and “1025” seamless
+tubing are interchangeable.
+
+4-3. INTERCHANGEABILITY OF STEEL TUBING.
+
+   a. “4130” welded tubing conforming to SAE Specification AMST6736B and “4130”
+seamless tubing are interchangeable.
+
+   b. NE-8630 welded tubing conforming to SAE Specification AMST6736B and NE-8630
+seamless tubing are interchangeable.
+
+4-4. IDENTIFICATION OF ALUMINUM.
+
+   a. To provide a visual means for identifying the various grades of aluminum and
+aluminum alloys, such metals are usually marked with symbols such as a government
+specification number, the temper or condition furnished, or the commercial code marking.
+
+   b. Plate and sheet are usually marked with specification numbers or code markings in rows
+approximately 5 inches apart. Tubes, bars, rods, and extruded shapes are marked with
+specification numbers or code markings at intervals of 3 to 5 feet along the length of each piece.
+The commercial code marking consists of a number which identifies the particular composition
+of the alloy. In addition, letter suffixes (see Table 4-4) designate the basic temper designations
+and subdivisions of aluminum alloys.
+
+Par 4-2  Page 4-3
+
+===== PDF PAGE 155 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 4-4. BASIC TEMPER DESIGNATIONS AND SUBDIVISIONS FROM
+   ALUMINUM ALLOYS
+
+   NON HEAT-TREATABLE ALLOYS  HEAT-TREATABLE ALLOYS
+
+ Temper  Temper
+   Definition  Definition
+Designation  Designation
+   -0  Annealed recrystallized (wrought  -0  Annealed recrystallized (wrought
+   products only) applies to softest  products only) applies to softest
+   temper of wrought products.  temper of wrought products.
+   -H1  Strain-hardened only. Applies to  -T1  Cooled from an elevated
+   products which are strain-hardened  temperature shaping process (such
+   to obtain the desired strength  as extrusion or casting) and
+   without supplementary thermal  naturally aged to a substantially
+   treatment.  stable condition.
+   -H12  Strain-hardened one-quarter-hard  -T2  Annealed (castings only).
+   temper.
+
+   -H14  Strain-hardened half-hard temper.  -T3  Solution heat-treated and
+   cold-worked by the flattening or
+   straightening operation.
+   -H16  Strain-hardened three-quarters-hard  -T36  Solution heat-treated and
+   temper.  cold-worked by reduction of
+   6 percent.
+   -H18  Strain-hardened full-hard temper.  -T4  Solution heat-treated.
+
+   -H2  Strain-hardened and then partially  -T42  Solution heat-treated by the user
+   annealed. Applies to products which  regardless of prior temper
+   are strain-hardened more than the  (applicable only to 2014 and 2024
+   desired final amount and then  alloys).
+   reduced in strength to the desired
+   level by partial annealing.
+   -H22  Strain-hardened and partially  -T5  Artificially aged only (castings
+   annealed to one-quarter-hard  only).
+   temper.
+   -H24  Strain-hardened and partially  -T6  Solution heat-treated and artificially
+   annealed to half-hard temper.  aged.
+
+   -H26  Strain-hardened and partially  -T62  Solution heat-treated and aged by
+   annealed to three-quarters-hard  user regardless of prior temper
+   temper.  (applicable only to 2014 and 2024
+   alloys).
+   -H28  Strain-hardened and partially  -T351  Solution heat-treated and stress
+   annealed to full-hard temper.  -T451  relieved by stretching to produce a
+   -T3510  permanent set of 1 to 3 percent,
+   -T3511  depending on the product.
+   -T4510
+   -T4511
+
+Par 4-4  Page 4-4
+
+===== PDF PAGE 156 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   NON HEAT-TREATABLE ALLOYS  HEAT-TREATABLE ALLOYS
+
+ Temper  Temper
+   Definition  Definition
+Designation  Designation
+   Strain-hardened and then stabilized.  -T651
+   Applies to products which are  -T851  Solution heat-treated, stress relieved
+   strain-hardened and then stabilized  -T6510  by stretching to produce a
+   -H3
+   by a low temperature heating to  -T8510  permanent set of 1 to 3 percent, and
+   slightly lower their strength and  -T6511  artificially aged.
+   increase ductility.  -T8511
+   Solution heat-treated, compressed to
+   Strain-hardened and then stabilized.
+   -H32  -T652  produce a permanent set, and then
+   Final temper is one-quarter hard.
+   artificially aged.
+   Strain-hardened and then stabilized.  Solution heat-treated, cold-worked,
+   -H34  -T8
+   Final temper is one-half hard.  and then artificially aged.
+   Solution heat-treated, cold-worked
+   Strain-hardened and then stabilized.
+   -H36  -T/4  by the flattening or straightening
+   Final temper is three-quarters hard.
+   operation, and then artificially aged.
+   Solution heat-treated, cold-worked
+   Strain-hardened and then stabilized.
+   -H38  -T86  by reduction of 6 percent, and then
+   Final temper is full-hard.
+   artificially aged.
+   As fabricated; with specified  Solution heat-treated, artificially
+   -H112  -T9
+   mechanical property limits.  aged and then cold-worked.
+   Cooled from an elevated
+   For wrought alloys; as fabricated.
+   temperature shaping process
+   -F  No mechanical properties limits.  -T10
+   artificially aged and then
+   For cast alloys; as cast.
+   cold-worked.
+   For wrought alloys; as fabricated.
+   -F  No mechanical properties limits.
+   For cast alloys; as cast.
+
+4-5.–4-15. [RESERVED.]
+
+Par 4-4  Page 4-5
+
+===== PDF PAGE 157 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 2. TESTING OF METALS
+
+4-16. HARDNESS TESTING. If the material type is known, a hardness test is a simple way to
+verify that the part has been properly heat-treated. Hardness testers such as Rockwell, Brinell,
+and Vickers can be useful to check metals for loss of strength due to exposure to fire or abusive
+heating. Also, understrength bolts can be found and removed from the replacement part
+inventory by checking the hardness of the bolt across the hex flats. Although hardness tests are
+generally considered nondestructive, hardness testing does leave a small pit in the surface;
+therefore, hardness tests should not be used on sealing surfaces, fatigue critical parts, load
+bearing areas, etc., that will be returned to service. These hardness tests provide a convenient
+means for determining, within reasonable limits, the tensile strength of steel. It has several
+limitations in that it is not suitable for very soft or very hard steels. Hardness testing of aluminum
+alloys should be limited to distinguishing between annealed and heat-treated material of the same
+aluminum alloy. In hardness testing, the thickness and the edge distance of the specimen being
+tested are two factors that must be considered to avoid distortion of the metal. Several readings
+should be taken and the results averaged. In general, the higher the tensile strength, the greater its
+hardness. Common methods of hardness testing are outlined in the following paragraphs. These
+tests are suitable for determining the tensile properties resulting from the heat treatment of steel.
+Care should be taken to have case-hardened, corroded, pitted, decarburized, or otherwise
+nonuniform surfaces removed to a sufficient depth. Exercise caution not to cold-work, and
+consequently harden, the steel during removal of the surface.
+
+4-17. ROCKWELL HARDNESS TEST. The Rockwell hardness test is the most common
+method for determining hardness of ferrous and many nonferrous metals. (See Table 4-5.) It
+differs from Brinell hardness testing in that the hardness is determined by the depth of
+indentation made by a constant load impressing on an indenter. In this test, a standard minor load
+is applied to set a hardened steel ball or a diamond cone in the surface of the metal, followed by
+the application of a standard major load. The hardness is measured by depth of penetration.
+Rockwell superficial hardness tests are made using light minor and major loads and a more
+sensitive system for measuring depth of indentation. It is useful for thin sections, very small
+parts, etc. Calibration of Rockwell hardness testers is done in accordance with ASTM
+International (ASTM) E-18 specifications.
+
+Par 4-16  Page 4-6
+
+===== PDF PAGE 158 =====
+9/8/98  AC 43.13-1B
+
+  TABLE 4-5. HARDNESS VALUES FOR ALUMINUM ALLOYS (refer to AMS2772H)
+
+   Brinell Number
+   Material Commercial
+   Hardness Temper  500 kg. Load
+   Designation
+   10 mm. Ball
+   1100  0  23
+   H18  44
+   3003  0  28
+   H16  47
+   2014  0  45
+   T6  135
+   2017  0  45
+   T6  105
+   2024  0  47
+   T4  120
+   2025  T6  110
+   6151  T6  100
+   5052  0  47
+   H36  73
+   6061  0  30
+   T4  65
+   T6  95
+   7075  T6  135
+   7079  T6  135
+   195  T6  75
+   220  T4  75
+   C355  T6  80
+   A356  T6  70
+
+4-18. BRINELL HARDNESS TEST. In this test, a standard constant load (usually 500 kg to
+3,000 kg) is applied to a smooth flat metal surface by a hardened steel-ball type indenter 10 mm
+in diameter. The 500-kg load is usually used for testing nonferrous metals such as copper and
+aluminum alloys, whereas the 3,000-kg load is most often used for testing harder metals such as
+steels and cast irons. The numerical value of Brinell Hardness (HB) is equal to the load divided
+by the surface area of the resulting spherical impression.
+
+   Where:
+   P=load in kg
+   D=diameter of the ball in mm
+   d=diameter of the indentation in mm
+
+Par 4-17  Page 4-7
+
+===== PDF PAGE 159 =====
+9/8/98  AC 43.13-1B
+
+   a. General Precautions. To avoid misapplication of Brinell hardness testing, the
+fundamentals and limitations of the test procedure must be clearly understood. To avoid
+inaccuracies, the following rules should be followed:
+
+   (1) Do not make indentations on a curved surface having a radius of less than 1 inch.
+
+   (2) Do make the indentations with the correct spacing. Indentations should not be made
+too close to the edge of the work piece being tested.
+
+   (3) Apply the load steadily to avoid overloading caused by inertia of the weights.
+
+   (4) Apply the load so the direction of loading and the test surface are perpendicular to
+each other within 2 degrees.
+
+   (5) The thickness of the work piece being tested should be such that no bulge or mark
+showing the effect of the load appears on the side of the work piece opposite the indentation.
+
+   (6) The indentation diameter should be clearly outlined.
+
+   b. Limitations. The Brinell hardness test has three principal limitations:
+
+   (1) The work piece must be capable of accommodating the relatively large indentations.
+
+   (2) Due to the relatively large indentations, the work piece should not be used after
+testing.
+
+   (3) The limit of hardness, 15 HB with the 500-kg load to 627 HB with the 3,000-kg
+load, is generally considered the practical range.
+
+   c. Calibration. A Brinell hardness tester should be calibrated to meet ASTM standard
+E10 specifications.
+
+4-19. VICKERS HARDNESS TEST. In this test, a small pyramidal diamond is pressed into
+the metal being tested. The Vickers Hardness number (HV) is the ratio of the load applied to the
+surface area of the indention. This is done with the following formula:
+
+   a. The indenter is made of diamond, and is in the form of a square-based pyramid having
+an angle of 136 degrees between faces. The facets are highly polished, free from surface
+imperfections, and the point is sharp. The loads applied vary from 1 to 120 kg; the standard loads
+are 5, 10, 20, 30, 50, 100, and 120 kg. For most hardness testing, 50 kg is maximum.
+
+   b. A Vickers hardness tester should be calibrated to meet ASTM Standard E10
+specifications, acceptable for use over a loading range.
+
+Par 4-18  Page 4-8
+
+===== PDF PAGE 160 =====
+9/8/98  AC 43.13-1B
+
+4-20. MICROHARDNESS TESTING. This is an indentation hardness test made with loads
+not exceeding 1 kg (1,000 g). Such hardness tests have been made with a load as light as 1 g,
+although the majority of microhardness tests are made with loads of 100 g to 500 g. In general,
+the term is related to the size of the indentation rather than to the load applied.
+
+   a. Fields of Application. Microhardness testing is capable of providing information
+regarding the hardness characteristics of materials which cannot be obtained by hardness tests
+such as the Brinell or Rockwell, and are as follows:
+
+   (1) Measuring the hardness of precision work pieces that are too small to be measured
+by the more common hardness testing methods.
+
+   (2) Measuring the hardness of product forms such as foil or wire that are too thin or too
+small in diameter to be measured by the more conventional methods.
+
+   (3) Monitoring of carburizing or nitriding operations, which is sometimes accomplished
+by hardness surveys taken on cross-sections of test pieces that accompanied the work pieces
+through production operations.
+
+   (4) Measuring the hardness of individual microconstituents.
+
+   (5) Measuring the hardness close to edges, thus detecting undesirable surface conditions
+such as grinding burn and decarburization.
+
+   (6) Measuring the hardness of surface layers such as plating or bonded layers.
+
+   b. Indenters. Microhardness testing can be performed with either the Knoop or the
+Vickers indenter. The Knoop indenter is used mostly in the United States; the Vickers indenter is
+more widely used in Europe.
+
+   (1) Knoop indentation testing is performed with a diamond, ground to pyramidal form,
+that produces a diamond-shaped indentation with an approximate ratio between long and short
+diagonals of 7 to 1. The indentation depth is about one-thirtieth of its length. Due to the shape of
+the indenter, indentations of accurately measurable length are obtained with light loads.
+
+   (2) The Knoop Hardness number (HK) is the ratio of the load applied to the indenter to
+the unrecovered projected area of indentation. The formula for this follows:
+
+   Where:
+   P=the applied load in kg
+   A=the unrecovered projected area in square mm
+   l=the measured length of the long diagonal in mm
+   C=0.07028 (a constant of the indenter, relating projected area of
+   the indentation to the square of the length of the long diagonal)
+
+Par 4-20  Page 4-9
+
+===== PDF PAGE 161 =====
+9/8/98  AC 43.13-1B
+
+4-21. INDENTATIONS. The Vickers indenter penetrates about twice as far into the work
+piece as does the Knoop indenter. The diagonal of the Vickers indentation is about one-third of
+the total length of the Knoop indentation. The Vickers indenter is less sensitive to minute
+differences in surface conditions than is the Knoop indenter. However, the Vickers indentation,
+because of the shorter diagonal, is more sensitive to errors in measuring than is the Knoop
+indentation. (See Figure 4-1.)
+
+ FIGURE 4-1. COMPARISON OF INDENTATION MADE BY KNOOP AND VICKERS
+   INDENTERS IN THE SAME WORK METAL AND AT THE SAME LOADS
+
+4-22. MAGNETIC TESTING. Magnetic testing consists of determining whether the
+specimen is attracted by a magnet. Usually, a metal attracted by a magnet is iron, steel, or an
+iron-base alloy containing nickel, cobalt, or chromium. However, there are exceptions to this rule
+since some nickel and cobalt alloys may be either magnetic or nonmagnetic. Never use this test
+as a final basis for identification. The strongly attracted metals could be pure iron, pure nickel,
+cobalt, or iron-nickel-cobalt alloys. The lightly attracted metals could be cold-worked stainless
+steel or Monel. The nonmagnetic metals could be aluminum, magnesium, silver, or copper-base
+alloy, or an annealed 300-type stainless steel.
+
+4-23. ALUMINUM TESTING. Hardness tests are useful for testing aluminum alloy chiefly as
+a means of distinguishing between annealed, cold-worked, heat-treated, and heat-treated and
+aged material. It is of little value in indicating the strength or quality of heat-treatment. Typical
+hardness values for aluminum alloys are shown in Table 4-5.
+
+   a. Clad aluminum alloys have surface layers of pure aluminum or corrosion-resistant
+aluminum alloy bonded to the core material to inhibit corrosion. Presence of such a coating may
+be determined under a magnifying glass by examination of the edge surface which will show
+three distinct layers. In aluminum alloys, the properties of any specific alloy can be altered by
+work hardening (often called strain hardening), heat treatment, or by a combination of these
+processes.
+
+Par 4-21  Page 4-10
+
+===== PDF PAGE 162 =====
+9/8/98  AC 43.13-1B
+
+   b. Test for distinguishing heat-treatable and nonheat-treatable aluminum alloys. If
+for any reason the identification mark of the alloy is not on the material, it is possible to
+distinguish between some heat-treatable alloys and some nonheat-treatable alloys by immersing
+a sample of the material in a 10 percent solution of caustic soda (sodium hydroxide). Those
+heat-treated alloys containing several percent of copper (2014, 2017, and 2024) will turn black
+due to the copper content. High-copper alloys when clad will not turn black on the surface, but
+the edges will turn black at the center of the sheet where the core is exposed. If the alloy does not
+turn black in the caustic soda solution it is not evidence that the alloy is nonheat-treatable, as
+various high-strength heat-treatable alloys are not based primarily on the use of copper as an
+alloying agent. These include, among others, 6053, 6061, and 7075 alloys. The composition and
+heat-treating ability of alloys which do not turn black in a caustic soda solution can be
+established only by chemical or spectro-analysis.
+
+4-24.–4-35. [RESERVED.]
+
+Par 4-23  Page 4-11
+
+===== PDF PAGE 163 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 3. PRECAUTIONARY MEASURES
+
+4-36. FLUTTER AND VIBRATION PRECAUTIONS. To prevent the occurrence of severe
+vibration or flutter of flight control surfaces during flight, precautions must be taken to stay
+within the design balance limitations when performing maintenance or repair.
+
+   a. Balance Changes. The importance of retaining the proper balance and rigidity of
+aircraft control surfaces cannot be overemphasized. The effect of repair or weight change on the
+balance and center of gravity is proportionately greater on lighter surfaces than on the older
+heavier designs. As a general rule, repair the control surface in such a manner that the weight
+distribution is not affected in any way, in order to preclude the occurrence of flutter of the
+control surface in flight. Under certain conditions, counter-balance weight is added forward of
+the hinge line to maintain balance. Add or remove balance weights only when necessary in
+accordance with the manufacturer’s instructions. Flight testing must be accomplished to ensure
+flutter is not a problem. Failure to check and retain control surface balance within the original or
+maximum allowable value could result in a serious flight hazard.
+
+   b. Painting and Refinishing. Special emphasis is directed to the effect of too many extra
+coats of paint on balanced control surfaces. Mechanics must avoid adding additional coats of
+paint in excess of what the manufacturer originally applied. If available, consult the aircraft
+manufacturer’s instructions relative to finishing and balance of control surfaces.
+
+   c. Trapped Water or Ice. Instances of flutter have occurred from unbalanced conditions
+caused by the collection of water or ice within the surface. Therefore, ventilation and drainage
+provisions must be checked and retained when maintenance is being done.
+
+   d. Trim Tab Maintenance. Loose or vibrating trim tabs will increase wear of actuating
+mechanisms and hinge points which may develop into serious flutter conditions. When this
+happens, primary control surfaces are highly susceptible to wear, deformation, and fatigue
+failures because of the buffeting nature of the airflow over the tab mechanism. Trailing-edge
+play of the tab may increase, creating an unsafe flutter condition. Careful inspection of the tab
+and its mechanism should be conducted during overhaul and annual inspection periods.
+Compared to other flight control systems on the aircraft, only a minor amount of tab-mechanism
+wear can be tolerated.
+
+   (1) Free play and stiffness may best be measured by a simple static test where “upward”
+and “downward” (or “leftward” and “rightward”) point forces are applied near the trailing edge
+of the tab at the span-wise attachment of the actuator (so as not to twist the tab). The control
+surface to which the trim tab is attached should be locked in place. Rotational deflection readings
+are then taken near the tab trailing edge using an appropriate measuring device, such as a dial
+gauge. Several deflection readings should be taken using loads first applied in one direction, then
+in the opposite. If the tab span does not exceed 35 percent of the span of the supporting control
+surface, the total free play at the tab trailing edge should not exceed 2 percent of the tab chord. If
+the tab span equals or exceeds 35 percent of the span of the supporting control surface, the total
+free play at the tab trailing edge should not exceed 1 percent of the distance from the tab hinge
+line to the trailing edge of the tab perpendicular to the tab hinge line. For example, a tab that has
+a chord of 4 inches and less than or equal to 35 percent of the control surface span would have a
+
+Par 4-36  Page 4-12
+
+===== PDF PAGE 164 =====
+9/8/98  AC 43.13-1B
+
+maximum permissible free play of 4 inches x 0.020 or 0.080 inches (total motion up and down)
+measured at the trailing edge. Correct any free play in excess of this amount.
+
+   (2) Care must also be exercised during repair or rework to prevent stress concentration
+points or areas that could increase the fatigue susceptibility of the trim tab system. Advisory
+Circular (AC) 23.629-1, Means of Compliance with Title 14 CFR, Part 23, § 23.629, Flutter,
+contains additional information on this subject.
+   NOTE: If the pilot has experienced flutter, or thinks they have, then a
+   complete inspection of the aircraft flight control system and all related
+   components, including rod ends, bearings, hinges, and bellcranks, must be
+   accomplished. Suspected parts should be replaced.
+4-37. LOAD FACTORS FOR REPAIRS. In order to design an effective repair to a sheet
+metal aircraft, the stresses that act on the structure must be understood.
+   a. Six types of major stresses are known and should be considered when making repairs.
+These are tension, compression, bending, torsion, shear, and bearing.
+   b. The design of an aircraft repair is complicated by the requirement that it be as light as
+possible. If weight were not critical, repairs could be made with a large margin of safety. But in
+actual practice, repairs must be strong enough to carry all of the loads with the required factor of
+safety, but they must not have too much extra strength. A joint that is too weak cannot be
+tolerated, but neither can one that is too strong because it can create stress risers that may cause
+cracks in other locations.
+4-38. TRANSFER OF STRESSES WITHIN A STRUCTURE. An aircraft structure must be
+designed in such a way that it will accept all of the stresses imposed upon it by the flight and
+ground loads without any permanent deformation. Any repair made must accept the stresses,
+carry them across the repair, and then transfer them back into the original structure. These
+stresses are considered as flowing through the structure, so there must be a continuous path for
+them, with no abrupt changes in cross-sectional areas along the way. Abrupt changes in
+cross-sectional areas of aircraft structure that are subject to cycle loading/stresses will result in
+stress concentration that may induce fatigue cracking and eventual failure. A scratch or gouge in
+the surface of a highly stressed piece of metal will cause a stress concentration at the point of
+damage.
+   a. Multirow Fastener Load Transfer. When multiple rows of rivets are used to secure a
+lap joint, the transfer of stresses is not equal in each row. The transfer of stress at each row of
+rivets may be thought of as transferring the maximum amount capable of being transferred
+without experiencing rivet shear failure.
+   b. Use Of Stacked Doublers. A stacked doubler is composed of two or more sheets of
+material that are used in lieu of a single, thicker sheet of material. Because the stress transferred
+at each row of rivets is dependent upon the maximum stress that can be transferred by the rivets
+in that row, the thickness of the sheet material at that row need only be thick enough to transfer
+the stress applied. Employing this principle can reduce the weight of a repair joint.
+4-39.–4-49. [RESERVED.]
+
+Par 4-36  Page 4-13
+
+===== PDF PAGE 165 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 4. METAL REPAIR PROCEDURES
+
+4-50. GENERAL. The airframe of a fixed-wing aircraft is generally considered to consist of
+five principal units: the fuselage, wings, stabilizers, flight control surfaces, and landing gear.
+
+   a. Aircraft Principal Structural Elements (PSE) and joints are designed to carry loads
+by distributing them as stresses. The elements and joints as originally fabricated are strong
+enough to resist these stresses, and must remain so after any repairs. Long, thin elements are
+called members. Some examples of members are the metal tubes that form engine mount and
+fuselage trusses and frames, beams used as wing spars, and longerons and stringers of
+metal-skinned fuselages and wings. Longerons and stringers are designed to carry principally
+axial loads, but are sometimes required to carry side loads and bending moments, as when they
+frame cutouts in metal-skinned structures. Truss members are designed to carry axial (tension
+and compression) loads applied to their ends only. Frame members are designed to carry side
+loads and bending moments in addition to axial loads. Beam members are designed to carry side
+loads and bending moments that are usually large compared to their axial loads. Beams that must
+resist large axial loads, particularly compression loads, in combination with side loads and
+bending moments are called beam-columns. Other structural elements such as metal skins,
+plates, shells, wing ribs, bulkheads, ring frames, intercostal members, gussets, other
+reinforcements, and fittings are designed to resist complex stresses, sometimes in three
+dimensions.
+
+   b. Any repair made on an aircraft structure must allow all of the stresses to enter, sustain
+these stresses, and then allow them to return into the structure. The repair must be equal to the
+original structure, but not stronger or stiffer, which will cause stress concentrations or alter the
+resonant frequency of the structure.
+
+   c. All-metal aircraft are made of very thin sheet metal, and it is possible to restore the
+strength of the skin without restoring its rigidity. All repairs should be made using the same type
+and thickness of material that was used in the original structure. If the original skin had
+corrugations or flanges for rigidity, these must be preserved and strengthened. If a flange or
+corrugation is dented or cracked, the material loses much of its rigidity; and it must be repaired
+in such a way that will restore its rigidity, stiffness, and strength.
+
+4-51. RIVETED (OR BOLTED) STEEL TRUSS-TYPE STRUCTURES. Repairs to riveted
+structures may be made employing the general principles outlined in the following paragraphs on
+aluminum alloy structures. Repair methods may also be found in textbooks on metal structures.
+Methods for repair of the major structural members must be specifically approved by the Federal
+Aviation Administration (FAA).
+
+4-52. ALUMINUM ALLOY STRUCTURES. Extensive repairs to damaged stressed skin on
+monocoque-types of aluminum alloy structures must be made in accordance with FAA-approved
+manufacturer’s instructions or another FAA-approved source.
+
+   a. Rivet Holes. Rivet holes are slightly larger than the diameter of the rivet. When driven,
+solid rivets expand to fill the hole. The strength of a riveted joint is based upon the expanded
+
+Par 4-50  Page 4-14
+
+===== PDF PAGE 166 =====
+9/8/98  AC 43.13-1B
+
+diameter of the rivet. Therefore, it is important that the proper drill size be used for each rivet
+diameter.
+
+   (1) The acceptable drill size for rivets may be found in MIL-HDBK-5, Metallic
+Materials and Elements for Aerospace Vehicle Structures, or MMPDS-10.
+
+   (2) Avoid drilling oversized holes or otherwise decreasing the effective tensile areas of
+wing-spar cap strips, wing, fuselage, fin longitudinal stringers, or highly stressed tensile
+members. Make all repairs, or reinforcements, to such members in accordance with factory
+recommendations or with the specific approval of an FAA representative.
+
+   b. Disassembly Prior to Repairing. If the parts to be removed are essential to the rigidity
+of the complete structure, support the structure prior to disassembly in such a manner as to
+prevent distortion and permanent damage to the remainder of the structure. When rivets are
+removed, undercut rivet heads by drilling. Use a drill of the same size as the diameter of the
+rivet. Drilling must be exactly centered and to the base of the head only. After drilling, break off
+the head with a pin punch and carefully drive out the shank. On thin or unsupported metal skin,
+support the sheet metal on the inside with a bucking bar. Removal of rivet heads with a cold
+chisel and hammer is not recommended because skin damage and distorted rivet holes will
+probably result. Inspect rivet joints adjacent to damaged structure for partial failure by removing
+one or more rivets to see if holes are elongated or the rivets have started to shear.
+
+   c. Effective Tools. Care must also be taken whenever screws must be removed to avoid
+damage to adjoining structure. When properly used, impact wrenches can be effective tools for
+removal of screws; however, damage to adjoining structure may result from excessive vertical
+loads applied through the screw axis. Excessive loads are usually related to improperly adjusted
+impact tools or attempting to remove screws that have seized from corrosion. Remove seized
+screws by drilling and use of a screw extractor. Once the screw has been removed, check for
+structural cracks that may appear in the adjoining skin doubler, or in the nut or anchor plate.
+
+4-53. SELECTION OF ALUMINUM FOR REPLACEMENT PARTS. All aluminum
+replacement sheet metal must be identical to the original or properly altered skin. If another alloy
+is being considered, refer to the information on the comparative strength properties of aluminum
+alloys contained in MIL-HDBK-5 or MMPDS-10.
+
+   a. Temper. The choice of temper depends upon the severity of the subsequent forming
+operations. Parts having single curvature and straight bend lines with a large bend radius may be
+advantageously formed from heat-treated material; while a part, such as a fuselage frame, would
+have to be formed from a soft, annealed sheet, and heat-treated after forming. Make sure sheet
+metal parts which are to be left unpainted are made of clad (aluminum coated) material. Make
+sure all sheet material and finished parts are free from cracks, scratches, kinks, tool marks,
+corrosion pits, and other defects which may be factors in subsequent failure.
+
+   b. Use of Annealed Alloys for Structural Parts. The use of annealed aluminum alloys
+for structural repair of an aircraft is not recommended. An equivalent strength repair using
+annealed aluminum will weigh more than a repair using heat-treated aluminum alloy.
+
+Par 4-52  Page 4-15
+
+===== PDF PAGE 167 =====
+9/8/98  AC 43.13-1B
+
+4-54. HEAT TREATMENT OF ALUMINUM ALLOY PARTS. All structural aluminum
+alloy parts are to be heat-treated in accordance with the heat-treatment instruction issued by the
+manufacturers of the part. In the case of a specified temper, the sequence of heat-treating
+operations set forth in MIL-HDBK-5 or MMPDS-10 and corresponding specifications. If the
+heat-treatment produces warping, straighten the parts immediately after quenching. Heat-treat
+riveted parts before riveting, to preclude warping and corrosion.
+
+   a. Quenching. Quench material from the solution heat-treating temperature as rapidly as
+possible after removal from the furnace. Quenching in cold water is preferred, although less
+drastic chilling (hot or boiling water, or airblast) is sometimes employed for bulk sections, such
+as forgings, to minimize quenching stresses.
+
+   b. Reheating at Temperatures Above Boiling Water. Reheating of 2017 and
+2024 alloys above 212 °F tend to impair the original heat treatment. Therefore, reheating above
+212 °F, including the baking of primers, is not acceptable without subsequent complete and
+correct heat treatment.
+
+4-55. BENDING METAL. When describing a bend in aviation, the term “bend radii” (BR) is
+used to refer to the inside radius. Requirements for bending the metal to various shapes are
+frequently encountered. When a metal is bent, it is subjected to changes in its grain structure,
+causing an increase in its hardness.
+
+   a. The minimum radius is determined by the composition of the metal, its temper, and
+thickness. Table 4-6 shows the recommended radius for different types of aluminum. Note that
+the smaller the thickness of the material, the smaller the recommended minimum BR, and that as
+the material increases in hardness, the recommended BR increases.
+
+   b. When using layout techniques, the mechanic must be able to calculate exactly how
+much material will be required for the bend. It is easier to lay out the part on a flat sheet before
+the bending or shaping is performed. Before bending, smooth all rough edges, remove burrs, and
+drill relief holes at the ends of bend lines and at corners to prevent cracks from starting. Bend
+lines should preferably be made to lie at an angle to the grain of the metal (preferably
+90 degrees).
+
+   c. BR in inches for a specific metal composition (alloy) and temper is determined from
+Table 4-6. For example, the minimum BR for 0.016 thick 2024-T6 (alloy and temper) is found is
+found to be 2 to 4 times the material thickness, or 0.032 to 0.064.
+
+4-56. SETBACK.
+
+   a. Setback is a measurement used in sheet metal layout. It is the distance the jaws of a
+brake must be setback from the mold line to form a bend. For a 90-degree bend, the point is back
+from the mold line to a distance equal to the BR plus the metal thickness. The mold line is an
+extension of the flat side of a part beyond the radius. The mold line dimension of a part is the
+dimension made to the intersection of mold lines, and is the dimension the part would have if its
+corners had no radius. (See Figure 4-2.)
+
+Par 4-54  Page 4-16
+
+===== PDF PAGE 168 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 4-6. RECOMMENDED RADII FOR 90-DEGREE BENDS IN
+   ALUMINUM ALLOYS
+
+  Alloy and  Approximate Sheet Thickness (t) (inch)
+   Temper  0.016  0.032  0.064  0.128  0.182  0.258
+   1
+   2024-0  0  0–1t  0–1t  0–1t  0–1t  0–1t
+   1, 2
+ 2024-T3  1½t–3t  2t–4t  3t–5t  4t–6t  4t–6t  5t–7t
+  2024-T61  2t–4t  3t–5t  3t–5t  4t–6t  5t–7t  6t–10t
+   5052-0  0  0  0–1t  0–1t  0–1t  0–1t
+  5052-H32  0  0  ½t–1t  ½t–1½t  ½t–1½t  ½t–1½t
+  5052-H34  0  0  ½t–1½t  1½t–2½t  1½t–2½t  2t–3t
+  5052-H36  0–1t  ½t–1½t  1t–2t  1½t–3t  2t–4t  2t–4t
+  5052-H38  ½t–1½t  1t–2t  1½t–3t  2t–4t  3t–5t  4t–6t
+   6061-0  0  0–1t  0–1t  0–1t  0–1t  0–1t
+  6061-T4  0–1t  0–1t  ½t–1½t  1t–2t  1½t–3t  2½t–4t
+  6061-T6  0–1t  ½t–1½t  1t–2t  1½t–3t  2t–4t  3t–4t
+   7075-0  0  0–1t  0–1t  ½t–1½t  1t–2t  1½t–3t
+   1
+  7075-T6  2t–4t  3t–5t  4t–6t  5t–7t  5t–7t  6t–10t
+   1
+   Alclad sheet may be bent over slightly smaller radii than the corresponding tempers of
+   uncoated alloy.
+   2
+   Immediately after quenching, this alloy may be formed over appreciably smaller radii.
+
+   FIGURE 4-2. SETBACK FOR A 90-DEGREE BEND
+
+Par 4-56  Page 4-17
+
+===== PDF PAGE 169 =====
+9/8/98  AC 43.13-1B
+
+   b. To determine setback for a bend of more or less than 90 degrees, a correction known
+as a K-factor must be applied to find the setback.
+
+   (1) Table 4-7 shows a chart of K-factors. To find the setback for any degree of bend,
+multiply the sum of the BR and metal thickness by the K-value for the angle through which the
+metal is bent.
+
+ TABLE 4-7. K-CHART FOR DETERMINING SETBACK FOR BENDS OTHER THAN
+   90 DEGREES
+  Deg.  K  Deg.  K  Deg.  K  Deg.  K  Deg.  K
+   1  0.0087  37  0.3346  73  0.7399  109  1.401  145  3.171
+   2  0.0174  38  0.3443  74  0.7535  110  1,428  146  3.270
+   3  0.0261  39  0.3541  75  0.7673  111  1.455  147  3.375
+   4  0.0349  40  0.3639  76  0.7812  112  1.482  148  3.487
+   5  0.0436  41  0.3738  77  0.7954  113  1.510  149  3.605
+   6  0.0524  42  0.3838  78  0.8097  114  1.539  150  3.732
+   7  0.0611  43  0.3939  79  0.8243  115  1.569  151  3.866
+   8  0.0699  44  0.4040  80  0.8391  116  1.600  152  4.010
+   9  0.0787  45  0.4142  81  0.8540  117  1.631  153  4.165
+   10  0.0874  46  0.4244  82  0.8692  118  1.664  154  4.331
+   11  0.0963  47  0.4348  83  0.8847  119  1.697  155  4.510
+   12  0.1051  48  0.4452  84  0.9004  120  1.732  156  4.704
+   13  0.1139  49  0.4557  85  0.9163  121  1.767  157  4.915
+   14  0.1228  50  0.4663  86  0.9324  122  1.804  158  5.144
+   15  0.1316  51  0.4769  87  0.9489  123  1.841  159  5.399
+   16  0.1405  52  0.4877  88  0.9656  124  1.880  160  5.671
+   17  0.1494  53  0.4985  89  0.9827  125  1.921  161  5.975
+   18  0.1583  54  0.5095  90  1.000  126  1.962  162  6.313
+   19  0.1673  55  0.5205  91  1.017  127  2.005  163  6.691
+   20  0.1763  56  0.5317  92  1.035  128  2.050  164  7.115
+   21  0.1853  57  0.5429  93  1.053  129  2.096  165  7.595
+   22  0.1943  58  0.5543  94  1.072  130  2.144  166  8.144
+   23  0.2034  59  0.5657  95  1.091  131  2.194  167  8.776
+   24  0.2125  60  0.5773  96  1.110  132  2.246  168  9.514
+   25  0.2216  61  0.5890  97  1.130  133  2.299  169  10.38
+   26  0.2308  62  0.6008  98  1.150  134  2.355  170  11.43
+   27  0.2400  63  0.6128  99  1.170  135  2.414  171  12.70
+   28  0.2493  64  0.6248  100  1.191  136  2.475  172  14.30
+   29  0.2586  65  0.6370  101  1.213  137  2.538  173  16.35
+   30  0.2679  66  0.6494  102  1.234  138  2.605  174  19.08
+   31  0.2773  67  0.6618  103  1.257  139  2.674  175  22.90
+   32  0.2867  68  0.6745  104  1.279  140  2.747  176  26.63
+   33  0.2962  69  0.6872  105  1.303  141  2.823  177  38.18
+   34  0.3057  70  0.7002  106  1.327  142  2.904  178  57.29
+   35  0.3153  71  0.7132  107  1.351  143  2.988  179  114.59
+   36  0.3249  72  0.7265  108  1.376  144  3.077  180  Inf.
+
+Par 4-56  Page 4-18
+
+===== PDF PAGE 170 =====
+9/8/98  AC 43.13-1B
+
+   (2) Figure 4-3 shows an example of a piece of 0.064-inch sheet metal bent through
+45 degrees to form an open angle of 135 degrees. For 45 degrees, the K-factor is 0.41421. The
+setback, or the distance from the mold point to the bend tangent line, is:
+
+FIGURE 4-3. METHODS OF DETERMINING SETBACK FOR BENDS OTHER THAN
+   90 DEGREES
+
+   (3) If a closed angle of 45 degrees is formed, the metal must be bent through
+135 degrees. The K-factor for 135 degrees is 2.4142, so the setback, or distance from the mold
+point to the bend tangent line, is 0.758 inch.
+
+4-57. RIVETING.
+   a. The two major types of rivets used in aircraft are the common solid shank rivet, which
+must be driven using an air-driven rivet gun and bucking bar; and special (blind) rivets, which
+
+Par 4-56  Page 4-19
+
+===== PDF PAGE 171 =====
+9/8/98  AC 43.13-1B
+
+are installed with special installation tools. Design allowables for riveted assemblies are
+specified in MIL-HDBK-5 or MMPDS-10.
+   (1) Solid shank rivets are used widely during assembly and repair work. They are
+identified by the material of which they are made, the head type, size of shank, and temper
+condition.
+
+   (2) The material used for the majority of solid shank rivets is aluminum alloy. The
+strength and temper conditions of aluminum alloy rivets are identified by digits and letters
+similar to those used to identify sheet stock. The 1100, 2017-T, 2024-T, 2117-T, and 5056 rivets
+are the six grades usually available. Army/Navy (AN)-type aircraft solid rivets can be identified
+by code markings on the rivet heads. A rivet made of 1100 material is designated as an “A” rivet,
+and has no head marking. The 2017-T alloy rivet is designated as a “D” rivet and has a raised
+teat on the head. Two dashes on a rivet head indicate a 2024-T alloy designated as a “DD” rivet.
+The 2117-T rivet is designated as an “AD” rivet, and has a dimple on the head. A “B”
+designation is given to a rivet of 5056 material and is marked with a raised cross on the rivet
+head. Each type of rivet is identified by a part number to allow the user to select the correct rivet.
+The numbers are in series and each series represents a particular type of head. (See Figure 4-4
+and Table 4-8.)
+
+Par 4-57  Page 4-20
+
+===== PDF PAGE 172 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 4-4. RIVET IDENTIFICATION AND PART NUMBER BREAKDOWN
+
+Par 4-57  Page 4-21
+
+===== PDF PAGE 173 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 4-8. AIRCRAFT RIVET IDENTIFICATION
+
+Par 4-57  Page 4-22
+
+===== PDF PAGE 174 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 4-8. AIRCRAFT RIVET IDENTIFICATION (CONTINUED)
+
+Par 4-57  Page 4-23
+
+===== PDF PAGE 175 =====
+9/8/98  AC 43.13-1B
+
+   (3) An example of identification marking of a rivet follows:
+
+   MS 20470AD3-5  Complete part number
+   MS  Military standard number
+   20470  Universal head rivet
+   AD  2117-T aluminum alloy
+   3  3/32 inch in diameter
+   5  5/16 inch in length
+
+   (4) Countersunk head rivets (MS20426 supersedes AN426 100-degree) are used where
+a smooth finish is desired. The 100-degree countersunk head has been adopted as the standard in
+the United States. The universal head rivet (AN470 superseded by MS20470) has been adopted
+as the standard for protruding-head rivets, and may be used as a replacement for the roundhead,
+flathead, and brazier head rivet. These rivets can also be purchased in half sizes by designating a
+“0.5” after the main length (e.g., MS20470 AD4-3.5).
+
+   b. Replace rivets with those of the same size and strength whenever possible. If the rivet
+hole becomes enlarged, deformed, or otherwise damaged; drill or ream the hole for the next
+larger size rivet. However, make sure that the edge distance and spacing is not less than
+minimums listed in subparagraph 4-57c. Rivets may not be replaced by a type having lower
+strength properties, unless the lower strength is adequately compensated by an increase in size or
+a greater number of rivets. It is acceptable to replace 2017 rivets of 3/16 inch diameter or less,
+and 2024 rivets of 5/32 inch diameter or less with 2117 rivets for general repairs, provided the
+replacement rivets are 1/32 inch greater in diameter than the rivets they replace.
+
+   c. Rivet edge distance is defined as the distance from the center of the rivet hole to the
+nearest edge of the sheet. Rivet spacing is the distance from the center of the rivet hole to the
+center of the adjacent rivet hole. Unless structural deficiencies are suspected, the rivet spacing
+and edge distance should duplicate those of the original aircraft structure. If structural
+deficiencies are suspected, the following may be used in determining minimum edge distance
+and rivet spacing.
+
+   (1) For single row rivets, the edge distance should not be less than 2 times the diameter
+of the rivet and spacing should not be less than 3 times the diameter of the rivet.
+
+   (2) For double row rivets, the edge distance and spacing should not be less than the
+minimums shown in Figure 4-5.
+
+   (3) For triple or multiple row rivets, the edge distance and spacing should not be less
+than the minimums shown in Figure 4-5.
+
+Par 4-57  Page 4-24
+
+===== PDF PAGE 176 =====
+9/27/01  AC 43.13-1B CHG 1
+
+  FIGURE 4-5. RIVET HOLE SPACING AND EDGE DISTANCE FOR SINGLE-LAP
+   SHEET SPLICES
+
+   d. The 2117 rivets may be driven in the condition received, but 2017 rivets above
+3/16 inch in diameter and all 2024 rivets are to be kept packed in dry ice or refrigerated in the
+“quenched” condition until driven, or be reheat-treated just prior to driving, as they would
+otherwise be too hard for satisfactory riveting. Dimensions for formed rivet heads are shown in
+Figure 4-6, item (a), together with commonly found rivet imperfections.
+
+Par 4-57  Page 4-25
+
+===== PDF PAGE 177 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-6. RIVETING PRACTICE AND RIVET IMPERFECTIONS
+
+   e. When solid shank rivets are impractical to use, then special fasteners are used. Special
+fastening systems used for aircraft construction and repair are divided into two types, special and
+blind fasteners. Special fasteners are sometimes designed for a specific purpose in an aircraft
+structure. The name “special fasteners” refers to its job requirement and the tooling needed for
+installation. Use of special fasteners may require an FAA field approval.
+
+   f. Blind rivets are used under certain conditions when there is access to only one side of
+the structure. Typically, the locking characteristics of a blind rivet are not as good as a driven
+rivet. Therefore, blind rivets are usually not used when driven rivets can be installed.
+
+   NOTE: Blind rivets shall not be used:
+
+   •  In fluid-tight areas; or
+   •  On aircraft in air intake areas where rivet parts may be ingested by the engine,
+   on aircraft control surfaces, hinges, hinge brackets, flight control actuating
+   systems, wing attachment fittings, landing gear fittings, on floats or amphibian
+   hulls below the water level, or other heavily stressed locations on the aircraft.
+
+Par 4-57  Page 4-26
+
+===== PDF PAGE 178 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   CAUTION: For metal repairs to the airframe, the use of blind rivets must
+   be specifically authorized by the airframe manufacturer or approved by a
+   representative of the FAA.
+
+   (1) Self-plugging friction-lock cherry rivets. This patented rivet may be installed when
+there is access to only one side of the structure. The blind head is formed by pulling the tapered
+stem into the hollow shank. This swells the shank and clamps the skins tightly together. When
+the shank is fully upset, the stem pulls in two. The stem does not fracture flush with the rivet
+head and must be trimmed and filed flush for the installation to be complete. Because of the
+friction-locking stem, these rivets are very sensitive to vibrations. Inspection is visual, with a
+loose rivet standing out in the standard “smoking rivet” pattern. Removal consists of punching
+out the friction-locked stem and then treating it like any other rivet. (See Figure 4-7.)
+
+   FIGURE 4-7. SELF-PLUGGING FRICTION-LOCK CHERRY RIVETS
+
+   (2) Mechanical-lock rivets have a device on the puller or rivet head which locks the
+center stem into place when installed. Many friction-lock rivet center stems fall out due to
+vibrations; this, in turn, greatly reduces its shear strength. The mechanical-lock rivet was
+developed to prevent that problem. Various manufacturers make mechanical-lock fasteners, such
+as Bulbed CherryLOCK, CherryMAX, Olympic-Loks, and Huck-Loks.
+
+   (3) Bulbed CherryLOCK Rivets. One of the earlier types of mechanical-lock rivets
+developed were Bulbed CherryLOCK blind rivets. These blind rivets have as their main
+advantage the ability to replace a solid shank rivet size for size. (See Figure 4-8.)
+
+   (a) A Bulbed CherryLOCK consists of three parts: a rivet shell, a puller, and a
+lockring. The puller or stem has five features which are activated during installation: a header, a
+shank expanding section, a lockring indent, a weak or stem fracture point, and a serrated pulling
+stem. Carried on the pulling stem, near the manufactured head, is the stem lockring. When the
+rivet is pulled the action of the moving stem clamps together the sheets of metal and swells the
+shank to fill the drilled hole. When the stem reaches its preset limit of travel, the upper stem
+breaks away (just above the lockring) as the lockring snaps into the recess on the locking stem.
+
+Par 4-57  Page 4-27
+
+===== PDF PAGE 179 =====
+9/8/98  AC 43.13-1B
+
+The rough end of the retained stem in the center on the manufactured head must never be filed
+smooth, because it will weaken the strength of the lockring and the center stem could fall out.
+(See Figure 4-8.)
+
+Par 4-57  Page 4-28
+
+===== PDF PAGE 180 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 4-8. MECHANICAL-LOCK (BULBED CHERRYLOCK) CHERRY RIVET
+
+Par 4-57  Page 4-29
+
+===== PDF PAGE 181 =====
+9/8/98  AC 43.13-1B
+
+   (b) The Bulbed CherryLOCK rivets are available in two head styles: universal and
+100-degree countersunk. Their lengths are measured in increments of 1/16 inch. It is important to
+select a rivet with a length related to the grip length of the metal being joined.
+
+   (c) The Bulbed CherryLOCK rivet can be installed using a G30 Cherry Rivet Hand
+Puller or a pneumatic Bulbed CherryLOCK pulling tool.
+
+   (4) The CherryMAX rivet (see Figure 4-9) uses one tool to install three standard rivet
+diameters and their oversize counterparts. This makes the use of CherryMAX rivets very popular
+with many small general aviation repair shops. CherryMAX rivets are available in four nominal
+diameters: 1/8, 5/32, 3/16, and 1/4 inch; and three oversized diameters. CherryMAX rivets are
+manufactured with two head styles: universal and countersunk. The CherryMAX rivets consists
+of five parts: bulbed blind header, hollow rivet shell, locking (foil) collar, driving anvil, and
+pulling stem. The blind bulbed header takes up the extended shank and forms the bucktail on a
+CherryMAX rivet stem. Rivet sleeves are made from 5056 aluminum, Monel, and
+INCONEL 600. The stems are made from alloy steel, corrosion resistant steel (CRES), and
+INCONEL X-750 stem. CherryMAX rivets have an ultimate shear strength ranging from
+50 thousands of pounds per square inch (KSI) to 75 KSI.
+
+   FIGURE 4-9. CHERRYMAX RIVET
+
+   (5) An Olympic-Lok rivet (see Figure 4-10) is a light three-piece mechanically locked,
+spindle-type blind rivet. It carries its stem lock integral to the manufactured head. While
+installing, the lockring is pressed into a groove on the pulling stem just as the rivet completes
+drawing the metal together. After installation is completed, never file the stem of an
+Olympic-Lok rivet, because it will weaken the lockring attachment. The Olympic-Lok fastener is
+available in three head styles: universal protruding, 100-degree flush countersink, and
+100-degree flush shear; and three diameters: 1/8, 5/32, and 3/16 inch. The three diameters are
+available in eight different alloy combinations of 2017-T4, A-286, 5056, and Monel.
+Olympic-Lok lock spindles are made from the same material as the sleeves.
+
+Par 4-57  Page 4-30
+
+===== PDF PAGE 182 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 4-10. OLYMPIC-LOK RIVET
+
+   (6) Huck rivets (see Figure 4-11) are available in two head styles: protruding and flush.
+They are available in four diameters: 1/8, 5/32, 3/16, and 1/4 inch. Their diameters are measured
+in increments of 1/32 inch and lengths are measured in 1/16 inch increments. They are
+manufactured in three different combinations of alloys: 5056 aluminum sleeve with 2024
+aluminum alloy pin, A-286 corrosion-resistant steel sleeve with an A-286 pin, and a Monel 400
+sleeve with an A-286 pin. The Huck fastener has the ability to tightly draw up two or more
+sheets of metal together while being installed. After the take up of the Huck fastener is
+completed, the lockring is squeezed into a groove on the pulling stem. The anvil or footer (of the
+installation tool) packs the ring into the groove of the pulling stem by bearing against the
+lockring.
+
+Par 4-57  Page 4-31
+
+===== PDF PAGE 183 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 4-11. HUCK RIVET
+
+   (7) Common pull-type POP rivets, produced for nonaircraft related applications, are not
+approved for use on certificated aircraft structures or components.
+
+   g. Design a new or revised rivet pattern for strength required in accordance with one of the
+following:
+
+   (1) The aircraft manufacturer’s maintenance manuals.
+
+   (2) The techniques found in structural textbooks and using the mechanical properties
+found in MIL-HDBK-5 or MMPDS-10.
+
+   (3) The specific instructions in subparagraphs 4-58g through 4-58n. When following
+the instructions in subparagraphs 4-58g through 4-58n, the general rule for the diameter of the
+rivets used to join aluminum sheets is to use a diameter approximately three times the thickness
+
+Par 4-57  Page 4-32
+
+===== PDF PAGE 184 =====
+9/8/98  AC 43.13-1B
+
+of the thicker sheet. Do not use rivets where they would be placed in tension, tending to pull the
+heads off; and backup a lap joint of thin sheets with a stiffener section.
+
+4-58. REPAIR METHODS AND PRECAUTIONS FOR ALUMINUM STRUCTURE.
+Carefully examine all adjacent rivets outside of the repair area to ascertain that they have not
+been harmed by operations in adjacent areas. Drill rivet holes round, straight, and free from
+cracks. Deburr the hole with an oversize drill or deburring tool. The rivet set used in driving the
+rivets must be cupped slightly flatter than the rivet head. (See Figure 4-6.) Rivets are to be driven
+straight and tight, but not overdriven or driven while too hard, since the finished rivet must be
+free from cracks. Information on special methods of riveting, such as flush riveting, usually may
+be obtained from manufacturer’s service manuals.
+
+   a. Splicing of Tubes. Round or streamline aluminum alloy tubular members may be
+repaired by splicing. (See Figure 4-12.) Splices in struts that overlap fittings are not acceptable.
+When solid rivets go completely through hollow tubes, their diameter must be at least one-eighth
+of the outside diameter of the outer tube. Rivets which are loaded in shear should be hammered
+only enough to form a small head and no attempt made to form the standard roundhead. The
+amount of hammering required to form the standard roundhead often causes the rivet to buckle
+inside the tube. (Correct and incorrect examples of this type of rivet application are incorporated
+in Figure 4-12.)
+
+Par 4-57  Page 4-33
+

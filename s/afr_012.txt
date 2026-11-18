@@ -1,0 +1,2237 @@
+FAA-H-8083-31B Airframe Handbook, chapter 4 (Aircraft Metal Structural Repair), PDF pages 163-181
+
+===== PDF PAGE 163 =====
+Chapter 4
+
+Aircraft Metal Structural Repair
+Aircraft Metal Structural Repair
+The satisfactory performance of an aircraft requires
+continuous maintenance of aircraft structural integrity. It is
+important that metal structural repairs be made according
+to the best available techniques because improper repair
+techniques can pose an immediate or potential danger. The
+reliability of an aircraft depends on the quality of the design,
+as well as the workmanship used in making the repairs. The
+design of an aircraft metal structural repair is complicated
+by the requirement that an aircraft be as light as possible. If
+weight were not a critical factor, repairs could be made with
+a large margin of safety. In actual practice, repairs must be
+strong enough to carry all of the loads with the required factor
+of safety, but they must not have too much extra strength. For
+example, a joint that is too weak cannot be tolerated, but a
+joint that is too strong can create stress risers that may cause
+cracks in other locations.
+As discussed in Chapter 3, Aircraft Fabric Covering, sheet
+metal aircraft construction dominates modern aviation.
+Generally, sheet metal made of aluminum alloys is used in
+airframe sections that serve as both the structure and outer
+aircraft covering, with the metal parts joined with rivets or
+other types of fasteners. Sheet metal is used extensively in
+many types of aircraft from airliners to single engine airplanes,
+but it may also appear as part of a composite airplane, such
+as in an instrument panel. Sheet metal is obtained by rolling
+metal into flat sheets of various thicknesses ranging from thin
+(leaf) to plate (pieces thicker than 6 mm or 0.25 inch). The
+thickness of sheet metal, called gauge, ranges from 8 to 30
+with the higher gauge denoting thinner metal. Sheet metal
+can be cut and bent into a variety of shapes.
+Damage to metal aircraft structures is often caused by
+corrosion, erosion, normal stress, and accidents and mishaps.
+Sometimes aircraft structure modifications require extensive
+structural rework. For example, the installation of winglets
+on aircraft not only replaces a wing tip with a winglet, but
+also requires extensive reinforcing of the wing structure to
+carry additional stresses.
+Numerous and varied methods of repairing metal structural
+portions of an aircraft exist, but no set of specific repair
+patterns applies in all cases. The problem of repairing a
+damaged section is usually solved by duplicating the original
+part in strength, kind of material, and dimensions. To make a
+
+structural repair, the aircraft technician needs a good working
+knowledge of sheet metal forming methods and techniques. In
+general, forming means changing the shape by bending and
+forming solid metal. In the case of aluminum, this is usually
+done at room temperature. All repair parts are shaped to fit in
+place before they are attached to the aircraft or component.
+Forming may be a very simple operation, such as making
+a single bend or a single curve, or it may be a complex
+operation, requiring a compound curvature. Before forming
+a part, the aircraft technician must give some thought to
+the complexity of the bends, the material type, the material
+thickness, the material temper, and the size of the part being
+fabricated. In most cases, these factors determine which
+forming method to use. Types of forming discussed in this
+chapter include bending, brake forming, stretch forming, roll
+forming, and spinning. The aircraft technician also needs
+a working knowledge of the proper use of the tools and
+equipment used in forming metal.
+In addition to forming techniques, this chapter introduces
+the airframe technician to the tools used in sheet metal
+construction and repair, structural fasteners and their
+installation, how to inspect, classify, and assess metal
+structural damage, common repair practices, and types of
+repairs.
+The repairs discussed in this chapter are typical of those used
+in aircraft maintenance and are included to introduce some of
+the operations involved. For exact information about specific
+repairs, consult the manufacturer’s maintenance or structural
+repair manuals (SRM). General repair instructions are also
+discussed in Advisory Circular (AC) 43.13.1, Acceptable
+Methods, Techniques, and Practices—Aircraft Inspection
+and Repair.
+Stresses in Structural Members
+An aircraft structure must be designed so that it accepts all of
+the stresses imposed upon it by the flight and ground loads
+without any permanent deformation. Any repair made must
+accept the stresses, carry them across the repair, and then
+transfer them back into the original structure. These stresses
+are considered as flowing through the structure, so there
+must be a continuous path for them, with no abrupt changes
+in cross-sectional areas along the way. Abrupt changes in
+cross-sectional areas of aircraft structure that are subject to
+cycle loading or stresses result in a stress concentration that
+4-1
+
+===== PDF PAGE 164 =====
+may induce fatigue cracking and eventual failure. A scratch or
+gouge in the surface of a highly stressed piece of metal causes
+a stress concentration at the point of damage and could lead
+to failure of the part. Forces acting on an aircraft, whether it
+is on the ground or in flight, introduce pulling, pushing, or
+twisting forces within the various members of the aircraft
+structure. While the aircraft is on the ground, the weight of
+the wings, fuselage, engines, and empennage causes forces
+to act downward on the wing and stabilizer tips, along the
+spars and stringers, and on the bulkheads and formers. These
+forces are passed from member to member causing bending,
+twisting, pulling, compression, and shearing forces.
+
+A. Tension
+
+As the aircraft takes off, most of the forces in the fuselage
+continue to act in the same direction; because of the motion
+of the aircraft, they increase in intensity. The forces on the
+wingtips and the wing surfaces, however, reverse direction;
+instead of being downward forces of weight, they become
+upward forces of lift. The forces of lift are exerted first
+against the skin and stringers, then are passed on to the ribs,
+and finally are transmitted through the spars to be distributed
+through the fuselage. The wings bend upward at their ends
+and may flutter slightly during flight. This wing bending
+cannot be ignored by the manufacturer in the original design
+and construction and cannot be ignored during maintenance.
+It is surprising how an aircraft structure composed of
+structural members and skin rigidly riveted or bolted together,
+such as a wing, can bend or act so much like a leaf spring.
+
+B. Compression
+
+C. Torsion
+
+The six types of stress in an aircraft are described as tension,
+compression, shear, bearing, bending, and torsion (or
+twisting). The first four are commonly called basic stresses;
+the last two, combination stresses. Stresses usually act in
+combinations rather than singly. [Figure 4-1]
+D. Shear
+
+Tension
+Tension is the stress that resists a force that tends to pull apart.
+The engine pulls the aircraft forward, but air resistance tries
+to hold it back. The result is tension, which tends to stretch
+the aircraft. The tensile strength of a material is measured in
+pounds per square inch (psi) and is calculated by dividing
+the load (in pounds) required to pull the material apart by its
+cross-sectional area (in square inches).
+
+Tension
+
+Compression
+E. Bending
+
+The strength of a member in tension is determined on
+the basis of its gross area (or total area), but calculations
+involving tension must take into consideration the net area of
+the member. Net area is defined as the gross area minus that
+removed by drilling holes or by making other changes in the
+section. Placing rivets or bolts in holes makes no appreciable
+difference in added strength, as the rivets or bolts will not
+transfer tensional loads across holes in which they are inserted.
+
+Figure 4-1. Stresses in aircraft structures.
+
+Compression
+Compression, the stress that resists a crushing force, tends to
+shorten or squeeze aircraft parts. The compressive strength of
+a material is also measured in psi. Under a compressive load,
+an undrilled member is stronger than an identical member
+4-2
+
+===== PDF PAGE 165 =====
+with holes drilled through it. However, if a plug of equivalent
+or stronger material is fitted tightly in a drilled member, it
+transfers compressive loads across the hole, and the member
+carries approximately as large a load as if the hole were not
+there. Thus, for compressive loads, the gross or total area may
+be used in determining the stress in a member if all holes are
+tightly plugged with equivalent or stronger material.
+
+Shear
+Shear is the stress that resists the force tending to cause one
+layer of a material to slide over an adjacent layer. Two riveted
+plates in tension subject the rivets to a shearing force. Usually,
+the shear strength of a material is either equal to or less than
+its tensile or compressive strength. Shear stress concerns the
+aviation technician chiefly from the standpoint of the rivet
+and bolt applications, particularly when attaching sheet metal,
+because if a rivet used in a shear application gives way, the
+riveted or bolted parts are pushed sideways.
+
+Bearing
+Bearing stress resists the force that the rivet or bolt places
+on the hole. As a rule, the strength of the fastener should be
+such that its total shear strength is approximately equal to
+the total bearing strength of the sheet material. [Figure 4-2]
+
+Torsion
+
+Top sheet is bearing against
+the bottom sheet. Fasteners
+are pressing top sheet against
+bottom sheet.
+
+Rivets
+Figure 4-2. Bearing stress.
+
+Bearing stress
+
+Torsion is the stress that produces twisting. While moving
+the aircraft forward, the engine also tends to twist it to one
+side, but other aircraft components hold it on course. Thus,
+torsion is created. The torsional strength of a material is its
+resistance to twisting or torque (twisting stress). The stresses
+arising from this action are shear stresses caused by the
+rotation of adjacent planes past each other around a common
+reference axis at right angles to these planes. This action may
+be illustrated by a rod fixed solidly at one end and twisted
+by a weight placed on a lever arm at the other, producing the
+equivalent of two equal and opposite forces acting on the rod
+at some distance from each other. A shearing action is set up
+
+The force that
+tries to pull the
+two sheets apart
+
+all along the rod, with the center line of the rod representing
+the neutral axis.
+
+Bending
+Bending (or beam stress) is a combination of compression
+and tension. The rod in Figure 4-1E has been shortened
+(compressed) on the inside of the bend and stretched on
+the outside of the bend. Note that the bending stress causes
+a tensile stress to act on the upper half of the beam and a
+compressive stress on the lower half. These stresses act in
+opposition on the two sides of the center line of the member,
+which is called the neutral axis. Since these forces acting in
+opposite directions are next to each other at the neutral axis,
+the greatest shear stress occurs along this line, and none exists
+at the extreme upper or lower surfaces of the beam.
+
+Tools for Sheet Metal Construction & Repair
+Without modern metalworking tools and machines, the
+job of the airframe technician would be more difficult and
+tiresome, and the time required to finish a task would be
+much greater. These specialized tools and machines help the
+airframe technician construct or repair sheet metal in a faster,
+simpler, and better manner than possible in the past. Powered
+by human muscle, electricity, or compressed air, these tools
+are used to lay out, mark, cut, sand, or drill sheet metal.
+Layout Tools
+Before fitting repair parts into an aircraft structure, the new
+sections must be measured and marked, or laid out to the
+dimensions needed to make the repair part. Tools utilized
+for this process are discussed in this section.
+
+Scales
+Scales are available in various lengths, with the 6-inch and
+12-inch scales being the most common and affordable. A scale
+with fractions on one side and decimals on the other side is
+very useful. To obtain an accurate measurement, measure
+with the scale held on edge from the 1-inch mark instead of
+the end. Use the graduation marks on the side to set a divider
+or compass. [Figure 4-3]
+
+Combination Square
+A combination square consists of a steel scale with three heads
+that can be moved to any position on the scale and locked
+in place. The three heads are a stock head that measures 90°
+and 45° angles, a protractor head that can measure any angle
+between the head and the blade, and a center head that uses
+one side of the blade as the bisector of a 90° angle. The center
+of a shaft can be found by using the center head. Place the
+end of the shaft in the V of the head and scribe a line along
+the edge of the scale. Rotate the head about 90° and scribe
+another line along the edge of the scale. The two lines will
+cross at the center of the shaft. [Figure 4-4]
+4-3
+
+===== PDF PAGE 166 =====
+Rivet Spacers
+8 THS
+
+1
+
+16 THS
+
+2
+
+3
+
+4
+
+A rivet spacer is used to make a quick and accurate rivet
+pattern layout on a sheet. On the rivet spacer, there are
+alignment marks for 1⁄2-inch, 3⁄4-inch, 1-inch and 2-inch rivet
+spacing. [Figure 4-6]
+
+5
+
+Marking Tools
+
+28
+4 8 12 16 20 24 28
+
+32 MOS
+64 THS
+
+8 16 24 32 40 48 56
+
+1
+56
+
+4
+
+2
+
+8 12 16 20 24 28
+
+8 16 24 32 40 48 56
+
+9
+1 2 3 4 5 6 7 8 9
+
+1 2 3 4 5 6 7 8 9
+
+10 THS
+100 THS
+
+1 2 3 4
+
+5
+
+1
+6 7 8 9
+
+1 2 3 4
+
+5
+
+6 7 8 9
+
+3
+
+4 8 12 16 20 24 28
+
+8
+
+9
+
+1 2 3 4
+
+5
+
+4 8 12 16 20 24 28
+
+Fiber-tipped pens are the preferred method of marking
+lines and hole locations directly on aluminum, because the
+graphite in a No. 2 pencil can cause corrosion when used on
+aluminum. Make the layout on the protective membrane if it
+is still on the material, or mark directly on the material with
+a fiber-tipped pen, such as a fine-point Sharpie®, or cover
+the material with masking tape and then mark on the tape.
+
+4 8 16 24 32 40 48 56 5 8 16 24 32 40 48 56
+
+1
+
+1 2 3 4 5 6 7 8 9
+
+3
+
+2
+
+Pens
+
+4
+
+6 7 8 9
+
+Scribes
+
+1 2 3 4 5 6 7 8 9
+
+4
+
+5
+1 2 3 4
+
+5
+
+A scribe is a pointed instrument used to mark or score metal
+to show where it is to be cut. A scribe should only be used
+when marks will be removed by drilling or cutting because
+it makes scratches that weaken the material and could cause
+corrosion. [Figure 4-7]
+
+6 7 8 9
+
+1
+
+Figure 4-3. Scales.
+
+Dividers
+Dividers are used to transfer a measurement from a device
+to a scale to determine its value. Place the sharp points at
+the locations from which the measurement is to be taken.
+Then, place the points on a steel machinist’s scale, but put
+one of the points on the 1-inch mark and measure from there.
+[Figure 4-5]
+
+Punches
+Punches are usually made of carbon steel that has been
+hardened and tempered. Generally classified as solid or
+hollow, punches are designed according to their intended
+use. A solid punch is a steel rod with various shapes at the
+end for different uses. For example, it is used to drive bolts
+out of holes, loosen frozen or tight pins and keys, knock out
+rivets, pierce holes in a material, etc. The hollow punch is
+sharp edged and used most often for cutting out blanks. Solid
+
+Scriber
+Level
+
+2
+
+Stock head
+
+3
+
+4
+
+5
+
+0
+
+180
+
+90
+
+8
+
+Protractor head
+
+9
+
+10
+
+11
+
+Center head
+
+Figure 4-4. Combination square.
+
+4-4
+
+===== PDF PAGE 167 =====
+Figure 4-8. Prick punch.
+
+•
+
+Never strike a prick punch a heavy blow with a
+hammer because it could bend the punch or cause
+excessive damage to the item being worked.
+
+•
+
+Do not use a prick punch to remove objects from holes
+because the point of the punch spreads the object and
+causes it to bind even more.
+
+Figure 4-5. Divider.
+
+Center Punch
+
+Figure 4-6. Rivet spacer.
+
+A center punch is used to make indentations in metal as an
+aid in drilling. [Figure 4-9] These indentations help the drill,
+which has a tendency to wander on a flat surface, stay on
+the mark as it goes through the metal. The traditional center
+punch is used with a hammer, has a heavier body than the
+prick punch, and has a point ground to an angle of about 60°.
+Take the following precautions when using a center punch:
+•
+
+Never strike the center punch with enough force to
+dimple the item around the indentation or cause the
+metal to protrude through the other side of the sheet.
+
+•
+
+Do not use a center punch to remove objects from holes
+because the point of the punch spreads the object and
+causes it to bind even more.
+
+Figure 4-7. Scribe.
+
+punches vary in both size and point design, while hollow
+punches vary in size.
+
+Figure 4-9. Center punch.
+
+Prick Punch
+
+Automatic Center Punch
+
+A prick punch is primarily used during layout to place
+reference marks on metal because it produces a small
+indentation. [Figure 4-8] After layout is finished, the
+indentation is enlarged with a center punch to allow for
+drilling. The prick punch can also be used to transfer
+dimensions from a paper pattern directly onto the metal.
+Take the following precautions when using a prick punch:
+
+The automatic center punch performs the same function as an
+ordinary center punch, but uses a spring tension mechanism
+to create a force hard enough to make an indentation without
+the need for a hammer. The mechanism automatically strikes
+a blow of the required force when placed where needed and
+pressed. This punch has an adjustable cap for regulating
+the stroke; the point can be removed for replacement or
+4-5
+
+===== PDF PAGE 168 =====
+sharpening. Never strike an automatic center punch with a
+hammer. [Figure 4-10]
+
+Figure 4-12. Drive punch.
+
+Figure 4-10. Automatic center punch.
+
+punch to drive the pin or bolt the rest of the way out of the
+hole. [Figure 4-13]
+
+Chassis Punch
+
+Transfer Punch
+A transfer punch uses a template or existing holes in the
+structure to mark the locations of new holes. The punch is
+centered in the old hole over the new sheet and lightly tapped
+with a mallet. The result should be a mark that serves to locate
+the hole in the new sheet. [Figure 4-11]
+
+A chassis punch is used to make holes in sheet metal parts for
+the installation of instruments and other avionics appliance,
+as well as lightening holes in ribs and spars. Sized in 1⁄16 of
+an inch, they are available in sizes from 1⁄2 inch to 3 inches.
+[Figure 4-14]
+
+Transfer punch
+
+Use old skin as template
+Figure 4-13. Pin punch.
+
+New skin
+Figure 4-11. Transfer punch.
+
+Drive Punch
+The drive punch is made with a flat face instead of a point
+because it is used to drive out damaged rivets, pins, and
+bolts that sometimes bind in holes. The size of the punch
+is determined by the width of the face, usually 1⁄8-inch to
+1
+⁄4-inch. [Figure 4-12]
+
+Pin Punch
+The pin punch typically has a straight shank characterized
+by a hexagonal body. Pin punch points are sized in 1⁄32-inch
+increments of an inch and range from 1⁄16-inch to 3⁄8-inch in
+diameter. The usual method for driving out a pin or bolt is
+to start working it out with a drive punch until the shank of
+the punch is touching the sides of the hole. Then use a pin
+
+Figure 4-14. Chassis punch.
+
+Awl
+A pointed tool for marking surfaces or for punching small
+holes, an awl is used in aircraft maintenance to place scribe
+marks on metal and plastic surfaces and to align holes, such
+as in the installation of a deicer boot. [Figure 4-15]
+
+4-6
+
+===== PDF PAGE 169 =====
+Angle
+New skin
+Old skin
+Figure 4-15. Awl.
+
+Procedures for one use of an awl:
+1.
+
+Place the metal to be scribed on a flat surface. Place
+a ruler or straightedge on the guide marks already
+measured and placed on the metal.
+
+2.
+
+Remove the protective cover from the awl.
+
+3.
+
+Hold the straightedge firmly. Hold the awl, as shown
+in Figure 4-16, and scribe a line along the straightedge.
+
+4.
+
+Replace the protective cover on the awl.
+
+Hole Duplicator
+Available in a variety of sizes and styles, hole duplicators,
+or hole finders, utilize the old covering as a template to
+locate and match existing holes in the structure. Holes in
+a replacement sheet or in a patch must be drilled to match
+existing holes in the structure and the hole duplicator
+simplifies this process. Figure 4-17 illustrates one type of
+hole duplicator. The peg on the bottom leg of the duplicator
+fits into the existing rivet hole. To make the hole in the
+replacement sheet or patch, drill through the bushing on the
+top leg. If the duplicator is properly made, holes drilled in
+this manner are in perfect alignment. A separate duplicator
+must be used for each diameter of rivet.
+
+Figure 4-17. Hole duplicator.
+
+Cutting Tools
+Powered and nonpowered metal cutting tools available to the
+aviation technician include various types of saws, nibblers,
+shears, sanders, notchers, and grinders.
+
+Circular-Cutting Saws
+The circular-cutting saw cuts with a toothed, steel disc that
+rotates at high speed. Handheld or table mounted and powered
+by compressed air, this power saw cuts metal or wood. To
+prevent the saw from grabbing the metal, keep a firm grip
+on the saw handle at all times. Check the blade carefully for
+cracks prior to installation because a cracked blade can fly
+apart during use, possibly causing serious injury.
+
+Kett Saw
+
+1
+
+The Kett saw is an electrically operated, portable circular
+cutting saw that uses blades of various diameters. [Figure 4-18]
+Since the head of this saw can be turned to any desired angle,
+it is useful for removing damaged sections on a stringer. The
+advantages of a Kett saw include:
+
+2
+3
+4
+5
+
+Can cut metal up to 3⁄16-inch in thickness.
+
+2.
+
+No starting hole is required.
+
+3.
+
+A cut can be started anywhere on a sheet of metal.
+
+4.
+
+Can cut an inside or outside radius.
+
+6
+
+1.
+7
+8
+9
+10
+11
+12
+
+Pneumatic Circular-Cutting Saw
+The pneumatic circular-cutting saw, useful for cutting out
+damage, is similar to the Kett saw. [Figure 4-19]
+
+Figure 4-16. Awl usage.
+
+4-7
+
+===== PDF PAGE 170 =====
+Figure 4-20. Reciprocating saw.
+
+Figure 4-18. Kett saw.
+
+Figure 4-21. Die grinder and cut-off wheel.
+
+Figure 4-19. Pneumatic circular saw.
+
+Reciprocating Saw
+The versatile reciprocating saw achieves cutting action
+through a push and pull (reciprocating) motion of the blade.
+This saw can be used right sideup or upside down, a feature
+that makes it handier than the circular saw for working in tight
+or awkward spots. A variety of blade types are available for
+reciprocating saws; blades with finer teeth are used for cutting
+through metal. The portable, air-powered reciprocating saw
+uses a standard hacksaw blade and can cut a 360° circle or
+a square or rectangular hole. Unsuited for fine precision
+work, this saw is more difficult to control than the pneumatic
+circular-cutting saw. A reciprocating saw should be used in
+such a way that at least two teeth of the saw blade are cutting
+at all times. Avoid applying too much downward pressure on
+the saw handle because the blade may break. [Figure 4-20]
+
+Nibblers
+Usually powered by compressed air, the nibbler is another
+tool for cutting sheet metal. Portable nibblers utilize a high
+speed blanking action (the lower die moves up and down and
+meets the upper stationary die) to cut the metal. [Figure 4-22]
+The shape of the lower die cuts out small pieces of metal
+approximately 1⁄16 inch wide.
+The cutting speed of the nibbler is controlled by the thickness
+of the metal being cut. Nibblers satisfactorily cut through
+sheets of metal with a maximum thickness of 1⁄16 inch. Too
+
+Cut-off Wheel
+A cut-off wheel is a thin abrasive disc driven by a high-speed
+pneumatic die-grinder and used to cut out damage on aircraft
+skin and stringers. The wheels come in different thicknesses
+and sizes. [Figure 4-21]
+
+Figure 4-22. Nibbler.
+
+4-8
+
+===== PDF PAGE 171 =====
+much force applied to the metal during the cutting operation
+clogs the dies (shaped metal), causing them to fail or the motor
+to overheat. Both electric and hand nibblers are available.
+Shop Tools
+Due to size, weight, and/or power source, shop tools are
+usually in a fixed location, and the airframe part to be
+constructed or repaired is brought to the tool.
+
+Squaring Shear
+The squaring shear provides the airframe technician with
+a convenient means of cutting and squaring sheet metal.
+Available as a manual, hydraulic, or pneumatic model,
+this shear consists of a stationary lower blade attached to
+a bed and a movable upper blade attached to a crosshead.
+[Figure 4-23]
+Two squaring fences, consisting of thick strips of metal used
+for squaring metal sheets, are placed on the bed. One squaring
+fence is placed on the right side and one on the left to form a
+90° angle with the blades. A scale graduated in fractions of
+an inch is scribed on the bed for ease in placement.
+To make a cut with a foot shear, move the upper blade down
+by placing the foot on the treadle and pushing downward.
+Once the metal is cut and foot pressure removed, a spring
+raises the blade and treadle. Hydraulic or pneumatic models
+utilize remote foot pedals to ensure operator safety.
+
+When cutting to a line, place the sheet on the bed of the shears
+in front of the cutting blade with the cutting line even with
+the cutting edge of the bed. To cut the sheet with a foot shear,
+step on the treadle while holding the sheet securely in place.
+Squaring requires several steps. First, one end of the sheet
+is squared with an edge (the squaring fence is usually used
+on the edge). Then, the remaining edges are squared by
+holding one squared end of the sheet against the squaring
+fence and making the cut, one edge at a time, until all edges
+have been squared.
+When several pieces must be cut to the same dimensions, use
+the backstop, located on the back of the cutting edge on most
+squaring shears. The supporting rods are graduated in fractions
+of an inch and the gauge bar may be set at any point on the rods.
+Set the gauge bar the desired distance from the cutting blade of
+the shears and push each piece to be cut against the gauge bar.
+All the pieces can then be cut to the same dimensions without
+measuring and marking each one separately.
+Foot-operated shears have a maximum metal cutting capacity
+of 0.063 inch of aluminum alloy. Use powered squaring
+shears for cutting thicker metals. [Figure 4-24]
+
+The squaring shear performs three distinctly different
+operations:
+1.
+
+Cutting to a line.
+
+2.
+
+Squaring.
+
+3.
+
+Multiple cutting to a specific size.
+
+Figure 4-24. Foot-operated squaring shear.
+
+Throatless Shear
+Airframe technicians use the throatless shear to cut aluminum
+sheets up to 0.063 inches. This shear takes its name from the
+fact that metal can be freely moved around the cutting blade
+during cutting because the shear lacks a “throat” down which
+metal must be fed. [Figure 4-25] This feature allows great
+flexibility in what shapes can be cut because the metal can
+be turned to any angle for straight, curved, and irregular cuts.
+Also, a sheet of any length can be cut.
+Figure 4-23. Power squaring shear.
+
+A hand lever operates the cutting blade which is the top blade.
+4-9
+
+===== PDF PAGE 172 =====
+Figure 4-25. Throatless shears.
+Figure 4-27. Rotary punch press.
+
+Throatless shears made by the Beverly Shear Manufacturing
+Corporation, called BeverlyTM shears, are often used.
+
+Scroll Shears
+Scroll shears are used for cutting irregular lines on the
+inside of a sheet without cutting through to the edge.
+[Figure 4-26] The upper cutting blade is stationary while
+the lower blade is movable. A handle connected to the lower
+blade operates the machine.
+
+Rotary Punch Press
+Used in the airframe repair shop to punch holes in metal
+parts, the rotary punch can cut radii in corners, make washers,
+and perform many other jobs where holes are required.
+[Figure 4-27] The machine is composed of two cylindrical
+turrets, one mounted over the other and supported by the
+
+frame, with both turrets synchronized to rotate together.
+Index pins, which ensure correct alignment at all times, may
+be released from their locking position by rotating a lever
+on the right side of the machine. This action withdraws the
+index pins from the tapered holes and allows an operator to
+turn the turrets to any size punch desired.
+When rotating the turret to change punches, release the
+index lever when the desired die is within 1 inch of the ram,
+and continue to rotate the turret slowly until the top of the
+punch holder slides into the grooved end of the ram. The
+tapered index locking pins will then seat themselves in the
+holes provided and, at the same time, release the mechanical
+locking device, which prevents punching until the turrets are
+aligned. To operate the machine, place the metal to be worked
+between the die and punch. Pull the lever on the top of the
+machine toward the operator, actuating the pinion shaft, gear
+segment, toggle link, and the ram, forcing the punch through
+the metal. When the lever is returned to its original position,
+the metal is removed from the punch.
+The diameter of the punch is stamped on the front of each
+die holder. Each punch has a point in its center that is
+placed in the center punch mark to punch the hole in the
+correct location.
+
+Band Saw
+
+Figure 4-26. Scroll shears.
+
+A band saw consists of a toothed metal band coupled to,
+and continuously driven around, the circumferences of two
+wheels. It is used to cut aluminum, steel, and composite parts.
+[Figure 4-28] The speed of the band saw and the type and
+style of the blade depends on the material to be cut. Band
+saws are often designated to cut one type of material, and
+if a different material is to be cut, the blade is changed. The
+speed is controllable and the cutting platform can be tilted
+to cut angled pieces.
+4-10
+
+===== PDF PAGE 173 =====
+Figure 4-28. Band saw.
+
+Disc Sander
+Disc sanders have a powered abrasive-covered disc or belt
+and are used for smoothing or polishing surfaces. The sander
+unit uses abrasive paper of different grits to trim metal parts.
+It is much quicker to use a disc sander than to file a part to
+the correct dimension. The combination disc and belt sander
+has a vertical belt sander coupled with a disc sander and is
+often used in a metal shop. [Figure 4-29]
+
+Belt Sander
+The belt sander uses an endless abrasive belt driven by an
+electric motor to sand down metal parts much like the disc
+sander unit. The abrasive paper used on the belt comes in
+different degrees of grit or coarseness. The belt sander is
+available as a vertical or horizontal unit. The tension and
+tracking of the abrasive belt can be adjusted so the belt runs
+in the middle. [Figure 4-30]
+
+Figure 4-29. Combination disc and belt sander.
+
+Figure 4-30. Belt sander.
+
+Notcher
+The notcher is used to cut out metal parts, with some
+machines capable of shearing, squaring, and trimming metal.
+[Figure 4-31] The notcher consists of a top and bottom die
+and most often cuts at a 90° angle, although some machines
+can cut metal into angles up to 180°. Notchers are available
+in manual and pneumatic models able to cut various
+thicknesses of mild steel and aluminum. This is an excellent
+tool for quickly removing corners from sheet metal parts.
+[Figure 4-32]
+
+Wet or Dry Grinder
+Grinding machines come in a variety of types and sizes,
+depending upon the class of work for which they are to be
+used. Dry and/or wet grinders are found in airframe repair
+shops. Grinders can be bench or pedestal mounted. A dry
+grinder usually has a grinding wheel on each end of a shaft
+
+Figure 4-31. Notcher.
+
+4-11
+
+===== PDF PAGE 174 =====
+tools and grinding to close limits. It removes metal more
+slowly, gives the work a smooth finish, and does not generate
+enough heat to anneal the edges of cutting tools.
+Before using any type of grinder, ensure that the abrasive
+wheels are firmly held on the spindles by the flange nuts.
+An abrasive wheel that comes off or becomes loose could
+seriously injure the operator in addition to ruining the grinder.
+A loose tool rest could cause the tool or piece of work to be
+“grabbed” by the abrasive wheel and cause the operator’s
+hand to come in contact with the wheel, possibly resulting
+in severe wounds.
+Figure 4-32. Power notcher.
+
+that runs through an electric motor or a pulley operated by a
+belt. The wet grinder has a pump to supply a flow of water
+on a single grinding wheel. The water acts as a lubricant for
+faster grinding while it continuously cools the edge of the
+metal, reducing the heat produced by material being ground
+against the wheel. It also washes away any bits of metal or
+abrasive removed during the grinding operation. The water
+returns to a tank and can be re-used.
+Grinders are used to sharpen knives, tools, and blades as
+well as grinding steel, metal objects, drill bits, and tools.
+Figure 4-33 illustrates a common type bench grinder
+found in most airframe repair shops. It can be used to
+dress mushroomed heads on chisels and points on chisels,
+screwdrivers, and drills, as well as for removing excess metal
+from work and smoothing metal surfaces.
+The bench grinder is generally equipped with one mediumgrit and one fine-grit abrasive wheel. The medium-grit wheel
+is usually used for rough grinding where a considerable
+quantity of material is to be removed or where a smooth finish
+is unimportant. The fine-grit wheel is used for sharpening
+
+Always wear goggles when using a grinder, even if eye
+shields are attached to the grinder. Goggles should fit firmly
+against the face and nose. This is the only way to protect the
+eyes from the fine pieces of steel. Goggles that do not fit
+properly should be exchanged for ones that do fit. Be sure to
+check the abrasive wheel for cracks before using the grinder.
+A cracked abrasive wheel is likely to fly apart when turning
+at high speeds. Never use a grinder unless it is equipped with
+wheel guards that are firmly in place.
+
+Grinding Wheels
+A grinding wheel is made of a bonded abrasive and provides
+an efficient way to cut, shape, and finish metals. Available in
+a wide variety of sizes and numerous shapes, grinding wheels
+are also used to sharpen knives, drill bits, and many other
+tools, or to clean and prepare surfaces for painting or plating.
+Grinding wheels are removable and a polishing or buffing
+wheel can be substituted for the abrasive wheel. Silicon
+carbide and aluminum oxide are the kinds of abrasives used
+in most grinding wheels. Silicon carbide is the cutting agent
+for grinding hard, brittle material, such as cast iron. It is
+also used in grinding aluminum, brass, bronze, and copper.
+Aluminum oxide is the cutting agent for grinding steel and
+other metals of high tensile strength.
+Hand Cutting Tools
+Many types of hand cutting tools are available to cut light
+gauge sheet metal. Four cutting tools commonly found in the
+air frame repair shop are straight hand snips, aviation snips,
+files, and burring tools.
+
+Straight Snips
+
+Tool rest
+
+Straight snips, or sheet metal shears, have straight
+blades with cutting edges sharpened to an 85° angle.
+[Figure 4-34] Available in sizes ranging from 6 to 14 inches,
+they cut aluminum up to 1⁄16 of an inch. Straight snips can be
+used for straight cutting and large curves, but aviation snips
+are better for cutting circles or arcs.
+
+Figure 4-33. Grinder.
+
+4-12
+
+===== PDF PAGE 175 =====
+Figure 4-34. Straight snips.
+
+Figure 4-36. Files.
+
+Aviation Snips
+
+centerline, depending on the intended use of the file. Files
+that have one row of teeth crossing another row in a crisscross
+pattern are called double-cut files. The angle of the first set
+usually is 40°–50° and that of the crossing teeth 70°–80°.
+Crisscrossing produces a surface that has a very large number
+of little teeth that slant toward the tip of the file. Each little
+tooth looks like an end of a diamond point cold chisel.
+
+Aviation snips are used to cut holes, curved parts, round
+patches, and doublers (a piece of metal placed under a part
+to make it stiffer) in sheet metal. Aviation snips have colored
+handles to identify the direction of the cuts: yellow aviation
+snips cut straight, green aviation snips curve right, and red
+aviation snips curve left. [Figure 4-35]
+
+Files
+The file is an important but often overlooked tool used to
+shape metal by cutting and abrasion. Files have five distinct
+properties: length, contour, the form in cross section, the
+kind of teeth, and the fineness of the teeth. Many different
+types of files are available and the sizes range from 3 to 18
+inches. [Figure 4-36]
+The portion of the file on which the teeth are cut is called the
+face. The tapered end that fits into the handle is called the
+tang. The part of the file where the tang begins is the heel.
+The length of a file is the distance from the point or tip to the
+heel and does not include the tang. The teeth of the file do
+the cutting. These teeth are set at an angle across the face of
+the file. A file with a single row of parallel teeth is called a
+single-cut file. The teeth are cut at an angle of 65°–85° to the
+
+Files are graded according to the tooth spacing; a coarse file
+has a small number of large teeth, and a smooth file has a large
+number of fine teeth. The coarser the teeth, the more metal is
+removed on each stroke of the file. The terms used to indicate
+the coarseness or fineness of a file are rough, coarse, bastard,
+second cut, smooth, and dead smooth, and the file may be
+either single cut or double cut. Files are further classified
+according to their shape. Some of the more common types
+are: flat, triangle, square, half round, and round.
+There are several filing techniques. The most common is to
+remove rough edges and slivers from the finished part before
+it is installed. Crossfiling is a method used for filing the
+edges of metal parts that must fit tightly together. Crossfiling
+involves clamping the metal between two strips of wood
+and filing the edge of the metal down to a preset line. Draw
+filing is used when larger surfaces need to be smoothed and
+squared. It is done by drawing the file over the entire surface
+of the work.
+To protect the teeth of a file, files should be stored separately
+in a plastic wrap or hung by their handles. Files kept in a
+toolbox should be wrapped in waxed paper to prevent rust
+from forming on the teeth. File teeth can be cleaned with a
+file card.
+
+Die Grinder
+
+Figure 4-35. Aviation snips.
+
+A die grinder is a handheld tool that turns a mounted
+cutoff wheel, rotary file, or sanding disc at high speed.
+[Figure 4-37] Usually powered by compressed air, electric
+die grinders are also used. Pneumatic die grinders run at
+4-13
+
+===== PDF PAGE 176 =====
+12,000 to 20,000 revolutions per minute (rpm) with the
+rotational speed controlled by the operator who uses a handor foot-operated throttle to vary the volume of compressed
+air. Available in straight, 45°, and 90° models, the die
+grinder is excellent for weld breaking, smoothing sharp
+edges, deburring, porting, and general high-speed polishing,
+grinding, and cutting.
+
+electric drill motor might become a fire hazard.
+
+Figure 4-37. Die grinder.
+
+Pneumatic Drill Motors
+
+Burring Tool
+This type of tool is used to remove a burr from an edge of a
+sheet or to deburr a hole. [Figure 4-38]
+
+Hole Drilling
+Drilling holes is a common operation in the airframe repair
+shop. Once the fundamentals of drills and their uses are
+learned, drilling holes for rivets and bolts on light metal is
+not difficult. While a small portable power drill is usually
+the most practical tool for this common operation in airframe
+metalwork, sometimes a drill press may prove to be the better
+piece of equipment for the job.
+Portable Power Drills
+Portable power drills operate by electricity or compressed air.
+Pneumatic drill motors are recommended for use on repairs
+around flammable materials where potential sparks from an
+
+Figure 4-38. Burring tools.
+
+When using the portable power drill, hold it firmly with both
+hands. Before drilling, be sure to place a backup block of
+wood under the hole to be drilled to add support to the metal
+structure. The drill bit should be inserted in the chuck and
+tested for trueness or vibration. This may be visibly checked
+by running the motor freely. A drill bit that wobbles or is
+slightly bent should not be used since such a condition causes
+enlarged holes. The drill should always be held at right angles
+to the work regardless of the position or curvatures. Tilting
+the drill at any time when drilling into or withdrawing from
+the material may cause elongation (egg shape) of the hole.
+When drilling through sheet metal, small burrs are formed
+around the edge of the hole. Burrs must be removed to allow
+rivets or bolts to fit snugly and to prevent scratching. Burrs
+may be removed with a bearing scraper, a countersink, or
+a drill bit larger than the hole. If a drill bit or countersink
+is used, it should be rotated by hand. Always wear safety
+goggles while drilling.
+
+Pneumatic drill motors are the most common type of drill
+motor for aircraft repair work. [Figure 4-39] They are
+lightweight and have sufficient power and good speed
+control. Drill motors are available in many different sizes
+and models. Most drill motors used for aircraft sheet metal
+work are rated at 3,000 rpm, but if drilling deep holes or
+drilling in hard materials, such as corrosion resistant steel
+or titanium, a drill motor with more torque and lower rpm
+should be selected to prevent damage to tools and materials.
+
+Right Angle & 45° Drill Motors
+Right angle and 45° drill motors are used for positions that are
+not accessible with a pistol grip drill motor. Most right angle
+drill motors use threaded drill bits that are available in several
+lengths. Heavy-duty right angle drills are equipped with a
+chuck similar to the pistol grip drill motor. [Figure 4-40]
+
+Figure 4-39. Drill motors.
+
+4-14
+
+===== PDF PAGE 177 =====
+Figure 4-40. Angle drill motors.
+
+Figure 4-42. Drill press.
+
+Two Hole
+
+table and the drill is brought down to aid in positioning the
+metal so that the hole to be drilled is directly beneath the point
+of the drill. The part is then clamped to the drill press table to
+prevent it from slipping during the drilling operation. Parts
+not properly clamped may bind on the drill and start spinning,
+causing serious cuts on the operator’s arms or body, or loss
+of fingers or hands. Always make sure the part to be drilled
+is properly clamped to the drill press table before starting
+the drilling operation.
+
+Special drill motors that drill two holes at the same time are
+used for the installation of nutplates. By drilling two holes
+at the same time, the distance between the holes is fixed and
+the holes line up perfectly with the holes in the nutplate.
+[Figure 4-41]
+Drill Press
+The drill press is a precision machine used for drilling holes
+that require a high degree of accuracy. It serves as an accurate
+means of locating and maintaining the direction of a hole that
+is to be drilled and provides the operator with a feed lever
+that makes the task of feeding the drill into the work easier.
+The upright drill press is the most common of the variety of
+drill presses available. [Figure 4-42]
+When using a drill press, the height of the drill press table is
+adjusted to accommodate the height of the part to be drilled.
+When the height of the part is greater than the distance
+between the drill and the table, the table is lowered. When
+the height of the part is less than the distance between the
+drill and the table, the table is raised.
+After the table is properly adjusted, the part is placed on the
+
+The degree of accuracy that it is possible to attain when using
+the drill press depends to a certain extent on the condition of
+the spindle hole, sleeves, and drill shank. Therefore, special
+care must be exercised to keep these parts clean and free from
+nicks, dents, and warpage. Always be sure that the sleeve is
+securely pressed into the spindle hole. Never insert a broken
+drill in a sleeve or spindle hole. Be careful never to use the
+sleeve-clamping vise to remove a drill since this may cause
+the sleeve to warp.
+The drill speed on a drill press is adjustable. Always select the
+optimum drill speed for the material to be drilled. Technically,
+the speed of a drill bit means its speed at the circumference,
+in surface feet per minute (sfm). The recommended speed for
+drilling aluminum alloy is from 200 to 300 sfm, and for mild
+steel is 30 to 50 sfm. In practice, this must be converted into
+rpm for each size drill. Machinist and mechanic handbooks
+include drill rpm charts or drill rpm may be computed by
+use of the formula:
+CS × 4 = rpm
+D
+CS = The recommended cutting speed in sfm
+D = The diameter of the drill bit in inches
+
+Figure 4-41. Nutplate drill.
+
+Drill Extensions & Adapters
+When access to a place where drilling is difficult or
+impossible with a straight drill motor, various types of drill
+extensions and adapters are used.
+4-15
+
+===== PDF PAGE 178 =====
+Extension Drill Bits
+Extension drill bits are widely used for drilling holes in
+locations that require reaching through small openings or
+past projections. These drill bits, which come in 6- to 12inch lengths, are high speed with spring-tempered shanks.
+Extension drill bits are ground to a special notched point,
+which reduces end thrust to a minimum. When using
+extension drill bits always:
+1.
+
+Select the shortest drill bit that will do the job. It is
+easier to control.
+
+2.
+
+Check the drill bit for straightness. A bent drill bit
+makes an oversized hole and may whip, making it
+difficult to control.
+
+3.
+
+Keep the drill bit under control. Extension drills
+smaller than 1⁄4-inch must be supported by a drill
+guard made from a piece of tubing or spring to prevent
+whipping.
+
+Straight Extension
+A straight extension for a drill can be made from an ordinary
+piece of drill rod. The drill bit is attached to the drill rod by
+shrink fitting, brazing, or silver soldering.
+
+Types of Drill Bits
+A wide variety of drill bits including specialty bits for specific
+jobs are available. Figure 4-44 illustrates the parts of the
+drill bit and Figure 4-45 shows some commonly used drill
+bits. High speed steel (HSS) drill bits come in short shank or
+standard length, sometimes called jobbers length. HSS drill
+bits can withstand temperatures nearing the critical range of
+1,400 °F (dark cherry red) without losing their hardness. The
+industry standard for drilling metal (aluminum, steel, etc.),
+these drill bits stay sharper longer.
+
+Step Drill Bits
+Typically, the procedure for drilling holes larger than 3⁄16
+inch in sheet metal is to drill a pilot hole with a No. 40 or
+No. 30 drill bit and then to oversize with a larger drill bit to
+the correct size. The step drill combines these two functions
+into one step. The step drill bit consists of a smaller pilot
+drill point that drills the initial small hole. When the drill bit
+is advanced further into the material, the second step of the
+drill bit enlarges the hole to the desired size.
+Step drill bits are designed to drill round holes in most metals,
+
+Angle Adapters
+Angle adapters can be attached to an electric or pneumatic
+drill when the location of the hole is inaccessible to a straight
+drill. Angle adapters have an extended shank fastened to
+the chuck of the drill. The drill is held in one hand and the
+adapter in the other to prevent the adapter from spinning
+around the drill chuck.
+
+Snake Attachment
+The snake attachment is a flexible extension used for drilling in
+places inaccessible to ordinary drills. Available for electric and
+pneumatic drill motors, its flexibility permits drilling around
+obstructions with minimum effort. [Figure 4-43]
+
+Land
+
+Shank
+
+Flute
+
+Cutting lips
+
+Body
+
+Notched point chisel edge
+Figure 4-44. Parts of a drill.
+
+HSS
+High speed steel, short shank
+HSS
+High speed steel, standard length (jobbers length)
+c/v
+Cobalt vanadium alloy, standard length
+
+Step drill
+Figure 4-43. Snake attachment.
+
+Figure 4-45. Types of drill bits.
+
+4-16
+
+===== PDF PAGE 179 =====
+plastic, and wood. Commonly used in general construction
+and plumbing, they work best on softer materials, such as
+plywood, but can be used on very thin sheet metal. Step drill
+bits can also be used to deburr holes left by other bits.
+
+Cobalt Alloy Drill Bits
+Cobalt alloy drill bits are designed for hard, tough metals like
+corrosion-resistant steel and titanium. It is important for the
+aircraft technician to note the difference between HSS and
+cobalt, because HSS drill bits wear out quickly when drilling
+titanium or stainless. Cobalt drill bits are excellent for drilling
+titanium or stainless steel, but do not produce a quality hole
+in aluminum alloys. Cobalt drill bits can be recognized by
+thicker webs and a taper at the end of the drill shank.
+
+Twist Drill Bits
+Easily the most popular drill bit type, the twist drill bit has
+spiral grooves or flutes running along its working length.
+[Figure 4-46] This drill bit comes in a single-fluted, twofluted, three-fluted, and four-fluted styles. Single-fluted and
+two-fluted drill bits (most commonly available) are used for
+originating holes. Three-fluted and four-fluted drill bits are
+used interchangeably to enlarge existing holes. Twist drill
+bits are available in a wide choice of tooling materials and
+lengths with the variations targeting specific projects.
+The standard twist drill bits used for drilling aluminum are
+made from HSS and have a 135° split point. Drill bits for
+titanium are made from cobalt vanadium for increased wear
+resistance.
+Drill Bit Sizes
+Drill diameters are grouped by three size standards: number,
+letter, and fractional. The decimal equivalents of standard
+drill are shown in Figure 4-47.
+Drill Lubrication
+Normal drilling of sheet material does not require lubrication,
+but lubrication should be provided for all deeper drilling
+
+Lubricants serve to assist in chip removal, which prolongs drill
+life and ensures a good finish and dimensional accuracy of the
+hole. It does not prevent overheating. The use of a lubricant
+is always a good practice when drilling castings, forgings, or
+heavy gauge stock. A good lubricant should be thin enough
+to help in chip removal but thick enough to stick to the drill.
+For aluminum, titanium, and corrosion-resistant steel, a cetyl
+alcohol based lubricant is the most satisfactory. Cetyl alcohol is
+a nontoxic fatty alcohol chemical produced in liquid, paste, and
+solid forms. The solid stick and block forms quickly liquefy at
+drilling temperatures. For steel, sulfurized mineral cutting oil is
+superior. Sulfur has an affinity for steel, which aids in holding
+the cutting oil in place. In the case of deep drilling, the drill
+should be withdrawn at intervals to relieve chip packing and
+to ensure the lubricant reaches the point. As a general rule, if
+the drill is large or the material hard, use a lubricant.
+Reamers
+Reamers, used for enlarging holes and finishing them
+smooth to a required size, are made in many styles. They
+can be straight or tapered, solid or expansive, and come
+with straight or helical flutes. Figure 4-48 illustrates three
+types of reamers:
+1.
+
+Three or four fluted production bullet reamers are
+customarily used where a finer finish and/or size is
+needed than can be achieved with a standard drill bit.
+
+2.
+
+Standard or straight reamer.
+
+3.
+
+Piloted reamer, with the end reduced to provide
+accurate alignment.
+
+The cylindrical parts of most straight reamers are not cutting
+edges, but merely grooves cut for the full length of the reamer
+body. These grooves provide a way for chips to escape and
+a channel for lubricant to reach the cutting edge. Actual
+cutting is done on the end of the reamer. The cutting edges
+are normally ground to a bevel of 45° ± 5°.
+Reamer flutes are not designed to remove chips like a drill.
+Do not attempt to withdraw a reamer by turning it in the
+reverse direction because chips can be forced into the surface,
+scarring the hole.
+Drill Stops
+A spring drill stop is a wise investment. [Figure 4-49]
+Properly adjusted, it can prevent excessive drill penetration
+that might damage underlying structure or injure personnel
+and prevent the drill chuck from marring the surface. Drill
+stops can be made from tubing, fiber rod, or hard rubber.
+
+Figure 4-46. Twist drill bits.
+
+Drill Bushings & Guides
+There are several types of tools available that aid in holding
+the drill perpendicular to the part. They consist of a hardened
+bushing anchored in a holder. [Figure 4-50]
+4-17
+
+===== PDF PAGE 180 =====
+Drill
+Size
+
+Decimal
+(Inches)
+
+Drill
+Size
+
+Decimal
+(Inches)
+
+Drill
+Size
+
+Decimal
+(Inches)
+
+Drill
+Size
+
+Decimal
+(Inches)
+
+Drill
+Size
+
+Decimal
+(Inches)
+
+80
+
+.0135
+
+50
+
+.0700
+
+22
+
+79
+
+.0145
+
+49
+
+.0730
+
+21
+
+.1570
+
+G
+
+.2610
+
+31/64
+
+.4844
+
+.1590
+
+17/64
+
+.2656
+
+1/2
+
+1/54
+
+.0156
+
+48
+
+.0760
+
+.5000
+
+20
+
+.1610
+
+H
+
+.2660
+
+33/64
+
+78
+
+.0160
+
+5/64
+
+.0781
+
+.5156
+
+19
+
+.1660
+
+I
+
+.2720
+
+17/32
+
+.5312
+
+77
+
+.0180
+
+47
+
+76
+
+.0200
+
+46
+
+.0785
+
+18
+
+.1695
+
+J
+
+.2770
+
+35/64
+
+.5469
+
+.0810
+
+11/64
+
+.1718
+
+K
+
+.2810
+
+9/16
+
+75
+
+.0210
+
+.5625
+
+45
+
+.0820
+
+17
+
+.1730
+
+9/32
+
+.2812
+
+37/64
+
+74
+
+.5781
+
+.0225
+
+44
+
+.0860
+
+16
+
+.1770
+
+L
+
+.2900
+
+19/32
+
+.5937
+
+73
+
+.0240
+
+43
+
+.0890
+
+15
+
+.1800
+
+M
+
+.2950
+
+39/84
+
+.6094
+
+72
+
+.0250
+
+42
+
+.0935
+
+14
+
+.1820
+
+19/64
+
+.2968
+
+5/8
+
+.6250
+
+71
+
+.0260
+
+3/32
+
+.0937
+
+13
+
+.1850
+
+N
+
+.3020
+
+41/64
+
+.6406
+
+70
+
+.0280
+
+41
+
+.0960
+
+3/16
+
+.1875
+
+5/16
+
+.3125
+
+21/32
+
+.6562
+
+69
+
+.0293
+
+40
+
+.0980
+
+12
+
+.1890
+
+O
+
+.3160
+
+43/64
+
+.6719
+
+68
+
+.0310
+
+39
+
+.0995
+
+11
+
+.1910
+
+P
+
+.3230
+
+11/16
+
+.6875
+
+1/32
+
+.0312
+
+38
+
+.1015
+
+10
+
+.1935
+
+21/64
+
+.3281
+
+45/64
+
+.7031
+
+67
+
+.0320
+
+37
+
+.1040
+
+9
+
+.1960
+
+Q
+
+.3320
+
+23/32
+
+.7187
+
+66
+
+.0330
+
+36
+
+.1065
+
+8
+
+.1990
+
+R
+
+.3390
+
+47/64
+
+.7344
+
+65
+
+.0350
+
+7/64
+
+.1093
+
+7
+
+.2010
+
+11/32
+
+.3437
+
+3/4
+
+.7500
+
+64
+
+.0360
+
+35
+
+.1100
+
+13/64
+
+.2031
+
+S
+
+.3480
+
+49/64
+
+.7656
+
+63
+
+.0370
+
+34
+
+.1110
+
+6
+
+.2040
+
+T
+
+.3580
+
+25/32
+
+.7812
+
+62
+
+.0380
+
+33
+
+.1130
+
+5
+
+.2055
+
+23/64
+
+.3593
+
+51/64
+
+.7969
+
+61
+
+.0390
+
+32
+
+.1160
+
+4
+
+.2090
+
+U
+
+.3680
+
+13/16
+
+.8125
+
+60
+
+.0400
+
+31
+
+.1200
+
+3
+
+.2130
+
+3/8
+
+.3750
+
+53/64
+
+.8281
+
+59
+
+.0410
+
+1/8
+
+.1250
+
+7/32
+
+.2187
+
+V
+
+.3770
+
+27/32
+
+.8437
+
+58
+
+.0420
+
+30
+
+.1285
+
+2
+
+.2210
+
+W
+
+.3860
+
+55/64
+
+.8594
+
+57
+
+.0430
+
+29
+
+.1360
+
+1
+
+.2280
+
+25/64
+
+.3906
+
+7/8
+
+.8750
+
+56
+
+.0465
+
+28
+
+.1405
+
+A
+
+.2340
+
+X
+
+.3970
+
+57/64
+
+.8906
+
+3/64
+
+.0468
+
+9/64
+
+.1406
+
+15/64
+
+.2343
+
+Y
+
+.4040
+
+29/32
+
+.9062
+
+55
+
+.0520
+
+27
+
+.1440
+
+B
+
+.2380
+
+13/32
+
+.4062
+
+59/64
+
+.9219
+
+54
+
+.0550
+
+26
+
+.1470
+
+C
+
+.2420
+
+Z
+
+.4130
+
+15/16
+
+.9375
+
+53
+
+.0595
+
+25
+
+.1495
+
+D
+
+.2460
+
+27/64
+
+.4219
+
+61/64
+
+.9531
+
+1/16
+
+.0625
+
+24
+
+.1520
+
+1/4
+
+.2500
+
+7/16
+
+.4375
+
+31/32
+
+.9687
+
+52
+
+.0635
+
+23
+
+.1540
+
+E
+
+.2500
+
+29/64
+
+.4531
+
+63/64
+
+.9844
+
+51
+
+.0670
+
+5/32
+
+.1562
+
+F
+
+.2570
+
+15/32
+
+.4687
+
+1
+
+1.0000
+
+Figure 4-47. Drill sizes and decimal equivalents.
+
+1
+
+2
+
+3
+
+HSS
+
+Figure 4-49. Drill stop.
+
+Figure 4-48. Reamers.
+
+4-18
+
+===== PDF PAGE 181 =====
+Bushing holder
+
+Arm-type bushing holder
+
+Figure 4-50. Drill bushings.
+
+Drill bushing types:
+1.
+
+Tube—hand-held in an existing hole
+
+2.
+
+Commercial—twist lock
+
+3.
+
+Commercial—threaded
+
+Figure 4-51. Bushing holder.
+
+Drill Bushing Holder Types
+There are four types of drill bushing holder:
+1.
+
+Standard—fine for drilling flat stock or tubing/rod;
+uses insert-type bushings.
+
+2.
+
+Egg cup—improvement on standard tripod base;
+allows drilling on both flat and curved material;
+interchangeable bushings allows flexibility.
+[Figure 4-51]
+
+3.
+
+Plate—used primarily for interchangeable production
+components; uses commercial bushings and selffeeding drills.
+
+4.
+
+Arm—used when drilling critical structure; can be
+locked in position; uses interchangeable commercial
+bushings.
+
+Hole Drilling Techniques
+Precise location of drilled holes is sometimes required.
+When locating holes to close tolerances, accurately located
+punch marks need to be made. If a punch mark is too small,
+the chisel edge of the drill bit may bridge it and “walk off”
+the exact location before starting. If the punch mark is too
+heavy, it may deform the metal and/or result in a local strain
+hardening where the drill bit is to start cutting. The best size
+for a punch mark is about the width of the chisel edge of the
+drill bit to be used. This holds the drill point in place while
+starting. The procedure that ensures accurate holes follows:
+[Figure 4-52]
+1.
+
+Figure 4-52. Drilled sheet metal.
+
+surface element of the twist drill bit because it does
+not cut, but actually squeezes or extrudes the work
+material.
+2.
+
+Use a sharp prick punch or spring-loaded center punch
+and magnifying glass to further mark the holes.
+
+3.
+
+Seat a properly ground center punch (120°–135°) in
+the prick punch mark and, holding the center punch
+perpendicular to the surface, strike a firm square blow
+with a hammer.
+
+4.
+
+Mark each hole with a small drill bit ( 1⁄16-inch
+recommended) to check and adjust the location prior
+to pilot drilling.
+
+5.
+
+For holes 3⁄ 16-inch and larger, pilot drilling is
+recommended. Select a drill bit equal to the width of
+the chisel edge of the final drill bit size. Avoid using
+a pilot drill bit that is too large because it would cause
+the corners and cutting lips of the final drill bit to
+be dulled, burned, or chipped. It also contributes to
+chattering and drill motor stalling. Pilot drill at each
+mark.
+
+6.
+
+Place the drill point at the center of the crossed lines,
+
+Measure and lay out the drill locations carefully and
+mark with crossed lines.
+Note: The chisel edge is the least efficient operating
+
+4-19
+

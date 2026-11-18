@@ -1,0 +1,773 @@
+AC 43.13-1B Chg 1, chapter 6 (Corrosion, Inspection, And Protection), PDF pages 339-355
+
+===== PDF PAGE 339 =====
+9/8/98  AC 43.13-1B
+
+will appear as a powdery crust slightly different in color from the uncorroded base metal.
+Darkening of area due to shadows and reaction from the acid remover should not be considered.
+
+   (e) Once the corrosion has been removed and the area well rinsed with clean water,
+a chromate conversion coating, such as MIL-C-81706 or MIL-C-5541 Alodine 1200, must be
+applied immediately thereafter.
+
+   e. Remove moderate to heavy corrosion with one of the following:
+
+   (1) Powered Corrosion Removal.
+
+   (a) Where the problem is severe enough to warrant the use of power tools, a
+pneumatic drill motor driving either an aluminum-oxide-impregnated nylon abrasive wheel, flap
+brush, or rubber grinding wheel may be used with an abrasive value to approximately 120 grit, as
+needed. Corrosion-removal accessories, such as flap brushes or rotary files, should be used on
+one type of metal only. For example, a flap brush used to remove aluminum should not be used
+to remove magnesium, steel, etc. Pneumatic sanders may be used with disc and paper acceptable
+for use on aluminum.
+
+   (b) When mechanically removing corrosion from aluminum, especially aircraft skin
+thinner than 0.0625 inch, extreme care must be used. Vigorous, heavy, and continuous abrasive
+grinding can generate enough heat to cause metallurgical change. If heat damage is suspected,
+hardness tests or conductivity tests must be accomplished to verify condition of the metal. The
+use of powered rotary files should be limited to heavy corrosion and should not be used on skin
+thinner than 0.0625 inch.
+
+   (2) Blasting.
+
+   (a) Abrasive blasting may be used on aluminum alloys using glass beads
+(Specification MIL-G-9954), sizes 10–13, or grain abrasive (Specification A-A-1722), types I
+and III, may be used as an alternate method of removing corrosion from clad and nonclad
+aluminum alloys. Abrasive blasting should not be used to remove heavy corrosion products.
+Direct pressure machines should have the nozzle pressure set at 30–40 psi for clad aluminum
+alloys and 40–45 psi for nonclad aluminum alloys. Engineering approval should be obtained
+prior to abrasive blasting metal thinner than 0.0625 inch.
+
+   (b) When using abrasive blasting on aluminum alloys, do not allow the blast stream
+to dwell on the same spot longer than 15 seconds. Longer dwell times will cause excessive metal
+removal. Intergranular exfoliation corrosion is not to be removed by abrasive blasting; however,
+blasting may be used with powered corrosion removal to determine whether all exfoliation
+corrosion has been removed.
+
+   f. Inspect the area for remaining corrosion. Repeat procedure if any corrosion remains.
+
+   NOTE: If corrosion remains after the second attempt, use a stronger
+   method, e.g., chemical to mechanical.
+
+Par 6-136  Page 6-33
+
+===== PDF PAGE 340 =====
+9/8/98  AC 43.13-1B
+
+   g. Using a blend ratio of 20:1 (length to depth), blend and finish the corrosion rework
+area with progressively finer abrasive paper until 400-grit paper is used.
+
+   h. Clean reworked area using dry cleaning solvent. Do not use kerosene or any other
+petroleum base fuel as a cleaning solvent.
+
+   i. Determine depth of faired depressions to ensure that rework limits have not been
+exceeded.
+
+   j. Apply chemical conversion coating, MIL-C-81706, immediately after reworking. If
+48 hours or more have elapsed since the conversion coating was first applied and the primer or
+final paint system has not yet been applied, then reapply the conversion coating before
+continuing.
+
+   NOTE: These solutions should not be allowed to come in contact with
+   magnesium or high-strength steels (180,000 psi). Do not permit solutions or
+   materials to contact paint thinner, acetone, or other combustible material;
+   fire may result.
+
+   k. Apply paint finish to area.
+
+6-137.–6-147. [RESERVED.]
+
+Par 6-136  Page 6-34
+
+===== PDF PAGE 341 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 9. MAGNESIUM AND MAGNESIUM ALLOYS
+
+6-148. GENERAL. Magnesium and magnesium alloys are the most chemically active of the
+metals used in aircraft construction and are the most difficult to protect. However, corrosion on
+magnesium surfaces is probably the easiest to detect in its early stages. Since magnesium
+corrosion products occupy several times the volume of the original magnesium metal destroyed,
+initial signs show a lifting of the paint films and white spots on the magnesium surface. These
+rapidly develop into snow-like mounds or even white whiskers. The prompt and complete
+correction of the coating failure is imperative if serious structural damage is to be avoided.
+
+6-149. TREATMENT OF WROUGHT MAGNESIUM SHEETS AND FORGINGS.
+Corrosive attack on magnesium skins will usually occur around the edges of skin panels,
+underneath holddown washers, or in areas physically damaged by shearing, drilling, abrasion, or
+impact. Entrapment of moisture under and behind skin crevices is frequently a contributing
+factor. If the skin section can be easily removed, this should be accomplished to ensure complete
+inhibition and treatment.
+
+   a. Complete mechanical removal of corrosion products should be practiced when
+practical. Mechanical cleaning should normally be limited to the use of stiff bristle brushes and
+similar nonmetallic cleaning tools.
+
+   b. Any entrapment of steel particles from steel wire brushes, steel tools, or
+contamination of treated surfaces, or dirty abrasives, can cause more trouble than the initial
+corrosive attack. The following procedural summary is recommended for treatment of corroded
+magnesium areas when accomplished under most field conditions.
+
+   c. When aluminum insulating washers are used and they no longer fasten tightly to
+magnesium panels, corrosion is likely to occur under the washers if corrective measures are not
+taken.
+
+   (1) When machine screw fasteners are used, aluminum insulating washers must be
+removed from all locations to surface-treat the magnesium panel.
+
+   (2) Where permanent fasteners other than machine screws are used, the insulating
+washer and fastener must be removed.
+
+   (3) When located so water can be trapped in the counterbored area where the washer
+was located, use sealants to fill the counterbore. If necessary, fill several areas adjacent to each
+other. It may be advantageous to cover the entire row of fasteners with a strip of sealant.
+
+6-150. REPAIR OF MAGNESIUM SHEET METAL AFTER EXTENSIVE CORROSION
+REMOVAL. The same general instructions apply when making repairs in magnesium as in
+aluminum alloy skin, except that two coats of epoxy primer may be required on both the doubler
+and skin being patched instead of one. Where it is difficult to form magnesium alloys in the
+contour, aluminum alloy may be utilized. When this is done, it is necessary to ensure effective
+dissimilar metal insulation. Vinyl tape will ensure positive separation of dissimilar metals, but
+edges will still have to be sealed to prevent entrance of moisture between mating surfaces at all
+
+Par 6-148  Page 6-35
+
+===== PDF PAGE 342 =====
+9/8/98  AC 43.13-1B
+
+points where repairs are made. It is recommended that only noncorrosive-type sealant be used,
+since it serves a dual purpose of material separation and sealing.
+
+6-151. IN-PLACE TREATMENT OF MAGNESIUM CASTINGS. Magnesium castings, in
+general, are more porous and more prone to penetrating attack than wrought magnesium skin.
+However, treatment in the field is, for all practical purposes, the same for all magnesium.
+Bellcranks, fittings, and numerous covers, plates, and handles may also be magnesium castings.
+When attack occurs on a casting, the earliest practical treatment is required to prevent dangerous
+corrosive penetration. Engine cases in saltwater can develop moth holes and complete
+penetration overnight.
+
+   a. If at all practical, faying surfaces involved shall be separated to treat the existing
+attack effectively and prevent its further progress. The same general treatment sequence as
+detailed for magnesium skin should be followed. Where engine cases are concerned, baked
+enamel overcoats are usually involved rather than other top coat finishes. A good air-drying
+enamel can be used to restore protection.
+
+   b. If extensive removal of corrosion products from a structural casting is involved, a
+decision from the aircraft manufacturer or a DER may be necessary to evaluate the adequacy of
+structural strength remaining. Refer to the aircraft manufacturer if any questions of safety are
+involved.
+
+6-152. EXAMPLE OF REMOVING CORROSION FROM MAGNESIUM. If possible,
+corroded magnesium parts shall be removed from aircraft. When impossible to remove the part,
+the following procedure will be used.
+
+   a. Positively identify metal as magnesium.
+
+   b. Clean area to be reworked.
+
+   c. Strip paint if required.
+
+   d. Determine the extent of corrosion damage.
+
+   e. Remove light to moderate corrosion by one of the following means:
+
+   (1) Nonpowered Corrosion Removal.
+
+   (a) Nonpowered removal can be accomplished using abrasive mats, cloth, and paper
+with aluminum oxide grit (do not use silicon carbide abrasive). Metallic wools and hand brushes
+compatible with magnesium, such as stainless steel and aluminum, may be used.
+
+   (b) When a brush is used, the bristles should not exceed 0.010 inch in diameter.
+After using a brush, the surface should be polished with 400-grit aluminum oxide abrasive paper,
+then with 600-grit aluminum oxide abrasive paper.
+
+   (c) Pumice powder may be used to remove stains or to remove corrosion on thin
+metal surfaces where minimum metal removal is allowed.
+
+Par 6-150  Page 6-36
+
+===== PDF PAGE 343 =====
+9/8/98  AC 43.13-1B
+
+   (2) Chemical Corrosion Removal.
+
+   (a) Chemical corrosion removal on magnesium alloys is usually done with a
+chromic acid pickle solution. Chemical corrosion removal methods are not considered adequate
+for areas that have:
+
+   1. Deep pitting,
+
+   2. Heavy corrosion and corrosion byproducts,
+
+   3. Previously had corrosion removed by mechanical means, or
+
+   4. Previously been sandblasted.
+
+   (b) Do not use this method for parts containing copper and steel-based inserts
+(unless the inserts are masked off) and where it might come into contact with adhesive-bonded
+skins or parts.
+
+   (3) The following solution may be used to remove surface oxidation and light corrosion
+products from magnesium surfaces.
+
+   (a) Solution Composition and Operation:
+
+   1. Chromium Trioxide. 24 oz.
+
+   2. (A-A-55827, Type II). Water to Make 1 gal. Reaction Time 1 to 15 min.
+
+   3. Operation Temperature. (Solution can be operated at room temperature for a
+longer reaction time if desired.) 190 to 202 °F.
+
+   4. Container Construction. Lead-lined steel, stainless steel, or 1100 aluminum.
+
+   (b) Mask off nearby operating mechanisms, cracks, and plated steel to keep the
+solution from attacking them.
+
+   (c) Apply chromic acid solution carefully to the corroded area with an acid-resistant
+brush.
+
+   (d) Allow the solution to remain on the surface for approximately 15 minutes.
+Agitation may be required.
+
+   (e) Thoroughly rinse the solution from the surface with plenty of clean water.
+
+   (f) Repeat the preceding sequence as necessary until all corrosion products have
+been removed and the metal is a bright metallic color.
+
+   f. Remove moderate to heavy corrosion by one of the following means:
+
+Par 6-152  Page 6-37
+
+===== PDF PAGE 344 =====
+9/8/98  AC 43.13-1B
+
+   (1) Powered Corrosion Removal.
+
+   (a) Powered corrosion removal can be accomplished using a pneumatic drill motor
+with either an aluminum-oxide-impregnated abrasive wheel, flap brush, or rubber grinding wheel
+with an abrasive value to approximately 120-grain size.
+
+   (b) Also, a rotary file with fine flutes can be used for severe or heavy corrosion
+product buildup on metals thicker than 0.0625 inch. If a flap brush or rotary file is used, it should
+only be used on one type of metal. Do not use either a hand or rotary carbon steel brush on
+magnesium.
+
+   (c) Pneumatic sanders are acceptable if used with disc or paper of aluminum oxide.
+When using sanders, use extra care to avoid overheating aircraft skins thinner than 0.0625 inch.
+
+   (d) Do not use rotary wire brushes on magnesium.
+
+   WARNING: Cuttings and small shavings from magnesium can ignite easily
+   and are an extreme fire hazard. Fires of this metal must be extinguished with
+   absolutely dry talc, calcium carbonate, sand, or graphite by applying the
+   powder to a depth of 1/2 inch over the metal.
+
+   (2) Blasting. Abrasive blasting is an approved method of corrosion removal on
+magnesium alloys of a thickness greater than 0.0625 inch. Remove heavy corrosion products by
+hand brushing with a stainless steel or fiber brush, followed by vacuum abrasive blasting with
+glass beads (Specification MIL-G-9954), sizes 10–13, or grain abrasive (Specification
+A-A-1722), type I or III, at an air pressure of 10–35 psi (if suction equipment is used, use a
+50 percent higher pressure). Upon completion of blasting, inspect for the presence of corrosion in
+the blast area. Give particular attention to areas where pitting has progressed into intergranular
+attack. This is necessary because abrasive blasting has a tendency to close up streaks of
+intergranular corrosion rather than remove them if the operator uses an improper impingement
+angle. If the corrosion has not been removed in a total blasting time of 60 seconds on any one
+specific area, other mechanical methods of removal should be utilized.
+
+   CAUTION: When blasting magnesium alloys, do not allow the blast stream
+   to dwell on the same spot longer than 15 seconds. Longer dwell times will
+   cause excessive metal removal.
+
+   g. Inspect the reworked area to ensure that no corrosion products remain. If corrosion
+products are found, repeat method used and reinspect.
+
+   h. Fair depressions resulting from rework using a blend ratio of 20:1. Clean rework area
+using 240-grit abrasive paper. Smooth with 300 grit and finally polish with 400-grit abrasive
+paper.
+
+   i. Determine depth of faired depressions to ensure that rework limits have not been
+exceeded. Refer to the manufacturer’s specifications.
+
+Par 6-152  Page 6-38
+
+===== PDF PAGE 345 =====
+9/8/98  AC 43.13-1B
+
+   j. Clean reworked area using a solvent to provide a water-break-free surface. Do not use
+kerosene or another petroleum base fuel as a cleaning solvent.
+
+   k. Apply chromic acid brush-on pretreatment.
+
+   (1) Chemical pretreatment such as the following chromic acid solution (conversion coat
+conforming to Specification SAE-AMS-M-3171, type VI) provides a passive surface layer with
+an inhibitive characteristic that resists corrosive attack and also provides a bond for subsequent
+coatings. Properly applied magnesium pretreatment tends to neutralize corrosion media in
+contact with the surface.
+
+   (2) The chromic acid brush-on pretreatment may be applied to all magnesium parts that
+require touchup. This treatment is generally used in refinishing procedures or when parts and
+assemblies are too large to be immersed. This treatment is less critical to apply than the other
+brush-on treatments. It is relatively inexpensive and not as harmful when trapped in faying
+surfaces.
+
+   (a) Solution Composition and Operation:
+
+   1. Distilled Water 1 gal.
+
+   2. Chromic Acid (CrO3) 1.3 oz.
+
+   3. (99.5 pure), Calcium Sulfate 1 oz. (CaSo4.2H2O)
+
+   4. Operating Temp. 70–90 °F.
+
+   5. Container: Stainless Steel, Aluminum, Vinyl, Polyethylene, or Rubber.
+
+   NOTE: Good application requires proper preparation of the chromic acid
+   coating solution and cleaning of the surface where the solution will be
+   applied. A water-break test is recommended if the cleanliness of the surface
+   is in doubt.
+
+   (b) Add chemicals to water in the order shown.
+
+   (c) Stir vigorously for at least 15 minutes, either mechanically or by air agitation, to
+ensure that the solution is saturated with calcium sulfate. (Let solution stand for 15 minutes
+before decanting.)
+
+   (d) Prior to use, decant solution (avoid transfer of undissolved calcium sulfate) into
+suitable containers (polyethylene or glass).
+
+   (e) Apply solution by brush, swab, or flow on using low-pressure spray
+(nonatomizing) until the metal surface becomes a dull color (the color can vary from
+green-brown, brassy, yellow-brown to dark-brown). For good paint adhesion, a dark-brown color
+free of powder is considered best. The color may vary in using different vendors’ materials.
+
+Par 6-152  Page 6-39
+
+===== PDF PAGE 346 =====
+9/8/98  AC 43.13-1B
+
+   NOTE: Too long an exposure to the brush-on solution produces coatings
+   that will powder and impair adhesion of applied paint finish/films.
+
+   (f) Observe the coating closely during the treatment for color changes, rinsed with
+cold running water when the desired condition/color is reached and air-dried. Preparation and use
+of test panels made of the same material and under the same conditions before starting the actual
+treating operation may be used as to determine the application time required to produce the
+required coating. A good coating is uniform in color/density, adheres well, and is free of loose
+powder.
+
+   l. Apply primer and top coat finish.
+
+   m. Remove masking and protective coverings.
+
+6-153.–6-163. [RESERVED.]
+
+Par 6-152  Page 6-40
+
+===== PDF PAGE 347 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 10. FERROUS METALS
+
+6-164. GENERAL. One of the most familiar kinds of corrosion is red iron rust. Red iron rust
+results from atmospheric oxidation of steel surfaces. Some metal oxides protect the underlying
+base metal, but red rust is not a protective coating. Its presence actually promotes additional
+attack by attracting moisture from the air and acts as a catalyst to promote additional corrosion.
+
+   a. Red rust first shows on bolt heads, holddown nuts, and other unprotected aircraft
+hardware. Red rust will often occur under nameplates that are secured to steel parts. Its presence
+in these areas is generally not dangerous. It has no immediate effect on the structural strength of
+any major components. However, it shows a general lack of maintenance and may indicate attack
+in more critical areas.
+
+   b. When paint failures occur or mechanical damage exposes highly stressed steel
+surfaces to the atmosphere, even the smallest amount of rusting is potentially dangerous and
+should be removed immediately.
+
+6-165. SPECIAL TREATMENT OF HIGH-STRENGTH STEEL. (High-strength steels
+heat-treated above Rockwell C40, 180,000 psi tensile strength.) Any corrosion on the surface of
+a highly stressed steel part is potentially dangerous, and the careful removal of corrosion
+products is mandatory. Surface scratches or change in surface structure from overheating can
+cause sudden failure of these parts. The removal of corrosion products is required and will be
+performed carefully and completely.
+
+   a. Acceptable methods include careful use of mild abrasive mats, cloths, and papers, such
+as fine grit aluminum oxide, metallic wool, or fine buffing compounds.
+
+   b. Undesirable methods include the use of any power tool because the danger of local
+overheating and the formation of notches that could lead to failure. The use of chemical
+corrosion removers is prohibited, without engineering authorization, because high-strength steel
+parts are subject to hydrogen embrittlement.
+
+6-166. SPECIAL TREATMENT OF STAINLESS STEEL. Stainless steels are of two general
+types: magnetic and nonmagnetic.
+
+   a. Magnetic steels are of the ferritic or martensitic types and are identified by numbers in
+the 400 series. Corrosion often occurs on 400-series stainless steels, and treatment is the same as
+specified in high-strength steels. (See paragraph 6-165.)
+
+   b. Nonmagnetic stainless steels are of the austenitic type and are identified by numbers in
+the 300 series. They are much more corrosion resistant than the 400-series steels, particularly in
+a marine environment.
+
+   (1) Austenitic steels develop corrosion resistance by an oxide film, which should not be
+removed even though the surface is discolored. The original oxide film is normally formed at
+time of fabrication by passivation. If this film is broken accidentally or by abrasion, it may not
+restore itself without repassivation.
+
+Par 6-164  Page 6-41
+
+===== PDF PAGE 348 =====
+9/8/98  AC 43.13-1B
+
+   (2) If any deterioration or corrosion does occur on austenitic steels, and the structural
+integrity or serviceability of the part is affected, it will be necessary to remove the part.
+
+6-167. EXAMPLE OF REMOVING CORROSION FROM FERROUS METALS. If
+possible, corroded steel parts should be removed from the aircraft. When impractical to remove
+the part, follow the procedure below.
+
+   a. Prepare the area for rework.
+
+   b. Positively identify the metal as steel and establish its heat-treated value.
+
+   c. Clean the area and strip paint if required.
+
+   NOTE: Use of acid-based strippers, chemical removers, or chemical
+   conversion coatings is not permitted on steel parts without engineering
+   authorization.
+
+   d. Determine extent of corrosion damage.
+
+   e. Remove residual corrosion by hand sanding with mild abrasive mats, cloths, and
+papers, such as fine aluminum oxide grit.
+
+   f. Remove heavy deposits of corrosion products by approved mechanical methods for that
+particular form of steel and/or stainless steel.
+
+   g. Inspect the area for remaining corrosion. Repeat procedure if any corrosion remains
+and the structural integrity of the part is not in danger, and the part meets the rework limits
+established by the manufacturer or FAA-authorized DER.
+
+   h. Fair depressions using a blend ratio of 20:1. Clean area using 240-grit paper. Smooth
+area with 300-grit paper and give final polish with 400-grit paper.
+
+   i. Determine depth of faired depression to ensure that rework limits have not been
+exceeded.
+
+   j. Clean reworked area with dry cleaning solvent. Do not use kerosene.
+
+   k. Apply protective finish or specific organic finish as required.
+
+   NOTE: Steel surfaces are highly reactive immediately following corrosion
+   removal; consequently, primer coats should be applied within 1 hour after
+   sanding.
+
+   l. Remove masking and protective coverings.
+
+6-168.–6-178. [RESERVED.]
+
+Par 6-166  Page 6-42
+
+===== PDF PAGE 349 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 11. OTHER METALS AND ALLOYS
+
+6-179. NOBLE METAL COATINGS CLEANUP AND RESTORATION. Silver, platinum,
+and gold finishes are used in aircraft assemblies because of their resistance to ordinary surface
+attack and their improved electrical or heat conductivity. Silver-plated electrodes can be cleaned
+of brown or black sulfide tarnish by placing them in contact with a piece of magnesium sheet
+stock while immersed in a warm water solution of common table salt mixed with baking soda, or
+by using a fine grade abrasive mat or pencil eraser followed by solvent cleaning. If assemblies
+are involved, careful drying and complete displacement of water is necessary. In general,
+cleaning of gold or platinum coatings is not recommended in the field.
+
+6-180. COPPER AND COPPER ALLOYS are relatively corrosion resistant, and attack on
+such components will usually be limited to staining and tarnish. Such change in surface
+condition is not dangerous and should ordinarily have no effect on the function of the part.
+However, if it is necessary to remove such staining, a chromic acid solution of 8–24 ounces per
+gallon of water containing a small amount of battery electrolyte (not to exceed 50 drops per
+gallon) is an effective brightening bath. Staining may also be removed using a fine grade
+abrasive mat or pencil eraser followed by solvent cleaning.
+
+   a. Immerse the stained part in the cold solution. Surfaces can also be treated in place by
+applying the solution to the stained surface with a small brush.
+
+   b. Avoid any entrapment of the solution after treatment. Clean the part thoroughly
+following treatment with all residual solution removed.
+
+   c. Serious copper corrosion is evident by the accumulation of green-to-blue copper salts
+on the corroded part. Remove these products mechanically using a stiff bristle brush, brass wire
+brush, 400-grit abrasive paper, or bead blast with glass beads (Specification MIL-G-9954,
+size 13). Air pressure when blasting should be 20–30 psi for direct pressure machines. Do not
+bead blast braided copper flexible lines. Reapply a surface coating over the reworked area.
+Chromic acid treatment will tend to remove the residual corrosion products.
+
+   WARNING: Brushing, sanding, and abrasive blasting of copper and copper
+   alloys can be dangerous due to the creation of toxic airborne particles. Take
+   necessary precautions to ensure safety.
+
+6-181. TITANIUM AND TITANIUM ALLOYS. Titanium and titanium alloys are highly
+corrosion resistant because an oxide film forms on their surfaces upon contact with air.
+
+   a. When titanium is heated, different oxides having different colors form on the surface.
+A blue oxide coating will form at 700–800 °F, a purple oxide at 800–950 °F, and a gray or black
+oxide at 1,000 °F or higher. These coatings are protective discolorations and should not be
+removed.
+
+   b. Corrosive attack on titanium surfaces is difficult to detect. It may show deterioration
+from the presence of salt deposits and metal impurities at elevated temperatures, so periodic
+removal of surface deposits is required. However, if corrosion develops on titanium, it usually
+occurs as pitting. Acceptable methods for corrosion removal are:
+
+Par 6-179  Page 6-43
+
+===== PDF PAGE 350 =====
+9/8/98  AC 43.13-1B
+
+   (1) Stainless steel wool or hand brush.
+
+   (2) Abrasive mats, cloths, and papers with either aluminum oxide or silicon carbide grit.
+
+   (3) Dry abrasive blasting using glass beads (Specification MIL-G-9954), sizes 10–13,
+or aluminum oxide (Specification A-A-59316, type I, grade A or B) at a blast pressure of
+40–50 psi (if using suction equipment, use 50 percent higher pressure).
+
+   WARNING: Dry abrasive blasting of titanium alloys creates sparking.
+   Ensure that hazardous concentrations of flammable vapors are not present.
+
+   (4) Hand polish with aluminum polish and soft cloth.
+
+   c. Titanium surfaces are susceptible to hydrogen embrittlement that can induce stress
+corrosion and associated pitting. Therefore, chemicals such as fire-resistant hydraulic fluids must
+be controlled. Chlorinated hydrocarbon solvents and chemical corrosion removers are prohibited
+from use on titanium and titanium alloys.
+
+6-182.–6-192. [RESERVED.]
+
+Par 6-181  Page 6-44
+
+===== PDF PAGE 351 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 12. PLATED PARTS
+
+6-193. CHROMIUM AND NICKEL-PLATED PARTS. Nickel and chromium platings are
+used extensively as protective and wear-resistant coatings over high-strength steel parts (landing
+gear journals, shock strut pistons, etc.). Chromium and nickel plate provide protection by
+forming a somewhat impervious physical coat over the underlying base metal. When breaks
+occur in the surface, the protection is destroyed.
+
+   a. The amount of reworking that can be performed on chromium and nickel-plated
+components is limited.
+
+   b. The rework should consist of light buffing to remove corrosion products and produce
+the required smoothness. The buffing should not take the plating below the minimum allowable
+thickness.
+
+   c. Whenever a chromium or nickel-plated component requires buffing, coat the area with
+a corrosion-preventive compound, if possible.
+
+   d. When buffing exceeds the minimum thickness of the plating, or the base metal has
+sustained corrosive attack, the component should be removed and replaced.
+
+   e. The removed component can be restored to serviceable condition by having the old
+plating completely stripped and replated in accordance with acceptable methods and
+specifications.
+
+6-194. CADMIUM AND ZINC-PLATED PARTS. Cadmium plating is used extensively in
+aircraft construction as a protective finish over both steel and copper alloys. Protection is
+provided by a sacrificial process in which the cadmium is attacked rather than the underlying
+base material. Properly functioning cadmium surface coatings may show mottling, ranging from
+white to brown to black spots on their surfaces. These show the sacrificial protection being
+offered by the cadmium coat, and under no condition should such spotting be removed merely
+for appearance’ sake. In fact, cadmium will continue to protect even when actual breaks in the
+coating develop and bare steel or exposed copper surfaces appear.
+
+   a. When the breakdown of the cadmium plating occurs and the initial appearance of
+corrosion products on the base metal develops, some mechanical cleaning of the area may be
+necessary but shall be limited to removal of the corrosion products from the underlying base
+material.
+
+   b. Under no condition should such a coating be cleaned with a wire brush. If protection is
+needed, a touchup with primer or a temporary preservative coating should be applied.
+Restoration of the plate coating cannot be done in the field.
+
+   c. Zinc coatings offer protection in an identical manner to cadmium, and the corrective
+treatment for failure is generally the same as for cadmium-plated parts. However, the amount of
+zinc on aircraft structures is very limited and usually does not present a maintenance problem.
+
+6-195–6-205. [RESERVED.]
+
+Par 6-193  Page 6-45
+
+===== PDF PAGE 352 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 13. CORROSION PROOFING OF LAND PLANES CONVERTED TO
+   SEAPLANES
+
+6-206. GENERAL. A special problem is encountered in the conversion of land planes to
+seaplanes. In general, land planes do not receive corrosion proofing to the same extent as do
+seaplanes. Corrosion-proofing standards for land planes converted to seaplanes are divided into
+two classes: necessary minimum precautions and recommended precautions. Regardless of such
+precautions, it is imperative that the exterior surfaces of seaplanes be washed with clear
+freshwater immediately following extended water operation, or at least once a day when operated
+in salty or brackish water. Wash interior surfaces of seaplanes exposed to spray, taking care to
+prevent damage to electrical circuits or other items subject to injury.
+
+6-207. NECESSARY MINIMUM PRECAUTIONS. The following procedures are considered
+the minimum to safeguard the airworthiness of converted aircraft and are not in themselves
+intended to maintain airworthiness for an indefinite period.
+
+   a. Unless already protected, treat exposed fittings or fittings that can be reached through
+inspection openings with two coats of zinc-chromate primer, paralketone, non-water-soluble
+heavy grease, or comparable materials. This applies to items such as wing-root fittings,
+wing-strut fittings, control-surface hinges, horns, mating edges of fittings, and attached bolts.
+
+   b. Coat nonstainless control cables with grease, paralketone, or other comparable
+protective coating, if not replaced with corrosion-resistant cables.
+
+   c. Inspect all accessible sections of aircraft structure. Clean structural parts showing
+corrosion and refinish if corrosion attack is superficial. If a part is severely corroded, replace
+with an adequately corrosion-proofed part.
+
+6-208. RECOMMENDED PRECAUTIONS. Recommended precautions are those which are
+suggested as a means of maintaining such aircraft in condition for safe operation over extended
+periods.
+
+   a. Provide additional inspection openings to assist in detecting corrosion. Experience has
+shown openings to allow inspection of the lower and rearward portion of the fuselage to be
+particularly desirable.
+
+   b. Incorporate additional provisions for free drainage and ventilation of all interiors to
+prevent collection of moisture (scoop-type marine drain grommets).
+
+   c. Protect the interior of structural steel tubing. This may be done by air and watertight
+sealing or by flushing with hot linseed oil and plugging the openings. Inspect tubing for missing
+sealing screws, presence of entrapped water, local corrosion around sealing screws, welded
+clusters, and bolted fittings, which may be indicative of entrapped moisture.
+
+   d. Slit the fabric of fabric-covered aircraft longitudinally on the bottom of the fuselage and
+tail structure for access to these sections. Coat the lower structural members with zinc-chromate
+primer (two coats); follow with a coat of dope-proof paint or wrap with cellophane tape and
+
+Par 6-206  Page 6-46
+
+===== PDF PAGE 353 =====
+9/8/98  AC 43.13-1B
+
+rejoin the fabric. This precaution is advisable within a few months after start of operation as a
+seaplane.
+
+   e. Spray the interior of metal-covered wings and fuselages with an adherent corrosion
+inhibitor.
+
+   f. Place bags of potassium or sodium dichromate in the bottom of floats and boat hulls to
+inhibit corrosion.
+
+   g. Prevent the entry of water by sealing, as completely as possible, all openings in wings,
+fuselage, control-surface members, openings for control cables, tail-wheel wells, etc.
+
+6-209.–6-219. [RESERVED.]
+
+Par 6-208  Page 6-47
+
+===== PDF PAGE 354 =====
+9/8/98  AC 43.13-1B
+
+SECTION 14. HANDLING AND CARE OF AIRCRAFT RECOVERED FROM WATER
+   IMMERSION
+
+6-220. GENERAL. Aircraft recovered from partial or total immersion in standing water or flash
+floods require an in-depth inspection and cleaning of both the exterior and interior areas. Water
+immersion increases the probability of corrosive attack, removes lubricants, deteriorates aircraft
+materials, and destroys electrical and avionics components.
+
+   a. Seawater, because of salt content, is more corrosive than freshwater. However,
+freshwater may also contain varying amounts of salt, and, as drying occurs, the salt concentration
+is increased and corrosive attack accelerated.
+
+   b. Prompt action is the most important factor following recovery of an aircraft from
+water immersion. Components of the aircraft which have been immersed, such as the
+powerplant, accessories, airframe sections, actuating mechanisms, screws, bearings, working
+surfaces, fuel and oil systems, wiring, radios, and radar, should be disassembled, as necessary,
+and the contaminants completely removed.
+
+6-221. INITIAL FRESHWATER OR DETERGENT WASH. As soon as possible after the
+aircraft is recovered from water immersion, thoroughly wash all internal and external areas of the
+aircraft using a water/detergent solution as follows:
+
+   a. Mix liquid detergent (MIL-D-16791, type I) and isopropyl alcohol (TT-I-735) in ratio
+of 8 parts detergent to 20 parts alcohol. Add the detergent/alcohol mixture to 72 parts tapwater
+and mix thoroughly. For use, add one part of the preceding concentrate to nine parts tapwater
+(warm water if available) and mix thoroughly.
+
+   b. If the above specified detergent/alcohol materials are not available, use water-emulsion
+cleaning compound (A-A-59921). Add one part compound to nine parts water. If the A-A-59921
+cleaning compound is not available, use any available mild household detergent solution with
+fresh tapwater.
+
+6-222. RECIPROCATING ENGINES AND PROPELLERS. Remove the propeller from the
+engine and the engine from the aircraft. The exterior of the engine and propeller should be
+washed with steam, or freshwater, preferably hot.
+
+   a. Major accessories, engine parts, etc., should be removed and all surfaces flushed with
+freshwater, preferably hot. If facilities are available, immerse the removed parts, time permitting,
+in hot water or hot oil, 180 °F, for a short time. Soft water is preferred. Change the water
+frequently. All parts must be completely dried by air blast or other means. If no heat-drying
+facility is available, wipe the cleaned parts with suitable drying cloths.
+
+   b. The constant-speed propeller mechanism should be disassembled, as required, to
+permit complete decontamination. Clean parts with steam or freshwater, preferably hot. Dry the
+cleaned parts in an oven, but if a heat-drying facility is not available, wipe the cleaned parts with
+suitable drying cloths.
+
+Par 6-220  Page 6-48
+
+===== PDF PAGE 355 =====
+9/8/98  AC 43.13-1B
+
+6-223. AIRFRAME. The salvable components of the fuselage, wings, empennage, seaplane and
+amphibian hulls and floats, and movable surfaces should be processed as follows:
+
+   a. The fabric from fabric-covered surfaces should be removed and replaced.
+
+   b. Clean the aircraft interior and exterior using steam under pressure with steam cleaning
+compound. Direct the steam into all seams and crevices where corrosive water may have
+penetrated. Avoid steam cleaning electrical equipment, such as terminal boards and relays.
+
+   c. Areas that have been steam cleaned should be rinsed immediately with either hot or
+cold freshwater.
+
+   d. Touch up all scratches and scars on painted surfaces using zinc-chromate primer or
+preservative.
+
+   e. Undrained hollow spaces or fluid entrapment areas should be provided temporary
+draining facilities by drilling out rivets at the lowest point. Install new rivets after drainage.
+
+   f. Remove and replace all leather, fabric upholstery, and insulation. Plastic or rubber foam
+that cannot be cleaned of all corrosive water must be replaced.
+
+   g. All drainplugs or drivescrews in tubular structures should be removed and the structure
+blown out with compressed air. If water has reached the tubular interiors, carefully flush with hot
+freshwater and blow out water with compressed air. Roll the structure as necessary to remove
+water from pockets. Fill the tubes with hot linseed oil, approximately 180 °F, drain oil, and
+replace drainplugs or drivescrews.
+
+   h. Clean sealed wood, metallic, and other nonmetallic areas, excluding acrylic plastics,
+with warm water. Replace wood, metalite, and other porous materials exposed to water
+immersion, unless surfaces are adequately sealed to prevent penetration by water. Virtually all
+solvents and phenolic-type cleaning agents are detrimental to acrylics and will either soften the
+plastic or cause crazing.
+
+   i. Remove instruments and radios and applicable cables and plumbing, and repair and
+inspect as necessary.
+
+6-224.–6-234. [RESERVED.]
+
+Par 6-223  Page 6-49
+

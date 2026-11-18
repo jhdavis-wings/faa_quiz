@@ -1,0 +1,1437 @@
+FAA-H-8083-31B Airframe Handbook, chapter 4 (Aircraft Metal Structural Repair), PDF pages 182-197
+
+===== PDF PAGE 182 =====
+perpendicular to the surface, and, with light pressure,
+start drilling slowly. Stop drilling after a few turns and
+check to see if the drill bit is starting on the mark. It
+should be; if not, it is necessary to walk the hole a little
+by pointing the drill in the direction it should go, and
+rotating it carefully and intermittently until properly
+lined up.
+7.
+
+Enlarge each pilot drilled hole to final size.
+
+Drilling Large Holes
+The following technique can be used to drill larger holes.
+Special tooling has been developed to drill large holes to
+precise tolerances. [Figure 4-53]
+1.
+
+Pilot drill using a drill bushing. Bushings are sized for
+1
+⁄8, 3⁄16, or 1⁄4 drill bits.
+
+2.
+
+Step drill bits are used to step the hole to approximately
+1
+⁄64-inch smaller than the final hole size. The aligning
+step diameter matches the pilot drill bit size.
+
+3.
+
+Finish ream to size using a step reamer. The aligning
+step diameter matches the core drill bit size. Reamers
+should be available for both clearance and interference
+fit hole sizes.
+Note: Holes can also be enlarged by using a series of
+step reamers.
+
+Figure 4-53. Drilling large holes.
+
+Figure 4-54. Chip chaser.
+
+Chip Chasers
+The chip chaser is designed to remove chips and burrs lodged
+between sheets of metal after drilling holes for riveting.
+[Figure 4-54] Chip chasers have a plastic molded handle
+and a flexible steel blade with a hook in the end.
+
+Forming Tools
+Sheet metal forming dates back to the days of the blacksmith
+who used a hammer and hot oven to mold metal into the
+desired form. Today’s aircraft technician relies on a wide
+variety of powered and hand-operated tools to precisely bend
+and fold sheet metal to achieve the perfect shape. Forming
+tools include straight line machines, such as the bar folder
+and press brake, as well as rotary machines, such as the slip
+roll former. Forming sheet metal requires a variety of tools
+and equipment (both powered and manual), such as the
+piccolo former, shrinking and stretching tools, form blocks,
+and specialized hammers and mallets. [Figure 4-55]
+Tempered sheet stock is used in forming operations whenever
+possible in typical repairs. Forming that is performed in the
+tempered condition, usually at room temperature, is known
+as cold-forming. Cold forming eliminates heat treatment and
+the straightening and checking operations required to remove
+the warp and twist caused by the heat treating process. Cold-
+
+Figure 4-55. Hammer and mallet forming.
+
+formed sheet metal experiences a phenomenon known as
+spring-back, which causes the worked piece to spring back
+slightly when the deforming force is removed. If the material
+shows signs of cracking during cold forming over small radii,
+the material should be formed in the annealed condition.
+Annealing, the process of toughening steel by gradually
+heating and cooling it, removes the temper from metal,
+making it softer and easier to form. Parts containing small
+radii or compound curvatures must be formed in the annealed
+4-20
+
+===== PDF PAGE 183 =====
+condition. After forming, the part is heat treated to a tempered
+condition before use on the aircraft.
+Construction of interchangeable structural and nonstructural
+parts is achieved by forming flat sheet stock to make channel,
+angle, zee, and hat section members. Before a sheet metal part
+is formed, a flat pattern is made to show how much material
+is required in the bend areas, at what point the sheet must be
+inserted into the forming tool, or where bend lines are located.
+Determination of bend lines and bend allowances is discussed
+in greater detail in the section on layout and forming.
+Bar Folding Machine
+The bar folder is designed for use in making bends or folds
+along edges of sheets. [Figure 4-56] This machine is best
+suited for folding small hems, flanges, seams, and edges to
+be wired. Most bar folders have a capacity for metal up to 22
+gauge in thickness and 42 inches in length. Before using the
+bar folder, several adjustments must be made for thickness of
+material, width of fold, sharpness of fold, and angle of fold.
+The adjustment for thickness of material is made by adjusting
+the screws at each end of the folder. As this adjustment is
+made, place a piece of metal of the desired thickness in the
+folder and raise the operating handle until the small roller
+rests on the cam. Hold the folding blade in this position and
+adjust the setscrews until the metal is clamped securely and
+evenly the full length of the folding blade. After the folder
+has been adjusted, test each end of the machine separately
+with a small piece of metal by actually folding it.
+There are two positive stops on the folder, one for 45° folds
+or bends and the other for 90° folds or bends. A collar is
+provided that can be adjusted to any degree of bend within
+the capacity of the machine.
+For forming angles of 45° or 90°, the appropriate stop is
+moved into place. This allows the handle to be moved
+forward to the correct angle. For forming other angles, the
+adjustable collar is used. This is accomplished by loosening
+
+Figure 4-56. Bar folder.
+
+the setscrew and setting the stop at the desired angle. After
+setting the stop, tighten the setscrew and complete the bend.
+To make the fold, adjust the machine correctly and then insert
+the metal. The metal goes between the folding blade and the
+jaw. Hold the metal firmly against the gauge and pull the
+operating handle toward the body. As the handle is brought
+forward, the jaw automatically raises and holds the metal until
+the desired fold is made. When the handle is returned to its
+original position, the jaw and blade return to their original
+positions and release the metal.
+Cornice Brake
+A brake is similar to a bar folder because it is also used for
+turning or bending the edges of sheet metal. The cornice brake
+is more useful than the bar folder because its design allows
+the sheet metal to be folded or formed to pass through the
+jaws from front to rear without obstruction. [Figure 4-57] In
+contrast, the bar folder can form a bend or edge only as wide
+as the depth of its jaws. Thus, any bend formed on a bar folder
+can also be made on the cornice brake.
+In making ordinary bends with the cornice brake, the sheet
+is placed on the bed with the sight line (mark indicating line
+of bend) directly under the edge of the clamping bar. The
+clamping bar is then brought down to hold the sheet firmly
+in place. The stop at the right side of the brake is set for the
+proper angle or amount of bend and the bending leaf is raised
+until it strikes the stop. If other bends are to be made, the
+clamping bar is lifted and the sheet is moved to the correct
+position for bending.
+The bending capacity of a cornice brake is determined by the
+manufacturer. Standard capacities of this machine are from
+12- to 22-gauge sheet metal, and bending lengths are from 3
+to 12 feet. The bending capacity of the brake is determined by
+the bending edge thickness of the various bending leaf bars.
+Most metals have a tendency to return to their normal
+
+Figure 4-57. Cornice brake.
+
+4-21
+
+===== PDF PAGE 184 =====
+shape—a characteristic known as spring-back. If the cornice
+brake is set for a 90° bend, the metal bent probably forms
+an angle of about 87° to 88°. Therefore, if a bend of 90° is
+desired, set the cornice brake to bend an angle of about 93°
+to allow for spring-back.
+Box & Pan Brake (Finger Brake)
+The box and pan brake, often called the finger brake because
+it is equipped with a series of steel fingers of varying widths,
+lacks the solid upper jaw of the cornice brake. [Figure 4-58]
+The box and pan brake can be used to do everything that the
+cornice brake can do, as well as several things the cornice
+brake cannot do.
+The box and pan brake is used to form boxes, pans, and
+other similar shaped objects. If these shapes were formed
+on a cornice brake, part of the bend on one side of the box
+would have to be straightened in order to make the last bend.
+With a finger brake, simply remove the fingers that are in the
+way and use only the fingers required to make the bend. The
+fingers are secured to the upper leaf by thumbscrews. All the
+fingers not removed for an operation must be securely seated
+and firmly tightened before the brake is used. The radius of
+the nose on the clamping fingers is usually rather small and
+frequently requires nose radius shims to be custom made for
+the total length of the bend.
+Press Brake
+Since most cornice brakes and box and pan brakes are limited
+to a maximum forming capacity of approximately 0.090inch annealed aluminum, 0.063-inch 7075T6, or 0.063-inch
+stainless steel, operations that require the forming of thicker
+and more complex parts use a press brake. [Figure 4-59]
+The press brake is the most common machine tool used to
+bend sheet metal and applies force via mechanical and/or
+hydraulic components to shape the sheet metal between the
+punch and die. Narrow U-channels (especially with long legs)
+and hat channel stringers can be formed on the press brake
+by using special gooseneck or offset dies. Special urethane
+lower dies are useful for forming channels and stringers.
+
+Clamping fingers
+
+Figure 4-59. Press brake.
+
+Power press brakes can be set up with back stops (some are
+computer controlled) for high volume production. Press brake
+operations are usually done manually and require skill and
+knowledge of safe use.
+Slip Roll Former
+With the exception of the brake, the slip roll is probably
+used more than any other machine in the shop. [Figure 4-60]
+This machine is used to form sheets into cylinders or other
+straight curved surfaces. It consists of right and left end
+frames with three solid rolls mounted in between. Gears,
+which are operated by either a hand crank or a power drive,
+connect the two gripping rolls. These rolls can be adjusted to
+the thickness of the metal by using the two adjusting screws
+located on the bottom of each frame. The two most common
+of these forming machines are the slip roll former and the
+rotary former. Available in various sizes and capabilities,
+these machines come in manual or powered versions.
+The slip roll former in Figure 4-60 is manually operated and
+consists of three rolls, two housings, a base, and a handle.
+The handle turns the two front rolls through a system of gears
+enclosed in the housing. The front rolls serve as feeding, or
+gripping, rolls. The rear roll gives the proper curvature to
+the work. When the metal is started into the machine, the
+rolls grip the metal and carry it to the rear roll, which curves
+it. The desired radius of a bend is obtained by the rear roll.
+The bend radius of the part can be checked as the forming
+operation progresses by using a circle board or radius gauge.
+The gauges can be made by cutting a piece of material to
+the required finished radius and comparing it to the radius
+being formed by the rolling operation. On some material,
+the forming operation must be performed by passing the
+material through the rolls several times with progressive
+settings on the forming roll. On most machines, the top roll
+can be released on one end, permitting the formed sheet to
+be removed from the machine without distortion.
+
+Figure 4-58. Box and pan brake.
+
+4-22
+
+===== PDF PAGE 185 =====
+Operating handle
+
+Grooves
+
+Grooves
+
+Housing
+
+Upper front roll
+
+Base
+
+Lower front roll
+
+Figure 4-60. Slip roll former.
+
+The front and rear rolls are grooved to permit forming of
+objects that have wired edges. The upper roll is equipped with
+a release that permits easy removal of the metal after it has
+been formed. When using the slip roll former, the lower front
+roll must be raised or lowered before inserting the sheet of
+metal. If the object has a folded edge, there must be enough
+clearance between the rolls to prevent flattening the fold. If
+a metal requiring special care (such as aluminum) is being
+formed, the rolls must be clean and free of imperfections.
+The rear roll must be adjusted to give the proper curvature
+to the part being formed. There are no gauges that indicate
+settings for a specific diameter; therefore, trial and error
+settings must be used to obtain the desired curvature. The
+metal should be inserted between the rolls from the front of
+the machine. Start the metal between the rolls by rotating the
+operating handle in a clockwise direction. A starting edge is
+formed by holding the operating handle firmly with the right
+hand and raising the metal with the left hand. The bend of
+the starting edge is determined by the diameter of the part
+being formed. If the edge of the part is to be flat or nearly
+flat, a starting edge should not be formed.
+Ensure that fingers and loose clothing are clear of the rolls
+before the actual forming operation is started. Rotate the
+
+operating handle until the metal is partially through the rolls
+and change the left hand from the front edge of the sheet to the
+upper edge of the sheet. Then, roll the remainder of the sheet
+through the machine. If the desired curvature is not obtained,
+return the metal to its starting position by rotating the handle
+counterclockwise. Raise or lower the rear roll and roll the
+metal through the rolls again. Repeat this procedure until
+the desired curvature is obtained, then release the upper roll
+and remove the metal. If the part to be formed has a tapered
+shape, the rear roll should be set so that the rolls are closer
+together on one end than on the opposite end. The amount
+of adjustment must be determined by experimentation. If the
+job being formed has a wired edge, the distance between the
+upper and lower rolls and the distance between the lower front
+roll and the rear roll should be slightly greater at the wired
+end than at the opposite end. [Figure 4-61]
+Rotary Machine
+The rotary machine is used on cylindrical and flat sheet
+metal to shape the edge or to form a bead along the edge.
+[Figure 4-62] Various shaped rolls can be installed on the
+rotary machine to perform these operations. The rotary
+machine works best with thinner annealed materials.
+
+4-23
+
+===== PDF PAGE 186 =====
+Figure 4-61. Slip roll operation.
+
+Stretch Forming
+In the process of stretch forming, a sheet of metal is shaped
+by stretching it over a formed block to just beyond the elastic
+limit where permanent set takes place with a minimum
+amount of spring-back. To stretch the metal, the sheet is
+rigidly clamped at two opposite edges in fixed vises. Then, the
+metal is stretched by moving a ram that carries the form block
+against the sheet with the pressure from the ram causing the
+material to stretch and wrap to the contour of the form block.
+Stretch forming is normally restricted to relatively large
+parts with large radii of curvature and shallow depth, such as
+contoured skin. Uniform contoured parts produced at a faster
+speed give stretch forming an advantage over hand formed
+parts. Also, the condition of the material is more uniform
+than that obtained by hand forming.
+
+Figure 4-62. Rotary machine.
+
+Drop Hammer
+The drop hammer forming process produces shapes by the
+progressive deformation of sheet metal in matched dies under
+the repetitive blows of a gravity-drop hammer or a powerdrop hammer. The configurations most commonly formed
+by the process include shallow, smoothly contoured doublecurvature parts, shallow-beaded parts, and parts with irregular
+and comparatively deep recesses. Small quantities of cupshaped and box-shaped parts, curved sections, and contoured
+4-24
+
+===== PDF PAGE 187 =====
+flanged parts are also formed. Drop hammer forming is not a
+precision forming method and cannot provide tolerances as
+close as 0.03-inch to 0.06-inch. Nevertheless, the process is
+often used for sheet metal parts, such as aircraft components,
+that undergo frequent design changes, or for which there is
+a short run expectancy.
+Hydropress Forming
+The rubber pad hydropress can be utilized to form many
+varieties of parts from aluminum and its alloys with relative
+ease. Phenolic, masonite, kirksite, and some types of hard
+setting moulding plastic have been used successfully as form
+blocks to press sheet metal parts, such as ribs, spars, fans,
+etc. To perform a press forming operation:
+1.
+
+Cut a sheet metal blank to size and deburr edges.
+
+2.
+
+Set the form block (normally male) on the lower
+press platen.
+
+3.
+
+Place the prepared sheet metal blank (with locating
+pins to prevent shifting of the blank when the pressure
+is applied).
+
+4.
+
+Lower or close the rubber pad-filled press head over
+the form block and the rubber envelope.
+
+5.
+
+The form block forces the blank to conform to its
+contour.
+
+Hydropress forming is usually limited to relatively flat parts
+with flanges, beads, and lightening holes. However, some
+types of large radii contoured parts can be formed by a
+combination of hand forming and pressing operations.
+
+Figure 4-63. Spin forming.
+
+Forming with an English Wheel
+The English wheel, a popular type of metal forming tool
+used to create double curves in metal, has two steel wheels
+between which metal is formed. [Figure 4-64] Keep in mind
+that the English wheel is primarily a stretching machine, so
+it stretches and thins the metal before forming it into the
+desired shape. Thus, the operator must be careful not to
+over-stretch the metal.
+To use the English wheel, place a piece of sheet metal
+between the wheels (one above and one below the metal).
+Then, roll the wheels against one another under a pre-adjusted
+
+Spin Forming
+In spin forming, a flat circle of metal is rotated at a very high
+speed to shape a seamless, hollow part using the combined
+forces of rotation and pressure. For example, a flat circular
+blank such as an aluminum disc, is mounted in a lathe in
+conjunction with a form block (usually made of hardwood).
+As the aircraft technician revolves the disc and form block
+together at high speeds, the disc is molded to the form
+block by applying pressure with a spinning stick or tool. It
+provides an economical alternative to stamping, casting, and
+many other metal forming processes. Propeller spinners are
+sometimes fabricated with this technique.
+Aluminum soap, tallow, or ordinary soap can be used as a
+lubricant. The best adapted materials for spinning are the
+softer aluminum alloys, but other alloys can be used if the
+shape to be spun is not excessively deep or if the spinning
+is done in stages utilizing intermediate annealing to remove
+the effect of strain hardening that results from the spinning
+operation. Hot forming is used in some instances when
+spinning thicker and harder alloys. [Figure 4-63]
+
+Figure 4-64. English wheel.
+
+4-25
+
+===== PDF PAGE 188 =====
+pressure setting. Steel or aluminum can be shaped by pushing
+the metal back and forth between the wheels. Very little
+pressure is needed to shape the panel, which is stretched or
+raised to the desired shape. It is important to work slowly and
+gradually curve the metal into the desired shape. Monitor the
+curvature with frequent references to the template.
+The English wheel is used for shaping low crowns on large
+panels and polishing or planishing (to smooth the surface of a
+metal by rolling or hammering it) parts that have been formed
+with power hammers or hammer and shot bag.
+Piccolo Former
+The Piccolo former is used for cold forming and rolling sheet
+metal and other profile sections (extrusions). [Figure 4-65] The
+position of the ram is adjustable in height by means of either a
+handwheel or a foot pedal that permits control of the working
+pressure. Be sure to utilize the adjusting ring situated in the
+machine head to control the maximum working pressure. The
+forming tools are located in the moving ram and the lower tool
+holder. Depending on the variety of forming tools included,
+the operator can perform such procedures as forming edges,
+bending profiles, removing wrinkles, spot shrinking to remove
+buckles and dents, or expanding dome sheet metal. Available
+in either fiberglass (to prevent marring the surface) or steel
+(for working harder materials) faces, the tools are the quickchange type.
+Shrinking & Stretching Tools
+
+Shrinking Tools
+
+Shrinking dies repeatedly clamp down on the metal, then shift
+inward. [Figure 4-66] This compresses the material between
+the dies, which actually slightly increases the thickness of the
+metal. Strain hardening takes place during this process, so it
+is best to set the working pressure high enough to complete
+the shape rather quickly (eight passes could be considered
+excessive).
+Caution: Avoid striking a die on the radius itself when
+forming a curved flange. This damages the metal in the radius
+
+Figure 4-66. Shrinking and stretching tools.
+
+and decreases the angle of bend.
+
+Stretching Tools
+Stretching dies repeatedly clamp down on the surface and
+then shift outward. This stretches the metal between the dies,
+which decreases the thickness in the stretched area. Striking
+the same point too many times weakens and eventually cracks
+the part. It is advantageous to deburr or even polish the edges
+of a flange that must undergo even moderate stretching to
+avoid crack formation. Forming flanges with existing holes
+causes the holes to distort and possibly crack or substantially
+weaken the flange.
+
+Manual Foot-Operated Sheet Metal Shrinker
+The manual foot-operated sheet metal shrinker operates very
+similarly to the Piccolo former though it only has two primary
+functions: shrinking and stretching. The only dies available
+are steel faced and therefore tend to mar the surface of the
+metal. When used on aluminum, it is necessary to gently
+blend out the surface irregularities (primarily in the cladding),
+then treat and paint the part.
+Since this is a manual machine, it relies on leg power, as the
+operator repeatedly steps on the foot pedal. The more force
+is applied, the more stresses are concentrated at that single
+point. It yields a better part with a series of smaller stretches
+(or shrinks) than with a few intense ones. Squeezing the dies
+over the radius damages the metal and flattens out some of
+the bend. It may be useful to tape a thick piece of plastic or
+micarta to the opposite leg to shim the radius of the angle
+away from the clamping area of the dies.
+Note: Watch the part change shape while slowly applying
+pressure. A number of small stretches works more effectively
+than one large one. If applying too much pressure, the metal
+has the tendency to buckle.
+
+Figure 4-65. Piccolo former.
+
+4-26
+
+===== PDF PAGE 189 =====
+Hand-Operated Shrinker & Stretcher
+The hand-operated shrinker and stretcher is similar to the
+manual foot-operated unit, except a handle is used to apply
+force to shrinking and stretching blocks. The dies are all
+metal and leave marks on aluminum that need to be blended
+out after the shrinking or stretching operation. [Figure 4-67]
+
+Dollies & Stakes
+Sheet metal is often formed or finished (planished) over
+anvils, available in a variety of shapes and sizes, called
+dollies and stakes. These are used for forming small, oddshaped parts, or for putting on finishing touches for which
+a large machine may not be suited. Dollies are meant to be
+held in the hand, whereas stakes are designed to be supported
+by a flat cast iron bench plate fastened to the workbench.
+[Figure 4-68]
+Most stakes have machined, polished surfaces that have been
+hardened. Use of stakes to back up material when chiseling,
+or when using any similar cutting tool, defaces the surface
+of the stake and makes it useless for finish work.
+
+Hardwood Form Blocks
+Hardwood form blocks can be constructed to duplicate
+practically any aircraft structural or nonstructural part. The
+wooden block or form is shaped to the exact dimensions and
+contour of the part to be formed.
+
+V-Blocks
+V-blocks made of hardwood are widely used in airframe
+metalwork for shrinking and stretching metal, particularly
+angles and flanges. The size of the block depends on the work
+being done and on personal preference. Although any type of
+hardwood is suitable, maple and ash are recommended for
+best results when working with aluminum alloys.
+
+Figure 4-68. Dollies and stakes.
+
+Shrinking Blocks
+A shrinking block consists of two metal blocks and some
+device for clamping them together. One block forms the
+base and the other is cut away to provide space where the
+crimped material can be hammered. The legs of the upper
+jaw clamp the material to the base block on each side of
+the crimp to prevent the material from creeping away, but
+remains stationary while the crimp is hammered flat (being
+shrunk). This type of crimping block is designed to be held
+in a bench vise.
+Shrinking blocks can be made to fit any specific need. The
+basic form and principle remain the same, even though the
+blocks may vary considerably in size and shape.
+
+Sandbags
+A sandbag is generally used as a support during the bumping
+process. A serviceable bag can be made by sewing heavy
+canvas or soft leather to form a bag of the desired size, and
+filling it with sand which has been sifted through a fine
+mesh screen.
+
+Figure 4-67. Hand-operated shrinker and stretcher unit.
+
+Before filling canvas bags with sand, use a brush to coat the
+inside of the bag with softened paraffin or beeswax, which
+forms a sealing layer and prevents the sand from working
+4-27
+
+===== PDF PAGE 190 =====
+through the pores of the canvas. Bags can also be filled with
+shot as an alternative to sand.
+
+Sheet Metal Hammers & Mallets
+The sheet metal hammer and the mallet are metal fabrication
+hand tools used for bending and forming sheet metal without
+marring or indenting the metal. The hammer head is usually
+made of high carbon, heat-treated steel, while the head of
+the mallet, which is usually larger than that of the hammer, is
+made of rubber, plastic, wood, or leather. In combination with
+a sandbag, V-blocks, and dies, sheet metal body hammers
+and mallets are used to form annealed metal. [Figure 4-69]
+
+Sheet Metal Holding Devices
+In order to work with sheet metal during the fabrication
+process, the aviation technician uses a variety of holding
+devices, such as clamps, vises, and fasteners to hold the
+work together. The type of operation being performed and the
+type of metal being used determine what type of the holding
+device is needed.
+Clamps & Vises
+Clamps and vises hold materials in place when it is not
+possible to handle a tool and the workpiece at the same
+time. A clamp is a fastening device with movable jaws that
+has opposing, often adjustable, sides or parts. An essential
+fastening device, it holds objects tightly together to prevent
+movement or separation. Clamps can be either temporary
+or permanent. Temporary clamps, such as the carriage
+clamp (commonly called the C-clamp), are used to position
+components while fixing them together.
+
+C-Clamps
+The C-clamp is shaped like a large C and has three main
+parts: threaded screw, jaw, and swivel head. [Figure 4-70]
+The swivel plate or flat end of the screw prevents the end from
+turning directly against the material being clamped. C-clamp
+
+Figure 4-70. C-clamps.
+
+size is measured by the dimension of the largest object the
+frame can accommodate with the screw fully extended.
+The distance from the center line of the screw to the inside
+edge of the frame or the depth of throat is also an important
+consideration when using this clamp. C-clamps vary in size
+from two inches upward. Since C-clamps can leave marks
+on aluminum, protect the aircraft covering with masking tape
+at the places where the C-clamp is used.
+
+Vises
+Vises are another clamping device that hold the workpiece
+in place and allow work to be done on it with tools such as
+saws and drills. The vise consists of two fixed or adjustable
+jaws that are opened or closed by a screw or a lever. The size
+of a vise is measured by both the jaw width and the capacity
+of the vise when the jaws are fully open. Vises also depend
+on a screw to apply pressure, but their textured jaws enhance
+gripping ability beyond that of a clamp.
+Two of the most commonly used vises are the machinist’s vise
+and the utility vise. [Figure 4-71] The machinist’s vise has
+flat jaws and usually a swivel base, whereas the utility bench
+vise has scored, removable jaws and an anvil-faced back jaw.
+This vise holds heavier material than the machinist’s vise
+and also grips pipe or rod firmly. The back jaw can be used
+as an anvil if the work being done is light. To avoid marring
+metal in the vise jaws, add some type of padding, such as a
+ready-made rubber jaw pad.
+Reusable Sheet Metal Fasteners
+Reusable sheet metal fasteners temporarily hold drilled sheet
+metal parts accurately in position for riveting or drilling. If
+sheet metal parts are not held tightly together, they separate
+while being riveted or drilled. The Cleco (also spelled Cleko)
+fastener is the most commonly used sheet metal holder.
+[Figure 4-72]
+
+Figure 4-69. Sheet metal mallet and hammers.
+
+4-28
+
+===== PDF PAGE 191 =====
+Figure 4-73. Hex nut fastener.
+
+Figure 4-71. A utility vise with swivel base and anvil.
+
+a consistent clamping force from 0 to 300 pounds, but the
+aircraft technician can turn and tighten these fasteners by
+hand. Cleco hex nut fasteners are identical to Cleco wing nut
+fasteners, but the Cleco hex nut can be used with pneumatic
+Cleco installers.
+
+Aluminum Alloys
+Aluminum alloys are the most frequently encountered type
+of sheet metal in aircraft repair. AC 43.13-1 Chapter 4, Metal
+Structure, Welding, and Brazing; Section 1, Identification
+of Metals (as revised) provides an in-depth discussion of
+all metal types. This section describes the aluminum alloys
+used in the forming processes discussed in the remainder of
+the chapter.
+
+Figure 4-72. Cleco fastener.
+
+Cleco Fasteners
+The Cleco fastener consists of a steel cylinder body with a
+plunger on the top, a spring, a pair of step-cut locks, and a
+spreader bar. These fasteners come in six different sizes: 3⁄32,
+1
+⁄8, 5⁄32, 3⁄16, 1⁄4, and 3⁄8-inch in diameter with the size stamped on
+the fastener. Color coding allows for easy size recognition. A
+special type of plier fits the six different sizes. When installed
+correctly, the reusable Cleco fastener keeps the holes in the
+separate sheets aligned.
+
+Hex Nut & Wing Nut Temporary Sheet Fasteners
+Hex nut and wing nut fasteners are used to temporarily fasten
+sheets of metal when higher clamp up pressure is required.
+[Figure 4-73] Hex nut fasteners provide up to 300 pounds of
+clamping force with the advantage of quick installation and
+removal with a hex nut runner. Wing nut sheet metal fasteners,
+characterized by wing shaped protrusions, not only provide
+
+In its pure state, aluminum is lightweight, lustrous, and
+corrosion resistant. The thermal conductivity of aluminum
+is very high. It is ductile, malleable, and nonmagnetic. When
+combined with various percentages of other metals (generally
+copper, manganese, and magnesium), aluminum alloys that
+are used in aircraft construction are formed. Aluminum
+alloys are lightweight and strong. They do not possess the
+corrosion resistance of pure aluminum and are usually treated
+to prevent deterioration. Alclad™ aluminum is an aluminum
+alloy with a protective cladding of aluminum to improve its
+corrosion resistance.
+To provide a visual means for identifying the various
+grades of aluminum and aluminum alloys, aluminum stock
+is usually marked with symbols such as a Government
+Specification Number, the temper or condition furnished,
+or the commercial code marking. Plate and sheet are usually
+marked with specification numbers or code markings in
+rows approximately five inches apart. Tubes, bars, rods,
+and extruded shapes are marked with specification numbers
+or code markings at intervals of three to five feet along the
+length of each piece.
+The commercial code marking consists of a number that
+identifies the particular composition of the alloy. Additionally,
+4-29
+
+===== PDF PAGE 192 =====
+letter suffixes designate the basic temper designations and
+subdivisions of aluminum alloys.
+The aluminum and various aluminum alloys used in aircraft
+repair and construction are as follows:
+•
+
+Aluminum designated by the symbol 1100 is used
+where strength is not an important factor, but where
+weight economy and corrosion resistance are desired.
+This aluminum is used for fuel tanks, cowlings, and oil
+tanks. It is also used for repairing wingtips and tanks.
+This material is weldable.
+
+•
+
+Alloy 3003 is similar to 1100 and is generally used
+for the same purposes. It contains a small percentage
+of magnesium and is stronger and harder than
+1100 aluminum.
+
+•
+
+Alloy 2014 is used for heavy-duty forgings, plates,
+extrusions for aircraft fittings, wheels, and major
+structural components. This alloy is often used for
+applications requiring high strength and hardness, as
+well as for service at elevated temperatures.
+
+•
+
+Alloy 2017 is used for rivets. This material is now in
+limited use.
+
+•
+
+Alloy 2024, with or without Alclad™ coating, is
+used for aircraft structures, rivets, hardware, machine
+screw products, and other miscellaneous structural
+applications. In addition, this alloy is commonly
+used for heat-treated parts, airfoil and fuselage skins,
+extrusions, and fittings.
+
+•
+
+Alloy 2025 is used extensively for propeller blades.
+
+•
+
+Alloy 2219 is used for fuel tanks, aircraft skin, and
+structural components. This material has high fracture
+toughness and is readily weldable. Alloy 2219 is also
+highly resistant to stress corrosion cracking.
+
+•
+
+Alloy 5052 is used where good workability, very good
+corrosion resistance, high fatigue strength, weldability,
+and moderate static strength are desired. This alloy is
+used for fuel, hydraulic, and oil lines.
+
+•
+
+Alloy 5056 is used for making rivets and cable
+sheeting and in applications where aluminum comes
+into contact with magnesium alloys. Alloy 5056 is
+generally resistant to the most common forms of
+corrosion.
+
+•
+
+•
+
+Cast aluminum alloys are used for cylinder heads,
+crankcases, fuel injectors, carburetors, and landing
+wheels.
+Various alloys, including 3003, 5052, and 1100
+aluminum, are hardened by cold working rather than
+by heat treatment. Other alloys, including 2017 and
+2024, are hardened by heat treatment, cold working,
+or a combination of the two. Various casting alloys
+
+are hardened by heat treatment.
+•
+
+Alloy 6061 is generally weldable by all commercial
+procedures and methods. It also maintains acceptable
+toughness in many cryogenic applications. Alloy 6061
+is easily extruded and is commonly used for hydraulic
+and pneumatic tubing.
+
+•
+
+Although higher in strength than 2024, alloy 7075
+has a lower fracture toughness and is generally used
+in tension applications where fatigue is not critical.
+The T6 temper of 7075 should be avoided in corrosive
+environments. However, the T7351 temper of 7075 has
+excellent stress corrosion resistance and better fracture
+toughness than the T6 temper. The T76 temper is often
+used to improve the resistance of 7075 to exfoliate
+corrosion.
+
+Structural Fasteners
+Structural fasteners, used to join sheet metal structures
+securely, come in thousands of shapes and sizes with many
+of them specialized and specific to certain aircraft. Since
+some structural fasteners are common to all aircraft, this
+section focuses on the more frequently used fasteners. For
+the purposes of this discussion, fasteners are divided into two
+main groups: solid shank rivets and special purpose fasteners
+that include blind rivets.
+Solid Shank Rivet
+The solid shank rivet is the most common type of rivet used
+in aircraft construction. Used to join aircraft structures, solid
+shank rivets are one of the oldest and most reliable types of
+fastener. Widely used in the aircraft manufacturing industry,
+solid shank rivets are relatively low-cost, permanently
+installed fasteners. They are faster to install than bolts
+and nuts since they adapt well to automatic, high-speed
+installation tools. Rivets should not be used in thick materials
+or in tensile applications, as their tensile strengths are quite
+low relative to their shear strength. The longer the total grip
+length (the total thickness of sheets being joined), the more
+difficult it becomes to lock the rivet.
+Riveted joints are neither airtight nor watertight unless special
+seals or coatings are used. Since rivets are permanently
+installed, they must be removed by drilling them out, a
+laborious task.
+
+Description
+Before installation, the rivet consists of a smooth cylindrical
+shaft with a factory head on one end. The opposite end is
+called the bucktail. To secure two or more pieces of sheet
+metal together, the rivet is placed into a hole cut just a bit
+larger in diameter than the rivet itself. Once placed in this
+predrilled hole, the bucktail is upset or deformed by any of
+4-30
+
+===== PDF PAGE 193 =====
+several methods from hand-held hammers to pneumatically
+driven squeezing tools. This action causes the rivet to expand
+about 11⁄2 times the original shaft diameter, forming a second
+head that firmly holds the material in place.
+Rivet Head Shape
+Solid rivets are available in several head shapes, but the
+universal (also known as protruding head) and the 100°
+countersunk head are the most commonly used in aircraft
+structures. Universal head rivets were developed specifically
+for the aircraft industry and designed as a replacement for
+both the round and brazier head rivets. These rivets replaced
+all protruding head rivets and are used primarily where the
+protruding head has no aerodynamic significance. They
+have a flat area on the head, a head diameter twice the shank
+diameter, and a head height approximately 42.5 percent of
+the shank diameter. [Figure 4-74]
+The countersunk head angle can vary from 60° to 120°, but
+the 100° has been adopted as standard because this head style
+provides the best possible compromise between tension/
+shear strength and flushness requirements. This rivet is used
+where flushness is required because the rivet is flat-topped
+and undercut to allow the head to fit into a countersunk or
+dimpled hole. The countersunk rivet is primarily intended
+for use when aerodynamics smoothness is critical, such as
+on the external surface of a high-speed aircraft.
+Typically, rivets are fabricated from aluminum alloys, such
+as 2017-T4, 2024-T4, 2117-T4, 7050, and 5056. Titanium,
+nickel-based alloys, such as Monel® (corrosion-resistant
+steel), mild steel or iron, and copper rivets are also used for
+rivets in certain cases.
+Rivets are available in a wide variety of alloys, head shapes,
+and sizes and have a wide variety of uses in aircraft structure.
+Rivets that are satisfactory for one part of the aircraft are often
+unsatisfactory for another part. Therefore, it is important
+that an aircraft technician know the strength and driving
+properties of the various types of rivets and how to identify
+them, as well as how to drive or install them.
+Solid rivets are classified by their head shape, by the material
+
+from which they are manufactured, and by their size.
+Identification codes used are derived from a combination of
+the Military Standard (MS) and National Aerospace Standard
+(NAS) systems, as well as an older classification system
+known as AN for Army/Navy. For example, the prefix MS
+identifies hardware that conforms to written military standards.
+A letter or letters following the head-shaped code identify the
+material or alloy from which the rivet was made. The alloy
+code is followed by two numbers separated by a dash. The
+first number is the numerator of a fraction, which specifies
+the shank diameter in thirty-seconds of an inch. The second
+number is the numerator of a fraction in sixteenths of an inch
+and identifies the length of the rivet. Rivet head shapes and
+their identifying code numbers are shown in Figure 4-75.
+The most frequently used repair rivet is the AD rivet because
+it can be installed in the received condition. Some rivet alloys,
+such as DD rivets (alloy 2024-T4), are too hard to drive in
+the received condition and must be annealed before they can
+be installed. Typically, these rivets are annealed and stored in
+a freezer to retard hardening, which has led to the nickname
+“ice box rivets.” They are removed from the freezer just prior
+to use. Most DD rivets have been replaced by E-type rivets
+which can be installed in the received condition.
+The head type, size, and strength required in a rivet are
+governed by such factors as the kind of forces present at the
+point riveted, the kind and thickness of the material to be
+riveted, and the location of the part on the aircraft. The type
+of head needed for a particular job is determined by where
+it is to be installed. Countersunk head rivets should be used
+where a smooth aerodynamic surface is required. Universal
+head rivets may be used in most other areas.
+The size (or diameter) of the selected rivet shank should
+correspond in general to the thickness of the material being
+riveted. If an excessively large rivet is used in a thin material,
+the force necessary to drive the rivet properly causes an
+undesirable bulging around the rivet head. On the other hand,
+
+MS 20
+
+426
+
+AD
+
+5 - 8
+Length in sixteenths of
+an inch
+Diameter in thirty-seconds
+of an inch
+Material or alloy (2117-T4)
+Head shape (countersunk)
+
+Countersunk head
+
+Figure 4-74. Solid shank rivet styles.
+
+Universal head
+
+Specification
+(Military standard)
+Figure 4-75. Rivet head shapes and their identifying code numbers.
+
+4-31
+
+===== PDF PAGE 194 =====
+if an excessively small rivet diameter is selected for thick
+material, the shear strength of the rivet is not great enough
+to carry the load of the joint. As a general rule, the rivet
+diameter should be at least two and a half to three times the
+thickness of the thicker sheet. Rivets most commonly chosen
+in the assembly and repair of aircraft range from 3⁄32-inch to
+3
+⁄8-inch in diameter. Ordinarily, rivets smaller than 3⁄32-inch
+in diameter are never used on any structural parts that carry
+stresses.
+The proper sized rivets to use for any repair can also
+be determined by referring to the rivets (used by the
+manufacturer) in the next parallel row inboard on the wing
+or forward on the fuselage. Another method of determining
+the size of rivets to be used is to multiply the skin’s thickness
+by 3 and use the next larger size rivet corresponding to that
+figure. For example, if the skin is 0.040 inch thick, multiply
+0.040 inch by 3 to get 0.120 inch and use the next larger size
+of rivet, 1⁄8-inch (0.125 inch).
+When rivets are to pass completely through tubular members,
+select a rivet diameter equivalent to at least 1⁄8 the outside
+diameter of the tube. If one tube sleeves or fits over another,
+take the outside diameter of the outside tube and use oneeighth of that distance as the minimum rivet diameter. A good
+practice is to calculate the minimum rivet diameter and then
+use the next larger size rivet.
+Whenever possible, select rivets of the same alloy number
+as the material being riveted. For example, use 1100 and
+3003 rivets on parts fabricated from 1100 and 3003 alloys,
+and 2117-1 and 2017-T rivets on parts fabricated from 2017
+and 2024 alloys.
+
+The properly formed shop head equals one and a half times
+the diameter of the rivet shank. Where A is total rivet length,
+B is grip length, and C is the length of the material needed
+to form a shop head, this formula can be represented as A =
+B + C. [Figure 4-76]
+Rivet Strength
+For structural applications, the strength of the replacement
+rivets is of primary importance. [Figure 4-77] Replace rivets
+with those of the same size and strength whenever possible.
+If the rivet hole becomes enlarged, deformed, or otherwise
+damaged; drill or ream the hole for the next larger size rivet.
+However, make sure that the edge distance and spacing is not
+less than minimums listed in the next paragraph. Rivets may
+not be replaced by a type having lower strength properties,
+unless the lower strength is adequately compensated by an
+increase in size or a greater number of rivets. For example, it
+is acceptable to replace 2017 rivets of 3/16 inch diameter or
+less, and 2024 rivets of 5/32 inch diameter or less with 2117
+rivets for general repairs, provided the replacement rivets
+are 1/32 inch greater in diameter than the rivets they replace.
+The 2117-T rivet is used for general repair work, since it
+requires no heat treatment, is fairly soft and strong, and is
+highly corrosion resistant when used with most types of
+alloys. Always consult the maintenance manual for correct
+rivet type and material. The type of rivet head to select for
+a particular repair job can be determined by referring to the
+
+Driven Rivet Standards
+A, AD, B, DD Rivets
+
+The size of the formed head is the visual standard of a proper
+rivet installation. The minimum and maximum sizes, as well
+as the ideal size, are shown in Figure 4-76.
+
+Installation of Rivets
+Repair Layout
+Repair layout involves determining the number of rivets
+required, the proper size and style of rivets to be used, their
+material, temper condition and strength, the size of the holes,
+the distances between the holes, and the distance between
+the holes and the edges of the patch. Distances are measured
+in terms of rivet diameter.
+Rivet Length
+To determine the total length of a rivet to be installed, the
+combined thickness of the materials to be joined must first
+be known. This measurement is known as the grip length.
+The total length of the rivet equals the grip length plus the
+amount of rivet shank needed to form a proper shop head.
+
+1.33 d
+
+Formed
+head
+dimension
+
+1.5 d
+
+Predrive
+protrusion
+
+.66 d
+1.25 d
+
+.5 d
+1.5 d
+
+Minimum
+
+.33 d
+1.66 d
+
+Preferred
+
+Maximum
+
+D, E, (KE), M Rivets
+
+1.25 d
+
+Formed
+head
+dimension
+
+1.33 d
+
+Predrive
+protrusion
+
+.66 d
+
+.6 d
+
+.5 d
+
+1.25 d
+
+1.4 d
+
+1.5 d
+
+Minimum
+
+Preferred
+
+Maximum
+
+Figure 4-76. Rivet formed head dimensions.
+
+4-32
+
+===== PDF PAGE 195 =====
+Standard Rivet Alloy Code Markings
+Alloy code—A
+Alloy—1100 or 3003 aluminum
+Head marking—None
+
+Shear strength—10 kilopounds
+per square inch (KSI)
+
+Alloy code—B
+Alloy—5056 aluminum
+Head marking—raised cross
+
+Shear strength—28 KSI
+
+Nonstructural uses only
+
+Alloy code—AD
+Alloy—2117 aluminum
+Head marking—Dimple
+
+Alloy code—D
+Alloy—2017 aluminum
+Head marking—Raised dot
+
+Shear strength—30 KSI
+
+Shear strength—38 KSI
+38 KSI When driven as received
+34 KSI When re-heat treated
+
+Alloy code—DD
+Alloy—2024 aluminum
+Head marking—Two bars (raised)
+
+Alloy code—E, [KE*] *Boeing code
+Alloy—7050 aluminum
+Head marking—Raised ring
+
+Shear strength—41 KSI
+
+Shear strength—43 KSI
+
+Must be driven in “W” condition
+(Ice-Box)
+
+Replacement for DD rivet
+to be driven in “T” condition
+
+Figure 4-77. Rivet alloy strength.
+
+type used within the surrounding area by the manufacturer.
+A general rule to follow on a flush-riveted aircraft is to apply
+flush rivets on the upper surface of the wing and stabilizers,
+on the lower leading edge back to the spar, and on the fuselage
+back to the high point of the wing. Use universal head rivets
+in all other surface areas. Whenever possible, select rivets of
+the same alloy number as the material being riveted.
+Stresses Applied to Rivets
+Shear is one of the two stresses applied to rivets. The shear
+strength is the amount of force required to cut a rivet that
+holds two or more sheets of material together. If the rivet
+
+holds two parts, it is under single shear; if it holds three
+sheets or parts, it is under double shear. To determine the
+shear strength, the diameter of the rivet to be used must be
+found by multiplying the thickness of the skin material by 3.
+For example, a material thickness of 0.040 inch multiplied by
+3 equals 0.120 inch. In this case, the rivet diameter selected
+would be 1⁄8 (0.125) inch.
+Tension is the other stress applied to rivets. The resistance to
+tension is called bearing strength and is the amount of tension
+required to pull a rivet through the edge of two sheets riveted
+together or to elongate the hole.
+Rivet Spacing
+Rivet spacing is measured between the centerlines of rivets
+in the same row. The minimum spacing between protruding
+head rivets shall not be less than 31⁄2 times the rivet diameter.
+The minimum spacing between flush head rivets shall not be
+less than 4 times the diameter of the rivet. These dimensions
+may be used as the minimum spacing except when specified
+differently in a specific repair procedure or when replacing
+existing rivets.
+On most repairs, the general practice is to use the same rivet
+spacing and edge distance (distance from the center of the
+hole to the edge of the material) that the manufacturer used in
+the area surrounding the damage. The SRM for the particular
+aircraft may also be consulted. Aside from this fundamental
+rule, there is no specific set of rules that governs spacing
+of rivets in all cases. However, there are certain minimum
+requirements that must be observed.
+•
+
+When possible, rivet edge distance, rivet spacing, and
+distance between rows should be the same as that of
+the original installation.
+
+•
+
+When new sections are to be added, the edge distance
+measured from the center of the rivet should never be
+less than 2 times the diameter of the shank; the distance
+between rivets or pitch should be at least 3 times the
+diameter; and the distance between rivet rows should
+never be less than 21⁄2 times the diameter.
+
+Figure 4-78 illustrates acceptable ways of laying out a rivet
+pattern for a repair.
+Edge Distance
+Edge distance, also called edge margin by some manufacturers,
+is the distance from the center of the first rivet to the edge
+of the sheet. It should not be less than 2 or more than 4 rivet
+diameters and the recommended edge distance is about 21⁄2
+rivet diameters. The minimum edge distance for universal
+rivets is 2 times the diameter of the rivet; the minimum edge
+distance for countersunk rivets is 21⁄2 times the diameter of the
+4-33
+
+===== PDF PAGE 196 =====
+Two methods for obtaining edge distance:
+•
+
+The rivet diameter of a protruding head rivet is 3⁄32inch. Multiply 2 times 3⁄32-inch to obtain the minimum
+edge distance, 3⁄16-inch, add 1⁄16-inch to yield the
+preferred edge distance of 1⁄4-inch.
+
+•
+
+The rivet diameter of a protruding head rivet is 3⁄32-inch.
+Select the next size of rivet, which is 1⁄8-inch. Calculate
+the edge distance by multiplying 2 times 1⁄8-inch to get
+1
+⁄4-inch.
+
+Rivet Spacing
+Rivet Spacing
+Rivet Spacing
+6D Distance Between 6D Distance Between 4D Distance Between
+Rows 6D
+Rows 3D
+Rows 4D
+
+Figure 4-78. Acceptable rivet patterns.
+
+rivet. If rivets are placed too close to the edge of the sheet,
+the sheet may crack or pull away from the rivets. If they are
+spaced too far from the edge, the sheet is likely to turn up at
+the edges. [Figure 4-79]
+It is good practice to lay out the rivets a little further from the
+edge so that the rivet holes can be oversized without violating
+the edge distance minimums. Add 1⁄16-inch to the minimum
+edge distance or determine the edge distance using the next
+size of rivet diameter.
+
+E
+
+E
+
+Section A-A
+
+D
+
+D
+
+Incorrect - too close to edge
+
+Correct E = 2D
+
+E = 1½D
+A
+
+A
+
+Resultant crack
+
+Safe
+
+Edge Distance/Edge
+Margin
+
+Minimum Edge
+Distance
+
+Preferred Edge
+Distance
+
+Protruding head rivets
+
+2D
+
+2 D + 1/16˝
+
+Countersunk rivets
+
+2½ D
+
+2½ D + 1/16˝
+
+Figure 4-79. Minimum edge distance.
+Rivet Spacing
+
+Rivet Pitch
+Rivet pitch is the distance between the centers of neighboring
+rivets in the same row. The smallest allowable rivet pitch is 3
+rivet diameters. The average rivet pitch usually ranges from
+4 to 6 rivet diameters, although in some instances rivet pitch
+could be as large as 10 rivet diameters. Rivet spacing on parts
+that are subjected to bending moments is often closer to the
+minimum spacing to prevent buckling of the skin between
+the rivets. The minimum pitch also depends on the number of
+rows of rivets. One-and three-row layouts have a minimum
+pitch of 3 rivet diameters, a two-row layout has a minimum
+pitch of 4 rivet diameters. The pitch for countersunk rivets
+is larger than for universal head rivets. If the rivet spacing
+is made at least 1⁄16-inch larger than the minimum, the rivet
+hole can be oversized without violating the minimum rivet
+spacing requirement. [Figure 4-80]
+Transverse Pitch
+Transverse pitch is the perpendicular distance between rivet
+rows. It is usually 75 percent of the rivet pitch. The smallest
+allowable transverse pitch is 21⁄2 rivet diameters. The smallest
+allowable transverse pitch is 21⁄2 rivet diameters. Rivet pitch
+and transverse pitch often have the same dimension and are
+simply called rivet spacing.
+Rivet Layout Example
+The general rules for rivet spacing, as it is applied to a
+straight-row layout, are quite simple. In a one-row layout,
+find the edge distance at each end of the row and then lay
+off the rivet pitch (distance between rivets), as shown in
+Figure 4-81. In a two-row layout, lay off the first row, place
+the second row a distance equal to the transverse pitch from
+the first row, and then lay off rivet spots in the second row
+so that they fall midway between those in the first row. In the
+Minimum Spacing
+
+Preferred Spacing
+
+1 and 3 rows protruding head rivet layout
+
+3D
+
+3D + 1/16"
+
+2 row protruding head rivet layout
+
+4D
+
+4D + 1/16"
+
+1 and 3 rows countersunk head rivet layout
+
+3/1/2D
+
+3/1/2D + 1/16"
+
+2 row countersunk head rivet layout
+
+4/1/2D
+
+4/1/2D + 1/16"
+
+Figure 4-80. Rivet spacing.
+
+4-34
+
+===== PDF PAGE 197 =====
+Rivet pitch
+(6 to 8 diameters)
+
+Edge distance
+(2 to 21/2 diameters)
+
+Single-row layout
+Transverse pitch (75 percent of rivet pitch)
+
+Two-row layout
+
+Three-row layout
+
+Figure 4-81. Rivet layout.
+
+three-row layout, first lay off the first and third rows, then
+use a straightedge to determine the second row rivet spots.
+When splicing a damaged tube, and the rivets pass completely
+through the tube, space the rivets four to seven rivet diameters
+apart if adjacent rivets are at right angles to each other, and
+space them five to seven rivet diameters apart if the rivets
+are parallel to each other. The first rivet on each side of the
+joint should be no less than 21⁄2 rivet diameters from the end
+of the sleeve.
+
+driving and upsetting rivets. They include rivet cutters,
+bucking bars, hand riveters, countersinks, and dimpling tools.
+Rivet Cutter
+The rivet cutter is used to trim rivets when rivets of the
+required length are unavailable. [Figure 4-82] To use the
+rotary rivet cutter, insert the rivet in the correct hole, place the
+required number of shims under the rivet head, and squeeze
+the cutter as if it were a pair of pliers. Rotation of the discs
+cuts the rivet to give the right length, which is determined
+by the number of shims inserted under the head. When using
+a large rivet cutter, place it in a vise, insert the rivet in the
+proper hole, and cut by pulling the handle, which shears off
+the rivet. If regular rivet cutters are not available, diagonal
+cutting pliers can be used as a substitute cutter.
+Bucking Bar
+The bucking bar, sometimes called a dolly, bucking
+iron, or bucking block, is a heavy chunk of steel whose
+countervibration during installation contributes to proper
+rivet installation. They come in a variety of shapes and sizes,
+and their weights ranges from a few ounces to 8 or 10 pounds,
+depending upon the nature of the work. Bucking bars are
+most often made from low-carbon steel that has been case
+hardened or alloy bar stock. Those made of better grades of
+steel last longer and require less reconditioning.
+Bucking faces must be hard enough to resist indentation and
+remain smooth, but not hard enough to shatter. Sometimes,
+the more complicated bars must be forged or built up by
+welding. The bar usually has a concave face to conform to the
+shape of the shop head to be made. When selecting a bucking
+bar, the first consideration is shape. [Figure 4-83] If the bar
+does not have the correct shape, it deforms the rivet head;
+if the bar is too light, it does not give the necessary bucking
+weight, and the material may become bulged toward the shop
+head. If the bar is too heavy, its weight and the bucking force
+may cause the material to bulge away from the shop head.
+
+Rivet Installation Tools
+The various tools needed in the normal course of driving
+and upsetting rivets include drills, reamers, rivet cutters or
+nippers, bucking bars, riveting hammers, draw sets, dimpling
+dies or other types of countersinking equipment, rivet guns,
+and squeeze riveters. C-clamps, vises, and other fasteners
+used to hold sheets together when riveting were discussed
+earlier in the chapter. Other tools and equipment needed in the
+installation of rivets are discussed in the following paragraphs.
+Hand Tools
+A variety of hand tools are used in the normal course of
+
+Figure 4-82. Rivet cutters.
+
+4-35
+

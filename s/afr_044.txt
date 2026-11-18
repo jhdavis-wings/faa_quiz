@@ -1,0 +1,168 @@
+FAA-H-8083-31B Airframe Handbook, chapter 11 (Communication & Navigation), PDF pages 677-679
+
+===== PDF PAGE 677 =====
+Figure 11-160. Static dischargers or wicks dissipate built up static energy in flight at points a safe distance from avionics antennas to
+
+prevent radio frequency interference.
+
+of mast-type antenna installations.
+Sufficient size to accommodate transmission line cable
+
+C/L
+No. 18 drill
+
+Figure 11-161. A typical antenna mounting template.
+
+the reinforcing plate should approximate the example
+shown in Figure 11-162.
+3.
+
+Install the antenna on the fuselage, making sure that
+the mounting bolts are tightened firmly against the
+reinforcing doubler, and the mast is drawn tight against
+the gasket. If a gasket is not used, seal between the
+mast and the fuselage with a suitable sealer, such as
+zinc chromate paste or equivalent.
+The mounting bases of antennas vary in shape and sizes;
+however, the aforementioned installation procedure is typical
+
+Transmission Lines
+A transmitting or receiving antenna is connected directly to
+its associated transmitter or receiver by a transmission line.
+This is a shielded wire also known as coax. Transmission lines
+may vary from only a few feet to many feet in length. They
+must transfer energy with minimal loss. Transponders, DME
+and other pulse type transceivers require transmission lines
+that are precise in length. The critical length of transmission
+lines provides minimal attenuation of the transmitted or
+received signal. Refer to the equipment manufacturer’s
+installation manual for the type and allowable length of
+transmission lines.
+To provide the proper impedance matching for the most
+efficient power transfer, a balun may be used in some antenna
+installations. It is formed in the transmission line connection
+to the antenna. A balun in a dipole antenna installation is
+illustrated in Figure 11-163.
+Coax connectors are usually used with coax cable to ensure
+a secure connection. Many transmission lines are part of
+the equipment installation kit with connectors previously
+installed. The aircraft technician is also able to install these
+11-74
+
+===== PDF PAGE 678 =====
+Attach to antenna dipoles
+
+Antenna
+Fuselage skin
+
+View
+
+A
+
+-
+
+Twisted shield
+
+ed
+
+Sh
+i
+
+remo
+eld
+v
+
+Existing stringers
+A
+
+Reinforcing doubler Alclad 2024-T3
+Approximately one inch spacing
+of 1/8" minimum diameter rivet
+
+Protective outer covering
+4
+
+A
+
+A
+Wire wrapped and
+soldered to shield
+
+Airframe ground
+Center conductor open
+1½" edge distance minimum
+To navigation receiver
+Figure 11-162. A typical antenna installation on a skin panel
+
+including a doubler.
+
+Figure 11-163. A balun in a dipole antenna installation provides the
+
+proper impedance for efficient power transfer.
+
+connectors on coax. Figure 11-164 illustrates the basic steps
+used when installing a coax cable connector.
+When installing coaxial cable, secure the cables firmly
+along their entire length at intervals of approximately 2
+feet. To assure optimum operation, coaxial cables should
+not be routed or tied to other wire bundles. When bending
+coaxial cable, be sure that the bend is at least 10 times the
+size of the cable diameter. In all cases, follow the equipment
+manufacturer’s instructions.
+
+careless oversights during equipment replacement. Loose
+cable connections, switched cable terminations, improper
+bonding, worn shock mounts, improper safety wiring, and
+failure to perform an operational check after installation may
+result in poor performance or inoperative avionics.
+
+Maintenance Procedures
+Detailed instructions, procedures, and specifications for
+the servicing of avionics equipment are contained in the
+manufacturer’s operating manuals. Additional instructions
+for removal and installation of the units are contained in the
+maintenance manual for the aircraft in which the equipment
+is installed. Although an installation may appear to be a
+simple procedure, many avionics troubles are attributed to
+11-75
+
+===== PDF PAGE 679 =====
+¼
+Remove ¼-inch of the outer insulation
+
+Separate and fan out the braid
+
+1/8
+
+Remove 1/8-inch of the inner insulator
+from the center conductor
+Nut
+
+Washer Gasket Clamp
+
+Add the clamp to the end of the cable outer insulator
+and slide the nut, washer, and gasket toward it
+Gasket Clamp
+Braid
+3
+32
+Neatly fold back the separated shielding strands
+over the taper of the clamp and trim evenly with the
+end of the taper. Slide the gasket to the clamp.
+
+Jack body
+
+Insulator
+
+Contact
+
+Tin the inner conductor with 60-40 resin core solder.
+Slide the inner contact over the cable end until flush
+with the inner insulator. Solder the contact to the
+conductor. Slip the connector jack body over the end
+of the cable and secure it with the nut and washer.
+Figure 11-164. Steps in attaching a connector to coax cable used as
+antenna transmission lines.
+
+11-76
+

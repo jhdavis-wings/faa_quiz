@@ -1,0 +1,2137 @@
+FAA-H-8083-31B Airframe Handbook, chapter 9 (Aircraft Electrical System), PDF pages 417-436
+
+===== PDF PAGE 417 =====
+Chapter 9
+
+Aircraft Electrical System
+Introduction
+The satisfactory performance of any modern aircraft depends
+to a very great degree on the continuing reliability of electrical
+systems and subsystems. Improperly or carelessly installed
+or maintained wiring can be a source of both immediate
+and potential danger. The continued proper performance of
+electrical systems depends on the knowledge and technique
+of the mechanic who installs, inspects, and maintains the
+electrical system wires and cables.
+Ohm’s Law
+Ohm’s Law describes the basic mathematical relationships
+of electricity. The law was named after German Physicist
+George Simon Ohm (1789–1854). Basically, Ohm’s Law
+states that the current (electron flow) through a conductor
+is directly proportional to the voltage (electrical pressure)
+applied to that conductor and inversely proportional to
+the resistance of the conductor. The unit used to measure
+resistance is called the ohm. The symbol for the ohm is the
+Greek letter omega (Ω). In mathematical formulas, the capital
+letter R refers to resistance. The resistance of a conductor and
+the voltage applied to it determine the number of amperes
+of current flowing through the conductor. Thus, 1 ohm of
+resistance limits the current flow to 1 ampere in a conductor
+to which a voltage of 1 volt is applied. The primary formula
+derived from Ohm’s Law is: E = I × R (E = electromotive
+force measured in volts, I = current flow measured in amps,
+and R = resistance measured in ohms). This formula can also
+be written to solve for current or resistance:
+I= E
+R
+R= E
+I
+Ohm’s Law provides a foundation of mathematical formulas
+that predict how electricity responds to certain conditions.
+[Figure 9-1] For example, Ohm’s Law can be used to
+calculate that a lamp of 12 Ohms (Ω) passes a current of
+2 amps when connected to a 24-volt direct current (DC)
+power source.
+
+R = 12Ω
+
+I = 2A
+
+E = 24 V DC
+Figure 9-1. Ohm's Law used to calculate how much current a
+lamp will pass when connected to a 24-volt DC power source.
+
+Example 1
+A 28-volt landing light circuit has a lamp with 4 ohms of
+resistance. Calculate the total current of the circuit.
+I= E
+R
+I = 28 volts
+4Ω
+I = 7 amps
+Example 2
+A 28-volt deice boot circuit has a current of 6.5 amps.
+Calculate the resistance of the deice boot.
+R= E
+I
+R = 28 volts
+6.5 amps
+R = 4.31Ω
+
+9-1
+
+===== PDF PAGE 418 =====
+Example 3
+A taxi light has a resistance of 4.9Ω and a total current of
+2.85 amps. Calculate the system voltage.
+E=I×R
+
+A
+
+E = 2.85 × 4.9Ω
+
+To find I (amperes),
+place thumb over I
+and divide E by R
+as indicated.
+
+E
+I
+
+X
+
+R
+
+E = 14 volts
+Whenever troubleshooting aircraft electrical circuits,
+it is always valuable to consider Ohm’s Law. A good
+understanding of the relationship between resistance and
+current flow can help one determine if a circuit contains an
+open or a short. Remembering that a low resistance means
+increased current can help explain why circuit breakers pop
+or fuses blow. In almost all cases, aircraft loads are wired in
+parallel to each other; therefore, there is a constant voltage
+supplied to all loads and the current flow through a load is a
+function of that load’s resistance.
+Figure 9-2 illustrates several ways of using Ohm’s Law for
+the calculation of current, voltage, and resistance.
+Current
+Electrical current is the movement of electrons. This electron
+movement is referred to as current, flow, or current flow. In
+practical terms, this movement of electrons must take place
+within a conductor (wire). Current is typically measured in
+amps. The symbol for current is I and the symbol for amps is A.
+The current flow is actually the movement of the free
+electrons found within conductors. Common conductors
+include copper, silver, aluminum, and gold. The term “free
+electron” describes a condition in some atoms where the
+outer electrons are loosely bound to their parent atom. These
+loosely bound electrons are easily motivated to move in a
+given direction when an external source, such as a battery,
+is applied to the circuit. These electrons are attracted to the
+positive terminal of the battery, while the negative terminal
+is the source of the electrons. So, the measure of current is
+actually the number of electrons moving through a conductor
+in a given amount of time.
+The internationally accepted unit for current is the ampere
+(A). One ampere (A) of current is equivalent to 1 coulomb
+(C) of charge passing through a conductor in 1 second. One
+coulomb of charge equals 6.28 × 1018 electrons. Obviously,
+the unit of amperes is a much more convenient term to use
+than coulombs. The unit of coulombs is simply too small to
+be practical.
+When current flow is in one direction, it is called direct
+
+B
+
+To find R (ohms),
+place thumb over
+R and divide as
+indicated.
+
+E
+I
+
+C
+
+X
+
+To find E (volts),
+place thumb over
+E and multiply as
+indicated.
+
+R
+
+E
+I
+
+X
+
+R
+
+Figure 9-2. Ohm's Law chart.
+
+current (DC). Later in the text, the form of current that
+periodically oscillates back and forth within the circuit is
+discussed. The present discussion is concerned only with
+the use of DC. It should be noted that as with the movement
+of any mass, electron movement (current flow) only occurs
+when there is a force present to push the electrons. This force
+is commonly called voltage (described in more detail in the
+next section). When a voltage is applied across the conductor,
+an electromotive force creates an electric field within the
+conductor, and a current is established. The electrons do not
+move in a straight direction, but undergo repeated collisions
+with other nearby atoms within a conductor. These collisions
+usually knock other free electrons from their atoms, and these
+electrons move on toward the positive end of the conductor
+with an average velocity called the drift velocity, which is
+relatively low speed. To understand the nearly instantaneous
+speed of the effect of the current, it is helpful to visualize a
+long tube filled with steel balls. [Figure 9-3]
+It can be seen that a ball introduced in one end of the tube,
+which represents the conductor, immediately causes a ball
+to be emitted at the opposite end of the tube. Thus, electric
+9-2
+
+===== PDF PAGE 419 =====
+generator, or ground power unit. The potential difference,
+or the voltage across any two points in an electrical system,
+can be determined by:
+V1 – V2 = VDrop
+Figure 9-3. Electron flow.
+
+current can be viewed as instantaneous, even though it is the
+result of a relatively slow drift of electrons.
+
+Conventional Current Theory & Electron Theory
+There are two competing schools of thought regarding the
+flow of electricity. The two explanations are the conventional
+current theory and the electron theory. Both theories describe
+the movement of electrons through a conductor. They
+simply explain the direction current moves. Typically during
+troubleshooting or the connection of electrical circuits,
+the use of either theory can be applied as long as it is used
+consistently. The Federal Aviation Administration (FAA)
+officially defines current flow using electron theory (negative
+to positive).
+The conventional current theory was initially advanced by
+Benjamin Franklin, who reasoned that current flowed out of
+a positive source into a negative source or an area that lacked
+an abundance of charge. The notation assigned to the electric
+charges was positive (+) for the abundance of charge and
+negative (−) for a lack of charge. It then seemed natural to
+visualize the flow of current as being from the positive (+)
+to the negative (−). Later discoveries were made that proved
+that just the opposite is true. Electron theory describes what
+actually happens in the case of an abundance of electrons
+flowing out of the negative (−) source to an area that lacks
+electrons or the positive (+) source. Both conventional flow
+and electron flow are used in industry.
+Electromotive Force (Voltage)
+Voltage is most easily described as electrical pressure force.
+It is the electromotive force (EMF), or the push or pressure
+from one end of the conductor to the other, that ultimately
+moves the electrons. The symbol for EMF is the capital letter
+E. EMF is always measured between two points and voltage
+is considered a value between two points. For example,
+across the terminals of the typical aircraft battery, voltage
+can be measured as the potential difference of 12 volts or
+24 volts. That is to say that between the two terminal posts
+of the battery, there is a voltage available to push current
+through a circuit. Free electrons in the negative terminal of
+the battery move toward the excessive number of positive
+charges in the positive terminal. The net result is a flow or
+current through a conductor. There cannot be a flow in a
+conductor unless there is an applied voltage from a battery,
+
+Example
+The voltage at one point is 14 volts. The voltage at a second
+point in the circuit is 12.1 volts. To calculate the voltage drop,
+use the formula above to get a total voltage drop of 1.9 volts.
+Figure 9-4 illustrates the flow of electrons of electric current.
+Two interconnected water tanks demonstrate that when a
+difference of pressure exists between the two tanks, water
+flows until the two tanks are equalized. Figure 9-4 shows
+the level of water in tank A to be at a higher level, reading
+10 pounds per square inch (psi) (higher potential energy),
+than the water level in tank B, reading 2 psi (lower potential
+energy). Between the two tanks, there is 8 psi potential
+difference. If the valve in the interconnecting line between the
+tanks is opened, water flows from tank A into tank B until the
+level of water (potential energy) of both tanks is equalized.
+It is important to note that it was not the pressure in tank A
+that caused the water to flow; rather, it was the difference
+in pressure between tank A and tank B that caused the flow.
+This comparison illustrates the principle that electrons move,
+when a path is available, from a point of excess electrons
+(higher potential energy) to a point deficient in electrons
+(lower potential energy). The force that causes this movement
+is the potential difference in electrical energy between the two
+points. This force is called the electrical pressure (voltage),
+the potential difference, or the electromotive force (electron
+moving force).
+Resistance
+The two fundamental properties of current and voltage
+are related by a third property known as resistance. In any
+electrical circuit, when voltage is applied to it, a current
+results. The resistance of the conductor determines the
+amount of current that flows under the given voltage. In
+general, the greater the circuit resistance, the less the current.
+
+A
+
+B
+
+Figure 9-4. Difference of pressure.
+
+9-3
+
+===== PDF PAGE 420 =====
+If the resistance is reduced, then the current will increase.
+This relation is linear in nature and is known as Ohm’s Law.
+An example would be if the resistance of a circuit is doubled,
+and the voltage is held constant, then the current through the
+resistor is cut in half.
+There is no distinct dividing line between conductors and
+insulators; under the proper conditions, all types of material
+conduct some current. Materials offering a resistance to
+current flow midway between the best conductors and the
+poorest conductors (insulators) are sometimes referred to
+as semiconductors and find their greatest application in the
+field of transistors.
+The best conductors are materials, chiefly metals, that possess
+a large number of free electrons. Conversely, insulators are
+materials having few free electrons. The best conductors are
+silver, copper, gold, and aluminum, but some nonmetals, such
+as carbon and water, can be used as conductors. Materials
+such as rubber, glass, ceramics, and plastics are such poor
+conductors that they are usually used as insulators. The
+current flow in some of these materials is so low that it is
+usually considered zero.
+
+Factors Affecting Resistance
+The resistance of a metallic conductor is dependent on the
+type of conductor material. It has been pointed out that certain
+metals are commonly used as conductors because of the
+large number of free electrons in their outer orbits. Copper
+is usually considered the best available conductor material,
+since a copper wire of a particular diameter offers a lower
+resistance to current flow than an aluminum wire of the same
+diameter. However, aluminum is much lighter than copper,
+and for this reason, as well as cost considerations, aluminum
+is often used when the weight factor is important.
+The resistance of a metallic conductor is directly proportional
+to its length. The longer the length of a given size of wire, the
+greater the resistance. Figure 9-5 shows two wire conductors
+of different lengths. If 1 volt of electrical pressure is applied
+across the two ends of the conductor that is 1 foot in length
+and the resistance to the movement of free electrons is
+assumed to be 1 ohm, the current flow is limited to 1 ampere.
+If the same size conductor is doubled in length, the same
+electrons set in motion by the 1 volt applied now find twice
+the resistance.
+Electromagnetic Generation of Power
+Electrical energy can be produced through a number of
+methods. Common methods include the use of light, pressure,
+heat, chemical, and electromagnetic induction. Of these
+processes, electromagnetic induction is most responsible for
+the generation of the majority of the electrical power used
+
+t
+
+ee
+
+2f
+
+p
+
+5
+
+0.
+
+Am
+
+s)
+
+(2
+
+m
+Oh
+
+t
+
+oo
+
+1f
+
+)
+
+m
+
++
+p
+
++
+
+1
+
+Am
+
+(1
+
+Oh
+
+Figure 9-5. Resistance varies with length of conductor.
+
+by humans. Virtually all mechanical devices (generators and
+alternators) that produce electrical power employ the process
+of electromagnetic induction. The use of light, pressure, heat,
+and chemical sources for electrical power is found on aircraft
+but produce a minimal amount of all the electrical power
+consumed during a typical flight.
+In brief, light can produce electricity using a solar cell
+(photovoltaic cell). These cells contain a certain chemical
+that converts light energy into voltage/current.
+Using pressure to generate electrical power is commonly
+known as the piezoelectric effect. The piezoelectric effect
+(piezo or piez taken from Greek: to press; pressure; to
+squeeze) is a result of the application of mechanical pressure
+on a dielectric or nonconducting crystal.
+Chemical energy can be converted into electricity, most
+commonly in the form of a battery. A primary battery
+produces electricity using two different metals in a chemical
+solution like alkaline electrolyte. A chemical reaction exists
+between the metals which frees more electrons in one metal
+than in the other.
+Heat used to produce electricity creates the thermoelectric
+effect. When a device called a thermocouple is subjected to
+heat, a voltage is produced. A thermocouple is a junction
+between two different metals that produces a voltage related
+to a temperature difference. If the thermocouple is connected
+to a complete circuit, a current also flows. Thermocouples are
+often found on aircraft as part of a temperature monitoring
+system, such as a cylinder head temperature gauge.
+Electromagnetic induction is the process of producing a
+voltage (EMF) by moving a magnetic field in relationship to a
+9-4
+
+===== PDF PAGE 421 =====
+Motion of magnet
+EMF
+
+Galvanometer
+
+I
+
+N
+S
+
+A
+
+N
+
+Coil
+
+S
+
+I
+
+Motion of conductor
+
+Figure 9-6. Inducing an EMF in a conductor.
+
+conductor. As shown in Figure 9-6, when a conductor (wire)
+is moved through a magnetic field, an EMF is produced in the
+conductor. If a complete circuit is connected to the conductor,
+the voltage also produces a current flow.
+One single conductor does not produce significant voltage/
+current via electromagnetic induction. [Figure 9-6] In
+practice, instead of a single wire, a coil of wire is moved
+through the magnetic field of a strong magnet. This produces
+a greater electrical output. In many cases, the magnetic field
+is created by using a powerful electromagnet. This allows
+for the production of a greater voltage/current due to the
+stronger magnetic field produced by the electromagnet when
+compared to an ordinary magnet.
+Please note that this text often refers to voltage/current in
+regards to electrical power. Remember voltage (electrical
+pressure) must be present to produce a current (electron
+flow). Hence, the output energy generated through the process
+of electromagnetic induction always consists of voltage.
+Current also results when a complete circuit is connected to
+that voltage. Electrical power is produced when there is both
+electrical pressure E (EMF) and current (I). Power = Current
+× Voltage (P = I × E)
+It is the relative motion between a conductor and a magnetic
+field that causes current to flow in the conductor. Either the
+conductor or magnet can be moving or stationary. When a
+magnet and its field are moved through a coiled conductor,
+as shown in Figure 9-7, a DC voltage with a specific polarity
+is produced. The polarity of this voltage depends on the
+direction in which the magnet is moved and the position of
+the north and south poles of the magnetic field. The generator
+left-hand rule can be used to determine the direction of
+current flow within the conductor. [Figure 9-8] Of course,
+the direction of current flow is a function of the polarity of
+
+B
+
+N
+Magnet at rest
+S
+
+Motion of magnet
+
+N
+C
+
+S
+
+I
+
+I
+
+Figure 9-7. Inducing a current flow.
+
+the voltage induced in to the conductor.
+In practice, producing voltage/current using the process
+of electromagnetic induction requires a rotating machine.
+Generally speaking, on all aircraft, a generator or alternator
+employs the principles of electromagnetic induction to create
+electrical power for the aircraft. Either the magnetic field can
+rotate or the conductor can rotate. [Figure 9-9] The rotating
+component is driven by a mechanical device, such as an
+aircraft engine.
+During the process of electromagnetic induction, the value of
+the induced voltage/current depends on three basic factors:
+
+9-5
+
+===== PDF PAGE 422 =====
+uctor
+Cond d up
+e
+mov
+d
+orwar
+Flux f
+
+ct
+du
+In MF
+E
+ed
+
+N
+S
+N
+
+A
+
+F
+
+M
+dE
+
+uce
+
+Ind
+
+B
+
+S
+
+Figure 9-9. Voltage induced in a loop.
+Figure 9-8. An application of the generator left-hand rule.
+
+1.
+
+Number of turns in the conductor coil (more loops
+equals greater induced voltage).
+
+2.
+
+Strength of the electromagnet (the stronger the
+magnetic field, the greater the induced voltage).
+
+3.
+
+Speed of rotation of the conductor or magnet (the
+faster the rotation, the greater the induced voltage).
+
+Figure 9-10 illustrates the basics of a rotating machine used
+to produce voltage. The simple generating device consists
+of a rotating loop, marked A and B, placed between two
+magnetic poles, north (N) and south (S). The ends of the loop
+
+are connected to two metal slip rings (collector rings), C1 and
+C2. Current is taken from the collector rings by brushes. If
+the loop is considered as separate wires, A and B, and the lefthand rule for generators is applied, then it can be observed
+that as wire B moves up across the field, a voltage is induced
+that causes the current to flow toward the reader. As wire A
+moves down across the field, a voltage is induced that causes
+the current to flow away from the reader. When the wires are
+formed into a loop, the voltages induced in the two sides of
+the loop are combined. Therefore, for explanatory purposes,
+the action of either conductor, A or B, while rotating in the
+magnetic field is similar to the action of the loop.
+
+Cross section of loop
+
+N
+
+N
+
+Direction of rotation
+
+Brushes
+
++
+
+B
+A
+
+A
+
+B
+
+C2
+C1
+
+Collector rings
+
+A Side of loop
+
+S
+B Side of loop
+
+Direction of
+movement
+of the loop
+through the
+magnetic field
+
+S
++ Current flow is toward the reader
+
+Current flow is away from reader
+
+Figure 9-10. Simple generator.
+
+9-6
+
+===== PDF PAGE 423 =====
+Magnetic field
+
+N
+
+N
+
+B
+C1
+
+360°
+
+A
+
+C2
+
+0°
+
+90°
+
+180°
+
+360°
+
+A
+
+270°
+C1
+
+0°
+
+C2
+
+90°
+
+180°
+
+270°
+
+B
+S
+
+S
+
+Maximum positive voltage
+
+Zero voltage
+
+Position 1
+
+Position 2
+
+Rotating conductors moving parallel to magnetic field,
+cutting minimum lines of force.
+
+Conductors cutting directly across the magnetic field as conductor
+A passes across the north magnetic pole and B passes across the
+S pole.
+
+N
+
+N
+
+A
+C1
+
+B
+
+360°
+
+B
+
+C2
+
+Quarter turn completed
+
+0°
+
+90°
+
+180°
+
+270°
+
+C1
+
+C2
+
+360°
+
+A
+
+90°
+
+180°
+
+270°
+
+S
+
+S
+
+Maximum negative voltage
+
+Voltage drops to zero
+
+Position 3
+
+0°
+
+Position 4
+
+One half turn completed
+
+Conductor again moving parallel to magnetic field, cutting minimum
+lines of force.
+
+Three quarters turn completed
+
+Conductors again moving directly across magnetic field A passes
+across south magnetic pole and B across N magnetic pole.
+
+N
+
+B
+C1
+
+C2
+
+360°
+0°
+
+A
+
+90°
+
+180°
+
+270°
+
+S
+Zero voltage
+
+Position 5 Full turn completed
+Conductor A has made one complete cycle and is in same position
+as in position A. The generator has generated one complete cycle
+of alternating voltage or current.
+
+Figure 9-11. Generation of a sine wave.
+
+Figure 9-11 illustrates the generation of alternating current
+(AC) with a simple loop conductor rotating in a magnetic
+field. As it is rotated in a counterclockwise direction, varying
+voltages are induced in the conductive loop.
+
+Position 1
+The conductor A moves parallel to the lines of force. Since
+it cuts no lines of force, the induced voltage is zero. As the
+9-7
+
+===== PDF PAGE 424 =====
+conductor advances from position 1 to position 2, the induced
+voltage gradually increases.
+Position 2
+The conductor is now moving in a direction perpendicular
+to the flux and cuts a maximum number of lines of force;
+therefore, a maximum voltage is induced. As the conductor
+moves beyond position 2, it cuts a decreasing amount of flux,
+and the induced voltage decreases.
+Position 3
+At this point, the conductor has made half a revolution and
+again moves parallel to the lines of force, and no voltage is
+induced in the conductor. As the A conductor passes position
+3, the direction of induced voltage now reverses since the A
+conductor is moving downward, cutting flux in the opposite
+direction. As the A conductor moves across the south pole, the
+induced voltage gradually increases in a negative direction
+until it reaches position 4.
+Position 4
+Like position 2, the conductor is again moving perpendicular
+to the flux and generates a maximum negative voltage.
+From position 4 to position 5, the induced voltage gradually
+decreases until the voltage is zero, and the conductor and
+wave are ready to start another cycle.
+Position 5
+The curve shown at position 5 is called a sine wave. It
+represents the polarity and the magnitude of the instantaneous
+values of the voltages generated. The horizontal baseline is
+divided into degrees, or time, and the vertical distance above
+or below the baseline represents the value of voltage at each
+particular point in the rotation of the loop.
+The specific operating principles of both alternators and
+generators as they apply to aircraft is presented later in
+this text.
+
+Alternating Current (AC) Introduction
+Alternating current (AC) electrical systems are found on most
+multi-engine, high performance turbine powered aircraft and
+transport category aircraft. AC is the same type of electricity
+used in industry and to power our homes. Direct current (DC)
+is used on systems that must be compatible with battery
+power, such as on light aircraft and automobiles. There are
+many benefits of AC power when selected over DC power
+for aircraft electrical systems.
+AC can be transmitted over long distances more readily
+and more economically than DC, since AC voltages can be
+increased or decreased by means of transformers. Because
+more and more units are being operated electrically in
+airplanes, the power requirements are such that a number of
+advantages can be realized by using AC (especially with large
+transport category aircraft). Space and weight can be saved
+since AC devices, especially motors, are smaller and simpler
+than DC devices. In most AC motors, no brushes are required,
+and they require less maintenance than DC motors. Circuit
+breakers operate satisfactorily under loads at high altitudes in
+an AC system, whereas arcing is so excessive on DC systems
+that circuit breakers must be replaced frequently. Finally,
+most airplanes using a 24-volt DC system have special
+equipment that requires a certain amount of 400 cycle AC
+current. For these aircraft, a unit called an inverter is used to
+change DC to AC. Inverters are discussed later in this book.
+AC is constantly changing in value and polarity, or as the
+name implies, alternating. Figure 9-12 shows a graphic
+comparison of DC and AC. The polarity of DC never
+changes, and the polarity and voltage constantly change in
+AC. It should also be noted that the AC cycle repeats at given
+intervals. With AC, both voltage and current start at zero,
+increase, reach a peak, then decrease and reverse polarity.
+If one is to graph this concept, it becomes easy to see the
+alternating wave form. This wave form is typically referred
+to as a sine wave.
+
+Wave form for AC
+
+Volts
+
+Volts
+
++
+
+Wave form for DC
+
+Closed
+switch
+
+Operation of circuit
+Time
+
+Open
+switch
+
+−
+
+180°
+0°
+
+270°
+
+360°
+
+90°
+
+Time
+
+Figure 9-12. DC and AC voltage curves.
+
+9-8
+
+===== PDF PAGE 425 =====
+Peak value
+
+RMS value
+
+0
+
+Average = 0.637 peak
+RMS (effective) = 0.707 peak
+Peak to peak = 2 peaks
+
+Peak-to-peak value
+
+Instantaneous
+An instantaneous voltage is the value at any instant in time
+along the AC wave. The sine wave represents a series of
+these values. The instantaneous value of the voltage varies
+from zero at 0° to maximum at 90°, back to zero at 180°,
+to maximum in the opposite direction at 270°, and to zero
+again at 360°. Any point on the sine wave is considered the
+instantaneous value of voltage.
+
+Average
+value
+
+Values of AC
+There are three values of AC that apply to both voltage and
+current. These values help to define the sine wave and are
+called instantaneous, peak, and effective. It should be noted
+that during the discussion of these terms, the text refers to
+voltage. But remember, the values apply to voltage and
+current in all AC circuits.
+
++
+
+Definitions
+
+−
+Figure 9-13. Values of AC.
+
+Peak
+The peak value is the largest instantaneous value, often
+referred to as the maximum value. The largest single positive
+value occurs after a certain period of time when the sine wave
+reaches 90°, and the largest single negative value occurs
+when the wave reaches 270°. Although important in the
+understanding of the AC sine wave, peak values are seldom
+used by aircraft technicians.
+
+How often the AC waveform repeats is known as the AC
+frequency. The frequency is typically measured in cycles per
+second (CPS) or hertz (Hz). One Hz equals one CPS. The
+time it takes for the sine wave to complete one cycle is known
+as period (P). Period is a value or time period and typically
+measured in seconds, milliseconds, or microseconds. It
+should be noted that the time period of a cycle can change
+from one system to another; it is always said that the cycle
+completes in 360° (related to the 360° of rotation of an AC
+alternator). [Figure 9-13]
+
+Effective
+The effective values for voltage are always less than the
+peak (maximum) values of the sine wave and approximate
+DC voltage of the same value. For example, an AC circuit of
+24 volts and 2 amps should produce the same heat through a
+resistor as a DC circuit of 24 volts and 2 amps. The effective
+value is also known as the root mean square, or RMS value,
+which refers to the mathematical process by which the value
+is derived.
+
+Cycle Defined
+A cycle is a completion of a pattern. Whenever a voltage
+or current passes through a series of changes, returns to the
+starting point, and then repeats the same series of changes,
+the series is called a cycle. When the voltage values are
+graphed, as in Figure 9-14, the complete AC cycle is
+displayed. One complete cycle is often referred to as the sine
+wave and said to be 360°. It is typical to start the sine wave
+where the voltage is zero. The voltage then increases to a
+
+The effective value is equal to .707 times the peak (maximum)
+value. Conversely, the peak value is 1.41 times the effective
+value. Thus, the 110 volt value given for AC is only 0.707
+of the peak voltage of this supply. The maximum voltage is
+approximately 155 volts (110 × 1.41 = 155 volts maximum).
+
+Positive alternation
+Vertical scale (voltage)
+
+Most AC meters display the effective value of the AC. In
+almost all cases, the voltage and current ratings of a system
+or component are given in effective values. In other words,
+the industry ratings are based on effective values. Peak and
+instantaneous values, used only in very limited situations,
+would be stated as such. In the study of AC, any values given
+for current or voltage are assumed to be effective values
+unless otherwise specified. In practice, only the effective
+values of voltage and current are used.
+
+Horizontal scale
+(time)
+1T
+
+2T
+
+3T
+
+4T
+
+Negative
+alternation
+One cycle
+one period
+(time)
+One wavelength
+(distance)
+
+Second cycle
+
+Figure 9-14. Cycle of voltage.
+
+9-9
+
+===== PDF PAGE 426 =====
+maximum positive value, decreases to a value of zero, then
+increases to a maximum negative value, and again decreases
+to zero. The cycle repeats until the voltage is no longer
+available. There are two alternations in a complete cycle:
+the positive alternation and the negative. It should be noted
+that the polarity of the voltage reverses for each half cycle.
+Therefore, during the positive half cycle, the electron flow
+is considered to be in one direction; during the negative half
+cycle, the electrons reverse direction and flow the opposite
+way through the circuit.
+Frequency Defined
+The frequency is the number of cycles of AC per second
+(CPS). The standard unit of frequency measurement is the
+Hz. [Figure 9-15] In a generator, the voltage and current
+pass through a complete cycle of values each time a coil
+or conductor passes under a north and south pole of the
+magnet. The number of cycles for each revolution of the
+coil or conductor is equal to the number of pairs of poles.
+The frequency, then, is equal to the number of cycles in
+one revolution multiplied by the number of revolutions
+per second.
+Period Defined
+The time required for a sine wave to complete one full
+cycle is called a period (P). A period is typically measured
+in seconds, milliseconds, or microseconds. [Figure 9-14]
+The period of a sine wave is inversely proportional to the
+frequency. That is to say that the higher the frequency, the
+shorter the period. The mathematical relationship between
+frequency and period is given as:
+
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+1T
+
+1 second frequency = 2 cycles per second
+
+90°
+180°
+0°
+
+360°
+270°
+
+1 second frequency = 8 cycles per second
+
+Figure 9-15. Frequency in cycles per second.
+
+Period
+P= 1
+f
+Frequency
+F= 1
+P
+Wavelength Defined
+The distance that a waveform travels during a period is
+commonly referred to as a wavelength and is indicated by the
+Greek letter lambda (λ). Wavelength is related to frequency
+by the formula:
+wave speed = wavelength
+frequency
+The higher the frequency is, the shorter the wavelength is.
+The measurement of wavelength is taken from one point
+on the waveform to a corresponding point on the next
+waveform. [Figure 9-14] Since wavelength is a distance,
+common units of measure include meters, centimeters,
+millimeters, or nanometers. For example, a sound wave of
+frequency 20 Hz would have wavelength of 17 meters and
+a visible red light wave of 4.3 × 10 –12 Hz would have a
+wavelength of roughly 700 nanometers. Keep in mind that
+the actual wavelength depends on the media through which
+the waveform must travel.
+Phase Relationships
+Phase is the relationship between two sine waves, typically
+measured in angular degrees. For example, if there are two
+different alternators producing power, it would be easy to
+compare their individual sine waves and determine their
+phase relationship. In Figure 9-16B, there is a 90° phase
+difference between the two voltage waveforms. A phase
+relationship can be between any two sine waves. The phase
+relationship can be measured between two voltages of
+different alternators or the current and voltage produced by
+the same alternator.
+Figure 9-16A shows a voltage signal and a current signal
+superimposed on the same time axis. Notice that when the
+voltage increases in the positive alternation that the current
+also increases. When the voltage reaches its peak value, so
+does the current. Both waveforms then reverse and decrease
+back to a zero magnitude, then proceed in the same manner
+in the negative direction as they did in the positive direction.
+When two waves are exactly in step with each other, they
+are said to be in phase. To be in phase, the two waveforms
+must go through their maximum and minimum points at the
+same time and in the same direction.
+
+9-10
+
+===== PDF PAGE 427 =====
+maximum values at the same time. [Figure 9-16C]
+Voltage
+
+Current
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+A. Voltage and current are in phase
+Voltage source 1 (leads source 2)
+Voltage source 2 (lags source 1)
+
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+B. Two voltage waves, 90° out of phase
+Voltage source 1
+
+0°
+
+90°
+
+180°
+
+Voltage source 2
+
+270° 360°
+
+Opposition to Current Flow of AC
+There are three factors that can create an opposition to the flow
+of electrons (current) in an AC circuit. Resistance, similar
+to resistance of DC circuits, is measured in ohms and has a
+direct influence on AC regardless of frequency. Inductive
+reactance and capacitive reactance, on the other hand, oppose
+current flow only in AC circuits, not in DC circuits. Since
+AC constantly changes direction and intensity, inductors and
+capacitors may also create an opposition to current flow in
+AC circuits. It should also be noted that inductive reactance
+and capacitive reactance may create a phase shift between
+the voltage and current in an AC circuit. Whenever analyzing
+an AC circuit, it is very important to consider the resistance,
+inductive reactance, and the capacitive reactance. All three
+have an effect on the current of that circuit.
+
+Resistance
+As mentioned, resistance creates an opposition to current
+in an AC circuit similar to the resistance of a DC circuit.
+The current through a resistive portion of an AC circuit
+is inversely proportional to the resistance and directly
+proportional to the voltage applied to that circuit or portion
+of the circuit. The equations I = E / R & E = I × R show how
+current is related to both voltage and resistance. It should be
+noted that resistance in an AC circuit does not create a phase
+shift between voltage and current.
+Figure 9-17 shows how a circuit of 10 ohms allows 11.5 amps
+of current flow through an AC resistive circuit of 115 volts.
+I= E
+R
+
+C. Two voltage waves, 180° out of phase
+Figure 9-16. In-phase and out-of-phase conditions.
+
+When two waveforms go through their maximum and
+minimum points at different times, a phase difference exists
+between the two. In this case, the two waveforms are said
+to be out of phase with each other. The terms lead and lag
+are often used to describe the phase difference between
+waveforms. The waveform that reaches its maximum or
+minimum value first is said to lead the other waveform.
+Figure 9-16B shows this relationship. On the other hand, the
+second waveform is said to be lagging the first source. When
+a waveform is said to be leading or lagging, the difference in
+degrees is usually stated. If the two waveforms differ by 360°,
+they are said to be in phase with each other. If there is a 180°
+difference between the two signals, then they are still out of
+phase even though they are both reaching their minimum and
+
+I = 115V
+10Ω
+I = 11.5 amps
+
+Inductive Reactance
+When moving a magnet through a coil of wire, a voltage is
+induced across the coil. If a complete circuit is provided, then
+a current will also be induced. The amount of induced voltage
+is directly proportional to the rate of change of the magnetic
+field with respect to the coil. Conversely, current flowing
+through a coil of wire produces a magnetic field. When this
+wire is formed into a coil, it then becomes a basic inductor.
+The primary effect of a coil is its property to oppose any change
+in current through it. This property is called inductance. When
+current flows through any conductor, a magnetic field starts to
+expand from the center of the wire. As the lines of magnetic
+9-11
+
+===== PDF PAGE 428 =====
+R = 10Ω
+
+A
+
+115V AC
+
+Ammeter
+I = 11.5A
+
+Figure 9-17. Resistance.
+
+force grow outward through the conductor, they induce an
+EMF in the conductor itself. The induced voltage is always in
+the direction opposite to the direction of the applied current
+flow. The effects of this countering EMF are to oppose the
+applied current. This effect is only a temporary condition.
+Once the current reaches a steady value in the conductor,
+the lines of magnetic force are no longer expanding and the
+countering EMF is no longer present. Since AC is constantly
+changing in value, the inductance repeats in a cycle always
+opposite the applied voltage. It should be noted that the unit
+of measure for inductance is the henry (H).
+The physical factors that affect inductance are:
+1.
+
+Number of turns—doubling the number of turns in a
+coil produces a field twice as strong if the same current
+is used. As a general rule, the inductance varies with
+the square of the number of turns.
+
+2.
+
+Cross-sectional area of the coil—the inductance of a
+coil increases directly as the cross-sectional area of the
+core increases. Doubling the radius of a coil increases
+the inductance by a factor of four.
+
+3.
+
+Length of a coil—doubling the length of a coil, while
+keeping the same number of turns, reduces inductance
+by one-half.
+
+4.
+
+Core material around which the coil is formed—
+
+coils are wound on either magnetic or nonmagnetic
+materials. Some nonmagnetic materials include
+air, copper, plastic, and glass. Magnetic materials
+include nickel, iron, steel, and cobalt, which have
+a permeability that provides a better path for the
+magnetic lines of force and permit a stronger
+magnetic field.
+Since AC is in a constant state of change, the magnetic fields
+within an inductor are also continuously changing and create
+an inducted voltage/current. This induced voltage opposes
+the applied voltage and is known as the counter EMF. This
+opposition is called inductive reactance, symbolized by XL,
+and is measured in ohms. This characteristic of the inductor
+may also create a phase shift between voltage and current
+of the circuit. The phase shift created by inductive reactance
+always causes voltage to lead current. That is, the voltage of
+an inductive circuit reaches its peak values before the current
+reaches peak values. Additional discussions related to phase
+shift are presented later in this chapter.
+Inductance is the property of a circuit to oppose any change
+in current and is measured in henries. Inductive reactance is
+a measure of how much the countering EMF in the circuit
+opposes the applied current. The inductive reactance of
+a component is directly proportional to the inductance of
+the component and the applied frequency to the circuit. By
+increasing either the inductance or applied frequency, the
+inductive reactance likewise increases and presents more
+opposition to current in the circuit. This relationship is given
+as XL = 2πfL Where XL = inductive reactance in ohms, L =
+inductance in henries, f = frequency in cycles per second,
+and π = 3.1416.
+In Figure 9-18, an AC series circuit is shown in which the
+inductance is 0.146 henry and the voltage is 110 volts at a
+frequency of 60 cycles per second. Inductive reactance is
+determined by the following method.
+XL = 2π × f × L
+XL = 6.28 × 60 × 0.146
+
+L = 0.146 H
+
+XL = 55Ω
+In AC series circuits, inductive reactance is added like
+resistances in series in a DC circuit. [Figure 9-19] The total
+reactance in the illustrated circuit equals the sum of the
+individual reactances.
+
+110V AC 60 Hz
+
+A
+
+Figure 9-18. AC circuit containing inductance.
+
+XL = XL1 + XL2
+XL =10Ω + 15Ω
+9-12
+
+===== PDF PAGE 429 =====
+electrons when charged by a voltage source. The capacitor
+discharges when the applied voltage is no longer present and
+the capacitor is connected to a current path. In an electrical
+circuit, a capacitor serves as a reservoir or storehouse for
+electricity.
+
+XL1 = 10Ω
+
+AC power supply
+
+The basic unit of capacitance is the farad and is given by the
+letter F. By definition, one farad is one coulomb of charge
+stored with one volt across the plates of the capacitor. In
+practical terms, one farad is a large amount of capacitance.
+Typically, in electronics, much smaller units are used. The two
+more common smaller units are the microfarad (μF), which is
+10-6 farad and the picofarad (pF), which is 10-12 farad.
+
+XL2 = 15Ω
+Figure 9-19. Inductances in series.
+
+Capacitance is a function of the physical properties of the
+capacitor:
+
+XLT = 25Ω
+The total reactance of inductors connected in parallel is
+found the same way as the total resistance in a parallel
+circuit. [Figure 9-20] Thus, the total reactance of inductances
+connected in parallel, as shown, is expressed as:
+XLT =
+
+XLT =
+
+1
+1 + 1 + 1
+XL1
+XL2
+XL3
+1
+15
+
++
+
+1
+1 +
+15
+
+1
+15
+
+XLT = 5Ω
+
+XL1 = 15 Ω
+
+XL2 = 15 Ω
+
+XL3 = 15 Ω
+
+AC
+power
+supply
+
+1.
+
+The capacitance of parallel plates is directly
+proportional to their area. A larger plate area produces
+a larger capacitance, and a smaller area produces less
+capacitance. If we double the area of the plates, there
+is room for twice as much charge.
+
+2.
+
+The capacitance of parallel plates is inversely
+proportional to the distance between the plates.
+
+3.
+
+The dielectric material effects the capacitance of
+parallel plates. The dielectric constant of a vacuum is
+defined as 1, and that of air is very close to 1. These
+values are used as a reference, and all other materials
+have values relative to that of air (vacuum).
+
+When an AC is applied in the circuit, the charge on the plates
+constantly changes. [Figure 9-21] This means that electricity
+must flow first from Y clockwise around to X, then from
+X counterclockwise around to Y, then from Y clockwise
+around to X, and so on. Although no current flows through
+the insulator between the plates of the capacitor, it constantly
+flows in the remainder of the circuit between X and Y. As this
+current alternates to and from the capacitor, a certain time lag
+is created. When a capacitor charges or discharges through
+a resistance, a certain amount of time is required for a full
+
+Figure 9-20. Inductances in parallel.
+80 µF Capacitor
+
+Capacitive Reactance
+Capacitance is the ability of a body to hold an electric charge.
+In general, a capacitor is constructed of two parallel plates
+separated by an insulator. The insulator is commonly called
+the dielectric. The capacitor’s plates have the ability to store
+
+AC generator
+110V@400cps
+
+Dielectric
+
+X
+Y
+
+Figure 9-21. Capacitor in an AC circuit.
+
+9-13
+
+===== PDF PAGE 430 =====
+charge or discharge. The voltage across the capacitor does not
+change instantaneously. The rate of charging or discharging
+is determined by the time constant of the circuit. This rate of
+charge and discharge creates an opposition to current flow
+in AC circuits known as capacitive reactance. Capacitive
+reactance is symbolized by XC and is measured in ohms.
+This characteristic of a capacitor may also create a phase shift
+between voltage and current of the circuit. The phase shift
+created by capacitive reactance always causes current to lead
+voltage. That is, the current of a capacitive circuit reaches its
+peak values before the voltage reaches peak values.
+Capacitive reactance is a measure of how much the capacitive
+circuit opposes the applied current flow. Capacitive reactance
+is measured in ohms. The capacitive reactance of a circuit is
+indirectly proportional to the capacitance of the circuit and
+the applied frequency to the circuit. By increasing either the
+capacitance or applied frequency, the capacitive reactance
+decreases, and vice versa. This relationship is given as:
+XC =
+
+1
+2πfC
+
+Where: XC = capacitive reactance in ohms, C = capacitance
+in farads, f = frequency in cycles per second, and π = 3.1416.
+In Figure 9-21, a series circuit is shown in which the applied
+voltage is 110 volts at 400 cps, and the capacitance of a
+condenser is 80 mf. Find the capacitive reactance and the
+current flow.
+To find the capacitive reactance, the following equation:
+XC =
+
+1
+2πfC
+
+First, the capacitance, 80 μf, is changed to farads by dividing
+80 by 1,000,000, since 1 million microfarads is equal to 1
+farad. This quotient equals 0.000080 farad. This is substituted
+in the equation:
+XC =
+
+R = 11Ω
+
+110V AC
+I = 10A
+
+Figure 9-22. Ohm's Law applies to AC circuit only when circuit
+
+consists of resistance only. Impedance (Z) = Resistance (R).
+
+reactance make up impedance (the total opposition to current
+flow in an AC circuit). In order to accurately calculate
+voltage and current in AC circuits, the effect of inductance
+and capacitance along with resistance must be considered.
+Impedance is measured in ohms.
+The rules and equations for DC circuits apply to AC circuits
+only when that circuit contains resistance alone and no
+inductance or capacitance. In both series and parallel circuits,
+if an AC circuit consists of resistance only, the value of the
+impedance is the same as the resistance, and Ohm’s Law
+for an AC circuit, I = E/Z, is exactly the same as for a DC
+circuit. Figure 9-22 illustrates a series circuit containing a
+heater element with 11 ohms resistance connected across a
+110-volt source. To find how much current flows if 110 volts
+AC is applied, the following example is solved:
+I= E
+Z
+I = 110V
+11Ω
+I = 10 amps
+If there are two resistance values in parallel connected to an
+
+1
+2πfC
+
+1
+XC =
+2π(400)(0.000080)
+
+R = 20Ω
+50V AC
+Power supply
+R = 20Ω
+
+XC = 4.97Ω
+
+A
+
+Impedance
+
+Ammeter I = 5A
+
+The total opposition to current flow in an AC circuit is known
+as impedance and is represented by the letter Z. The combined
+effects of resistance, inductive reactance, and capacitive
+
+Figure 9-23. Two resistance values in parallel connected to an
+
+AC voltage. Impedance is equal to the total resistance of the
+circuit.
+
+9-14
+
+===== PDF PAGE 431 =====
+AC voltage, as seen in Figure 9-23, impedance is equal to
+the total resistance of the circuit. Once again, the calculations
+would be handled the same as if it were a DC circuit and the
+following would apply:
+1
+1 +
+R1
+
+RT =
+
+RT =
+
+1
+20
+
+1
++
+
+1
+R2
+
+impedance may be illustrated by a right triangle. [Figure 9-24]
+Since these quantities may be related to the sides of a right
+triangle, the formula for finding the impedance can be found
+using the Pythagorean Theorem. It states that the square of
+the hypotenuse is equal to the sum of the squares of the other
+two sides. Thus, the value of any side of a right triangle can
+be found if the other two sides are known.
+In practical terms, if a series AC circuit contains resistance
+and inductance, as shown in Figure 9-25, the relation between
+the sides can be stated as:
+
+1
+20
+
+Z2 = R2 + (XL – XC)2
+
+RT = 10Ω
+
+The square root of both sides of the equation gives:
+
+Since this is a pure resistive circuit RT = Z (Resistance =
+Impedance)
+ZT = RT
+ZT = 10Ω
+To determine the current flow in the circuit use the equation:
+I= E
+Z
+
+Z = √ R2 + (XL – XC)2
+This formula can be used to determine the impedance when
+the values of inductive reactance and resistance are known. It
+can be modified to solve for impedance in circuits containing
+capacitive reactance and resistance by substituting XC in the
+formula in place of XL. In circuits containing resistance with
+both inductive and capacitive reactance, the reactances can be
+combined; but because their effects in the circuit are exactly
+opposite, they are combined by subtraction (the smaller
+number is always subtracted from the larger):
+
+I = 50V
+10Ω
+
+Z = X L – XC
+
+I = 5 amps
+
+or
+
+Impedance is the total opposition to current flow in an AC
+circuit. If a circuit has inductance or capacitance, one must take
+into consideration resistance (R), inductive reactance (XL),
+and/or capacitive reactance (XC) to determine impedance (Z).
+In this case, Z does not equal RT. Resistance and reactance
+(inductive or capacitive) cannot be added directly, but they
+can be considered as two forces acting at right angles to each
+other. Thus, the relation between resistance, reactance, and
+
+X = X C – XL
+Figure 9-25 shows example 1. Here, a series circuit
+containing a resistor and an inductor are connected to a source
+of 110 volts at 60 cycles per second. The resistive element is
+a simple measuring 6 ohms, and the inductive element is a
+coil with an inductance of 0.021 henry. What is the value of
+the impedance and the current through the circuit?
+
+Reactance
+
+Solution:
+First, the inductive reactance of the coil is computed:
+Impedance
+XL − XC
+
+R = 6Ω
+
+Z
+110V AC
+60 cycles
+
+XL = 0.021 H
+
+R
+Resistance
+Figure 9-24. Impedance triangle.
+
+A
+Figure 9-25. A circuit containing resistance and inductance.
+
+9-15
+
+===== PDF PAGE 432 =====
+Solution:
+First, the capacitance is changed from microfarads to farads.
+Since 1 million microfarads equal 1 farad, then 200 μf =
+0.000200 farads.
+
+XL = 2π × f × L
+XL = 6.28 × 60 × 0.021
+XL = 8 ohms inductive reactance
+Next, the total impedance is computed:
+Z=√
+
+R2 + XL2
+
+Z = √ 62 + 82
+
+Next solve for capacitive reactance:
+XC =
+
+1
+2πfC
+
+XC =
+
+1
+2π(60)(.00020)
+
+XC =
+
+1
+0.07536
+
+Z = √ 36 + 64
+Z = √ 100
+Z = 10Ω
+
+XC = 13Ω
+
+Remember when making calculations for Z always use
+inductive reactance not inductance, and use capacitive
+reactance, not capacitance.
+
+To find the impedance,
+
+Once impedance is found, the total current can be calculated.
+
+Z = √ R2 + XC2
+Z = √ 102 + 132
+
+I= E
+Z
+
+Z = 16.4Ω
+
+I = 110V
+10Ω
+
+Since this circuit is resistive and capacitive, there is a phase
+shift where current leads voltage:
+
+I = 11 amps
+
+To find the current:
+
+Since this circuit is resistive and inductive, there is a phase
+shift where voltage leads current.
+
+IT = E
+Z
+110V
+IT =
+6.4Ω
+
+Example 2 is a series circuit illustrated in which a capacitor
+of 200 μf is connected in series with a 10 ohm resistor.
+[Figure 9-26] What is the value of the impedance, the current
+flow, and the voltage drop across the resistor?
+
+IT = 6.7 amps
+To find the voltage drop across the resistor (ER):
+ER = I × R
+
+R = 10Ω
+
+ER = 6.7A × 10Ω
+ER = 67 volts
+110V AC 60 cycles
+
+C = 200 µF
+
+A
+
+Figure 9-26. A circuit containing resistance and capacitance.
+
+To find the voltage drop over the capacitor (EC):
+EC = I × XC
+EC = 6.7A × 13Ω
+9-16
+
+===== PDF PAGE 433 =====
+Z = √ 25
+
+EC = 86.1 volts
+The sum of these two voltages does not equal the applied
+voltage, since the current leads the voltage. Use the following
+formula to find the applied voltage:
+
+Z = 5Ω
+To find total current:
+
+E = √ (ER)2 + (EC)2
+
+IT = E T
+Z
+
+E = √ 672 + 86.12
+
+IT = 110V
+5Ω
+IT = 22 amps
+
+E = √ 4,489 + 7,413
+
+Remember that inductive and capacitive reactances can cause
+a phase shift between voltage and current. In this example,
+inductive reactance is larger than capacitive reactance, so the
+voltage leads current.
+
+E = √ 11,902
+E = 110 volts
+When the circuit contains resistance, inductance, and
+capacitance, the following equation is used to find the
+impedance.
+Z = √ R2 + (XL – XC)2
+Example 3: What is the impedance of a series circuit
+consisting of a capacitor with a capacitive reactance of 7
+ohms, an inductor with an inductive reactance of 10 ohms,
+and a resistor with a resistance of 4 ohms? [Figure 9-27]
+
+It should be noted that since inductive reactance, capacitive
+reactance, and resistance affect each other at right angles, the
+voltage drops of any series AC circuit should be added using
+vector addition. Figure 9-28 shows the voltage drops over
+the series AC circuit described in example 3 above.
+To calculate the individual voltage drops, simply use the
+equations:
+ER = I × R
+EXL = I × XL
+
+Solution:
+
+EXC = I × XC
+
+Z = √ R2 + (XL – XC)2
+
+To determine the total applied voltage for the circuit, each
+individual voltage drop must be added using vector addition.
+
+Z = √ 42 + (10 – 7)2
+
+ET = √ ER2 + (EL – EC)2
+
+4Ω
+ER = 88V
+
+110V AC 60 cycles
+
+7Ω
+110V AC 60 cycles
+
+EL = 220V
+
+10 Ω
+EC = 154V
+Figure 9-27. A circuit containing resistance, inductance, and
+
+capacitance.
+
+Figure 9-28. Voltage drops.
+
+9-17
+
+===== PDF PAGE 434 =====
+ET = √ 882+ (220 – 154)2
+110V AC
+400 Hz
+
+ET = √ 882+ 662
+ET = √12,100
+
+L = 0.02H
+C = 100 µF
+
+ET = 110 volts
+
+R = 50Ω
+
+Parallel AC Circuits
+When solving parallel AC circuits, one must also use a
+derivative of the Pythagorean Theorem. The equation for
+finding impedance in an AC circuit is as follows:
+Z=
+
+1
+R
+
+2
+
++
+
+1 – 1 2
+XL
+XC
+
+To determine the total impedance of the parallel circuit shown
+in Figure 9-29, one would first determine the capacitive and
+inductive reactances. (Remember to convert microfarads
+to farads.)
+XL = 2πFL
+
+Z= 1
+.23
+Z = 4.33Ω
+To determine the current flow in the circuit:
+IT = ET
+Z
+IT = 100V
+4.33Ω
+
+XL = 2π(400)(0.02)
+XL = 50Ω
+
+IT = 23.09 amps
+
+XC = 1
+2πFC
+
+To determine the current flow through each parallel path of
+the circuit, calculate IR, IL, and IC.
+
+100µf = 0.0001F
+XC =
+
+Figure 9-29. Total impedance of parallel circuit.
+
+IR = E
+R
+
+1
+2π(400)(0.0001)
+
+XC = 4Ω
+
+IR = 100V
+50Ω
+
+Next, the impedance can be found:
+
+IR = 2 amps
+
+Z=
+
+1
+R
+
+Z=
+
+1
+
++ 1 – 1
+XL XC
+1
+
+Z=
+
+Z=
+
+2
+
+1 2+ 1 – 1
+50
+50
+4
+
+√
+
+2
+
+IL = E
+XL
+IL = 100V
+50Ω
+
+2
+
+IL = 2 amps
+
+1
+
+IC = E
+XC
+
+1
+
+IC = 100V
+4Ω
+
+( .02 )2 + ( .02 – .25 )2
+
+√.0004 + .0529
+
+9-18
+
+===== PDF PAGE 435 =====
+Apparent Power
+
+IC = 25 amps
+It should be noted that the total current flow of parallel
+circuits is found by using vector addition of the individual
+current flows as follows:
+IT = √ IR2 + (IL – IC)2
+IT = √ 22+ (2 – 25)2
+
+Apparent power in an AC circuit is sometimes referred to as
+the reactive power of a circuit. Apparent power is the power
+consumed by the entire circuit, including both the resistance
+and the reactance. Apparent power is symbolized by the letter
+S and is measured in volt-amps (VA). Apparent power is a
+product of the effective voltage multiplied by the effective
+current. Apparent power is calculated by the formula:
+S = I2 × Z
+
+IT = √ 22 + 232
+
+Power Factor
+As seen in Figure 9-30, the resistive power and the reactive
+power effect the circuit at right angles to each other. The power
+factor in an AC circuit is created by this right angle effect.
+
+IT = √ 4 + 529
+IT = √ 533
+IT = 23 amps
+
+Power in AC Circuits
+Since voltage and current determine power, there are
+similarities in the power consumed by both AC and DC
+circuits. In AC however, current is a function of both the
+resistance and the reactance of the circuit. The power
+consumed by any AC circuit is a function of the applied
+voltage and both circuit’s resistance and reactance. AC
+circuits have two distinct types of power, one created by the
+resistance of the circuit and one created by the reactance of
+the circuit.
+
+Power factor can be defined as the mathematical difference
+between true power and apparent power. Power factor (PF)
+is a ratio and always a measurement between 0 and 100. The
+power factor is directly related to the phase shift of a circuit.
+The greater the phase shift of a circuit the lower the power
+factor. For example, an AC circuit that is purely inductive
+(contains reactance only and no resistance) has a phase
+shift of 90° and a power factor of 0.0. An AC circuit that is
+purely resistive (has no reactance) has a phase shift of 0 and
+a power factor of 100. Power factor is calculated by using
+the following formula:
+
+True power of any AC circuit is commonly referred to as
+the working power of the circuit. True power is the power
+consumed by the resistance portion of the circuit and is
+measured in watts (W). True power is symbolized by the
+letter P and is indicated by any wattmeter in the circuit. True
+power is calculated by the formula:
+
+Example of calculating PF: Figure 9-31 shows an AC load
+connected to a 50 volt power supply. The current draw of
+the circuit is 5 amps and the total resistance of the circuit is
+8 ohms. Determine the true power, the apparent power, and
+the power factor for this circuit.
+
+P = I2 × Z
+
+Solution:
+
+Reactive power
+
+True Power
+
+PF = True Power (Watts) × 100
+Apparent Power (VA)
+
+Apparent power
+volts x amperes
+
+Capacitor
+
+Inductor
+
+50V AC power supply
+
+True power
+Watts
+Figure 9-30. Power relations in AC circuit.
+
+Resistor
+
+Ammeter I = 5A
+A
+Figure 9-31. AC load connected to a 50-volt power supply.
+
+9-19
+
+===== PDF PAGE 436 =====
+P = I2 × R
+P = 52 × 8
+P = 200 Watts
+S=E×I
+S = 50 × 5
+S = 250VA
+PF = TP × 100
+S
+PF =
+
+200 × 100
+250
+
+PF = 80
+Power factor can also be represented as a percentage. Using
+a percentage to show power factor, the circuit in the previous
+example would have a power factor of 80 percent.
+
+Lead-Acid Batteries
+Dry Charged Cell Lead-Acid Batteries
+Dry charged cell lead-acid batteries, also known as flooded
+or wet batteries, are assembled with electrodes (plates) that
+have been fully charged and dried. The electrolyte is added
+to the battery when it is placed in service, and battery life
+begins when the electrolyte is added. An aircraft storage
+battery consists of 6 or 12 lead-acid cells connected in series.
+The open circuit voltage of the 6 cell battery is approximately
+12 volts, and the open circuit voltage of the 12-cell battery is
+approximately 24 volts. Open circuit voltage is the voltage of
+the battery when it is not connected to a load. When flooded
+(vented) batteries are on charge, the oxygen generated at
+the positive plates escapes from the cell. Concurrently, at
+the negative plates, hydrogen is generated from water and
+escapes from the cell. The overall result is the gassing of the
+cells and water loss. Therefore, flooded cells require periodic
+water replenishment. [Figure 9-32]
+Valve-Regulated Lead-Acid (VRLA) Batteries
+VRLA batteries contain all electrolyte absorbed in glass-mat
+
+It should be noted that a low power factor is undesirable.
+Circuits with a lower power factor create excess load on
+the power supply and produce inefficiency in the system.
+Aircraft AC alternators must typically operate with a power
+factor between 90 percent and 100 percent. It is therefore very
+important to carefully consider power factor when designing
+the aircraft electrical system.
+
+Aircraft Batteries
+Aircraft batteries are used for many functions (e.g., ground
+power, emergency power, improving DC bus stability, and
+fault clearing). Most small private aircraft use lead-acid
+batteries. Most commercial and corporate aircraft use nickelcadmium (NiCd) batteries. However, other lead acid types of
+batteries are becoming available, such as the valve-regulated
+lead-acid (VRLA) batteries. The battery best suited for a
+particular application depends on the relative importance of
+several characteristics, such as weight, cost, volume, service
+or shelf life, discharge rate, maintenance, and charging rate.
+Any change of battery type may be considered a major
+alteration.
+
+Figure 9-32. Lead-acid battery installation.
+
+Types of Batteries
+Aircraft batteries are usually identified by the material used
+for the plates. The two most common types of battery used
+are lead-acid and NiCd batteries.
+
+Figure 9-33. Valve-regulated lead-acid battery (sealed battery).
+
+9-20
+

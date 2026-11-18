@@ -1,0 +1,1280 @@
+AC 43.13-1B Chg 1, chapter 9 (Aircraft Systems And Components), PDF pages 512-543
+
+===== PDF PAGE 512 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 9-2. TUBE DATA
+
+   Wrench torque for tightening AN-818 Nut (pound inch)  Minimum
+   bend radii
+   Aluminum-alloy  measured to
+Dash Tubing  Aluminum-alloy  tubing (Flare  tubing
+   Steel tubing  centerline.
+Nos. OD  tubing  MS33583) for use on
+Ref. inches  oxygen lines only  Dimension in
+   inches.
+   Alum
+   Minimum Maximum Minimum Maximum Minimum Maximum  Steel
+   Alloy
+  -2  1/8  20  30  75  85  -­  -­  3/8  -­
+  -3  3/16  25  35  95  105  -­  -­  7/16  21/32
+  -4  1/4  50  65  135  150  -­  -­  9/16  7/8
+  -5  5/16  70  90  170  200  100  125  3/4  1-1/8
+  -6  3/8  110  130  270  300  200  250  15/16 1-5/16
+  -8  1/2  230  260  450  500  300  400  1-1/4  1-3/4
+ -10  5/8  330  360  650  700  -­  -­  1-1/2  2-3/16
+ -12  3/4  460  500  900  1000  -­  -­  1-3/4  2-5/8
+ -16  1  500  700  1200  1400  -­  -­  3  3-1/2
+ -20  1-1/4  800  900  1520  1680  -­  -­  3-3/4  4-3/8
+ -24  1-1/2  800  900  1900  2100  -­  -­  5  5-1/4
+ -28  1-3/4  -­  -­  -­  -­  -­  -­  -­  -­
+ -32  2  1800  2000  2660  2940  -­  -­  8  7
+
+   b. Tube Connections. Many tube connections are made using flared tube ends with
+standard connection fittings: AN-818 (MS 20818) nut and AN-819 (MS 20819) sleeve. In
+forming flares, cut the tube ends square, file smooth, remove all burrs and sharp edges, and
+thoroughly clean. The tubing is then flared using the correct 37-degree aviation flare forming
+tool for the size of tubing and type of fitting. A double flare is used on soft aluminum tubing
+3/8-inch outside diameter and under, and a single flare on all other tubing. In making the
+connections, use hydraulic fluid as a lubricant and then tighten. Overtightening will damage the
+tube or fitting, which may cause a failure. Undertightening may cause leakage which could result
+in a system failure.
+
+   CAUTION: Mistaken use of 45-degree automotive flare forming tools may
+   result in improper tubing flare shape and angle; causing misfit, stress and
+   strain, and probable system failure.
+
+   c. Repair of Metal Tube Lines. Minor dents and scratches in tubing may be repaired.
+Scratches or nicks not deeper than 10 percent of the wall thickness in aluminum alloy tubing,
+that are not in the heel of a bend, may be repaired by burnishing with hand tools. Replace lines
+with severe die marks, seams, or splits in the tube. Any crack or deformity in a flare is
+
+Par 9-30  Page 9-23
+
+===== PDF PAGE 513 =====
+9/27/01  AC 43.13-1B CHG 1
+
+unacceptable and cause for rejection. A dent less than 20 percent of the tube diameter is not
+objectionable unless it is in the heel of a bend. A severely damaged line should be replaced;
+however, it may be repaired by cutting out the damaged section and inserting a tube section of
+the same size and material. Flare both ends of the undamaged and replacement tube sections and
+make the connection by using standard unions, sleeves, and tube nuts. If the damaged portion is
+short enough, omit the insert tube and repair by using one union and two sets of connection
+fittings.
+
+   d. Replacement of Flexible Lines. When replacement of a flexible line is necessary, use
+the same type, size, part number, and length of hose as the line to be replaced. Check Technical
+Standard Order (TSO) requirements. If the replacement of a hose with a swaged-end type fitting
+is necessary, obtain a new hose assembly of the correct size and composition. Certain synthetic
+oils require a specially compounded synthetic rubber hose, which is compatible. Refer to the
+aircraft manufacturer’s service information for the correct part number for the replacement hose.
+If the fittings on each end are of the correct type or sleeve type, a replacement may be fabricated
+as shown in Figure 9-8. Before cutting new flexible wire braided hose to the proper size, tape the
+hose tightly with masking tape and cut in the center of the masking tape to prevent fraying. The
+use of a mandrel will prevent cutting the inside of the hose when inserting the fittings. Typical
+aircraft hose specifications and their uses are shown in Table 9-3. Install hose assemblies without
+twisting. (See Figure 9-9.) A hose should not be stretched tight between two fittings as this will
+result in overstressing and eventual failure. The length of hose should be sufficient to provide
+about 5 to 8 percent slack. Avoid tight bends in flex lines as they may result in failure. Never
+exceed the minimum bend radii as indicated in Figure 9-10.
+
+Par 9-30  Page 9-24
+
+===== PDF PAGE 514 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 9-8. HOSE ASSEMBLY INSTRUCTIONS (CAN BE USED FOR
+   LOW-PRESSURE HYDRAULIC FLUID, AND OIL LINE APPLICATIONS)
+
+Par 9-30  Page 9-25
+
+===== PDF PAGE 515 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 9-3. AIRCRAFT HOSE SPECIFICATIONS
+
+   SINGLE WIRE BRAID FABRIC COVERED
+   TUBE  HOSE HOSE RECOMM  MIN.  MAX.  MIN
+   MIL. PART NO.  SIZE  SIZE  SIZE  OPER.  BURST  PROOF BEND
+   OD  ID  OD  PRESS.  PRESS.  PRESS. RADIUS
+   MIL-H-8794-3-L  3/16  1/8  .45  3,000  12,000  6,000  3.00
+   MIL-H-8794-4-L  1/4  3/16  .52  3,000  12,000  6,000  3.00
+   MIL-H-8794-5-L  5/16  1/4  .58  3,000  10,000  5,000  3.38
+   MIL-H-8794-6-L  38  5/16  .67  2,000  9,000  4,500  4.00
+   MIL-H-8794-8-L  1/2  13/32  .77  2,000  8,000  4,000  4.63
+  MIL-H-8794-10-L  5/8  1/2  .92  1,750  7,000  3,500  5.50
+  MIL-H-8794-12-L  3/4  5/8  1.08  1,750  6,000  3,000  6.50
+  MIL-H-8794-16-L  1  7/8  1.23  800  3,200  1,600  7.38
+  MIL-H-8794-20-L  1 1/4  1 1/8  1.50  600  2,500  1,250  9.00
+  MIL-H-8794-24-L  1 1/2  1 3/8  1.75  500  2,000  1,000  11.00
+  MIL-H-8794-32-L  2  1 13/16  2.22  350  1,400  700  13.25
+  MIL-H-8794-40-L  2 1/2  2 3/8  2.88  200  1,000  300  24.00
+  MIL-H-8794-48-L  3  3  3.56  200  800  300  33.00
+
+Construction: Seamless synthetic  Uses: Hose is approved for use in aircraft
+rubber inner tube reinforced with  hydraulic, pneumatic, coolant, fuel and oil
+one fiber braid, one braid of high  systems.
+tensile steel wire and covered with
+an oil-resistant rubber impregnated
+fiber braid.
+Identification: Hose is identified  Operating Temperatures:
+by specification number, size  Sizes—3 through 12:
+number, quarter year and year,  Minus 65 °F to plus 250 °F
+hose manufacturer’s identification.  Sizes—16 through 48:
+   Minus 40 °F to plus 275 °F
+   Note: Maximum temperatures and pressures
+   should not be used simultaneously.
+
+Par 9-30  Page 9-26
+
+===== PDF PAGE 516 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 9-3. AIRCRAFT HOSE SPECIFICATIONS (CONTINUED)
+
+   MULTIPLE WIRE BRAID RUBBER COVERED
+   HOSE RECOMM  MIN.  MIN.  MIN.
+   MIL  TUBE  HOSE
+   SIZE  OPER.  BURST  PROOF  BEND
+   PAR NO.  SIZE OD SIZE ID
+   OD  PRESS. PRESS.  PRESS.  RADIUS
+  MIL-H-8788-4-L  1/4  7/32  0.63  3,000  16,000  8,000  3.00
+  MIL-H-8788-5-L  5/16  9/32  0.70  3,000  14,000  7,000  3.38
+  MIL-H-8788-6-L  3/8  11/32  0.77  3,000  14,000  7,000  5.00
+  MIL-H-8788-8-L  1/2  7/16  0.86  3,000  14,000  7,000  5.75
+ MIL-H-8788-10-L  5/8  9/16  1.03  3,000  12,000  6,000  6.50
+ MIL-H-8788-12-L  3/4  11/16  1.22  3,000  12,000  6,000  7.75
+ MIL-H-8788-16-L  1  7/8  1.50  3,000  10,000  5,000  9.63
+
+Hose Construction: Seamless  Uses: High pressure hydraulic,
+synthetic rubber inner tube  pneumatic, coolant, fuel and oil.
+reinforced with one fabric braid,
+two or more steel wire braids, and  Operating Temperatures:
+covered with a synthetic rubber  Minus 65 °F to plus 200 °F
+cover (for gas applications
+request perforated cover).
+Identification: Hose is identified
+by specification number, size
+number, quarter year and year,
+hose manufacturer’s
+identification.
+
+Par 9-30  Page 9-27
+
+===== PDF PAGE 517 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 9-9. PROPER HOSE INSTALLATIONS
+
+Par 9-30  Page 9-28
+
+===== PDF PAGE 518 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 9-10. MINIMUM BEND RADII
+
+Par 9-30  Page 9-29
+
+===== PDF PAGE 519 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (1) Teflon hose is used in many aircraft systems because it has superior qualities for
+certain applications. Teflon is compounded from tetrafluoroethylene resin which is unaffected by
+fluids normally used in aircraft. It has an operating range of -65 °F to 450 °F. For these reasons,
+Teflon is used in hydraulic and engine lubricating systems where temperatures and pressures
+preclude the use of rubber hose. Although Teflon hose has excellent performance qualities, it
+also has peculiar characteristics that require extra care in handling. It tends to assume a
+permanent set when exposed to high pressure or temperature. Do not attempt to straighten a hose
+that has been in service. Any excessive bending or twisting may cause kinking or weakening of
+the tubing wall. Replace any hose that shows signs of leakage, abrasion, or kinking. Any hose
+suspected of kinking may be checked with a steel ball of proper size. Table 9-4 shows hose and
+ball sizes. The ball will not pass through if the hose is distorted beyond limits.
+
+TABLE 9-4. BALL DIAMETERS FOR TESTING HOSE RESTRICTIONS OR KINKING
+
+   HOSE SIZE  BALL SIZE
+   -4  5/64
+   -5  9/64
+   -6  13/64
+   -8  9/32
+   -10  3/8
+   -12  1/2
+   -16  47/64
+   -20  61/64
+
+   (2) If the hose fittings are of the reusable type, a replacement hose may be fabricated as
+described in Figure 9-8. See Figure 9-10 for minimum bend radii. When a hose assembly is
+removed, the ends should be tied as shown in Figure 9-11, so that the preformed shape will be
+maintained. See Figure 9-12 for minimum bend radii for Teflon hose.
+
+Par 9-30  Page 9-30
+
+===== PDF PAGE 520 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 9-11. SUGGESTED HANDLING OF PREFORMED HOSE
+
+Par 9-30  Page 9-31
+
+===== PDF PAGE 521 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 9-12. MINIMUM BEND RADII–TEFLON HOSE
+
+   (3) All flexible hose installations should be supported at least every 24 inches. Closer
+supports are preferred. They should be carefully routed and securely clamped to avoid abrasion,
+kinking, or excessive flexing. Excessive flexing may cause weakening of the hose or loosening at
+the fittings.
+
+   e. O-Ring Seals. An understanding of O-ring seal applications is necessary to determine
+when replacement should be made. The simplest application is where the O-ring merely serves
+as a gasket when it is compressed within a recessed area by applying pressure with a packing nut
+or screw cap. Leakage is not normally acceptable in this type of installation. In other
+installations, the O-ring seals depend primarily upon their resiliency to accomplish their sealing
+action. When moving parts are involved, minor seepage may be normal and acceptable. A moist
+
+Par 9-30  Page 9-32
+
+===== PDF PAGE 522 =====
+9/27/01  AC 43.13-1B CHG 1
+
+surface found on moving parts of hydraulic units is an indication the seal is being properly
+lubricated. In pneumatic systems, seal lubrication is provided by the installation of a
+grease-impregnated felt wiper ring. When systems are static, seepage past the seals is not
+normally acceptable.
+
+   f. Storage of Replacement Seals.
+
+   (1) Store O-ring seals where temperature does not exceed 120 °F.
+
+   (2) Keep seals packaged to avoid exposure to ambient air and light, particularly
+sunlight.
+
+   g. During inspection, consider the following to determine whether seal replacement is
+necessary.
+
+   (1) How much fluid is permitted to seep past the seals? In some installations minor
+seepage is normal. Refer to the manufacturer’s maintenance information.
+
+   (2) What effect does the leak have on the operation of the system? Know the system.
+
+   (3) Does the leak of fluid create a hazard or affect surrounding installations? A check of
+the system fluid and a knowledge of previous fluid replenishment is helpful.
+
+   (4) Will the system function safely without depleting the reservoirs until the next
+inspection?
+
+   h. Dos and Don’ts that Apply to O-Ring Seals.
+
+   (1) Correct all leaks from static seal installations.
+
+   (2) Don’t retighten packing gland nuts; retightening will, in most cases, increase rather
+than decrease the leak.
+
+   (3) Never reuse O-ring seals because they tend to swell from exposure to fluids and
+become set from being under pressure. They may have minor cuts or abrasions that are not
+readily discernible by visual inspection.
+
+   (4) Avoid using tools that might damage the seal or the sealing surface.
+
+   (5) Do not depend upon color-coding. Coding may vary with manufacturer.
+
+   (6) Be sure that part number is correct.
+
+   (7) Retain replacement seals in their package until ready for use. This provides proper
+identification and protects the seal from damage and contamination.
+
+   (8) Assure that the sealing surfaces are clean and free of nicks or scratches before
+installing seal.
+
+Par 9-30  Page 9-33
+
+===== PDF PAGE 523 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (9) Protect the seal from any sharp surfaces that it may pass over during installation.
+Use an installation bullet or cover the sharp surfaces with tape.
+
+   (10) Lubricate the seal so it will slide into place smoothly.
+
+   (11) Be sure the seal has not twisted during installation.
+
+   i. Hydraulic System Pressure Test. When a flexible hose has been repaired or
+overhauled using existing hardware and new hose material, before the hose is installed on the
+aircraft it is recommended that the hose is tested to at least 1.5 system pressure. A new hose can
+be operationally checked after it is installed in the aircraft using system pressure.
+
+   j. Hydraulic Components. Hydraulic components such as pumps, actuating cylinders,
+selector valves, relief valves, etc., should be repaired or adjusted following the airplane and
+component manufacturer’s instructions. Inspect hydraulic filter elements at frequent intervals
+and replace as necessary.
+
+9-31.–9-36 [RESERVED.]
+
+Par 9-30  Page 9-34
+
+===== PDF PAGE 524 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 3. EMERGENCY EQUIPMENT
+
+9-37. LIFE RAFTS. Inflatable life rafts are subject to general deterioration due to aging.
+Experience has indicated that such equipment may be in need of replacement at the end of
+5 years due to porosity of the rubber-coated material. Wear of such equipment is accelerated
+when stowed on board aircraft because of vibration which causes chafing of the rubberized
+fabric. This ultimately results in localized leakage. Leakage is also likely to occur where the
+fabric is folded because sharp corners are formed. When these corners are in contact with the
+carrying cases or with adjacent parts of the rubberized fabric, they tend to wear through due to
+vibration (refer to TSO-C70b).
+
+   a. When accomplishing maintenance, repair, and inspection of unpacked rafts, personnel
+should not step on any part of the raft or flotation tubes while wearing shoes. Rafts should not be
+thrown or dropped, since damage to the raft or accessories may result. Particular care should be
+exercised at all times to prevent snagging, cutting, and contact with gasoline, acids, oils, and
+grease. High standards of performance for proper maintenance, inspection, and repair cannot be
+overemphasized, since the lives of passengers could be involved.
+
+   b. Inspection and inflation tests, when applicable, will be accomplished during storage
+and after installation in an aircraft in accordance with the manufacturer’s specifications and/or
+FAA-approved procedures. Accessory items will be installed during these inspections. A raft
+knife will be attached by a 24-inch nylon lanyard to the mooring eye located above the carbon
+dioxide (CO2) cylinder case to enable rapid cutting of the mooring line.
+
+9-38. LIFE RAFT INSPECTIONS. Inspection of life rafts should be performed in accordance
+with the manufacturer’s specifications. General inspection procedures to be performed on most
+life rafts are as follows.
+
+   CAUTION: Areas where life rafts are inspected or tested must be smooth,
+   free of splinters, sharp projections, and oil stains. Floors with abrasive
+   characteristics, such as concrete or rough wood, will be covered with
+   untreated tarpaulins or heavy clean paper.
+
+   a. Inspect life rafts for cuts, tears, or other damage to the rubberized material. If the raft is
+found to be in good condition, remove the CO2 bottle(s) and inflate the raft with air to a pressure
+of 2 psi. The air should be introduced at the fitting normally connected to the CO2 bottle(s). After
+at least 1 hour, to allow for the air within the raft to adjust itself to the ambient temperature,
+check pressure and adjust, if necessary, to 2 psi and allow the raft to stand for 24 hours. If, after
+24 hours, the pressure is less than 1 psi, examine the raft for leakage by using soapy water. In
+order to eliminate pressure variations due to temperature differences at the time the initial and
+final reading are taken, test the raft in a room where the temperature is fairly constant. If the
+pressure drop is satisfactory, the raft should be considered as being in an airworthy condition and
+returned to service after being fitted with correctly charged CO2 bottles as determined by
+weighing them. Rafts more than 5 years old are likely to be unairworthy due to deterioration. It is
+suggested that serviceable rafts be marked to indicate the date of inspection and that soapstone
+be used when folding them preparatory to insertion into the carrying case. Take care to see that
+all of the raft’s required equipment is on board and properly stowed. If the raft lanyard, used to
+
+Par 9-37  Page 9-35
+
+===== PDF PAGE 525 =====
+9/8/98  AC 43.13-1B
+
+prevent the raft from floating away from the airplane, is in need of replacement, use a lanyard
+not less than 20 feet long and having a breaking strength of about 75 pounds.
+
+   b. It is recommended that the aforementioned procedure be repeated every 18 months
+using the CO2 bottle(s) for inflation. If a single bottle is used for inflating both compartments, it
+should be noted whether the inflation is proceeding equally to both compartments. Occasionally,
+the formation of “carbon-dioxide snow” may occur in one passage of the distribution manifold
+and divert a larger volume of gas to one compartment, which may burst if the mattress valve is
+not open to relieve the pressure. If the pressure is satisfactory, return the raft to service in
+accordance with the procedure outlined.
+
+   c. Inspect the CO2 cylinder for evidence of cross-threading or stripping.
+
+   d. Inspect the CO2 bottle inflation valve cable rigging as follows.
+
+   (1) Remove the screws that attach the cover plate to the valve and remove the cover
+plate.
+
+   (2) Inspect the firing line cable ball swage for engagement in the correct recess for
+either “Upward Pull” or “Downward Pull.” The cable will be wrapped around the sheave
+approximately 270 degrees.
+
+   (3) Reposition the cable ball swage as required. (See Figure 9-13.)
+
+   (4) Replace the cover plate. The green dot on the sheave should be visible through the
+window in the cover plate, indicating a charged cylinder.
+
+   e. Check the CO2 cylinder release cable and housing for condition and security.
+
+   f. Make sure the safety deflector is removed from the cylinder outlet before connecting
+the cylinder to the raft. (See Figure 9-13.)
+
+   g. Stencil the life raft’s inspection date on the raft.
+
+Par 9-38  Page 9-36
+
+===== PDF PAGE 526 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 9-13. INFLATION VALVE
+
+9-39. SURVIVAL KIT INSPECTION.
+
+   a. Survival Kit Contents. Each raft accommodating passengers or crewmembers should
+contain, as a minimum, the following:
+
+   •  Hand Pump (if required).
+   •  Desalting Kit.
+   •  First-Aid Kit.
+   •  Mirror/Reflector.
+   •  Emergency Rations.
+   •  Tarpaulins.
+   •  Fishing Kit.
+   •  Raft Knife.
+   •  Compass.
+   •  Protective Ointment (Sunburn).
+   •  Oars.
+   •  Emergency Water Containers.
+   •  Repair Kits.
+   •  Signal Flares.
+   •  Carrying Case.
+   •  Locator Beacon and Battery.
+   •  Lines and Anchor.
+   •  Police Whistle.
+   •  Flashlight.
+   •  Thermal Protective Aid.
+   •  Light-sticks.
+   •  Solar Still Kit.
+   •  Survival Manual.
+   •  Duct Tape.
+
+Par 9-38  Page 9-37
+
+===== PDF PAGE 527 =====
+9/8/98  AC 43.13-1B
+
+   •  Plastic Trash Bags,
+   •  Accessory Containers:
+   • Bailing Bucket.
+   • Sponge.
+   •  Dye Marker.
+
+   b. Exposure Suits. Quick-donning exposure suits should be provided in sufficient
+quantity to accommodate the passengers and crew on extended overwater missions whenever any
+of the following conditions exist.
+
+   (1) The water temperature is 59 °F or below, or
+
+   (2) The outside air temperature (OAT) is 32 °F or below.
+
+   c. Physical Inspection. Make a physical inspection of the life raft’s accessories and/or
+contents, in accordance with the manufacturer’s specifications, to ascertain that all items required
+are in a serviceable condition.
+
+   (1) Pumps and Hoses.
+
+   (a) Check the air pump for condition and security.
+
+   (b) Check the air pump hose and hose fittings for ease of attachment to the pump
+and mattress valves.
+
+   (c) Operate the pump to ensure that it delivers air.
+
+   (d) Close the outlet and check the seal of the piston.
+
+   (e) Blow into the outlet to determine if the pump check valve will seal.
+
+   (2) Desalting Kit.
+
+   (a) Check the desalting kit expiration date, if applicable.
+
+   (b) Replace the severely dented or punctured cans.
+
+   NOTE: Type MK-2 desalter kits have an indefinite shelf and service life and
+   do not have to be age-controlled.
+
+   (3) First-Aid Kit. Inspect each kit prior to flight to ensure that the seal is intact and the
+kits have not been tampered with or opened; and check the date when the kit contents should be
+inspected (120-day interval), and containing the following:
+
+   •  1 Case First Aid Kit, empty;
+   •  1 Bottle Benzalkonium Chloride Zinc; Tinted, 1:1000 2 cc;
+   •  1 Package Sodium Chloride; (Sodium Bicarbonate Mix) 4.5 gm;
+   •  1 Bandage each, Gauze, & Compress (2 inches x 6 yards);
+
+Par 9-39  Page 9-38
+
+===== PDF PAGE 528 =====
+9/8/98  AC 43.13-1B
+
+   •  2 Dressings, First Aid, 4 inches x 7 inches; 1 Package Bandages; Absorbent &
+   Adhesive, 3/4-inch x 3 inches;
+   •  3 Bottles, Snap-On Cap, Plastic Tablet and Capsule, Round, (issued empty; to
+   be used as needed by user);
+   •  1 Tube Lipstick, Anti-Chap; and
+   •  1 Bottle Water Purification Tablets, Iodine 8 mg (50).
+
+   (a) If the seal is found to be broken, or there is evidence of tampering, the kit should
+be opened and inspected to ensure that all components are included and undamaged. After such
+inspection, the kit should be resealed.
+
+   (b) To reseal the kit, use a wire and lead seal according to the manufacturer’s
+specifications. Pass the wire through grommets or opposite flaps, bend the wire back and force
+each end through the middle of the lacing cord on each side of the square knot. Pass the ends of
+the wire through the holes in the lead seal, draw the wire taut, and compress the seal.
+
+   (4) Mirror/Reflector. Check the reflector for defective reflection surface and the
+reflector lanyard for defective conditions and security of attachment.
+
+   (5) Emergency Rations. Check the food ration cans for obvious damage, severe dents,
+and an expiration date. Replace items when severely damaged, dented, or when the date is
+expired. Ensure that the opening key is attached.
+
+   (6) Tarpaulins. Spread out and check for tears, mildew, corroded grommets, and general
+condition.
+
+   (7) Fishing Kit. Check for damaged container or for tampering. Replace if damaged or
+incomplete.
+
+   (8) Raft Knife. Check for corrosion and ease of opening and security of the knife
+lanyard to the raft.
+
+   (9) Compass. Check for proper operation and condition.
+
+   (10) Protective Ointment (Sunburn).
+
+   (a) Check the sunburn ointment containers for cracks or crushed condition.
+
+   (b) Install the ointment in a 6-inch mailing tube and tape the ends to prevent
+crushing. Stow it where it will be subjected to the least amount of pressure in the kit.
+
+   (11) Oars.
+
+   (a) Check for serviceability.
+
+   (b) Wrap the oars separately in craft paper and seal with tape.
+
+   (c) Stencil inspected in letters not less than 1/2-inch high on each package.
+
+Par 9-39  Page 9-39
+
+===== PDF PAGE 529 =====
+9/8/98  AC 43.13-1B
+
+   (12) Emergency Water Containers. Check for open seams, holes, etc. Replace defective
+containers.
+
+   (13) Repair Kit. Check for proper wrapping and missing items. Four plugs are wrapped
+in a single container. This container and the pliers are wrapped in waterproof paper and sealed
+with waterproof tape. The package is stenciled repair plugs and pliers with letters not less than
+1/2-inch high.
+
+   (14) Signal Flares. Check the flares for obvious damage and suspended lot numbers.
+Replace if lot number is over-age or obvious damage exists.
+
+   (15) Carrying Case. Check for snags, abrasions, and defective snaps. Repair or replace as
+necessary.
+
+   (16) Locator Beacon and Battery.
+
+   (a) Check for corrosion and obvious damage per the manufacturer’s manual.
+
+   (b) Assemble as an operating unit. Perform an operational test, prepare the beacon
+for water activation by pulling out the battery switch plug from the end of the transmitter section,
+and package as instructed on the container.
+
+   (17) Lines and Anchor. Check all lines and sea anchors for conditions and security.
+
+   (18) Police Whistle. Inspect and test.
+
+   (19) Flashlight. Test the flashlight switch for operation; remove old batteries and inspect
+the case for corrosion and condition; and install new batteries and test momentarily for operation.
+
+   (20) Space Blankets. Check space blankets (if required) for rips, tears, and obvious
+damage.
+
+   (21) Light-Sticks. Inspect light-sticks for condition and check expiration date.
+
+   (22) Solar Still Kit. Check the solar still kit for condition.
+
+   (23) Survival Manual. Inspect the survival manual for condition and completeness.
+
+   (24) Duct Tape. Check the duct tape for deterioration.
+
+   (25) Plastic Trash Bags. Assure that three (each) plastic trash bags are serviceable.
+
+   (26) Accessory Containers.
+
+   (a) Check the containers for condition and security.
+
+   (b) Repack the accessories, secure, and record the inspection data on data cards.
+Record the Inspection date.
+
+Par 9-39  Page 9-40
+
+===== PDF PAGE 530 =====
+9/8/98  AC 43.13-1B
+
+   (27) Dye Marker. Check for dents and overall condition.
+
+   (28) Shark Chaser. Check for dents and overall condition.
+
+   d. After Inspection. Replace accessories in the container, close, and tie securely with
+tying tapes. Draw a 25-pound breaking strength cord tightly around the center and one
+approximately 5 inches from each end of the container, tie with square knots, and seal with a
+lead seal.
+
+   e. Folding Life Rafts. Fold the life rafts per the manufacturer’s folding diagram using
+soapstone and secure the raft in its container. Check the container for obvious damage.
+
+9-40. SPECIAL INSPECTIONS. Life rafts in storage or in service shall be unpacked and
+thoroughly inspected for mildew whenever weather or other conditions warrant. The extent of a
+special inspection will be determined by the inspector or maintenance chief following a review
+of the circumstances or conditions to which the life rafts have been subjected. The inspector or
+maintenance chief may direct a complete overall inspection and inflation test of the life rafts,
+regardless of the last date of inspection, if it is considered that another inspection is warranted.
+
+9-41. INSPECTION RECORD. The date the inspection was completed will be stenciled on the
+flotation tube at the left of the cylinder. The size of lettering will not be less than 1/4-inch or
+greater than 1/2-inch in height. Previous inspection dates will not be removed or obliterated but
+will be arranged in columnar form with the latest date at the top. After the inspection is
+completed, fill out the raft’s inspection record in accordance with Title 14 of the Code of Federal
+Regulations (14 CFR) part 43, § 43.9, and attach the parts tag to the survival equipment. The
+date on the tag will reflect the same date as stenciled on the flotation tube and will be used to
+determine the next due date of inspection and test.
+
+9-42. RAFT REPAIRS.
+
+   a. Repairs. The service life for flotation equipment will be determined by condition rather
+than age. Equipment passing tests and inspections may remain in service indefinitely since the
+inflation tests and material inspections will identify and condemn equipment having more than
+minor installation defects. However, the service life for life rafts operating under normal usage
+and environmental conditions is anticipated by the manufacturers to be 8 to 10 years, and it is
+appropriate to base life raft parts replacement programs upon this estimate. It is not considered
+advisable or economical to perform major repairs on life rafts.
+
+   b. Life Rafts. Life rafts with any of the following conditions should be condemned rather
+than repaired:
+
+   (1) Life rafts over 3-1/2 years of age and requiring major repair or more than two minor
+repairs.
+
+   (2) A rip or tear across an air retaining seam.
+
+   (3) Rafts on which oil, grease, or any other foreign substance has caused a deterioration
+of the rubberized fabric.
+
+Par 9-39  Page 9-41
+
+===== PDF PAGE 531 =====
+9/8/98  AC 43.13-1B
+
+   (4) Rafts on which a heavy mildew condition has caused deterioration of the rubberized
+fabric.
+
+   (5) Rafts on which porous flotation tubes allow diffusion of air. A porous area is
+located by a soap test on the inflated raft. Higher diffusion is indicated by the excessive loss of
+pressure after a soap test has failed to locate a specific area of injury on the raft.
+
+   (6) Rafts requiring internal repair or opening of air retaining seams for repair.
+
+   (7) Rafts with an excessive number of injuries that would not, in the judgment of
+competent inspectors, justify repair.
+
+   c. Patches. Holes or abrasions which are 2 inches or less, in diameter (in air retaining
+chambers) will be repaired by the application of an outside patch. Holes exceeding 2 inches in
+length or diameter, will require an inside patch as well as an outside patch. Inside and outside
+patches should be round or rectangular and manufactured of fabric (specification MIL-C-6819).
+Cement should conform to Class 1 of specification MIL-C-5539. Patch as follows:
+
+   (1) Outside Patches.
+
+   (a) With a rubber solvent thoroughly clean the area to be patched.
+
+   (b) From the material referenced, fabricate a patch as shown in Figure 9-14.
+
+   (c) When two fabric surfaces are to be bonded, apply two coats of extra-light
+cement, two coats of light cement, and three coats of heavy cement to each surface.
+Rubber-coated tape and seam crossover patches with protective backing do not require cement.
+Each coat of cement should be thoroughly dry to the touch before the next coat is applied. Start
+the bonding of fabric surfaces while the last coat of cement is slightly tacky. To ensure proper
+adhesion when bonding two cemented surfaces, the areas to be bonded should remain tacky
+during application. This is accomplished by brushing the cemented area with a cloth moistened
+with solvent.
+
+   NOTE: If difficulty in the drying of heavy cement is encountered due to
+   atmospheric conditions, six additional coats of light cement may be
+   substituted for the three coats of heavy cement.
+
+   (d) After applying the patch, thoroughly roll it with a hand roller, rolling from the
+center to the outer edge, to ensure that all air pockets are removed and a firm bond is secured.
+
+   (e) Thoroughly dust with talc. Allow to cure for 60 hours before performing leak
+tests and storing.
+
+   (2) Inside Patches.
+
+   (a) Cut a rectangular patch as shown in Figure 9-14, allowing at least 1-1/2 inches
+to extend beyond the edge of the injury in all directions.
+
+Par 9-42  Page 9-42
+
+===== PDF PAGE 532 =====
+9/8/98  AC 43.13-1B
+
+   (b) Mark the center line on the side of the patch that is to be attached to the raft.
+Mark cross lines on each end of the patch 1-1/2 inches from the ends. When the patch is applied
+to the injury on the inside, the longitudinal edges of the injury will coincide with the center line,
+and cross lines on the ends of the patch will coincide with the ends of the injury.
+
+   (c) To ensure that the inside surface of the raft is properly powdered in the area of
+repair, pass a small handful of talc through the opening in the raft and place it approximately
+12 inches from the injury. This should be accomplished before the inside area is cemented,
+exercising care to prevent distribution of the talc prior to completion of the repair.
+
+   FIGURE 9-14. REPAIR DIMENSIONS
+
+   (d) Using cleaning solvent, cleanse an area on the inside surface of the fabric
+slightly larger than the patch to be applied. Ensure that the repaired area is thoroughly dry, both
+inside and outside; apply two coats of extra-light cement, two coats of light cement, and three
+coats of heavy cement (or six additional coats of light cement in lieu of the heavy cement) to the
+cleansed area, allowing each coat to dry thoroughly before applying successive coats.
+
+   NOTE: Since it is impossible for the repairman to visually observe the
+   cementing that is being accomplished on the inside of the raft, exercise care
+   to ensure that each coat of cement completely covers the area to be repaired.
+
+   (e) The inside patch should be cemented simultaneously with the application of
+cement to the inside of the raft. Apply the same number of coats as directed in
+subparagraph 9-42c(2)(d) to the side of the patch that is applied to the injured fabric of the raft.
+Ensure that each coat is thoroughly dry before applying the next coat.
+
+   (f) To aid in adhesion, prior to applying the patch, the inside area to be repaired and
+cemented surface of the patch should be cleaned with a cloth moistened with rubber solvent. The
+cement will then become tacky.
+
+Par 9-42  Page 9-43
+
+===== PDF PAGE 533 =====
+9/8/98  AC 43.13-1B
+
+   (g) Apply the patch. Fold the patch lengthwise in the shape of the letter “U” and
+insert the patch between the torn edges of the injury on the life rafts. Position the patch so that
+the fabric at the end of the tear will coincide with a cross line and the center line on the patch
+follows one edge of the torn fabric. Attach one edge of the torn fabric along the center line on the
+patch.
+
+   (h) Inspect the repair for wrinkles. Working from the attached edge of the fabric to
+the edge of the patch, remove the wrinkles with a stitcher. Lay the opposite edge of the torn
+fabric on the patch so that it butts the edge of the torn fabric that has already been applied to the
+patch. Remove the wrinkles. Thoroughly roll the patch with a 2-inch rubber roller.
+
+   NOTE: The surface under the patch should be as smooth as possible so that
+   the torn edge of the fabric may be attached to the patch instead of attempting
+   to attach the patch to the fabric.
+
+   (i) Scatter the handful of talc that was placed inside the tube by grasping the sides
+of the flotation tube and pulling them apart.
+
+   (j) Prepare and attach the outside patch as outlined in “Outside Patches,”
+subparagraphs 9-42c(1)(a)–(e).
+
+   (k) Allow to cure for at least 60 hours before performing leak tests and storing.
+
+   (3) Seams and Tapes.
+
+   (a) Remove all old or dead cement from the area that will require recementing.
+Dampen the repair area with a solvent-moistened cloth; then roll or rub off the old cement.
+
+   (b) Apply cement to the surface as outlined in “Outside Patches,”
+subparagraphs 9-42c(1)(a)–(e).
+
+   (c) Roll thoroughly with a roller to ensure that all air pockets are removed and a
+firm bond is secured.
+
+   (d) Allow to dry and apply talc over the seam as previously outlined.
+
+   (e) Allow to cure for at least 60 hours before performing leak tests and storing.
+
+9-43. LIFE PRESERVERS. Inflatable life preservers are subject to general deterioration due to
+aging. Experience has indicated that such equipment may be in need of replacement at the end of
+5 years due to porosity of the rubber-coated material. Wear of such equipment is accelerated
+when stowed on board aircraft because of vibration which causes chafing of the rubberized
+fabric. This ultimately results in localized leakage. Leakage is also likely to occur where the
+fabric is folded because sharp corners are formed. When these corners are in contact with the
+carrying cases, or with adjacent parts of the rubberized fabric, they tend to wear through due to
+vibration. Life preservers should be inspected in accordance with the manufacturer’s
+specification, unless climate, storage, or operational conditions indicate the need for more
+frequent inspections (refer to TSO-C13g).
+
+Par 9-42  Page 9-44
+
+===== PDF PAGE 534 =====
+9/8/98  AC 43.13-1B
+
+9-44. LIFE PRESERVER INSPECTION. Life preservers should be inspected at 12-month
+intervals for cuts, tears, or other damage to the rubberized material. Check the mouth valves and
+tubing for leakage, corrosion, and deterioration. Remove the CO2 cylinder and check the
+discharge mechanism by operating the lever to ascertain that the pin operates freely. Check the
+gaskets and valve cores of the cylinder container and the pull cord for deterioration. If no defects
+are found, inflate the preserver with air to a 2-psi pressure and allow to stand for 12 hours. If the
+preserver still has adequate rigidity at the end of that time, deflate and fit with CO2 cylinders
+having weights not less than that indicated on them by the manufacturer. All cylinders made in
+accordance with joint Army/Navy Specification MIL-C-601D are so stamped and have a
+minimum permissible weight stamped on them. The use of such CO2 cylinders is recommended.
+Having fitted the preserver with an adequately charged cylinder, mark the preserver to indicate
+the date of inspection and patch it to the container. It is recommended that the aforementioned
+procedure be repeated every 12-month period, utilizing the CO2 cartridge for inflation. CO2
+permeates the rubberized fabric at a faster rate than air and will indicate if the porosity of the
+material is excessive. The following checks and inspections should be completed:
+
+   a. Check for abrasions, chafing, and soiling across folded cell areas and around metal
+parts. Condemn the life preserver when unsuitable conditions are found.
+
+   b. Check for separation of cell fabric and loose attachments along the edges of patches
+and sealing tapes. Repair if practicable.
+
+   c. Check for deterioration in areas where oil and grease are noted. Condemn deteriorated
+cells. If deterioration is not noted, clean the areas with mild soap and water and rinse with clear
+water.
+
+   d. Inspect the snaps and/or buckles to ensure proper operation.
+
+   e. Inspect the instruction panel for readability.
+
+   f. Inspect all stitching for gaps, pulls, and tears.
+
+   g. Visually inspect the cell containers for snags, cuts, loose stitching, and oil and grease
+spots. Repair or replace as necessary.
+
+   h. Inspect the hardware for rusted or broken parts and cotter pins for damage. Ensure
+that pins are smooth and free of burrs.
+
+   i. Check the inflator discharge lever for proper operation. Move the inflator discharge
+lever slowly through a normal cycle of operation to ensure freedom of operation and to make
+certain that the piercing pin has sufficient movement to discharge the CO2 cylinder. The point of
+the pin should move past the surface of the gasket in the inflator. In the unoperated position, the
+end point should be slightly below the gasket surface.
+
+   j. Check the installation of the inflator stem gaskets and check the stem caps for
+tightness. Ensure that the inflator is centered on the stem.
+
+   k. Check rescue light. Inspect and test.
+
+Par 9-44  Page 9-45
+
+===== PDF PAGE 535 =====
+9/8/98  AC 43.13-1B
+
+   (1) Replace the battery if it shows any signs of encrustation.
+
+   (2) Inspect for proper installation and physical condition of the lamp, wire, and battery.
+
+   (3) Check the light assembly for proper operation and water insulation and flotation.
+
+   (4) Pull the sealing plug (where applicable) from the battery. Let water flow through the
+open ports. Make sure the battery is activated and power is supplied to the light.
+
+   (5) Fill out the inspection record and serviceable parts tag. Attach to the vest.
+
+   l. Deflate the life preserver and repack in container and secure.
+
+   m. The accessories listed below will be required for all life preservers:
+
+   (1) One Recognition Light: Remove when returning to serviceable or reparable storage.
+Remove for replacement of defective light, repair, or salvage of preserver.
+
+   (2) One Recognition Light Battery: Remove when returning to serviceable or reparable
+storage.
+
+   n. Record the inspection data on data cards.
+
+   o. Life preserver inspected and found seaworthy. Include the inspector’s signature.
+
+   p. Inspection record. Upon completion of 12-month inspection and tests, each flotation
+cell will be marked to indicate the date the inspection was accomplished. The inspection stencil
+will consist of 1/8-inch letters and numerals and will be applied to the patches on the cells
+(example: 4/3/97). To facilitate determination of the next 12-month inspection period, enter the
+date it is due in the blank beside the word inspect on the inspection data card provided in the
+inspection data pocket on the cell container. Repack, close, and seal the container.
+
+9-45. REPAIR OF LIFE PRESERVERS. Leaks may be disclosed by immersion in soapy
+water. Repair leaks by the use of patches in accordance with the recommendations of the
+manufacturer. Clean corroded metal parts and replace missing or weakened lanyards. Life
+preservers which do not retain sufficient rigidity after the 12-hour period, because of general
+deterioration and porosity of the fabric, are beyond economical repair and should be replaced.
+
+9-46. MISCELLANEOUS EQUIPMENT.
+
+   a. Parachutes. With reasonable care, parachutes can remain in service indefinitely. They
+should not be carelessly tossed about, left in aircraft to become wet, or left where someone may
+tamper with them. They should not be placed where they may fall on oily floors or be subject to
+acid fumes from adjacent battery chargers.
+
+   (1) When repacking is scheduled, to comply with the 180-day requirement in 14 CFR
+part 105, § 105.43, a careful inspection of the parachute shall be made by a qualified parachute
+technician (rigger). If repairs or replacements of parts are necessary to maintain the airworthiness
+
+Par 9-44  Page 9-46
+
+===== PDF PAGE 536 =====
+9/27/01  AC 43.13-1B CHG 1
+
+of the parachute assembly, such work must be done by the original parachute manufacturer or by
+a qualified parachute rigger, certificated in accordance with 14 CFR part 65.
+
+   (2) The lead seal should be inspected periodically to ensure the thread has not been
+broken. If broken, broken and retied, or appears to have been tampered with, the parachute must
+be repacked by a properly certified rigger.
+
+   b. Safety Belts shall be of an approved type. All seat belts and restraint systems must
+conform to standards established by the FAA. These standards are contained in TSO-C22g for
+seat belts and TSO-C114 for restraint systems.
+
+   (1) Safety belts eligible for installation in aircraft must be identified by the proper TSO
+markings on the belt. Each safety belt must be equipped with an approved metal to metal
+latching device. Airworthy type-certificated safety belts currently in aircraft may be removed for
+cleaning and reinstalled. However, when a TSO safety belt is found unairworthy, replacement
+with a new TSO-approved belt or harness is required.
+
+   (2) The webbing of safety belts, even when mildew-proofed, is subject to deterioration
+due to constant use, cleaning, and the effects of aging. Fraying of belts is an indication of wear,
+and such belts are likely to be unairworthy because they can no longer hold the minimum
+required tensile load.
+
+   (3) Safety belts shall be repaired in accordance with specifications approved by the
+responsible FAA Aircraft Certification Service office.
+
+9-47. OXYGEN SYSTEMS. The following instructions are to serve as a guide for the
+inspection and maintenance of aircraft oxygen systems. The information is applicable to both
+portable and permanently installed equipment.
+
+   a. Aircraft Gaseous Oxygen Systems. The oxygen in gaseous systems is supplied from
+one or more high- or low-pressure oxygen cylinders. Since the oxygen is compressed within the
+cylinder, the amount of pressure indicated on the system gauge bears a direct relationship to the
+amount of oxygen contained in the cylinder. The pressure-indicating line connection is normally
+located between the cylinder and a pressure-reducing valve.
+
+   NOTE: Some of the gaseous oxygen systems do not use pressure-reducing
+   valves. The high pressure is reduced to a useable pressure by a regulator.
+   This regulator is located between the high- and low-pressure system.
+
+   CAUTION: Oxygen-rich environments are dangerous.
+
+   b. Portable Oxygen Systems. The three basic types of portable oxygen systems are:
+demand, pressure demand, and continuous flow. The components of these systems are identical
+to those of a permanent installation with the exception that some parts are miniaturized as
+necessary. This is done in order that they may be contained in a case or strapped around a
+person’s shoulder. It is for this portability reason that special attention be given to assuring that
+any storage or security provision for portable oxygen equipment in the aircraft is adequate, in
+good condition, and accessible to the user.
+
+Par 9-46  Page 9-47
+
+===== PDF PAGE 537 =====
+9/8/98  AC 43.13-1B
+
+   NOTE: Check portable equipment, including its security provisions,
+   frequently, since it is more susceptible to personnel abuse than a
+   permanently installed system.
+
+9-48. INSPECTION. Hands, clothing, and tools must be free of oil, grease, and dirt when
+working with oxygen equipment. Traces of these organic materials near compressed oxygen may
+result in spontaneous combustion, explosions, and/or fire.
+
+   a. Oxygen Tanks and Cylinders. Inspect the entire exterior surface of the cylinder for
+indication of abuse, dents, bulges, and strap chafing.
+
+   (1) Examine the neck of cylinder for cracks, distortion, or damaged threads.
+
+   (2) Check the cylinder to determine if the markings are legible.
+
+   (3) Check the date of the last hydrostatic test. If the periodic retest date is past, do not
+return the cylinder to service until the test has been accomplished.
+
+   (4) Inspect the cylinder mounting bracket, bracket hold-down bolts, and
+cylinder-holding straps for cracks, deformation, cleanliness, and security of attachment.
+
+   (5) In the immediate area where the cylinder is stored or secured, check for evidence of
+any types of interference, chafing, deformation, or deterioration.
+
+   b. Lines and Fittings.
+
+   (1) Inspect oxygen lines for chafing, corrosion, flat spots, and irregularities, i.e., sharp
+bends, kinks, and inadequate security.
+
+   (2) Check fittings for corrosion around the threaded area where lines are joined.
+Pressurize the system and check for leaks. (See paragraph 9-49b(2)(d).)
+
+   CAUTION: In pressurizing the system, actuate the valve slowly to avoid
+   surging which could rupture the line.
+
+   c. Regulators, Valves, and Gauges.
+
+   (1) Examine all parts for cracks, nicks, damaged threads, or other apparent damage.
+
+   (2) Actuate the regulator controls and the valve to check for ease of operation.
+
+   (3) Determine if the gauge is functioning properly by observing the pressure buildup
+and the return to zero when the system oxygen is bled off.
+
+   d. Masks and Hoses.
+
+   (1) Check the oxygen mask for fabric cracks and rough face seals. If the mask is a
+full-face model, inspect the glass or plastic for cleanliness and state of repair.
+
+Par 9-47  Page 9-48
+
+===== PDF PAGE 538 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (2) When appropriate, with due regard to hygienic considerations, the sealing qualities
+of an oxygen mask may be tested by placing a thumb over the connection at the end of the mask
+tube and inhaling very lightly. Remove the thumb from the disconnect after each continuous
+inhalation. If there is no leakage, the mask will adhere tightly to the face during inhalation, and
+definite resistance to inhalation will be noticeable.
+
+   (3) Flex the mask hose gently over its entirety and check for evidence of deterioration
+or dirt.
+
+   (4) Examine the mask and hose storage compartment for cleanliness and general
+condition.
+
+   (5) If the mask and hose storage compartment is provided with a cover or release
+mechanism, thoroughly check the operation of the mechanism.
+
+9-49. MAINTENANCE.
+
+   a. Oxygen Tanks, Cylinders, and Hold-Down Brackets.
+
+   (1) Remove from service any cylinders that show signs of abuse, dents, bulges, cracks,
+distortion, damaged thread, or defects which might render them unsafe. Typical examples of
+oxygen cylinder damage are shown in Figure 9-15.
+
+   NOTE: Cylinders having greater weight or size will require strengthened
+   cylinder-mounting brackets and a reevaluation to determine that the larger
+   or heavier cylinder will not interfere with adjacent systems, components, or
+   structural members, and that the strength of attaching structure is adequate
+   and any additional weight will be computed into the aircraft’s weight and
+   balance report.
+
+   (2) When replacing an oxygen cylinder, be certain that the replacement cylinder is of
+the same size and weight as the one removed.
+
+   FIGURE 9-15. OXYGEN CYLINDER DAMAGE
+
+   (3) Replace or repair any cylinder mounting brackets that show signs of wear. Visible
+cracks may be welded in accordance with manufacturer’s standards. Replace the cylinder straps
+
+Par 9-48  Page 9-49
+
+===== PDF PAGE 539 =====
+9/27/01  AC 43.13-1B CHG 1
+
+or clamps that show wear or abuse. For typical mounting bracket cracks and failure, see
+Figure 9-16.
+
+   FIGURE 9-16. CYLINDER BRACKETS AND CLAMPS
+
+   b. Lines and Fittings.
+
+   (1) Replace any oxygen line that is chafed, rusted, corroded, dented, cracked, or kinked.
+
+   (2) Clean oxygen system fittings showing signs of rusting or corrosion in the threaded
+area. To accomplish this, use a cleaner recommended by manufacturers of oxygen equipment.
+Replace lines and fittings that cannot be cleaned.
+
+   (a) The high-pressure lines which are located between the oxygen bottle (outside
+the oxygen service filler) and the regulator are normally fabricated from stainless steel or
+thick-wall, seamless copper alloy tubing. The fittings on high-pressure lines are normally silver
+brazed.
+
+   NOTE: Use silver alloys free of cadmium when silver brazing. The use of
+   silver brazing alloys which contain cadmium, will emit a poisonous gas when
+   heated to a molten state. This gas is extremely hazardous to health if inhaled.
+
+   (b) The low-pressure lines extend from the pressure regulator to each passenger and
+crew oxygen outlet. These lines are fabricated from seamless aluminum alloy, copper, or flexible
+hose. Normally, flare- or flange-type connections are used.
+
+   CAUTION: Do not allow oil, grease, flammable solvent, or other
+   combustibles such as lint or dust to come in contact with threads or any parts
+   that will be exposed to pressurized oxygen.
+
+   (c) It is advisable to purge the oxygen system any time work has been accomplished
+on any of the lines and fittings. Use dry nitrogen or dry air for purging the system. All open lines
+should be capped immediately after purging.
+
+   (d) When oxygen is being lost from a system through leakage, a sequence of steps
+may be necessary to locate the opening. Leakage may often be detected by listening for the
+
+Par 9-49  Page 9-50
+
+===== PDF PAGE 540 =====
+9/8/98  AC 43.13-1B
+
+distinct hissing sound of escaping gas. If this check proves negative, it will be necessary to
+soap-test all lines and connections with a castile soap and water solution or specially
+compounded leak-test material. Make the solution thick enough to adhere to the contours of the
+fittings. At the completion of the leakage test, remove all traces of the soap and water.
+
+   CAUTION: Do not attempt to tighten any connections while the system is
+   charged.
+
+   c. Regulators, Valves, and Gauges. Line maintenance of oxygen regulators, valves, and
+gauges does not include major repair. These components are precision made and their repair
+usually requires the attention of a repair station or the manufacturer. Care must be taken when
+reinstalling these components to ascertain if the threaded area is free of nicks, burrs, and
+contaminants that would prevent the connections from sealing properly.
+
+   CAUTION: Do not use petroleum lubricants on these components.
+
+   d. Masks and Hoses.
+
+   (1) Troubleshooting. If a mask assembly is defective (leaks, does not allow breathing,
+or contains a defective microphone), it is advisable to return the mask assembly to the
+manufacturer or a repair station.
+
+   (2) Maintenance Practice and Cleaning.
+
+   (a) Clean and disinfect the mask assemblies after use, as appropriate.
+
+   NOTE: Use care to avoid damaging the microphone assembly while cleaning
+   and sterilizing.
+
+   (b) Wash the mask with a mild soap solution and rinse it with clear water.
+
+   (c) To sterilize, swab the mask thoroughly with a gauze or sponge soaked in a
+water-merthiolate solution. This solution should contain 1/5 teaspoon of merthiolate per 1 quart
+of water. Wipe the mask with a clean cloth and air dry.
+
+   (d) Replace the hose if it shows evidence of deterioration.
+
+   (e) Hoses may be cleaned in the same manner as the mask.
+
+   (f) Observe that each mask breathing tube end is free of nicks, and that the tube end
+will slip into the cabin oxygen receptacle with ease and not leak.
+
+9-50. FUNCTIONAL TESTING AFTER REPAIR. Following repair, and before inspection
+plates, cover plates, or upholstering are replaced, test the entire system.
+
+   a. Open the cylinder valve slowly and observe the pressure gauge on a high-pressure
+system. A pressure of approximately 1,800 psi (at 70 °F) should be indicated on the gauge.
+(Cylinder pressure will vary considerably with radical temperature changes.)
+
+Par 9-49  Page 9-51
+
+===== PDF PAGE 541 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (1) Check the system by installing one of the mask hose fittings (minus the mask) in
+each of the cabin wall outlets to determine whether there is a flow. If a demand mask is used,
+check by breathing through the mask and, if appropriate, clean the mask according to
+subparagraph 9-49d.
+
+   (2) Check the complete system for leaks in accordance with the procedure outlined in
+subparagraph 9-49b(2)(d).
+
+   (3) If leaks are found, close the cylinder valve and open an outlet to reduce the pressure
+in the system to zero.
+
+   b. The following checks may be made for a pressure drop check of the system.
+
+   (1) Open the cylinder valve and pressurize the system. Observe the pressure gauge (a
+pressure of approximately 1,800 psi at 70 °F should be indicated). For the lightweight ICC 3HT
+1850 cylinders, pressurize the system to approximately 1,850 psi at 70 °F.
+
+   (2) Close the cylinder valve and wait approximately 5 minutes for temperatures to
+stabilize.
+
+   (3) Record the pressure gauge reading and temperature and after 1 hour, record the
+pressure gauge reading and temperature again.
+
+   (4) A maximum pressure drop of 100 psi is permissible.
+
+   NOTE: Conduct the above tests in an area where changes of temperature
+   will be less than 10 °F. If a leak occurs during the 1-hour period, suitable
+   corrections would be required, or re-conduct the test under conditions of
+   unvarying temperatures.
+
+9-51. REQUIREMENTS FOR REQUALIFICATION OF OXYGEN CYLINDERS (refer
+to Title 49 of the Code of Federal Regulations (49 CFR) part 180, § 180.209). This is a
+Department of Transportation (DOT) requirement. Each cylinder that becomes due for periodic
+requalification must be hydrostatically tested every 5 years (10 years if it meets the requirements
+in 49 CFR § 180.209(b)). These cylinders carry a DOT 3AA classification and are suitable for
+the use intended. Cylinders that carry a DOT 3HT classification must be hydrostatically tested
+every 3 years, and must be retired from service after 24 years or 4,380 pressurizations, whichever
+occurs first. These cylinders must be stamped with an approval after being inspected (refer to
+49 CFR § 180.209(k)).
+
+   CAUTION: Use only aviation breathing oxygen when having the oxygen
+   bottle charged.
+
+   a. Charging High-Pressure Oxygen Cylinders. The following are recommended
+procedures for charging high-pressure oxygen cylinders from a manifold system, either
+permanently installed or trailer-mounted.
+
+Par 9-50  Page 9-52
+
+===== PDF PAGE 542 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   CAUTION: Never attempt to charge a low-pressure cylinder directly from a
+   high-pressure manifold system or cylinder.
+
+   (1) Inspection. Do not attempt to charge oxygen cylinders if any of the following
+discrepancies exist:
+
+   (a) Inspect for contaminated fittings on the manifold, cylinder, or outside filler
+valve. If cleaning is needed, wipe with stabilized trichloroethylene and let air dry. Do not permit
+the solvent to enter any internal parts.
+
+   (b) Check the hydrostatic test date of the cylinder. DOT regulations require DOT
+3AA designated cylinders be hydrostatically tested to 5/3 their working pressure every 5 years
+(10 years if they meet the requirements in 49 CFR § 180.209). Cylinders being designated as
+DOT 3HT (refer to 49 CFR § 180.209(k)) must be hydrostatically tested to 5/3 their working
+pressure every 3 years, and retired from service 24 years or 4,380 filling cycles after the date of
+manufacture, whichever occurs first.
+
+   (c) If the cylinder is completely empty, do not charge. An empty cylinder must be
+removed, inspected, and cleaned before charging.
+
+   (2) Charging.
+
+   (a) Connect the cylinder valve outlet or the outside filler valve to the manifold.
+
+   (b) Slowly open the valve of the cylinder to be charged and observe the pressure on
+the gauge of the manifold system.
+
+   (c) Slowly open the valve of the cylinder on the manifold system having the lowest
+pressure and allow the pressure to equalize.
+
+   (d) Close the cylinder valve on the manifold system and slowly open the valve of
+the cylinder having the next highest pressure. Continue this procedure until the cylinder has been
+charged in accordance with Table 9-5.
+
+   (e) Close all valves on the manifold system.
+
+   (f) Close the valve on the filled cylinder and remove the cylinder from the
+manifold.
+
+   (g) Using a leak detector, test for leakage around the cylinder valve threaded
+connections. (If leakage is present, discharge the oxygen and return the cylinder to the facility for
+repair.)
+
+   (h) Let the cylinder stabilize for a period of at least 1 hour, and then recheck the
+pressure.
+
+   (i) Make any necessary adjustments in the pressure.
+
+Par 9-51  Page 9-53
+
+===== PDF PAGE 543 =====
+9/8/98  AC 43.13-1B
+
+   b. Charging of Low-Pressure Oxygen Systems and Portables. For recharging a
+low-pressure aircraft oxygen system, or portable cylinders, it is essential that the oxygen trailer
+or cart have a pressure-reducing regulator. Military types E-2 or C-1 reducing regulators are
+satisfactory. These types of regulators reduce the large cylinder pressure from 2,000 psi to a line
+pressure of 450 psi. (A welding pressure-reducing regulator is not satisfactory.)
+
+   CAUTION: When refilling the low-pressure system or portable cylinders,
+   open the oxygen filler tank valve slowly to allow the system or portable
+   cylinders to be filled at a slow rate. After the refilling operation is completed,
+   check for leaks with a leak detector. If a leak is detected,
+   subparagraph 9-49b(2)(d) should be referred to for corrective action.
+
+Par 9-51  Page 9-54
+

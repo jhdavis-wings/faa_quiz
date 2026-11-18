@@ -1,0 +1,791 @@
+AC 43.13-2C, chapter 11 (Aircraft Battery Installations), PDF pages 142-160
+
+===== PDF PAGE 142 =====
+ 7/29/26  AC 43.13-2C
+
+   CHAPTER 11. AIRCRAFT BATTERY INSTALLATIONS
+
+   Section 1. General
+
+ 11.1 Purpose. This chapter contains structural and design considerations for the fabrication of
+   aircraft battery installations.
+
+ 11.2 Hazards and Warnings: Handling Precautions. Serious injury can result from
+   carelessness while handling and working with batteries. Failure to heed these warnings
+   could result in serious injury or death.
+
+11.2.1 All tools must be insulated.
+
+11.2.2 Care must be taken with all metal items, including clothing items such as belt buckles,
+   zippers, metal fasteners, and wallet chains as well as jewelry items such as rings,
+   watches, bracelets, and necklaces. All metal or conductive articles should be removed
+   from your person when handling batteries.
+
+11.2.3 Wear protective clothing and eye protection. The electrolyte can cause burns if in contact
+   with skin or eyes. Do not touch eyes, nose, or mouth after handling batteries or acid.
+
+11.2.4 Do not smoke or hold naked flames near batteries on charge. If allowed to accumulate in
+   a confined space, the gases emitted during charge could cause an explosion. To prevent
+   the accumulation of hydrogen gas in the manifold, do not charge a flooded electrolyte or
+   vented battery on the bench with the cover on.
+
+11.2.5 Do not service flooded or vented lead-acid and nickel-cadmium batteries in the same
+   shop area as cross contamination of acid and alkaline electrolytes may happen.
+
+11.2.6 Always pour acid into water; never pour water into acid.
+
+11.2.7 Do not use petroleum spirits, trichloroethylene, or other solvents.
+
+11.2.8 Know the location and use of the emergency eyewash and shower nearest the battery
+   charging area.
+
+ 11.3 Additional References (current editions).
+
+   •  AC 20-106, Aircraft Inspection for the General Aviation Aircraft Owner.
+   •  AC 43-4, Corrosion Control for Aircraft.
+   •  AC 120-27, Aircraft Weight and Balance Control.
+   •  Civil Air Regulation (CAR) 6, Rotorcraft Airworthiness; Normal Category.
+   •  FAA-H-8083-1, Aircraft Weight and Balance Handbook.
+   •  FAA-H-8083-19, Plane Sense General Aviation Information.
+
+ 11.4 Location Requirements. The battery installation and/or its installation should provide:
+
+   11-1
+
+===== PDF PAGE 143 =====
+ 7/29/26  AC 43.13-2C
+
+11.4.1 Accessibility for Battery Maintenance and Removal. The installation should ensure that
+   the battery could be easily installed or removed and serviced without removing seats,
+   fairings, etc.
+
+11.4.2 Protection from Engine Heat. If installed in the engine compartment, the battery should
+   be protected from extreme heat both during engine operation and after the engine has
+   been shut down. This kind of protection can be provided by a source of cooling air to the
+   battery box or additional thermal protection around the battery. Care should be taken not
+   to interfere with the flow of engine-cooling air.
+
+11.4.3 Protection from Mechanical Damage. Vibration and other shock loads are a major cause
+   of short battery life. Install the battery in a location that will minimize damage from
+   airframe vibration and prevent accidental damage by passengers or cargo.
+
+11.4.4 Passenger Protection. Ensure that the battery is enclosed within a container/box so that
+   passengers/crew are protected from any fumes or electrolytes that may be spilled as a
+   result of battery overheating, minor crash, or unintentional inverted flight.
+
+11.4.5 Airframe Protection. To minimize damage to adjacent metal structures, fabric coverings
+   or electrical equipment can be accomplished by properly locating battery drains and vent
+   discharge lines and adequately venting the battery compartment. To protect the airframe
+   structure and fluid lines, apply asphaltic or rubber-based paint to the areas adjacent to and
+   below the battery or battery box.
+
+ 11.5 Aircraft Storage Battery Design and Installation.
+
+11.5.1 Lead Acid.
+
+   11.5.1.1  Each aircraft storage battery, whether approved to a Technical Standard Order
+   (TSO) or not, must be designed as required by regulation and installed as
+   prescribed by the manufacturer.
+
+   11.5.1.2  No explosive or toxic gases emitted by any battery in normal operation, or as
+   the result of any probable malfunction in the charging system or battery
+   installation, may accumulate in hazardous quantities within the airplane.
+
+   11.5.1.3  Corrosive fluids or gases that may escape from the battery may damage
+   surrounding structures or adjacent essential equipment.
+
+11.5.2 Nickel Cadmium.
+
+   11.5.2.1  Each aircraft storage battery, whether approved to a TSO or not, must be
+   designed as required by regulation and installed as prescribed by the
+   manufacturer.
+
+   11.5.2.2  Safe cell temperatures and pressures must be maintained during any probable
+   charging and discharging condition. No uncontrolled increase in cell
+
+   11-2
+
+===== PDF PAGE 144 =====
+7/29/26  AC 43.13-2C
+
+   temperature may result when the battery is recharged (after previous complete
+   discharge):
+
+   •  At maximum regulated voltage or power;
+   •  During a flight of maximum duration; and
+   •  Under the most adverse cooling condition likely to occur in service.
+
+   11.5.2.3  Compliance with paragraph 11.5.2.2 must be shown by tests unless experience
+   with similar batteries and installations has shown that maintaining safe cell
+   temperatures and pressures presents no problem.
+
+   11.5.2.4  No explosive or toxic gases emitted by any battery in normal operation, or as
+   the result of any probable malfunction in the charging system or battery
+   installation, may accumulate in hazardous quantities within the airplane.
+
+   11.5.2.5  Corrosive fluids or gases that may escape from the battery may damage
+   surrounding structures or adjacent essential equipment.
+
+ 11.6 Duplication of the Manufacturer’s Installation. The availability of ready-made parts
+   and attachment fittings may make it desirable to consider the location or type of
+   installation, or both, selected and designed by the airframe manufacturer. Appreciable
+   savings in time and work may be realized if previously approved data and/or parts are
+   used.
+
+ 11.7 Other Installations. If the battery installation has not been previously approved, or if the
+   battery is to be installed or relocated in a manner or location other than provided in
+   previously approved data, perform static tests on the completed installation as outlined in
+   Chapter 2, Structural Data. Because of the concentrated mass of the battery, the support
+   structure should also be rigid enough to prevent undue vibration or undue shock, which
+   may lead to early structural failure.
+
+ 11.8 Delivery Inspection. When the battery is unpacked, a thorough inspection should be
+   made to ensure that no damage occurred during shipment. Inspect the shipping container
+   as well as the battery. Before putting the battery into service, perform a safety check by
+   following these points carefully.
+
+11.8.1 Damage. See if any liquid has spilled into the shipping container. This may indicate that a
+   cell is damaged. Check for dented, cracked, or discolored areas on the sides and bottom
+   of the battery case. Check for cracked cell cases or covers. Do not place a damaged
+   battery into service.
+
+11.8.2 Shorting Straps. Some nickel-cadmium batteries are shipped with shorting devices across
+   the main power receptacle output terminals. Before subjecting a battery to electrical
+   service, this device must be removed.
+
+   11-3
+
+===== PDF PAGE 145 =====
+7/29/26  AC 43.13-2C
+
+11.8.3 Electrical Connections. Test all terminal hardware to ensure tightness. Poor electrical
+   contact between mating surfaces may reduce discharge voltage, cause local overheating,
+   and damage the battery.
+
+   Note: Before charging the battery, read and become familiar with the
+   manufacturer’s charge procedures.
+
+ 11.9 Battery Installation and Removal. The following instructions are generic. Refer to the
+   airframe manufacturer’s maintenance manuals or Supplemental Type Certificate (STC)
+   for instructions specific to a particular aircraft model.
+
+11.9.1 Removal.
+
+   1. Set the master switch to the OFF position and tag the switch.
+   2. Disconnect any external power supply.
+   3. Open battery compartment access panels.
+   4. Disconnect the battery quick disconnect plug or remove terminal bolts and disconnect
+   battery cables from battery terminals. Always disconnect the ground cable first and
+   install the ground cable last.
+   5. Disconnect battery ventilation tubes, if any.
+   6. Unlock battery hold-down clamps or remove battery hold-down bars. Disengage the
+   battery.
+   7. Carefully remove the battery.
+
+   WARNING: Batteries are heavy. Use appropriate lifting devices or equipment.
+   Use battery handles where provided.
+
+11.9.2 Installation.
+
+   1. Inspect the battery for damage. Cracks in metal or plastic containers are not
+   permitted. Dents in metal containers that impinge on the interior plastic container are
+   not acceptable.
+   2. Set master switch to the OFF position and tag (explain what should be on the tag “Do
+   not turn on master switch”).
+   3. Disconnect any external power supply and tag (explain what should be on the tag “Do
+   not connect external power”).
+   4. Open battery compartment access panels.
+   5. Ensure the battery container or tray is clean and dry. Treat and paint any corrosion
+   areas.
+   6. Install the battery in the battery container or tray.
+
+   WARNING: Batteries are heavy. Use appropriate lifting devices or equipment.
+   Use battery handles where provided.
+
+   11-4
+
+===== PDF PAGE 146 =====
+7/29/26  AC 43.13-2C
+
+   7. Engage battery hold-down hardware, torque, and safety wire per airframe
+   manufacturer’s maintenance manual.
+   8. Connect battery vent tubes.
+   9. Connect the battery quick disconnect plug and any auxiliary connector, or for ring
+   terminals, install with a bolt and lock washer. Torque terminal bolts as recommended
+   by the manufacturer.
+   10. Replace the electrical compartment access panel.
+   11. Perform an operational test.
+   12. Update aircraft Weight and Balance (W&B) data, if necessary.
+   13. Update the equipment list, if applicable.
+   14. Make a logbook entry with the battery serial number and date of installation.
+
+   Figure 11-1. Typical Battery Installation in the Aircraft
+
+   11-5
+
+===== PDF PAGE 147 =====
+7/29/26  AC 43.13-2C
+
+   Section 2. Lead-Acid Battery Installations
+
+11.10 General. In a lead-acid battery, the voltage will slowly drop as opposed to a
+   nickel-cadmium battery. These batteries are typically less expensive, do not require
+   temperature sensor monitoring, require virtually no maintenance, and, when unable to
+   meet the manufacturer’s capacity requirements, are simply removed and replaced.
+
+11.11 Battery Box. The battery box should have an open drain in case the electrolyte
+   overflows. The box should be vented to prevent an accumulation of flammable hydrogen
+   gas.
+
+11.12 Securing the Battery. Install the battery in such a manner as to hold the battery securely
+   in place without subjecting it to excessive localized pressure, which may distort or crack
+   the battery case. Apply Par-Al-Ketone, heavy grease, or other comparable protective
+   coating to battery cables terminal nuts/connectors. Ensure that proper torque is applied to
+   the terminal nuts/connectors. Do not over tighten terminal nuts, which may result in
+   fracturing of the terminal posts. Provide adequate clearance between the battery and any
+   bolts or rivets, or both, that may protrude into the battery box or compartment.
+
+   WARNING: When installing or removing a battery, wear safety glasses and take
+   special care to ensure that no sparks are created by tools or loose jewelry that
+   provide a short to ground. Always remove the ground cable first and install it last.
+   If possible, attach the ground cable to the frame of the battery compartment. Do
+   not lift the battery by its vent tubes, receptacles, or terminals.
+
+11.13 Sump Jar. Lead-acid batteries are often installed with a sump jar in the exhaust vent that
+   neutralizes vented acid fumes to protect the airframe from corrosive battery acid. If
+   installed, the sump jar should have a capacity of approximately one pint. The jar should
+   contain a 1/2-inch thick pad saturated with a five-percent solution of sodium bicarbonate
+   (baking soda) in water or about a 3/8 inch of dry sodium bicarbonate. The inlet tube
+   carrying fumes to the sump should extend into the jar about 1 inch from the lid (see
+   Figure 11-2, Typical Battery Installation With Sump Jar).
+
+   11-6
+
+===== PDF PAGE 148 =====
+  7/29/26  AC 43.13-2C
+
+   Figure 11-2. Typical Battery Installation With Sump Jar
+
+ 11.14 Venting. Provide suitable venting to the battery compartment to prevent the
+   accumulation of hydrogen gas expelled during operation.
+
+   Note: Valve-regulated lead-acid batteries can use the same ventilation system as
+   the original nickel-cadmium battery.
+
+11.14.1 Manifold Type. In this type of venting, one or more batteries are connected via the
+   battery manifold(s) or battery box vents to a hose or tube manifold system as shown in
+   Figure 11-3, Battery Ventilation System. Fasten such hoses securely to prevent shifting
+   and maintain adequate bend radii to prevent kinking.
+
+   11.14.1.1 The upstream side of the system is connected to a positive pressure point on
+   the aircraft, and the downstream side is usually discharged overboard to a
+   negative pressure area. It is advisable to install a battery sump jar on the
+   downstream side to neutralize any corrosive vapors that may be discharged.
+
+   11.14.1.2 When selecting these pressure points, select points that will always provide
+   the proper direction of airflow through the manifold system during all normal
+   operating attitudes. Reversals of flow within the vent system should not be
+   permitted when a battery sump jar is installed, as the neutralizing agent in the
+   jar may contaminate the battery’s electrolyte.
+
+   11-7
+
+===== PDF PAGE 149 =====
+  7/29/26  AC 43.13-2C
+
+   Figure 11-3. Battery Ventilation System
+
+11.14.2 Free Airflow Type. Battery cases or boxes that contain louvers may be installed without
+   an individual vent system, provided that:
+
+   •  The compartment in which the battery is installed has sufficient airflow to prevent the
+   accumulation of explosive mixtures of hydrogen;
+   •  Noxious fumes are directed away from occupants; and
+   •  Suitable precautions are taken to prevent corrosive battery fluids or vapors from
+   damaging the surrounding structure, covering, equipment, control cables, wiring, etc.
+
+ 11.15 Drains. Position battery compartment drains so that they do not allow spillage to come in
+   contact with the aircraft during either ground or flight attitudes. Route the drains so they
+   have a positive slope without traps. Drains should be at least a 1/2 inch in diameter to
+   prevent clogging.
+
+ 11.16 Electrical Installation. Electrical equipment, controls, and wiring must be installed so
+   that operations of any one unit or system of units will not adversely affect the
+   simultaneous operation of any other electrical unit or system essential to safe operation.
+   Any electrical interference likely to be present in the airplane must not result in
+   hazardous effects upon the airplane or its systems.
+
+11.16.1 Cables/Connectors. Use cables and/or connectors that are adequately rated for the current
+   demand and are properly installed. Refer to AC 43.13-1, Acceptable Methods,
+   Techniques, and Practices—Aircraft Inspection and Repair, Chapter 11, Aircraft
+
+   11-8
+
+===== PDF PAGE 150 =====
+  7/29/26  AC 43.13-2C
+
+   Electrical Systems. Cable size can also be selected by using the same gage as used on a
+   previously approved production aircraft with the same battery.
+
+   11.16.1.1 The cables should be of sufficient length to prevent undue strain on the battery
+   connector or terminals.
+
+   11.16.1.2 Clamp and protect cables, including the bus, in a secure manner. Since the
+   batteries are not generally fused, any fault in the battery feeder cable could
+   cause loss of the battery electrical system in addition to a possible fire hazard.
+
+   11.16.1.3 Route cables so that cable or terminals cannot short to the battery case or to
+   the hold-down frame.
+
+   11.16.1.4 Route cables outside the battery box whenever practicable to prevent
+   corrosion by acid fumes. When internal routing is unavoidable, protect the
+   cable inside the box with acid-proof tubing.
+
+   11.16.1.5 Ensure that cables will not be inadvertently reversed on the battery terminals
+   either by proper cable lengths and clamps or, if this is not practical, use
+   conspicuous color coding.
+
+11.16.2 Cable Installation. Cable installation must be designed and installed as follows:
+
+   11.16.2.1 Means of permanent identification must be provided for electrical cables,
+   connectors, and terminals. Refer to AC 43.13-1, Chapter 11, Section 16, Wire
+   Marking.
+
+   11.16.2.2 Electrical cables must be installed and secured so that the risk of mechanical
+   damage and/or damage caused by fluids, vapors, or sources of heat is
+   minimized.
+
+11.16.3 Lead-Acid Batteries. When installing lead-acid batteries in place of nickel-cadmium
+   batteries, some airframes require deactivation or removal of the temperature monitoring
+   systems. Generally, this alteration requires an Aircraft Flight Manual Supplement
+   (AFMS) to override the emergency procedures regarding battery overheating.
+
+   Note: FAA field approval or STC is required for this kind of alteration.
+
+11.16.4 Battery Cutoff. Install a battery cutoff relay to provide a means of isolating the battery
+   from the aircraft’s electrical system. An acceptable battery cutoff circuit is shown in
+   Figure 11-4, Typical Battery Cutoff and Generator Alternator Control Circuit. Mount the
+   relay so that the cable connecting the relay to the battery is as short as feasible to reduce
+   the possibility of a fire occurring because of a short within this section of cable.
+
+   11-9
+
+===== PDF PAGE 151 =====
+7/29/26  AC 43.13-2C
+
+   Figure 11-4. Typical Battery Cutoff and Generator Alternator Control Circuit
+
+11.17 Quick Disconnect. Look for and replace the terminal pins when:
+
+   •  Excessive pitting or corrosion cannot be removed.
+   •  Signs of burning or arcing.
+   •  Cracked part or housing.
+   •  Excessive wear on contact pins, socket lock pins, or a worm screw.
+   •  Large deposits form on contacts, or plastic is discolored.
+   •  Excessively loose handle and locking assembly.
+
+   Note: Most manufacturers sell or provide dimensions for tools to check the fit of
+   the quick disconnect sockets.
+
+11.18 Weight and Balance (W&B). After installation or alteration with the replacement
+   battery, the W&B of the aircraft should be recomputed if:
+
+   •  The weight of the replacement battery is different from that of the original battery.
+   •  The location of the battery is different from that of the original battery.
+
+   Note: W&B procedures for aircraft are contained in AC 43.13-1, Chapter 10,
+   Weight and Balance.
+
+   11-10
+
+===== PDF PAGE 152 =====
+  7/29/26  AC 43.13-2C
+
+   Section 3. Nickel-Cadmium Battery Installations
+
+ 11.19 General. Nickel-cadmium batteries fulfill a need for a power source that will provide
+   large amounts of current, fast recharge capability, and a high degree of reliability.
+   Nickel-cadmium batteries produce a constant voltage and can operate at lower
+   temperatures. They are generally more expensive to purchase.
+
+ 11.20 Electrical Analysis. The ampere-hour capacity of a nickel-cadmium battery is selected to
+   accommodate the aircraft load requirements. When making this selection, the following
+   items should be considered:
+
+11.20.1 The low internal resistance permits it to recharge very quickly. This high recharge rate
+   can exceed the generator rated capacity and deprive essential circuits of necessary
+   operating current. Total system load (battery recharging plus system loads) must not
+   exceed the pre-established electrical capacity of the generator system.
+
+11.20.2 Compare the discharge characteristics curves of the batteries to make sure a reduced
+   capacity nickel-cadmium battery is adequate regarding the following:
+
+   11.20.2.1 Ability to provide engine starting or cranking requirements. Some turbine
+   engines require an initial surge of approximately 1,200 amperes, which tapers
+   off within 10 seconds to approximately 800 amperes cranking current.
+   Reciprocating engines require approximately 100 to 200 amperes cranking
+   current.
+
+   11.20.2.2 Ability to provide sufficient capacity for low temperature starting.
+   Nickel-cadmium batteries deliver their rated capacity when the ambient
+   temperature range is 70 °F to 90 °F. For best engine cranking, replacement
+   batteries with increased capacity will offset the lower power or reduced
+   capacity available when the batteries are cold soaked.
+
+   11.20.2.3 Some nickel-cadmium batteries deliver greater power at temperature extremes
+   than comparably rated lead-acid batteries; take care not to overload the cables
+   and connectors.
+
+ 11.21 Maintenance Considerations. To provide for ease of inspection and because
+   nickel-cadmium batteries are generally not serviced in the aircraft, it is important that the
+   battery be located where it can easily be inspected, removed, and installed. Some battery
+   cases are designed with view ports on each side of the case for visual monitoring of the
+   cell electrolyte level. If this type of case is to be used, carefully consider the location of
+   the battery compartment to accommodate this feature.
+
+ 11.22 Structural Requirements. Most lead-acid battery compartments provide adequate
+   structure attachment for the installation of nickel-cadmium batteries. However,
+   cantilever-supported battery boxes/compartments may not be suitable for nickel-cadmium
+   battery installations unless modified to compensate for an increased over-hang moment.
+   This may be caused by a change in battery shape and center of gravity (CG) location even
+   though the replacement battery may weigh less than the original lead-acid battery.
+
+   11-11
+
+===== PDF PAGE 153 =====
+  7/29/26  AC 43.13-2C
+
+   Whenever the total installation weight and/or the overhang moment exceed those of the
+   original installation, perform a static test as outlined in Chapter 2. If the battery
+   compartment is to be relocated, follow the location requirement procedures outlined in
+   paragraph 11.4.
+
+ 11.23 Isolation of Battery Case. Because of the material from which nickel-cadmium battery
+   cases are generally made (stainless or epoxy-coated steel), it is desirable to electrically
+   isolate the case from the aircraft structure. This will eliminate the potential discharge
+   current produced when spillage or seepage of the electrolyte provides a current path
+   between the cell terminal or connector and the exposed metal of the battery case.
+
+   Note: Epoxy-coated nickel-cadmium battery cases serve to isolate the battery
+   from the airframe thus eliminating electrical leakage to ground. Some batteries
+   use a series of liners that are inside the battery. This isolates the battery from the
+   airframe and helps eliminate electrical leakage to the ground.
+
+ 11.24 Ventilation. During the charging process, nickel-cadmium batteries produce hydrogen
+   and oxygen gases. This occurs near the end of the charging cycle when the battery
+   reaches what is called the gassing potential. To avoid a buildup of these gases, and
+   possible accidental ignition, ventilation should be provided to evacuate this gas from the
+   aircraft. There are two types of nickel-cadmium battery cases: one with vent nozzles and
+   one with viewports.
+
+11.24.1 The vent nozzle type utilizes vent hoses to evacuate the gas overboard by use of forced
+   air or by venturi effect.
+
+11.24.2 Battery cases with viewports or louvers must have airflow sufficient to keep the mixture
+   of air and hydrogen below four percent. The gases from this type of case are evacuated
+   into the battery compartment. Regardless of the ventilation system used, the airflow
+   should be provided at a minimum rate of 0.040 cubic feet per minute (CFM); this equates
+   to 1.13 liters per minute (LPM).
+
+ 11.25 Preinstallation Requirements. Inspect the replacement battery for possible damage
+   incurred during shipment or storage. Give particular attention to signs of spilled liquid
+   within the shipping container, as it may indicate a damaged cell. Follow procedures
+   outlined in Section 2, Lead-Acid Battery Installations, for battery venting and electrical
+   connections.
+
+11.25.1 Preinstallation Battery Servicing. Check the following in accordance with the battery
+   manufacturer’s instructions:
+
+   1. Remove the shipping plugs (if used) and clean and install the filler cap vent plugs.
+   2. Check the tightness of terminal hardware, including each cell connector strap to the
+   proper torque values.
+
+   11-12
+
+===== PDF PAGE 154 =====
+  7/29/26  AC 43.13-2C
+
+   3. Check the polarity of each cell to be sure they are connected in the proper series or
+   sequence.
+   4. Prepare the battery for installation in accordance with the manufacturer’s
+   requirements.
+
+11.25.2 Compartment Cleansing. Compartments or battery boxes that have previously housed
+   lead-acid batteries must be washed out, neutralized with ammonia or a baking soda
+   solution, allowed to dry thoroughly, and painted with alkaline-resistant paint. Remove all
+   traces of sulfuric acid and its corrosive products from the battery vent system to prevent
+   contamination of the potassium hydroxide electrolyte and/or possible damage to the
+   battery case material. Replace those parts of the vent system that cannot be thoroughly
+   cleansed (hoses, etc.).
+
+ 11.26 Nickel-Cadmium Battery Installation. Each installation must have provisions to
+   prevent any hazardous effects on structure or essential systems that may be caused by the
+   maximum amount of heat the battery can generate during a short-circuit of the battery or
+   individual cells.
+
+11.26.1 Nickel-cadmium battery installations must have:
+
+   •  A system to control the charging rate of the battery automatically to prevent battery
+   overheating;
+   •  A battery temperature sensing and over-temperature warning system with a means for
+   disconnecting the battery from its charging source in the event of an over-temperature
+   condition; or
+   •  A battery failure sensing and warning system with a means for disconnecting the
+   battery from its charging source in the event of battery failure.
+
+11.26.2 In the event of a complete loss of the primary electrical power generating system, the
+   battery must be capable of providing at least 30 minutes of electrical power to those loads
+   that are essential to continue safe flights and landing. The 30-minute time period includes
+   the time needed for the pilots to recognize the loss of generated power and take
+   appropriate load-shedding action.
+
+ 11.27 Securing the Battery. Follow the procedures outlined in Section 1, General. Make
+   certain that the hold-down bolts are not drawn up too tightly. Ensure that the
+   case-to-cover seal is installed so that the battery case/cover does not become distorted.
+
+   CAUTION: In installations where care has been taken to isolate the battery cases,
+   inadvertent grounding may occur through improper or careless use of safety wire.
+
+ 11.28 Quick Disconnect. Look for and replace the terminal pins when:
+
+   •  Excessive pitting or corrosion that cannot be removed.
+   •  Signs of burning or arcing.
+
+   11-13
+
+===== PDF PAGE 155 =====
+7/29/26  AC 43.13-2C
+
+   •  Cracked part or housing.
+   •  Excessive wear on contact pins, socket lock pins, or a worm screw.
+   •  Large deposits form on contacts, or plastic is discolored.
+   •  Excessively loose handle and locking assembly.
+
+   Note: Most manufacturers sell or provide dimensions for tools to check the fit of
+   the quick-disconnect sockets.
+
+11.29 Voltage and Current Regulation. It is essential that the charging voltage and current be
+   checked and, if necessary, the voltage regulator reset to meet the requirements of the
+   nickel-cadmium battery being installed.
+
+   IMPORTANT: Improper charging current or voltage can destroy a battery in a
+   short period of time.
+
+11.30 Weight and Balance (W&B). After installation of the nickel-cadmium battery, the
+   W&B of the aircraft should be recomputed if:
+
+   •  The weight of the nickel-cadmium battery is different from that of the original
+   battery.
+   •  The location of the nickel-cadmium battery is different from that of the original
+   battery.
+
+   Note: W&B procedures for aircraft are contained in AC 43.13-1, Chapter 10.
+
+   11-14
+
+===== PDF PAGE 156 =====
+  7/29/26  AC 43.13-2C
+
+   Section 4. Battery Installation Checklist
+
+ 11.31 Structural Requirements.
+
+11.31.1 Determine if the battery is installed in such a manner that it can withstand the required
+   loads. The effect on other structures (primary or secondary) should be considered.
+
+11.31.2 Determine whether suitable materials are used in the construction, including standard
+   fasteners, and confirm that the method of fabrication will result in a consistently sound
+   structure.
+
+11.31.3 If a mounting bracket is used, determine if the method used in its fabrication will produce
+   a consistently sound structure.
+
+11.31.4 If the equipment is mounted either on the existing structure or on a bracket attached to the
+   existing structure, confirm whether all of the structure (including the bracket, if used) is
+   adequate to support the required loads. This answer can be determined by either of two
+   methods:
+
+   11.31.4.1 By direct comparison with an existing approved installation having the same
+   or similar (approximately the same weight and size) equipment installed.
+
+   11.31.4.2 By structural analysis or static test. Such installations do not lend themselves
+   readily to analysis, but are normally adaptable to a static test. In conducting a
+   static test, the following procedure may be used:
+
+   1. Determine the weight and CG position of the equipment item.
+   2. Mount the equipment in its position in the airplane or simulate the
+   equipment with a dummy so that the required loads can be applied at the
+   CG position of the actual equipment.
+   3. The required loads should then be applied by any suitable means. If the
+   equipment is light in weight, the inspector could use their own strength
+   and/or weight to determine if the installation will withstand the required
+   loads.
+
+   Note: All items of mass likely to injure the passengers or crew in a
+   minor crash landing should have their supporting structure designed to
+   the crash load requirements of 14 CFR § 23.561, insofar as the
+   forward, upward, and sideward directions are concerned. The
+   applicable downward load factor shall be the critical flight or landing
+   load factor specified in 14 CFR §§ 23.341 and 23.473, whichever is
+   greater.
+
+   4. In lieu of a calculated determination of the down load factor, the ultimate
+   factors of 6.6, 6.6, and 9.0 may be used for the normal, utility, and
+   acrobatic categories, respectively. For equipment location not covered by
+   14 CFR § 23.561, the required loads (refer to 14 CFR § 23.301) are the
+
+   11-15
+
+===== PDF PAGE 157 =====
+  7/29/26  AC 43.13-2C
+
+   flight and landing load factors of 14 CFR §§ 23.337, 23.341, and 23.473.
+   In lieu of a calculated determination of these loads, the down load factors
+   referenced above may be used.
+   5. Supporting structure of other mass items should be designed to the critical
+   flight or landing load factors of 14 CFR § 23.321, § 23.471, § 27.321, or
+   § 27.471. The values shown in 14 CFR § 23.561 or § 27.561 may be used
+   in lieu of determination of these values.
+
+11.31.5 Determine if the equipment is installed so that it does not adversely affect another
+   structure (either primary or secondary).
+
+11.31.6 Confirm whether means are provided to permit proper inspections of the installation and
+   related adjacent parts as components.
+
+ 11.32 Hazards to the Aircraft and its Occupants.
+
+   1. Confirm whether the parts of the airplane adjacent to the battery are protected against
+   corrosion from any products likely to be emitted by the battery during servicing or
+   flight.
+
+   Note: Methods that may be used to obtain protection include acid-proof paint that
+   will resist corrosive action by emitted electrolyte, drain to discharge corrosive
+   liquids clear of the aircraft, positive pressure vents to carry corrosive fumes and
+   flammable gases outside the aircraft, enclosed battery cases that would contain
+   any amount of electrolyte that might be spilled, or a combination of these
+   methods.
+
+   2. Determine whether the battery container or compartment is vented in such a manner
+   that any explosive gases released by the battery during charging or discharging are
+   carried outside the airplane.
+   3. Confirm that the battery container or compartment is vented in such a manner that
+   any noxious gases emitted by the battery are directed away from the crew and
+   passengers.
+   4. Verify whether the battery connector terminals or other exposed parts are protected
+   against electrical contact with the battery container or compartment.
+   5. Determine if adequate provision is made for the drainage of spilled or excess battery
+   fluid.
+
+ 11.33 Operating Aspects. If a battery is the only source of electrical power, determine if the
+   battery has sufficient capacity to supply the electrical power necessary for dependable
+   operation of all electrical equipment essential to the safe operation of the airplane.
+
+ 11.34 Detail Design Standards. Verify that the battery is accessible for inspection or servicing
+   on the ground.
+
+   11-16
+
+===== PDF PAGE 158 =====
+7/29/26  AC 43.13-2C
+
+11.35 Recordkeeping.
+
+   1. Confirm that a maintenance record entry has been made.
+   2. Determine if the equipment list and W&B has been revised.
+
+   11-17
+
+===== PDF PAGE 159 =====
+  7/29/26  AC 43.13-2C
+
+   Section 5. Instructions for Continued Airworthiness
+
+ 11.36 Lead-Acid Batteries.
+
+11.36.1 Airworthiness Limitations.
+
+   11.36.1.1 Battery Inspection. To ensure continued airworthiness, the battery should be
+   removed and the capacity tested. Follow the battery manufacturer’s
+   recommended instructions for continued airworthiness (ICA) to determine
+   service periods.
+
+   11.36.1.2 Connector/Wiring Inspection. Check for mechanical integrity, resiliency,
+   pitted or corroded mating surfaces, burn marks, condition, and type of wiring.
+
+   11.36.1.3 Electrolyte Levels. Electrolyte levels must be maintained just over the plates
+   at all times. Replenish consumed water with distilled or demineralized water.
+
+   11.36.1.4 Sump Jar Maintenance. Inspect the electrolyte levels and the sump jar every
+   100 flight-hours.
+
+11.36.2 Capacity Test. The capacity test should be performed as follows:
+
+   1. Check for proper battery installation per the STC or the manufacturer’s ICA when
+   performing annual and 100-hour inspections and when replacing the battery after a
+   capacity test.
+   2. Stabilize the battery at 15 °C (59 °F) or higher for at least 24 hours.
+   3. Remove the battery from the aircraft and charge it according to the recommended
+   charging instructions. Allow the battery to stand on an open circuit for 1 hour.
+   4. Connect the fully charged battery to a capacity tester that incorporates a load
+   resistance, ammeter, voltmeter, and a timer.
+   5. Discharge the battery at the C1 rate to 1.75 volts per cell (10 volts for a
+   12-volt battery and 20 volts for a 24-volt battery). Note the discharge time.
+   6. The battery is considered airworthy if it meets 80 percent of its C1 (1 hour) capacity
+   rating. However, it is recommended to return batteries to service when their capacity
+   is above the minimum (i.e., 85 percent minimum or 51 minutes to end point voltage).
+   7. If the battery fails to meet the minimum runtime, continue using the constant current
+   C1 method in the manufacturer’s ICA. Allow the battery to stand on an open circuit
+   for 1 hour.
+   8. Repeat the discharge test as indicated. If the failure persists, replace the battery.
+   9. If the battery is found to be airworthy, it must be recharged with constant potential
+   (CP) prior to reinstalling it in the aircraft.
+
+   11-18
+
+===== PDF PAGE 160 =====
+  7/29/26  AC 43.13-2C
+
+ 11.37 Nickel-Cadmium Batteries.
+
+11.37.1 Airworthiness Limitations. To ensure continued airworthiness, the battery should be
+   removed and inspected per the manufacturer’s recommendations.
+
+   11.37.1.1 Connector/Wiring Inspection. Check for mechanical integrity, resiliency,
+   pitted or corroded mating surfaces, burn marks, condition, and type of wiring.
+
+   11.37.1.2 Voltage Regulator. Periodic checks to correct out-of-tolerance regulators and
+   replacement of defective units will reduce the possibility of inadvertent
+   increases in charging voltage with the resultant rise in charge current and
+   battery temperature and water consumption.
+
+   11.37.1.3 Battery. Inspect the can and cover for dents, damage, epoxy coating
+   separation, vent tube obstruction, latch function, and cover seal condition.
+   Remove the battery cover and clean the top of the cells and connectors with a
+   nylon brush. Verify torque on every intercell connection. If disassembly is
+   required, discharge the battery first.
+
+   11.37.1.4 Electrolyte Levels. Electrolyte levels should be adjusted during the last
+   15 minutes of the topping charge and while the current is still flowing because
+   the cells are at their most uniform electrolyte level at this time. Replenish
+   electrolyte levels with distilled, deionized, or demineralized water only. Refer
+   to the component maintenance manual for the syringe/nozzle specifications to
+   ensure that the proper nozzle and syringe assembly are used to level the cells.
+   Using the incorrect nozzle may impact battery serviceability and longevity.
+
+   11.37.1.5 Electrical Leakage. Determine if external leakage is of such a magnitude that
+   a complete battery cleaning is required. Follow the manufacturer’s
+   recommended procedures.
+
+   11.37.1.6 Sensor Assembly. Inspect the battery for proper placement of thermostats,
+   heaters, thermistors, or other sensor elements. Inspect wiring and receptacle
+   for insulation damage, corrosion, and crimping or other defects. If the
+   sensor/harness assembly fails testing or is damaged, it must be replaced.
+   Perform a functional test on the temperature sensor assembly at least once
+   each calendar year.
+
+11.37.2 Capacity Test. The capacity test must be performed in accordance with the
+   manufacturer’s recommendations.
+
+   11-19
+

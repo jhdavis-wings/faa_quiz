@@ -1,0 +1,1115 @@
+AC 43.13-1B Chg 1, chapter 5 (Nondestructive Inspection (Ndi)), PDF pages 248-275
+
+===== PDF PAGE 248 =====
+9/8/98  AC 43.13-1B
+
+   CHAPTER 5. NONDESTRUCTIVE INSPECTION (NDI)
+
+   SECTION 1. GENERAL
+
+5-1.  GENERAL.
+
+   a. The field of NDI is too varied to be covered in detail in this advisory circular (AC). This
+chapter provides a brief description of the various Nondestructive Testing (NDT) used for
+inspection of aircraft, powerplant, and components in aircraft inspection. The effectiveness of
+any particular method of NDI depends upon the skill, experience, and training of the person(s)
+performing the inspection process. Each process is limited in its usefulness by its adaptability to
+the particular component to be inspected. Consult the aircraft or product manufacturer’s manuals
+for specific instructions regarding NDI of their products.
+
+   b. The product manufacturer or the Federal Aviation Administration (FAA) generally
+specifies the particular NDI method and procedure to be used in inspection. These NDI
+requirements will be specified in the manufacturer’s inspection, maintenance, or overhaul
+manual; FAA Airworthiness Directives (AD); Supplemental Structural Inspection Documents
+(SSID); or manufacturer’s Service Bulletins (SB). However, in some conditions an alternate NDI
+method and procedure can be used. This includes procedures and data developed by FAA
+certificated repair stations under Title 14 of the Code of Federal Regulations (14 CFR), part 145.
+
+5-2. APPROVED PROCEDURES. Title 14 CFR part 43 requires that all maintenance be
+performed using methods, techniques, and practices prescribed in the current manufacturer’s
+maintenance manual or instructions for continued airworthiness prepared by its manufacturer, or
+other methods, techniques, and practices acceptable to the administrator. If the maintenance
+instructions include materials, parts, tools, equipment, or test apparatus necessary to comply with
+industry practices then those items are required to be available and used as per part 43.
+
+5-3. NDT LEVELS. Refer to Air Transport Association (ATA) Specification 105, Guidelines
+for Training and Qualifying Personnel In Nondestructive Testing Methods.
+
+   a. Level I Special. Initial classroom hours and on-the-job training shall be sufficient to
+qualify an individual for certification for a specific task. The individual must be able to pass a
+vision and color perception examination, a general exam dealing with standards and NDT
+procedures, and a practical exam conducted by a qualified Level II or Level III certificated
+person.
+
+   b. Level I/Level II. The individual shall have an FAA Airframe and Powerplant Mechanic
+Certificate, complete the required number of formal classroom hours, and complete an
+examination.
+
+   c. Level III.
+
+   (1) The individual must have graduated from a 4-year college or university with a
+degree in engineering or science, plus 1 year of minimum experience in NDT in an assignment
+comparable to that of a Level II in the applicable NDT methods: or
+
+Par 5-1  Page 5-1
+
+===== PDF PAGE 249 =====
+9/8/98  AC 43.13-1B
+
+   (2) The individual must have 2 years of engineering or science study at a university,
+college, or technical school, plus 2 years of experience as a Level II in the applicable NDT
+methods: or
+
+   (3) The individual must have 4 years of experience working as a Level II in the
+applicable NDT methods and complete an examination.
+
+5-4. TRAINING, QUALIFICATION, AND CERTIFICATION. The success of any NDI
+method and procedure depends upon the knowledge, skill, and experience of the NDI personnel
+involved. The person(s) responsible for detecting and interpreting indications, such as eddy
+current, X-ray, or ultrasonic NDI, must be qualified and certified to specific FAA, or other
+acceptable government or industry standards, such as MIL-STD-410, Nondestructive Testing
+Personnel Qualification and Certification, or ATA Specification 105. The person should be
+familiar with the test method, know the potential types of discontinuities peculiar to the material,
+and be familiar with their effect on the structural integrity of the part.
+
+5-5. FLAWS. Although a specific discussion of flaws and processes will not be given in this
+AC, the importance of this area should not be minimized. Inspection personnel should know
+where flaws occur or can be expected to exist and what effect they can have in each of the NDI
+test methods. Misinterpretation and/or improper evaluation of flaws or improper performance of
+NDI can result in serviceable parts being rejected and defective parts being accepted. All NDI
+personnel should be familiar with the detection of flaws such as: corrosion, inherent flaws,
+primary processing flaws, secondary processing or finishing flaws, and in-service flaws. The
+following paragraphs classify and discuss the types of flaws or anomalies that may be detected
+by NDI.
+
+   a. Corrosion. This is the electrochemical deterioration of a metal resulting from chemical
+reaction with the surrounding environment. Corrosion is very common and can be an extremely
+critical defect. Therefore, NDI personnel may devote a significant amount of their inspection
+time to corrosion detection.
+
+   b. Inherent Flaws. This group of flaws is present in metal as the result of its initial
+solidification from the molten state, before any of the operations to forge or roll it into useful
+sizes and shapes have begun. The following are brief descriptions of some inherent flaws.
+
+   (1) Primary pipe is a shrinkage cavity that forms at the top of an ingot during metal
+solidification, which can extend deep into the ingot. Failure to cut away all of the ingot shrinkage
+cavity can result in unsound metal, called pipe, that shows up as irregular voids in finished
+products.
+
+   (2) Blowholes are secondary pipe holes in metal that can occur when gas bubbles are
+trapped as the molten metal in an ingot mold solidifies. Many of these blowholes are clean on the
+interior and are welded shut into sound metal during the first rolling or forging of the ingot.
+However, some do not weld and can appear as seams or laminations in finished products.
+
+   (3) Segregation is a nonuniform distribution of various chemical constituents that can
+occur in a metal when an ingot or casting solidifies. Segregation can occur anywhere in the metal
+
+Par 5-3  Page 5-2
+
+===== PDF PAGE 250 =====
+9/8/98  AC 43.13-1B
+
+and is normally irregular in shape. However, there is a tendency for some constituents in the
+metal to concentrate in the liquid that solidifies last.
+
+   (4) Porosity is holes in a material’s surface or scattered throughout the material, caused
+by gases being liberated and trapped as the material solidifies.
+
+   (5) Inclusions are impurities, such as slag, oxides, sulfides, etc., that occur in ingots and
+castings. Inclusions are commonly caused by incomplete refining of the metal ore or the
+incomplete mixing of deoxidizing materials added to the molten metal in the furnace.
+
+   (6) Shrinkage cracks can occur in castings due to stresses caused by the metal
+contracting as it cools and solidifies.
+
+   c. Primary Processing Flaws. Flaws which occur while working the metal down by hot
+or cold deformation into useful shapes such as bars, rods, wires, and forged shapes are primary
+processing flaws. Casting and welding are also considered primary processes although they
+involve molten metal, since they result in a semi-finished product. The following are brief
+descriptions of some primary processing flaws:
+
+   (1) Seams are surface flaws, generally long, straight, and parallel to the longitudinal
+axis of the material, which can originate from ingot blowholes and cracks, or be introduced by
+drawing or rolling processes.
+
+   (2) Laminations are formed in rolled plate, sheet, or strip when blowholes or internal
+fissures are not welded tight during the rolling process and are enlarged and flattened into areas
+of horizontal discontinuities.
+
+   (3) Cupping is a series of internal metal ruptures created when the interior metal does
+not flow as rapidly as the surface metal during drawing or extruding processes. Segregation in
+the center of a bar usually contributes to the occurrence.
+
+   (4) Cooling cracks can occur in casting due to stresses resulting from cooling, and are
+often associated with changes in cross sections of the part. Cooling cracks can also occur when
+alloy and tool steel bars are rolled and subsequently cooled. Also, stresses can occur from
+uneven cooling which can be severe enough to crack the bars. Such cracks are generally
+longitudinal, but not necessarily straight. They can be quite long, and usually vary in depth along
+their length.
+
+   (5) Flakes are internal ruptures that can occur in metal as a result of cooling too rapidly.
+Flaking generally occurs deep in a heavy section of metal. Certain alloys are more susceptible to
+flaking than others.
+
+   (6) Forging laps are the result of metal being folded over and forced into the surface,
+but not welded to form a single piece. They can be caused by faulty dies, oversized dies,
+oversized blanks, or improper handling of the metal in the die. They can occur on any area of the
+forging.
+
+Par 5-5  Page 5-3
+
+===== PDF PAGE 251 =====
+9/8/98  AC 43.13-1B
+
+   (7) Forging bursts are internal or external ruptures that occur when forging operations
+are started before the material to be forged reaches the proper temperature throughout. Hotter
+sections of the forging blank tend to flow around the colder sections causing internal bursts or
+cracks on the surface. Too rapid or too severe a reduction in a section can also cause forging
+bursts or cracks.
+
+   (8) A hot tear is a pulling apart of the metal that can occur in castings when the metal
+contracts as it solidifies.
+
+   (9) A cold shut is a failure of metal to fuse. It can occur in castings when part of the
+metal being poured into the mold cools and does not fuse with the rest of the metal into a solid
+piece.
+
+   (10) Incomplete weld penetration is a failure of the weld metal to penetrate completely
+through a joint before solidifying.
+
+   (11) Incomplete weld fusion occurs in welds where the temperature has not been high
+enough to melt the parent metal adjacent to the weld.
+
+   (12) Weld undercutting is a decrease in the thickness of the parent material at the toe of
+the weld caused by welding at too high a temperature.
+
+   (13) Cracks in the weld metal can be caused by the contraction of a thin section of the
+metal cooling faster than a heavier section or by incorrect heat or type of filler rod. They are one
+of the more common types of flaws found in welds.
+
+   (14) Weld crater cracks are star shaped cracks that can occur at the end of a weld run.
+
+   (15) Cracks in the weld heat-affected zone can occur because of stress induced in the
+material adjacent to the weld by its expansion and contraction from thermal changes.
+
+   (16) A slag inclusion is a nonmetallic solid material that becomes trapped in the weld
+metal or between the weld metal and the base metal.
+
+   (17) Scale is an oxide formed on metal by the chemical action of the surface metal with
+oxygen from the air.
+
+   d. Secondary Processing or Finishing Flaws. This category includes those flaws
+associated with the various finishing operations, after the part has been rough-formed by rolling,
+forging, casting or welding. Flaws may be introduced by heat treating, grinding, and similar
+processes. The following are brief descriptions of some secondary processing or finishing flaws.
+
+   (1) Machining tears can occur when working a part with a dull cutting tool or by cutting
+to a depth that is too great for the material being worked. The metal does not break away clean,
+and the tool leaves a rough, torn surface which contains numerous short discontinuities that can
+be classified as cracks.
+
+Par 5-5  Page 5-4
+
+===== PDF PAGE 252 =====
+9/8/98  AC 43.13-1B
+
+   (2) Heat treating cracks are caused by stresses setup by unequal heating or cooling of
+portions of a part during heat treating operations. Generally, they occur where a part has a
+sudden change of section that could cause an uneven cooling rate, or at fillets and notches that
+act as stress concentration points.
+
+   (3) Grinding cracks are thermal type cracks similar to heat treating cracks and can occur
+when hardened surfaces are ground. The overheating created by the grinding can be caused by
+the wheel becoming glazed so that it rubs instead of cutting the surface; by using too little
+coolant; by making too heavy a cut; or by feeding the material too rapidly. Generally, the cracks
+are at right angles to the direction of grinding and in severe cases a complete network of cracks
+can appear. Grinding cracks are usually shallow and very sharp at their roots, which makes them
+potential sources of fatigue failure.
+
+   (4) Etching cracks can occur when hardened surfaces containing internal residual
+stresses are etched in acid.
+
+   (5) Plating cracks can occur when hardened surfaces are electroplated. Generally, they
+are found in areas where high residual stresses remain from some previous operation involving
+the part.
+
+   e. In-Service Flaws. These flaws are formed after all fabrication has been completed and
+the aircraft, engine, or related component has gone into service. These flaws are attributable to
+aging effects caused by either time, flight cycles, service operating conditions, or combinations
+of these effects. The following are brief descriptions of some in-service flaws.
+
+   (1) Stress corrosion cracks can develop on the surface of parts that are under tension
+stress in service and are also exposed to a corrosive environment, such as the inside of wing
+skins, sump areas, and areas between two metal parts of faying surfaces.
+
+   (2) Overstress cracks can occur when a part is stressed beyond the level for which it
+was designed. Such overstressing can occur as the result of a hard landing, turbulence, accident,
+or related damage due to some unusual or emergency condition not anticipated by the designer,
+or because of the failure of some related structural member.
+
+   (3) Fatigue cracks can occur in parts that have been subjected to repeated or changing
+loads while in service, such as riveted lap joints in aircraft fuselages. The crack usually starts at a
+highly stressed area and propagates through the section until failure occurs. A fatigue crack will
+start more readily where the design or surface condition provides a point of stress concentration.
+Common stress concentration points are fillets; sharp radii; or poor surface finish, seams, or
+grinding cracks.
+
+   (4) Unbonds, or disbonds, are flaws where adhesive attaches to only one surface in an
+adhesive-bonded assembly. They can be the result of crushed, broken, or corroded cores in
+adhesive-bonded structures. Areas of unbonds have no strength and place additional stress on the
+surrounding areas making failure more likely.
+
+Par 5-5  Page 5-5
+
+===== PDF PAGE 253 =====
+9/8/98  AC 43.13-1B
+
+   (5) Delamination is the term used to define the separation of composite material layers
+within a monolithic structure. Ultrasonic is the primary method used for the detection of
+delamination in composite structures.
+
+5-6. SELECTING THE NDI METHOD. The NDI method and procedure to be used for any
+specific part or component will generally be specified in the aircraft or component
+manufacturer’s maintenance or overhaul manuals, SSIDs, SBs, or in Ads.
+
+   NOTE: Some Ads refer to SBs which may, in turn, refer to manufacturer’s
+   overhaul or maintenance manuals.
+
+   a. Appropriate Method. The appropriate NDI method may consist of several separate
+inspections. An initial inspection may indicate the presence of a possible flaw, but other
+inspections may be required to confirm the original indication. Making the correct NDI method
+selection requires an understanding of the basic principles, limitations, and advantages and
+disadvantages of the available NDI methods and an understanding of their comparative
+effectiveness and cost.
+
+   b. Other Factors. Other factors affecting the inspection are:
+
+   •  The critical nature of the component;
+   •  The material, size, shape, and weight of the part;
+   •  The type of defect sought;
+   •  Maximum acceptable defect limits in size and distribution;
+   •  Possible locations and orientations of defects;
+   •  Part accessibility or portability; and
+   •  The number of parts to be inspected.
+
+   c. Degree of Inspection. The degree of inspection sensitivity required is an important
+factor in selecting the NDI method. Critical parts that cannot withstand small defects and could
+cause catastrophic failure require the use of the more sensitive NDI methods. Less critical parts
+and general hardware generally require less-sensitive NDI methods.
+
+   d. Material Safety Data Sheets (MSDS). The various materials used in NDI may contain
+chemicals, if improperly used, can be hazardous to the health and safety of operators and the
+safety of the environment, aircraft, and engines. Information on safe handling of materials is
+provided in MSDS. MSDS, conforming to Title 29 of the Code of Federal Regulations (29 CFR)
+part 1910, § 1200, or its equivalent, must be provided by the material supplier to any user and
+must be prepared according to Federal Standard (FED-STD)-313.
+
+   e. Advantages and Disadvantages. Table 5-1 provides a list of the advantages and
+disadvantages of common NDI methods. Table 5-1, in conjunction with other information in the
+AC, may be used as a guide for evaluating the most appropriate NDI method when the
+manufacturer or the FAA has not specified a particular NDI method to be used.
+
+Par 5-5  Page 5-6
+
+===== PDF PAGE 254 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 5-1. ADVANTAGES AND DISADVANTAGES OF NDI METHODS
+
+   METHOD  ADVANTAGES  DISADVANTAGES
+ VISUAL  Inexpensive  Surface discontinuities only
+   Highly portable  Generally only large
+   Immediate results  discontinuities
+   Minimum training  Misinterpretation of scratches
+   Minimum part preparation
+ DYE PENETRANT  Portable  Locate surface defects only
+   Inexpensive  Rough or porous surfaces
+   Sensitive to very small  interfere with test
+   discontinuities  Part preparation required
+   30 min. or less to accomplish  (removal of finishes and sealant,
+   Minimum skill required  etc.)
+   High degree of cleanliness
+   required
+   Direct visual detection of results
+   required
+ MAGNETIC PARTICLE  Can be portable  Surface must be accessible
+   Inexpensive  Rough surfaces interfere with
+   Sensitive to small discontinuities  test
+   Immediate results  Part preparation required
+   Moderate skill required  (removal of finishes and sealant,
+   Detects surface and subsurface  etc.)
+   discontinuities  Semi-directional requiring
+   Relatively fast  general orientation of field to
+   discontinuity
+   Ferromagnetic materials only
+   Part must be demagnetized after
+   test.
+ EDDY CURRENT  Portable  Surface must be accessible to
+   Detects surface and subsurface  probe
+   discontinuities  Rough surfaces interfere with
+   Moderate speed  test
+   Immediate results  Electrically conductive materials
+   Sensitive to small discontinuities  Skill and training required
+   Thickness sensitive  Time consuming for large areas
+   Can detect many variables
+ ULTRASONIC  Portable  Surface must be accessible to
+   Inexpensive  probe
+   Sensitive to very small  Rough surfaces interfere with
+   discontinuities  test
+   Immediate results  Highly sensitive to sound beam
+   Little part preparation  discontinuity orientation
+   Wide range of materials and  High degree of skill required to
+   thickness can be inspected  set up and interpret
+   Couplant usually required
+
+Par 5-6  Page 5-7
+
+===== PDF PAGE 255 =====
+9/8/98  AC 43.13-1B
+
+ X-RAY RADIOGRAPHY  Detects surface and internal  Safety hazard
+   flaws  Very expensive (slow process)
+   Can inspect hidden areas  Highly directional, sensitive to
+   Permanent test record obtained  flaw orientation
+   Minimum part preparation  High degree of skill and
+   experience required for exposure
+   and interpretation
+   Depth of discontinuity not
+   indicated
+ ISOTOPE RADIOGRAPHY  Portable  Safety hazard
+   Less expensive than X-ray  Must conform to Federal and
+   Detects surface and internal  State regulations for handling
+   flaws  and use
+   Can inspect hidden areas  Highly directional, sensitive to
+   Permanent test record obtained  flaw orientation
+   Minimum part preparation  High degree of skill and
+   experience required for exposure
+   and interpretation
+   Depth of discontinuity not
+   indicated
+
+5-7. TYPES OF INSPECTIONS. NDT methods are techniques used both in the production
+and in-service environments without damage or destruction of the item under investigation.
+Examples of NDI methods are as follows:
+
+   •  Visual inspection,
+   •  Magnetic particle,
+   •  Penetrants,
+   •  Eddy current,
+   •  Radiography,
+   •  Ultrasonic,
+   •  Acoustic emission,
+   •  Thermography,
+   •  Holography,
+   •  Shearography, and
+   •  Tap testing.
+
+5-8.–5-14. [RESERVED.]
+
+Par 5-6  Page 5-8
+
+===== PDF PAGE 256 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 2. VISUAL INSPECTION
+
+5-15. GENERAL. Visual inspection is the oldest and most common form of NDI for aircraft.
+Approximately 80 percent of all NDI procedures are accomplished by the direct visual methods.
+This inspection procedure may be greatly enhanced by the use of appropriate combinations of
+magnifying instruments, borescopes, light sources, video scanners, and other devices discussed
+in this AC. Visual inspection provides a means of detecting and examining a wide variety of
+component and material surface discontinuities, such as cracks, corrosion, contamination, surface
+finish, weld joints, solder connections, and adhesive disbonds. Visual inspection is widely used
+for detecting and examining aircraft surface cracks, which are particularly important because of
+their relationship to structural failures. Visual inspection is frequently used to provide
+verification when defects are found initially using other NDI techniques. The use of optical aids
+for visual inspection is beneficial and recommended. Optical aids magnify defects that cannot be
+seen by the unaided eye and also permit visual inspection in inaccessible areas.
+
+5-16. SIMPLE VISUAL INSPECTION AIDS. It should be emphasized that the eye
+mirror-flashlight is a critical visual inspection process. Aircraft structure and components that
+must be routinely inspected are frequently located beneath skin, cables, tubing, control rods,
+pumps, actuators, etc. Visual inspection aids such as a powerful flashlight, a mirror with a ball
+joint, and a 2 to 10 power magnifying glass are essential in the inspection process.
+
+   a. Flashlights.
+
+   (1) Flashlights used for aircraft inspection should be suitable for industrial use and,
+where applicable, safety approved by the Underwriters Laboratory or equivalent agency as
+suitable for use in hazardous atmospheres such as aircraft fuel tanks. Military Specification
+MIL-F-3747E, Flashlights: Plastic Case, Tubular (Regular, Explosion-Proof Heat Resistant,
+Traffic Directing, and Inspection-Light), provides requirements for flashlights suitable for use in
+aircraft inspection. However, at the present time, the flashlights covered by this specification use
+standard incandescent lamps and there are no standardized performance tests for flashlights with
+the brighter bulbs: Krypton, Halogen, and Xenon. Each flashlight manufacturer currently
+develops its tests and provides information on its products in its advertising literature. Therefore,
+when selecting a flashlight for use in visual inspection, it is sometimes difficult to directly
+compare products.
+
+   (2) The following characteristics should be considered when selecting a flashlight:
+foot-candle rating; explosive atmosphere rating; beam spread (adjustable, spot, or flood);
+efficiency (battery usage rate); brightness after extended use; and rechargeable or standard
+batteries. (If rechargeable, how many hours of continuous use and how long is required for
+recharging?) If possible, it would be best to take it apart and inspect for quality of construction
+and to actually use the flashlight like it would be used in the field. Inspection flashlights are
+available in several different bulb brightness levels:
+
+   •  Standard incandescent (for long battery life).
+   •  Krypton (for 70 percent more light than standard bulbs).
+   •  Halogen (for up to 100 percent more light than standard bulbs).
+   •  Xenon (for over 100 percent more light than standard bulbs).
+
+Par 5-15  Page 5-9
+
+===== PDF PAGE 257 =====
+9/8/98  AC 43.13-1B
+
+   b. Inspection Mirrors. An inspection mirror is used to view an area that is not in the
+normal line of sight. The mirror should be of the appropriate size to easily view the component,
+with the reflecting surface free of dirt, cracks, worn coating, etc., and a swivel joint tight enough
+to maintain its setting.
+
+   c. Simple Magnifiers. A single converging lens, the simplest form of a microscope, is
+often referred to as a simple magnifier. Magnification of a single lens is determined by the
+equation M = 10/f. In this equation, “M” is the magnification, “f” is the focal length of the lens in
+inches, and “10” is a constant that represents the average minimum distance at which objects can
+be distinctly seen by the unaided eye. Using the equation, a lens with a focal length of 5 inches
+has a magnification of 2, or is said to be a two-power lens.
+
+5-17. BORESCOPES. These instruments are long, tubular, precision optical instruments with
+built-in illumination, designed to allow remote visual inspection of internal surfaces or otherwise
+inaccessible areas. The tube, which can be rigid or flexible with a wide variety of lengths and
+diameters, provides the necessary optical connection between the viewing end and an objective
+lens at the distant, or distal tip of the borescope. Rigid and flexible borescopes are available in
+different designs for a variety of standard applications and manufacturers also provide custom
+designs for specialized applications. Figure 5-1 shows three typical designs of borescopes.
+
+   a. Borescopes Uses. Borescopes are used in aircraft and engine maintenance programs to
+reduce or eliminate the need for costly teardowns. Aircraft turbine engines have access ports that
+are specifically designed for borescopes. Borescopes are also used extensively in a variety of
+aviation maintenance programs to determine the airworthiness of difficult-to reach components.
+Borescopes typically are used to inspect interiors of hydraulic cylinders and valves for pitting,
+scoring, porosity, and tool marks; inspect for cracked cylinders in aircraft reciprocating engines;
+inspect turbojet engine turbine blades and combustion cans; verify the proper placement and fit
+of seals, bonds, gaskets, and subassemblies in difficult to reach areas; and assess foreign object
+damage (FOD) in aircraft, airframe, and powerplants. Borescopes may also be used to locate and
+retrieve foreign objects in engines and airframes.
+
+   b. Optical Designs.
+
+   (1) Typical designs for the optical connection between the borescope viewing end and
+the distal tip are:
+
+   •  A rigid tube with a series of relay lenses;
+   •  A flexible or rigid tube with a bundle of optical fibers; and
+   •  A flexible or rigid tube with wiring that carries the image signal from a Charge
+   Couple Device (CCD) imaging sensor at the distal tip.
+
+   (2) These designs can have either fixed or adjustable focusing of the objective lens at
+the distal tip. The distal tip may also have prisms and mirrors that define the direction and field
+of view. A fiber optic light guide with white light is generally used in the illumination system,
+but ultraviolet light can also be used to inspect surfaces treated with liquid fluorescent penetrant
+or to inspect for contaminants that fluoresce. Some borescopes with long working lengths use
+light-emitting diodes at the distal tip for illumination.
+
+Par 5-16  Page 5-10
+
+===== PDF PAGE 258 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-1. TYPICAL BORESCOPE DESIGNS
+
+5-18. VISUAL INSPECTION PROCEDURES. Corrosion can be an extremely critical
+defect. Therefore, NDI personnel should be familiar with the appearance of common types of
+corrosion and have training and experience on corrosion detection on aircraft structure and
+engine materials. (Refer to AC 43-4, Corrosion Control for Aircraft, for additional information
+on corrosion.)
+
+   a. Preliminary Inspection. Perform a preliminary inspection of the overall general area
+for cleanliness, presence of foreign objects, deformed or missing fasteners, security of parts,
+
+Par 5-17  Page 5-11
+
+===== PDF PAGE 259 =====
+9/8/98  AC 43.13-1B
+
+corrosion, and damage. If the configuration or location of the part conceals the area to be
+inspected, use visual aids such as a mirror or borescope.
+
+   b. Corrosion Treatment. Treat any corrosion found during preliminary inspection after
+completing a visual inspection of any selected part or area.
+
+   NOTE: Eddy current, radiography, or ultrasonic inspection can determine
+   the loss of metal to corrosion.
+
+   c. Lighting. Provide adequate lighting to illuminate the selected part or area.
+
+   d. Personal Comfort. Personal comfort (temperature, wind, rain, etc.) of the inspector can
+be a factor in visual inspection reliability.
+
+   e. Noise. Noise levels while conducting a visual inspection are important. Excessive noise
+reduces concentration, creates tension, and prevents effective communication. All these factors
+will increase the likelihood of errors.
+
+   f. Inspection Area Access. Ease of access to the inspection area has been found to be of
+major importance in obtaining reliable visual inspection results. Access consists of the act of
+getting into an inspection position (primary access) and doing the visual inspection (secondary
+access). Poor access can affect the inspector’s interpretation of discontinuities, decision making,
+motivation, and attitude.
+
+   g. Precleaning. Clean the areas or surface of the parts to be inspected. Remove any
+contaminates that might hinder the discovery of existing surface indications. Do not remove the
+protective finish from the part or area prior to inspection. Removal of the finish may be required
+at a later time if other NDI techniques are required to verify any visual indications of flaws that
+are found.
+
+   h. Inspection. Carefully inspect the area for discontinuities, using optical aids as required.
+An inspector normally should have available suitable measuring devices, a flashlight, and a
+mirror.
+
+   (1) Surface Cracks. When searching for surface cracks with a flashlight, direct the
+light beam at a 5 to 45 degree angle to the inspection surface, towards the face. (See Figure 5-2.)
+Do not direct the light beam at such an angle that the reflected light beam shines directly into the
+eyes. Keep the eyes above the reflected light beam during the inspection. Determine the extent of
+any cracks found by directing the light beam at right angles to the crack and tracing its length.
+Use a 10-power magnifying glass to confirm the existence of a suspected crack. If this is not
+adequate, use other NDI techniques, such as penetrant, magnetic particle, or eddy current to
+verify cracks.
+
+Par 5-18  Page 5-12
+
+===== PDF PAGE 260 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-2. USING A FLASHLIGHT TO INSPECT FOR CRACKS
+
+   (2) Other Surface Discontinuities. Inspect for other surface discontinuities, such as:
+discoloration from overheating; buckled, bulging, or dented skin; cracked, chafed, split, or
+dented tubing; chafed electrical wiring; delamination of composites; and damaged protective
+finishes.
+
+   i. Recordkeeping. Document all discrepancies by written report, photograph, and/or
+video recording for appropriate evaluation. The full value of visual inspection can be realized
+only if records are kept of the discrepancies found on parts inspected. The size and shape of the
+discontinuity and its location on the part should be recorded along with other pertinent
+information, such as rework performed or disposition. The inclusion on a report of some visible
+record of the discontinuity makes the report more complete.
+
+5-19.–5-24. [RESERVED.]
+
+Par 5-18  Page 5-13
+
+===== PDF PAGE 261 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 3. EDDY CURRENT INSPECTION
+
+5-25. EDDY CURRENT INSPECTION. Eddy current is used to detect surface cracks, pits,
+subsurface cracks, corrosion on inner surfaces, and to determine alloy and heat-treat condition.
+
+   a. Eddy Current Instruments. A wide variety of eddy current test instruments are
+available. The eddy current test instrument performs three basic functions: generating, receiving,
+and displaying. The generating portion of the unit provides an alternating current to the test coil.
+The receiving section processes the signal from the test coil to the required form and amplitude
+for display. Instrument outputs or displays consist of a variety of visual, audible, storage, or
+transfer techniques utilizing meters, video displays, chart recorders, alarms, magnetic tape,
+computers, and electrical or electronic relays.
+
+   b. Principles of Operations. Eddy currents are induced in a test article when an
+alternating current is applied to a test coil (probe). The alternating current in the coil induces an
+alternating magnetic field in the article which causes eddy currents to flow in the article. (See
+Figure 5-3.)
+
+   (1) Flaws in or thickness changes of the test-piece influence the flow of eddy currents
+and change the impedance of the coil accordingly. (See Figure 5-4.) Instruments display the
+impedance changes either by impedance plane plots or by needle deflection.
+
+   (2) Figure 5-5 shows typical impedance plane display and meter display instrument
+responses for aluminum surface cracks, subsurface cracks, and thickness.
+
+   FIGURE 5-3. GENERATING AN EDDY CURRENT
+
+Par 5-25  Page 5-14
+
+===== PDF PAGE 262 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-4. DETECTING AN EDDY CURRENT
+
+   FIGURE 5-5. TYPICAL INSTRUMENT DISPLAYS
+
+5-26. EDDY CURRENT COILS AND PROBES. A wide variety of eddy current coils and
+probes is available. Coils and probes are not always interchangeable between various types of
+instruments and, for best results, should be matched to a specific instrument and frequency
+range. Special probe holders can be fabricated to facilitate eddy current inspection of contoured
+or shaped parts including part edges.
+
+Par 5-25  Page 5-15
+
+===== PDF PAGE 263 =====
+9/8/98  AC 43.13-1B
+
+5-27. FIELD APPLICATION OF EDDY CURRENT INSPECTION. Eddy current
+techniques are particularly well-suited for detection of service-induced cracks in the field.
+Service-induced cracks in aircraft structures are generally caused by fatigue or stress corrosion.
+Both types of cracks initiate at the surface of a part. If this surface is accessible, a high-frequency
+eddy current inspection can be performed with a minimum of part preparation and a high degree
+of sensitivity. If the surface is less accessible, such as in a subsurface layer of structure,
+low-frequency eddy current inspection can usually be performed. Eddy current inspection can
+usually be performed without removing surface coatings such as primer, paint, and anodic films.
+Eddy current inspection has the greatest application for inspecting small localized areas where
+possible crack initiation is suspected rather than for scanning broad areas for randomly-oriented
+cracks. However, in some instances it is more economical to scan relatively large areas with
+eddy current rather than strip surface coatings, inspect by other methods, and then refinish.
+
+5-28. SURFACE INSPECTION.
+
+   a. Inspection Technique. Eddy current inspection techniques are used to inspect for
+surface cracks such as those shown in Figure 5-6.
+
+   FIGURE 5-6. TYPICAL SURFACE CRACKS
+
+   b. Equipment Requirements. The following are typical eddy current equipment
+requirements for surface crack inspections.
+
+   (1) Instruments must meet the liftoff and sensitivity requirements of the applicable NDI
+procedures. The frequency requirement is generally 100 hertz (Hz) to 200 kilohertz (kHz).
+
+Par 5-27  Page 5-16
+
+===== PDF PAGE 264 =====
+9/8/98  AC 43.13-1B
+
+   (2) Many types of probes are available such as: flat-surface; spring-loaded; pencil;
+shielded pencil; right-angle pencil; or fastener hole probes.
+
+   (3) A reference standard is required for the calibration of Eddy Current test equipment.
+A reference standard is made from the same material as that which is to be tested. A reference
+standard contains known flaws or cracks and could include items such as: a flat surface notch, a
+fastener head, a fastener hole, or a countersink hole.
+
+5-29. SUBSURFACE INSPECTION.
+
+   a. Eddy current inspection techniques are used to inspect for subsurface cracks such as
+those shown in Figure 5-7.
+
+   b. The following are typical eddy current equipment requirements for subsurface crack
+inspections.
+
+   (1) Use a variable frequency instrument with frequency capability from 100 Hz to
+500 megahertz (MHz).
+
+   (2) The probe used would be a low frequency; spot, ring, or sliding probe.
+
+   (3) Use a reference standard appropriate for the inspection being performed.
+
+   FIGURE 5-7. TYPICAL SUBSURFACE CRACKS
+
+Par 5-28  Page 5-17
+
+===== PDF PAGE 265 =====
+9/8/98  AC 43.13-1B
+
+5-30. CORROSION INSPECTION.
+
+   a. Eddy current inspection is used to detect the loss of metal as a result of corrosion. An
+estimation of material loss due to corrosion can be made by comparison with thickness
+standards. Figure 5-8 shows typical structural corrosion that may be detected by the use of eddy
+current inspection. Remove all surface corrosion before performing the eddy current corrosion
+inspection.
+
+   b. The following are typical eddy current equipment requirements for corrosion
+inspection.
+
+   (1) Use a variable frequency instrument with frequency capability from 100 Hz to
+40 kHz.
+
+   (2) Use a shielded probe with coil diameter between 0.15 and 0.5 inch and designed to
+operate at the lower frequencies.
+
+   (3) A reference standard made from the same alloy, heat treatment, and thickness as the
+test structure will be required.
+
+   FIGURE 5-8. TYPICAL STRUCTURAL CORROSION
+
+5-31. ESTABLISHING EDDY CURRENT INSPECTION PROCEDURES. When
+establishing eddy current inspection procedures, where no written procedures are available, the
+following factors must be considered: type of material to be inspected; accessibility of the
+inspection area; material or part geometry, the signal-to-noise ratio, test system; lift-off effects,
+location and size of flaws to be detected; scanning pattern; scanning speed; and reference
+standards. All of these factors are interrelated. Therefore, a change in one of the factors may
+
+Par 5-30  Page 5-18
+
+===== PDF PAGE 266 =====
+9/8/98  AC 43.13-1B
+
+require changes in other factors to maintain the same level of sensitivity and reliability of the
+eddy current inspection procedure. Written procedures should elaborate on these factors and
+place them in their proper order.
+
+5-32.–5-39. [RESERVED.]
+
+Par 5-31  Page 5-19
+
+===== PDF PAGE 267 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 4. MAGNETIC PARTICLE INSPECTION
+
+5-40. GENERAL. Magnetic particle inspection is a method for detecting cracks, laps, seams,
+voids, pits, subsurface holes, and other surface, or slightly subsurface, discontinuities in
+ferromagnetic materials. Magnetic particle inspection can be used only on ferromagnetic
+materials (iron and steel). It can be performed on raw material, billets, finished and semifinished
+materials, welds, and in-service assembled or disassembled parts. Magnetic particles are applied
+over a surface either dry, as a powder, or wet, as particles in a liquid carrier such as oil or water.
+Common uses for magnetic particle inspection are final inspection, receiving inspection,
+in-process inspection; and quality control, maintenance, and overhaul.
+
+5-41. PRINCIPLES OF OPERATION. Magnetic particle inspection uses the tendency of
+magnetic lines of force, or flux, of an applied field to pass through the metal rather than through
+the air. A defect at or near the metal’s surface distorts the distribution of the magnetic flux and
+some of the flux is forced to pass out through the surface. (See Figure 5-9.) The field strength is
+increased in the area of the defect and opposite magnetic poles form on either side of the defect.
+Fine magnetic particles applied to the part are attracted to these regions and form a pattern
+around the defect. The pattern of particles provides a visual indication of a defect. (See
+Figure 5-10.)
+
+   FIGURE 5-9. MAGNETIC FIELD DISRUPTED
+
+   FIGURE 5-10. CRACK DETECTION BY MAGNETIC PARTICLE INSPECTION
+
+Par 5-40  Page 5-20
+
+===== PDF PAGE 268 =====
+9/8/98  AC 43.13-1B
+
+   a. To locate a defect, it is necessary to control the direction of magnetization, and flux
+lines must be perpendicular to the longitudinal axes of expected defects. Examination of critical
+areas for defects may require complete disassembly. Two methods of magnetization, circular and
+longitudinal, are used to magnetize the part and induce perpendicular flux paths. Parts of
+complex configuration may require local magnetization to ensure proper magnetic field direction
+and adequate removal of surface coatings, sealants, and other similar compounds. Possible
+adverse influence of the applied or residual magnetic fields on delicate parts such as instruments,
+bearings, and mechanisms may require removal of these parts before performing the inspection.
+
+   b. Certain characteristics inherent in the magnetic particle method may introduce errors in
+examination results. Nonrelevant errors are caused by magnetic field distortions due to
+intentional design features, such as:
+
+   (1) Sharp radii, less than 0.10-inch radius, in fillets;
+
+   (2) Thread roots, keyways, and drilled holes; and
+
+   (3) Abrupt changes in geometry or in magnetic properties within the part.
+
+   c. Operators must understand nonrelevant error indications and recognize them during
+examination. Proper analysis of indications in these regions will require considerable skill and
+experience, and supplemental methods may be required before a final evaluation can be made.
+Special techniques for examination of these areas are given in subsequent paragraphs.
+
+5-42. APPLICATIONS. Use magnetic particle inspection on any well-cleaned surface that is
+accessible for close visual examination. Typical parts deserving magnetic particle examination
+are: steel fasteners and pins; critical structural elements; linkages; landing gear components;
+splice and attach fittings; and actuating mechanisms.
+
+   a. During field repair operations, disassembly is often not necessary, except when the parts
+have critical areas or delicate installed components. However, for overhaul operations, a more
+thorough and critical examination may be obtained with stationary equipment in a shop
+environment with completely disassembled, and thoroughly cleaned and stripped parts.
+
+   b. Magnetic rubber examination material is useful for in-field service examinations of
+fastener holes in areas where the accessibility is limited or restricted, where particle suspensions
+may cause unwanted contamination, when a permanent record is desired, and when the
+examination area cannot be observed visually.
+
+5-43. ELECTRICAL MAGNETIZING EQUIPMENT. Stationary equipment in the range of
+100 to 6000 amperes is normal for use within the aerospace industry for overhaul operations.
+Mobile equipment with similar amperage outputs is available for field examination of heavy
+structures, such as landing gear cylinders and axles. Small parts and local areas of large
+components can be adequately checked with the use of small, inexpensive permanent magnets or
+electromagnetic yokes. In procuring magnetizing equipment, the maximum rated output should
+be greater than the required examination amperage. Actual current flow through a complex part
+may be reduced as much as 20 percent by the resistance load of the rated output.
+
+Par 5-41  Page 5-21
+
+===== PDF PAGE 269 =====
+9/8/98  AC 43.13-1B
+
+5-44. MATERIALS USED IN MAGNETIC PARTICLE INSPECTION. The particles used
+in magnetic particle inspection are finely divided ferromagnetic materials that have been treated
+with color or fluorescent dyes to improve visibility against the various surface backgrounds of
+the parts under inspection. Magnetic particles, particle-suspension vehicles, and cleaners are
+required for conducting magnetic particle inspection. Requirements for magnetic particle
+inspection materials, other than cleaners, are contained in the aerospace industry standard,
+ASTM-E1444, Inspection, Magnetic Particle (as revised). A certification statement which will
+certify that the material meets applicable specification requirements will generally be received
+when a magnetic particle inspection material is purchased. Magnetic particle inspection materials
+for use on a specific part or component will generally be specified by the aircraft or component
+manufacturer or the FAA in documents such as; maintenance or overhaul manuals, Ads, SSIDs,
+or manufacturer’s SBs. However, if the magnetic particle inspection materials are not specified
+for the specific part or component to be inspected, it is recommended that personnel use
+materials meeting the aircraft or component manufacturers’ specifications or materials meeting
+the requirements of ASTM E1444. Other FAA engineering-approved materials may also be used.
+Table 5-2 provides a partial listing of commonly accepted standards and specifications for
+magnetic particle inspection.
+
+Par 5-44  Page 5-22
+
+===== PDF PAGE 270 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 5-2. LISTING OF COMMONLY ACCEPTED STANDARDS AND
+   SPECIFICATIONS FOR MAGNETIC PARTICLE INSPECTION
+
+   NUMBER  TITLE
+ASTM STANDARDS
+ASTM A275/A275M  Standard Practice for Magnetic Particle Examination of
+   Steel Forgings. 1995.
+ASTM A456/A456M Rev. A.  Standard Specification for Magnetic Particle Examination
+   of Large Crankshaft Forgings. 1995.
+ASTM D96  Standard Test Methods for Water and Sediment in Crude
+   Oils by Centrifuge Method (Field Procedure). 1988.
+ASTM E125  Standard Reference Photographs for Magnetic Particle
+   Indications on Ferrous Castings. (Revised 1993). 1963.
+ASTM E1316  Standard Terminology for Nondestructive Examination.
+   1995 (Replaces ASTM E269).
+SAE-AMS SPECIFICATIONS
+AMS 2300  Steel Cleanliness, Premium Aircraft-Quality Magnetic
+   Particle Inspection Procedure. 1991 (Revised 1995.)
+MAM 2300  Steel Cleanliness, Premium Aircraft Quality Magnetic
+   Particle Inspection Procedurez, Metric (SI) Measurement.
+   1992.
+AMS 2303  Steel Cleanliness, Aircraft Quality Martensitic
+   Corrosion-Resistant Steels Magnetic Particle Inspection
+   Procedure. 1993.
+MAM 2303  Steel Cleanliness, Aircraft Quality Martensitic
+   Corrosion-Resistant Steels, Magnetic Particle Inspection
+   Procedure, Metric (SI) Measurement. 1993.
+AMS 2641  Vehicle, Magnetic Particle Inspection Petroleum Base.
+   1988.
+AMS 3040  Magnetic Particles, Nonfluorescent Dry Method. 1995.
+AMS 3041  Magnetic Particles, Nonfluorescent Wet Method, Oil
+   Vehicle, Ready-To-Use. 1988.
+AMS 3042B  Magnetic Particles, Nonfluorescent Wet Method, Dry
+   Powder. 1988.
+AMS 3043  Magnetic Particles, Nonfluorescent, Wet Method, Oil
+   Vehicle, Aerosol Packaged. 1988.
+AMS 3044  Magnetic Particles, Fluorescent Wet Method, Dry Powder.
+   1989.
+
+Par 5-44  Page 5-23
+
+===== PDF PAGE 271 =====
+9/8/98  AC 43.13-1B
+
+AMS 3045  Magnetic Particles, Fluorescent Wet Method, Oil Vehicle
+   Ready-to-Use. 1989.
+AMS 3046  Magnetic Particles, Fluorescent Wet Method, Oil Vehicle,
+   Aerosol Packaged. 1989.
+U.S. GOVERNMENT SPECIFICATIONS
+DOD-F-87935  Fluid, Magnetic Particle Inspection, Suspension Medium.
+   1993.
+MIL-STD-271  Requirements for Nondestructive Testing Methods. 1993.
+MIL-STD-410  Nondestructive Testing Personnel Qualifications and
+   Certification. 1991.
+MIL-HDBK-728/1  Nondestructive Testing. 1985.
+MIL-HDBK-728/4A  Magnetic Particle Testing. 1993.
+OTHER PUBLICATIONS
+SNT-TC-1A  Personnel Qualification and Certification in Nondestructive
+   Testing.
+   Note: Updated every 4 years 1996 edition due in early
+   1997.
+ATA Spec 105, ASM Handbook,  Guidelines for Training and Qualifying Personnel in
+Volume 17  Nondestructive Testing Methods, (Revision 4 1993)
+   Nondestructive Evaluation and Quality Control. 1989.
+
+5-45. PREPARATION OF SURFACE.
+
+   a. Remove protective coatings according to the manufacturer’s instructions if necessary.
+Unless otherwise specified, magnetic particle examination should not be performed with coatings
+in place that could prevent the detection of surface defects in the ferromagnetic substrate. Such
+coatings include paint or chrome plate thicker than 0.003 inch, or ferro-magnetic coatings such
+as electroplated nickel thicker than 0.001 inch.
+
+   b. Parts should be free of grease, oil, rust, scale, or other substances which will interfere
+with the examination process. If required, clean by vapor degrease, solvent, or abrasive means
+per the manufacturer’s instructions. Use abrasive cleaning only as necessary to completely
+remove scale or rust. Excessive blasting of parts can affect examination results.
+
+   c. Exercise extreme care to prevent any cleaning material or magnetic particles from
+becoming entrapped where they cannot be removed. This may require extracting components
+such as bushings, bearings, or inserts from assemblies before cleaning and magnetic particle
+examination.
+
+   d. A water-break-free surface is required for parts to be examined by water suspension
+methods. If the suspension completely wets the surface, this requirement is met.
+
+Par 5-44  Page 5-24
+
+===== PDF PAGE 272 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   e. Magnetic particle examination of assembled bearings is not recommended because
+the bearings are difficult to demagnetize. If a bearing cannot be removed, it should be protected
+from the magnetic particle examination materials and locally magnetized with a magnetic yoke
+to limit the magnetic field across the bearing.
+
+5-46. METHODS OF EXAMINATION. Magnetic particle examination generally consists of
+the application of magnetic particles; magnetization; determination of field strength; special
+examination techniques; and demagnetization and post-examination cleaning. Each of these steps
+will be described in the following paragraphs.
+
+5-47. APPLICATION OF MAGNETIC PARTICLES. The magnetic particles used can be
+nonfluorescent or fluorescent (dependent on the examination required) and are applied
+suspended in a suitable substance. Fluorescent particles are preferred due to their higher
+sensitivity.
+
+   a. Wet Continuous Method. Unless otherwise specified, use only the wet continuous
+method. In the wet continuous method, the particle suspension is liberally applied to wet all
+surfaces of the part. The magnetizing current is applied at the instant the suspension is diverted
+from the part. Apply two shots of magnetizing current, each at least 1/2 second long.
+
+   (1) Wet suspensions of fluorescent particles, either in water or oil, should be used for
+most overhaul and in-service examinations except where the material, size, or shape of the part
+prohibits its use.
+
+   (2) Water, with a suitable rust inhibitor and wetting agent, may be used as a liquid
+vehicle, provided that magnetic examination equipment is designed for use or is satisfactorily
+converted for use with water.
+
+   b. Dry Continuous Method. This method is not recommended for use on aerospace
+components because of its lower sensitivity level.
+
+   c. Residual Magnetization Method. In this method, the part is magnetized and the
+magnetizing current is then cut off. If the amperage has been correctly calculated and quality
+indicator has verified the technique, then one shot will correctly magnetize the part. The
+magnetic particles are applied to the part after the magnetization. This method is dependent upon
+the retentiveness of the part, the strength of the applied field, the direction of magnetization, and
+the shape of the part.
+
+5-48. MAGNETIZATION.
+
+   a. Circular. Circular magnetization is induced in the part by the central-conductor method
+or the direct-contact method. (See Figure 5-11.)
+
+   (1) Indirect Induction (Central-Conductor Method). Pass the current through a
+central conductor that passes through the part. When several small parts are examined at one
+time, provide sufficient space between each piece to permit satisfactory coverage (with
+particles), magnetization, and examination.
+
+Par 5-45  Page 5-25
+
+===== PDF PAGE 273 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (2) Direct Induction (Contact Method). Pass current through the part mounted
+horizontally between contact plates. As an example, circular magnetization of a round steel bar
+would be produced by placing the ends of the steel bar between the heads of the magnetic
+inspection machine and passing a current through the bars. Magnetic particles applied either
+during or after passage of the current, or after passage of the current in magnetically retentive
+steels, would disclose discontinuities parallel to the axis of the bar.
+
+   NOTE: Exercise extreme caution to prevent burning of the part at the
+   electrode contact areas. Some causes of overheating and arcing are
+   insufficient contact area, insufficient contact pressure, dirty or coated
+   contact areas, electrode removal during current flow, and too high of an
+   amperage setting.
+
+   FIGURE 5-11. CIRCULAR MAGNETIZATION
+
+   b. Longitudinal. Longitudinal magnetization is induced in a part by placing the part in a
+strong magnetic field, such as the center of a coil or between the poles of an electromagnetic
+yoke. (See Figure 5-12.) When using a coil, optimum results are obtained when the following
+conditions are met.
+
+   (1) The part to be examined is at least twice as long as it is wide.
+
+   (2) The long axis of the part is parallel to the axis of the coil opening.
+
+   (3) The area of the coil opening is at least 10 times the cross-sectional areas of the part.
+
+   (4) The part is positioned against the inner wall of the coil.
+
+   (5) Three to five turns are employed for hand-held coils formed with cables.
+
+Par 5-48  Page 5-26
+
+===== PDF PAGE 274 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (6) For the 10-to-1 fill factor, the effective region of inspection is 1 coil radius on either
+side of the coil with 10 percent overlap. (Refer to ASTME-1444.)
+
+   (7) The intensity of the longitudinal shots is kept just below the level at which leakage
+fields develop across sharp changes of section, such as radii under bolt heads, threads, and other
+sharp angles in parts. This does not apply when checking chrome-plated parts for grinding
+cracks.
+
+   (a) For example, longitudinal magnetization of a round steel bar would be produced
+by placing the direct current (DC) coil around the bar. After application of the magnetic
+particles, either during or subsequent to magnetization, discontinuities perpendicular to the
+longitudinal axis of the bar would be disclosed.
+
+   (b) When a yoke is used, the portion of the part between the ends of the yoke
+completes the path of the magnetic lines of force. This results in a magnetic field between the
+points of contact.
+
+   FIGURE 5-12. LONGITUDINAL MAGNETIZATION
+
+Par 5-48  Page 5-27
+
+===== PDF PAGE 275 =====
+9/8/98  AC 43.13-1B
+
+   c. Permanent Magnets and Electromagnetic Yoke. The stability of the magnetic field
+generated by permanent magnets requires some agitation of the oxide particles within the field.
+The wet method is considered most satisfactory. Use a well-agitated plastic squirt bottle for the
+most effective application of the magnetic particle suspension. When the direction of possible
+cracks in a suspect area is not known, or would not necessarily be normal to the lines of force
+between the poles of the magnet, reposition the magnet to the best advantage and recheck.
+Usually, two shots, 90 degrees apart are required. The part must be demagnetized between each
+magnetization when the field direction is changed unless the next shot is at least 10 percent
+stronger than the previous shot, if this is the case demagnetization is not necessary.
+
+5-49. DETERMINATION OF FIELD STRENGTH. Factors such as part size, shape,
+magnetic properties of the material, and the method of magnetization will affect the field
+strength induced within a part by a given applied magnetizing force. The factors vary
+considerably, making it difficult to establish rules for magnetizing during examination.
+Technique requirements are best determined on actual parts having known defects.
+
+   a. A magnetization indicator, such as a Quantitative Quality Indicator (QQI), should be
+used to verify that adequate magnetic flux strength is being used. It effectively indicates the
+internally-induced field, the field direction, and the quality of particle suspension during
+magnetization.
+
+   b. The level of magnetization required for detection of service-related defects in most
+cases can be lower than that required for material and manufacturing control. Contact the
+manufacturer for correct specifications.
+
+   c. If the examination must be performed with less current than is desired because of part
+size or equipment limitations, the lower field strength can be partially accommodated by
+reducing the area of examination for each magnetization, or the examination can be
+supplemented by using electromagnetic yokes. Examine only 4 inches on either side of a coil
+instead of 6, or apply additional magnetization around the periphery of a hollow cylinder when
+using an internal conductor.
+
+5-50. SPECIAL EXAMINATION TECHNIQUES.
+
+   a. Magnetic Rubber. Magnetic rubber formulations using finely divided magnetic
+particles in a silicone rubber base are used for the inspection of screw, bolt, or other bore holes,
+which are not easily accessible. The liquid silicone rubber mixture is poured into holes in
+magnetic parts to be inspected. Curing time for silicone rubbers varies from about 30 minutes
+and up depending upon the particular silicone rubber, the catalyst, and the amount of catalyst
+used to produce the curing reaction.
+
+   b. Curing. While curing is taking place, the insides of the hole must be maintained in the
+required magnetized state. This can be accomplished using a permanent magnet, a DC yoke, an
+electromagnet, or some other suitable means. Whatever method of magnetization is used, the
+leakage fields at any discontinuities inside the holes must be maintained long enough to attract
+and hold in position the magnetic particles until a partial cure takes place. A two-step
+magnetizing procedure has been developed.
+
+Par 5-48  Page 5-28
+

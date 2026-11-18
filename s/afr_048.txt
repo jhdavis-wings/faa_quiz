@@ -1,0 +1,1759 @@
+FAA-H-8083-31B Airframe Handbook, chapter 13 (Aircraft Landing Gear Systems), PDF pages 732-756
+
+===== PDF PAGE 732 =====
+Chapter 13
+
+Aircraft Landing Gear Systems
+Landing Gear Types
+Aircraft landing gear supports the entire weight of an aircraft
+during landing and ground operations. They are attached to
+primary structural members of the aircraft. The type of gear
+depends on the aircraft design and its intended use. Most
+landing gear have wheels to facilitate operation to and from
+hard surfaces, such as airport runways. Other gear feature
+skids for this purpose, such as those found on helicopters,
+balloon gondolas, and in the tail area of some tail dragger
+aircraft. Aircraft that operate to and from frozen lakes and
+snowy areas may be equipped with landing gear that have
+skis. Aircraft that operate to and from the surface of water
+have pontoon-type landing gear. Regardless of the type of
+landing gear utilized, shock absorbing equipment, brakes,
+retraction mechanisms, controls, warning devices, cowling,
+fairings, and structural members necessary to attach the
+gear to the aircraft are considered parts of the landing gear
+system. [Figure 13-1]
+
+Numerous configurations of landing gear types can be
+found. Additionally, combinations of two types of gear are
+common. Amphibious aircraft are designed with gear that
+allow landings to be made on water or dry land. The gear
+features pontoons for water landing with extendable wheels
+for landings on hard surfaces. A similar system is used to
+allow the use of skis and wheels on aircraft that operate on
+both slippery, frozen surfaces and dry runways. Typically, the
+skis are retractable to allow use of the wheels when needed.
+Figure 13-2 illustrates this type of landing gear.
+Note: References to auxiliary landing gear refer to the nose
+gear, tail gear, or outrigger-type gear on any particular
+aircraft. Main landing gear are the two or more large gear
+located close to the aircraft’s center of gravity.
+
+Figure 13-1. Basic landing gear types include those with wheels (a), skids (b), skis (c), and floats or pontoons (d).
+
+13-1
+
+===== PDF PAGE 733 =====
+Figure 13-2. An amphibious aircraft with retractable wheels (left) and an aircraft with retractable skis (right).
+
+Figure 13-3. Tail wheel configuration landing gear on a DC-3 (left) and a STOL Maule MX-7-235 Super Rocket.
+
+Landing Gear Arrangement
+Three basic arrangements of landing gear are used: tail
+wheel-type landing gear (also known as conventional gear),
+tandem landing gear, and tricycle-type landing gear.
+
+Tail Wheel-Type Landing Gear
+Tail wheel-type landing gear is also known as conventional
+gear because many early aircraft use this type of arrangement.
+The main gear are located forward of the center of gravity,
+causing the tail to require support from a third wheel
+assembly. A few early aircraft designs use a skid rather
+than a tail wheel. This helps slow the aircraft upon landing
+and provides directional stability. The resulting angle of
+the aircraft fuselage, when fitted with conventional gear,
+allows the use of a long propeller that compensates for older,
+underpowered engine design. The increased clearance of the
+forward fuselage offered by tail wheel-type landing gear is
+also advantageous when operating in and out of non-paved
+runways. Today, aircraft are manufactured with conventional
+gear for this reason and for the weight savings accompanying
+the relatively light tail wheel assembly. [Figure 13-3]
+
+The proliferation of hard surface runways has rendered the
+tail skid obsolete in favor of the tail wheel. Directional control
+is maintained through differential braking until the speed of
+the aircraft enables control with the rudder. A steerable tail
+wheel, connected by cables to the rudder or rudder pedals,
+is also a common design. Springs are incorporated for
+dampening. [Figure 13-4]
+
+Tandem Landing Gear
+Few aircraft are designed with tandem landing gear. As the
+name implies, this type of landing gear has the main gear
+and tail gear aligned on the longitudinal axis of the aircraft.
+Sailplanes commonly use tandem gear, although many only
+have one actual gear forward on the fuselage with a skid
+under the tail. A few military bombers, such as the B-47 and
+the B-52, have tandem gear, as does the U2 spy plane. The
+VTOL Harrier has tandem gear but uses small outrigger gear
+under the wings for support. Generally, placing the gear only
+under the fuselage facilitates the use of very flexible wings.
+[Figure 13-5]
+
+13-2
+
+===== PDF PAGE 734 =====
+Figure 13-4. The steerable tail wheel of a Pitts Special.
+
+Figure 13-5. Tandem landing gear along the longitudinal axis of the aircraft permits the use of flexible wings on sailplanes (left) and
+select military aircraft like the B-52 (center). The VTOL Harrier (right) has tandem gear with outrigger-type gear.
+
+Figure 13-6. Tricycle-type landing gear with dual main wheels on a Learjet (left) and a Cessna 172, also with tricycle gear (right).
+
+Tricycle-Type Landing Gear
+The most commonly used landing gear arrangement is the
+tricycle-type landing gear. It is comprised of main gear and
+nose gear. [Figure 13-6]
+Tricycle-type landing gear is used on large and small aircraft
+with the following benefits:
+1.
+
+Allows more forceful application of the brakes without
+nosing over when braking, which enables higher
+landing speeds.
+
+2.
+
+Provides better visibility from the flight deck,
+
+especially during landing and ground maneuvering.
+3.
+
+Prevents ground-looping of the aircraft. Since the
+aircraft center of gravity is forward of the main gear,
+forces acting on the center of gravity tend to keep the
+aircraft moving forward rather than looping, such as
+with a tail wheel-type landing gear.
+
+The nose gear of a few aircraft with tricycle-type landing
+gear is not controllable. It simply casters as steering is
+accomplished with differential braking during taxi. However,
+nearly all aircraft have steerable nose gear. On light aircraft,
+13-3
+
+===== PDF PAGE 735 =====
+Figure 13-9. Triple bogie main landing gear assembly on a Boeing
+
+777.
+
+0
+
+R
+Figure 13-7. A nose wheel steering tiller located on the flight deck.
+
+the nose gear is directed through mechanical linkage to the
+rudder pedals. Heavy aircraft typically utilize hydraulic
+power to steer the nose gear. Control is achieved through an
+independent tiller in the flight deck. [Figure 13-7]
+The main gear on a tricycle-type landing gear arrangement
+is attached to reinforced wing structure or fuselage structure.
+The number and location of wheels on the main gear vary.
+Many main gear have two or more wheels. [Figure 13-8]
+Multiple wheels spread the weight of the aircraft over a larger
+area. They also provide a safety margin should one tire fail.
+Heavy aircraft may use four or more wheel assemblies on
+each main gear. When more than two wheels are attached
+to a landing gear strut, the attaching mechanism is known
+as a bogie. The number of wheels included in the bogie is
+a function of the gross design weight of the aircraft and
+the surface type on which the loaded aircraft is required to
+land. Figure 13-9 illustrates the triple bogie main gear of a
+Boeing 777.
+The tricycle-type landing gear arrangement consists of many
+parts and assemblies. These include air/oil shock struts, gear
+alignment units, support units, retraction and safety devices,
+steering systems, wheel and brake assemblies, etc. A main
+landing gear of a transport category aircraft is illustrated
+in Figure 13-10 with many of the parts identified as an
+introduction to landing gear nomenclature.
+
+Figure 13-8. Dual main gear of a tricycle-type landing gear.
+
+Fixed & Retractable Landing Gear
+Further classification of aircraft landing gear can be made
+into two categories: fixed and retractable. Many small, singleengine light aircraft have fixed landing gear, as do a few light
+twins. This means the gear is attached to the airframe and
+remains exposed to the slipstream as the aircraft is flown.
+As discussed in Chapter 2 of this handbook, as the speed of
+
+13-4
+
+===== PDF PAGE 736 =====
+Beam hanger
+Walking beam
+
+Downlock spring bungee
+
+Main gear actuator
+
+Downlock actuator
+
+Ground speed brake cable (right gear only)
+
+Reaction link
+
+Trunnion link
+
+Uplock actuator
+
+Drag strut
+Universal side strut fitting
+Uplock spring bungeer
+Downlock
+Side strut
+Shock strut
+Uplock roller
+
+Damper hydraulic line
+
+Gravel deflector
+
+Main gear damper
+
+Axle
+Torsion links
+D
+
+FW
+
+INB
+
+D
+
+Figure 13-10. Nomenclature of a main landing gear bogie truck.
+
+an aircraft increases, so does parasite drag. Mechanisms to
+retract and stow the landing gear to eliminate parasite drag
+add weight to the aircraft. On slow aircraft, the penalty of
+this added weight is not overcome by the reduction of drag,
+so fixed gear is used. As the speed of the aircraft increases,
+the drag caused by the landing gear becomes greater and a
+means to retract the gear to eliminate parasite drag is required,
+despite the weight of the mechanism.
+
+A great deal of the parasite drag caused by light aircraft landing
+gear can be reduced by building gear as aerodynamically as
+possible and by adding fairings or wheel pants to streamline
+the airflow past the protruding assemblies. A small, smooth
+profile to the oncoming wind greatly reduces landing gear
+parasite drag. Figure 13-11 illustrates a Cessna aircraft
+landing gear used on many of the manufacturer’s light planes.
+13-5
+
+===== PDF PAGE 737 =====
+Figure 13-11. Wheel fairings, or pants, and low profile struts reduce
+
+parasite drag on fixed gear aircraft.
+
+The thin cross section of the spring steel struts combine with
+the fairings over the wheel and brake assemblies to raise
+performance of the fixed landing gear by keeping parasite
+drag to a minimum.
+Retractable landing gear stow in fuselage or wing
+compartments while in flight. Once in these wheel wells,
+gear are out of the slipstream and do not cause parasite drag.
+Most retractable gear have a close-fitting panel attached to
+them that fairs with the aircraft skin when the gear is fully
+retracted. [Figure 13-12] Other aircraft have separate doors
+that open, allowing the gear to enter or leave, and then close
+again.
+Note: The parasite drag caused by extended landing gear can
+be used by the pilot to slow the aircraft. The extension and
+retraction of most landing gear is usually accomplished with
+hydraulics. Landing gear retraction systems are discussed
+later in this chapter.
+
+Figure 13-13. Non-shock absorbing struts made from steel,
+aluminum, or composite material transfer the impact forces of
+landing to the airframe at a non-damaging rate.
+
+Shock Absorbing & Non-Shock Absorbing
+Landing Gear
+In addition to supporting the aircraft for taxi, the forces of
+impact on an aircraft during landing must be controlled by the
+landing gear. This is done in two ways: 1) the shock energy is
+altered and transferred throughout the airframe at a different
+rate and time than the single strong pulse of impact, and 2) the
+shock is absorbed by converting the energy into heat energy.
+
+Leaf-Type Spring Gear
+Many aircraft utilize flexible spring steel, aluminum, or
+composite struts that receive the impact of landing and return
+it to the airframe to dissipate at a rate that is not harmful. The
+gear flexes initially and forces are transferred as it returns
+to its original position. [Figure 13-13] The most common
+example of this type of non-shock absorbing landing gear
+are the thousands of single-engine Cessna aircraft that use
+it. Landing gear struts of this type made from composite
+materials are lighter in weight with greater flexibility and
+do not corrode.
+
+Figure 13-12. The retractable gear of a Boeing 737 fair into recesses in the fuselage. Panels attached to the landing gear provide smooth
+
+airflow over the struts. The wheel assemblies mate with seals to provide aerodynamic flow without doors.
+
+13-6
+
+===== PDF PAGE 738 =====
+of many individual small strands of elastic rubber that must
+be inspected for condition. Solid, donut-type rubber cushions
+are also used on some aircraft landing gear. [Figure 13-15]
+
+Shock Struts
+True shock absorption occurs when the shock energy of
+landing impact is converted into heat energy, as in a shock
+strut landing gear. This is the most common method of
+landing shock dissipation in aviation. It is used on aircraft
+of all sizes. Shock struts are self-contained hydraulic units
+that support an aircraft while on the ground and protect the
+structure during landing. They must be inspected and serviced
+regularly to ensure proper operation.
+
+Figure 13-14. Rigid steel landing gear is used on many early
+
+aircraft.
+
+Rigid
+Before the development of curved spring steel landing struts,
+many early aircraft were designed with rigid, welded steel
+landing gear struts. Shock load transfer to the airframe is direct
+with this design. Use of pneumatic tires aids in softening
+the impact loads. [Figure 13-14] Modern aircraft that use
+skid-type landing gear make use of rigid landing gear with
+no significant ill effects. Rotorcraft, for example, typically
+experience low impact landings that are able to be directly
+absorbed by the airframe through the rigid gear (skids).
+
+Bungee Cord
+The use of bungee cords on non-shock absorbing landing
+gear is common. The geometry of the gear allows the strut
+assembly to flex upon landing impact. Bungee cords are
+positioned between the rigid airframe structure and the
+flexing gear assembly to take up the loads and return them to
+the airframe at a non-damaging rate. The bungees are made
+
+There are many different designs of shock struts, but most
+operate in a similar manner. The following discussion is
+general in nature. For information on the construction,
+operation, and servicing of a specific aircraft shock, consult
+the manufacturer’s maintenance instructions.
+A typical pneumatic/hydraulic shock strut uses compressed
+air or nitrogen combined with hydraulic fluid to absorb and
+dissipate shock loads. It is sometimes referred to as an air/oil
+or oleo strut. A shock strut is constructed of two telescoping
+cylinders or tubes that are closed on the external ends. The
+upper cylinder is fixed to the aircraft and does not move. The
+lower cylinder is called the piston and is free to slide in and
+out of the upper cylinder. Two chambers are formed. The
+lower chamber is always filled with hydraulic fluid and the
+upper chamber is filled with compressed air or nitrogen. An
+orifice located between the two cylinders provides a passage
+for the fluid from the bottom chamber to enter the top cylinder
+chamber when the strut is compressed. [Figure 13-16]
+Most shock struts employ a metering pin similar to that
+shown in Figure 13-16 for controlling the rate of fluid flow
+
+Figure 13-15. Piper Cub bungee cord landing gear transfer landing loads to the airframe (left and center). Rubber, donut-type shock
+
+transfer is used on some Mooney aircraft (right).
+
+13-7
+
+===== PDF PAGE 739 =====
+Servicing valve
+
+Outer cylinder
+Tapered metering pin
+Orifice plate
+
+Orifice
+Torque arms
+
+Inner cylinder (piston)
+Wheel axle
+
+Towing eye
+
+Figure 13-16. A landing gear shock strut with a metering pin to control the flow of hydraulic fluid from the lower chamber to the upper
+
+chamber during compression.
+
+from the lower chamber into the upper chamber. During the
+compression stroke, the rate of fluid flow is not constant. It
+is automatically controlled by the taper of the metering pin in
+the orifice. When a narrow portion of the pin is in the orifice,
+more fluid can pass to the upper chamber. As the diameter of
+the portion of the metering pin in the orifice increases, less
+fluid passes. Pressure build-up caused by strut compression
+and the hydraulic fluid being forced through the metered
+
+orifice causes heat. This heat is converted impact energy. It
+is dissipated through the structure of the strut.
+On some types of shock struts, a metering tube is used. The
+operational concept is the same as that in shock struts with
+metering pins, except the holes in the metering tube control
+the flow of fluid from the bottom chamber to the top chamber
+during compression. [Figure 13-17]
+13-8
+
+===== PDF PAGE 740 =====
+Air valve
+
+Centering cam
+
+Metering tube
+
+Inner cylinder
+
+Piston rod
+
+Piston
+
+Lower cylinder
+
+Axle
+Figure 13-18. Axles machined out of the same material as the
+
+landing gear lower cylinder.
+
+Figure 13-17. Some landing gear shock struts use an internal
+metering tube rather than a metering pin to control the flow of fluid
+from the bottom cylinder to the top cylinder.
+
+Upon lift off or rebound from compression, the shock strut
+tends to extend rapidly. This could result in a sharp impact
+at the end of the stroke and damage to the strut. It is typical
+for shock struts to be equipped with a damping or snubbing
+device to prevent this. A recoil valve on the piston or a recoil
+tube restricts the flow of fluid during the extension stroke,
+which slows the motion and prevents damaging impact
+forces.
+Most shock struts are equipped with an axle as part of the
+lower cylinder to provide installation of the aircraft wheels.
+Shock struts without an integral axle have provisions on the
+end of the lower cylinder for installation of the axle assembly.
+Suitable connections are provided on all shock strut upper
+cylinders to attach the strut to the airframe. [Figure 13-18]
+
+The upper cylinder of a shock strut typically contains a valve
+fitting assembly. It is located at or near the top of the cylinder.
+The valve provides a means of filling the strut with hydraulic
+fluid and inflating it with air or nitrogen as specified by the
+manufacturer. A packing gland is employed to seal the sliding
+joint between the upper and lower telescoping cylinders. It is
+installed in the open end of the outer cylinder. A packing gland
+wiper ring is also installed in a groove in the lower bearing or
+gland nut on most shock struts. It is designed to keep the sliding
+surface of the piston from carrying dirt, mud, ice, and snow
+into the packing gland and upper cylinder. Regular cleaning
+of the exposed portion of the strut piston helps the wiper do
+its job and decreases the possibility of damage to the packing
+gland, which could cause the strut to a leak.
+To keep the piston and wheels aligned, most shock struts are
+equipped with torque links or torque arms. One end of the
+links is attached to the fixed upper cylinder. The other end
+is attached to the lower cylinder (piston), so it cannot rotate.
+This keeps the wheels aligned. The links also retain the piston
+in the end of the upper cylinder when the strut is extended,
+such as after takeoff. [Figure 13-19]
+Nose gear shock struts are provided with a locating cam
+assembly to keep the gear aligned. A cam protrusion is
+attached to the lower cylinder, and a mating lower cam
+recess is attached to the upper cylinder. These cams line up
+13-9
+
+===== PDF PAGE 741 =====
+Cylinder
+
+Upper locating cam
+Lower locating cam
+Torque arm
+
+Torque links
+
+Piston
+
+Figure 13-19. Torque links align the landing gear and retain the
+
+piston in the upper cylinder when the strut is extended.
+
+the wheel and axle assembly in the straight-ahead position
+when the shock strut is fully extended. This allows the nose
+wheel to enter the wheel well when the nose gear is retracted
+and prevents structural damage to the aircraft. It also aligns
+the wheels with the longitudinal axis of the aircraft prior to
+landing when the strut is fully extended. [Figure 13-20] Many
+nose gear shock struts also have attachments for the
+installation of an external shimmy damper. [Figure 13-21]
+Nose gear struts are often equipped with a locking or
+disconnect pin to enable quick turning of the aircraft while
+towing or positioning the aircraft when on the ramp or in
+a hangar. Disengagement of this pin allows the wheel fork
+spindle on some aircraft to rotate 360°, thus enabling the
+aircraft to be turned in a tight radius. At no time should
+the nose wheel of any aircraft be rotated beyond limit lines
+marked on the airframe.
+Nose and main gear shock struts on many aircraft are also
+equipped with jacking points and towing lugs. Jacks should
+always be placed under the prescribed points. When towing
+lugs are provided, the towing bar should be attached only to
+these lugs. [Figure 13-22]
+
+Fork
+
+Axle
+
+Figure 13-20. An upper locating cam mates into a lower cam recess
+
+when the nose landing gear shock strut is extended before landing
+and before the gear is retracted into the wheel well.
+
+Shock struts contain an instruction plate that gives directions
+for filling the strut with fluid and for inflating the strut. The
+instruction plate is usually attached near filler inlet and air
+valve assembly. It specifies the correct type of hydraulic fluid
+to use in the strut and the pressure to which the strut should be
+inflated. It is of utmost importance to become familiar with
+these instructions prior to filling a shock strut with hydraulic
+fluid or inflating it with air or nitrogen.
+Shock Strut Operation
+Figure 13-23 illustrates the inner construction of a shock strut.
+Arrows show the movement of the fluid during compression
+and extension of the strut. The compression stroke of the
+shock strut begins as the aircraft wheels touch the ground. As
+13-10
+
+===== PDF PAGE 742 =====
+Shimmy damper
+
+Figure 13-21. A shimmy damper helps control oscillations of the
+
+nose gear.
+
+Compression Stroke
+
+UN
+
+LO
+
+CK
+LO
+
+CK
+
+Air
+
+Extension Stroke
+
+Hydraulic fluid
+
+Figure 13-23. Fluid flow during shock strut operation is controlled
+by the taper of the metering pin in the shock strut orifice.
+
+Figure 13-22. A towing lug on a landing gear is the designed means
+
+for attaching a tow bar.
+
+the center of mass of the aircraft moves downward, the strut
+compresses, and the lower cylinder or piston is forced upward
+into the upper cylinder. The metering pin is therefore moved
+up through the orifice. The taper of the pin controls the rate
+of fluid flow from the bottom cylinder to the top cylinder at
+all points during the compression stroke. In this manner, the
+greatest amount of heat is dissipated through the walls of the
+strut. At the end of the downward stroke, the compressed air
+in the upper cylinder is further compressed which limits the
+compression stroke of the strut with minimal impact. During
+taxi operations, the air in the tires and the strut combine to
+smooth out bumps.
+
+Insufficient fluid, or air in the strut, cause the compression
+stroke to not be properly limited. The strut could bottom
+out, resulting in impact forces to be transferred directly to
+the airframe through the metallic structure of the strut. In
+a properly serviced strut, the extension stroke of the shock
+strut operation occurs at the end of the compression stroke.
+Energy stored in the compressed air in the upper cylinder
+causes the aircraft to start moving upward in relation to the
+ground and lower strut cylinder as the strut tries to rebound
+to its normal position. Fluid is forced back down into the
+lower cylinder through restrictions and snubbing orifices. The
+snubbing of fluid flow during the extension stroke dampens
+the strut rebound and reduces oscillation caused by the spring
+action of the compressed air. A sleeve, spacer, or bumper
+ring incorporated into the strut limits the extension stroke.
+13-11
+
+===== PDF PAGE 743 =====
+normal ground operating position. Make certain that
+personnel, work stands, and other obstacles are clear
+of the aircraft. If the maintenance procedures require,
+securely jack the aircraft.
+
+Efficient operation of the shock struts requires that proper
+fluid and air pressure be maintained. To check the fluid
+level, most struts need to be deflated and compressed into
+the fully compressed position. Deflating a shock strut can be
+a dangerous operation. The technician must be thoroughly
+familiar with the operation of the high-pressure service valve
+found at the top of the strut’s upper cylinder. Refer to the
+manufacturer’s instructions for proper deflating technique of
+the strut in question and follow all necessary safety precautions.
+Two common types of high pressure strut servicing valves
+are illustrated in Figure 13-24. The AN6287-1 valve in
+Figure 13-24A has a valve core assembly and is rated to 3,000
+pounds per square inch (psi). However, the core itself is only
+rated to 2,000 psi. The MS28889-1 valve in Figure 13-24B
+has no valve core. It is rated to 5,000 psi. The swivel nut on
+the AN6287-1 valve is smaller than the valve body hex. The
+MS28889-1 swivel nut is the same size as the valve body
+hex. The swivel nuts on both valves engage threads on an
+internal stem that loosens or draws tight the valve stem to
+a metal seat.
+Servicing Shock Struts
+The following procedures are typical of those used in
+deflating a shock strut, servicing it with hydraulic fluid, and
+re-inflating the strut.
+1.
+
+Position the aircraft so that the shock struts are in the
+
+2.
+
+Remove the cap from the air servicing valve.
+[Figure 13-25A]
+
+3.
+
+Check the swivel nut for tightness.
+
+4.
+
+If the servicing valve is equipped with a valve core,
+depress it to release any air pressure that may be trapped
+under the core in the valve body. [Figure 13-25B]
+Always be positioned to the side of the trajectory of
+any valve core in case it releases. Propelled by strut
+air pressure, serious injury could result.
+
+5.
+
+Loosen the swivel nut. For a valve with a valve core
+(AN2687-1), rotate the swivel nut one turn (counter
+clockwise). Using a tool designed for the purpose,
+depress the valve core to release all of the air in the
+strut. For a valve without a valve core (MS28889),
+rotate the swivel nut sufficiently to allow the air to
+escape.
+
+6.
+
+When all air has escaped from the strut, it should be
+compressed completely. Aircraft on jacks may need to
+have the lower strut jacked with an exerciser jack to
+achieve full compression of the strut. [Figure 13-26]
+
+7.
+
+Remove the valve core of an AN6287 valve
+[Figure 13-25D] using a valve core removal tool.
+
+5/8-inch hex nut
+
+Valve assembly
+3/4-inch hex body
+
+Yellow valve cap
+
+Core
+
+Valve core housing
+O-ring
+Valve seat
+
+3/4-inch hex body
+
+Packing
+Pin
+
+Air orifice
+A. Valve core-type
+strut fitting
+AN6287-1
+
+3/4-inch hex body
+Back-up ring
+Stem
+
+O-ring
+
+B. Strut fitting with no core MS 28889-1
+
+Figure 13-24. Valve core-type (A) and core-free valve fittings (B) are used to service landing gear shock struts.
+
+13-12
+
+===== PDF PAGE 744 =====
+A
+
+D
+
+B
+
+E
+
+C
+
+F
+
+Figure 13-25. Steps in servicing a landing gear shock strut include releasing the air from the strut and removing the service valve from
+
+the top of the strut to permit the introduction of hydraulic fluid. Note that the strut is illustrated horizontally. On an actual aircraft
+installation, the strut is serviced in the vertical position (landing gear down).
+
+[Figure 13-27] Then, remove the entire service
+valve by unscrewing the valve body from the strut.
+[Figure 13-25E]
+8.
+
+Fill the strut with hydraulic fluid to the level of the
+service valve port with the approved hydraulic fluid.
+
+9.
+
+Re-install the air service valve assembly using a
+new O-ring packing. Torque according to applicable
+manufacturer’s specifications. If an AN2687-1 valve,
+install a new valve core.
+
+10. Inflate the strut. A threaded fitting from a controlled
+source of high pressure air or nitrogen should be
+screwed onto the servicing valve. Control the flow
+with the service valve swivel nut. The correct amount
+
+of inflation is measured in psi on some struts. Other
+manufacturers specify struts to be inflated until
+extension of the lower strut is a certain measurement.
+Follow manufacturer’s instructions. Shock struts
+should always be inflated slowly to avoid excess
+heating and over inflation.
+11. Once inflated, tighten the swivel nut and torque as
+specified.
+12. Remove the fill hose fitting and finger tighten the
+valve cap of the valve.
+
+13-13
+
+===== PDF PAGE 745 =====
+Hydraulic fluid bleed hose
+
+Exerciser jack
+
+compression of the strut to expel the entrapped air. An
+example procedure for bleeding the shock strut follows.
+1.
+
+Construct and attach a bleed hose containing a fitting
+suitable for making an airtight connection at the shock
+strut service valve port. Ensure a long enough hose to
+reach the ground while the aircraft is on jacks.
+
+2.
+
+Jack the aircraft until the shock struts are fully
+extended.
+
+3.
+
+Release any air pressure in the shock strut.
+
+4.
+
+Remove the air service valve assembly.
+
+5.
+
+Fill the strut to the level of the service port with
+approved hydraulic fluid.
+
+6.
+
+Attach the bleed hose to the service port and insert the
+free end of the hose into a container of clean hydraulic
+fluid. The hose end must remain below the surface of
+the fluid.
+
+7.
+
+Place an exerciser jack or other suitable jack under the
+shock strut jacking point. Compress and extend the
+strut fully by raising and lowering the jack. Continue
+this process until all air bubbles cease to form in the
+container of hydraulic fluid. Compress the strut slowly
+and allow it to extend by its own weight. Ensure that
+the hydraulic fluid is still at the appropriate level
+before moving on to the next step.
+
+8.
+
+Remove the exerciser jack. Lower the aircraft and
+remove all other jacks.
+
+9.
+
+Remove the bleed hose assembly and fitting from the
+service port of the strut.
+
+Figure 13-26. Air trapped in shock strut hydraulic fluid is bled by
+
+exercising the strut through its full range of motion while the end
+of an air-tight bleed hose is submerged in a container of hydraulic
+fluid.
+
+10. Install the air service valve, torque, and inflate the
+shock strut to the manufacturer’s specifications.
+
+Landing Gear Alignment, Support, &
+Retraction
+
+Figure 13-27. This valve tool features internal and external thread
+
+chasers, a notched valve core removal/installation tool, and a
+tapered end for depressing a valve core or clearing debris.
+
+Bleeding Shock Struts
+It may be necessary to bleed a shock strut during the service
+operation or when air becomes trapped in the hydraulic
+fluid inside the strut. This can be caused by low hydraulic
+fluid quantity in the strut. Bleeding is normally done with
+the aircraft on jacks to facilitate repeated extension and
+
+Retractable landing gear consist of several components that
+enable it to function. Typically, these are the torque links,
+trunnion and bracket arrangements, drag strut linkages,
+electrical and hydraulic gear retraction devices, as well as
+locking, sensing, and indicating components. Additionally,
+nose gear have steering mechanisms attached to the gear.
+Alignment
+As previously mentioned, a torque arm or torque links
+assembly keeps the lower strut cylinder from rotating out of
+alignment with the longitudinal axis of the aircraft. In some
+strut assemblies, it is the sole means of retaining the piston in
+the upper strut cylinder. The link ends are attached to the fixed
+upper cylinder and the moving lower cylinder with a hinge
+pin in the center to allow the strut to extend and compress.
+
+13-14
+
+===== PDF PAGE 746 =====
+Longitudinal axis
+
+Wheel paths
+
+Wheels aligned are parallel to the
+longitudinal axis of the aircraft
+
+Toe-in: wheel paths cross
+forward of the aircraft
+
+Toe-out: wheel paths diverge
+forward of the aircraft
+
+Figure 13-28. Wheel alignment on an aircraft.
+
+Alignment of the wheels of an aircraft is also a consideration.
+Normally, this is set by the manufacturer and only requires
+occasional attention such as after a hard landing. The
+aircraft’s main wheels must be inspected and adjusted, if
+necessary, to maintain the proper toe-in or toe-out and the
+correct camber. Toe-in and toe-out refer to the path a main
+wheel would take in relation to the airframe longitudinal
+axis or centerline if the wheel was free to roll forward.
+Three possibilities exist. The wheel would roll either: 1)
+parallel to the longitudinal axis (aligned); 2) converge on
+the longitudinal axis (toe-in); or 3) veer away from the
+longitudinal axis (toe-out). [Figure 13-28]
+The manufacturer’s maintenance instructions give the
+
+procedure for checking and adjusting toe-in or toe-out. A
+general procedure for checking alignment on a light aircraft
+follows. To ensure that the landing gear settle properly for
+a toe-in/toe-out test, especially on spring steel strut aircraft,
+two aluminum plates separated with grease are put under each
+wheel. Gently rock the aircraft on the plates to cause the gear
+to find the at rest position preferred for alignment checks.
+A straight edge is held across the front of the main wheel tires
+just below axle height. A carpenter’s square placed against
+the straight edge creates a perpendicular that is parallel to
+the longitudinal axis of the aircraft. Slide the square against
+the wheel assembly to see if the forward and aft sections of
+the tire touch the square. A gap in front indicates the wheel
+is toed-in. A gap in the rear indicates the wheel is toed-out.
+[Figure 13-29]
+Vertical plain
+
+Carpenter’s square
+
+Negative camber
+Positive camber
+
+Strut
+Grease
+Aluminum plates
+Straight edge
+
+Figure 13-29. Finding toe-in and toe-out on a light aircraft with
+spring steel struts.
+
+Bubble protractor
+
+Figure 13-30. Camber of a wheel is the amount the wheel is tilted out
+
+of the vertical plain. It can be measured with a bubble protractor.
+
+13-15
+
+===== PDF PAGE 747 =====
+Camber is the alignment of a main wheel in the vertical plain.
+It can be checked with a bubble protractor held against the
+wheel assembly. The wheel camber is said to be positive if
+the top of the wheel tilts outward from vertical. Camber is
+negative if the top of the wheel tilts inward. [Figure 13-30]
+
+Aircraft structural member
+
+Adjustments can be made to correct small amounts of wheel
+misalignment. On aircraft with spring steel gear, tapered shims
+can be added or removed between the bolt-on wheel axle
+and the axle mounting flange on the strut. Aircraft equipped
+with air/oil struts typically use shims between the two arms
+of the torque links as a means of aligning toe-in and toe-out.
+[Figure 13-31] Follow all manufacturer’s instructions.
+
+Trunnion support brackets
+
+Trunnion
+Upper shock strut cylinder
+Shock strut cylinder
+Torque links
+
+Shim here to adjust tow-in
+or tow-out
+
+Shock strut piston
+
+Trunnion
+
+Figure 13-32. The trunnion is a fixed structural support that is part
+of or attached to the upper strut cylinder of a landing gear strut. It
+contains bearing surfaces so the gear can retract.
+Shim here to adjust tow-in or tow-out
+
+Figure 13-31. Toe-in and toe-out adjustments on small aircraft
+
+with spring steel landing gear are made with shims behind the axle
+assembly. On shock strut aircraft, the shims are placed where the
+torque links couple.
+
+Support
+Aircraft landing gear are attached to the wing spars or other
+structural members, many of which are designed for the
+specific purpose of supporting the landing gear. Retractable
+gear must be engineered in such a way as to provide strong
+13-16
+
+===== PDF PAGE 748 =====
+Trunnion bearing surface
+Drag strut
+
+Hinge point
+
+Retracting mechanism
+Figure 13-33. A hinged drag strut holds the trunnion and gear firm
+for landing and ground operation. It folds at the hinge to allow the
+gear to retract.
+
+attachment to the aircraft and still be able to move into a
+recess or well when stowed. A trunnion arrangement is
+typical. The trunnion is a fixed structural extension of the
+upper strut cylinder with bearing surfaces that allow the entire
+gear assembly to move. It is attached to aircraft structure in
+such a way that the gear can pivot from the vertical position
+required for landing and taxi to the stowed position used
+during flight. [Figure 13-32]
+While in the vertical gear down position, the trunnion is free
+to swing or pivot. Alone, it cannot support the aircraft without
+collapsing. A drag brace is used to restrain against the pivot
+action built into the trunnion attachment. The upper end of
+the two-piece drag brace is attached to the aircraft structure
+and the lower end to the strut. A hinge near the middle of the
+brace allows the brace to fold and permits the gear to retract.
+For ground operation, the drag brace is straightened over
+
+center to a stop and locked into position so the gear remains
+rigid. [Figure 13-33] The function of a drag brace on some
+aircraft is performed by the hydraulic cylinder used to raise
+and lower the gear. Cylinder internal hydraulic locks replace
+the over-center action of the drag brace for support during
+ground maneuvers.
+Small Aircraft Retraction Systems
+As the speed of a light aircraft increases, there reaches a point
+where the parasite drag created by the landing gear in the
+wind is greater than the induced drag caused by the added
+weight of a retractable landing gear system. Thus, many
+light aircraft have retractable landing gear. There are many
+unique designs. The simplest contains a lever in the flight
+deck mechanically linked to the gear. Through mechanical
+advantage, the pilot extends and retracts the landing gear by
+operating the lever. Use of a roller chain, sprockets, and a
+hand crank to decrease the required force is common.
+Electrically operated landing gear systems are also found on
+light aircraft. An all-electric system uses an electric motor
+and gear reduction to move the gear. The rotary motion of the
+motor is converted to linear motion to actuate the gear. This
+is possible only with the relatively lightweight gear found
+on smaller aircraft. An all-electric gear retraction system is
+illustrated in Figure 13-34.
+A more common use of electricity in gear retraction systems
+is that of an electric/hydraulic system found in many Cessna
+and Piper aircraft. This is also known as a power pack system.
+A small lightweight hydraulic power pack contains several
+components required in a hydraulic system. These include the
+reservoir, a reversible electric motor-driven hydraulic pump,
+a filter, high-and-low pressure control valves, a thermal relief
+valve, and a shuttle valve. Some power packs incorporate an
+emergency hand pump. A hydraulic actuator for each gear is
+
+Landing gear motor
+Manual control torque tube
+Drag strut
+Manual control gearbox
+Gearbox
+Retracting mechanism
+
+Trunnion support
+Shock strut
+
+Universal joints
+
+Drag strut
+
+Figure 13-34. A geared electric motor landing gear retraction system.
+
+13-17
+
+===== PDF PAGE 749 =====
+driven to extend or retract the gear by fluid from the power
+pack. Figure 13-35 illustrates a power pack system while
+gear is being lowered. Figure 13-36 shows the same system
+while the gear is being raised.
+When the flight deck gear selection handle is put in the geardown position, a switch is made that turns on the electric
+motor in the power pack. The motor turns in the direction to
+rotate the hydraulic gear pump so that it pumps fluid to the
+gear-down side of the actuating cylinders. Pump pressure
+moves the spring-loaded shuttle valve to the left to allow
+
+fluid to reach all three actuators. Restrictors are used in the
+nose wheel actuator inlet and outlet ports to slow down the
+motion of this lighter gear. While hydraulic fluid is pumped to
+extend the gear, fluid from the upside of the actuators returns
+to the reservoir through the gear-up check valve. When the
+gear reach the down and locked position, pressure builds
+in the gear-down line from the pump and the low-pressure
+control valve unseats to return the fluid to the reservoir.
+Electric limit switches turn off the pump when all three gears
+are down and locked.
+
+Reservoir
+Filter
+Gear-type pump
+High-pressure control valve
+Thermal relief valve
+
+Low-pressure control valve
+Gear-up check valve
+
+Shuttle valve
+
+Gear-up check valve piston
+
+Freefall
+valve
+
+Left main-gear actuator
+
+Thermal
+relief
+valve
+
+Emergency
+extend
+
+Pressure
+switch
+
+Down
+
+Right main-gear actuator
+
+Down
+Restrictor
+Nose-gear actuator
+
+Restrictor
+
+Pressure
+Return
+
+Down
+Figure 13-35. A popular light aircraft gear retraction system that uses a hydraulic power pack in the gear down condition.
+
+13-18
+
+===== PDF PAGE 750 =====
+Reservoir
+Filter
+Gear-type pump
+High-pressure control valve
+Thermal relief valve
+
+Low-pressure control valve
+Gear-up check valve
+
+Shuttle valve
+
+Gear-up check valve piston
+
+Freefall
+valve
+
+Left main-gear actuator
+
+Thermal
+relief
+valve
+
+Emergency
+extend
+
+Pressure
+switch
+
+Up
+
+Right main-gear actuator
+
+Up
+Restrictor
+Nose-gear actuator
+
+Pressure
+Return
+Restrictor
+Up
+
+Figure 13-36. A hydraulic power pack gear retraction system in the gear up condition.
+
+To raise the gear, the flight deck gear handle is moved to the
+gear-up position. This sends current to the electric motor,
+which drives the hydraulic gear pump in the opposite direction
+causing fluid to be pumped to the gear-up side of the actuators.
+In this direction, pump inlet fluid flows through the filter.
+Fluid from the pump flows thought the gear-up check valve to
+the gear-up sides of the actuating cylinders. As the cylinders
+begin to move, the pistons release the mechanical down locks
+that hold the gear rigid for ground operations. Fluid from the
+
+gear-down side of the actuators returns to the reservoir through
+the shuttle valve. When the three gears are fully retracted,
+pressure builds in the system, and a pressure switch is opened
+that cuts power to the electric pump motor. The gear are held
+in the retracted position with hydraulic pressure. If pressure
+declines, the pressure switch closes to run the pump and raise
+the pressure until the pressure switch opens again.
+
+13-19
+
+===== PDF PAGE 751 =====
+Large Aircraft Retraction Systems
+Large aircraft retraction systems are nearly always
+powered by hydraulics. Typically, the hydraulic pump is
+driven off of the engine accessory drive. Auxiliary electric
+hydraulic pumps are also common. Other devices used in a
+hydraulically-operated retraction system include actuating
+cylinders, selector valves, uplocks, downlocks, sequence
+valves, priority valves, tubing, and other conventional
+hydraulic system components. These units are interconnected
+so that they permit properly sequenced retraction and
+extension of the landing gear and the landing gear doors.
+The correct operation of any aircraft landing gear retraction
+system is extremely important. Figure 13-37 illustrates an
+
+example of a simple large aircraft hydraulic landing gear
+system. The system is on an aircraft that has doors that
+open before the gear is extended and close after the gear is
+retracted. The nose gear doors operate via mechanical linkage
+and do not require hydraulic power. There are many gear and
+gear door arrangements on various aircraft. Some aircraft
+have gear doors that close to fair the wheel well after the
+gear is extended. Others have doors mechanically attached
+to the outside of the gear so that when it stows inward, the
+door stows with the gear and fairs with the fuselage skin.
+In the system illustrated in Figure 13-37, when the flight deck
+gear selector is moved to the gear-up position, it positions
+a selector valve to allow pump pressure from the hydraulic
+
+Landing gear selector in gear-up position
+
+To system pressure manifold
+
+Down
+
+Up
+
+To system return manifold
+
+Orifice check valve
+
+Orifice check valve
+
+A
+
+B
+
+Left gear
+uplock
+
+Up
+
+Left gear
+downlock
+Gear-door
+sequence
+valve
+
+Up
+
+C
+
+Nose-gear
+downlock
+
+Right
+main-gear
+actuating
+cylinder
+
+Right gear
+uplock
+
+Close
+
+Left
+main-gear
+actuating
+cylinder
+
+Main-gear
+sequence valve
+
+Close
+
+Main-gear
+sequence valve
+
+Right gear
+downlock
+D
+
+Gear-door
+actuator
+
+Gear-door
+actuator
+
+Gear-door
+sequence
+valve
+
+Nose-gear
+uplock
+
+Nose-gear
+actuator
+
+Up
+
+Figure 13-37. A simple large aircraft hydraulic gear retraction system.
+
+13-20
+
+===== PDF PAGE 752 =====
+system manifold to access eight different components. The
+three downlocks are pressurized and unlocked so the gear
+can be retracted. At the same time, the actuator cylinder on
+each gear also receives pressurized fluid to the gear-up side
+of the piston through an unrestricted orifice check valve. This
+drives the gear into the wheel well. Two sequence valves
+(C and D) also receive fluid pressure. Gear door operation
+must be controlled so that it occurs after the gear is stowed.
+The sequence valves are closed and delay flow to the door
+actuators. When the gear cylinders are fully retracted, they
+mechanically contact the sequence valve plungers that open
+the valves and allow fluid to flow into the close side of the
+door actuator cylinders. This closes the doors. Sequence
+valves A and B act as check valves during retraction. They
+allow fluid to flow one way from the gear-down side of the
+main gear cylinders back into the hydraulic system return
+manifold through the selector valve.
+To lower the gear, the selector is put in the gear-down
+position. Pressurized hydraulic fluid flows from the hydraulic
+manifold to the nose gear uplock, which unlocks the nose
+gear. Fluid flows to the gear-down side of the nose gear
+actuator and extends it. Fluid also flows to the open side of
+the main gear door actuators. As the doors open, sequence
+valves A and B block fluid from unlocking the main gear
+uplocks and prevent fluid from reaching the down side of
+the main gear actuators. When the doors are fully open, the
+door actuator engages the plungers of both sequence valves
+to open the valves. The main gear uplocks, then receives
+fluid pressure and unlock. The main gear cylinder actuators
+receive fluid on the down side through the open sequence
+valves to extend the gear. Fluid from each main gear cylinder
+up-side flows to the hydraulic system return manifold through
+restrictors in the orifice check valves. The restrictors slow the
+extension of the gear to prevent impact damage.
+
+extended position under the force created by gravity acting
+upon the gear. Other aircraft use a non-mechanical back-up,
+such as pneumatic power, to unlatch the gear.
+The popular small aircraft retraction system shown in
+Figures 13-35 and 13-36 uses a free-fall valve for emergency
+gear extension. Activated from the flight deck, when the
+free-fall valve is opened, hydraulic fluid is allowed to flow
+from the gear-up side of the actuators to the gear-down side
+of the actuators, independent of the power pack. Pressure
+holding the gear up is relieved, and the gear extends due to
+its weight. Air moving past the gear aids in the extension
+and helps push the gear into the down-and-locked position.
+Large and high-performance aircraft are equipped with
+redundant hydraulic systems. This makes emergency
+extension less common since a different source of hydraulic
+power can be selected if the gear does not function normally.
+If the gear still fails to extend, some sort of unlatching device
+is used to release the uplocks and allow the gear to free fall.
+[Figure 13-38]
+In some small aircraft, the design configuration makes
+emergency extension of the gear by gravity and air loads
+alone impossible or impractical. Force of some kind must
+therefore be applied. Manual extension systems, wherein
+the pilot mechanically cranks the gear into position, are
+common. Consult the aircraft maintenance manual for all
+emergency landing gear extension system descriptions of
+operation, performance standards, and emergency extension
+tests as required.
+
+Manual extension access door
+
+There are numerous hydraulic landing gear retraction
+system designs. Priority valves are sometimes used instead
+of mechanically operated sequence valves. This controls
+some gear component activation timing via hydraulic
+pressure. Particulars of any gear system are found in the
+aircraft maintenance manual. The aircraft technician must
+be thoroughly familiar with the operation and maintenance
+requirements of this crucial system.
+Emergency Extension Systems
+The emergency extension system lowers the landing gear if
+the main power system fails. There are numerous ways in
+which this is done depending on the size and complexity of
+the aircraft. Some aircraft have an emergency release handle
+in the flight deck that is connected through a mechanical
+linkage to the gear uplocks. When the handle is operated, it
+releases the uplocks and allows the gear to free-fall to the
+
+Manual gear extension handles
+Figure 13-38. These emergency gear extension handles in a Boeing
+
+737 are located under a floor panel on the flight deck. Each handle
+releases the gear uplock via a cable system so the gear can freefall
+into the extended position.
+
+13-21
+
+===== PDF PAGE 753 =====
+Landing Gear Safety Devices
+There are numerous landing gear safety devices. The most
+common are those that prevent the gear from retracting or
+collapsing while on the ground. Gear indicators are another
+safety device. They are used to communicate to the pilot the
+position status of each individual landing gear at any time.
+A further safety device is the nose wheel centering device
+mentioned previously in this chapter.
+
+Safety Switch
+A landing gear squat switch, or safety switch, is found on
+most aircraft. This is a switch positioned to open and close
+depending on the extension or compression of the main
+landing gear strut. [Figure 13-39] The squat switch is wired
+into any number of system operating circuits. One circuit
+prevents the gear from being retracted while the aircraft is
+
+on the ground. There are different ways to achieve this lockout. A solenoid that extends a shaft to physically disable the
+gear position selector is one such method found on many
+aircraft. When the landing gear is compressed, the squat
+safety switch is open, and the center shaft of the solenoid
+protrudes a hardened lock-pin through the landing gear
+control handle so that it cannot be moved to the up position.
+At takeoff, the landing gear strut extends. The safety switch
+closes and allows current to flow in the safety circuit. The
+solenoid energizes and retracts the lock-pin from the selector
+handle. This permits the gear to be raised. [Figure 13-40]
+The use of proximity sensors for gear position safety
+switches is common in high-performance aircraft. An
+electromagnetic sensor returns a different voltage to a gear
+logic unit depending on the proximity of a conductive target
+to the switch. No physical contact is made. When the gear
+is in the designed position, the metallic target is close to
+the inductor in the sensor which reduces the return voltage.
+This type of sensing is especially useful in the landing gear
+environment where switches with moving parts can become
+contaminated with dirt and moisture from runways and taxi
+ways. The technician is required to ensure that sensor targets
+are installed the correct distance away from the sensor. Go–no
+go gauges are often used to set the distance. [Figure 13-41]
+
+Ground Locks
+Squat switch
+
+Figure 13-39. Typical landing gear squat switches.
+
+Landing gear selector valve
+
+Ground locks are commonly used on aircraft landing gear as
+extra insurance that the landing gear will remain down and
+locked while the aircraft is on the ground. They are external
+devices that are placed in the retraction mechanism to prevent
+its movement. A ground lock can be as simple as a pin placed
+into the pre-drilled holes of gear components that keep the
+gear from collapsing. Another commonly used ground lock
+clamps onto the exposed piston of the gear retraction cylinder
+Position switch
+
+Landing gear control lever
+
+Control handle
+Lock release solenoid
+
+Lock-pin
+28V DC bus bar
+
+Safety switch
+
+Lever-lock
+FW
+
+D
+
+Lever-lock solenoid
+
+Figure 13-40. A landing gear safety circuit with solenoid that locks the control handle and selector valve from being able to move into
+
+the gear up position when the aircraft is on the ground. The safety switch, or squat switch, is located on the aircraft landing gear.
+
+13-22
+
+===== PDF PAGE 754 =====
+Target
+
+Primary and secondary downlock sensors
+
+Lock strut
+
+Sensor leads
+UP
+Mounting bracket
+Side strut
+INBD
+Rectangular proximity sensor
+
+Power
+Supply
+
+28V DC
+
+Target near
+
+Red
+
+Target
+
+Detector
+
+Blue
+
+0.3V = logic 0
+
+To logic card
+Target far
+
+Red
+
+Target
+
+Detector
+
+Blue
+Sensor
+
+13V = logic 1
+
+Proximity card
+
+Figure 13-41. Proximity sensors are used instead of contact switches on many landing gear.
+
+that prevents it from retracting. All ground locks should
+have red streamers attached to them, so they are visible and
+removed before flight. Ground locks are typically carried in
+the aircraft and put into place by the flight crew during the
+post landing walk-around. [Figure 13-42]
+
+Landing Gear Position Indicators
+To provide a visual indication of landing gear position,
+indicators are installed in the flight deck or flight compartment.
+Gear warning devices are incorporated on all retractable gear
+aircraft and usually consist of a horn or some other aural
+device and a red warning light. The horn blows and the light
+comes on when one or more throttles are retarded and the
+landing gear is in any position other than down and locked.
+Position indicators are typically:
+Off = gear up and locked
+Red = unsafe
+
+Green = down and locked
+There is usually an amber in transit light to indicate a gear
+that is in transition.
+Landing gear position indicators are located on the instrument
+panel adjacent to the gear selector handle. They are used
+to inform the pilot of gear position status. There are many
+arrangements for gear indication. Usually, there is a dedicated
+light for each gear. The most common display for the landing
+gear being down and locked is an illuminated green light.
+Three green lights means it is safe to land. All lights out
+typically indicates that the gear is up and locked, or there
+may be gear up indicator lights. Gear in transit lights are
+used on some aircraft as are barber pole displays when a
+gear is not up or down and locked. Blinking indicator lights
+also indicate gear in transit. Some manufacturer’s use a gear
+disagree annunciation when the landing gear is not in the
+same position as the selector. Many aircraft monitor gear
+13-23
+
+===== PDF PAGE 755 =====
+Landing gear indicator (top) illuminated (red)
+NOSE
+GEAR
+NOSE
+GEAR
+RIGHT
+LEFT
+GEAR
+GEAR
+RIGHT
+LEFT
+GEAR
+GEAR
+
+Landing gear indicator
+(bottom) illuminated
+(green)—related gear
+down and locked
+
+UP
+L
+A
+N
+D
+I
+N
+OFF
+G
+
+LANDING GEAR
+LIMIT (IAS)
+OPERATING
+EXTEND 270—.8M
+RETRACT 235K
+EXTENDED 320—.82K
+
+G
+E
+A
+R
+
+FLAPS LIMIT (IAS)
+
+DN
+
+Landing gear lever
+
+Figure 13-42. Gear pin ground lock devices.
+
+door position in addition to the gear itself. Consult the aircraft
+manufacturer’s maintenance and operating manuals for a
+complete description of the landing gear indication system.
+[Figure 13-43 and Figure 13-44]
+
+Nose Wheel Centering
+Since most aircraft have steerable nose wheel gear assemblies
+for taxiing, a means for aligning the nose gear before
+retraction is needed. Centering cams built into the shock
+strut structure accomplish this. An upper cam is free to mate
+into a lower cam recess when the gear is fully extended.
+This aligns the gear for retraction. When weight returns to
+the wheels after landing, the shock strut is compressed, and
+the centering cams separate allowing the lower shock strut
+(piston) to rotate in the upper strut cylinder. This rotation
+is controlled to steer the aircraft. [Figure 13-45] Small
+aircraft sometimes incorporate an external roller or guide
+pin on the strut. As the strut is folded into the wheel well
+during retraction, the roller or guide pin engages a ramp or
+track mounted to the wheel well structure. The ramp/track
+guides the roller or pin in such a manner that the nose wheel
+is straightened as it enters the wheel well.
+
+Override
+trigger
+LANDING GEAR
+LIMIT (IAS)
+OPERATING
+EXTEND 270 .8M
+RETRACT 235K
+EXTENDED 320 .82K
+
+FLAPS LIMIT (IAS)
+
+Landing gear limit
+speed placard
+
+Figure 13-43. Landing gear selector panels with position indicator
+
+lights. The Boeing 737 panel illuminates red lights above the green
+lights when the gear is in transit.
+
+Landing Gear System Maintenance
+The moving parts and dirty environment of the landing gear
+make this an area of regular maintenance. Because of the
+stresses and pressures acting on the landing gear, inspection,
+servicing, and other maintenance becomes a continuous
+process. The most important job in the maintenance of the
+aircraft landing gear system is thorough accurate inspections.
+To properly perform inspections, all surfaces should be
+cleaned to ensure that no trouble spots are undetected.
+Periodically, it is necessary to inspect shock struts, trunnion
+and brace assemblies and bearings, shimmy dampers, wheels,
+13-24
+
+===== PDF PAGE 756 =====
+Strut cylinder
+Strut piston
+
+GEAR
+UP
+
+Upper locating cam
+
+LANDING
+
+TAXI
+
+5
+
+8
+
+8
+
+Lower locating cam
+
+GEAR
+DOWN
+
+5
+
+15
+
+60
+Figure 13-45. A cutaway view of a nose gear internal centering cam.
+GEAR
+UP
+
+GEAR
+DOWN
+
+LANDING
+
+TAXI
+
+5
+
+8
+
+8
+
+5
+
+15
+
+60
+
+Figure 13-44. Typical landing gear indicator lights and lever as
+found on small aircraft.
+
+wheel bearings, tires, and brakes. Landing gear position
+indicators, lights, and warning horns must also be checked
+for proper operation. During all inspections and visits to the
+wheel wells, ensure all ground safety locks are installed.
+Other landing gear inspection items include checking
+emergency control handles and systems for proper position
+and condition. Inspect landing gear wheels for cleanliness,
+corrosion, and cracks. Check wheel tie bolts for looseness.
+Examine anti-skid wiring for deterioration. Check tires for
+wear, cuts, deterioration, presence of grease or oil, alignment
+of slippage marks, and proper inflation. Inspect landing gear
+mechanism for condition, operation, and proper adjustment.
+Lubricate the landing gear, including the nose wheel steering.
+Check steering system cables for wear, broken strands,
+
+alignment, and safetying. Inspect landing gear shock struts
+for such conditions as cracks, corrosion, breaks, and security.
+Where applicable, check brake clearances and wear.
+Various types of lubricant are required to lubricate points
+of friction and wear on landing gear. Specific products to
+be used are given by the manufacturer in the maintenance
+manual. Lubrication may be accomplished by hand or with
+a grease gun. Follow manufacturer’s instructions. Before
+applying grease to a pressure grease fitting, be sure the fitting
+is wiped clean of dirt and debris, as well as old hardened
+grease. Dust and sand mixed with grease produce a very
+destructive abrasive compound. Wipe off all excess grease
+while greasing the gear. The piston rods of all exposed strut
+cylinders and actuating cylinders should be clean at all times.
+Periodically, wheel bearings must be removed, cleaned,
+inspected, and lubricated. When cleaning a wheel bearing, use
+the recommended cleaning solvent. Do not use gasoline or jet
+fuel. Dry the bearing by directing a blast of dry air between
+the rollers. Do not direct the air so that it spins the bearing as
+without lubrication, this could cause the bearing to fly apart
+resulting in injury. When inspecting the bearing, check for
+defects that would render it unserviceable, such as cracks,
+flaking, broken bearing surfaces, roughness due to impact
+pressure or surface wear, corrosion or pitting, discoloration
+from excessive heat, cracked or broken bearing cages, and
+scored or loose bearing cups or cones that would affect proper
+seating on the axle or wheel. If any discrepancies are found,
+replace the bearing with a serviceable unit. Bearings should
+be lubricated immediately after cleaning and inspection to
+prevent corrosion.
+To lubricate a tapered roller bearing, use a bearing lubrication
+13-25
+

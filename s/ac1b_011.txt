@@ -1,0 +1,572 @@
+AC 43.13-1B Chg 1, chapter 4 (Metal Structure, Welding, And Brazing), PDF pages 226-247
+
+===== PDF PAGE 226 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (f) The application of the melted solder requires somewhat more care than is
+apparent. The parts to be soldered should be locked together or held mechanically or manually
+while tacking. To tack the seam, the hot copper iron is touched to a bar of solder, then the drops
+of solder adhering to the copper iron are used to tack the seam at a number of points. The film of
+solder between the surfaces of a joint must be kept thin to make the strongest joint.
+
+   (g) A hot, well-tinned soldering copper iron should be held so that its point lies flat
+on the metal (at the seam), while the back of the copper iron extends over the seam proper at a
+45-degree angle, and a bar of solder is touched to the point. As the solder melts, the copper iron
+is drawn slowly along the seam. As much solder as necessary is added without raising the
+soldering copper iron from the job. The melted solder should run between the surfaces of the two
+sheets and cover the full width of the seam. Work should progress along the seam only as fast as
+the solder will flow into the joint.
+
+4-89. AIRCRAFT PARTS NOT TO BE WELDED.
+
+   a. Brace Wires and Cables. Do not weld aircraft parts whose proper function depends
+upon strength properties developed by cold-working. Among parts in this classification are
+streamlined wire and cables.
+
+   b. Brazed and Soldered Parts. Do not weld brazed or soldered parts as the brazing
+mixture or solder will penetrate and weaken the hot steel.
+
+   c. Alloy Steel Parts. Do not weld alloy steel parts such as aircraft bolts, turnbuckle ends,
+etc., which have been heat treated to improve their mechanical properties.
+
+   d. Nos. 2024 and 7075 Aluminum. Do not weld these two aluminum alloys (that are often
+used in aircraft construction) because the heat from the welding process will cause severe
+cracking. The 2024 aluminum is most often used in wing skins, fuselage skins, and in most
+structured airframe parts. The 7075 aluminum is most often used in machined fittings such as
+wing spar attachments, landing-gear attachments, and other structural parts.
+
+4-90. WELDING ROD SELECTION. Most aircraft repair shops that are prepared to make
+weld repairs should have the basic selection of welding rods available. The best rods to stock, the
+metals they weld, and the AWS specification numbers are shown in Table 4-15.
+
+Par 4-90  Page 4-75
+
+===== PDF PAGE 227 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 4-15. CHART SHOWING WELDING FILLER ROD SELECTION
+
+   Welding Rod #  AMS Spec.  AWS Spec.  Welds These Metals
+   4130  AMS 6457  AWS A5.18  Mild steel, 4130 steel
+   4140  AMS 6452  AWS A5.28  4140 steel
+   4043  AMS 4190  AWS A5.10  Most weldable
+   aluminum
+   308L  AMS 5692  AWS A5.9  304 stainless steel
+   316L  AMS 5692  AWS A5.9  316 stainless steel
+   AZ61A  AMS 4350  AWS A5.19  AZ61A magnesium
+   ERTi-5  AMS 4954  AWS A5-16  Titanium
+
+4-91. REPAIR OF TUBULAR MEMBERS.
+
+   a. Inspection. Prior to repairing tubular members, carefully examine the structure
+surrounding any visible damage to insure that no secondary damage remains undetected.
+Secondary damage may be produced in some structure, remote from the location of the primary
+damage, by the transmission of the damaging load along the tube. Damage of this nature usually
+occurs where the most abrupt change in direction of load travel is experienced. If this damage
+remains undetected, subsequent normal loads may cause failure of the part.
+
+   b. Location and Alignment of Welds. Unless otherwise noted, welded steel tubing may
+be spliced or repaired at any location along the length of the tube. To avoid distortion, pay
+particular attention to the proper fit and alignment.
+
+   c. Members Dented at a Cluster. Repair dents at a steel-tube cluster joint by welding a
+specially formed steel patch plate over the dented area and surrounding tubes. (See Figure 4-34.)
+To prepare the patch plate, cut a section of steel sheet of the same material and thickness as the
+heaviest tube damaged. Trim the reinforcement plate so that the fingers extend over the tubes a
+minimum of 1.5 times the respective tube diameter. (See Figure 4-34.) Remove all the existing
+finish on the damaged cluster-joint area to be covered by the reinforcement plate. The
+reinforcement plate may be formed before any welding is attempted, or it may be cut and
+tack-welded to one or more of the tubes in the cluster joint, then heated and formed around the
+joint to produce a smooth contour. Apply sufficient heat to the plate while forming so that there
+is generally a gap of no more than 1/16 inch from the contour of the joint to the plate. In this
+operation avoid unnecessary heating, and exercise care to prevent damage at the point of the
+angle formed by any two adjacent fingers of the plate. After the plate is formed and tack-welded
+to the cluster joint, weld all the plate edges to the cluster joint.
+
+Par 4-90  Page 4-76
+
+===== PDF PAGE 228 =====
+9/27/01  AC 43.13-1B CHG 1
+
+FIGURE 4-34. FINGER PATCH REPAIRS FOR MEMBERS DENTED AT A CLUSTER
+
+   d. Members Dented in a Bay. Repair dented, bent, cracked, or otherwise damaged
+tubular members by using a split-sleeve reinforcement. Carefully straighten the damaged
+member, and in the case of cracks, drill No. 40 (0.098 inch) stop holes at the ends of the crack.
+
+4-92. REPAIR BY WELDED SLEEVE. This repair is outlined in Figure 4-35. Select a
+length of steel tube sleeve having an inside diameter approximately equal to the outside diameter
+of the damaged tube and of the same material, and at least the same wall thickness. Diagonally
+cut the sleeve reinforcement at a 30-degree angle on both ends so that the minimum distance of
+the sleeve from the edge of the crack or dent is not less than 1-1/2 times the diameter of the
+damaged tube. Cut through the entire length of the reinforcement sleeve, and separate the
+half-sections of the sleeve. Clamp the two sleeve sections to the proper positions on the affected
+areas of the original tube. Weld the reinforcement sleeve along the length of the two sides, and
+weld both ends of the sleeve to the damaged tube. (See Figure 4-35.) The filling of dents or
+cracks with welding rod in lieu of reinforcing the member is not acceptable.
+
+Par 4-91  Page 4-77
+
+===== PDF PAGE 229 =====
+9/27/01  AC 43.13-1B CHG 1
+
+  FIGURE 4-35. MEMBERS DENTED IN A BAY (REPAIRS BY WELDED SLEEVE)
+
+Par 4-92  Page 4-78
+
+===== PDF PAGE 230 =====
+9/27/01  AC 43.13-1B CHG 1
+
+4-93. REPAIR BY BOLTED SLEEVE. Do not use bolted-sleeve repairs on welded steel-tube
+structure unless specifically authorized by the manufacturer or the FAA. The tube area removed
+by the bolt holes, in this type of repair, may prove critical.
+
+4-94. WELDED-PATCH REPAIR. Dents or holes in tubing may be repaired by using a patch
+of the same material, one gauge thicker. (See Figure 4-36.)
+
+   FIGURE 4-36. WELDED-PATCH REPAIR
+
+   a. Dented Tubing.
+
+   (1) Dents are not deeper than 1/10 of tube diameter, do not involve more than 1/4 of the
+tube circumference, and are not longer than tube diameter.
+
+   (2) Dents are free from cracks, abrasions, and sharp corners.
+
+   (3) The dented tubing can be substantially reformed, without cracking, before
+application of the patch.
+
+   b. Punctured Tubing. Holes are not longer than tube diameter and involve not more than
+1/4 of tube circumference.
+
+4-95. SPLICING TUBING BY INNER-SLEEVE METHOD. If the damage to a structural
+tube is such that a partial replacement of the tube is necessary, the inner-sleeve splice is
+recommended; especially where a smooth tube surface is desired. (See Figure 4-37.)
+
+   a. Make a diagonal cut when removing the damaged portion of the tube, and remove the
+burr from the edges of the cut by filing or similar means. Diagonally cut a replacement steel tube
+of the same material and diameter, and at least the same wall thickness, to match the length of
+the removed portion of the damaged tube. At each end of the replacement tube allow a 1/8-inch
+gap from the diagonal cuts to the stubs of the original tube. Select a length of steel tubing of the
+same material, and at least the same wall thickness, and of an outside diameter equal to the inside
+diameter of the damaged tube. Fit this inner-sleeve tube material snugly within the original tube,
+with a maximum diameter difference of 1/16 inch. From this inner-sleeve tube material cut two
+
+Par 4-93  Page 4-79
+
+===== PDF PAGE 231 =====
+9/27/01  AC 43.13-1B CHG 1
+
+sections of tubing, each of such a length that the ends of the inner sleeve will be a minimum
+distance of 1-1/2-tube diameters from the nearest end of the diagonal cut.
+
+   b. If the inner sleeve fits very tightly in the replacement tube, chill the sleeve with dry ice
+or cold water. If this is insufficient, polish down the diameter of the sleeve with emery cloth.
+Tack the outer and inner replacement tubes using rosette welds. Weld the inner sleeve to the tube
+stubs through the 1/8-inch gap, forming a weld bead over the gap.
+
+4-96. SPLICING TUBING BY OUTER-SLEEVE METHOD. If partial replacement of a
+tube is necessary, make the outer-sleeve splice using a replacement tube of the same diameter.
+Since the outer-sleeve splice requires the greatest amount of welding, it should be used only
+when the other splicing methods are not suitable. Information on the replacement by use of the
+outer-sleeve method is given in Figure 4-38 and Figure 4-39.
+
+Par 4-95  Page 4-80
+
+===== PDF PAGE 232 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-37. SPLICING BY INNER-SLEEVE METHOD
+
+Par 4-96  Page 4-81
+
+===== PDF PAGE 233 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-38. SPLICING BY OUTER-SLEEVE METHOD (REPLACEMENT BY
+   WELDED OUTSIDE SLEEVE)
+
+Par 4-96  Page 4-82
+
+===== PDF PAGE 234 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-39. TUBE REPLACEMENT AT A STATION BY WELDED
+   OUTER SLEEVES
+
+   a. Remove the damaged section of a tube utilizing a 90-degree cut. Cut a replacement
+steel tube of the same material, diameter, and at least the same wall thickness to match the length
+of the removed portion of the damaged tube. This replacement tube must bear against the stubs
+of the original tube with a total tolerance not to exceed 1/32 inch. The outer-sleeve tube material
+selected must be of the same material and at least the same wall thickness as the original tube.
+The clearance between inside diameter of the sleeve and the outside diameter of the original tube
+may not exceed 1/16 inch.
+
+   b. From this outer-sleeve tube material, cut diagonally (or fishmouth) two sections of
+tubing, each of such length that the nearest end of the outer sleeve is a minimum distance of
+1–1/2-tube diameters from the end of the cut on the original tube. Use a fishmouth sleeve
+wherever possible. Deburr the edges of the sleeves, replacement tube, and the original tube stubs.
+
+   c. Slip the two sleeves over the replacement tube, align the replacement tube with the
+original tube stubs, and slip the sleeves over the center of each joint. Adjust the sleeves to suit
+the area and provide maximum reinforcement.
+
+   d. Tack weld the two sleeves to the replacement tube in two places before welding. Apply
+a uniform weld around both ends of one of the reinforcement sleeves and allow the weld to cool;
+then, weld around both ends of the remaining reinforcement tube. Allow one sleeve weld to cool
+before welding the remaining tube to prevent undue warping.
+
+4-97. SPLICING USING LARGER DIAMETER REPLACEMENT TUBES. The method
+of splicing structural tubes, as shown in Figure 4-40, requires the least amount of cutting and
+welding. However, this splicing method cannot be used where the damaged tube is cut too near
+the adjacent cluster joints, or where bracket-mounting provisions make it necessary to maintain
+
+Par 4-96  Page 4-83
+
+===== PDF PAGE 235 =====
+9/27/01  AC 43.13-1B CHG 1
+
+the same replacement tube diameter as the original. As an aid to installing the replacement tube,
+squarely cut the original damaged tube leaving a minimum short stub equal to 2-1/2-tube
+diameters on one end and a minimum long stub equal to 4-1/2-tube diameters on the other end.
+Select a length of steel tube of the same material and at least the same wall thickness, having an
+inside diameter approximately equal to the outside diameter of the damaged tube. Fit this
+replacement tube material snugly around the original tube with a maximum diameter difference
+of 1/16 inch. From this replacement tube material, cut a section of tubing diagonally (or
+fishmouth) of such a length that each end of the tube is a minimum distance of 1-1/2-tube
+diameters from the end of the cut on the original tube. Use a fishmouth cut replacement tube
+wherever possible. Deburr the edges of the replacement tube and original tube stubs. If a
+fishmouth cut is used, file out the sharp radius of the cut with a small round file. Spring the long
+stub of the original tube from the normal position, slip the replacement tube over the long stub,
+and then back over the short stub. Center the replacement tube between the stubs of the original
+tube. Tack weld one end of the replacement tube in several places, then weld completely around
+the end. In order to prevent distortion, allow the weld to cool completely, then weld the
+remaining end of the replacement tube to the original tube.
+
+   FIGURE 4-40. SPLICING USING LARGER DIAMETER REPLACEMENT TUBE
+
+4-98. REPAIRS AT BUILT-IN FUSELAGE FITTINGS. Make splices in accordance with
+the methods described in paragraphs 4-86 through 4-92. Repair built-in fuselage fittings in the
+manner shown in Figure 4-41. The following paragraphs outline the different methods as shown
+in Figure 4-41.
+
+Par 4-97  Page 4-84
+
+===== PDF PAGE 236 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-41. REPAIRS AT BUILT-IN FUSELAGE FITTINGS
+
+   a. Tube of Larger Diameter Than Original. A tube (sleeve) of larger diameter than the
+original is used in the method shown in Figure 4-41, image (A). The forward splice is a
+30-degree scarf splice. Cut the rear longeron (right) approximately 4 inches from the centerline
+of the joint and fit a 1 inch long spacer over the longeron, and edge weld this spacer and
+longeron. Make a tapered “V” cut approximately 2 inches long in the aft end of the outer sleeve,
+and swage the end of the outer sleeve to fit the longeron and weld.
+
+   b. Tube of Same Diameter as Original. In the method shown in Figure 4-41, image (B),
+the new section is the same size as the longeron forward (left) of the fitting. The rear end (right)
+of the tube is cut at 30 degrees and forms the outside sleeve of the scarf splice. A sleeve is
+centered over the forward joint as indicated.
+
+   c. Simple Sleeve. In Figure 4-41, image (C), it is assumed the longeron is the same size on
+each side of the fitting. It is repaired by a sleeve of larger diameter than the longeron.
+
+Par 4-98  Page 4-85
+
+===== PDF PAGE 237 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   d. Large Difference in Longeron Diameter Each Side of Fitting. Figure 4-41,
+image (D) assumes that there is 1/4-inch difference in the diameter of the longeron on the two
+sides of the fitting. The section of longeron forward (left) of the fitting is cut at 30 degrees, and a
+section of tubing of the same size as the tube and of such length as to extend well to the rear
+(right) of the fitting is slipped through it. One end is cut at 30 degrees to fit the 30-degree scarf at
+left, and the other end fishmouthed. This makes it possible to insert a tube of proper diameter to
+form an inside sleeve for the tube on the left of the fitting and an outside sleeve for the tube on
+the right of the fitting.
+
+4-99. ENGINE-MOUNT REPAIRS. All welding on an engine mount must be of the highest
+quality, since vibration tends to accentuate any minor defect. Engine-mount members should
+preferably be repaired by using a larger diameter replacement tube, telescoped over the stub of
+the original member, and using fishmouth and rosette welds. However, 30-degree scarf welds in
+place of the fishmouth welds will be considered acceptable for engine-mount repair work.
+
+   a. Repaired engine mounts must be checked for accurate alignment. When tubes are used
+to replace bent or damaged ones, the original alignment of the structure must be maintained.
+When drawings are not available, this can be done by measuring the distance between points of
+corresponding members that have not been distorted.
+
+   b. Grind out all cracked welds.
+
+   c. Use only high-grade metallurgically controlled (mc) welding rods for engine-mount
+repairs.
+
+   d. If all members are out of alignment, reject the engine mount and replace with one
+supplied by the manufacturer or one which was built to conform to the manufacturer’s drawings.
+The method of checking the alignment of the fuselage or nacelle points should be requested from
+the manufacturer.
+
+   e. Repair minor damage, such as a crack adjacent to an engine-attachment lug, by
+rewelding the ring and extending a gusset or a mounting lug past the damaged area.
+Engine-mount rings which are extensively damaged must not be repaired, unless the method of
+repair is specifically approved by the FAA, or the repair is accomplished in accordance with
+FAA-approved instructions.
+
+   f. If the manufacturer stress relieved the engine mount after welding it, the engine
+mount should be re-stress relieved after the weld repairs are made.
+
+4-100. BUILT-UP TUBULAR WING OR TAIL-SPARS. Repair built-up tubular wing or
+tail-spars by using any of the applicable splices and methods of repair shown in Figure 4-35
+through Figure 4-45, provided the spars are not heat treated. In the case of heat-treated spars, the
+entire spar assembly would have to be reheat treated to the manufacturer’s specifications after
+completion of the repair. In general, this will be found less practicable than replacing the spar
+with one furnished by the manufacturer or holder of the Parts Manufacturer Approval (PMA) for
+the part.
+
+Par 4-98  Page 4-86
+
+===== PDF PAGE 238 =====
+9/27/01  AC 43.13-1B CHG 1
+
+ FIGURE 4-42. STREAMLINE TUBE SPLICE USING ROUND TUBE (APPLICABLE
+   TO LANDING GEAR)
+
+Par 4-100  Page 4-87
+
+===== PDF PAGE 239 =====
+9/27/01  AC 43.13-1B CHG 1
+
+ FIGURE 4-43. STREAMLINE TUBE SPLICE USING SPLIT SLEEVE (APPLICABLE
+   TO WING AND TAIL SURFACE BRACE STRUTS AND OTHER MEMBERS)
+
+Par 4-100  Page 4-88
+
+===== PDF PAGE 240 =====
+9/27/01  AC 43.13-1B CHG 1
+
+ FIGURE 4-44. STREAMLINE TUBE SPLICE USING SPLIT INSERT (APPLICABLE
+   TO LANDING GEAR)
+
+Par 4-100  Page 4-89
+
+===== PDF PAGE 241 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-45. STREAMLINE TUBE SPLICE USING PLATES (APPLICABLE TO
+   LANDING GEAR)
+
+4-101. WING-BRACE STRUTS AND TAIL-BRACE STRUTS. In general, it will be found
+advantageous to replace damaged wing-brace struts made either from rounded or streamlined
+tubing with new members purchased from the original manufacturer. However, there is no
+objection, from an airworthiness point of view, to repairing such members in a proper manner.
+An acceptable method of repair, if streamlined tubing is used, will be found in Figure 4-43.
+Repair similar members made of round tubes using a standard splice, as shown in Figure 4-35,
+Figure 4-37, or Figure 4-38.
+
+   a. Location of Splices. Steel-brace struts may be spliced at any point along the length of
+the strut, provided the splice does not overlap part of an end fitting. The jury-strut attachment is
+not considered an end fitting; therefore, a splice may be made at this point. The repair procedure
+and workmanship minimize distortion due to welding and the necessity for subsequent
+straightening operations. Observe every repaired strut carefully during initial flights to ascertain
+that the vibration characteristics of the strut and attaching components are not adversely affected
+by the repair. A wide range of speed and engine-power combination must be covered during this
+check.
+
+Par 4-100  Page 4-90
+
+===== PDF PAGE 242 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   b. Fit and Alignment. When making repairs to wing and tail surface brace members,
+ensure repairs are properly fit and aligned to avoid distortion.
+
+4-102. LANDING GEAR REPAIR.
+
+   a. Round Tube Construction. Repair landing gears made of round tubing using standard
+repairs and splices as shown in Figure 4-35 and Figure 4-41.
+
+   b. Streamline Tube Construction. Repair landing gears made of streamlined tubing by
+either one of the methods shown in Figure 4-42, Figure 4-44, or Figure 4-45.
+
+   c. Axle Assemblies. Representative types of repairable and nonrepairable landing gear
+axle assemblies are shown in Figures 4-46 and 4-47. The types as shown in Figure 4-46,
+images (A), (B), and (C) are formed from steel tubing and may be repaired by the applicable
+method shown in Figure 4-35 through Figure 4-45. However, it will always be necessary to
+ascertain whether or not the members are heat treated. The axle assembly as shown in
+Figure 4-47 is, in general, of a nonrepairable type for the following reasons.
+
+  FIGURE 4-46. REPRESENTATIVE TYPES OF REPAIRABLE AXLE ASSEMBLIES
+
+Par 4-101  Page 4-91
+
+===== PDF PAGE 243 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 4-47. LANDING GEAR ASSEMBLIES THAT CANNOT BE REPAIRED
+   BY WELDING
+
+   (1) The axle stub is usually made from a highly heat-treated nickel alloy steel and
+carefully machined to close tolerances. These stubs are usually replaceable and must be replaced
+if damaged.
+
+   (2) The oleo portion of the structure is generally heat treated after welding, and is
+perfectly machined to ensure proper functioning of the shock absorber. These parts would be
+distorted by welding after machining.
+
+4-103. REPAIRS TO WELDED ASSEMBLIES. These repairs may be made by the following
+methods.
+
+   a. A welded joint may be repaired by cutting out the welded joint and replacing it with
+one properly gusseted. Standard splicing procedures should be followed.
+
+Par 4-102  Page 4-92
+
+===== PDF PAGE 244 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   b. Replacing weld deposit by chipping out the metal deposited by the welding process
+and rewelding after properly reinforcing the joint by means of inserts or external gussets.
+
+4-104. STAINLESS STEEL STRUCTURE. Repair structural components made from stainless
+steel, particularly the “18-8” variety (18 percent chromium, 8 percent nickel), joined by spot
+welding, in accordance with the instructions furnished by the manufacturer, a Designated
+Engineering Representative (DER), or the FAA. Substitution of bolted or riveted connections for
+spot-welded joints are to be specifically approved by a DER or the FAA. Repair secondary
+structural and nonstructural elements such as tip bows or leading and trailing edge tip strips of
+wing and control surfaces by soldering with a 50-50 lead-tin solder or a 60-40 lead-tin solder.
+For best results, use a flux of phosphoric acid (syrup). Since the purpose of flux is to attack the
+metal so that the soldering will be effective, remove excess flux by washing the joint. Due to the
+high heat conductivity of the stainless steel, use a soldering iron large enough to do the work
+properly.
+
+4-105.–4-110. [RESERVED.]
+
+Par 4-103  Page 4-93
+
+===== PDF PAGE 245 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 6. WELDING AND BRAZING SAFETY
+
+4-111. GENERAL. A number of inherent hazards exist in the use of oxy-fuel welding and
+cutting apparatus. It is necessary that proper safety and operating procedures are understood. A
+thorough understanding of the proper safety and operating procedures minimizes the hazards
+involved and adds to the pleasure and efficiency of your work.
+
+4-112. FIRE AND EXPLOSION SAFETY. Fires occur in welding areas because flammables
+are left where they can be ignited by welding sparks or gas welding flames. Before welding,
+clear the welding area of all flammables such as rags, paper, wood, paint cans, solvent, and trash
+containers. Do not weld in areas where flammables are present.
+
+   a. Unless absolutely necessary, never weld any tank or radiator that has had a flammable
+in it, including gasoline, Aviation Gasoline (AVGAS), motor oil, hydraulic fluid, or any other
+liquid that could ignite if the vapor and temperature reach a flashpoint. Explosions often occur
+when empty tanks are being welded or cut open with a torch.
+
+   b. If welding such tanks or radiator coolers is absolutely necessary, the tank must first be
+washed with a caustic-based, water-soluble liquid, rinsed with plenty of clear water, and then
+dried. Before welding, the tank or container should be thoroughly purged with argon, or other
+inert gas, while the welding is in process.
+
+4-113. WELDING WORK AREA.
+
+   a. The work area must have a fireproof floor; concrete floors are recommend.
+
+   b. Use heat-resistant shields to protect nearby walls or unprotected flooring from sparks
+and hot metal.
+
+   c. Maintain an adequate suction ventilation system to prevent the concentration of
+oxygen/fuel gas, flammable gases, and/or toxic fumes. It is important to remember that oxygen
+will not burn. The presence of oxygen, however, serves to accelerate combustion, and causes
+materials to burn with great intensity.
+
+   CAUTION: Oil and grease in the presence of oxygen can ignite and burn
+   violently.
+
+   d. A completely clean welding shop area with white walls, ceiling, and floor; and with
+plenty of light, is better for welding. The better the lighting conditions, the easier it is to see the
+weld puddle and make excellent aircraft-quality welds.
+
+   e. During oxy-fuel processes, use work benches or tables with fireproof tops. Fire bricks
+commonly top these surfaces and support the work.
+
+   f. Chain or otherwise secure oxygen and fuel gas cylinders to a wall, bench, post,
+cylinder cart, etc. This will protect them from falling and hold them upright.
+
+Par 4-111  Page 4-94
+
+===== PDF PAGE 246 =====
+9/27/01  AC 43.13-1B CHG 1
+
+4-114. FIRE PROTECTION. Practice fire prevention techniques whenever oxy-fuel operations
+are in progress. Simple precautions prevent most fires, and minimize damage in the event that a
+fire does occur. Always practice the following rules and safety procedures.
+
+   a. Inspect oxy-fuel apparatus for oil, grease, or damaged parts. DO NOT use the
+oxy-fuel apparatus if oil or grease is present or if damage is evident. Have the oxy-fuel apparatus
+cleaned and/or repaired by a qualified repair technician before it is used.
+
+   b. Never use oil or grease on or around any oxy-fuel apparatus. Even a trace of oil or
+grease can ignite and burn violently in the presence of oxygen.
+
+   c. Keep flames, heat, and sparks away from cylinders and boxes.
+
+   d. Flying sparks can travel as much as 35 feet. Move combustibles a safe distance away
+from areas where oxy-fuel operations are performed.
+
+   e. Use approved heat-resistant shields to protect nearby walls, floor, and ceiling.
+
+   f. Have a fire extinguisher of the proper class (ABC) and size in the work area. Inspect it
+regularly to ensure that it is in proper working order. Know how it is used.
+
+   g. Use oxy-fuel equipment only with the gases for which it is intended.
+
+   h. DO NOT open an acetylene cylinder valve more than approximately 1-1/2 turns and
+preferably no more than 3/4 of a turn. Keep the cylinder wrench, if one is required, on the
+cylinder valve so, if necessary, the cylinder may be turned off quickly.
+
+   i. On all gases except acetylene, open the cylinder valve completely to seal the cylinder
+back-seal packing.
+
+   j. NEVER TEST FOR GAS LEAKS WITH A FLAME. Use an approved leak-detector
+solution.
+
+   k. When work is complete, inspect the area for possible fires or smoldering materials.
+
+   l. Special care should be taken when welding structural tubing that has been coated on
+the inside with linseed oil. Smoke and fire may be generated by the heat of the torch. Ensure that
+an observer with a fire extinguisher is close.
+
+4-115. PROTECTIVE APPAREL.
+
+   a. Protect yourself from sparks, flying slag, and flame brilliance at all times.
+
+   (1) For gas welding and brazing, use number 3 or 4 green-shaded tempered lenses.
+
+   (2) When gas welding aluminum, use cobalt-blue tint lenses.
+
+   (3) When arc welding, including TIG, MIG, and plasma cutting; use number 9 to 12
+green lenses and a full face-and-neck covering helmet.
+
+Par 4-114  Page 4-95
+
+===== PDF PAGE 247 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (4) Electronically darkening lenses provide number 3 to 12 automatic darkening as soon
+as the arc is ignited.
+
+   b. Wear protective gloves, sleeves, aprons, and lace-up shoes to protect skin and clothing
+from sparks and slag.
+
+   CAUTION: Keep all clothing and protective apparel absolutely free of oil or
+   grease.
+
+4-116. FIRST AID KITS. Always keep a special welder’s first aid kit where it is easily
+accessible. Burns are the most common welding accidents.
+
+4-117.–4-128. [RESERVED.]
+
+Par 4-115  Page 4-96
+

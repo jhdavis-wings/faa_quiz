@@ -1,0 +1,467 @@
+AC 43.13-2C, chapter 6 (Ski Installations), PDF pages 62-74
+
+===== PDF PAGE 62 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 6. SKI INSTALLATIONS
+
+ 6.1 Purpose. This chapter provides information about ski installations on small airplanes.
+   The information provided for main ski and nose ski installations applies to wheel
+   replacement skis only. Tire-cushioned skis other than tail skis, wheel penetration skis,
+   and hydraulically adjustable or retractable skis involve special considerations and cannot
+   be installed by relying solely on data in this AC.
+
+ 6.2 Hazards and Warnings. Operation of ski planes exposes the airplane and its occupants
+   to additional risks not associated with wheel-equipped landplanes. The additional weight
+   and surface area of skis impose additional ground and air loads on the airplane. Ground
+   handling, taxiing, takeoff, and landing can place significant side loads and twisting
+   moments on the landing gear and its attachment structure, which can cause hidden or
+   cumulative damage, or both. Improper rigging, weak springs or shock cords, or all, can
+   cause the skis to “dump,” or rotate nose down in flight, possibly rendering the airplane
+   uncontrollable or causing it to break up in flight. Skis with weak springs or shock cords
+   may rotate nose down and “dig,” or penetrate the snow, during takeoff or landing on
+   uneven or drifted snow, which could result in an accident. In-service failure of ski
+   attachment hardware, springs, shock cords, or cables creates a high risk of those parts or a
+   ski itself entering the propeller arc, which has resulted in complete loss of airplanes in
+   flight. For these reasons, proper installation, rigging, periodic inspection, and
+   maintenance of skis and their attaching parts are of utmost importance to safety.
+   Consultation with experienced ski maintenance technicians and operators is strongly
+   recommended when considering any new ski installation or any alteration of an existing
+   ski installation.
+
+ 6.3 Additional References (current editions).
+
+   •  Airframe and ski manufacturers’ data, if available.
+   •  AC 43.13-1, Acceptable Methods, Techniques, and Practices―Airplane Inspection
+   and Repair.
+   •  AC 43-210, Standardized Procedures for Obtaining Approval of Data Used in the
+   Performance of Major Repairs and Major Alterations.
+   •  Civil Air Regulation (CAR) 6, Rotorcraft Airworthiness; Normal Category.
+   •  FAA Order 8110.54, Instructions for Continued Airworthiness Responsibilities,
+   Requirements, and Contents.
+   •  FAA-H-8083-23, Seaplane, Skiplane, and Float/Ski Equipped Helicopter Operations
+   Handbook.
+
+ 6.4 Installation Considerations.
+
+6.4.1 Determining Eligibility of an Airplane. Only an airplane approved for operation on skis is
+   eligible for ski installations in accordance with this chapter. Eligibility can be determined
+   by referring to the aircraft specifications, Type Certificate Data Sheets (TCDS), aircraft
+   listing, summary of Supplemental Type Certificates (STC), or by contacting the
+
+   6-1
+
+===== PDF PAGE 63 =====
+7/29/26  AC 43.13-2C
+
+   manufacturer. Also, determine the need for any required alterations to the airplane to
+   make it eligible for ski operations. Refer to ski plane-specific entries throughout
+   TCDS A4CE on airspeeds, Weight and Balance (W&B) limitations and additional
+   placards, and the Required Equipment listing for the first model in Aircraft
+   Specification A-790 for examples. If the airplane is not approved in a ski plane
+   configuration by type design, then skis cannot be installed by relying solely on data in
+   this AC. Contact FAA engineering for approval or obtain or develop approved data from
+   another source.
+
+6.4.2 Identification of Approved Model Skis. Determine that the skis are of an approved model
+   by examining the identification plates or placards displayed on the skis. Skis of approved
+   models will have such plates or placards, and the Technical Standard Order (TSO)-C28;
+   an aircraft component, accessory, or equipment type certificate (TC) number; or an
+   airplane part number (if the skis have been approved as part of the airplane) will be
+   engraved or imprinted on each plate or placard.
+
+6.4.3 Maximum Limit Load Rating.
+
+   6.4.3.1  Known Limit Landing Load Factor. Before installation, determine that the
+   maximum limit load rating (L) of the ski, as specified on its identification
+   plate or placard, is at least equal to the maximum static load on it (S) times the
+   limit landing load factor (fl) previously determined from drop tests of the
+   airplane by its manufacturer. This requirement can be expressed by the
+   following equation:
+
+   L = S x fl
+
+   6.4.3.2  Unknown Limit Landing Load Factor. In lieu of a value fl determined from
+   such drop tests, a value of fl determined from the following formula may be
+   used:
+
+   9000
+   η = 2.80 + (W + 4000)
+   where “W” is the certificated gross weight of the airplane
+
+6.4.4 Oversize Ski Installations. This limitation is to ensure that the oversize skis will not
+   adversely affect the performance, stability, controllability, and spin recovery behavior of
+   the airplane or impose excessive loads on it.
+
+6.4.5 Landing Gear Moment Reactions: Landing Gear Bending Moments. In order to avoid
+   excessive bending moments on the landing gear and attachment structure, the ski pedestal
+   height measured from the bottom surface of the ski to the axle centerline must not exceed
+   130 percent of the static rolling radius of the standard tire approved for the airplane when
+   the tire is installed on the standard wheel at the approved inflation pressure. Do not use
+   oversized or “tundra” tires to determine the static rolling radius.
+
+   6-2
+
+===== PDF PAGE 64 =====
+7/29/26  AC 43.13-2C
+
+ 6.5 Fabrication and Installation.
+
+6.5.1 Hub-Axle Clearance. The pedestal hub should fit the axle to provide a clearance of
+   0.005 inch minimum to 0.020 inch maximum. Hubs may be bushed to adjust for axle
+   size, using any ferrous or nonferrous metal, hard rubber, or fiber. If rubber or fiber
+   bushings are used, use retaining washers of sufficient size on each side to retain the hub if
+   the bushing should slip or fail (see Figure 6-1). Field experience has shown that the use
+   of good quality, low-temperature grease, particularly modern synthetic-based grease,
+   improves ski operation and wear protection when used on the axle-to-hub or
+   axle-to-bushing faying surfaces.
+
+   Figure 6-1. Typical Hub Installation
+
+   6-3
+
+===== PDF PAGE 65 =====
+7/29/26  AC 43.13-2C
+
+   Figure 6-2. Typical Ski Installation
+
+6.5.2 Crust-Cutter Cables. Crust-cutter cables are optional. However, when operating in severe
+   crust conditions, it is advisable to have this cable installed to prevent the shock cord from
+   being cut if the ski’s nose breaks through the crust while taxiing.
+
+6.5.3 Cable and Shock Cord Attachment and Attachment Fittings.
+
+   6.5.3.1  Field Experience. Service reports indicate that failure of the ski itself is not a
+   predominant factor in ski failures. Rigging, which is improper tension and
+   terminal attachments, and cast-type pedestal material failures are predominant.
+   Failures of the safety cable and shock cord attachment fittings usually occur at
+   the ski end and not at the fuselage end.
+
+   6.5.3.2  Separating Attachment Points. It is strongly recommended that tension
+   cords and safety cables be attached to entirely separate fittings at their
+   fuselage ends. Although the attachment fitting detail shown in Figure 6-2 may
+   be adequate for some installations where alternate attachment locations are
+   unavailable, we recommend that each cord and cable be attached to its own
+   fitting (such as the right-hand fitting in Figure 6-3, Typical Fuselage Fittings)
+   and attached at separate points on the fuselage when possible. Provide a
+
+   6-4
+
+===== PDF PAGE 66 =====
+7/29/26  AC 43.13-2C
+
+   separate means of attaching cables and shock cords at the forward and aft ends
+   of the skis.
+
+   6.5.3.3  Fabrication. Approved skis are normally supplied with cables, shock cords,
+   and fittings. However, the specifications in Table 6-1, paragraphs 6.5.3.3.1
+   through 6.5.3.3.3, and Figure 6-3 may be used for fabricating and installing
+   cables, shock cord assemblies, and fuselage fittings.
+
+   Note: Field experience indicates that accelerated wear and damage can
+   occur to a 1/8-inch safety or crust-cutting cable and its attachment
+   hardware in normal service on skis having a limit load rating of
+   1,500 pounds or more. The FAA recommends a minimum cable size
+   of 5/32 inch for use in fabricating safety or crust-cutting cables for use
+   with skis of a 1,500 pounds or greater limit load rating. 1/8-inch cables
+   may be suitable for use on airplanes with light-weight skis and
+   maximum certificated weights less than 1,500 pounds, such as those
+   meeting the definition of light sport aircraft.
+
+   Table 6-1. Recommended Minimum Cable and Shock Cord Sizes
+
+ Ski Limit
+   Single  Double  Single  Double  Double
+   Load  Single
+   Safety  Safety  Crust-Cutting Crust-Cutting  Shock
+  Rating  Shock Cord
+   Cable  Cable  Cable  Cable  Cord
+ (Pounds)
+Less than
+   1/8 inch  1/8 inch  1/8 inch  1/8 inch  1/2 inch  1/2 inch
+1,500
+1,500–3,000  5/32 inch  5/32 inch  5/32 inch  5/32 inch  1/2 inch  1/2 inch
+3,000–5,000 Do Not Use 5/32 inch  5/32 inch  5/32 inch  Do Not Use 1/2 inch
+5,000–7,000 Do Not Use 5/32 inch  5/32 inch  5/32 inch  3/4 inch  3/4 inch
+7,000–9,000 Do Not Use 3/16 inch  Do Not Use  5/32 inch  Do Not Use 3/4 inch
+
+   6.5.3.3.1  Make check cable, safety cable, and crust-cutting cable ends by the splice
+   method or swaging, such as the Nicopress process. Cable clamps may be used
+   if adjustable lengths are desired, but they are not recommended. Use standard
+   airplane hardware only. (Hardware used to attach cables must be compatible
+   with cable size.) Refer to AC 43.13-1, Chapter 7, Aircraft Hardware, Control
+   Cables, and Turnbuckles, for more information on cable fabrication.
+
+   6.5.3.3.2  Shock cord ends may be fabricated by any of the following methods:
+
+   1. Make a wrapped splice using a properly sized rope thimble and
+   No. 9 cotton cord, 0.041 inch (minimum) safety wire (refer to Aerospace
+   Industries Association (AIA) National Aerospace Standard
+   (NAS) NASM20995, Wire, Safety or Lock), 1025 steel, or its equivalent
+
+   6-5
+
+===== PDF PAGE 67 =====
+7/29/26  AC 43.13-2C
+
+   (AISI 4130). Attach with a clevis or spring steel snap fastener. (Do not use
+   cast iron snaps.)
+   2. Use approved spring-type shock cord end fasteners, 1025 steel, or its
+   equivalent (AISI 4130).
+
+   6.5.3.3.3  Fitting (Figure 6-3) specifications and installation:
+
+   1. Fittings fabricated for 1/8-inch cable or 1/2-inch shock cord must be at
+   least 0.065-inch 1025 steel or its equivalent.
+   2. Fittings fabricated for 5/32-inch cable or 3/4-inch shock cord must be at
+   least 0.080-inch 1025 steel or its equivalent.
+   3. An improperly installed fitting may impose excessive eccentric loads on
+   the fitting and attach bolts and result in failure of the fitting or bolts.
+   4. If attaching cables directly to holes in fittings, radius the hole edges to
+   reduce stress concentration and accelerated wear of the thimble. Stainless
+   steel thimbles are recommended for increased wear resistance.
+   5. If attaching cables to fittings using clevises, clevis bolt castellated nuts
+   should be used and then properly torqued and safe tied with cotter pins.
+   Field experience has shown that diaper-pin-style quick-releasing safety
+   devices are more prone to failure during operation and are not
+   recommended.
+   Figure 6-3. Typical Fuselage Fittings
+
+6.5.4 Provisions for Inspection. An airplane using fabric-covered landing gear should have at
+   least the lower 4 inches of fabric removed to facilitate inspection of the axle attachment
+   area and to prevent the entrapment of snow and ice, which can lead to damage and
+   corrosion of the landing gear (see item 6 in Figure 6-2).
+
+   6-6
+
+===== PDF PAGE 68 =====
+7/29/26  AC 43.13-2C
+
+ 6.6 Rigging of Skis.
+
+6.6.1 Location of Attach Fittings on Fuselage or Landing Gear. Locate fittings so the shock
+   cord and cable angles are not less than 20 degrees when measured in the vertical plane
+   with the shock absorber in the fully extended position (see angle B, Figures 6-4, Main Ski
+   at Maximum Positive Incidence (Check Cable Taut), and 6-5, Main Ski at Maximum
+   Negative Incidence (Safety Cable Taut)).
+
+   Note: Do not attach fittings to wing-brace struts, except by special approval,
+   either manufacturer or FAA.
+
+6.6.2 Main Ski Incidence Angles.
+
+   6.6.2.1  Set cable lengths with the airplane level and no weight on the landing gear.
+
+   6.6.2.2  Adjust the length of the check cable to provide a 0 (zero) to 5-degree ski
+   incidence angle (see Figures 6-4 and 6-6, Main Ski Incidence Angles).
+
+   6.6.2.3  Adjust the length of the safety cable to provide a -20 to -35-degree ski
+   incidence angle (see Figures 6-5 and 6-6).
+
+   Figure 6-4. Main Ski at Maximum Positive Incidence (Check Cable Taut)
+
+   6-7
+
+===== PDF PAGE 69 =====
+7/29/26  AC 43.13-2C
+
+   Figure 6-5. Main Ski at Maximum Negative Incidence (Safety Cable Taut)
+
+   Figure 6-6. Main Ski Incidence Angles
+
+6.6.3 Tension Required in Main Ski Shock Cords.
+
+   6.6.3.1  Apply sufficient shock cord tension to the forward ends of the skis to prevent
+   flutter and “dumping” throughout the range of airspeeds and attitudes at which
+   the airplane will operate on skis. Because of the various angles used in
+   attaching the shock cord to the skis, shock cord tension cannot be specified. It
+   is possible to specify the downward force that must be applied to the forward
+   end of the ski in order to overcome the shock cord tension and cause the check
+   cable to slacken when the ski is in the normal flight attitude. That downward
+   force is commonly referred to as the shock cord tension force or simply the
+   tension force. In most installations on rigid, truss type landing gear, the
+
+   6-8
+
+===== PDF PAGE 70 =====
+7/29/26  AC 43.13-2C
+
+   tension force should be approximately as listed in Table 6-2, Approximate
+   Main Ski Tension Forces.
+
+   Table 6-2. Approximate Main Ski Tension Forces
+
+   Ski Limit Load  Downward Force
+   Rating  (Pounds)
+   1500–3000  20–40
+   3000–5000  40–60
+   5000–7000  60–120
+   7000–9000  120–200
+
+   Note: Do not rely upon these tension force values for main ski installations on
+   airplanes with spring steel or other flexible landing gear. Shock cord tensions
+   great enough to require the downward forces listed in Table 6-2 to overcome them
+   may produce excessive toe-in of the main skis on such airplanes. Variations in
+   gear leg flexibility make it difficult to establish a generic table of tension forces
+   appropriate for all airplanes with flexible landing gear.
+
+   6.6.3.2  The shock cord tension must also be sufficient to return the skis to the normal
+   flight attitude from their maximum negative incidence at all airspeeds up to
+   the airplane’s never-exceed speed (VNE) with skis installed. In the absence of
+   more precise data, each shock cord must be able to produce a nose-up moment
+   about the ski pedestal bearing centerline of M = (0.0000036)(W)(VNE)2 ft/lbs,
+   when the ski is at its maximum negative incidence, where W is the maximum
+   certificated gross weight of the airplane, and VNE is its never-exceed speed
+   with skis installed.
+
+6.6.4 Springs in Place of Shock Cords. If springs are used in place of shock cords to provide
+   rigging tension, they must be able to withstand extreme cold and slight external
+   scratching without premature fatigue failure and must not cause skis, rigging, or landing
+   gear to experience flutter or objectionable vibration during airplane flight and dive tests.
+
+6.6.5 Nose Ski Installation. Install the nose ski on an airplane with tricycle landing gear in the
+   same manner as the main skis (see Figure 6-7, Typical Nose Ski Installation), except:
+
+   6.6.5.1  Adjust the length of the safety cable to provide ±5- to ±15-degree ski
+   incidence.
+
+   6.6.5.2  Where it is possible for the nose ski rigging to contact the propeller tips due to
+   vibration, install a 1/4-inch shock cord to hold the rigging out of the propeller
+   arc.
+
+   6-9
+
+===== PDF PAGE 71 =====
+7/29/26  AC 43.13-2C
+
+   Figure 6-7. Typical Nose Ski Installation
+
+6.6.6 Tail Ski Installation.
+
+   6.6.6.1  When installing a tail ski on an airplane with conventional landing gear, use a
+   tail ski that has been approved on an airplane of approximately the same
+   weight and whose tail wheel bears approximately the same fraction of that
+   weight when the airplane is in the three-point attitude (within 10 percent) or
+   select the tail ski as outlined in paragraphs 6.2 and 6.4. Some types of tail ski
+   require that the tail wheel be removed to install the rest on its upper surface
+   ski.
+
+   6.6.6.2  Adjust the length of the limiting cable (see Figure 6-8, Typical Tail Ski
+   Installation) to allow the ski to turn approximately 35 degrees to either side of
+   the straight-forward position with the weight of the airplane resting on the ski.
+
+   6.6.6.3  The shock cord (see Figure 6-8) must be of a length that will hold the ski in
+   the straight-forward position during flight.
+
+   6-10
+
+===== PDF PAGE 72 =====
+7/29/26  AC 43.13-2C
+
+   Figure 6-8. Typical Tail Ski Installation
+
+ 6.7 Documentation.
+
+6.7.1 Airplane or Ski Manufacturer’s Data. Comply with the requirements for placards,
+   markings, and manuals required to operate the airplane as a skiplane, as listed in the
+   approved or accepted documents discussed in paragraph 6.4.1.
+
+6.7.2 Performance Information. The following paragraphs contain the minimum additional
+   performance data required for airplanes equipped with new or altered ski installations.
+   Refer to AC 43-210, Paragraph 4, Flight Manual Supplements, for additional guidance
+   regarding approved Aircraft Flight Manual Supplements (AFMS).
+
+   6.7.2.1  For an airplane that requires an approved AFM, obtain FAA approval for an
+   Aircraft Flight Manual Supplement (AFMS) that adds the following or similar
+   information to the “Performance” section of the manual.
+
+   6.7.2.1.1  Takeoff. Under the most favorable conditions of smoothly packed snow at
+   temperatures approximating 32 °F, the skiplane takeoff distance is
+   approximately 10 percent greater than that shown for the landplane.
+
+   Note: In estimating takeoff distance for other conditions, caution
+   should be exercised as lower temperatures or other snow conditions
+   will usually increase these distances.
+
+   6.7.2.1.2  Landing. Under the most favorable conditions of smoothly packed snow at
+   temperatures approximately 32 °F, the skiplane landing distance is
+   approximately 20 percent greater than that shown for the landplane.
+
+   Note: In estimating landing distances for other conditions, caution
+   should be exercised as other temperatures or other snow conditions
+   may either decrease or increase these distances.
+
+   6-11
+
+===== PDF PAGE 73 =====
+7/29/26  AC 43.13-2C
+
+   6.7.2.1.3  Climb Performance. In cases where the landing gear is fixed (both landplane
+   and skiplane), where climb requirements are not critical, and the climb
+   reduction is small (30 to 50 feet per minute), the FAA will accept a statement
+   of the approximate reduction in climb performance placed in the performance
+   information section of the AFMS. For larger variations in climb performance,
+   where the minimum requirements are critical or the landing gear of the
+   landplane is retractable, appropriate climb data should be obtained to
+   determine the changes, and new curves, tables, or a note should be
+   incorporated into the AFMS.
+
+   6.7.2.2  For an airplane that does not require an AFM, make the information in
+   paragraph 6.7.2.1 available to the pilot in the form of placards, markings,
+   manuals, or any combination thereof. One type of acceptable manual is an
+   approved supplementary AFM.
+
+ 6.8 Flight and Handling Operational Checks. Accomplish an operational check in
+   accordance with 14 CFR § 91.407(b) to determine the takeoff, landing, and ground
+   handling characteristics. Ensure that the ski angles during tail high and tail low landings
+   will not cause the skis to dig in or fail from localized stress. Verify that ground control is
+   adequate to satisfactorily complete a landing run with a turnoff at slow speed. In flight,
+   the skis must ride steady with check cables taut and must not produce excessive drag or
+   unsatisfactory flight characteristics. Enter a notation of this check in the airplane records.
+
+ 6.9 Maintenance (Including Inspection).
+
+6.9.1 Inspection and Repair Data Sources. Contact the airplane and ski manufacturers for any
+   specific inspection and maintenance instructions they may have developed. Refer to
+   AC 43.13-1, Chapter 9, Aircraft Systems and Components, for more information.
+
+6.9.2 Instructions for Continued Airworthiness (ICA). The modifier (developer of the ski
+   installation or alteration) must provide instructions for future inspection, maintenance,
+   and repair of the added or altered parts and is also responsible for assessing the need for
+   any changes to the product-level ICA (changes that affect the airplane as a whole when
+   the skis are installed). For simple airplane/ski combinations where skis of the same model
+   have been approved on similar airplanes with the appropriate ICA, it may only be
+   necessary to reference those ICA in the maintenance records of the newly altered airplane
+   and/or in block 8 of FAA Form 337, Major Repair and Alteration (Airframe, Powerplant,
+   Propeller, or Appliance), documenting the ski installation. For complex ski installations
+   requiring special considerations, the modifier may need to develop new
+   installation-specific ICA. In either case, the modifier must ensure that adequate and
+   appropriate ICA is available to the skiplane owner or operator. Refer to AC 43-210,
+   Paragraph 5, Maintenance Information, and Order 8110.54 for additional guidance
+   regarding ICA.
+
+6.9.3 Interchanging of Skis and Wheels. A person appropriately authorized by 14 CFR § 43.3
+   must perform a new W&B computation when the skis are initially installed. The FAA
+   recommends that the airplane be weighed for this initial computation. After the initial
+
+   6-12
+
+===== PDF PAGE 74 =====
+7/29/26  AC 43.13-2C
+
+   installation, removing the skis and reinstalling the wheels or vice versa is considered a
+   preventive maintenance operation if it does not involve complex assembly operations or a
+   new W&B computation. Refer to 14 CFR part 43 appendix A, paragraph (c)(18).
+
+   Note: During subsequent W&B changes to the airplane, be sure to update its
+   W&B records and its equipment list to account for all approved ski, wheel, and
+   float installations.
+
+6.9.4 Periodic Inspection Required. Seasonally removed and installed equipment items, such as
+   skis, should be inspected at installation to comply with 14 CFR §§ 91.407(a)
+   and 91.409(a) and 14 CFR part 43 appendix D, paragraphs (e)(1) and (e)(10) if they were
+   not installed on the airplane at the time of the last inspection. All available data described
+   in this paragraph should be used during the inspection.
+
+   6-13
+

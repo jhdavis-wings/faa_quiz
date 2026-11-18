@@ -1,0 +1,613 @@
+AC 43.13-2C, chapter 3 (Communication, Navigation, And Emergency Locator Transmitter System), PDF pages 25-41
+
+===== PDF PAGE 25 =====
+7/29/26  AC 43.13-2C
+
+ CHAPTER 3. COMMUNICATION, NAVIGATION, AND EMERGENCY LOCATOR
+   TRANSMITTER SYSTEM INSTALLATIONS
+
+ 3.1 Purpose. This chapter describes installation considerations and requirements for basic
+   standalone, installations of communication, navigation, and emergency locator
+   transmitter (ELT) equipment.
+
+   Note: Standalone installations do not depend on other systems or complex
+   interfaces to function.
+
+ 3.2 Hazards and Warnings.
+
+3.2.1 When installing these systems, follow the aircraft and equipment manufacturers’
+   instructions, as appropriate. Practice a “clean as you go” philosophy, which entails
+   maintaining cleanliness and order. Ensure that equipment and systems function properly
+   and perform their intended function(s).
+
+3.2.2 Alterations of aircraft that are performed to accommodate the installation of radio
+   equipment must be evaluated for their impact on aircraft design and operation. Refer to
+   AC 23.1309-1, System Safety Analysis and Assessment for Part 23 Airplanes, for
+   additional information concerning the evaluation for equipment, systems, and
+   installations in 14 CFR part 23 airplanes.
+
+3.2.3 Frequently, an alteration to accommodate the installation of radio equipment will have
+   little impact on the design or operation of an aircraft; however, all potential elements of
+   impact must be considered. One approach is to evaluate each element independently.
+
+3.2.4 Consider the impact when Weight and Balance (W&B) or structural load limits of an
+   added system exceeds existing installations. Consider the impact when radio frequency,
+   such as electromagnetic interference (EMI), High Intensity Radiated Fields (HIRF), or
+   lightning, may negatively affect existing systems (e.g., accuracy of the magnetic
+   compass).
+
+3.2.5 When evaluating elements of impact, consider the before and after states. No further
+   analysis of W&B may be required if an object of similar size and weight was previously
+   installed in a location. If mounting attach points were previously substantiated to support
+   a specific load and the same load or less is being installed, the previous analysis may be
+   referenced.
+
+   Note: Data that is referenced must be available and reviewed.
+
+3.2.6 When structures must be fabricated or reinforced, the standard practices approved for
+   repairs, if applicable, may be employed. AC 43.13-1, Acceptable Methods, Techniques,
+   and Practices—Aircraft Inspection and Repair, may provide structural design data for
+   fabrication of mountings and attachments.
+
+3.2.7 Ensure that the capacity of the aircraft’s charging system is not exceeded, including any
+   required additional allowances.
+
+   3-1
+
+===== PDF PAGE 26 =====
+7/29/26  AC 43.13-2C
+
+ 3.2.8 Care should be taken to ensure that cables or wires will not interfere with the aircraft’s
+   flight, engine, or propeller controls.
+
+ 3.2.9 When removing older radios, wiring, or power supplies and installing newer solid-state
+   components, weigh the old equipment and perform a new W&B calculation. This is
+   important since differences in the location and weight of equipment will shift the center
+   of gravity (CG).
+
+3.2.10 Refer to AC 43.13-1, Chapter 10, Weight and Balance, and FAA-H-8083-1, Aircraft
+   Weight and Balance Handbook, for additional information on determining W&B.
+
+  3.3 Considerations When Installing Avionics Equipment. When installing radio
+   equipment, use areas or locations designated by the airframe manufacturer and use
+   factory-supplied brackets or racks. Follow the aircraft manufacturer’s installation
+   instructions. When this information is not available, use locations in the aircraft of known
+   load-carrying capabilities. Baggage compartments, cabins, or flight deck floors are good
+   mounting platforms provided the floor attachments meet the strength requirements.
+   Another method is to fabricate support racks, brackets, or shelves and attach them to the
+   aircraft structure to provide a mounting that will withstand the inertia forces stipulated in
+   Chapter 2, Structural Data.
+
+ 3.3.1 General Considerations. Ensure the following:
+
+   3.3.1.1  There is appropriate air circulation to ensure proper cooling and dissipation of
+   any heat generated or present. Consider the flammability characteristics of all
+   associated elements.
+
+   3.3.1.2  There are appropriate clearances to prevent mechanical damage to other parts
+   of the aircraft or from other parts of the aircraft.
+
+   3.3.1.3  There is protection provided to the component or article from any fluids or
+   fumes that may be expected and that the component or article will not cause
+   any fluids or fumes to be present that may result in damage to the aircraft or
+   its occupants.
+
+   3.3.1.4  That any interference, environmental or operational, to an aircraft or any
+   system of the aircraft is identified and minimized as to not affect airworthiness
+   of the aircraft.
+
+   3.3.1.5  That flight characteristics of the aircraft are not altered unless appropriately
+   identified and the changes are within the certified design limits.
+
+ 3.3.2 Structural Consideration. Consider the following:
+
+   3.3.2.1  Structural requirements of a mounting must be considered (see Chapter 2).
+
+   3-2
+
+===== PDF PAGE 27 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-1. Force Diagram Normal-Utility Category
+
+   3.3.2.2  Alterations that include making additional cutouts or enlargements of existing
+   panel cutouts must be evaluated to maintain structural integrity. Some aircraft
+   instrument panels are load bearing structures.
+
+   3.3.2.3  Loads must be determined to be within the structural design limits of the
+   supports.
+
+   3.3.2.4  Instrument panels and other panels throughout the aircraft may be structural or
+   nonstructural in design. Structural loads must be adequately transferred to
+   primary airframe members.
+
+   3.3.2.5  Methods and practices described elsewhere in this AC and in AC 43.13-1 may
+   be employed for the fabrication of attachments and structure.
+
+   Figure 3-2. Typical Fabricated Panel Mounting
+
+   3-3
+
+===== PDF PAGE 28 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-3. Typical Layouts
+
+   Typical layout of an older aircraft
+
+   Typical layout of a newer aircraft
+
+   3.3.2.6  Existing structures may be reinforced or strengthened using methods
+   described in AC 43.13-1.
+
+ 3.4 Instrument Panel Mounting. This paragraph is supplemented by AC 43.13-1,
+   Chapter 4, Metal Structure, Welding, and Brazing, and is applicable to the installation of
+   radio units in instrument panels.
+
+3.4.1 Stationary Instrument Panels—Nonstructural and Structural. The stationary instrument
+   panel in some aircraft is part of the primary structure. Prior to making any additional
+   cutouts or enlargements of an existing cutout, determine if the panel is part of the primary
+   structure. If the panel is structural, make additional cutouts or the enlargement of existing
+   cutouts in accordance with the aircraft manufacturer’s instructions, or substantiate the
+   structural integrity of the altered panel in a manner acceptable to the Administrator.
+   Radius all corners and remove all burrs from the cutout and drilled holes.
+
+3.4.2 Added Equipment Stationary Instrument Panel. When radio equipment is to be installed
+   in a stationary panel already supporting instruments, glove compartments, etc., determine
+   the capability of the panel to support the total load.
+
+3.4.3 Case Support. To minimize the load on a stationary instrument panel, whenever
+   practicable, install a support between the rear (or side) surface of the radio case and a
+   nearby structural member of the aircraft (see Figure 3-2, Typical Fabricated Panel
+   Mounting).
+
+3.4.4 Added Equipment—Shock-Mounted Panels. When installing radio equipment designed
+   for use in shock-mounted panels, the total accumulated weight of equipment installed
+   must not exceed the weight carrying capabilities of the shock mounts. Determine whether
+   the structure to which the shock mounts are connected is satisfactory for supporting the
+   added weight.
+
+3.4.5 Existing Factory Fasteners. When possible, use existing plate nuts and machine screws
+   provided by the aircraft manufacturer to attach the radio case or rack. If additional
+   fastening is required, use machine screws and elastic stop nuts (preferably plate nuts).
+
+   3-4
+
+===== PDF PAGE 29 =====
+7/29/26  AC 43.13-2C
+
+3.4.6 Magnetic Direction Indicator. As a function of the radio installation, determine if it is
+   necessary to swing the compass. Install a suitable placard that indicates the compass error
+   with the radio(s) on and off. Maximum acceptable deviation in level flight is 10 degrees
+   on any heading. The following is an example of a typical compass calibration card. Refer
+   to AC 43.13-1, Chapter 12, Aircraft Avionics Systems, on how to swing a compass.
+
+   Table 3-1. Typical Compass Calibration Card
+
+   FOR  N  30  60  E  120  150
+   Radio On
+   Steer  4°  35°  63°  93°  123°  154°
+   Radio Off
+   Steer  358°  27°  58°  88°  118°  148°
+
+   FOR  S  210  240  W  300  330
+   Radio On
+   Steer  183°  214°  244°  274°  304°  337°
+   Radio Off
+   Steer  178°  208°  238°  268°  293°  327°
+
+ 3.5 Other Mounting Areas. The following are acceptable methods for installing radio
+   equipment at other than instrument panel locations.
+
+3.5.1 Shock-Mounted Units.
+
+   3.5.1.1  Wood or Composition Flooring. Secure the shock-mounted base assembly
+   (suitable for radio unit) directly to the floor using machine screws. Add a
+   doubler to the bottom of the floor, thereby sandwiching the composition floor
+   between each shock-mount foot and the doubler. Subsequent removal and
+   reinstallation of the shock-mount foot will be facilitated if plate nuts are
+   secured to the doubler. Where practicable, use small retaining screws to keep
+   the doubler in position. Install a ground strap between the radio rack and metal
+   structure of the aircraft.
+
+   3-5
+
+===== PDF PAGE 30 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-4. Typical Shock-Mounted Base (Wood or Composition Flooring)
+
+   3.5.1.2  Metal Flooring. Secure the shock-mounted base assembly directly to the
+   floor using machine screws, washers, and self-locking nuts. Floor area under
+   and around the radio mounting bases may require installation of doublers or
+   other reinforcement to prevent flexing and cracking. Installation of plate nuts
+   on the floor or doubler will facilitate removal and installation of the shock
+   mounts. Install a ground strap between the shock mount foot and the radio
+   rack.
+
+   Figure 3-5. Typical Shock-Mounted Base (Metal Flooring)
+
+   3-6
+
+===== PDF PAGE 31 =====
+7/29/26  AC 43.13-2C
+
+3.5.2 Rigid-Mounted Unit Base. Secure radio mounting base plate(s) to the floor (wood,
+   composite, or metal) using machine screws as shown in Figure 3-6. Use a reinforcing
+   plate or large area washers or equivalent under wood or composite flooring. When the
+   mounting base is secured to wood or composite material, install a ground strap between
+   the base and aircraft metal structure.
+
+   Figure 3-6. Typical Rigid Base Plate Mount
+
+ 3.6 Fabrication of Supporting Brackets for Attachment to a Structure Other Than
+   Flooring.
+
+3.6.1 Typical supporting brackets usually consist of a shelf or platform upon which the radio
+   unit mounting base assembly can be installed in the same manner as described in
+   paragraph 3.4.
+
+3.6.2 Fabricate the bracket according to good aircraft design, layout, assembly practices, and
+   workmanship to obtain results compatible with the airframe structure. Generally, the
+   thickness of the bracket material will depend on the size or area of the platform and the
+   load it must sustain according to the provisions set forth in Chapter 2.
+
+3.6.3 Use a rivet size and pattern compatible with the aircraft structure to provide the strength
+   needed to ensure support of the loads imposed under all flight and landing conditions.
+
+   3-7
+
+===== PDF PAGE 32 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-7. Typical Underseat Installation
+
+   Note: To increase the strength of floor attachment points, metal reinforcement
+   may be installed as needed.
+
+ 3.7 Reinforcement of the Supporting Structure.
+
+3.7.1 Attachments. Attach equipment to the aircraft’s supporting structure so that its supported
+   load will be transmitted to aircraft structural members. If direct attachment to the existing
+   structure (bulkheads, horizontal stringers, etc.) is not feasible, add the necessary stringers,
+   doublers, bulkhead flange reinforcements, etc., to provide adequate support and ensure
+   load transfer to the primary structure. When attaching to the existing structure, ensure the
+   attachment does not weaken the structure. Alteration to the primary structure may require
+   approved engineering data.
+
+3.7.2 Placard. Fasten a permanent placard onto the shelf or bracket (as the example below)
+   stating the design load that the installed structure is determined capable of supporting.
+
+   “Shelf load not to exceed
+   __________lbs.”
+
+   3-8
+
+===== PDF PAGE 33 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-8. Typical Remote Unit Mounting Base-Vertical or Horizontal Other Than
+   Structure to Floor
+
+   3-9
+
+===== PDF PAGE 34 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-9. Typical Shelf Installation
+
+   Note 1: Use standard aircraft practices and procedures for fabrication and
+   attachment of the shelf. Reinforce fore and aft corners with gussets or a bulb
+   angle.
+
+   Note 2: Fabricate a platform using 2017T4(17ST) or equivalent. Apply standard
+   aircraft practices for fabrication and installation.
+
+   Note 3: The equipment manufacturer’s mounting bases that meet load
+   requirements and can be utilized are acceptable.
+
+   3-10
+
+===== PDF PAGE 35 =====
+7/29/26  AC 43.13-2C
+
+   Figure 3-10. Typical Attachment of Support Structure to Tubular Frame Other Than
+   Structure to Floor
+
+ 3.8 Electrical Requirements.
+
+3.8.1 Installing an electrical system or component into an aircraft requires consideration of the
+   electrical load, the appropriate power distribution circuit, and available power capacity.
+   The specific requirements for a system depend on its electrical characteristics and the
+   criticality of its application for use in the aircraft’s operation.
+
+3.8.2 The total energy available to power electrical systems is referred to as the aircraft’s
+   capacity. It includes available stored power and generated power. This will vary
+   depending on the phase of flight or type of operation.
+
+3.8.3 The critical distribution circuit of an aircraft is designed to transfer power from the source
+   to a system determined to be critical to the operation or function of the aircraft. This
+   circuit is required to include additional capacity and circuit protection as required by
+   applicable regulations. Distribution systems should be designed to facilitate load-
+   shedding procedures. Power distribution system design includes the following concerns.
+   Refer to AC 43.13-1, Chapter 11, Aircraft Electrical Systems, for:
+
+   •  Circuit protection.
+   •  Wire selection.
+   •  Connectors, switches, and termination devices.
+   •  Wire routing.
+   •  Wiring/cable support.
+   •  Identification.
+
+3.8.4 Installation of Wiring. Select and use wiring of a type and design that is appropriate for
+   the intended purpose of the application. Install in a manner suitably protected from fuel,
+   oil, water, other detrimental substances, oxygen systems, and abrasion damages.
+
+   3-11
+
+===== PDF PAGE 36 =====
+7/29/26  AC 43.13-2C
+
+3.8.5 Power Sources.
+
+   3.8.5.1  Connect radio electrical systems to the aircraft electrical system at the power
+   source protective device, a terminal strip, or use a plug and receptacle
+   connection.
+
+   3.8.5.2  Radio electrical systems must function properly whether connected in
+   combination or independent.
+
+3.8.6 Protective Devices.
+
+   3.8.6.1  Incorporate a “trip free” (one that will trip open if the ON-OFF mechanism is
+   held in the ON position) resettable type circuit breaker or a fuse in the power
+   supply from the bus. Mount in a manner accessible to a crewmember during
+   flight for circuit breaker resetting or fuse replacement and label.
+
+   3.8.6.2  Select circuit breakers or fuses that will provide adequate protection against
+   overloading of the radio system wiring.
+
+   3.8.6.3  Connect all leads in such a manner that the aircraft’s master switch will
+   interrupt the circuit when the master switch is opened, unless the equipment is
+   intended to be powered when the master switch is open.
+
+   3.8.6.4  Radio system controls are to provide independent operation of each system
+   installed and be clearly labeled to identify their function relative to the unit of
+   equipment they operate.
+
+3.8.7 Wire Bundle Separation From Flammable Fluid Lines.
+
+   3.8.7.1  Physically separate radio electric wire bundles from lines or equipment
+   containing oil, fuel, hydraulic fluid, alcohol, or oxygen.
+
+   3.8.7.2  Mount radio electrical wire bundles above or on level with flammable fluid
+   lines and whenever possible, maintain a minimum separation of 6 inches.
+   Where separation is 1/2 to 2 inches, install clamps. Refer to AC 43.13-1,
+   Chapter 11, Paragraph 11-127, Flammable Fluids and Gases.
+
+3.8.8 Cable Attachment to Shock-Mounted Units. Route and support electrical wire bundles
+   and mechanical cables in a manner that will allow normal motion of equipment without
+   strain or damage to the wire bundles or mechanical cables.
+
+3.8.9 Radio Bonding. It is advisable to electrically bond radio equipment to the aircraft in order
+   to provide a low impedance ground and to minimize radio interference from static
+   electrical charges. When electrical bonding is used, observe the following:
+
+   1. Keep bonding jumpers as short as possible.
+   2. Prepare bonded surfaces for best contact (resistance of connections should not exceed
+   0.003 ohm).
+
+   3-12
+
+===== PDF PAGE 37 =====
+7/29/26  AC 43.13-2C
+
+   3. Avoid use of solder to attach bonding jumpers. Clamps and screws are preferred.
+   4. For bonding aluminum alloy, use aluminum alloy or tinned, or cadmium-plated
+   copper jumpers. Use brass or bronze jumpers on steel parts.
+   5. When contact between dissimilar metals cannot be avoided, put a protective coating
+   over the finished connection to minimize corrosion.
+
+   3.9 Electrical Load Analysis Procedure.
+
+ 3.9.1 Available Power Supply. To preclude overloading the electric power system of the
+   aircraft when additional equipment is added, perform an electrical load analysis to
+   determine whether the available power is adequate. Radio equipment must operate
+   satisfactorily throughout the voltage range of the aircraft electrical system under taxi,
+   takeoff, slow cruise, normal cruise, and landing operating conditions. Compute the
+   electrical load analysis for the most adverse operating conditions; typically, this is for
+   night and/or instrument flight.
+
+ 3.9.2 ASTM Method. One method for the analysis may be found in the ASTM International
+   F2490-20, Standard Guide for Aircraft Electrical Load and Power Source Capacity
+   Analysis.
+
+ 3.9.3 Previous Electrical Load Analysis. Applicable elements of a previously performed
+   electrical load analysis if available may be reused.
+
+ 3.10 Electromagnetic Compatibility (EMC).
+
+3.10.1 EMI may disrupt the performance of systems and has varying degrees of consequence.
+   These consequences may be identified as no safety effect, minor, major, hazardous, or
+   catastrophic. The purpose of EMC analysis and testing is to ensure that equipment does
+   not cause interference with any existing aircraft system function and that existing systems
+   do not cause any interference with the new equipment (see Table 3-2, Relationship
+   Probabilities and Severity of Failure Conditions).
+
+   3-13
+
+===== PDF PAGE 38 =====
+7/29/26  AC 43.13-2C
+
+   Table 3-2. Relationship Probabilities and Severity of Failure Conditions
+
+  Classification
+   No Safety
+   of Failure  Minor  Major  Hazardous  Catastrophic
+   Effect
+   Conditions
+   Slight  Significant  Large
+   No effect on
+   reduction in  reduction in  reduction in
+   Effect on  operational  Normally with
+   functional  functional  functional
+   Airplane  capabilities or  hull loss
+   capabilities or capabilities or capabilities or
+   safety
+   safety margins safety margins safety margins
+   Physical
+   distress to
+   Physical  Serious or
+   Effect on  Inconvenience  passengers,  Multiple
+   discomfort for  fatal injury to
+   Occupants  for passengers  possibly  fatalities
+   passengers  an occupant
+   including
+   injuries
+   Physical
+   Slight
+   Physical  distress or
+   increase in
+   discomfort or  excessive
+   Effect on  No effect on  workload or  Fatal injury or
+   a significant  workload
+   Flightcrew  flightcrew  use of  incapacitation
+   increase in impairs ability
+   emergency
+   workload  to perform
+   procedures
+   tasks
+
+3.10.2 When EMC characteristics are known, the need for and extent of EMC testing can be
+   determined by a review of those characteristics. Knowing specific target frequencies,
+   EMC testing can focus on the aircraft systems, and even those susceptible frequencies in
+   the case of tunable systems, likely to be affected by interference. Where sensitive systems
+   or potentially strong sources of EMI are involved, more intensive evaluation will be
+   required.
+
+   3-14
+
+===== PDF PAGE 39 =====
+ 7/29/26  AC 43.13-2C
+
+   Table 3-3. Commonly Used Radio Frequencies on Aircraft
+
+   Range  Hz  Mode  Function
+   190–1750  kHz  Rx  Automatic Direction Finder (ADF) Navigation
+   2–30  MHz  Tx/Rx High Frequency (HF) Communications
+   75  MHz  Rx  Marker Beacon Receiver
+   108–112  MHz  Rx  Instrument Landing System (ILS) Localizer (LOC) Receiver
+   Very High Frequency (VHF) Omnidirectional Range (VOR)
+   108–118  MHz  Rx
+   Receiver
+   118–137  MHz  Tx/Rx VHF Communications
+   243  MHz  Tx  Emergency Locator Xmtr (Satellite)
+ 328.6–335.4 MHz  Rx  ILS Glide Slope Receiver
+   406.3  MHz  Tx  ELT
+   960–1215  MHz  Tx/Rx Distance Measuring Equipment (DME) System
+   Transponder and Traffic Alert and Collision Avoidance System
+  1027–1033  MHz  Tx/Rx
+   (TCAS) Systems
+  1087–1093  MHz  Tx/Rx Transponder and TCAS Systems
+   1575.42  MHz  Rx  Global Positioning System (GPS) Satellite Navigation
+
+3.10.3 On-aircraft EMC tests for systems or equipment should be conducted. If lab test data is
+   available, it should be used to guide the planning of these tests. If lab test analysis is not
+   available, a more comprehensive EMC testing on the aircraft systems and equipment
+   typically needs to be performed.
+
+   3.10.3.1  The aircraft should not be close to large reflecting surfaces, such as buildings
+   or other aircraft. The use of ground power is not recommended, unless the
+   ground power unit that is used is routinely checked for output quality.
+
+   3.10.3.2  All normally closed-circuit breakers should be closed, and power should be
+   supplied to all normally powered alternating current (AC) and direct current
+   (DC) distribution busses during testing.
+
+   3.10.3.3  The aircraft should be in flight configuration. Doors and hatches that might be
+   in any interfering signal’s path should be in the position they would normally
+   be in during flight.
+
+   3.10.3.4  Aircraft systems being tested should be operated and monitored for indication
+   of interference. It is essential that systems determined critical for the operation
+   of the aircraft are tested. The following systems, if installed, should be
+   included in the aircraft EMC test plan.
+
+   3-15
+
+===== PDF PAGE 40 =====
+ 7/29/26  AC 43.13-2C
+
+   Table 3-4. Aircraft Electrical and Electronic Systems
+
+   System
+   ADF
+   Air Data Systems (ADS)
+   Altitude Alert System
+   Air Traffic Control (ATC) Transponder
+   Audio Distribution System
+   Autopilot/Flight Guidance System (FGS)
+   Compass/Directional Gyro Systems
+   DME
+   Electronic Flight Control System
+   Electronic Flight Instrument System (EFIS)
+   GPS
+   Marker Receiver System
+   VHF Communications
+   VOR/Localizer (LOC)/Glideslope (GS)
+   Newly Installed Electrical/Electronic System
+
+ 3.11 Functional Hazard Assessment (FHA).
+
+   Note: Refer to AC 23.1309-1 for additional information on FHA.
+
+3.11.1 Many older aircraft designs did not provide for all weather operations or potential
+   increases in the pilot’s reliance on installed systems and equipment. Requirements to
+   ensure design safeguards against hazards have developed as technologies have become
+   available and pilots have increased their reliance on installed systems and equipment. A
+   fundamental analysis to ensure design safeguards is accomplished through an FHA.
+
+3.11.2 Alterations that involve systems or equipment that perform critical functions or that
+   include complex designs with a high degree of integration, use of new technology, or
+   novel applications of conventional technology must be assessed to determine the severity
+   of failure conditions. Complexity in itself does not drive the need to perform a system
+   safety analysis, but the effect of a failure does. Comparison with similar previously
+   approved systems is sometimes helpful.
+
+3.11.3 Evaluate the system to determine whether it is essential to safe operation. For aircraft of
+   6,000 pounds or less maximum weight, refer to the regulations incorporated by reference
+   in the type certificate (TC), unless the Administrator has found that the change is
+   significant in an area.
+
+   3-16
+
+===== PDF PAGE 41 =====
+7/29/26  AC 43.13-2C
+
+3.11.4 Determine whether the equipment has any unacceptable adverse effects when operated.
+
+3.11.5 Determine whether the operation of the installed equipment has an adverse effect on
+   equipment that is not essential to safe operation, and whether a means exists to inform the
+   pilot of the effect.
+
+3.11.6 Determine whether a failure or malfunction of the installed equipment could result in
+   unacceptable hazards.
+
+3.11.7 Design requirements and the methodology of hazard resolution differ depending on the
+   application and type of aircraft (i.e., single-engine, multiengine, and commuter use).
+
+   3.11.7.1  It is unacceptable to operate equipment that has an adverse effect on other
+   equipment essential to the safe operation of the aircraft.
+
+   3.11.7.2  Operation of equipment that has an adverse effect on other equipment that is
+   not essential to the safe operation of the aircraft may be acceptable if there is a
+   means to inform the pilot of the effect.
+
+   3.11.7.3  It is unacceptable if a probable failure or malfunction will result in a hazard in
+   a multiengine aircraft.
+
+   3.11.7.4  If a probable failure or malfunction will result in a hazard in a single-engine
+   aircraft, its impact must be minimized.
+
+   3-17
+

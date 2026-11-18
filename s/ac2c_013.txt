@@ -1,0 +1,577 @@
+AC 43.13-2C, chapter 12 (Adding Or Relocating Instruments), PDF pages 161-173
+
+===== PDF PAGE 161 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 12. ADDING OR RELOCATING INSTRUMENTS
+
+ 12.1 Purpose. This chapter contains structural and design guidance to consider when aircraft
+   alterations are to be accomplished by the addition or relocation of instruments.
+
+ 12.2 Hazards and Warnings. The rapid advance of technical progress in the aviation industry
+   has resulted in a virtual explosion of high-tech aftermarket instrumentation. In many
+   instances, these innovations are marketed without the support of a proper certification
+   process. As a result, much of the equipment purported to be the most advanced may not
+   be certificated or even eligible for certification for installation on aircraft, which
+   uninformed purchasers have chosen the equipment for installation.
+
+   Note: The burden of provision of and compliance with approved data falls
+   entirely on the technician approving the aircraft for return to service.
+
+ 12.3 Additional References. Before initiating an alteration involving the addition or
+   relocation of instruments, the regulatory basis of the aircraft must be considered.
+   Chapter 1, General, provides guidance to be considered on the subject of certification
+   basis. For this chapter, the following additional references are provided:
+
+12.3.1 Department of Commerce (DOC), Aeronautics Branch, Aeronautics Bulletin 7a,
+   section 71 provides regulatory requirements for electrical equipment applicable to the
+   24 makes and 115 models of aircraft certificated under the provisions of that document.
+   Section 72(B) of the same document provides additional regulatory requirements for
+   instrumentation to be installed on the aircraft listed therein.
+
+   Note: Exercise care in using Bulletin 7a as a basis of proof for certification data.
+   Subsequent changes in ownership and production of some makes and models
+   (M/M) may have also resulted in changes of the certification basis.
+
+12.3.2 Civil Air Regulation (CAR) 18 and the related Civil Aeronautics Manual (CAM) 18,
+   Maintenance, Repair, and Alteration of Certificated Aircraft, Aircraft Engines, Propellers,
+   and Instruments, established and maintained the standards and practices for all
+   maintenance, repair, and alteration of aircraft applicable under the provisions of the CAR.
+   That document remained in effect until the advent of the systemic changes dictated by the
+   Federal Aviation Act of 1958 and the resultant documentary changes.
+
+12.3.3 CAR 6, Rotorcraft Airworthiness; Normal Category.
+
+ 12.4 Preparation. Before initiating any alteration involving the addition or relocation of
+   instruments, the regulatory basis of the aircraft must be considered. For the purposes of
+   this chapter the following references are provided:
+
+   •  CAR 3.661 through 3.676 provides the regulatory basis for installation of instruments
+   in CAR 3, Airplane Airworthiness—Normal, Utility, Acrobatic, and Restricted
+   Purpose Categories, airplanes.
+
+   12-1
+
+===== PDF PAGE 162 =====
+7/29/26  AC 43.13-2C
+
+   •  CAR 4a.532 through 4a.537 provide the regulatory basis for supplemental variations
+   for installation of instruments in CAR 4, Airplane Airworthiness, non-air carrier
+   (NAC) airplanes.
+   •  Title 14 CFR § 23.1321 provides the regulatory basis for the arrangement and
+   visibility of instruments in 14 CFR part 23 airplanes.
+
+12.4.1 Structure. Chapter 2, Structural Data, provides guidance for determining structural
+   integrity. Paragraphs 3.3 and 3.4 provide information pertinent to instrument panel
+   installations.
+
+12.4.2 Location. In the absence of specific regulatory requirements, for installation of
+   instruments required for operation under instrument meteorological conditions (IMC), the
+   recommended configuration is in the form of the basic “T” (see Figure 12-1).
+
+   Figure 12-1. The Basic “T” Visual Meteorological Conditions (VMC) Instrument
+   Configuration
+
+   12.4.2.1  The aircraft attitude indicator is located at the top center of the installation.
+
+   12.4.2.2  The airspeed indicator is located adjacent to and left of the attitude indicator.
+
+   12.4.2.3  The altimeter is located adjacent to and to the right of the attitude indicator.
+
+   12.4.2.4  The directional indicator is located adjacent to and immediately below the
+   attitude indicator.
+
+   Note: As instrument panel installations have become more complex,
+   the basic “T” has become more difficult to accomplish. With the
+   relocation of the directional indicator, the relationship of the Air Speed
+   Indicator (ASI)-Attitude Indicator (ATI)-Altitude Indicator (ALT)
+   combination is assumed.
+
+   12-2
+
+===== PDF PAGE 163 =====
+ 7/29/26  AC 43.13-2C
+
+ 12.5 Installation. Throughout the development of the complexity of aircraft, the requirements
+   for the mounting of all instruments have remained the same. All instruments must be
+   mounted so they are visible to the crewmember primarily responsible for their use.
+
+12.5.1 Structure. Before initiating changes to instrument panel installations, determine the
+   load-bearing requirements of the component. In some aircraft, the instrument panel is
+   stressed as the primary structure; with the majority, the panel is treated as the secondary
+   structure with load-bearing responsibilities limited to instruments and equipment
+   installed. Regardless of the structural nature, the altering technician is responsible for the
+   installation to its original or properly altered state.
+
+   12.5.1.1  In all cases, where available, refer to the manufacturer’s instructions for
+   continued airworthiness (ICA) when considering alterations to any structure.
+   For aircraft manufactured before the regulatory requirement for the
+   manufacturer to provide such information, refer to AC 43.13-1, Acceptable
+   Methods, Techniques, and Practices—Aircraft Inspection and Repair,
+   Chapter 4, Metal Structure, Welding, and Brazing, Section 4, Metal Repair
+   Procedures, and/or Chapter 3, Communication, Navigation, and Emergency
+   Locator Transmitter System Installations, of this AC for methods and
+   techniques of retaining structural integrity.
+
+   12.5.1.2  If those sources are not available or applicable, we recommend that the
+   altering individual have a Designated Engineering Representative (DER)
+   approve the data before accomplishing the task.
+
+12.5.2 Instrument Plumbing. The majority of CAR 3 and CAR 4 general aviation aircraft use
+   instrumentation identified as “wet” gauges. This term has nothing to do with what is
+   being measured by the gauge but rather the material to be measured is delivered directly
+   to the gauge. Typical “wet” systems are fuel pressure, engine oil pressure, and, when so
+   equipped, hydraulic pressure. While not usually considered “wet” systems, the airspeed
+   and vacuum systems use this same system. The tubing used is generally thin-walled
+   seamless aluminum or stainless steel. However, flexible rubber and/or neoprene lines are
+   prevalent in airspeed and vacuum sensing lines.
+
+   12.5.2.1  The most reliable source of information on the material used in a particular
+   aircraft is the manufacturer’s ICA. If that source is not available, AC 43.13-1,
+   Chapter 8, Engines, Fuel, Exhaust, and Propellers, provides inspection and
+   maintenance guidance on fuel lines while Chapter 9, Aircraft Systems and
+   Components, provides the same level of information on hydraulic systems.
+
+   12.5.2.2  The installation of remote sensing systems per 14 CFR part 23 has replaced
+   the “wet” systems with system pressures being remotely measured by
+   transducers and electrically transmitted to the flight deck indicators.
+
+   12.5.2.3  Aircraft with long histories of alteration may contain a mixture of mechanical
+   and/or electrical analogue instruments and digital presentations.
+
+   12-3
+
+===== PDF PAGE 164 =====
+ 7/29/26  AC 43.13-2C
+
+12.5.3 Venturi Vacuum Source. A venturi is a relatively low-cost means of producing the
+   vacuum to operate gyroscopic instruments, such as the turn and bank, directional gyro,
+   and artificial horizon. It is mounted on the exterior of the fuselage, parallel with the
+   longitudinal axis of the aircraft. As the aircraft moves through the air, an area of reduced
+   pressure, a partial vacuum, is created in the throat of the venturi. The venturi throat is
+   connected by a tube to the gyro instrument case, resulting in a reduction of pressure
+   within the case. Ambient air, entering the instrument through the inlet port of the case,
+   passes over the gyro rotor, causing it to spin rapidly, and causes the instrument to
+   activate. Venturis are available in sizes providing 2, 4, and 9 inches of mercury (inHg) of
+   vacuum.
+
+   12.5.3.1  The vacuum requirement for the operation of each instrument is generally
+   provided on the data plate attached to its case. If it is not, obtain the data from
+   the manufacturer or another acceptable source, such as Army/Navy and Air
+   Force/Navy (AN) and MS standards.
+
+   12.5.3.2  If the vacuum available exceeds the requirements of the installation, it will be
+   necessary to install an in-line regulator to adjust the flow within requirements.
+
+12.5.4 Pumped Vacuum Source. Current aviation technology has produced durable light-weight,
+   mechanically-driven pump and control systems for providing instrument operating
+   vacuum. Selection of the correct pump remains dependent on the vacuum requirements of
+   the system being driven. Control is provided by either the system itself or an in-line
+   regulator. Production and aftermarket standby vacuum systems are available to provide
+   operating capabilities in the event of failure of the primary mechanically-driven system.
+
+12.5.5 Calculating Vacuum Loads. When a venturi vacuum source is selected, do not assume the
+   venturi selected will provide sufficient flow and negative pressure to operate the
+   instrument package. Even within the M/M of the venturi selected, tolerance may be
+   insufficient to meet the requirements of the system selected. Therefore, it is essential that
+   the vacuum load requirements be carefully evaluated.
+
+   12.5.5.1  Gyroscopic Instruments. Gyroscopic instruments require optimum value of
+   airflow to produce their rated rotor speed. For instance, a specific bank and
+   pitch indicator required approximately 2.30 cubic feet per minute (CFM) flow
+   and a resistance, or pressure drop, of 4 inHg. If the altering technician has
+   selected a 2 inHg Venturi, the resultant vacuum would be insufficient to drive
+   the instrument.
+
+   12.5.5.2  Examples. The following vacuum driven items are examples for the purposes
+   of calculation:
+
+   12-4
+
+===== PDF PAGE 165 =====
+7/29/26  AC 43.13-2C
+
+   Table 12-1. CFM/Vacuum Values
+
+   Instrument  Flow  Vacuum
+   Bank and Pitch Indicator  2.3 CFM  4.0 inHg
+   Directional Gyro Indicator  1.3 CFM  4.0 inHg
+   Turn and Bank Indicator  0.5 CFM  2.0 inHg
+   Total flow required  4.10 CFM
+
+   12.5.5.3  Table of Instruments. The above listed instruments are listed in Tables 12-2
+   and 12-4, Differential Pressure Across the Instrument Inlet and Outlet of the
+   Example Instrument Packages. Optimum values are shown in Table 12-4. The
+   negative pressure air source must deliver not only the optimum vacuum value
+   for the instruments but must also have sufficient volume capacity to
+   accommodate the total flow requirements of the various instruments it serves.
+
+   Note: The example components listed above and in Tables 12-2 and 12-4 are
+   accepted as viable, and the operating parameters related to them are accurate. The
+   nomenclature and the related properties have no effect on the resulting
+   computations.
+
+   Table 12-2. Instrument Air Consumption for Example Vacuum-Driven Autopilot and
+   Instrument Installations
+
+   Air Consumption at Sea Level
+   Instrument  Differential Drop inHg  Cubic Feet
+   Suction (Optimum)  per Minute
+Automatic Pilot System (Type A-2, A-3, and A-3A)
+Directional gyro control unit across mount assembly  5.00  2.15*
+Bank and climb gyro control unit across mount assembly  5.00  3.85*
+Total  ―  6.00*
+Automatic Pilot System (Type A-4)
+Directional gyro control unit  5.00  3.50*
+Bank and climb gyro control unit  5.00  5.00*
+Total  ―  8.50*
+Bank and pitch indicator  4.00  2.30
+Directional gyro indicator  4.00  1.30
+Turn and bank indicator  2.00  0.50
+
+Note: Asterisk (*) indicates it includes air required for operations of pneumatic relays.
+
+   12-5
+
+===== PDF PAGE 166 =====
+7/29/26  AC 43.13-2C
+
+ Table 12-3. Equivalent Straight Tube Line Drops for Each 90-Degree Elbow Installed in
+   Any Given System (By O.D.)
+
+   Pressure Drop in a 90˚ Elbow in
+   Tubing Size  Terms of Length of Straight
+   Tube Equivalent to a 90˚ Elbow
+   O.D.  Wall Thickness
+   Feet
+   Inch  Inch
+   1/4  X  0.035  0.28
+   3/8  X  0.035  0.46
+   1/2  X  0.042  0.62
+   5/8  X  0.042  0.81
+   3/4  X  0.049  0.98
+   1  X  0.049  1.35
+
+ Table 12-4. Differential Pressure Across the Instrument Inlet and Outlet of the Example
+   Instrument Packages
+
+   Suction in inHg
+   Instrument
+   Minimum Optimum Maximum
+Automatic Pilot System (Type A-2, A-3, and A-3A)
+Directional gyro control unit across mount assembly  4.75  5.00  5.25
+Bank and climb gyro control unit across mount assembly  4.75  5.00  5.25
+Gauge reading (differential gauge in B and C control unit)  3.75  4.00  4.25
+Automatic Pilot System (Type A-4)
+Directional gyro control unit  3.75  5.00  5.00
+Bank and climb gyro control unit  3.75  5.00  5.00
+Bank and pitch indicator  3.75  4.00  5.00
+Directional gyro indicator  3.75  4.00  5.00
+Turn and bank indicator  1.80  2.00  2.20
+
+   12.5.5.4  Calculation of Equivalent Straight-Line Pressure Drop Due to Routing. In
+   addition to the effects of the instrumentation itself, consideration must be
+   given to the parasitic resistance to flow provided by the routing of the tubing
+   providing the source pressure to the instruments. For this problem, assume the
+   example system has four right-angle elbows and 20 feet of 1/2-inch O.D. x
+   0.042-inch tubing.
+
+   12-6
+
+===== PDF PAGE 167 =====
+7/29/26  AC 43.13-2C
+
+   12.5.5.5  Solution to the Stated Problem (Step-by-Step).
+
+   12.5.5.5.1 Flow Requirements. Accept the flow requirements of the example instruments
+   listed in paragraph 12.5.5.2 as 4.10 CFM. The pressure drop for one
+   90-degree 1/2-inch O.D. elbow is equivalent to 0.62 feet of straight tubing.
+   Therefore, the pressure drop of the four 90-degree elbows is equivalent to
+   2.48 feet of tubing (see Table 12-3, Equivalent Straight Tube Line Drops for
+   Each 90-Degree Elbow Installed in Any Given System (By O.D.)).
+
+   12.5.5.5.2 Pressure Drop. Determine the pressure drop through 22.48 feet (20 feet plus
+   the above 2.48 feet) of 1/2-inch O.D. x 0.42-inch tubing at 4.10 CFM flow
+   (see Figure 12-2, Pressure Drop Data for Smooth Tubing).
+
+   Figure 12-2. Pressure Drop Data for Smooth Tubing
+
+   12-7
+
+===== PDF PAGE 168 =====
+7/29/26  AC 43.13-2C
+
+   1. The pressure drop for each 10-foot length of that tube is 0.68 inHg.
+   2. Divide 22.48 feet of tubing to determine the number of 10-foot lengths
+   (i.e., 22.48 divided by 10 equals 2.248).
+   3. Multiply the number of sections (2.248) by 0.68 inHg to obtain the
+   pressure drop through the system (0.68 x 2.248 = 1.53 inHg).
+   4. The pump must, therefore, be capable of producing a minimum pressure
+   differential of 5.63 inHg (i.e., 4.10 inHg) for maximum instrument usage
+   + 1.53 inHg (determined) at a flow of 4.10 CFM.
+
+   12.5.5.5.3 Filters. Filters are used to prevent dust, lint, or other foreign matter from
+   entering the instrument and vacuum system. Filters may be located at the
+   instrument intake port or the manifold intake port when instruments are
+   interconnected. Determine if the flow capacity of the filter is equal to or
+   greater than the flow capacity of the vacuum system. If it is not, the restriction
+   will create a pressure drop in the system. AC 43.13-1, Chapter 12, Aircraft
+   Avionics Systems, paragraph 38 provides additional guidance on the
+   installation and maintenance of venturi and engine-driven vacuum and
+   instrument systems.
+
+   12.5.5.5.4 Electrical Supply for Instruments. AC 43.13-1, Chapter 11, Aircraft Electrical
+   Systems, provides information on the inspection and installation of electrical
+   systems.
+
+   12.5.5.5.5 Instrument Lighting. The regulatory requirements for instrument lighting have
+   changed little as certification specifications have developed.
+
+   1. CAR 3.696 and 3.697 provide two paragraphs simply stating that
+   instrument lights (1) should be installed safely, (2) provide sufficient
+   illumination to make instruments and controls easily readable, and (3)
+   shall be installed in such a manner as not to shine in the pilot’s eyes.
+   2. CAR 4a.577 adds that instrument lighting shall be equipped with a
+   rheostat control for dimming unless it can be shown a non-dimming light
+   is satisfactory.
+   3. Title 14 CFR § 23.1381 consolidates the language of the earlier regulatory
+   requirements with no appreciable changes.
+
+   12.5.5.5.6 Magnetic Direction Indicator. The magnetic compass is commonly referred to
+   as the whiskey compass. The maximum deviation limitations of magnetic
+   compasses have changed little since 1928.
+
+   1. CAR 3.666 specifies that the Magnetic Direction Indicator must be
+   installed so that its accuracy is not excessively affected by the airplane’s
+   vibration or magnetic field. After compensating for this in the installation,
+   the deviation level in flight must not exceed 10 degrees on any heading.
+
+   12-8
+
+===== PDF PAGE 169 =====
+7/29/26  AC 43.13-2C
+
+   CAR 3.758 provides and requires the installation and maintenance of the
+   compass deviation card.
+   2. CAR 4a.562 refers to dampening and compensation of the installation and
+   acknowledges the effects of electrical disturbances resulting from the
+   increase in proliferation of aircraft electrical systems. As a result, specific
+   aircraft required to meet the provisions of CAR 4a may be required to
+   display two compass correction cards: one for operation with electrical
+   power off and one for electrical power on operation.
+   3. Title 14 CFR § 23.1327 provides location and deviation considerations
+   also provided for under CAR 3.666 and CAR 4a.562. This section
+   additionally provides for more than 10 degrees deviation of the
+   non-stabilized magnetic compass due to the operation of adjacent high
+   draw electrical components: if either a magnetic stabilized indicator, not
+   having a deviation of greater than 10 degrees on any heading, or a
+   gyroscopic direction indicator is installed.
+
+   12.5.5.5.7 Alternative Installations to Liquid-Filled Magnetic Direction Indicators. With
+   the development of the vertical reading dry compass, it is practical to replace
+   the liquid-filled compass with a viable and approved alternative.
+
+   1. Vertical reading dry compasses provide the pilot with a true relationship
+   of the aircraft to azimuths as opposed to the reverse reading requirements
+   of the liquid filled compass.
+   2. The vertical reading dry compass does not leak and requires no periodic
+   refilling or cleaning to make it stable and readable.
+   3. The vertical reading compass provides no relief from the requirement for
+   magnetic correction compensation. Depending on the manufacturer and
+   individual installation, the unit may even require supplemental
+   compensation to meet the maximum deviation requirements.
+   4. Vertical reading compasses are available on the aftermarket in both
+   Technical Standard Order (TSO) and non-TSO versions. The altering
+   technician must be aware of the limitations and certification
+   responsibilities of the unit selected.
+
+ 12.6 Testing, Marking, and Placarding.
+
+12.6.1 Testing the Venturi Tube-Powered Systems. At normal in-flight cruise speed, or an
+   accurately generated representative airflow, check the venturi tube-powered system to
+   ensure that the required vacuum is being supplied to the system.
+
+12.6.2 Testing the Vacuum Pump-Powered System. When the system is powered by either
+   engine or auxiliary driven vacuum pumps, check the system for proper output at their
+   rated revolutions per minute (rpm). The output should be measured at the point of
+   delivery to the instrument.
+
+   12-9
+
+===== PDF PAGE 170 =====
+ 7/29/26  AC 43.13-2C
+
+12.6.3 Testing of Altimeters and Static Systems. Before performing an altimeter or static system
+   test, determine that the system is free of contaminating materials such as dirt and water.
+   With all instruments disconnected from the system, purge the plumbing with low
+   pressure dry filtered air or nitrogen. Title 14 CFR part 43 appendix E provides guidance
+   and practical guidance on altimeter and static systems tests and inspections.
+
+   Note: Altimeter tests in accordance with 14 CFR part 43 appendix E must be
+   accomplished by a properly certificated repair agency.
+
+12.6.4 Testing Instrument Electrical Supply. Subsequent to major repairs or alterations that
+   result in addition, replacement, or rearrangement of instrument electrical circuitry, verify
+   continuity and current availability before connecting the instruments. With the individual
+   instruments isolated from the power circuits, determine if the current available is in
+   accordance with the manufacturer’s requirements.
+
+12.6.5 Fuel, Oil, and Hydraulic Fluid Supply (Wet Instruments). Before connecting the fluid
+   transmission lines to the instruments, verify that they are free of residual material, dirt,
+   and water. Purge them using a low-pressure application of dry filtered air or nitrogen.
+
+   12.6.5.1  On many CAR 3 and CAR 4a aircraft, common-sized fluid connections can
+   lead to incorrect fluid line connections to the wrong instruments. Be careful to
+   ensure fluid delivery to the correct instrument.
+
+   Note: Paragraph 12.6.5.1 speaks to line fittings. Note that these wet
+   instruments require a restricted fitting where the line attaches to the
+   engine pressure outlet port. The restricted fitting is necessary to
+   prevent fuel/oil/etc. from being sprayed into the flight deck during an
+   instrument malfunction. There have been cases where this restricted
+   fitting was removed and a normal fitting was installed, a fatal error for
+   some personnel and airplanes.
+
+   12.6.5.2  Verify fluid pressures at both the source and instrument to confirm the
+   absence of restrictions or blockage before connection to the instrument.
+
+12.6.6 Fuel, Oil, and Hydraulic Fluid Supply (Dry Instruments). Use the same care exercised on
+   the verification of security, source, and hygiene of wet instrument systems when
+   checking dry systems.
+
+   12.6.6.1  The primary difference is the delivery of the material to be measured to a
+   transducer or pressure transmitter, rather than to the back of an instrument.
+   Use of the wrong fluid can damage an instrument beyond repair.
+
+   12.6.6.2  The additional difference between the two instrument systems is the attention
+   required to provide the correct electrical circuitry and current between the
+   transmitter and the instrument. (See paragraph 12.6.4.)
+
+   12-10
+
+===== PDF PAGE 171 =====
+7/29/26  AC 43.13-2C
+
+12.6.7 Instrument Markings and Placards.
+
+   12.6.7.1  When additional instruments are installed, they must be appropriately marked.
+   Refer to the applicable CAR and 14 CFR for specific instrument marking and
+   placard requirements.
+
+   12.6.7.2  Especially when the instrument panel was replaced, the altering individual
+   should refer to the applicable ATC, type certificate (TC), Group 2,
+   Bulletin 7a, or Type Certificate Data Sheet (TCDS) of the aircraft to ensure
+   proper installation and placement of the required placards and limitations.
+
+ 12.7 Electronic Display Instrument Systems or Electronic Display Indicators. The
+   installation of these systems, regardless of the certification basis of the airplane into
+   which they are being installed, are defined and specified under the provisions of 14 CFR
+   § 23.1311.
+
+12.7.1 Electrostatic Discharges (ESD).
+
+   12.7.1.1  With new technologies come the requirements to learn new skills. While a
+   certain amount of care and attention to detail while handling mechanical and
+   electrical instruments has always been required, the hazards have been based
+   on circumstances that could be seen and felt. With the glass flight deck, a
+   different kind of hazard has surfaced as a real threat to airworthiness of
+   instrumentation. That threat is called ESD.
+
+   12.7.1.2  ESD is not a new phenomenon. It has been with the industry for a long time.
+   However, with the advent of the electronic display instrument system and its
+   multiple presentations, the problem can now disrupt entire display systems as
+   a result of one event. Any unit containing electronic components such as
+   diodes, transistors, integrated circuits, programmable read-only memory
+   (PROM), ROM, and memory devices must be protected from ESD. The
+   simple act of improperly carrying an electronic device across a room without
+   adequate protection can render it unairworthy.
+
+   CAUTION: To prevent damage due to excessive ESD, use proper
+   gloves, finger cots, or grounding bracelets. Observe the standard
+   procedures for handling equipment containing electrostatic sensitive
+   devices or assemblies in accordance with the recommendations in the
+   manufacturer’s maintenance instructions.
+
+12.7.2 Electronic Display Instrument Systems Provide No Relief From the “Basic T”. Title
+   14 CFR § 23.1311(a)(5) requires systems using electronic displays to have independent
+   backup systems to provide basic IMC reference in case electrical power is lost.
+
+   12.7.2.1  Title 14 CFR § 23.1311 requires an independent magnetic indicator and either
+   an independent secondary mechanical altimeter, airspeed indicator, and
+   attitude instrument; or
+
+   12-11
+
+===== PDF PAGE 172 =====
+ 7/29/26  AC 43.13-2C
+
+   12.7.2.2  Individual electronic display indicators for altitude, airspeed, and attitude that
+   are independent from the airplane’s primary electrical system.
+
+   12.7.2.3  These secondary instruments may be installed in panel positions that are
+   displaced from the primary positions as specified by 14 CFR § 23.1321(d), but
+   must be located where they meet the pilot’s visibility requirements of 14 CFR
+   § 23.1321(a).
+
+12.7.3 Regulatory Requirements. AC 23.1311-1, Installation of Electronic Display in Part 23
+   Airplanes, Paragraph 3.0, Related Regulations and Documents, provides valuable
+   interface references relating to the relationships between the CAR and 14 CFR regulatory
+   requirements installation of this technology to older and current technology in airplanes.
+
+ 12.8 Environmental Conditions.
+
+12.8.1 General. The equipment environmental limits established by the manufacturer should be
+   compatible with the operating environment of the airplane. When evaluating the
+   equipment installation, consider such factors as the maximum operating altitude of the
+   airplane and whether the equipment is located within a temperature- and
+   pressure-controlled area. Applicable methods for testing the performance characteristics
+   of the equipment for specific environmental conditions are provided in AC 21-16, RTCA
+   Document DO-160 Versions D, E, F, and G, “Environmental Conditions and Test
+   Procedures for Airborne Equipment.” Either test or analysis, or both, ensures the
+   compatibility between the operational environment and the environmental equipment
+   category of the laboratory tests.
+
+12.8.2 Temperature. An electronic system’s reliability is strongly related to the temperature of
+   the solid-state components in the system. Component temperatures depend on the internal
+   thermal design and external cooling. In evaluating the temperature requirements, consider
+   the additional heat generated by the equipment, especially in an area where air flow is
+   restricted. To determine if adequate cooling is provided, the evaluation must make
+   maximum use of previous data from compatible installations. This will assist in limiting
+   the ground and/or flight tests of those installations that cannot be verified by other means.
+   When the equipment operating environment cannot be verified from previous experience
+   or from evaluation of temperature values in that equipment location, a cooling test must
+   be conducted.
+
+12.8.3 Attitude Information. Attitude information should continue to be presented for a
+   minimum of 30 minutes after the in-flight loss of cooling for the primary instrument
+   when in the normal operating environment (temperature/altitude). If proper performance
+   of the flight instrument functions is adversely affected due to loss of in-flight cooling,
+   such conditions must be annunciated. Consider incorporation of an over-temperature
+   shut-down of the system in case of cooling system failure. If such systems are used,
+   Aircraft Flight Manual (AFM) documentation should be established, requiring
+   subsequent pilot actions. Additionally, applicable placards must be provided for pilot
+   situational awareness of the critical condition. These actions should include procedures to
+
+   12-12
+
+===== PDF PAGE 173 =====
+ 7/29/26  AC 43.13-2C
+
+   allow possible recovery of a system that has had an over-temperature shutdown
+   condition.
+
+12.8.4 Annunciation. Annunciation of in-flight loss of cooling or fan monitors may not be
+   required if shown by a safety analysis or test demonstration that a hazardous or
+   catastrophic condition is not indicated. The safety analysis should consider the reliability
+   of the fans, redundancies of functions, reversionary features (such as the ability to
+   transfer critical functions), the enunciation of over-temperature and its response time, and
+   the availability of other flight instrumentation. In some systems, cooling fans may be
+   installed to improve the operating environment of the components and reduce the
+   possibility of a failure condition or shutdown of the equipment. With supplementary
+   installations, fan monitoring or additional temperature sensors may not be required. If
+   cooling fans are needed to prevent a hazardous or catastrophic failure condition,
+   installation of fan monitoring or other methods of determining the status of the cooling
+   fan must be provided prior to flight.
+
+   12-13
+

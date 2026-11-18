@@ -1,0 +1,1504 @@
+FAA-H-8083-31B Airframe Handbook, chapter 2 (Aerodynamics, Aircraft Assembly, & Rigging), PDF pages 72-88
+
+===== PDF PAGE 72 =====
+Chapter 2
+
+Aerodynamics, Aircraft Assembly, &
+Rigging
+Introduction
+Three topics that are directly related to the manufacture,
+operation, and repair of aircraft are: aerodynamics, aircraft
+assembly, and rigging. Each of these subject areas, though
+studied separately, eventually connect to provide a scientific
+and physical understanding of how an aircraft is prepared for
+flight. A logical place to start with these three topics is the study
+of basic aerodynamics. By studying aerodynamics, a person
+becomes familiar with the fundamentals of aircraft flight.
+
+“aerodynamics”—the study of objects in motion through
+the air and the forces that produce or change such motion.
+
+Basic Aerodynamics
+
+The Atmosphere
+
+Aerodynamics is the study of the dynamics of gases, the
+interaction between a moving object and the atmosphere
+being of primary interest for this handbook. The movement of
+an object and its reaction to the air flow around it can be seen
+when watching water passing the bow of a ship. The major
+difference between water and air is that air is compressible
+and water is incompressible. The action of the airflow over
+a body is a large part of the study of aerodynamics. Some
+common aircraft terms, such as rudder, hull, water line, and
+keel beam, were borrowed from nautical terms.
+Many textbooks have been written about the aerodynamics
+of aircraft flight. It is not necessary for an airframe and
+powerplant (A&P) mechanic to be as knowledgeable as an
+aeronautical engineer about aerodynamics. The mechanic
+must be able to understand the relationships between
+how an aircraft performs in flight and its reaction to the
+forces acting on its structural parts. Understanding why
+aircraft are designed with particular types of primary and
+secondary control systems and why the surfaces must be
+aerodynamically smooth becomes essential when maintaining
+today’s complex aircraft.
+The theory of flight should be described in terms of the laws
+of flight because what happens to an aircraft when it flies
+is not based upon assumptions, but upon a series of facts.
+Aerodynamics is a study of laws which have been proven
+to be the physical reasons why an airplane flies. The term
+aerodynamics is derived from the combination of two Greek
+words: “aero,” meaning air, and “dyne,” meaning force of
+power. Thus, when “aero” joins “dynamics” the result is
+
+Aerodynamically, an aircraft can be defined as an object
+traveling through space that is affected by the changes in
+atmospheric conditions. To state it another way, aerodynamics
+covers the relationships between the aircraft, relative wind,
+and atmosphere.
+
+Before examining the fundamental laws of flight, several
+basic facts must be considered, namely that an aircraft
+operates in the air. Therefore, those properties of air that
+affect the control and performance of an aircraft must be
+understood.
+The air in the earth’s atmosphere is composed mostly of
+nitrogen and oxygen. Air is considered a fluid because it
+fits the definition of a substance that has the ability to flow
+or assume the shape of the container in which it is enclosed.
+If the container is heated, pressure increases; if cooled, the
+pressure decreases. The weight of air is heaviest at sea level
+where it has been compressed by all of the air above. This
+compression of air is called atmospheric pressure.
+Pressure
+Atmospheric pressure is usually defined as the force exerted
+against the earth’s surface by the weight of the air above
+that surface. Weight is force applied to an area that results
+in pressure. Force (F) equals area (A) times pressure (P), or
+F = AP. Therefore, to find the amount of pressure, divide
+area into force (P = F/A). A column of air (one square inch)
+extending from sea level to the top of the atmosphere weighs
+approximately 14.7 pounds; therefore, atmospheric pressure
+is stated in pounds per square inch (psi). Thus, atmospheric
+pressure at sea level is 14.7 psi.
+Atmospheric pressure is measured with an instrument
+called a barometer, composed of mercury in a tube that
+records atmospheric pressure in inches of mercury ("Hg).
+[Figure 2-1] The standard measurement in aviation altimeters
+2-1
+
+===== PDF PAGE 73 =====
+29.92"Hg
+
+Inches of
+Mercury
+30
+
+Vacuum
+
+Standard
+Sea Level
+Pressure
+
+Millibars
+1016
+
+25
+
+847
+
+20
+
+677
+
+15
+
+508
+
+10
+
+339
+
+Thus, air at high altitudes is less dense than air at low
+altitudes, and a mass of hot air is less dense than a mass of
+cool air.
+
+Standard
+Sea Level
+Pressure
+
+Changes in density affect the aerodynamic performance of
+aircraft with the same horsepower. An aircraft can fly faster at
+a high altitude where the density is low than at a low altitude
+where the density is greater. This is because air offers less
+resistance to the aircraft when it contains a smaller number
+of air particles per unit of volume.
+
+1013 mb
+
+5
+170
+Atmospheric Pressure
+0
+0
+
+1"
+
+1"
+
+1"
+
+0.491 lb Mercury
+
+Figure 2-1. Barometer used to measure atmospheric pressure.
+
+and U.S. weather reports has been "Hg. However, worldwide
+weather maps and some non-U.S. manufactured aircraft
+instruments indicate pressure in millibars (mb), a metric unit.
+At sea level, when the average atmospheric pressure is
+14.7 psi, the barometric pressure is 29.92 "Hg, and the metric
+measurement is 1013.25 mb.
+An important consideration is that atmospheric pressure
+varies with altitude. As an aircraft ascends, atmospheric
+pressure drops, oxygen content of the air decreases, and
+temperature drops. The changes in altitude affect an aircraft’s
+performance in such areas as lift and engine horsepower. The
+effects of temperature, altitude, and density of air on aircraft
+performance are covered in the following paragraphs.
+Density
+Density is weight per unit of volume. Since air is a mixture
+of gases, it can be compressed. If the air in one container is
+under half as much pressure as an equal amount of air in an
+identical container, the air under the greater pressure weighs
+twice as much as that in the container under lower pressure.
+The air under greater pressure is twice as dense as that in
+the other container. For the equal weight of air, that which
+is under the greater pressure occupies only half the volume
+of that under half the pressure.
+The density of gases is governed by the following rules:
+1.
+
+Density varies in direct proportion with the pressure.
+
+2.
+
+Density varies inversely with the temperature.
+
+Humidity
+Humidity is the amount of water vapor in the air. The
+maximum amount of water vapor that air can hold varies
+with the temperature. The higher the temperature of the air,
+the more water vapor it can absorb.
+1.
+
+Absolute humidity is the weight of water vapor in a
+unit volume of air.
+
+2.
+
+Relative humidity is the ratio, in percent, of the
+moisture actually in the air to the moisture it would
+hold if it were saturated at the same temperature and
+pressure.
+
+Assuming that the temperature and pressure remain the same,
+the density of the air varies inversely with the humidity. On
+damp days, the air density is less than on dry days. For this
+reason, an aircraft requires a longer runway for takeoff on
+damp days than it does on dry days.
+By itself, water vapor weighs approximately five-eighths
+as much as an equal amount of perfectly dry air. Therefore,
+when air contains water vapor, it is not as heavy as dry air
+containing no moisture.
+
+Aerodynamics & the Laws of Physics
+The law of conservation of energy states that energy may
+neither be created nor destroyed.
+Motion is the act or process of changing place or position.
+An object may be in motion with respect to one object and
+motionless with respect to another. For example, a person
+sitting quietly in an aircraft flying at 200 knots is at rest or
+motionless with respect to the aircraft; however, the person
+and the aircraft are in motion with respect to the air and to
+the earth.
+Air has no force or power, except pressure, unless it is in
+motion. When it is moving, however, its force becomes
+apparent. A moving object in motionless air has a force
+exerted on it as a result of its own motion. It makes no
+difference in the effect then, whether an object is moving
+with respect to the air or the air is moving with respect to
+2-2
+
+===== PDF PAGE 74 =====
+the object. The flow of air around an object caused by the
+movement of either the air or the object, or both, is called
+the relative wind.
+Velocity & Acceleration
+The terms “speed” and “velocity” are often used
+interchangeably, but they do not have the same meaning.
+Speed is the rate of motion in relation to time, and velocity is
+the rate of motion in a particular direction in relation to time.
+An aircraft starts from New York City and flies 10 hours at
+an average speed of 260 miles per hour (mph). At the end of
+this time, the aircraft may be over the Atlantic Ocean, Pacific
+Ocean, Gulf of Mexico, or, if its flight were in a circular path,
+it may even be back over New York City. If this same aircraft
+flew at a velocity of 260 mph in a southwestward direction,
+it would arrive in Los Angeles in about 10 hours. Only the
+rate of motion is indicated in the first example and denotes
+the speed of the aircraft. In the last example, the particular
+direction is included with the rate of motion, thus, denoting
+the velocity of the aircraft.
+Acceleration is defined as the rate of change of velocity.
+An aircraft increasing in velocity is an example of positive
+acceleration, while another aircraft reducing its velocity is an
+example of negative acceleration, or deceleration.
+Newton’s Laws of Motion
+The fundamental laws governing the action of air about a
+wing are known as Newton’s laws of motion.
+Newton’s first law is normally referred to as the law of
+inertia. It simply means that a body at rest does not move
+unless force is applied to it. If a body is moving at uniform
+speed in a straight line, force must be applied to increase or
+decrease the speed.
+According to Newton’s law, since air has mass, it is a body.
+When an aircraft is on the ground with its engines off, inertia
+keeps the aircraft at rest. An aircraft is moved from its state
+of rest by the thrust force created by a propeller, or by the
+expanding exhaust, or both. When an aircraft is flying at
+uniform speed in a straight line, inertia tends to keep the
+aircraft moving. Some external force is required to change
+the aircraft from its path of flight.
+Newton’s second law states that if a body moving with
+uniform speed is acted upon by an external force, the change
+of motion is proportional to the amount of the force, and
+motion takes place in the direction in which the force acts.
+This law may be stated mathematically as follows:
+Force = mass × acceleration (F = ma)
+
+If an aircraft is flying against a headwind, it is slowed
+down. If the wind is coming from either side of the aircraft’s
+heading, the aircraft is pushed off course unless the pilot takes
+corrective action against the wind direction.
+Newton’s third law is the law of action and reaction. This
+law states that for every action (force) there is an equal
+and opposite reaction (force). This law can be illustrated
+by the example of firing a gun. The action is the forward
+movement of the bullet while the reaction is the backward
+recoil of the gun.
+The three laws of motion that have been discussed apply to
+the theory of flight. In many cases, all three laws may be
+operating on an aircraft at the same time.
+Bernoulli’s Principle & Subsonic Flow
+Bernoulli’s principle states that when a fluid (air) flowing
+through a tube reaches a constriction, or narrowing, of the
+tube, the speed of the fluid flowing through that constriction
+is increased and its pressure is decreased. The cambered
+(curved) surface of an airfoil (wing) affects the airflow
+exactly as a constriction in a tube affects airflow. [Figure 2-2]
+Diagram A of Figure 2-2 illustrates the effect of air passing
+through a constriction in a tube. In Diagram B, air is flowing
+past a cambered surface, such as an airfoil, and the effect is
+similar to that of air passing through a restriction.
+As the air flows over the upper surface of an airfoil, its
+velocity increases and its pressure decreases; an area of low
+pressure is formed. There is an area of greater pressure on
+the lower surface of the airfoil, and this greater pressure
+tends to move the wing upward. The difference in pressure
+between the upper and lower surfaces of the wing is called
+lift. Three-fourths of the total lift of an airfoil is the result of
+the decrease in pressure over the upper surface. The impact
+of air on the under surface of an airfoil produces the other
+one-fourth of the total lift.
+
+Airfoil
+An airfoil is a surface designed to obtain lift from the air
+through which it moves. Thus, it can be stated that any part
+of the aircraft that converts air resistance into lift is an airfoil.
+The profile of a conventional wing is an excellent example
+of an airfoil. [Figure 2-3] Notice that the top surface of the
+wing profile has greater curvature than the lower surface.
+The difference in curvature of the upper and lower surfaces
+of the wing builds up the lift force. Air flowing over the top
+surface of the wing must reach the trailing edge of the wing
+in the same amount of time as the air flowing under the wing.
+To do this, the air passing over the top surface moves at a
+2-3
+
+===== PDF PAGE 75 =====
+A
+
+Mass of air
+Same
+mass of air
+
+Normal pressure
+
+Velocity increased
+Pressure decreased
+(Compared to original)
+
+Normal pressure
+
+B
+
+Normal flow
+
+Increased flow
+
+Normal flow
+
+Figure 2-2. Bernoulli’s Principle.
+
+115 mph
+
+100 mph
+
+14.7 lb/in2
+
+105 mph
+
+14.54 lb/in2
+
+14.67 lb/in2
+
+Figure 2-3. Airflow over a wing section.
+
+greater velocity than the air passing below the wing because
+of the greater distance it must travel along the top surface.
+This increased velocity, according to Bernoulli’s Principle,
+means a corresponding decrease in pressure on the surface.
+Thus, a pressure differential is created between the upper and
+lower surfaces of the wing, forcing the wing upward in the
+direction of the lower pressure.
+Within limits, lift can be increased by increasing the angle
+of attack (AOA), wing area, velocity, density of the air, or
+by changing the shape of the airfoil. When the force of lift
+on an aircraft’s wing equals the force of gravity, the aircraft
+maintains level flight.
+Shape of the Airfoil
+Individual airfoil section properties differ from those
+properties of the wing or aircraft as a whole because of the
+effect of the wing planform. A wing may have various airfoil
+sections from root to tip, with taper, twist, and sweepback.
+
+The resulting aerodynamic properties of the wing are
+determined by the action of each section along the span.
+The shape of the airfoil determines the amount of turbulence
+or skin friction that it produces, consequently affecting the
+efficiency of the wing. Turbulence and skin friction are
+controlled mainly by the fineness ratio, which is defined as the
+ratio of the chord of the airfoil to the maximum thickness. If
+the wing has a high fineness ratio, it is a very thin wing. A thick
+wing has a low fineness ratio. A wing with a high fineness
+ratio produces a large amount of skin friction. A wing with
+a low fineness ratio produces a large amount of turbulence.
+The best wing is a compromise between these two extremes
+to hold both turbulence and skin friction to a minimum.
+The efficiency of a wing is measured in terms of the lift to
+drag ratio (L/D). This ratio varies with the AOA but reaches a
+definite maximum value for a particular AOA. At this angle,
+the wing has reached its maximum efficiency. The shape of
+the airfoil is the factor that determines the AOA at which
+the wing is most efficient; it also determines the degree of
+efficiency. Research has shown that the most efficient airfoils
+for general use have the maximum thickness occurring about
+one-third of the way back from the leading edge of the wing.
+High-lift wings and high-lift devices for wings have been
+developed by shaping the airfoils to produce the desired effect.
+The amount of lift produced by an airfoil increases with an
+increase in wing camber. Camber refers to the curvature of an
+airfoil above and below the chord line surface. Upper camber
+refers to the upper surface, lower camber to the lower surface,
+2-4
+
+===== PDF PAGE 76 =====
+and mean camber to the mean line of the section. Camber is
+positive when departure from the chord line is outward and
+negative when it is inward. Thus, high-lift wings have a large
+positive camber on the upper surface and a slightly negative
+camber on the lower surface. Wing flaps cause an ordinary
+wing to approximate this same condition by increasing the
+upper camber and by creating a negative lower camber.
+
+Angle of attack
+Resultant lift
+
+Cho
+
+rd li
+
+ne
+
+Lift
+
+Relative airstream
+
+Drag
+
+Center of pressure
+
+It is also known that the larger the wingspan, as compared
+to the chord, the greater the lift obtained. This comparison
+is called aspect ratio. The higher the aspect ratio, the greater
+the lift. In spite of the benefits from an increase in aspect
+ratio, it was found that definite limitations were defined by
+structural and drag considerations.
+On the other hand, an airfoil that is perfectly streamlined
+and offers little wind resistance sometimes does not have
+enough lifting power to take the aircraft off the ground. Thus,
+modern aircraft have airfoils which strike a medium between
+extremes, the shape depending on the purposes of the aircraft
+for which it is designed.
+Angle of Incidence
+The acute angle the wing chord makes with the longitudinal
+axis of the aircraft is called the angle of incidence, or the angle
+of wing setting. [Figure 2-4] The angle of incidence in most
+cases is a fixed, built-in angle. When the leading edge of the
+wing is higher than the trailing edge, the angle of incidence is
+said to be positive. The angle of incidence is negative when
+the leading edge is lower than the trailing edge of the wing.
+Angle of Attack (AOA)
+Before beginning the discussion on AOA and its effect on
+airfoils, first consider the terms chord and center of pressure
+(CP) as illustrated in Figure 2-5.
+The chord of an airfoil or wing section is an imaginary
+straight line that passes through the section from the leading
+edge to the trailing edge, as shown in Figure 2-5. The chord
+line provides one side of an angle that ultimately forms
+the AOA. The other side of the angle is formed by a line
+indicating the direction of the relative airstream. Thus, AOA
+
+Angle of incidence
+Longitudinal axis
+
+Chord line
+
+Figure 2-4. Angle of incidence.
+
+of wing
+
+Figure 2-5. Airflow over a wing section.
+
+is defined as the angle between the chord line of the wing and
+the direction of the relative wind. This is not to be confused
+with the angle of incidence, illustrated in Figure 2-4, which
+is the angle between the chord line of the wing and the
+longitudinal axis of the aircraft.
+On each part of an airfoil or wing surface, a small force is
+present. This force is of a different magnitude and direction
+from any forces acting on other areas forward or rearward
+from this point. It is possible to add all of these small forces
+mathematically. That sum is called the “resultant force” (lift).
+This resultant force has magnitude, direction, and location,
+and can be represented as a vector, as shown in Figure 2-5.
+The point of intersection of the resultant force line with the
+chord line of the airfoil is called the center of pressure (CP).
+The CP moves along the airfoil chord as the AOA changes.
+Throughout most of the flight range, the CP moves forward
+with increasing AOA and rearward as the AOA decreases. The
+effect of increasing AOA on the CP is shown in Figure 2-6.
+The AOA changes as the aircraft’s attitude changes. Since the
+AOA has a great deal to do with determining lift, it is given
+primary consideration when designing airfoils. In a properly
+designed airfoil, the lift increases as the AOA is increased.
+When the AOA is increased gradually toward a positive AOA,
+the lift component increases rapidly up to a certain point
+and then suddenly begins to drop off. During this action the
+drag component increases slowly at first, then rapidly as lift
+begins to drop off.
+When the AOA increases to the angle of maximum lift, the
+burble point is reached. This is known as the critical angle.
+When the critical angle is reached, the air ceases to flow
+smoothly over the top surface of the airfoil and begins to
+burble or eddy. This means that air breaks away from the
+upper camber line of the wing. What was formerly the area
+of decreased pressure is now filled by this burbling air.
+When this occurs, the amount of lift drops and drag becomes
+excessive. The force of gravity exerts itself, and the nose of
+the aircraft drops. This is a stall. Thus, the burble point is
+the stalling angle.
+
+2-5
+
+===== PDF PAGE 77 =====
+Thrust & Drag
+
+A Angle of attack = 0°
+Resultant
+Negative pressure pattern
+Relative airstream
+
+Positive pressure
+
+Center of pressure
+
+B Angle of attack = 6°
+Resultant
+
+Negative pressure pattern
+moves forward
+
+Relative airstream
+
+An aircraft in flight is the center of a continuous battle of
+forces. Actually, this conflict is not as violent as it sounds, but
+it is the key to all maneuvers performed in the air. There is
+nothing mysterious about these forces; they are definite and
+known. The directions in which they act can be calculated,
+and the aircraft itself is designed to take advantage of each
+of them. In all types of flying, flight calculations are based
+on the magnitude and direction of four forces: weight, lift,
+drag, and thrust. [Figure 2-7]
+An aircraft in flight is acted upon by four forces:
+1.
+
+Gravity or weight—the force that pulls the aircraft
+toward the earth. Weight is the force of gravity acting
+downward upon everything that goes into the aircraft,
+such as the aircraft itself, crew, fuel, and cargo.
+
+2.
+
+Lift—the force that pushes the aircraft upward. Lift
+acts vertically and counteracts the effects of weight.
+
+3.
+
+Thrust—the force that moves the aircraft forward.
+Thrust is the forward force produced by the powerplant
+that overcomes the force of drag.
+
+4.
+
+Drag—the force that exerts a braking action to hold
+the aircraft back. Drag is a backward deterrent force
+and is caused by the disruption of the airflow by the
+wings, fuselage, and protruding objects.
+
+Positive pressure
+
+C Angle of attack = 12°
+Resultant
+
+Relative airstream
+
+Center of pressure
+moves forward
+
+Positive pressure
+
+D Angle of attack = 18°
+Wing completely stalled
+
+Positive pressure
+
+Figure 2-6. Effect on increasing angle of attack.
+
+Drag
+
+Thrust
+
+Weight
+
+Boundary Layer
+In the study of physics and fluid mechanics, a boundary layer
+is that layer of fluid in the immediate vicinity of a bounding
+surface. In relation to an aircraft, the boundary layer is the
+part of the airflow closest to the surface of the aircraft. In
+designing high-performance aircraft, considerable attention
+is paid to controlling the behavior of the boundary layer to
+minimize pressure drag and skin friction drag.
+
+The forces of lift and drag are the direct result of the
+relationship between the relative wind and the aircraft. The
+force of lift always acts perpendicular to the relative wind,
+and the force of drag always acts parallel to and in the same
+direction as the relative wind. These forces are actually the
+components that produce a resultant lift force on the wing.
+[Figure 2-8]
+
+Lift
+
+As previously seen, the distribution of the pressure forces
+over the airfoil varies with the AOA. The application of the
+resultant force, or CP, varies correspondingly. As this angle
+increases, the CP moves forward; as the angle decreases, the
+CP moves back. The unstable travel of the CP is characteristic
+of almost all airfoils.
+
+These four forces are in perfect balance only when the aircraft
+is in straight-and-level unaccelerated flight.
+
+Figure 2-7. Forces in action during flight.
+
+2-6
+
+===== PDF PAGE 78 =====
+Resultant
+Lift
+Drag
+
+Figure 2-8. Resultant of lift and drag.
+
+Weight has a definite relationship with lift, and thrust with
+drag. These relationships are quite simple, but very important
+in understanding the aerodynamics of flying. As stated
+previously, lift is the upward force on the wing perpendicular
+to the relative wind. Lift is required to counteract the aircraft’s
+weight, caused by the force of gravity acting on the mass of
+the aircraft. This weight force acts downward through a point
+called the center of gravity (CG). The CG is the point at which
+all the weight of the aircraft is considered to be concentrated.
+When the lift force is in equilibrium with the weight force,
+the aircraft neither gains nor loses altitude. If lift becomes
+less than weight, the aircraft loses altitude. When the lift is
+greater than the weight, the aircraft gains altitude.
+Wing area is measured in square feet and includes the
+part blanked out by the fuselage. Wing area is adequately
+described as the area of the shadow cast by the wing at high
+noon. Tests show that lift and drag forces acting on a wing
+are roughly proportional to the wing area. This means that
+if the wing area is doubled, all other variables remaining the
+same, the lift and drag created by the wing is doubled. If the
+area is tripled, lift and drag are tripled.
+Drag must be overcome for the aircraft to move, and
+movement is essential to obtain lift. To overcome drag and
+move the aircraft forward, another force is essential. This
+force is thrust. Thrust is derived from jet propulsion or from
+a propeller and engine combination. Jet propulsion theory is
+based on Newton’s third law of motion (page 2-3). The turbine
+engine causes a mass of air to be moved backward at high
+velocity causing a reaction that moves the aircraft forward.
+In a propeller/engine combination, the propeller is actually
+two or more revolving airfoils mounted on a horizontal shaft.
+The motion of the blades through the air produces lift similar
+to the lift on the wing, but acts in a horizontal direction,
+pulling the aircraft forward.
+Before the aircraft begins to move, thrust must be exerted.
+The aircraft continues to move and gain speed until thrust and
+
+drag are equal. In order to maintain a steady speed, thrust and
+drag must remain equal, just as lift and weight must be equal
+for steady, horizontal flight. Increasing the lift means that the
+aircraft moves upward, whereas decreasing the lift so that it
+is less than the weight causes the aircraft to lose altitude. A
+similar rule applies to the two forces of thrust and drag. If
+the revolutions per minute (rpm) of the engine is reduced, the
+thrust is lessened, and the aircraft slows down. As long as the
+thrust is less than the drag, the aircraft travels more and more
+slowly until its speed is insufficient to support it in the air.
+Likewise, if the rpm of the engine is increased, thrust becomes
+greater than drag, and the speed of the aircraft increases. As
+long as the thrust continues to be greater than the drag, the
+aircraft continues to accelerate. When drag equals thrust, the
+aircraft flies at a steady speed.
+The relative motion of the air over an object that produces
+lift also produces drag. Drag is the resistance of the air to
+objects moving through it. If an aircraft is flying on a level
+course, the lift force acts vertically to support it while the
+drag force acts horizontally to hold it back. The total amount
+of drag on an aircraft is made up of many drag forces, but
+this handbook considers three: parasite drag, profile drag,
+and induced drag.
+Parasite drag is made up of a combination of many different
+drag forces. Any exposed object on an aircraft offers some
+resistance to the air, and the more objects in the airstream,
+the more parasite drag. While parasite drag can be reduced
+by reducing the number of exposed parts to as few as
+practical and streamlining their shape, skin friction is the
+type of parasite drag most difficult to reduce. No surface is
+perfectly smooth. Even machined surfaces have a ragged
+uneven appearance when inspected under magnification.
+These ragged surfaces deflect the air near the surface causing
+resistance to smooth airflow. Skin friction can be reduced by
+using glossy smooth finishes and eliminating protruding rivet
+heads, roughness, and other irregularities.
+Profile drag may be considered the parasite drag of the airfoil.
+The various components of parasite drag are all of the same
+nature as profile drag.
+The action of the airfoil that creates lift also causes induced
+drag. Remember, the pressure above the wing is less than
+atmospheric pressure, and the pressure below the wing is
+equal to or greater than atmospheric pressure. Since fluids
+always move from high pressure toward low pressure, there
+is a spanwise movement of air from the bottom of the wing
+outward from the fuselage and upward around the wing tip.
+This flow of air results in spillage over the wing tip, thereby
+setting up a whirlpool of air called a “vortex.” [Figure 2-9]
+2-7
+
+===== PDF PAGE 79 =====
+center of the aircraft.
+
+x
+
+te
+Vor
+
+Figure 2-9. Wingtip vortices.
+
+The air on the upper surface has a tendency to move in toward
+the fuselage and off the trailing edge. This air current forms a
+similar vortex at the inner portion of the trailing edge of the
+wing. These vortices increase drag because of the turbulence
+produced, and constitute induced drag.
+Just as lift increases with an increase in AOA, induced drag
+also increases as the AOA becomes greater. This occurs
+because, as the AOA is increased, the pressure difference
+between the top and bottom of the wing becomes greater.
+This causes more violent vortices to be set up, resulting in
+more turbulence and more induced drag.
+
+Center of Gravity (CG)
+Gravity is the pulling force that tends to draw all bodies
+within the earth’s gravitational field to the center of the earth.
+The CG may be considered the point at which all the weight
+of the aircraft is concentrated. If the aircraft was supported
+at its exact CG, it would balance in any position. CG is of
+major importance in an aircraft, for its position has a great
+bearing upon stability.
+The CG is determined by the general design of the aircraft.
+The designers estimate how far the CP travels. They then fix
+the CG in front of the CP for the corresponding flight speed
+in order to provide an adequate restoring moment for flight
+equilibrium.
+
+The Axes of an Aircraft
+Whenever an aircraft changes its attitude in flight, it must
+turn about one or more of three axes. Figure 2-10 shows the
+three axes, which are imaginary lines passing through the
+
+The axes of an aircraft can be considered as imaginary axles
+around which the aircraft turns like a wheel. At the center,
+where all three axes intersect, each is perpendicular to the
+other two. The axis that extends lengthwise through the
+fuselage from the nose to the tail is called the longitudinal
+axis. The axis that extends crosswise from wing tip to wing
+tip is the lateral, or pitch, axis. The axis that passes through
+the center, from top to bottom, is called the vertical, or yaw,
+axis. Roll, pitch, and yaw are controlled by three control
+surfaces. Roll is produced by the ailerons, which are located
+at the trailing edges of the wings. Pitch is affected by the
+elevators, the rear portion of the horizontal tail assembly. Yaw
+is controlled by the rudder, the rear portion of the vertical
+tail assembly.
+
+Stability & Control
+An aircraft must have sufficient stability to maintain a
+uniform flightpath and recover from the various upsetting
+forces. Also, to achieve the best performance, the aircraft
+must have the proper response to the movement of the
+controls. Control is the pilot action of moving the flight
+controls, providing the aerodynamic force that induces the
+aircraft to follow a desired flightpath. When an aircraft is
+said to be controllable, it means that the aircraft responds
+easily and promptly to movement of the controls. Different
+control surfaces are used to control the aircraft about each
+of the three axes. Moving the control surfaces on an aircraft
+changes the airflow over the aircraft’s surface. This, in turn,
+creates changes in the balance of forces acting to keep the
+aircraft flying straight and level.
+Three terms that appear in any discussion of stability and
+control are: stability, maneuverability, and controllability.
+Stability is the characteristic of an aircraft that tends to
+cause it to fly (hands off) in a straight-and-level flightpath.
+Maneuverability is the characteristic of an aircraft to be
+directed along a desired flightpath and to withstand the
+stresses imposed. Controllability is the quality of the response
+of an aircraft to the pilot’s commands while maneuvering
+the aircraft.
+Static Stability
+An aircraft is in a state of equilibrium when the sum of all the
+forces acting on the aircraft and all the moments is equal to
+zero. An aircraft in equilibrium experiences no accelerations,
+and the aircraft continues in a steady condition of flight.
+A gust of wind or a deflection of the controls disturbs the
+equilibrium, and the aircraft experiences acceleration due to
+the unbalance of moment or force.
+The three types of static stability are defined by the character
+2-8
+
+===== PDF PAGE 80 =====
+Lateral axis
+
+Elevator
+
+Aileron
+
+Rudder
+
+Aileron
+Longitudinal axis
+
+Vertical axis
+A Banking (roll) control affected by aileron movement
+
+Normal altitude
+
+Longitudinal axis
+
+B Climb and dive (pitch) control affected by elevator
+movement
+
+C Directional (yaw) control affected by rudder movement
+Normal altitude
+
+Lateral axis
+
+Vertical axis
+Normal altitude
+
+Figure 2-10. Motion of an aircraft about its axes.
+
+of movement following some disturbance from equilibrium.
+Positive static stability exists when the disturbed object tends
+to return to equilibrium. Negative static stability, or static
+instability, exists when the disturbed object tends to continue
+in the direction of disturbance. Neutral static stability exists
+
+when the disturbed object has neither tendency, but remains
+in equilibrium in the direction of disturbance. These three
+types of stability are illustrated in Figure 2-11.
+
+2-9
+
+===== PDF PAGE 81 =====
+Positive static stability
+
+Neutral static stability
+
+CG
+CG
+
+CG
+
+Applied
+force
+
+CG
+
+Applied
+force
+
+Applied
+force
+
+Negative static stability
+
+Figure 2-11. Three types of stability.
+
+Dynamic Stability
+While static stability deals with the tendency of a displaced
+body to return to equilibrium, dynamic stability deals with
+the resulting motion with time. If an object is disturbed from
+equilibrium, the time history of the resulting motion defines
+the dynamic stability of the object. In general, an object
+demonstrates positive dynamic stability if the amplitude
+of motion decreases with time. If the amplitude of motion
+increases with time, the object is said to possess dynamic
+instability.
+Any aircraft must demonstrate the required degrees of static
+and dynamic stability. If an aircraft were designed with static
+instability and a rapid rate of dynamic instability, the aircraft
+would be very difficult, if not impossible, to fly. Usually,
+positive dynamic stability is required in an aircraft design to
+prevent objectionable continued oscillations of the aircraft.
+
+though the pilot takes their hands and feet off the controls.
+If an aircraft recovers automatically from a skid, it has been
+well designed for directional balance. The vertical stabilizer
+is the primary surface that controls directional stability.
+Directional stability can be designed into an aircraft, where
+appropriate, by using a large dorsal fin, a long fuselage, and
+sweptback wings.
+Lateral Stability
+Motion about the aircraft’s longitudinal (fore and aft) axis
+is a lateral, or rolling, motion. The tendency to return to the
+original attitude from such motion is called lateral stability.
+Dutch Roll
+A Dutch Roll is an aircraft motion consisting of an out-ofphase combination of yaw and roll. Dutch roll stability can
+be artificially increased by the installation of a yaw damper.
+
+Longitudinal Stability
+When an aircraft has a tendency to keep a constant AOA
+with reference to the relative wind (i.e., it does not tend to
+put its nose down and dive or lift its nose and stall); it is said
+to have longitudinal stability. Longitudinal stability refers
+to motion in pitch. The horizontal stabilizer is the primary
+surface which controls longitudinal stability. The action of
+the stabilizer depends upon the speed and AOA of the aircraft.
+
+Primary Flight Controls
+
+Directional Stability
+Stability about the vertical axis is referred to as directional
+stability. The aircraft should be designed so that when it is in
+straight-and-level flight it remains on its course heading even
+
+Typically, the ailerons and elevators are operated from the
+flight deck by means of a control stick, a wheel, and yoke
+assembly and on some of the newer design aircraft, a joystick. The rudder is normally operated by foot pedals on most
+
+The primary controls are the ailerons, elevator, and the rudder,
+which provide the aerodynamic force to make the aircraft
+follow a desired flightpath. [Figure 2-10] The flight control
+surfaces are hinged or movable airfoils designed to change
+the attitude of the aircraft by changing the airflow over the
+aircraft’s surface during flight. These surfaces are used for
+moving the aircraft about its three axes.
+
+2-10
+
+===== PDF PAGE 82 =====
+aircraft. Lateral control is the banking movement or roll of an
+aircraft that is controlled by the ailerons. Longitudinal control
+is the climb and dive movement or pitch of an aircraft that
+is controlled by the elevator. Directional control is the left
+and right movement or yaw of an aircraft that is controlled
+by the rudder.
+
+Trim Controls
+
+Control horn
+Tab
+
+Fixed surface
+Control surface
+Trim tab
+
+Included in the trim controls are the trim tabs, servo tabs,
+balance tabs, and spring tabs. Trim tabs are small airfoils
+recessed into the trailing edges of the primary control
+surfaces. [Figure 2-12] Trim tabs can be used to correct any
+tendency of the aircraft to move toward an undesirable flight
+attitude. Their purpose is to enable the pilot to trim out any
+unbalanced condition which may exist during flight, without
+exerting any pressure on the primary controls.
+
+Horn free to pivot on hinge axis
+
+Servo tab
+Control horn
+
+Servo tabs, sometimes referred to as flight tabs, are used
+primarily on the large main control surfaces. They aid in
+moving the main control surface and holding it in the desired
+position. Only the servo tab moves in response to movement
+by the pilot of the primary flight controls.
+Balance tabs are designed to move in the opposite direction
+of the primary flight control. Thus, aerodynamic forces acting
+on the tab assist in moving the primary control surface.
+Spring tabs are similar in appearance to trim tabs, but serve an
+entirely different purpose. Spring tabs are used for the same
+purpose as hydraulic actuators—to aid the pilot in moving
+the primary control surface.
+Figure 2-13 indicates how each trim tab is hinged to its parent
+primary control surface, but is operated by an independent
+control.
+
+Trim tabs
+
+Balance tab
+Control horn
+
+Spring cartridge
+Spring tab
+Figure 2-13. Types of trim tabs.
+
+Auxiliary Lift Devices
+Included in the auxiliary lift devices group of flight control
+surfaces are the wing flaps, spoilers, speed brakes, slats,
+leading edge flaps, and slots.
+The auxiliary groups may be divided into two subgroups:
+those whose primary purpose is lift augmenting and those
+whose primary purpose is lift decreasing. In the first group are
+the flaps, both trailing edge and leading edge (slats), and slots.
+The lift decreasing devices are speed brakes and spoilers.
+
+Figure 2-12. Trim tabs.
+
+Lift Augmenting
+Flaps are located on the trailing edge of the wing and are
+moveable to increase the wing area, thereby increasing lift
+on takeoff, and decreasing the speed during landing. These
+airfoils are retractable and fair into the wing contour. Others
+are simply a portion of the lower skin which extends into
+the airstream, thereby slowing the aircraft. Leading edge
+flaps, also referred to as slats, are airfoils extended from and
+2-11
+
+===== PDF PAGE 83 =====
+retracted into the leading edge of the wing. Some installations
+create a slot (an opening between the extended airfoil and the
+leading edge). [Figure 2-14] At low airspeeds, this slot
+increases lift and improves handling characteristics, allowing
+the aircraft to be controlled at airspeeds below the normal
+landing speed.
+
+edges of the wings. When the slat is closed, it forms the
+leading edge of the wing. When in the open position (extended
+forward), a slot is created between the slat and the wing
+leading edge. At low airspeeds, this increases lift and improves
+handling characteristics, allowing the aircraft to be controlled
+at airspeeds below the normal landing speed. [Figure 2-15]
+
+Other installations have permanent slots built in the leading
+edge of the wing. At cruising speeds, the trailing edge and
+leading edge flaps (slats) are retracted into the wing proper.
+Slats are movable control surfaces attached to the leading
+
+Lift Decreasing
+Lift decreasing devices are the speed brakes (spoilers). In
+some installations, there are two types of spoilers. The ground
+spoiler is extended only after the aircraft is on the ground,
+thereby assisting in the braking action. The flight spoiler
+assists in lateral control by being extended whenever the
+aileron on that wing is rotated up. When actuated as speed
+brakes, the spoiler panels on both wings raise up. In-flight
+spoilers may also be located along the sides, underneath the
+fuselage, or back at the tail. [Figure 2-16] In some aircraft
+designs, the wing panel on the up aileron side rises more than
+the wing panel on the down aileron side. This provides speed
+brake operation and lateral control simultaneously.
+
+Basic section
+
+Plain flap
+Fixed slot
+Slat
+
+Split flap
+
+Automatic slot
+Figure 2-15. Wing slots.
+
+Slotted flap
+
+Fowler flap
+
+Slotted Fowler flap
+
+Figure 2-16. Speed brake.
+
+Figure 2-14. Types of wing flaps.
+
+2-12
+
+===== PDF PAGE 84 =====
+Winglets
+Winglets are the near-vertical extension of the wingtip that
+reduces the aerodynamic drag associated with vortices
+that develop at the wingtips as the airplane moves through
+the air. By reducing the induced drag at the tips of the
+wings, fuel consumption goes down and range is extended.
+Figure 2-17 shows an example of a Learjet 60 with winglets.
+Canard Wings
+A canard wing aircraft is an airframe configuration of a fixedwing aircraft in which a small wing or horizontal airfoil is
+ahead of the main lifting surfaces, rather than behind them as
+in a conventional aircraft. The canard may be fixed, movable,
+or designed with elevators. Good examples of aircraft with
+canard wings are the Rutan VariEze and Beechcraft 2000
+Starship. [Figures 2-18 and 2-19]
+Wing Fences
+Wing fences are flat metal vertical plates fixed to the upper
+surface of the wing. They obstruct spanwise airflow along
+the wing, and prevent the entire wing from stalling at once.
+They are often attached on swept-wing aircraft to prevent the
+spanwise movement of air at high AOA. Their purpose is to
+provide better slow speed handling and stall characteristics.
+[Figure 2-20]
+
+linkage, adjustable stops, and control surface snubber or
+mechanical locking devices. These surface locking devices,
+usually referred to as a gust lock, limits the external wind forces
+from damaging the aircraft while it is parked or tied down.
+Hydromechanical Control
+As the size, complexity, and speed of aircraft increased,
+actuation of controls in flight became more difficult. It soon
+became apparent that the pilot needed assistance to overcome
+
+Figure 2-18. Canard wings on a Rutan VariEze.
+
+Control Systems for Large Aircraft
+Mechanical Control
+This is the basic type of system that was used to control
+early aircraft and is currently used in smaller aircraft where
+aerodynamic forces are not excessive. The controls are
+mechanical and manually operated.
+The mechanical system of controlling an aircraft can include
+cables, push-pull tubes, and torque tubes. The cable system is
+the most widely used because deflections of the structure to
+which it is attached do not affect its operation. Some aircraft
+incorporate control systems that are a combination of all three.
+These systems incorporate cable assemblies, cable guides,
+
+Figure 2-19. The Beechcraft 2000 Starship has canard wings.
+
+Figure 2-17. Winglets on a Bombardier Learjet 60.
+
+Figure 2-20. Aircraft stall fence.
+
+2-13
+
+===== PDF PAGE 85 =====
+the aerodynamic forces to control aircraft movement. Spring
+tabs, which were operated by the conventional control
+system, were moved so that the airflow over them actually
+moved the primary control surface. This was sufficient
+for the aircraft operating in the lowest of the high speed
+ranges (250–300 mph). For higher speeds, a power-assisted
+(hydraulic) control system was designed.
+Conventional cable or push-pull tube systems link the
+flight deck controls with the hydraulic system. With the
+system activated, the pilot’s movement of a control causes
+the mechanical link to open servo valves, thereby directing
+hydraulic fluid to actuators, which convert hydraulic pressure
+into control surface movements.
+Because of the efficiency of the hydromechanical flight
+control system, the aerodynamic forces on the control surfaces
+cannot be felt by the pilot, and there is a risk of overstressing
+the structure of the aircraft. To overcome this problem,
+aircraft designers incorporated artificial feel systems into the
+design that provided increased resistance to the controls at
+higher speeds. Additionally, some aircraft with hydraulically
+powered control systems are fitted with a device called a stick
+shaker, which provides an artificial stall warning to the pilot.
+Fly-By-Wire Control
+The fly-by-wire (FBW) control system employs electrical
+signals that transmit the pilot’s actions from the flight deck
+through a computer to the various flight control actuators.
+The FBW system evolved as a way to reduce the system
+weight of the hydromechanical system, reduce maintenance
+costs, and improve reliability. Electronic FBW control
+systems can respond to changing aerodynamic conditions
+by adjusting flight control movements so that the aircraft
+response is consistent for all flight conditions. Additionally,
+the computers can be programmed to prevent undesirable
+and dangerous characteristics, such as stalling and spinning.
+Many of the new military high-performance aircraft are not
+aerodynamically stable. This characteristic is designed into
+the aircraft for increased maneuverability and responsive
+performance. Without the computers reacting to the
+instability, the pilot would lose control of the aircraft.
+
+capable of speeds approaching Mach 1 and above. Because
+it is beyond the scope and intent of this handbook, only a
+brief overview of the subject is provided.
+In the study of high-speed aeronautics, the compressibility
+effects on air must be addressed. This flight regime is
+characterized by the Mach number, a special parameter named
+in honor of Ernst Mach, the late 19th century physicist who
+studied gas dynamics. Mach number is the ratio of the speed
+of the aircraft to the local speed of sound and determines the
+magnitude of many of the compressibility effects.
+As an aircraft moves through the air, the air molecules near
+the aircraft are disturbed and move around the aircraft. The
+air molecules are pushed aside much like a boat creates a bow
+wave as it moves through the water. If the aircraft passes at a
+low speed, typically less than 250 mph, the density of the air
+remains constant. But at higher speeds, some of the energy of
+the aircraft goes into compressing the air and locally changing
+the density of the air. The bigger and heavier the aircraft, the
+more air it displaces and the greater effect compression has
+on the aircraft.
+This effect becomes more important as speed increases. Near
+and beyond the speed of sound, about 760 mph (at sea level),
+sharp disturbances generate a shockwave that affects both the
+lift and drag of an aircraft and flow conditions downstream of
+the shockwave. The shockwave forms a cone of pressurized
+air molecules which move outward and rearward in all
+directions and extend to the ground. The sharp release of the
+pressure, after the buildup by the shockwave, is heard as the
+sonic boom. [Figure 2-21]
+Listed below are a range of conditions that are encountered
+by aircraft as their designed speed increases.
+•
+
+Subsonic conditions occur for Mach numbers less
+than one (100–350 mph). For the lowest subsonic
+conditions, compressibility can be ignored.
+
+The Airbus A-320 was the first commercial airliner to use
+FBW controls. Boeing used them in their 777 and newer
+design commercial aircraft. The Dassault Falcon 7X was the
+first business jet to use a FBW control system.
+
+High-Speed Aerodynamics
+High-speed aerodynamics, often called compressible
+aerodynamics, is a special branch of study of aeronautics.
+It is utilized by aircraft designers when designing aircraft
+
+Figure 2-21. Breaking the sound barrier.
+
+2-14
+
+===== PDF PAGE 86 =====
+•
+
+•
+
+•
+
+As the speed of the object approaches the speed of
+sound, the flight Mach number is nearly equal to
+one, M = 1 (350–760 mph), and the flow is said
+to be transonic. At some locations on the object,
+the local speed of air exceeds the speed of sound.
+Compressibility effects are most important in
+transonic flows and lead to the early belief in a sound
+barrier. Flight faster than sound was thought to be
+impossible. In fact, the sound barrier was only an
+increase in the drag near sonic conditions because
+of compressibility effects. Because of the high drag
+associated with compressibility effects, aircraft are
+not operated in cruise conditions near Mach 1.
+Supersonic conditions occur for numbers greater
+than Mach 1, but less then Mach 3 (760–2,280
+mph). Compressibility effects of gas are important
+in the design of supersonic aircraft because of the
+shockwaves that are generated by the surface of the
+object. For high supersonic speeds, between Mach 3
+and Mach 5 (2,280–3,600 mph), aerodynamic heating
+becomes a very important factor in aircraft design.
+For speeds greater than Mach 5, the flow is said to
+be hypersonic. At these speeds, some of the energy
+of the object now goes into exciting the chemical
+bonds which hold together the nitrogen and oxygen
+
+molecules of the air. At hypersonic speeds, the
+chemistry of the air must be considered when
+determining forces on the object. When the space
+shuttle re-enters the atmosphere at high hypersonic
+speeds, close to Mach 25, the heated air becomes an
+ionized plasma of gas, and the spacecraft must be
+insulated from the extremely high temperatures.
+Additional technical information pertaining to high-speed
+aerodynamics can be found at bookstores, libraries, and
+numerous sources on the Internet. As the design of aircraft
+evolves and the speeds of aircraft continue to increase into
+the hypersonic range, new materials and propulsion systems
+will need to be developed. This is the challenge for engineers,
+physicists, and designers of aircraft in the future.
+
+Rotary-Wing Aircraft Assembly & Rigging
+The flight control units located in the flight deck of all
+helicopters are very nearly the same. All helicopters have
+either one or two of each of the following: collective pitch
+control, throttle grip, cyclic pitch control, and directional
+control pedals. [Figure 2-22] Basically, these units do the
+same things, regardless of the type of helicopter on which
+they are installed; however, the operation of the control
+system varies greatly by helicopter model.
+
+Cyclic control stick
+
+Controls attitude and direction of flight
+
+Throttle
+
+Controls rpm
+
+Collective pitch stick
+
+Controls altitude
+Pedals
+
+Maintain heading
+Figure 2-22. Controls of a helicopter and the principal function of each.
+
+2-15
+
+===== PDF PAGE 87 =====
+Rigging the helicopter coordinates the movements of the
+flight controls and establishes the relationship between the
+main rotor and its controls, and between the tail rotor and its
+controls. Rigging is not a difficult job, but it requires great
+precision and attention to detail. Strict adherence to rigging
+procedures described in the manufacturer’s maintenance
+manuals and service instructions is a must. Adjustments,
+clearances, and tolerances must be exact.
+
+2.
+
+The operation of interconnected control systems (engine
+throttle and collective pitch) is properly coordinated.
+
+3.
+
+The range of movement and neutral position of the
+pilot’s controls are correct.
+
+4.
+
+The maximum and minimum pitch angles of the main
+rotor blades are within specified limits. This includes
+checking the fore-and-aft and lateral cyclic pitch and
+collective pitch blade angles.
+
+Rigging of the various flight control systems can be broken
+down into the following three major steps:
+
+5.
+
+The tracking of the main rotor blades is correct.
+
+6.
+
+In the case of multirotor aircraft, the rigging and
+movement of the rotor blades are synchronized.
+
+7.
+
+When tabs are provided on main rotor blades, they are
+correctly set.
+
+8.
+
+The neutral, maximum, and minimum pitch angles
+and coning angles of the tail rotor blades are correct.
+
+9.
+
+When dual controls are provided, they function
+correctly and in synchronization.
+
+1.
+
+2.
+
+3.
+
+Placing the control system in a specific position—
+holding it in position with pins, clamps, or jigs, then
+adjusting the various linkages to fit the immobilized
+control component.
+Placing the control surfaces in a specific reference
+position—using a rigging jig, a precision bubble
+protractor, or a spirit level to check the angular
+difference between the control surface and some fixed
+surface on the aircraft. [Figure 2-23]
+Setting the maximum range of travel of the various
+components—this adjustment limits the physical
+movement of the control system.
+
+After completion of the static rigging, a functional check of
+the flight control system must be accomplished. The nature
+of the functional check varies with the type of helicopter and
+system concerned, but usually includes determining that:
+1.
+
+The direction of movement of the main and tail rotor
+blades is correct in relation to movement of the pilot’s
+controls.
+
+Main rotor rigging protractor
+
+Upon completion of rigging, a thorough check should be made
+of all attaching, securing, and pivot points. All bolts, nuts, and
+rod ends should be properly secured and safetied as specified
+in the manufacturers’ maintenance and service instructions.
+
+Configurations of Rotary-Wing Aircraft
+Autogyro
+An autogyro is an aircraft with a free-spinning horizontal
+rotor that turns due to passage of air upward through the
+rotor. This air motion is created from forward motion of the
+aircraft resulting from either a tractor or pusher configured
+engine/propeller design. [Figure 2-24]
+Single Rotor Helicopter
+An aircraft with a single horizontal main rotor that provides
+both lift and direction of travel is a single rotor helicopter.
+A secondary rotor mounted vertically on the tail counteracts
+
+CAUTION
+Make sure blade
+dampers are
+positioned against
+auto-rotation
+inboard stops
+
+25°
+20°
+15°
+10°
+5°
+0°
+5°
+10°
+15°
+
+Figure 2-23. A typical rigging protractor.
+
+Figure 2-24. An autogyro.
+
+2-16
+
+===== PDF PAGE 88 =====
+the rotational force (torque) of the main rotor to correct yaw
+of the fuselage. [Figure 2-25]
+Dual Rotor Helicopter
+An aircraft with two horizontal rotors that provide both the
+lift and directional control is a dual rotor helicopter. The
+rotors are counterrotating to balance the aerodynamic torque
+and eliminate the need for a separate antitorque system.
+[Figure 2-26]
+
+Pitch change axis
+
+Flipping hinge
+
+Drag hinge
+
+Types of Rotor Systems
+Fully Articulated Rotor
+A fully articulated rotor is found on aircraft with more than
+two blades and allows movement of each individual blade in
+three directions. In this design, each blade can rotate about
+the pitch axis to change lift; each blade can move back and
+forth in plane, lead and lag; and flap up and down through a
+hinge independent of the other blades. [Figure 2-27]
+Semirigid Rotor
+The semirigid rotor design is found on aircraft with two rotor
+blades. The blades are connected in a manner such that as
+one blade flaps up, the opposite blade flaps down.
+
+Figure 2-27. Articulated rotor head.
+
+Rigid Rotor
+The rigid rotor system is a rare design but potentially offers
+the best properties of both the fully articulated and semirigid
+rotors. In this design, the blade roots are rigidly attached to the
+rotor hub. The blades do not have hinges to allow lead-lag or
+flapping. Instead, the blades accommodate these motions by
+using elastomeric bearings. Elastomeric bearings are molded,
+rubber-like materials that are bonded to the appropriate parts.
+Instead of rotating like conventional bearings, they twist and
+flex to allow proper movement of the blades.
+
+Forces Acting on the Helicopter
+
+Figure 2-25. Single rotor helicopter.
+
+One of the differences between a helicopter and a fixed-wing
+aircraft is the main source of lift. The fixed-wing aircraft
+derives its lift from a fixed airfoil surface while the helicopter
+derives lift from a rotating airfoil called the rotor.
+During hovering flight in a no-wind condition, the tip-path
+plane is horizontal, that is, parallel to the ground. Lift and
+thrust act straight up; weight and drag act straight down. The
+sum of the lift and thrust forces must equal the sum of the
+weight and drag forces in order for the helicopter to hover.
+During vertical flight in a no-wind condition, the lift and
+thrust forces both act vertically upward. Weight and drag both
+act vertically downward. When lift and thrust equal weight
+and drag, the helicopter hovers; if lift and thrust are less than
+weight and drag, the helicopter descends vertically; if lift
+and thrust are greater than weight and drag, the helicopter
+rises vertically.
+
+Figure 2-26. Dual rotor helicopter.
+
+2-17
+

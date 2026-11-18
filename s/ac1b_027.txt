@@ -1,0 +1,1100 @@
+AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 661-705
+
+===== PDF PAGE 661 =====
+9/8/98  AC 43.13-1B
+
+   a. Control Surface Lightning Protection Bonding. Control surface bonding is intended
+to prevent the burning of hinges on a surface that receives a lightning strike; thus causing
+possible loss of control. To accomplish this bonding, control surfaces and flaps should have at
+least one 6,500 circular mil area copper (e.g., 7 by 37 AWG size 36 strands) jumper across each
+hinge. In any case, not less than two 6,500 circular mil jumpers should be used on each control
+surface. The installation location of these jumpers should be carefully chosen to provide a
+low-impedance shunt for lightning current across the hinge to the structure. When jumpers may
+be subjected to arcing, substantially larger wire sizes of 40,000 circular mils or a larger
+cross-section are required to provide protection against multiple strikes. Sharp bends and loops in
+such jumpers can create susceptibility to breakage when subjected to the inductive forces created
+by lightning current, and should be avoided.
+
+   b. Control Cable Lightning Protection Bonding. To prevent damage to the control
+system or injury to flight personnel due to lightning strike, cables and levers coming from each
+control surface should be protected by one or more bonding jumpers located as close to the
+control surface as possible. Metal pulleys are considered a satisfactory ground for control cables.
+
+11-194. LIGHTNING PROTECTION FOR ANTENNAS AND AIR DATA PROBES.
+Antenna and air data probes that are mounted on exterior surfaces within lightning strike zones
+should be provided with a means to safely transfer lightning currents to the airframe, and to
+prevent hazardous surges from being conducted into the airframe via antenna cables or wire
+harnesses. Usually, the antenna mounting bolts provide adequate lightning current paths. Surge
+protectors built into antennas or installed in coaxial antenna cables or probe wire harnesses will
+fulfill these requirements. Candidate designs should be verified by simulated lightning tests in
+accordance with RTCA DO-160G.
+
+11-195. STATIC-DISCHARGE DEVICE. Means should be provided to bleed accumulated
+static charges from aircraft prior to ground personnel coming in contact with an aircraft after
+landing. Normally, there is adequate conductivity in the tires for this, but if not, a static ground
+should be applied before personnel come into contact with the aircraft. Fuel nozzle grounding
+receptacles should be installed in accordance with the manufacturer’s specifications. Grounding
+receptacles should provide a means to eliminate the static-induced voltage that might otherwise
+cause a spark between a fuel nozzle and fuel tank access covers and inlets. In addition, static
+discharging wicks are installed on wings and tail surfaces to discharge static changes while in
+flight.
+
+11-196. CLEANING. In order to ensure proper ground connection conductivity, all paint,
+primer, anodize coating, grease, and other foreign material must be carefully removed from areas
+that conduct electricity. On aluminum surfaces, apply chemical surface treatment to the cleaned
+bare metal surface in accordance with the manufacturer’s instructions within 4–8 hours,
+depending on ambient moisture/contaminate content.
+
+11-197. HARDWARE ASSEMBLY. Details of bonding connections must be described in
+maintenance manuals and adhered to carefully when connections are removed or replaced during
+maintenance operations. In order to avoid corrosion problems and ensure long-term integrity of
+the electrical connection, hardware used for this purpose must be as defined in these documents
+or at least be equivalent in material and surface. Installation of fasteners used in bonded or
+
+Par 11-193  Page 11-90
+
+===== PDF PAGE 662 =====
+9/8/98  AC 43.13-1B
+
+grounded connections should be made in accordance with SAE ARP1870. Threaded fasteners
+must be torqued to the level required by SAE ARP1928.
+
+11-198.–11-204. [RESERVED.]
+
+Par 11-197  Page 11-91
+
+===== PDF PAGE 663 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 16. WIRE MARKING
+
+11-205. GENERAL. The proper identification of electrical wires and cables with their circuits
+and voltages is necessary to provide safety of operation, safety to maintenance personnel, and
+ease of maintenance.
+
+   a. Each wire and cable should be marked with a part number. It is common practice for
+wire manufacturers to follow the wire material part number with the five-digit/letter CAGE code
+identifying the wire manufacturer. Existing installed wire that needs replacement can thereby be
+identified as to its performance capabilities, and the inadvertent use of a lower performance and
+unsuitable replacement wire avoided.
+
+   b. The method of identification should not impair the characteristics of the wiring.
+
+   CAUTION: Do not use metallic bands in place of insulating sleeves. Exercise
+   care when marking coaxial or data bus cable, as deforming the cable may
+   change its electrical characteristics.
+
+11-206. WIRE IDENTIFICATION. To facilitate installation and maintenance, original
+wire-marking identification is to be retained. The wire identification marks should consist of a
+combination of letters and numbers that identify the wire, the circuit it belongs to, its gauge size,
+and any other information to relate the wire to a wiring diagram. All markings should be legible
+in size, type, and color.
+
+11-207. IDENTIFICATION AND INFORMATION RELATED TO THE WIRE AND
+WIRING DIAGRAMS. The wire identification marking should consist of similar information
+to relate the wire to a wiring diagram.
+
+11-208. PLACEMENT OF IDENTIFICATION MARKINGS. Identification markings
+should be placed at each end of the wire and at 15-inch maximum intervals along the length of
+the wire. Wires less than 3 inches long need not be identified. Wires 3 to 7 inches in length
+should be identified approximately at the center. Added identification marker sleeves should be
+so located that ties, clamps, or supporting devices need not be removed in order to read the
+identification. The wire identification code must be printed to read horizontally (from left to
+right) or vertically (from top to bottom). The two methods of marking wire or cable are as
+follows:
+
+   a. Direct marking is accomplished by printing the cable’s outer covering. (See
+Figure 11-23.)
+
+Par 11-205  Page 11-92
+
+===== PDF PAGE 664 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-23. SPACING OF PRINTED IDENTIFICATION MARKS
+   (DIRECT MARKING)
+
+   b. Indirect marking is accomplished by printing a heat-shrinkable sleeve and installing
+the printed sleeve on the wire or cables outer covering. Indirect-marked wire or cable should be
+identified with printed sleeves at each end and at intervals not longer than 6 feet. The individual
+wires inside a cable should be identified within 3 inches of their termination. (See Figure 11-24.)
+
+   FIGURE 11-24. SPACING OF PRINTED IDENTIFICATION MARKS
+   (INDIRECT MARKING)
+
+11-209. TYPES OF WIRE MARKINGS. The preferred method is to mark directly on the
+wire. A successful requirement qualification should produce markings that meet the marking
+characteristics specified in SAE AS50881 without causing insulation degradation. Teflon coated
+wires, shielded wiring, multiconductor cable, and thermocouple wires usually require special
+sleeves to carry identification marks. There are some wire marking machines in the market that
+can be used to stamp directly on the type wires mentioned above. Whatever method of marking
+
+Par 11-208  Page 11-93
+
+===== PDF PAGE 665 =====
+9/27/01  AC 43.13-1B CHG 1
+
+is used, the marking should be legible and the color should contrast with the wire insulation or
+sleeve.
+
+   a. Extreme care must, therefore, be taken during circuit identification by a hot stamp
+machine on insulation wall 10 mils or thinner.
+
+   b. Alternative identification methods such as “Laser Printing,” “Ink Jet,” and “Dot
+Matrix” are preferred. When such modern equipment is not available, the use of stamped
+identification sleeving should be considered on insulation wall thickness of 10 mils or less.
+
+11-210. HOT STAMP MARKING. Due to widespread use of Hot Stamp wire marking,
+personnel should refer to SAE ARP5369, Guidelines for Wire Identification Marking Using the
+Hot Stamp Process, for guidance on minimizing insulation damage. Hot Stamp process uses a
+heated typeface to transfer pigment from a ribbon or foil to the surface of wires or cables. The
+traditional method imprints hot ink marks onto the wire. Exercise caution when using this
+method, as it has been shown to damage insulation when incorrectly applied. Typeset characters,
+similar to that used in printing presses but shaped to the contour of the wire, are heated to the
+desired temperature. Wire is pulled through a channel directly underneath the characters. The
+heat of the type set characters transfers the ink from the marking foil onto the wire.
+
+   a. Good marking is obtained only by the proper combination of temperature, pressure,
+and dwelling. Hot Stamp will mark wire with an outside diameter of 0.038 to 0.25 inches.
+
+   b. Before producing hot stamp wire, it must be assured that the marking machine is
+properly adjusted to provide the best wire marking with the least wire insulation deterioration.
+The marking should never create an indent greater than 10 percent of the insulation wall.
+
+   CAUTION: The traditional Hot Stamp method is not recommended for use
+   on wire with outside diameters of less than 0.035 inches. (Refer to SAE
+   ARP5369). Stamping dies may cause fracture of the insulation wall and
+   penetration to the conductor of these materials. When various fluids wet
+   these openings in service, arcing and surface tracking damage wire bundles.
+   Later in service, when various fluids have wet these openings, serious arcing
+   and surface tracking will have damaged wire bundles.
+
+11-211. DOT MATRIX MARKING. The dot matrix marking is imprinted onto the wire or
+cable very similar to that of a dot matrix computer printer. The wire must go through a cleaning
+process to make sure it is clean and dry for the ink to adhere. Wires marked with dot matrix
+equipment require a cure consisting of an UV curing process, which is normally applied by the
+marking equipment. This cure should normally be complete 16 to 24 hours after marking. Dot
+matrix makes a legible mark without damaging the insulation. Depending on equipment
+configuration, dot matrix can mark wire from 0.037- to 0.5-inch outside diameter.
+Multiconductor cable can also be marked.
+
+11-212. INK JET MARKING. This is a “non-impact” marking method wherein ink droplets
+are electrically charged and then directed onto the moving wire to form the characters. Two basic
+ink types are available: thermal cure and UV cure.
+
+Par 11-209  Page 11-94
+
+===== PDF PAGE 666 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. Thermal cure inks must generally be heated in an oven for a length of time after
+marking to obtain their durability. UV cure inks are cured in line much like dot matrix.
+
+   b. Ink jet marks the wire on the fly and makes a reasonably durable and legible mark
+without damaging the insulation. Ink jets normally mark wire from 0.030- to 0.25-inch outside
+diameter. Multiconductor cable can also be marked.
+
+11-213. LASER MARKING. Of the variety of laser marking machines, UV lasers are proving
+to be the best. This method marks into the surface of the wire’s insulation without degradation to
+its performance. One common type of UV laser is referred to as an excimer laser marker. UV
+laser produces the most durable marks because it marks into the insulation instead of on the
+surface. However, excimer laser will only mark insulation that contain appropriate percentages
+of titanium dioxide (TiO2). The wire can be marked on the fly. UV can mark from 0.030- to
+0.25-inch outside diameter. The UV laser makes only gray marks and they appear more legible
+on white or pastel-colored insulation.
+
+11-214. IDENTIFICATION SLEEVES. Flexible sleeving, either clear or opaque, is
+satisfactory for general use. When color-coded or striped component wire is used as part of a
+cable, the identification sleeve should specify which color is associated with each wire
+identification code. Identification sleeves are normally used for identifying the following types
+of wire or cable:
+
+   a. Unjacketed shielded wire.
+
+   b. Thermocouple wire identification is normally accomplished by means of identification
+sleeves. As the thermocouple wire is usually of the duplex type (two insulated wires within the
+same casing), each wire at the termination point bears the full name of the conductor.
+Thermocouple conductors are alumel, chromel, iron, constantan, and copper constantan.
+
+   c. Coaxial cable should not be hot stamped directly. When marking coaxial cable, care
+should be taken not to deform the cable as this may change the electrical characteristics of the
+cable. When cables cannot be printed directly, they should be identified by printing the
+identification code (and individual wire color, where applicable) on a nonmetallic material
+placed externally to the outer covering at the terminating end and at each junction or pressure
+bulkhead. Cables not enclosed in conduit or a common jacket should be identified with printed
+sleeves at each end and at intervals not longer than 3 feet. Individual wires within a cable should
+be identified within 3 inches from their termination.
+
+   d. Multiconductor cable normally use identification sleeves for identifying unshielded,
+unjacketed cable.
+
+   e. High-temperature wire with insulation is difficult to mark (such as Teflon and
+fiberglass).
+
+11-215. IDENTIFICATION TAPE. Identification tape can be used in place of sleeving, in
+most cases (i.e., polyvinyl fluoride).
+
+Par 11-212  Page 11-95
+
+===== PDF PAGE 667 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-216. OPERATING CONDITIONS. For sleeving exposed to high temperatures
+(over 400 °F), materials such as silicone fiberglass should be used.
+
+11-217. INSTALLATION OF PRINTED SLEEVES. Polyolefin sleeving should be used in
+areas where resistance to solvent and synthetic hydraulic fluids is necessary. Sleeves may be
+secured in place with cable ties or by heat shrinking. The identification sleeving for various sizes
+of wire is shown in Table 11-19.
+
+   TABLE 11-19. RECOMMENDED SIZE OF IDENTIFICATION SLEEVING
+
+   Wire Size  Sleeving Size
+   Nominal ID
+   AN  AL  No.
+   (inches)
+   #24  12  .085
+   #22  11  .095
+   #20  10  .106
+   #18  9  .118
+   #16  8  .113
+   #14  7  .148
+   #12  6  .166
+   #10  4  .208
+   #8  #8  2  .263
+   #6  #6  0  .330
+   #4  #4  3/8 inch  .375
+   #2  #2  1/2 inch  .500
+   #1  #1  1/2 inch  .500
+   #0  #0  5/8 inch  .625
+   #00  #00  5/8 inch  .625
+   #000  #000  3/4 inch  .750
+   #0000  #0000  3/4 inch  .750
+
+11-218. IDENTIFICATION OF WIRE BUNDLES AND HARNESSES. The identification
+of wire bundles and harnesses is becoming a common practice and may be accomplished by the
+use of a marked sleeve tied in place or by the use of pressure-sensitive tape as indicated in
+Figure 11-25.
+
+Par 11-216  Page 11-96
+
+===== PDF PAGE 668 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-25. IDENTIFICATION OF WIRE BUNDLES AND HARNESSES
+
+   a. Wires for which identifications are reassigned after installation may be remarked on
+sleeves at the termination of each wire segment. It may be necessary to re-identify such wires
+throughout their lengths to facilitate ease of maintenance.
+
+   b. For high-density harnessed, shielded, and jacketed multiconductor cables and when
+using nonsignificant wire identification, color coding or its alphanumeric equivalent may be
+interchanged within the same harnesses. The alphanumeric equivalent of the color code should
+be as set forth in MIL-STD-681.
+
+11-219. TERMINAL MARKING SLEEVE AND TAGS. Typical cable markers are flat,
+nonheat-shrinkable tags. Heat shrinkable marking sleeves are available for marking wires and
+cables, and should be inserted over the proper wire or cable and heat shrunk using the proper
+manufacturer recommended heating tool. (See Figures 11-26 and 11-27.)
+
+   FIGURE 11-26. STANDARD SLEEVES (135 °C)
+
+Par 11-218  Page 11-97
+
+===== PDF PAGE 669 =====
+9/27/01  AC 43.13-1B CHG 1
+
+ FIGURE 11-27. INSTALLATION OF HEAT-SHRINKABLE INSULATION SLEEVES
+
+11-220. SLEEVES AND CABLE MARKERS SELECTION. Sleeves and cable markers
+must be selected by cable size and operating conditions. (See Tables 11-20 through 11-23).
+
+   a. Markers are printed using a typewriter with a modified roller. Blank markers on a
+bandolier are fed into the typewriter, where they are marked in any desired combination of
+characters. The typed markers, still on bandoliers, are heated in an infrared heating tool that
+processes the markers for permanency. The typed and heat-treated markers remain on the
+bandolier until ready for installation.
+
+   b. Markers are normally installed using the following procedure:
+
+   (1) Select the smallest tie-down strap that will accommodate the outside diameter of the
+cable. (See Table 11-24.)
+
+   (2) Cut the marking plate from the bandolier. (See Figure 11-28.)
+
+   (3) Thread the tie-down straps through holes in marking plate and around cable. Thread
+tip of tie-down strap through slot in head. (See Figure 11-29.) Pull tip until strap is snug around
+cable.
+
+Par 11-219  Page 11-98
+
+===== PDF PAGE 670 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-28. CABLE MARKERS
+
+   FIGURE 11-29. TIE-DOWN STRAP INSTALLATION
+
+Par 11-220  Page 11-99
+
+===== PDF PAGE 671 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-20. SELECTION TABLE FOR STANDARD SLEEVES
+
+Wire or Cable Diameter Range  Installed
+   As-Supplied
+   (inches)  Markable  Sleeve  Installed Wall
+   Inside
+   Length *  Length  Thickness
+   Diameter
+   Min  Max  (inches)  (nom)  (max inches)
+   (min inches)
+   (inches)
+   0.050  0.080  18  1.5  0.026  0.093
+   0.075  0.110  18  1.5  0.026  0.125
+   0.100  0.150  18  1.5  0.028  0.187
+   0.135  0.215  18  1.5  0.028  0.250
+   0.200  0.300  18  1.5  0.028  0.375
+   0.135  0.300  18  1.5  0.028  0.375
+   0.260  0.450  18  1.5  0.028  0.475
+* Based on 12 characters per inch
+
+   TABLE 11-21. SELECTION TABLE FOR THIN-WALL SLEEVES
+
+Wire or Cable Diameter
+   Range  Markable  Installed Sleeve  Installed Wall  As-Supplied
+   (inches)  Length *  Length (nom)  Thickness  Inside Diameter
+   (inches)  (inches)  (max inches)  (min inches)
+   Min.  Max.
+   0.035  0.080  22  1.75  0.020  0.093
+   0.075  0.110  22  1.75  0.020  0.125
+   0.100  0.150  21  1.75  0.021  0.187
+   0.135  0.225  21  1.75  0.021  0.250
+* Based on 12 characters per inch
+
+Par 11-220  Page 11-100
+
+===== PDF PAGE 672 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-22. SELECTION TABLE FOR HIGH-TEMPERATURE SLEEVES
+
+   Wire or Cable  Installed  Installed
+   Diameter Range Markable Sleeve  As-Supplied
+   Wall
+   (inches)  Inside
+   Length * Length  Thickness
+   Diameter
+   (inches)  (nom)  (max
+   Min  Max  (min inches)
+   (inches)  inches)
+   0.035  0.080  18  1.5  0.019  0.093
+   0.075  0.110  18  1.5  0.016  0.125
+   0.100  0.150  18  1.5  0.018  0.187
+   0.135  0.215  18  1.5  0.018  0.250
+   0.200  0.300  18  1.5  0.018  0.375
+   0.260  0.450  18  1.5  0.018  0.475
+   * Based on 12 characters per inch
+
+   TABLE 11-23. SELECTION TABLE FOR CABLE MARKERS
+
+   Cable
+   Type of Cable  Number of  Number of Lines Marker Thickness
+  Diameter
+   Marker  Attachment Holes  of Type  (nom) (inches)
+Range (inches)
+   0.25-0.50  Standard, 135 °C  4  2  0.025
+   High Temperature,
+   0.25-0.50  4  2  0.020
+   200 °C
+   0.25-0.50  Nuclear, 135 °C  4  2  0.025
+   0.50-up  Standard, 135 °C  4  3  0.025
+   0.50-up  Standard, 135 °C  6  3  0.025
+   High Temperature,
+   0.50-up  4  3  0.020
+   200 °C
+   High Temperature,
+   0.50-up  6  3  0.020
+   200 °C
+   0.50-up  Nuclear, 135 °C  4  3  0.025
+   0.50-up  Nuclear, 135 °C  6  3  0.025
+
+Par 11-220  Page 11-101
+
+===== PDF PAGE 673 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-24. PLASTIC TIE-DOWN STRAPS (MS3367, TYPE I, CLASS 1)
+
+   Cable Diameter (inches)  Tie-Down
+   Strap  Installation  Tension
+   Strap
+   Min  Max  Identification *  Tool  Setting
+   MS3367­
+   Miniature
+   1/16  5/8  4-9  MS90387-1  2
+   (MIN)
+   Intermediate
+   1/16  1¼  5-9  MS90387-1  4
+   (INT)
+   Standard
+   1/16  4  2-9  MS90387-1  6
+   (STD)
+   3/16  8  6-9  Heavy (HVY)  MS90387-2  6
+* The specified tool tension settings are for typical cable application. Settings less than or greater
+than those specified may be required for special applications.
+
+   (4) Select the applicable installation tool and move the tension setting to the correct
+position. (See Figure 11-30.)
+
+   (5) Slide tip of strap into opening in the installation tool nose piece. (See Figure 11-30.)
+
+   FIGURE 11-30. TIE-DOWN STRAP INSTALLATION TOOL
+
+   (6) Keeping tool against head of tie-down strap, ensure gripper engages tie-down strap,
+and squeeze trigger of installation tool until strap installation is completed as shown in
+Figure 11-31.
+
+Par 11-220  Page 11-102
+
+===== PDF PAGE 674 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-31. COMPLETED INSTALLATION
+
+11-221. TEMPORARY WIRE AND CABLE MARKING PROCEDURE. A temporary wire
+marking procedure follows but should be used only with caution and with plans for future
+permanence. (See Figure 11-32.)
+
+   FIGURE 11-32. TEMPORARY WIRE IDENTIFICATION MARKER
+
+   a. With a pen or a typewriter, write wire number on good quality white split insulation
+sleeve.
+
+   b. Trim excess white insulation sleeve, leaving just enough for one wrap around wire to
+be marked, with number fully visible.
+
+   c. Position marked white insulation sleeve on wire so that shielding, ties, clamps, or
+supporting devices need not be removed to read the number.
+
+   d. Obtain clear plastic sleeve that is long enough to extend 1/4 inch past white insulation
+sleeve marker edges and wide enough to overlap itself when wrapped around white insulation
+and wire.
+
+   e. Slit clear sleeve lengthwise and place around marker and wire.
+
+   f. Secure each end of clear sleeve with lacing tape spot tie to prevent loosening of sleeve.
+
+11-222. MARKER SLEEVE INSTALLATION AFTER PRINTING. The following general
+procedures apply:
+
+Par 11-220  Page 11-103
+
+===== PDF PAGE 675 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. Hold marker, printed side up, and press end of wire on lip of sleeve to open sleeve.
+(See Figure 11-33.)
+
+   FIGURE 11-33. INSERTING WIRE INTO MARKER
+
+   b. If wire has been stripped, use a scrap piece of unstripped wire to open the end of the
+marker.
+
+   c. Push sleeve onto wire with a gentle twisting motion.
+
+   d. Shrink marker sleeve, using heat gun with shrink tubing attachment. (See
+Figure 11-34.)
+
+   FIGURE 11-34. SHRINKING MARKER ON WIRE
+
+11-223.–11-229. [RESERVED.]
+
+Par 11-222  Page 11-104
+
+===== PDF PAGE 676 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 17. CONNECTORS
+
+11-230. GENERAL. There is a multitude of types of connectors. Crimped contacts are
+generally used. Some of the more common are the round cannon type, the rectangular, and the
+module blocks. Environmental resistant connectors should be used in applications subject to
+fluids, vibration, thermal, mechanical shock, and/or corrosive elements. When High Intensity
+Radiated Fields (HIRF)/Lightning protection is required, special attention should be given to the
+terminations of individual or overall shields. The number and complexity of wiring systems have
+resulted in an increased use of electrical connectors. The proper choice and application of
+connectors is a significant part of the aircraft wiring system. Connectors must be kept to a
+minimum, selected, and installed to provide the maximum degree of safety and reliability to the
+aircraft. For the installation of any particular connector assembly, the specification of the
+manufacturer or the appropriate governing agency must be followed.
+
+11-231. SELECTION. Connectors should be selected to provide the maximum degree of safety
+and reliability considering electrical and environmental requirements. Consider the size, weight,
+tooling, logistic, maintenance support, and compatibility with standardization programs. For ease
+of assembly and maintenance, connectors using crimped contacts are generally chosen for all
+applications except those requiring a hermetic seal. (Refer to SAE ARP1308, Preferred Electrical
+Connectors for Aerospace, Shipboard, Ground Vehicles and Associated Equipment.) A
+replacement connector of the same basic type and design as the connector it replaces should be
+used. With a crimp-type connector for any electrical connection, the proper insertion or
+extraction tool must be used to install or remove wires from such a connector. Refer to
+manufacturer or aircraft instruction manual. After the connector is disconnected, inspect it for
+loose soldered connections to prevent unintentional grounding. Connectors that are susceptible to
+corrosion difficulties may be treated with a chemically inert waterproof jelly.
+
+11-232. TYPES OF CONNECTORS. Connectors must be identified by an original
+identification number derived from MIL Specification (MS) or OAM specification. Figure 11-35
+provides some examples of MS connector types. Several different types are shown in
+Figures 11-36 and 11-37.
+
+   a. Environmental Classes. Environment-resistant connectors are used in applications
+where they will probably be subjected to fluids, vibration, thermal, mechanical shock, corrosive
+elements, etc. Firewall class connectors incorporating these same features should, in addition, be
+able to prevent the penetration of the fire through the aircraft firewall connector opening and
+continue to function without failure for a specified period of time when exposed to fire. Hermetic
+connectors provide a pressure seal for maintaining pressurized areas. When EMI/RFI protection
+is required, special attention should be given to the termination of individual and overall shields.
+Back shell adapters designed for shield termination, connectors with conductive finishes, and
+EMI grounding fingers are available for this purpose.
+
+   b. Rectangular Connectors. The rectangular connectors are typically used in applications
+where a very large number of circuits are accommodated in a single mated pair. They are
+available with a great variety of contacts, which can include a mix of standard, coaxial, and large
+power types. Coupling is accomplished by various means. Smaller types are secured with screws
+which hold their flanges together. Larger ones have integral guide pins that ensure correct
+
+Par 11-230  Page 11-105
+
+===== PDF PAGE 677 =====
+9/27/01  AC 43.13-1B CHG 1
+
+alignment, or jackscrews that both align and lock the connectors. Rack and panel connectors use
+integral or rack-mounted pins for alignment and box mounting hardware for couplings.
+
+   c. Module Blocks. These junctions accept crimped contacts similar to those on
+connectors. Some use internal busing to provide a variety of circuit arrangements. They are
+useful where a number of wires are connected for power or signal distribution. When used as
+grounding modules, they save and reduce hardware installation on the aircraft. Standardized
+modules are available with wire end grommet seals for environmental applications and are
+track-mounted. Function module blocks are used to provide an easily wired package for
+environment-resistant mounting of small resistors, diodes, filters, and suppression networks.
+In-line terminal junctions are sometimes used in lieu of a connector when only a few wires are
+terminated and when the ability to disconnect the wires is desired. The in-line terminal junction
+is environment-resistant. The terminal junction splice is small and may be tied to the surface of a
+wire bundle when approved by the OAM.
+
+Par 11-232  Page 11-106
+
+===== PDF PAGE 678 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-35. CONNECTOR INFORMATION EXAMPLE
+
+Par 11-232  Page 11-107
+
+===== PDF PAGE 679 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-36. DIFFERENT TYPES OF CONNECTORS
+
+Par 11-232  Page 11-108
+
+===== PDF PAGE 680 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 11-37. COAX CABLE CONNECTORS
+
+Par 11-232  Page 11-109
+
+===== PDF PAGE 681 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 11-37. COAX CABLE CONNECTORS (CONTINUED)
+
+Par 11-232  Page 11-110
+
+===== PDF PAGE 682 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 11-37. COAX CABLE CONNECTORS (CONTINUED)
+
+11-233. VOLTAGE AND CURRENT RATING. Selected connectors must be rated for
+continuous operation under the maximum combination of ambient temperature and circuit
+current load. Hermetic connectors and connectors used in circuit applications involving
+high-inrush currents should be derated. It is good engineering practice to conduct preliminary
+testing in any situation where the connector is to operate with most or all of its contacts at
+maximum rated current load. When wiring is operating with a high conductor temperature near
+its rated temperature, connector contact sizes should be suitably rated for the circuit load. This
+may require an increase in wire size also. Voltage derating is required when connectors are used
+at high altitude in nonpressurized areas. Derating of the connectors should be covered in the
+specifications.
+
+11-234. SPARE CONTACTS (Future Wiring). To accommodate future wiring additions,
+spare contacts are normally provided. Locating the unwired contacts along the outer part of the
+connector facilitates future access. A good practice is to provide: 2 spares on connectors with
+25 or less contacts; 4 spares on connectors with 26 to 100 contacts; and 6 spares on connectors
+with more than 100 contacts. Spare contacts are not normally provided on receptacles of
+components that are unlikely to have added wiring. Connectors must have all available contact
+cavities filled with wired or unwired contacts. Unwired contacts should be provided with a
+plastic grommet sealing plug.
+
+Par 11-232  Page 11-111
+
+===== PDF PAGE 683 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-235. INSTALLATION.
+
+   a. Redundancy. Wires that perform the same function in redundant systems must be
+routed through separate connectors. On systems critical to flight safety, system operation wiring
+should be routed through separate connectors from the wiring used for system failure warning. It
+is also good practice to route a system’s indication wiring in separate connectors from its failure
+warning circuits to the extent practicable. These steps can reduce an aircraft’s susceptibility to
+incidents that might result from connector failures.
+
+   b. Adjacent Locations. Mating of adjacent connectors should not be possible. In order to
+ensure this, adjacent connector pairs must be different in shell size, coupling means, insert
+arrangement, or keying arrangement. When such means are impractical, wires should be routed
+and clamped so that incorrectly mated pairs cannot reach each other. Reliance on markings or
+color stripes is not recommended as they are likely to deteriorate with age.
+
+   c. Sealing. Connectors must be of a type that exclude moisture entry through the use of
+peripheral and interfacial seal that are compressed when the connector is mated. Moisture entry
+through the rear of the connector must be avoided by correctly matching the wire’s outside
+diameter with the connector’s rear grommet sealing range. It is recommended that no more than
+one wire be terminated in any crimp-style contact. The use of heat-shrinkable tubing to build up
+the wire diameter, or the application of potting to the wire entry area as additional means of
+providing a rear compatibility with the rear grommet is recommended. These extra means have
+inherent penalties and should be considered only where other means cannot be used. Unwired
+spare contacts should have a correctly sized plastic plug installed. (See Section 19.)
+
+   d. Drainage. Connectors must be installed in a manner which ensures that moisture and
+fluids will drain out of and not into the connector when unmated. Wiring must be routed so that
+moisture accumulated on the bundle will drain away from connectors. When connectors must be
+mounted in a vertical position, as through a shelf or floor, the connectors must be potted or
+environmentally sealed. In this situation it is better to have the receptacle faced downward so that
+it will be less susceptible to collecting moisture when unmated.
+
+   e. Wire Support. A rear accessory back shell must be used on connectors that are not
+enclosed. Connectors having very small size wiring, or are subject to frequent maintenance
+activity, or located in high-vibration areas must be provided with a strain-relief-type back shell.
+The wire bundle should be protected from mechanical damage with suitable cushion material
+where it is secured by the clamp. Connectors that are potted or have molded rear adapters do not
+normally use a separate strain relief accessory. Strain relief clamps should not impart tension on
+wires between the clamp and contact.
+
+   f. Slack. Sufficient wire length must be provided at connectors to ensure a proper drip
+loop and that there is no strain on termination after a complete replacement of the connector and
+its contacts.
+
+   g. Identification. Each connector should have a reference identification that is legible
+throughout the expected life of the aircraft.
+
+Par 11-235  Page 11-112
+
+===== PDF PAGE 684 =====
+9/8/98  AC 43.13-1B
+
+11-236. FEED-THROUGH BULKHEAD WIRE PROTECTION. Feed-through bushing
+protection should be given to wire bundles which pass through bulkheads, frames, and other
+similar structure. Feed-through bushings of hard dielectric material are satisfactory. The use of
+split plastic grommets (nylon) is recommended in lieu of rubber grommets in areas subject to
+fluids, since they eliminate the unsatisfactory features of rubber grommets and are resistant to
+fluids usually encountered in aircraft.
+
+11-237. SPECIAL PURPOSE CONNECTOR. Many special-purpose connectors have been
+designed for use in aircraft applications, such as: subminiature connector, rectangular shell
+connector, connectors with short body shells, or connector of split-shell construction used in
+applications where potting is required. Make every attempt to identify the connector part number
+from the maintenance manual or actual part, and the manufacturer’s instruction used for
+servicing.
+
+11-238. POTTING COMPOUNDS. Many types of potting compounds, both commercial and
+per military specifications, are available and offer various characteristics for different
+applications. Carefully consider the characteristics desired to ensure the use of the proper
+compound. Preparation and storage of potting materials should receive special attention. Careful
+inspection and handling during all stages of the connector fabrication until the potting compound
+has fully cured is recommended. Potting compounds selected must not revert to liquid or become
+gummy or sticky due to high humidity or contact with chemical fluids.
+
+   a. Potting compounds meeting MIL-S-8516 are prepared in ready-to-use tube-type
+dispensers and in the unmixed state, consisting of the base compound and an accelerator packed
+in paired containers. To obtain the proper results, it is important that the manufacturer’s
+instructions be closely followed.
+
+   b. Potting compounds normally cure at temperatures of 70 °F to 76 °F. If the mixed
+compound is not used at once, the working pot life (normally 90 minutes) can be prolonged by
+storing in a deep freeze at -20 °F for a maximum of 36 hours. The time factor starts from the
+instant the accelerator is added to the base compound and includes the time expended during the
+mixing and application processes.
+
+   c. Mixed compounds that are not to be used immediately should be cooled and thawed
+quickly to avoid wasting the short working life. Chilled compounds should be thawed by
+blowing compressed air over the outside of the container. Normally the compound will be ready
+for use in 5 to 10 minutes.
+
+   CAUTION: Do not use heat or blow compressed air into the container when
+   restoring the compound to the working temperature.
+
+11-239. POTTING CONNECTORS. Connectors that have been potted primarily offer
+protection against concentration of moisture in the connectors. A secondary benefit of potting is
+the reduced possibility of breakage between the contact and wire due to vibration.
+
+   a. Connectors specifically designed for potting compounds should be potted to provide
+environment resistance. An O-ring or sealed gasket should be included to seal the interface area
+
+Par 11-236  Page 11-113
+
+===== PDF PAGE 685 =====
+9/8/98  AC 43.13-1B
+
+of the mated connector. A plastic potting mold that remains on the connector after the potting
+compounds have cured should also be considered. To facilitate circuit changes, spare wires may
+be installed to all unused contacts prior to filling the connector with potting compound.
+
+   b. Connect wires to all contacts of the connector prior to the application of the potting
+compound. Wires that are not to be used should be long enough to permit splicing at a later date.
+Unused wires should be as shown in Figure 11-38 and the cut ends capped with heat-shrinkable
+caps or crimped insulated end caps such as the AS25274D prior to securing to the wire bundle.
+Clean the areas to be potted with dry solvent and complete the potting operation within 2 hours
+after this cleaning. Allow the potting compound to cure for 24 hours at a room temperature of
+70 °F to 75 °F or carefully place in a drying oven at 100 °F for 3 to 4 hours. In all cases, follow
+manufacturer’s instructions.
+
+   FIGURE 11-38. SPARE WIRES FOR POTTING CONNECTOR
+
+11-240. THROUGH BOLTS. Through bolts are sometimes used to make feeder connections
+through bulkheads, fuselage skin, or firewalls. Mounting plates for through bolts must be a
+material that provides the necessary fire barrier, insulation, and thermal properties for the
+application. Sufficient cross-section should be provided to ensure adequate conductivity against
+overheating. Secure through bolts mechanically and independently of the terminal mounting
+nuts, taking particular care to avoid dissimilar metals among the terminal hardware. During
+inspection, pay particular attention to the condition of the insulator plate or spacer and the
+insulating boot that covers the completed terminal assembly.
+
+11-241.–11-247. [RESERVED.]
+
+Par 11-239  Page 11-114
+
+===== PDF PAGE 686 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 18. CONDUITS
+
+11-248. GENERAL. Conduit is manufactured in metallic and nonmetallic materials and in both
+rigid and flexible forms. Primarily, its purpose is for mechanical protection of cables or wires.
+Conduit should be inspected for: proper end fittings; absence of abrasion at the end fittings;
+proper clamping; distortion; adequate drain points which are free of dirt, grease, or other
+obstructions; and freedom from abrasion or damage due to moving objects, such as aircraft
+control cables or shifting cargo.
+
+11-249. SIZE OF CONDUIT. Conduit size should be selected for a specific wire bundle
+application to allow for ease in maintenance, and possible future circuit expansion, by specifying
+the conduit inner diameter (ID) about 25 percent larger than the maximum diameter of the wire
+bundle.
+
+11-250. CONDUIT FITTINGS. Wire is vulnerable to abrasion at conduit ends. Suitable
+fittings should be affixed to conduit ends in such a manner that a smooth surface comes in
+contact with the wire. When fittings are not used, the end of the conduit should be flared to
+prevent wire insulation damage. Conduit should be supported by use of clamps along the conduit
+run.
+
+11-251. CONDUIT INSTALLATION. Conduit problems can be avoided by following these
+guidelines:
+
+   a. Do not locate conduit where passengers or maintenance personnel might use it as a
+handhold or footstep.
+
+   b. Provide drain holes at the lowest point in a conduit run. Drilling burrs should be
+carefully removed.
+
+   c. Support conduit to prevent chafing against structure and to avoid stressing its end
+fittings.
+
+11-252. RIGID CONDUIT. Conduit sections that have been damaged should be repaired to
+preclude injury to the wires or wire bundle which may consume as much as 80 percent of the
+tube area. Minimum acceptable tube bend radii for rigid conduit are shown in Table 11-25.
+Kinked or wrinkled bends in rigid conduits are not recommended and should be replaced. Tubing
+bends that have been flattened into an ellipse and the minor diameter is less than 75 percent of
+the nominal tubing diameter should be replaced because the tube area will have been reduced by
+at least 10 percent. Tubing that has been formed and cut to final length should be deburred to
+prevent wire insulation damage. When installing replacement tube sections with fittings at both
+ends, care should be taken to eliminate mechanical strain.
+
+Par 11-248  Page 11-115
+
+===== PDF PAGE 687 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-25. BEND RADII FOR RIGID CONDUIT
+
+   Nominal Tube OD  Minimum Bend Radii
+   (inches)  (inches)
+   1/8  3/8
+   3/16  7/16
+   1/4  9/16
+   3/8  15/16
+   1/2  1 1/4
+   5/8  1 1/2
+   ¾  1 3/4
+   1  3
+   1 1/4  3 3/4
+   1 1/2  5
+   1 3/4  7
+   2  8
+
+11-253. FLEXIBLE CONDUIT. Flexible aluminum conduit conforming to AS6136A is
+available in two types: Type I, Bare Flexible Conduit, and Type II, Rubber Covered Flexible
+Conduit. Flexible brass conduit conforming to specification AS3136 is available and normally
+used instead of flexible aluminum where necessary to minimize radio interference. Also
+available is a plastic flexible tubing. (Refer to MIL-T-8191A.) Flexible conduit may be used
+where it is impractical to use rigid conduit, such as areas that have motion between conduit ends
+or where complex bends are necessary. The use of transparent adhesive tape is recommended
+when cutting flexible tubing with a hacksaw to minimize fraying of the braid. The tape should be
+centered over the cutting reference mark with the saw cutting through the tape. After cutting the
+flexible conduit, the transparent tape should be removed, the frayed braid ends trimmed, burrs
+removed from inside the conduit, and coupling nut and ferrule installed. Minimum acceptable
+bending radii for flexible conduit are shown in Table 11-26.
+
+Par 11-252  Page 11-116
+
+===== PDF PAGE 688 =====
+9/8/98  AC 43.13-1B
+
+TABLE 11-26. MINIMUM BENDING RADII FOR FLEXIBLE ALUMINUM OR BRASS
+   CONDUIT
+
+   Minimum Bending
+   Nominal ID of Conduit
+   Radius Inside
+   (inches)
+   (inches)
+   3/16  2 1/4
+   1/4  2 3/4
+   3/8  3 3/4
+   1/2  3 3/4
+   5/8  3 3/4
+   3/4  4 1/4
+   1  5 3/4
+   1 1/4  8
+   1 1/2  8 1/4
+   1 3/4  9
+   2  9 3/4
+   2 1/2  10
+
+11-254.–11-259. [RESERVED.]
+
+Par 11-253  Page 11-117
+
+===== PDF PAGE 689 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 19. UNUSED CONNECTORS AND UNUSED WIRES
+
+11-260. GENERAL. Connectors may have one or more contact cavities that are not used.
+Depending on the connector installation, unused connector contact cavities may need to be
+properly sealed to avoid damage to the connector, or have string wire installed. Unused wires can
+be secured by tying into a bundle or secured to a permanent structure; individually cut with
+strands even with insulation; or pre-insulated closed end connector or 1-inch piece of insulating
+tubing folded and tied back.
+
+11-261. QUICK REFERENCE CHART. A quick reference chart of unused connector contact
+cavity requirements is given in Table 11-27. These requirements apply to harness manufacturing
+or connector replacement only.
+
+   TABLE 11-27. CONTACT CAVITY SEALING-QUICK REFERENCE
+
+   Connector Installation Types
+   Sealing Means  Unpressurized Area
+   Firewall  Non-Firewall
+Sealing Plugs or Teflon Sealing
+   No  Yes
+Rods
+Stub Wires (Note 2)  Yes  No
+ Spare Contacts  Yes  Yes
+NOTE 1: Sealing plugs may be included with the spare connector and may be used for sealing
+unused contacts. Sealing rods are procured from stock by the foot. (See Table 11-28 for sealing
+rod dimensions.)
+NOTE 2: Stub wires must be of the same type as the other wires of the bundle.
+
+11-262. UNPRESSURIZED AREA CONNECTORS. Connectors may be installed in
+unpressurized areas of the aircraft. Unused connector contact cavities installed in unpressurized
+areas should be properly sealed as follows:
+
+   a. Firewall Connectors Installations. Firewall unused connector contact cavities should
+be filled with spare contacts and stub wires. (See Figure 11-39.)
+
+Par 11-260  Page 11-118
+
+===== PDF PAGE 690 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 11-39. STUB WIRE INSTALLATION
+
+   (1) Construct stub wires using high-temperature wire (260 °C). Ensure that stub wires
+are of the same type of wires in the bundle.
+
+   (2) Crimp the proper contact, for the connector and cavity being used, onto the wire.
+Install the crimped contact into the unused cavity.
+
+   (3) Extend stub wires beyond the back of the connector clamp from 1.5 to 6 inches.
+Feather trim stub wires to taper wire bundle.
+
+   (4) Secure wire ends with high-temperature (greater than 250 °C) lacing cord. Nylon
+cable ties are not allowed for this installation.
+
+   NOTE: Both connectors mating through the engine fire-seal are considered
+   firewall connectors. Connectors mounted on or near, but not through, the
+   engine fire-seal are not considered firewall connectors.
+
+   b. Non-firewall Connector Installations. In this type of installation, all unused connector
+cavities must also be filled with spare contacts. It is not required, however, to crimp stub wires
+on filling contacts. Fill unused contact cavities with spare contacts and Teflon sealing plugs or
+rods. (See Figure 11-40.) Rods shall be cut so that they extend 1/8 to 1/4 inch beyond the surface
+of the grommet when bottomed against the end of the spare contact. (See Table 11-28 for
+dimensions.)
+
+Par 11-262  Page 11-119
+
+===== PDF PAGE 691 =====
+9/8/98  AC 43.13-1B
+
+FIGURE 11-40. SEALING UNUSED CONTACT CAVITIES—UNPRESSURIZED AREAS
+   (CUT-AWAY VIEW)
+
+   TABLE 11-28. SEALING ROD DIMENSIONS
+
+   CONTACT SIZE  DIAMETER  ROD LENGTH (INCHES)
+   (AWG)  (INCHES)  MIN  MAX
+   20  1/16  5/8”  3/4”
+   16  3/32  7/8”  1”
+   12  1/8  7/8”  1”
+
+11-263. PRESSURIZED AREAS. Connectors installed in pressurized areas of the aircraft may
+be divided into two main installation categories, sealed and unsealed.
+
+   a. Sealed Connector Installations. Sealed connectors installed in pressurized areas must
+have their unused contact cavities filled with Teflon sealing plugs or rods. (See Figure 11-40.)
+Installation of spare contacts is optional, except for future wiring addition requirements. (See
+paragraph 11-234). No stub wires are required.
+
+   b. Unsealed Connector Installations. It is not required to fill unused contact cavities of
+unsealed connectors installed in pressurized areas with Teflon sealing plugs or rods. Installation
+of spare contacts is optional, except for future wiring addition requirements.
+(See paragraph 11-234.)
+
+11-264.–11-270. [RESERVED.]
+
+Par 11-262  Page 11-120
+
+===== PDF PAGE 692 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 20. ELECTRICAL AND ELECTRONIC SYMBOLS
+
+11-271. GENERAL. The electrical and electronic symbols shown here are those that are likely
+to be encountered by the Aviation Maintenance Technician (AMT). They are in accordance with
+IEEE/ANSI 315-1975.
+
+11-272. SYMBOLS. Only those symbols associated with aircraft electrical and electronic
+wiring have been listed in general. Refer to IEEE/ANSI 315-1975 for more specific detail on
+each symbol.
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS
+
+Par 11-271  Page 11-121
+
+===== PDF PAGE 693 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-122
+
+===== PDF PAGE 694 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-123
+
+===== PDF PAGE 695 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-124
+
+===== PDF PAGE 696 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-125
+
+===== PDF PAGE 697 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-126
+
+===== PDF PAGE 698 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-127
+
+===== PDF PAGE 699 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-128
+
+===== PDF PAGE 700 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-129
+
+===== PDF PAGE 701 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-130
+
+===== PDF PAGE 702 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-131
+
+===== PDF PAGE 703 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-132
+
+===== PDF PAGE 704 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+Par 11-272  Page 11-133
+
+===== PDF PAGE 705 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-29. ELECTRONIC/ELECTRICAL SYMBOLS (CONTINUED)
+
+11-273.–11-283. [RESERVED.]
+
+Par 11-272  Page 11-134
+

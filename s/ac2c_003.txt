@@ -1,0 +1,381 @@
+AC 43.13-2C, chapter 2 (Structural Data), PDF pages 16-24
+
+===== PDF PAGE 16 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 2. STRUCTURAL DATA
+
+ 2.1 General. Structural integrity is a major factor in aircraft design and construction.
+   Addition or removal of equipment involving changes in weight could affect the structural
+   integrity, weight, balance, flight characteristics, reliability, or performance of an aircraft.
+   This chapter is generic in nature and meant to assist the aviation maintenance technician
+   in determining structural integrity. It is not meant to circumvent utilizing an FAA
+   engineer or the responsible Aircraft Certification Service office when necessary.
+
+ 2.2 Structural Design Process. Structural design processes follow these steps:
+
+   •  Determine the overall load factors.
+   •  Estimate the resulting loads.
+   •  Distribute these loads over the aircraft.
+   •  Determine the material, size, and shape of the part.
+   •  Calculate the resulting stresses in the part.
+   •  Compare these stresses with the maximum allowable for the material used.
+   •  Resize the part as necessary.
+
+ 2.3 Types of Loads and Stresses.
+
+2.3.1 “Limit load factors” are the maximum load factors that may be expected during service
+   (the maneuvering, gust, or ground load factors established by the manufacturer for type
+   certification).
+
+2.3.2 Aircraft parts may be formed out of different types of material and joined together. Each
+   of those parts carries a load, and the fastener that brings these parts together has to carry
+   the load from one part to the other.
+
+2.3.3 Every aircraft is subject to different types of structural stress. Stress acts on an aircraft
+   whether it is on the ground or in flight. Stress is defined as a load applied to a unit area of
+   material.
+
+2.3.4 “Tension” is a force acting against another force that is trying to pull something apart.
+
+2.3.5 “Compression” is a squeezing or crushing force that tries to make parts smaller.
+
+2.3.6 “Torsion” is a twisting force.
+
+2.3.7 “Shear stress” is when one piece of material slides over another.
+
+2.3.8 “Bending” is a combination of two forces, compression, and tension. During bending
+   stress, the material on the inside of the bend is compressed and the outside material is
+   stretched in tension.
+
+   2-1
+
+===== PDF PAGE 17 =====
+7/29/26  AC 43.13-2C
+
+   Figure 2-1. Bending of a Beam
+
+2.3.9 An aircraft structure in flight is subjected to variable stresses due to the varying loads that
+   may be imposed. The designer’s problem involves anticipating the possible stresses that
+   the structure will have to endure and build the structure strong enough to withstand these
+   stresses.
+
+ 2.4 Static Loads. “Static loads” are loads that do not undergo change in magnitude or
+   direction during a measurement procedure. Load factors are defined as follows:
+
+2.4.1 “Limit load factors” are the maximum load factors that may be expected during service
+   (the maneuvering, gust, or ground load factors established for type certification).
+
+2.4.2 “Ultimate load factors” are the limit load factors multiplied by a prescribed factor of
+   safety. Certain loads, such as the minimum ultimate inertia forces prescribed for
+   emergency landing conditions, are given directly in terms of ultimate loads.
+
+2.4.3 “Static test load factors” are the ultimate loads multiplied by the casting, fitting, bearing,
+   and/or other special factors, when applicable. Where no special factors apply, the static
+   test loads are equal to the ultimate loads.
+
+2.4.4 “Critical static test load factors” are the greater of the maneuvering, gust, ground, and
+   inertia load static test load factors for each direction (up, down, starboard, port, fore,
+   and aft).
+
+   2-2
+
+===== PDF PAGE 18 =====
+7/29/26  AC 43.13-2C
+
+   Figure 2-2. Typical Load
+
+  2.5 Structural Sizing and Analysis. Design and size your load structures, including wing
+   spars, wing attach fittings, stabilizers, landing gear struts, etc.
+
+2.5.1 Static tests using the load factors in Table 2-1 are acceptable for equipment installations.
+   The alteration needs to comply with the limit load factors as required by the aircraft’s
+   certification basis.
+
+   Table 2-1. Ultimate Load Factors
+
+   Rotorcraft Occupant
+   Normal-Utility  Acrobatic  Items of Mass
+ Direction of  and Items of Mass
+   Occupant  Occupant  Within the Cabin
+   Force  Within the Cabin
+   14 CFR Part 23 14 CFR Part 23 14 CFR Part 23
+  Applied  14 CFR Part 27
+   (CAR 3)  (CAR 3)  (CAR 3)
+   (CAR 6)
+Sideward  1.5g  1.5g  4.5g  8.0g
+Upward  3.0g  4.5g  3.0g  4.0g
+Forward  9.0g  9.0g  18.0g  16.0g
+Downward  6.6g  9.0g  -  20.0g
+Rearward  -  -  -  1.5g
+Note 1:  When equipment mounting is located externally to one side, or forward of occupants, a
+forward load factor of 2.0g is sufficient.
+Note 2:  Due to differences among various aircraft designs in flight and ground load factors, contact the
+aircraft manufacturer for the load factors required for a given model and location. In lieu of specific
+information, the factors used for the 14 CFR part 23 utility category are acceptable for aircraft that never
+exceed the speed of 250 knots and the factors used for 14 CFR part 23 acrobatic category.
+
+   2-3
+
+===== PDF PAGE 19 =====
+7/29/26  AC 43.13-2C
+
+2.5.2 Table 2-2 is an example of determining the static test loads for a 7-pound piece of
+   equipment to be installed in a utility category aircraft (14 CFR part 23).
+
+   Table 2-2. Sample Load Factors
+
+   Load Factors  Static Test Loads
+   (From the Above Table)  (Load Factor x 7 Pounds)
+   Sideward 1.5g  10.5 pounds
+   Upward 3.0g  21.0 pounds
+   Downward 6.6g  46.2 pounds
+   Forward 9.0g  63.0 pounds
+
+2.5.3 When an additional load is to be added to a structure already supporting previously
+   installed equipment, determine the capability of the structure to support the total load
+   (previous load plus added load). If the additional load requires access to applicable design
+   data or the capability to reverse engineer the installation, further assistance may be
+   required from FAA engineering, the responsible Aircraft Certification Service office, or
+   an appropriately rated Designated Engineering Representative (DER).
+
+ 2.6 Static Tests.
+
+   CAUTION: The aircraft or equipment, or both, can be damaged in applying static
+   loads, particularly if a careless or improper procedure is used. It is recommended,
+   whenever practicable, that static testing be conducted on a duplicate installation in
+   a jig or mockup that simulates the related aircraft structure. Static test loads may
+   exceed the yield limits of the assemblies being substantiated and can result in
+   partially sheared fasteners, elongated holes, or other damage that may not be
+   visible unless the structure is disassembled. If the structure is materially weakened
+   during testing, it may fail at a later date. Riveted sheet metal and composite
+   laminate construction methods especially do not lend themselves to easy detection
+   of such damage. To conduct static tests:
+
+2.6.1 Determine the weight and center of gravity (CG) position of the equipment item.
+
+2.6.2 Install the attachment in the aircraft or, preferably, in a jig using the applicable static test
+   load factors.
+
+2.6.3 Determine the critical ultimate load factors for the sideward, upward, downward, and
+   forward directions. A hypothetical, which follows steps 1 through 4 below, pertains to the
+   example in Figure 2-3, Hypothetical of Determining Static Test Loads.
+
+   1. Convert the gust, maneuvering, and ground load factors obtained from the
+   manufacturer, FAA engineer, or DER to determine the ultimate load factors. Unless
+   otherwise specified in the airworthiness standards applicable to the aircraft, ultimate
+
+   2-4
+
+===== PDF PAGE 20 =====
+7/29/26  AC 43.13-2C
+
+   load factors are limit load factors multiplied by a 1.5 safety factor (see Figure 2-3,
+   columns 1, 2, and 3 for items A, B, and C).
+   2. Determine the ultimate inertia load forces for the emergency landing conditions as
+   prescribed in the applicable airworthiness standards. (See Figure 2-3, items D and E,
+   column 3.)
+   3. Determine what additional load factors are applicable to the specific seat, litter, berth,
+   or cargo tiedown device installation. The ultimate load factors are then multiplied by
+   these factors to obtain the static test factors.
+   4. Select the highest static test load factors obtained in steps 1, 2, and/or 3 for each
+   direction (sideward, upward, downward, and forward). These factors are the critical
+   static test load factors used to compute the static test load (see Figure 2-3, column 6).
+
+2.6.4 Apply a load at the CG position by any suitable means to demonstrate that the attachment
+   and structure are capable of supporting the required loads. When no damage or
+   permanent deformation occurs after 3 seconds of applied static load, the structure and
+   attachments are acceptable. Should permanent deformation occur after 3 seconds,
+   modifications or reinforcements to the affected structure are required. Additional load
+   testing is not necessary.
+
+2.6.5 Static tests may need to be reviewed by an FAA engineer so that appropriate limitations,
+   procedures, checks, and balances may be applied to mitigate any risks.
+
+ 2.7 Materials and Workmanship. Use materials conforming to an accepted government or
+   industry standard such as Army/Navy and Air Force/Navy (AN) National Aerospace
+   Standards (NAS), Technical Standard Orders (TSO), or Military Specifications
+   (MIL-SPEC).
+
+2.7.1 Suitability and durability of materials used for parts, the failure of which could adversely
+   affect safety, must:
+
+   •  Be established by experience or tests;
+   •  Meet approved specifications that ensure the strength, and other properties, assumed
+   in the design data; and
+   •  Take into account the effects of environmental conditions, such as temperature and
+   humidity, expected in service.
+
+2.7.2 Workmanship must be of a high standard.
+
+ 2.8 Material Strength Properties and Design Values. Material strength properties must be
+   based on enough tests of material meeting specifications to establish design values on a
+   statistical basis, such as Metallic Materials Properties Development and Standardization
+   (MMPDS), available at https://www.mmpds.org/. Design values must be chosen to
+   minimize the probability of structural failure due to material variability. Except as
+   provided in paragraph 2.8.5 below, compliance with this paragraph must be shown by
+   selecting design values that ensure material strength with the following probabilities:
+
+   2-5
+
+===== PDF PAGE 21 =====
+ 7/29/26  AC 43.13-2C
+
+ 2.8.1 Where applied loads are eventually distributed through a single member within an
+   assembly, the failure of which would result in loss of structural integrity of the
+   component―99 percent probability with 95 percent confidence.
+
+ 2.8.2 For redundant structure, in which the failure of individual elements would result in
+   applied loads being safely distributed to other load carrying members―90 percent
+   probability with 95 percent confidence.
+
+ 2.8.3 The effects of temperature on allowable stresses used for design in an essential
+   component or structure must be considered where thermal effects are significant under
+   normal operating conditions.
+
+ 2.8.4 The design of the structure must minimize the probability of catastrophic fatigue failure,
+   particularly at points of stress concentration.
+
+ 2.8.5 Design values greater than the guaranteed minimums required by paragraph 2.8 may be
+   used where only guaranteed minimum values are normally allowed (e.g., if a “premium
+   selection” of the material is made in which a specimen of each item is tested before use to
+   determine if the actual strength properties of that particular item are equal or exceed those
+   used in design).
+
+   2.9 Fasteners. Use hardware conforming to an accepted government or industry standard
+   such as AN, NAS, TSO, or MIL-SPEC. Attach equipment in such a way that prevents
+   loosening in service due to vibration.
+
+ 2.9.1 Each removable fastener must incorporate two retaining devices in case one retaining
+   device should fail during flight operations.
+
+ 2.9.2 Fasteners and their locking devices must not be adversely affected by the environmental
+   conditions associated with the particular installation.
+
+ 2.9.3 No self-locking nut may be used on any bolt subject to rotation in operation unless a
+   nonfriction locking device is used in addition to the self-locking device.
+
+ 2.10 Protection of Structure. Provide protection against deterioration or loss of strength due
+   to corrosion, abrasion, electrolytic action, or other causes. Each part of the structure must:
+
+2.10.1 Be suitably protected against deterioration or loss of strength in service due to any cause,
+   including:
+
+   •  Weathering,
+   •  Corrosion, and
+   •  Abrasion.
+
+2.10.2 Have adequate provisions for ventilation and drainage.
+
+   2-6
+
+===== PDF PAGE 22 =====
+7/29/26  AC 43.13-2C
+
+ 2.11 Accessibility. Provide adequate provisions to permit close examination of equipment or
+   adjacent parts of the aircraft that regularly require, among other services, inspection,
+   adjustment, and lubrication. For each part that requires maintenance, inspection, or other
+   servicing, appropriate means must be incorporated into the aircraft design to allow such
+   servicing to be accomplished.
+
+ 2.12 Effects on Weight and Balance (W&B). Ensure that the altered aircraft can be operated
+   within the weight and CG ranges listed in the FAA type certificate (TC), data sheet, or
+   Aircraft Listing Aircraft Specification. When adding items of mass to the aircraft, the
+   effect on the empty W&B should be considered and documented in the aircraft W&B.
+   Determine that the altered aircraft will not exceed maximum gross weight. If applicable,
+   correct the loading schedule to reflect the current loading procedure. Refer to
+   AC 43.13-1, Acceptable Methods, Techniques, and Practices―Aircraft Inspection and
+   Repair, for W&B computation procedures.
+
+ 2.13 Effects on Safe Operation. Install equipment in a manner that will not interfere with or
+   adversely affect the safe operation of the aircraft (controls, navigation equipment
+   operation, etc.).
+
+2.13.1 The factor of safety prescribed in 14 CFR § 23.303 must be multiplied by the highest
+   pertinent special factors of safety prescribed in 14 CFR §§ 23.621 through 23.625 for
+   each part of the structure where strength is:
+
+   •  Uncertain,
+   •  Likely to deteriorate in service before normal replacement, or
+   •  Subject to appreciable variability because of uncertainties in manufacturing processes
+   or inspection methods.
+
+2.13.2 Unless otherwise provided, a factor of safety of 1.5 must be used.
+
+ 2.14 Controls and Indicators. Locate and identify equipment controls and indicators so they
+   can be operated and read from the appropriate crewmember position.
+
+ 2.15 Placarding. Label equipment requiring identification and, if necessary, placard
+   operational instructions. Amend W&B information as required. Any required placards
+   installed or required by an alteration must be added to the “Limitations” section of the
+   instructions for continued airworthiness (ICA) to ensure that maintenance personnel will
+   know if a required placard is missing in future inspections.
+
+   2-7
+
+===== PDF PAGE 23 =====
+7/29/26  AC 43.13-2C
+
+   Figure 2-3. Hypothetical of Determining Static Test Loads
+
+   Utility Category Aircraft (14 CFR Part 23)
+   Load Factors
+
+   Type of Load  Direction  5  6
+   1  2  3  4
+   Static  Critical Static
+   Limit  x Safety  = Ultimate  x Special
+   = Test  Test
+A. Maneuvering  Fwd  (None)  -  -  -
+   Down  6.2g  1.5  9.3g  -  9.3g  9.3g
+   Side  (None)  -  -  -  -
+   Up  -3.8g  1.5  -5.7g  -  -5.7g  5.7g
+   Aft  1.0g  1.5  1.5g  -  1.5g
+B. Gust  Fwd  (None)  -  -  -  -
+(= 30 FPS @ KVc)
+   Down  6.0g  1.5  9.0g  -  9.0g
+*For locations aft of  Down*  6.4g  1.5  9.6g  -  9.0g  *9.6g
+fuselage Sta. 73.85.
+   Side  1.6g  1.5  2.4g  -  2.4g  2.4g
+   Up  -2.8g  1.5  -4.2g  -  -4.2g
+   Aft  (None)  -  -  -  -
+C. Ground  Fwd  6.6g  1.5  9.9g  -  9.9g  9.9g
+   Down  4.0g  1.5  6.0g  -  6.0g
+D. Ultimate Inertia  Fwd  9.0g  -  -
+Forces for Emergency
+   Fwd**  4.5g  -  -  **4.5g
+Landing Condition
+(14 CFR § 23.561).  Down  (None)  -  -
+**For separate cargo  Already Prescribed as Ultimate
+   Side  1.5g  -  1.5g
+compartments.
+   Up  -3.0g  -  -3.0g
+   Aft  (None)  -  -
+
+   2-8
+
+===== PDF PAGE 24 =====
+7/29/26  AC 43.13-2C
+
+   Utility Category Aircraft (14 CFR Part 23)
+   Load Factors
+
+   Type of Load  Direction  5  6
+   1  2  3  4
+   Static  Critical Static
+   Limit  x Safety  = Ultimate  x Special
+   = Test  Test
+E. Ultimate Inertia  Fwd  9.0g  1.33  12.0g  12.0g
+Forces for Emergency
+   Down  (None)  -  -
+Landing Condition For
+Seat, Litter, and Berth  Side  Already Prescribed as Ultimate  1.5g  1.33  2.0g
+Attachment to Aircraft
+   Up  -3.0g  1.33  -4.0g
+Structure (14 CFR
+§ 23.785).  Aft  (None)  -  -
+
+Note: Asterisks (*) denote special load conditions for the situation shown.
+
+   2-9
+

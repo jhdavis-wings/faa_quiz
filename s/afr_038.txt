@@ -1,0 +1,2185 @@
+FAA-H-8083-31B Airframe Handbook, chapter 10 (Aircraft Systems), PDF pages 574-591
+
+===== PDF PAGE 574 =====
+2
+I
+I0
+20
+
+0
+0
+
+2
+I
+
+I0
+I0
+
+20
+20
+
+0
+0
+I0
+
+20
+
+Figure 10-100. A typical vacuum-driven attitude indicator shown with the aircraft in level flight (left) and in a climbing right turn (right).
+
+mechanism is built into the instrument to assist in keeping the
+gyro rotor rotating in the intended plane. Precession caused
+by bearing friction makes this necessary. After air engages
+the scalloped drive on the rotor, it flows from the instrument
+to the vacuum pump through four ports. These ports all
+exhaust the same amount of air when the gyro is rotating in
+plane. When the gyro rotates out of plane, air tends to port
+out of one side more than another. Vanes close to prevent
+this, causing more air to flow out of the opposite side. The
+force from this unequal venting of the air re-erects the gyro
+rotor. [Figure 10-101]
+Early vacuum-driven attitude indicators were limited in how
+far the aircraft could pitch or roll before the gyro gimbals
+contacted stops, causing abrupt precession and tumbling of
+the gyro. Many of these gyros include a caging device. It is
+used to erect the rotor to its normal operating position prior
+to flight or after tumbling. A flag indicates that the gyro must
+be uncaged before use. More modern gyroscopic instruments
+are built so they do not tumble, regardless of the angular
+movement of the aircraft about its axes.
+In addition to the contamination potential introduced by the
+air-drive system, other shortcomings exist in the performance
+of vacuum-driven attitude indicators. Some are induced by
+the erection mechanism. The pendulous vanes that move
+to direct airflow out of the gyro respond not only to forces
+caused by a deviation from the intended plane of rotation,
+but centrifugal force experienced during turns also causes the
+vanes to allow asymmetric porting of the gyro vacuum air. The
+result is inaccurate display of the aircraft’s attitude, especially
+
+in skids and steep banked turns. Also, abrupt acceleration and
+deceleration imposes forces on the gyro rotor. Suspended in
+its gimbals, it acts similar to an accelerometer, resulting in a
+false nose-up or nose-down indication. Pilots must learn to
+recognize these errors and adjust accordingly.
+Electric Attitude Indicators
+Electric attitude indicators are very similar to vacuumdriven gyro indicators. The main difference is in the drive
+mechanism. Inside the gimbals of an electric gyro, a small
+squirrel cage electric motor is the rotor. It is typically driven by
+115-volt, 400-cycle AC. It turns at approximately 21,000 rpm.
+Other characteristics of the vacuum-driven gyro are shared by
+the electric gyro. The rotor is still oriented in the horizontal
+plane. The free gyro gimbals allow the aircraft and instrument
+case to rotate around the gyro rotor that remains rigid in space.
+A miniature airplane fixed to the instrument case indicates the
+aircraft’s attitude against the moving horizon bar behind it.
+Electric attitude indicators address some of the shortcomings of
+vacuum-driven attitude indicators. Since there is no air flowing
+through an electric attitude indicator, air filters, regulators,
+plumbing lines and vacuum pump(s) are not needed.
+Contamination from dirt in the air is not an issue, resulting
+in the potential for longer bearing life and less precession.
+Erection mechanism ports are not employed, so pendulous
+vanes responsive to centrifugal forces are eliminated.
+It is still possible that the gyro may experience precession
+and need to be erected. This is done with magnets rather than
+10-55
+
+===== PDF PAGE 575 =====
+Prec
+
+essi
+
+on
+
+Port A
+
+Port A
+
+i
+
+ed
+
+l
+pp
+
+e
+
+rc
+
+fo
+
+Pre
+
+ces
+
+sio
+
+n
+
+A
+Gyro precesses, increasing
+exhaust from port A
+
+Exhaust air equal in all
+directions gyro erect
+
+Precessing force at port A
+erects gyro, exhaust air again
+equal at all ports
+
+Figure 10-101. The erecting mechanism of a vacuum-driven attitude indicator.
+
+vent ports. A magnet attached to the top of the gyro shaft
+spins at approximately 21,000 rpm. Around this magnet,
+but not attached to it, is a sleeve that is rotated by magnetic
+attraction at approximately 44 to 48 rpm. Steel balls are free
+to move around the sleeve. If the pull of gravity is not aligned
+with the axis of the gyro, the balls fall to the low side. The
+resulting precession re-aligns the axis of rotation vertically.
+Typically, electric attitude indicator gyros can be caged
+manually by a lever and cam mechanism to provide rapid
+erection. When the instrument is not getting sufficient power
+for normal operation, an off flag appears in the upper right
+hand face of the instrument. [Figure 10-102]
+Gyroscopic Direction Indicator or Directional Gyro
+(DG)
+The gyroscopic direction indicator or directional gyro (DG)
+is often the primary instrument for direction. Because a
+magnetic compass fluctuates so much, a gyro aligned with
+the magnetic compass gives a much more stable heading
+indication. Gyroscopic direction indicators are located at the
+
+Erection
+mechanism
+
+center base of the instrument panel basic T.
+A vacuum-powered DG is common on many light aircraft.
+Its basis for operation is the gyro’s rigidity in space. The gyro
+rotor spins in the vertical plane and stays aligned with the
+direction to which it is set. The aircraft and instrument case
+moves around the rigid gyro. This causes a vertical compass
+card that is geared to the rotor gimbal to move. It is calibrated
+in degrees, usually with every 30 degrees labeled. The nose
+of a small, fixed airplane on the instrument glass indicates
+the aircraft’s heading. [Figure 10-103]
+Vacuum-driven direction indicators have many of the same
+basic gyroscopic instrument issues as attitude indicators.
+Built-in compensation for precession varies and a caging
+device is usually found. Periodic manual realignment with
+the magnetic compass by the pilot is required during flight.
+Turn Coordinators
+Many aircraft make use of a turn coordinator. The rotor of
+the gyro in a turn coordinator is canted upwards 30°. As
+
+Magnet
+44–48 rpm
+Reaction to
+precession forces
+OFF
+
+Gyro universally
+mounted
+
+21,000 rpm
+
+PUS
+H
+TO
+CA
+GE
+
+Caging mechanism
+
+Figure 10-102. Erecting and caging mechanisms of an electric attitude indicator.
+
+10-56
+
+===== PDF PAGE 576 =====
+30
+60
+90
+
+Figure 10-103. A typical vacuum-powered gyroscopic direction
+
+indicator, also known as a directional gyro.
+
+such, it responds not only to movement about the vertical
+axis, but also to roll movements about the longitudinal axis.
+This is useful because it is necessary to roll an aircraft to
+turn it about the vertical axis. Instrument indication of roll,
+therefore, is the earliest possible warning of a departure from
+straight-and-level flight.
+Typically, the face of the turn coordinator has a small airplane
+symbol. The wing tips of the airplane provide the indication
+of level flight and the rate at which the aircraft is turning.
+[Figure 10-104]
+Turn-and-Slip Indicator
+The turn-and-slip indicator may also be referred to as the turnand-bank indicator, or needle-and-ball indicator. Regardless,
+it shows the correct execution of a turn while banking the
+aircraft and indicates movement about the vertical axis of
+the aircraft (yaw). Most turn-and-slip indicators are located
+below the airspeed indicator of the instrument panel basic T,
+just to the left of the direction indicator.
+The turn-and-slip indicator is actually two separate devices
+built into the same instrument housing: a turn indicator
+pointer and slip indicator ball. The turn pointer is operated
+by a gyro that can be driven by a vacuum, air pressure, or
+by electricity. The ball is a completely independent device.
+It is a round agate, or steel ball, in a glass tube filled with
+dampening fluid. It moves in response to gravity and
+centrifugal force experienced in a turn. The gyro turn-andslip indicator may be driven electrically or pneumatically (by
+vacuum or air pressure).
+Turn indicators vary. They all indicate the rate at which the
+
+Figure 10-104. A turn coordinator senses and indicates the rate of
+both roll and yaw.
+
+aircraft is turning. Three degrees of turn per second cause
+an aircraft to turn 360° in 2 minutes. This is considered a
+standard turn. This rate can be indicated with marks right
+and left of the pointer, which normally rests in the vertical
+position. Sometimes, no marks are present, and the width of
+the pointer is used as the calibration device. In this case, one
+pointer width deflection from vertical is equal to the 3° per
+second standard 2-minute turn rate. Faster aircraft tend to
+turn more slowly and have graduations or labels that indicate
+4-minute turns. In other words, a pointer’s width or alignment
+with a graduation mark on this instrument indicates that the
+aircraft is turning a 11⁄2° per second and completes a 360°
+turn in 4 minutes. It is customary to placard the instrument
+face with words indicating whether it is a 2-or 4-minute turn
+indicator. [Figure 10-105]
+The turn pointer indicates the rate at which an aircraft
+is turning about its vertical axis. It does so by using the
+precession of a gyro to tilt a pointer. The gyro spins in a
+vertical plane aligned with the longitudinal axis of the aircraft.
+When the aircraft rotates about its vertical axis during a turn,
+the force experienced by the spinning gyro is exerted about
+the vertical axis. Due to precession, the reaction of the gyro
+rotor is 90° further around the gyro in the direction of spin.
+This means the reaction to the force around the vertical axis
+is movement around the longitudinal axis of the aircraft.
+This causes the top of the rotor to tilt to the left or right. The
+pointer is attached with linkage that makes the pointer deflect
+in the opposite direction, which matches the direction of turn.
+So, the aircraft’s turn around the vertical axis is indicated
+around the longitudinal axis on the gauge. This is intuitive
+10-57
+
+===== PDF PAGE 577 =====
+L
+
+outside of the turn. During a slipping turn, there is more bank
+than needed, and gravity is greater than the centrifugal force
+acting on the ball. The ball moves in the curved glass toward
+the inside of the turn.
+
+R
+
+DC
+
+As mentioned previously, often power for the turn-andslip indicator gyro is electrical if the attitude and direction
+indicators are vacuum powered. This allows limited operation
+off battery power should the vacuum system and the electric
+generator fail. The directional and attitude information from
+the turn-and-slip indicator, combined with information from
+the pitot static instruments, allow continued safe emergency
+operation of the aircraft.
+Electrically powered turn-and-slip indicators are usually
+DC powered. Vacuum-powered turn-and-slip indicators are
+usually run on less vacuum (approximately 2 "Hg) than fully
+gimbaled attitude and direction indicators. Regardless, proper
+vacuum must be maintained for accurate turn rate information
+to be displayed.
+
+ELEC
+
+Figure 10-105. Turn-and-slip indicator.
+
+to the pilot when regarding the instrument, since the pointer
+indicates in the same direction as the turn. [Figure 10-106]
+The slip indicator (ball) part of the instrument is an
+inclinometer. The ball responds only to gravity during
+coordinated straight-and-level flight. Thus, it rests in the
+lowest part of the curved glass between the reference wires.
+When a turn is initiated, and the aircraft is banked, both
+gravity and the centrifugal force of the turn act upon the ball.
+If the turn is coordinated, the ball remains in place. Should
+a skidding turn exist, the centrifugal force exceeds the force
+of gravity on the ball and it moves in the direction of the
+
+Autopilot Systems
+An aircraft automatic pilot system controls the aircraft
+without the pilot directly maneuvering the controls. The
+autopilot maintains the aircraft’s attitude and/or direction and
+returns the aircraft to that condition when it is displaced from
+it. Automatic pilot systems are capable of keeping aircraft
+stabilized laterally, vertically, and longitudinally.
+The primary purpose of an autopilot system is to reduce the
+work strain and fatigue of controlling the aircraft during long
+flights. Most autopilots have both manual and automatic
+modes of operation. In the manual mode, the pilot selects
+
+Gimbal rotation
+Aircraft yaw rotation
+Gyro rotation
+
+Yaw force
+Resultant force on gyro
+
+Figure 10-106. The turn-and-slip indicator’s gyro reaction to the turning force in a right hand turn. The yaw force results in a force on
+
+the gyro 90° around the rotor in the direction it is turning due to precession. This causes the top of the rotor to tilt to the left. Through
+connecting linkage, the pointer tilts to the right.
+
+10-58
+
+===== PDF PAGE 578 =====
+each maneuver and makes small inputs into an autopilot
+controller. The autopilot system moves the control surfaces
+of the aircraft to perform the maneuver. In automatic mode,
+the pilot selects the attitude and direction desired for a flight
+segment. The autopilot then moves the control surfaces to
+attain and maintain these parameters.
+Autopilot systems provide for one-, two-, or three-axis control
+of an aircraft. Those that manage the aircraft around only
+one axis control the ailerons. They are single-axis autopilots,
+known as wing leveler systems, usually found on light aircraft.
+[Figure 10-107] Other autopilots are two-axis systems that
+control the ailerons and elevators. Three-axis autopilots
+control the ailerons, elevators, and the rudder. Two-and threeaxis autopilot systems can be found on aircraft of all sizes.
+There are many autopilot systems available. They feature
+a wide range of capabilities and complexity. Light aircraft
+typically have autopilots with fewer capabilities than highperformance and transport category aircraft. Integration
+of navigation functions is common, even on light aircraft
+autopilots. As autopilots increase in complexity, they not
+only manipulate the flight control surfaces, but other flight
+parameters as well.
+Some modern small aircraft, high-performance, and transport
+category aircraft have very elaborate autopilot systems known
+as automatic flight control systems (AFCS). These three-axis
+
+systems go far beyond steering the airplane. They control
+the aircraft during climbs, descents, cruise, and approach
+to landing. Some even integrate an auto-throttle function
+that automatically controls engine thrust that makes autolandings possible.
+For further automatic control, flight management systems
+(FMS) have been developed. Through the use of computers,
+an entire flight profile can be programmed ahead of time
+allowing the pilot to supervise its execution. An FMS computer
+coordinates nearly every aspect of a flight, including the
+autopilot and auto throttle systems, navigation route selection,
+fuel management schemes, and more.
+Basis for Autopilot Operation
+The basis for autopilot system operation is error correction.
+When an aircraft fails to meet the conditions selected, an error
+is said to have occurred. The autopilot system automatically
+corrects that error and restores the aircraft to the flight
+attitude desired by the pilot. There are two basic ways modern
+autopilot systems do this. One is position based and the
+other is rate based. A position based autopilot manipulates
+the aircraft’s controls so that any deviation from the desired
+attitude of the aircraft is corrected. This is done by memorizing
+the desired aircraft attitude and moving the control surfaces so
+that the aircraft returns to that attitude. Rate based autopilots
+use information about the rate of movement of the aircraft
+and move control surfaces to counter the rate of change that
+
+Suction from controller
+Cable clamp
+Diaphragm
+
+Wing leveler vacuum lines
+
+Servo
+
+Turn coordinator
+Engine-driven vacuum pump
+Figure 10-107. The wing leveler system on a small aircraft is a vacuum-operated single-axis autopilot. Only the ailerons are controlled.
+The aircraft’s turn coordinator is the sensing element. Vacuum from the instrument vacuum system is metered to the diaphragm cable
+servo to move the ailerons when the turn coordinator senses roll.
+
+10-59
+
+===== PDF PAGE 579 =====
+causes the error. Most large aircraft use rate-based autopilot
+systems. Small aircraft may use either.
+
+Autopilot Components
+Most autopilot systems consist of four basic elements, plus
+various switches and auxiliary units. The four basic elements
+are: sensing elements, computing element, output elements,
+and command elements. Many advanced autopilot systems
+contain a fifth element: feedback or follow-up. This refers
+to signals sent as corrections are being made by the output
+elements to advise the autopilot of the progress being made.
+[Figure 10-108]
+Sensing Elements
+The attitude (or vertical) and directional gyros, the turn
+coordinator, and an altitude control are the autopilot sensing
+elements. These units sense the movements of the aircraft.
+They generate electric signals that are used by the autopilot
+to automatically take the required corrective action needed
+to keep the aircraft flying as intended. The sensing gyros can
+be located in the flight deck mounted instruments. They can
+also be remotely mounted. Remote gyro sensors drive the
+servo displays in the flight deck panel, as well as provide
+the input signals to the autopilot computer.
+Modern digital autopilots may use a variety of different
+sensors. MEMS gyros may be used or accompanied by the
+use solid state accelerometers and magnetometers. Rate
+based systems may not use gyros at all. Various input sensors
+may be located within the same unit or in separate units
+that transfer information via digital data bus. Navigation
+information is also integrated via digital data bus connection
+to avionics computers.
+Computer & Amplifier
+The computing element of an autopilot may be analog or
+digital. Its function is to interpret the sensing element data,
+integrate commands and navigational input, and send signals
+to the output elements to move the flight controls as required
+to control the aircraft. An amplifier is used to strengthen the
+signal for processing, if needed, and for use by the output
+devices, such as servo motors. The amplifier and associated
+circuitry is the computer of an analog autopilot system.
+Information is handled in channels corresponding to the
+axis of control for which the signals are intended (i.e., pitch
+channel, roll channel, or yaw channel). Digital systems use
+solid state microprocessor computer technology and typically
+only amplify signals sent to the output elements.
+Output Elements
+The output elements (components) of an autopilot system
+are the servos that cause actuation of the flight control
+surfaces. They are independent devices for each of the
+
+control channels that integrate into the regular flight control
+system. Autopilot servo designs vary widely depending on
+the method of actuation of the flight controls. Cable-actuated
+systems typically utilize electric servo motors or electropneumatic servos. Hydraulic actuated flight control systems
+use electro-hydraulic autopilot servos. Digital fly-by-wire
+aircraft utilize the same actuators for carrying out manual
+and autopilot maneuvers. When the autopilot is engaged,
+the actuators respond to commands from the autopilot rather
+than exclusively from the pilot. Regardless, autopilot servos
+must allow unimpeded control surface movement when the
+autopilot is not operating.
+Aircraft with cable actuated control surfaces use two basic
+types of electric motor-operated servos. In one, a motor is
+connected to the servo output shaft through reduction gears.
+The motor starts, stops, and reverses direction in response
+to the commands of autopilot computer. The other type of
+electric servo uses a constantly running motor geared to the
+output shaft through two magnetic clutches. The clutches
+are arranged so that energizing one clutch transmits motor
+torque to turn the output shaft in one direction; energizing
+the other clutch turns the shaft in the opposite direction.
+[Figure 10-109] Electro-pneumatic servos can also be used
+to drive cable flight controls in some autopilot systems.
+They are controlled by electrical signals from the autopilot
+amplifier and actuated by an appropriate air pressure source.
+The source may be a vacuum system pump or turbine engine
+bleed air. Each servo consists of an electromagnetic valve
+assembly and an output linkage assembly.
+Aircraft with hydraulically actuated flight control systems have
+autopilot servos that are electro-hydraulic. They are control
+valves that direct fluid pressure as needed to move the control
+surfaces via the control surface actuators. They are powered by
+signals from the autopilot computer. When the autopilot is not
+engaged, the servos allow hydraulic fluid to flow unrestricted
+in the flight control system for normal operation. The servo
+valves can incorporate feedback transducers to update the
+autopilot of progress during error correction.
+Command Elements
+The command unit, called a flight controller, is the human
+interface of the autopilot. It allows the pilot to tell the autopilot
+what to do. Flight controllers vary with the complexity of the
+autopilot system. By pressing the desired function buttons,
+the pilot causes the controller to send instruction signals to the
+autopilot computer, enabling it to activate the proper servos
+to carry out the command(s). Level flight, climbs, descents,
+turning to a heading, or flying a desired heading are some
+of the choices available on most autopilots. Many aircraft
+make use of a multitude of radio navigational aids. These
+can be selected to issue commands directly to the autopilot
+computer. [Figure 10-110]
+10-60
+
+===== PDF PAGE 580 =====
+Sensing Elements
+
+Command Elements
+
+TURN
+L
+PITCH
+
+NAV
+R
+
+ALT
+
+MASTER
+
+ON
+
+DOWN
+
+Command
+
+ON
+
+OFF
+
+Output Elements
+
+OFF
+
+UP
+
+Feedback
+3
+
+Aileron servo actuator
+
+30
+
+6
+
+33
+
+Flight controller
+
+I5
+
+24
+
+I2
+
+2I
+
+Directional gyro indicator
+
+Command
+
+ter
+
+Turn-and-bank indicator gyro
+
+Feedback
+Rudder servo actuator
+
+u
+mp
+
+Co
+
+Elevator servo actuator
+Feedback
+Command
+20
+20
+I0
+
+I0
+
+I0
+
+I0
+20
+
+20
+TEST
+
+STBY
+
+R
+
+PW
+
+Selected radio
+navigation input
+
+Altitude indicator
+
+Altitude control
+Figure 10-108. Typical analog autopilot system components.
+
+In addition to an on/off switch on the autopilot controller,
+most autopilots have a disconnect switch located on the
+control wheel(s). This switch, operated by thumb pressure,
+can be used to disengage the autopilot system should a
+malfunction occur in the system or any time the pilot wishes
+to take manual control of the aircraft.
+Feedback or Follow-up Element
+As an autopilot maneuvers the flight controls to attain
+a desired flight attitude, it must reduce control surface
+
+correction as the desired attitude is nearly attained so the
+controls and aircraft come to rest on course. Without doing
+so, the system would continuously overcorrect. Surface
+deflection would occur until the desired attitude is attained.
+But movement would still occur as the surface(s) returned
+to pre-error position. The attitude sensor would once again
+detect an error and begin the correction process all over again.
+Various electric feedback, or follow-up signals, are generated
+to progressively reduce the error message in the autopilot
+so that continuous over correction does not take place. This
+10-61
+
+===== PDF PAGE 581 =====
+Clutch activation
+signal from amplifier
+
+DC m
+
+Clutches
+Co
+ntr
+ol
+ca
+ble
+
+otor
+
+Bridle cable
+
+Capstan
+
+Capstan
+
+Reversible motor
+Figure 10-109. A reversible motor with capstan and bridle cable (left), and a single-direction constant motor with clutches that drive the
+
+output shafts and control cable in opposite directions (right).
+
+TURN
+L
+
+NAV
+R
+
+PITCH
+
+DOWN
+
+ALT
+
+ON
+
+error and move to correct it, follow-up signals of opposite
+polarity and increasing magnitude counter the error signal
+until the aircraft’s correct attitude is restored. A displacement
+follow-up system uses control surface pickups to cancel
+the error message when the surface has been moved to the
+correct position.
+
+MASTER
+
+ON
+
+OFF
+
+OFF
+
+UP
+
+Figure 10-110. An autopilot controller of a simple autopilot system.
+
+is typically done with transducers on the surface actuators
+or in the autopilot servo units. Feedback completes a loop
+as illustrated in Figure 10-111. This is called a closed-loop
+system.
+A rate system receives error signals from a rate gyro that are
+of a certain polarity and magnitude that cause the control
+surfaces to be moved. As the control surfaces counteract the
+
+Amplifier
+Gyro input signal
+
+B
+
+A
+
+Control surface
+feedback signal
+Feedback
+circuit
+
+Servo
+
+Figure 10-111. Basic function of an analog autopilot system
+
+Autopilot Functions
+The following autopilot system description is presented
+to show the function of a simple analog autopilot. Most
+autopilots are far more sophisticated; however, many of the
+operating fundamentals are similar.
+The automatic pilot system flies the aircraft by using
+electrical signals developed in gyro-sensing units. These units
+are connected to flight instruments that indicate direction,
+rate of turn, bank, or pitch. If the flight attitude or magnetic
+heading is changed, electrical signals are developed in the
+gyros. These signals are sent to the autopilot computer/
+amplifier and are used to control the operation of servo units.
+A servo for each of the three control channels converts
+electrical signals into mechanical force, which moves the
+control surface in response to corrective signals or pilot
+commands. The rudder channel receives two signals that
+determine when and how much the rudder moves. The first
+signal is a course signal derived from a compass system. As
+long as the aircraft remains on the magnetic heading it was
+on when the autopilot was engaged, no signal develops. But,
+any deviation causes the compass system to send a signal
+to the rudder channel that is proportional to the angular
+displacement of the aircraft from the preset heading.
+
+including follow-up or feedback signal.
+
+10-62
+
+===== PDF PAGE 582 =====
+The second signal received by the rudder channel is the
+rate signal that provides information anytime the aircraft is
+turning about the vertical axis. This information is provided
+by the turn-and-bank indicator gyro. When the aircraft
+attempts to turn off course, the rate gyro develops a signal
+proportional to the rate of turn, and the course gyro develops
+a signal proportional to the amount of displacement. The
+two signals are sent to the rudder channel of the amplifier,
+where they are combined, and their strength is increased. The
+amplified signal is then sent to the rudder servo. The servo
+turns the rudder in the proper direction to return the aircraft
+to the selected magnetic heading.
+As the rudder surface moves, a follow-up signal is developed
+that opposes the input signal. When the two signals are equal
+in magnitude, the servo stops moving. As the aircraft arrives on
+course, the course signal reaches a zero value, and the rudder
+is returned to the streamline position by the follow-up signal.
+The aileron channel receives its input signal from a transmitter
+located in the gyro horizon indicator. Any movement of the
+aircraft about its longitudinal axis causes the gyro-sensing
+unit to develop a signal to correct for the movement. This
+signal is amplified, phase detected, and sent to the aileron
+servo, which moves the aileron control surfaces to correct
+for the error. As the aileron surfaces move, a follow-up signal
+builds up in opposition to the input signal. When the two
+signals are equal in magnitude, the servo stops moving. Since
+the ailerons are displaced from the streamline, the aircraft
+now starts moving back toward level flight with the input
+signal becoming smaller and the follow-up signal driving the
+control surfaces back toward the streamline position. When
+the aircraft has returned to level flight roll attitude, the input
+signal is again zero. At the same time, the control surfaces
+are streamlined, and the follow-up signal is zero.
+The elevator channel circuits are similar to those of the
+aileron channel, with the exception that the elevator channel
+detects and corrects changes in pitch attitude of the aircraft.
+For altitude control, a remotely mounted unit containing an
+
+MACH
+HOLD
+
+IAS
+HOLD
+IAS
+ACO
+
+AUTOTHROTTLE
+
+400
+
+INS
+
+TRK
+HDG
+
+HDG
+HOLD
+
+BACK
+BEAM
+
+VOR
+LOG
+
+AUTOLAND
+
+CAT 3
+
+SPEED SELECT
+
+Automatic Flight Control System (AFCS)
+An aircraft autopilot with many features and various autopilot
+related systems integrated into a single system is called an
+automatic flight control system (AFCS). These were formerly
+found only on high-performance aircraft. Currently, due to
+advances in digital technology for aircraft, modern aircraft
+of any size may have AFCS.
+AFCS capabilities vary from system to system. Some of the
+advances beyond ordinary autopilot systems are the extent
+of programmability, the level of integration of navigational
+aids, the integration of flight director and autothrottle
+systems, and combining of the command elements of these
+various systems into a single integrated flight control human
+interface. [Figure 10-112]
+It is at the AFCS level of integration that an autothrottle
+system is integrated into the flight director and autopilot
+systems with glide scope modes so that auto landings are
+
+PITCH
+HOLD
+
+MACH
+HOLD
+
+MAX
+CLIMB
+
+IAS
+HOLD
+
+ALT
+HOLD
+
+GO
+GROUND
+
+LAND
+
+GLIDE
+
+MAX
+CRUISE
+
+VERT
+SPEED
+
+ALT
+ACQ
+
+AP1
+FD1
+
+AT2
+
+Yaw Dampening
+Many aircraft have a tendency to oscillate around their
+vertical axis while flying a fixed heading. Near continuous
+rudder input is needed to counteract this effect. A yaw damper
+is used to correct this motion. It can be part of an autopilot
+system or a completely independent unit. A yaw damper
+receives error signals from the turn coordinator rate gyro.
+Oscillating yaw motion is counteracted by rudder movement,
+which is made automatically by the rudder servo(s) in
+response to the polarity and magnitude of the error signal.
+
+TURN
+
+KNOTS
+
+AT1
+
+altitude pressure diaphragm is used. Similar to the attitude
+and directional gyros, the altitude unit generates error signals
+when the aircraft has moved from a preselected altitude. This
+is known as an altitude hold function. The signals control the
+pitch servos, which move to correct the error. An altitude
+select function causes the signals to continuously be sent to
+the pitch servos until a preselected altitude has been reached.
+The aircraft then maintains the preselected altitude using
+altitude hold signals.
+
+110
+
+17000
+
+AP2
+
+224
+
+FEET
+
+130
+
+220
+
+AP1
+AP2
+
+FD2
+
+ALTITUDE SELECT
+
+Figure 10-112. The AFCS control panel commands several integrated systems from a single panel including: flight directors, autopilots,
+
+autothrottles, autoland, and navigational aids. Mode selections for many features are made from this single interface.
+
+10-63
+
+===== PDF PAGE 583 =====
+possible. Small general aviation aircraft being produced with
+AFCS may lack the throttle-dependent features.
+
+autopilot, these consist of the sensing elements, a computer,
+and an interface panel.
+
+Modern general aviation AFCS are fully integrated with
+digital attitude heading and reference systems (AHRS) and
+navigational aids including glideslope. They also contain
+modern computer architecture for the autopilot (and flight
+director systems) that is slightly different than described
+above for analog autopilot systems. Functionality is
+distributed across a number of interrelated computers and
+includes the use of intelligent servos that handle some of the
+error correction calculations. The servos communicate with
+dedicated avionics computers and display unit computers
+through a control panel, while no central autopilot computer
+exists. [Figure 10-113]
+
+Integration of navigation features into the attitude indicator is
+highly useful. The flight director contributes to this usefulness
+by indicating to the pilot how to maneuver the airplane to
+navigate a desired course. Selection of the VOR function
+on the flight director control panel links the computer to the
+omnirange receiver. The pilot selects a desired course and the
+flight director displays the bank attitude necessary to intercept
+and maintain this course. Allocations for wind drift and
+calculation of the intercept angle is performed automatically.
+
+Flight Director Systems
+A flight director system is an instrument system consisting of
+electronic components that compute and indicate the aircraft
+attitude required to attain and maintain a preselected flight
+condition. A command bar on the aircraft’s attitude indicator
+shows the pilot how much and in what direction the attitude
+of the aircraft must be changed to achieve the desired result.
+The computed command indications relieve the pilot of many
+of the mental calculations required for instrument flights,
+such as interception angles, wind drift correction, and rates
+of climb and descent.
+Essentially, a flight director system is an autopilot system
+without the servos. All of the same sensing and computations
+are made, but the pilot controls the airplane and makes
+maneuvers by following the commands displayed on the
+instrument panel. Flight director systems can be part of an
+autopilot system or exist on aircraft that do not possess full
+autopilot systems. Many autopilot systems allow for the
+option of engaging or disengaging a flight director display.
+Flight director information is displayed on the instrument that
+displays the aircraft’s attitude. The process is accomplished
+with a visual reference technique. A symbol representing
+the aircraft is fit into a command bar positioned by the
+flight director in the proper location for a maneuver to be
+accomplished. The symbols used to represent the aircraft
+and the command bar vary by manufacturer. Regardless, the
+object is always to fly the aircraft symbol into the command
+bar symbol. [Figure 10-114]
+The instrument that displays the flight director commands is
+known as a flight director indicator (FDI), attitude director
+indicator (ADI), or electronic attitude director indicator
+(EADI). It may even be referred to as an artificial horizon with
+flight director. This display element combines with the other
+primary components of the flight director system. Like an
+
+Flight director systems vary in complexity and features.
+Many have altitude hold, altitude select, pitch hold, and other
+features. But flight director systems are designed to offer the
+greatest assistance during the instrument approach phase of
+flight. ILS localizer and glideslope signals are transmitted
+through the receivers to the computer and are presented as
+command indications. This allows the pilot to fly the airplane
+down the optimum approach path to the runway using the
+flight director system.
+With the altitude hold function engaged, level flight can be
+maintained during the maneuvering and procedure turn phase
+of an approach. Altitude hold automatically disengages when
+the glideslope is intercepted. Once inbound on the localizer,
+the command signals of the flight director are maintained in
+a centered or zero condition. Interception of the glideslope
+causes a downward indication of the command pitch indicator.
+Any deviation from the proper glideslope path causes a flyup or fly-down command indication. The pilot needs only to
+keep the airplane symbol fit into the command bar.
+
+Electronic Instruments
+Electronic Attitude Director Indicator (EADI)
+The EADI is an advanced version of attitude and electric
+attitude indicators previously discussed. In addition to
+displaying the aircraft’s attitude, numerous other situational
+flight parameters are displayed. Most notable are those
+that relate to instrument approaches and the flight director
+command bars. Annunciation of active systems, such as the
+AFCS and navigation systems, is typical.
+The concept behind an EADI is to put all data related to the
+flight situation in close proximity for easy observation by the
+pilot. [Figure 10-115] Most EADIs can be switched between
+different display screens depending on the preference of the
+pilot and the phase of flight. EADIs vary from manufacturer
+to manufacturer and aircraft to aircraft. However, most of the
+same information is displayed.
+EADIs can be housed in a single instrument housing or
+10-64
+
+===== PDF PAGE 584 =====
+PFD
+
+MFD
+
+Mode controller
+
+Go-around switch
+AHRS
+Integrated avionics unit 1
+
+Integrated avionics unit 2
+
+A/P disc
+
+Pitch trim adapter
+4 way trim
+
+Pitch servo
+Pitch trim cartridge
+
+Roll servo
+
+Yaw servo
+(optional)
+
+Figure 10-113. Automatic flight control system (AFCS) of a Garmin G1000 glass flight deck instrument system for a general aviation aircraft.
+
+can be part of an electronic instrument display system.
+One such system, the electronic flight instrument system
+(EFIS), uses a cathode ray tube EADI display driven by
+a signal generator. Large-screen glass flight deck displays
+
+use LCD technology to display EADI information as part
+of an entire situational display directly in front of the pilot
+in the middle of the instrument panel. Regardless, the EADI
+is the primary flight instrument used for aircraft attitude
+10-65
+
+===== PDF PAGE 585 =====
+Flight director command bars
+
+20
+
+20
+I0
+
+I0
+
+I0
+
+I0
+
+20
+
+20
+
+Airplane symbol
+
+20
+
+20
+I0
+
+I0
+
+I0
+
+I0
+
+20
+
+20
+
+Figure 10-114. The flight director command bar signals the pilot how to steer the aircraft for a maneuver. By flying the aircraft so the
+triangular airplane symbol fits into the command bar, the pilot performs the maneuver calculated by the flight director. The instrument
+shown on the left is commanding a climb while the airplane is flying straight and level. The instrument on the right shows that the pilot
+has accomplished the maneuver.
+
+Roll scale
+
+Altitude alert
+Groundspeed
+
+Roll pointer
+
+ALT
+GS 264
+
+F
+
+Pitch scale markers
+
+Director command bar
+DH 200
+1060
+
+20
+
+20
+
+10
+
+10
+
+Selected decision height
+Radio altitude
+Flight director pitch and roll command bars
+Glideslope deviation scale
+
+Speed error scale
+Speed error pointer
+
+Glideslope deviation pointer
+
+Altitude sphere
+
+10
+
+10
+
+20
+
+20
+
+Marker beacon
+
+S
+
+Aircraft symbol
+
+M
+
+Localizer deviation scale
+Localizer deviation pointer
+Slip indicator
+
+Figure 10-115. Some of the many parameters and features of an electronic attitude director indicator (EADI).
+
+information during instrument flying and especially during
+instrument approaches. It is almost always accompanied by
+an electronic horizontal situation indicator (EHSI) located
+just below it in the display panel.
+Electronic Horizontal Situation Indicators (EHSI)
+The EHSI is an evolved version of the horizontal situation
+indicator (HSI), which was born from the gyroscopic
+direction indicator or directional gyro. The HSI incorporates
+directional information to two different navigational aids,
+as well as the heading of the aircraft. The EHSI does this
+and more. Its primary purpose is to display as much useful
+navigational information as possible.
+
+In conjunction with a flight management computer and a
+display controller, an EHSI can display information in PLAN,
+MAP, VOR, and ILS modes. The PLAN mode shows a fixed
+map of the input flight plan. This usually includes all selected
+navigational aids for each flight segment and the destination
+airport. The MAP mode shows the aircraft against a detailed
+moving map background. Active and inactive navigational aids
+are shown, as well as other airports and waypoints. Weather
+radar information may be selected to be shown in scale as
+a background. Some HSIs can depict other air traffic when
+integrated with the TCAS system. Unlike a standard HSI, an
+EHSI may show only the pertinent portion of the compass
+rose. Annunciation of active mode and selected features
+10-66
+
+===== PDF PAGE 586 =====
+appear with other pertinent information, such as distance and
+arrival time to the next waypoint, airport designators, wind
+direction and speed, and more. [Figure 10-116] There are
+many different displays that vary by manufacturer.
+The VOR view of an EHSI presents a more traditional focus
+on a selected VOR, or other navigational station being used,
+during a particular flight segment. The entire compass rose,
+the traditional lateral deviation pointer, to/from information,
+heading, and distance information are standard. Other
+information may also be displayed. [Figure 10-117] The ILS
+mode of an EHSI shows the aircraft in relation to the ILS
+approach aids and selected runway with varying degrees of
+details. With this information displayed, the pilot need not
+consult printed airport approach information, allowing full
+attention to flying the aircraft.
+
+Electronic Flight Information Systems
+In an effort to increase the safety of operating complicated
+aircraft, computers and computer systems have been
+
+Distance to go
+
+incorporated. Flight instrumentation and engine and
+airframe monitoring are areas particularly well suited to gain
+advantages from the use of computers. They contribute by
+helping to reduce instrument panel clutter and focusing the
+pilot’s attention only on matters of imminent importance.
+“Glass flight deck” is a term that refers to the use of flat-panel
+display screens in flight deck instrumentation. In reality, it
+also refers to the use of computer-produced images that have
+replaced individual mechanical gauges. Moreover, computers
+and computer systems monitor the processes and components
+of an operating aircraft beyond human ability while relieving
+the pilot of the stress from having to do so.
+Computerized electronic flight instrument systems have
+additional benefits. The solid-state nature of the components
+increases reliability. Also, microprocessors, data buses, and
+LCDs all save space and weight. The following systems
+have been developed and utilized on aircraft for a number
+of years. New systems and computer architecture are sure
+to come in the future.
+
+Airplane track to heading
+
+ETA
+
+TRK 252 M
+
+0835.4z
+
+30NM
+
+24
+
+Selected heading cursor
+
+27
+
+Present heading
+
+WXR display
+Procedure turn
+
+Selected heading vector
+
+260
+
+Runway centerline
+
+Intersection and ID
+
+Marker beacon
+SCARR
+
+Waypoint and ID
+
+80
+
+Holding pattern
+Tuned NAVAID radial
+
+WPT08
+ALT
+9R
+
+VORTAC and ID
+CSP
+
+Runway and ID
+
+36
+
+0
+FLT
+
+Vertical deviation pointer
+
+VOR and ID
+Range to selected altitude
+
+20
+
+Active flight plan path
+
+Wind direction
+
+Curved trend vector
+Windspeed
+
+Airplane symbol
+
+Figure 10-116. An EHSI presents navigational information for the entire flight. The pilot selects the mode most useful for a particular
+
+phase of flight, ranging from navigational planning to instrument approach to landing. The MAP mode is used during most of the flight.
+
+10-67
+
+===== PDF PAGE 587 =====
+Heading select bug
+Heading data source
+
+Forward lubber line
+
+Selected course
+
+Navigation data source
+Distance
+CRS CMP 1
+300
+
+Course select pointer
+
+30
+
+Lateral deviation bar
+
+33
+
+Glideslope pointer
+
+2I
+
+6
+
+24
+
+3
+
+To/from indicator
+
+NAV 2
+3.7 NM
+
+I5
+
+Selected heading
+
+HDG
+315
+
+Glideslope scale
+
+I2
+
+Aircraft symbol
+
+GS
+148 K
+
+Groundspeed
+
+Reciprocal course pointer
+Aft lubber line
+Figure 10-117. Approach and VOR mode presentation of an electronic horizontal situation indicator.
+
+Electronic Flight Instrument System (EFIS)
+The flight instruments were the first to adopt computer
+technology and utilize flat screen, multifunctional displays
+(MFD). EFIS uses dedicated signal generators to drive two
+independent displays in the center of the basic T. The attitude
+indicator and directional gyro are replaced by cathode ray
+tubes (CRT) used to display EADI and EHSI presentations.
+These enhanced instruments operate alongside ordinary
+mechanic and electric instruments with limited integration.
+Still, EADI and EHSI technology is very desirable, reducing
+workload and panel scan with the added safety provided by
+integration of navigation information as described.
+
+normally part of the turn coordinator, all of the basic flight
+instruments are depicted by the EFIS display. [Figure 10-119]
+
+Early EFIS systems have analog technology, while newer
+models may be digital systems. The signal generators receive
+information from attitude and navigation equipment. Through
+a display controller, the pilot can select the various mode
+or screen features wishing to be displayed. Independent
+dedicated pilot and copilot systems are normal. A third,
+backup symbol generator is available to assume operation
+should one of the two primary units fail. [Figure 10-118]
+
+The basic concept behind ECAM (and other monitoring
+systems) is automatic performance of monitoring duties for
+the pilot. When a problem is detected, or a failure occurs, the
+primary display, along with an aural and visual cue, alerts the
+pilot. Corrective action that needs to be taken is displayed,
+as well as suggested action due to the failure. By performing
+system monitoring automatically, the pilot is free to fly the
+aircraft until a problem occurs.
+
+Electronic depiction of ADI and HSI information is the core
+purpose of an EFIS system. Its expanded size and capabilities
+over traditional gauges allow for integration of even more
+flight instrument data. A vertical airspeed scale is typically
+displayed just left of the attitude field. This is in the same
+relative position as the airspeed indicator in an analog basic
+T instrument panel. To the right of the attitude field, many
+EFIS systems display an altitude and vertical speed scale.
+Since most EFIS EADI depictions include the inclinometer,
+
+Early ECAM systems only monitor airframe systems. Engine
+parameters are displayed on traditional full-time flight deck
+gauges. Later model ECAM systems incorporate engine
+displays, as well as airframe.
+
+Electronic Centralized Aircraft Monitor (ECAM)
+The pilot’s workload on all aircraft includes continuous
+monitoring of the flight instruments and the sky outside
+of the aircraft. It also includes vigilant scrutiny for proper
+operation of the engine and airframe systems. On transport
+category aircraft, this can mean monitoring numerous gauges
+in addition to maneuvering the aircraft. The electronic
+centralized aircraft monitoring (ECAM) system is designed
+to assist with this duty.
+
+An ECAM system has two CRT monitors. In newer aircraft,
+these may be LCD. The left or upper monitor, depending
+on the aircraft panel layout, displays information on system
+status and any warnings associated corrective actions. This
+10-68
+
+===== PDF PAGE 588 =====
+Pilot’s display system
+
+Copilot’s display system
+
+EADI
+
+EADI
+
+Data buses
+Display drive
+signals
+
+EHIS
+
+EHIS
+
+Display
+controller
+
+Display
+controller
+
+Pilot’s
+symbol
+generator
+
+Center
+symbol
+generator
+
+Copilot’s
+symbol
+generator
+
+Figure 10-118. A simplified diagram of an EFIS system. The EADI and EHSI displays are CRT units in earlier systems. Modern systems
+use digital displays, sometimes with only one multifunctional display unit replacing the two shown. Independent digital processors can
+also be located in a single unit to replace the three separate symbol generators.
+LNV1
+
+VALT
+
+15000
+
+279
+
+18000
+20
+
+300
+
+260 Digital airspeed
+readout
+240
+M.708
+
+28 000
+
+10
+
+3
+
+N
+
+4
+
+Vertical speed
+scale
+
+15
+
+30
+
+29.92 IN
+15
+
+12
+
+33
+
+BCE
+
+6
+
+1
+
+800 2
+
+E
+
+DTK 042
+44.6NM
+
+900
+
+Slip indicator
+
+Airspeed scale
+
+FMS1
+
+200 2
+
+Altitude scale 1
+100
+
+10
+
+280
+
+4
+
+warning computers. Analog inputs are first fed through a
+system data analog converter and then into the warning
+computers. The warning computers process the information
+and forward information to the signal generators to illuminate
+the monitors. [Figure 10-120]
+There are four basic modes to the ECAM system: flight
+phase, advisory, failure related, and manual. The flight phase
+mode is normally used. The phases are: preflight, takeoff,
+climb, cruise, descent, approach, and post landing. Advisory
+and failure–related modes will appear automatically as the
+situation requires. When an advisory is shown on the primary
+monitor, the secondary monitor will automatically display the
+system schematic with numerical values. The same is true
+for the failure-related mode, which takes precedent over all
+other modes regardless of which mode is selected at the time
+of the failure. Color coding is used on the displays to draw
+attention to matters in order of importance. Display modes
+are selected via a separate ECAM control panel shown in
+Figure 10-121.
+
+Figure 10-119. An EFIS EADI displays an airspeed scale to the
+
+The manual mode of an ECAM is set by pressing one of the
+synoptic display buttons on the control panel. This allows the
+display of system diagrams. A failure warning or advisory
+event will cancel this view. [Figure 10-122]
+
+is done in a checklist format. The right or lower monitor
+displays accompanying system information in a pictorial
+form, such as a diagram of the system being referred to on
+the primary monitor.
+
+ECAM flight warning computers self-test upon startup. The
+signal generators are also tested. A maintenance panel allows
+for testing annunciation and further testing upon demand.
+BITE stands for built-in test equipment. It is standard for
+monitoring systems to monitor themselves as well as the
+aircraft systems. All of the system inputs to the flight warning
+computers can also be tested for continuity from this panel, as
+
+left of the horizon sphere and an altimeter and vertical speed scale
+to the right. The slip indicator is the small rectangle under the
+direction triangles at the top. This EFIS display presents all of the
+flight information in the conventional flight deck basic T.
+
+The ECAM monitors are typically powered by separate
+signal generators. Aircraft data inputs are fed into two flight
+
+10-69
+
+===== PDF PAGE 589 =====
+Left hand
+display
+unit (CRT)
+
+Right hand
+display
+unit (CRT)
+
+Warning light display
+
+Symbol
+generator
+
+Symbol
+generator
+ECAM
+control panel
+
+System data
+analog converter
+Discrete analog inputs
+Flight warning computer
+
+Flight warning computer
+
+Aural
+warnings
+
+Aural
+warnings
+
+Aircraft data inputs
+Aircraft data inputs
+Figure 10-120. An electronic centralized aircraft monitor (ECAM) system displays aircraft system status, checklists, advisories, and
+
+warnings on a pair of controllable monitors.
+ECAM
+UPPER DISPLAY
+
+EMER
+CANC
+
+TO
+CONFIG
+
+BRT
+
+ENG
+
+BLEED
+
+PRESS
+
+ELEC
+
+HYD
+
+FUEL
+
+APU
+
+COND
+
+DOOR
+
+WHEEL
+
+F/CTL
+
+ALL
+
+STS
+
+RCL
+
+LOWER DISPLAY
+
+CLR
+
+CLR
+
+BRT
+Figure 10-121. An ECAM display control panel.
+
+well as inputs and outputs of the system data analog converter.
+Any individual system faults will be listed on the primary
+display as normal. Faults in the flight warning computers and
+signal generators will annunciate on the maintenance panel.
+[Figure 10-123] Follow the manufacturer’s guidelines when
+testing ECAM and related systems.
+
+Engine Indicating & Crew Alerting System (EICAS)
+An engine indicating and crew alerting system (EICAS)
+performs many of the same functions as an ECAM system. The
+objective is still to monitor the aircraft systems for the pilot.
+All EICASs display engine, as well as airframe, parameters.
+10-70
+
+===== PDF PAGE 590 =====
+HYD
+BLUE
+
+ELEC AC
+
+GREEN
+SENRO
+
+3000
+
+PSI
+
+ELEC DC
+TSS TM
+
+YELLOW
+
+MCNM
+ESS BUS
+
+CTL
+
+3000
+
+3000
+
+PSI
+
+TA2
+GEN
+CYRD
+
+BUS 1
+
+ELEC
+
+1
+
+0
+
+15
+
+LO
+
+F
+
+100.2
+
+AIR COND
+
+20
+
+HI
+
+C
+
+RAM AIR
+
+LO
+
+0
+0
+
+F
+
+15
+
+HI
+
+FWD
+15
+
+ANTI
+ICE
+
+PSI
+°C
+
+LP
+
+APU
+HP
+
+ENG 1
+
+JPU
+
+MID
+
+ANTI
+ICE
+PSI
+°C
+
+15
+
+HP
+
+6
+
+FUEL
+LEF: 1000
+TOTAL: 120.10
+
+41
+
+THIN
+
+TA1
+28 V
+
+ESSTA
+28 V
+
+TA2
+28 V
+
+CAB PRESS
+P
+PSI
+
+C
+H
+
+10
+
+C
+H
+
+0
+
+15
+0.0
+
+15
+C
+H
+
+V/S
+FT/MIN
+
+CAS ALT
+FT
+
+2
+UP
+0
+DW
+2
+
+10
+0
+
+0
+
+SYS1
+
+SYS2
+
+BATTERY
+
+SFTY
+GYSO
+
+FWD
+
+0
+
+AFT
+
+15
+C
+
+FLT CTL
+
+APU DRM
+DFF
+
+INNER
+
+7 6
+
+SPLA
+
+SPD
+MAX
+
+AQL
+1 2
+
+3 4
+
+NOSE
+UP
+ELEV
+
+5 6
+
+7
+
+R
+AIL
+STAD
+
+0
+
+0
+DW
+
+85
+0
+
+5 4
+
+1
+3 2
+
+L
+AIL
+
+EST
+°C
+EST
+662
+
+N
+%
+
+41
+
+OUTER
+
+24 54
+
+24 54
+
+BUS
+
+AQL
+
+122
+INNER
+
+ESS
+
+15
+
+APU
+
+ENG 2
+
+6
+47 51
+
+15
+
+H
+
+40 A
+
+LP
+
+DW:
+CG:
+CTR
+OUTER
+
+AFT
+
+11
+
+11
+
+BAT 3
+27 V
+0
+
+40 A
+
+GEM2
+OFF
+
+CAPT
+C
+
+1
+
+0
+
+APU GEM
+115 V
+400 Hz
+
+100.1
+
+BAT 2
+OFF
+
+BUS 1
+
+1
+
+0
+
+GEM1
+OFF
+
+AIR BLEED
+
+BAT 1
+27 V
+0
+
+EMER BUS
+
+TAI
+
+BUS
+
+AUD
+200
+
+34.3
+
+Figure 10-122. Nine of the 12 available system diagrams from the ECAM manual mode.
+
+Traditional gauges are not utilized, other than as a standby
+combination engine gauge in case of total system failure.
+
+diagnosis when the aircraft is on the ground. Color coding
+is used, as well as message prioritizing.
+
+EICAS is also a two-monitor, two-computer system with
+a display select panel. Both monitors receive information
+from the same computer. The second computer serves as
+a standby. Digital and analog inputs from the engine and
+airframe systems are continuously monitored. Caution and
+warning lights, as well as aural tones, are incorporated.
+[Figure 10-124]
+
+The display select panel allows the pilot to choose which
+computer is actively supplying information. It also controls
+the display of secondary engine information and system status
+displays on the lower monitor. EICAS has a unique feature
+that automatically records the parameters of a failure event
+to be reviewed afterwards by maintenance personnel. Pilots
+that suspect a problem may be occurring during flight can
+press the event record button on the display select panel. This
+also records the parameters for that flight period to be studied
+later by maintenance. Hydraulic, electrical, environmental,
+performance, and APU data are examples of what may be
+recorded.
+
+EICAS provides full time primary engine parameters (EPR,
+N1, EGT) on the top, primary monitor. Advisories and
+warning are also shown there. Secondary engine parameters
+and nonengine system status are displayed on the bottom
+screen. The lower screen is also used for maintenance
+
+10-71
+
+===== PDF PAGE 591 =====
+Flight warning computer test
+buttons and annunciation lights
+
+Displays switch
+
+ECAM
+FAULT
+
+EFIS
+
+BITE
+
+WLDP
+
+DISPLAY
+
+LOAD
+
+BITE
+LOAD
+
+DSPL
+
+DSPL
+
+TEST
+
+FWC 1
+FAULT
+INHIB OVER
+
+INPUTS
+
+INPUTS
+
+TEST
+
+TEST
+
+FWC 2
+FAULT
+
+that is normally located forward on the center pedestal in the
+flight deck. It contains a full alphanumeric keypad, a CRT or
+LCD display/work screen, status and condition annunciators,
+and specialized function keys. [Figure 10-127]
+
+Signal generator test button
+
+Aircraft systems inputs test button
+
+The typical FMS uses two FMS FMCs that operate
+independently as the pilot’s unit and the copilot’s unit.
+However, they do crosstalk through the data busses. In normal
+operation, the pilot and copilot divide the workload, with the
+pilot’s CDU set to supervise and interface with operational
+parameters and the copilot’s CDU handling navigational
+RESET
+chores. This is optional at the flightcrew’s discretion. If a
+main component fails (e.g., an FMC or a CDU), the remaining
+operational units continue to operate with full control and
+without system compromise.
+
+Inhibited warnings override switch
+Figure 10-123. An ECAM maintenance panel used for testing and
+
+annunciating faults in the ECAM system.
+
+EICAS uses BITE for systems and components. A
+maintenance panel is included for technicians. From this
+panel, when the aircraft is on the ground, push-button
+switches display information pertinent to various systems
+for analysis. [Figure 10-125]
+
+Flight Management System (FMS)
+The highest level of automated flight system is the flight FMS.
+Companies flying aircraft for hire have special results they
+wish to achieve. On-time performance, fuel conservation, and
+long engine and component life all contribute to profitability.
+An FMS helps achieve these results by operating the aircraft
+with greater precision than possible by a human pilot alone.
+A FMS can be thought of as a master computer system
+that has control over all other systems, computerized and
+otherwise. As such, it coordinates the adjustment of flight,
+engine, and airframe parameters either automatically or by
+instructing the pilot how to do so. Literally, all aspects of the
+flight are considered, from preflight planning to pulling up
+to the jet-way upon landing, including in-flight amendments
+to planned courses of action.
+The main component of an FMS is the flight management
+computer (FMC). It communicates with the EICAS or
+ECAM, the ADC, the thrust management computer that
+controls the autothrottle functions, the EIFIS symbol
+generators, the automatic flight control system, the inertial
+reference system, collision avoidance systems, and all of
+the radio navigational aids via data busses. [Figure 10-126]
+
+Each flight of an aircraft has vertical, horizontal, and
+navigational components, which are maintained by
+manipulating the engine and airframe controls. While doing
+so, numerous options are available to the pilot. Rate of climb,
+thrust settings, EPR levels, airspeed, descent rates, and other
+terms can be varied. Commercial air carriers use the FMC to
+establish guidelines by which flights can be flown. Usually,
+these promote the company’s goals for fuel and equipment
+conservation. The pilot need only enter variables as requested
+and respond to suggested alternatives as the FMC presents
+them.
+The FMC has stored in its database literally hundreds of flight
+plans with predetermined operational parameters that can be
+selected and implemented. Integration with NAV-COM aids
+allows the FMS to change radio frequencies as the flight plan
+is enacted. Internal computations using direct input from
+fuel flow and fuel quantity systems allow the FMC to carry
+out lean operations or pursue other objectives, such as high
+performance operations if making up time is paramount on a
+particular flight. Weather and traffic considerations are also
+integrated. The FMS can handle all variables automatically
+but communicates via the CDU screen to present its planned
+action, gain consensus, or ask for an input or decision.
+As with the monitoring systems, FMS includes BITE. The
+FMC continuously monitors its entire systems and inputs
+for faults during operation. Maintenance personal can
+retrieve system generated and pilot recorded fault messages.
+They may also access maintenance pages that call out line
+replaceable units (LRUs) to which faults have been traced
+by the BITE system. Follow manufacturers’ procedures for
+interfacing with maintenance data information.
+
+The interface to the system is a control display unit (CDU)
+10-72
+

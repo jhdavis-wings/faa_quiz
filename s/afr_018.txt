@@ -1,0 +1,1725 @@
+FAA-H-8083-31B Airframe Handbook, chapter 5 (Aircraft Welding), PDF pages 277-293
+
+===== PDF PAGE 277 =====
+Chapter 5
+
+Aircraft Welding
+Introduction
+Welding can be traced back to the Bronze Age, but it was
+not until the 19th century that welding as we know it today
+was invented. Some of the first successful commercially
+manufactured aircraft were constructed from welded steel
+tube frames.
+
+Nearly all gas welding in aircraft fabrication is performed
+with oxy-acetylene welding equipment consisting of:
+•
+
+Two cylinders, acetylene and oxygen.
+
+•
+
+Acetylene and oxygen pressure regulators and cylinder
+pressure gauges.
+
+As the technology and manufacturing processes evolved
+in the aircraft and aerospace industry, lighter metals, such
+as aluminum, magnesium, and titanium, were used in their
+construction. New processes and methods of welding these
+metals were developed. This chapter provides some of the
+basic information needed to understand and initiate the
+various welding methods and processes.
+
+•
+
+Two lengths of colored hose (red for acetylene and
+green for oxygen) with adapter connections for the
+regulators and torch.
+
+•
+
+A welding torch with an internal mixing head, various
+size tips, and hose connections.
+
+•
+
+Welding goggles fitted with appropriate colored lenses.
+
+•
+
+A flint or spark lighter.
+
+Traditionally, welding is defined as a process that joins metal
+by melting or hammering the work pieces until they are
+united together. With the right equipment and instruction,
+almost anyone with some basic mechanical skill, dexterity,
+and practice can learn to weld.
+
+•
+
+Special wrench for acetylene tank valve if needed.
+
+•
+
+An appropriately-rated fire extinguisher.
+
+There are three general types of welding: gas, electric arc,
+and electric resistance. Each type of welding has several
+variations, some of which are used in the construction of
+aircraft. Additionally, there are some new welding processes
+that have been developed in recent years that are highlighted
+for the purpose of information.
+
+The equipment may be permanently installed in a shop, but
+most welding outfits are of the portable type. [Figure 5-1]
+Electric Arc Welding
+Electric arc welding is used extensively by the aircraft industry
+in both the manufacture and repair of aircraft. It can be used
+
+Oxygen pressure regulator
+
+This chapter addresses the welding equipment, methods,
+and various techniques used during the repair of aircraft and
+fabrication of component parts, including the processes of
+brazing and soldering of various metals.
+
+Acetylene pressure regulator
+
+Types of Welding
+Gas Welding
+Gas welding is accomplished by heating the ends or edges
+of metal parts to a molten state with a high temperature
+flame. The oxy-acetylene flame, with a temperature of
+approximately 6,300 °Fahrenheit (F), is produced with a torch
+burning acetylene and mixing it with pure oxygen. Hydrogen
+may be used in place of acetylene for aluminum welding, but
+the heat output is reduced to about 4,800 °F. Gas welding was
+the method most commonly used in production on aircraft
+materials under 3⁄16-inch in thickness until the mid 1950s,
+when it was replaced by electric welding for economic (not
+engineering) reasons. Gas welding continues to be a very
+popular and proven method for repair operations.
+
+0
+
+300
+
+0
+
+100
+
+200
+
+300
+
+100
+
+200
+
+Oxygen cylinder
+
+0
+
+100
+
+200
+
+0
+
+300
+
+300
+
+100
+
+200
+
+Acetylene cylinder
+
+Torch
+
+Figure 5-1. Portable oxy-acetylene welding outfit.
+
+5-1
+
+===== PDF PAGE 278 =====
+Welding cable connector
+
+Generator
+
+Welding cable
+
+Electrode holder
+
+Ground cable
+
+Ground cable connector
+
+Metal being welded
+
+Figure 5-2. Typical arc welding circuit.
+
+satisfactorily to join all weldable metals, provided that the
+proper processes and materials are used. The four types of
+electric arc welding are addressed in the following paragraphs.
+
+Shielded Metal Arc Welding (SMAW)
+Shielded metal arc welding (SMAW) is the most common type
+of welding and is usually referred to as “stick” welding. The
+equipment consists of a metal wire rod coated with a welding
+flux that is clamped in an electrode holder that is connected by a
+heavy electrical cable to a low voltage and high current in either
+alternating current (AC) or direct current (DC), depending on
+the type of welding being done. An arc is struck between the
+rod and the work and produces heat in excess of 10,000 °F,
+which melts both the material and the rod. The welding circuit
+consists of a welding machine, two leads, an electrode holder,
+an electrode, and the work to be welded. [Figure 5-2]
+
+machine with cables, ground clamp, and electrode holder.
+
+Gas Metal Arc Welding (GMAW)
+Gas metal arc welding (GMAW) was formerly called metal
+inert gas (MIG) welding. It is an improvement over stick
+welding because an uncoated wire electrode is fed into and
+through the torch and an inert gas, such as argon, helium,
+or carbon dioxide, flows out around the wire to protect the
+puddle from oxygen. The power supply is connected to the
+torch and the work, and the arc produces the intense heat
+needed to melt the work and the electrode. [Figure 5-4]
+Low-voltage, high-current DC is typically used with GMAW
+welding. Figure 5-5 shows the equipment required for a
+typical MIG welding setup.
+This method of welding can be used for large volume
+
+When the electrode is touched to the metal to be welded,
+the circuit is complete and the current flows. The electrode
+is then withdrawn from the metal approximately 1⁄4-inch to
+form an air gap between the metal and the electrode. If the
+correct gap is maintained, the current bridges the gap to form
+a sustained electric spark called the arc. This action melts the
+electrode and the coating of flux.
+As the flux melts, it releases an inert gas that shields the
+molten puddle from oxygen in the air to prevent oxidation.
+The molten flux covers the weld and hardens to an airtight
+slag that protects the weld bead as it cools. Some aircraft
+manufacturers, such as Stinson, used this process for the
+welding of 4130 steel fuselage structures. This was followed
+by heat treatment in an oven to stress relieve and normalize
+the structure. Shown in Figure 5-3 is a typical arc welding
+
+Figure 5-3. Stick welder–Shielded Metal Arc Welder (SMAW).
+
+5-2
+
+===== PDF PAGE 279 =====
+Shielding gas
+Nozzle
+
+Molten weld metal
+
+Consumable electrode
+(machine fed)
+
+Solidified weld metal
+
+Figure 5-4. Metal inert gas (MIG) welding process.
+
+Shielding gas
+
+Regulator with flowmeter
+
+Wire reel
+
+Work
+
+Wire drive
+
+Power source
+
+Gas supply
+
+Wire drive may be
+located in welding gun
+handle or at wire reel.
+
+Controls for governing
+wire drive current, gas flow,
+and cooling water, if used.
+Contactor
+
+Figure 5-5. MIG welding equipment.
+
+5-3
+
+===== PDF PAGE 280 =====
+Tungsten electrode
+Welding torch
+Shielding gas
+Molten weld metal
+Arc
+
+Solidified weld metal
+
+Filler wire (hand fed)
+
+Figure 5-7. Tungsten inert gas (TIG) welding process.
+
+Figure 5-6. MIG welder–gas metal arc welder (GMAW).
+
+manufacturing and production work; it is not well suited to
+repair work because weld quality cannot be easily determined
+without destructive testing. Figure 5-6 depicts a typical power
+source used for MIG welding.
+
+Gas Tungsten Arc Welding (GTAW)
+Gas tungsten arc welding (GTAW) is a method of electric arc
+welding that fills most of the needs in aircraft maintenance
+and repair when proper procedures and materials are used. It
+is the preferred method to use on stainless steel, magnesium,
+and most forms of thick aluminum. It is more commonly
+known as Tungsten Inert Gas (TIG) welding and by the trade
+names of Heliarc or Heliweld. These names were derived
+from the inert helium gas that was originally used.
+The first two methods of electric arc welding that were
+addressed used a consumable electrode that produced the
+filler for the weld. In TIG welding, the electrode is a tungsten
+rod that forms the path for the high amperage arc between it
+and the work to melt the metal at over 5,400 °F. The electrode
+is not consumed and used as filler so a filler rod is manually
+fed into the molten puddle in almost the same manner as
+when using an oxy-acetylene torch. A stream of inert gas,
+such as argon or helium, flows out around the electrode and
+envelopes the arc thereby preventing the formation of oxides
+in the molten puddle. [Figure 5-7]
+The versatility of a TIG welder is increased by the choice
+of the power supply being used. DC of either polarity or AC
+may be used. [Figure 5-8]
+•
+
+Either select the welder setting to DC straight polarity
+(the work being the positive and the torch being
+negative) when welding mild steel, stainless steel,
+and titanium; or
+
+•
+
+Select AC for welding aluminum and magnesium.
+
+Figure 5-9 is a typical power source for TIG welding along
+with a torch, foot operated current control, regulator for inert
+gas, and assorted power cables.
+Electric Resistance Welding
+Electric resistance welding, either spot welding or seam
+welding, is typically used to join thin sheet metal components
+during the manufacturing process.
+
+Spot Welding
+Two copper electrodes are held in the jaws of the spot welding
+machine, and the material to be welded is clamped between
+them. Pressure is applied to hold the electrodes tightly
+together and electrical current flows through the electrodes
+and the material. The resistance of the material being welded
+is so much higher than that of the copper electrodes that
+enough heat is generated to melt the metal. The pressure on
+the electrodes forces the molten spots in the two pieces of
+metal to unite, and this pressure is held after the current stops
+flowing long enough for the metal to solidify. The amount of
+current, pressure, and dwell time are all carefully controlled
+and matched to the type of material and the thickness to
+produce the correct spot welds. [Figure 5-10]
+
+Seam Welding
+Rather than having to release the electrodes and move the
+material to form a series of spot welds, a seam-welding machine
+is used to manufacture fuel tanks and other components where
+a continuous weld is needed. Two copper wheels replace
+the bar-shaped electrodes. The metal to be welded is moved
+between them, and electric pulses create spots of molten metal
+that overlap to form the continuous seam.
+Plasma Arc Welding (PAW)
+Plasma arc welding (PAW) was developed in 1964 as a
+method of bringing better control to the arc welding process.
+PAW provides an advanced level of control and accuracy
+using automated equipment to produce high quality welds
+5-4
+
+===== PDF PAGE 281 =====
+Electrode holder
+
+Regulator with flowmeter
+
+Filler metal held manually if used
+Tungsten electrode
+Electrical conductor
+Insulating sheath
+Gas passages
+Power source
+
+Work
+
+Gas supply
+
+Shielding gas
+
+Figure 5-8. Typical setup for TIG welding.
+
+Figure 5-9. TIG welder–gas tungsten arc welder (GTAW).
+
+Figure 5-10. Spot welding thin sheet metal.
+
+in miniature and precision applications. Furthermore, PAW
+is equally suited to manual operation and can be performed
+by a person using skills similar to those for GTAW.
+
+Plasma gas is normally argon. The torch also uses a secondary
+gas, such as argon/helium or argon/nitrogen, that assists in
+shielding the molten weld puddle and minimizing oxidation
+of the weld.
+
+In the plasma welding torch, a nonconsumable tungsten
+electrode is located within a fine-bore copper nozzle. A
+pilot arc is initiated between the torch electrode and nozzle
+tip. This arc is then transferred to the metal being welded.
+[Figure 5-11]
+By forcing the plasma gas and arc through a constricted
+orifice, the torch delivers a high concentration of heat to a
+small area. The plasma process produces exceptionally high
+quality welds. [Figure 5-12]
+
+Like GTAW, the PAW process can be used to weld most
+commercial metals, and it can be used for a wide variety
+of metal thicknesses. On thin material, from foil to 1⁄8-inch,
+the process is desirable because of the low heat input. The
+process provides relatively constant heat input because arc
+length variations are not very critical. On material thicknesses
+greater than 1⁄8-inch and using automated equipment, a
+keyhole technique is often used to produce full penetration
+single-path welds. In the keyhole technique, the plasma
+5-5
+
+===== PDF PAGE 282 =====
+−
+
+Tungsten electrode
+
+Arc core
+
+Outer cool sheath
+
+Inner hot sheath
+
++
+Figure 5-11. The plasma welding process.
+
+Figure 5-12. Plasma arc.
+
+completely penetrates the work piece. The molten weld metal
+flows to the rear of the keyhole and solidifies as the torch
+moves on. The high quality welds produced are characterized
+by deep, narrow penetration and a small weld face.
+
+through, gouge, or pierce any electrically conductive metal
+without preheating. The plasma cutter produces a precise
+kerf (cut) width and a small heat-affected zone (HAZ) that
+prevents warping and damage.
+
+When PAW is performed manually, the process requires a
+high degree of welding skills similar to that required for
+GTAW. However, the equipment is more complex and
+requires a high degree of knowledge to set up and use. The
+equipment required for PAW includes a welding machine, a
+special plasma arc control system, the plasma welding torch
+(water-cooled), the source of plasma and shielding gas, and
+filler material, when required. Because of the cost associated
+with this equipment, this process is very limited outside of
+manufacturing facilities.
+
+Gas Welding & Cutting Equipment
+
+Plasma Arc Cutting
+When a plasma cutting torch is used, the gas is usually
+compressed air. The plasma cutting machine works by
+constricting an electrical arc in a nozzle and forcing the
+ionized gas through it. This heats the gas that melts the metal
+which is blown away by the air pressure. By increasing air
+pressure and intensifying the arc with higher voltages, the
+cutter is capable of blasting through thicker metals and
+blowing away the dross with minimal cleanup.
+Plasma arc systems can cut all electrically conductive metals,
+including aluminum and stainless steel. These two metals
+cannot be cut by oxy-fuel cutting systems because they have
+an oxide layer that prevents oxidation from occurring. Plasma
+cutting works well on thin metals and can successfully cut
+brass and copper in excess of two inches thick.
+
+Welding Gases
+
+Acetylene
+
+This is the primary fuel for oxy-fuel welding and cutting. It
+is chemically very unstable, and is stored in special cylinders
+designed to keep the gas dissolved. The cylinders are packed
+with a porous material and then saturated with acetone. When
+the acetylene is added to the cylinder, it dissolves; in this
+solution, it becomes stable. Pure acetylene stored in a free
+state explodes from a slight shock at 29.4 pounds per square
+inch (psi). The acetylene pressure gauge should never be set
+higher than 15 psi for welding or cutting.
+
+Argon
+Argon is a colorless, odorless, tasteless, and non-toxic inert
+gas. Inert gas cannot combine with other elements. It has a
+very low chemical reactivity and low thermal conductivity.
+It is used as a gas shield for the electrode in MIG, TIG, and
+plasma welding equipment.
+
+Helium
+Helium is a colorless, odorless, tasteless, and non-toxic
+inert gas. Its boiling and melting points are the lowest of the
+elements and it normally exists only in gas form. It is used
+as a protective gas shield for many industrial uses including
+electric arc welding.
+
+Plasma cutting machines can rapidly and precisely cut
+
+5-6
+
+===== PDF PAGE 283 =====
+Pressure Regulators
+A pressure regulator is attached to a gas cylinder and is used
+to lower the cylinder pressure to the desired working pressure.
+Regulators have two gauges, one indicating the pressure in
+the cylinder and the second showing the working pressure.
+By turning the adjustment knob in or out, a spring operating
+a flexible diaphragm opens or closes a valve in the regulator.
+Turning the knob in causes the flow and pressure to increase;
+backing it out decreases the flow and pressure.
+
+Figure 5-13. Single-stage acetylene regulator. Note the maximum
+
+15-psi working pressure. The notched groove cylinder connection
+nut indicates a left-hand thread.
+
+There are two types of regulators: single stage and two stage.
+They perform the same function but the two-stage regulator
+maintains a more constant outlet pressure and flow as the
+cylinder volume and pressure drops. Two-stage regulators
+can be identified by a larger, second pressure chamber under
+the regulator knob. [Figures 5-13 and 5-14]
+Welding Hose
+A welding hose connects the regulators to the torch. It is
+typically a double hose joined together during manufacture.
+The acetylene hose is red and has left hand threads indicated
+by a groove cut into the connection nut. The oxygen hose is
+green and has right hand threads indicated by the absence of
+a groove on the connection nut.
+Welding hoses are produced in different sizes from ¼-inch to
+½-inch inside diameter (ID). The hose should be marked for
+light, standard, and heavy duty service plus a grade indicating
+whether it has an oil- and/or flame-resistant cover. The hose
+should have the date of manufacture, maximum working
+pressure of 200 psi, and indicate that it meets specification
+IP-90 of the Rubber Manufacturers Association and the
+Compressed Gas Association for rubber welding hoses.
+Grade-R hose should only be used with acetylene gas. A
+T-grade hose must be used with propane, MAPP®, and all
+other fuel gases.
+
+Figure 5-14. Two-stage oxygen regulator. No groove on the
+
+cylinder connection nut indicates a right-hand thread.
+
+Hydrogen
+Hydrogen is a colorless, odorless, tasteless, and highly
+flammable gas. It can be used at a higher pressure than
+acetylene and is used for underwater welding and cutting.
+It also can be used for aluminum welding using the oxyhydrogen process.
+
+Oxygen
+Oxygen is a colorless, odorless, and nonflammable gas. It is
+used in the welding process to increase the combustion rate
+which increases the flame temperature of flammable gas.
+
+Check Valves & Flashback Arrestors
+The check valve stops the reverse flow of the gas and can be
+installed either between the regulator and the hose or the hose
+and the torch. [Figure 5-15] Excessive overheating of cutting,
+welding, and heating tips can cause flashback conditions. A
+flashback can be caused when a tip is overheated and the
+gas ignites before passing out of the tip. The flame is then
+burning internally rather than on the outside of the tip and
+is usually identified by a shrill hissing or squealing noise.
+A flashback arrestor installed on each hose prevents a high
+pressure flame or oxygen-fuel mixture from being pushed
+back into either cylinder causing an explosion. The flashback
+arrestors incorporate a check valve that stops the reverse flow
+of gas and the advancement of a flashback fire. [Figure 5-16]
+
+5-7
+
+===== PDF PAGE 284 =====
+Cutting Torch
+The cutting torch is an attachment added to the torch handle
+that allows the cutting of metal. The cutting process is
+fundamentally the rapid burning or oxidizing of the metal
+in a localized area. The metal is heated to a bright red color
+(1,400 °F to 1,600 °F), which is the kindling temperature,
+using only the preheat jets. Then, a jet of high-pressure
+oxygen released by the lever on the cutting attachment is
+directed against the heated metal. This oxygen blast combines
+with the hot metal and forms an intensely hot oxide. The
+molten oxide is blown down the sides of the cut, heating the
+metal in its path to the kindling temperature as the torch is
+moved along the line of the desired cut. The heated metal
+also burns to an oxide that is blown away on the underside
+of the piece. [Figure 5-17]
+Figure 5-15. Check valves.
+
+Figure 5-16. Flashback arrestors.
+
+Torches
+
+Equal Pressure Torch
+The equal pressure torch is the most commonly used torch
+for oxy-acetylene welding. It has a mixing chamber and uses
+acetylene fuel at 1–15 psi. The flame is easy to adjust and
+there is less chance of flashback with this torch. There are
+several small lightweight torches of this type that are ideal
+for aviation welding projects. The Smith Airline™ and the
+Meco Midget™ torches are small enough to be used in close
+confined areas, lightweight enough to reduce fatigue during
+long welding sessions yet, with the appropriate tips, are
+capable of welding 0.250-inch steel.
+
+Injector Torch
+The injector torch uses fuel gas at pressures between just
+above 0 and 2 psi. This torch is typically used with propane
+and propylene gas. High-pressure oxygen comes through
+a small nozzle inside the torch head and pulls the fuel gas
+along with it via a venturi effect. The low-pressure injector
+torch is more prone to flashback.
+
+Torch Tips
+The torch tip delivers and controls the final flow of gases.
+It is important that you use the correct tip with the proper
+gas pressures for the work to be welded satisfactorily. The
+size of the tip opening—not the temperature—determines
+the amount of heat applied to the work. If an excessively
+small tip is used, the heat provided is insufficient to produce
+penetration to the proper depth. If the tip is too large, the heat
+is too great, and holes are burned in the metal.
+Torch tip sizes are designated by numbers. The manufacturer
+can provide a chart with recommended sizes for welding
+specific thicknesses of metal. With use, a torch tip becomes
+clogged with carbon deposits. If it is allowed to contact the
+molten pool, particles of slag may clog the tip. This may
+cause a backfire, which is a momentary backward flow of
+the gases at the torch tip. A backfire is rarely dangerous, but
+molten metal may be splattered when the flame pops. Tips
+should be cleaned with the proper size tip cleaner to avoid
+enlarging the tip opening.
+Welding Eyewear
+Protective eyewear for use with oxy-fuel welding outfits is
+available in several styles and must be worn to protect the
+welder’s eyes from the bright flame and flying sparks. This
+eyewear is not for use with arc welding equipment.
+Some of the styles available have individual lenses and
+include goggles that employ a head piece and/or an elastic
+head strap to keep them snug around the eyes for protection
+from the occasional showering spark. [Figure 5-18] Another
+popular style is the rectangular eye shield that takes a standard
+2-inch by 4.25-inch lens. This style is available with an
+elastic strap but is far more comfortable and better fitting
+when attached to a proper fitting adjustable headgear. It can
+be worn over prescription glasses, provides protection from
+flying sparks, and accepts a variety of standard shade and
+5-8
+
+===== PDF PAGE 285 =====
+Figure 5-19. Gas welding eye shield attached to adjustable
+
+headgear.
+
+Figure 5-17. Torch handle with cutting, heating, and welding tips.
+
+Figure 5-20. Torch lighter.
+Figure 5-18. Welding goggles.
+
+color lenses. A clear safety glass lens is added in front of the
+shaded lens to protect it from damage. [Figure 5-19]
+It was standard practice in the past to select a lens shade for
+gas welding based on the brightness of flame emitting from
+the torch. The darkest shade of lens showing a clear definition
+of the work was normally the most desirable. However, when
+flux was used for brazing and welding, the torch heat caused
+the sodium in the flux to give off a brilliant yellow-orange
+flare, hiding a clear view of the weld area and causing many
+eye problems.
+Various types of lens and colors were tried for periods of time
+without much success. It was not until the late 1980s that
+TM Technologies developed and patented a new green glass
+designed especially for aluminum oxy-fuel welding. It not
+only eliminated the sodium orange flare completely, but also
+provided the necessary protection from ultraviolet, infrared,
+and blue light, and impact to meet the requirements of the
+American National Standards Institute (ANSI) Z87-1989
+Safety Standards for a special purpose lens. This lens can be
+used for welding and brazing all metals using an oxy-fuel torch.
+
+Torch Lighters
+Torch lighters are called friction lighters or flint strikers. The
+lighter consists of a file-shaped piece of steel, usually recessed
+in a cuplike device, and a replaceable flint, which when drawn
+across the steel produces a shower of sparks to light the fuel
+
+gas. An open flame or match should never be used to light a
+torch, because accumulated gas may envelop the hand and
+when ignited cause a severe burn. [Figure 5-20]
+
+Filler Rod
+The use of the proper type of filler rod is very important
+for oxy-acetylene welding. This material adds not only
+reinforcement to the weld area, but also desired properties to
+the finished weld. By selecting the proper rod, tensile strength
+or ductility can be secured in a weld. Similarly, the proper rod
+can help retain the desired amount of corrosion resistance. In
+some cases, a suitable rod with a lower melting point helps
+to avoid cracks caused by expansion and contraction.
+Welding rods may be classified as ferrous or nonferrous.
+Ferrous rods include carbon and alloy steel rods, as well as
+cast-iron rods. Nonferrous rods include brass, aluminum,
+magnesium, copper, silver, and their various alloys.
+Welding rods are manufactured in standard 36-inch lengths
+and in diameters from 1⁄16-inch to 3⁄8-inch. The diameter of the
+rod to be used is governed by the thickness of the metals to
+be joined. If the rod is too small, it cannot conduct heat away
+from the puddle rapidly enough, and a burned hole results.
+A rod too large in diameter draws heat away and chills the
+puddle, resulting in poor penetration of the joined metal. All
+filler rods should be cleaned prior to use.
+
+5-9
+
+===== PDF PAGE 286 =====
+Equipment Setup
+Setting up acetylene welding equipment in preparation for
+welding should be accomplished in a systematic and definite
+order to avoid costly damage to equipment and compromising
+the safety of personnel.
+
+Gas Cylinders
+All cylinders should be stored and transported in the upright
+position, especially acetylene cylinders, because they contain
+an absorbent material saturated with liquid acetone. If the
+cylinder were laid on its side, allowing the acetone to enter
+and contaminate the regulator, hose, and torch, fuel starvation
+and a resultant flashback in the system could result. If an
+acetylene cylinder must be placed on its side for a period of
+time, it must be stored in the upright position for at least twice
+as long before being used. Gas cylinders should be secured,
+usually with a chain, in a permanent location or in a suitable
+mobile cart. The cylinder’s protective steel cap should not
+be removed until the cylinder is put into service.
+
+Regulators
+Prior to installing the regulator on a gas cylinder, open the
+cylinder shutoff valve for an instant to blow out any foreign
+material that may be lodged in the outlet. Close the valve and
+wipe off the connection with a clean oil-free cloth. Connect
+the acetylene pressure regulator to the acetylene cylinder
+and tighten the left-hand nut. Connect the oxygen pressure
+regulator to the oxygen cylinder and tighten the right-hand
+nut. The connection fittings are brass and do not require a lot
+of torque to prevent them from leaking. At this time, check
+to ensure the adjusting screw on each pressure regulator is
+backed out by turning counterclockwise until it turns freely.
+
+Hoses
+Connect the red hose with the left-hand threads to the
+acetylene pressure regulator and the green hose with the
+right-hand threads to the oxygen pressure regulator. This
+is the location, between the regulator and hose, in which
+flashback arrestors should be installed. Again, because the
+fittings are brass and easily damaged, tighten only enough
+to prevent leakage.
+Stand off to the side away from the face of the gauges. Now,
+very slowly open the oxygen cylinder valve and read the
+cylinder gauge to check the contents in the tank. The oxygen
+cylinder shutoff valve has a double seat valve and should be
+opened fully against its stop to seat the valve and prevent a
+leak. The acetylene cylinder shutoff valve should be slowly
+opened just enough to get the cylinder pressure reading on
+the regulator and then one half of a turn more. This allows a
+quick shutoff, if needed.
+Note: As a recommended safety practice, the cylinders should
+
+not be depleted in content below 20 psi. This prevents the
+possible reverse flow of gas from the opposite tank.
+Both hoses should be blown out before attaching to the torch.
+This is accomplished for each cylinder by turning the pressure
+adjusting screw in (clockwise) until the gas escapes, and then
+quickly backing the screw out (counterclockwise) to shut
+off the flow. This should be done in a well ventilated open
+space, free from sparks, flames, or other sources of ignition.
+
+Connecting Torch
+Connect the red hose with the left-hand thread connector
+nut to the left-hand thread fitting on the torch. Connect the
+green hose with the right-hand thread connector nut to the
+right-hand thread fitting on the torch. Close the valves on the
+torch handle and check all connections for leaks as follows:
+•
+
+Turn in the adjusting screw on the oxygen pressure
+regulator until the working pressure indicates 10 psi.
+Turn in the adjusting screw on the acetylene pressure
+regulator until the working pressure indicates 5 psi.
+
+•
+
+Back out both adjusting screws on the regulators and
+verify that the working pressure remains steady. If it
+drops and pressure is lost, a leak is indicated between
+the regulator and the torch.
+
+•
+
+A general tightening of all connections should fix the
+leak. Repeat a check of the system.
+
+•
+
+If a leak is still indicated by a loss in working pressure,
+a mixture of soapy water on all the connections reveals
+the source of the leak. Never check for a leak with a
+flame because a serious explosion could occur.
+
+Select the Tip Size
+Welding and cutting tips are available in a variety of sizes
+for almost any job, and are identified by number. The higher
+the number, the bigger the hole in the tip, allowing more heat
+to be directed onto the metal and allowing thicker metal to
+be welded or cut.
+Welding tips have one hole and cutting tips have a number
+of holes. The cutting tip has one large hole in the center for
+the cutting oxygen and a number of smaller holes around
+it that supply fuel, gas, and oxygen for the preheating
+flame. The selection of the tip size is very important, not
+only for the quality of the weld and/or the efficiency of the
+cutting process, but for the overall operation of the welding
+equipment and safety of the personnel using it.
+Starvation occurs if torch tips are operated at less than
+the required volume of gas, leading to tip overheating
+and possible flashbacks. Incorrect tip size and obstructed
+tip orifices can also cause overheating and/or flashback
+conditions.
+5-10
+
+===== PDF PAGE 287 =====
+Welding Tip Size Conversion Chart
+Wire
+Drill
+
+Decimal
+Inch
+
+Metric Equiv.
+(mm)
+
+97
+85
+80
+76
+75
+74
+73
+72
+71
+70
+69
+67
+66
+65
+63
+60
+59
+58
+57
+56
+55
+54
+53
+52
+51
+49
+48
+
+0.0059
+0.0110
+0.0135
+0.0200
+0.0220
+0.0225
+0.0240
+0.0250
+0.0260
+0.0280
+0.0292
+0.0320
+0.0340
+0.0350
+0.0370
+0.0400
+0.0410
+0.0420
+0.0430
+0.0465
+0.0520
+0.0550
+0.0595
+0.0635
+0.0670
+0.0730
+0.0760
+
+0.150
+0.279
+0.343
+0.508
+0.559
+0.572
+0.610
+0.635
+0.660
+0.711
+0.742
+0.813
+0.864
+0.889
+0.940
+1.016
+1.041
+1.067
+1.092
+1.181
+1.321
+1.397
+1.511
+1.613
+1.702
+1.854
+1.930
+
+47
+
+0.0780
+
+1.981
+
+45
+
+0.0820
+
+2.083
+
+44
+
+0.0860
+
+2.184
+
+43
+
+0.0890
+
+2.261
+
+42
+
+0.0930
+
+2.362
+
+40
+
+0.0980
+
+2.489
+
+36
+
+0.1060
+
+2.692
+
+35
+
+0.1100
+
+2.794
+
+Smiths™
+AW1A
+
+Henrob/
+Dillion
+
+Harris
+15
+
+Victor J
+Series
+
+Aluminum
+Thickness (in)
+
+Steel
+Thickness (in)
+
+Foil
+
+Foil
+
+#00
+#0
+
+#00
+AW200
+#0
+
+Meco N
+Midget™
+
+#0
+
+.015
+
+#000
+.025
+
+AW20
+0.5
+0.5
+1
+
+AW201
+
+#00
+AW202
+AW203
+
+1
+
+.032
+
+1.5
+
+.040
+
+2
+
+.050
+
+1
+2
+
+#0
+
+.046
+
+2.5
+
+AW204
+1
+1.5
+3
+
+3
+
+AW205
+AW206
+
+2
+2
+
+4
+
+.062
+.063
+
+4
+
+.093
+4.5
+
+AW207
+5
+
+.125
+
+3
+5
+
+AW208
+
+.100
+
+6
+AW209
+
+.187
+
+2.5
+
+4
+
+5.5
+
+7
+
+.188
+
+.250
+
+6
+8
+
+.312
+
+AW210
+
+6.5
+9
+
+5
+
+7
+
+.25
+.375
+
+3
+10
+6
+13
+
+Figure 5-21. Chart of recommended tip sizes for welding various thicknesses of metal.
+
+All fuel cylinders have a limited capacity to deliver gas to
+the tip. That capacity is further limited by the gas contents
+remaining in the cylinder and the temperature of the cylinder.
+The following provides some recommended procedures to
+guard against overheating and flashbacks:
+•
+
+Refer to the manufacturer’s recommendations for tip
+size based on the metal’s thickness.
+
+•
+
+Use the recommended gas pressure settings for the tip
+size being used.
+
+•
+
+Provide the correct volume of gas as recommended
+for each tip size.
+
+•
+
+Do not use an excessively long hose, one with multiple
+splices, or one that may be too small in diameter and
+restrict the flow of gas.
+
+Note: Acetylene is limited to a maximum continuous
+withdrawal rate of one-seventh of the cylinder’s rated
+capacity when full. For example, an acetylene cylinder that
+has a capacity of 330 cubic feet has a maximum withdrawal
+of 47 cubic feet per hour. This is determined by dividing 330
+5-11
+
+===== PDF PAGE 288 =====
+(cylinder capacity) by 7 (one-seventh of the cylinder capacity).
+As a safety precaution, it is recommended that flashback
+arrestors be installed between the regulators and the gas
+supply hoses of all welding outfits. Figure 5-21 shows
+recommended tip sizes of different manufacturers, for
+welding various thickness of metals.
+
+A. Neutral flame
+
+Adjusting the Regulator Working Pressure
+The working pressure should be set according to the
+manufacturer’s recommendation for the tip size that is being
+used to weld or cut. This is a recommended method that works
+for most welding and cutting operations.
+In a well ventilated area, open the acetylene valve on the
+torch and turn the adjusting screw on the acetylene pressure
+regulator clockwise until the desired pressure is set. Close the
+acetylene valve on the torch. Then, set the oxygen pressure in
+the same manner by opening the oxygen valve on the torch
+and turning the adjusting screw clockwise on the oxygen
+regulator until desired pressure is set. Then, close the oxygen
+valve on the torch handle. With the working pressures set,
+the welding or cutting operation can be initiated.
+Lighting & Adjusting the Torch
+With the proper working pressures set for the acetylene and
+oxygen, open the torch acetylene valve a quarter to a half
+turn. Direct the torch away from the body and ignite the
+acetylene gas with the flint striker. Open the acetylene valve
+until the black sooty smoke disappears from the flame. The
+pure acetylene flame is long, bushy, and has a yellowish color.
+Open the torch oxygen valve slowly and the flame shortens
+and turns to a bluish-white color that forms a bright inner
+luminous cone surrounded by an outer flame envelope. This
+is a neutral flame that should be set before either a carburizing
+or oxidizing flame mixture is set.
+Different Flames
+The three types of flame commonly used for welding are
+neutral, carburizing, and oxidizing. Each serves a specific
+purpose. [Figure 5-22]
+
+Neutral Flame
+The neutral flame burns at approximately 5,850 °F at the tip
+of the inner luminous cone and is produced by a balanced
+mixture of acetylene and oxygen supplied by the torch. The
+neutral flame is used for most welding because it does not
+alter the composition of the base metal. When using this
+flame on steel, the molten metal puddle is quiet and clear,
+and the metal flows to give a thoroughly fused weld without
+burning or sparking.
+
+Carburizing Flame
+
+B. Carburizing (reducing) flame
+
+C. Oxidizing flame
+Figure 5-22. Oxy-acetylene flames.
+
+the tip of the inner core. It is also referred to as a reducing
+flame because it tends to reduce the amount of oxygen in the
+iron oxides. The flame burns with a coarse rushing sound,
+and has a bluish-white inner cone, a white center cone, and
+a light blue outer cone.
+The flame is produced by burning more acetylene than
+oxygen, and can be recognized by the greenish feathery tip at
+the end of the cone. The longer the feather, the more acetylene
+is in the mix. For most welding operations, the length of the
+feather should be about twice the length of the inner cone.
+The carburizing flame is best used for welding high-carbon
+steels, for hard facing, and for welding such nonferrous alloys
+as aluminum, nickel, and Monel.
+
+Oxidizing Flame
+The oxidizing flame burns at approximately 6,300 °F and
+is produced by burning an excess of oxygen. It takes about
+two parts of oxygen to one part acetylene to produce this
+flame. It can be identified by the shorter outer flame and the
+small, white, inner cone. To obtain this flame, start with a
+neutral flame and then open the oxygen valve until the inner
+cone is about one-tenth of its original length. The oxidizing
+flame makes a hissing sound, and the inner cone is somewhat
+pointed and purplish in color at the tip.
+The oxidizing flame does have some specific uses. A slightly
+oxidizing flame is used for bronze welding (brazing) of steel
+and cast iron. A stronger oxidizing flame is used for fusion
+welding of brass and bronze. If an oxidizing flame is used
+on steel, it causes the molten metal to foam, give off sparks,
+and burn.
+
+The carburizing flame burns at approximately 5,700 °F at
+5-12
+
+===== PDF PAGE 289 =====
+Soft or Harsh Flames
+With each size of tip, a neutral, carburizing, or oxidizing
+flame can be obtained. It is also possible to obtain a soft or
+harsh flame by decreasing or increasing the working pressure
+of both gases (observing the maximum working pressure of
+15 psi for acetylene gas).
+For some work, it may be desirable to have a soft or low
+velocity flame without a reduction of thermal output. This
+can be achieved by reducing the working pressure using a
+larger tip and closing the torch valves until the neutral flame is
+quiet and steady. It is especially desirable to use a soft flame
+when welding aluminum to avoid blowing holes in the metal
+when the puddle is formed.
+
+Handling of the Torch
+It should be cautioned that improper adjustment or handling
+of the torch may cause the flame to backfire or, in rare
+cases, to flashback. A backfire is a momentary backward
+flow of gases at the torch tip that causes the flame to go out.
+A backfire may be caused by touching the tip against the
+work, overheating the tip, by operating the torch at other than
+recommended pressures, by a loose tip or head, or by dirt or
+slag in the end of the tip, and may cause molten metal to be
+splattered when the flame pops.
+A flashback is dangerous because it is the burning of gases
+within the torch. It is usually caused by loose connections,
+improper pressures, or overheating of the torch. A shrill
+hissing or squealing noise accompanies a flashback, and
+unless the gases are turned off immediately, the flame may
+burn back through the hose and regulators causing great
+damage and personal injury. The cause of the flashback
+should always be determined and the problem corrected
+before relighting the torch. All gas welding outfits should
+have a flashback arrestor.
+
+Oxy-acetylene Cutting
+Cutting ferrous metals by the oxy-acetylene process is
+primarily the rapid burning or oxidizing of the metal in a
+localized area. This is a quick and inexpensive way to cut
+iron and steel where a finished edge is not required.
+Figure 5-23 shows an example of a cutting torch. It has
+the conventional oxygen and acetylene valves in the torch
+handle that control the flow of the two gases to the cutting
+head. It also has an oxygen valve below the oxygen lever on
+the cutting head so that a finer adjustment of the flame can
+be obtained.
+The size of the cutting tip is determined by the thickness of
+the metal to be cut. Set the regulators to the recommended
+working pressures for the cutting torch based on the tip size
+
+Figure 5-23. Cutting torch with additional tools.
+
+selected. Before beginning any cutting operation, the area
+should be clear of all combustible material and the proper
+protective equipment should be worn by personnel engaged
+in the cutting operation.
+The flame for the torch in Figure 5-23 is set by first closing
+the oxygen valve below the cutting lever and fully opening the
+oxygen valve on the handle. (This supplies the high-pressure
+oxygen blast when the cutting lever is actuated.) The acetylene
+valve on the handle is then opened and the torch is lit with a
+striker. The acetylene flame is increased until the black soot
+is gone. Then, open the oxygen valve below the cutting lever
+and adjust the flame to neutral. If more heat is needed, open the
+valves to add more acetylene and oxygen. Actuate the cutting
+lever and readjust the preheat flame to neutral if necessary.
+The metal is heated to a bright red color (1,400 °F–1,600 °F,
+which is the kindling or ignition temperature) by the preheat
+orifices in the tip of the cutting torch. Then, a jet of highpressure oxygen is directed against it by pressing the oxygen
+lever on the torch. This oxygen blast combines with the
+red-hot metal and forms an intensely hot molten oxide that
+is blown down the sides of the cut. As the torch is moved
+along the intended cut line, this action continues heating
+the metal in its path to the kindling temperature. The metal,
+thus heated, also burns to an oxide that is blown away to the
+underside of the piece.
+Proper instruction and practice provides the knowledge and
+skill to become proficient in the technique needed to cut
+with a torch. Hold the torch in either hand, whichever is
+most comfortable. Use the thumb of that hand to operate the
+oxygen cutting lever. Use the other hand to rest the torch on
+and steady it along the cut line.
+Begin at the edge of the metal and hold the tip perpendicular
+to the surface, preheating until the spot turns bright red.
+Lightly depress the cutting lever to allow a shower of sparks
+and molten metal to blow through the cut. Fully depress the
+cutting lever and move the torch slowly in the direction of
+the intended cut.
+Practice and experience allow the technician to learn how to
+5-13
+
+===== PDF PAGE 290 =====
+judge the speed at which to move the torch. It should be just
+fast enough to allow the cut to penetrate completely without
+excessive melting around the cut. If the torch is moved too fast,
+the metal will not be preheated enough, and the cutting action
+stops. If this happens, release the cutting lever, preheat the
+cut to bright red, depress the lever, and continue with the cut.
+Shutting Down the Gas Welding Equipment
+Shutting down the welding equipment is fairly simple when
+some basic steps are followed:
+•
+
+Turn off the flame by closing the acetylene valve on
+the torch first. This shuts the flame off quickly. Then,
+close the oxygen valve on the torch handle. Also, close
+oxygen valve on cutting torch, if applicable.
+
+•
+
+If the equipment is not used in the immediate future
+(approximately the next 30 minutes), the valves on
+the acetylene and oxygen cylinders should be closed
+and pressure relieved from the hoses.
+
+•
+
+In a well-ventilated area, open the acetylene valve on
+the torch and allow the gas to escape to the outside
+atmosphere, and then close the valve.
+
+•
+
+Open the oxygen valve on the torch, allow the gas to
+escape, and then close the valve.
+
+•
+
+Close both the acetylene and oxygen regulators by
+backing out the adjusting screw counterclockwise
+until loose.
+
+•
+
+Carefully coil the hose to prevent kinking and store it
+to prevent damage to the torch and tip.
+
+Figure 5-24. Hand position for light-gauge materials.
+
+Gas Welding Procedures & Techniques
+The material to be welded, the thickness of the metal, the type
+of joint, and the position of the weld dictates the procedure
+and technique to be used.
+When light-gauge metal is welded, the torch is usually held
+with the hose draped over the wrist. [Figure 5-24] To weld
+heavy materials, the more common grip may provide better
+control of the torch. [Figure 5-25]
+The torch should be held in the most comfortable position that
+allows the tip to be in line with the joint to be welded, and
+inclined between 30° and 60° from the perpendicular. This
+position preheats the edges just ahead of the molten puddle.
+The best angle depends on the type of weld, the amount of
+preheating required, and the thickness and type of metal.
+The thicker the metal, the more vertical the torch must be for
+proper heat penetration. The white cone of the flame should
+be held about 1⁄8-inch from the surface of the metal.
+Welding can be performed by pointing the torch flame in the
+direction that the weld is progressing. This is referred to as
+
+Figure 5-25. Hand position for heavy-gauge materials.
+
+5-14
+
+===== PDF PAGE 291 =====
+forehand welding, and is the most commonly used method
+for lighter tubing and sheet metal. The filler rod is kept ahead
+of the tip in the direction the weld is going and is added to
+the puddle.
+For welding thick metals or heavy plate, a technique called
+backhand welding can be used. In this method, the torch
+flame is pointed back toward the finished weld and the filler
+rod is added between the flame and the weld. This method
+provides a greater concentration of heat for welding thicker
+metals and would rarely be used in aircraft maintenance.
+Puddle
+If the torch is held in the correct position, a small puddle
+of molten metal forms. The puddle should be centered in
+the joint and composed of equal parts of those pieces being
+welded. After the puddle appears, the tip should be moved
+in a semicircular arc or circular motion equally between the
+pieces to ensure an even distribution of heat.
+Adding Filler Rod to the Puddle
+As the metal melts and the puddle forms, filler rod is needed
+to replace the metal that flows out from around the joint.
+The rod is added to the puddle in the amount that provides
+for the completed fillet to be built up about one-fourth the
+thickness of the base metal. The filler rod selected should be
+compatible with the base metal being welded.
+Correct Forming of a Weld
+The form of the weld metal has considerable bearing upon
+the strength and fatigue resistance of a joint. The strength
+of an improperly made weld is usually less than the strength
+for which the joint was designed. Low-strength welds are
+generally the result of insufficient penetration; undercutting
+of the base metal at the toe of the weld; poor fusion of the
+weld metal with the base metal; trapped oxides, slag, or gas
+pockets in the weld; overlap of the weld metal on the base
+metal; too much or too little reinforcement; or overheating
+of the weld.
+Characteristics of a Good Weld
+A completed weld should have the following characteristics:
+1.
+
+The seam should be smooth, the bead ripples evenly
+spaced, and of a uniform thickness.
+
+2.
+
+The weld should be built up, slightly convex, thus
+providing extra thickness at the joint.
+
+3.
+
+The weld should taper off smoothly into the
+base metal.
+
+4.
+
+No oxide should be formed on the base metal close to
+the weld.
+
+5.
+
+The weld should show no signs of blowholes, porosity,
+
+or projecting globules.
+6.
+
+The base metal should show no signs of burns, pits,
+cracks, or distortion.
+
+Although a clean, smooth weld is desirable, this characteristic
+does not necessarily mean that the weld is a good one; it may
+be dangerously weak inside. However, when a weld is rough,
+uneven, and pitted, it is almost always unsatisfactory inside.
+Welds should never be filed to give them a better appearance,
+since filing deprives the weld of part of its strength. Welds
+should never be filled with solder, brazing material, or filler
+of any sort.
+When it is necessary to reweld a joint, all old weld material
+must be removed before the operation is begun. It must be
+remembered that reheating the area may cause the base metal
+to lose some of its strength and become brittle. This should
+not be confused with a post-weld heat treatment that does not
+raise the metal to a high enough temperature to cause harm
+to the base material.
+
+Oxy-Acetylene Welding of Ferrous Metals
+Steel (Including SAE 4130)
+Low-carbon steel, low-alloy steel (e.g., 4130), cast steel, and
+wrought iron are easily welded with the oxy-acetylene flame.
+Low-carbon and low-alloy steels are the ferrous materials
+that are gas welded most frequently. As the carbon content of
+steel increases, it may be repaired by welding using specific
+procedures for various alloy types. Factors involved are the
+carbon content and hardenability. For corrosion-resistant
+and heat-resistant nickel chromium steels, the allowed
+weldability depends upon their stability, carbon content, and
+reheat treatment.
+The Society of Automotive Engineers (SAE) and the
+American Iron and Steel Institute (AISI) provide a
+designation system that is an accepted standard for the
+industry. SAE 4130 is an alloy steel that is an ideal material
+for constructing fuselages and framework on small aircraft; it
+is also used for motorcycle and high-end bicycle frames and
+race car frames and roll cages. The tubing has high tensile
+strength, malleability, and is easy to weld.
+The number ‘4130’ is also an AISI 4-digit code that defines
+the approximate chemical composition of the steel. The
+‘41’ indicates a low-alloy steel containing chromium and
+molybdenum (chromoly) and the ‘30’ designates a carbon
+content of 0.3 percent. 4130 steel also contains small amounts
+of manganese, phosphorus, sulfur, and silicon, but like all
+steels, it contains mostly iron.
+In order to make a good weld, the carbon content of the
+
+5-15
+
+===== PDF PAGE 292 =====
+steel must not be altered to any appreciable degree, nor
+can other atmospheric chemical constituents be added to or
+subtracted from the base metal without seriously altering the
+properties of the metal. However, many welding filler wires
+do contain constituents different from the base material for
+specific reasons, which is perfectly normal and acceptable if
+approved materials are used. Molten steel has a great affinity
+for carbon, oxygen, and nitrogen combining with the molten
+puddle to form oxides and nitrates, both of which lower the
+strength of steel. When welding with an oxy-acetylene flame,
+the inclusion of impurities can be minimized by observing
+the following precautions:
+•
+
+Maintain an exact neutral flame for most steels and
+a slight excess of acetylene when welding alloys
+with a high nickel or chromium content, such as
+stainless steel.
+
+•
+
+Maintain a soft flame and control the puddle.
+
+•
+
+Maintain a flame sufficient to penetrate the metal and
+manipulate it so that the molten metal is protected from
+the air by the outer envelope of flame.
+
+•
+
+Keep the hot end of the welding rod in the weld pool
+or within the flame envelope.
+
+•
+
+When the weld is complete and still in the red heat,
+circle the outer envelope of the torch around the entire
+weldment to bring it evenly to a dull red. Slowly back
+the torch away from the weldment to ensure a slow
+cooling rate.
+
+Chrome Molybdenum
+The welding technique for chrome molybdenum (chromemoly) is practically the same as that for carbon steels, except
+for sections over 3⁄16-inch thick. The surrounding area must be
+preheated to a temperature between 300 °F and 400 °F before
+beginning to weld. If this is not done, the sudden quenching
+of the weld area after the weld is complete may cause a
+brittle grain structure of untempered martensite that must
+be eliminated with post-weld heat treatments. Untempered
+martensite is a glass-like structure that takes the place of the
+normally ductile steel structure and makes the steel prone to
+cracking, usually near the edge of the weld. This preheating
+also helps to alleviate some of the distortion caused by
+welding along with using proper practices found in other
+sections of this chapter.
+A soft neutral flame should be used for welding and must be
+maintained during the process. If the flame is not kept neutral,
+an oxidizing flame may cause oxide inclusions and fissures.
+A carburizing flame makes the metal more hardenable by
+raising the carbon content. The volume of the flame must
+be sufficient to melt the base metal, but not hot enough to
+overheat the base metal and cause oxide inclusions or a loss
+
+of metal thickness. The filler rod should be compatible with
+the base metal. If the weld requires high strength, special lowalloy filler is used, and the piece is heat treated after welding.
+It may be advantageous to TIG weld 4130 chrome-moly
+sections over 0.093-inch thickness followed by a proper
+post-weld heat treatment as this can result in less overall
+distortion. However, do not eliminate the post-weld heat
+treatment as doing so could severely limit the fatigue life of
+the weldment due to the formed martensitic grain structure.
+Stainless Steel
+The procedure for welding stainless steel is basically the
+same as that for carbon steels. There are, however, some
+special precautions you must take to obtain the best results.
+Only stainless steel used for nonstructural members of
+aircraft can be welded satisfactorily. The stainless steel used
+for structural components is cold worked or cold rolled and,
+if heated, loses some of its strength. Nonstructural stainless
+steel is obtained in sheet and tubing form and is often used for
+exhaust collectors, stacks, or manifolds. Oxygen combines
+very readily with this metal in the molten state, and you must
+take extreme care to prevent this from occurring.
+A slightly carburizing flame is recommended for welding
+stainless steel. The flame should be adjusted so that a feather
+of excess acetylene, about 1⁄16-inch long, forms around the
+inner cone. Too much acetylene, however, adds carbon to
+the metal and causes it to lose its resistance to corrosion.
+The torch tip size should be one or two sizes smaller than
+that prescribed for a similar gauge of low-carbon steel. The
+smaller tip lessens the chances of overheating and subsequent
+loss of the corrosion-resistant qualities of the metal.
+To prevent the formation of chromium oxide, a specially
+compounded flux for stainless steel, should be used. The flux,
+when mixed with water, can be spread on the underside of the
+joint and on the filler rod. Since oxidation must be avoided
+as much as possible, use sufficient flux. The filler rod used
+should be of the same composition as the base metal.
+When welding, hold the filler rod within the envelope of the
+torch flame so that the rod is melted in place or melted at the
+same time as the base metal. Add the filler rod by allowing
+it to flow into the molten pool. Do not stir the weld pool,
+because air enters the weld and increases oxidation. Avoid
+rewelding any portion or welding on the reverse side of the
+weld, which results in warping and overheating of the metal.
+Another method used to keep oxygen from reaching the
+metal is to surround the weld with a blanket of inert gas.
+This is done by using a TIG welder to perform welding of
+5-16
+
+===== PDF PAGE 293 =====
+stainless steel. It is a recommended method for excellent
+weld results and does not require the application of flux and
+its subsequent cleanup.
+
+Oxy-Acetylene Welding of Nonferrous Metals
+Nonferrous metals are those that contain no iron. Examples
+of nonferrous metals are lead, copper, silver, magnesium, and
+the most important in aircraft construction, aluminum. Some
+of these metals are lighter than the ferrous metals, but in
+most cases, they are not as strong. Aluminum manufacturers
+have compensated for the lack of strength of pure aluminum
+by alloying it with other metals or by cold working it. For
+still greater strength, some aluminum alloys are also heat
+treated.
+Aluminum Welding
+Gas welding of certain aluminum alloys can be accomplished
+successfully, but it requires some practice and the appropriate
+equipment to produce a successful weld. Before attempting
+to weld aluminum for the first time, become familiar with
+how the metal reacts under the welding flame.
+A good example for practice and to see how aluminum
+reacts to a welding flame, heat a piece of aluminum sheet
+on a welding bench. Hold a torch with a neutral flame
+perpendicular to the sheet and bring the tip of the inner
+cone almost in contact with the metal. Observe that the
+metal suddenly melts away, almost without any indication,
+and leaves a hole in the metal. Now repeat the operation,
+only this time hold the torch at an angle of about 30° to the
+surface. This allows for better control of the heat and allows
+the surface metal to melt without forming a hole. Practice
+by slowly moving the flame along the surface until the
+puddle can be controlled without melting holes. Once that is
+mastered, practice on flanged joints by tacking and welding
+without filler rod. Then, try welding a butt joint using flux
+and filler rod. Practice and experience provides the visual
+indication of the melting aluminum so that a satisfactory
+weld can be performed.
+Aluminum gas welding is usually confined to material
+between 0.031-inch and 0.125-inch in thickness. The
+weldable aluminum alloys used in aircraft construction are
+1100, 3003, 4043, and 5052. Alloy numbers 6053, 6061, and
+6151 can also be welded, but since these alloys are in the
+heat-treated condition, welding should not be done unless
+the parts can be reheat treated.
+Proper preparation prior to welding any metal is essential to
+produce a satisfactory weld. This preparation is especially
+critical during oxy-acetylene welding of aluminum. Select
+the proper torch tip for the thickness of metal being welded.
+Tip selection for aluminum is always one size larger than one
+
+would normally choose for the same thickness in a steel sheet.
+A rule of thumb: 3⁄4 metal thickness = tip orifice.
+Set the proper regulator pressure using the following method
+for oxy-acetylene welding of aluminum. This method has
+been used by all aircraft factories since World War II. Start
+by slowly opening the valve on the oxygen cylinder all the
+way until it stops to seat the upper packing. Now, barely
+crack open the acetylene cylinder valve until the needle on
+the gauge jumps up, then open one-quarter turn more. Check
+the regulators to ensure the adjusting screws are turned
+counterclockwise all the way out and loose. Now, open both
+torch valves wide open, about two full turns (varies with the
+torch model). Turn the acetylene regulator by adjusting the
+screw until the torch blows a light puff at a two-inch distance.
+Now, hold the torch away from the body and light it with the
+striker, adjusting the flame to a bright yellow bushy flame
+with the regulator screw. Add oxygen by slowly turning in
+the oxygen regulator screw to get a loud blue flame with a
+bright inner cone, perhaps a bit of the “fuel-rich” feather or
+carburizing secondary cone. By alternately turning in each of
+the torch valves a little bit, the flame setting can be lowered
+to what is needed to either tack or weld.
+Special safety eyewear must also be used to protect the
+welder and provide a clear view through the yellow-orange
+flare given off by the incandescing flux. Special purpose
+green-glass lens have been designed and patented especially
+for aluminum oxy-fuel welding by TM Technologies. These
+lenses cut the sodium orange flare completely and provide
+the necessary protection from ultraviolet, infrared, blue light,
+and impact. They meet safety standard ANSI Z87-1989 for
+a special-purpose lens.
+Apply flux either to the material, the filler, or both if needed.
+The aluminum welding flux is a white powder mixed one
+part powder to two parts clean spring or mineral water. (Do
+not use distilled water.) Mix a paste that can be brushed on
+the metal. Heating the filler or the part with the torch before
+applying the flux helps the flux dry quickly and not pop off
+when the torch heat approaches. Proper safety precautions,
+such as eye protection, adequate ventilation, and avoiding
+the fumes are recommended.
+The material to be welded must be free of oil or grease. It
+should be cleaned with a solvent; the best being denatured
+isopropyl (rubbing) alcohol. A stainless toothbrush should
+be used to scrub off the invisible aluminum oxide film just
+prior to welding but after cleaning with alcohol. Always
+clean the filler rod or filler wire prior to use with alcohol
+and a clean cloth.
+Make the best possible fit-up for joints to avoid large gaps
+5-17
+

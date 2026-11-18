@@ -1,0 +1,923 @@
+FAA-H-8083-31B Airframe Handbook, front matter, PDF pages 2-15
+
+===== PDF PAGE 2 =====
+Aviation Maintenance
+Technician Handbook—Airframe
+
+2023
+
+U.S. Department of Transportation
+Federal Aviation Administration
+Flight Standards Service
+
+===== PDF PAGE 3 =====
+Preface
+The Aviation Maintenance Technician Handbook—Airframe (FAA-H-8083-31B) is one of a series of three handbooks for
+persons preparing for certification as an airframe or powerplant mechanic. This handbook provides basic information on
+principles, fundamentals, and technical procedures in the subject matter areas relating to the airframe rating. It is designed
+to aid students enrolled in a formal course of instruction, as well as the individual who is studying on their own. Since
+the knowledge requirements for the airframe and powerplant ratings closely parallel each other in some subject areas, the
+chapters which discuss fire protection systems and electrical systems contain some material which is also duplicated in the
+Aviation Maintenance Technician Handbook—Powerplant (FAA-H-8083-32B).
+This handbook contains information on airframe construction features, assembly and rigging, fabric covering, structural
+repairs, and aircraft welding. The handbook also contains an explanation of the units that make up the various airframe
+systems. Because there are so many different types of aircraft in use today, it is reasonable to expect that differences exist in
+airframe components and systems. To avoid undue repetition, the practice of using representative systems and units is carried
+out throughout the handbook. Subject matter treatment is from a generalized point of view and should be supplemented by
+reference to manufacturers’ manuals or other textbooks if more detail is desired. This handbook is not intended to replace,
+substitute for, or supersede official regulations or manufacturers’ instructions. Occasionally the word “must” or similar
+language is used where the desired action is deemed critical. The use of such language is not intended to add to, interpret,
+or relieve a duty imposed by Title 14 of the Code of Federal Regulations (14 CFR).
+The subject of Human Factors is contained in the Aviation Maintenance Technician Handbook—General (FAA-H-8083-30)
+(as revised).
+This handbook is available for download, in PDF format, from www.faa.gov.
+This handbook is published by the United States Department of Transportation, Federal Aviation Administration, Airman
+Testing Standards Branch, AFS-630, P.O. Box 25082, Oklahoma City, OK 73125.
+Comments regarding this publication should be emailed to AFS630comments@faa.gov.
+
+ii
+
+===== PDF PAGE 4 =====
+Acknowledgments
+
+The Aviation Maintenance Technician Handbook—Airframe (FAA-H-8083-31B) was produced by the Federal Aviation
+Administration (FAA). The FAA wishes to acknowledge the following contributors:
+Mr. Chris Brady (www.b737.org.uk) for images used throughout this handbook
+Captain Karl Eiríksson for image used in Chapter 1
+Cessna Aircraft Company for image used in Chapter 1
+Mr. Andy Dawson (www.mossie.org) for images used throughout Chapter 1
+Mr. Bill Shemley for image used in Chapter 1
+Mr. Bruce R. Swanson for image used in Chapter 1
+Mr. Burkhard Domke (www.b-domke.de) for images used throughout Chapter 1 and 2
+Mr. Chris Wonnacott (www.fromtheflightdeck.com) for image used in Chapter 1
+Mr. Christian Tremblay (www.zodiac640.com) for image used in Chapter 1
+Mr. John Bailey (www.knots2u.com) for image used in Chapter 1
+Mr. Rich Guerra (www.rguerra.com) for image used in Chapter 1
+Mr. Ronald Lane for image used in Chapter 1
+Mr. Tom Allensworth (www.avsim.com) for image used in Chapter 1
+Navion Pilots Association’s Tech Note 001 (www.navionpilots.org) for image used in Chapter 1
+U.S. Coast Guard for image used in Chapter 1
+Mr. Tony Bingelis and the Experimental Aircraft Association (EAA) for images used throughout Chapter 2
+Mr. Benoit Viellefon (www.johnjohn.co.uk/compare-tigermothflights/html/tigermoth_bio_aozh.html) for image used
+in Chapter 3
+Mr. Paul Harding of Safari Seaplanes–Bahamas (www.safariseaplanes.com) for image used in Chapter 3
+Polyfiber/Consolidated Aircraft Coatings for images used throughout Chapter 3
+Stewart Systems for images used throughout Chapter 3
+Superflite for images used throughout Chapter 3
+Cherry Aerospace (www.cherryaerospace.com) for images used in Chapters 4 and 7
+Raytheon Aircraft (Structural Inspection and Repair Manual) for information used in Chapter 4
+Mr. Scott Allen of Kalamazoo Industries, Inc. (www.kalamazooind.com) for image used in Chapter 4
+Miller Electric Mfg. Co. (www.millerwelds.com) for images used in Chapter 5
+Mr. Aaron Novak, contributing engineer, for charts used in Chapter 5
+Mr. Bob Hall (www.pro-fusiononline.com) for image used in Chapter 5
+Mr. Kent White of TM Technologies, Inc. for image used in Chapter 5
+Safety Supplies Canada (www.safetysuppliescanada.com) for image used in Chapter 5
+Smith Equipment (www.smithequipment.com) for images used in Chapter 5
+iii
+
+===== PDF PAGE 5 =====
+Alcoa (www.alcoa.com) for images used in Chapter 7
+Mr. Chuck Scott (www.itwif.com) for images used throughout Chapter 8
+Mr. John Lagerlof of Paasche Airbrush Co. (paascheairbrush.com) for image used in Chapter 8
+Mr. Philip Love of Turbine Products, LLC (www.turbineproducts.com) for image used in Chapter 8
+Consolidated Aircraft Coatings for image used in Chapter 8
+Tianjin Yonglida Material Testing Machine Co., Ltd for image used in Chapter 8
+Mr. Jim Irwin of Aircraft Spruce & Specialty Co. (www.aircraftspruce.com) for images used in Chapters 9, 10, 11,
+13, 14, 15
+Mr. Kevan Hashemi for image used in Chapter 9
+Mr. Michael Leasure, Aviation Multimedia Library (www2.tech.purdue.edu/at/courses/aeml) for images used in
+Chapters 9, 13, 14
+Aircraft Owners and Pilots Association (AOPA) (www.aopa.org) for image used in Chapter 10
+Cobra Systems Inc. (www.cobrasys.com) for image used in Chapter 10
+www.free-online-private-pilot-ground-school.com for image used in Chapters 10, 16
+DAC International (www.dacint.com) for image used in Chapter 10
+Dawson Aircraft Inc. (www.aircraftpartsandsalvage.com) for images used throughout Chapter 10
+Mr. Kent Clingaman for image used in Chapter 10
+TECNAM (www.tecnam.com) for image used in Chapter 10
+TGH Aviation-FAA Instrument Repair Station (www.tghaviation.com) for image used in Chapter 10
+The Vintage Aviator Ltd. (www.thevintageaviator.co.nz) for image used in Chapter 10
+ACK Technologies Inc. (www.ackavionics.com) for image used in Chapter 11
+ADS-B Technologies, LLC (www.ads-b.com) for images used in Chapter 11
+Aviation Glossary (www.aviationglossary.com) for image used in Chapter 11
+AT&T Archives and History Center for image used in Chapter 11
+Electronics International Inc. (www.buy-ei.com) for image used in Chapter 11
+Excelitas Technologies (www.excelitas.com) for image used in Chapter 11
+Freestate Electronics, Inc. (www.fse-inc.com) for image used in Chapter 11
+AirTrafficAtlanta.com for image used in Chapter 11
+Western Historic Radio Museum, Virginia City, Nevada (www.radioblvd.com) for image used in Chapter 11
+Avidyne Corporation (www.avidyne.com) for image used in Chapter 11
+Kintronic Laboratories (www.kintronic.com) for image used in Chapter 11
+Mr. Dan Wolfe (www.flyboysalvage.com) for image used in Chapter 11
+Mr. Ken Shuck (www.cessna150.net) for image used in Chapter 11
+Mr. Paul Tocknell (www.askacfi.com) for image used in Chapter 11
+Mr. Stephen McGreevy (www.auroralchorus.com) for image used in Chapter 11
+Mr. Todd Bennett (www.bennettavionics.com) for image used in Chapter 11
+National Oceanic and Atmospheric Administration, U.S. Department of Commerce for image used in Chapter 11
+RAMI (www.rami.com) for image used in Chapter 11
+Rockwell Collins (www.rockwellcollins.com) for image used in Chapter 11, Figure 11-73
+Sarasota Avionics International (www.sarasotaavionics.com) for images used in Chapter 11
+iv
+
+===== PDF PAGE 6 =====
+Southeast Aerospace, Inc. (www.seaerospace.com) for image used in Chapter 11
+Sporty’s Pilot Shop (www.sportys.com) for image used in Chapter 11
+Watts Antenna Company (www.wattsantenna.com) for image used in Chapter 11
+Wings and Wheels (www.wingsandwheels.com) for image used in Chapter 11
+Aeropin, Inc. (www.aeropin.com) for image used in Chapter 13
+Airplane Mart Publishing (www.airplanemart.com) for image used in Chapter 13
+Alberth Aviation (www.alberthaviation.com) for image used in Chapter 13
+AVweb (www.avweb.com) for image used in Chapter 13
+Belle Aire Aviation, Inc. (www.belleaireaviation.com) for image used in Chapter 13
+Cold War Air Museum (www.coldwarairmuseum.org) for image used in Chapter 13
+Comanche Gear (www.comanchegear.com) for image used in Chapter 13
+CSOBeech (www.csobeech.com) for image used in Chapter 13
+Desser Tire & Rubber Co., Inc. (www.desser.com) for image used in Chapter 13
+DG Flugzeugbau GmbH (www.dg-flugzeugbau.de) for image used in Chapter 13
+Expedition Exchange Inc. (www.expeditionexchange.com) for image used in Chapter 13
+Fiddlers Green (www.fiddlersgreen.net) for image used in Chapter 13
+Hitchcock Aviation (hitchcockaviation.com) for image used in Chapter 13
+KUNZ GmbH aircraft equipment (www.kunz-aircraft.com) for images used in Chapter 13
+Little Flyers (www.littleflyers.com) for images used in Chapter 13
+Maple Leaf Aviation Ltd. (www.aircraftspeedmods.ca) for image used in Chapter 13
+Mr. Budd Davisson (Airbum.com) for image used in Chapter 13
+Mr. C. Jeff Dyrek (www.yellowairplane.com) for images used in Chapter 13
+Mr. Jason Schappert (www.m0a.com) for image used in Chapter 13
+Mr. John Baker (www.hangar9aeroworks.com) for image used in Chapter 13
+Mr. Mike Schantz (www.trailer411.com) for image used in Chapter 13
+Mr. Robert Hughes (www.escapadebuild.co.uk) for image used in Chapter 13
+Mr. Ron Blachut for image used in Chapter 13
+Owls Head Transportation Museum (www.owlshead.org) for image used in Chapter 13
+PPI Aerospace (www.ppiaerospace.com) for image used in Chapter 13
+Protective Packaging Corp. (www.protectivepackaging.net, 1-800-945-2247) for image used in Chapter 13
+Ravenware Industries, LLC (www.ravenware.com) for image used in Chapter 13
+Renold (www.renold.com) for image used in Chapter 13
+Rotor F/X, LLC (www.rotorfx.com) for image used in Chapter 13
+SkyGeek (www.skygeek.com) for image used in Chapter 13
+Taigh Ramey (www.twinbeech.com) for image used in Chapter 13
+Texas Air Salvage (www.texasairsalvage.com) for image used in Chapter 13
+The Bogert Group (www.bogert-av.com) for image used in Chapter 13
+W. B. Graham, Welded Tube Pros LLC (www.thefabricator.com) for image used in Chapter 13
+Zinko Hydraulic Jack (www.zinkojack.com) for image used in Chapter 13
+
+v
+
+===== PDF PAGE 7 =====
+Aviation Institute of Maintenance (www.aimschool.com) for image used in Chapter 14
+Aviation Laboratories (www.avlab.com) for image used in Chapter 14
+AVSIM (www.avsim.com) for image used in Chapter 14
+Eggenfellner (www.eggenfellneraircraft.com) for image used in Chapter 14
+FlightSim.Com, Inc. (www.flightsim.com) for image used in Chapter 14
+Fluid Components International LLC (www.fluidcomponents.com) for image used in Chapter 14
+Fuel Quality Services, Inc. (www.fqsinc.com) for image used in Chapter 14
+Hammonds Fuel Additives, Inc. (www.biobor.com) for image used in Chapter 14
+Jeppesen (www.jeppesen.com) for image used in Chapter 14
+MGL Avionics (www.mglavionics.com) for image used in Chapter 14
+Mid-Atlantic Air Museum (www.maam.org) for image used in Chapter 14
+MISCO Refractometer (www.misco.com) for image used in Chapter 14
+Mr. Gary Brossett via the Aircraft Engine Historical Society (www.enginehistory.org) for image used in Chapter 14
+Mr. Jeff McCombs (www.heyeng.com) for image used in Chapter 14
+NASA for image used in Chapter 14
+On-Track Aviation Limited (www.ontrackaviation.com) for image used in Chapter 14
+Stewart Systems for image used in Chapter 14
+Prist Aerospace Products (www.pristaerospace.com) for image used in Chapter 14
+The Sundowners, Inc. (www.sdpleecounty.org) for image used in Chapter 14
+Velcon Filters, LLC (www.velcon.com) for image used in Chapter 14
+Aerox Aviation Oxygen Systems, Inc. (www.aerox.com) for image used in Chapter 16
+Biggles Software (www.biggles-software.com) for image used in Chapter 16
+C&D Associates, Inc. (www.aircraftheater.com) for image used in Chapter 16
+Cobham (Carleton Technologies Inc.) (www.cobham.com) for image used in Chapter 16
+Cool Africa (www.coolafrica.co.za) for image used in Chapter 16
+Cumulus Soaring, Inc. (www.cumulus-soaring.com) for image used in Chapter 16
+Essex Cryogenics of Missouri, Inc. (www.essexind.com) for image used in Chapter 16
+Flightline AC, Inc. (www.flightlineac.com) for image used in Chapter 16
+IDQ Holdings (www.idqusa.com) for image used in Chapter 16
+Manchester Tank & Equipment (www.mantank.com) for image used in Chapter 16
+Mountain High E&S Co. (www.MHoxygen.com) for images used throughout Chapter 16
+Mr. Bill Sherwood (www.billzilla.org) for image used in Chapter 16
+Mr. Boris Comazzi (www.flightgear.ch) for image used in Chapter 16
+Mr. Chris Rudge (www.warbirdsite.com) for image used in Chapter 16
+Mr. Richard Pfiffner (www.craggyaero.com) for image used in Chapter 16
+Mr. Stephen Sweet (www.stephensweet.com) for image used in Chapter 16
+Precise Flight, Inc. (www.preciseflight.com) for image used in Chapter 16
+SPX Service Solutions (www.spx.com) for image used in Chapter 16
+SuperFlash Compressed Gas Equipment (www.oxyfuelsafety.com)
+
+vi
+
+===== PDF PAGE 8 =====
+Mr. Tim Mara (www.wingsandwheels.com) for images used in Chapter 16
+Mr. Bill Abbott for image used in Chapter 17
+Additional appreciation is extended to Dr. Ronald Sterkenburg, Purdue University; Mr. Bryan Rahm, Dr. Thomas K. Eismain,
+Purdue University; Mr. George McNeill, Mr. Thomas Forenz, Mr. Peng Wang, and the National Oceanic and Atmospheric
+Administration (NOAA) for their technical support and input.
+
+vii
+
+===== PDF PAGE 9 =====
+Table of Contents
+Chapter 1
+Aircraft Structures
+A Brief History of Aircraft Structures ...................... 1-1
+General.................................................................. 1-4
+Major Structural Stresses ...................................... 1-5
+Fixed-Wing Aircraft ................................................ 1-7
+Fuselage ............................................................ 1-7
+Truss-Type ...................................................... 1-7
+Monocoque Type............................................. 1-7
+Semimonocoque Type .................................... 1-8
+Reinforced Shell Type ..................................... 1-9
+Pressurization ................................................... 1-9
+Wings..................................................................... 1-9
+Wing Configurations........................................... 1-9
+Wing Structure ................................................... 1-9
+Wing Spars....................................................... 1-12
+Wing Ribs ......................................................... 1-14
+Wing Skin ......................................................... 1-16
+Nacelles ........................................................... 1-17
+Empennage ........................................................ 1-19
+Flight Control Surfaces ........................................ 1-21
+Primary Flight Control Surfaces ....................... 1-23
+Ailerons ......................................................... 1-24
+Elevator......................................................... 1-25
+Rudder ......................................................... 1-25
+Dual Purpose Flight Control Surfaces.............. 1-26
+Secondary or Auxiliary Control Surfaces ......... 1-26
+Flaps ............................................................. 1-26
+Slats ............................................................. 1-29
+Spoilers & Speed Brakes .............................. 1-29
+Tabs ............................................................. 1-30
+Other Wing Features........................................ 1-32
+Landing Gear....................................................... 1-33
+Tail Wheel Gear Configuration ......................... 1-35
+Tricycle Gear Configuration.............................. 1-36
+Maintaining the Aircraft ........................................ 1-36
+Location Numbering Systems .......................... 1-37
+Access & Inspection Panels............................. 1-38
+Helicopter Structures ........................................... 1-39
+Airframe............................................................ 1-39
+Fuselage .......................................................... 1-40
+Landing Gear or Skids ..................................... 1-40
+Powerplant & Transmission.............................. 1-40
+Turbine Engines ............................................ 1-40
+Transmission................................................. 1-41
+
+Main Rotor System........................................... 1-42
+Rigid Rotor System ....................................... 1-42
+Semirigid Rotor System ................................ 1-42
+Fully Articulated Rotor System ......................... 1-42
+Antitorque System............................................ 1-44
+Controls ............................................................ 1-45
+Chapter 2
+Aerodynamics, Aircraft Assembly, & Rigging
+Introduction............................................................ 2-1
+Basic Aerodynamics ............................................. 2-1
+The Atmosphere .................................................... 2-1
+Pressure............................................................. 2-1
+Density ............................................................... 2-2
+Humidity ............................................................. 2-2
+Aerodynamics & the Laws of Physics.................... 2-2
+Velocity & Acceleration....................................... 2-3
+Newton’s Laws of Motion ................................... 2-3
+Bernoulli’s Principle & Subsonic Flow ................ 2-3
+Airfoil...................................................................... 2-3
+Shape of the Airfoil ............................................. 2-4
+Angle of Incidence.............................................. 2-5
+Angle of Attack (AOA) ........................................ 2-5
+Boundary Layer.................................................. 2-6
+Thrust & Drag ........................................................ 2-6
+Center of Gravity (CG)........................................... 2-8
+The Axes of an Aircraft ......................................... 2-8
+Stability & Control ................................................. 2-8
+Static Stability..................................................... 2-8
+Dynamic Stability.............................................. 2-10
+Longitudinal Stability ........................................ 2-10
+Directional Stability........................................... 2-10
+Lateral Stability................................................. 2-10
+Dutch Roll......................................................... 2-10
+Primary Flight Controls ........................................ 2-10
+Trim Controls ........................................................2-11
+Auxiliary Lift Devices ............................................2-11
+Lift Augmenting .................................................2-11
+Lift Decreasing ................................................. 2-12
+Winglets ........................................................... 2-13
+Canard Wings .................................................. 2-13
+Wing Fences ................................................... 2-13
+Control Systems for Large Aircraft....................... 2-13
+Mechanical Control .......................................... 2-13
+Hydromechanical Control................................. 2-13
+Fly-By-Wire Control ......................................... 2-14
+viii
+
+===== PDF PAGE 10 =====
+High-Speed Aerodynamics .................................. 2-14
+Rotary-Wing Aircraft Assembly & Rigging ........... 2-15
+Configurations of Rotary-Wing Aircraft ................ 2-16
+Autogyro........................................................... 2-16
+Single Rotor Helicopter .................................... 2-16
+Dual Rotor Helicopter....................................... 2-17
+Types of Rotor Systems ...................................... 2-17
+Fully Articulated Rotor ...................................... 2-17
+Semirigid Rotor ................................................ 2-17
+Rigid Rotor ....................................................... 2-17
+Forces Acting on the Helicopter........................... 2-17
+Torque Compensation ...................................... 2-18
+Gyroscopic Forces ........................................... 2-19
+Helicopter Flight Conditions ................................ 2-19
+Hovering Flight ................................................. 2-19
+Translating Tendency or Drift ........................ 2-21
+Ground Effect ................................................ 2-21
+Coriolis Effect (Law of Conservation of
+Angular Momentum) .................................... 2-21
+Vertical Flight.................................................... 2-22
+Forward Flight .................................................. 2-22
+Translational Lift............................................ 2-23
+Effective Translational Lift (ETL) ................... 2-23
+Dissymmetry of Lift ....................................... 2-23
+Autorotation...................................................... 2-26
+Rotorcraft Controls .............................................. 2-27
+Swash Plate Assembly..................................... 2-27
+Collective Pitch Control .................................... 2-27
+Throttle Control ................................................ 2-28
+Governor/Correlator ........................................ 2-28
+Cyclic Pitch Control .......................................... 2-28
+Antitorque Pedals............................................. 2-29
+Stabilizer Systems ............................................... 2-29
+Bell Stabilizer Bar System................................ 2-29
+Offset Flapping Hinge....................................... 2-29
+Stability Augmentation Systems (SAS) ............ 2-30
+Helicopter Vibration .......................................... 2-30
+Extreme Low Frequency Vibration ................ 2-30
+Low Frequency Vibration .............................. 2-30
+Medium Frequency Vibration ........................ 2-30
+High Frequency Vibration.............................. 2-30
+Rotor Blade Tracking........................................ 2-30
+Flag & Pole ................................................... 2-30
+Electronic Blade Tracker ............................... 2-30
+Tail Rotor Tracking ........................................... 2-32
+Marking Method ............................................ 2-32
+Electronic Method ......................................... 2-32
+Rotor Blade Preservation & Storage ................ 2-33
+Helicopter Power Systems .................................. 2-33
+Powerplant ....................................................... 2-33
+
+Reciprocating Engine ....................................... 2-33
+Turbine Engine ................................................. 2-34
+Transmission System .......................................... 2-34
+Main Rotor Transmission ................................. 2-34
+Clutch ............................................................... 2-34
+Centrifugal Clutch ......................................... 2-35
+Belt Drive Clutch ........................................... 2-35
+Freewheeling Unit ............................................ 2-35
+Airplane Assembly & Rigging .............................. 2-36
+Rebalancing of Control Surfaces ..................... 2-36
+Static Balance ............................................... 2-36
+Dynamic Balance .......................................... 2-36
+Rebalancing Procedures ................................. 2-37
+Rebalancing Methods ...................................... 2-37
+Aircraft Rigging .................................................... 2-38
+Rigging Specifications...................................... 2-38
+Type Certificate Data Sheet .......................... 2-38
+Maintenance Manual..................................... 2-38
+Structural Repair Manual (SRM)................... 2-39
+Manufacturer’s Service Information .............. 2-39
+Airplane Assembly ........................................... 2-39
+Aileron Installation ........................................ 2-39
+Flap Installation............................................. 2-39
+Empennage Installation ................................ 2-39
+Control Operating Systems .............................. 2-39
+Cable Systems.............................................. 2-39
+Cable Inspection ........................................... 2-41
+Cable System Installation ............................. 2-41
+Push Rods (Control Rods) ............................ 2-44
+Torque Tubes ................................................ 2-46
+Cable Drums ................................................. 2-46
+Rigging Checks ................................................ 2-46
+Structural Alignment...................................... 2-47
+Cable Tension ............................................... 2-50
+Control Surface Travel .................................. 2-50
+Checking & Safetying the System................. 2-52
+Biplane Assembly & Rigging................................ 2-55
+Aircraft Inspection................................................ 2-58
+Purpose of Inspection Programs ..................... 2-58
+Performing an Airframe Conformity &
+Airworthiness Inspection .................................. 2-58
+Required Inspections ....................................... 2-59
+Preflight......................................................... 2-59
+Periodic Maintenance Inspections ................ 2-59
+Altimeter & Static System Inspections in
+Accordance with 14 CFR Part 91, Section
+91.411 ........................................................... 2-61
+Air Traffic Control (ATC) Transponder
+Inspections.................................................... 2-61
+Emergency Locator Transmitter (ELT)
+ix
+
+===== PDF PAGE 11 =====
+Operational & Maintenance Practices in
+Accordance with Advisory Circular (AC)
+91-44............................................................. 2-61
+Annual & 100-Hour Inspections ....................... 2-62
+Preparation ................................................... 2-62
+Other Aircraft Inspection & Maintenance
+Programs.......................................................... 2-64
+Continuous Airworthiness Maintenance
+Program (CAMP) .......................................... 2-65
+Title 14 CFR part 125, section 125.247,
+Inspection Programs & Maintenance ............ 2-65
+Piston-Engine & Turbine-Powered
+Helicopter Inspections................................... 2-66
+Light Sport Aircraft & Aircraft Certificated
+as Experimental ........................................... 2-66
+Chapter 3
+Aircraft Fabric Covering
+General History...................................................... 3-1
+Fabric Terms.......................................................... 3-2
+Legal Aspects of Fabric Covering.......................... 3-2
+Approved Materials ............................................... 3-3
+Fabric ................................................................ 3-3
+Other Fabric Covering Materials ........................ 3-4
+Anti-Chafe Tape .............................................. 3-4
+Reinforcing Tape ............................................. 3-4
+Rib Bracing ..................................................... 3-4
+Surface Tape ................................................... 3-4
+Rib Lacing Cord .............................................. 3-5
+Sewing Thread ................................................ 3-5
+Special Fabric Fasteners ................................ 3-5
+Grommets ....................................................... 3-6
+Inspection Rings ............................................. 3-6
+Primer ............................................................. 3-6
+Fabric Cement ................................................ 3-6
+Fabric Sealer................................................... 3-6
+Fillers .............................................................. 3-6
+Topcoats.......................................................... 3-6
+Available Covering Processes............................... 3-8
+Determining Fabric Condition—Repair or
+Recover? ............................................................... 3-8
+Fabric Strength ...................................................... 3-8
+How Fabric Breaking Strength is Determined .... 3-9
+Fabric Testing Devices ..................................... 3-10
+General Fabric Covering Process ....................... 3-10
+Blanket Method vs. Envelope Method ..............3-11
+Preparation for Fabric Covering Work...............3-11
+Removal of Old Fabric Coverings .................... 3-12
+Preparation of the Airframe Before Covering ... 3-12
+Attaching Polyester Fabric to the Airframe....... 3-14
+
+Seams........................................................... 3-14
+Fabric Cement .............................................. 3-17
+Fabric Heat Shrinking ................................... 3-17
+Attaching Fabric to the Wing Ribs.................... 3-18
+Rib Lacing ..................................................... 3-18
+Rings, Grommets, & Gussets ...................... 3-19
+Finishing Tapes ............................................. 3-20
+Coating the Fabric......................................... 3-21
+Polyester Fabric Repairs .................................... 3-23
+Applicable Instructions ..................................... 3-23
+Repair Considerations...................................... 3-23
+Cotton-Covered Aircraft ....................................... 3-24
+Fiberglass Coverings........................................... 3-24
+Chapter 4
+Aircraft Metal Structural Repair
+Aircraft Metal Structural Repair ............................. 4-1
+Stresses in Structural Members ......................... 4-1
+Tension............................................................ 4-2
+Compression................................................... 4-2
+Shear .............................................................. 4-3
+Bearing............................................................ 4-3
+Torsion ........................................................... 4-3
+Bending .......................................................... 4-3
+Tools for Sheet Metal Construction & Repair......... 4-3
+Layout Tools ....................................................... 4-3
+Scales ............................................................. 4-3
+Combination Square ....................................... 4-3
+Dividers ........................................................... 4-4
+Rivet Spacers.................................................. 4-4
+Marking Tools ..................................................... 4-4
+Pens................................................................ 4-4
+Scribes ............................................................ 4-4
+Punches ............................................................. 4-4
+Prick Punch..................................................... 4-5
+Center Punch .................................................. 4-5
+Automatic Center Punch ................................. 4-5
+Transfer Punch................................................ 4-6
+Drive Punch .................................................... 4-6
+Pin Punch........................................................ 4-6
+Chassis Punch ................................................ 4-6
+Awl .................................................................. 4-6
+Hole Duplicator................................................... 4-7
+Cutting Tools....................................................... 4-7
+Circular-Cutting Saws ..................................... 4-7
+Kett Saw ......................................................... 4-7
+Pneumatic Circular-Cutting Saw ..................... 4-7
+Reciprocating Saw .......................................... 4-8
+Cut-off Wheel .................................................. 4-8
+x
+
+===== PDF PAGE 12 =====
+Nibblers........................................................... 4-8
+Shop Tools.......................................................... 4-9
+Squaring Shear ............................................... 4-9
+Throatless Shear ............................................ 4-9
+Scroll Shears................................................. 4-10
+Rotary Punch Press ...................................... 4-10
+Band Saw...................................................... 4-10
+Disc Sander ...................................................4-11
+Belt Sander ....................................................4-11
+Notcher ..........................................................4-11
+Wet or Dry Grinder .........................................4-11
+Grinding Wheels ........................................... 4-12
+Hand Cutting Tools ........................................... 4-12
+Straight Snips................................................ 4-12
+Aviation Snips ............................................... 4-13
+Files .............................................................. 4-13
+Die Grinder.................................................... 4-13
+Burring Tool ................................................... 4-14
+Hole Drilling ......................................................... 4-14
+Portable Power Drills........................................ 4-14
+Pneumatic Drill Motors.................................. 4-14
+Right Angle & 45° Drill Motors....................... 4-14
+Two Hole ...................................................... 4-15
+Drill Press ......................................................... 4-15
+Drill Extensions & Adapters ............................. 4-15
+Extension Drill Bits ........................................ 4-16
+Straight Extension......................................... 4-16
+Angle Adapters ............................................. 4-16
+Snake Attachment......................................... 4-16
+Types of Drill Bits ............................................ 4-16
+Step Drill Bits ................................................ 4-16
+Cobalt Alloy Drill Bits..................................... 4-17
+Twist Drill Bits................................................ 4-17
+Drill Bit Sizes .................................................... 4-17
+Drill Lubrication ................................................ 4-17
+Reamers........................................................... 4-17
+Drill Stops ......................................................... 4-17
+Drill Bushings & Guides ................................... 4-17
+Drill Bushing Holder Types ............................... 4-19
+Drilling Large Holes....................................... 4-20
+Chip Chasers ................................................... 4-20
+Forming Tools ...................................................... 4-20
+Bar Folding Machine ........................................ 4-21
+Cornice Brake .................................................. 4-21
+Box & Pan Brake (Finger Brake)...................... 4-22
+Press Brake...................................................... 4-22
+Slip Roll Former ............................................... 4-22
+Rotary Machine ................................................ 4-23
+Stretch Forming................................................ 4-24
+
+Drop Hammer................................................... 4-24
+Hydropress Forming......................................... 4-25
+Spin Forming.................................................... 4-25
+Forming with an English Wheel........................ 4-25
+Piccolo Former ................................................. 4-26
+Shrinking & Stretching Tools ............................ 4-26
+Shrinking Tools.............................................. 4-26
+Stretching Tools............................................. 4-26
+Manual Foot-Operated Sheet Metal Shrinker 4-26
+Hand-Operated Shrinker & Stretcher............ 4-27
+Dollies & Stakes............................................ 4-27
+Hardwood Form Blocks................................. 4-27
+V-Blocks ........................................................ 4-27
+Shrinking Blocks ........................................... 4-27
+Sandbags...................................................... 4-27
+Sheet Metal Hammers & Mallets .................. 4-28
+Sheet Metal Holding Devices .............................. 4-28
+Clamps & Vises ............................................... 4-28
+C-Clamps ...................................................... 4-28
+Vises ............................................................. 4-28
+Reusable Sheet Metal Fasteners..................... 4-28
+Cleco Fasteners............................................ 4-29
+Hex Nut & Wing Nut Temporary Sheet
+Fasteners ...................................................... 4-29
+Aluminum Alloys .................................................. 4-29
+Structural Fasteners ........................................... 4-30
+Solid Shank Rivet ............................................ 4-30
+Description .................................................... 4-30
+Installation of Rivets...................................... 4-32
+Rivet Installation Tools .................................. 4-35
+Riveting Procedure ...................................... 4-39
+Countersunk Rivets....................................... 4-40
+Evaluating the Rivet ...................................... 4-43
+Removal of Rivets......................................... 4-44
+Replacing Rivets ........................................... 4-45
+National Advisory Committee for
+Aeronautics (NACA) Method of Double
+Flush Riveting ............................................... 4-45
+Special Purpose Fasteners .............................. 4-45
+Blind Rivets ................................................... 4-47
+Pin Fastening Systems (High-Shear
+Fasteners) .................................................... 4-49
+Lockbolt Fastening Systems ........................ 4-51
+Blind Bolts ..................................................... 4-53
+Rivet Nut ....................................................... 4-55
+Blind Fasteners (Nonstructural) .................... 4-56
+Forming Process ................................................. 4-56
+Forming Operations & Terms............................... 4-57
+Stretching ......................................................... 4-57
+xi
+
+===== PDF PAGE 13 =====
+Shrinking .......................................................... 4-57
+Bumping ........................................................... 4-58
+Crimping ........................................................... 4-58
+Folding Sheet Metal ......................................... 4-58
+Layout & Forming ................................................ 4-58
+Terminology ..................................................... 4-58
+Layout or Flat Pattern Development ................ 4-59
+Making Straight Line Bends ............................. 4-60
+Bending a U-Channel.................................... 4-61
+Using a J-Chart to Calculate Total
+Developed Width........................................... 4-67
+Using a Sheet Metal Brake to Fold Metal......... 4-68
+Step 1: Adjustment of Bend Radius .............. 4-68
+Step 2: Adjusting Clamping Pressure ........... 4-69
+Step 3: Adjusting the Nose Gap.................... 4-70
+Folding a Box ................................................... 4-71
+Relief Hole Location...................................... 4-72
+Layout Method .............................................. 4-72
+Open & Closed Bends...................................... 4-72
+Open End Bend (Less Than 90°).................. 4-73
+Closed End Bend (More Than 90°)............... 4-73
+Hand Forming .................................................. 4-73
+Straight Line Bends....................................... 4-73
+Formed or Extruded Angles .......................... 4-74
+Flanged Angles ............................................. 4-75
+Shrinking ....................................................... 4-75
+Stretching...................................................... 4-76
+Curved Flanged Parts ................................... 4-76
+Forming by Bumping..................................... 4-78
+Joggling......................................................... 4-80
+Lightening Holes ........................................... 4-81
+Working Stainless Steel ................................... 4-82
+Working Inconel® Alloys 625 & 718.................. 4-82
+Working Magnesium......................................... 4-82
+Working Titanium.............................................. 4-84
+Description of Titanium ................................. 4-84
+Basic Principles of Sheet Metal Repair ............... 4-85
+Maintaining Original Strength........................... 4-86
+Shear Strength & Bearing Strength.................. 4-86
+Maintaining Original Contour............................ 4-86
+Keeping Weight to a Minimum ......................... 4-86
+Flutter & Vibration Precautions......................... 4-87
+Inspection of Damage ..................................... 4-88
+Types of Damage & Defects ............................ 4-89
+Classification of Damage ................................. 4-90
+Negligible Damage........................................ 4-90
+Damage Repairable by Patching .................. 4-90
+Damage Repairable by Insertion .................. 4-90
+Damage Necessitating Replacement of
+Parts.............................................................. 4-90
+
+Repairability of Sheet Metal Structure ................. 4-90
+Structural Support During Repair ..................... 4-91
+Assessment of Damage ................................... 4-91
+Inspection of Riveted Joints ............................. 4-91
+Inspection for Corrosion ................................... 4-92
+Damage Removal ............................................ 4-92
+Repair Material Selection.............................. 4-92
+Repair Parts Layout ..................................... 4-92
+Rivet Selection ............................................. 4-92
+Rivet Spacing & Edge Distance .................... 4-92
+Corrosion Treatment .................................... 4-92
+Approval of Repair ........................................... 4-92
+Repair of Stressed Skin Structure ................... 4-93
+Patches ........................................................ 4-93
+Typical Repairs for Aircraft Structures ............. 4-97
+Floats ............................................................ 4-97
+Corrugated Skin Repair ................................ 4-97
+Replacement of a Panel................................ 4-97
+Outside the Member .................................... 4-99
+Inside the Member ........................................ 4-99
+Edges of the Panel ....................................... 4-99
+Repair of Lightening Holes.......................... 4-100
+Repairs to a Pressurized Area .................... 4-100
+Stringer Repair............................................ 4-101
+Former or Bulkhead Repair......................... 4-102
+Longeron Repair ......................................... 4-103
+Spar Repair................................................. 4-103
+Rib & Web Repair ....................................... 4-104
+Leading Edge Repair .................................. 4-105
+Trailing Edge Repair ................................... 4-106
+Specialized Repairs .................................... 4-108
+Inspection Openings ................................... 4-108
+Chapter 5
+Aircraft Welding
+Introduction............................................................ 5-1
+Types of Welding ................................................... 5-1
+Gas Welding....................................................... 5-1
+Electric Arc Welding ........................................... 5-1
+Shielded Metal Arc Welding (SMAW).............. 5-2
+Gas Metal Arc Welding (GMAW)..................... 5-2
+Gas Tungsten Arc Welding (GTAW)................ 5-4
+Electric Resistance Welding .............................. 5-4
+Spot Welding................................................... 5-4
+Seam Welding................................................. 5-4
+Plasma Arc Welding (PAW) ................................ 5-4
+Plasma Arc Cutting ............................................ 5-6
+Gas Welding & Cutting Equipment ........................ 5-6
+Welding Gases .................................................. 5-6
+xii
+
+===== PDF PAGE 14 =====
+Acetylene ........................................................ 5-6
+Argon .............................................................. 5-6
+Helium............................................................. 5-6
+Hydrogen ........................................................ 5-7
+Oxygen............................................................ 5-7
+Pressure Regulators .......................................... 5-7
+Welding Hose ..................................................... 5-7
+Check Valves & Flashback Arrestors ................. 5-7
+Torches............................................................... 5-8
+Equal Pressure Torch...................................... 5-8
+Injector Torch................................................... 5-8
+Cutting Torch ................................................... 5-8
+Torch Tips ........................................................... 5-8
+Welding Eyewear ............................................... 5-8
+Torch Lighters ................................................. 5-9
+Filler Rod......................................................... 5-9
+Equipment Setup.............................................. 5-10
+Gas Cylinders ............................................... 5-10
+Regulators..................................................... 5-10
+Hoses............................................................ 5-10
+Connecting Torch .......................................... 5-10
+Select the Tip Size ........................................ 5-10
+Adjusting the Regulator Working Pressure ... 5-12
+Lighting & Adjusting the Torch ......................... 5-12
+Different Flames ............................................... 5-12
+Neutral Flame ............................................... 5-12
+Carburizing Flame......................................... 5-12
+Oxidizing Flame ............................................ 5-12
+Soft or Harsh Flames .................................... 5-13
+Handling of the Torch .................................... 5-13
+Oxy-acetylene Cutting ......................................... 5-13
+Shutting Down the Gas Welding Equipment .... 5-14
+Gas Welding Procedures & Techniques .............. 5-14
+Correct Forming of a Weld ............................... 5-15
+Characteristics of a Good Weld........................ 5-15
+Oxy-Acetylene Welding of Ferrous Metals ......... 5-15
+Steel (Including SAE 4130) .............................. 5-15
+Chrome Molybdenum....................................... 5-16
+Stainless Steel ................................................. 5-16
+Oxy-Acetylene Welding of Nonferrous Metals..... 5-17
+Aluminum Welding ........................................... 5-17
+Magnesium Welding ........................................ 5-18
+Brazing & Soldering............................................. 5-19
+Torch Brazing of Steel ...................................... 5-19
+Torch Brazing of Aluminum .............................. 5-19
+Soldering .......................................................... 5-20
+Aluminum Soldering...................................... 5-20
+Silver Soldering............................................. 5-20
+Gas Tungsten Arc Welding (TIG Welding)........... 5-21
+
+TIG Welding 4130 Steel Tubing ....................... 5-22
+TIG Welding Stainless Steel............................. 5-22
+TIG Welding Aluminum..................................... 5-23
+TIG Welding Magnesium.................................. 5-23
+TIG Welding Titanium....................................... 5-23
+Arc Welding Procedures, Techniques, &
+Welding Safety Equipment .................................. 5-24
+Multiple Pass Welding ...................................... 5-26
+Techniques of Position Welding ....................... 5-26
+Flat Position Welding........................................ 5-27
+Bead Weld..................................................... 5-27
+Groove Weld ................................................. 5-27
+Fillet Weld ..................................................... 5-27
+Lap Joint Weld .............................................. 5-28
+Vertical Position Welding ................................. 5-28
+Overhead Position Welding.............................. 5-28
+Expansion & Contraction of Metals ..................... 5-28
+Welded Joints Using Oxy-Acetylene Torch.......... 5-29
+Butt Joints ........................................................ 5-29
+Tee Joints ......................................................... 5-30
+Edge Joints ...................................................... 5-30
+Corner Joints .................................................... 5-30
+Lap Joints......................................................... 5-30
+Repair of Steel Tubing Aircraft Structure by
+Welding................................................................ 5-31
+Dents at a Cluster Weld ................................... 5-31
+Dents Between Clusters................................... 5-31
+Tube Splicing with Inside Sleeve
+Reinforcement.................................................. 5-32
+Tube Splicing with Outer Split Sleeve
+Reinforcement.................................................. 5-32
+Landing Gear Repairs ...................................... 5-33
+Engine Mount Repairs...................................... 5-35
+Rosette Welding ............................................... 5-35
+Chapter 6
+Aircraft Wood & Structural Repair
+Introduction............................................................ 6-1
+Wood Aircraft Construction & Repairs ................... 6-1
+Inspection of Wood Structures .......................... 6-2
+External & Internal Inspection ......................... 6-2
+Glued Joint Inspection .................................... 6-3
+Wood Condition .............................................. 6-4
+Repair of Wood Aircraft Structures ........................ 6-6
+Materials............................................................. 6-7
+Suitable Wood .................................................... 6-7
+Defects Permitted ........................................... 6-7
+Defects Not Permitted..................................... 6-7
+Glues (Adhesives)........................................... 6-9
+Definition of Terms Used in the Glue
+Process ....................................................... 6-10
+xiii
+
+===== PDF PAGE 15 =====
+Preparation of Wood for Gluing........................ 6-10
+Preparing Glues for Use ................................6-11
+Applying the Glue/Adhesive ..........................6-11
+Pressure on the Joint .....................................6-11
+Testing Glued Joints ..................................... 6-12
+Repair of Wood Aircraft Components............... 6-12
+Wing Rib Repairs ......................................... 6-12
+Wing Spar Repairs ....................................... 6-14
+Bolt & Bushing Holes .................................... 6-18
+Plywood Skin Repairs ...................................... 6-19
+Fabric Patch ................................................ 6-19
+Splayed Patch............................................... 6-20
+Surface Patch ............................................... 6-20
+Plug Patch..................................................... 6-20
+The Back of the Skin is Accessible for
+Repair .......................................................... 6-23
+The Back of the Skin Is Not Accessible for
+Repair ........................................................... 6-24
+Chapter 7
+Advanced Composite Materials
+Description of Composite Structures ..................... 7-1
+Introduction ........................................................ 7-1
+Laminated Structures ......................................... 7-1
+Major Components of a Laminate................... 7-1
+Strength Characteristics.................................. 7-1
+Fiber Orientation ............................................. 7-1
+Warp Clock...................................................... 7-2
+Fiber Forms ........................................................ 7-2
+Roving............................................................. 7-2
+Unidirectional (Tape) ....................................... 7-3
+Bidirectional (Fabric) ....................................... 7-3
+Nonwoven (Knitted or Stitched) ...................... 7-3
+Types of Fiber .................................................... 7-5
+Fiberglass ....................................................... 7-5
+Kevlar.............................................................. 7-5
+Carbon/Graphite ............................................. 7-5
+Boron .............................................................. 7-5
+Ceramic Fibers................................................ 7-5
+Lightning Protection Fibers ............................. 7-5
+Matrix Materials .................................................. 7-6
+Thermosetting Resins ..................................... 7-6
+Thermoplastic Resins ..................................... 7-7
+Curing Stages of Resins .................................... 7-7
+Pre-Impregnated Products (Prepregs) ............... 7-8
+Dry Fiber Material............................................... 7-8
+Thixotropic Agents.............................................. 7-8
+Adhesives........................................................... 7-8
+Film Adhesives................................................ 7-8
+
+Paste Adhesives ........................................... 7-10
+Foaming Adhesives....................................... 7-10
+Description of Sandwich Structures..................... 7-10
+Properties ......................................................... 7-10
+Facing Materials............................................... 7-10
+Core Materials ...................................................7-11
+Honeycomb....................................................7-11
+Foam..............................................................7-11
+Balsa Wood................................................... 7-12
+Manufacturing & In-Service Damage................... 7-12
+Manufacturing Defects ..................................... 7-12
+Fiber Breakage ............................................. 7-13
+Matrix Imperfections ..................................... 7-13
+Delamination & Debonds .............................. 7-13
+Combinations of Damages............................ 7-13
+Flawed Fastener Holes ................................. 7-13
+In-Service Defects............................................ 7-13
+Corrosion.......................................................... 7-15
+Nondestructive Inspection (NDI) of Composites.. 7-15
+Visual Inspection .............................................. 7-15
+Audible Sonic Testing (Coin Tapping) .............. 7-15
+Automated Tap Test ...................................... 7-15
+Ultrasonic Inspection........................................ 7-16
+Through Transmission Ultrasonic Inspection 7-16
+Pulse Echo Ultrasonic Inspection ................ 7-16
+Ultrasonic Bond Tester Inspection................. 7-17
+Phased Array Inspection ............................... 7-17
+Radiography..................................................... 7-18
+Thermography .................................................. 7-18
+Neutron Radiography ....................................... 7-18
+Moisture Detector ............................................ 7-18
+Composite Repairs .............................................. 7-19
+Layup Materials................................................ 7-19
+Hand Tools .................................................... 7-19
+Air Tools ........................................................ 7-19
+Caul Plate .................................................... 7-19
+Support Tooling & Molds ............................... 7-19
+Vacuum Bag Materials .................................... 7-19
+Release Agents............................................. 7-19
+Bleeder Ply.................................................... 7-19
+Peel Ply......................................................... 7-21
+Layup Tapes.................................................. 7-21
+Perforated Release Film ............................... 7-21
+Solid Release Film ........................................ 7-21
+Breather Material .......................................... 7-21
+Vacuum Bag ................................................. 7-21
+Vacuum Equipment .......................................... 7-22
+Vacuum Compaction Table ........................... 7-22
+Heat Sources .................................................. 7-22
+xiv
+

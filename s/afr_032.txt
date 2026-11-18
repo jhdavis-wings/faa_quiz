@@ -1,0 +1,3445 @@
+FAA-H-8083-31B Airframe Handbook, chapter 9 (Aircraft Electrical System), PDF pages 476-494
+
+===== PDF PAGE 476 =====
+a frequency of 400 Hz (±10 percent). The system must ensure
+power limits are not exceeded. AC generators are connected
+to the appropriate distribution buses at the appropriate time,
+and generators are in phase when needed. There is also the
+need to monitor and control any external power supplied to
+the aircraft, as well as control of all DC electrical power.
+Two electronic line replaceable units are used to control the
+electrical power on a typical large aircraft. The generator
+control unit (GCU) is used for control of AC generator
+functions, such as voltage regulation and frequency control.
+The bus power control unit (BPCU) is used to control
+the distribution of electrical power between the various
+distribution buses on the aircraft. The GCU and BPCU
+work together to control electrical power, detect faults, take
+corrective actions when needed, and report any defect to the
+pilots and the aircraft’s central maintenance system. There
+is typically one GCU for each AC generator and at least one
+BPCU to control bus connections. These LRUs are located
+in the aircraft’s electronics equipment bay and are designed
+for easy replacement.
+When the pilot calls for generator power by activating the
+generator control switch on the flight deck, the GCU monitors
+the system to ensure correct operation. If all systems are
+operating within limits, the GCU energizes the appropriate
+generator circuits and provides voltage regulation for the
+system. The GCU also monitors AC output to ensure a
+constant 400-Hz frequency. If the generator output is within
+limits, the GCU then connects the electrical power to the main
+generator bus through an electrical contactor (solenoid). These
+contactors are often called generator breakers (GB) since
+they break (open) or make (close) the main generator circuit.
+After generator power is available, the BPCU activates various
+contactors to distribute the electrical power. The BPCU
+monitors the complete electrical system and communicates
+with the GCU to ensure proper operation. The BPCU employs
+remote current sensors known as a current transformers (CT)
+to monitor the system. [Figure 9-103]
+A CT is an inductive unit that surrounds the main power
+cables of the electrical distribution system. As AC power
+flows through the main cables, the CT receives an induced
+voltage. The amount of CT voltage is directly related to the
+current flowing through the cable. The CT connects to the
+BPCU, which allows accurate current monitoring of the
+system. A typical aircraft employs several CTs throughout
+the electrical system.
+The BPCU is a dedicated computer that controls the electrical
+connections between the various distribution buses found on
+the aircraft. The BPCU uses contactors (solenoids) called bus
+
+Current transformer
+
+BPCU
+CT output
+Main AC power cable
+Figure 9-103. Current transformer.
+
+tie breakers (BTB) for connection of various circuits. These
+BTBs open/close the connections between the buses as needed
+for system operation as called for by the pilots and the BPCU.
+This sounds like a simple task, yet to ensure proper operation
+under a variety of conditions, the bus system becomes very
+complex. There are three common types of distribution bus
+systems found on transport category aircraft: split bus, parallel
+bus, and split parallel.
+Split-Bus Power Distribution Systems
+Modern twin-engine aircraft, such as the Boeing 737, 757,
+777, Airbus A-300, A-320, and A-310, employ a split-bus
+power distribution system. During normal conditions, each
+engine-driven AC generator powers only one main AC bus.
+The buses are kept split from each other, and two generators
+can never power the same bus simultaneously. This is very
+important since the generator output current is not phase
+regulated. (If two out-of-phase generators were connected
+to the same bus, damage to the system would occur.) The
+split-bus system does allow both engine-driven generators
+to power any given bus, but not at the same time. Generators
+must remain isolated from each other to avoid damage. The
+GCUs and BPCU ensures proper generator operation and
+power distribution.
+On all modern split bus systems, the APU can be started
+and operated during flight. This allows the APU generator
+to provide back-up power in the event of a main generator
+failure. A fourth emergency generator powered by the ram air
+turbine is also available if the other generators fail.
+The four AC generators are shown at the bottom of
+Figure 9-104. These generators are connected to their
+respective buses through the generator breakers. For example,
+generator 1 sends current through GB1 to AC bus 1. AC bus
+1 feeds a variety of primary electrical loads, and also feeds
+sub-buses that in turn power additional loads.
+9-60
+
+===== PDF PAGE 477 =====
+With both generators operating and all systems normal, AC
+bus 1 and AC bus 2 are kept isolated. Typically during flight,
+the APB (bottom center of Figure 9-104) would be open and
+the APU generator off; the emergency generator (bottom
+right) would also be off and disconnected. If generator one
+should fail, the following happens:
+1.
+
+The GB 1 is opened by the GCU to disconnect the
+failed generator.
+
+2.
+
+The BPCU closes BTB 1 and BTB 2. This supplies
+AC power to AC bus 1 from generator 2.
+
+3.
+
+The pilots start the APU and connect the APU
+generator. At that time, the BPCU and GCUs move the
+appropriate BTBs to correctly configure the system so
+the APU powers bus 1 and generator 2 powers bus 2.
+Once again, two AC generators operate independently
+to power AC bus 1 and 2.
+
+If all generators fail, AC is also available through the static
+inverter (center of Figure 9-104). The inverter is powered
+from the hot battery bus and used for essential AC loads if all
+AC generators fail. Of course, the GCUs and BPCU take the
+appropriate actions to disconnect defective units and continue
+BAT 1
+
+to feed essential AC loads using inverter power.
+To produce DC power, AC bus 1 sends current to its
+transformer rectifier (TR), TR 1 (center left of Figure 9-104).
+The TR unit is used to change AC to DC. The TR contains
+a transformer to step down the voltage from 115-volt AC to
+26-volt AC and a rectifier to change the 26-volt AC to 26volt DC. The output of the TR is therefore compatible with
+the aircraft battery at 26-volt DC. Since DC power is not
+phase sensitive, the DC buses are connected during normal
+operation. In the event of a bus problem, the BPCU may
+isolate one or more DC buses to ensure correct distribution
+of DC power. This aircraft contains two batteries that are
+used to supply emergency DC power.
+Parallel Systems
+Multiengine aircraft, such as the Boeing 727, MD-11, and
+the early Boeing 747, employ a parallel power distribution
+system. During normal flight conditions, all engine-driven
+generators connect together and power the AC loads. In this
+configuration, the generators are operated in parallel; hence
+the name parallel power distribution system. In a parallel
+system, all generator output current must be phase regulated.
+
+BAT 2
+
+HOT BUS 1
+
+HOT BUS 2
+
+DC BUS 1
+
+DC
+
+BAT BUS
+
+DC BUS 2
+
+DC ESS BUS
+
+ESS TR
+
+STAT INV
+
+TR 1
+
+TR 2
+
+AC ESS INV
+
+AC ESS
+
+AC BUS 1
+
+AC BUS 2
+BTB 1
+
+GB 1
+
+BTB 2
+
+APB
+
+GEN
+1
+
+GB 2
+
+APU
+GEN
+
+EXT
+PWR
+
+EGB
+
+GEN
+2
+
+EMER
+GEN
+
+Figure 9-104. Schematic of split-bus power distribution system.
+
+9-61
+
+===== PDF PAGE 478 =====
+Before generators are connected to the same bus, their output
+frequency must be adjusted to ensure the AC output reaches
+the positive and negative peaks simultaneously. During the
+flight, generators must maintain this in-phase condition for
+proper operation.
+One advantage of parallel systems is that in the event of a
+generator failure, the buses are already connected and the
+defective generator need only be isolated from the system.
+A paralleling bus, or synchronizing bus, is used to connect
+the generators during flight. The synchronizing bus is often
+referred to as the sync bus. Most of these systems are less
+automated and require that flight crew monitor systems and
+manually control bus contactors. BTBs are operated by the
+flight crew through the electrical control panel and used to
+connect all necessary buses. GBs are used to connect and
+disconnect the generators.
+Figure 9-105 shows a simplified parallel power distribution
+system. This aircraft employs three main-engine driven
+generators and one APU generator. The APU (bottom right)
+
+is not operational in flight and cannot provide backup power.
+The APU generator is for ground operations only. The three
+main generators (bottom of Figure 9-105) are connected to
+their respective AC bus through GBs one, two, and three.
+The AC buses are connected to the sync bus through three
+BTBs. In this manner, all three generators share the entire AC
+electrical loads. Keep in mind, all generators connected to
+the sync bus must be in phase. If a generator fails, the flight
+crew would simply isolate the defective generator and the
+flight would continue without interruption.
+The number one and two DC buses (Figure 9-105 top left)
+are used to feed the DC electrical loads of the aircraft. DC
+bus 1 receives power form AC bus 1 though TR1. DC bus
+2 is fed in a similar manner from AC bus 2. The DC buses
+also connect to the battery bus and eventually to the battery.
+The essential DC bus (top left) can be fed from DC bus 1
+or the essential TR. A diode prevents the essential DC bus
+from powering DC bus 1. The essential DC bus receives
+power from the essential TR, which receives power from the
+essential AC bus. This provides an extra layer of redundancy
+
+R52
+BAT
+
+28V DC
+
+DC BUS 1
+
+ESS
+
+BUS
+
+R52
+
+DC BUS 2
+
+HOT BAT BUS
+BUS
+
+ESS TR
+
+TR 1
+
+TR 2
+
+R56
+ESS AC BUS
+
+SYNC BUS
+EXT
+PWR
+RECP1
+
+115V
+BTB
+
+BTB
+
+AC BUS 1
+
+BTB
+
+AC BUS 2
+
+AC BUS 3
+
+GB
+
+GB
+
+GB
+
+GB
+
+GEN
+1
+
+GEN
+2
+
+GEN
+3
+
+APU
+GEN
+
+Figure 9-105. Parallel power distribution system.
+
+9-62
+
+===== PDF PAGE 479 =====
+since the essential AC bus can be isolated and fed from any
+main generator. Figure 9-105 shows generator 3 powering
+the essential AC bus.
+Split-Parallel Systems
+A split-parallel bus basically employs the best of both splitbus and the parallel-bus systems. The split-parallel system
+is found on the Boeing 747-400 and contains four generators
+driven by the main engines and two APU-driven generators.
+The system can operate with all generators in parallel, or
+the generators can be operated independently as in a splitbus system. During a normal flight, all four engine-driven
+generators are operated in parallel. The system is operated
+in split-bus mode only under certain failure conditions or
+when using external power. The Boeing 747-400 splitparallel system is computer controlled using four GCUs and
+two BPCUs. There is one GCU controlling each generator;
+BPCU 1 controls the left side bus power distribution, and
+BPCU 2 controls the right side bus power. The GCUs and
+BPCUs operate similarly to those previously discussed under
+the split-bus system.
+Figure 9-106 shows a simplified split-parallel power
+distribution system. The main generators (top of Figure 9-106)
+are driven by the main turbine engines. Each generator is
+connected to its load bus through a generator control breaker
+(GCB). The generator control unit closes the GCB when the
+pilot calls for generator power and all systems are operating
+normally. Each load bus is connected to various electrical
+
+systems and additional sub-buses. The BTBs are controlled
+by the BPCU and connect each load bus to the left and right
+sync bus. A split systems breaker (SSB) is used to connect
+the left and right sync buses and is closed during a normal
+flight. With the SSB, GCBs, and BTBs, in the closed position
+the generators operate in parallel. When operating in parallel,
+all generators must be in phase.
+If the aircraft electrical system experiences a malfunction,
+the control units make the appropriate adjustments to ensure
+all necessary loads receive electrical power. For example, if
+generator 1 fails, GCU 1 detects the fault and commands GCB
+1 to open. With GCB 1 open, load bus 1 now feeds from
+the sync bus and the three operating generators. In another
+example, if load bus 4 should short to ground, BPCU 4 opens
+the GCB 4 and BTB 4. This isolates the shorted bus (load
+bus 4). All loads on the shorted bus are no longer powered,
+and generator 4 is no longer available. However, with three
+remaining generators operational, the flight continues safely.
+As do all large aircraft, the Boeing 747-400 contains a DC
+power distribution system. The DC system is used for battery
+and emergency operations. The DC system is similar to those
+previously discussed, powered by TR units. The TRs are
+connected to the AC buses and convert AC into 26-volt DC.
+The DC power systems are the final backups in the event of
+a catastrophic electrical failure. The systems most critical to
+fly the aircraft can typically receive power from the battery.
+This aircraft also contains two static inverters to provide
+emergency AC power when needed.
+
+GEN
+2
+
+GEN
+1
+
+GCB 1
+
+GCB 2
+
+AC LOAD BUS 1
+
+AC LOAD BUS 2
+
+BTB 1
+
+BTB 2
+
+GEN
+4
+
+GEN
+3
+
+GCB 3
+
+GCB 4
+
+AC LOAD BUS 3
+
+BTB 3
+
+AC LOAD BUS 4
+
+BTB 4
+
+SSB
+LEFT SYNC
+LEFT
+BUS
+SYNC BUS
+
+RIGHT SYNC BUS
+
+APB
+
+APB
+
+APU 1
+
+External power 1
+
+APU 2
+
+EXP
+
+EXP
+
+External power 2
+
+Figure 9-106. Split-parallel distribution system.
+
+9-63
+
+===== PDF PAGE 480 =====
+Wiring Installation
+Wiring Diagrams
+Electrical wiring diagrams are included in most aircraft
+service manuals and specify information, such as the size
+of the wire and type of terminals to be used for a particular
+application. Furthermore, wiring diagrams typically identify
+each component within a system by its part number and its
+serial number, including any changes that were made during
+the production run of an aircraft. Wiring diagrams are often
+used for troubleshooting electrical malfunctions.
+
+Block Diagrams
+A block diagram is used as an aid for troubleshooting complex
+electrical and electronic systems. A block diagram consists of
+individual blocks that represent several components, such as a
+printed circuit board or some other type of replaceable module.
+Figure 9-107 is a block diagram of an aircraft electrical system.
+
+Pictorial Diagrams
+
+operation, and therefore does not show parts as they actually
+appear or function. [Figure 9-109] However, schematic
+diagrams do indicate the location of components with
+respect to each other. Schematic diagrams are best utilized
+for troubleshooting.
+Wire Types
+The satisfactory performance of any modern aircraft depends
+to a very great degree on the continuing reliability of electrical
+systems and subsystems. Improperly or carelessly maintained
+wiring can be a source of both immediate and potential
+danger. The continued proper performance of electrical
+systems depends on the knowledge and techniques of the
+technician who installs, inspects, and maintains the electrical
+system wires and cables.
+Procedures and practices outlined in this section are general
+recommendations and are not intended to replace the
+manufacturer’s instructions and approved practices.
+A wire is described as a single, solid conductor, or as a
+stranded conductor covered with an insulating material.
+Figure 9-110 illustrates these two definitions of a wire.
+Because of in-flight vibration and flexing, conductor round
+wire should be stranded to minimize fatigue breakage.
+
+Schematic Diagrams
+
+The term “cable,” as used in aircraft electrical installations,
+includes:
+
+R ALT BUS
+
+INV B
+T/R
+
+DC
+EXT
+PWR
+
+EMER BAT
+RLY 1A
+E
+
+L FEEDER
+
+L GEN
+
+L GEN TIE Bus
+
+L
+AFT
+
+NORM BAT
+RLY 1
+
+BAT BUS 1
+
+E
+
+L
+FWD
+
+DC
+EXT
+PWR
+
+APU
+ALT
+
+EMER
+200A
+TRANS
+RECT
+
+Bat 1
+
+N
+L GEN
+EMER RLY
+E
+
+RCCO
+
+SEC INV
+BUS CONT
+RLY
+INV
+B
+
+CONT
+RLY
+
+APU ALT
+CONT RLY
+
+MAIN INV
+BUS CONT
+RLY
+
+INV A
+T/R
+INV
+A
+
+L
+ALT
+
+CONT
+RLY
+
+L ALT
+CONT RLY
+
+L AC MON BUS
+
+E
+EMER
+FEEDER
+
+PROTECTORS
+
+L
+FOR RLY
+CONT
+RLY 1
+
+CONT
+RLY
+
+E
+
+EMER BAT
+RLY 1
+
+N
+
+EXT PWR
+CONT RLY
+
+INV
+C
+
+L ALT BUS
+
+EMER
+BUS RLY
+
+EMER TIE Bus
+
+N
+
+ESS DC Bus
+
+MAIN DC Bus
+
+BUS TIE
+RLY 1
+
+Bat 2
+
+Windows
+& lights
+
+INV C
+T/R
+
+EMER BAT
+RLY2A
+
+BUS TIE
+RLY 2
+N
+
+CONT
+RLY
+
+MAIN INV BUS
+
+E
+
+DC
+EXT PWR
+DIST RLY
+
+DC
+EXT PWR
+RLY
+
+N
+EMER BAT
+RLY 2
+
+PROTECTORS
+
+TR RCCO
+
+N
+
+R
+AFT
+
+NORM BAT
+RLY 2
+
+AC EXT PWR
+
+R FEEDER
+R
+FWD
+
+R
+ALT
+
+E
+
+BAT BUS 2
+
+R GEN
+
+R GEN
+EMER RLY
+
+RCCO
+R GEN TIE Bus
+
+R GEN
+
+SEC INV BUS
+
+CONT
+RLY
+
+INST INV
+BUS CONT
+RLY
+
+INST INV BUS
+
+A schematic diagram is used to illustrate a principle of
+
+R AC MON BUS
+
+In a pictorial diagram, pictures of components are used
+instead of the conventional electrical symbols found
+in schematic diagrams. A pictorial diagram helps the
+maintenance technician visualize the operation of a
+system. [Figure 9-108]
+
+Equip AC BUS
+TIR
+CONT RLY
+INV
+E
+
+Figure 9-107. Block diagram of an aircraft electrical system.
+
+9-64
+
+===== PDF PAGE 481 =====
+SYSTEM ARINC 629 BUSSES
+APU GEN
+
+AUTO
+ISLN
+
+AUTO
+ISLN
+
+ON
+OFF
+
+L BUS TIE
+LEFT
+GCU
+
+ON
+OFF
+
+R BUS TIE
+
+APU
+GCU
+
+BPCU
+
+RIGHT
+GCU
+
+ON
+OFF
+R GEN CTRL
+
+L GEN CTRL
+APU
+GEN
+
+LEFT
+IDG
+GCB
+
+APB
+
+LEFT MAIN AC BUS
+
+BTB
+
+PRI
+EP
+
+RIGHT
+IDG
+
+GHR
+
+GCB
+
+TIE BUS
+
+RIGHT MAIN AC BUS
+
+BTB
+
+AC GH BUS
+
+GSTR
+GSSR
+Analog control
+
+GND SVC BUS
+
+Figure 9-108. Pictorial diagram of an aircraft electrical system.
+
+L
+IDG
+
+APU
+GEN
+
+BU
+GEN
+
+SECONDARY
+EXT PWR RAT
+GEN
+
+PRIMARY
+EXT PWR
+PMG
+
+PMG
+L GCB
+
+SEC
+EPC
+
+APB
+
+L MAIN AC
+
+L BTB
+
+L TBB
+L XFR
+
+L UB
+ELCU
+
+L CCB
+
+L TRU
+
+DC BUS
+TIE RLY
+
+HOT BAT
+
+BAT
+PMG
+(L1)
+
+BAT
+
+AC STBY
+PWR RLY
+
+L FCDC PSA
+
+R MAIN AC
+
+R BTB
+R UTIL
+
+TRU C1 RLY
+
+GHR
+
+R TBB
+
+R UB
+ELCU
+
+R XFR
+
+TRU C2 RLY
+
+TRU C1
+
+GH AC
+
+R TRU
+
+GH TRU
+
+GSTR
+
+GH DC
+GSSR
+
+TRU C2
+R DC
+
+MAIN
+BAT. RLY
+
+MAIN
+BATTERY
+
+R GCB
+
+R CCB
+
+L DC
+MAIN BAT
+CHARGER
+
+PRI
+EPC
+
+BACKUP GEN
+CONVERTER
+
+L UTIL
+
+R
+IDG
+
+BU
+GEN
+
+BAT - CPT
+ISLN RLY
+
+CPT FIL INST
+
+F/0 FIL INST
+
+APU
+BATTERY
+
+BAT 2
+
+C FCDC PSA
+
+BAT
+PMG
+(L2, R2)
+
+APU BAT
+CHARGER
+APU BAT
+
+GND PWR
+BAT. RLY
+
+STATIC
+INVERTER
+
+STANDBY AC
+
+GND SVC
+
+CPT - F/0
+BUS TIE RLY
+
+BAT
+PMG
+(R1)
+
+R FCDC PSA
+
+Figure 9-109. Schematic diagram.
+
+9-65
+
+===== PDF PAGE 482 =====
+1.
+
+Two or more separately insulated conductors in the
+same jacket.
+
+2.
+
+Two or more separately insulated conductors twisted
+together (twisted pair).
+
+3.
+
+One or more insulated conductors covered with a
+metallic braided shield (shielded cable).
+
+4.
+
+A single insulated center conductor with a metallic
+braided outer conductor (radio frequency cable).
+
+Wire single solid conductor
+
+Solid conductor
+
+Stranded conductor
+
+A
+
+B
+
+The term “wire harness” is used when an array of insulated
+conductors are bound together by lacing cord, metal bands,
+or other binding in an arrangement suitable for use only in
+specific equipment for which the harness was designed; it
+may include terminations. Wire harnesses are extensively
+used in aircraft to connect all the electrical components.
+[Figure 9-111]
+For many years, the standard wire in light aircraft has been
+MIL-W-5086A, which uses a tin-coated copper conductor
+rated at 600 volts and temperatures of 105 °C. This basic wire
+is then coated with various insulating coatings. Commercial
+and military aircraft use wire that is manufactured under
+MIL-W-22759 specification, which complies with current
+military and FAA requirements.
+The most important consideration in the selection of aircraft
+wire is properly matching the wire’s construction to the
+application environment. Wire construction that is suitable for
+the most severe environmental condition to be encountered
+should be selected. Wires are typically categorized as being
+suitable for either open wiring or protected wiring application.
+The wire temperature rating is typically a measure of the
+insulation’s ability to withstand the combination of ambient
+temperature and current-related conductor temperature rise.
+
+Conductor
+The two most generally used conductors are copper and
+aluminum. Each has characteristics that make its use
+advantageous under certain circumstances. Also, each has
+certain disadvantages. Copper has a higher conductivity; is
+more ductile; has relatively high tensile strength; and can be
+easily soldered. Copper is more expensive and heavier than
+aluminum. Although aluminum has only about 60 percent of
+the conductivity of copper, it is used extensively. Its lightness
+makes possible long spans, and its relatively large diameter
+for a given conductivity reduces corona (the discharge of
+electricity from the wire when it has a high potential). The
+discharge is greater when small diameter wire is used than
+when large diameter wire is used. Some bus bars are made of
+aluminum instead of copper where there is a greater radiating
+surface for the same conductance. The characteristics of
+copper and aluminum are compared in Figure 9-112.
+
+Conductors
+
+Figure 9-110. Aircraft electrical cable.
+
+Figure 9-111. Shielded wire harness.
+
+Plating
+Bare copper develops a surface oxide coating at a rate
+dependent on temperature. This oxide film is a poor conductor
+of electricity and inhibits determination of wire. Therefore,
+all aircraft wiring has a coating of tin, silver, or nickel that
+has far slower oxidation rates.
+1.
+
+Tin-coated copper is a very common plating material.
+Its ability to be successfully soldered without
+highly active fluxes diminishes rapidly with time
+after manufacture. It can be used up to the limiting
+temperature of 150 °C.
+
+2.
+
+Silver-coated wire is used where temperatures do not
+exceed 200 °C (392 °F).
+
+3.
+
+Nickel-coated wire retains its properties beyond
+260 °C, but most aircraft wire using such coated
+9-66
+
+===== PDF PAGE 483 =====
+Characteristic
+
+Copper
+
+Aluminum
+
+Tensile strength (lb-in)
+
+55,000
+
+25,000
+
+Tensile strength for same conductivity (lb)
+
+55,000
+
+40,000
+
+Weight for same conductivity (lb)
+
+100
+
+48
+
+Cross section for same conductivity (CM)
+
+100
+
+160
+
+Specific resistance (ohm/mil ft)
+
+10.6
+
+17
+
+Figure 9-112. Aircraft electrical cable.
+
+strands has insulation systems that cannot exceed
+that temperature on long-term exposure. Soldered
+terminations of nickel-plated conductor require the
+use of different solder sleeves or flux than those used
+with tin- or silver-plated conductor.
+
+Insulation
+Two fundamental properties of insulation materials are
+insulation resistance and dielectric strength. These are
+entirely different and distinct properties.
+Insulation resistance is the resistance to current leakage
+through and over the surface of insulation materials.
+Insulation resistance can be measured with a megohmmeter/
+insulation tester without damaging the insulation, and data so
+obtained serves as a useful guide in determining the general
+condition of the insulation. However, the data obtained in
+this manner may not give a true picture of the condition of
+the insulation. Clean, dry insulation having cracks or other
+faults might show a high value of insulation resistance but
+would not be suitable for use.
+Dielectric strength is the ability of the insulator to withstand
+potential difference and is usually expressed in terms of
+the voltage at which the insulation fails because of the
+electrostatic stress. Maximum dielectric strength values can
+be measured by raising the voltage of a test sample until the
+insulation breaks down.
+
+inspection is infrequent over extended periods of time, it
+is necessary to give special consideration to heat-aging
+characteristics in the selection of wire. Resistance to heat is
+of primary importance in the selection of wire for aircraft
+use, as it is the basic factor in wire rating. Where wire may
+be required to operate at higher temperatures due either
+to high ambient temperatures, high current loading, or a
+combination of the two, selection should be made on the
+basis of satisfactory performance under the most severe
+operating conditions.
+
+Wire Shielding
+With the increase in number of highly sensitive electronic
+devices found on modern aircraft, it has become very
+important to ensure proper shielding for many electric circuits.
+Shielding is the process of applying a metallic covering
+to wiring and equipment to eliminate electromagnetic
+interference (EMI). EMI is caused when electromagnetic
+fields (radio waves) induce high frequency (HF) voltages in
+a wire or component. The induced voltage can cause system
+inaccuracies or even failure.
+Use of shielding with 85 percent coverage or greater is
+recommended. Coaxial, triaxial, twinaxial, or quadraxial
+cables should be used, wherever appropriate, with their
+shields connected to ground at a single point or multiple
+points, depending upon the purpose of the shielding.
+[Figure 9-113] The airframe grounded structure may also
+be used as an EMI shield.
+
+Wire Substitutions
+When a replacement wire is required in the repair and
+modification of existing aircraft, the maintenance manual
+for that aircraft must first be reviewed to determine if the
+original aircraft manufacturer (OAM) has approved any
+substitution. If not, then the manufacturer must be contacted
+for an acceptable replacement.
+
+The type of conductor insulation material varies with the
+type of installation. Characteristics should be chosen based
+on environment, such as abrasion resistance, arc resistance,
+corrosion resistance, cut-through strength, dielectric strength,
+flame resistant, mechanical strength, smoke emission, fluid
+resistance, and heat distortion. Such types of insulation
+materials (e.g., PVC/nylon, Kapton®, and Teflon®) are
+no longer used for new aircraft designs, but might still
+be installed on older aircraft. Insulation materials for new
+aircraft designs are made of Tefzel®, Teflon®/Kapton®/
+Teflon® and PTFE/Polyimide/PTFE. The development of
+better and safer insulation materials is ongoing.
+Since electrical wire may be installed in areas where
+
+Figure 9-113. Shielded wire harness for flight control.
+
+9-67
+
+===== PDF PAGE 484 =====
+Areas Designated as Severe Wind & Moisture
+Problem (SWAMP)
+SWAMP areas differ from aircraft to aircraft but are usually
+wheel wells, near wing flaps, wing folds, pylons, and other
+exterior areas that may have a harsh environment. Wires
+in these areas have often an exterior jacket to protect them
+from the environment. Wires for these applications often
+have design features incorporated into their construction
+that may make the wire unique; therefore, an acceptable
+substitution may be difficult, if not impossible, to find. It
+is very important to use the wire type recommended in the
+aircraft manufacturer’s maintenance handbook. Insulation or
+jacketing varies according to the environment. [Figure 9-114]
+Wire Size Selection
+Wire is manufactured in sizes according to a standard
+known as the American wire gauge (AWG). As shown in
+Figure 9-115, the wire diameters become smaller as the
+gauge numbers become larger. Typical wire sizes range from
+a number 40 to number 0000.
+Gauge numbers are useful in comparing the diameter of wires,
+but not all types of wire or cable can be measured accurately
+with a gauge. A wire gauge tool may be used to determine the
+size of an unmarked wire. Larger wires are usually stranded
+to increase their flexibility. In such cases, the total area can
+be determined by multiplying the area of one strand (usually
+computed in circular mils when diameter or gauge number is
+known) by the number of strands in the wire or cable.
+Several factors must be considered in selecting the size of
+wire for transmitting and distributing electric power.
+1.
+
+Wires must have sufficient mechanical strength to
+allow for service conditions.
+
+2.
+
+Allowable power loss (I2 R loss) in the line represents
+electrical energy converted into heat. The use of large
+conductors reduces the resistance and therefore the I2
+R loss. However, large conductors are more expensive,
+
+heavier, and need more substantial support.
+3.
+
+If the source maintains a constant voltage at the input
+to the lines, any variation in the load on the line causes
+a variation in line current and a consequent variation
+in the IR drop in the line. A wide variation in the IR
+drop in the line causes poor voltage regulation at the
+load. The obvious remedy is to reduce either current
+or resistance. A reduction in load current lowers
+the amount of power being transmitted, whereas a
+reduction in line resistance increases the size and
+weight of conductors required. A compromise is
+generally reached whereby the voltage variation at
+the load is within tolerable limits and the weight of
+line conductors is not excessive.
+
+4.
+
+When current is drawn through the conductor, heat is
+generated. The temperature of the wire rises until the
+heat radiated, or otherwise dissipated, is equal to the
+heat generated by the passage of current through the
+line. If the conductor is insulated, the heat generated
+in the conductor is not so readily removed as it
+would be if the conductor were not insulated. Thus,
+to protect the insulation from too much heat, the
+current through the conductor must be maintained
+below a certain value. When electrical conductors are
+installed in locations where the ambient temperature
+is relatively high, the heat generated by external
+sources constitutes an appreciable part of the total
+conductor heating. Allowance must be made for
+the influence of external heating on the allowable
+conductor current, and each case has its own specific
+limitations. The maximum allowable operating
+temperature of insulated conductors varies with the
+type of conductor insulation being used.
+
+If it is desirable to use wire sizes smaller than #20, particular
+attention should be given to the mechanical strength and
+installation handling of these wires (e.g., vibration, flexing,
+and termination). Wires containing less than 19 strands
+must not be used. Consideration should be given to the use
+of high-strength alloy conductors in small-gauge wires to
+increase mechanical strength. As a general practice, wires
+smaller than size #20 should be provided with additional
+clamps and be grouped with at least three other wires. They
+should also have additional support at terminations, such
+as connector grommets, strain relief clamps, shrinkable
+sleeving, or telescoping bushings. They should not be used in
+applications where they are subjected to excessive vibration,
+repeated bending, or frequent disconnection from screw
+termination. [Figure 9-116]
+
+Current Carrying Capacity
+Figure 9-114. Wire harness with protective jacket.
+
+In some instances, the wire may be capable of carrying more
+9-68
+
+===== PDF PAGE 485 =====
+Cross Section
+
+Ohms per 1,000 ft
+
+Gauge Number
+
+Diameter (mils)
+
+Circular (mils)
+
+Square inches
+
+25 °C (77 °F)
+
+65 °C (149 °F)
+
+0000
+
+460.0
+
+212,000.0
+
+0.166
+
+0.0500
+
+0.0577
+
+000
+
+410.0
+
+168,000.0
+
+0.132
+
+0.0630
+
+0.0727
+
+00
+
+365.0
+
+133,000.0
+
+0.105
+
+0.0795
+
+0.0917
+
+0
+
+325.0
+
+106,000.0
+
+0.0829
+
+0.100
+
+0.166
+
+1
+
+289.0
+
+83,700.0
+
+0.0657
+
+0.126
+
+0.146
+
+2
+
+258.0
+
+66,400.0
+
+0.0521
+
+0.159
+
+0.184
+0.232
+
+3
+
+229.0
+
+52,600.0
+
+0.0413
+
+0.201
+
+4
+
+204.0
+
+41,700.0
+
+0.0328
+
+0.253
+
+0.292
+
+5
+
+182.0
+
+33,100.0
+
+0.0260
+
+0.319
+
+0.369
+
+6
+
+162.0
+
+26,300.0
+
+0.0206
+
+0.403
+
+0.465
+
+7
+
+144.0
+
+20,800.0
+
+0.0164
+
+0.508
+
+0.586
+
+8
+
+128.0
+
+16,500.0
+
+0.0130
+
+0.641
+
+0.739
+
+9
+
+114.0
+
+13,100.0
+
+0.0103
+
+0.808
+
+0.932
+
+10
+
+102.0
+
+10,400.0
+
+0.00815
+
+1.02
+
+1.18
+1.48
+
+11
+
+91.0
+
+8,230.0
+
+0.00647
+
+1.28
+
+12
+
+81.0
+
+6,530.0
+
+0.00513
+
+1.62
+
+1.87
+
+13
+
+72.0
+
+5,180.0
+
+0.00407
+
+2.04
+
+2.36
+
+14
+
+64.0
+
+4,110.0
+
+0.00323
+
+2.58
+
+2.97
+
+15
+
+57.0
+
+3,260.0
+
+0.00256
+
+3.25
+
+3.75
+
+16
+
+51.0
+
+2,580.0
+
+0.00203
+
+4.09
+
+4.73
+
+17
+
+45.0
+
+2,050.0
+
+0.00161
+
+5.16
+
+5.96
+
+18
+
+40.0
+
+1,620.0
+
+0.00128
+
+6.51
+
+7.51
+9.48
+
+19
+
+36.0
+
+1,290.0
+
+0.00101
+
+8.21
+
+20
+
+32.0
+
+1,020.0
+
+0.000802
+
+10.40
+
+11.90
+
+21
+
+28.5
+
+810.0
+
+0.000636
+
+13.10
+
+15.10
+
+22
+
+25.3
+
+642.0
+
+0.000505
+
+16.50
+
+19.00
+
+23
+
+22.6
+
+509.0
+
+0.000400
+
+20.80
+
+24.00
+
+24
+
+20.1
+
+404.0
+
+0.000317
+
+26.20
+
+30.20
+
+25
+
+17.9
+
+320.0
+
+0.000252
+
+33.00
+
+38.10
+
+26
+
+15.9
+
+254.0
+
+0.000200
+
+41.60
+
+48.00
+
+52.50
+
+60.60
+
+27
+
+14.2
+
+202.0
+
+0.000158
+
+28
+
+12.6
+
+160.0
+
+0.000126
+
+66.20
+
+76.40
+
+29
+
+11.3
+
+127.0
+
+0.0000995
+
+83.40
+
+96.30
+
+30
+
+10.0
+
+101.0
+
+0.0000789
+
+105.00
+
+121.00
+
+31
+
+8.9
+
+79.7
+
+0.0000626
+
+133.00
+
+153.00
+
+32
+
+8.0
+
+63.2
+
+0.0000496
+
+167.00
+
+193.00
+
+33
+
+7.1
+
+50.1
+
+0.0000394
+
+211.00
+
+243.00
+
+34
+
+6.3
+
+39.8
+
+0.0000312
+
+266.00
+
+307.00
+
+335.00
+
+387.00
+
+35
+
+5.6
+
+31.5
+
+0.0000248
+
+36
+
+5.0
+
+25.0
+
+0.0000196
+
+423.00
+
+488.00
+
+37
+
+4.5
+
+19.8
+
+0.0000156
+
+533.00
+
+616.00
+
+38
+
+4.0
+
+15.7
+
+0.0000123
+
+673.00
+
+776.00
+
+39
+
+3.5
+
+12.5
+
+0.0000098
+
+848.00
+
+979.00
+
+40
+
+3.1
+
+9.9
+
+0.0000078
+
+1,070.00
+
+1,230.00
+
+Figure 9-115. American wire gauge for standard annealed solid copper wire.
+
+9-69
+
+===== PDF PAGE 486 =====
+current than is recommended for the contacts of the related
+connector. In this instance, it is the contact rating that dictates
+the maximum current to be carried by a wire. Wires of larger
+gauge may need to be used to fit within the crimp range of
+connector contacts that are adequately rated for the current
+being carried. Figure 9-117 gives a family of curves whereby
+the bundle derating factor may be obtained.
+Maximum Operating Temperature
+The current that causes a temperature steady state condition
+equal to the rated temperature of the wire should not be
+exceeded. Rated temperature of the wire may be based
+upon the ability of either the conductor or the insulation to
+withstand continuous operation without degradation.
+Single Wire in Free Air
+
+Determining a wiring system’s current-carrying capacity
+begins with determining the maximum current that a
+given-sized wire can carry without exceeding the allowable
+temperature difference (wire rating minus ambient °C).
+The curves are based upon a single copper wire in free air.
+[Figure 9-117]
+Wires in a Harness
+
+When wires are bundled into harnesses, the current derived
+for a single wire must be reduced, as shown in Figure 9-118.
+The amount of current derating is a function of the number
+of wires in the bundle and the percentage of the total wire
+bundle capacity that is being used.
+Harness at Altitude
+
+Since heat loss from the bundle is reduced with increased
+altitude, the amount of current should be derated.
+Figure 9-119 gives a curve whereby the altitude-derating
+factor may be obtained.
+Aluminum Conductor Wire
+
+When aluminum conductor wire is used, sizes should be
+selected on the basis of current ratings shown in Figure 9-120.
+The use of sizes smaller than #8 is discouraged. Aluminum
+wire should not be attached to engine mounted accessories
+or used in areas having corrosive fumes, severe vibration,
+mechanical stresses, or where there is a need for frequent
+disconnection. Use of aluminum wire is also discouraged
+for runs of less than 3 feet. Termination hardware should
+be of the type specifically designed for use with aluminum
+conductor wiring.
+Computing Current Carrying Capacity
+The following section presents some examples on how to
+calculate the load carrying capacity of aircraft electrical
+wire. The calculation is a step by step approach and several
+
+graphs are used to obtain information to compute the current
+carrying capacity of a particular wire.
+Example 1
+Assume a harness (open or braided) consisting of 10 wires,
+size 20, 200 °C rated copper, and 25 wires size 22, 200 °C
+rated copper, is installed in an area where the ambient
+temperature is 60 °C and the aircraft is capable of operating
+at a 35,000 foot altitude. Circuit analysis reveals that 7 of the
+35 wires in the bundle (7⁄35 = 20 percent) are carrying power
+currents near or up to capacity.
+Step 1—Refer to the single wire in free air graph in
+Figure 9-117. Determine the change of temperature of the wire
+to determine free air ratings. Since the wire is in an ambient
+temperature of 60 °C and rated at 200 °C, the change of the
+temperature is 200 °C – 60 °C = 140 °C. Follow the 140 °C
+temperature difference horizontally until it intersects with
+wire size line on Figure 9-117. The free air rating for size 20
+is 21.5 amps, and the free air rating for size 22 is 16.2 amps.
+Step 2—Refer to the bundle derating curves in Figure 9-118.
+The 20 percent curve is selected since circuit analysis indicate
+that 20 percent or less of the wire in the harness would be
+carrying power currents and less than 20 percent of the bundle
+capacity would be used. Find 35 (on the horizontal axis), since
+there are 35 wires in the bundle, and determine a derating
+factor of 0.52 (on the vertical axis) from the 20 percent curve.
+Step 3—Derate the size 22 free air rating by multiplying 16.2
+by 0.52 to get 8.4 amps in harness rating. Derate the size 20
+free air rating by multiplying 21.5 by 0.52 to get 11.2 amps
+in-harness rating.
+Step 4—Refer to the altitude derating curve in Figure 9-119.
+Look for 35,000 feet (on the horizontal axis) since that is the
+altitude at which the aircraft is operating. Note that the wire
+must be derated by a factor of 0.86 (found on the vertical
+axis). Derate the size 22 harness rating by multiplying 8.4
+amps by 0.86 to get 7.2 amps. Derate the size 20 harness
+rating by multiplying 11.2 amps by 0.86 to get 9.6 amps.
+Step 5—To find the total harness capacity, multiply the
+total number of size 22 wires by the derated capacity
+(25 × 7.2 = 180.0 amps) and add to that the number of size
+20 wires multiplied by the derated capacity (10 × 9.6 =
+96.8 amps) and multiply the sum by the 20 percent harness
+capacity factor. Thus, the total harness capacity is (180.0 +
+96.0) × 0.20 = 55.2 amps. It has been determined that the
+total harness current should not exceed 55.2 A, size 22 wire
+should not carry more than 7.2 amps and size 20 wire should
+not carry more than 9.6 amps.
+
+9-70
+
+===== PDF PAGE 487 =====
+CONTINUOUS
+CIRCUIT
+VOLTAGE
+200 115
+
+28
+
+AMPERES
+14
+
+1
+
+1.5
+
+2
+
+3
+
+4
+
+5
+
+7
+
+10
+
+15
+
+20
+
+30
+
+50
+
+70
+
+800 200 100
+
+100
+
+600 150
+
+75
+
+400 100
+360 90
+320 80
+280 70
+240 60
+
+50
+45
+40
+
+200
+
+35
+30
+
+300
+
+350 200
+
+50
+
+25
+
+280 160
+
+40
+
+20
+
+210 120
+
+30
+
+15
+
+175 100
+
+25
+
+12
+
+140
+
+80
+
+20
+
+10
+
+112
+98
+
+64
+56
+
+16
+14
+
+8
+7
+
+84
+
+48
+
+12
+
+6
+
+63
+56
+49
+42
+
+36
+32
+28
+24
+
+9
+8
+7
+6
+
+4
+
+35
+
+20
+
+5
+
+2
+
+7
+
+4
+
+1
+
+0.5
+
+150
+
+Wire length (ft)
+
+700
+630
+560
+490
+420
+
+3
+
+24
+
+22
+
+20
+
+18 16
+
+VOLTAGE DROP
+
+}
+
+CIRCUIT
+VOLTAGE
+200
+
+115
+
+28
+
+14
+
+14
+
+12
+
+10
+
+8
+
+1.5
+
+2
+
+4
+
+2
+
+1
+
+1/0 2/0 3/0 4/0
+
+No. 8 wire at 20 amps
+
+Example 1
+Example 2
+Voltage drop example A
+1
+
+6
+
+No. 12 wire at 20 amps
+No. 14 wire at 20 amps
+3
+
+4
+
+5
+
+7
+
+10
+
+15
+
+20
+
+30
+
+50
+
+1600 400 200
+
+70
+100
+
+1200 300 150
+
+Wire length (ft)
+
+150
+200 100
+180 90
+160 80
+140 70
+120 60
+
+1400
+1260
+1120
+980
+840
+
+800
+720
+640
+560
+480
+
+700
+
+400 100
+
+50
+
+560
+
+320
+
+80
+
+40
+
+420
+
+240
+
+60
+
+30
+
+350
+
+200
+
+50
+
+24
+
+280
+
+160
+
+40
+
+20
+
+224
+196
+
+128
+112
+
+32
+28
+
+16
+14
+
+168
+
+96
+
+24
+
+12
+
+126
+112
+98
+84.
+
+72
+64
+56
+48
+
+18
+16
+14
+12
+
+8
+
+70
+
+40
+
+10
+
+4
+
+14
+
+8
+
+2
+
+1
+
+200
+300
+
+6
+
+24
+
+22
+
+VOLTAGE DROP
+
+WIRE SIZE
+Voltage drop chart
+Continuous flow at 20°
+Tin-plated MIL-W-27759 conductor
+
+20
+
+18 16
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+1
+
+1/0 2/0 3/0 4/0
+
+WIRE SIZE
+NOTE
+Length (LI) is based on conductor temperature of 20 °C.
+To determine length (L2) at a higher conductor temperature,
+use formula in which T2 = estimated conductor temperature °C.
+Voltage drop example B
+
+L2 =
+
+(254.5) (L1)
+(234.5) + (T2)
+
+Figure 9-116. Conductor chart, continuous (top) and intermittent flow (bottom).
+
+9-71
+
+===== PDF PAGE 488 =====
+300
+
+Temperature difference (wire rating minus the ambient °C)
+
+Wire size
+
+26
+
+24
+
+22
+
+20
+
+18
+
+16
+
+14
+
+12
+
+10
+
+200
+
+1
+
+NOT TO BE USED
+AS SINGLE WIRE
+
+1
+
+100
+
+1
+
+90
+80
+70
+60
+50
+40
+
+30
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+8
+
+6
+
+4
+
+2
+
+300
+
+400
+
+70 80 90 100
+
+300
+
+Temperature difference (wire rating minus the ambient °C)
+
+Wire size
+
+1
+
+1/0
+
+2/0
+
+3/0
+
+4/0
+
+200
+
+100
+90
+80
+70
+60
+50
+40
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90 100
+
+200
+
+500
+
+600
+
+700 800 900 1000
+
+Current Amperes
+
+Figure 9-117. Single copper wire in free air.
+
+9-72
+
+===== PDF PAGE 489 =====
+1.00
+0.90
+
+Current derating factor
+
+0.80
+0.70
+0.60
+0.50
+0.40
+
+Bundle loading percent
+
+0.30
+
+20
+
+40
+
+60
+
+80
+
+0.20
+
+100
+
+0.10
+0
+1
+
+3
+
+5
+
+7
+
+9
+
+11
+
+13
+
+15
+
+17
+
+19
+
+21
+
+23
+
+25
+
+27
+
+29
+
+31
+
+33
+
+35
+
+37
+
+39
+
+41
+
+Number of wires in bundle
+
+Figure 9-118. Bundle derating curve.
+
+1.00
+
+Current derating factor
+
+0.95
+
+0.90
+
+0.85
+
+0.80
+
+0.75
+
+0.70
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+Altitude (x1,000 feet)
+
+Figure 9-119. Altitude derating curve.
+
+9-73
+
+===== PDF PAGE 490 =====
+Wire
+size
+
+Continuous duty current
+(amp) wires in bundles, groups,
+or harnesses or conduits
+
+Max.
+resistance
+ohms/1000 feet
+
+Wire conductor temperature rating
+
+#8
+
+@ 105 °C
+30
+
+@ 150 °C
+45
+
+@ 20 °C
+1.093
+
+#6
+
+40
+
+61
+
+0.641
+
+#4
+
+54
+
+82
+
+0.427
+
+#2
+
+76
+
+113
+
+0.268
+
+#1
+
+90
+
+133
+
+0.214
+
+#0
+
+102
+
+153
+
+0.169
+
+#00
+
+117
+
+178
+
+0.133
+
+#000
+
+138
+
+209
+
+0.109
+
+#0000
+
+163
+
+248
+
+0.085
+
+Figure 9-120. Current-carrying capacity and resistance of
+
+aluminum wire.
+
+Step 6—Determine the actual circuit current for each wire in
+the bundle and for the whole bundle. If the values calculated
+in step 5 are exceeded, select the next larger size wire and
+repeat the calculations.
+Example 2
+Assume a harness (open or braided), consisting of 12 size
+12, 200 °C rated copper wires, is operated in an ambient
+temperature of 25 °C at sea level and 60 °C at a 20,000-foot
+altitude. All 12 wires are operated at or near their maximum
+capacity.
+Step 1—Refer to the single wire in free air curve in
+Figure 9-117, determine the temperature difference of the
+wire to determine free air ratings. Since the wire is in ambient
+temperature of 25 °C and 60 °C and is rated at 200 °C, the
+temperature differences are 200 °C – 25 °C = 175 °C and
+200 °C – 60 °C = 140 °C, respectively. Follow the 175 °C
+and the 140 °C temperature difference lines on Figure 9-116
+until each intersects wire size line. The free air ratings of size
+12 are 68 amps and 59 amps, respectively.
+Step 2—Refer to the bundling derating curves in Figure 9-118.
+The 100 percent curve is selected because we know all 12
+wires are carrying full load. Find 12 (on the horizontal
+axis) since there are 12 wires in the bundle and determine
+a derating factor of 0.43 (on the vertical axis) from the 100
+percent curve.
+Step 3—Derate the size #12 free air ratings by multiplying
+68 amps and 61 amps by 0.43 to get 29.2 amps and 25.4
+amps, respectively.
+Step 4—Refer to the altitude derating curve of Figure 9-119,
+look for sea level and 20,000 feet (on the horizontal axis)
+
+since these are the conditions at which the load is carried. The
+wire must be derated by a factor of 1.0 and 0.91, respectively.
+Step 5—Derate the size 12 in a bundle ratings by multiplying
+29.2 amps at sea level and 25.4 amps at 20,000 feet by 1.0
+and 0.91, respectively to obtain 29.2 amps and 23.1 amps.
+The total bundle capacity at sea level and 25 °C ambient
+temperature is 29.2 × 12 = 350.4 amps. At 20,000 feet
+and 60 °C ambient temperature, the bundle capacity is
+23.1 × 12 = 277.2 amps. Each size 12 wire can carry 29.2
+amps at sea level, 25 °C ambient temperature or 23.1 amps
+at 20,000 feet and 60 °C ambient temperature.
+Step 6—Determine the actual circuit current for each wire
+in the bundle and for the bundle. If the values calculated
+in Step 5 are exceeded, select the next larger size wire and
+repeat the calculations.
+
+Allowable Voltage Drop
+The voltage drop in the main power wires from the generation
+source or the battery to the bus should not exceed 2 percent
+of the regulated voltage when the generator is carrying rated
+current or the battery is being discharged at the 5-minute rate.
+The tabulation shown in Figure 9-121 defines the maximum
+acceptable voltage drop in the load circuits between the bus
+and the utilization equipment ground.
+The resistance of the current return path through the aircraft
+structure is generally considered negligible. However, this
+is based on the assumption that adequate bonding to the
+structure or a special electric current return path has been
+provided that is capable of carrying the required electric
+current with a negligible voltage drop. To determine circuit
+resistance, check the voltage drop across the circuit. If the
+voltage drop does not exceed the limit established by the
+aircraft or product manufacturer, the resistance value for
+the circuit may be considered satisfactory. When checking a
+circuit, the input voltage should be maintained at a constant
+value. Figures 9-122 and 9-123 show formulas that may be
+used to determine electrical resistance in wires and some
+typical examples.
+
+Allowable voltage
+drop during
+continuous operation
+
+Intermittent
+operation
+
+14
+
+0.5
+
+1
+
+28
+
+1
+
+2
+
+115
+
+4
+
+8
+
+200
+
+7
+
+14
+
+Nominal system
+voltage
+
+Figure 9-121. Tabulation chart (allowable voltage drop between
+
+bus and utilization equipment ground).
+
+9-74
+
+===== PDF PAGE 491 =====
+The following formula can be used to check the voltage
+drop. The resistance/ft can be found in Figures 9-122 and
+9-123 for the wire size.
+
+size using Figure 9-116, the following must be known:
+1.
+
+The wire length in feet.
+
+2.
+
+The number of amperes of current to be carried.
+
+Calculated voltage drop (VD) = resistance/ft × length ×
+current
+
+3.
+
+The allowable voltage drop permitted.
+
+4.
+
+The required continuous or intermittent current.
+
+Electric Wire Chart Instructions
+To select the correct size of electrical wire, two major
+requirements must be met:
+
+5.
+
+The estimated or measured conductor temperature.
+
+6.
+
+Is the wire to be installed in conduit and/or bundle?
+
+7.
+
+Is the wire to be installed as a single wire in free air?
+
+1.
+
+The wire size should be sufficient to prevent an
+excessive voltage drop while carrying the required
+current over the required distance. [Figure 9-121]
+
+2.
+
+The size should be sufficient to prevent overheating of
+the wire carrying the required current. (See Maximum
+Operating Temperature earlier in this chapter for
+computing current carrying capacity methods.)
+
+To meet the two requirements for selecting the correct wire
+
+Voltage
+drop
+
+Run
+lengths
+(feet)
+
+Circuit
+current
+(amps)
+
+Wire
+size
+from
+chart
+
+Check calculated
+voltage drop (VD)
+= (resistance/feet)
+(length) (current)
+
+1
+
+107
+
+20
+
+No. 6
+
+VD = (0.00044 ohms/feet)
+
+Example A
+Find the wire size in Figure 9-116 using the following known
+information:
+1.
+
+The wire run is 50 feet long, including the ground
+wire.
+
+2.
+
+Current load is 20 amps.
+
+3.
+
+The voltage source is 28 volts from bus to equipment.
+
+4.
+
+The circuit has continuous operation.
+
+5.
+
+Estimated conductor temperature is 20 °C or less. The
+scale on the left of the chart represents maximum wire
+length in feet to prevent an excessive voltage drop
+for a specified voltage source system (e.g., 14V, 28V,
+115V, 200V). This voltage is identified at the top of
+scale and the corresponding voltage drop limit for
+continuous operation at the bottom. The scale (slant
+lines) on top of the chart represents amperes. The scale
+at the bottom of the chart represents wire gauge.
+
+(107 x 20) = 0.942
+0.5
+
+90
+
+20
+
+No. 4
+
+4
+
+88
+
+20
+
+No. 12
+
+7
+
+100
+
+20
+
+No. 14
+
+VD = (0.00028 ohms/feet)
+
+(90 x 20) = 0.504
+VD = (0.00202 ohms/feet)
+
+(88 x 20) = 3.60
+VD = (0.00306 ohms/feet)
+
+(100 x 20) = 6.12
+Figure 9-122. Determining required tin-plated copper wire size
+
+and checking voltage drop.
+
+Maximum Check calculated
+wire run voltage drop (VD)
+length
+= (resistance/feet)
+(feet)
+(length) (current)
+
+Maximum
+Voltage
+drop
+
+Wire
+size
+
+Circuit
+current
+(amps)
+
+1
+
+No. 10
+
+20
+
+0.5
+
+---
+
+19.5
+
+4
+
+---
+
+156
+
+39
+
+VD = (0.00126 ohms/feet)
+
+(39 x 20) = 0.98
+VD = (0.00126 ohms/feet)
+
+(19.5 x 20) = 0.366
+VD = (0.00126 ohms/feet)
+
+(156 x 20) = 3.93
+7
+
+---
+
+273
+
+VD = (0.00126 ohms/feet)
+
+(273 x 20) = 6.88
+Figure 9-123. Determining maximum tin-plated copper wire
+
+length and checking voltage drop.
+
+Step 1—From the left scale, find the wire length 50 feet under
+the 28V source column.
+Step 2—Follow the corresponding horizontal line to the right
+until it intersects the slanted line for the 20-amp load.
+Step 3—At this point, drop vertically to the bottom of the
+chart. The value falls between No. 8 and No. 10. Select
+the next larger size wire to the right, in this case No. 8.
+This is the smallest size wire that can be used without
+exceeding the voltage drop limit expressed at the bottom of
+the left scale. This example is plotted on the wire chart in
+Figure 9-116. Use Figure 9-116 (top) for continuous flow
+and Figure 9-116 (bottom) for intermittent flow.
+Example B
+Find the wire size in Figure 9-116 using the following known
+information:
+1.
+
+The wire run is 200 feet long, including the ground
+wire.
+
+2.
+
+Current load is 10 amps.
+9-75
+
+===== PDF PAGE 492 =====
+hi
+
+te
+
+Bl
+
+15 inches max
+H215A20 WHITE
+H246A20 BLUE
+
+ge
+an
+Or
+
+u
+
+e
+
+e
+
+W
+
+B
+
+lu
+
+W
+
+h it
+
+e
+
+3 inches max
+
+Oran
+ge
+
+H217A20 ORANGE
+
+3 inches max
+
+3 inches max
+
+A. Multiple wires in a sleeve
+
+3 inches
+
+15 inches
+
+H215A20
+
+15 inches
+
+3 inches
+
+H215A20
+
+H215A20
+
+B. Single wire without sleeve
+Figure 9-124. Wire markings for single wire without sleeve.
+
+4.
+
+The circuit has intermittent operation.
+
+Step 1—From the left scale, find the wire length of 200 feet
+under the 115V source column.
+Step 2—Follow the corresponding horizontal line to the right
+until it intersects the slanted line for the 10-amp load.
+Step 3—At this point, drop vertically to the bottom of the
+chart. The value falls between No. 16 and No. 14. Select the
+next larger size wire to the right—in this case, No. 14. This is
+the smallest size wire that can be used without exceeding the
+voltage drop limit expressed at the bottom of the left scale.
+Wire Identification
+The proper identification of electrical wires and cables
+with their circuits and voltages is necessary to provide
+safety of operation, safety to maintenance personnel, and
+ease of maintenance. All wire used on aircraft must have
+its type identification imprinted along its length. It is
+common practice to follow this part number with the five
+digit/letter Commercial and Government Entity (CAGE)
+code identifying the wire manufacturer. You can identify
+the performance capabilities of existing installed wire you
+need to replace, and avoid the inadvertent use of a lower
+performance and unsuitable replacement wire.
+
+approximately at the center. Added identification marker
+sleeves should be located so that ties, clamps, or supporting
+devices need not be removed to read the identification. The
+wire identification code must be printed to read horizontally
+(from left to right) or vertically (from top to bottom). The two
+methods of marking wire or cable are as follows:
+1.
+
+Direct marking is accomplished by printing the cable’s
+outer covering. [Figure 9-124B]
+
+2.
+
+Indirect marking is accomplished by printing a heatshrinkable sleeve and installing the printed sleeve on
+the wire or cables outer covering. Indirectly-marked
+wire or cable should be identified with printed
+sleeves at each end and at intervals not longer than
+6 feet. [Figure 9-125] The individual wires inside a
+cable should be identified within 3 inches of their
+termination. [Figure 9-124A]
+
+Types of Wire Markings
+The preferred method is to mark directly on the wire without
+causing insulation degradation. Teflon-coated wires, shielded
+wiring, multiconductor cable, and thermocouple wires
+usually require special sleeves to carry identification marks.
+There are some special wire marking machines available that
+can be used to stamp directly on the type wires mentioned
+
+Placement of Identification Markings
+Identification markings should be placed at each end of the
+wire and at 15-inch maximum intervals along the length
+of the wire. Wires less than 3 inches in length need not be
+identified. Wires 3 to 7 inches in length should be identified
+
+3 inches
+H215A20
+
+6 ft
+
+The voltage source is 115 volts from bus to equipment.
+
+6 ft
+
+3.
+
+H215A20
+
+3 inches
+H215A20
+
+Figure 9-125. Spacing of printed identification marks (indirect
+
+marking).
+
+9-76
+
+===== PDF PAGE 493 =====
+above. Whatever method of marking is used, the marking
+should be legible and the color should contrast with the wire
+insulation or sleeve.
+Several different methods can be used to mark directly on
+the wire: hot stamp marking, ink jet printers, and laser jet
+printers. [Figure 9-126] The hot stamp method can damage
+the insulation of a newer type of wire that utilizes thin
+insulators. Fracture of the insulation wall and penetration to
+the conductor of these materials by the stamping dies have
+occurred. Later in service, when these openings have been
+wetted by various fluids or moisture, serious arcing and
+surface tracking have damaged wire bundles.
+Identification sleeves can be used if the direct marking on
+the wire is not possible. [Figure 9-127]
+Flexible sleeving, either clear or opaque, is satisfactory for
+general use. When color-coded or striped component wire is
+used as part of a cable, the identification sleeve should specify
+which color is associated with each wire identification code.
+Identification sleeves are normally used for identifying the
+following types of wire or cable: unjacketed shielded wire,
+thermocouple wire, coaxial cable, multiconductor cable,
+and high temperature wire. In most cases, identification tape
+can be used in place of sleeving. For sleeving exposed to
+high temperatures (over 400 °F), materials, such as silicone
+fiberglass, should be used. Polyolefin sleeving should be used
+in areas where resistance to solvent and synthetic hydraulic
+fluids is necessary. Sleeves may be secured in place with
+cable ties or by heat shrinking. The identification sleeving
+for various sizes of wire is shown in Figure 9-128.
+Wire Installation & Routing
+
+Figure 9-127. Alternate method of identifying wire bundles.
+
+wire providing enough insulation to resist damage from
+handling and service exposure. Electrical wiring is often
+installed in aircraft without special enclosing means. This
+practice is known as open wiring and offers the advantages
+of ease of maintenance and reduced weight.
+
+Wire Groups & Bundles & Routing
+Wires are often installed in bundles to create a more organized
+installation. These wire bundles are often called wire
+harnesses. Wire harnesses are often made in the factory or
+electrical shop on a jig board so that the wire bundles could be
+
+Wire size
+AN #
+
+Sleeving size
+
+AL #
+
+No.
+
+Nominal ID (inch)
+
+Open Wiring
+
+24
+
+12
+
+0.085
+
+Interconnecting wire is used in point-to-point open harnesses,
+normally in the interior or pressurized fuselage, with each
+
+22
+
+11
+
+0.095
+
+20
+
+10
+
+0.106
+
+18
+
+9
+
+0.118
+
+16
+
+8
+
+0.113
+
+14
+
+7
+
+0.148
+
+12
+
+6
+
+0.166
+
+10
+
+4
+
+0.208
+
+8
+
+8
+
+2
+
+0.263
+
+6
+
+6
+
+0
+
+0.330
+
+4
+
+4
+
+3/ inch
+8
+
+0.375
+
+2
+
+2
+
+1/ inch
+2
+
+0.500
+
+1
+
+1
+
+1/ inch
+2
+
+0.500
+
+0
+
+0
+
+5/ inch
+8
+
+0.625
+
+00
+
+00
+
+5/ inch
+8
+
+0.625
+
+000
+
+000
+
+3/ inch
+4
+
+0.750
+
+0000
+
+3/ inch
+4
+
+0.750
+
+0000
+Figure 9-126. Laser wire printer.
+
+Figure 9-128. Recommended size of identification sleeving.
+
+9-77
+
+===== PDF PAGE 494 =====
+connected to movable or shock-mounted equipment should
+have sufficient length to allow full travel without tension
+on the bundle. Wiring at terminal lugs or connectors should
+have sufficient slack to allow two reterminations without
+replacement of wires. This slack should be in addition to
+the drip loop and the allowance for movable equipment.
+Normally, wire groups or bundles should not exceed 1⁄2 inch
+deflection between support points. [Figure 9-130] This
+measurement may be exceeded if there is no possibility of
+the wire group or bundle touching a surface that may cause
+abrasion. Sufficient slack should be provided at each end to
+permit replacement of terminals and ease of maintenance;
+prevent mechanical strain on the wires, cables, junctions,
+and supports; permit free movement of shock- and vibrationmounted equipment; and allow shifting of equipment, as
+necessary, to perform alignment, servicing, tuning, removal
+of dust covers, and changing of internal components while
+installed in aircraft.
+Twisting Wires
+When specified on the engineering drawing, or when
+accomplished as a local practice, parallel wires must
+sometimes be twisted. The following are the most common
+examples:
+1.
+
+Wiring in the vicinity of magnetic compass or flux
+valve
+
+2.
+
+Three-phase distribution wiring
+
+3.
+
+Certain other wires (usually radio wiring) as specified
+on engineering drawings
+
+Figure 9-129. Cable harness jig board.
+
+preformed to fit into the aircraft. [Figure 9-129] As a result,
+each harness for a particular aircraft installation is identical
+in shape and length. The wiring harness could be covered by
+a shielding (metal braid) to avoid EMI. Grouping or bundling
+certain wires, such as electrically unprotected power wiring
+and wiring going to duplicate vital equipment, should be
+avoided. Wire bundles should generally be less than 75 wires,
+or 11⁄2 to 2 inches in diameter where practicable. When several
+wires are grouped at junction boxes, terminal blocks, panels,
+etc., identity of the groups within a bundle can be retained.
+Slack in Wire Bundles
+Wiring should be installed with sufficient slack so that
+bundles and individual wires are not under tension. Wires
+
+Twist the wires so they lie snugly against each other, making
+approximately the number of twists per foot as shown in
+Figure 9-131. Always check wire insulation for damage after
+twisting. If the insulation is torn or frayed, replace the wire.
+Spliced Connections in Wire Bundles
+Splicing is permitted on wiring as long as it does not affect
+the reliability and the electromechanical characteristics of
+the wiring. Splicing of power wires, coaxial cables, multiplex
+bus, and large-gauge wire must have approved data. Splicing
+of electrical wire should be kept to a minimum and avoided
+
+1/2" maximum with normal hand pressure
+
+Figure 9-130. Slack between supports of a cable harness.
+
+9-78
+

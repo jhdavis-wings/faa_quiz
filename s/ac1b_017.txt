@@ -1,0 +1,864 @@
+AC 43.13-1B Chg 1, chapter 7 (Aircraft Hardware, Control Cables, And Turnbuckles), PDF pages 388-438
+
+===== PDF PAGE 388 =====
+9/8/98  AC 43.13-1B
+
+swaging operation can be performed. Bending also tends to separate the strands inside the barrel,
+thereby reducing the strain on them.
+
+   NOTE: If the terminal is drilled completely through, push the cable into the
+   terminal until it reaches the approximate position shown in Figure 7-10. If
+   the hole is not drilled through, insert the cable until the end rests against the
+   bottom of the hole.
+
+   FIGURE 7-10. INSERTION OF CABLE INTO TERMINAL
+
+   (c) Accomplish the swaging operation in accordance with the instructions furnished
+by the manufacturer of the swaging equipment.
+
+   (d) Inspect the terminal after swaging to determine that it is free from the die marks
+and splits, and is not out-of-round. Check for cable slippage in the terminal and for cut or broken
+wire strands.
+
+   (e) Using a “go no-go” gauge or a micrometer, check the terminal shank diameter as
+shown in Figure 7-11 and Table 7-5.
+
+   (f) Test the cable by proof-loading it to 60 percent of its rated breaking strength.
+
+Par 7-148  Page 7-33
+
+===== PDF PAGE 389 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-11. GAUGING TERMINAL SHANK AFTER SWAGING
+
+   (2) Splicing. Completely severed cables, or those badly damaged in a localized area,
+may be repaired by the use of an eye terminal bolted to a clevis terminal. (See Figure 7-12,
+image (a).) However, this type of splice can only be used in free lengths of cable which do not
+pass over pulleys or through fair-leads.
+
+   FIGURE 7-12. TYPICAL CABLE SPLICES
+
+   (3) Swaged Ball Terminals. On some aircraft cables, swaged ball terminals are used
+for attaching cables to quadrants and special connections where space is limited. Single shank
+terminals are generally used at the cable ends, and double shank fittings may be used at either the
+end or in the center of the cable. Dies are supplied with the swaging machines for attaching these
+terminals to cables by the following method.
+
+   (a) The steel balls and shanks have a hole through the center, and are slipped over
+the cable and positioned in the desired location.
+
+Par 7-148  Page 7-34
+
+===== PDF PAGE 390 =====
+9/8/98  AC 43.13-1B
+
+   (b) Perform the swaging operation in accordance with the instructions furnished by
+the manufacturer of the swaging equipment.
+
+   (c) Check the swaged fitting with a “go no-go” gauge to see that the fitting is
+properly compressed, and inspect the physical condition of the finished terminal. (See
+Figure 7-13.)
+
+   FIGURE 7-13. TYPICAL TERMINAL GAUGE
+
+   (4) Cable Slippage in Terminal. Ensure that the cable is properly inserted in the
+terminal after the swaging operation is completed. Instances have been noted wherein only
+1/4 inch of the cable was swaged in the terminal. Observance of the following precautions should
+minimize this possibility.
+
+   (a) Measure the length of the terminal end of the fitting to determine the proper
+length of cable to be inserted into the barrel of the fitting.
+
+   (b) Lay off this length at the end of the cable and mark with masking tape. Since the
+tape will not slip, it will provide a positive marking during the swaging process.
+
+   (c) After swaging, check the tape marker to make certain that the cable did not slip
+during the swaging operation.
+
+   (d) Remove the tape and paint the junction of the swaged fitting and cable with red
+tape.
+
+   (e) At all subsequent service inspections of the swaged fitting, check for a gap in
+the painted section to see if cable slippage has occurred.
+
+   b. Nicopress Process. A patented process using copper sleeves may be used up to the full
+rated strength of the cable when the cable is looped around a thimble. This process may also be
+used in place of the five-tuck splice on cables up to and including 3/8-inch diameter. The use of
+sleeves that are fabricated of materials other than copper will require engineering approval for
+the specific application by the FAA.
+
+   (1) Before undertaking a Nicopress splice, determine the proper tool and sleeve for the
+cable to be used. See Table 7-6 and Table 7-7 for details on sleeves, tools, and the number of
+
+Par 7-148  Page 7-35
+
+===== PDF PAGE 391 =====
+9/8/98  AC 43.13-1B
+
+presses required for the various sizes of aircraft cable. The tool must be in good working
+condition and properly adjusted to ensure a satisfactory splice.
+
+   TABLE 7-6. COPPER OVAL SLEEVE DATA
+
+   Copper oval sleeve
+   stock No.
+   Sleeve length Sleeve length
+   before  after
+ Cable  Manual  Number Tested strength
+   Plain  Plated*  compression compression
+  size  tool No.  of presses (pounds)
+   (approx.)  (approx.)
+   (inches)  (inches)
+  3/64  18-11-B4 28-11-B4 51-B4-887  3/8  7/16  1  340
+  1/16  18-1-C  28-1-C  51-C-887  3/8  7/16  1  550
+  3/32  18-2-G  28-2-G  51-G-887  7/16  1/2  1  1,180
+  1/8  18-3-M  28-3-M  51-M-850  9/16  3/4  3  2,300
+  5/32  18-4-P  28-4-P  51-P-850  5/8  7/8  3  3,050
+  3/16  18-6-X  28-6-X  51-X-850  1  1-1/4  4  4,350
+  7/32  18-8-F2  28-8-F2  51-F2-850  7/8  1-1/16  4  5,790
+  1/4  18-10-F6  28-10-F6  3-F6-950  1-1/8  1-1/2  3  7,180
+  5/16  18-13-G9 28-13-G9 3-G9-950  1-1/4  1-5/8  3  11,130
+   No. 635
+   Hydraulic
+   tool dies
+  3/8  18-23-H5 28-23-H5  Oval H5  1-1/2  1-7/8  1  16,800
+  7/16  18-24-J8  28-24-J8  Oval J8  1-3/4  2-1/8  19,700
+  1/2  18-25-K8 28-25-K8  Oval K8  1-7/8  2-1/2  2  25,200
+  9/16  18-27-M1 28-27-M1 Oval M1  2  2-5/8  3  31,025
+  5/8  18-28-N5 28-28-N5  Oval N5  2-3/8  3-1/8  3  39,200
+   *Required on stainless cables due to electrolysis caused by different types of metals.
+
+Par 7-148  Page 7-36
+
+===== PDF PAGE 392 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-7. COPPER STOP SLEEVE DATA
+
+   Cable size  Sleeve No.  Tool No.  Sleeve  Sleeve  Tested
+   (inch)  strength
+   (pounds)
+   3/64  871-12-B4  51-B4-887  7/32  11/64  280
+   1/16  871-1-C  51-C-887  7/32  13/64  525
+   871-17-J
+   3/32  51-MJ  5/16  21/64  600
+   (Yellow)
+   1/8  S71-18-J (Red)  51-MJ  5/16  21/64  800
+   5/32  871-19-M  51-MJ  5/16  27/64  1,200
+   871-20-M
+   3/16  51-MJ  5/16  27/64  1,600
+   (Black)
+   7/32  871-22-M  51-MJ  5/8  7/16  2,300
+   1/4  871-23-F6  3-F6-950  11/16  21/32  3,500
+   5/16  871-26-F6  3-F6-950  11/16  21/32  3,800
+   NOTE: All stop sleeves are plain copper. Certain sizes are colored for identification.
+
+   (2) To compress a sleeve, have it well-centered in the tool groove with the major axis of
+the sleeve at right angles to the tool. If the sleeve appears to be out of line after the press is
+started, open the tool, re-center the sleeve, and complete the press.
+
+   c. Thimble-Eye Splice. Before undertaking a thimble-eye splice, initially position the
+cable so the end will extend slightly beyond the sleeve, as the sleeve will elongate somewhat
+when it is compressed. If the cable end is inside the sleeve, the splice may not hold the full
+strength of the cable. It is desirable that the oval sleeve be placed in close proximity to the
+thimble points, so that when compressed, the sleeve will contact the thimble as shown in
+Figure 7-14. The sharp ends of the thimble may be cut off before being used; however, make
+certain the thimble is firmly secured in the cable loop after the splice has been completed. When
+using a sleeve requiring three compressions, make the center compression first, the compression
+next to the thimble second, and the one farthest from the thimble last.
+
+Par 7-148  Page 7-37
+
+===== PDF PAGE 393 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-14. TYPICAL THIMBLE-EYE SPLICE
+
+   d. Lap Splice. Lap or running splices may also be made with copper oval sleeves. When
+making such splices, it is usually necessary to use two sleeves to develop the full strength of the
+cable. The sleeves should be positioned as shown in Figure 7-12, image (b), and the
+compressions made in the order shown. As in the case of eye splices, it is desirable to have the
+cable ends extend beyond the sleeves sufficiently to allow for the increased length of the
+compressed sleeves.
+
+   e. Stop Sleeves. Stop sleeves may be used for special cable end and intermediate fittings.
+They are installed in the same manner as Nicopress oval sleeves.
+
+   NOTE: All stop sleeves are plain copper. Certain sizes are colored for
+   identification.
+
+   f. Terminal Gauge. To make a satisfactory copper sleeve installation, it is important that
+the amount of sleeve pressure be kept uniform. The completed sleeves should be checked
+periodically with the proper gauge. Hold the gauge so that it contacts the major axis of the
+sleeve. The compressed portion at the center of the sleeve should enter the gauge opening with
+very little clearance, as shown in Figure 7-15. If it does not, the tool must be adjusted
+accordingly.
+
+   FIGURE 7-15. TYPICAL TERMINAL GAUGE
+
+   g. Other Applications. The preceding information regarding copper oval sleeves and stop
+sleeves is based on tests made with flexible aircraft cable. The sleeves may also be used on wire
+
+Par 7-148  Page 7-38
+
+===== PDF PAGE 394 =====
+9/8/98  AC 43.13-1B
+
+ropes of other construction, if each specific type of cable is proof-tested initially. Because of
+variation in rope strengths, grades, construction, and actual diameters, the test is necessary to
+ensure proper selection of materials, the correct pressing procedure, and an adequate margin of
+safety for the intended use.
+
+7-149. CABLE SYSTEM INSPECTION. Aircraft cable systems are subject to a variety of
+environmental conditions and deterioration. Wire or strand breakage is easy to visually
+recognize. Other kinds of deterioration such as wear, corrosion, and/or distortion are not easily
+seen; therefore, control cables should be removed periodically for a more detailed inspection.
+
+   a. At each annual or 100-hour inspection, all control cables must be inspected for
+broken wires strands. Any cable assembly that has one broken wire strand located in a critical
+fatigue area must be replaced.
+
+   b. A critical fatigue area is defined as the working length of a cable where the cable runs
+over, under, or around a pulley, sleeve, or through a fair-lead; any section where the cable is
+flexed, rubbed, or worked in any manner; or any point within 1 foot of a swaged-on fitting.
+
+   c. A swaged-on fitting can be an eye, fork, ball, ball and shank, ball and double shank,
+threaded stud, threaded stud and turnbuckle, compression sleeve, or any hardware used as a
+termination or end fitting on the cable. These fittings may be attached by various swaging
+methods such as rotary swaging, roll swaging, hydraulic pressing, and hand swaging tools.
+(Refer to MIL-T-781.) The pressures exerted on the fittings during the swaging process
+sometimes pinch the small wires in the cable. This can cause premature failure of the pinched
+wires, resulting in broken wires.
+
+   d. Close inspection in these critical fatigue areas must be made by passing a cloth over
+the area to snag on broken wires. This will clean the cable for a visual inspection and detect
+broken wires if the cloth snags on the cable. Also, a very careful visual inspection must be made
+since a broken wire will not always protrude or stick out, but may lie in the strand and remain in
+the position of the helix as it was manufactured. Broken wires of this type may show up as a
+hairline crack in the wire. If a broken wire of this type is suspected, further inspection with a
+magnifying glass of 7 power or greater is recommended. Figure 7-16 shows a cable with broken
+wires that was not detected by wiping, but was found during a visual inspection. The damage
+became readily apparent when the cable was removed and bent as shown in Figure 7-16.
+
+Par 7-148  Page 7-39
+
+===== PDF PAGE 395 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-16. CABLE INSPECTION TECHNIQUE
+
+   e. Kinking of wire cable can be avoided if properly handled and installed. Kinking is
+caused by the cable taking a spiral shape as the result of unnatural twist. One of the most
+common causes for this twist is improper unreeling and uncoiling. In a kinked cable, strands and
+wires are out of position, which creates unequal tension and brings excessive wear at this part of
+the cable. Even though the kink may be straightened so that the damage appears to be slight, the
+relative adjustment between the strands has been disturbed so that the cable cannot give
+maximum service and should be replaced. Inspect cables for a popped core or loose strands.
+Replace any cable that has a popped core or loose strands regardless of wear or broken wires.
+
+   f. Nylon-jacketed cable with any cracks or necking down in the diameter of the jacket
+shall be replaced. Usable cable life is over when these conditions begin to appear in the nylon
+jacket.
+
+   g. External wear patterns will extend along the cable equal to the distance the cable
+moves at that location and may occur on one side of the cable or on its entire circumference.
+Replace flexible and nonflexible cables when the individual wires in each strand appear to blend
+together (outer wires worn 40 to 50 percent) as depicted in Figure 7-17. Actual instances of cable
+wear beyond the recommended replacement point are shown in Figure 7-18.
+
+Par 7-149  Page 7-40
+
+===== PDF PAGE 396 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-17. CABLE WEAR PATTERNS
+
+Par 7-149  Page 7-41
+
+===== PDF PAGE 397 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-18. WORN CABLE (REPLACEMENT NECESSARY)
+
+   h. As wear is taking place on the exterior surface of a cable, the same condition is taking
+place internally, particularly in the sections of the cable which pass over pulleys and quadrants.
+This condition (shown in Figure 7-19) is not easily detected unless the strands of the cable are
+separated. This type of wear is a result of the relative motion between inner wire surfaces. Under
+certain conditions, the rate of this type of wear can be greater than that occurring on the surface.
+
+   FIGURE 7-19. INTERNAL END VIEW OF CABLE WEAR
+
+Par 7-149  Page 7-42
+
+===== PDF PAGE 398 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   i. Areas especially conducive to cable corrosion are battery compartments, lavatories,
+wheel wells, etc. where a concentration of corrosive fumes, vapors, and liquids can accumulate.
+Carefully examine any cable for corrosion when it has a broken wire in a section that is not in
+contact with a wear producing airframe component, such as a pulley, fair-lead, etc. If the surface
+of the cable is corroded, relieve cable tension and carefully force the cable open by reverse
+twisting and visually inspect the interior. Corrosion on the interior strands of the cable
+constitutes failure, and the cable must be replaced. If no internal corrosion is detected, remove
+loose external rust and corrosion with a clean, dry, coarse-weave rag, or fiber brush. Do not use
+metallic wool or solvents to clean installed cables. Use of metallic wool will embed dissimilar
+metal particles in the cables and create further corrosion problems. Solvents will remove internal
+cable lubricant allowing cable strands to abrade and further corrode. After thorough cleaning,
+sparingly apply specification MIL-C-16173, grade 4, corrosion-preventive compound to cable.
+Do not apply the material so thick that it will interfere with the operation of cables at fair-leads,
+pulleys, or grooved bellcrank areas.
+
+   j. Examine cable runs for incorrect routing, fraying, twisting, or wear at fair-leads,
+pulleys, anti-abrasion strips, and guards. Look for interference with adjacent structure,
+equipment, wiring, plumbing, and other controls. Inspect cable systems for binding, full travel,
+and security of attaching hardware. Check for slack in the cable system by attempting to move
+the control column and/or pedals while the gust locks are installed on the control surfaces. With
+the gust locks removed, actuate the controls and check for friction or hard movement. These are
+indications that excessive cable tension exists.
+
+   NOTE: If the control movement is stiff after maintenance is performed on
+   control surfaces, check for parallel cables twisted around each other, or
+   cables connected in reverse.
+
+   k. Check swaged terminal reference marks for an indication of cable slippage within the
+fitting. Inspect the fitting assembly for distortion and/or broken strands at the terminal. Ensure
+that all bearings and swivel fittings (bolted or pinned) pivot freely to prevent binding and
+subsequent failure. Check turnbuckles for proper thread exposure and broken or missing safety
+wires/clips.
+
+   l. Inspect pulleys for roughness, sharp edges, and presence of foreign material embedded
+in the grooves. Examine pulley bearings to ensure proper lubrication, smooth rotation, and
+freedom from flat spots, dirt, and paint spray. During the inspection, rotate the pulleys, which
+only turn through a small arc, to provide a new bearing surface for the cable. Maintain pulley
+alignment to prevent the cable from riding on the flanges and chafing against guards, covers, or
+adjacent structure. Check all pulley brackets and guards for damage, alignment, and security.
+
+   m. Various cable system malfunctions may be detected by analyzing pulley conditions.
+These include such discrepancies as too much tension, misalignment, pulley bearing problems,
+and size mismatches between cables and pulleys. Examples of these condition are shown in
+Figure 7-20.
+
+Par 7-149  Page 7-43
+
+===== PDF PAGE 399 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-20. PULLEY WEAR PATTERNS
+
+   n. Inspect fair-leads for wear, breakage, alignment, cleanliness, and security. Examine
+cable routing at fair-leads to ensure that defection angles are no greater than 3 degrees maximum.
+Determine that all guides and anti-abrasion strips are secure and in good condition.
+
+   o. Examine pressure seals for wear and/or material deterioration. Seal guards should be
+positioned to prevent jamming of a pulley in case pressure seal fails and pieces slide along the
+cable.
+
+7-150. CORROSION AND RUST PREVENTION. To ensure a satisfactory service life for
+aircraft control cables, use a cable lubricant to reduce internal friction and prevent corrosion.
+
+   a. If the cable is made from tinned steel, coat the cable with rust-preventive oil, and
+wipe off any excess. It should be noted that corrosion-resistant steel cable does not require this
+treatment for rust prevention.
+
+   b. Lubrication and corrosion preventive treatment of carbon steel cables may be
+affected simultaneously by application of compound MIL-C-16173, grade 4, or MIL-C-11796,
+Class I. MIL-C-16173 compound should be brushed, sprayed, or wiped on the cable to the extent
+it penetrates into the strands and adequately covers the cable surfaces. It will dry “tack free” in
+24 hours at 77 °F. MIL-C-11796 compound is applied by dipping the cable for 1/2 minute into a
+tank of compound heated to 77 ° ± 5 °C (170 ° ± 9 °F) for 1/2 minute then removing it and
+wiping off the excess oil. (An example of cable corrosion, attributable to battery acid, is shown
+in Figure 7-21.)
+
+Par 7-149  Page 7-44
+
+===== PDF PAGE 400 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 7-21. CORROSION
+
+7-151. WIRE SPLICES. Standard manufacturing splices have been mistaken for defects in the
+cable because individual wire end splices were visible after assembly of a finished cable length.
+In some instances, the process of twisting outer strands around the core strand may also slightly
+flatten individual outer wires, particularly in the area of a wire splice. This flattening is the result
+of die-sizing the cable and does not affect the strength of the cable. These conditions (as shown
+in Figure 7-22) are normal and are not a cause for cable rejection.
+
+   FIGURE 7-22. MANUFACTURER’S WIRE SPLICE
+
+7-152. CABLE MAINTENANCE. Frequent inspections and preservation measures, such as
+rust-prevention treatments for bare carbon steel cable areas, will help to extend cable service life.
+Where cables pass through fair-leads, pressure seals, or over pulleys, remove accumulated heavy
+coatings of corrosion-prevention compound. Provide corrosion protection for these cable
+sections by lubricating with a light coat of grease or general-purpose, low-temperature oil.
+
+7-153. CABLE TENSION ADJUSTMENT. Carefully adjust control cable tension in
+accordance with the airframe manufacturer’s recommendations. On large aircraft, take the
+temperature of the immediate area into consideration when using a tension meter. For long cable
+
+Par 7-150  Page 7-45
+
+===== PDF PAGE 401 =====
+9/8/98  AC 43.13-1B
+
+sections, use the average of two or three temperature readings to obtain accurate tension values.
+If necessary, compensate for extreme surface temperature variations that may be encountered if
+the aircraft is operated primarily in unusual geographic or climatic conditions such as arctic, arid,
+or tropic locations. Use rigging pins and gust locks, as necessary, to ensure satisfactory results.
+At the completion of rigging operations, check turnbuckle adjustment and safetying in
+accordance with Section 10 of this chapter.
+
+7-154.–7-164. [RESERVED.]
+
+Par 7-153  Page 7-46
+
+===== PDF PAGE 402 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 9. TURNBUCKLES
+
+7-165. GENERAL. A turnbuckle is a device used in cable systems to provide a means of
+adjusting tension. Turnbuckles have barrel-shaped sleeves with internal left- and right-hand
+threads at opposite ends. The cables, with terminals attached, are made to such a length that,
+when the turnbuckle is adjusted to give the specified cable tension, a sufficient number of threads
+on the terminal ends are screwed into the barrel to hold the load. The clip-locking turnbuckle and
+its associated parts are identical to standard AN and MS parts except for a slot grooved on the
+interior of the barrel and the shanks of the forks, eyes, etc. The clip-locking turnbuckle parts
+have the following drawing numbers: MS21251, turnbuckle body; MS21252, turnbuckle clevis
+end; MS21253, turnbuckle clevis end (for bearing); NAS649 and NAS651, turnbuckle clip;
+MS21254 and NAS648, turnbuckle eye (for pin); MS21255 and NAS647, turnbuckle eye end
+(for wire rope); NAS645 and NAS646, turnbuckle fork; MS21256, turnbuckle barrel locking
+clip; AN130-170, turnbuckle assemblies; and MS21259 and MS21260, terminal, wire rope, stud.
+
+   NOTE: Turnbuckles showing signs of thread distortion/bending should be
+   replaced. Turnbuckle ends are designed for providing the specified cable
+   tension on a cable system, and a bent turnbuckle would place undesirable
+   stress on the cable, impairing the function of the turnbuckle.
+
+7-166. TURNBUCKLE INSTALLATION. (See Figure 7-23.) When installing cable system
+turnbuckles, it is necessary to screw both threaded terminals into the turnbuckle barrel an equal
+amount. It is essential that turnbuckle terminals be screwed into the barrel so that not more than
+three threads on the terminal are exposed. (See Figure 7-23, item A.) On initial installation, the
+turnbuckle terminals should not be screwed inside the turnbuckle barrel more than four threads.
+(See Figure 7-23, item B.)
+
+   FIGURE 7-23. TURNBUCKLE THREAD TOLERANCE
+
+Par 7-165  Page 7-47
+
+===== PDF PAGE 403 =====
+9/8/98  AC 43.13-1B
+
+7-167. WITNESS HOLE. Some manufacturers of turnbuckles incorporate a “witness hole” in
+the turnbuckle barrel to ensure that the threaded cable terminals are screwed in far enough into
+the barrel. The “witness hole” can be inspected visually, or by using a piece of safety wire as a
+probe.
+
+7-168.–7-178. [RESERVED.]
+
+Par 7-167  Page 7-48
+
+===== PDF PAGE 404 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 10. SAFETY METHODS FOR TURNBUCKLES
+
+7-179. GENERAL. Safety all turnbuckles with safety wire using either the double- or
+single-wrap method, or with any appropriately approved special safetying device complying with
+the requirements of FAA Technical Standard Order (TSO)-C21, Aircraft Turnbuckle Assemblies
+and/or Turnbuckle Safetying Devices. The swaged and unswaged turnbuckle assemblies are
+covered by AN standard drawings. Do not reuse safety wire. Adjust the turnbuckle to the correct
+cable tension so that no more than three cable threads are exposed on either side of the
+turnbuckle barrel.
+
+7-180. DOUBLE-WRAP METHOD. Of the methods using safety wire for safetying
+turnbuckles, the method described here is preferred, although either of the other methods
+described is satisfactory. The method of double-wrap safetying is shown in Figure 7-24,
+image (A).
+
+   FIGURE 7-24. SAFETYING TURNBUCKLES
+
+Par 7-179  Page 7-49
+
+===== PDF PAGE 405 =====
+9/8/98  AC 43.13-1B
+
+   a. Use two separate lengths of wire. Run one end of the wire through the hole in the
+barrel of the turnbuckle and bend the ends of the wire toward opposite ends of the turnbuckle.
+
+   b. Pass the second length of the wire into the hole in the barrel and bend the ends along
+the barrel on the side opposite the first. Spiral the two wires in opposite directions around the
+barrel to cross each other twice between the center hole and the ends.
+
+   c. Then pass the wires at the end of the turnbuckle in opposite directions through the
+hole in the turnbuckle eyes or between the jaws of the turnbuckle fork, as applicable, laying one
+wire along the barrel and wrapping the other at least four times around the shank of the
+turnbuckle and binding the laid wires in place before cutting the wrapped wire off.
+
+   d. Wrap the remaining length of safety wire at least four turns around the shank and cut
+it off. Repeat the procedure at the opposite end of the turnbuckle.
+
+   e. When a swaged terminal is being safetied, pass the ends of both wires through the
+hole provided in the terminal for this purpose and wrap both ends around the shank as previously
+described. If the hole is not large enough to allow passage of both wires, pass the wire through
+the hole and loop it over the free end of the other wire, and then wrap both ends around the shank
+as previously described. Another satisfactory double-wrap method is similar to the previous
+method, except that the spiraling of the wires is omitted as shown in Figure 7-24, image (B).
+
+7-181. SINGLE-WRAP METHOD. The single-wrap methods described in the following
+paragraphs and as illustrated in Figure 7-24, images (C) and (D) are acceptable, but are not the
+equal of the double-wrap methods.
+
+   a. Pass a single length of wire through the cable eye or fork, or through the hole in the
+swaged terminal at either end of the turnbuckle assembly. Spiral each of the wire ends in
+opposite directions around the first half of the turnbuckle barrel, so as to cross each other twice.
+Thread both wire ends through the hole in the middle of the barrel so that the third crossing of
+wire ends is in the hole; again, spiral the two wire ends in opposite directions around the
+remaining half of the turnbuckle, crossing them twice. Then, pass one wire end through the cable
+eye or fork, or through the hole in the swaged terminals, in the manner previously described.
+Wrap both wire ends around the shank for at least four turns each, cutting off excess wire. This
+method is shown in Figure 7-24, image (C).
+
+   b. For the method shown in Figure 7-24, image (D), pass one length of wire through the
+center hole of the turnbuckle and bend the wire ends toward opposite ends of the turnbuckle.
+Then pass each wire end through the cable eye or fork, or through the hole in the swaged
+terminal, and wrap each wire around the shank for at least four turns, cutting off excess wire.
+After safetying, no more than three threads of the turnbuckle threaded terminal should be
+exposed.
+
+7-182. SAFETY WIRE SECURED TURNBUCKLES. (See Figure 7-25.) Before securing
+turnbuckles, threaded terminals should be screwed into the turnbuckle barrel until no more than
+three threads of either terminal are outside the barrel. After the turnbuckle has been adjusted for
+proper cable tension, two pieces of safety wire are inserted, half the wire length into the hole in
+the center of the turnbuckle barrel. The safety wires are bent so that each wire extends half the
+
+Par 7-180  Page 7-50
+
+===== PDF PAGE 406 =====
+9/8/98  AC 43.13-1B
+
+length of the turnbuckle on top and half on bottom. The ends of the wires are passed through the
+hole in the turnbuckle eyes or between the jaws of the turnbuckle fork, as applicable. The wires
+are then bent toward the center of the turnbuckle and each wire is wrapped around the shank four
+times, binding the wrapping wires in place as shown in Figure 7-25.
+
+   FIGURE 7-25. SECURING TURNBUCKLES
+
+   a. When a swaged terminal is being secured, one wire is passed through the hole in the
+terminal and is looped over the free end of the other wire and both ends wrapped around the
+shank. All lock wire used in the safetying of turnbuckles should be carbon steel,
+corrosion-resistant steel, nickel-chromium iron alloy (Inconel), nickel-copper alloy (Monel), or
+aluminum alloy. For safety cable diameter of safety wire size and material, see Table 7-8.
+
+   b. Care should be exercised when safety wiring, particularly where corrosion will present
+a problem, because smaller wire sizes tend to crack when twisted.
+
+   TABLE 7-8. TURNBUCKLE SAFETYING GUIDE
+
+   Cable Size  Type of Wrap  Diameter of Safety  Material (Annealed
+   Wire  Condition)
+   1/16  Double  0.020  Stainless steel, Monel,
+   and “K” Monel.1
+   1/16  Single  0.040  Copper, brass.1
+   3/32  Single  0.040  Copper, brass.1
+   1/8  Single  0.040  Stainless steel, Monel,
+   and “K” Monel.
+   1/8  Double  0.040  Copper, brass.1
+   1/8  Single  0.057 min.  Copper, brass.1
+   5/32 and greater  Double  0.040  Stainless steel, Monel,
+   and “K” Monel.1
+
+Par 7-182  Page 7-51
+
+===== PDF PAGE 407 =====
+9/8/98  AC 43.13-1B
+
+   Cable Size  Type of Wrap  Diameter of Safety  Material (Annealed
+   Wire  Condition)
+   5/32 and greater  Single  0.057 min.  Stainless steel, Monel, or
+   “K” Monel.1
+   5/32 and greater  Double  0.0512  Copper, brass.1
+1
+  Galvanized or tinned steel, or soft iron wires are also acceptable.
+
+7-183. SPECIAL LOCKING DEVICES. Several turnbuckle locking devices are available for
+securing turnbuckle barrels such as wire-locking clips. Persons intending to use a special device
+must ensure the turnbuckle assembly has been designed to accommodate such devices. A typical
+unit is shown in Figure 7-26. When special locking devices are not readily available, the use of
+safety wire is acceptable.
+
+   FIGURE 7-26. CLIP-TYPE LOCKING DEVICE
+
+7-184. ASSEMBLING AND SECURING CLIP-LOCKING TURNBUCKLES. (See
+Table 7-9 and Figure 7-27.) Wire clip-locking turnbuckles are assembled and secured in the
+following ways.
+
+   a. Engage threads of turnbuckle barrel with threads of cable terminal and turn barrel until
+proper cable tension is reached.
+
+   b. Align slot in barrel with slot in cable terminal.
+
+   c. Hold lock clip between thumb and forefinger at loop end and insert straight end of clip
+into opening formed by aligned slots.
+
+   d. Bring hook end of lock clip over hole in center of turnbuckle barrel and seat hook loop
+into hole.
+
+   e. Apply pressure to hook shoulder to engage hook lip in turnbuckle barrel and to
+complete safety locking of one end of turnbuckle.
+
+   NOTE: Repeat the above steps to safety lock the opposite end of turnbuckle.
+   Both lock clips may be inserted in the same turnbuckle barrel hole or they
+   may be inserted in opposite holes. However, do not reverse wire locking clips.
+
+Par 7-183  Page 7-52
+
+===== PDF PAGE 408 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-9. LOCKING-CLIP APPLICATION
+
+  NOMINAL CABLE  THREAD UNF-3  LOCKING CLIP  TURNBUCKLE
+   DIA.  MS21256  BODY MS21251
+   1/16  No. 6-40  -2S
+   -1
+   -3S
+   3/32  No. 10-32
+   -2  -3L
+   -1  -4S
+   1/8
+   -2  -4L
+   1/4-28
+   -1  -5S
+   5/32
+   -2  -5L
+   -1  -6S
+   3/16  5/16-24
+   -6L
+   7/32  -2  -7L
+   3/8-24
+   1/4  -8L
+   9/32  7/16-20  -9L
+   -3
+   5/16  1/2-20  -10L
+
+  FIGURE 7-27. ASSEMBLING AND SECURING CLIP-LOCKING TURNBUCKLES
+
+7-185.–7-195. [RESERVED.]
+
+Par 7-184  Page 7-53
+
+===== PDF PAGE 409 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 11. HARDWARE IDENTIFICATION TABLES
+
+   TABLE 7-10. TABLE OF RIVETS
+
+Par 7-195  Page 7-54
+
+===== PDF PAGE 410 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-10. TABLE OF RIVETS (CONTINUED)
+
+Par 7-195  Page 7-55
+
+===== PDF PAGE 411 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS
+
+Par 7-195  Page 7-56
+
+===== PDF PAGE 412 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-57
+
+===== PDF PAGE 413 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-58
+
+===== PDF PAGE 414 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-59
+
+===== PDF PAGE 415 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-60
+
+===== PDF PAGE 416 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-61
+
+===== PDF PAGE 417 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-62
+
+===== PDF PAGE 418 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-11. TABLE OF SCREWS (CONTINUED)
+
+Par 7-195  Page 7-63
+
+===== PDF PAGE 419 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS
+
+Par 7-195  Page 7-64
+
+===== PDF PAGE 420 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-65
+
+===== PDF PAGE 421 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-66
+
+===== PDF PAGE 422 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-67
+
+===== PDF PAGE 423 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-68
+
+===== PDF PAGE 424 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-69
+
+===== PDF PAGE 425 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-12. TABLE OF BOLTS (CONTINUED)
+
+Par 7-195  Page 7-70
+
+===== PDF PAGE 426 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS
+
+Par 7-195  Page 7-71
+
+===== PDF PAGE 427 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-72
+
+===== PDF PAGE 428 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-73
+
+===== PDF PAGE 429 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-74
+
+===== PDF PAGE 430 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-75
+
+===== PDF PAGE 431 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-76
+
+===== PDF PAGE 432 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-13. TABLE OF NUTS (CONTINUED)
+
+Par 7-195  Page 7-77
+
+===== PDF PAGE 433 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-14. TABLE OF WASHERS
+
+Par 7-195  Page 7-78
+
+===== PDF PAGE 434 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-14. TABLE OF WASHERS (CONTINUED)
+
+Par 7-195  Page 7-79
+
+===== PDF PAGE 435 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-14. TABLE OF WASHERS (CONTINUED)
+
+Par 7-195  Page 7-80
+
+===== PDF PAGE 436 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-15. TABLE OF PINS
+
+Par 7-195  Page 7-81
+
+===== PDF PAGE 437 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-15. TABLE OF PINS (CONTINUED)
+
+Par 7-195  Page 7-82
+
+===== PDF PAGE 438 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 7-15. TABLE OF PINS (CONTINUED)
+
+7-196.–7-206. [RESERVED.]
+
+Par 7-195  Page 7-83
+

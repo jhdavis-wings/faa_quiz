@@ -1,0 +1,398 @@
+AC 43.13-2C, chapter 4 (Antenna Installation), PDF pages 42-56
+
+===== PDF PAGE 42 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 4. ANTENNA INSTALLATION
+
+ 4.1 Purpose. The purpose of this chapter is to describe antenna installation methods and
+   practices. An antenna that is installed on an aircraft must function properly and may not
+   adversely affect other systems or equipment.
+
+ 4.2 Hazards and Warnings.
+
+4.2.1 Follow antenna manufacturer’s instructions and recommendations when they are
+   available and appropriate and not contrary to the instructions of the aircraft manufacturer.
+
+4.2.2 Extension of the landing gear or flaps may impact belly-mounted antenna performance.
+
+ 4.3 Additional References. For further information concerning acceptable methods,
+   techniques, and practices concerning alteration involving specific structures, refer to the
+   appropriate chapter of AC 43.13-1, Acceptable Methods, Techniques, and
+   Practices―Aircraft Inspection and Repair, and Civil Air Regulation (CAR) 6, Rotorcraft
+   Airworthiness; Normal Category.
+
+ 4.4 Structural Support.
+
+4.4.1 The antenna’s structural load, plus any required allowances, may not exceed the design
+   capacity of the structure intended to support it. It is important to understand the
+   operational characteristics of the aircraft and consider forces that occur during flight
+   (dynamic loading) as well as those that occur when the aircraft is not in motion (static
+   loading). For example, an aircraft designed without flaps may employ a side slip
+   procedure to lose altitude, during which the direction of airflow across the fuselage is not
+   in line with the aircraft longitudinal axis. Antenna mountings on these aircraft need to be
+   designed and evaluated for the direction of airflow that occurs during such an operation.
+
+4.4.2 Whenever possible, an antenna should be mounted to a flat surface. Minor aircraft skin
+   curvature can be accommodated with the use of an appropriate gasket, but if gaps over
+   0.020 inches appear between the base plate and mounting surface, use of a mounting
+   saddle is recommended.
+
+4.4.3 Since antenna systems typically require a ground plane (this may be a conductive surface
+   that the antenna mounts to), any separation of an antenna from its ground plane may
+   impact performance. Contact the manufacturer for recommendations if a gasket or
+   mounting saddle is needed.
+
+   4-1
+
+===== PDF PAGE 43 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-1. Antenna Mount With Saddle
+
+4.4.4 Mounting screws must never be over torqued in an attempt to distort aircraft structure to
+   reduce gaps between the antenna base plate and aircraft-mounting surface.
+
+4.4.5 Consider the factors of flutter, vibration characteristics, and drag load. The approximate
+   drag load an antenna develops may be determined by the following formula:
+
+   D = 0.000327 AV2
+   (The formula includes a 90 percent reduction factor for the streamline shape
+   of the antenna.)
+   D is the drag load on the antenna in pounds.
+   A is the frontal area of the antenna in square feet.
+   V is the never-exceed speed (VNE) of the aircraft in miles per hour (mph).
+   Example: Antenna manufacturer specification frontal area = 0.135 square feet and the
+   VNE of the aircraft is 250 mph.
+   D = 0.000327 x .135 x (250)2
+   = 0.000327 x .135 x 62,500
+   = 2.75 pounds
+
+4.4.6 The above formula may be adapted to determine side load forces by substituting the
+   apparent frontal area value for A when the aircraft motion and antenna orientation are not
+   the same.
+
+ 4.5 Physical Interference.
+
+4.5.1 Antennas should be located where they will not interfere with the operation of the aircraft
+   or other aircraft systems. One such example of interference could be the obstruction of
+   the visibility of a navigation position light or beacon.
+
+   4-2
+
+===== PDF PAGE 44 =====
+7/29/26  AC 43.13-2C
+
+4.5.2 Antennas should be located so that they do not obstruct or limit airflow to areas of the
+   airframe that require airflow. Care should be exercised so that an antenna is not located
+   where it will be damaged by heat from engine exhaust, fumes from battery vents, or
+   fuel/fluid drains.
+
+4.5.3 Antennas may accumulate ice that can then depart and damage areas behind them.
+   Special attention should be paid to areas of the airframe near pitot-static ports and
+   sensors, and near flight controls since the antenna may alter airflow characteristics.
+
+4.5.4 Antennas should be located in such a manner that they are not susceptible to damage
+   from misuse, such as near a door where they might be mistaken for or used as a
+   handhold.
+
+ 4.6 Antenna Selection. The selection of an appropriate antenna will include consideration of
+   system requirements and aircraft characteristics. The size and shape of an antenna vary
+   with frequency, power rating, and maximum design speed of the antenna. See
+   Figures 4-7, ADF Loop, through 4-19, DME/Transponder Blade, for pictures of typical
+   antennas.
+
+ 4.7 Antenna Location.
+
+4.7.1 In general, antenna locations on an aircraft that provide unobstructed line-of-sight views
+   of the transmitted or received signals are preferred. Objects located in the path of a signal
+   may cause a blanking of antenna coverage and impact the performance of the system.
+
+   Note: Global Positioning System (GPS) antennas will not receive a signal if a
+   line-of-sight view of a satellite is not available. Do not mount a GPS antenna on
+   the underside of an aircraft.
+
+4.7.2 The acceptable and unacceptable spacing between an antenna and an obstacle or the
+   permissible interval between antennas is dependent upon operating frequency and system
+   characteristics. When in doubt, contact the antenna manufacturer or system designer for
+   further information.
+
+4.7.3 Antennas should be separated as far as possible from interference sources (other radiating
+   antennas, ignition noise sources, etc.). When known interference sources are present, it
+   may be advisable to temporarily position an antenna and check the location for suitability
+   prior to mounting the antenna.
+
+4.7.4 Very high frequency (VHF) Com 1 should be mounted on the top of the aircraft since this
+   will provide the best unobstructed location. VHF Com 2 can also be mounted on the top,
+   provided there is at least 1/2 wavelength (of the antenna operating frequency) distance
+   available between antennas.
+
+4.7.5 If Com 2 is mounted under the aircraft, a bent whip may be required to provide ground
+   clearance. Bent whips may not provide the best performance because of proximity to the
+   aircraft skin. Signal reflection and obstruction is more of a problem with such locations.
+
+   4-3
+
+===== PDF PAGE 45 =====
+7/29/26  AC 43.13-2C
+
+   Extension of the landing gear or flaps may also impact belly-mounted antenna
+   performance.
+
+4.7.6 Antennas need to “see” with a direct line-of-sight to the source. Antenna patterns can be
+   disrupted by landing gear or vertical stabilizers, for example. When mounting antennas,
+   try to locate them in areas where line-of-sight view is not obstructed.
+
+4.7.7 As a rule of thumb, maintain 36 inches as a minimum distance between antennas. Refer
+   to the manufacturer’s installation guidelines for specific system limitations and
+   requirements.
+
+4.7.8 Antennas should be located such that the cables that run between the antenna and
+   equipment are as short as practical. Signal loss of a cable is dependent upon cable design,
+   length, and frequency. In some cases, cables must be specific lengths to provide a
+   required capacitance, attenuation, or signal transmission time. VHF omnidirectional
+   range (VOR)/Localizer (LOC)/glideslope (GS) blade or towel bar type antennas require
+   the cables to their coupling assembly to be the exact same length to maintain a phase
+   relationship.
+
+ 4.8 Antenna Bonding.
+
+4.8.1 The electrical bonding of the antenna to the aircraft surface is extremely important. The
+   conductive skin of an aircraft is an electrical part of the antenna system. If an antenna is
+   not properly bonded to the aircraft, its pattern may be distorted, and nulls in coverage
+   may appear.
+
+4.8.2 The electrical bonding of the antennas to the aircraft skin of a metal aircraft is best
+   accomplished by direct metal-to-metal contact of the antenna base to the skin. A
+   resistance of no more than 0.003 ohms between the antenna base plate and skin should be
+   achieved.
+
+   Note: To achieve this electrical bonding, the aircraft paint in the mounting area
+   will need to be removed and the surface covered with an oxide film
+   (i.e., aluminum conversion coat) to protect aluminum against corrosion in
+   accordance with MIL-DTL-5541.
+
+4.8.3 An alternate method for providing electrical bonding to metal aircraft skin is through the
+   antenna mounting screws, which attach to a backing plate inside the aircraft, making
+   electrical contact with the backside of the skin. To ensure good contact, remove any
+   interior paint in the area where the backing plate is placed and coat this area in
+   accordance with MIL-C-5541B to minimize corrosion.
+
+4.8.4 Composite or fabric-covered aircraft that do not provide a conductive mounting surface
+   generally require fabrication of a conductive surface (ground plane) and bonding through
+   the mounting screws.
+
+4.8.5 Antenna performance can be severely degraded from corrosion caused by moisture
+   accumulation where the antenna electrically bonds to its ground plane. It is advisable to
+
+   4-4
+
+===== PDF PAGE 46 =====
+7/29/26  AC 43.13-2C
+
+   apply room temperature vulcanizing (RTV) around the antenna edges to seal the antenna
+   bond. However, always ensure chemical compatibility before using any sealant.
+
+  4.9 Electromagnetic Interference (EMI).
+
+ 4.9.1 Since an antenna’s purpose is to either receive or transmit radio frequency (RF) energy,
+   or both, it is essential to consider EMI.
+
+ 4.9.2 Antenna mounting positions that are as far as possible from an EMI source should be
+   selected. In special cases, it may be possible to employ filters or select an antenna that
+   has been specifically designed to be resistant to EMI.
+
+ 4.9.3 EMI test procedures are found in Chapter 3, Communication, Navigation, and Emergency
+   Locator Transmitter System Installations.
+
+ 4.10 Mechanical Installation.
+
+4.10.1 Mounting Hardware.
+
+   4.10.1.1  Typical antenna installations employ either #8-32 or #10-32 stainless steel
+   mounting screws.
+
+   4.10.1.2  Some designs require a pan head screw. For others, a counter sunk screw is
+   required.
+
+   4.10.1.3  Mounting screw length will vary based on each particular installation
+   requirement.
+
+4.10.2 General Practices.
+
+   4.10.2.1  Before drilling holes in the aircraft skin, refer to the installation drawing to
+   determine the proper size and spacing.
+
+   Note: When replacing antennas, it is important to match the original
+   mounting holes. Previous mounting holes that are not reused with
+   appropriate hardware must be repaired, and the mounting location
+   must be returned to its design strength.
+
+   4.10.2.2  It is highly recommended to use a structural backing plate. Backing plates
+   strengthen the immediate point of attachment, but if they are not attached to a
+   load-carrying structure, they do not provide structural load support.
+
+   4.10.2.3  To properly secure the antenna, mounting screws should be secured with
+   stainless steel nuts with flat washers and lock washers, or with flat washers
+   and lock nuts.
+
+   4.10.2.4  Sandwich the aircraft skin between the antenna base plate and the internally
+   mounted backing plate. Before securing the antenna to the aircraft, make sure
+
+   4-5
+
+===== PDF PAGE 47 =====
+7/29/26  AC 43.13-2C
+
+   all the cables are connected to the unit and fit through the connector holes in
+   the aircraft.
+
+   4.10.2.5  Gently tighten the mounting hardware so that uniform stress is placed on each
+   side of the antenna. For #8-32 screws, do not exceed 20 in/lbs of torque, and
+   for #10-32 screws, do not exceed 23 in/lbs of torque. Refer to the fastener
+   manufacturer’s torque guidelines to confirm that these recommended settings
+   do not exceed the chosen fastener’s torque limits.
+
+   4.10.2.6  Once the antenna is mounted, any minor gaps between the base plate or gasket
+   and aircraft skin should be filled with RTV silicone adhesive sealant.
+
+   4.10.2.7  Double-check that a reading of 0.003 ohms between the antenna base plate
+   and ground has been achieved.
+
+ 4.11 Ground Plane Requirement (Wood/Fabric and Composite Aircraft).
+
+4.11.1 When the antenna is not mounted to a conductive surface capable of providing a required
+   ground plane for operation, a ground plane must be fabricated.
+
+4.11.2 Most antennas require a ground plane size of approximately 24 inches by 24 inches.
+   While the rule of thumb is to provide a minimum of 1/4 wavelength of the operation
+   frequency, larger is better, and ground plane symmetry is critical. Gaps in antenna
+   coverage or performance may occur if a ground plane is not symmetrical.
+
+   Table 4-1. Wavelength in Feet = 984/Frequency in Megahertz (MHz)
+
+   Frequency  Wavelength (feet)  1/4 Wavelength (inch)
+   75 MHz  13.1  40
+   125 MHz  7.9  24
+   1,000 MHz  1  3
+
+4.11.3 Wire mesh is the best material to use when a solid plate is not practical. Heavy aluminum
+   foil can also be used. In all cases, electrical continuity from the ground plane to the
+   airframe ground is essential.
+
+4.11.4 Be sure the ground plane is well attached to the airframe with cement or epoxy if not
+   otherwise supported. This will prevent noise problems or erratic operation that could
+   occur if the plane moves. Capacitance will occur as an antenna base is separated from its
+   ground plane. This may distort antenna coverage or operation.
+
+   4-6
+
+===== PDF PAGE 48 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-2. Antenna Ground Plane for Nonconductive Mount
+
+   Figure 4-3. One Means to Provide Adequate Antenna Bonding Through a Composite
+   Airframe
+
+   4-7
+
+===== PDF PAGE 49 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-4. Use Bushings for All Screws
+
+   Note: Carbon fiber composite material, while conductive, has not been found to
+   be adequate as a ground plane.
+
+4.11.5 Refer to AC 43.13-1, Chapter 3, Fiberglass and Plastics, for acceptable methods,
+   techniques, and practices applicable to fiberglass and plastics.
+
+ 4.12 Antenna Feed Line Balun.
+
+4.12.1 Antenna cables (electrical feed lines) may be designed to be electrically balanced or
+   unbalanced. Certain antenna designs incorporate dual elements with a requirement for
+   balanced input. In these cases, standard cables that are unbalanced are generally
+   employed for the cable run, and a balancing transformer is located at the antenna feed
+   connection.
+
+4.12.2 A balun is a device that converts an unbalanced feed into a balanced input and may
+   include a transformer that matches feed impedance to provide maximum signal transfer.
+   Follow the manufacturer’s installation procedures when a balun is required. Some balun
+   designs require the balun to be grounded to the airframe.
+
+4.12.3 Refer to AC 43.13-1, Chapter 11, Aircraft Electrical Systems, for bonding practices.
+
+   4-8
+
+===== PDF PAGE 50 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-5. Typical Dipole Antenna Assembly
+
+   4-9
+
+===== PDF PAGE 51 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-6. Typical VOR Balun
+
+4.13 Antenna Repair. Painting an antenna or applying protective coatings or devices that are
+   not approved are not allowed under this AC. Paint is an RF detuner. If an antenna is
+   painted in the field, paint type and paint thickness present uncontrolled variables that will
+   affect an antenna’s performance and may result in the antenna no longer meeting its
+   specifications or Technical Standard Order (TSO).
+
+   4-10
+
+===== PDF PAGE 52 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-7. ADF Loop
+
+   Figure 4-8. ADF Combined Sense Loop
+
+   Figure 4-9. Communications (COM) Whip
+
+   4-11
+
+===== PDF PAGE 53 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-10. COM Whip Bent
+
+   Figure 4-11. Emergency Locator Transmitter
+
+   Figure 4-12. Global Positioning System
+
+   4-12
+
+===== PDF PAGE 54 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-13. Glideslope
+
+   Figure 4-14. Marker
+
+   Figure 4-15. Combined COM/VOR
+
+   4-13
+
+===== PDF PAGE 55 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-16. VOR Rabbit Ear
+
+   Figure 4-17. VOR Blades
+
+   4-14
+
+===== PDF PAGE 56 =====
+7/29/26  AC 43.13-2C
+
+   Figure 4-18. Transponder/DME Probe
+
+   Figure 4-19. DME/Transponder Blade
+
+   4-15
+

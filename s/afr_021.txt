@@ -1,0 +1,1754 @@
+FAA-H-8083-31B Airframe Handbook, chapter 6 (Aircraft Wood & Structural Repair), PDF pages 312-329
+
+===== PDF PAGE 312 =====
+Chapter 6
+
+Aircraft Wood & Structural Repair
+Introduction
+Wood was among the first materials used to construct aircraft.
+Most of the airplanes built during World War I (WWI) were
+constructed of wood frames with fabric coverings. Wood
+was the material of choice for aircraft construction into the
+1930s. Part of the reason was the slow development of strong,
+lightweight metal aircraft structures and the lack of suitable
+corrosion-resistant materials for all-metal aircraft.
+
+the primary structural material still exist and are operating,
+including certificated aircraft that were constructed during
+the 1930s and later. With the proper maintenance and
+repair procedures, these older aircraft can be maintained
+in an airworthy condition and kept operational for many
+years.
+
+In the late 1930s, the British airplane company DeHavilland
+designed and developed a bomber named the Mosquito.
+Well into the late 1940s, DeHavilland produced more than
+7,700 airplanes made of spruce, birch plywood, and balsa
+wood. [Figure 6-1]
+
+The information presented in this chapter is general in
+nature and should not be regarded as a substitute for
+specific instructions contained in the aircraft manufacturer’s
+maintenance and repair manuals. Methods of construction
+vary greatly with different types of aircraft, as do the various
+repair and maintenance procedures required to keep them
+airworthy.
+
+During the early part of WWII, the U.S. government put
+out a contract to build three flying boats. Hughes Aircraft
+ultimately won the contract with the mandate to use only
+materials not critical to the war, such as aluminum and steel.
+Hughes designed the aircraft to be constructed out of wood.
+
+Wood Aircraft Construction & Repairs
+
+When specific manufacturer’s manuals and instructions are
+
+After many delays and loss of government funding, Howard
+Hughes continued construction, using his own money and
+completing one aircraft. On November 2, 1947, during taxi
+tests in the harbor at Long Beach, California, Hughes piloted
+the Spruce Goose for over a mile at an altitude of 70 feet,
+proving it could fly.
+This was the largest seaplane and the largest wooden aircraft
+ever constructed. Its empty weight was 300,000 pounds with
+a maximum takeoff weight of 400,000 pounds. The entire
+airframe, surface structures, and flaps were composed of
+laminated wood with fabric covered primary control surfaces.
+It was powered by eight Pratt & Whitney R-4360 radial
+engines, each producing 3,000 horsepower. [Figure 6-2]
+
+Figure 6-1. British DeHavilland Mosquito bomber.
+
+As aircraft design and manufacturing evolved, the
+development of lightweight metals and the demand for
+increased production moved the industry away from aircraft
+constructed entirely of wood. Some general aviation aircraft
+were produced with wood spars and wings, but today only a
+limited number of wood aircraft are produced. Most of those
+are built by their owners for education or recreation and not
+for production.
+Quite a number of airplanes in which wood was used as
+
+Figure 6-2. Hughes Flying Boat, H-4 Hercules named the Spruce
+
+Goose.
+
+6-1
+
+===== PDF PAGE 313 =====
+not available, the Federal Aviation Administration (FAA)
+Advisory Circular (AC) 43.13-1, Acceptable Methods,
+Techniques, and Practices—Aircraft Inspection and Repair,
+can be used as reference for inspections and repairs. The AC
+details in the first paragraph, Purpose, the criteria necessary
+for its use. In part, it stipulates that the use of the AC is
+acceptable to the FAA for the inspection and minor repair
+of nonpressurized areas of civil aircraft.
+It also specifies that the repairs identified in the AC may
+also be used as a basis for FAA approval of major repairs
+when listed in block 8 of FAA Form 337, Major Repair and
+Alteration, when:
+1.
+
+The user has determined that it is appropriate to the
+product being repaired;
+
+2.
+
+It is directly applicable to the repair being made; and
+
+3.
+
+It is not contrary to manufacturer’s data.
+
+Certificated mechanics that have the experience of working
+on wooden aircraft are becoming rare. Title 14 of the Code
+of Federal Regulations (14 CFR) part 65 states in part that
+a certificated mechanic may not perform any work for
+which they are rated unless they have performed the work
+concerned at an earlier date. This means that if an individual
+does not have the previous aviation woodworking experience
+performing the repair on an aircraft, regulation requires a
+certificated and appropriately rated mechanic or repairman
+who has had previous experience in the operation concerned
+to supervise that person.
+The ability to inspect wood structures and recognize defects
+(dry rot, compression failures, etc.) can be learned through
+experience and instruction from knowledgeable certificated
+mechanics and appropriately qualified technical instructors.
+Inspection of Wood Structures
+To properly inspect an aircraft constructed or comprised
+of wood components, the aircraft must be dry. It should be
+placed in a dry, well-ventilated hangar with all inspection
+covers, access panels, and removable fairings opened and
+
+removed. This allows interior sections and compartments to
+thoroughly dry. Wet, or even damp, wood causes swelling
+and makes it difficult to make a proper determination of the
+condition of the glue joints.
+If there is any doubt that the wood is dry, a moisture meter
+should be utilized to verify the percentage of moisture in
+the structure. Nondestructive meters are available that check
+moisture without making holes in the surface. The ideal range
+is 8–12 percent, with any reading over 20 percent providing
+an environment for the growth of fungus in the wood.
+
+External & Internal Inspection
+The inspection should begin with an examination of the
+external surface of the aircraft. This provides a general
+assessment of the overall condition of the wood and structure.
+The wings, fuselage, and empennage should be inspected for
+undulation, warping, or any other disparity from the original
+shape. Where the wings, fuselage, or empennage structure
+and skins form stressed structures, no departure from the
+original contour or shape is permissible. [Figure 6-3]
+Where light structures using single plywood covering are
+concerned, some slight sectional undulation or bulging
+between panels may be permissible if the wood and glue
+are sound. However, where such conditions exist, a careful
+check must be made of the attachment of the plywood to its
+supporting structure. A typical example of a distorted single
+plywood structure is illustrated in Figure 6-4.
+The contours and alignment of leading and trailing edges are
+of particular importance. A careful check should be made
+for any deviation from the original shape. Any distortion
+of these light plywood and spruce structures is indicative
+of deterioration, and a detailed internal inspection has to be
+made for security of these parts to the main wing structure.
+If deterioration is found in these components, the main wing
+structure may also be affected.
+Splits in the fabric covering on plywood surfaces must be
+investigated to ascertain whether the plywood skin beneath
+
+Ply skins
+
+Figure 6-3. Cross sectional view of a stressed skin structure.
+
+6-2
+
+===== PDF PAGE 314 =====
+Ply skins
+
+Figure 6-4. A distorted single plywood structure.
+
+is serviceable. In all cases, remove the fabric and inspect the
+plywood, since it is common for a split in the plywood skin
+to initiate a similar defect in the protective fabric covering.
+Although a preliminary inspection of the external structure
+can be useful in assessing the general condition of the aircraft,
+note that wood and glue deterioration can often take place
+inside a structure without any external indications. Where
+moisture can enter a structure, it seeks the lowest point, where
+it stagnates and promotes rapid deterioration. A musty or
+moldy odor apparent as you remove the access panels during
+the initial inspection is a good indication of moisture, fungal
+growth, and possible decay.
+Glue failure and wood deterioration are often closely
+related, and the inspection of glued joints must include an
+examination of the adjacent wood structure. Note: Water need
+not be present for glue deterioration to take place.
+The inspection of a complete aircraft for glue or wood
+deterioration requires scrutiny of parts of the structure
+that may be known, or suspected, trouble spots. In many
+instances, these areas are boxed in or otherwise inaccessible.
+Considerable dismantling may be required. It may be
+necessary to cut access holes in some of the structures to
+facilitate the inspection. Do such work only in accordance
+with approved drawings or instructions in the maintenance
+manual for the aircraft concerned. If drawings and manuals
+are not available, engineering review may be required before
+cutting access holes.
+
+Glued Joint Inspection
+The inspection of glued joints in wooden aircraft structures
+presents considerable difficulties. Even where access to the
+joint exists, it is still difficult to positively assess the integrity
+of the joint. Keep this in mind when inspecting any glue joint.
+Some common factors in premature glue deterioration
+include:
+
+•
+
+Chemical reactions of the glue caused by aging or
+moisture, extreme temperatures, or a combination of
+these factors.
+
+•
+
+Mechanical forces caused mainly by wood shrinkage.
+
+•
+
+Development of fungal growths.
+
+An aircraft painted in darker colors experiences higher
+skin temperatures and heat buildup within its structure.
+Perform a more detailed inspection on a wooden aircraft
+structure immediately beneath the upper surfaces for signs
+of deteriorating adhesives.
+Aircraft that are exposed to large cyclic changes of
+temperature and humidity are especially prone to wood
+shrinkage that may lead to glue joint deterioration. The
+amount of movement of a wooden member due to these
+changes varies with the size of each member, the rate of
+growth of the tree from which it was cut, and the way the
+wood was converted in relation to the grain.
+This means that two major structural members joined to each
+other by glue are not likely to have identical characteristics.
+Over a period of time, differential loads are transmitted
+across the glue joint because the two members do not react
+identically. This imposes stresses in the glue joint that can
+normally be accommodated when the aircraft is new and for
+some years afterwards. However, glue tends to deteriorate
+with age, and stresses at the glued joints may cause failure of
+the joints. This is a fact even when the aircraft is maintained
+under ideal conditions.
+The various cuts of lumber from a tree have tendency to
+shrink and warp in the direction(s) indicated in the yellow
+area around each cut in Figure 6-5.
+When checking a glue line (the edge of the glued joint) for
+condition, all protective coatings of paint should be removed
+by careful scraping. It is important to ensure that the wood is
+not damaged during the scraping operation. Scraping should
+6-3
+
+===== PDF PAGE 315 =====
+but use the thinnest feeler gauge whenever possible. The
+illustration indicates the points a feeler gauge should
+probe. [Figure 6-6]
+
+Plain sawed (tangential cut)
+
+Pressure exerted on a joint either by the surrounding structure
+or by metal attachment devices, such as bolts or screws, can
+cause a false appearance of the glue condition. The joint must
+be relieved of this pressure before the glue line inspection
+is performed.
+A glued joint may fail in service as a result of an accident or
+because of excessive mechanical loads having been imposed
+upon it. Glued joints are generally designed to take shear
+loads. If a joint is expected to take tension loads, it is secured
+by a number of bolts or screws in the area of tension loading.
+In all cases of glued joint failure, whatever the direction of
+loading, there should be a fine layer of wood fibers adhering
+to the glue. The presence of fibers usually indicates that the
+joint itself is not at fault.
+
+Quarter sawed (radial cut)
+
+Figure 6-5. Effects of shrinkage on the various shapes during
+drying from the green condition.
+
+cease immediately when the wood is revealed in its natural
+state and the glue line is clearly discernible. At this point in
+the inspection, it is important that the surrounding wood is
+dry; otherwise, you will get a false indication of the integrity
+of the glue line due to swelling of the wood and subsequent
+closing of the joint.
+Inspect the glue line using a magnifying glass. Where the glue
+line tends to part, or where the presence of glue cannot be
+detected or is suspect, probe the glue line with a thin feeler
+gauge. If any penetration is observed, the joint is defective.
+The structure usually dictates the feeler gauge thickness,
+
+Metal fitting
+
+Bolt
+
+Examination of the glue under magnification that does not
+reveal any wood fibers, but shows an imprint of the wood
+grain, indicates that the cause of the failure was the predrying
+of the glue before applying pressure during the manufacture
+of the joint. If the glue exhibits an irregular appearance with
+star-shaped patterns, this is an indication that precuring of the
+glue occurred before pressure was applied, or that pressure
+had been incorrectly applied or maintained on the joint. If
+there is no evidence of wood fiber adhesion, there may also
+be glue deterioration.
+
+Wood Condition
+Wood decay and dry rot are usually easy to detect. Decay
+
+Shrinkage
+
+Laminated spar
+
+Ply spar web
+
+A
+
+A
+
+A
+
+A
+
+A
+
+At all points marked A , check
+for glue condition and separation
+with a feeler gauge.
+
+Shrinkage
+
+Inspection hole in web
+
+Figure 6-6. Inspection points for laminated glue joints.
+
+6-4
+
+===== PDF PAGE 316 =====
+may be evident as either a discoloration or a softening of
+the wood. Dry rot is a term loosely applied to many types
+of decay, but especially to a condition that, in an advanced
+stage, permits the wood to be crushed to a dry powder. The
+term is actually a misnomer for any decay, since all fungi
+require considerable moisture for growth.
+Dark discolorations of the wood or gray stains running
+along the grain are indicative of water penetration. If such
+discoloration cannot be removed by light scraping, replace
+the part. Disregard local staining of the wood by dye from a
+synthetic adhesive hardener.
+In some instances where water penetration is suspected, a
+few screws removed from the area in question reveal, by
+their degree of corrosion, the condition of the surrounding
+joint. [Figure 6-7]
+Another method of detecting water penetration is to remove
+the bolts holding the fittings at spar root-end joints, aileron
+hinge brackets, etc. Corrosion on the surface of such bolts
+and wood discoloration provide a useful indication of water
+penetration.
+Plain brass screws are normally used for reinforcing glued
+wooden members. For hardwoods, such as mahogany or ash,
+steel screws may be used. Unless specified by the aircraft
+
+manufacturer, replace removed screws with new screws of
+identical length, but one gauge larger in diameter.
+Inspection experience with a particular type of aircraft
+provides insight to the specific areas most prone to water
+penetration and moisture entrapment. Wooden aircraft are
+more prone to the damaging effects of water, especially
+without the protection of covered storage. Control system
+openings, fastener holes, cracks or breaks in the finish, and
+the interfaces of metal fittings and the wood structure are
+points that require additional attention during an inspection.
+Additionally, windshield and window frames, the area
+under the bottom of entrance and cargo doors, and the lower
+sections of the wing and fuselage are locations that require
+detailed inspections for water damage and corrosion on
+all aircraft.
+The condition of the fabric covering on plywood surfaces
+provides an indication of the condition of the wood
+underneath. If there is any evidence of poor adhesion, cracks
+in the fabric, or swelling of the wood, remove the fabric to
+allow further inspection. The exposed surface shows water
+penetration by the existence of dark gray streaks along the
+grain and dark discoloration at ply joints or screw holes.
+Cracks in wood spars are often hidden under metal fittings
+or metal rib flanges and leading edge skins. Any time a
+
+Fuselage inner and outer ply skins
+
+Reinforced laminated fuselage member
+
+Position to check for separation
+
+Screw hole
+Wood screw
+
+Bulkhead frame member
+
+Bulkhead ply web
+Corrosion indicating failure of bulkhead
+glued joint to fuselage side
+
+Expansion gap (not to be confused with joint separation)
+
+Figure 6-7. Checking a glued joint for water penetration.
+
+6-5
+
+===== PDF PAGE 317 =====
+reinforcement plate exists that is not feathered out on its ends,
+a stress riser exists at the ends of the plate. A failure of the
+primary structure can be expected at this point. [Figure 6-8]
+
+Compression failure
+
+As part of the inspection, examine the structure for other
+defects of a mechanical nature, including any location where
+bolts secure fittings that take load-carrying members, or
+where the bolts are subject to landing or shear loads. Remove
+the bolts and examine the holes for elongation or surface
+crushing of the wood fibers. It is important to ensure the bolts
+are a good fit in the holes. Check for evidence of bruises or
+crushing of the structural member, which can be caused by
+overtorquing of the bolts.
+Check all metal fittings that are attached to a wood structure
+for looseness, corrosion, cracks, or bending. Areas of
+particular concern are strut attach fittings, spar butt fittings,
+aileron and flap hinges, jury strut fittings, compression struts,
+control cable pulley brackets, and landing gear fittings. All
+exposed end grain wood, particularly the spar butts, should
+be inspected for cracking or checking.
+Inspect structural members for compression failures, which
+is indicated by rupture across the wood fibers. This is a
+serious defect that can be difficult to detect. If a compression
+failure is suspected, a flashlight beam shown along the
+member and running parallel to the grain, will assist in
+revealing it. The surface will appear to have minute ridges
+or lines running across the grain. Particular attention is
+necessary when inspecting any wooden member that has
+been subjected to abnormal bending or compression loads
+during a hard landing. If undetected, compression failures
+of the spar may result in structural failure of the wing during
+flight. [Figure 6-9]
+When a member has been subjected to an excessive bending
+load, the failure appears on the surface that has been
+compressed. The surface subject to tension normally shows
+
+Figure 6-9. Pronounced compression failure in wood beam.
+
+no defects. In the case of a member taking an excessive direct
+compression load, the failure is apparent on all surfaces.
+The front and rear spars should be checked for longitudinal
+cracks at the ends of the plywood reinforcement plates
+where the lift struts attach. [Figure 6-8] Check the ribs on
+either side of the strut attach points for cracks where the
+cap strips pass over and under the spars, and for missing or
+loose rib-to-spar attach nails. All spars, those in the wing(s)
+and empennage, should be inspected on the face and top
+surface for compression cracks. A borescope can be utilized
+by accessing existing inspection holes.
+Various mechanical methods can be employed to enhance
+the visual inspection of wood structures. Tapping the subject
+area with a light plastic hammer or screwdriver handle should
+produce a sharp solid sound. If the suspected area sounds
+hollow and dull, further inspection is warranted. Use a sharp
+metal awl or thin-bladed screwdriver to probe the area. The
+wood structure should be solid and firm. If the area is soft
+and mushy, the wood is rotted and disassembly and repair
+of the structure is necessary.
+
+Repair of Wood Aircraft Structures
+Compression failure
+
+Crack
+
+Decay
+
+Rib attach nail holes
+Elongated bolt hole
+Plywood plates
+
+Strut attach point
+
+The standard for any repair is that it should return the aircraft
+or component to its original condition in strength, function,
+and aerodynamic shape. It should also be accomplished in
+accordance with the manufacturer’s specifications and/or
+instructions, or other approved data.
+The purpose of repairing all wood structural components
+is to obtain a structure as strong as the original. Major
+damage probably requires replacement of the entire damaged
+assembly, but minor damage can be repaired by removing
+or cutting away the damaged members and replacing them
+with new sections. This replacement may be accomplished by
+gluing, glue and nails, or glue and screw-reinforced splicing.
+
+Figure 6-8. Areas likely to incur structural damage.
+
+6-6
+
+===== PDF PAGE 318 =====
+Materials
+Several forms of wood are commonly used in aircraft.
+•
+
+Solid wood or the adjective “solid” used with such
+nouns as “beam” or “spar” refers to a member
+consisting of one piece of wood.
+
+•
+
+Laminated wood is an assembly of two or more layers
+of wood that have been glued together with the grain
+of all layers or laminations approximately parallel.
+
+•
+
+Plywood is an assembled product of wood and glue
+that is usually made of an odd number of thin plies, or
+veneers, with the grain of each layer placed 90° with
+the adjacent ply or plies.
+
+•
+
+High-density material includes compreg, impreg, or
+similar commercially made products, heat-stabilized
+wood, or any of the hardwood plywoods commonly
+used as bearing or reinforcement plates.
+
+Suitable Wood
+The various species of wood listed in Figure 6-10 are
+acceptable for structural purposes when used for the repair
+of aircraft. Spruce is the preferred choice and the standard
+by which the other wood is measured. Figure 6-10 provides
+a comparison of other wood that may be suitable for aircraft
+repair. It lists the strength and characteristics of the wood in
+comparison to spruce. The one item common to all the species
+is that the slope of the grain cannot be steeper than 1:15.
+All solid wood and plywood used for the construction and
+repair of aircraft should be of the highest quality and grade.
+For certificated aircraft, the wood should have traceability to a
+source that can provide certification to a military specification
+(MIL-SPEC). The term “aircraft quality” or “aircraft grade”
+is referred to and specified in some repair documents, but
+that grade wood cannot be purchased from a local lumber
+company. To purchase the material, contact one of the
+specialty aircraft supply companies and request a certification
+document with the order. The MIL-SPEC for solid spruce is
+MIL-S-6073 and for plywood it is MIL-P-6070B.
+When possible, fabricated wood components should be
+purchased from the aircraft manufacturer, or someone who
+may have a Parts Manufacturer Approval (PMA) to produce
+replacement parts for the aircraft. With either of these sources
+supplying the wood components, the mechanic can be
+assured of installing approved material. At the completion
+of the repair, as always, it is the responsibility of the person
+returning the aircraft to service to determine the quality of the
+replacement wood and the airworthiness of the subsequent
+repair.
+To help determine the suitability of the wood, inspect it
+for defects that would make it unsuitable material to repair
+
+or construct an aircraft. The type, location, and amount
+or size of the defects grade the wood for possible use. All
+woods used for structural repair of aircraft are classified as
+softwood. Softwood is typically used for construction and is
+graded based on strength, load carrying ability, and safety.
+Hardwoods, on the other hand, are typically appearance
+woods and are graded based on the number and size of clear
+cuttings from the tree.
+
+Defects Permitted
+The following defects are permitted in the wood species used
+for aircraft repair that are identified in Figure 6-10:
+1.
+
+Cross grain—Spiral grain, diagonal grain, or a
+combination of the two is acceptable if the grain
+does not diverge from the longitudinal axis of the
+material more than specified in Figure 6-10 column
+3. A check of all four faces of the board is necessary
+to determine the amount of divergence. The direction
+of free-flowing ink frequently assists in determining
+grain direction.
+
+2.
+
+Wavy, curly, and interlocked grain—Acceptable, if
+local irregularities do not exceed limitations specified
+for spiral and diagonal grain.
+
+3.
+
+Hard knots—Sound, hard knots up to 3⁄8-inch in
+diameter are acceptable if: (1) they are not projecting
+portions of I-beams, along the edges of rectangular or
+beveled unrouted beams, or along the edges of flanges
+of box beams (except in portions of low stress); (2)
+they do not cause grain divergence at the edges of the
+board or in the flanges of a beam more than specified
+in Figure 6-10 column 3; and (3) they are in the center
+third of the beam and not closer than 20-inches to
+another knot or other defect (pertains to 3⁄8-inch knots;
+smaller knots may be proportionately closer). Knots
+greater than ¼-inch must be used with caution.
+
+4.
+
+Pin knot clusters—Small clusters are acceptable if
+they produce only a small effect on grain direction.
+
+5.
+
+Pitch pockets—Acceptable in center portion of a beam
+if they are at least 14-inches apart when they lie in
+the same growth ring and do not exceed 1½-inches in
+length by 1⁄8-inch width by 1⁄8-inch depth, and if they
+are not along the projecting portions of I-beams, along
+the edges of rectangular or beveled unrouted beams,
+or along the edges of the flanges of box beams.
+
+6.
+
+Mineral streaks—Acceptable if careful inspection fails
+to reveal any decay.
+
+Defects Not Permitted
+The following defects are not permitted in wood used for
+aircraft repair. If a defect is listed as unacceptable, please refer
+to the previous section, Defects Permitted, for acceptable
+conditions.
+6-7
+
+===== PDF PAGE 319 =====
+Species of Wood
+
+Strength Properties
+(as compared to spruce)
+
+1
+Spruce (Picea)
+
+2
+
+Maximum
+Permissible
+Grain Deviation
+(slope of grain)
+
+Remarks
+
+3
+
+4
+
+100%
+
+1.15
+
+Excellent for all uses. Considered standard for this table.
+
+Exceeds spruce
+
+1.15
+
+May be used as substitute for spruce in same sizes or in
+
+Sitka (P. sitchensis)
+Red (P. rubra)
+White (P. glauca)
+Douglas fir
+(Pseudotsuga taxifolia)
+
+slightly reduced sizes if reductions are substantiated.
+Difficult to work with hand tools. Some tendency to split and
+splinter during fabrication and much greater care in
+manufacture is necessary. Large solid pieces should be
+avoided due to inspection difficulties. Satisfactory for gluing .
+
+Noble fir
+
+Slightly exceeds spruce
+
+(Abies procera, also
+
+except 8% deficient in
+
+and splitting. May be used as direct substitute for spruce in
+
+known as Abies nobilis)
+
+shear
+
+same sizes if shear does not become critical. Hardness
+
+Satisfactory characteristics of workability, warping,
+
+1.15
+
+somewhat less than spruce. Satisfactory for gluing.
+Western hemlock
+
+Slightly exceeds spruce
+
+Less uniform in texture than spruce. May be used as direct
+
+1.15
+
+(Tsuga heterophylla)
+
+substitute for spruce. Upland growth superior to lowland
+growth. Satisfactory for gluing.
+Excellent working qualities and uniform in properties, but
+
+Northern white pine, also
+
+Properties between
+
+known as Eastern white
+
+85% and 96% those
+
+somewhat low in hardness and shock-resistance.
+
+pine (Pinus strobus)
+
+of spruce
+
+Cannot be used as substitute for spruce without increase in
+
+1.15
+
+sizes to compensate for lesser strength. Satisfactory for gluing.
+Exceeds spruce
+
+May be used as substitute for spruce in same sizes or in
+
+1.15
+
+Port Orford white cedar
+
+slightly reduced sizes if reductions are substantiated.
+
+(Chamaecyparis
+
+Easy to work with hand tools. Gluing is difficult, but satisfactory
+
+lawsoniana)
+
+joints can be obtained if suitable precautions are taken.
+Slightly less than spruce
+
+Excellent working qualities. Should not be used as a direct
+
+1.15
+
+Yellow poplar
+
+except in compression
+
+substitute for spruce without carefully accounting for slightly
+
+(Liriodendron
+
+(crushing) and shear
+
+reduced strength properties. Somewhat low in shock-resistance.
+Satisfactory for gluing.
+
+tulipifera)
+
+Figure 6-10. Selection and properties of wood for aircraft repairs.
+
+1.
+
+Cross grain—unacceptable.
+
+2.
+
+Wavy, curly, and interlocked grain – unacceptable.
+
+3.
+
+Hard knots—unacceptable.
+
+4.
+
+Pin knot clusters—unacceptable, if they produce large
+effect on grain direction.
+
+5.
+
+Spike knots—knots running completely through the
+depth of a beam perpendicular to the annual rings
+and appear most frequently in quarter-sawed lumber.
+Reject wood containing this defect.
+
+6.
+
+Pitch pockets—unacceptable.
+
+7.
+
+Mineral streaks—unacceptable, if accompanied by
+decay.
+
+8.
+
+Checks, shakes, and splits—checks are longitudinal
+cracks extending, in general, across the annual rings.
+Shakes are longitudinal cracks usually between two
+annual rings. Splits are longitudinal cracks caused by
+artificially induced stress. Reject wood containing
+these defects.
+
+9.
+
+Compression—very detrimental to strength and is
+difficult to recognize readily, compression wood
+is characterized by high specific gravity, has the
+appearance of an excessive growth of summer wood,
+and in most species shows little contrast in color
+between spring wood and summer wood. If in doubt,
+reject the material or subject samples to toughness
+machine test to establish the quality of the wood.
+6-8
+
+===== PDF PAGE 320 =====
+Reject all material containing compression wood.
+
+structures are satisfactory, provided they are found
+to be compatible with existing structural materials in
+the aircraft and fabrication methods to be used in the
+repair.
+
+10. Compression failures—caused from overstress in
+compression due to natural forces during the growth
+of the tree, felling trees on rough or irregular ground,
+or rough handling of logs or lumber. Compression
+failures are characterized by a buckling of the fibers
+that appears as streaks substantially at right angles to
+the grain on the surface of the piece, and vary from
+pronounced failures to very fine hairlines that require
+close inspection to detect. Reject wood containing
+obvious failures. If in doubt, reject the wood or
+make a further inspection in the form of microscopic
+examination or toughness test, the latter being
+more reliable.
+
+New adhesives have been developed in recent years, and some
+of the older ones are still in use. Some of the more common
+adhesives that have been used in aircraft construction and
+repair include casein glue, plastic resin glue, resorcinol glue,
+and epoxy adhesives.
+
+11. Tension—forming on the upper side of branches and
+leaning trunks of softwood trees, tension wood is
+caused by the natural overstressing of trying to pull
+the branches and leaning trunk upright. It is typically
+harder, denser, and may be darker in color than normal
+wood, and is a serious defect, having higher than usual
+longitudinal shrinkage that may break down due to
+uneven shrinkage. When in doubt, reject the wood.
+
+Note: Some modern adhesives are incompatible with casein
+adhesive. If a joint that has previously been bonded with
+casein is to be reglued using another type adhesive, all traces
+of the casein must be scraped off before a new adhesive is
+applied. If any casein adhesive is left, residual alkalinity may
+cause the new adhesive to fail to cure properly.
+
+12. Decay—rot, dote, red heart, purple heart, etc., must
+not appear on any piece. Examine all stains and
+discoloration carefully to determine whether or not
+they are harmless or in a stage of preliminary or
+advanced decay.
+
+Glues (Adhesives)
+Because adhesives play a critical role in the bonding of
+aircraft structure, the mechanic must employ only those types
+of adhesives that meet all of the performance requirements
+necessary for use in certificated aircraft. The product must
+be used strictly in accordance with the aircraft and adhesive
+manufacturer’s instructions. All instructions must be followed
+exactly, including the mixing ratios, the ambient and
+surface temperatures, the open and closed assembly times,
+the gap-filling ability, or glue line thickness, the spread of
+the adhesive, whether one or two surfaces, and the amount
+of clamping pressure and time required for full cure of
+the adhesive.
+AC 43.13-1 provides information on the criteria for
+identifying adhesives that are acceptable to the FAA. It
+stipulates the following:
+1.
+
+Refer to the aircraft maintenance or repair manual for
+specific instructions on acceptable adhesive selection
+for use on that type aircraft.
+
+2.
+
+Adhesives meeting the requirements of a MILSPEC, Aerospace Material Specification (AMS), or
+Technical Standard Order (TSO) for wooden aircraft
+
+Casein glue should be considered obsolete for all aircraft
+repairs. The adhesive deteriorates when exposed to moisture
+and temperature variations that are part of the normal
+operating environment of any aircraft.
+
+Plastic resin glue, also known as a urea-formaldehyde
+adhesive, came on the market in the middle to late 1930s.
+Tests and practical applications have shown that exposure
+to moist conditions, and particularly to a warm humid
+environment, under swell-shrink stress, leads to deterioration
+and eventual failure of the bond. For these reasons, plastic
+resin glue should be considered obsolete for all aircraft
+repairs. Discuss any proposed use of this type adhesive on
+aircraft with FAA engineering prior to use.
+Resorcinol glue, or resorcinol-formaldehyde glue, is a
+two-component synthetic adhesive consisting of resin
+and a catalyst. It was first introduced in 1943 and almost
+immediately found wide application in the wood boat-building
+and wood aircraft industry in which the combination of high
+durability and moderate-temperature curing was extremely
+important. It has better wet-weather and ultraviolet (UV)
+resistance than other adhesives. This glue meets all strength
+and durability requirements if the fit of the joint and proper
+clamping pressure results in a very thin and uniform bond line.
+The manufacturer’s product data sheets must be followed
+regarding mixing, usable temperature range, and the open
+and close assembly times. It is very important that this type
+of glue is used at the recommended temperatures because
+the full strength of the joint cannot be relied on if assembly
+and curing temperatures are below 70 °F. With that in mind,
+higher temperatures shorten the working life because of a
+faster cure rate, and open and closed assembly times must
+be shortened.
+6-9
+
+===== PDF PAGE 321 =====
+Epoxy adhesive is a two-part synthetic resin product
+that depends less on joint quality and clamping pressure.
+However, many epoxies have not exhibited joint durability
+in the presence of moisture and elevated temperatures and
+are not recommended for structural aircraft bonding unless
+they meet the acceptable standards set forth by the FAA in
+AC 43.13-1, as referenced earlier in this chapter.
+
+Definition of Terms Used in the Glue Process
+•
+
+Close contact adhesive—a non-gap-filling adhesive
+(e.g., resorcinol-formaldehyde glue) suitable for use
+only in those joints where the surfaces to be joined can
+be brought into close contact by means of adequate
+pressure, to allow a glue line of no more than 0.005inch gap.
+
+•
+
+Gap-filling adhesive—an adhesive suitable for use
+in those joints in which the surfaces to be joined
+may not be close or in continuous contact (e.g.,
+epoxy adhesives) due either to the impracticability
+of applying adequate pressure or to the slight
+inaccuracies of fabricating the joint.
+
+•
+
+Glue line—resultant layer of adhesive joining any two
+adjacent wood layers in the assembly.
+
+•
+
+Single spread—spread of adhesive to one surface only.
+
+•
+
+Double spread—spread of adhesive to both surfaces
+and equally divided between the two surfaces to be
+joined.
+
+•
+
+Open assembly time—period of time between the
+application of the adhesive and the assembly of the
+joint components.
+
+•
+
+Closed assembly time—time elapsing between the
+assembly of the joints and the application of pressure.
+
+•
+
+Pressing or clamping time—time during which
+the components are pressed tightly together under
+recommended pressure until the adhesive cures (may
+vary from 10 to 150 pounds per square inch (psi) for
+softwoods, depending on the viscosity of the glue).
+
+•
+
+Caul—a clamping device, usually two rigid wooden
+bars, to keep an assembly of flat panel boards aligned
+during glue-up. It is assembled with long bolts and
+placed on either side of the boards, one on top and
+another below, and parallel with the pipe/bar clamps.
+A caul is usually finished and waxed before each use
+to keep glue from adhering to it.
+
+•
+
+Adhesive pot life—time elapsed from the mixing
+of the adhesive components until the mixture must
+be discarded, because it no longer performs to its
+specifications. The manufacturer’s product data sheet
+may define this as working time or useful life; once
+
+expired, the adhesive must not be used. It lists the
+specific temperature and quantity at which the sample
+amount can be worked. Pot life is a product of time
+and temperature. The cooler the mix is kept, within
+the recommended temperature range, the longer it is
+usable.
+Preparation of Wood for Gluing
+Satisfactory glue joints in aircraft should develop the full
+strength of the wood under all conditions of stress. To produce
+this result, the conditions involved in the gluing operation
+must be carefully controlled to obtain a continuous, thin,
+uniform film of solid glue in the joint with adequate adhesion
+to both surfaces of the wood. The following conditions are
+required:
+1.
+
+Proper and equal moisture content of wood to be joined
+(8 to 12 percent).
+
+2.
+
+Properly prepared wood surfaces that are machined
+or planed, and not sanded or sawed.
+
+3.
+
+Selection of the proper adhesive for the intended task,
+which is properly prepared and of good quality.
+
+4.
+
+The application of good gluing techniques, including
+fitment, recommended assembly times, and adequate
+equal pressure applied to the joint.
+
+5.
+
+Performing the gluing operation under the
+recommended temperature conditions.
+
+The surfaces to be joined must be clean, dry, and free from
+grease, oil, wax, paint, etc. Keep large prepared surfaces
+covered with a plastic sheet or masking paper prior to the
+bonding operation. It is advisable to clean all surfaces with
+a vacuum cleaner just prior to adhesive application.
+Smooth even surfaces produced on planers and joiners
+with sharp knives and correct feed adjustments are the best
+surfaces for gluing solid wood. The use of sawn surfaces
+for gluing has been discouraged for aircraft component
+assembly because of the difficulty in producing a surface
+free of crushed fibers. Glue joints made on surfaces that are
+covered with crushed fibers do not develop the normal full
+strength of the wood.
+Some of the surface changes in plywood, such as glazing
+and bleed-through, that occur in manufacture and may
+interfere with the adhesion of glue in secondary gluing
+are easily recognized. A light sanding of the surface with
+220-grit sandpaper in the direction of the grain restores the
+surface fibers to their original condition, removes the gloss,
+and improves the adhesion of the glue. In contrast to these
+recognized surface conditions, wax deposits from cauls used
+during hot pressing produce unfavorable gluing surfaces that
+are not easily detected.
+6-10
+
+===== PDF PAGE 322 =====
+Wetting tests are a useful means of detecting the presence of
+wax. A finely sprayed mist or drops of water on the surface of
+wax-coated plywood bead and do not wet the wood. This test
+may also give an indication of the presence of other materials
+or conditions that would degrade a glue joint. Only a proper
+evaluation of the adhesion properties, using gluing tests,
+determines the gluing characteristics of the plywood surfaces.
+
+Gap
+
+Pressure block
+
+Preparing Glues for Use
+The manufacturer’s directions should be followed for the
+preparation of any glue or adhesive. Unless otherwise specified
+by the glue manufacturer, clear, cool water should be used
+with glues that require mixing with water. The recommended
+proportions of glue, catalyst, and water or other solvent should
+be determined by the weight of each component. Mixing can
+be either by hand or machine. Whatever method is used, the
+glue should be thoroughly mixed and free of air bubbles,
+foam, and lumps of insoluble material.
+
+Applying the Glue/Adhesive
+To make a satisfactorily bonded joint, it is generally desirable
+to apply adhesive to both surfaces and join in a thin even layer.
+The adhesive can be applied with a brush, glue spreader, or
+a grooved rubber roller. Follow the adhesive manufacturer’s
+application instructions for satisfactory results.
+Be careful to ensure the surfaces make good contact and the
+joint is positioned correctly before applying the adhesive.
+Keep the open assembly time as short as possible and do
+not exceed the recommended times indicated in the product
+data sheet.
+
+Pressure on the Joint
+To ensure the maximum strength of the bonded surfaces,
+apply even force to the joint. Non-uniform gluing pressure
+commonly results in weak areas and strong areas in the
+same joint. The results of applied pressure are illustrated in
+Figure 6-11.
+Use pressure to squeeze the glue out into a thin continuous
+film between the wood layers, to force air from the joint, to
+bring the wood surfaces into intimate contact with the glue,
+and to hold them in this position during the setting of the glue.
+Pressure may be applied by means of clamps, elastic straps,
+weight, vacuum bags, or other mechanical devices. Other
+methods used to apply pressure to joints in aircraft gluing
+operations range from the use of brads, nails, and screws to
+the use of electric and hydraulic power presses.
+The amount of pressure required to produce strong joints in
+aircraft assembly operations may vary from 10 to 150 psi for
+softwoods and as high as 200 psi for hardwoods. Insufficient
+
+Pressure block
+Arrows indicate pressure
+Figure 6-11. Even distribution of gluing pressure creates a
+
+strong, gap-free joint.
+
+pressure to poorly machined or fitted wood joints usually
+results in a thick glue line, indicating a weak joint, and should
+be carefully avoided.
+High clamping pressure is neither essential nor desirable,
+provided good contact between the surfaces being joined is
+obtained. When pressure is applied, a small quantity of glue
+should be squeezed from the joint. This excess should be
+removed before it sets. It is important that full pressure be
+maintained on the joint for the entire cure time of the adhesive
+because the adhesive does not chemically relink and bond if
+it is disturbed before it is fully cured.
+The full curing time of the adhesive is dependent on the
+ambient temperature; therefore, it is very important to
+follow the manufacturer’s product data sheets for all phases
+of the gluing operation from the shelf life to the moisture
+content of the wood to the proper mixing of the adhesive
+to the application, and especially to the temperature.
+The successful assembly and fabrication depends on the
+workmanship and quality of the joints and following the glue
+manufacturer’s instructions.
+All gluing operations should be performed above 70 °F for
+proper performance of the adhesive. Higher temperatures
+shorten the assembly times, as does coating the pieces of
+wood with glue and exposing openly to the air. This open
+assembly promotes a more rapid thickening of the glue than
+pieces being mated together as soon as the spreading of the
+glue is completed.
+Figure 6-12 provides an example of resorcinol resin glue and
+the allowable assembly times and gluing pressure when in
+the open and closed assembly condition. All examples are
+for an ambient temperature of 75 °F.
+6-11
+
+===== PDF PAGE 323 =====
+Glue
+
+Gluing Pressure
+
+Type of Assembly
+
+Maximum Assembly Time
+
+Resorcinol resins
+
+100–250 psi
+100–250 psi
+Less than 100 psi
+Less than 100 psi
+
+Closed
+Open
+Closed
+Open
+
+Up to 50 minutes
+Up to 12 minutes
+Up to 40 minutes
+Up to 10 minutes
+
+Figure 6-12. Examples of differences for open and closed assembly times.
+
+Figure 6-13 provides examples of strong and weak glue joints
+resulting from different gluing conditions. A is a well-glued
+joint with a high percentage of wood failure made under
+proper conditions; B is a glue-starved joint resulting from
+the application of excessive pressure with thin glues; C is a
+dried glue joint resulting from an excessively long assembly
+time and/or insufficient pressure.
+
+Testing Glued Joints
+Satisfactory glue joints in aircraft should develop the full
+strength of the wood under all conditions of stress. Tests
+should be made by the mechanic prior to gluing a joint of a
+major repair, such as a wing spar. Whenever possible, perform
+tests using pieces cut from the actual wood used for the repair
+under the same mechanical and environmental conditions
+
+A
+
+B
+
+C
+
+that the repair will undergo.
+Perform a sample test using two pieces of scrap wood from
+the intended repair, each cut approximately 1" × 2" × 4". The
+pieces should be joined by overlapping each approximately 2
+inches. The type of glue, pressure, and curing time should be
+the same as used for the actual repair. After full cure, place
+the test sample in a bench vise and break the joint by exerting
+pressure on the overlapping member. The fractured glue
+faces should show a high percentage of at least 75 percent
+of the wood fibers evenly distributed over the fractured glue
+surface. [Figure 6-14]
+Repair of Wood Aircraft Components
+
+Wing Rib Repairs
+
+Ribs that have sustained damage may be repaired or
+replaced, depending upon the type of damage and location
+in the aircraft. If new parts are available from the aircraft
+manufacturer or the holder of a PMA for the part, it is
+advisable to replace the part rather than to repair it.
+If you make a repair to a rib, do the work in such a manner
+and using materials of such quality that the completed repair
+is at least equal to the original part in aerodynamic function,
+structural strength, deterioration, and other qualities affecting
+airworthiness, such as fit and finish. When manufacturer’s
+repair manuals or instructions are not available, acceptable
+methods of repairing damaged ribs are described in AC
+43.13-1 under Wood Structure Repairs.
+When necessary, a rib can be fabricated and installed using
+the same materials and dimensions from a manufacturerapproved drawing or by reference to an original rib. However,
+if you fabricated it from an existing rib, you must provide
+evidence to verify that the dimensions are accurate and the
+materials are correct for the replacement part.
+You can repair a cap strip of a wood rib using a scarf splice.
+The repair is reinforced on the side opposite the wing
+covering by a spruce block that extends beyond the scarf
+joint not less than three times the thickness of the strips being
+repaired. Reinforce the entire splice, including the spruce
+reinforcing block, on each side with a plywood side plate.
+
+Figure 6-13. Strong and weak glue joints.
+
+6-12
+
+===== PDF PAGE 324 =====
+3A
+
+5A
+
+C
+
+3A
+
+A
+E
+B
+D
+A B C D and E are
+original dimensions.
+Reinforcement
+plates shall be plywood glued and nailed.
+
+Splice plate
+
+Figure 6-14. An example of good glue joint.
+
+Top view
+
+Plywood face plates
+Figure 6-16. Cap strip repair at cross member.
+
+A
+
+3A
+
+10A
+
+3A
+
+Side view
+A
+
+Direction of face
+grain of plywood
+
+Face grain of plywood side plates
+
+16A
+
+Spruce block
+Figure 6-15. A rib cap strip repair.
+
+The scarf length bevel is 10 times dimension A (thickness of
+the rib cap strip) with the spruce reinforcement block being
+16 times dimension A (the scarf length plus extension on
+either end of the scarf). The plywood splice plates should
+be of the same material and thickness as the original plates
+used to fabricate the rib. The spruce block should have a 5:1
+bevel on each end. [Figure 6-15]
+These specific rib repairs describing the use of one scarf
+splice implies that either the entire forward or aft portion of
+the cap strip beyond the damage can be replaced to complete
+the repair and replace the damaged section. Otherwise,
+replacement of the damaged section may require a splice
+repair at both ends of the replaced section of the cap strip
+using the indicated dimensions for cutting and reinforcing
+of each splice.
+When a cap strip is to be repaired at a point where there is
+a joint between it and cross members of the rib, make the
+
+repair by reinforcing the scarf joint with plywood gussets,
+as shown in Figure 6-16.
+If a cap strip must be repaired where it crosses a spar,
+reinforce the joint with a continuous gusset extending over
+the spar, as shown in Figure 6-17.
+The scarf joints referred to in the rib repairs are the most
+satisfactory method of fabricating an end joint between two
+solid wood members. When the scarf splice is used to repair
+a solid wood component, the mechanic must be aware of the
+direction and slope of the grain. To ensure the full strength
+of the joint, the scarf cut is made in the general direction
+of the grain on both connecting ends of the wood and then
+correctly oriented to each other when glued. [Figure 6-18]
+The trailing edge of a rib can be replaced and repaired by
+removing the damaged portion of the cap strip and inserting
+a softwood block of white pine, spruce, or basswood. The
+entire repair is then reinforced with plywood gussets and
+nailed and glued, as shown in Figure 6-19.
+Compression ribs are of many different designs, and the
+proper method of repairing any part of this type of rib
+is specified by the manufacturer. All repairs should be
+performed using recommended or approved practices,
+materials, and adhesives.
+Figure 6-20A illustrates the repair of a compression rib of
+the I section type (i.e., wide, shallow cap strips, and a center
+plywood web with a rectangular compression member on
+each side of the web). The rib damage suggests that the upper
+6-13
+
+===== PDF PAGE 325 =====
+Damaged area
+
+Top
+
+A
+
+10A
+A B C D and E are original
+
+C
+
+dimensions.
+
+B
+
+Face grain
+of plywood D
+
+Spruce block
+
+Damaged area
+
+Plywood, nail, and glue
+E
+
+Figure 6-19. Rib trailing edge repair.
+
+Figure 6-17. Cap strip repair at a spar.
+
+A
+
+Incorrect
+
+B
+
+Incorrect
+
+C
+
+Correct
+
+Figure 6-18. Relationship of scarf slope to grain slope.
+
+and lower cap strips, the web member, and the compression
+members are cracked completely through. To facilitate
+this repair, cut the compression members as shown in
+Figure 6-20D and repair as recommended using replacement
+sections to the rear spar. Cut the damaged cap strips and
+repair as shown in Figure 6-20, replacing the aft section of
+the cap strips. Plywood side plates are then bonded on each
+side diagonally to reinforce the damaged web as shown in
+Figure 6-20, A-A.
+
+a standard rib with rectangle compression members added
+to one side and a plywood web to the other side. The method
+used in this repair is essentially the same as in Figure 6-20A,
+except that the plywood reinforcement plate, shown in
+Figure 6-20B-B, is continued the full distance between the
+spars.
+Figure 6-20C illustrates a compression rib of the I type with
+a rectangular vertical member on each side of the web. The
+method of repair is essentially the same as in Figure 6-20A,
+except the plywood reinforcement plates on each side, shown
+in Figure 6-20C-C, are continued the full distance between
+the spars.
+
+Wing Spar Repairs
+Wood wing spars are fabricated in various designs using solid
+wood, plywood, or a combination of the two. [Figure 6-21]
+When a spar is damaged, the method of repair must conform
+to the manufacturer’s instructions and recommendations. In
+the absence of manufacturer’s instructions, contact the FAA
+for advice and approval before making repairs to the spar and
+following recommendations in AC 43.13-1. If instructions
+are not available for a specific type of repair, it is highly
+recommended that you request appropriate engineering
+assistance to evaluate and provide guidance for the intended
+repair.
+Shown in Figure 6-22 is a recommended method to repair
+either a solid or laminated rectangle spar. The slope of the
+scarf in any stressed part, such as a spar, should not be steeper
+than 15 to 1.
+
+Figure 6-20B illustrates a compression rib of the type that is
+6-14
+
+===== PDF PAGE 326 =====
+MAGE
+DA
+
+A
+
+Repair
+
+See D
+
+A
+3A
+
+3A
+A
+
+B
+
+MAGE
+DA
+
+Repair
+
+B
+B
+
+MAGE
+DA
+
+C
+Repair
+
+C
+C
+12A recommended
+10A minimum
+
+6A
+
+¼A
+A
+
+6A
+
+D
+
+2A
+
+A - A
+
+¼A
+
+B - B
+
+C - C
+
+Plywood reinforcement same thickness and face grain direction as original
+Figure 6-20. Typical compression rib repair.
+
+Unless otherwise specified by the aircraft manufacturer, a
+damaged spar may be spliced at almost any point except at
+wing attachment fittings, landing gear fittings, engine mount
+fittings, or lift-and-interplane strut fittings. These fittings may
+not overlap any part of the splice. The reinforcement plates
+of the splice should not interfere with the proper attachment
+or alignment of the fittings. Taper reinforcement plates on
+the ends at a 5:1 slope [Figure 6-23].
+
+of an aircraft is dependent on the accessibility to the damaged
+section. It may not be possible to utilize a scarf repair where
+recommended, so the component may have to be replaced.
+A scarf must be precisely cut on both adjoining pieces to
+ensure an even thin glue line; otherwise, the joint may not
+achieve full strength. The primary difficulty encountered in
+making this type of joint is obtaining the same bevel on each
+piece. [Figure 6-24]
+
+The use of a scarf joint to repair a spar or any other component
+
+The mating surfaces of the scarf must be smooth. You can
+6-15
+
+===== PDF PAGE 327 =====
+Box
+
+I
+
+Double I
+
+C
+
+Plain rectangular
+
+Routed
+
+Figure 6-21. Typical splice repair of solid rectangular spar.
+6A recommended
+5A minimum
+
+2A
+A
+
+6A recommended
+5A minimum
+
+15A minimum
+No fittings within these limits
+
+A
+
+/
+
+1 4A
+
+Direction of grain
+if spruce or outer
+face grain if
+plywood
+
+Figure 6-22. Typical splice repair of solid rectangular spar.
+
+machine smooth a saw cut using any of a variety of tools,
+such as a plane, a joiner, or a router. For most joints, you
+need a beveled fixture set at the correct slope to complete
+the cut. Figure 6-25 illustrates one method of producing an
+accurate scarf joint.
+
+Once the two bevels are cut for the intended splice, clamp the
+pieces to a flat guide board of similar material. Then, work a
+sharp, fine-tooth saw all the way through the joint. Remove
+the saw, decrease pressure, and tap one of the pieces on the
+end to close the gap. Work the saw again through the joint.
+Continue this procedure until the joint is perfectly parallel
+6-16
+
+===== PDF PAGE 328 =====
+Feathered end
+
+Undamaged section
+5:1 slope
+
+New section to be spliced in
+
+Figure 6-23. Tapered faceplate.
+Guide board
+
+Figure 6-25. Making a scarf joint.
+Slope 10 to 1 in solid wood
+Routed scaft
+A
+
+Edges are guide for router base
+
+Correctly beveled pieces
+Gap
+
+B
+
+Incorrect beveled pieces
+
+Figure 6-24. Beveled scarf joint.
+
+with matching surfaces. Then, make a light cut with the grain,
+using a sharp plane, to smooth both mating surfaces.
+Another method of cutting a scarf uses a simple scarf-cutting
+fixture that you can also fabricate for use with a router. Extend
+the work piece beyond the edge so the finished cut results in
+a feathered edge across the end of the scarf. [Figure 6-26]
+There are numerous tools made by individuals, and there are
+commercial plans for sale with instructions for building scarfcutting tools. Most of them work, but some are better than
+others. The most important requirement for the tool is that it
+produces a smooth, repeatable cut at the appropriate angle.
+Local damage to the top or bottom edge of a solid spar may
+be repaired by removing the damaged portion and fabricating
+a replacement filler block of the same material as the spar.
+Full width doublers are fabricated as shown and then all three
+pieces are glued and clamped to the spar. Nails or screws
+should not be used in spar repairs. A longitudinal crack in
+a solid spar may be repaired using doublers made from the
+proper thickness plywood. Care must be taken to ensure the
+doublers extend the minimum distance beyond the crack.
+
+Slope fixed as appropriate
+10:1 to 12:1, etc.
+Clamp work piece to fixture
+
+Figure 6-26. Scarf cutting fixture.
+
+[Figure 6-27]
+A typical repair to a built-up I spar is illustrated using
+plywood reinforcement plates with solid wood filler blocks.
+As with all repairs, the reinforcement plate ends should be
+feathered out to a 5:1 slope. [Figure 6-28]
+Repair methods for the other types of spar illustrated at the
+start of this section all follow the basic steps of repair. The
+wood used should be of the same type and size as the original
+spar. Always splice and reinforce plywood webs with the
+same type of plywood as the original. Do not use solid wood
+to replace plywood webs because plywood is stronger in shear
+than solid wood of the same thickness. The splices and scarf
+cuts must be of the correct slope for the repair with the face
+6-17
+
+===== PDF PAGE 329 =====
+Scarf at ends of insert
+No less than 12 to 1
+
+5 to 1 slope (minimum)
+Insert block—same species as spar
+No fitting within these limits
+Local damage
+
+3A
+
+A
+
+/
+
+B 10 (max)
+
+3A
+
+¼A
+
+LONGITUDINAL CRACK
+
+B
+
+Note: 1. Make doublers from plywood for
+longitudinal crack repairs on spar face
+2. Make doublers from solid wood (same
+species as spar) for insert repair of top
+Face grain direction of doublers or bottom of spar
+
+Figure 6-27. A method to repair damage to solid spar.
+
+grain running in the same direction as the original member.
+Not more than two splices should be made in any one spar.
+When a satisfactory repair to a spar cannot be accomplished,
+the spar should be replaced. New spars may be obtained from
+the manufacturer or the holder of a PMA for that part. An
+owner-produced spar may be installed provided it is made
+from a manufacturer-approved drawing. Care should be taken
+to ensure that any replacement spars accurately match the
+manufacturer’s original design.
+
+6A
+
+Bolt & Bushing Holes
+All bolts and bushings used in aircraft structures must fit
+snugly into the holes. If the bolt or bushing is loose, movement
+of the structure allows it to enlarge the hole. In the case of
+elongated bolt holes in a spar or cracks in close proximity
+to the bolt holes, the repair may require a new section to be
+spliced in the spar, or replacement of the entire spar.
+All holes drilled in a wood structure to receive bolts or
+bushings should be of such size that inserting the bolt or
+bushing requires a light tapping with a wood or rawhide
+mallet. If the hole is so tight that heavy blows are necessary,
+
+15A
+
+2A
+
+6A
+
+2A
+
+2A
+
+A
+
+No fitting within these limits
+½B
+A
+
+A
+
+Direction of grain in plywood reinforcement
+plates to be same as original web
+B
+
+Solid wood filler block
+
+Solid wood filler block
+
+Plywood
+
+Solid wood filler block
+
+Plywood
+
+Solid wood filler block
+
+Figure 6-28. Repairs to a built-up I spar.
+
+6-18
+

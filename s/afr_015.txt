@@ -1,0 +1,3359 @@
+FAA-H-8083-31B Airframe Handbook, chapter 4 (Aircraft Metal Structural Repair), PDF pages 214-233
+
+===== PDF PAGE 214 =====
+The pins of pull- and stump-type lockbolts are made of heattreated alloy steel or high-strength aluminum alloy. Companion
+collars are made of aluminum alloy or mild steel. The blindtype lockbolt consists of a heat-treated alloy steel pin, blind
+sleeve, filler sleeve, mild steel collar, and carbon steel washer.
+These fasteners are used in shear and tension applications.
+The pull-type is more common and can be installed by one
+person. The stump type requires a two-person installation.
+An assembly tool is used to swage the collar onto the serrated
+grooves in the pin and break the stem flush to the top of the
+collar.
+
+Inspect the lockbolt as follows:
+1.
+
+The head must be firmly seated.
+
+2.
+
+The collar must be tight against the material and have
+the proper shape and size.
+
+3.
+
+Pin protrusion must be within limits.
+
+Lockbolt Removal
+The best way to remove a lockbolt is to remove the collar and
+R
+Z
+
+The easiest way to differentiate between tension and shear
+pins is the number of locking grooves. Tension pins normally
+have four locking grooves and shear pins have two locking
+grooves. The installation tooling preloads the pin while
+swaging the collar. The surplus end of the pin, called the
+pintail, is then fractured.
+Installation Procedure
+Installation of lockbolts involves proper drilling. The hole
+preparation for a lockbolt is similar to hole preparation for a
+Hi-Lok®. An interference fit is typically used for aluminum
+and a clearance fit is used for steel, titanium, and composite
+materials. [Figure 4-107]
+Lockbolt Inspection
+After installation, a lockbolt needs to be inspected to
+determine if installation is satisfactory. [Figure 4-108]
+1
+
+Placed the pin in the hole
+from the back side of the
+work and slip the collar on.
+The hold-off head must be
+toward the gun. This allows
+the gun to preload the pin
+before swaging. Then apply
+the gun; the chuck jaws
+engage the pull grooves of
+the projecting pintail. Hold
+the gun loosely and pull the
+trigger.
+
+2
+
+The initial pull draws the work
+up tight and pulls that portion
+of the shank under the head
+into the hole.
+
+Y
+T
+
+Lockbolt/Collar Acceptance Criteria
+Nominal
+Fastener Diameter
+
+Y
+
+Z
+(Ref.)
+
+R
+Max.
+
+T
+Min.
+
+5/32
+
+.324/.161
+
+.136
+
+.253
+
+.037
+
+3/16
+
+.280/.208
+
+.164
+
+.303
+
+.039
+
+1/4
+
+.374/.295
+
+.224
+
+.400
+
+.037
+
+5/16
+
+.492/.404
+
+.268
+
+.473
+
+.110
+
+3/8
+
+.604/.507
+
+.039
+
+.576
+
+.120
+
+Figure 4-108. Lockbolt inspection.
+3
+
+Further pull swages the collar
+into the locking grooves to
+form a permanent lock.
+
+4
+
+Continued force breaks the
+pin and ejects the tail. Anvil
+returns and disengages from
+the swaged collar.
+
+Figure 4-107. Lockbolt installation procedure.
+
+4-52
+
+===== PDF PAGE 215 =====
+drive out the pin. The collar can be removed with a special
+collar cutter attached to a drill motor that mills off the collar
+without damaging the skin. If this is not possible, a collar
+splitter or small chisel can be used. Use a backup block on
+the opposite side to prevent elongation of the hole.
+The Eddie-Bolt® 2 Pin Fastening System
+The Eddie-Bolt® 2 looks similar to the Hi-Lok®, but has five
+flutes, equally spaced along a portion of the pin thread area.
+A companion threaded collar deforms into the flutes at a
+predetermined torque and locks the collar in place. The collar
+can be unscrewed using special tooling. This fastening system
+can be used in either clearance or interference-fit holes.
+
+Blind Bolts
+Bolts are threaded fasteners that support loads through predrilled holes. Hex, close-tolerance, and internal wrenching
+bolts are used in aircraft structural applications. Blind bolts
+have a higher strength than blind rivets and are used for
+joints that require high strength. Sometimes, these bolts can
+be direct replacements for the Hi-Lok® and lockbolt. Many
+of the new generation blind bolts are made from titanium
+and rated at 90 KSI shear strength, which is twice as much
+as most blind rivets.
+Determining the correct length of the fastener is critical to
+correct installation. The grip length of a bolt is the distance
+from the underhead bearing surface to the first thread. The
+grip is the total thickness of material joined by the bolt.
+Ideally, the grip length should be a few thousands of an inch
+less than the actual grip to avoid bottoming the nut. Special
+grip gauges are inserted in the hole to determine the length
+of the blind bolt to be used. Every blind bolt system has its
+own grip gauge and is not interchangeable with other blind
+bolt or rivet systems.
+Blind bolts are difficult to remove due to the hardness of
+the core bolt. A special removal kit is available from the
+manufacturer for removing each type of blind bolt. These
+
+kits make it easier to remove the blind bolt without damaging
+the hole and parent structure. Blind bolts are available in a
+pull-type and a drive-type.
+Pull-Type Blind Bolt
+Several companies manufacture the pull-type of blind bolt
+fastening systems. They may differ in some design aspects,
+but in general they have a similar function. The pull-type uses
+the drive nut concept and is composed of a nut, sleeve, and
+a draw bolt. Frequently used blind bolt systems include but
+are not limited to the Cherry Maxibolt® Blind Bolt system
+and the HuckBolt® fasteners which includes the Ti-Matic®
+Blind Bolt and the Unimatic® Advanced Bolt (UAB) blind
+bolt systems.
+Cherry Maxibolt® Blind Bolt System
+The Cherry Maxibolt® blind bolt, available in alloy steel
+and A-286 CRES materials, comes in four different nominal
+and oversized head styles. [Figure 4-109] One tool and
+pulling head installs all three diameters. The blind bolts
+create a larger blind side footprint and they provide excellent
+performance in thin sheet and nonmetallic applications. The
+flush breaking stem eliminates shaving while the extended
+grip range accommodates different application thicknesses.
+Cherry Maxibolts® are primarily used in structures where
+higher loads are required. The steel version is 112 KSI shear.
+The A286 version is 95 KSI shear. The Cherry® G83, G84,
+or G704 installation tools are required for installation.
+Huck Blind Bolt System
+The Huck Blind Bolt is a high strength vibration-resistant
+fastener. [Figure 4-110] These bolts have been used
+successfully in many critical areas, such as engine inlets and
+leading edge applications. All fasteners are installed with a
+combination of available hand, pneumatic, pneudraulic, or
+hydraulic pull-type tools (no threads) for ease of installation.
+Huck Blind Bolts can be installed on blind side angle
+
+During the Maxibolt® installation sequence, the Cherry®
+shift washer collapses into itself, leaving a solid washer
+that is easily retrieved.
+
+Figure 4-109. Maxibolt® Blind Bolt System installation.
+
+4-53
+
+===== PDF PAGE 216 =====
+Break neck
+
+Drive anvil washer
+
+Expander
+
+Gold color = Nominal diameter
+Silver color = Offset diameter
+
+Pull grooves
+
+Retention splines
+Lockring (visible after installation)
+1
+
+Rivet inserted into clearance hole—tool is engaged.
+
+2
+
+Expander enters sleeve—upset starts to form.
+
+3
+
+Upset continues to form—lock starts to form.
+
+4
+
+Upset complete—lock completely formed.
+
+lock collar fills the sleeve lock pocket to prevent leakage or
+corrosion pockets (crevice corrosion).
+Flush head blind bolts are designed to install with a flush
+stem break that often requires no trimming for aerodynamic
+surfaces. The Huck Blind Bolt is available in high-strength
+A286 CRES at 95KSI shear strength in 5⁄32-inch through 3⁄8inch diameters in 100° flush tension and protruding head.
+Also available are shear flush heads in 3⁄16-inch diameter.
+A286 CRES Huck Blind Bolts are also available in 1⁄64-inch
+oversize diameters for repair applications.
+Drive Nut-Type of Blind Bolt
+Jo-bolts, Visu-lok®, Composi-Lok®, OSI Bolt®, and RadialLok® fasteners use the drive nut concept and are composed
+of a nut, sleeve, and a draw bolt. [Figure 4-111] These
+types of blind bolts are used for high strength applications
+in metals and composites when there is no access to the
+blind side. Available in steel and titanium alloys, they are
+installed with special tooling. Both powered and hand
+tooling are available. During installation, the nut is held
+stationary while the core bolt is rotated by the installation
+tooling. The rotation of the core bolt draws the sleeve into
+the installed position and continues to retain the sleeve for
+the life of the fastener. The bolt has left hand threads and
+driving flats on the threaded end. A break-off relief allows
+the driving portion of the bolt to break off when the sleeve is
+properly seated. These types of bolts are available in many
+different head styles, including protruding head, 100° flush
+head, 130° flush head, and hex head.
+Use the grip gauge available for the type of fastener and
+select the bolt grip after careful determination of the
+material thickness. The grip of the bolt is critical for correct
+installation. [Figure 4-112]
+Installation procedure:
+1.
+
+5
+
+Install the fastener into the hole, and place the
+installation tooling over the screw (stem) and nut.
+
+Pin breaks flush, lock visible—installation complete.
+
+Figure 4-110. Huck Blind Bolt system.
+
+surfaces up to 5° without loss of performance. The stem is
+mechanically locked to provide vibration-resistant FOD-free
+installations. The locking collar is forced into a conical pocket
+between stem and sleeve, creating high tensile capability. The
+
+Figure 4-111. Drive nut blind bolt.
+
+4-54
+
+===== PDF PAGE 217 =====
+Sleeve Bolts
+Sleeve bolts are used for similar purposes as tapered shank
+bolts, but are easier to install. Sleeve bolts, such as the two
+piece SLEEVbolt®, consist of a tapered shank bolt in an
+expandable sleeve. The sleeve is internally tapered and
+externally straight. The sleeve bolt is installed in a standard
+tolerance straight hole. During installation, the bolt is forced
+into the sleeve. This action expands the sleeve which fills
+the hole. It is easier to drill a straight tolerance hole than it
+is to drill the tapered hole required for a tapered shank bolt.
+
+Rivet Nut
+Figure 4-112. Drive nut blind bolt installation tool.
+
+2.
+
+Apply torque to the screw with the installation tool
+while keeping the drive nut stationary. The screw
+continues to advance through the nut body causing
+the sleeve to be drawn up over the tapered nose of
+the nut. When the sleeve forms tightly against the
+blind side of the structure, the screw fractures in the
+break groove. The stem of Jo-bolts, Visu-lok®, and
+Composi-Lok® II fasteners does not break off flush
+with the head. A screw break-off shaver tool must be
+used if a flush installation is required. The stem of the
+newer Composi-Lok3® and OSI Bolt® break off flush.
+
+Tapered Shank Bolt
+Tapered shank bolts, such as the Taper-Lok®, are lightweight,
+high strength shear or tension bolts. This bolt has a tapered
+shank designed to provide an interference fit upon installation.
+Tapered shank bolts can be identified by a round head (rather
+than a screwdriver slot or wrench flats) and a threaded shank.
+The Taper-Lok® is comprised of a tapered, conical-shank
+fastener, installed into a precision tapered hole. The use of
+tapered shank bolts is limited to special applications such as
+high stress areas of fuel tanks. It is important that a tapered
+bolt not be substituted for any other type of fastener in repairs.
+It is equally as important not to substitute any other type of
+fastener for a tapered bolt.
+
+The rivet nut is a blind installed, internally-threaded rivet
+invented in 1936 by the Goodrich Rubber Company for the
+purpose of attaching a rubber aircraft wing deicer extrusion
+to the leading edge of the wing. The original rivet nut is the
+Rivnut® currently manufactured by Bollhoff Rivnut Inc. The
+Rivnut® became widely used in the military and aerospace
+markets because of its many design and assembly advantages.
+Rivet nuts are used for the installation of fairings, trim, and
+lightly loaded fittings that must be installed after an assembly
+is completed. [Figure 4-113] Often used for parts that are
+removed frequently, the rivet nut is available in two types:
+countersunk or flat head. Installed by crimping from one side,
+the rivet nut provides a threaded hole into which machine
+screws can be installed. Where a flush fit is required, the
+countersink style can be used. Rivet nuts made of alloy steel
+are used when increased tensile and shear strength is required.
+Hole Preparation
+Flat head rivet nuts require only the proper size of hole while
+flush installation can be made into either countersunk or
+dimpled skin. Metal thinner than the rivet nut head requires
+a dimple. The rivet nut size is selected according to the
+thickness of the parent material and the size of screw to be
+used. The part number identifies the type of rivet nut and the
+maximum grip length. Recommended hole sizes are shown
+in Figure 4-114.
+
+Tapered shank bolts look similar to Hi-Lok® bolts after
+installation, but the tapered shank bolts do not have the hex
+recess at the threaded end of the bolt. Tapered shank bolts
+are installed in precision-reamed holes, with a controlled
+interference fit. The interference fit compresses the material
+around the hole that results in excellent load transfer, fatigue
+resistance, and sealing. The collar used with the tapered shank
+bolts has a captive washer, and no extra washers are required.
+New tapered shank bolt installation or rework of tapered shank
+bolt holes needs to be accomplished by trained personnel.
+Properly installed, these bolts become tightly wedged and do
+not turn while torque is applied to the nut.
+Figure 4-113. Rivet nut installation.
+
+4-55
+
+===== PDF PAGE 218 =====
+Rivnut® Size
+
+Drill Size
+
+Hole Tolerance
+
+No. 4
+
+5/32
+
+.155–.157
+
+No. 6
+
+#12
+
+.189–.193
+
+No. 8
+
+#2
+
+.221–.226
+
+Figure 4-114. Recommended hole sizes for rivet nut.
+
+Correct installation requires good hole preparation, removal
+of burrs, and holding the sheets in contact while heading.
+Like any sheet metal fastener, a rivet nut should fit snugly
+into its hole.
+
+Blind Fasteners (Nonstructural)
+
+This shaping process is called forming and may be a simple
+process, such as making one or two holes for attaching; it may
+be a complex process, such as making shapes with complex
+curvatures. Forming, which tends to change the shape or
+contour of a flat sheet or extruded shape, is accomplished by
+either stretching or shrinking the material in a certain area
+to produce curves, flanges, and various irregular shapes.
+Since the operation involves altering the shape of the stock
+material, the amount of shrinking and stretching almost
+entirely depends on the type of material used. Fully annealed
+(heated and cooled) material can withstand considerably more
+stretching and shrinking and can be formed at a much smaller
+bend radius than when it is in any of the tempered conditions.
+
+Pop Rivets
+Common pull-type pop rivets, produced for non-aircraftrelated applications, are not approved for use on certificated
+aircraft structures or components. However, some homebuilt
+noncertificated aircraft use pull-type rivets for their structure.
+These types of rivets are typically made of aluminum and
+can be installed with hand tools.
+
+When aircraft parts are formed at the factory, they are made
+on large presses or by drop hammers equipped with dies
+of the correct shape. Factory engineers, who designate
+specifications for the materials to be used to ensure the
+finished part has the correct temper when it leaves the
+machines, plan every part. Factory draftsmen prepare a layout
+for each part. [Figure 4-116]
+
+Pull-Through Nutplate Blind Rivet
+Nutplate blind rivets are used where the high shear strength
+of solid rivets is not required or if there is no access to install
+a solid rivet. The 3⁄32-inch diameter blind rivet is most often
+used. The nut plate blind rivet is available with the pullthrough and self-plugging locked spindle. [Figure 4-115]
+
+Forming processes used on the flight line and those
+practiced in the maintenance or repair shop cannot duplicate
+a manufacturer’s resources, but similar techniques of
+factory metal working can be applied in the handcrafting of
+repair parts.
+
+The new Cherry ® Rivetless Nut Plate, which replaces
+
+standard riveted nutplates, features a retainer that does
+not require flaring. This proprietary design eliminates the
+need for two additional rivet holes, as well as reaming,
+counterboring, and countersinking steps.
+
+Forming Process
+Before a part is attached to the aircraft during either
+manufacture or repair, it has to be shaped to fit into place.
+
+Figure 4-115. Rivetless pull-through nutplate.
+
+Forming usually involves the use of extremely light-gauge
+alloys of a delicate nature that can be readily made useless by
+coarse and careless workmanship. A formed part may seem
+outwardly perfect, yet a wrong step in the forming procedure
+may leave the part in a strained condition. Such a defect may
+hasten fatigue or may cause sudden structural failure.
+Of all the aircraft metals, pure aluminum is the most easily
+formed. In aluminum alloys, ease of forming varies with
+
+Figure 4-116. Aircraft formed at a factory.
+
+4-56
+
+===== PDF PAGE 219 =====
+the temper condition. Since modern aircraft are constructed
+chiefly of aluminum and aluminum alloys, this section deals
+with the procedures for forming aluminum or aluminum alloy
+parts with a brief discussion of working with stainless steel,
+magnesium, and titanium.
+Most parts can be formed without annealing the metal,
+but if extensive forming operations, such as deep draws
+(large folds) or complex curves, are planned, the metal
+should be in the dead soft or annealed condition. During
+the forming of some complex parts, operations may need
+to be stopped and the metal annealed before the process
+can be continued or completed. For example, alloy 2024
+in the “0” condition can be formed into almost any shape
+by the common forming operations, but it must be heat
+treated afterward.
+
+Forming Operations & Terms
+Forming requires either stretching or shrinking the metal, or
+sometimes doing both. Other processes used to form metal
+include bumping, crimping, and folding.
+Stretching
+Stretching metal is achieved by hammering or rolling metal
+under pressure. For example, hammering a flat piece of metal
+causes the material in the hammered area to become thinner in
+that area. Since the amount of metal has not been decreased,
+the metal has been stretched. The stretching process thins,
+elongates, and curves sheet metal. It is critical to ensure the
+metal is not stretched too much, making it too thin, because
+sheet metal does not rebound easily. [Figure 4-117]
+
+horizontal flange of the angle strip over a metal block causes
+its length to increase (stretched), making that section longer
+than the section near the bend. To allow for this difference in
+length, the vertical flange, which tends to keep the material
+near the bend from stretching, would be forced to curve away
+from the greater length.
+Shrinking
+Shrinking metal is much more difficult than stretching it.
+During the shrinking process, metal is forced or compressed
+into a smaller area. This process is used when the length of
+a piece of metal, especially on the inside of a bend, is to be
+reduced. Sheet metal can be shrunk in by hammering on a
+V-block or by crimping and then using a shrinking block.
+To curve the formed angle by the V-block method, place the
+angle on the V-block and gently hammer downward against
+the upper edge directly over the ”V.” While hammering, move
+the angle back and forth across the V-block to compress the
+material along the upper edge. Compression of the material
+along the upper edge of the vertical flange will cause the
+formed angle to take on a curved shape. The material in the
+horizontal flange will merely bend down at the center, and
+the length of that flange will remain the same. [Figure 4-118]
+To make a sharp curve or a sharply bent flanged angle,
+crimping and a shrinking block can be used. In this process,
+crimps are placed in the one flange, and then by hammering
+the metal on a shrinking block, the crimps are driven, or
+shrunk, one at a time.
+
+Stretching one portion of a piece of metal affects the
+surrounding material, especially in the case of formed and
+extruded angles. For example, hammering the metal in the
+
+Cold shrinking requires the combination of a hard surface, such
+as wood or steel, and a soft mallet or hammer because a steel
+hammer over a hard surface stretches the metal, as opposed to
+shrinking it. The larger the mallet face is, the better.
+
+Figure 4-117. Stretch forming metal.
+
+Figure 4-118. Shrink forming metal.
+
+4-57
+
+===== PDF PAGE 220 =====
+Bumping
+Bumping involves shaping or forming malleable metal by
+hammering or tapping—usually with a rubber, plastic, or
+rawhide mallet. During this process, the metal is supported by
+a dolly, a sandbag, or a die. Each contains a depression into
+which hammered portions of the metal can sink. Bumping
+can be done by hand or by machine.
+Crimping
+Crimping is folding, pleating, or corrugating a piece of sheet
+metal in a way that shortens it or turning down a flange on
+a seam. It is often used to make one end of a piece of stove
+pipe slightly smaller so that one section may be slipped into
+another. Crimping one side of a straight piece of angle iron
+with crimping pliers causes it to curve. [Figure 4-119]
+
+Folding Sheet Metal
+Folding sheet metal is to make a bend or crease in sheets,
+plates, or leaves. Folds are usually thought of as sharp,
+angular bends and are generally made on folding machines
+such as the box and pan brake discussed earlier in this chapter.
+
+Layout & Forming
+Terminology
+The following terms are commonly used in sheet metal
+forming and flat pattern layout. Familiarity with these
+terms aids in understanding how bend calculations are used
+in a bending operation. Figure 4-120 illustrates most of
+these terms.
+Base measurement—the outside dimensions of a formed part.
+Base measurement is given on the drawing or blueprint or
+may be obtained from the original part.
+Leg—the longer part of a formed angle.
+Flange—the shorter part of a formed angle—the opposite of
+leg. If each side of the angle is the same length, then each
+is known as a leg.
+Grain of the metal—natural grain of the material is formed
+as the sheet is rolled from molten ingot. Bend lines should be
+made to lie at a 90º angle to the grain of the metal if possible.
+Bend allowance (BA)—refers to the curved section of
+metal within the bend (the portion of metal that is curved in
+bending). The bend allowance may be considered as being
+the length of the curved portion of the neutral line.
+Bend radius—the arc is formed when sheet metal is bent. This
+arc is called the bend radius. The bend radius is measured
+
+Figure 4-119. Crimping metal.
+
+T
+Thickness (T)
+
+FL
+
+AN
+
+GE
+
+F
+L
+A
+T
+
+Bend tangent
+line dimension
+(BTLD)
+
+A
+
+MLD
+Leg
+Radius (R)
+
+Bend tangent line (BL)
+Mold line (ML)
+Bend allowance (BA)
+Mold point
+Setback (90° bend)
+
+R
+
+FLAT
+R+1
+Base measurement
+
+SB
+Mold point
+
+B
+SB
+
+C
+BTLD
+MLD
+
+Figure 4-120. Bend allowance terminology.
+
+4-58
+
+===== PDF PAGE 221 =====
+from a radius center to the inside surface of the metal. The
+minimum bend radius depends on the temper, thickness, and
+type of material. Always use a Minimum Bend Radius Table
+to determine the minimum bend radius for the alloy that is
+going to be used. Minimum bend radius charts can be found
+in manufacturer’s maintenance manuals.
+Bend tangent line (BL)—the location at which the metal starts
+to bend and the line at which the metal stops curving. All the
+space between the bend tangent lines is the bend allowance.
+Neutral axis—an imaginary line that has the same length
+after bending as it had before bending. [Figure 4-121] After
+bending, the bend area is 10 to 15 percent thinner than before
+bending. This thinning of the bend area moves the neutral
+line of the metal in towards the radius center. For calculation
+purposes, it is often assumed that the neutral axis is located
+at the center of the material, although the neutral axis is not
+exactly in the center of the material. However, the amount
+of error incurred is so slight that, for most work, assuming
+it is at the center is satisfactory.
+Mold line (ML)—an extension of the flat side of a part
+beyond the radius.
+Mold line dimension (MLD)—the dimension of a part made
+by the intersection of mold lines. It is the dimension the part
+would have if its corners had no radius.
+Mold point—the point of intersection of the mold lines. The
+mold point would be the outside corner of the part if there
+were no radius.
+K-Factor—the percentage of the material thickness where
+there is no stretching or compressing of the material, such as
+the neutral axis. This percentage has been calculated and is
+one of 179 numbers on the K chart corresponding to one of
+the angles between 0° and 180° to which metal can be bent.
+[Figure 4-122] Whenever metal is to be bent to any angle
+other than 90° (K-factor of 90° equal to 1), the corresponding
+K-factor number is selected from the chart and is multiplied
+
+Neutral line
+
+Figure 4-121. Neutral line.
+
+by the sum of the radius (R) and the thickness (T) of the metal.
+The product is the amount of setback (see next paragraph)
+for the bend. If no K chart is available, the K-factor can be
+calculated with a calculator by using the following formula:
+the K value is the tangent of one-half the bend angle.
+Setback (SB)—the distance the jaws of a brake must be
+setback from the mold line to form a bend. In a 90° bend,
+SB = R + T (radius of the bend plus thickness of the metal).
+The setback dimension must be determined prior to making
+the bend because setback is used in determining the location
+of the beginning bend tangent line. When a part has more
+than one bend, setback must be subtracted for each bend. The
+majority of bends in sheet metal are 90° bends. The K-factor
+must be used for all bends that are smaller or larger than 90°.
+SB = K(R+T)
+Sight line—also called the bend or brake line, it is the layout
+line on the metal being formed that is set even with the nose
+of the brake and serves as a guide in bending the work.
+Flat—that portion of a part that is not included in the bend. It
+is equal to the base measurement (MLD) minus the setback.
+Flat = MLD – SB
+Closed angle—an angle that is less than 90° when measured
+between legs, or more than 90° when the amount of bend is
+measured.
+Open angle—an angle that is more than 90° when measured
+between legs, or less than 90° when the amount of bend is
+measured.
+Total developed width (TDW)—the width of material
+measured around the bends from edge to edge. Finding the
+TDW is necessary to determine the size of material to be
+cut. The TDW is less than the sum of mold line dimensions
+since the metal is bent on a radius and not to a square corner
+as mold line dimensions indicate.
+Layout or Flat Pattern Development
+To prevent any waste of material and to get a greater degree
+of accuracy in the finished part, it is wise to make a layout
+or flat pattern of a part before forming it. Construction of
+interchangeable structural and nonstructural parts is achieved
+by forming flat sheet stock to make channel, angle, zee, or
+hat section members. Before a sheet metal part is formed,
+make a flat pattern to show how much material is required
+in the bend areas, at what point the sheet must be inserted
+into the forming tool, or where bend lines are located. Bend
+lines must be determined to develop a flat pattern for sheet
+metal forming.
+4-59
+
+===== PDF PAGE 222 =====
+Degree
+
+K
+
+Degree
+
+K
+
+Degree
+
+K
+
+Degree
+
+K
+
+Degree
+
+K
+
+1
+
+0.0087
+
+37
+
+0.3346
+
+73
+
+0.7399
+
+109
+
+1.401
+
+145
+
+3.171
+
+2
+
+0.0174
+
+38
+
+0.3443
+
+74
+
+0.7535
+
+110
+
+1.428
+
+146
+
+3.270
+
+3
+
+0.0261
+
+39
+
+0.3541
+
+75
+
+0.7673
+
+111
+
+1.455
+
+147
+
+3.375
+
+4
+
+0.0349
+
+40
+
+0.3639
+
+76
+
+0.7812
+
+112
+
+1.482
+
+148
+
+3.487
+
+5
+
+0.0436
+
+41
+
+0.3738
+
+77
+
+0.7954
+
+113
+
+1.510
+
+149
+
+3.605
+
+6
+
+0.0524
+
+42
+
+0.3838
+
+78
+
+0.8097
+
+114
+
+1.539
+
+150
+
+3.732
+
+7
+
+0.0611
+
+43
+
+0.3939
+
+79
+
+0.8243
+
+115
+
+1.569
+
+151
+
+3.866
+
+8
+
+0.0699
+
+44
+
+0.4040
+
+80
+
+0.8391
+
+116
+
+1.600
+
+152
+
+4.010
+
+9
+
+0.0787
+
+45
+
+0.4142
+
+81
+
+0.8540
+
+117
+
+1.631
+
+153
+
+4.165
+
+10
+
+0.0874
+
+46
+
+0.4244
+
+82
+
+0.8692
+
+118
+
+1.664
+
+154
+
+4.331
+
+11
+
+0.0963
+
+47
+
+0.4348
+
+83
+
+0.8847
+
+119
+
+1.697
+
+155
+
+4.510
+
+12
+
+0.1051
+
+48
+
+0.4452
+
+84
+
+0.9004
+
+120
+
+1.732
+
+156
+
+4.704
+
+13
+
+0.1139
+
+49
+
+0.4557
+
+85
+
+0.9163
+
+121
+
+1.767
+
+157
+
+4.915
+
+14
+
+0.1228
+
+50
+
+0.4663
+
+86
+
+0.9324
+
+122
+
+1.804
+
+158
+
+5.144
+
+15
+
+0.1316
+
+51
+
+0.4769
+
+87
+
+0.9489
+
+123
+
+1.841
+
+159
+
+5.399
+
+16
+
+0.1405
+
+52
+
+0.4877
+
+88
+
+0.9656
+
+124
+
+1.880
+
+160
+
+5.671
+
+17
+
+0.1494
+
+53
+
+0.4985
+
+89
+
+0.9827
+
+125
+
+1.921
+
+161
+
+5.975
+
+18
+
+0.1583
+
+54
+
+0.5095
+
+90
+
+1.000
+
+126
+
+1.962
+
+162
+
+6.313
+
+19
+
+0.1673
+
+55
+
+0.5205
+
+91
+
+1.017
+
+127
+
+2.005
+
+163
+
+6.691
+
+20
+
+0.1763
+
+56
+
+0.5317
+
+92
+
+1.035
+
+128
+
+2.050
+
+164
+
+7.115
+
+21
+
+0.1853
+
+57
+
+0.5429
+
+93
+
+1.053
+
+129
+
+2.096
+
+165
+
+7.595
+
+22
+
+0.1943
+
+58
+
+0.5543
+
+94
+
+1.072
+
+130
+
+2.144
+
+166
+
+8.144
+
+23
+
+0.2034
+
+59
+
+0.5657
+
+95
+
+1.091
+
+131
+
+2.194
+
+167
+
+8.776
+
+24
+
+0.2125
+
+60
+
+0.5773
+
+96
+
+1.110
+
+132
+
+2.246
+
+168
+
+9.514
+
+25
+
+0.2216
+
+61
+
+0.5890
+
+97
+
+1.130
+
+133
+
+2.299
+
+169
+
+10.38
+
+26
+
+0.2308
+
+62
+
+0.6008
+
+98
+
+1.150
+
+134
+
+2.355
+
+170
+
+11.43
+
+27
+
+0.2400
+
+63
+
+0.6128
+
+99
+
+1.170
+
+135
+
+2.414
+
+171
+
+12.70
+
+28
+
+0.2493
+
+64
+
+0.6248
+
+100
+
+1.191
+
+136
+
+2.475
+
+172
+
+14.30
+
+29
+
+0.2586
+
+65
+
+0.6370
+
+101
+
+1.213
+
+137
+
+2.538
+
+173
+
+16.35
+
+30
+
+0.2679
+
+66
+
+0.6494
+
+102
+
+1.234
+
+138
+
+2.605
+
+174
+
+19.08
+
+31
+
+0.2773
+
+67
+
+0.6618
+
+103
+
+1.257
+
+139
+
+2.674
+
+175
+
+22.90
+
+32
+
+0.2867
+
+68
+
+0.6745
+
+104
+
+1.279
+
+140
+
+2.747
+
+176
+
+26.63
+
+33
+
+0.2962
+
+69
+
+0.6872
+
+105
+
+1.303
+
+141
+
+2.823
+
+177
+
+38.18
+
+34
+
+0.3057
+
+70
+
+0.7002
+
+106
+
+1.327
+
+142
+
+2.904
+
+178
+
+57.29
+
+35
+
+0.3153
+
+71
+
+0.7132
+
+107
+
+1.351
+
+143
+
+2.988
+
+179
+
+114.59
+
+36
+
+0.3249
+
+72
+
+0.7265
+
+108
+
+1.376
+
+144
+
+3.077
+
+180
+
+Inf.
+
+Figure 4-122. K-factor.
+
+When forming straight angle bends, correct allowances
+must be made for setback and bend allowance. If shrinking
+or stretching processes are to be used, allowances must be
+made so that the part can be turned out with a minimum
+amount of forming.
+Making Straight Line Bends
+When forming straight bends, the thickness of the material,
+its alloy composition, and its temper condition must be
+considered. Generally speaking, the thinner the material is,
+the more sharply it can be bent (the smaller the radius of
+bend), and the softer the material is, the sharper the bend
+
+is. Other factors that must be considered when making
+straight line bends are bend allowance, setback, and brake or
+sight line.
+The radius of bend of a sheet of material is the radius of the
+bend as measured on the inside of the curved material. The
+minimum radius of bend of a sheet of material is the sharpest
+curve, or bend, to which the sheet can be bent without
+critically weakening the metal at the bend. If the radius of
+bend is too small, stresses and strains weaken the metal and
+may result in cracking.
+
+4-60
+
+===== PDF PAGE 223 =====
+A minimum radius of bend is specified for each type of
+aircraft sheet metal. The minimum bend radius is affected
+by the kind of material, thickness of the material, and temper
+condition of the material. Annealed sheet can be bent to a
+radius approximately equal to its thickness. Stainless steel and
+2024-T3 aluminum alloy require a fairly large bend radius.
+
+will be discussed. [Figure 4-123] When using bend
+allowance calculations, the following steps for finding the
+total developed length can be computed with formulas,
+charts, or computer-aided design (CAD) and computer-aided
+manufacturing (CAM) software packages. This channel is
+made of 0.040-inch 2024-T3 aluminum alloy.
+
+Bending a U-Channel
+
+Step 1: Determine the Correct Bend Radius
+Minimum bend radius charts are found in manufacturers’
+maintenance manuals. A radius that is too sharp cracks the
+material during the bending process. Typically, the drawing
+indicates the radius to use, but it is a good practice to double
+check. For this layout example, use the minimum radius
+chart in Figure 4-124 to choose the correct bend radius for
+the alloy, temper, and the metal thickness. For 0.040, 2024T3 the minimum allowable radius is 0.16-inch or 5⁄32-inch.
+
+To understand the process of making a sheet metal layout,
+the steps for determining the layout of a sample U-channel
+
+1.0
+
+.04
+
+.16
+
+R=
+
+2.0
+Left view
+Scale: 3:2
+
+Step 2: Find the Setback
+The setback can be calculated with a formula or can be found
+in a setback chart available in aircraft maintenance manuals
+or Source, Maintenance, and Recoverability books (SMRs).
+[Figure 4-125]
+
+Isometric view
+Scale: 3:2
+
+Figure 4-123. U-channel example.
+
+CHART 204
+MINIMUM BEND RADIUS FOR ALUMINUM ALLOYS
+Thickness
+
+5052-0
+6061-0
+5052-H32
+
+7178-0
+2024-0
+5052-H34
+6061-T4
+7075-0
+
+6061-T6
+
+7075-T6
+
+2024-T3
+2024-T4
+
+2024-T6
+
+.012
+
+.03
+
+.03
+
+.03
+
+.03
+
+.06
+
+.06
+
+.016
+
+.03
+
+.03
+
+.03
+
+.03
+
+.09
+
+.09
+
+.020
+
+.03
+
+.03
+
+.03
+
+.12
+
+.09
+
+.09
+
+.025
+
+.03
+
+.03
+
+.06
+
+.16
+
+.12
+
+.09
+
+.032
+
+.03
+
+.03
+
+.06
+
+.19
+
+.12
+
+.12
+
+.040
+
+.06
+
+.06
+
+.09
+
+.22
+
+.16
+
+.16
+
+.050
+
+.06
+
+.06
+
+.12
+
+.25
+
+.19
+
+.19
+
+.063
+
+.06
+
+.09
+
+.16
+
+.31
+
+.22
+
+.25
+
+.071
+
+.09
+
+.12
+
+.16
+
+.38
+
+.25
+
+.31
+
+.080
+
+.09
+
+.16
+
+.19
+
+.44
+
+.31
+
+.38
+
+.090
+
+.09
+
+.19
+
+.22
+
+.50
+
+.38
+
+.44
+
+.100
+
+.12
+
+.22
+
+.25
+
+.62
+
+.44
+
+.50
+
+.125
+
+.12
+
+.25
+
+.31
+
+.88
+
+.50
+
+.62
+
+.160
+
+.16
+
+.31
+
+.44
+
+1.25
+
+.75
+
+.75
+
+.190
+
+.19
+
+.38
+
+.56
+
+1.38
+
+1.00
+
+1.00
+
+.250
+
+.31
+
+.62
+
+.75
+
+2.00
+
+1.25
+
+1.25
+
+.312
+
+.44
+
+1.25
+
+1.38
+
+2.50
+
+1.50
+
+1.50
+
+.375
+
+.44
+
+1.38
+
+1.50
+
+2.50
+
+1.88
+
+1.88
+
+Bend radius is designated to the inside of the bend. All dimensions are in inches.
+Figure 4-124. Minimum bend radius (from the Raytheon Aircraft Structural Inspection and Repair Manual).
+
+4-61
+
+===== PDF PAGE 224 =====
+T
+
+SB = DIstance from mold line to bend line
+BA = Line to bend line
+BA = Bend angle
+R = Bend radius
+T = Thickness
+
+Bend line
+BA
+Outside
+mold line
+
+R
+Setback
+(SB)
+
+1. Enter chart at bottom on appropriate scale using sum T + R
+2. Read up to bend angle
+3. Determine setback from corresponding scale on left
+Example:
+T (0.063) + R (0.12) = 0.183
+BA = 135°
+Setback = 0.453
+
+Bend
+line
+
+Bend Angle (BA)
+160°
+
+150°
+
+140° 135° 130°
+
+120°
+
+2.0
+1.0
+5.0
+
+170°
+
+0.18
+0.90
+4.5
+
+110°
+
+0.16
+0.80
+4.0
+
+100°
+
+70°
+
+Bend Angle (BA)
+
+0.08
+0.10
+0.40 0.453 0.50
+2.0
+2.5
+
+0.12
+0.60
+3.0
+
+80°
+
+60°
+
+50°
+
+0.06
+0.30
+1.5
+
+Setback Distance (SB)
+
+0.14
+0.70
+3.5
+
+90°
+
+0.04
+0.20
+1.0
+
+45°
+40°
+30°
+
+0.02
+0.10
+0.50
+
+20°
+
+10°
+
+0.50
+1.0
+0.10 0.183 0.20
+0.02
+0.04
+
+1.5
+0.30
+0.06
+
+2.0
+0.40
+0.08
+
+2.5
+0.50
+0.10
+
+3.0
+0.60
+0.12
+
+3.5
+0.70
+0.14
+
+Thickness (T) + Radius (R)
+Flat Pattern Setback Graph
+Figure 4-125. Setback chart.
+
+4-62
+
+===== PDF PAGE 225 =====
+Using a Formula to Calculate the Setback
+
+SB = setback
+K = K-factor (K is 1 for 90° bends)
+R = inside radius of the bend
+T = material thickness
+Since all of the angles in this example are 90° angles, the
+setback is calculated as follows:
+SB = K(R+T) = 0.2 inches
+Note: K = 1 for a 90° bend. For other than a 90° bend, use
+a K-factor chart.
+Using a Setback Chart to Find the Setback
+
+The setback chart is a quick way to find the setback and is
+useful for open and closed bends, because there is no need
+to calculate or find the K-factor. Several software packages
+and online calculators are available to calculate the setback.
+These programs are often used with CAD/CAM programs.
+[Figure 4-125]
+•
+
+Enter chart at the bottom on the appropriate scale with
+the sum of the radius and material thickness.
+
+•
+
+Read up to the bend angle.
+
+•
+
+Find the setback from corresponding scale on the left.
+
+Example:
+•
+
+Material thickness is 0.063-inch.
+
+•
+
+Bend angle is 135°.
+
+•
+
+R + T = 0.183-inch.
+
+Find 0.183 at the bottom of the graph. It is found in the
+middle scale.
+•
+
+Read up to a bend angle of 135°.
+
+•
+
+Locate the setback at the left hand side of the graph
+in the middle scale (0.435-inch). [Figure 4-125]
+
+Step 3: Find the Length of the Flat Line Dimension
+The flat line dimension can be found using the formula:
+Flat = MLD – SB
+MLD = mold line dimension
+SB = setback
+The flats, or flat portions of the U-channel, are equal to the
+mold line dimension minus the setback for each of the sides,
+and the mold line length minus two setbacks for the center
+flat. Two setbacks need to be subtracted from the center flat
+because this flat has a bend on either side.
+
+The flat dimension for the sample U-channel is calculated in
+the following manner:
+Flat dimension = MLD – SB
+Flat 1 = 1.00-inch – 0.2-inch = 0.8-inch
+Flat 2 = 2.00-inch – (2 × 0.2-inch) = 1.6-inch
+Flat 3 = 1.00-inch – 0.2-inch = 0.8-inch
+Step 4: Find the Bend Allowance
+When making a bend or fold in a piece of metal, the bend
+allowance or length of material required for the bend must be
+calculated. Bend allowance depends on four factors: degree
+of bend, radius of the bend, thickness of the metal, and type
+of metal used.
+The radius of the bend is generally proportional to the
+thickness of the material. Furthermore, the sharper the radius
+of bend, the less the material that is needed for the bend. The
+type of material is also important. If the material is soft, it
+can be bent very sharply; but if it is hard, the radius of bend
+is greater, and the bend allowance is greater. The degree of
+bend affects the overall length of the metal, whereas the
+thickness influences the radius of bend.
+Bending a piece of metal compresses the material on the
+inside of the curve and stretches the material on the outside
+of the curve. However, at some distance between these
+two extremes lies a space which is not affected by either
+force. This is known as the neutral line or neutral axis and
+occurs at a distance approximately 0.445 times the metal
+thickness (0.445 × T) from the inside of the radius of the
+bend. [Figure 4-126]
+The length of this neutral axis must be determined so that
+sufficient material can be provided for the bend. This is called
+the bend allowance. This amount must be added to the overall
+length of the layout pattern to ensure adequate material for
+the bend. To save time in calculation of the bend allowance,
+formulas and charts for various angles, radii of bends,
+material thicknesses, and other factors have been developed.
+Formula 1: Bend Allowance for a 90° Bend
+
+To the radius of bend (R) add 1⁄2 the thickness of the metal
+(1⁄2T). This gives R + 1⁄2T, or the radius of the circle of the
+neutral axis. [Figure 4-127] Compute the circumference
+of this circle by multiplying the radius of the neutral line
+(R + 1⁄2T) by 2π (Note: π = 3.1416): 2π (R + 1⁄2T). Since a
+90° bend is a quarter of the circle, divide the circumference
+by 4. This gives:
+
+4-63
+
+===== PDF PAGE 226 =====
+a period of years as being the relationship of the degrees in the
+bend to the thickness of the metal when determining the bend
+allowance for a particular application. By experimentation
+with actual bends in metals, aircraft engineers have found
+that accurate bending results could be obtained by using the
+following formula for any degree of bend from 1° to 180°.
+
+0445T Distance from
+inner radius of bend
+
+Shrinking
+
+Bend allowance = (0.01743R + 0.0078T)N where:
+Neutral axis
+
+Stretching
+Figure 4-126. Neutral axis and stresses resulting from bending.
+
+R = the desired bend radius
+T = the thickness of the metal
+N = number of degrees of bend
+To use this formula for a 90° bend having a radius of .16inch for material 0.040-inch thick, substitute in the formula
+as follows:
+
+T
+
+Bend allowance =
+(0.01743 × 0.16) + (0.0078 × 0.040) × 90 = 0.27 inches
+B
+
+Radius
+
+Use of Bend Allowance Chart for a 90° Bend
+
+R + 1/2T
+C
+90°
+Figure 4-127. Bend allowance for a 90° bend.
+
+2π (R + 1⁄2T)
+4
+This is the bend allowance for a 90° bend. To use the formula
+for a 90° bend having a radius of 1⁄4 inch for material 0.051inch thick, substitute in the formula as follows.
+Bend allowance = (2 × 3.1416)(0.250 + 1⁄2(0.051))
+4
+= 6.2832(0.250 + 0.0255)
+4
+= 6.2832(0.2755)
+4
+= 0.4327
+The bend allowance, or the length of material required for
+the bend, is 0.4327 or 7⁄16-inch.
+Formula 2: Bend Allowance for a 90° Bend
+
+This formula uses two constant values that have evolved over
+
+In Figure 4-128, the radius of bend is shown on the top line,
+and the metal thickness is shown on the left hand column.
+The upper number in each cell is the bend allowance for a
+90° bend. The lower number in the cell is the bend allowance
+per 1° of bend. To determine the bend allowance for a 90°
+bend, simply use the top number in the chart.
+Example: The material thickness of the U-channel is 0.040inch and the bend radius is 0.16-inch.
+Reading across the top of the bend allowance chart, find
+the column for a radius of bend of .156-inch. Now, find the
+block in this column that is opposite the material thickness
+(gauge) of 0.040 in the column at the left. The upper number
+in the cell is (0.273), the correct bend allowance in inches
+for a 90° bends.
+Several bend allowance calculation programs are available
+online. Just enter the material thickness, radius, and degree
+of bend and the computer program calculates the bend
+allowance.
+Use of Chart for Other Than a 90° Bend
+
+If the bend is to be other than 90°, use the lower number in
+the block (the bend allowance for 1°) and compute the bend
+allowance.
+Example:
+The L-bracket shown in Figure 4-129 is made from 2024-T3
+aluminum alloy and the bend is 60° from flat. Note that the
+bend angle in the figure indicates 120°, but that is the number
+of degrees between the two flanges and not the bend angle
+4-64
+
+===== PDF PAGE 227 =====
+RADIUS OF BEND, IN INCHES
+
+Metal Thickness
+
+1/32 .031 1/16 .063 3/32 .094 1/8 .125 5/32 .156 3/16 .188 7/32 .219 1/4 .250 9/32 .281 5/16 .313 11/32 .344 3/8 .375 7/16 .438 1/2 .500
+.020
+
+.062
+.113
+.000693 .001251
+
+.161
+.001792
+
+.210
+.002333
+
+.259
+.002874
+
+.309
+.003433
+
+.358
+.406
+.455
+.003974 .004515 .005056
+
+.505
+.005614
+
+.554
+.006155
+
+.702
+.799
+.603
+.006695 .007795 .008877
+
+.025
+
+.066
+.116
+.000736 .001294
+
+.165
+.001835
+
+.214
+.002376
+
+.263
+.002917
+
+.313
+.003476
+
+.362
+.410
+.459
+.004017 .004558 .005098
+
+.509
+.005657
+
+.558
+.006198
+
+.705
+.803
+.607
+.006739 .007838 .008920
+
+.028
+
+.068
+.119
+.000759 .001318
+
+.167
+.001859
+
+.216
+.002400
+
+.265
+.002941
+
+.315
+.003499
+
+.364
+.412
+.461
+.004040 .004581 .005122
+
+.511
+.005680
+
+.560
+.006221
+
+.708
+.805
+.609
+.006762 .007862 .007862
+
+.032
+
+.071
+.121
+.000787 .001345
+
+.170
+.001886
+
+.218
+.002427
+
+.267
+.002968
+
+.317
+.003526
+
+.366
+.415
+.463
+.004067 .004608 .005149
+
+.514
+.005708
+
+.562
+.006249
+
+.710
+.807
+.611
+.006789 .007889 .008971
+
+.038
+
+.075
+.126
+.00837 .001396
+
+.174
+.001937
+
+.223
+.002478
+
+.272
+.003019
+
+.322
+.003577
+
+.371
+.419
+.468
+.004118 .004659 .005200
+
+.518
+.005758
+
+.567
+.006299
+
+.715
+.812
+.616
+.006840 .007940 .009021
+
+.040
+
+.077
+.127
+.000853 .001411
+
+.176
+.001952
+
+.224
+.002493
+
+.273
+.003034
+
+.323
+.003593
+
+.372
+.421
+.469
+.004134 .004675 .005215
+
+.520
+.005774
+
+.568
+.006315
+
+.716
+.813
+.617
+.006856 .007955 .009037
+
+.051
+
+.134
+.001413
+
+.183
+.002034
+
+.232
+.002575
+
+.280
+.003116
+
+.331
+.003675
+
+.379
+.428
+.477
+.004215 .004756 .005297
+
+.527
+.005855
+
+.576
+.006397
+
+.723
+.821
+.624
+.006934 .008037 .009119
+
+.064
+
+.144
+.001595
+
+.192
+.002136
+
+.241
+.002676
+
+.290
+.003218
+
+.340
+.003776
+
+.389
+.437
+.486
+.004317 .004858 .005399
+
+.536
+.005957
+
+.585
+.006498
+
+.732
+.830
+.634
+.007039 .008138 .009220
+
+.072
+
+.198
+.002202
+
+.247
+.002743
+
+.296
+.003284
+
+.436
+.003842
+
+.394
+.443
+.492
+.004283 .004924 .005465
+
+.542
+.006023
+
+.591
+.006564
+
+.738
+836
+.639
+.007105 .008205 .009287
+
+.078
+
+.202
+.002249
+
+.251
+.002790
+
+.300
+.003331
+
+.350
+.003889
+
+.399
+.447
+.496
+.004430 .004963 .005512
+
+.546
+.006070
+
+.595
+.006611
+
+.745
+.840
+.644
+.007152 .008252 .009333
+
+.081
+
+.204
+.002272
+
+.253
+.002813
+
+.302
+.003354
+
+.352
+.003912
+
+.401
+.449
+.498
+.004453 .004969 .005535
+
+.548
+.006094
+
+.598
+.006635
+
+.745
+.842
+.646
+.007176 .008275 .009357
+
+.091
+
+.212
+.002350
+
+.260
+.002891
+
+.309
+.003432
+
+.359
+.003990
+
+.408
+.456
+.505
+.004531 .005072 .005613
+
+.555
+.006172
+
+.604
+.006713
+
+.752
+.849
+.653
+.007254 .008353 .009435
+
+.094
+
+.214
+.002374
+
+.262
+.002914
+
+.311
+.003455
+
+.361
+.004014
+
+.410
+.459
+.507
+.004555 .005096 .005637
+
+.558
+.006195
+
+.606
+.006736
+
+.754
+.851
+.655
+.007277 .008376 .009458
+
+.102
+
+.268
+.002977
+
+.317
+.003518
+
+.367
+.004076
+
+.416
+.464
+.513
+.004617 .005158 .005699
+
+.563
+.006257
+
+.612
+.006798
+
+.760
+.857
+.661
+.007339 .008439 .009521
+
+.109
+
+.273
+.003031
+
+.321
+.003572
+
+.372
+.004131
+
+.420
+.469
+.518
+.004672 .005213 .005754
+
+.568
+.006312
+
+.617
+.006853
+
+.764
+.862
+.665
+.008394 .008493 .009575
+
+.125
+
+.284
+.003156
+
+.333
+.003697
+
+.383
+.004256
+
+.432
+.480
+.529
+.004797 .005338 .005678
+
+.579
+.006437
+
+.628
+.006978
+
+.776
+.873
+.677
+.007519 .008618 .009700
+
+.355
+.003939
+
+.405
+.004497
+
+.453
+.502
+.551
+.005038 .005579 .006120
+
+.601
+.006679
+
+.650
+.007220
+
+.797
+.895
+.698
+.007761 .008860 .009942
+
+.417
+.004747
+
+.476
+.525
+.573
+.005288 .005829 .006370
+
+.624
+.006928
+
+.672
+.007469
+
+.820
+.917
+.721
+.008010 .009109 .010191
+
+.568
+.617
+.006313 .006853
+
+.667
+.007412
+
+.716
+.007953
+
+.863
+.961
+.764
+.008494 .009593 .010675
+
+.156
+.188
+.250
+
+Figure 4-128. Bend allowance.
+
+6"
+
+R
+
+=
+
+3
+
+1.1
+
+120°
+
+0.1
+
+1.98
+
+0.04
+
+Figure 4-129. Bend allowance for bends less than 90°.
+
+4-65
+
+===== PDF PAGE 228 =====
+from flat. To find the correct bend angle, use the following
+formula:
+
+0.27
+
+0.27
+
+2.
+
+Go to the right and locate the bend radius of 0.16-inch
+(0.156-inch).
+
+3.
+
+Note the bottom number in the block (0.003034).
+
+4.
+
+Multiply this number by the bend angle:
+0.003034 × 60 = 0.18204
+
+Step 5: Find the Total Developed Width of the Material
+The total developed width (TDW) can be calculated when
+the dimensions of the flats and the bend allowance are found.
+The following formula is used to calculate TDW:
+TDW = Flats + (bend allowance × number of bends)
+For the U-channel example, this gives:
+TDW = Flat 1 + Flat 2 + Flat 3 + (2 × BA)
+TDW = 0.8 + 1.6 + 0.8 + (2 × 0.27)
+TDW = 3.74-inches
+Note that the amount of metal needed to make the channel
+is less than the dimensions of the outside of the channel
+(total of mold line dimensions is 4 inches). This is because
+the metal follows the radius of the bend rather than going
+from mold line to mold line. It is good practice to check
+that the calculated TDW is smaller than the total mold line
+dimensions. If the calculated TDW is larger than the mold
+line dimensions, the math was incorrect.
+
+Br
+
+0.80
+
+1.60
+
+Flat 3
+
+Go to the left side of the table and find 0.040-inch.
+
+Flat 2
+
+Bend allowance
+
+1.
+
+Flat 1
+
+The actual bend is 60°. To find the correct bend radius for a
+60° bend of material 0.040-inches thick, use the following
+procedure.
+
+Bend allowance
+
+Bend Angle = 180° – Angle between flanges
+
+0.80
+
+Figure 4-130. Flat pattern layout.
+
+Step 6: Flat Pattern Lay Out
+After a flat pattern layout of all relevant information is made,
+the material can be cut to the correct size, and the bend tangent
+lines can be drawn on the material. [Figure 4-130]
+Step 7: Draw the Sight Lines on the Flat Pattern
+The pattern laid out in Figure 4-130 is complete, except for
+a sight line that needs to be drawn to help position the bend
+tangent line directly at the point where the bend should start.
+Draw a line inside the bend allowance area that is one bend
+radius away from the bend tangent line that is placed under
+the brake nose bar. Put the metal in the brake under the clamp
+and adjust the position of the metal until the sight line is
+directly below the edge of the radius bar. [Figure 4-131] Now,
+clamp the brake on the metal and raise the leaf to make the
+bend. The bend begins exactly on the bend tangent line.
+Note: A common mistake is to draw the sight line in the
+middle of the bend allowance area, instead of one radius
+away from the bend tangent line that is placed under the
+brake nose bar.
+
+ak
+
+es
+
+e
+
+Be
+
+nd
+
+ta
+
+ng
+
+en
+
+tl
+in
+
+Sight line looking straight
+down the nose radius bar
+
+Sig
+
+ht
+
+lin
+
+e
+
+The sight line is located one
+radius inside the bend tangent
+line that is placed in the brake.
+
+Brake
+nose
+Bend tangent lines
+
+Figure 4-131. Sight line.
+
+4-66
+
+===== PDF PAGE 229 =====
+Using a J-Chart to Calculate Total Developed Width
+The J-chart, often found in the SRM, can be used to determine
+bend deduction or setback and the TDW of a flat pattern
+layout when the inside bend radius, bend angle, and material
+thickness are known. [Figure 4-132] While not as accurate as
+the traditional layout method, the J-chart provides sufficient
+information for most applications. The J-chart does not
+require difficult calculations or memorized formulas because
+the required information can be found in the repair drawing
+or can be measured with simple measuring tools.
+
+When using the J-chart, it is helpful to know whether the
+angle is open (greater than 90°) or closed (less than 90°)
+because the lower half of the J-chart is for open angles and
+the upper half is for closed angles.
+To find the total developed width using a J-chart:
+•
+
+Place a straightedge across the chart and connect the
+bend radius on the top scale with the material thickness
+on the bottom scale. [Figure 4-132]
+
+Bend Radius
+0.47 0.44 0.40 0.38 0.34 0.31 0.28 0.25 0.22 0.19 0.16 0.12 0.09 0.06 0.03 0.00
+
+X = Amount to be reduced from sum of flange dimension
+A + B − X = Developed length
+
+1.60
+1.40
+
+B
+
+R
+
+0.063 Material
+0.12 Bend raduis
+45° Angle
+X = 0.035
+
+ngle
+da
+
+Example
+
+Be
+n
+
+A
+
+1.70
+
+150°
+
+1.20
+1.00
+
+140°
+130°
+
+0.90
+
+120°
+115°
+110°
+105°
+100°
+95°
+
+0.80
+
+Factor X
+
+0.70
+0.60
+0.50
+0.40
+
+90°
+85°
+
+0.30
+
+80°
+
+Angle
+
+0.50
+
+75°
+
+0.25
+
+70°
+
+0.20
+
+65°
+60°
+
+0.15
+
+55°
+50°
+
+0.10
+
+45°
+
+0.04
+
+0.09
+0.08
+
+40°
+
+0.03
+
+0.07
+
+0.02
+
+0.01
+
+35°
+
+0.06
+0.05
+
+30°
+
+Instruction
+Place a straightedge across the chart connecting the radius on the upper scale and
+thickness on lower scale. Then, locate the angle on the right hand scale and follow
+this line horizontally until it meets the straight edge. The factor X is then read on the
+diagonally curving line. Interpolate when the factor X falls between lines.
+0.130
+
+0.120
+
+0.110
+
+0.100
+
+0.090
+
+0.080
+
+0.070
+
+0.060
+
+0.050
+
+0.040
+
+0.030
+
+0.020
+
+0.010
+
+0.000
+
+Thickness
+
+Figure 4-132. J chart.
+
+4-67
+
+===== PDF PAGE 230 =====
+•
+
+Locate the angle on the right hand scale and follow
+this line horizontally until it meets the straight edge.
+
+•
+
+The factor X (bend deduction) is then read on the
+diagonally curving line.
+
+0.5"
+
+•
+
+Interpolate when the X factor falls between lines.
+
+0"
+2.
+
+•
+
+Add up the mold line dimensions and subtract the X
+factor to find the TDW.
+
+135° R =
+
+"
+
+25
+
+0.
+
+2.0"
+
+Figure 4-134. Example 2 of J chart.
+
+Example 1
+Bend radius = 0.22-inch
+Material thickness = 0.063-inch
+Bend angle = 90º
+ML 1 = 2.00/ML 2 = 2.00
+Use a straightedge to connect the bend radius (0.22-inch) at
+the top of the graph with the material thickness at the bottom
+(0.063-inch). Locate the 90° angle on the right hand scale and
+follow this line horizontally until it meets the straightedge.
+Follow the curved line to the left and find 0.17 at the left
+side. The X factor in the drawing is 0.17-inch. [Figure 4-133]
+Total developed width =
+(Mold line 1 + Mold line 2) – X factor
+Total developed width = (2 + 2) – .17 = 3.83-inches
+Example 2
+Bend radius = 0.25-inch
+Material thickness = 0.050-inch
+Bend angle = 45º
+ML 1 = 2.00/ML 2 = 2.00
+Figure 4-134 illustrates a 135° angle, but this is the angle
+between the two legs. The actual bend from flat position is
+45° (180 – 135 = 45). Use a straightedge to connect the bend
+radius (0.25-inch) at the top of the graph with the material
+thickness at the bottom (.050-inch). Locate the 45° angle on
+the right hand scale and follow this line horizontally until
+
+it meets the straight edge. Follow the curved line to the left
+and find 0.035 at the left side. The X factor in the drawing
+is 0.035 inch.
+Total developed width =
+(Mold line 1 + Mold line 2) – X factor
+Total developed width = (2 + 2) – .035 = 3.965-inch
+Using a Sheet Metal Brake to Fold Metal
+The brake set up for box and pan brakes and cornice brakes
+is identical. [Figure 4-135] A proper set up of the sheet
+metal brake is necessary because accurate bending of sheet
+metal depends on the thickness and temper of the material
+to be formed and the required radius of the part. Any time a
+different thickness of sheet metal needs to be formed or when
+a different radius is required to form the part, the operator
+needs to adjust the sheet metal brake before the brake is
+used to form the part. For this example, an L-channel made
+from 2024 –T3 aluminum alloy that is 0.032-inch thick will
+be bent.
+
+Step 1: Adjustment of Bend Radius
+The bend radius necessary to bend a part can be found in
+the part drawings, but if it is not mentioned in the drawing,
+consult the SRM for a minimum bend radius chart. This
+
+0.063"
+2.00"
+
+"
+
+.22
+
+R
+
+=0
+
+2.00"
+
+Figure 4-133. Example 1 of J chart.
+
+Figure 4-135. Brake radius nosepiece adjustment.
+
+4-68
+
+===== PDF PAGE 231 =====
+chart lists the smallest radius allowable for each thickness
+and temper of metal that is normally used. To bend tighter
+than this radius would jeopardize the integrity of the part.
+Stresses left in the area of the bend may cause it to fail while
+in service, even if it does not crack while bending it.
+The brake radius bars of a sheet metal brake can be replaced
+with another brake radius bar with a different diameter.
+[Figure 4-136] For example, a 0.032-inch 2024-T3 L channel
+needs to be bent with a radius of 1⁄8-inch and a radius bar with
+a 1⁄8-inch radius must be installed. If different brake radius
+bars are not available, and the installed brake radius bar is
+smaller than required for the part, it is necessary to bend
+some nose radius shims. [Figure 4-137]
+
+If the radius is so small that it tends to crack annealed
+aluminum, mild steel is a good choice of material.
+Experimentation with a small piece of scrap material is
+necessary to manufacture a thickness that increases the radius
+to precisely 1⁄16-inch or 1⁄8-inch. Use radius and fillet gauges
+to check this dimension. From this point on, each additional
+shim is added to the radius before it. [Figure 4-138]
+Example: If the original nose was 1⁄16-inch and a piece of .063inch material (1⁄16-inch) was bent around it, the new outside
+radius is 1⁄8-inch. If another .063-inch layer (1⁄16-inch) is added,
+it is now a 3⁄16-inch radius. If a piece of .032-inch (1⁄32-inch)
+instead of .063-inch material (1⁄16-inch) is bent around the
+1
+⁄8-inch radius, a 5⁄32-inch radius results.
+
+Step 2: Adjusting Clamping Pressure
+The next step is setting clamping pressure. Slide a piece of the
+material with the same thickness as the part to be bent under
+the brake radius piece. Pull the clamping lever toward the
+operator to test the pressure. This is an over center type clamp
+and, when properly set, will not feel springy or spongy when
+pulled to its fully clamped position. The operator must be
+able to pull this lever over center with a firm pull and have
+it bump its limiting stops. On some brakes, this adjustment
+has to be made on both sides of the brake.
+Figure 4-136. Interchangeable brake radius bars.
+
+Place test strips on the table 3 inches from each end and one
+in the center between the bed and the clamp, adjust clamp
+
+This radius shim builds radius
+to precisely 1/16"R
+
+UPPER JAW
+NOSE RADIUS
+BAR
+
+BENDING LEAF
+
+Each of these nose radius shims
+is 0.063 inch thick, which gives
+radius choices of 1/8", 3/16", and 1/4"
+LOWER JAW
+
+BED
+
+Figure 4-137. Nose radius shims may be used when the brake radius bar is smaller than required.
+
+4-69
+
+===== PDF PAGE 232 =====
+Pull forward to clamp (no sponginess
+felt when evenly set on BOTH sides)
+
+Radius shims
+Limiting stop
+
+Material to be bent
+
+Lifting nut
+Nut to adjust clamping pressure
+
+Note: Bending leaf counterbalance omitted for clarity
+Figure 4-138. General brake overview including radius shims.
+
+pressure until it is tight enough to prevent the work pieces
+from slipping while bending. The clamping pressure can
+be adjusted with the clamping pressure nut. [Figure 4-139]
+
+Step 3: Adjusting the Nose Gap
+Adjust the nose gap by turning the large brake nose gap
+adjustment knobs at the rear of the upper jaw to achieve
+
+its proper alignment. [Figure 4-140] The perfect setting
+is obtained when the bending leaf is held up to the angle
+of the finished bend and there is one material thickness
+between the bending leaf and the nose radius piece. Using
+a piece of material the thickness of the part to be bent as a
+feeler gauge can help achieve a high degree of accuracy.
+[Figures 4-140 and 4-141] It is essential this nose gap be
+
+Clamping pressure
+adjustment nut
+
+Brake nose gap
+adjustment knob
+
+Figure 4-139. Adjust clamping pressure with the clamping pressure
+
+nut.
+
+Figure 4-140. Brake nose gap adjustment with piece of material
+
+same thickness as part to be formed.
+
+4-70
+
+===== PDF PAGE 233 =====
+Scrap of material to be bent
+
+Should slip snugly
+in and out
+
+BENDING LEAF
+
+NOSE
+GAP
+
+Hold bending leaf at the finished
+angle of bend 90°(in this case)
+
+Figure 4-141. Profile illustration of brake nose gap adjustment.
+
+perfect, even across the length of the part to be bent. Check
+by clamping two test strips between the bed and the clamp 3
+inches from each end of the brake. [Figure 4-142] Bend 90°
+[Figure 4-143], remove test strips, and place one on top of
+the other; they should match. [Figure 4-144] If they do not
+match, adjust the end with the sharper bend back slightly.
+Folding a Box
+A box can be formed the same way as the U-channel described
+on in the previous paragraphs, but when a sheet metal part
+has intersecting bend radii, it is necessary to remove material
+to make room for the material contained in the flanges. This
+is done by drilling or punching holes at the intersection of
+the inside bend tangent lines. These holes, called relief holes
+and whose diameter is approximately twice the bend radius,
+relieve stresses in the metal as it is bent and prevent the metal
+from tearing. Relief holes also provide a neatly trimmed corner
+from which excess material may be trimmed.
+
+Figure 4-142. Brake alignment with two test strips 3 inches from
+
+each end.
+
+The larger and smoother the relief hole is, the less likely it
+will be that a crack will form in the corner. Generally, the
+radius of the relief hole is specified on the drawing. A box
+and pan brake, also called a finger brake, is used to bend the
+
+Figure 4-143. Brake alignment with two test strips bent at 90°.
+
+Figure 4-144. Brake alignment by comparing test strips.
+
+4-71
+

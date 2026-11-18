@@ -1,0 +1,2141 @@
+FAA-H-8083-31B Airframe Handbook, chapter 10 (Aircraft Systems), PDF pages 539-555
+
+===== PDF PAGE 539 =====
+High pressure
+
+Low pressure
+
+18,000 feet
+
+18,000 feet
+
+30.1
+30.2
+30.3
+
+29.8
+29.9
+30.0
+
+Figure 10-35. Above 18,000 feet MSL, all aircraft are required to set 29.92 as the reference pressure in the Kollsman window. The altimeter
+then reads pressure altitude. Depending on the atmospheric pressure that day, the true or actual altitude of the aircraft may be above or
+below what is indicated (pressure altitude).
+
+cause the altimeter to produce an errant reading, flight crews
+must be aware that performance changes with temperature
+variations in the atmosphere. The term density altitude
+describes altitude corrected for nonstandard temperature.
+That is, the density altitude is the standard day altitude
+(pressure altitude) at which an aircraft would experience
+similar performance as it would on the non-standard day
+currently being experienced. For example, on a very cold
+day, the air is denser than on a standard day, so an aircraft
+performs as though it is at a lower altitude. The density
+altitude is lower that day. On a very hot day, the reverse is
+true, and an aircraft performs as though it were at a higher
+elevation where the air is less dense. The density altitude is
+higher that day.
+Conversion factors and charts have been produced so
+pilots can calculate the density altitude on any particular
+day. Inclusion of nonstandard air pressure due to weather
+systems and humidity can also be factored. So, while the
+effects of temperature on aircraft performance do not cause
+an altimeter to indicate falsely, an altimeter indication can be
+misleading in terms of aircraft performance if these effects
+are not considered. [Figure 10-36]
+Other factors can cause an inaccurate altimeter indication.
+Scale error is a mechanical error whereby the scale of the
+instrument is not aligned so the altimeter pointers indicate
+correctly. Periodic testing and adjustment by trained
+technicians using calibrated equipment ensures scale error
+is kept to a minimum.
+The pressure altimeter is connected to the pitot-static system
+and must receive an accurate sample of ambient air pressure
+to indicate the correct altitude. Position error, or installation
+error, is that inaccuracy caused by the location of the static
+
+vent that supplies the altimeter. While every effort is made
+to place static ports in undisturbed air, airflow over the
+airframe changes with the speed and attitude of the aircraft.
+The amount of this air pressure collection error is measured in
+test flights, and a correction table showing the variances can
+be included with the altimeter for the pilot’s use. Normally,
+location of the static vents is adjusted during these test flights
+so that the position error is minimal. [Figure 10-37] Position
+error can be removed by the ADC in modern aircraft, so the
+pilot need not be concerned about this inaccuracy.
+Static system leaks can affect the static air input to the
+altimeter or ADC resulting in inaccurate altimeter indications.
+It is for this reason that static system maintenance includes
+leak checks every 24 months, regardless of whether any
+discrepancy has been noticed. See the instrument maintenance
+section toward the end of this chapter for further information
+on this mandatory check. It should also be understood
+that analog mechanical altimeters are mechanical devices
+that often reside in a hostile environment. The significant
+vibration and temperature range swings encountered by
+the instruments and the pitot static system (i.e., the tubing
+connections and fittings) can sometime create damage or a
+leak, leading to instrument malfunction. Proper care upon
+installation is the best preventive action. Periodic inspection
+and testing can also assure integrity.
+The mechanical nature of the analog altimeter’s diaphragm
+pressure measuring apparatus has limitations. The diaphragm
+itself is only so elastic when responding to static air pressure
+changes. Hysteresis is the term for when the material from
+which the diaphragm is made takes a set during long periods
+of level flight. If followed by an abrupt altitude change,
+the indication lags or responds slowly while expanding or
+contracting during a rapid altitude change. While temporary,
+10-20
+
+===== PDF PAGE 540 =====
+Density Altitude Chart
+Altimeter setting
+("Hg)
+
+Pressure altitude
+conversion factor
+1,824
+
+28.1
+
+1,727
+
+al
+tit
+
+28.2
+
+1,630
+
+28.3
+
+1,533
+
+28.4
+
+1,436
+
+28.5
+
+1,340
+
+28.6
+
+1,244
+
+28.7
+
+1,148
+
+28.8
+
+1,053
+
+28.9
+
+957
+
+29.0
+
+863
+
+29.1
+
+768
+
+29.2
+
+673
+
+29.3
+
+579
+
+29.4
+
+485
+
+29.5
+
+392
+
+29.6
+
+298
+
+29.7
+
+205
+
+29.8
+
+112
+
+29.9
+
+20
+
+14
+
+13
+,00
+0
+
+14
+,00
+0
+
+28.0
+
+e
+
+15
+
+ud
+e
+
+11
+,00
+0
+
+es
+su
+r
+Pr
+
+9,0
+00
+
+10
+
+a
+Stand
+
+6,0
+
+00
+
+7
+
+re
+
+7,0
+
+peratu
+
+8
+
+00
+
+8,0
+00
+
+9
+
+rd tem
+
+00
+
+6
+5,0
+
+5
+4,0
+
+00
+
+Approximate density altitude (thousand feet)
+
+11
+
+10
+,00
+0
+
+12
+
+(fe
+et
+)
+
+12
+,00
+0
+
+13
+
+3,0
+
+00
+
+4
+3
+
+0
+
+30.0
+
+−73
+
+30.1
+
+−165
+
+30.2
+
+−257
+
+30.3
+
+−348
+
+30.4
+
+−440
+
+30.5
+
+−531
+
+C –18 –12° –7° –1° 4° 10° 16° 21° 27° 32° 38° 30.6
+
+−622
+
+30.7
+
+−712
+
+30.8
+
+−803
+
+2,0
+
+00
+
+29.92
+
+ve
+le
+a
+–1
+
+,00
+
+0
+
+1
+
+Se
+
+1,0
+
+00
+
+l
+
+2
+
+S.L.
+
+F 0° 10° 20° 30° 40° 50° 60° 70° 80° 90° 100°
+
+Outside air temperature
+
+Figure 10-36. The effect of air temperature on aircraft performance
+
+is expressed as density altitude.
+
+this limitation does cause an inaccurate altitude indication.
+It should be noted that many modern altimeters are
+constructed to integrate into flight control systems, autopilots,
+and altitude monitoring systems, such as those used by ATC.
+The basic pressure-sensing operation of these altimeters is the
+same, but a means for transmitting the information is added.
+
+Static ports
+
+Pitot tube probes
+
+Figure 10-37. The location of the static ports is selected to keep
+
+altimeter position error to a minimum.
+
+Vertical Speed Indicator
+An analog vertical speed indicator (VSI) may also be referred
+to as a vertical velocity indicator (VVI), or rate-of-climb
+indicator. It is a direct reading, differential pressure gauge
+that compares static pressure from the aircraft’s static system
+directed into a diaphragm with static pressure surrounding
+the diaphragm in the instrument case. Air is free to flow
+unrestricted in and out of the diaphragm but is made to flow
+in and out of the case through a calibrated orifice. A pointer
+attached to the diaphragm indicates zero vertical speed when
+the pressure inside and outside the diaphragm are the same.
+The dial is usually graduated in 100s of feet per minute.
+A zeroing adjustment screw, or knob, on the face of the
+instrument is used to center the pointer exactly on zero while
+the aircraft is on the ground. [Figure 10-38]
+As the aircraft climbs, the unrestricted air pressure in
+the diaphragm lowers as the air becomes less dense. The
+case air pressure surrounding the diaphragm lowers more
+slowly, having to pass through the restriction created by the
+orifice. This causes unequal pressure inside and outside the
+diaphragm, which in turn causes the diaphragm to contract
+a bit and the pointer indicates a climb. The process works in
+reverse for an aircraft in a descent. If a steady climb or descent
+is maintained, a steady pressure differential is established
+between the diaphragm and case pressure surrounding
+it, resulting in an accurate indication of the rate of climb
+via graduations on the instrument face. [Figure 10-39]
+A shortcoming of the rate-of-climb mechanism as described
+is that there is a lag of six to nine seconds before a stable
+differential pressure can be established that indicates the
+actual climb or descent rate of the aircraft. An instantaneous
+vertical speed indicator (IVSI) has a built-in mechanism to
+reduce this lag. A small, lightly sprung dashpot, or piston,
+10-21
+
+===== PDF PAGE 541 =====
+.5
+
+the atmosphere. The other is connected to a small reservoir
+inside the instrument that is filled to a known pressure. As
+static air pressure increases, the pressure in the static air
+chamber increases and pushes against the vane. This rotates
+the vane and pointer, indicating a descent since the static
+pressure is now greater than the set amount in the chamber
+with reservoir pressure. During a climb, the reservoir pressure
+is greater than the static pressure; the vane is pushed in the
+opposite direction, causing the pointer to rotate and indicate
+a climb. [Figure 10-41]
+
+2 3
+IUP VERTICAL SPEED
+
+THOUSAND FT PER MIN
+
+0
+
+.5 DOWN
+
+I
+
+4
+
+The rate-of-climb indication in a digitally displayed
+instrument system is computed from static air input to the
+ADC. An aneroid, or solid-state pressure sensor, continuously
+
+3
+
+Zeroing adjustment screw
+
+2
+
+Dashpot piston
+
+Bypass restriction
+
+Diaphragm
+Figure 10-38. A typical vertical speed indicator.
+
+reacts to the direction change of an abrupt climb or descent.
+As this small accelerometer does so, it pumps air into or
+out of the diaphragm, hastening the establishment of the
+pressure differential that causes the appropriate indication.
+[Figure 10-40]
+Gliders and lighter-than-air aircraft often make use of a
+variometer. This is a differential VSI that compares static
+pressure with a known pressure. It is very sensitive and gives
+an instantaneous indication. It uses a rotating vane with a
+pointer attached to it. The vane separates two chambers.
+One is connected to the aircraft’s static vent or is open to
+
+I
+
+2
+
+.5 UP
+
+0
+
+.5 D
+
+3
+
+OW
+
+I
+
+Static connection
+
+4
+
+N
+
+2 3
+
+Dashpot acceleration pump
+Restricted passage
+
+Figure 10-40. The small dashpot in this IVSI reacts abruptly to a
+climb or descent pumping air into or out of the diaphragm causing
+an instantaneously vertical speed indication.
+
+Static port connection
+Diaphragm
+
+.5
+
+Climb
+
+2 3
+IUP VERTICAL SPEED
+
+THOUSAND FT PER MIN
+
+0
+
+.5 DOWN
+
+I
+
+2
+
+2 3
+VERTICAL SPEED
+UPTHOUSAND FT PER MIN
+
+4
+
+DOWN
+
+3
+
+2
+Free flow out
+Restricted flow
+
+4
+
+3
+
+Restricted passage
+Descent
+
+Figure 10-39. The VSI is a differential pressure gauge that compares free-flowing static air pressure in the diaphragm with restricted
+static air pressure around the diaphragm in the instrument case.
+
+10-22
+
+===== PDF PAGE 542 =====
+reacts to changes in static pressure. The digital clock within
+the computer replaces the calibrated orifice found on an
+analog instrument. As the static pressure changes, the
+computer’s clock can be used to develop a rate for the change.
+Using the known lapse rate conversion for air pressure as
+altitude increases or decreases, a figure for climb or descent in
+fpm can be calculated and sent to the flight deck. The vertical
+speed is often displayed near the altimeter information on
+the primary flight display. [Figure 10-34]
+
+Rocking shaft
+
+Long lever
+Sector
+
+Diaphragm
+Pitot connection
+
+50
+100
+
+150
+
+Airspeed Indicators
+The airspeed indicator is another primary flight instrument
+that is also a differential pressure gauge. Ram air pressure
+from the aircraft’s pitot tube is directed into a diaphragm in
+an analog airspeed instrument case. Static air pressure from
+the aircraft static vent(s) is directed into the case surrounding
+the diaphragm. As the speed of the aircraft varies, the ram
+air pressure varies, expanding or contracting the diaphragm.
+Linkage attached to the diaphragm causes a pointer to move
+over the instrument face, which is calibrated in knots or miles
+per hour (mph). [Figure 10-42]
+The relationship between the ram air pressure and static air
+pressure produces the indication known as indicated airspeed
+(IAS). As with the altimeter, there are other factors that must
+be considered in measuring airspeed throughout all phases
+of flight. These can cause inaccurate readings or indications
+that are not useful to the pilot in a particular situation. In
+analog airspeed indicators, the factors are often compensated
+for with ingenious mechanisms inside the case and on the
+instrument dial face. Digital flight instruments can have
+calculations performed in the ADC so the desired accurate
+indication is displayed.
+While the relationship between ram air pressure and static air
+
+Vane
+
+A
+0
+
+Pointer and scale
+
+Pivot
+
+B
+Hairspring
+
+to static
+source
+
+to fixed
+pressure
+reservoir
+
+Figure 10-41. A variometer uses differential pressure to indicate
+
+vertical speed. A rotating vane separating two chambers (one with
+static pressure, the other with a fixed pressure reservoir), moves
+the pointer as static pressure changes.
+
+200
+
+Static connection
+Restraining spring
+Hairspring
+
+Handstaff
+
+Figure 10-42. An airspeed indicator is a differential pressure gauge
+that compares ram air pressure with static pressure.
+
+pressure is the basis for most airspeed indications, it can be
+more accurate. Calibrated airspeed (CAS) takes into account
+errors due to position error of the pitot static pickups. It also
+corrects for the nonlinear nature of the pitot static pressure
+differential when it is displayed on a linear scale. Analog
+airspeed indicators come with a correction chart that allows
+cross-referencing of indicated airspeed to calibrated airspeed
+for various flight conditions. These differences are typically
+very small and often are ignored. Digital instruments have
+these corrections performed in the ADC.
+More importantly, indicated airspeed does not take into
+account temperature and air pressure differences needed to
+indicate true airspeed (TAS). These factors greatly affect
+airspeed indication. True airspeed, therefore, is the same
+as indicated airspeed when standard day conditions exist.
+But when atmospheric temperature or pressure varies, the
+relationship between the ram air pressure and static pressure
+alters. Analog airspeed instruments often include bimetallic
+temperature compensating devices that can alter the linkage
+movement between the diaphragm and the pointer movement.
+There can also be an aneroid inside the airspeed indicator
+case that can compensate for non-standard pressures.
+Alternatively, true airspeed indicators exist that allow the
+pilot to set temperature and pressure variables manually with
+external knobs on the instrument dial. The knobs rotate the
+dial face and internal linkages to present an indication that
+compensates for non-standard temperature and pressure,
+resulting in a true airspeed indication. [Figure 10-43]
+Digital flight instrument systems perform all of the
+calculations for true airspeed in the ADC. Ram air from the
+pitot tube and static air from the static vent(s) are run into
+10-23
+
+===== PDF PAGE 543 =====
+the sensing portion of the computer. Temperature information
+is also input. This information can be manipulated and
+calculations performed so a true airspeed value can be digitally
+sent to the flight deck for display. Refer to Figure 10-34 for
+the display of airspeed information on the primary flight
+display on a light aircraft. Note that similar to its position
+in the standard T configuration of an analog flight deck, the
+airspeed indication is just left of the artificial horizon display.
+Refer to Figure 10-4 showing T configuration.
+Complications continue when considering airspeed
+indications and operating limitations. It is very important to
+keep high-speed aircraft from traveling faster than the speed
+of sound if they are not designed to do so. Even as an aircraft
+approaches the speed of sound, certain parts on the airframe
+may experience airflows that exceed it. The problem with
+this is that near the speed of sound, shock waves can develop
+that can affect flight controls and, in some cases, can literally
+tear the aircraft apart if not designed for supersonic airflow.
+A further complication is that the speed of sound changes
+with altitude and temperature. So, a safe true airspeed at sea
+level could put the aircraft in danger at altitude due to the
+lower speed of sound. [Figure 10-44]
+In order to safeguard against these dangers, pilots monitor
+airspeed closely. A maximum allowable speed is established
+for the aircraft during certification flight testing. This speed
+is known the critical Mach number or Mcrit. Mach is a term
+for the speed of sound. The critical Mach number is expressed
+as a decimal of Mach such as 0.8 Mach. This means 8⁄10 of
+the speed of sound, regardless of what the actual speed of
+sound is at any particular altitude.
+
+4
+
+2
+
+6
+
+30 + 0 - 30
+
+I80 TEMP 40
+40
+
+I60 I40
+
+AIRSPEED
+TRUE SPEED
+
+150
+
+I40
+
+60
+
+60
+
+I20
+
+MPH
+
+0
+14
+
+I20 KNOTS
+100
+
+80
+
+13
+
+0
+
+80
+
+I00
+
+120
+
+Figure 10-43. An analog true airspeed indicator. The pilot manually
+aligns the outside air temperature with the pressure altitude scale,
+resulting in an indication of true airspeed.
+
+Standard Altitude, Temperature, and the Speed of Sound
+Altitude (feet)
+
+Temperature (°F)
+
+Speed of sound (knots)
+
+Sea level
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+18,000
+20,000
+22,000
+24,000
+26,000
+28,000
+30,000
+32,000
+34,000
+36,000
+38,000
+40,000
+42,000
+44,000
+46,000
+48,000
+50,000
+
+59
+52
+48
+38
+30
+23
+16
+9
+2
+–5
+–12
+–19
+–27
+–34
+–41
+–48
+–55
+–62
+–69
+–70
+–70
+–70
+–70
+–70
+–70
+–70
+
+661
+657
+652
+648
+643
+638
+633
+629
+624
+619
+614
+609
+604
+599
+594
+589
+584
+579
+574
+574
+574
+574
+574
+574
+574
+574
+
+Figure 10-44. As temperatures fall at higher altitudes, the speed
+of sound is reduced.
+
+Many high performance aircraft are equipped with a
+Machmeter for monitoring Mcrit. The Machmeter is
+essentially an airspeed instrument that is calibrated in relation
+to Mach on the dial. Various scales exist for subsonic and
+supersonic aircraft. [Figure 10-45] In addition to the ram air/
+static air diaphragm arrangement, Machmeters also contain
+an altitude sensing diaphragm. It adjusts the input to the
+pointer so changes in the speed of sound due to altitude are
+incorporated into the indication. Some aircraft use a Mach/
+airspeed indicator as shown in Figure 10-46. This two-inone instrument contains separate mechanisms to display the
+airspeed and Mach number. A standard white pointer is used
+to indicate airspeed in knots against one scale. A red and
+white striped pointer is driven independently to display the
+maximum allowable speed. Should the aircraft exceed this
+speed, it would result in an overspeed warning.
+
+Remote Sensing & Indication
+It is often impractical or impossible to utilize direct reading
+gauges for information needed to be conveyed in the flight
+deck. Placing sensors at the most suitable location on the
+airframe or engine and transmitting the collected data
+electrically through wires to the displays in the flight deck
+is a widely used method of remote-sensing and indicating
+on aircraft. Many remote sensing instrument systems
+10-24
+
+===== PDF PAGE 544 =====
+Small electric motors inside the instrument housings are used
+to position the pointers, instead of direct-operating mechanical
+linkages. They receive electric current from the output section
+of the ADC or other computers. They also receive input from
+sensing transmitters or transducers that are remotely located on
+the aircraft. By varying the electric signal, the motors are turned
+to the precise location needed to reflect the correct indication.
+Direct electric transmission of information from different types
+of sensors is accomplished with a few reliable and relatively
+simple techniques. Note that digital flight deck displays receive
+all of their input from a digital air data computer (DADC) and
+other computers, via a digital data bus and do not use electric
+motors. The data packages transmitted via the bus contain the
+instructions on how to illuminate the display screen.
+
+Figure 10-45. A Machmeter indicates aircraft speed relative to the
+speed of sound.
+
+0
+M
+
+A
+
+C
+
+6
+
+10
+
+H
+
+12
+
+40
+
+.5
+
+14
+
+35
+16
+
+.4
+
+25
+
+20
+
+18
+.3
+
+30
+
+Figure 10-46. A combination Mach/airspeed indicator shows
+
+airspeed with a white pointer and Mach number with a red and
+white striped pointer. Each pointer is driven by separate internal
+mechanisms.
+
+consist simply of the sensing device, transmitter unit,
+and the flight deck indicator unit connected to each other
+by wires. For pressure flight instruments, the ADC and
+pickup devices (pitot tubes, static vents, etc.) comprise the
+sensing and transmitter unit. Many aircraft collect sensed
+data in dedicated engine and airframe computers. There,
+the information can be processed. An output section of the
+computer then transmits it electrically or digitally to the flight
+deck for display. Remote-sensing instrument systems operate
+with high reliability and accuracy. They are powered by the
+aircraft’s electrical system.
+
+Synchro-Type Remote-Indicating Instruments
+A synchro system is an electric system used for transmitting
+information from one point to another. The word “synchro”
+is a shortened form of the word “synchronous,” and refers to
+any one of a number of similarly operating two-unit electrical
+systems capable of measuring, transmitting, and indicating
+a certain parameter on the aircraft. Most position-indicating
+instruments are designed around a synchro system, such as
+the flap position indicator. Fluid pressure indicators also
+commonly use synchro systems. Synchro systems are used as
+remote position indicators for landing gear, autopilot systems,
+radar, and many other remote-indicating applications. The
+most common types of synchro system are the autosyn,
+selsyn, and magnesyn synchro systems.
+These systems are similar in construction, and all operate
+by exploiting the consistent relationship between electricity
+and magnetism. The fact that electricity can be used to create
+magnetic fields that have definite direction, and that magnetic
+fields can interact with magnets and other electromagnetic
+fields, is the basis of their operation.
+
+DC Selsyn Systems
+On aircraft with direct current (DC) electrical systems, the
+DC selsyn system is widely used. As mentioned, the selsyn
+system consists of a transmitter, an indicator, and connecting
+wires. The transmitter consists of a circular resistance
+winding and a rotatable contact arm. The rotatable contact
+arm turns on a shaft in the center of the resistance winding.
+The two ends of the arm are brushes and always touch the
+winding on opposite sides. [Figure 10-47] On position
+indicating systems, the shaft to which the contact arm is
+fastened protrudes through the end of transmitter housing and
+is attached to the unit whose position is to be transmitted (e.g.,
+flaps, landing gear). The transmitter is often connected to the
+moving unit through a mechanical linkage. As the unit moves,
+it causes the transmitter shaft to turn. The arm is turned so
+that voltage is applied through the brushes to any two points
+10-25
+
+===== PDF PAGE 545 =====
+around the circumference of the resistance winding. The rotor
+shaft of DC selsyn systems, measuring other kinds of data,
+operates the same way, but may not protrude outside of the
+housing. The sensing device, which imparts rotary motion
+to the shaft, could be located inside the transmitter housing.
+Referring to Figure 10-47, note that the resistance winding
+of the transmitter is tapped off in three fixed places, usually
+120° apart. These taps distribute current through the toroidal
+windings of the indicator motor. When current flows through
+these windings, a magnetic field is created. Like all magnetic
+fields, a definite north and south direction to the field exists.
+As the transmitter rotor shaft is turned, the voltage-supplying
+contact arm moves. Because it contacts the transmitter
+resistance winding in different positions, the resistance
+between the supply arm and the various tapoffs changes. This
+causes the voltage flowing through the tapoffs to change as
+the resistance of sections of the winding become longer or
+shorter. The result is that varied current is sent via the tapoffs
+to the three windings in the indicator motor.
+The resultant magnetic field created by current flowing
+through the indicator coils changes as each receives varied
+current from the tapoffs. The direction of the magnetic field
+also changes. Thus, the direction of the magnetic field across
+the indicating element corresponds in position to the moving
+arm in the transmitter. A permanent magnet is attached to the
+centered rotor shaft in the indicator, as is the indicator pointer.
+The magnet aligns itself with the direction of the magnetic
+field and the pointer does as well. Whenever the magnetic
+field changes direction, the permanent magnet and pointer
+realign with the new position of the field. Thus, the position
+of the aircraft device is indicated.
+Landing gear contain mechanical devices that lock the gear
+up, called an up-lock, or down, called a down-lock. When
+
+N
+
+0°
+
+Rotor shaft
+Contact arm
+
+S
+N
+
+Permanent
+magnet
+
+Pointer
+
+Indicator
+
+S
+
+D
+Transmitter
+
+B
+
+50°
+S
+
+N
+
+C
+
+25°
+
+S
+
+A
+
+N
+
+Resistance
+winding
+
+Instrument
+scale
+
+Brushes
+
+Figure 10-47. A schematic of a DC selsyn synchro remote indicating
+
+system.
+
+the DC selsyn system is used to indicate the position of the
+landing gear, the indicator can also show that the up-lock
+or down-lock is engaged. This is done by again varying
+the current flowing through the indicator’s coils. Switches
+located on the actual locking devices close when the locks
+engage. Current from the selsyn system described above
+flows through the switch and a small additional circuit. The
+circuit adds an additional resistor to one of the transmitter
+winding sections created by the rotor arm and a tapoff. This
+changes the total resistance of that section. The result is a
+change in the current flowing through one of the indicator’s
+motor coils. This, in turn, changes the magnetic field around
+that coil. Therefore, the combined magnetic field created by
+all three motor coils is also affected, causing a shift in the
+direction of the indicator’s magnetic field. The permanent
+magnet and pointer align with the new direction and shift to
+the locked position on the indicator dial. Figure 10-48 shows
+a simplified diagram of a lock switch in a three-wire selsyn
+system and an indicator dial.
+
+AC Synchro Systems
+Aircraft with alternating current (AC) electrical power
+systems make use of autosyn or magnasysn synchro remote
+indicating systems. Both operate in a similar way to the DC
+selsyn system, except that AC power is used. Thus, they
+make use of electric induction, rather than resistance current
+flows defined by the rotor brushes. Magnasyn systems use
+permanent magnet rotors such as those found in the DC
+selsyn system. Usually, the transmitter magnet is larger than
+the indicator magnet, but the electromagnetic response of the
+indicator rotor magnet and pointer remains the same. It aligns
+with the magnetic field set up by the coils, adopting the same
+angle of deflection as the transmitter rotor. [Figure 10-49]
+Autosyn systems are further distinguished by the fact that
+the transmitter and indicator rotors used are electro-magnets
+rather than permanent magnets. Nonetheless, like a permanent
+magnet, an electro-magnet aligns with the direction of the
+magnetic field created by current flowing through the stator
+coils in the indicator. Thus, the indicator pointer position
+mirrors the transmitter rotor position. [Figure 10-50]
+AC synchro systems are wired differently than DC systems.
+The varying current flows through the transmitter and indicator
+stator coils are induced as the AC cycles through zero and the
+rotor magnetic field flux is allowed to flow. The important
+characteristic of all synchro systems is maintained by both
+the autosyn and magnasyn systems. That is, the position of
+the transmitter rotor is mirrored by the rotor in the indicator.
+These systems are used in many of the same applications
+as the DC systems and more. Since they are usually part of
+instrumentation for high performance aircraft, adaptations of
+autosyn and magnasyn synchro systems are frequently used
+in directional indicators and in autopilot systems.
+10-26
+
+===== PDF PAGE 546 =====
++
+
+−
+
+Rotatable contact
+
+Resistor
+
+Resistor with taps
+equally spaced
+Lock
+switches
+Transmitter
+
+Indicating element
+
+Figure 10-48. A lock switch circuit can be added to the basic DC selsyn synchro system when used to indicate landing gear position and
+
+up- and down-locked conditions on the same indicator.
+
+B
+
+Down
+
+S
+
+Toroidal winding
+
+Transmitting magnesyn
+
+C
+
+N
+
+A
+
+gs
+
+26 volts A
+400 Hz
+power
+supply
+
+1/3
+
+S
+
+D
+
+din
+
+1/3
+
+Permanent
+magnet
+
+Indicator
+pointer
+
+win
+
+N
+
+Electromagnetic
+rotor
+
+tor
+
+C
+
+D
+
+Indicator
+
+Sta
+
+Soft iron
+core
+
+1/3
+
+Transmitter
+
+Up
+
+B
+
+Indicating magnesyn
+
+Figure 10-49. A magnasysn synchro remote-indicating system uses
+
+AC. It has permanent magnet rotors in the transmitter and indictor.
+
+Remote Indicating Fuel & Oil Pressure Gauges
+Fuel and oil pressure indications can be conveniently obtained
+through the use of synchro systems. As stated previously,
+running fuel and oil lines into the cabin to direct reading
+gauges is not desirable due to the possibility of leaking fluid.
+Additionally, there is an increased risk of fire in the cabin.
+By locating the transmitter of a synchro system remotely,
+fluid pressure can be directed into it without a long tubing run.
+Inside the transmitter, the motion of a pressure bellows can be
+geared to the transmitter rotor in such a way as to make the
+rotor turn. [Figure 10-51] As in all synchros, the transmitter
+rotor turns proportional to the pressure sensed, which varies
+the voltages set up in the resistor windings of the synchro
+
+26V.
+400 Hz AC
+Figure 10-50. An autosyn remote-indicating system utilizes the
+
+interaction between magnetic fields set up by electric current flow
+to position the indicator pointer.
+
+stator. These voltages are transmitted to the indicator coils
+that develop the magnetic field that positions the pointer.
+Often on twin-engine aircraft, synchro mechanisms for
+each engine can be used to drive separate pointers on the
+same indicator. By placing the coils one behind the other,
+the pointer shaft from the rear indicator motor can be sent
+through the hollow shaft of the forward indicator motor. Thus,
+each pointer responds with the magnet’s alignment in its own
+motor’s magnetic field while sharing the same gauge housing.
+Labeling the pointer’s engine 1 or 2 removes any doubt about
+which indicator pointer is being observed. A similar principle
+is employed in an indicator that has side-by-side indications
+10-27
+
+===== PDF PAGE 547 =====
+To engine oil pump
+Oil pressure indicator
+(instrument panel)
+Stator
+Rotor
+
+Oil pressure transmitter (engine)
+D
+
+D
+
+C
+
+C
+
+Stator
+
+Pressure connector
+Rotor
+
+B
+
+A
+
+A
+
+B
+
+Diaphragm
+
+Indicator
+pointer
+Vent
+Open to atmosphere
+
+AC power
+
+Figure 10-51. Remote pressure sensing indicators change linear motion to rotary motion in the sensing mechanism part of the synchro
+
+transmitter.
+
+for different parameters, such as oil pressure and fuel pressure
+in the same indicator housing. Each parameter has its own
+synchro motor for positioning its pointer.
+Aircraft with digital instrumentation make use of pressuresensitive solid-state sensors that output digital signals for
+collection and processing by dedicated engine and airframe
+computers. Others may retain their analog sensors but
+may forward this information through an analog to digital
+converter unit from which the appropriate computer can
+obtain digital information to process and illuminate the
+digital display. Many more instruments utilize the synchro
+remote-indicating systems described in this section or similar
+synchros. Sometimes simple, more suitable, or less expensive
+technologies are also employed.
+
+Gas turbine engines also have tachometers. They are used
+to monitor the speed(s) of the compressor section(s) of
+the engine. Turbine engine tachometers are calibrated
+in percentage of rpm with 100 percent corresponding to
+optimum turbine speed. This allows similar operating
+procedures despite the varied actual engine rpm of different
+engines. [Figure 10-52]
+In addition to the engine tachometer, helicopters use a
+tachometer to indicator main rotor shaft rpm. It should also
+be noted that many reciprocating-engine tachometers also
+have built-in numeric drums that are geared to the rotational
+mechanism inside. These are hour meters that keep track of the
+time the engine is operated. There are two types of tachometer
+system in wide use today: mechanical and electrical.
+
+Mechanical Movement Indicators
+
+Mechanical Tachometers
+
+There are many instruments on an aircraft that indicate the
+mechanical motion of a component, or even the aircraft itself.
+Some utilize the synchro remote-sensing and indicating
+systems described above. Other means for capturing and
+displaying mechanical movement information are also used.
+This section discusses some unique mechanical motion
+indicators and groups instruments by function. All give
+valuable feedback to the pilot on the condition of the aircraft
+in flight.
+
+Mechanical tachometer indicating systems are found on small,
+single-engine light aircraft in which a short distance exists
+between the engine and the instrument panel. They consist
+of an indicator connected to the engine by a flexible drive
+shaft. The drive shaft is geared into the engine so that when
+the engine turns, so does the shaft. The indicator contains a
+flyweight assembly coupled to a gear mechanism that drives
+a pointer. As the drive shaft rotates, centrifugal force acts on
+the flyweights and moves them to an angular position. This
+angular position varies with the rpm of the engine. The amount
+of movement of the flyweights is transmitted through the
+gear mechanism to the pointer. The pointer rotates to indicate
+this movement on the tachometer indicator, which is directly
+related to the rpm of the engine. [Figure 10-53]
+
+Tachometers
+The tachometer, or tach, is an instrument that indicates the
+speed of the crankshaft of a reciprocating engine. It can be
+a direct- or remote-indicating instrument, the dial of which
+is calibrated to indicate revolutions per minutes (rpm). On
+reciprocating engines, the tach is used to monitor engine power
+and to ensure the engine is operated within certified limits.
+
+A more common variation of this type of mechanical
+tachometer uses a magnetic drag cup to move the pointer in
+10-28
+
+===== PDF PAGE 548 =====
+15
+10
+
+9 0 10
+8
+5
+7
+5
+100 6
+4
+5
+
+20
+
+RPM
+
+25
+
+X100
+
+5
+3
+
+10
+20
+
+90
+
+30
+
+30
+
+10
+
+00000
+HOURS
+
+PERCENT
+
+80
+
+35
+
+70
+
+40
+
+RPM
+60
+
+50
+
+Figure 10-52. A tachometer for a reciprocating engine is calibrated in rpm. A tachometer for a turbine engine is calculated in percent of rpm.
+
+Rocking shaft
+
+Coil spring
+Drive shaft
+
+Flyweight
+
+Figure 10-53. The simplified mechanism of a flyweight type mechanical tachometer.
+
+the indicator. As the drive shaft turns, it rotates a permanent
+magnet in a close-tolerance aluminum cup. A shaft attached
+to the indicating point is attached to the exterior center of the
+cup. As the magnet is rotated by the engine flex drive cable,
+its magnetic field cuts through the conductor surrounding it,
+creating eddy currents in the aluminum cup. This current flow
+creates its own magnetic field, which interacts with the rotating
+magnet’s flux field. The result is that the cup tends to rotate,
+and with it, the indicating pointer. A calibrated restraining
+spring limits the cup’s rotation to the arc of motion of the
+pointer across the scale on the instrument face. [Figure 10-54]
+
+Electric Tachometers
+It is not practical to use a mechanical linkage between the
+engine and the rpm indicator on aircraft with engines not
+mounted in the fuselage just forward of the instrument panel.
+Greater accuracy with lower maintenance is achieved through
+the use of electric tachometers. A wide variety of electric
+tachometer systems can be employed, so manufacturer’s
+instructions should be consulted for details of each specific
+tachometer system.
+A popular electric tachometer system makes use of a small AC
+10-29
+
+===== PDF PAGE 549 =====
+Dial
+Hairspring
+
+Pointer
+
+Drive cable from engine
+
+A. Pad type
+
+Figure 10-56. Different types of tach generators.
+
+Rotating magnet
+
+N
+
+the engine and the rpm of the main rotor. A comparison of
+the voltages produced by the two tach generators of this type
+of helicopter indicator gives information concerning clutch
+slippage. A third indication showing this slippage is sometimes
+included in the helicopter tachometer. [Figure 10-57]
+
+Drag cup
+
+S
+
+Figure 10-54. A simplified magnetic drag cup tachometer indicating
+
+device.
+
+generator mounted to a reciprocating engine’s gear case or the
+accessory drive section of a turbine engine. As the engine turns,
+so does the generator. The frequency output of the generator is
+directly proportional to the speed of the engine. It is connected
+via wires to a synchronous motor in the indicator that mirrors
+this output. A drag cup, or drag disc link, is used to drive the
+indicator as in a mechanical tachometer. [Figure 10-55] Two
+different types of generator units, distinguished by their type
+of mounting system, are shown in Figure 10-56.
+The dual tachometer consists of two tachometer indicator
+units housed in a single case. The indicator pointers show
+simultaneously, on one or two scales, the rpm of two engines.
+A dual tachometer on a helicopter often shows the rpm of
+
+Stator coil
+
+B. Screw type
+
+Permanent magnet rotor
+
+Some turbine engines use tachometer probes for rpm
+indication, rather than a tach generator system. They provide
+a great advantage in that there are no moving parts. The probes
+are sealed units that are mounted on a flange and protrude
+into the compressor section of the engine. A magnetic field is
+set up inside the probe that extends through pole pieces and
+out the end of the probe. A rotating gear wheel, which moves
+at the same speed as the engine compressor shaft, alters the
+magnetic field flux density as it moves past the pole pieces
+at close proximity. This generates voltage signals in coils
+inside the probe. The amplitude (voltage) of the signals vary
+directly with the speed of the engine.
+The tachometer probe’s output signals need to be processed
+in a remotely located module. They must also be amplified
+to drive a servo motor type indicator in the flight deck. They
+may also be used as input for an autothrottle or flight data
+acquisition system. [Figure 10-58]
+
+Permanent magnet rotor
+
+Indicating needle
+Permanent magnet
+
+Drive coupling
+Alternator
+Tachometer generator
+
+Synchronous motor
+
+Drag cup
+
+Spring
+
+Indicator
+
+Figure 10-55. An electric tachometer system with synchronous motors and a drag cup indicator.
+
+10-30
+
+===== PDF PAGE 550 =====
+generators of both engines. Current from the faster running
+engine controls the direction in which the synchroscope
+motor rotates.
+
+10
+
+25
+
+15
+
+10
+
+20
+
+5
+
+25
+
+5
+
+E
+T
+
+0
+
+30
+
+ENGINE
+RPM
+
+35
+
+30
+
+ROTOR
+RPM
+
+40
+
+Figure 10-57. A helicopter tachometer with engine rpm, rotor rpm,
+
+and slippage indications.
+Pole piece
+
+Tacho probe
+
+Electrical connector
+
+Gear wheel
+
+Accelerometers
+An accelerometer is an instrument that measures acceleration.
+It is used to monitor the forces acting upon an airframe.
+Accelerometers are also used in inertial reference navigation
+systems. The installation of accelerometers is usually limited
+to high-performance and aerobatic aircraft.
+
+Pole pieces
+
+Figure 10-58. A tacho probe has no moving parts. The rate of
+
+Most accelerometers have three pointers. One is continuously
+
+scope
+
+Synchro
+
+magnetic flux field density change is directly related to engine speed.
+
+Synchroscope
+The synchroscope is an instrument that indicates whether two
+or more rotating devices, such as engines, are synchronized.
+Since synchroscopes compare rpm, they utilize the output
+from tachometer generators. The instrument consists of a
+small electric motor that receives electrical current from the
+
+ST
+FA
+
+Sensing coils
+
+One use of synchroscope involve designating one of the
+engines as a master engine. The rpm of the other engine(s) is
+always compared to the rpm of this master engine. The dial face
+of the synchroscope indicator looks like Figure 10-59. “Slow”
+and “fast” represent the other engine’s rpm relative to the
+master engine, and the pilot makes adjustments accordingly.
+
+Simple accelerometers are mechanical, direct-reading
+instruments calibrated to indicate force in Gs. One G is
+equal to one times the force of gravity. The dial face of an
+accelerometer is scaled to show positive and negative forces.
+When an aircraft initiates a rapid climb, positive G force
+tends to push one back into one’s seat. Initiating a rapid
+decent causes a force in the opposite direction, resulting in
+a negative G force.
+
+Axis of polarization
+
+Permanent magnet
+
+If both engines are operating at exactly the same speed, the
+synchroscope motor does not operate. If one engine operates
+faster than the other, its tach generator signal causes the
+synchroscope motor to turn in a given direction. Should the
+speed of the other engine then become greater than that of
+the first engine, the signal from its tach generator causes the
+synchroscope motor to reverse itself and turn in the opposite
+direction. The pilot makes adjustments to steady the pointer
+so it does not move.
+
+SLO
+W
+
+20
+
+15
+
+Figure 10-59. This synchroscope indicates the relative speed of the
+
+slave engine to the master.
+
+10-31
+
+===== PDF PAGE 551 =====
+indicating the acceleration force experienced. The other two
+contain ratcheting devices. The positive G pointer follows
+the continuous pointer and stay at the location on the dial
+where the maximum positive force is indicated. The negative
+G pointer does the same for negative forces experienced.
+Both max force pointers can be reset with a knob on the
+instrument face.
+The accelerometer operates on the principle of inertia. A mass,
+or weight, inside is free to slide along a shaft in response to
+the slightest acceleration force. When a maneuver creates
+an accelerating force, the aircraft and instrument move, but
+inertia causes the weight to stay at rest in space. As the shaft
+slides through the weight, the relative position of the weight
+on the shaft changes. This position corresponds to the force
+experienced. Through a series of pulleys, springs, and shafts,
+the pointers are moved on the dial to indicate the relative
+strength of the acceleration force. [Figure 10-60] Forces can
+act upon an airframe along the three axes of flight. Single and
+multi-axis accelerometers are available, although most flight
+
+deck gauges are of the single-axis type. Inertial reference
+navigation systems make use of multi-axis accelerometers
+to continuously, mathematically calculate the location of the
+aircraft in a three dimensional plane.
+Electric and digital accelerometers also exist. Solid-state
+sensors are employed, such as piezoelectric crystalline
+devices. In these instruments, when an accelerating force is
+applied, the amount of resistance, current flow, or capacitance
+changes in direct relationship to the size of the force. Microelectric signals integrate well with digital computers designed
+to process and display information in the flight deck.
+Stall Warning & Angle of Attack (AOA) Indicators
+An aircraft’s angle of attack (AOA) is the angle formed
+between the wing cord centerline and the relative wind. At
+a certain angle, airflow over the wing surfaces is insufficient
+to create enough lift to keep the aircraft flying, and a stall
+occurs. An instrument that monitors the AOA allows the pilot
+to avoid such a condition.
+
+Mass shafts
+Sheave pulley (top)
+Control cord
+Mass
+Main pulley
+Main pointer centering spring
+Driver arm
+Auxiliary pointer return spring
+Ratchet
+
+Auxiliary pointer (plus G indication)
+
+4
+Main pointer
+
+Sheave pulley (bottom)
+
+2
+
+Auxiliary pointer (minus G indication)
+
+Pawl
+
+PU
+SH
+TO
+SET
+
+Pointer reset shaft
+
+-2
+
+Figure 10-60. The inner workings of a mass-type accelerometer.
+
+10-32
+
+===== PDF PAGE 552 =====
+The simplest form of AOA indicator is a stall warning device
+that does not have a gauge located in the flight deck. It uses
+an aural tone to warn of an impending stall due to an increase
+in AOA. This is done by placing a reed in a cavity just aft of
+the leading edge of the wing. The cavity has an open passage
+to a precise point on the leading edge.
+In flight, air flows over and under a wing. The point on the
+wing leading edge where the oncoming air diverges is known
+as the point of stagnation. As the AOA of the wing increases,
+the point of stagnation moves down below the open passage
+that leads inside the wing to the reed. Air flowing over the
+curved leading edge speeds up and causes a low pressure.
+This causes air to be sucked out of the inside of the wing
+through the passage. The reed vibrates as the air rushes by
+making a sound audible in the flight deck. [Figure 10-61]
+
+Figure 10-61. A reed-type stall warning device is located behind
+
+this opening in the leading edge of the wing. When the angle of
+attack increases to near the point of a stall, low-pressure air flowing
+over the opening causes a suction, which audibly vibrates the reed.
+
+Another common device makes use of an audible tone as the
+AOA increases to near the point where the aircraft will stall.
+This stall warning device includes an electric switch that
+opens and closes a circuit to a warning horn audible in the
+flight deck. It may also be wired into a warning light circuit.
+The switch is located near the point of stagnation on the wing
+leading edge. A small lightly sprung tab activates the switch.
+At normal AOA, the tab is held down by air that diverges
+at the point of stagnation and flows under the wing. This
+holds the switch open so the horn does not sound nor the
+warning light illuminate. As the AOA increases, the point of
+stagnation moves down. The divergent air that flows up and
+over the wing now pushes the tab upward to close the switch
+and complete the circuit to the horn or light. [Figure 10-62]
+A true AOA indicating system detects the local AOA of
+the aircraft and displays the information on a flight deck
+indicator. It also may be designed to furnish reference
+information to other systems on high-performance aircraft.
+The sensing mechanism and transmitter are usually located
+on the forward side of the fuselage. It typically contains a
+heating element to ensure ice-free operation. Signals are sent
+from the sensor to the flight deck or computer(s) as required.
+An AOA indicator may be calibrated in actual angle degrees,
+arbitrary units, percentage of lift used, symbols, or even fast/
+slow. [Figure 10-63]
+There are two main types of AOA sensors in common use.
+Both detect the angular difference between the relative wind
+and the fuselage, which is used as a reference plane. One
+uses a vane, known as an alpha vane, externally mounted to
+the outside of the fuselage. It is free to rotate in the wind.
+As the AOA changes, air flowing over the vane changes its
+
+Point of stagnation
+
+ab
+
+Relative wind
+Switch t
+
+he
+
+ld
+
+dow
+
+n
+
+tc
+
+Low/normal angle of attack
+ushed up
+ab p
+ht
+i
+Sw
+Relative wind
+
+Point of stagnation
+
+Direction of travel
+
+High angle of attack near stall point
+Figure 10-62. A popular stall warning switch located in the wing leading edge.
+
+10-33
+
+===== PDF PAGE 553 =====
+OF ATTA
+GLE
+CK
+AN
+
+Paddle chamber
+
+Paddle
+Potentiometer
+
+O
+F
+F
+
+30
+
+Separator
+Orifice
+
+10
+
+0
+
+Air passages
+Probe
+
+Slots
+
+Figure 10-65. The internal structure of a slotted probe airstream
+
+direction detector.
+Figure 10-63. Angle of attack indicator.
+
+angle. The other uses two slots in a probe that extends out
+of the side of the fuselage into the airflow. The slots lead
+to different sides of movable paddles in a chamber of the
+unit just inside the fuselage skin. As the AOA varies, the air
+pressure ported by each of the slots changes and the paddles
+rotate to neutralize the pressures. The shaft upon which the
+paddles rotate connects to a potentiometer wiper contact
+that is part of the unit. The same is true of the shaft of the
+alpha vane. The changing resistance of the potentiometer
+is used in a balanced bridge circuit to signal a motor in
+the indicator to move the pointer proportional to the AOA.
+[Figures 10-64 and 10-65]
+Modern aircraft AOA sensor units send output signals to
+the ADC. There, the AOA data is used to create an AOA
+indication, usually on the primary flight display. AOA
+information can also be integrated with flap and slat
+position information to better determine the point of stall.
+Additionally, AOA sensors of the type described are subject
+to position error since airflow around the alpha vane and
+slotted probe changes somewhat with airspeed and aircraft
+attitude. The errors are small but can be corrected in the ADC.
+To incorporate a warning of an impending stall, many AOA
+systems signal a stick shaker motor that literally shakes the
+Flush mounted in side of forward fuselage
+
+Vane
+
+Probe
+
+Temperature Measuring Instruments
+The temperature of numerous items must be known for
+an aircraft to be operated properly. Engine oil, carburetor
+mixture, inlet air, free air, engine cylinder heads, heater ducts,
+and exhaust gas temperature of turbine engines are all items
+requiring temperature monitoring. Many other temperatures
+must also be known. Different types of thermometers are used
+to collect and present temperature information.
+Non-Electric Temperature Indicators
+The physical characteristics of most materials change
+when exposed to changes in temperature. The changes are
+consistent, such as the expansion or contraction of solids,
+liquids, and gases. The coefficient of expansion of different
+materials varies and it is unique to each material. Most
+everyone is familiar with the liquid mercury thermometer.
+As the temperature of the mercury increases, it expands up
+a narrow passage that has a graduated scale upon it to read
+the temperature associated with that expansion. The mercury
+thermometer has no application in aviation.
+
+Ai
+rf
+
+Ai
+
+rf
+
+lo
+w
+
+lo
+
+w
+
+Air holes
+
+control column to warn the pilot as the aircraft approaches a
+stall condition. Electrical switches are actuated in the AOA
+indicator at various preset AOA to activate the motor that
+drives an unbalanced weighted ring, causing the column to
+shake. Some systems include a stick pusher actuator that
+pushes the control yoke forward, lowering the nose of the
+aircraft when the critical AOA is approached. Regardless of
+the many existing variations for warning of an impending
+stall, the AOA system triggers all stall warnings in high
+performance aircraft.
+
+Probe type
+Figure 10-64. A slotted AOA probe and an alpha vane.
+
+A bimetallic thermometer is very useful in aviation. The
+temperature sensing element of a bimetallic thermometer
+is made of two dissimilar metals strips bonded together.
+Each metal expands and contracts at a different rate when
+10-34
+
+===== PDF PAGE 554 =====
+temperature changes. One end of the bimetallic strip is fixed,
+the other end is coiled. A pointer is attached to the coiled end
+which is set in the instrument housing. When the bimetallic
+strip is heated, the two metals expand. Since their expansion
+rates differ and they are attached to each other, the effect is
+that the coiled end tries to uncoil as the one metal expands
+faster than the other. This moves the pointer across the dial
+face of the instrument. When the temperature drops, the
+metals contract at different rates, which tends to tighten the
+coil and move the pointer in the opposite direction.
+Direct reading bimetallic temperature gauges are often used
+in light aircraft to measure free air temperature or outside
+air temperature (OAT). In this application, a collecting probe
+protrudes through the windshield of the aircraft to be exposed
+to the atmospheric air. The coiled end of the bimetallic strip
+in the instrument head is just inside the windshield where it
+can be read by the pilot. [Figures 10-66 and 10-67]
+
+A bourdon tube is also used as a direct reading non-electric
+temperature gauge in simple, light aircraft. By calibrating
+the dial face of a bourdon tube gauge with a temperature
+scale, it can indicate temperature. The basis for operation is
+the consistent expansion of the vapor produced by a volatile
+liquid in an enclosed area. This vapor pressure changes
+directly with temperature. By filling a sensing bulb with such
+a volatile liquid and connecting it to a bourdon tube, the tube
+causes an indication of the rising and falling vapor pressure
+due to temperature change. Calibration of the dial face in
+degrees Fahrenheit or Celsius, rather than psi, provides a
+temperature reading. In this type of gauge, the sensing bulb
+is placed in the area needing to have temperature measured.
+A long capillary tube connects the bulb to the bourdon tube in
+the instrument housing. The narrow diameter of the capillary
+tube ensures that the volatile liquid is lightweight and stays
+primarily in the sensor bulb. Oil temperature is sometimes
+measured this way.
+
+20 30 40 50 60
+
+Electrical Temperature Measuring Indication
+The use of electricity in measuring temperature is very
+common in aviation. The following measuring and indication
+
+0
+
+−10
+−20
+−30
+−40
+
+10
+
+70
+
+80
+
+90
+100
+110
+120
+
+Bimetallic temperature gauge
+
+40
+
+20
+
+60
+
+0
+0
+
+80
+
+20
+-20
+
+-20
+
+40
+
+100
+
+-40
+-40
+-60
+
+C
+F
+
+120
+
+60
+140
+
+Bimetallic coil of bonded metals with
+dissimilar coefficients of expansion
+Figure 10-66. A bimetallic temperature gauge works because of the
+
+dissimilar coefficients of expansion of two metals bonded together.
+When bent into a coil, cooling or heating causes the dissimilar metal
+coil to tighten, or unwind, moving the pointer across the temperature
+scale on the instrument dial face.
+
+Figure 10-67. A bimetallic outside air temperature gauge and its
+
+installation on a light aircraft.
+
+10-35
+
+===== PDF PAGE 555 =====
+systems can be found on many types of aircraft. Certain
+temperature ranges are more suitably measured by one or
+another type of system.
+
+Electrical Resistance Thermometer
+The principle parts of the electrical resistance thermometer
+are the indicating instrument, the temperature-sensitive
+element (or bulb), and the connecting wires and plug
+connectors. Electrical resistance thermometers are used
+widely in many types of aircraft to measure carburetor air,
+oil, free air temperatures, and more. They are used to measure
+low and medium temperatures in the –70 °C to 150 °C range.
+For most metals, electrical resistance changes as the
+temperature of the metal changes. This is the principle upon
+which a resistance thermometer operates. Typically, the
+electrical resistance of a metal increases as the temperature
+rises. Various alloys have a high temperature-resistance
+coefficient, meaning their resistance varies significantly
+with temperature. This can make them suitable for use in
+temperature sensing devices. The metal resistor is subjected
+to the fluid or area in which temperature needs to be
+measured. It is connected by wires to a resistance measuring
+device inside the flight deck indicator. The instrument dial is
+calibrated in degrees Fahrenheit or Celsius as desired rather
+than in ohms. As the temperature to be measured changes, the
+resistance of the metal changes and the resistance measuring
+indicator shows to what extent.
+A typical electrical resistance thermometer looks like any
+other temperature gauge. Indicators are available in dual
+form for use in multiengine aircraft. Most indicators are
+self-compensating for changes in flight deck temperature.
+The heat-sensitive resistor is manufactured so that it has
+a definite resistance for each temperature value within its
+working range. The temperature-sensitive resistor element
+is a length or winding made of a nickel/manganese wire or
+other suitable alloy in an insulating material. The resistor is
+protected by a closed-end metal tube attached to a threaded
+plug with a hexagonal head. [Figure 10-68] The two ends of
+the winding are brazed, or welded, to an electrical receptacle
+
+designed to receive the prongs of the connector plug.
+The indicator contains a resistance-measuring instrument.
+Sometimes it uses a modified form of the Wheatstonebridge circuit. The Wheatstone-bridge meter operates on
+the principle of balancing one unknown resistor against
+other known resistances. A simplified form of a Wheatstonebridge circuit is shown in Figure 10-69. Three equal values
+of resistance [Figure 10-69A, B, and C] are connected into a
+diamond shaped bridge circuit. A resistor with an unknown
+value [Figure 10-69D] is also part of the circuit. The unknown
+resistance represents the resistance of the temperature bulb of
+the electrical resistance thermometer system. A galvanometer
+is attached across the circuit at points X and Y.
+When the temperature causes the resistance of the bulb to
+equal that of the other resistances, no potential difference
+exists between points X and Y in the circuit. Therefore, no
+current flows in the galvanometer leg of the circuit. If the
+temperature of the bulb changes, its resistance also changes,
+and the bridge becomes unbalanced, causing current to flow
+through the galvanometer in one direction or the other. The
+galvanometer pointer is actually the temperature gauge
+pointer. As it moves against the dial face calibrated in degrees,
+it indicates temperature. Many indicators are provided with
+a zero adjustment screw on the face of the instrument. This
+adjusts the zeroing spring tension of the pointer when the
+bridge is at the balance point (the position at which the bridge
+circuit is balanced and no current flows through the meter).
+
+Ratiometer Electrical Resistance Thermometers
+Another way of indicating temperature when employing
+an electric resistance thermometer is by using a ratiometer.
+
++
+−
+
+14Volts
+
+X
+
+A
+
+B
+Cal. res.
+
+L
+
+C
+
+M
+Indicator
+
+Y
+D
+
+Heat-sensitive element or bulb
+
+Figure 10-69. The internal structure of an electric resistance
+Figure 10-68. An electric resistance thermometer sensing bulb.
+
+thermometer indicator features a bridge circuit, galvanometer, and
+variable resistor, which is outside the indicator in the form of the
+temperature sensor.
+
+10-36
+

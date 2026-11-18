@@ -1,0 +1,1922 @@
+FAA-H-8083-31B Airframe Handbook, chapter 12 (Hydraulic & Pneumatic Power Systems), PDF pages 716-731
+
+===== PDF PAGE 716 =====
+one aircraft manufacturer recommends using a four-power
+magnifying glass with adequate lighting to inspect each ring
+before it is installed. By rolling the ring on an inspection
+cone or dowel, the inner diameter surface can also be
+checked for small cracks, particles of foreign material, or
+other irregularities that cause leakage or shorten the life of
+the O-ring. The slight stretching of the ring when it is rolled
+inside out helps to reveal some defects not otherwise visible.
+
+A
+
+Spiral cut
+B
+
+Single turn (scarf-cut)
+
+No cut solid
+
+O-ring without back up ring extrudes into gap
+
+Backup
+ring
+O-ring
+Fluid pressure
+
+Backup rings are installed downstream of
+some O-rings to prevent extrusion
+
+C
+
+After inspection and prior to installation, immerse the O-ring
+in clean hydraulic fluid. During the installation, avoid
+rolling and twisting the O-ring to maneuver it into place. If
+possible, keep the position of the O-ring’s mold line constant.
+When the O-ring installation requires spanning or inserting
+through sharply threaded areas, ridges, slots, and edges, use
+protective measures, such as O-ring entering sleeves, as
+shown in Figure 12-60A. After the O-ring is placed in the
+cavity provided, gently roll the O-ring with the fingers to
+remove any twist that might have occurred during installation.
+[Figure 12-61]
+
+Wrong
+
+Wipers
+
+Correct
+
+Wipers are used to clean and lubricate the exposed portions
+of piston shafts. They prevent dirt from entering the system
+and help protect the piston shaft against scoring. Wipers may
+be either metallic or felt. They are sometimes used together,
+a felt wiper installed behind a metallic wiper.
+
+Correct after installation
+Orientation of a spiral cut teflon backup ring
+Figure 12-59. Backup O-rings installed downstream.
+
+O-Ring Installation
+When removing or installing O-rings, avoid using pointed
+or sharp-edged tools that might cause scratching or marring
+of hydraulic component surfaces or cause damage to the
+O-rings. Special tooling for the installation of O-rings is
+available. While using the seal removal and the installation
+tools, contact with cylinder walls, piston heads, and related
+precision components is not desirable.
+After the removal of all O-rings, the parts that receive new
+O-rings have to be cleaned and inspected to make sure that
+they are free from all contamination. Each replacement
+O-ring should be removed from its sealed package and
+inspected for defects, such as blemishes, abrasions, cuts,
+or punctures. Although an O-ring may appear perfect at
+first glance, slight surface flaws may exist. These flaws are
+often capable of preventing satisfactory O-ring performance
+under the variable operating pressures of aircraft systems;
+therefore, O-rings should be rejected for flaws that affect
+their performance. Such flaws are difficult to detect, and
+
+Large Aircraft Hydraulic Systems
+Figure 12-62 provides an overview of hydraulic components
+in large aircraft.
+Boeing 737 Next Generation Hydraulic System
+The Boeing 737 Next Generation has three 3,000 psi
+hydraulic systems: system A, system B, and standby. The
+standby system is used if system A and/or B pressure is lost.
+The hydraulic systems power the following aircraft systems:
+•
+
+Flight controls.
+
+•
+
+Leading edge flaps and slats.
+
+•
+
+Trailing edge flaps.
+
+•
+
+Landing gear.
+
+•
+
+Wheel brakes.
+
+•
+
+Nose wheel steering.
+
+•
+
+Thrust reversers.
+
+•
+
+Autopilots.
+
+Reservoirs
+The system A, B, and standby reservoirs are located in the
+wheel well area. The reservoirs are pressurized by bleed air
+12-37
+
+===== PDF PAGE 717 =====
+A
+
+B
+Backup rings
+
+Backup rings
+O-ring
+
+Extractor tool
+
+O-ring
+Cylinder
+Extractor tool
+
+PULL
+
+PU
+
+SH
+
+Backup rings
+Cylinder mouth
+
+Cylinder
+PU
+
+LL
+
+PU
+
+LL
+
+O-ring
+
+Removal tool
+Cylinder mouth
+Removal tool (hook type)
+
+Removal tool
+
+Extractor tool (pull type)
+
+Internal O-ring removal (using pull-type
+extractor and hook-type removal tools)
+C
+
+Internal O-ring removal (using push-type
+extractor and hook-type removal tools)
+D
+
+O-ring
+
+Backup ring
+O-ring
+
+Backup ring
+
+Backup ring
+
+Extractor tool (push type)
+
+Removal tool (hook type)
+
+O-ring extractor tool
+
+Backup ring
+
+Removal tool
+
+PUSH
+
+PULL
+PULL
+
+PUSH
+
+Removal tool (hook type)
+
+Extractor tool
+
+O-ring removal tool
+
+Extractor tool (push type)
+
+Removal tool (hook type)
+
+Dual internal O-ring removal (using push-type
+extractor and hook-type removal tools)
+E
+
+Extractor tool (hook type)
+
+Internal O-ring removal (using wedge-type
+extractor and hook-type removal tools)
+F
+
+Removal tool
+LL
+
+PU
+
+PUSH
+
+Extractor tool
+Removal spoon
+External O-ring removal (using spoon-type
+extractor removal tools)
+
+Removal tool (hook type)
+
+Extractor tool (wedge type)
+
+External O-ring removal (using wedge-type
+extractor and hook-type removal tools)
+
+Figure 12-60. O-ring installation techniques.
+
+through a pressurization module. The standby reservoir is
+connected to the system B reservoir for pressurization and
+servicing. The positive pressure in the reservoir ensures a
+positive flow of fluid to the pumps. The reservoirs have a
+standpipe that prevents the loss of all hydraulic fluid if a
+leak develops in the engine-driven pump or its related lines.
+
+The engine-driven pump draws fluid through a standpipe in
+the reservoir and the AC motor pump draws fluid from the
+bottom of the reservoir. [Figure 12-63]
+
+12-38
+
+===== PDF PAGE 718 =====
+A
+
+B
+
+O-ring receiving groove
+Sharp edges corners and threads
+
+O-ring receiving grooves
+Paper entering sleeve
+
+Cylinder mouth
+
+Sharp edges and threads
+
+Soft thin-wall metallic sleeve
+
+Installation tool push type
+
+Installation tool
+Internal O-Ring Installation
+(using metallic sleeve to avoid O-ring damage from
+sharp edges or threads and push-type installation tool)
+
+Internal O-Ring Installation
+(using paper entering sleeve to avoid O-ring damage from
+sharp edges or threads and push-type installation tool)
+
+C
+
+Sharp edges and corners
+Threads area
+
+O-ring receiving grooves
+
+Paper cover
+
+External O-Ring Installation
+(using paper cover to avoid O-ring damage from sharp edges or threads)
+
+O-ring receiving grooves
+
+Figure 12-61. More O-ring installation techniques.
+
+Pumps
+Refer to Figure 12-64 for the following description. Both A
+and B hydraulic systems have an engine-driven pump (EDP)
+and an ACMP. The system A engine-driven pump is installed
+on the number 1 engine and the system B engine-driven
+pump is installed on the number 2 engine. The AC pumps
+are controlled by a switch on the flight deck. The hydraulic
+case drain fluid that lubricates and cools the pumps return
+to the reservoir through a heat exchanger. [Figure 12-65]
+The heat exchanger for the A system is installed in the main
+fuel tank No. 1, and the heat exchanger for the B system
+is installed in the main fuel tank No. 2. Minimum fuel for
+ground operation of electric motor-driven pumps is 1,675
+pounds in the related main tank. Pressure switches, located
+in the EDP and ACMP pump output lines, send signals to
+illuminate the related LOW PRESSURE light if pump output
+
+pressure is low. The related system pressure transmitter sends
+the combined pressure of the EDP and ACMP to the related
+hydraulic system pressure indicator.
+
+Filter Units
+Filter modules are installed in the pressure, case drain,
+and return lines to clean the hydraulic fluid. Filters have a
+differential pressure indicator that pops out when the filter
+is dirty and needs to be replaced.
+
+Power Transfer Unit (PTU)
+The purpose of the PTU is to supply the additional volume of
+hydraulic fluid needed to operate the autoslats and leadingedge flaps and slats at the normal rate when system B EDP
+malfunctions. The PTU unit consists of a hydraulic motor
+and hydraulic pump that are connected through a shaft. The
+12-39
+
+===== PDF PAGE 719 =====
+Hydraulic MotorDriven Generator
+Stabilizer Trim Motor
+Stabilizer trim actuation on the
+aircraft is provided by two 3,000psi, constant-displacement,
+nine-piston, bent-axis hydraulic
+motors. Each motor produces
+77.3 in-lb torque at 2,250 psid
+with a rated speed of 2,700 rpm
+and an intermittent speed of
+4,050 rpm. Displacement is
+0.216 in2/rev; weight is 3.9 lb.
+
+The hydraulic motor-driven
+generator (HMDG) is a servocontrolled, variable
+displacement, inline axis-piston
+hydraulic motor integrated
+with a three-stage, brushless
+generator. The HMDG is
+designed to maintain a
+steady state generator
+output frequency of 400 ±2V
+(at the point of regulation)
+over a rated electrical output
+range of 10kVA.
+
+AC Motor Pump
+
+Leading Edge Slat Drive Motor
+
+Auxiliary power is provided
+by a 3,110-psi, 12-gpm,
+8,000-rpm fluid-cooled
+motor pump. Some AC
+motor pumps feature a
+ceramic feed-through
+design. This protects the
+electrical wiring from being
+exposed to the caustic
+hydrauic fluid environment.
+
+Leading edge slat actuation on the
+aircraft provided by one constantdisplacement, nine-piston, bent-axis
+hydraulic motor. The motor produces
+544.3 in-lb torque at 2,250 psid with
+a rated speed of 3,170 rpm and an
+intermittent speed of 4,755 rpm.
+Displacement is 1.52 in2/rev; weight
+is 13.21 lb.
+
+Power Transfer Unit
+The transfer of hydraulic power
+(but not fluid) between the left
+and right independent hydraulic
+system is accomplished with a
+nonreversible power transfer
+unit (PTU) that provides an
+alternate power source for the
+leading and trailing edge flaps
+and the landing gear, including
+nose gear steering, which are
+normally driven by the left
+hydraulic system. The PTU
+consists of a bent-axis hydraulic
+motor driving a fixed displacement,
+in-line pump. Rated speed is 3,900
+rpm. Displacement of the pump is
+1.39 in2/rev and displacement of
+the motor is 1.52 in2/rev. The unit
+weight is 35 lb.
+
+Emergency Passenger
+Door Actuator
+Plays a critical role in
+safety; extends to open
+door when actuated by nitrogen
+gas pressure. Assembly
+reaches full extension in 2.75
+to 4.16 seconds with output force
+of 2,507 to 2,830 lb.
+
+Trailing Edge Flap Drive Motor
+Trailing edge flap actuation is provided by
+one 3,000-psi, constant-displacement, ninepiston, bent-axis hydraulic motor. The motor
+produces 21.4 in-lb torque at 2,250 psid with
+a rated speed of 3,750 rpm and an intermittent speed of 5,660 rpm. Displacement is
+0.596 in2/rev; weight is 6.5 lb.
+
+Ram Air Turbine Pump
+
+Engine-Driven Pump
+Hydraulic power for the left and right systems is
+supplied by two 48-gpm variable-displacement,
+3,000-psi pressure compensated in-line pumps.
+Displacements 3.0 in2/rev; weight is 40.1 lb.
+
+A 3,025 psi in-line piston pump
+provides 20 gpm at 3,920 rpm,
+delivering hydraulic power for
+the priority flight control surfaces
+in the event both engines are
+lost or a total electrical power
+failure occurs. Displacement
+is 1.25 in2/rev; weight is 15 lb.
+
+Nose Wheel Steering System
+Consists of a digital electronic controller, hydromecharical power unit, mounting collar, tiller,
+and rudder pedal positon sensors. The hydromecharical power unit (an integrated assembly)
+includes all the hydraulic valving, power
+amplification, actuation, and damping
+components.
+
+Figure 12-62. Large aircraft hydraulic systems.
+System A reservoir
+Forward bulkhead
+
+Standby reservoir
+
+D
+
+FW
+
+Keel beam
+
+PTU uses system A pressure to drive a hydraulic motor. The
+hydraulic motor of the PTU unit is connected through a shaft
+with a hydraulic pump that can draw fluid from the system
+B reservoir. The PTU can only transfer power and cannot
+transfer fluid. The PTU operates automatically when all of
+the following conditions are met:
+•
+
+System B EDP pressure drops below limits.
+
+•
+
+Aircraft airborne.
+
+•
+
+Flaps are less than 15° but not up.
+
+System B reservoir
+
+Figure 12-63. Hydraulic reservoirs on a Boeing 737.
+
+12-40
+
+===== PDF PAGE 720 =====
+System A
+
+System B
+Standby
+system
+
+M
+EDP
+
+M
+
+M
+
+ACMP
+
+ACMP
+
+ACMP
+
+EDP
+
+Auto slats
+Leading edge
+flaps & slats
+
+No. 1 thrust
+reverser
+
+Rudder
+
+No. 2 thrust
+reverser
+
+Ailerons
+Flight spoilers
+Alternate
+brakes
+Ground
+spoilers
+
+Nose wheel
+steering
+Autopilot A
+
+Flight
+spoilers
+
+Elevator
+
++ elevator feel
+
+Landing gear
+
+Alternate nose
+wheel steering
+
+Landing gear
+transfer unit
+
+Autopilot B
+
+Yaw damper
+Normal
+brakes
+Trailing edge
+flaps
+
+Figure 12-64. Boeing 737 hydraulic system (simplified).
+
+Landing Gear Transfer Unit
+
+•
+
+Leading edge flaps and slats (extend only).
+
+The purpose of the landing gear transfer unit is to supply the
+volume of hydraulic fluid needed to raise the landing gear
+at the normal rate when system A EDP is lost. The system B
+EDP supplies the volume of hydraulic fluid needed to operate
+the landing gear transfer unit when all of the following
+conditions are met:
+
+•
+
+Standby yaw damper.
+
+•
+
+Aircraft airborne.
+
+•
+
+No. 1 engine rpm drops below a limit value.
+
+•
+
+Landing gear lever is up.
+
+•
+
+Either or both main landing gear not up and locked.
+
+Standby Hydraulic System
+The standby hydraulic system is provided as a backup if
+system A and/or B pressure is lost. The standby system can
+be activated manually or automatically and uses a single
+electric ACMP to power:
+•
+
+Thrust reversers.
+
+•
+
+Rudder.
+
+Indications
+A master caution light illuminates if an overheat or low
+pressure is detected in the hydraulic system. An overheat
+light on the flight deck illuminates if an overheat is detected
+in either system A or B and a low-pressure light illuminates
+if a low pressure is detected in system A and B.
+Boeing 777 Hydraulic System
+The Boeing 777 is equipped with three hydraulic systems.
+The left, center, and right systems deliver hydraulic fluid at a
+rated pressure of 3,000 psi (207 bar) to operate flight controls,
+flap systems, actuators, landing gear, and brakes. Primary
+hydraulic power for the left and right systems is provided
+by two EDPs and supplemented by two on-demand ACMPs.
+Primary hydraulic power for the center system is provided
+by two electric motor pumps (ACMP) and supplemented by
+two on-demand air turbine-driven pumps. The center system
+provides hydraulic power for the engine thrust reversers,
+12-41
+
+===== PDF PAGE 721 =====
+To No. 1 hydraulic pump
+
+No. 1 pump pressure
+From case drain filter
+
+Hydraulic system A heat exchanger
+
+Hydraulic supply (fire) shutoff valve
+
+No. 1 Engine pump supply
+
+No. 1 Pump pressure
+
+D
+
+IN
+
+BD
+
+FW
+
+Case drain return line
+
+Rear spar
+
+Hydraulic line connectors
+O
+
+ut
+
+le
+
+t
+Inlet
+
+Bonding jumper
+Mounting clamp (3 places)
+Tubing coil
+
+Wing structure
+
+INBD
+D
+
+FW
+
+Figure 12-65. Boeing 737 hydraulic case drain fluid heat exchanger installed in the fuel tank.
+
+primary flight controls, landing gear, and flaps/slats. Under
+emergency conditions, hydraulic power is generated by the
+ram air turbine (RAT), which is deployed automatically
+and drives a variable displacement inline pump. The RAT
+pump provides flow to the center system flight controls.
+[Figure 12-66]
+
+Left & Right System Description
+The left and right hydraulic systems are functionally the same.
+The left hydraulic system supplies pressurized hydraulic
+fluid to operate the left thrust reverser and the flight control
+systems. The right hydraulic system supplies pressurized
+
+12-42
+
+===== PDF PAGE 722 =====
+Reservoir fill
+selector valve
+return
+
+return
+
+Left
+
+return
+
+Center
+LDG GR
+Heat
+ALTN
+exchanger
+Extend
+(right
+DC HYD main tank)
+pump
+
+Heat
+exchanger
+(left main
+tank)
+
+SOV
+
+Right
+
+L
+EDP
+
+C1
+ACMP
+
+Heat
+exchanger
+(right
+main tank)
+
+C2
+ACMP
+
+SOV
+
+R
+EDP
+
+ISLN
+
+L
+ACMP
+
+ISLN
+
+C1
+ADP
+
+C2
+ADP
+
+Tail flight
+controls
+Wing flight
+controls
+Thrust reverser
+
+Bleed air
+Supply
+Pressure
+Return
+
+L
+ACMP
+
+RAT
+
+Tail flight
+controls
+Nose landing
+gear actuation
+
+Main landing
+gear actuation
+
+LE slats
+primary drive
+
+Tail
+flight controls
+
+Nose wheel
+steering
+
+Main gear
+steering
+
+TE flaps
+primary drive
+
+Wing
+flight controls
+
+EDP = Engine driven pump
+ACMP = AC motor pump
+ADP = Air driven pump
+
+Wing flight
+controls
+Thrust reverser
+Altn/Res
+brakes
+
+Normal
+brakes
+
+Figure 12-66. A Boeing 777 hydraulic system.
+
+hydraulic fluid to operate the right thrust reverser, flight
+control systems, and the normal brake system. [Figure 12-67]
+Reservoir
+The hydraulic system reservoirs of the left and right system
+contain the hydraulic fluid supply for the hydraulic pumps.
+The reservoir is pressurized by bleed air through a reservoir
+pressurization module. The EDP draws fluid through a
+standpipe. The ACMP draws fluid from the bottom of
+the reservoir. If the fluid level in the reservoir gets below
+the standpipe, the EDP cannot draw any fluid any longer,
+and the ACMP is the only source of hydraulic power. The
+reservoir can be serviced through a center servicing point
+in the fuselage of the aircraft. The reservoir has a sample
+valve for contamination testing purposes, a temperature
+transmitter for temperature indication on the flight deck, a
+pressure transducer for reservoir pressure, and a drain valve
+for reservoir draining.
+Pumps
+The EDPs are the primary pumps for the left and right
+hydraulic systems. The EDPs get reservoir fluid through the
+EDP supply shutoff valves. The EDPs operates whenever the
+engines operate. A solenoid valve in each EDP controls the
+
+pressurization and depressurization of the pump. The pumps
+are variable displacement inline piston pumps consisting of
+a first stage impeller pump and a second stage piston pump.
+The impeller pump delivers fluid under pressure to the piston
+pump. The ACMPs are the demand pumps for the left and
+right hydraulic systems. The ACMPs normally operate only
+when there is high hydraulic system demand.
+Filter Module
+Pressure and case drain filter modules clean the pressure
+flows and the case drain flows of the hydraulic pumps. A
+return filter module cleans the return flow of hydraulic fluid
+from the user systems. The module can be bypassed if the
+filter clogs, and a visible indicator pops to indicate a clogged
+filter. The heat exchanger, which is installed in the wing fuel
+tanks, cools the hydraulic fluid from ACMP and EDP case
+drain lines before the fluid goes back to the reservoir.
+Indication
+The hydraulic system sensors send pressure, temperature,
+and quantity signals to the flight deck. A reservoir quantity
+transmitter and temperature transducer are installed on each
+of the reservoirs, and a hydraulic reservoir pressure switch
+is located on the pneumatic line between the reservoir
+
+12-43
+
+===== PDF PAGE 723 =====
+RSVR pressurized shutoff valve
+RSVR pressurized module
+
+RSVR pressurized
+relief valve
+
+Pressurized air
+Supply
+Pressure
+Return
+
+RSVR pressurized SW
+
+RSVR
+temperature
+XDCR
+
+EDP supply shutoff valve
+
+Sample valve
+
+EDP
+S
+
+Return filter module
+
+Drain valve
+
+Depress solenoid valve
+
+ACMP
+
+Temperature
+XDCR
+Pressurized
+XDCR
+
+GND SVC
+pressurized disc
+
+GND
+SVC
+RTN
+disc
+
+Temp XDCR
+Pressurized XDCR
+
+ACMP
+filter
+module
+
+SYS pressurized XDCR
+
+T/R
+
+EDP filter
+module
+RLF valve
+
+Brakes
+(R SYS)
+
+PFCS
+
+Heat exchanger
+From RSVR servicing
+
+Figure 12-67. Right hydraulic system of a Boeing 777. A left system is similar.
+
+pressurization module and the reservoir. The ACMP and EDP
+filter modules each have a pressure transducer to measure
+pump output pressure. A temperature transducer is installed in
+the case drain line of each filter module and measures pump
+case drain fluid temperature. A system pressure transducer
+measures hydraulic system pressure. A pressure relief
+valve on the EDP filter module protects the system against
+overpressurization. [Figure 12-67]
+
+Center Hydraulic System
+The center hydraulic system supplies pressurized hydraulic
+fluid to operate these systems. [Figure 12-68]
+•
+
+Nose landing gear actuation.
+
+•
+
+Nose landing gear steering.
+
+•
+
+Alternate brakes.
+
+•
+
+Main landing gear actuation.
+
+•
+
+Main landing gear steering.
+
+•
+
+Trailing edge flaps.
+
+•
+
+Leading edge slat.
+
+•
+
+Flight controls.
+
+Reservoir
+The hydraulic system reservoir of the center system contains
+the hydraulic fluid supply for the hydraulic pumps. The
+reservoir is pressurized by bleed air through a reservoir
+pressurization module. The reservoir supplies fluid to the
+ADPs, the RAT, and one of the ACMPs through a standpipe.
+The other ACMP gets fluid from the bottom of the reservoir.
+The reservoir also supplies hydraulic fluid to the landing gear
+alternate extension system.
+The ACMPs are the primary pumps in the center hydraulic
+system and are normally turned on. The ADPs are the demand
+pumps in the center system. They normally operate only
+when the center system needs more hydraulic flow capacity.
+The RAT system supplies an emergency source of hydraulic
+power to the center hydraulic system flight controls. A
+reservoir quantity transmitter and temperature transducer
+are installed on the reservoir. A hydraulic reservoir pressure
+switch is installed on the pneumatic line between the reservoir
+and the reservoir pressurization module.
+Filter
+Filter modules clean the pressure and case drain output of
+the hydraulic pumps. A return filter module cleans the return
+flow of hydraulic fluid from the user systems. The module
+
+12-44
+
+===== PDF PAGE 724 =====
+RSVR pressurized
+switch
+
+Pressurized air
+Supply
+Pressure
+Return
+
+Return
+filter MOD
+LG ALTN
+ext system
+
+Center SYS RTN
+Sample valve
+
+GND SVC disc RTN
+
+Drain valve
+ACMP
+C1
+
+ACMP
+C2
+
+ADP
+C1
+
+ADP
+C2
+
+RAT
+
+Filter
+MOD
+
+Filter
+MOD
+
+Filter
+MOD
+
+Filter
+MOD
+
+RAT
+check
+out
+module
+
+NLG
+Actuation
+
+NG ISLN valve
+NLG
+steering
+
+RSV ISLN valve
+ALTN
+brakes
+
+SYS
+pressurized
+XDCR
+
+MLG
+actuation
+
+MLG
+steering
+
+From RSVR
+servicing station
+
+GND SVC
+disc press
+Leading
+edge slats
+
+Trailing
+edge flaps
+
+PFCS
+
+Figure 12-68. Center hydraulic system.
+
+can be bypassed. The heat exchanger cools the hydraulic
+fluid from the ACMP case drains before the fluid goes back
+to the reservoir. ADP case drain fluid does not go through
+the heat exchangers.
+The ACMP and ADP filter modules each have a pressure
+transducer to measure pump output pressure. A temperature
+transducer in each filter module measures the pump case
+drain temperature. A system pressure transducer measures
+hydraulic system pressure.
+Pressure relief valves in each ADP filter module prevent
+system overpressurization. A pressure relief valve near
+ACMP C1 supplies overpressure protection for the center
+hydraulic isolation system (CHIS).
+Center Hydraulic Isolation System (CHIS)
+The CHIS supplies engine burst protection and a reserve
+brakes and steering function. CHIS operation is fully
+automatic. Relays control the electric motors in the reserve
+and nose gear isolation valves. When the CHIS system is
+operational, it prevents hydraulic operation of the leadingedge slats.
+ACMP C1 gets hydraulic fluid from the bottom of the center
+system reservoir. All other hydraulic pumps in the center
+system get fluid through a standpipe in the reservoir. This
+
+gives ACMP C1 a 1.2-gallon (4.5 liter) reserve supply of
+hydraulic fluid.
+The reserve and nose gear isolation valves are normally
+open. Both valves close if the quantity in the center system
+reservoir is low (less than 0.40) and the airspeed is more than
+60 knots for more than one second. When CHIS is active,
+this divides the center hydraulic system into different parts.
+The NLG actuation and steering and the leading-edge slat
+hydraulic lines are isolated from center system pressure. The
+output of ACMP C1 goes only to the alternate brake system.
+The output of the other center hydraulic system pumps goes
+to the trailing edge flaps, the MLG actuation and steering, and
+the flight controls. If there is a leak in the NLG actuation and
+steering or LE slat lines, there is no further loss of hydraulic
+fluid. The alternate brakes, the trailing edge flaps, the MLG
+actuation and steering, and the PFCS continue to operate
+normally.
+If there is a leak in the trailing edge flaps, the MLG actuation
+and steering, or the flight control lines, the reservoir loses
+fluid down to the standpipe level (0.00 indication). This
+causes a loss of these systems, but the alternate brake system
+continues to get hydraulic power from ACMP C1. If there is
+a leak in the lines between ACMP C1 and the alternate brake
+system, all center hydraulic system fluid is lost.
+12-45
+
+===== PDF PAGE 725 =====
+CTR HYD
+SYS RSVR
+
+RSV and NG ISLN valves close
+• Airspeed > 60 kts and C SYS
+qty < 0.4 (1 second delay)
+Nose gear ISLN valve open
+• Airspeed < 60 kts
+• ACMP C2, ADP C1, ADP C2, and
+RAT press < 1,200 psi
+(30 second delay)
+• L & R eng rpm > idle, L & R EDP
+press > 2,400 psi, and (NLG is not
+up or NLG doors are not closed,
+or the LG CTRL lever is DN) (30
+seconds delay)
+CHIS reset
+• Qty > 0.7 and airspeed < 60 kts
+(5 second delay)
+• Qty > 0.7 and L & R eng rpm >
+idle and L & R EDP press >
+2,400 psi (30 second delay)
+
+ACMP C1
+
+ACMP C2
+
+ADP C1
+
+ADP C2
+
+RAT
+
+TE Flaps
+
+MLG
+Actuation
+and
+steering
+
+PFCS
+
+M
+P110 left PWR
+management panel
+RSV
+ISLN
+valve
+
+LE Slats
+PCV
+
+Fseu (2)
+Lines to slat hydraulic motor
+M
+NLG
+Actuation
+and
+steering
+
+P310 stby PWR
+management panel
+
+HYDIM CL
+
+Supply
+Pressure
+LE slat lines
+
+Nose gear ISLN valve
+ALTN
+Brakes
+
+Main hydraulic systems - center hydraulic isolation system - functional description
+Figure 12-69. Center hydraulic isolation system.
+
+Nose Gear Isolation Valve
+The nose gear isolation valve opens for any of these
+conditions:
+•
+
+Airspeed is less than 60 knots.
+
+•
+
+Pump pressures for ACMP C2, ADP C1, ADP C2, and
+the RAT is less than 1,200 psi for 30 seconds.
+
+•
+
+Left and right engine rpm is above idle, left and right
+EDP pressure is more than 2,400 psi, and the NLG is
+not up, the NLG doors are not closed, or the landing
+gear lever is not up for 30 seconds.
+
+The first condition permits the flight crew to operate the
+NLG steering when airspeed is less than 60 knots (decreased
+rudder control authority during taxi). The second condition
+permits operation of the NLG actuation and steering if the
+hydraulic leak is in the part of the center hydraulic system
+isolated by the reserve isolation valve. The third condition
+permits operation of the NLG actuation and steering if there
+has not been an engine burst and the other hydraulic systems
+are pressurized. The nose gear isolation valve opens when
+pressure is necessary at the NLG. If the NLG is not fully
+
+retracted or the NLG doors are not closed, the nose gear
+isolation valve opens to let the NLG complete the retraction.
+When the landing gear lever is moved to the down position,
+the nose gear isolation valve opens to let the NLG extend
+with center system pressure.
+Central Hydraulic System Reset
+Both valves open again automatically when the center system
+quantity is more than 0.70 and airspeed is less than 60
+knots for 5 seconds. Both valves also reset when the center
+system quantity is more than 0.70 and both engines and
+both engine-driven pumps operate normally for 30 seconds.
+[Figure 12-69]
+
+Aircraft Pneumatic Systems
+Some aircraft manufacturers have equipped their aircraft with
+a high pressure pneumatic system (3,000 psi) in the past. The
+last aircraft to utilize this type of system was the Fokker F27.
+Such systems operate a great deal like hydraulic systems,
+except they employ air instead of a liquid for transmitting
+power. Pneumatic systems are sometimes used for:
+
+12-46
+
+===== PDF PAGE 726 =====
+•
+
+Brakes.
+
+•
+
+Opening and closing doors.
+
+•
+
+Driving hydraulic pumps, alternators, starters, water
+injection pumps, etc.
+
+•
+
+Operating emergency devices.
+
+Both pneumatic and hydraulic systems are similar units and
+use confined fluids. The word confined means trapped or
+completely enclosed. The word fluid implies such liquids
+as water, oil, or anything that flows. Since both liquids and
+gases flow, they are considered as fluids; however, there is
+a great deal of difference in the characteristics of the two.
+Liquids are practically incompressible; a quart of water still
+occupies about a quart of space regardless of how hard it is
+compressed. But gases are highly compressible; a quart of
+air can be compressed into a thimbleful of space. In spite of
+this difference, gases and liquids are both fluids and can be
+confined and made to transmit power. The type of unit used to
+provide pressurized air for pneumatic systems is determined
+by the system’s air pressure requirements.
+High-Pressure Systems
+For high-pressure systems, air is usually stored in metal
+bottles at pressures ranging from 1,000 to 3,000 psi,
+Charging valve
+
+Abstactor
+
+Oil and
+water trap
+
+depending on the particular system. [Figure 12-70] This
+type of air bottle has two valves, one of which is a charging
+valve. A ground-operated compressor can be connected to
+this valve to add air to the bottle. The other valve is a control
+valve. It acts as a shutoff valve, keeping air trapped inside
+the bottle until the system is operated. Although the highpressure storage cylinder is light in weight, it has a definite
+disadvantage. Since the system cannot be recharged during
+flight, operation is limited by the small supply of bottled
+air. Such an arrangement cannot be used for the continuous
+operation of a system. Instead, the supply of bottled air is
+reserved for emergency operation of such systems as the
+landing gear or brakes. The usefulness of this type of system
+is increased, however, if other air-pressurizing units are added
+to the aircraft. [Figure 12-71]
+
+Pneumatic System Components
+Pneumatic systems are often compared to hydraulic systems,
+but such comparisons can only hold true in general terms.
+Pneumatic systems do not utilize reservoirs, hand pumps,
+accumulators, regulators, or engine-driven or electrically
+driven power pumps for building normal pressure. But
+similarities do exist in some components.
+
+Dehydrator
+Pressure relief valve
+
+Porous metal filter
+
+Pressure
+switch
+
+Sensing
+line
+LH Nacelle
+
+RH Nacelle
+
+Nonreturn valve
+Pressure regulator
+Compressor
+Main bottle
+Warning light
+Isolating valve
+Pressure gauge
+
+Normal brakes
+
+Air filter
+
+Pressure reducing valve
+
+Alternate/emergency bottle
+Pressure gauge
+
+Pressure relief valve
+
+To nose wheel steering
+Alternate/emergency gear control
+
+Alternate/emergency brakes
+
+Normal gear control
+Figure 12-70. High-pressure pneumatic system.
+
+12-47
+
+===== PDF PAGE 727 =====
+Nonreturn valve
+Air bottle
+
+Supply
+pressure
+
+Control lever
+
+Relief valve
+
+Pressure
+reducing
+valve
+
+Brake control valve
+Emergency brake
+control knob
+To retraction
+and extension
+system
+Parking
+handle
+Left pedal
+
+Right pedal
+
+Brake pressure gauge
+Emergency
+pressure
+
+Rapid exhaust valve
+
+Emergency
+brake selector
+valve
+HOLD
+OFF
+ON
+
+Vent port
+
+Spring
+
+Poppet valve
+
+Brake port
+
+Drilled passage
+
+Pressure port
+
+A. Control valve “off”
+
+Maxaret
+anti-skid unit
+Adjustable
+restrictor
+
+Left
+wheels
+
+Brake unit
+
+Right wheels
+
+Shuttle valve
+
+Figure 12-71. Pneumatic brake system.
+
+Air Compressors
+On some aircraft, permanently installed air compressors
+have been added to recharge air bottles whenever pressure
+is used for operating a unit. Several types of compressors are
+used for this purpose. Some have two stages of compression,
+while others have three, depending on the maximum desired
+operating pressure.
+Relief Valves
+Relief valves are used in pneumatic systems to prevent
+damage. They act as pressure limiting units and prevent
+excessive pressures from bursting lines and blowing out seals.
+Control Valves
+Control valves are also a necessary part of a typical pneumatic
+system. Figure 12-72 illustrates how a valve is used to
+control emergency air brakes. The control valve consists of
+a three-port housing, two poppet valves, and a control lever
+with two lobes.
+In Figure 12-72A, the control valve is shown in the off
+position. A spring holds the left poppet closed so that
+compressed air entering the pressure port cannot flow to the
+brakes. In Figure 12-72B, the control valve has been placed
+in the on position. One lobe of the lever holds the left poppet
+open, and a spring closes the right poppet. Compressed air
+
+From power source
+
+To emergency brakes
+Drilled passage
+
+B. Control valve “on”
+Figure 12-72. Pneumatic control valve.
+
+now flows around the opened left poppet, through a drilled
+passage, and into a chamber below the right poppet. Since
+the right poppet is closed, the high-pressure air flows out of
+the brake port and into the brake line to apply the brakes.
+To release the brakes, the control valve is returned to the
+off position. [Figure 12-72A] The left poppet now closes,
+stopping the flow of high-pressure air to the brakes. At the
+same time, the right poppet is opened, allowing compressed
+air in the brake line to exhaust through the vent port and into
+the atmosphere.
+Check Valves
+Check valves are used in both hydraulic and pneumatic
+systems. Figure 12-73 illustrates a flap-type pneumatic check
+valve. Air enters the left port of the check valve, compresses
+a light spring, forcing the check valve open and allowing air
+to flow out of the right port. But if air enters from the right,
+air pressure closes the valve, preventing a flow of air out of
+12-48
+
+===== PDF PAGE 728 =====
+with two ports, a replaceable cartridge, and a relief valve.
+Normally, air enters the inlet, circulates around the cellulose
+cartridge, and flows to the center of the cartridge and out
+the outlet port. If the cartridge becomes clogged with dirt,
+pressure forces the relief valve open and allows unfiltered
+air to flow out the outlet port.
+
+Flap
+
+Spring
+
+A screen-type filter is similar to the micron filter but contains
+a permanent wire screen instead of a replaceable cartridge.
+In the screen filter, a handle extends through the top of the
+housing and can be used to clean the screen by rotating it
+against metal scrapers.
+
+Housing
+
+Figure 12-73. Flap-type pneumatic check valve.
+
+Inlet port
+
+Outlet port
+
+Figure 12-74. Pneumatic orifice valve.
+
+the left port. Thus, a pneumatic check valve is a one-direction
+flow control valve.
+Restrictors
+Restrictors are a type of control valve used in pneumatic
+systems. Figure 12-74 illustrates an orifice-type restrictor
+with a large inlet port and a small outlet port. The small outlet
+port reduces the rate of airflow and the speed of operation
+of an actuating unit.
+Variable Restrictor
+Another type of speed-regulating unit is the variable
+restrictor. [Figure 12-75] It contains an adjustable needle
+valve, which has threads around the top and a point on the
+lower end. Depending on the direction turned, the needle
+valve moves the sharp point either into or out of a small
+opening to decrease or increase the size of the opening.
+Since air entering the inlet port must pass through this
+opening before reaching the outlet port, this adjustment also
+determines the rate of airflow through the restrictor.
+Filters
+Pneumatic systems are protected against dirt by means of
+various types of filters. A micronic filter consists of a housing
+
+Desiccant/Moisture Separator
+The moisture separator in a pneumatic system is always
+located downstream of the compressor. Its purpose is to
+remove any moisture caused by the compressor. A complete
+moisture separator consists of a reservoir, a pressure switch,
+a dump valve, and a check valve. It may also include a
+regulator and a relief valve. The dump valve is energized
+and deenergized by the pressure switch. When deenergized,
+it completely purges the separator reservoir and lines up to
+the compressor. The check valve protects the system against
+pressure loss during the dumping cycle and prevents reverse
+flow through the separator.
+Chemical Drier
+Chemical driers are incorporated at various locations in a
+pneumatic system. Their purpose is to absorb any moisture
+that may collect in the lines and other parts of the system.
+Each drier contains a cartridge that should be blue in
+color. If otherwise noted, the cartridge is to be considered
+contaminated with moisture and should be replaced.
+
+Emergency Backup Systems
+Many aircraft use a high-pressure pneumatic back-up source
+of power to extend the landing gear or actuate the brakes,
+Adjustable needle valve
+
+Inlet
+port
+
+Pressure
+port
+
+Figure 12-75. Variable pneumatic restrictor.
+
+12-49
+
+===== PDF PAGE 729 =====
+Nose wheel steer
+
+Wheel
+brakes (4)
+
+Park/
+emergency
+brake
+
+Park brake
+valve
+
+Anti skid
+valves (4)
+
+Power WOW inputs
+
+AUGM
+enter valve
+
+NWS cont valves
+
+Brake cont
+valves (2)
+Brake pedal
+inputs
+
+Landing
+gear/doors
+
+N2 CYLS (2)
+
+E
+M
+E
+R
+L
+D
+G
+
+Outlet
+& vent valve
+
+G
+E
+A
+R
+
+Landing Gear
+PUMP V
+
+GRND serv valve
+(GRND only)
+
+Landing gear
+dump valve
+pump
+
+LDG gear
+select valve
+Landing gear
+handle inputs
+
+HYD
+
+Auxillary pump
+OFF
+ON
+
+N2
+
+Not
+APM
+
+Park/emergency
+brake accum
+
+ON
+
+N2
+D
+
+Disconnected
+with ASC 87
+
+Auxilliary SOV
+Auxilliary boost
+pump
+
+L SYS/PTU
+L SYS/PTU/AUX
+NITROGEN (N2)
+Control
+Shutoff valve
+
+DISCH
+
+1
+
+Not
+APM
+
+HY
+
+ON
+
+D
+
+Left
+engine
+pumps
+
+Right
+engine
+pumps
+
+2
+
+L
+
+Power transfer unit
+OFF
+ON
+
+N2
+
+HY
+
+Auxilliary pump
+
+L SYS
+R SYS
+PTU
+AUX
+Check valve
+
+System accum
+(ASC D7)
+
+System accum
+(ASC D7)
+
+Disconnected
+with ASC 87
+DISCH
+
+1
+L SYS
+AUX
+
+R SYS
+
+2
+
+R
+
+Figure 12-76. Pneumatic emergency landing gear extension system.
+
+if the main hydraulic braking system fails. The nitrogen is
+not directly used to actuate the landing gear actuators or
+brake units but, instead, it applies the pressurized nitrogen
+to move hydraulic fluid to the actuator. This process is
+called pneudraulics. The following paragraph discusses the
+components and operation of an emergency pneumatic landing
+gear extension system used on a business jet. [Figure 12-76]
+Nitrogen Bottles
+Nitrogen used for emergency landing gear extension is
+stored in two bottles, one bottle located on each side of
+the nose wheel well. Nitrogen from the bottles is released
+by actuation of an outlet valve. Once depleted, the bottles
+must be recharged by maintenance personnel. Fully serviced
+pressure is approximately 3,100 psi at 70 °F/21 °C, enough
+for only one extension of the landing gear.
+Gear Emergency Extension Cable & Handle
+The outlet valve is connected to a cable and handle assembly.
+The handle is located on the side of the copilot’s console
+and is labeled EMER LDG GEAR. Pulling the handle fully
+upward opens the outlet valve, releasing compressed nitrogen
+into the landing gear extension system. Pushing the handle
+
+fully downward closes the outlet valve and allows any
+nitrogen present in the emergency landing gear extension
+system to be vented overboard. The venting process takes
+approximately 30 seconds.
+Dump Valve
+As compressed nitrogen is released to the landing gear
+selector/dump valve during emergency extension, the
+pneudraulic pressure actuates the dump valve portion of
+the landing gear selector/dump valve to isolate the landing
+gear system from the remainder of hydraulic system. When
+activated, a blue DUMP legend is illuminated on the LDG
+GR DUMP V switch, located on the flight deck overhead
+panel. A dump valve reset switch is used to reset the dump
+valve after the system has been used and serviced.
+Emergency Extension Sequence:
+1.
+
+Landing gear handle is placed in the DOWN position.
+
+2.
+
+Red light in the landing gear control handle is
+illuminated.
+
+3.
+
+EMER LDG GEAR handle is pulled fully outward.
+
+4.
+
+Compressed nitrogen is released to the landing gear
+12-50
+
+===== PDF PAGE 730 =====
+selector/dump valve.
+
+7.
+
+Landing gear system is isolated from the remainder
+of hydraulic system.
+
+8.
+
+Pneudraulic pressure is routed to the OPEN side of
+the landing gear door actuators, the UNLOCK side of
+the landing gear uplock actuators, and the EXTEND
+side of the main landing gear sidebrace actuators and
+nose landing gear extend/retract actuator.
+
+9.
+
+Landing gear doors open.
+
+10. Uplock actuators unlock.
+11. Landing gear extends down and locks.
+12. Three green DOWN AND LOCKED lights on the
+landing gear control panel are illuminated.
+13. Landing gear doors remain open.
+Medium-Pressure Systems
+A medium-pressure pneumatic system (50–150 psi) usually
+does not include an air bottle. Instead, it generally draws air
+from the compressor section of a turbine engine. This process
+is often called bleed air and is used to provide pneumatic
+power for engine starts, engine deicing, wing deicing, and in
+some cases, it provides hydraulic power to the aircraft systems
+(if the hydraulic system is equipped with an air-driven
+hydraulic pump). Engine bleed air is also used to pressurize
+the reservoirs of the hydraulic system. Bleed air systems are
+discussed in more detail in the powerplant handbook.
+Low-Pressure Systems
+Many aircraft equipped with reciprocating engines obtain
+a supply of low-pressure air from vane-type pumps. These
+pumps are driven by electric motors or by the aircraft engine.
+Figure 12-77 shows a schematic view of one of these pumps,
+which consists of a housing with two ports, a drive shaft, and
+two vanes. The drive shaft and the vanes contain slots, so
+the vanes can slide back and forth through the drive shaft.
+The shaft is eccentrically mounted in the housing, causing
+the vanes to form four different sizes of chambers (A, B, C,
+and D). In the position shown, B is the largest chamber and
+is connected to the supply port. As depicted in Figure 12-77,
+outside air can enter chamber B of the pump. When the
+pump begins to operate, the drive shaft rotates and changes
+positions of the vanes and sizes of the chambers. Vane No.
+1 then moves to the right, separating chamber B from the
+supply port. Chamber B now contains trapped air.
+As the shaft continues to turn, chamber B moves downward
+
+Vane 1
+
+Vane 2
+
+mber B
+Cha
+
+Drive shaft
+
+er C
+
+Blue DUMP legend is illuminated on the LDG GR
+DUMP switch.
+
+amb
+
+6.
+
+Supply port
+
+Ch
+
+Pneudraulic pressure actuates the dump valve portion
+of the landing gear selector/dump valve.
+
+amber A
+Ch
+
+5.
+
+Cha
+
+m b er D
+Housing
+
+Pressure port
+Figure 12-77. Schematic of vane-type air pump.
+
+and becomes increasingly smaller, gradually compressing its
+air. Near the bottom of the pump, chamber B connects to the
+pressure port and sends compressed air into the pressure line.
+Then chamber B moves upward again becoming increasingly
+larger in area. At the supply port, it receives another supply
+of air. There are four such chambers in this pump and each
+goes through this same cycle of operation. Thus, the pump
+delivers to the pneumatic system a continuous supply of
+compressed air from 1 to 10 psi. Low-pressure systems are
+used for wing deicing boot systems.
+Pneumatic Power System Maintenance
+Maintenance of the pneumatic power system consists of
+servicing, troubleshooting, removal, and installation of
+components, and operational testing.
+The air compressor’s lubricating oil level should be checked
+daily in accordance with the applicable manufacturer’s
+instructions. The oil level is indicated by means of a sight gauge
+or dipstick. When refilling the compressor oil tank, the oil (type
+specified in the applicable instructions manual) is added until
+the specified level. After the oil is added, ensure that the filler
+plug is torqued, and safety wire is properly installed.
+The pneumatic system should be purged periodically
+to remove the contamination, moisture, or oil from the
+components and lines. Purging the system is accomplished
+by pressurizing it and removing the plumbing from
+various components throughout the system. Removal of
+the pressurized lines causes a high rate of airflow through
+the system, causing foreign matter to be exhausted from
+the system. If an excessive amount of foreign matter,
+particularly oil, is exhausted from any one system, the lines
+and components should be removed and cleaned or replaced.
+Upon completion of pneumatic system purging and after
+12-51
+
+===== PDF PAGE 731 =====
+reconnecting all the system components, the system air
+bottles should be drained to exhaust any moisture or
+impurities that may have accumulated there.
+After draining the air bottles, service the system with nitrogen
+or clean, dry compressed air. The system should then be
+given a thorough operational check and an inspection for
+leaks and security.
+
+12-52
+

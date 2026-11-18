@@ -1,0 +1,522 @@
+AC 43.13-2C, chapter 7 (Oxygen System Installations In Nonpressurized Aircraft), PDF pages 75-88
+
+===== PDF PAGE 75 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 7. OXYGEN SYSTEM INSTALLATIONS IN NONPRESSURIZED
+   AIRCRAFT
+
+   Section 1. General
+
+ 7.1 Purpose. This chapter provides data for acceptable means of gaseous oxygen system
+   installations in nonpressurized aircraft. For other oxygen system installations (e.g., liquid
+   oxygen), installers should contact the responsible Flight Standards District Office
+   (FSDO) for assistance in applying for a Supplemental Type Certificate (STC).
+
+ 7.2 Hazards and Warnings to Consider When Installing an Oxygen System.
+
+7.2.1 Oxygen itself does not burn, but materials that burn in air will burn much hotter and more
+   vigorously in an oxygen-rich environment.
+
+7.2.2 Oil and grease burn with explosive violence in the presence of oxygen.
+
+7.2.3 Rapid release of high-pressure oxygen in the presence of foreign particles can cause
+   temperatures sufficient to ignite combustible materials and materials that would not
+   normally burn in air.
+
+7.2.4 Pressurized oxygen cylinder failures, particularly aluminum-lined composite cylinders,
+   have the potential of producing violent explosions.
+
+ 7.3 Additional References (current editions).
+
+   •  Title 14 CFR parts 23, 43, and 91.
+   •  Civil Air Regulation (CAR) 3, Airplane Airworthiness—Normal, Utility, Acrobatic,
+   and Restricted Purpose Categories.
+   •  CAR 6, Rotorcraft Airworthiness; Normal Category.
+   •  AC 27-1, Certification of Normal Category Rotorcraft.
+   •  AC 43.13-1, Acceptable Methods, Techniques, and Practices—Aircraft Inspection
+   and Repair.
+   •  FAA Order 8300.16, Major Repair and Alteration Data Approval.
+   •  Society of Automotive Engineers (SAE) (now SAE International) Aerospace
+   Information Report (AIR) 825, Oxygen Equipment for Aircraft.
+   •  SAE AIR 822, Oxygen Systems for General Aviation.
+
+   7-1
+
+===== PDF PAGE 76 =====
+7/29/26  AC 43.13-2C
+
+   Section 2. Installation of the Oxygen System
+
+ 7.4 System Requirements. Gaseous oxygen systems may be a higher-pressure system with
+   oxygen stored at 1,850 pounds per square inch (psi) or a low-pressure system with the
+   oxygen stored at 425 psi. All oxygen systems contain a storage tank, a regulation system,
+   and a distribution system. The main difference in system type is in the regulation of the
+   oxygen to the user (see paragraph 7.4.6 below).
+
+7.4.1 Cylinders. Install oxygen cylinders conforming to Interstate Commerce Commission
+   (ICC) requirements for gas cylinders that carry the ICC or Department of Transportation
+   (DOT) 3A, 3AA, or 3HT designation followed by the service pressure metal-stamp on
+   the cylinder.
+
+7.4.2 Tubing/Lines.
+
+   7.4.2.1  In systems with low pressure, use seamless aluminum alloy or equivalent,
+   with having an outside diameter of 5/16 inch and a wall thickness of
+   0.035 inch. Double flare the ends to attach to fittings.
+
+   7.4.2.2  In high-pressure systems (1,800 psi), use 3/16-inch outside diameter (O.D.),
+   0.035-inch wall thickness, seamless copper alloy tubing meeting Specification
+   WWT-779 (as revised) type N, or stainless steel between the filler valve and
+   the pressure-reducing valve. Depending on the process used, silver-solder
+   cone nipples to the ends of the tubing in accordance with American Welding
+   Society Specification C3.4, C3.5, C3.6, or C3.7.
+
+   7.4.2.3  Use 5/16-inch O.D. aluminum alloy tubing after the pressure-reducer
+   (low-pressure side).
+
+   Note 1: Any lines that pass through potential fire zones should be
+   stainless steel.
+
+   Note 2: If lines are located behind upholstery or are not 100 percent
+   visible during normal operations, they should be solid metal lines or
+   high-pressure flexible lines.
+
+7.4.3 Fittings. All fittings must be manufactured from materials that are compatible for use
+   with oxygen systems. Fittings should not be made of mild steel or materials that are prone
+   to corrosion when in contact with another material.
+
+   7.4.3.1  High Pressure. Intercylinder connections are made with regular flared or
+   flareless tube fittings made of stainless steel. Usually, fittings are of the same
+   material as the lines. Mild steel or aluminum alloy fittings with stainless steel
+   lines are discouraged. Titanium fittings should never be used because of a
+   possible chemical reaction and resulting fire.
+
+   7.4.3.2  Low Pressure. Fittings for metallic low-pressure lines are flared or flareless,
+   similar to high-pressure lines. Line assemblies should be terminated with
+
+   7-2
+
+===== PDF PAGE 77 =====
+7/29/26  AC 43.13-2C
+
+   “B” nuts in a similar manner to a manufactured terminating connection.
+   Universal adapters (AN-807) or friction nipples used in conjunction with hose
+   clamps are not acceptable for use in pressurized oxygen systems.
+
+7.4.4 Valves. Each system must contain a slow opening or closing shutoff valve that is
+   accessible to a flight crewmember to turn on and shut off the oxygen supply at the high-
+   pressure source.
+
+7.4.5 Regulators. The cylinder or system pressure is reduced to the individual cabin outlets by
+   means of a pressure-reducing regulator that can be manually or automatically controlled.
+   The regulator should be mounted as close as possible to the cylinders and certificated for
+   aviation environment.
+
+7.4.6 Types of Regulators. The four basic types of oxygen systems, classified according to the
+   type of regulator employed, are:
+
+   7.4.6.1  Continuous-Flow Type. The constant flow type provides the same output
+   pressure or flow regardless of altitude. Continuous-flow oxygen systems
+   provide protection for passengers up to 25,000 feet mean sea level (MSL) and
+   a continuous flow of 100 percent oxygen to the user. They may be automatic
+   or manual in their operation.
+
+   7.4.6.2  Diluter-Demand Type. This type dilutes pure oxygen with ambient air and
+   maintains the proper portion of oxygen in the breathing gas depending on
+   altitude. Oxygen concentration is automatically diluted proportionate to the
+   specific altitude’s predetermined human oxygen consumption requirement.
+   Such systems only supply oxygen, mixed with cabin air, during inhalation.
+
+   7.4.6.3  Demand Type. This type uses high-pressure compressed oxygen that feeds a
+   supply of oxygen to a “high-to-low” pressure regulator at the individual crew
+   station. The regulator, after reducing the higher pressure, automatically cycles
+   low-pressure breathing oxygen to the wearer only on demand. Title 14 CFR
+   § 23.1441 requires aircraft that are certified to operate above 25,000 feet to be
+   equipped with a demand system to supply required crewmembers.
+
+   7.4.6.4  Pressure-Demand Type. This type is not likely to be included on small
+   general-aviation models. Aircraft certified to exceed 40,000 feet must have a
+   pressure-demand system, which delivers pressurized oxygen to pilots, such as
+   a high-altitude oxygen breathing system (above 40,000 feet) using
+   anthropomorphic facial measurements of aircrew to produce a mask that
+   would satisfactorily contain the pressure required to allow breathing under
+   pressure while maintaining an airtight face-seal and also remaining relatively
+   comfortable to the wearer.
+
+   7-3
+
+===== PDF PAGE 78 =====
+7/29/26  AC 43.13-2C
+
+ 7.4.7 Flow Indicators.
+
+   7.4.7.1  A pith-ball flow indicator, vane, wheel anemometer, or lateral pressure
+   indicator that fluctuates with changes in flow, or any other satisfactory flow
+   indicator may be used in a continuous-flow type system.
+
+   7.4.7.2  An Air Force/Navy (AN) flow indicator or equivalent may be used in a
+   diluter-demand type system. Each flow indicator should give a positive
+   indication when oxygen flow is occurring.
+
+ 7.4.8 Relief Valve.
+
+   7.4.8.1  A relief valve is installed in low-pressure oxygen systems to safely relieve
+   excessive pressure, such as that caused by overcharging.
+
+   7.4.8.2  A relief valve is installed in high-pressure oxygen systems to safely relieve
+   excessive pressure, such as that caused by heating.
+
+ 7.4.9 Gauge. Provide a pressure gauge to show the amount of oxygen in the cylinder during
+   flight.
+
+7.4.10 Masks. Only approved masks designed for the particular system should be used.
+
+  7.5 Installation and Design Considerations. Oxygen systems present a hazard. Therefore,
+   follow the precautions and practices listed below.
+
+ 7.5.1 Before working with oxygen equipment, remove oil, grease (including lip salves, hair
+   oil, etc.), and dirt from hands, clothing, and tools.
+
+ 7.5.2 Prior to cutting the upholstery, check the intended route of the system.
+
+   CAUTION: Ensure all system components are kept completely free of oil or
+   grease during installation and locate components so they will not contact or
+   become contaminated by oil or oil lines.
+
+ 7.5.3 Keep open ends of cleaned and dried tubing capped or plugged at all times, except during
+   attachment or detachment of parts. Do not use tape, rags, or paper.
+
+ 7.5.4 Clean all lines and fittings that have not been cleaned and sealed by one of the following
+   methods:
+
+   7.5.4.1  A vapor-degreasing method with stabilized trichloroethylene conforming to
+   Specification MIL-T-7003 or carbon tetrachloride. Blow tubing clean and dry
+   with a stream of clean, dried, water-pumped air or dry nitrogen (water-vapor
+   content of less than 0.005 milligrams per liter of gas at 700 ºF and
+   760 millimeters of mercury pressure).
+
+   7-4
+
+===== PDF PAGE 79 =====
+ 7/29/26  AC 43.13-2C
+
+   7.5.4.2  Flush with naphtha conforming to Specification TT-N-95B; blow clean and
+   dry off all solvent with water-pumped air; flush with anti-icing fluid
+   conforming to Specification TT-1-735A or anhydrous ethyl alcohol; rinse
+   thoroughly with fresh water; and dry thoroughly with a stream of clean, dried,
+   water-pumped air or by heating at a temperature of 250 to 300 ºF for a half
+   hour.
+
+   7.5.4.3  Flush with hot inhibited alkaline cleaner until free from oil and grease. Rinse
+   thoroughly with fresh water, and dry thoroughly with a stream of clean, dried,
+   water-pumped air or by heating at a temperature of 250 to 300 ºF for a half an
+   hour.
+
+ 7.5.5 Install lines, fittings, and equipment above and at least 6 inches away from fuel, oil, and
+   hydraulic systems. Use deflector plates where necessary to keep hydraulic fluids away
+   from the lines, fittings, and equipment.
+
+ 7.5.6 Allow at least a 2-inch clearance between the plumbing and any flexible control cable or
+   other flexible moving parts of the aircraft. Provide at least a 1/2-inch clearance between
+   the plumbing and any rigid control tubes or other rigid moving parts of the aircraft.
+
+ 7.5.7 Allow a 6-inch separation between the plumbing and the flight and engine control cables
+   and electrical lines. When electrical conduit is used, this separation between the plumbing
+   and conduit may be reduced to 2 inches.
+
+ 7.5.8 Route the oxygen system tubing, fittings, and equipment away from hot air ducts and
+   equipment. Insulate or provide space between these items to prevent heating the oxygen
+   system.
+
+ 7.5.9 Mount all plumbing in a manner that prevents vibration and chafing. Support a
+   3/16-inch O.D. copper line each 24 inches and a 3/16-inch O.D. aluminum each 36 inches
+   with cushioned loop-type line support clamps (AN-742) or equivalent.
+
+7.5.10 Locate the oxygen supply valve (control valve) to allow its operation by the pilot during
+   flight. The cylinder shutoff valve may be used as the supply control valve if it is operable
+   from the pilot’s seat. Manifold plug-in type outlets, which are incorporated in automatic
+   systems, may be considered oxygen supply valves since the pilot can control the flow of
+   oxygen by engaging and disengaging the plug-in type of oxygen mask.
+
+7.5.11 Filler connections, if provided, are recommended to be located outside the fuselage skin
+   or isolated in a manner that would prevent leaking oxygen from entering the aircraft. Any
+   nearby source of fuel, oil, or hydraulic fuel should be carefully evaluated under normal or
+   malfunction conditions. Each filler connection should be placarded. Additionally, any
+   valve (aircraft or ground servicing equipment) associated with high pressure should be
+   slow acting.
+
+   Note: Locate the oxygen shutoff valve on or as close as practicable to the cylinder
+   to prevent loss of oxygen due to leakage in the system.
+
+   7-5
+
+===== PDF PAGE 80 =====
+7/29/26  AC 43.13-2C
+
+ 7.6 Equipment Location and Mounting. Prior to commencing the installation, determine
+   the weight/load factors and center of gravity (CG) limits.
+
+7.6.1 Mount the cylinder in the baggage compartment or other suitable location in such a
+   position that the shutoff valve is readily accessible. Provide access to this valve from
+   inside the cabin so that it may be turned on or off in flight.
+
+7.6.2 Fasten the cylinder brackets securely to the aircraft, preferably to a frame member or
+   floorboard using AN bolts with fiber or similar locking nuts. Add sufficient plates,
+   gussets, stringers, cross-bracing, or other reinforcements, where necessary, to provide a
+   mounting that will withstand the inertia forces, stipulated in Chapter 2, Structural Data.
+
+7.6.3 When cylinders are located where baggage or stored materials may damage them, protect
+   them with a suitable guard or covering.
+
+7.6.4 Provide at least 1/2-inch of clear airspace between any cylinder and a firewall or shroud
+   isolating a designated fire zone.
+
+7.6.5 Mount the regulator close to the cylinder to avoid long high-pressure lines.
+
+7.6.6 Store the masks so that there will be a minimum delay in removing and putting them into
+   use.
+
+ 7.7 Thread Compound. Use anti-seize or thread-sealing compound conforming to
+   Specification MIL-PRF-27617F or equivalent.
+
+7.7.1 Do not use compound on aluminum alloy flared tube fittings having straight threads.
+   Proper flaring and tightening should be sufficient to make a flared tube connection
+   leakproof.
+
+7.7.2 Treat all male-tapered pipe threads with antiseize and sealing compound
+   (MIL-PRF-27617F, or polytetrafluorethylene tape A-A-58092) or equivalent.
+
+7.7.3 Apply the compound in accordance with the manufacturer’s recommendation. Make sure
+   that the compounds are carefully and sparingly applied only to male threads, coating the
+   first three threads from the end of the fitting. Do not use compound on the coupling
+   sleeves or on the outside of the tube flares.
+
+ 7.8 Functional Test. Before inspection plates, cover plates, or upholstering are replaced,
+   make a system check that includes at least the following:
+
+7.8.1 Open the cylinder valve slowly and observe the pressure gauge.
+
+7.8.2 Open the supply valve and remove one of the mask tubes and bayonet fittings from one
+   of the masks in the kit. Plug the bayonet into each of the oxygen outlets. A small flow
+   should be noted from each of the outlets. This can be detected by holding the tube to the
+   lips while the bayonet is plugged into an outlet.
+
+   7-6
+
+===== PDF PAGE 81 =====
+7/29/26  AC 43.13-2C
+
+7.8.3 Check the complete system for leaks. This can be done with a soap solution made only
+   from mild (castile) soap or by leak-detector solution supplied by the oxygen equipment
+   manufacturer.
+
+7.8.4 If leaks are found, close the cylinder shutoff valve and reduce the pressure in the system
+   by plugging a mask tube into one of the outlets or by carefully loosening one of the
+   connections in the system. When the pressure has been reduced to zero, make the
+   necessary repairs. Repeat the procedure until no leaks are found in the system.
+
+   WARNING: Never tighten oxygen system fittings with oxygen pressure applied.
+
+7.8.5 Test each outlet for leaks at the point where the mask tube plugs in. This can be done by
+   using a soapy solution over each of the outlets. Use the solution sparingly to prevent
+   clogging the outlet with soap. Remove all residue to prevent the accumulation of dirt.
+
+7.8.6 Examine the system to determine if the flow of oxygen through each outlet is at least
+   equal to the minimum required by the pertinent requirements at all altitudes at which the
+   aircraft is operated. This can be accomplished by one of the following methods:
+
+   7.8.6.1  In a continuous-flow system, when the calibration (inlet pressure versus flow)
+   of the orifices used at the plug-in outlets is known, the pressure in the
+   low-pressure distribution line can be measured at the point subject to the
+   greatest pressure drop. Do this with oxygen flowing from all outlets. The
+   pressure thus measured should indicate a flow equal to or greater than the
+   minimum flow required.
+
+   7.8.6.2  In lieu of the above procedure, the flow of oxygen through the outlet that is
+   subject to the greatest pressure drop may be measured with all other outlets
+   open. Gas meters, rotameters, or other suitable means may be used to measure
+   flows.
+
+   7.8.6.3  The measurement of oxygen flow in a continuous-flow system that uses a
+   manually adjusted regulator can be accomplished at sea level. However, in a
+   continuous-flow system that uses an automatic-type regulator, it may be
+   necessary to check the flow at the maximum altitude that will be encountered
+   during the aircraft’s normal operation. The manufacturer of the particular
+   continuous-flow regulator used should be able to furnish data on the operating
+   characteristics of the regulator from which it can be determined if a flight
+   check is necessary.
+
+   7.8.6.4  Checking the amount of flow through the various outlets in a diluter-demand
+   or straight-demand system is not necessary since the flow characteristics of
+   the particular regulator being used may be obtained from the manufacturer of
+   the regulator. However, in such systems, the availability of oxygen to each
+   regulator should be checked by turning the lever of the diluter-demand
+   regulator to the “100 percent oxygen” position and inhaling through the tube
+   via the mask to determine whether the regulator valve and the flow indicator
+   are operating.
+
+   7-7
+
+===== PDF PAGE 82 =====
+7/29/26  AC 43.13-2C
+
+7.8.7 Provide one of the following acceptable means or equivalent to indicate oxygen flow to
+   each user by:
+
+   1. Listening for audible indication of oxygen flow.
+   2. Watching for inflation of the rebreather or reservoir bag.
+   3. Installing a flow indicator.
+
+ 7.9 Operating Instructions. On placards, provide instructions appropriate to the type of
+   system and masks installed for the pilot. Include in these instructions a graph or a table
+   showing the duration of the oxygen supply for the various cylinder pressures and pressure
+   altitudes (see Table 7-1).
+
+   Table 7-1. Typical Oxygen Duration Table
+
+   Actual Duration in Hours at Various Altitudes
+  Number of  8,000  10,000  12,000  15,000  20,000
+   Persons  Feet  Feet  Feet  Feet  Feet
+   Pilot Only  7.6 hours  7.1 hours  6.7 hours  6.35 hours  5.83 hours
+ Pilot and One
+   5.07 hours  4.74 hours  4.47 hours  4.24 hours  3.88 hours
+   Passenger
+ Pilot and Two
+   3.8 hours  3.55 hours  3.36 hours  3.18 hours  2.92 hours
+  Passengers
+ Pilot and Three
+   3.04 hours  2.84 hours  2.68 hours  2.54 hours  2.34 hours
+   Passengers
+ Pilot and Four
+   2.53 hours  2.37 hours  2.24 hours  2.12 hours  1.94 hours
+  Passengers
+NOTE: The above duration time is based on a fully charged 48 cubic-foot cylinder. For
+duration using a 63 cubic-foot cylinder, multiply any duration by 1.3.
+
+   7-8
+
+===== PDF PAGE 83 =====
+7/29/26  AC 43.13-2C
+
+   Figure 7-1. Typical Floor Mounting
+
+   7-9
+
+===== PDF PAGE 84 =====
+7/29/26  AC 43.13-2C
+
+   Figure 7-2. Typical Baggage Compartment Mounting
+
+   7-10
+
+===== PDF PAGE 85 =====
+7/29/26  AC 43.13-2C
+
+   Figure 7-3. Typical Oxygen Installation in Light Twin Aircraft
+
+   7-11
+
+===== PDF PAGE 86 =====
+ 7/29/26  AC 43.13-2C
+
+   Section 3. Airworthiness Compliance Check Sheet: Oxygen System Installation in
+   Unpressurized Aircraft
+
+ 7.10 General. Oxygen system installations made in accordance with an FAA-approved
+   airframe manufacturer or other FAA-approved installations may be accepted without
+   further investigation. On other installations, the following points should be checked to
+   determine if the installation is satisfactory.
+
+ 7.11 Applicable Federal Aviation Regulations. Determine if the installation complies with
+   the regulations listed in paragraph 7.3.
+
+ 7.12 Structural Requirements.
+
+7.12.1 If changes or alterations of the aircraft structure are made (mounting of oxygen cylinder),
+   determine if the original strength and integrity of the structure is retained.
+
+7.12.2 If gages are added to the instrument panel or an outside filler valve is installed on the
+   fuselage, determine if the structural integrity of the panel and airframe or its supporting
+   structure is retained.
+
+7.12.3 Determine if the extent of the modification has affected the CG of the aircraft evaluated.
+
+7.12.4 Check whether all lines are properly routed and supported.
+
+ 7.13 Hazards to the Aircraft or its Occupants. Determine if the design of the oxygen system
+   is evaluated to ensure that the aircraft and its occupants are safe from hazards identified
+   in paragraph 7.2.
+
+ 7.14 Operating Aspects.
+
+7.14.1 When required by the operating rules for the use of supplemental oxygen, determine if
+   the system’s capacity is sufficient to supply oxygen to all combinations of crew and
+   passengers.
+
+7.14.2 Determine if the oxygen system provides the required flow.
+
+7.14.3 Determine if the oxygen regulator controls are accessible to a member of the flightcrew
+   in flight.
+
+7.14.4 Determine if there is a means, readily available to the crew in flight, to turn on and shut
+   off the oxygen supply at the high-pressure source.
+
+7.14.5 Check whether there is a means to allow the crew to readily determine during flight the
+   quantity of oxygen available in each source of supply.
+
+   7-12
+
+===== PDF PAGE 87 =====
+7/29/26  AC 43.13-2C
+
+7.15 Detail Design Standards. Determine if:
+
+   1. All parts are suitable for use with oxygen.
+   2. The regulator is located as close as physically possible to the oxygen cylinder and
+   minimizes the use of fittings.
+   3. No solid metal lines are 100 percent visible during normal operation.
+   4. Each breathing device has a device attached that visually shows the flow of oxygen.
+   5. The lines that pass through potential fire zones are stainless steel.
+   6. When oxygen system components are added to the baggage compartments, there are
+   provisions to protect the system components from shifting cargo.
+   7. Where oxygen components are installed, the compartment is placarded against the
+   storage of oil or hydrocarbons.
+   8. A smoke detector is installed where oxygen cylinders are installed in a closed,
+   nonaccessible compartment.
+   9. The cargo area weight limitations placard is updated.
+   10. All oxygen outlets are placarded.
+   11. “No Smoking When Oxygen Is In Use” placards and other appropriate placards
+   (i.e., operation instructions) are visible to the crew and occupants of the aircraft.
+
+7.16 Instructions for Continued Airworthiness (ICA). Determine if:
+
+   1. There are written instructions concerning system operation, maintenance, and
+   cylinder changing procedures.
+   2. There are written instructions in the use of the oxygen equipment in the Aircraft
+   Flight Manual (AFM) or placards.
+
+   Note: Any changes to the AFM must be approved by the FAA.
+
+   3. There are written inspection and test schedules and procedures.
+   4. Mechanical drawings and wiring diagrams are available, as required.
+   5. Written instructions are available concerning oxygen cylinder hydrostatic testing
+   requirements and cylinder replacement requirements.
+   6. There is a scheduled (annual) check of a constant flow system manifold output
+   pressure for recommended output pressure.
+   7. The guidance contained in AC 43.13-1, Chapter 9, Aircraft Systems and Components,
+   paragraphs 9-47 through 9-51 is considered in the design of the oxygen maintenance
+   program.
+
+   7-13
+
+===== PDF PAGE 88 =====
+7/29/26  AC 43.13-2C
+
+7.17 Recordkeeping. Determine if:
+
+   1. A maintenance record entry has been made. Refer to 14 CFR § 43.9.
+   2. The equipment list and Weight and Balance (W&B) have been revised.
+
+   7-14
+

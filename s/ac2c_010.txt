@@ -1,0 +1,366 @@
+AC 43.13-2C, chapter 9 (Glider And Banner Tow-Hitch Installations), PDF pages 102-114
+
+===== PDF PAGE 102 =====
+7/29/26  AC 43.13-2C
+
+   CHAPTER 9. GLIDER AND BANNER TOW-HITCH INSTALLATIONS
+
+ 9.1 Purpose. This chapter contains design and installation information for banner and glider
+   tow hitches. Guidance for inspection, service, and continuous airworthiness requirements
+   for the hitches are also addressed in this chapter.
+
+ 9.2 Hazards and Warnings. The direction and maximum arc of displacement of banner
+   towline loads occur within a more limited rearward cone of displacement than do glider
+   towline loads (see Figures 9-1, Glider Tow Angle, and 9-2, Banner Tow Angle). Hitches
+   that meet the banner tow criteria of this chapter may not be suitable for glider towing.
+   Due to the basic aerodynamic differences between the two objects being towed, glider
+   and banner tow-hitch installations are treated separately with regard to loading angles.
+
+ 9.3 References. This chapter will occasionally reference manufacturers’ documents, certain
+   parts of 14 CFR, and certain FAA ACs. It is the installer’s responsibility to ensure the
+   latest revisions of these documents are used as reference material. Refer to Civil Air
+   Regulation (CAR) 6, Rotorcraft Airworthiness; Normal Category, and Order 8900.1,
+   Volume 8, Chapter 5, Section 2, Changes to Special Purpose for Restricted Aircraft.
+
+ 9.4 Installation Considerations.
+
+9.4.1 Weight and Balance (W&B). In most cases, the weight of the tow-hitch assembly will
+   affect the aft center of gravity (CG) location. To ensure that the possibility of an adverse
+   effect caused by the installation has not been ignored, enter all pertinent computations in
+   the aircraft W&B records in accordance with the provisions contained in 14 CFR
+   § 43.5(c). The requirements of 14 CFR § 43.5(a) and (b) should also be addressed for
+   maintenance record entries and repair and alteration forms.
+
+9.4.2 Equipment List. The aircraft equipment list should be updated to reflect any tow
+   equipment installations. Consideration should also be given to adding appropriate
+   revisions to the aircraft’s pilot’s operating handbook (POH) or flight manual, as required.
+
+9.4.3 Corrosion Protection. Tow hitches are traditionally simple mechanical devices; however,
+   improper care may lead to hazardous conditions for the aircraft operator. The aft, external
+   location of tow hitches expose them to the elements, and proper corrosion protection
+   methods should be employed to prevent improper operation or malfunction. Refer to the
+   manufacturer’s documents or AC 43.13-1, Acceptable Methods, Techniques, and
+   Practices—Aircraft Inspection and Repair, Chapter 6, Corrosion, Inspection, and
+   Protection, for some additional corrosion protective measures that may be used.
+
+ 9.5 Fabrication and Installation Procedures.
+
+9.5.1 Methods. Accomplish the installation of tow hitches using the manufacturer’s data or that
+   data previously approved by a representative of the Administrator, when available, such
+   as a Supplemental Type Certificate (STC) or a field approval. Installations requiring
+   fabrication of brackets, parts, fittings, etc., should be accomplished using data in the form
+   of ACs, such as AC 43.13-1, to determine material requirements, load requirements, and
+   the type and size of hardware used.
+
+   9-1
+
+===== PDF PAGE 103 =====
+7/29/26  AC 43.13-2C
+
+9.5.2 Structural Requirements. The structural integrity of a tow-hitch installation on an aircraft
+   is dependent upon its intended usage.
+
+9.5.3 Attachment Points. Tow-hitch mechanisms are characteristically attached to or at tiedown
+   points or tail wheel brackets on the airframe. These are points where the design load-
+   bearing qualities may be sufficient for towing loads. Keep the length from the airframe
+   attachment point to the tow hook at a minimum as the loads on the attachment bolts are
+   multiplied by increases in the attachment arm.
+
+9.5.4 Glider Tow-Hitch Load Testing.
+
+   9.5.4.1  Towline Assembly. Protection for the tow-plane is provided by requiring use
+   of a towline assembly that will break prior to structural damage occurring to
+   the tow-plane. The normal tow load imposed on the hitch rarely exceeds
+   80 percent of the weight of the glider. Therefore, the towline assembly design
+   load for a 1,000-pound glider could be estimated at 800 pounds. By
+   multiplying the estimated design load by 1.5 (to provide a safety margin), we
+   arrive at a limit load value of 1,200 pounds. The 1,200-pound limit load value
+   is used in static testing or analysis procedures per paragraph 9.6 to prove the
+   strength of the tow hook installation. When the hook and its attachment to the
+   aircraft structure have been proven to withstand the limit load (1,200 pounds
+   in this example), then the “maximum” breaking strength of the towline
+   assembly is established at the design load of 800 pounds. Thus, the towline
+   will break well before structural damage occurs to the tow-plane.
+
+   Figure 9-1. Glider Tow Angle
+
+   Figure 9-2. Banner Tow Angle
+
+   9-2
+
+===== PDF PAGE 104 =====
+7/29/26  AC 43.13-2C
+
+   9.5.4.2  Load Carrying Capabilities. Another approach can be applied if the limit
+   load carrying capabilities of a tow hook and fuselage are known. In this case,
+   the known load value can be divided by 1.5 to arrive at the design load limits.
+   For example, if the tow hook and fuselage limit loads are known to be
+   1,800 pounds, divide this by 1.5 (1,800 ÷ 1.5 = 1,200) and we arrive at a
+   design load value of 1,200 pounds. Thus, if a towline assembly rated at
+   1,200 pounds is used, it will break before reaching the structural limits of the
+   hook and attaching structure.
+
+   9.5.4.3  Maximum Towline Breaking Strength. When considering tow hook
+   installations, one may establish maximum towline breaking strength by:
+
+   1. Dividing the known limit load capabilities of the fuselage and tow hook
+   installation by 1.5; or
+   2. Knowing the design load needs of the towline assembly and multiplying
+   by 1.5 to arrive at a limit load. Then, through analysis or static testing,
+   determine that the hook and fuselage are capable of towing the load.
+
+   9.5.4.4  Banner Tow Hitches. Install and test the hitch to support a limit load equal to
+   at least two times the operating weight of the banner.
+
+   9.5.4.5  Multiple Hitches. Multiple tow hitches are sometimes used on banner tow
+   aircraft. These installations should be evaluated individually for approval.
+
+ 9.6 Structural Testing. When installations are made on an aircraft using brackets that have
+   not been previously approved, some structural testing may be required. Adequacy of the
+   aircraft structure to withstand the required loads can be determined by either static testing
+   or structural analysis.
+
+9.6.1 Static Testing. When using static tests to verify structural strength, subject the tow hitch
+   to the anticipated limit load. Aircraft tow hitches used for banner towing shall be tested a
+   minimum of two times the weight of the heaviest banner to be towed, using the cone
+   angle shown in Figure 9-2. Aircraft towline used for glider towing shall be tested to a
+   minimum load of approximately 80 percent of the weight of the heaviest glider to be
+   towed using the cone angle shown in Figure 9-1. Static testing should be done in
+   accordance with the procedures in paragraph 2.6.
+
+9.6.2 Structural Analysis. If the local fuselage structure is not substantiated by static test for the
+   proposed tow load using a method that experience has shown to be reliable, subject the
+   fuselage to engineering analysis to determine that the local structure is adequate. Use a
+   fitting factor of 1.15 or greater in the loads for this analysis.
+
+ 9.7 Angles of Tow. Tests should be conducted on the system at various tow angles to ensure
+   that:
+
+   1. There is no interference with the tail wheel or adjacent structure. Tow hitches
+   mounted to tail wheel springs or trusses, as in Figures 9-6, Conventional Gear
+
+   9-3
+
+===== PDF PAGE 105 =====
+7/29/26  AC 43.13-2C
+
+   Aircraft—Shock Strut Type Tailwheel, and 9-7, Conventional Gear Aircraft—
+   Tubular Spring Type Tailwheel, which travel up and down with the tail wheel, should
+   be tested under load to ensure they do not contact any control surfaces.
+   2. The towline clears all fixed and movable surfaces at the maximum lateral and vertical
+   cone of displacement and full surface travel.
+   3. The tow hitch does not swivel. Experience has shown swiveling could result in
+   fouling both the release line and towline during operations by the tow-plane.
+   4. The opened jaw of the hitch does not strike any portion of the aircraft.
+   5. The hitch is able to release under load at all tow angles.
+
+ 9.8 Placards. A placard should be installed in a conspicuous place in the flight deck to notify
+   the pilot of the structural design limits of the tow system. The following are examples of
+   placards to be installed:
+
+   •  For glider tow: “Glider towline assembly breaking strength not to exceed
+   _____*______ pounds.” (*Value established per paragraph 9.5.4.)
+   •  For banner tow: “Tow hitch limited to banner maximum weight of _____**_____
+   pounds.” (**Banner hitch limitations are one-half the load applied per
+   paragraph 9.5.4.)
+
+ 9.9 Installation Procedures―Types of Hitches. Two types of glider tow hooks are used in
+   the United States: the American-made Schweizer and the European-made TOST brand.
+   The FAA has coordinated with Schweizer in developing detailed inspection procedures
+   and identification of life-limiting parts. These procedures and specifications are identified
+   in paragraph 9.9.1. The European-made TOST releases are German-manufactured and
+   approved by the German Civil Aviation Authority (CAA). They are available in various
+   types and configurations. Two types of TOST releases can be found on U.S.-operated
+   gliders. The “E-type” release mechanism is commonly used as a nose release for
+   sailplanes and as a tail release on towing aircraft. The “G-type” release mechanism is
+   typically used as a CG release for winch launching. TOST has provided installation,
+   inspection, and maintenance instructions for its systems. An overview of these systems is
+   identified in paragraph 9.9.2. Regardless of the brand used, all tow hooks should be
+   inspected for proper operation daily prior to tow activity.
+
+9.9.1 Schweizer Hitch: Installation and Maintenance. The Schweizer is a simple over center
+   L-hook type with a rubber tension block to preload the release lever. It is eligible for
+   installation on several models of Cessna and Piper aircraft by STC and has been installed
+   on many other aircraft using the field approval process. It uses a tow rope with a single
+   round steel ring attaching to the hook. While this hitch is a simple mechanism, proper
+   maintenance and frequent inspections are necessary to ensure proper operation. All initial
+   installations should be proof tested. The proof test entails a total of two release-effort
+   readings taken at the 1D112-8 arm assembly: one reading while a 600-pound load is
+   applied to the hook and the other with a zero static load is applied to the hook. See
+   Figure 9-10, Schweizer Type Hitch. The following additional procedures are
+
+   9-4
+
+===== PDF PAGE 106 =====
+7/29/26  AC 43.13-2C
+
+   recommended as a minimum and should be performed at each 100-hour/annual
+   inspection unless otherwise stated.
+
+   9.9.1.1  Inspect the entire tow hook system for loose or worn pivot pins, damaged
+   fasteners, elongated holes, cracks, corrosion, surface damage, excessive wear,
+   deformed parts, frayed release cables, rubber block damage, and freedom of
+   operation. The mounting location of the hitches leaves them exposed to
+   sunlight and the elements. Ozone and heat can have a detrimental effect on the
+   rubber block. Look for excessive hardness of the rubber block as well as a
+   permanent indentation caused by the contact with the hook lever.
+
+   9.9.1.2  Perform a closing check by verifying that a sufficient closing force is required
+   to compress the rubber block with the pivot hook. The pivot hook should
+   apply sufficient locking load against the latch arm after the latch arm is
+   engaged. Verify that the movement of the latch arm toward the release
+   position causes additional compression of the rubber block. The original shape
+   of the rubber block must be maintained. A closing check should be performed
+   during each hookup of the tow rope.
+
+   9.9.1.3  Perform a no-load pull test at the release arm to verify that a load of 4 to
+   10 pounds of pull is required to release the lever. See Figure 9-10. If the
+   release load cannot be obtained within the specified range, the rubber block is
+   worn or deformed and should be replaced with a serviceable block.
+
+   Note: The above procedures, when properly implemented, help to
+   ensure proper operation of the hitch. When the glider under tow
+   operates above a certain angle to the tow-plane, the ring may slide
+   upwards on the hook causing excessive load on the hook and difficulty
+   in releasing the tow rope ring. The closing check and pull test should
+   be performed with a standard tow ring in the hook. Tow-plane and
+   glider pilots should follow recommended launch and recovery
+   procedures to help prevent this occurrence.
+
+9.9.2 TOST Hitch. The TOST release is constructed using a steel housing that contains the
+   hook mechanism surrounded by a steel ring. The tow rope attaches to a connecting ring
+   pair: an oblong ring and a round ring looped through each other. This ring pair must meet
+   required specifications. Welded ring pairs are prohibited. The ring surrounding the hook
+   mechanism, along with the double rings on the tow rope, allows for ease of tow release at
+   high angles (see Figure 9-9, TOST Double Tow Rings). The life-limiting part is the
+   release spring with a life expectancy of about 10,000 actuations or 2,000 launches. This
+   assumes about five actuations in normal flight operations. If more actuations occur per
+   launch, the time between overhaul is reduced accordingly. Once life expectancy is met,
+   the release must be returned to the manufacturer or TOST representative for complete
+   reconditioning and regulatory check. TOST recommends a general overhaul after 4 years;
+   its safety and operating life can only be guaranteed by keeping the prescribed
+   maintenance intervals. Installation of the TOST release should be accomplished using the
+   manufacturer’s brackets where possible. Use of any other installation equipment may
+
+   9-5
+
+===== PDF PAGE 107 =====
+ 7/29/26  AC 43.13-2C
+
+   require additional evaluation. In all cases, the installation, adjustment, maintenance,
+   inspection, and overhaul intervals should be accomplished in accordance with the latest
+   revisions of the TOST installation and operating manuals for tow releases.
+
+   WARNING NOTE: Because of the difference in the size of the steel rings, under
+   no circumstances should the Schweizer single ring rope be used with the TOST
+   hook nor the TOST double ring rope with the Schweizer hook.
+
+ 9.10 Tow Release Mechanism.
+
+9.10.1 Release Lever. A placard indicating the direction of operation should be installed to allay
+   the possibility of confusion or inadvertent operation, and the design of the release lever
+   should provide the following:
+
+   9.10.1.1  Convenience in operation.
+
+   9.10.1.2  Smooth and positive release operation.
+
+   9.10.1.3  Positioned so as to permit the pilot to easily exert a straight pull on the release
+   handle.
+
+   9.10.1.4  Sufficient handle travel to allow for normal slack and stretch of the release
+   cable.
+
+   9.10.1.5  A sufficient handle/lever ratio to ensure adequate release force when the tow
+   line is under high loads (see Figure 9-3, Typical Tow-Hitch Release Handle).
+
+   9.10.1.6  Protection of cables from hazards, such as:
+
+   •  Wear and abrasion during normal operation.
+   •  Binding where cables pass through fairleads, pulleys, etc.
+   •  Accidental release.
+   •  Interference with or by other aircraft components.
+   •  Freezing and moisture accumulation when fixed or flexible tubing guides
+   are used.
+
+   9-6
+
+===== PDF PAGE 108 =====
+ 7/29/26  AC 43.13-2C
+
+   Figure 9-3. Typical Tow-Hitch Release Handle
+
+9.10.2 Test of Release Lever. Depending on the installation, the Schweizer type hitch is
+   susceptible to excessive release loads when the tow cable is at high positive angles and
+   should be tested before each tow in accordance with the procedure in paragraph 9.9.
+
+9.10.3 Release Cable. Representative size and strength characteristics of steel release cable are
+   as shown in Table 9-1; however, it is recommended that all internally installed release
+   cables be 1/16 inch or larger.
+
+   Table 9-1. Representative Steel Cable Qualities
+
+   Nonflexible Carbon Steel  Flexible Carbon Steel
+   1 x 7 and 1 x 19  7 x 7 and 7 x 19
+  Diameter  (MIL-DTL-87161)  (MIL-DTL-83420)
+   Inches
+   Breaking Strength  Pounds  Breaking Strength  Pounds
+   (pounds)  100 Feet  (pounds)  100 Feet
+   1/32  185  0.25  -  -
+   3/64  375  0.55  -  -
+   1/16  500  0.85  480  0.75
+   5/64  800  1.40  -  -
+   3/32  1,200  2.00  920  1.60
+
+   9-7
+
+===== PDF PAGE 109 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-4. Tricycle Gear Aircraft
+
+   Figure 9-5. Conventional Gear Aircraft—Leaf Spring Type Tailwheel
+
+   9-8
+
+===== PDF PAGE 110 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-6. Conventional Gear Aircraft—Shock Strut Type Tailwheel
+
+   Figure 9-7. Conventional Gear Aircraft—Tubular Spring Type Tailwheel
+
+   9-9
+
+===== PDF PAGE 111 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-8. Typical TOST Hitch
+
+   Figure 9-9. TOST Double Tow Rings
+
+   9-10
+
+===== PDF PAGE 112 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-10. Schweizer Type Hitch
+
+   9-11
+
+===== PDF PAGE 113 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-11. Typical Multiple Hitch for Banner Tow
+
+   Figure 9-12. Typical TOST Mount for Tricycle Gear Aircraft
+
+   9-12
+
+===== PDF PAGE 114 =====
+7/29/26  AC 43.13-2C
+
+   Figure 9-13. Typical TOST Conventional Leaf Spring Mount
+
+   9-13
+

@@ -1,0 +1,1092 @@
+AC 43.13-1B Chg 1, chapter 5 (Nondestructive Inspection (Ndi)), PDF pages 276-306
+
+===== PDF PAGE 276 =====
+9/8/98  AC 43.13-1B
+
+   (1) The first magnetization is accomplished for a short time in one direction followed
+by a second at 90 degrees to the first for the same length of time. This procedure must be
+repeated for whatever period of time is needed until the cure prevents particle mobility.
+Magnetization in two directions 90 degrees apart ensures formation of indications at
+discontinuities in all directions inside the holes.
+
+   (2) After curing, the rubber plugs, which are exact replicas of the holes, are removed
+and visibly examined for indications which will appear as colored lines against the lighter
+colored background of the silicone rubber. Location of any discontinuities or other surface
+imperfections in the holes can be determined from the location of the indications on the plugs.
+The magnetic rubber inspection method is covered in detail in Air Force Technical Order
+(TO) 33B-1-1, section XI.
+
+   c. Critical Examination for Sharp Radii Parts. A critical examination is required for
+cracks in sharp radii; such as threaded parts, splines, gear teeth roots, and abrupt changes in
+sections, that cause obscuring and nonrelevant indications during normal examination practices.
+The procedure provided herein is the most sensitive method for detecting the early beginnings of
+in-service fatigue cracks in the sharp, internal radii of ferromagnetic parts. Magnetic particle
+examination equipment may be used; however, alternating fields are not reliable to provide the
+necessary high level of residual magnetism. Optical aids are necessary to realize the maximum
+sensitivity provided by this magnetic particle procedure. Low-power (10x-30x) binocular
+microscopes are recommended. As a minimum, pocket magnifiers of 7 to 10 power may be used
+with the following procedure.
+
+   (1) Thoroughly clean the part at the sharp radii and fillets where soils, greases, and
+other contaminants tend to accumulate and at other places where they might be overlooked
+during a casual or hasty examination.
+
+   (2) The residual method should be used as an aid in particular problem areas, even
+though it is not considered the best practice in most of the instances. The conventional wet
+continuous methods should be used initially for overall examination and the residual technique
+should be applied only for supplemental, local examination of the sharp radii. It should not be
+applied except in those cases where nonrelevant indications have proven to be a problem in the
+initial examination.
+
+   (3) Methods of magnetization should be done according to standard procedures;
+however, alternating fields should not be used, and the level of magnetizing force imposed
+should usually be increased above the normal levels to ensure a higher residual field within the
+part.
+
+   (4) Following magnetization, apply particles in liquid suspension. The application
+should be liberal and in a manner to cause maximum particle buildup. Immersion of small parts
+such as rod end fittings in a container of suspension, which has just been stirred for about 30
+seconds, is an excellent method.
+
+   (5) Check for the presence of particle accumulation in the sharp radii. It is necessary
+that the level of magnetization and the particle application result in the formation of nonrelevant
+
+Par 5-50  Page 5-29
+
+===== PDF PAGE 277 =====
+9/8/98  AC 43.13-1B
+
+indications. Lack of indications will require remagnetization to a higher level, more care in
+applying the particles, or both.
+
+   (6) Wash the parts in a clean suspension vehicle only enough to remove the weakly held
+particle accumulations causing the nonrelevant indications. Particles at true cracks will be more
+strongly held and will persist if the washing is gently done. This can be accomplished by flowing
+or directing a stream of liquid vehicle over the part, or for a small component, by gently stirring
+in a container of the vehicle. Closely observe the removal of the nonrelevant particle
+accumulations in the region to be examined to avoid excessive washing. If washing is prolonged
+beyond the minimum needed to remove the nonrelevant indications, the small defect indications
+may also be washed away. A few trials will help to develop the best method and time required
+for washing.
+
+   (7) Check for crack indications with optical magnification and ample lighting. The
+smaller indications that are attainable by this procedure cannot be reliably seen or evaluated with
+the unaided eye.
+
+5-51. DEMAGNETIZATION AND POST-EXAMINATION CLEANING. Parts should be
+magnetized longitudinally last before demagnetizing. Circular magnetism cannot be read with a
+field meter since it is an internal magnetic field. However, if the last shot, was a coil shot the
+meter can read it if a magnetic field is present.
+
+   a. Demagnetization. Demagnetize between successive magnetization of the same part, to
+allow finding defects in all directions, and whenever the residual magnetism interferes with the
+interpretation of the indications. Also, demagnetize all parts and materials after completion of
+magnetic particle examination. Test all parts at several locations and parts for residual
+magnetism of complex configuration at all significant changes in geometry. Repeat
+demagnetization if there is any appreciable deflection of the field indicator needle.
+
+   (1) AC method. Hold the part in the AC demagnetizing coils and then move the part
+slowly and steadily through the coils and approximately 3 to 4 feet past the coils. Repeat this
+process until the part loses its residual magnetism. Rotate and tumble parts of complex
+configuration as they are passed through the coils.
+
+   (2) DC method. Place the part in the same relative position as when magnetized and
+apply reversing DC current. Gradually reduce the current to zero and repeat the process until the
+residual magnetic field is depleted.
+
+   b. Post-Examination Cleaning.
+
+   (1) When oil suspensions are used, solvent clean or remove the part until all magnetic
+particles and traces of oil are removed.
+
+   (2) When parts or materials have been examined using water suspension methods,
+completely remove the water by any suitable means, such as an air blast, to ensure that the parts
+are dried immediately after cleaning. Thoroughly rinse the part with a detergent-base cleaner
+until all magnetic particles are removed. Then rinse in a solution of water and rust inhibitor.
+
+Par 5-50  Page 5-30
+
+===== PDF PAGE 278 =====
+9/8/98  AC 43.13-1B
+
+   (3) For cadmium-plated parts an air water vapor blast may be used to remove any
+remaining magnetic particle residue.
+
+   (4) After final cleaning and drying, use temporary protective coatings, when necessary,
+to prevent corrosion.
+
+   (5) After magnetic particle examination has been completed, restore any removed
+finishes according to the manufacturer’s repair manual.
+
+5-52.–5-59. [RESERVED.]
+
+Par 5-51  Page 5-31
+
+===== PDF PAGE 279 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 5. PENETRANT INSPECTION
+
+5-60. GENERAL.
+
+   a. Penetrant inspection is used on nonporous metal and nonmetal components to find
+material discontinuities that are open to the surface and may not be evident to normal visual
+inspection. The part must be clean before performing a penetrant inspection. The basic purpose
+of penetrant inspection is to increase the visible contrast between a discontinuity and its
+background. This is accomplished by applying a liquid of high penetrating power that enters the
+surface opening of a discontinuity. Excess penetrant is removed and a developer material is then
+applied that draws the liquid from the suspected defect to reveal the discontinuity. The visual
+evidence of the suspected defect can then be seen either by a color contrast in normal visible
+white light or by fluorescence under black ultraviolet light. (See Figure 5-13.)
+
+   b. The penetrant method does not depend upon ferromagnetism like magnetic particle
+inspection, and the arrangement of the discontinuities is not a factor. The penetrant method is
+effective for detecting surface defects in nonmagnetic metals and in a variety of nonmetallic
+materials. Penetrant inspection is also used to inspect items made from ferromagnetic steels and
+its sensitivity is generally greater than that of magnetic particle inspection. Penetrant inspection
+is superior to visual inspection but not as sensitive as other advanced forms of tests for detection
+of in-service surface cracks.
+
+   NOTE: Visible penetrant is often used interchangeably with fluorescent
+   penetrant. However the chemicals within most common red dye penetrants
+   will neutralize the fluorescence of the chemicals used in that method and
+   possibly mask a defect. Fluorescent Penetrant Inspection (FPI) should not be
+   accomplished on parts that have been previously inspected with visible dye.
+   Type II (visible dye) should not be used for final acceptance of aerospace
+   products and should not be used prior to a type I (FPI) inspection of the
+   same surface.
+
+   c. The major limitations of the penetrant inspection is that it can detect only those
+discontinuities that are open to the surface; some other method must be used for detecting
+subsurface defects. Surface roughness or porosity can limit the use of liquid penetrants. Such
+surfaces can produce excessive background indications and interfere with the inspection.
+Penetrant inspection can be used on most airframe parts and assemblies accessible to its
+application. The basic steps to perform penetrant inspections are briefly described in the
+following paragraphs.
+
+Par 5-60  Page 5-32
+
+===== PDF PAGE 280 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-13. PENETRANT AND DEVELOPER ACTION
+
+5-61. EQUIPMENT USED IN THE PENETRANT INSPECTION PROCESS. Equipment
+varies from simple aerosol cans used in portable systems to fully automated computer-controlled
+systems. Whether fluorescent or visible penetrants are used, different penetrant bases are
+available but may require different cleaning methods. Water-washable penetrants can often be
+removed by a simple water washing process, whereas oil-base penetrants may require special
+solvents for removal. Some oil-base penetrants have emulsifiers, either added to the penetrant
+before it is applied or added afterwards, that allow water washing to be used. Developers used,
+can be applied either by a wet or dry bath. Therefore, each penetrant inspection process may
+require different cleaning facilities and procedures. (See Table 5-3.)
+
+Par 5-60  Page 5-33
+
+===== PDF PAGE 281 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 5-3. CLASSIFICATION OF PENETRANT INSPECTION MATERIALS
+   COVERED BY MIL-I-25135E
+
+  PENETRANT SYSTEMS  DEVELOPERS  SOLVENT REMOVERS
+Type I  Fluorescent  Form a  Dry Powder  Class (1)  Halogenated
+   Dye  (chlorinated)
+Type II  Visible Dye  Form b  Water Soluble Class (2)  Nonhalogenated
+   (nonchlorinated)
+Type III  Visible and  Form c  Water  Class (3)  Specific
+   Fluorescent  Suspendible  Application
+   Dye
+   Form d  Nonaqueous
+   (dual mode)
+   Form e  Specific
+   Application
+Method A  Water
+   Washable
+Method B  Post
+   Emulsifiable,
+   Lipophilic
+Method C  Solvent
+   Removable
+Method D  Post
+   Emulsifiable,
+   Hydrophilic
+Sensitivity  Ultralow
+Level ½
+Sensitivity  Low
+Level 1
+Sensitivity  Medium
+Level 2
+Sensitivity  High
+Level 3
+Sensitivity  Ultrahigh
+Level 4
+
+5-62. BASIC STEPS TO PERFORM PENETRATION INSPECTION. Table 5-4 shows a
+general process, in the procedures flow sheet, for commonly used penetrant inspection processes.
+It is important to ensure that parts are thoroughly cleaned and dried before doing penetrant
+inspection. All surfaces to be inspected should be free of contaminants, paint, and other coatings
+that could prevent penetrant from entering discontinuities. Table 5-5 shows applications of
+various methods of precleaning for penetrant inspection.
+
+Par 5-61  Page 5-34
+
+===== PDF PAGE 282 =====
+9/8/98  AC 43.13-1B
+
+ TABLE 5-4. FLUORESCENT AND VISIBLE PENETRANT INSPECTION GENERAL
+   PROCESSING PROCEDURES FLOWSHEET
+
+Par 5-62  Page 5-35
+
+===== PDF PAGE 283 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 5-5. PRE-CLEANING METHODS FOR PENETRANT INSPECTION
+
+   METHOD  USE
+Mechanical Methods
+Abrasive tumbling  Removing light scale, burrs, welding flux, braze stop-off, rust,
+   casting mold, and core material; should not be used on soft
+   metals such as aluminum, magnesium, or titanium.
+Dry abrasive grit blasting  Removing light or heavy scale, flux, stop-off, rust, casting mold
+   and core material, sprayed coatings, carbon deposits: In general,
+   any brittle deposit. Can be fixed or portable (may peen metal
+   over defect).
+Wet abrasive grit blast  Same as dry except, where deposits are light, better surface and
+   better control of dimensions are required.
+Wire brushing  Removing light deposits of scale, flux, and stop-off (may mask
+   defect by displacing metal).
+High pressure water and  Ordinarily used with an alkaline cleaner or detergent; removing
+steam  typical machine shop contamination, such as cutting oils,
+   polishing compounds, grease, chips, and deposits from electrical
+   discharge machining; used when surface finish must be
+   maintained.
+Ultrasonic cleaning  Ordinarily used with detergent and water or with a solvent;
+   removing adhering shop contamination from large quantities of
+   small parts.
+Chemical Methods
+Alkaline cleaning  Removing braze stop-off, rust, scale, oils, greases, polishing
+   material, and carbon deposits; ordinarily used on large articles
+   where hand methods are too laborious; also used on aluminum
+   for gross metal removal.
+Acid cleaning  Strong solutions for removing heavy scale; mild solutions for
+   light scale; weak (etching) solutions for removing lightly
+   smeared metal.
+Molten salt bath cleaning  Conditioning and removing heavy scale; not suitable for
+   aluminum, magnesium, or titanium.
+Solvent Methods
+Solvent wiping  Same as for vapor degreasing except a hand operation; may
+   employ nonhalogenated (nonchlorinated) solvents; used for
+   localized low-volume cleaning.
+
+Par 5-62  Page 5-36
+
+===== PDF PAGE 284 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   CAUTION: Improper cleaning methods can cause severe damage or
+   degradation of the item being cleaned. Personnel must select and apply
+   cleaning processes in accordance with aircraft, engine, propeller, or
+   appliance manufacturer’s recommendations.
+
+5-63. CLEANERS AND APPLICATIONS. Use a cleaner to remove contaminants from parts
+prior to the application of penetrant inspection materials. After the inspection is completed,
+penetrant inspection material residues are removed. The following cleaners are commonly used
+during the penetrant inspection process.
+
+   a. Detergents. Detergent cleaners are water-based chemicals called surfactants, which
+surround and attach themselves to particles of contaminants allowing them to be washed away.
+
+   b. Solvents. Solvents dissolve contaminants such as oils, greases, waxes, sealants, paints,
+and general organic matter so they can easily be wiped away or absorbed on a cloth. They are
+also used to remove Method C penetrant material prior to developer application.
+
+   c. Alkalis. Alkaline cleaners are water solutions of chemicals that remove contaminants
+by chemical action or displacement rather than dissolving the contaminant.
+
+   d. Paint Removers. The general types of removers used for conventional paint coatings
+are solvent, bond release, and disintegrating.
+
+   e. Salt Baths. Molten salt baths are used in removing heavy, tightly-held scale and oxide
+from low alloy steels, nickel, and cobalt-based alloys, and some types of stainless steel. They
+cannot be used on aluminum, magnesium, or titanium alloys.
+
+   f. Acids. Solutions of acids or their salts are used to remove rust, scale, corrosion
+products, and dry shop contamination. The type of acid used and its concentration depends on
+the part material and contaminants to be removed.
+
+   g. Etching Chemicals. Etching chemicals contain a mixture of acids or alkalis plus
+inhibitors. They are used to remove a thin layer of surface material, usually caused by a
+mechanical process that may seal or reduce the opening of any discontinuities. The type of
+etching solution used depends on the part material and condition.
+
+   h. Penetrant Application. Apply the penetrant by spraying, brushing, or by completely
+submerging the part in a container of penetrant. Wait the recommended amount of time after the
+penetrant has been applied to allow it to enter any discontinuities.
+
+   (1) Removal of Excess Penetrant. Excess penetrant must be removed from the part’s
+surface to prevent a loss of contrast between indications of discontinuities and the background
+during the inspection. Removal may require actually washing or spraying the part with a
+cleansing liquid, or may simply require wiping the part clean with a solvent-moistened cloth. The
+removal method is determined by the type of penetrant used.
+
+Par 5-62  Page 5-37
+
+===== PDF PAGE 285 =====
+9/8/98  AC 43.13-1B
+
+   (2) Drying. If removal of the excess penetrant involves water or other cleaning liquids,
+drying of the part may be required prior to developer application. When drying is required, the
+time can be decreased by using ovens or ventilation systems.
+
+   i. Developer Application. Apply developer after excess penetrant is removed and, where
+required, the surface is dried. Apply the developer in a thin uniform layer over the surface to be
+inspected. Developer acts like a blotter to assist the natural capillary action bleed-out of the
+penetrant from discontinuities and to spread the penetrant at discontinuity surface edges to
+enhance bleed-out indications. After the developer is applied, allow sufficient time for the
+penetrant to be drawn out of any discontinuities. Follow the manufacturer’s recommendations.
+
+   j. Inspection for Discontinuities. After the penetrant has sufficiently developed, visually
+inspect the surface for indications from discontinuities. Evaluate each indication observed to
+determine if it is within acceptable limits. Visible penetrant inspection is performed in normal
+visible white light, whereas FPI is performed in black (ultraviolet) light.
+
+   k. Post-Cleaning. Remove inspection material residues from parts after completion of
+penetrant inspection. This residue could interfere with subsequent part processing, or if left on
+some alloys, it could increase their susceptibility to hydrogen embrittlement, intergranular
+corrosion, and stress corrosion during service.
+
+5-64. TECHNICAL STANDARDS. Two of the more generally accepted aerospace industry
+standards are the MIL-I-25135E, Inspection Materials, Penetrants (see Table 5-6) and
+ASTM E1417. The penetrant materials specification (MIL-I-25135E) is used to procure
+penetrant materials and the process control specification (MIL-STD-6866) is used to establish
+minimum requirements for conducting a penetrant inspection. Table 5-6 provides a partial listing
+of commonly-accepted standards and specifications for penetrant inspection.
+
+   TABLE 5-6. LISTING OF COMMONLY ACCEPTED STANDARDS AND
+   SPECIFICATIONS FOR PENETRANT INSPECTION
+
+   ASTM STANDARDS  TITLE
+ASTM E165  Standard Practice for Liquid Penetrant Inspection Testing for
+   General Industry.
+ASTM E1135  Standard Test Method for Comparing the Brightness of
+   Fluorescent Penetrants.
+ASTM E1208  Standard Test Method for Fluorescent Liquid Penetrant
+   Examination Using the Lipophilic Post-Emulsification
+   Process.
+ASTM E1209  Standard Practice for Fluorescent Liquid Penetrant Testing
+   Using the Water-Washable Process.
+ASTM E1210  Standard Practice for Fluorescent Liquid Penetrant Testing
+   Using the Hydrophilic Post-Emulsification Process.
+
+Par 5-63  Page 5-38
+
+===== PDF PAGE 286 =====
+9/8/98  AC 43.13-1B
+
+ASTM E1219  Standard Process for Fluorescent Liquid Penetrant Testing
+   Using the Solvent-Removable Process.
+ASTM E1220  Standard Practice for Visible Penetrant Testing Using the
+   Solvent-Removable Method.
+ASTM E1316  Standard Terminology for Nondestructive Examinations.
+ASTM E1417/E1417M  Standard Practice for Liquid Penetrant Testing.
+ASTM D2512  Standard Test Method for Compatibility of Materials with
+   Liquid Oxygen (Impact Sensitivity Threshold and Pass-Fail
+   Techniques).
+   SAE-AMS
+   TITLE
+   SPECIFICATIONS
+AMS 2647  Fluorescent Penetrant Inspection Aircraft Structures and
+   Engine Component Maintenance.
+US GOVERNMENT SPECIFICATIONS
+MIL-STD-271  Requirements for Nondestructive Testing Methods.
+MIL-STD-410  Nondestructive Testing Personnel Qualifications and
+   Certifications.
+MIL-STD-1907  Inspection, Liquid Penetrant and Magnetic Particle,
+   Soundness Requirements for Materials, Parts and Welds.
+MIL-STD-6866  Inspection, Liquid Penetrant.
+MIL-HDBK-728/1  Nondestructive Testing.
+MIL-HDBK-728/3  Liquid Penetrant Testing.
+MIL-I-25135E  Inspection Materials, Penetrants.
+Qualified Products List  Inspection Materials, Penetrants.
+(QPL)-25135
+T. O. 33B-1-1  Technical Manual: Nondestructive Inspection Methods, Basic
+   Theory.
+OTHER PUBLICATIONS
+SNT-TC-1A  Personnel Qualification and Certification in Nondestructive
+   Testing.
+ATA Spec 105  Guidelines for Training and Qualifying Personnel in
+   Nondestructive Methods.
+Metals Handbook, Ninth  Nondestructive Evaluation and Quality Control.
+Edition, Volume 17
+
+5-65.–5-72. [RESERVED.]
+
+Par 5-64  Page 5-39
+
+===== PDF PAGE 287 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 6. RADIOGRAPHY (X-RAY) INSPECTION
+
+5-73. GENERAL. Radiography (x-ray) is an NDI method used to inspect material and
+components, using the concept of differential adsorption of penetrating radiation. Each specimen
+under evaluation will have differences in density, thickness, shapes, sizes, or absorption
+characteristics, thus absorbing different amounts of radiation. The unabsorbed radiation that
+passes through the part is recorded on film, fluorescent screens, or other radiation monitors.
+Indications of internal and external conditions will appear as variants of black/white/gray
+contrasts on exposed film, or variants of color on fluorescent screens. (See Figure 5-14.)
+
+   FIGURE 5-14. RADIOGRAPHY
+
+5-74. LIMITATIONS. Compared to other nondestructive methods of inspection, radiography
+is expensive. Relatively large costs and space allocations are required for a radiographic
+laboratory. Costs can be reduced considerably when portable x-ray or gamma-ray sources are
+used in film radiography and space is required only for film processing and interpretation.
+Operating costs can be high because sometimes as much as 60 percent of the total inspection
+time is spent in setting up for radiography. With real-time radiography, operating costs are
+usually much lower, because setup times are shorter and there are no extra costs for processing
+or interpretation of film.
+
+5-75. FILM OR PAPER RADIOGRAPHY. In film or paper radiography, a two dimensional
+(2D) latent image from the projected radiation is produced on a sheet of film or paper that has
+been exposed to the unabsorbed radiation passing through the test piece. This technique requires
+subsequent development of the exposed film or paper so that the latent image becomes visible
+for viewing.
+
+Par 5-73  Page 5-40
+
+===== PDF PAGE 288 =====
+9/8/98  AC 43.13-1B
+
+5-76. REAL-TIME RADIOGRAPHY. A 2D image that can be immediately displayed on a
+viewing screen or television monitor. This technique converts unabsorbed radiation into an
+optical or electronic signal which can be viewed immediately or can be processed with electronic
+or video equipment.
+
+5-77. ADVANTAGE OF REAL-TIME RADIOGRAPHY OVER FILM
+RADIOGRAPHY. The principal advantage of real-time radiography over film radiography is
+the opportunity to manipulate the test piece during radiographic inspection. This capability
+allows the inspection of internal mechanisms and enhances the detection of cracks and planar
+defects by allowing manipulation of the part to achieve the best orientation for flaw detection.
+Part manipulation during inspection also simplifies three dimensional (3D) dynamic imaging for
+the determination of flaw location and size. In film radiography, depth parallel to the radiation
+beam is not recorded. Consequently, the position of a flaw within the volume of a test piece
+cannot be determined exactly with a single radiograph. To determine flaw location and size more
+exactly with film radiography, other film techniques such as stereo-radiography, triangulation, or
+simply making two or more film exposures with the radiation beam being directed at the test
+piece from a different angle for each exposure, must be used.
+
+5-78. COMPUTED TOMOGRAPHY (CT). CT is another important radiological technique
+with enhanced flaw detection and location capabilities. Unlike film and real-time radiography,
+CT involves the generation of cross-sectional views instead of a planar projection. The CT image
+is comparable to that obtained by making a radiograph of a physically sectioned thin planar slab
+from an object. This cross-sectional image is not obscured by overlying and underlying
+structures and is highly sensitive to small differences in relative density. CT images are also
+easier to interpret than radiographs.
+
+5-79. USES OF RADIOGRAPHY. Radiography is used to detect the features of a component
+or assembly that exhibit a difference in thickness or density as compared to surrounding material.
+Large differences are more easily detected than small ones. In general, radiography can detect
+only those features that have an appreciable thickness in a direction along the axis of the
+radiation beam. Therefore, the ability of radiography to detect planar discontinuities, such as
+cracks, depends on proper orientation of the test piece during inspection. Discontinuities which
+have measurable thickness in all directions, such as voids and inclusions, can be detected as long
+as they are not too small in relation to section thickness. In general, features that exhibit a
+2 percent or more difference in radiation adsorption compared to the surrounding material can be
+detected.
+
+5-80. COMPARISON WITH OTHER NDI METHODS. Radiography and ultrasonic are the
+two generally-used, NDI methods that can satisfactorily detect flaws that are completely internal
+and located well below the surface of the test part. Neither method is limited to the detection of
+specific types of internal flaws. However, radiography is more effective when the flaws are not
+planar, while ultrasonic is more effective when flaws are planar. In comparison to other
+generally-used NDI methods (e.g., magnetic particle, liquid penetrant, and eddy current
+inspection), radiography has the following advantages:
+
+   •  The ability to inspect for both internal and external flaws.
+   •  The ability to inspect covered or hidden parts or structures.
+
+Par 5-76  Page 5-41
+
+===== PDF PAGE 289 =====
+9/8/98  AC 43.13-1B
+
+   •  The ability to detect significant variations in composition.
+   •  Provides a permanent recording of raw inspection data.
+
+5-81. FLAWS. Certain types of flaws are difficult to detect by radiography. Cracks cannot be
+detected unless they are essentially along the axis of the radiation beam. Tight cracks in thick
+sections may not be detected at all, even when properly oriented. Minute discontinuities such as:
+inclusions in wrought material, flakes, microporosity, and microfissures may not be detected
+unless they are sufficiently segregated to yield a detectable gross effect. Delaminations are nearly
+impossible to detect with radiography. Because of their unfavorable orientation, delaminations
+do not yield differences in adsorption that enable laminated areas to be distinguished from
+delaminated areas.
+
+5-82. FIELD INSPECTION. The field inspection of thick sections can be a time consuming
+process, because the effective radiation output of portable sources may require long exposure
+times of the radiographic film. This limits field usage to sources of lower activity that can be
+transported. The output of portable x-ray sources may also limit field inspection of thick
+sections, particularly if a portable x-ray tube is used. Portable x-ray tubes emit relatively
+low-energy (300 kiloelectron volt (keV)) radiation and are limited in the radiation output. Both
+of these characteristics of portable x-ray tubes combine to limit their application to the inspection
+of sections having the adsorption equivalent of 75 millimeters (mm) (3 inches) of steel
+maximum. Portable linear accelerators and betatrons that provide high-energy (> 1 megaelectron
+volt (MeV)) X-rays can be used for the radiographic field inspection of thicker sections.
+
+5-83. SAFETY. Radiographic safety requirements can be obtained from; the Original
+Equipment Manufacturer’s (OEM) manual, FAA requirements, cognizant FAA Aircraft
+Certification Office (ACO) engineers, and radiation safety organizations such as the Nuclear
+Regulatory Commission (NRC). Information in radiation safety publications can be used as a
+guide to ensure that radiation exposure of personnel involved in radiographic operations is
+limited to safe levels, and to afford protection for the general public.
+
+5-84.–5-88. [RESERVED.]
+
+Par 5-80  Page 5-42
+
+===== PDF PAGE 290 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 7. ULTRASONIC INSPECTION
+
+5-89. GENERAL. Ultrasonic inspection is an NDI technique that uses sound energy moving
+through the test specimen to detect flaws. The sound energy passing through the specimen will
+be displayed on a cathode ray tube (CRT), a liquid crystal display (LCD) computer data
+program, or video/camera medium. Indications of the front and back surface and
+internal/external conditions will appear as vertical signals on the CRT screen or nodes of data in
+the computer test program. There are three types of display patterns: “A” scan, “B” scan, and
+“C” scan. Each scan provides a different picture or view of the specimen being tested. (See
+Figure 5-15.)
+
+   FIGURE 5-15. ULTRASOUND
+
+5-90. SOUND REFLECTION. The amount of reflection that occurs when a sound wave
+strikes an interface depends largely on the physical state of the materials forming the interface
+and to a lesser extent on the specific physical properties of the material. For example: sound
+waves are almost completely reflected at metal/gas interfaces; and partial reflection occurs at
+metal/liquid or metal/solid interfaces.
+
+Par 5-89  Page 5-43
+
+===== PDF PAGE 291 =====
+9/8/98  AC 43.13-1B
+
+5-91. ULTRASONIC INSPECTION TECHNIQUES. Two basic ultrasonic inspection
+techniques are employed: pulse-echo and through-transmission. (See Figure 5-16.)
+
+   a. Pulse-Echo Inspection. This process uses a transducer to both transmit and receive the
+ultrasonic pulse. The received ultrasonic pulses are separated by the time it takes the sound to
+reach the different surfaces from which it is reflected. The size (amplitude) of a reflection is
+related to the size of the reflecting surface. The pulse-echo ultrasonic response pattern is
+analyzed on the basis of signal amplitude and separation.
+
+   b. Through-Transmission Inspection. This inspection employs two transducers, one to
+generate and a second to receive the ultrasound. A defect in the sound path between the two
+transducers will interrupt the sound transmission. The magnitude (the change in the sound pulse
+amplitude) of the interruption is used to evaluate test results. Through-transmission inspection is
+less sensitive to small defects than is pulse-echo inspection.
+
+   FIGURE 5-16. PULSE-ECHO AND THROUGH-TRANSMISSION ULTRASONIC
+   INSPECTION TECHNIQUES
+
+5-92. FLAW DETECTION. Ultrasonic inspection can easily detect flaws that produce
+reflective interfaces. Ultrasonic inspection is used to detect surface and subsurface
+discontinuities, such as: cracks, shrinkage cavities, bursts, flakes, pores, delaminations, and
+porosity. It is also used to measure material thickness and to inspect bonded structure for
+bonding voids. Ultrasonic inspection can be performed on raw material, billets, finished, and
+semi-finished materials, welds, and in-service assembled or disassembled parts. Inclusions and
+other nonhomogeneous areas can also be detected if they cause partial reflection or scattering of
+the ultrasonic sound waves or produce some other detectable effect on the ultrasonic sound
+waves. Ultrasonic inspection is one of the more widely-used methods of NDI.
+
+Par 5-91  Page 5-44
+
+===== PDF PAGE 292 =====
+9/27/01  AC 43.13-1B CHG 1
+
+5-93. BASIC EQUIPMENT. Most ultrasonic inspection systems include the following basic
+equipment; portable instruments (frequency range 0.5 to 15 MHz), transducers (longitudinal and
+shear wave), positioners, reference standards, and couplant.
+
+   a. Ultrasonic Instruments. A portable, battery-powered ultrasonic instrument is used for
+field inspection of airplane structure. (See Figure 5-17.) The instrument generates an ultrasonic
+pulse, detects and amplifies the returning echo, and displays the detected signal on a CRT or
+similar display. Piezoelectric transducers produce longitudinal or shear waves, which are the
+most commonly used wave forms for aircraft structural inspection. Or is a configuration that
+provides an ultrasonic response pattern representative of the test structure. The reference
+standard contains a simulated defect (notch) that is positioned to provide a calibration signal
+representative of the expected defect. The notch size is chosen to establish inspection sensitivity
+(response to the expected defect size). The inspection procedure gives a detailed description of
+the required reference standard.
+
+  FIGURE 5-17. TYPICAL PORTABLE ULTRASONIC INSPECTION INSTRUMENT
+
+   b. Positioning Fixtures. To direct ultrasound at a particular angle, or to couple it into an
+irregular surface, transducer positioning fixtures and sound-coupling shoes are employed. (See
+Figure 5-18.) Shoes are made of a plastic material that has the necessary sound-transmitting
+characteristics. Positioning fixtures are used to locate the transducer at a prescribed point and can
+increase the sensitivity of the inspection. (See Figure 5-19.) If a transducer shoe or positioning
+fixture is required, the inspection procedure will give a detailed description of the shoe or fixture.
+
+Par 5-93  Page 5-45
+
+===== PDF PAGE 293 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-18. EXAMPLE OF POSITION FIXTURE AND SHOE
+
+   FIGURE 5-19. EXAMPLE OF THE USE OF A TRANSDUCER POSITIONING
+   FIXTURE
+
+   c. Reference Standards. Reference standards are used to calibrate the ultrasonic
+instrument (see Figure 5-20), reference standards serve two purposes to provide an ultrasonic
+response pattern that is related to the part being inspected, and to establish the required
+inspection sensitivity. To obtain a representative response pattern, the reference standard
+configuration is the same as that of the test structure,
+
+Par 5-93  Page 5-46
+
+===== PDF PAGE 294 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 5-20. EXAMPLE OF A TYPICAL REFERENCE STANDARD
+
+   d. Couplants. Inspection with ultrasonics is limited to the part in contact with the
+transducer. A layer of couplant is required to couple the transducer to the test piece because
+ultrasonic energy will not travel through air. Some typical couplants used are: water, glycerin,
+motor oils, and grease.
+
+5-94. INSPECTION OF BONDED STRUCTURES. Ultrasonic inspection is finding
+increasing application in aircraft bonded construction and repair. Detailed techniques for specific
+bonded structures should be obtained from the OEM’s manuals, or FAA requirements. In
+addition, further information on the operation of specific instruments should be obtained from
+the applicable equipment manufacturer manuals.
+
+   a. Types of Bonded Structures. Many configurations and types of bonded structures are
+in use in aircraft. All of these variations complicate the application of ultrasonic inspections. An
+inspection method that works well on one part or one area of the part may not be applicable for
+different parts or areas of the same part. Some of the variables in the types of bonded structures
+are as follows.
+
+   (1) Top skin material is made from different materials and thickness.
+
+   (2) Different types and thickness of adhesives are used in bonded structures.
+
+   (3) Underlying structures contain differences in; core material, cell size, thickness, and
+height, back skin material and thickness, doublers (material and thickness), closure member
+attachments, foam adhesive, steps in skins, internal ribs, and laminates (number of layers, layer
+thickness, and layer material).
+
+   (4) The top only or top and bottom skin of a bonded structure may be accessible.
+
+Par 5-93  Page 5-47
+
+===== PDF PAGE 295 =====
+9/8/98  AC 43.13-1B
+
+   b. Application of Ultrasonic Inspection. Application to bonded structures must be
+examined in detail because of the many inspection methods and structural configurations. The
+advantages and limitations of each inspection method should be considered, and reference
+standards (representative of the structure to be inspected) should be ultrasonically inspected to
+verify proposed techniques.
+
+   c. Internal Configuration. Complete information on the internal configuration of the
+bonded test part must be obtained by the inspector. Drawings should be reviewed, and when
+necessary, radiographs of the test part should be taken. Knowledge of details such as the location
+and boundaries of doublers, ribs, etc., is required for valid interpretation of ultrasonic inspection
+results. The boundaries of internal details should be marked on the test part using a grease pen or
+other easily removable marking.
+
+   d. Reference Standards. Standards can be a duplicate of the test part except for the
+controlled areas of unbond. As an option, simple test specimens, which represent the varied areas
+of the test part and contain controlled areas of unbond, can be used. Reference standards must
+meet the following requirements:
+
+   (1) The reference standard must be similar to the test part regarding material, geometry,
+and thickness. This includes containing closure members, core splices, stepped skins, and
+internal ribs similar to the test part if bonded areas over or surrounding these details are to be
+inspected.
+
+   (2) The reference standard must contain bonds of good quality except for controlled
+areas of unbond fabricated as explained below.
+
+   (3) The reference standard must be bonded using the adhesive and cure cycle prescribed
+for the test part.
+
+   e. Types of Defects. Defects can be separated into five general types to represent the
+various areas of bonded sandwich and laminate structures as follows:
+
+   (1) Type I. Unbonds or voids in an outer skin-to-adhesive interface.
+
+   (2) Type II. Unbonds or voids at the adhesive-to-core interface.
+
+   (3) Type III. Voids between layers of a laminate.
+
+   (4) Type IV. Voids in foam adhesive or unbonds between the adhesive and a closure
+member at core-to-closure member joints.
+
+   (5) Type V. Water in the core.
+
+   f. Fabrication of NDI Reference Standards. Every ultrasonic test unit should have
+sample materials that contain unbonds equal to the sizes of the minimum rejectable unbonds for
+the test parts. Information on minimum rejectable unbond sizes for test parts should be obtained
+from the OEM’s manuals, FAA requirements, or the cognizant FAA ACO engineer. One or more
+
+Par 5-94  Page 5-48
+
+===== PDF PAGE 296 =====
+9/8/98  AC 43.13-1B
+
+of the following techniques can be used in fabricating reference defects; however, since bonding
+materials vary, some of the methods may not work with certain materials.
+
+   (1) Standards for Types I, II, III, and IV unbonds can be prepared by placing discs of
+0.006 inch thick (maximum) Teflon sheets over the adhesive in the areas selected for unbonds.
+For Type II unbonds, the Teflon is placed between the core and adhesive. The components of the
+standard are assembled and the assembly is then cured.
+
+   (2) Types I, II, and III standards can also be produced by cutting flat-bottomed holes of
+a diameter equal to the diameter of the unbonds to be produced. The holes are cut from the back
+sides of bonded specimens, and the depths are controlled to produce air gaps at the applicable
+interfaces. When using this method, patch plates can be bonded to the rear of the reference
+standard to cover and seal each hole.
+
+   (3) Type II standards can be produced by locally undercutting (before assembly) the
+surface of the core to the desired size unbond. The depth of the undercut should be sufficient to
+prevent adhesive flow causing bonds between the undercut core and the skin.
+
+   (4) Type IV standards can be produced by removing the adhesive in selected areas prior
+to assembly.
+
+   (5) Type V standards can be produced by drilling small holes in the back of the
+standard and injecting varying amounts of water into the cells with a hypodermic needle. The
+small holes can then be sealed with a small amount of water-resistant adhesive.
+
+   g. Inspection Coverage. Examples of several different configurations of bonded structure
+along with suggested inspection coverages with standard ultrasonic test instruments are shown in
+Figure 5-21. In many cases, access limitations will not permit application of the suggested
+inspections in all of the areas shown. The inspection coverages and suggested methods contained
+in Figure 5-21 and Table 5-7 are for reference only. Details of the inspection coverage and
+inspections for a particular assembly should be obtained from the OEM’s manuals, or other
+FAA-approved requirements.
+
+   h. Inspection Methods. Table 5-8 lists the various inspection methods for bonded
+structures along with advantages and disadvantages of each inspection method.
+
+Par 5-94  Page 5-49
+
+===== PDF PAGE 297 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 5-21. EXAMPLES OF BONDED STRUCTURE CONFIGURATIONS AND
+   SUGGESTED INSPECTION COVERAGE
+
+Par 5-94  Page 5-50
+
+===== PDF PAGE 298 =====
+9/8/98  AC 43.13-1B
+
+ TABLE 5-7. ACCEPTABLE ULTRASONIC INSPECTION METHODS ASSOCIATED
+  WITH THE EXAMPLE BONDED STRUCTURE CONFIGURATIONS SHOWN IN
+   FIGURE 5-21
+
+   NUMBER  ACCEPTABLE METHODS
+ 1  Either
+   (a) Pulse-echo straight or angle beam, on each side;
+   or
+   (b) Through-transmission.
+ 2  Pulse-echo, straight beam, on each skin.
+ 3  Refer to 1 for methods. If all these methods fail to have sufficient
+   penetration power to detect reference defects in the reference standard, then
+   the ringing method, applied from both sides, should be used. Otherwise, the
+   ringing method is unacceptable.
+ 4  Either
+   (a) Ringing, on each skin of the doubler;
+   or
+   (b) Through-transmission;
+   or
+   (c) Damping.
+ 5  Ringing.
+ 6  Through-transmission. Dotted Line represents beam direction.
+ 7  Either
+   (a) Through-transmission;
+   or
+   (b) Damping.
+ NOTE:
+ A variety of ultrasonic testing methods and instruments are available for adaptation to specific
+ inspection problems. Other bond inspection instruments can be used if detailed procedures are
+ developed and proven on the applicable reference standards for each configuration of interest.
+ Some representative instruments, which can be used for the inspection of bonded structures
+ are the Sondicator, Harmonic Bond Tester, Acoustic Flaw Detector, Audible Bond Tester,
+ Fokker Bond Tester, 210 Bond Tester, and Bondascope 2100.
+
+Par 5-94  Page 5-51
+
+===== PDF PAGE 299 =====
+9/8/98  AC 43.13-1B
+
+ TABLE 5-8. ULTRASONIC INSPECTION METHODS FOR BONDED STRUCTURES
+
+   INSPECTION METHOD
+   THROUGH  PULSE-ECHO  RINGING  DAMPING
+   TRANSMISSION
+Advantages  Applicable to  Applicable to  Applicable to  Applicable to
+   structures with  structures with  complex shapes.  structures with
+   either thick or thin  either thick or thin  Detects small  either thick or
+   facing sheets.  facing sheets.  near surface  thin facing
+   Applicable to  Determines which  unbonds (larger  sheets.
+   structures with  side is unbonded.  than diameter of  Applicable to
+   multiple layers  Detects small  search unit).  multiple-layered
+   bonded over  unbonds.  (more than two
+   honeycomb core.  Detects broken,  layers) structures.
+   Detects unbonds on  crushed, and  Detects unbonds
+   either side  corroded core.  on either side.
+   Detects broken,  In some cases  Detects small
+   crushed, and  water in core can  unbonds (larger
+   corroded core.  be detected.  than diameter of
+   In some cases water  receiving search
+   in core can be  unit).
+   detected.
+Disadvantages Access to both sides  Inspection from  Applicable only  Applicable only
+   of part is required.  both sides  to near surface  to doublers and
+   Does not determine  required, does not unbonds, works  laminate-type
+   layer position of  detect far side  best on unbonds  structures.
+   unbonds.  unbonds.  between top  Access to both
+   Alignment of search  Applicable only to sheet and  sides required.
+   units is critical.  skin-to-honeycomb adhesive, may  Does not
+   Couplant is  core structures.  miss other  determine layer
+   required.  Reduced  unbonds.  positions of
+   Inspection rate is  effectiveness on  Reduced  unbonds.
+   slow.  structures with  effectiveness on  Couplant
+   multiple skins over thick skins.  required.
+   honeycomb core. Couplant
+   Couplant required. required.
+
+5-95. BOND TESTING INSTRUMENTS. Standard ultrasonic inspection instruments can be
+used for bond testing as previously noted; however, a wide variety of bond testing instruments
+are available for adaptation to specific bonded structure inspection problems.
+
+   a. General Principle. Two basic operating principles are used by a variety of bond testers
+for single-sided bond inspection.
+
+Par 5-94  Page 5-52
+
+===== PDF PAGE 300 =====
+9/8/98  AC 43.13-1B
+
+   (1) Ultrasonic Resonance. Soundwaves from a resonant transducer are transmitted into
+and received from a structure. A disbond in the structure will alter the sound wave
+characteristics, which in turn affect the transducer impedance.
+
+   (2) Mechanical Impedance. Low frequency, pulsed ultrasonic energy is generated into
+a structure. Through ultrasonic mechanical vibration of the structure, the impedance or stiffness
+of the structure is measured, analyzed, and displayed by the instrumentation.
+
+   b. Operation. In general, operation of the adhesive bond test instruments noted is similar.
+The test probe is moved over the surface in smooth overlapping strokes. The direction of the
+stroke with regard to the surface is generally immaterial; however, when using the Sondicator
+models, the direction of the stroke becomes critical when the test probe is operated near a surface
+edge. Edge effects on vibration paths give a test reading that may be misinterpreted. To avoid
+edge effects, the test probe should be moved so that the inspection path follows the surface edge,
+giving a constant edge for the test probe to inspect. Edge effects are more pronounced in thicker
+material. To interpret meter readings correctly, the operator should determine whether there are
+variations in the thickness of the material.
+
+   c. Probe Sending Signal. With the exception of the Sondicator models, the test probes of
+the testers emit a sending signal that radiates in a full circle. The sending signal of the Sondicator
+probe travels from one transducer tip to the other. For this reason, the test probe should be held
+so that the transducer tips are at right angles to the inspection path. When inspecting honeycomb
+panels with a Sondicator model, the transducer tips should be moved consistently in the direction
+of the ribbon of the honeycomb or at right angles to the ribbon so that a constant subsurface is
+presented.
+
+5-96. THICKNESS MEASUREMENTS. Ultrasonic inspection methods can be used for
+measurement of material thickness in aircraft parts and structures.
+
+   a. Applications. Ultrasonic thickness measurements are used for many applications, such
+as: checking part thickness when access to the back side is not available; checking large panels in
+interior areas where a conventional micrometer cannot reach; and in maintenance inspections for
+checking thickness loss due to wear and/or corrosion.
+
+   b. Pulse-Echo Method. The most commonly used ultrasonic thickness measurement
+method. The ultrasonic instrument measures time between the initial front and back surface
+signals or subsequent multiple back reflection signals. Since the velocity for a given material is a
+constant, the time between these signals is directly proportional to the thickness. Calibration
+procedures are used to obtain direct readout of test part thickness.
+
+   c. Thickness Measurement Instrument Types. Pulse-echo instruments designed
+exclusively for thickness measurements are generally used in lieu of conventional pulse-echo
+instruments; however, some conventional pulse-echo instruments also have direct thickness
+measurement capabilities. Conventional pulse-echo instruments without direct thickness
+measuring capabilities can also be used for measuring thickness by using special procedures.
+
+Par 5-95  Page 5-53
+
+===== PDF PAGE 301 =====
+9/8/98  AC 43.13-1B
+
+   d. Thickness Measurement Ranges. Dependent upon the instrument used and the
+material under test, material thickness from 0.005 inches to 20 inches (or more) can be measured
+with pulse-echo instruments designed specifically for thickness measuring.
+
+5-97. LEAK TESTING. The flow of a pressurized gas through a leak produces sound of both
+sonic and ultrasonic frequencies. If the gas leak is large, the sonic frequency sound it produces
+can probably be detected with the ear or with such instruments as stethoscopes or microphones;
+however, the ear and these instruments have limited ability to detect and locate small leaks.
+Ultrasonic leak detectors are frequently used to detect leaks that cannot be detected by the above
+methods, because they are very sensitive to ultrasonic energy and, under most conditions,
+background noise at other frequencies does not affect them.
+
+   a. Standard Method. A standard method of testing for leaks using ultrasonics is provided
+in ASTM E1002. The method covers procedures for calibration, location, and estimated
+measurements of leakage by the ultrasonic technique (sometimes called ultrasonic translation).
+
+   b. Detection Distance. Ultrasonic energy in the relatively low-frequency range of
+30-50 KHz travels easily through air; therefore, an ultrasonic leak detector can detect leakage
+with the probe located away from the leak. The maximum detection distance depends on the
+leakage rate.
+
+   c. Typical Applications. Some typical applications for the ultrasonic leak detector on
+aircraft are fuel system pressurization tests, air ducts and air conditioning systems, emergency
+evacuation slides, tire pressure retention, electrical discharge, oxygen lines and valves, internal
+leaks in hydraulic valves and actuators, fuel cell testing, identifying cavitation in hydraulic
+pumps, arcing in wave guides, cabin and cockpit window and door seals, and cabin
+pressurization testing.
+
+5-98.–5-104. [RESERVED.]
+
+Par 5-96  Page 5-54
+
+===== PDF PAGE 302 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 8. TAP TESTING
+
+5-105. GENERAL. Tap testing is widely used for a quick evaluation of any accessible aircraft
+surface to detect the presence of delamination or debonding.
+
+   a. The tap testing procedure consists of lightly tapping the surface of the part with a
+coin, light special hammer with a maximum of 2 ounces (see Figure 5-22), or any other suitable
+object. The acoustic response is compared with that of a known good area.
+
+   b. A “flat” or “dead” response is considered unacceptable. The acoustic response of a
+good part can vary dramatically with changes in geometry, in which case a standard of some sort
+is required. The entire area of interest must be tapped. The surface should be dry and free of oil,
+grease, and dirt. Tap testing is limited to finding relatively shallow defects in skins with a
+thickness less than .080 inch. In a honeycomb structure, for example, the far side bondline
+cannot be evaluated, requiring two-side access for a complete inspection. This method is
+portable, but no records are produced. The accuracy of this test depends on the inspector’s
+subjective interpretation of the test response; therefore, only qualified personnel should perform
+this test.
+
+   FIGURE 5-22. SAMPLE OF SPECIAL TAP HAMMER
+
+5-106.–5-111. [RESERVED.]
+
+Par 5-105  Page 5-55
+
+===== PDF PAGE 303 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 9. ACOUSTIC-EMISSION
+
+5-112. GENERAL. Acoustic-Emission is an NDI technique that involves the placing of
+acoustical-emission sensors at various locations on the aircraft structure and then applying a load
+or stress. The level of stress applied need not reach general yielding, nor does the stress generally
+need to be of a specific type. Bending stress can be applied to beamed structures, torsional stress
+can be applied to rotary shafts, thermal stresses can be applied with heat lamps or blankets, and
+pressure-induced stress can be applied to pressure-containment systems such as the aircraft
+fuselage. The materials emit sound and stress waves that take the form of ultrasonic pulses that
+can be picked up by sensors. Cracks and areas of corrosion in the stressed airframe structure emit
+sound waves (different frequencies for different size defects) which are registered by the sensors.
+These acoustic-emission bursts can be used both to locate flaws and to evaluate their rate of
+growth as a function of applied stress. Acoustic-emission testing has an advantage over other
+NDI methods in that it can detect and locate all of the activated flaws in a structure in one test.
+Acoustic-emission testing does not now provide the capability to size flaws, but it can greatly
+reduce the area required to be scanned by other NDI methods.
+
+5-113. APPLICATIONS.
+
+   a. A wide variety of structures and materials, such as: wood, plastic, fiberglass, and metals
+can be inspected by the acoustic-emission technique by applying stress on the test material. The
+emission-producing mechanism in each type of material may differ, but characteristic acoustic-
+emissions are produced and can be correlated to the integrity of the material. Acoustic-emission
+technology has been applied quite successfully in monitoring proof tests of pressure vessels and
+tests of fiber-reinforced plastic structures of all kinds. There are now ASTM standards and
+ASME codes applying to its use in testing gas cylinders and both metal and fiber-reinforced
+plastic vessels, tanks, and piping.
+
+   b. For a welded structure such as a pressure vessel, acoustic-emission testing works well
+with relatively simple instrumentation. However, slight movement of bolted or riveted joints can
+also generate acoustic signals. Thus a complex structure may have many acoustic sources besides
+flaws in its components. These unwanted emission sources greatly complicate acoustic-emission
+tests of complex structures. The difficulties are not prohibitive, but they put a premium on the
+intelligent use of signal processing and interpretation. Therefore, because of the complexity of
+aircraft structures, application of acoustic-emission testing to aircraft has required a new level of
+sophistication, both in testing techniques and data interpretation. Research and testing programs
+are currently in progress to determine the feasibility of acoustic-emission testing on several
+different types of aircraft.
+
+5-114.–5-119. [RESERVED.]
+
+Par 5-112  Page 5-56
+
+===== PDF PAGE 304 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 10. THERMOGRAPHY
+
+5-120. GENERAL. Thermography is an NDI technique that uses radiant electromagnetic
+thermal energy to detect flaws. The presence of a flaw is indicated by an abnormal temperature
+variant when the item is subjected to normal heating and cooling conditions inherent to the
+in-service life, and/or when artificially heated or cooled. The greater the material’s resistance to
+heat flow, the more readily the flow can be identified due to temperature differences caused by
+the flaw.
+
+5-121.–5-126. [RESERVED.]
+
+Par 5-120  Page 5-57
+
+===== PDF PAGE 305 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 11. HOLOGRAPHY
+
+5-127. GENERAL. Holography is an NDI technique that uses visible light waves coupled with
+photographic equipment to create a 3D image. The process uses two laser beams, one called a
+reference beam and the other called an object beam. The two laser beams are directed to an
+object, between beam applications the component is stressed. The beams are then compared and
+recorded on film, or other electronic recording medium, creating a double image. Indications of
+applied stresses or defects are shown as virtual images with a system of fringe lines overlaying
+the part. Holography is most commonly used for rapid assessment of surface flaws in composite
+structures.
+
+5-128.–5-133. [RESERVED.]
+
+Par 5-127  Page 5-58
+
+===== PDF PAGE 306 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 12. SHEAROGRAPHY
+
+5-134. GENERAL. Shearography was developed for strain measurements. The process now
+provides a full-field video strain gauge, in real time, over large areas. It is an enhanced form of
+holography, which requires the part to be under stress. A laser is used for illumination of the part
+while under stress. The output takes the form of an image processed video display. This
+technique has been used effectively in locating defects, such as disbonds and delaminations,
+through multiple bondlines. It is capable of showing the size and shape of subsurface anomalies
+when the test part is properly stressed. Shearography has been developed into a useful tool for
+NDI. It can be used easily in a hangar environment, while meeting all laser safety concerns.
+Other applications include the testing of honeycomb structures, such as flaps and control
+surfaces. Shearography offers a great increase in the speed of inspection by allowing on-aircraft
+inspections of structures without their removal, as well as inspections of large areas in just
+seconds.
+
+5-135.–5-140. [RESERVED.]
+
+Par 5-134  Page 5-59
+

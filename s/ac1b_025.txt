@@ -1,0 +1,1224 @@
+AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 598-628
+
+===== PDF PAGE 598 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   Table 11-10 can be used when it is desired to substitute aluminum wire and
+   the proper size can be selected by reducing the copper wire size by two
+   numbers and referring to Table 11-11. The use of aluminum wire size
+   smaller than no. 8 is not recommended.
+
+   TABLE 11-10. CURRENT CARRYING CAPACITY AND RESISTANCE OF
+   COPPER WIRE
+
+   Continuous Duty Current (amps)-Wires in Bundles,  Max. Resistance
+   Nominal
+   Groups, Harnesses, or Conduits. (See Note #1)  ohms/1000ft@
+ Wire  Conductor
+   20 °C Tin-Plated
+ Size  Wire Conductor Temperature Rating  Area-
+   Conductor
+   circ. mils
+   105 °C  150 °C  200 °C  (See Note #2)
+   24  2.5  4  5  28.40  475
+   22  3  5  6  16.20  755
+   20  4  7  9  9.88  1,216
+   18  6  9  12  6.23  1,900
+   16  7  11  14  4.81  2,426
+   14  10  14  18  3.06  3,831
+   12  13  19  25  2.02  5,874
+   10  17  26  32  1.26  9,354
+   8  38  57  71  0.70  16,983
+   6  50  76  97  0.44  26,818
+   4  68  103  133  0.28  42,615
+   2  95  141  179  0.18  66,500
+   1  113  166  210  0.15  81,700
+   0  128  192  243  0.12  104,500
+   00  147  222  285  0.09  133,000
+  000  172  262  335  0.07  166,500
+  0000  204  310  395  0.06  210,900
+Note #1: Rating is for 70 °C ambient, 33 or more wires in the bundle for sizes 24 through 10, and 9 wires
+for size 8 and larger, with no more than 20 percent of harness current carrying capacity being used, at an
+operating altitude of 60,000 feet. For rating of wires under other conditions or configurations, see
+paragraph 11-69.
+Note #2: For resistance of silver or nickel-plated conductors, see wire specifications.
+
+Par 11-66  Page 11-27
+
+===== PDF PAGE 599 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-11. CURRENT CARRYING CAPACITY AND RESISTANCE OF
+   ALUMINUM WIRE
+
+   Wire Size  Continuous Duty Current (amps) Wires in
+   Max. Resistance
+   Bundles, Groups or Harnesses or Conduits
+   ohms/1000ft
+   (See Table 11-10 Note #1)
+   Wire conductor temperature rating  @ 20 °C
+   105 °C  150 °C
+   8  30  45  1.093
+   6  40  61  0.641
+   4  54  82  0.427
+   2  76  113  0.268
+   1  90  133  0.214
+   0  102  153  0.169
+   00  117  178  0.133
+   000  138  209  0.109
+   0000  163  248  0.085
+Note: Observe design practices described in paragraph 11-67 for aluminum conductor.
+
+11-67. METHODS FOR DETERMINING CURRENT CARRYING CAPACITY OF
+WIRES. This paragraph contains methods for determining the current carrying capacity of
+electrical wire, both as a single wire in free air and when bundled into a harness. It presents
+derating factors for altitude correction and examples showing how to use the graphical and
+tabular data provided for this purpose. In some instances, the wire may be capable of carrying
+more current than is recommended for the contacts of the related connector. In this instance, it is
+the contact rating that dictates the maximum current to be carried by a wire. Wires of larger
+gauge may need to be used to fit within the crimp range of connector contacts that are adequately
+rated for the current being carried. Figure 11-5 gives a family of curves whereby the bundle
+derating factor may be obtained.
+
+   a. Effects of Heat Aging on Wire Insulation. Since electrical wire may be installed in
+areas where inspection is infrequent over extended periods of time, it is necessary to give special
+consideration to heat-aging characteristics in the selection of wire. Resistance to heat is of
+primary importance in the selection of wire for aircraft use, as it is the basic factor in wire rating.
+Where wire may be required to operate at higher temperatures due either to high ambient
+temperatures, high-current loading, or a combination of the two, selection should be made on the
+basis of satisfactory performance under the most severe operating conditions.
+
+   b. Maximum Operating Temperature. The current that causes a temperature steady state
+condition equal to the rated temperature of the wire should not be exceeded. Rated temperature
+of the wire may be based upon the ability of either the conductor or the insulation to withstand
+continuous operation without degradation.
+
+Par 11-66  Page 11-28
+
+===== PDF PAGE 600 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   c. Single Wire in Free Air. Determining a wiring system’s current carrying capacity
+begins with determining the maximum current that a given-sized wire can carry without
+exceeding the allowable temperature difference (wire rating minus ambient °C). The curves are
+based upon a single copper wire in free air. (See Figures 11-4A and 11-4B.)
+
+   d. Wires in a Harness. When wires are bundled into harnesses, the current derived for a
+single wire must be reduced as shown in Figure 11-5. The amount of current derating is a
+function of the number of wires in the bundle and the percentage of the total wire bundle
+capacity that is being used.
+
+   e. Harness at Altitude. Since heat loss from the bundle is reduced with increased altitude,
+the amount of current should be derated. Figure 11-6 gives a curve whereby the altitude-derating
+factor may be obtained.
+
+   f. Aluminum Conductor Wire. When aluminum conductor wire is used, sizes should be
+selected on the basis of current ratings shown in Table 11-11. The use of sizes smaller than #8 is
+discouraged (Refer to SAE AS50881). Aluminum wire should not be attached to
+engine-mounted accessories or used in areas having corrosive fumes, severe vibration,
+mechanical stresses, or where there is a need for frequent disconnection. Use of aluminum wire
+is also discouraged for runs of less than 3 feet (AS50881). Termination hardware should be of
+the type specifically designed for use with aluminum conductor wiring.
+
+11-68. INSTRUCTIONS FOR USE OF ELECTRICAL WIRE CHART.
+
+   a. Correct Size. To select the correct size of electrical wire, two major requirements must
+be met:
+
+   (1) The wire size should be sufficient to prevent an excessive voltage drop while
+carrying the required current over the required distance. (See Table 11-7, Tabulation Chart, for
+allowable voltage drops.)
+
+   (2) The size should be sufficient to prevent overheating of the wire carrying the
+required current. (See paragraph 11-69 for allowable current carrying calculation methods.)
+
+   b. Two Requirements. To meet the two requirements (see paragraph 11-66b) in selecting
+the correct wire size using Figure 11-2 or Figure 11-3, the following must be known:
+
+   (1) The wire length in feet.
+
+   (2) The number of amperes of current to be carried.
+
+   (3) The allowable voltage drop permitted.
+
+   (4) The required continuous or intermittent current.
+
+   (5) The estimated or measured conductor temperature.
+
+   (6) Is the wire to be installed in conduit and/or bundle?
+
+Par 11-67  Page 11-29
+
+===== PDF PAGE 601 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (7) Is the wire to be installed as a single wire in free air?
+
+   c. Example No. 1. Find the wire size in Figure 11-2 using the following known
+information:
+
+   (1) The wire run is 50 feet long, including the ground wire.
+
+   (2) Current load is 20 amps.
+
+   (3) The voltage source is 28 volts from bus to equipment.
+
+   (4) The circuit has continuous operation.
+
+   (5) Estimated conductor temperature is 20 °C or less.
+
+   The scale on the left of the chart represents maximum wire length in feet to prevent
+an excessive voltage drop for a specified voltage source system (e.g., 14V, 28V, 115V, 200V).
+This voltage is identified at the top of scale and the corresponding voltage drop limit for
+continuous operation at the bottom. The scale (slant lines) on top of the chart represents amperes.
+The scale at the bottom of the chart represents wire gauge.
+
+   STEP 1: From the left scale, find the wire length, 50 feet under the 28V source
+   column.
+
+   STEP 2: Follow the corresponding horizontal line to the right until it intersects the
+   slanted line for the 20-amp load.
+
+   STEP 3: At this point, drop vertically to the bottom of the chart. The value falls
+   between No. 8 and No. 10. Select the next larger size wire to the right, in this case
+   No. 8. This is the smallest size wire that can be used without exceeding the voltage
+   drop limit expressed at the bottom of the left scale. This example is plotted on the
+   wire chart, Figure 11-2. Use Figure 11-2 for continuous flow and Figure 11-3 for
+   intermittent flow.
+
+   d. Procedures in Example No. 1. Paragraph 11-68c, can be used to find the wire size for
+any continuous or intermittent operation (maximum 2 minutes). Voltage (e.g. 14 volts, 28 volts,
+115 volts, 200 volts) as indicated on the left scale of the wire chart in Figure 11-2 and 11-3.
+
+   e. Example No. 2. Using Figure 11-2, find the wire size required to meet the allowable
+voltage drop in Table 11-7 for a wire carrying current at an elevated conductor temperature using
+the following information:
+
+   (1) The wire run is 15.5 feet long, including the ground wire.
+
+   (2) Circuit current (I2) is 20 amps, continuous.
+
+   (3) The voltage source is 28 volts.
+
+Par 11-68  Page 11-30
+
+===== PDF PAGE 602 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (4) The wire type used has a 200 °C conductor rating and it is intended to use this
+thermal rating to minimize the wire gauge. Assume that the method described in
+paragraph 11-66d(6) was used and the minimum wire size to carry the required current is #14.
+
+   (5) Ambient temperature is 50 °C under hottest operating conditions.
+
+   f. Procedures in Example No. 2.
+
+   STEP 1: Assuming that the recommended load bank testing described in
+   paragraph 11-66d(5) is unable to be conducted, then the estimated calculation
+   methods outlined in paragraph 11-66d(6) may be used to determine the estimated
+   maximum current (Imax). The #14 gauge wire mentioned above can carry the
+   required current at 50 °C ambient (allowing for altitude and bundle derating).
+
+   (1) Use Figure 11-4a to calculate the Imax a #14 gauge wire can carry.
+
+   Where:
+
+   (2) Find the temperature differences:
+
+   (3) Follow the 150 °C corresponding horizontal line to intersect with #14 wire size,
+drop vertically and read 47 amps at bottom of chart (current amperes).
+
+   (4) Use Figure 11-5, left side of chart reads 0.91 for 20,000 feet,
+multiply 0.91 × 47 amps = 42.77 amps.
+
+   (5) Use Figure 11-6, find the derate factor for 8 wires in a bundle at 60 percent. First
+find the number of wires in the bundle (8) at bottom of graph and intersect with the 60-percent
+curve meet. Read derating factor, (left side of graph) which is 0.6.
+Multiply 1.6 × 42.77 amps = 26 amps.
+
+   Imax = 26 amps (this is the maximum current the #14 gauge wire could carry at
+   50 °C ambient
+
+   L1 = 15.5 feet maximum run length for size #14 wire carrying 20 amps from
+   Figure 11-2
+
+Par 11-68  Page 11-31
+
+===== PDF PAGE 603 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   STEP 2: From paragraphs 11-66d(5) and (6), determine the T2 and the resultant
+   maximum wire length when the increased resistance of the higher temperature
+   conductor is taken into account.
+
+   The size #14 wire selected using the methods outlined in paragraph 11-66d is too
+   small to meet the voltage drop limits from Figure 11-2 for a 15.5-foot-long wire
+   run.
+
+   STEP 3: Select the next larger wire (size #12) and repeat the calculations as
+   follows:
+
+   L1 = 24 feet maximum run length for 12 gauge wire carrying 20 amps from
+   Figure 11-2.
+
+   Imax = 37 amps (this is the maximum current the size #12 wire can carry at 50 °C
+   ambient. Use calculation methods outlined in paragraph 11-69 and Figure 11-4a.
+
+   The resultant maximum wire length, after adjusting downward for the added
+   resistance associated with running the wire at a higher temperature, is 15.4 feet,
+   which will meet the original 15.5 foot wire run length requirement without
+   exceeding the voltage drop limit expressed in Figure 11-2.
+
+Par 11-68  Page 11-32
+
+===== PDF PAGE 604 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-69. COMPUTING CURRENT CARRYING CAPACITY.
+
+   a. Example 1. Assume a harness (open or braided), consisting of 10 wires, size #20,
+200 °C rated copper and 25 wires, size #22, 200 °C rated copper, will be installed in an area
+where the ambient temperature is 60 °C and the vehicle is capable of operating at a 60,000-foot
+altitude. Circuit analysis reveals that 7 of the 35 wires in the bundle (7/35 = 20 percent) will be
+carrying power currents nearly at or up to capacity.
+
+   STEP 1: See the “single wire in free air” curves in Figure 11-4a. Determine the change
+   of temperature of the wire to determine free air ratings. Since the wire will be in an
+   ambient of 60 °C and rated at 200 °C, the change of temperature is
+   200 °C − 60 °C = 140 °C. Follow the 140 °C temperature difference horizontally until it
+   intersects with wire size line on Figure 11-4a. The free air rating for size #20 is
+   21.5 amps, and the free air rating for size #22 is 16.2 amps.
+
+   STEP 2: See the “bundle derating curves” in Figure 11-5, the 20-percent curve is
+   selected since circuit analysis indicates that 20 percent or less of the wire in the harness
+   would be carrying power currents and less than 20 percent of the bundle capacity would
+   be used. Find 35 (on the abscissa) since there are 35 wires in the bundle, and determine
+   a derating factor of 0.52 (on the ordinate) from the 20-percent curve.
+
+   STEP 3: Derate the size #22 free air rating by multiplying 16.2 by 0.52 to get 8.4 amps
+   in-harness rating. Derate the size #20 free air rating by multiplying 21.5 by 0.52 to get
+   11.2 amps in-harness rating.
+
+   STEP 4: See the “altitude derating curve” of Figure 11-6, look for 60,000 feet (on the
+   abscissa) since that is the altitude at which the vehicle will be operating. Note that the
+   wire must be derated by a factor of 0.79 (found on the ordinate). Derate the size #22
+   harness rating by multiplying 8.4 amps by 0.79 to get 6.6 amps. Derate the size #20
+   harness rating by multiplying 11.2 amps by 0.79 to get 8.8 amps.
+
+   STEP 5: To find the total harness capacity, multiply the total number of size #22 wires
+   by the derated capacity (25 × 6.6 = 165.0 amps) and add to that the number of size #20
+   wires multiplied by the derated capacity (10 × 8.8 = 88 amps) and multiply the sum by
+   the 20-percent harness capacity factor. Thus, the total harness capacity is (165.0 + 88.0)
+   × 0.20 = 50.6 amps. It has been determined that the total harness current should not
+   exceed 50.6 A, size #22 wire should not carry more than 6.6 amps and size #20 wire
+   should not carry more than 8.8 amps.
+
+   STEP 6: Determine the actual circuit current for each wire in the bundle and for the
+   whole bundle. If the values calculated in step #5 are exceeded, select the next larger
+   size wire and repeat the calculations.
+
+   b. Example 2. Assume a harness (open or braided), consisting of 12, size #12,
+200 °C-rated copper wires, will be operated in an ambient of 25 °C at sea level and 60 °C at a
+20,000-foot altitude. All 12 wires will be operated at or near their maximum capacity.
+
+Par 11-69  Page 11-33
+
+===== PDF PAGE 605 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   STEP 1: See the “single wire in free air” curve in Figures 11-4a and b. Determine the
+   temperature difference of the wire to determine free air ratings. Since the wire will be
+   in ambient of 25 °C and 60 °C and is rated at 200 °C, the temperature differences are
+   200 °C − 25 °C = 175 °C and 200 °C − 60 °C = 140 °C respectively. Follow the 175 °C
+   and the 140 °C temperature difference lines on Figure 11-4a until each intersects wire
+   size line, the free air ratings of size #12 are 68 amps and 61 amps, respectively.
+
+   STEP 2: See the “bundling derating curves” in Figure 11-5, the 100-percent curve is
+   selected because we know all 12 wires will be carrying full load. Find 12 (on the
+   abscissa) since there are 12 wires in the bundle and determine a derating factor of 0.43
+   (on the ordinate) from the 100-percent curve.
+
+   STEP 3: Derate the size #12 free air ratings by multiplying 68 amps and 61 amps by
+   0.43 to get 29.2 amps and 26.2 amps, respectively.
+
+   STEP 4: See the “altitude derating curve” of Figure 11-6, look for sea level and 20,000
+   feet (on the abscissa) since these are the conditions at which the load will be carried.
+   The wire must be derated by a factor of 1.0 and 0.91, respectively.
+
+   STEP 5: Derate the size #12 in a bundle rating by multiplying 29.2 amps at sea level
+   and 26.6 amps at 20,000 feet by 1.0 and 0.91, respectively, to obtain 29.2 amps and
+   23.8 amps. The total bundle capacity at sea level and 25 °C ambient is
+   29.2x12 = 350.4 amps. At 20,000 feet and 60 °C ambient the bundle capacity is
+   23.8x12 = 285.6 amps. Each size #12 wire can carry 29.2 amps at sea level, 25 °C
+   ambient or 23.8 amps at 20,000 feet, and 60 °C ambient.
+
+   STEP 6: Determine the actual circuit current for each wire in the bundle and for the
+   bundle. If the values calculated in Step #5 are exceeded, select the next larger size wire
+   and repeat the calculations.
+
+Par 11-69  Page 11-34
+
+===== PDF PAGE 606 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-2. CONDUCTOR CHART, CONTINUOUS FLOW
+
+Par 11-69  Page 11-35
+
+===== PDF PAGE 607 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-3. CONDUCTOR CHART, INTERMITTENT FLOW
+
+Par 11-69  Page 11-36
+
+===== PDF PAGE 608 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-4A. SINGLE COPPER WIRE IN FREE AIR
+
+Par 11-69  Page 11-37
+
+===== PDF PAGE 609 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-4B. SINGLE COPPER WIRE IN FREE AIR
+
+Par 11-69  Page 11-38
+
+===== PDF PAGE 610 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-5. BUNDLE DERATING CURVES
+
+Par 11-69  Page 11-39
+
+===== PDF PAGE 611 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 11-6. ALTITUDE DERATING CURVE
+
+11-70.–11-75. [RESERVED.]
+
+Par 11-69  Page 11-40
+
+===== PDF PAGE 612 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 6. AIRCRAFT ELECTRICAL WIRE SELECTION
+
+11-76. GENERAL. Aircraft service imposes severe environmental condition on electrical wire.
+To ensure satisfactory service, inspect wire annually for abrasions, defective insulation,
+condition of terminations, and potential corrosion. Grounding connections for power, distribution
+equipment, and electromagnetic shielding must be given particular attention to ensure that
+electrical bonding resistance has not been significantly increased by the loosening of connections
+or corrosion.
+
+   a. Wire Size. Wires must have sufficient mechanical strength to allow for service
+conditions. Do not exceed allowable voltage drop levels. Ensure that the wires are protected by
+system circuit protection devices, and that they meet circuit current carrying requirements. If it is
+desirable to use wire sizes smaller than #20, particular attention should be given to the
+mechanical strength and installation handling of these wires, e.g., vibration, flexing, and
+termination. When used in interconnecting airframe application, #24 gauge wire must be made of
+high-strength alloy.
+
+   b. Installation Precautions for Small Wires. As a general practice, wires smaller than
+size #20 must be provided with additional clamps, grouped with at least three other wires, and
+have additional support at terminations, such as connector grommets, strain-relief clamps,
+shrinkable sleeving, or telescoping bushings. They should not be used in applications where they
+will be subjected to excessive vibration, repeated bending, or frequent disconnection from screw
+terminations.
+
+   c. Identification. All wire used on aircraft must have its type identification imprinted
+along its length. It is common practice to follow this part number with the five-digit/letter
+Commercial and Government Entity (CAGE) code identifying the wire manufacturer. Existing
+installed wire that needs replacement can thereby be identified as to its performance capabilities,
+and the inadvertent use of a lower performance and unsuitable replacement wire avoided.
+
+   (1) In addition to the type identification imprinted by the original wire manufacturer,
+aircraft wire also contains its unique circuit identification coding that is put on at the time of
+harness assembly. The traditional “Hot Stamp” method has not been totally satisfactory in recent
+years when used on modern, ultra-thin-walled installations. Fracture of the insulation wall and
+penetration to the conductor of these materials by the stamping dies have occurred. Later in
+service, when these openings have been wetted by various fluids, serious arcing and surface
+tracking have damaged wire bundles.
+
+   (2) Extreme care must be taken during circuit identification by a hot stamp machine on
+wire with a 10 mil wall or thinner. Alternative identification methods, such as “Laser Printing”
+and “Ink Jet,” are coming into increasing use by the industry. When such modern equipment is
+not available, the use of stamped identification sleeving should be considered on thin-walled
+wire, especially when insulation wall thickness falls below 10 mils.
+
+11-77. AIRCRAFT WIRE MATERIALS. Only wire specifically designed for airborne use
+must be installed in aircraft.
+
+Par 11-76  Page 11-41
+
+===== PDF PAGE 613 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. Authentic Aircraft Wire. Most aircraft wire designs are to specifications that require
+manufacturers to pass rigorous testing of wires before being added to a Qualified Products List
+(QPL) and being permitted to produce the wire. Aircraft manufacturers who maintain their own
+wire specifications invariably exercise close control on their approved sources. Such military or
+original equipment manufacturer (OEM) wire used on aircraft should only have originated from
+these defined wire mills. Aircraft wire from other unauthorized firms, and fraudulently marked
+with the specified identification, must be regarded as “unapproved wire,” and usually will be of
+inferior quality with little or no process control testing. Efforts must be taken to ensure obtaining
+authentic, fully tested aircraft wire.
+
+   b. Plating. Bare copper develops a surface oxide coating at a rate dependent on
+temperature. This oxide film is a poor conductor of electricity and inhibits determination of wire.
+Therefore, all aircraft wiring has a coating of tin, silver, or nickel, that have far slower oxidation
+rates.
+
+   (1) Tin-coated copper is a very common plating material. Its ability to be successfully
+soldered without highly active fluxes diminishes rapidly with time after manufacture. It can be
+used up to the limiting temperature of 150 °C.
+
+   (2) Silver-coated wire is used where temperatures do not exceed 200 °C (392 °F).
+
+   (3) Nickel-coated wire retains its properties beyond 260 °C, but most aircraft wire using
+such coated strands have insulation systems that cannot exceed that temperature on long-term
+exposure. Soldered terminations of nickel-plated conductor require the use of different solder
+sleeves or flux than those used with tin or silver-plated conductor.
+
+   c. Conductor Stranding. Because of flight vibration and flexing, conductor round wire
+should be stranded to minimize fatigue breakage.
+
+   d. Wire Construction Versus Application. The most important consideration in the
+selection of aircraft wire is properly matching the wire’s construction to the application
+environment. Wire construction that is suitable for the most severe environmental condition to be
+encountered should be selected. Wires are typically categorized as being suitable for either “open
+wiring” or “protected wiring” applications. MIL-W-5088L (replaced by SAE AS50881, Wiring
+Aerospace Vehicle), Appendix A, Table A-I lists wires considered to have sufficient abrasion
+and cut-through resistance to be suitable for open-harness construction. MIL-W-5088L (replaced
+by SAE AS50881, Wiring Aerospace Vehicle), Appendix A, Table A-II lists wires for protected
+applications. These wires are not recommended for aircraft interconnection wiring unless the
+subject harness is covered throughout its length by a protective jacket. The wire temperature
+rating is typically a measure of the insulation’s ability to withstand the combination of ambient
+temperature and current related conductor temperature rise.
+
+   e. Insulation. There are many insulation materials and combinations used on aircraft
+electrical wire. Characteristics should be chosen based on environment; such as abrasion
+resistance, arc resistance, corrosion resistance, cut-through strength, dielectric strength, flame
+resistant, mechanical strength, smoke emission, fluid resistance, and heat distortion. An
+explanation of many of the abbreviations is identified in the glossary.
+
+Par 11-77  Page 11-42
+
+===== PDF PAGE 614 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-78. SUBSTITUTIONS. In the repair and modification of existing aircraft, when a
+replacement wire is required, the maintenance manual for that aircraft must first be reviewed to
+determine if the original aircraft manufacturer (OAM) has approved any substitution. If not, then
+the OAM must be contacted for an acceptable replacement.
+
+   a. MIL-W-5088L (replaced by SAE AS50881, Wiring Aerospace Vehicle) Appendix A
+lists wire types that have been approved for military aerospace applications in open and protected
+wiring applications. These wires could potentially be used for substitution when approved by the
+OAM.
+
+   b. Areas designated as severe wind and moisture problem (SWAMP) areas differ from
+aircraft to aircraft but generally are considered to be areas such as wheel wells, near wing flaps,
+wing folds, pylons, and other exterior areas that may have a harsh environment. Wires for these
+applications often have design features incorporated into their construction that may make the
+wire unique; therefore an acceptable substitution may be difficult, if not impossible, to find. It is
+very important to use the wire type recommended in the aircraft manufacturer’s maintenance
+handbook.
+
+   c. The use of current military specification, multiconductor cables in place of OEM
+installed constructions may create problems such as color sequence. Some civilian aircraft are
+wired with the older color sequence employing “Red-Blue-Yellow” as the first three colors.
+Current military specification, multiconductor cables, in accordance with MIL-DTL-27500
+(NEMA WC27500), use “White-Blue-Orange” for the initial three colors. Use of an alternative
+color code during modification without adequate notation on wiring diagrams could severely
+complicate subsequent servicing of the aircraft.
+
+   TABLE 11-12. COMPARABLE PROPERTIES OF WIRE INSULATION SYSTEMS
+
+11-79.–11-84. [RESERVED.]
+
+Par 11-78  Page 11-43
+
+===== PDF PAGE 615 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 7. TABLE OF ACCEPTABLE WIRES
+
+11-85. AIRCRAFT WIRE TABLE. Tables 11-13 and 11-14 list wires used for the
+transmission of signal and power currents in aircraft. It does not include special purpose wires
+such as thermocouple, engine vibration monitor wire, fiber optics, data bus, and other such wire
+designs. Fire resistant wire is included because it is experiencing a wider application in aircraft
+circuits beyond that of the fire detection systems.
+
+   a. All wires in Tables 11-13 and 11-14 have been determined to meet the flammability
+requirements of 14 CFR part 25, § 25.1713(c) and the applicable portion of part 1 of appendix F
+part 25.
+
+   b. The absence of any wire from Tables 11-13 and 11-14 are not to be construed as being
+unacceptable for use in aircraft. However, the listed wires have all been reviewed for such use
+and have been found suitable, or have a successful history of such usage.
+
+   c. Explanations of the various insulation materials mentioned in Table 11-13, by
+abbreviations, can be found in Appendix 1.
+
+   TABLE 11-13. OPEN WIRING
+
+   Voltage  Rated Wire
+   Document  Rating  Temperature  Insulation Type  Conductor Type
+   (maximum)  (°C)
+   M22759/1  600  200  Fluoropolymer insulated TFE and  Silver coated
+   TFE coated glass  copper
+   M22759/2  600  260  Fluoropolymer insulated TFE and  Nickel coated
+   TFE coated glass  copper
+   M22759/3  600  260  Fluoropolymer insulated  Nickel coated
+   TFE-glass TFE  copper
+   M22759/4  600  200  Fluoropolymer insulated  Silver coated
+   TFE-glass FEP  copper
+   M22759/5  600  200  Fluoropolymer insulated extruded  Silver coated
+   TFE  copper
+   M22759/6  600  260  Fluoropolymer insulated extruded  Nickel coated
+   TFE  copper
+   M22759/7  600  200  Fluoropolymer insulated extruded  Silver coated
+   TFE  copper
+   M22759/8  600  260  Fluoropolymer insulated extruded  Nickel coated
+   TFE  copper
+   M22759/9  1000  200  Fluoropolymer insulated extruded  Silver coated
+   TFE  copper
+
+Par 11-85  Page 11-44
+
+===== PDF PAGE 616 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   Voltage  Rated Wire
+   Document  Rating  Temperature  Insulation Type  Conductor Type
+   (maximum)  (°C)
+   M22759/10  1000  260  Fluoropolymer insulated extruded  Nickel coated
+   TFE  copper
+   M22759/13  600  135  Fluoropolymer insulated FEP  Tin coated copper
+   PVF2
+   M22759/16  600  150  Fluoropolymer insulated extruded Tin coated copper
+   ETFE
+   M22759/17  600  150  Fluoropolymer insulated extruded  Silver coated
+   ETFE  high-strength
+   copper alloy
+   M22759/20  1000  200  Fluoropolymer insulated extruded  Silver coated
+   TFE  high-strength
+   copper alloy
+   M22759/21  1000  260  Fluoropolymer insulated extruded Nickel coated high
+   TFE  strength copper
+   alloy
+   M22759/34  600  150  Fluoropolymer insulated  Tin coated copper
+   cross-linked modified ETFE
+   M22759/35  600  200  Fluoropolymer insulated  Silver coated high
+   cross-linked modified ETFE  strength copper
+   alloy
+   M22759/41  600  200  Fluoropolymer insulated  Nickel coated
+   cross-linked modified ETFE  copper
+   M22759/42  600  200  Fluoropolymer insulated  Nickel coated high
+   cross-linked modified ETFE  strength copper
+   alloy
+   M22759/43  600  200  Fluoropolymer insulated  Silver coated
+   cross-linked modified ETFE  copper
+MIL-W-25038/3/2  600  260  See specification sheet *  See specification
+   sheet
+ MIL-W-81044/6  600  150  Cross-linked polyalkene  Tin coated copper
+ MIL-W-81044/7  600  150  Cross-linked polyalkene  Silver coated
+   high-strength
+   copper alloy
+ MIL-W-81044/9  600  150  Cross-linked polyalkene  Tin coated copper
+ MIL-W-81044/10  600  150  Cross-linked polyalkene  Silver coated
+   high-strength
+   copper alloy
+* Inorganic Fibers Glass TFE
+
+Par 11-85  Page 11-45
+
+===== PDF PAGE 617 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-14. PROTECTED WIRING
+
+   Voltage  Rated Wire
+   Document  Rating  Temperature  Insulation Type  Conductor Type
+   (maximum)  (°C)
+   M22759/11  600  200  Fluoropolymer insulated  Silver coated
+   extruded TFE  copper
+   M22759/12  600  260  Fluoropolymer insulated  Nickel coated
+   extruded TFE  copper
+   M22759/14  600  135  Fluoropolymer insulated  Tin coated copper
+   FEP-PVF2
+   M22759/15  600  135  Fluoropolymer insulated  Silver plated
+   FEP-PVF2  high-strength
+   copper alloy
+   M22759/18  600  150  Fluoropolymer insulated  Tin coated copper
+   extruded ETFE
+   M22759/19  600  150  Fluoropolymer insulated  Silver coated
+   extruded ETFE  high-strength
+   copper alloy
+   M22759/22  600  200  Fluoropolymer insulated  Silver coated
+   extruded TFE  high-strength
+   copper alloy
+   M22759/23  600  260  Fluoropolymer insulated  Nickel coated
+   extruded TFE  high-strength
+   copper alloy
+   M22759/32  600  150  Fluoropolymer insulated  Tin coated copper
+   cross-linked modified ETFE
+   M22759/33  600  200  Fluoropolymer insulated  Silver coated
+   cross-linked modified ETFE  high-strength
+   copper alloy
+   M22759/44  600  200  Fluoropolymer insulated  Silver coated
+   cross-linked modified ETFE  copper
+   M22759/45  600  200  Fluoropolymer insulated  Nickel coated
+   cross-linked modified ETFE  copper
+   M22759/46  600  200  Fluoropolymer insulated  Nickel coated
+   cross-linked modified ETFE  high-strength
+   copper alloy
+MIL-W-81044/12  600  150  Cross-linked polyalkene-PVF2  Tin coated copper
+MIL-W-81044/13  600  150  Cross-linked polyalkene-PVF2  Silver coated
+   high-strength
+   copper alloy
+
+Par 11-85  Page 11-46
+
+===== PDF PAGE 618 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   Voltage  Rated Wire
+   Document  Rating  Temperature  Insulation Type  Conductor Type
+   (maximum)  (°C)
+ MIL-W-81381/17  600  200  Fluorocarbon polyimide  Silver coated
+   copper
+ MIL-W-81381/18  600  200  Fluorocarbon polyimide  Nickel coated
+   copper
+ MIL-W-81381/19  600  200  Fluorocarbon polyimide  Silver coated
+   high-strength
+   copper alloy
+ MIL-W-81381/20  600  200  Fluorocarbon polyimide  Nickel coated
+   high-strength
+   copper alloy
+ MIL-W-81381/21  600  150  Fluorocarbon polyimide  Tin coated copper
+
+11-86. OPEN AIRFRAME INTERCONNECTING WIRE. Interconnecting wire is used in
+point-to-point open harnesses, normally in the interior or pressurized fuselage, with each wire
+providing enough insulation to resist damage from handling and service exposure. (See
+Table 11-13.) Electrical wiring is often installed in aircraft without special enclosing means. This
+practice is known as open wiring and offers the advantages of ease of maintenance and reduced
+weight.
+
+11-87. PROTECTED WIRE. Airborne wire that is used within equipment boxes, or has
+additional protection, such as an exterior jacket, conduit, tray, or other covering is known as
+protected wire. (See Table 11-14.)
+
+11-88. SEVERE WIND AND MOISTURE PROBLEMS (SWAMP).
+
+   a. Areas such as wheel wells, wing fold and pylons, flap areas, and those areas exposed to
+extended weather shall dictate selection and will require special consideration. Insulation or
+jacketing will vary according to the environment. Suitable wire types selected from
+MIL-W-22759 (M22759) shall be used in these applications. (See Table 11-13.)
+
+   b. Suitable wire types selected from MIL-W-22759 are preferred for areas that require
+repeated bending and flexing of the wire. Consideration should be made to areas that require
+frequent component removal or repair. (See Table 11-13.)
+
+11-89. SHIELDED WIRE. With the increase in number of highly sensitive electronic devices
+found on modern aircraft, it has become very important to ensure proper shielding for many
+electric circuits. Shielding is the process of applying a metallic covering to wiring and equipment
+to eliminate interference caused by stray electromagnetic energy. Shielded wire or cable is
+typically connected to the aircraft’s ground at both ends of the wire, or at connectors in the cable.
+Electromagnetic Interference (EMI) is caused when electromagnetic fields (radio waves) induce
+high-frequency (HF) voltages in a wire or component. The induced voltage can cause system
+inaccuracies or even failure, therefore putting the aircraft and passengers at risk. Shielding helps
+to eliminate EMI by protecting the primary conductor with an outer conductor. Refer to
+
+Par 11-85  Page 11-47
+
+===== PDF PAGE 619 =====
+9/27/01  AC 43.13-1B CHG 1
+
+MIL-DTL-27500 (NEMA WC27500), Cable, Power, Electrical and Cable Special Purpose,
+Electrical Shielded and Unshielded General Specifications.
+
+11-90.–11-95. [RESERVED.]
+
+Par 11-89  Page 11-48
+
+===== PDF PAGE 620 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 8. WIRING INSTALLATION INSPECTION REQUIREMENTS
+
+11-96. GENERAL. Wires and cables should be inspected for adequacy of support, protection,
+and general condition throughout. The desirable and undesirable features in aircraft wiring
+installations are listed below and indicate conditions that may or may not exist. Accordingly,
+aircraft wiring must be visually inspected for the following requirements:
+
+   CAUTION: For personal safety, and to avoid the possibility of fire, turn off
+   all electrical power prior to starting an inspection of the aircraft electrical
+   system or performing maintenance.
+
+   a. Wires and cables are supported by suitable clamps, grommets, or other devices at
+intervals of not more than 24 inches, except when contained in troughs, ducts, or conduits. The
+supporting devices should be of a suitable size and type, with the wires and cables held securely
+in place without damage to the insulation.
+
+   b. Metal stand-offs must be used to maintain clearance between wires and structure.
+Employing tape or tubing is not acceptable as an alternative to stand-offs for maintaining
+clearance.
+
+   c. Phenolic blocks, plastic liners, or rubber grommets are installed in holes, bulkheads,
+floors, or structural members where it is impossible to install off-angle clamps to maintain wiring
+separation. In such cases, additional protection in the form of plastic or insulating tape may be
+used.
+
+   d. Wires and cables in junction boxes, panels, and bundles are properly supported and
+laced to provide proper grouping and routing.
+
+   e. Clamp retaining screws are properly secured so that the movement of wires and cables
+is restricted to the span between the points of support and not on soldered or mechanical
+connections at terminal posts or connectors.
+
+   f. Wire and cables are properly supported and bound so that there is no interference with
+other wires, cables, and equipment.
+
+   g. Wires and cables are adequately supported to prevent excessive movement in areas of
+high vibration.
+
+   h. Insulating tubing is secured by tying, tie straps, or with clamps.
+
+   i. Continuous lacing (spaced 6 inches apart) is not used, except in panels and junction
+boxes where this practice is optional. When lacing is installed in this manner, outside junction
+boxes should be removed and replaced with individual loops.
+
+   j. Do not use tapes (such as friction or plastic tape) which will dry out in service, produce
+chemical reactions with wire or cable insulation, or absorb moisture.
+
+Par 11-96  Page 11-49
+
+===== PDF PAGE 621 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   k. Insulating tubing must be kept at a minimum and must be used to protect wire and
+cable from abrasion, chafing, exposure to fluid, and other conditions which could affect the cable
+insulation. However; the use of insulating tubing for support of wires and cable in lieu of
+stand-offs is prohibited.
+
+   l. Do not use moisture-absorbent material as “fill” for clamps or adapters.
+
+   m. Ensure that wires and cables are not tied or fastened together in conduit or insulating
+tubing.
+
+   n. Ensure cable supports do not restrict the wires or cables in such a manner as to
+interfere with operation of equipment shock mounts.
+
+   o. Do not use tape, tie straps, or cord for primary support.
+
+   p. Make sure that drain holes are present in drip loops or in the lowest portion of tubing
+placed over the wiring.
+
+   q. Ensure that wires and cables are routed in such a manner that chafing will not occur
+against the airframe or other components.
+
+   r. Ensure that wires and cables are positioned in such a manner that they are not likely
+to be used as handholds or as support for personal belongings and equipment.
+
+   s. Ensure that wires and cables are routed, insofar as practicable, so that they are not
+exposed to damage by personnel moving within the aircraft.
+
+   t. Ensure that wires and cables are located so as not to be susceptible to damage by the
+storage or shifting of cargo.
+
+   u. Ensure that wires and cables are routed so that there is not a possibility of damage
+from battery electrolytes or other corrosive fluids.
+
+   v. Ensure that wires and cables are adequately protected in wheel wells and other areas
+where they may be exposed to damage from impact of rocks, ice, mud, etc. (If rerouting of wires
+or cables is not practical, protective jacketing may be installed). This type of installation must be
+held to a minimum.
+
+   w. Where practical, route electrical wires and cables above fluid lines and avoid routing
+any wiring though fuel tanks to prevent an ignition hazard. If unavoidable, provide a 6-inch
+separation from any flammable liquid, fuel, or oxygen line, fuel tank wall, or other low-voltage
+wiring. Where 6-inch spacing cannot practically be provided, a minimum of 2 inches must be
+maintained between wiring and such lines, related equipment, fuel tank walls and low-voltage
+wiring that enters a fuel tank. Such wiring should be closely clamped and rigidly supported and
+tied at intervals such that contact between such lines, related equipment, fuel tank walls, or other
+wires would not occur, assuming a broken wire and a missing wire tie or clamp.
+
+Par 11-96  Page 11-50
+
+===== PDF PAGE 622 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   x. Ensure that a trap or drip loop is provided to prevent fluids or condensed moisture
+from running into wires and cables dressed downward to a connector, terminal block, panel, or
+junction box.
+
+   y. Wires and cables installed in bilges and other locations where fluids may be trapped
+are routed as far from the lowest point as possible or otherwise provided with a moisture-proof
+covering.
+
+   z. Separate wires from high-temperature equipment, such as resistors, exhaust stacks,
+heating ducts, etc., to prevent insulation breakdown. Insulate wires that must run through hot
+areas with a high-temperature insulation material such as fiberglass or polytetrafluoroethylene
+(PTFE). Avoid high-temperature areas when using cables having soft plastic insulation such as
+polyethylene, because these materials are subject to deterioration and deformation at elevated
+temperatures. Many coaxial cables have this type of insulation.
+
+   aa. The minimum radius of bends in wire groups or bundles must not be less than
+10 times the outside diameter of the largest wire or cable, except that at the terminal strips where
+wires break out at terminations or reverse direction in a bundle. Where the wire is suitably
+supported, the radius may be 3 times the diameter of the wire or cable. Where it is not practical
+to install wiring or cables within the radius requirements, the bend should be enclosed in
+insulating tubing. The radius for thermocouple wire should be done in accordance with the
+manufacturer’s recommendation and shall be sufficient to avoid excess losses or damage to the
+cable.
+
+   bb. Ensure that RF cables, e.g., coaxial and triaxial are bent at a radius of no less than
+6 times the outside diameter of the cable.
+
+   cc. Ensure that wires and cables, that are attached to assemblies where relative movement
+occurs (such as at hinges and rotating pieces; particularly doors, control sticks, control wheels,
+columns, and flight control surfaces), are installed or protected in such a manner as to prevent
+deterioration of the wires and cables caused by the relative movement of the assembled parts.
+
+   dd. Ensure that wires and electrical cables are separated from mechanical control cables.
+In no instance should wire be able to come closer than 1/2 inch to such controls when light hand
+pressure is applied to wires or controls. In cases where clearance is less than this, adequate
+support must be provided to prevent chafing.
+
+   ee. Ensure that wires and cables are provided with enough slack to meet the following
+requirements:
+
+   (1) Permit ease of maintenance.
+
+   (2) Prevent mechanical strain on the wires, cables, junctions, and supports.
+
+   (3) Permit free movement of shock- and vibration-mounted equipment.
+
+   (4) Allow shifting of equipment, as necessary, to perform alignment, servicing, tuning,
+removal of dust covers, and changing of internal components while installed in aircraft.
+
+Par 11-96  Page 11-51
+
+===== PDF PAGE 623 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   ff. Ensure that unused wires are individually dead-ended, tied into a bundle, and secured
+to a permanent structure. Each wire should have strands cut even with the insulation and a
+pre-insulated closed end connector or a 1-inch piece of insulating tubing placed over the wire
+with its end folded back and tied.
+
+   gg. Ensure that all wires and cables are identified properly at intervals of not more than
+15 inches. Coaxial cables are identified at both equipment ends.
+
+11-97. WIRING REPLACEMENT. Wiring must be replaced with equivalent wire (see
+paragraph 11-78) when found to have any of the following defects:
+
+   a. Wiring that has been subjected to chafing or fraying, that has been severely damaged,
+or that primary insulation is suspected of being penetrated.
+
+   b. Wiring on which the outer insulation is brittle to the point that slight flexing causes it to
+crack.
+
+   c. Wiring having weather-cracked outer insulation.
+
+   d. Wiring that is known to have been exposed to electrolyte or on which the insulation
+appears to be, or is suspected of being, in an initial stage of deterioration due to the effects of
+electrolyte.
+
+   e. Check wiring that shows evidence of overheating (even if only to a minor degree) for
+the cause of the overheating.
+
+   f. Wiring on which the insulation has become saturated with engine oil, hydraulic fluid,
+or another lubricant.
+
+   g. Wiring that bears evidence of having been crushed or severely kinked.
+
+   h. Shielded wiring on which the metallic shield is frayed and/or corroded. Cleaning
+agents or preservatives should not be used to minimize the effects of corrosion or deterioration of
+wire shields.
+
+   i. Wiring showing evidence of breaks, cracks, dirt, or moisture in the plastic sleeves
+placed over wire splices or terminal lugs.
+
+   j. Sections of wire in which splices occur at less than 10-foot intervals, unless specifically
+authorized, due to parallel connections, locations, or inaccessibility.
+
+   k. When replacing wiring or coaxial cables, identify them properly at both equipment
+and power source ends.
+
+   l. Wire substitution: In the repair and modification of existing aircraft, when a
+replacement wire is required, the maintenance manual for that aircraft should first be reviewed to
+determine if the original aircraft manufacturer (OAM) has approved any substitution. If not, then
+the OAM should be contacted for an acceptable replacement.
+
+Par 11-96  Page 11-52
+
+===== PDF PAGE 624 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   m. Testing of the electrical and chemical integrity of the insulation of sample wires
+taken from areas of the aircraft that have experienced wiring problems in the past can be used to
+supplement visual examination of the wire. The test for chemical integrity should be specific for
+the degradation mode of the insulation. If the samples fail either the electrical or chemical
+integrity tests, then the wiring in the area surrounding the sampling area is a candidate for
+replacement.
+
+11-98. TERMINALS AND TERMINAL BLOCKS. Inspect to ensure that the following
+installation requirements are met:
+
+   a. Insulating tubing is placed over terminals (except pre-insulated types) to provide
+electrical protection and mechanical support and is secured to prevent slippage of the tubing
+from the terminal.
+
+   b. Terminal module blocks are securely mounted and provided with adequate electrical
+clearances or insulation strips between mounting hardware and conductive parts, except when
+the terminal block is used for grounding purposes.
+
+   c. Terminal connections to terminal module block studs and nuts on unused studs are
+tight.
+
+   d. Evidence of overheating and corrosion is not present on connections to terminal
+module block studs.
+
+   e. Physical damage to studs, stud threads, and terminal module blocks is not evident.
+Replace cracked terminal strips and those studs with stripped threads.
+
+   f. The number of terminal connections to a terminal block stud does not exceed four,
+unless specifically authorized.
+
+   g. Shielding should be dead-ended with suitable insulated terminals.
+
+   h. All wires, terminal blocks, and individual studs are clearly identified to correspond to
+aircraft wiring manuals.
+
+   i. Terminations should be made using terminals of the proper size and the appropriate
+terminal crimping tools.
+
+11-99. FUSES AND FUSE HOLDERS. Inspect as follows:
+
+   a. Check security of connections to fuse holders.
+
+   b. Inspect for the presence of corrosion and evidence of overheating on fuses and fuse
+holders. Replace corroded fuses and clean fuse holders. If evidence of overheating is found,
+check for correct rating of fuse.
+
+   c. Check mounting security of fuse holder.
+
+Par 11-97  Page 11-53
+
+===== PDF PAGE 625 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   d. Inspect for replenishment of spare fuses used in flight. Replace with fuses of
+appropriate current rating only.
+
+   e. Inspect for exposed fuses susceptible to shorting. Install cover of nonconducting
+material if required.
+
+11-100. CONNECTORS. Ensure reliability of connectors by verifying that the following
+conditions are met or that repairs are effected as required.
+
+   a. Inspect connectors for security and evidence of overheating (cause of overheating
+must be corrected), and exteriors for corrosion and cracks. Also, wires leading to connectors
+must be inspected for deterioration due to overheating. Replace corroded connections and
+overheated connectors.
+
+   b. Ensure installation of cable clamp (refer to MIL-C-85049 (AS85049)) adapters on
+applicable MS connectors, except those that are moisture-proof.
+
+   c. See that silicone tape is wrapped around wires in AMS3057 cable clamp adapters so
+that tightening of the cable clamp adapter cap provides sufficient grip on the wires to keep
+tension from being applied to the connector pins.
+
+   d. Make sure unused plugs and receptacles are covered to prevent inclusion of dust and
+moisture. Receptacles should have metal or composite dust caps attached by their normal mating
+method. Plugs may have a dust cap similar to above or have a piece of polyolefin shrink sleeving
+shrunk over the connector, starting from the back shell threads, with a tail sufficiently long
+enough to double-back over the connector and be tied with polyester lacing tape behind the
+coupling nut. The cable identification label should be visible behind the connector or a tag
+should be attached identifying the associated circuit or attaching equipment. The connector
+should be attached to structure by its normal mounting means or by the use of appropriate
+clamps.
+
+   e. Ensure that connectors are fully mated by checking position and tightness of coupling
+ring or its alignment with fully mated indicator line on receptacle, if applicable.
+
+   f. Ensure that the coupling nut of MS connectors is safetied, by wire or other
+mechanical locking means, as required by applicable aircraft instructional manuals.
+
+   g. Ensure that moisture-absorbent material is not used as “fill” for AMS3057 clamps
+or adapters.
+
+   h. Ensure that there is no evidence of deterioration such as cracking, missing, or
+disintegration of the potting material.
+
+   i. Identical connectors in adjacent locations can lead to incorrect connections. When
+such installations are unavoidable, the attached wiring must be clearly identified and must be
+routed and clamped so that it cannot be mismatched.
+
+Par 11-99  Page 11-54
+
+===== PDF PAGE 626 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   j. Connectors in unpressurized areas should be positioned so that moisture will drain
+out of them when unmated. Wires exiting connectors must be routed so that moisture drains
+away from them.
+
+11-101. JUNCTION BOXES, PANELS, SHIELDS, AND MICRO-SWITCH HOUSINGS.
+Examine housing assemblies to ascertain the following:
+
+   a. Verify that one or more suitable holes, about 3/8-inch diameter, but not less than
+1/8-inch diameter, are provided at the lowest point of the box, except vapor-tight boxes, to allow
+for drainage with the aircraft on the ground or in level flight.
+
+   b. Verify that vapor tight or explosion proof boxes are externally labeled VAPOR
+TIGHT or EXPLOSION PROOF.
+
+   c. Verify that boxes are securely mounted.
+
+   d. Verify that boxes are clean internally and free of foreign objects.
+
+   e. Verify that safety wiring is installed on all lid fasteners on J-boxes, panels, shields, or
+micro-switch housings which are installed in areas not accessible for inspection in flight, unless
+the fasteners incorporate self-locking devices.
+
+   f. Verify that box wiring is properly aligned.
+
+   g. Verify that there are no unplugged, unused holes (except drainage holes) in boxes.
+
+11-102. RIGID METALLIC, FLEXIBLE METALLIC AND RIGID NONMETALLIC
+CONDUIT. Inspection of conduit assemblies should ascertain that:
+
+   a. Conduit is relieved of strain and flexing of ferrules.
+
+   b. Conduit is not collapsed or flattened from excessive bending.
+
+   c. Conduits will not trap fluids or condensed moisture. Suitable drain holes should be
+provided at the low points.
+
+   d. Bonding clamps do not cause damage to the conduit.
+
+   e. Weatherproof shields on flexible conduits of the nose and main landing gear and in
+wheel wells are not broken; that metallic braid of weatherproof conduit is not exposed; and that
+conduit nuts, ferrules, and conduit fittings are installed securely.
+
+   f. Ends of open conduits are flared or routed to avoid sharp edges that could chafe wires
+exiting from the conduit.
+
+11-103. JUNCTIONS. Ensure that only aircraft manufacturer approved devices, such as
+solderless type terminals, terminal blocks, connectors, disconnect splices, permanent splices, and
+feed-through bushings are used for cable junctions. Inspect for the provisions outlined below:
+
+Par 11-100  Page 11-55
+
+===== PDF PAGE 627 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. Electrical junctions should be protected from short circuits resulting from movement
+of personnel, cargo, cases, and other loose or stored materials. Protection should be provided by
+covering the junctions, installing them in junction boxes, or by locating them in such a manner
+that additional protection is not required, etc.
+
+   b. Exposed junctions and buses should be protected with insulating materials. Junctions
+and buses located within enclosed areas containing only electrical and electronic equipment are
+not considered as exposed.
+
+   c. Electrical junctions should be mechanically and electrically secure. They should not be
+subject to mechanical strain or used as a support for insulating materials, except for insulation on
+terminals.
+
+11-104. CIRCUIT BREAKERS. Note those circuit breakers which have a tendency to open
+circuits frequently, require resetting more than normal, or are subject to nuisance tripping. Before
+considering their replacement, investigate the reason.
+
+11-105. SYSTEM SEPARATION. Wires of redundant aircraft systems should be routed in
+separate bundles and through separate connectors to prevent a single fault from disabling
+multiple systems. Wires not protected by a circuit-protective device, such as a circuit breaker or
+fuse, should be routed separately from all other wiring. Power feeders from separate sources
+should be routed in separate bundles from each other and from other aircraft wiring, in order to
+prevent a single fault from disabling more than one power source. The ground wires from aircraft
+power sources should be attached to the airframe at separate points so that a single failure will
+not disable multiple sources. Wiring that is part of electro-explosive subsystems, such as
+cartridge-actuated fire extinguishers, rescue hoist shear, and emergency jettison devices, should
+be routed in shielded and jacketed twisted-pair cables, shielded without discontinuities, and kept
+separate from other wiring at connectors. To facilitate identification of specific separated system
+bundles, use of colored plastic cable ties or lacing tape is allowed. During aircraft maintenance,
+colored plastic cable straps or lacing tape should be replaced with the same type and color of
+tying materials.
+
+11-106. ELECTROMAGNETIC INTERFERENCE (EMI). Wiring of sensitive circuits that
+may be affected by EMI must be routed away from other wiring interference, or provided with
+sufficient shielding to avoid system malfunctions under operating conditions. EMI between
+susceptible wiring and wiring which is a source of EMI increases in proportion to the length of
+parallel runs and decreases with greater separation. EMI should be limited to negligible levels in
+wiring related to critical systems, that is, the function of the critical system should not be affected
+by the EMI generated by the adjacent wire. Use of shielding with 85-percent coverage or greater
+is recommended. Coaxial, triaxial, twinaxial, or quadraxial cables should be used, wherever
+appropriate, with their shields connected to ground at a single point or multiple points, depending
+upon the purpose of the shielding. The airframe grounded structure may also be used as an EMI
+shield.
+
+11-107. INTERFERENCE TESTS. Perform an interference test for installed equipment and
+electrical connections as follow:
+
+Par 11-103  Page 11-56
+
+===== PDF PAGE 628 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. The equipment must be installed in accordance with manufacturer’s installation
+instructions. Visually inspect all the installed equipment to determine that industry standard
+workmanship and engineering practices were used. Verify that all mechanical and electrical
+connections have been properly made and that the equipment has been located and installed in
+accordance with the manufacturer’s recommendations. The wire insulation temperature rating
+should also be considered.
+
+   b. Power input tests must be conducted with the equipment powered by the airplane’s
+electrical power generating system, unless otherwise specified.
+
+   c. All associated electrically operated equipment and systems on the airplane must be
+on and operating before conducting interference tests, unless otherwise specified.
+
+   d. The effects on interference must be evaluated as follows:
+
+   (1) The equipment shall not be the source of harmful conducted or radiated interference
+or adversely affect other equipment or systems installed in the airplane.
+
+   (2) With the equipment energized on the ground, individually operate other electrically
+operated equipment and systems on the airplane to determine that no significant conducted or
+radiated interference exists. Evaluate all reasonable combinations of control settings and
+operating modes. Operate communication and navigation equipment on at least one low-, high-,
+and mid-band frequency. Make note of systems or modes of operation that should also be
+evaluated during flight.
+
+   (3) For airplane equipment and systems that can be checked only in flight, determine
+that no operationally significant conducted or radiated interference exists. Evaluate all reasonable
+combinations of control settings and operating modes. Operate communications and navigation
+equipment on at least one low-, high-, and mid-band frequency.
+
+   (a) Electromagnetic compatibility problems which develop after installation of this
+equipment may result from such factors as design characteristics of previously installed systems
+or equipment, and the physical installation itself. It is not intended that the equipment
+manufacturer should design for all installation environments. The installing facility will be
+responsible for resolving any incompatibility between this equipment and previously installed
+equipment in the airplane. The various factors contributing to the incompatibility should be
+considered.
+
+   (b) Ground EMI test have consistently been found adequate for follow-on approvals
+of like or identical equipment types, irrespective of the airplane model used for the initial
+approval. Radio frequency transmission devices, such as wireless telephones, must also be tested
+with respect to their transmission frequencies and harmonics.
+
+11-108. IDENTIFICATION STENCILS AND PLACARDS ON ELECTRICAL
+EQUIPMENT. Replace worn stencils and missing placards.
+
+11-109.–11-114. [RESERVED.]
+
+Par 11-107  Page 11-57
+

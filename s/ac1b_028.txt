@@ -1,0 +1,1108 @@
+AC 43.13-1B Chg 1, chapter 12 (Aircraft Avionics Systems), PDF pages 706-731
+
+===== PDF PAGE 706 =====
+9/8/98  AC 43.13-1B
+
+   CHAPTER 12. AIRCRAFT AVIONICS SYSTEMS
+
+   SECTION 1. AVIONICS EQUIPMENT MAINTENANCE
+
+12-1. GENERAL. There are several methods of ground checking avionics systems.
+
+   a. Visual Check. Check for physical condition and safety of equipment and components.
+
+   b. Operation Check. This check is performed primarily by the pilot, but may also be
+performed by the mechanics after annual and 100-hour inspections. The Aircraft Flight Manual
+(AFM), the Airman’s Information Manual (AIM), and the manufacturer’s information are used
+as a reference when performing the check.
+
+   c. Functional Test. This is performed by qualified mechanics and repair stations to check
+the calibration and accuracy of the avionics with the use of test equipment while they are still on
+the aircraft, such as the transponder and the static checks. The equipment manufacturer’s
+manuals and procedures are used as a reference.
+
+   d. Bench Test. When using this method the unit or instrument is removed from the aircraft
+and inspected, repaired, and calibrated as required.
+
+   e. Electromagnetic Interference (EMI). For EMI tests, refer to chapter 11,
+paragraph 11-107 of this AC.
+
+12-2. HANDLING OF COMPONENTS. Any unit containing electronic components such as
+transistors, diodes, integrated circuits, programmable read-only memory (PROM), Read-Only
+Memory (ROM), and memory devices should be protected from excessive shocks. Excessive
+shock can cause internal failures of these components. Most electronic devices are subject to
+damage by electrostatic discharges (ESD).
+
+   CAUTION: To prevent damage due to excessive electrostatic discharge,
+   proper gloves, finger cots, or grounding bracelets should be used. Observe
+   the standard procedures for handling equipment containing electrostatic
+   sensitive devices or assemblies in accordance with the recommendations and
+   procedures set forth in the maintenance instructions set forth by the
+   equipment manufacturers.
+
+12-3.–12-7. [RESERVED.]
+
+Par 12-1  Page 12-1
+
+===== PDF PAGE 707 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 2. GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT
+   (ELECTRICAL)
+
+12-8. GENERAL. When the operating or airworthiness regulations require a system to
+perform its intended function, the use of the Technical Standard Order (TSO) equipment or the
+submission of data substantiating the equipment performance is strongly recommended. An
+operation check of avionics is the responsibility of the pilot in command. However, it is
+recommended that after replacement of equipment during 100-hour or annual inspections, an
+operational check of avionics equipment be performed. The accomplishments of these checks
+must be done in accordance with the recommendations and procedures set forth in the aircraft’s
+flight manual instructions published by the avionics equipment manufacturers.
+
+12-9. INSPECTION OF AVIONICS SYSTEMS.
+
+   a. The inspection shall include the following:
+
+   (1) Inspect the condition and security of equipment including the proper security of
+wiring bundles.
+
+   (2) Check for indications of overheating of the equipment and associated wiring.
+
+   (3) Check for poor electrical bonding. The bonding requirements are specified by
+equipment manufacturers. Installation cabling should be kept as short as possible, except for
+antenna cables which are usually precut or have a specific length called out at installation. Proper
+bonding on the order of 0.003 ohms is very important to the performance of avionics equipment.
+
+   (4) Check to assure that the radios and instruments are secured to the instrument panel.
+
+   (5) Check that all avionics are free of dust, dirt, lint, or any other airborne contaminates.
+If there is a forced air cooling system, it must be inspected for proper operation. Equipment
+ventilation openings must not be obstructed.
+
+   (6) Check the microphone headset plugs and connectors and all switches and controls
+for condition and operation. Check all avionics instruments for placards. Check lighting,
+annunciator lights, and cockpit interphone for proper operation.
+
+   (7) The circuit breaker panel must be inspected for the presence of placarding for each
+circuit breaker installed.
+
+   (8) Check the electrical circuit switches, especially the spring-load type for proper
+operation. An internal failure in this type of switch may allow the switch to remain closed even
+though the toggle or button returns to the OFF position. During inspection, attention must be
+given to the possibility that improper switch substitution may have been made.
+
+Par 12-8  Page 12-2
+
+===== PDF PAGE 708 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   b. Inspect antennas for:
+
+   (1) Broken or missing antenna insulators,
+
+   (2) Lead through insulators,
+
+   (3) Springs,
+
+   (4) Safety wires,
+
+   (5) Cracked antenna housing,
+
+   (6) Missing or poor sealant at base of antenna,
+
+   (7) Correct installation,
+
+   (8) Signs of corrosion,
+
+   (9) The condition of paint/bonding and grounding, and
+
+   (10) Check the bonding of each antenna from mounting base to the aircraft skin.
+Tolerance: .1 ohm, maximum.
+
+   (a) Test equipment:
+
+   1. 1502B Metallic Time Domain Reflectometer or equivalent.
+
+   2. Thruline Wattmeter.
+
+   (b) Perform the antenna evaluation check using the domain reflectometer to
+determine the condition of the antenna and coax cables. Refer to manufacturer’s maintenance
+procedures.
+
+   (c) Use Thruline wattmeter as needed for addition evaluation. Refer to
+manufacturer’s maintenance procedures. Check for the following:
+
+   1. Resistance.
+
+   2. Shorts.
+
+   3. Opens.
+
+   c. Inspect the static dischargers/wicks for:
+
+   (1) Physical security of mounting attachments, wear or abrasion of wicks, missing
+wicks, etc.;
+
+   (2) Assurance that 1 inch of the inner braid of flexible vinyl cover wicks extends
+beyond the vinyl covering;
+
+Par 12-9  Page 12-3
+
+===== PDF PAGE 709 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (3) Assurance that all dischargers are present and securely mounted to their base;
+
+   (4) Assurance that all bases are securely bonded to skin of aircraft in order to prevent
+the existence in voltage level differences between two surfaces;
+
+   (5) Signs of excessive erosion or deterioration of discharger tip;
+
+   (6) Lightning damage as evidenced by pitting of the metal base; and
+
+   (7) Megohm value of static wick itself as per manufacturer’s instructions. It should not
+be open.
+
+   d. Subsequent inspection must be made after a maintenance action on a transponder.
+Refer to Title 14 of the Code of Federal Regulations (14 CFR) part 91, §§ 91.411 and 91.413.
+
+   e. Inspection of the emergency locator transmitter (ELT) operation, condition, and
+date of the battery.
+
+   f. Perform a function check of the radio by transmitting a request for a radio check.
+Perform a function check on navigation equipment by moving the omni bearing selection (OBS)
+and noting the needle swing and the TO/FROM flag movement.
+
+12-10. COMMUNICATION SYSTEMS. Ground operation of communication systems in
+aircraft may be accomplished in accordance with the procedures appropriate for the airport and
+area in which the test is made and the manufacturer’s manuals and procedures. Check system(s)
+for side tone, clarity of transmission, squelch, operations using headphones, speaker(s), and hand
+microphone. If a receiver or transmitter is found to be defective, it should be removed from the
+aircraft and repaired.
+
+12-11. VHF OMNI-DIRECTIONAL RANGE (VOR). A VOR operates within the 108.0 to
+111.85 MHz, and 112.0 to 117.95 MHz frequency bands. The display usually consists of a
+deviation indicator and a TO/FROM indicator. The controls consist of a frequency selector for
+selecting the ground station and an OBS, which is used for course selection. An ON/OFF flag is
+used to determine adequate field strength and presence of a valid signal. There are numerous
+configurations when integrated into flight directors and/or when using a slaved compass system,
+which uses an additional indicator that points continually to the selected omni station regardless
+of OBS. In order to determine the accuracy specified in a functional check, a ground test set must
+be used in accordance with the manufacturer’s specifications. For the purpose of this
+inspection/maintenance activity, the following operational check can be accomplished to
+determine if the equipment has the accuracy required for operation in instrument flight rules
+(IFR) environment. Verify audio identification, OBS operation, flag operation, radio magnetic
+indicator (RMI) interface, and applicable navigation (NAV) switching functions. The operational
+check is also published in the AIM, section 1-1-4. This check is required by § 91.171 before
+instrument flight operations.
+
+12-12. DISTANCE MEASURING EQUIPMENT (DME). The operation of DME consists of
+paired pulses at a specific spacing, sent out from the aircraft (this is what is called interrogation),
+and are received by the ground station, which then responds with paired pulses at the specific
+
+Par 12-9  Page 12-4
+
+===== PDF PAGE 710 =====
+9/27/01  AC 43.13-1B CHG 1
+
+spacing sent by the aircraft, but at a different frequency. The aircraft unit measures the time it
+takes to transmit and then receive the signal, which then is translated into distance. DME
+operates on frequencies from 962 MHz to 1,213 MHz. Because of the curvature of earth, this
+line-of-sight signal is reliable up to 199 nautical mile (NM) at the high end of the controlled
+airspace with an accuracy of 1/2 mile or 3 percent of the distance. DME inspection/maintenance
+on the aircraft is most commonly limited to a visual check of the installation, and if there have
+been previously reported problems, the antenna must be inspected for proper bonding and the
+absence of corrosion, both on the mounting surface, as well as the coax connector. Accuracy can
+be determined by evaluating performance during flight operations, as well as with ground test
+equipment. If a discrepancy is reported and corrected, it is good practice to make the accuracy
+determination before instrument flight. Tune the DME to a local station, or use the proper ground
+test equipment to check audio identification, and DME hold function verify correct display
+operation.
+
+12-13. AUTOMATIC DIRECTION FINDER (ADF). The ADF receivers are primarily
+designed to receive nondirectional beacons (NDB) in the 19 to 535 kHz amplitude modulation
+(AM) broadcast low band. The receivers will also operate in the commercial AM band. The ADF
+display pointer will indicate the relative bearing to a selected AM band transmitter that is in
+range. An ADF system must be checked by tuning to an adequate NDB or commercial AM
+station. Verify proper bearing to station, audio identification and tone/beat frequency oscillator
+(BFO), correct operation in closed circuit (LOOP) and sense modes. Note the orientation of the
+selected station to the aircraft using an appropriate chart. Observe the ADF relative bearing
+reading, and compare to the chart. Slew the needle and observe how fast (or slowly) it returns to
+the reading. ADF performance may be degraded by lightning activity, airframe charging, ignition
+noise and atmospheric phenomena.
+
+12-14. INSTRUMENT LANDING SYSTEMS (ILS). The ILS consist of several components,
+such as the localizer (LOC), glideslope (GS), marker beacon, radio altimeter, and DME. LOC
+and GS receivers and marker beacons will be discussed in this section.
+
+   a. LOC receiver operates on one of 40 ILS channels within the frequency range of
+108.10 to 111.95 MHz (odd tens). These signals provide course guidance to the pilot to the
+runway center line through the lateral displacement of the VOR/LOC deviation indicator. The
+ground transmitter is sighted at the far end of the runway and provides a valid signal from a
+distance of 18 NM from the transmitter. The indication gives a full fly left/right deviation of 700
+ft at the runway threshold. Identification of the transmitter is in International Morse Code and
+consists of a three letter identifier preceded by the Morse Code letter I (two dots). The LOC
+function is usually integral with the VOR system, and when maintenance is performed on the
+VOR unit, the LOC is also included. The accuracy of the system can be effectively evaluated
+through normal flight operations if evaluated during visual meteorological conditions (VMC).
+Any determination of airworthiness after reinstallation before instrument flight must be
+accomplished with ground test equipment.
+
+   b. The GS receiver operates on one of 40 channels within the frequency range
+329.15 MHz to 335.00 MHz. The GS transmitter is located between 750 ft and 1,250 ft from the
+approach end of the runway and offset 250 to 650 ft. In the absence of questionable performance,
+periodic functional flight checks of the GS system would be an acceptable way to ensure
+
+Par 12-12  Page 12-5
+
+===== PDF PAGE 711 =====
+9/27/01  AC 43.13-1B CHG 1
+
+continued system performance. The functional flight test must be conducted under visual flight
+rules (VFR) conditions. A failed or misleading system must be serviced by an appropriately rated
+repair station. Ground test equipment can be used to verify GS operation.
+
+   c. LOC/GS may have self-test function, otherwise the proper ground test equipment
+must be used. Refer to manufacturers’ or aircraft instruction manual.
+
+12-15. MARKER BEACON. Marker beacon receivers operate at 75 MHz and sense the audio
+signature of each of the three types of beacons. The marker beacon receiver is not tunable. The
+blue outer marker light illuminates when the receiver acquires a 75 MHz signal modulated with
+400 Hz, an amber middle marker light for a 75 MHz signal modulated with 1,300 Hz and, a
+white inner marker light for a 75 MHz signal modulated with 3,000 Hz. The marker beacon
+system must be operationally evaluated in VFR when an ILS runway is available. The receiver
+sensitivity switch must be placed in LOW SENSE (the normal setting). Marker audio must be
+adequate. Ground test equipment must be used to verify marker beacon operation. Marker
+beacon with self-test feature, verify lamps, audio and lamp dimming.
+
+12-16. LONG RANGE NAVIGATION (LORAN). The LORAN has been an effective
+alternative to Rho/Theta R-Nav systems. Hyperbolic systems require waypoint designation in
+terms of latitude and longitude, unlike original R-Nav (distance navigation) systems, which
+define waypoints in terms of distance (Rho) and angle (Theta) from established VOR or Tactical
+Air Navigation System (TACAN) facilities. Accuracy is better than the VOR/TACAN but
+LORAN is more prone to problems with precipitation static. Proper bonding of aircraft structure
+and the use of high-quality static wicks will not only produce improved LORAN system
+performance, but can also benefit the very high frequency (VHF) navigation and
+communications systems. This system has an automatic test equipment (ATE). Normally,
+self-test check units, verification of position, and loading of flight plan will verify operation
+verification of proper flight manual supplements and operating handbooks on board, and proper
+software status can also be verified.
+
+   NOTE: Aircraft must be outside of hangar for LORAN to operate.
+
+12-17. GLOBAL POSITIONING SYSTEM (GPS). The GPS is now one of the most common
+generation navigation systems. This space-based navigation system is based on a 24-satellite
+system and is highly accurate for establishing position. The actual accuracy users attain depends
+on factors outside the user’s control, including atmospheric effects, sky blockage, and receiver
+quality. Real-world data shows that high-quality GPS receivers provide better than 3.5 meter
+horizontal accuracy. The system is largely unaffected by weather and provides a worldwide
+common grid reference system. Database updating and antenna maintenance are of primary
+concern to the GPS user.
+
+   NOTE: Aircraft must be outside of hangar for ground test of GPS.
+
+12-18. AUTOPILOT SYSTEMS. Automatic flight control systems (AFCS) are the most
+efficient managers of aircraft performance and control. There are three kinds of autopilot; two
+axes, three axes, and three axes with coupled approach capability. Attention must be given to the
+disconnect switch operation, aural and visual alerts of automatic and intentional autopilot
+
+Par 12-14  Page 12-6
+
+===== PDF PAGE 712 =====
+9/27/01  AC 43.13-1B CHG 1
+
+disconnects, override forces and mode annunciation, servo operation, rigging and bridle cable
+tension, and condition. In all cases, the manufacturer’s inspection and maintenance instructions
+must be followed.
+
+12-19. ALTIMETERS. Aircraft conducting operations in controlled airspace under IFR are
+required to have their static system(s) and each altimeter instrument inspected and tested within
+the previous 24 calendar-months. Frequent functional checks of all altimeters and automatic
+pressure altitude reporting systems are recommended.
+
+   a. The tests required must be performed by:
+
+   (1) The manufacturer of the aircraft on which the tests and inspection are to be
+performed.
+
+   (2) A certificated repair station (CRS) properly equipped to perform those functions and
+holding:
+
+   (a) An instrument rating Class I.
+
+   (b) A limited instrument rating appropriate to the make and model (M/M) of
+appliance to be tested.
+
+   (c) A certified/qualified mechanic with an airframe rating (static system tests and
+inspections only). Any adjustments shall be accomplished only by an instrument shop
+certified/qualified person using proper test equipment and adequate reference to the
+manufacturer’s maintenance manuals. The altimeter correlation adjustment shall not be adjusted
+in the field. Changing this adjustment will nullify the correspondence between the basic test
+equipment calibration standards and the altimeter. It will also nullify correspondence between
+the encoding altimeter and its encoding digitizer or the associated blind encoder.
+
+   b. Examine the altimeter face for evidence of needle scrapes or other damage. Check
+smoothness of operation, with particular attention to altimeter performance during decent.
+
+   c. Contact an appropriate air traffic facility for the pressure altitude displayed to the
+controller from your aircraft. Correct the reported altitude as needed, and compare to the reading
+on the altimeter instrument. The difference must not exceed 125 ft.
+
+12-20. TRANSPONDERS. There are three modes (types) of transponders that can be used on
+various aircraft. Mode A provides a (non-altitude reporting) four-digit coded reply; Mode C
+provides a code reply identical to Mode A with an altitude-reporting signal; and Mode S has the
+same capabilities as Mode A and Mode C and responds to Traffic Alert and Collision Avoidance
+System (TCAS)-equipped aircraft.
+
+   a. Ground ramp equipment must be used to demonstrate proper operation. Enough
+codes must be selected so that each switch position is checked at least once. Low and high
+sensitivity operation must be checked. Identification operation must be checked. Altitude
+reporting mode must be demonstrated. Demonstrate that the transponder system does not
+interfere with other systems aboard the aircraft, and that other equipment does not interfere with
+
+Par 12-18  Page 12-7
+
+===== PDF PAGE 713 =====
+9/27/01  AC 43.13-1B CHG 1
+
+transponder operation. Special consideration must be given to other pulse equipment, such as
+DME and weather radar.
+
+   b. All transponders must be tested every 24 calendar-months, or during an annual
+inspection, if requested by the owner. The test must be conducted by an authorized avionics
+repair facility.
+
+12-21. AUTOMATIC DEPENDENT SURVEILLANCE–BROADCAST (ADS-B). ADS-B
+is a system that uses positioning data, such as from GPS, downlinked from aircraft avionics for
+use in air traffic control (ATC) and by other ADS-B In-equipped aircraft. ADS-B avionics
+operate on the 1090 MHz or 978 MHz frequencies. In use, ADS-B avionics consists of two
+operational capabilities, ADS-B “Out” and ADS-B “In”. ADS-B Out is the capability to
+periodically broadcast information from the aircraft, such as identification, current position,
+altitude, and velocity, through an onboard transmitter. ADS-B In is the capability to receive
+ADS-B data uplinked from FAA ground radios such as Flight Information Service-Broadcast
+(FIS-B) and Traffic Information Service-Broadcast (TIS-B) or from other ADS-B Out
+transmitting aircraft.
+
+12-22. EMERGENCY LOCATOR TRANSMITTERS (ELT). The ELT must be evaluated in
+accordance with TSO-C91a, TSO-C126 for 406 MHz ELTs, or later TSOs issued for ELTs. ELT
+installations must be examined for potential operational problems at least once a year
+(§ 91.207(d)). There have been numerous instances of interaction between ELT and other VHF
+installations. Antenna location should be as far as possible from other antennas to prevent
+efficiency losses. Check ELT antenna installations in close proximity to other VHF antennas for
+suspected interference. Antenna patterns of previously installed VHF antennas could be
+measured after an ELT installation. Tests should be conducted during the first 5 minutes after
+any hour. If operational tests must be made outside of this timeframe, they should be coordinated
+with the nearest FAA Control Tower or Flight Service Station (FSS). Tests should be no longer
+than three audible sweeps.
+
+12-23. INSPECTION OF ELT. An inspection of the following must be accomplished by a
+properly certified person or repair station within 12 calendar-months after the last inspection:
+
+   a. Proper Installation.
+
+   (1) Remove all interconnections to the ELT unit and ELT antenna. Visually inspect and
+confirm proper seating of all connector pins. Special attention should be given to coaxial center
+conductor pins, which are prone to retracting into the connector housing.
+
+   (2) Remove the ELT from the mount and inspect the mounting hardware for proper
+installation and security.
+
+   (3) Reinstall the ELT into its mount and verify the proper direction for crash activation.
+Reconnect all cables. They should have some slack at each end and should be properly secured
+to the airplane structure for support and protection.
+
+   b. Battery Corrosion. Gain access to the ELT battery and inspect. No corrosion should be
+detectable. Verify the ELT battery is approved and check its expiration date.
+
+Par 12-20  Page 12-8
+
+===== PDF PAGE 714 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   c. Operation of the Controls and Crash Sensor. Activate the ELT using an applied
+force. Consult the ELT manufacturer’s instructions before activation. The direction for mounting
+and force activation is indicated on the ELT. A TSO-C91 ELT can be activated by using a quick
+rap with the palm. A TSO-C91a ELT can be activated by using a rapid forward (throwing)
+motion coupled by a rapid reversing action. Verify that the ELT can be activated using a watt
+meter, the airplane’s VHF radio communications receiver tuned to 121.5 MHz, or other means
+(see NOTE 1). Insure that the “G” switch has been reset if applicable.
+
+   d. For a Sufficient Signal Radiated From its Antenna. Activate the ELT using the ON
+or ELT TEST switch. A low-quality AM broadcast radio receiver should be used to determine if
+energy is being transmitted from the antenna. When the antenna of the AM broadcast radio
+receiver (tuning dial on any setting) is held about 6 inches from the activated ELT antenna, the
+ELT aural tone will be heard (see NOTE 2 and 3).
+
+   e. Ensure Proper Labeling and Positioning. Verify that all switches are properly labeled
+and positioned.
+
+   f. Record the Inspection. Record the inspection in the aircraft maintenance records
+according to 14 CFR part 43, § 43.9. We suggest the following:
+
+   I inspected the Make/Model  ELT system in this aircraft according to
+   applicable Aircraft and ELT manufacturer’s instructions and applicable FAA
+   guidance and found that it meets the requirements of section (§) 91.207(d).
+
+   Signed: ______________________
+   Certificate No. ______________________
+   Date: ______________________
+
+   NOTE 1: This is not a measured check; it only indicates that the G-switch is
+   working.
+
+   NOTE 2: This is not a measured check; but it does provide confidence that
+   the antenna is radiating with sufficient power to aid search and rescue. The
+   signal may be weak even if it is picked up by an aircraft VHF receiver
+   located at a considerable distance from the radiating ELT. Therefore, this
+   check does not check the integrity of the ELT system or provide the same
+   level of confidence as does the AM radio check.
+
+   NOTE 3: Because the ELT radiates on the emergency frequency, the
+   Federal Communications Commission (FCC) allows these tests only to be
+   conducted within the first 5 minutes after any hour and is limited in three
+   sweeps of the transmitter audio modulation.
+
+12-24. FLIGHT DATA RECORDER (FDR). The FDR is housed in a crush-proof container
+located near the tail section of the aircraft. The tape unit is fire resistant, and contains a radio
+transmitter to help crash investigators locate the unit underwater. Inspection/Operational checks
+include:
+
+Par 12-23  Page 12-9
+
+===== PDF PAGE 715 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   a. Check special sticker on front of the FDR for the date of the next tape replacement, if
+applicable.
+
+   b. Remove recorder magazine and inspect tape for the following:
+
+   (1) Broken or torn tape,
+
+   (2) Proper feed of tape, and
+
+   (3) All scribes were recording properly for approximately the last hour of flight.
+
+   c. Conditions for tape replacement (as applicable):
+
+   (1) There is less than 20 hours remaining in the magazine as read on the tape remaining
+indicator.
+
+   (2) Tape has run out.
+
+   (3) Broken tape.
+
+   (4) After hard landings and severe air turbulence have been encountered as reported by
+the pilots. After the same tape has been in use 1 year (12 months), it must be replaced.
+
+   (5) Ensure that a correlation test has been performed and then recorded in the aircraft
+records.
+
+   d. Refer to the specific equipment manufacturer’s manuals and procedures.
+
+   e. The state-of-the-art Solid State Flight Data Recorder (SSFDR) is a highly flexible
+model able to support a wide variety of ARINC configurations. It has a built-in test equipment
+(BITE) that establishes and monitors the mission fitness of the hardware. BITE performs
+verification after storage (read after write) of flight data and status condition of the memory.
+These recorders have an underwater acoustic beacon mounted on its front panel which must be
+returned to their respective manufacturers for battery servicing. For maintenance information,
+refer to the equipment or aircraft manufacturer’s maintenance instruction manual.
+
+12-25. COCKPIT VOICE RECORDERS (CVR). CVRs are very similar to FDRs. They look
+nearly identical and operate in almost the same way. CVRs monitors the last 30 minutes of flight
+deck conversations and radio communications. The flight deck conversations are recorded via
+the microphone monitor panel located on the flight deck. This panel is also used to test the
+system and erase the tape, if so desired. Before operating the erase CVR mode, consult the
+operational manual of the manufacturer for the CVR.
+
+   a. Playback is possible only after the recorder is removed from the aircraft.
+
+   b. Refer to the specific equipment manufacturer’s manuals and procedures.
+
+   c. The Solid State Cockpit Voice Recorder system is composed of three essential
+components a solid state recorder, a control unit (remote mic amplifier), and an area microphone.
+
+Par 12-24  Page 12-10
+
+===== PDF PAGE 716 =====
+9/27/01  AC 43.13-1B CHG 1
+
+Also installed on one end of the recorder is an Underwater Locator Beacon (ULB). The recorder
+accepts four separate audio inputs: pilot, copilot, public address/third crewmember, and cockpit
+area microphone and where applicable, rotor speed input and FDR synchronization tone input.
+For maintenance information, refer to the equipment manufacturer’s maintenance manual.
+
+12-26. WEATHER RADAR. Ground performance shall include antenna rotation, tilt, indicator
+brilliance, scan rotation, and indication of received echoes. It must be determined that no
+objectionable interference from other electrical/electronic equipment appears on the radar
+indicator, and that the radar system does not interfere with the operation of any of the aircraft’s
+communications or navigation systems.
+
+   CAUTION: Do not turn radar on within 15 ft of ground personnel, or
+   containers holding flammable or explosive materials. The radar should never
+   operate during fueling operations. Do not operate radar system when beam
+   may intercept larger metallic objects closer than 150 ft, as crystal damage
+   might occur. Do not operate radar when cooling fans are inoperative. Refer
+   to the specific radar system equipment manufacturer’s manuals and
+   procedures.
+
+12-27. RADOME INSPECTION. Inspection of aircraft having weather radar installations
+should include a visual check of the radome surface for signs of surface damage, holes, cracks,
+chipping, and peeling of paint, etc. Attach fittings and fastenings, neoprene erosion caps, and
+lightening strips, when installed, should also be inspected.
+
+12-28. DATABUS. Databuses provide the physical and functional partitioning needed to enable
+different companies to design different avionics boxes to be able to communicate information to
+each other. It defines the framework for system(s) integration. There are several types of databus
+analyzers used to receive and review transmitted data or to transmit data to a bus user. Before
+using an analyzer, make sure that the bus language is compatible with the bus analyzer. For
+further information, refer to ARINC specifications such as 429 Digital Information Transfer
+System (DITS), Mark 33 which offers simple and affordable answers to data communications on
+aircraft.
+
+12-29. ELECTRIC COMPATIBILITY. When replacing an instrument with one which
+provides additional functions or when adding new instruments, check the following electrical
+(where applicable) for compatibility:
+
+   a. Voltage (AC/DC).
+
+   b. Voltage polarity (DC).
+
+   c. Voltage phase(s) (AC).
+
+   d. Frequency (AC).
+
+   e. Grounding (AC/DC).
+
+Par 12-26  Page 12-11
+
+===== PDF PAGE 717 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   f. System impedance matching.
+
+   g. Compatibility with system to which connected.
+
+12-30.–12-36. [RESERVED.]
+
+Par 12-29  Page 12-12
+
+===== PDF PAGE 718 =====
+9/27/01  AC 43.13-1B CHG 1
+
+  SECTION 3. GROUND OPERATIONAL CHECKS FOR AVIONICS EQUIPMENT
+   (NON-ELECTRICAL)
+
+12-37. COMPASS SWING. This must be performed whenever any ferrous component of the
+system (i.e., flux valve compensator, or Standby Compass) is installed, removed, repaired, or a
+new compass is installed. The magnetic compass can be checked for accuracy by using a
+compass rose located on an airport. The compass swing is normally affected by placing the
+aircraft on various magnetic headings and comparing the deviations with those on the deviation
+cards. Refer to 14 CFR part 23, § 23.2500 and part 91, § 91.205(b), and the equipment or aircraft
+manufacturer’s manual.
+
+   a. A compass swing must be performed on the following occasions:
+
+   (1) When the accuracy of the compass is suspected.
+
+   (2) After any cockpit modification or major replacement involving ferrous metal.
+
+   (3) Whenever a compass has been subjected to a shock; for example, after a hard
+landing or turbulence.
+
+   (4) After aircraft has passed through a severe electrical storm.
+
+   (5) After lightning strike.
+
+   (6) Whenever a change is made to the electrical system.
+
+   (7) Whenever a change of cargo is likely to affect the compass.
+
+   (8) When an aircraft operation is changed to a different geographic location with a
+major change in magnetic deviation (e.g., from Miami, Florida to Fairbanks, Alaska).
+
+   (9) After aircraft has been parked on one heading for over a year.
+
+   (10) When flux valves are replaced.
+
+   b. Precautions.
+
+   (1) The magnetic compass must be checked for accuracy in a location free of steel
+structures, underground pipes or cables, or equipment that produces magnetic fields.
+
+   (2) Personnel engaged in the compensation of the compass shall remove all magnetic or
+ferrous material from their possession.
+
+   (3) Use only nonmagnetic tools when adjusting the compass.
+
+   (4) Position the aircraft at least 100 yards from any metal object.
+
+   (5) All equipment in the aircraft having any magnetic effect on the compass must be
+secured in the position occupied in normal flight.
+
+Par 12-37  Page 12-13
+
+===== PDF PAGE 719 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   c. Compass Swing Procedures.
+
+   (1) Have the aircraft taxied to the NORTH (0°) radial on the compass rose. Use a
+hairline sight compass (a reverse reading compass with a gun sight arrangement mounted on top
+of it) to place the aircraft in the general vicinity. With the aircraft facing North and the person in
+the cockpit running the engine(s) at 1,000 rpm, a mechanic, standing approximately 30 ft in front
+of the aircraft and facing South, “shoots” or aligns the master compass with the aircraft center
+line. Using hand signals, the mechanic signals the person in the cockpit to make additional
+adjustments to align the aircraft with the master compass. Once aligned on the heading, the
+person in the cockpit runs the engine(s) to approximately 1,700 rpm to duplicate the aircraft’s
+magnetic field and then the person reads the compass.
+
+   NOTE: (1) For conventional gear aircraft, the mechanic will have to position
+   the magnetic compass in the straight and level position or mount the tail of
+   the aircraft on a moveable dolly to simulate a straight and level cruise
+   configuration. (2) Remember the hairline sight compass is only intended to
+   be used as a general piece of test equipment.
+
+   (2) If the aircraft compass is not in alignment with the magnetic North of the master
+compass, correct the error by making small adjustments to the North-South brass adjustment
+screw with a nonmetallic screwdriver (made out of brass stock, or stainless steel welding rod).
+Adjust the N-S compensator screw until the compass reads North (0°). Turn the aircraft until it is
+aligned with the East-West, pointing East. Adjust the E-W compensator screw until it reads 90°.
+Continue by turning the aircraft South 180° and adjust the N-S screw to remove one-half of the
+South’s heading error. This will throw the North off, but the total North-South should be divided
+equally between the two headings. Turn the aircraft until it is heading West 270°, and adjust the
+E-W screw on the compensator to remove one-half of the West error. This should divide equally
+the total E-W error. The engine(s) should be running.
+
+   (3) With the aircraft heading West, start your calibration card here and record the
+magnetic heading of 270° and the compass reading with the avionics/electrical systems on then
+off. Turn the aircraft to align with each of the lines on the compass rose and record the compass
+reading every 30°. There should be not more than a plus or minus 10° difference between any of
+the compass’ heading and the magnetic heading of the aircraft.
+
+   (4) If the compass cannot be adjusted to meet the requirements, install another one.
+
+   NOTE: A common error that affects the compass’ accuracy is the mounting
+   of a compass or instruments on or in the instrument panel using steel
+   machine screws/nuts rather than brass hardware, magnetized control yoke,
+   structural tubing, and improperly routed electrical wiring, which can cause
+   unreasonable compass error.
+
+   (5) If the aircraft has an electrical system, two complete compass checks should be
+performed, one with minimum electrical equipment operating and the other with all electrical
+accessories on (e.g., radios, navigation, radar, and lights). If the compass readings are not
+
+Par 12-37  Page 12-14
+
+===== PDF PAGE 720 =====
+9/27/01  AC 43.13-1B CHG 1
+
+identical, the mechanic should make up two separate compass correction cards, one with all the
+equipment on and one with the equipment off.
+
+   (6) When the compass is satisfactorily swung, fill out the calibration card properly and
+put it in the holder in full view for the pilot’s reference.
+
+   d. Standby (wet) Compass. Adjustment and compensation of the Standby Compass may
+also be accomplished by using the “compass swing” method.
+
+12-38. PNEUMATIC GYROS.
+
+   a. Venturi Systems. The early gyro instruments were all operated by air flowing out of a
+jet over buckets cut into the periphery of the gyro rotor. A venturi was mounted on the outside of
+the aircraft to produce a low pressure, or vacuum, which evacuated the instrument case, and air
+flowed into the instrument through a paper filter and then through a nozzle onto the rotor.
+
+   (1) Venturi systems have the advantage of being extremely simple and requiring no
+power from the engine, nor from any of the other aircraft systems; but they do have the
+disadvantage of being susceptible to ice, and when they are most needed, they may become
+unusable.
+
+   (2) There are two sizes of venturi tubes: those which produce 4 inches of suction are
+used to drive the attitude gyros, and smaller tubes, which produce 2 inches of suction, are used
+for the turn and slip indicator. Some installations use two of the larger venturi tubes connected in
+parallel to the two attitude gyros, and the turn and slip indicator is connected to one of these
+instruments with a needle valve between them. A suction gage is temporarily connected to the
+turn and slip indicator, and the aircraft is flown so the needle valve can be adjusted to the
+required suction at the instrument when the aircraft is operated at its cruise speed.
+(See Figure 12-1.)
+
+ FIGURE 12-1. VENTURI SYSTEM FOR PROVIDING AIRFLOW THROUGH GYRO
+   INSTRUMENTS
+
+Par 12-37  Page 12-15
+
+===== PDF PAGE 721 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   b. Vacuum Pump Systems. In order to overcome the major drawback of the venturi tube,
+that is, its susceptibility to ice, aircraft were equipped with engine driven vacuum pumps and the
+gyro instruments were driven by air pulled through the instrument by the suction produced by
+these pumps. A suction relief valve maintained the desired pressure (usually about 4 inches of
+mercury (inHg)) on the attitude gyro instruments, and a needle valve between one of the attitude
+indicators and the turn and slip indicator restricted the airflow to maintain the desired 2 inches of
+suction in its case. Most of the early instruments used only paper filters in each of the instrument
+cases, but in some installations, a central air filter was used to remove contaminants from the
+cabin air before it entered the instrument case.
+
+   (1) The early vacuum pumps were vane-type pumps of what is called the wet type one
+with a cast iron housing and steel vanes. Engine oil was metered into the pump to provide
+sealing, lubrication, and cooling, and then this oil, along with the air, was blown through an oil
+separator where the oil collected on baffles and was returned to the engine crankcase. The air
+was then exhausted overboard. Aircraft equipped with rubber deicer boots used this discharge air
+to inflate the boots. But before it could be used, this air was passed through a second stage of oil
+separation and then to the distributor valve and finally to the boots. (See Figure 12-2.)
+
+  FIGURE 12-2. INSTRUMENT VACUUM SYSTEM USING A WET-TYPE VACUUM
+   PUMP
+
+Par 12-38  Page 12-16
+
+===== PDF PAGE 722 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (2) The airflow through the instruments is controlled by maintaining the suction in the
+instrument case at the desired level with a suction relief valve mounted between the pump and
+the instruments. This valve has a spring-loaded poppet that offsets to allow cabin air to enter the
+pump and maintain the correct negative pressure inside the instrument case.
+
+   (3) The more modern vacuum pumps are of the dry type. These pumps use carbon
+vanes and do not require any lubrication, as the vanes provide their own lubrication as they wear
+away at a carefully predetermined rate. Other than the fact that they do not require an oil
+separator, systems using dry air pumps are quite similar to those using a wet pump. One slight
+difference, however, is in the need for keeping the inside of the pump perfectly clean. Any solid
+particles drawn into the system through the suction relief valve can damage one of the carbon
+vanes, and this can lead to destruction of the pump, as the particles broken off of one vane will
+damage all of the other vanes. To prevent particles entering the relief valve, its air inlet is
+covered with a filter, and this must be cleaned or replaced at the interval recommended by the
+aircraft manufacturer.
+
+   c. Positive Pressure Systems. Above about 18,000 ft, there is not enough mass to the air
+drawn through the instruments to provide sufficient rotor speed, and, to remedy this problem,
+many aircraft that fly at high-altitude use positive pressure systems to drive the gyros. These
+systems use the same type of air pump as is used for vacuum systems, but the discharged air
+from the pump is filtered and directed into the instrument case through the same fitting that
+receives the filtered air when the vacuum system is used. A filter is installed on the inlet of the
+pump, and then, before the air is directed into the instrument case, it is again filtered. A pressure
+regulator is located between the pump and the in line filter to control the air pressure so only the
+correct amount is directed into the instrument case.
+
+   d. System Filters. The life of an air driven gyro instrument is determined to a great extent
+by the cleanliness of the air that flows over the rotor. In vacuum systems, this air is taken from
+the cabin where there is usually a good deal of dust and very often tobacco smoke. Unless all of
+the solid contaminants are removed from the air before it enters the instrument, they will
+accumulate, usually in the rotor bearings, and slow the rotor. This causes an inaccurate indication
+of the instrument and will definitely shorten its service life. Dry air pumps are also subject to
+damage from ingested contaminants, and all of the filters in the system must be replaced on the
+schedule recommended by the aircraft manufacturer, and more often if the aircraft is operated
+under particularly dusty conditions, especially if the occupants of the aircraft regularly smoke
+while flying. (See Figures 12-3 and 12-4.)
+
+Par 12-38  Page 12-17
+
+===== PDF PAGE 723 =====
+9/27/01  AC 43.13-1B CHG 1
+
+ FIGURE 12-3. INSTRUMENT VACUUM SYSTEM USING A DRY-TYPE AIR PUMP
+
+ FIGURE 12-4. INSTRUMENT PRESSURE SYSTEM USING A DRY-TYPE AIR PUMP
+
+12-39.–12-50. [RESERVED.]
+
+Par 12-38  Page 12-18
+
+===== PDF PAGE 724 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 4. PITOT/STATIC SYSTEMS
+
+12-51. GENERAL. In order for the pitot-static instruments to work properly, they must be
+connected into a system that senses the impact air pressure with minimum distortion and picks
+up undisturbed static air pressure.
+
+   a. Pitot pressure is ram air pressure picked up by a small open-ended tube about a ¼ inch
+in diameter that sticks directly into the air stream that produces a pressure proportional to the
+speed of the air movement. Static pressure is the pressure of the still air used to measure the
+altitude and serves as a reference in the measurement of airspeed.
+
+   b. Airspeed requires pitot, altimeter, rate of climb, and transponder-required static.
+
+12-52. SYSTEM COMPONENTS. The conventional design of the pitot system consists of
+pitot-static tubes or pitot tubes with static pressure parts and vents, lines, tubing, water drains and
+traps, selector valves, and various pressure actuated indicators or control units such as the
+altimeter, airspeed and rate-of-climb indicators, and the encoding altimeter connected to the
+system. (See Figure 12-5.)
+
+   FIGURE 12-5. PITOT/STATIC SYSTEM FOR A SMALL AIRCRAFT
+
+12-53. PITOT/STATIC TUBES AND LINES. The pitot tube (see Figure 12-6) is installed at
+the leading edge of the wing of a single-engine aircraft, outside the propeller slipstream or on the
+fuselage of a multiengine aircraft with the axis parallel to the longitudinal axis of the aircraft,
+unless otherwise specified by the manufacturer.
+
+Par 12-51  Page 12-19
+
+===== PDF PAGE 725 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 12-6. PITOT/STATIC TUBE HEAD
+
+12-54. STATIC PORTS AND VENTS.
+
+   a. Static ports and vents (more modern trend) should be mounted flush with fuselage skin.
+One port is located on either side of the fuselage, usually behind the cabin.
+
+   b. Inspect for elevation or depression of the port or vent fitting. Such elevation or
+depression may cause airflow disturbances at high speeds and result in erroneous airspeed and
+altitude indications.
+
+12-55. HEATER ELEMENTS. A heating element is located within the tube head to prevent
+the unit from becoming clogged during icing conditions experienced during flight. A switch in
+the cockpit controls the heater. Some pitot-static tubes have replaceable heater elements while
+others do not. Check the heater element or the entire tube for proper operation by noting either
+ammeter current or that the tube or port is hot to the touch. (See Figure 12-6.)
+
+Par 12-53  Page 12-20
+
+===== PDF PAGE 726 =====
+9/27/01  AC 43.13-1B CHG 1
+
+12-56. SYSTEM INSPECTION.
+
+   a. Inspect air passages in the systems for water, paint, dirt, or other foreign matter. If
+water or obstructive material has entered the system, all drains should be cleaned. Probe the
+drains in the pitot tube with a fine wire to remove dirt or other obstructions. The bottom static
+openings act as drains for the head’s static chamber. Check these holes at regular intervals to
+preclude system malfunctioning.
+
+   b. Check to ensure the water drains freely. If a problem is experienced with the pitot-
+static system drainage or freezing at altitude, and the tubing diameter is less than 3/8 inch,
+replace it with larger tubing.
+
+   c. Check the pitot tube for corrosion.
+
+   (1) The pitot probe should not have any corrosion within 1/2 inch of the probe tip.
+
+   (2) Make sure there is no flaking which forms pits and irregularities in the surface of
+the tube.
+
+   NOTE: It is essential that the static air system be drained after the airplane
+   has been exposed to rain.
+
+12-57. SYSTEM LEAK TEST.
+
+   a. Pitot-static leak tests should be made with all instruments connected to assure that no
+leaks occur at instrument connections. Such tests should be accomplished whenever a connection
+has been loosened or an instrument replaced.
+
+   b. After the conclusion of the leak test, return the system to its normal flying
+configuration. Remove tape from static ports and pitot drain holes and replace the drain plug.
+
+12-58. STATIC SYSTEM TESTS. These tests must comply with the static system tests
+required by § 91.411 and be performed by an appropriately rated repair station with the
+appropriate test equipment. If the manufacturer has not issued instructions for testing static
+systems, the following may be used:
+
+   a. Connect the test equipment directly to the static ports, if practicable. Otherwise,
+connect to a static system drain or tee connection and seal off the static ports. If the test
+equipment is connected to the static system at any point other than the static port, it should be
+made at a point where the connection may be readily inspected for system integrity. Observe
+maintenance precautions given in paragraph 12-60 of this section.
+
+   b. Do not blow air through the line toward the instrument panel. This may seriously
+damage the instruments. Be sure to disconnect the instrument lines so no pressure can reach the
+instruments.
+
+   c. Apply a vacuum equivalent to 1,000 ft altitude, (differential pressure of approximately
+1.07 inHg or 14.5 inches of water) and hold.
+
+Par 12-56  Page 12-21
+
+===== PDF PAGE 727 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   d. After 1 minute, check to see that the leak has not exceeded the equivalent of 100 ft of
+altitude (decrease in differential pressure of approximately 0.0105 inHg or 1.43 inches of water).
+
+12-59. TEST PITOT SYSTEM. Tests should be in accordance with the aircraft manufacturer’s
+instructions. If the manufacturer has not issued instructions for testing pitot systems, the
+following may be used:
+
+   a. Seal the drain holes and connect the pitot pressure openings to a tee to which a source
+of pressure and manometer or reliable indicator is connected.
+
+   b. Restrain hoses that can whip due to applied pressure.
+
+   c. Apply pressure to cause the airspeed indicator to indicate 150 knots (kts) (differential
+pressure 1.1 inHg or 14.9 inches of water), hold at this point and clamp off the source of
+pressure. After 1 minute, the leakage should not exceed 10 kts (decrease in differential pressure
+of approximately 0.15 inHg or 2.04 inches of water).
+
+   CAUTION: To avoid rupturing the diaphragm of the airspeed indicator,
+   apply pressure slowly and do not build up excessive pressure in the line.
+   Release pressure slowly to avoid damaging the airspeed indicator.
+
+   d. If the airspeed indicator reading declines, check the system for leaky hoses and loose
+connections.
+
+   e. Inspect the hoses for signs of deterioration, particularly at bends and at the connection
+points to the pitot mast and airspeed indicator. Replace hoses that are cracked or hardened with
+identical specification hoses. Any time a hose is replaced, perform a pressure check.
+
+   WARNING: Do not apply suction to pitot lines.
+
+12-60. MAINTENANCE PRECAUTIONS. Observe the following precautions in all
+pitot-static system leak testing:
+
+   a. Before any pitot/static system is tested, determine that the design limits of instruments
+attached to it will not be exceeded during the test. To determine this, locate and identify all
+instruments attached to the system.
+
+   b. A system diagram will help to determine the location of all instruments as well as
+locate a leak while observing instrument indications. If a diagram is not available, instruments
+can be located by tracing physical installation.
+
+   c. Be certain that no leaks exist in the test equipment.
+
+   d. Run full range tests only if you are thoroughly familiar with the aircraft instrument
+system and test equipment.
+
+Par 12-58  Page 12-22
+
+===== PDF PAGE 728 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   e. Make certain the pressure in the pitot system is always equal to, or greater than, that in
+the static system. A negative differential pressure across an airspeed indicator can damage the
+instrument.
+
+   f. The rate of change or the pressure applied should not exceed the design limits of any
+pitot or static instruments connected to the systems.
+
+   g. When lines are attached to or removed from the bulkhead feed through fitting or at a
+union, ensure the line attached to the opposite end is not loose, twisted, or damaged by rotation
+of the fitting. Such fittings normally are provided with a hex flange for holding the fitting.
+
+12-61. REPLACING LINES. If necessary to replace lines, observe the following installation:
+
+   a. Attach lines at regular intervals by means of suitable clamps.
+
+   b. Do not clamp lines at end fittings.
+
+   c. Maintain the slope of lines toward drains to ensure proper drainage.
+
+   d. Check the lines for leaks.
+
+12-62. RELOCATION OF PITOT TUBE. If pitot tube relocation is necessary, perform the
+relocation in accordance with approved data and consider the following:
+
+   a. Freedom of aerodynamic disturbances caused by the aircraft.
+
+   b. Location protected from accidental damage.
+
+   c. Alignment with the longitudinal axis of the aircraft when in cruising flight.
+
+12-63. TROUBLESHOOTING THE PITOT/STATIC PRESSURE SYSTEM.
+
+   a. If instruments are inoperative or erratic operation occurs, take the following action:
+
+   (1) Check for clogged lines. Drain lines at the valves (especially after aircraft has been
+exposed to rain). Disconnect lines at the instruments and blow them out with low-pressure air.
+
+   (2) Check lines for leaks or looseness at all connections. Repair as required.
+
+   b. If the pitot heating element(s) are operative, check the following:
+
+   (1) Are circuit breaker(s) tripped?
+
+   (2) Reset the circuit breaker to determine if:
+
+   (a) The system is OK, or
+
+   (b) The circuit breaker trips again, if so:
+
+Par 12-60  Page 12-23
+
+===== PDF PAGE 729 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   1. Check the wiring continuity to the ground. If the switch(s) is defective,
+repair as necessary.
+
+   2. Check the heating element; replace it if it is defective.
+
+   TABLE 12-1. COLOR CODES FOR PITOT-STATIC SYSTEMS
+
+   CODE ABBR.  DEFINITION  COLOR
+   PP  PITOT PRESSURE  NATURAL
+   SP  STATIC PRESSURE (PILOT)  RED
+   STATIC PRESSURE (CO-PILOT)  GREEN
+   STATIC PRESSURE (CABIN)  YELLOW
+   STATIC PRESSURE (STANDBY)  BLUE
+
+12-64.–12-69. [RESERVED.]
+
+Par 12-63  Page 12-24
+
+===== PDF PAGE 730 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 5. AVIONICS TEST EQUIPMENT
+
+12-70. GENERAL. Certificated individuals who maintain airborne avionics equipment must
+have test equipment suitable to perform that maintenance. Test equipment such as meters, torque
+wrenches, static, and transponder test equipment should be checked at least once a year.
+
+12-71. TEST EQUIPMENT CALIBRATION STANDARDS.
+
+   a. The test equipment calibration standards must be derived from and traceable to one
+of the following:
+
+   (1) The National Institute of Standards and Technology (NIST).
+
+   (2) Standards established by the test equipment manufacturer.
+
+   (3) If foreign manufactured test equipment, the standards of the country, where it was
+manufactured, if approved by the Administrator.
+
+   b. The technician must make sure that the test equipment used for such maintenance is
+the equipment called for by the manufacturer or equivalent.
+
+   (1) Before acceptance, a comparison should be made between the specifications of the
+test equipment recommended by the manufacturer and those proposed by the repair facility.
+
+   (2) The test equipment must be capable of performing all normal tests and checking all
+parameters of the equipment under test. The level of accuracy should be equal to or better than
+that recommended by the manufacturer.
+
+   (3) For a description of avionics test equipment used for troubleshooting, refer to the
+equipment or aircraft manufacturing instruction manual.
+
+   c. NIST traceability can be verified by reviewing test equipment calibration records for
+references to NIST test report numbers. These numbers certify traceability of the equipment used
+in calibration.
+
+   d. If the repair station uses a standard for performing calibration, that calibration
+standard cannot be used to perform maintenance.
+
+   e. The calibration intervals for test equipment will vary with the type of equipment,
+environment, and use. The accepted industry practice for calibration intervals is usually one year.
+Considerations for acceptance of the intervals include the following:
+
+   (1) Manufacturer’s recommendation for the type of equipment.
+
+   (2) Repair facility’s past calibration history, as applicable.
+
+Par 12-70  Page 12-25
+
+===== PDF PAGE 731 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   f. If the manufacturer’s manual does not describe a test procedure, the repair station
+must coordinate with the manufacturer to develop the necessary procedures, prior to any use of
+the equipment.
+
+12-72–12-83. [RESERVED.]
+
+Par 12-71  Page 12-26
+

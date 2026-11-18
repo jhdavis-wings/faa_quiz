@@ -1,0 +1,1166 @@
+AC 43.13-1B Chg 1, chapter 8 (Engines, Fuel, Exhaust, And Propellers), PDF pages 439-470
+
+===== PDF PAGE 439 =====
+9/8/98  AC 43.13-1B
+
+   CHAPTER 8. ENGINES, FUEL, EXHAUST, AND PROPELLERS
+
+   SECTION 1. ENGINES
+
+8-1. GENERAL. Consult the manufacturer’s manuals, Service Bulletins (SB), and instruction
+books regarding the repair and overhaul, inspection, installation, and maintenance of aircraft
+engines for that particular make, model, and type of engine. This section lists acceptable
+inspection and repair procedures that may be used in the absence of an engine manufacturer’s
+maintenance information.
+
+8-2. SPECIAL INSPECTION. A visual inspection is needed to determine the condition of the
+engine and its components. An annual or 100-hour inspection should include the engine and
+nacelle group as follows.
+
+   a. Cold Cylinder Check. If an engine is running rough, the cause may be a bad ignition
+lead, a spark plug not firing, a partially clogged fuel injector, or a bad magneto. The dead
+cylinder will be colder than the surrounding cylinders and can be quickly determined by using
+the recommended cold cylinder checks. This should be done using a thermocouple probe, which
+is very sensitive to small differences in temperature, which is the case with a partially clogged
+injector. For a carbureted engine, the following check may be helpful:
+
+   (1) Using experienced personnel, run the engine on the bad magneto for approximately
+30 seconds at 1200 revolutions per minute (rpm). Without switching the magneto switch back to
+both shut off the engine. Have another mechanic use a grease pencil (non-carbon) and quickly
+mark each exhaust stack approximately 1 inch from the flange that holds the exhaust stack to the
+cylinder. Next, check the exhaust stacks and look for the exhaust stack whose grease pencil mark
+has not turned to a grayish-white or ash color. This is the cold cylinder.
+
+   (2) The probable cause of the cold cylinder is either a defective spark plug or ignition
+lead. Switch the spark plugs to another cylinder and run the test again. If the problem stays with
+the original cylinder, the problem is either the ignition lead or the magneto.
+
+   b. Piston Engine Sudden Stoppage Inspection. Sudden stoppage is a very rapid and
+complete stoppage of the engine. It can be caused by engine seizure or by one or more of the
+propeller blades striking an object in such a way that rpm goes to zero in less than one complete
+revolution of the propeller. Sudden stoppage can cause internal damage to constant-speed
+propellers; reduction drive; gear train damage in the accessory section; crankshaft misalignment;
+or damage to accessories such as magnetos, generators, vacuum pumps, and tach generators.
+
+   (1) Every engine that suffers a sudden stoppage must be inspected in accordance with
+the manufacturer’s maintenance instructions before being returned to service.
+
+   (2) If the engine manufacturer does not provide the required information, then the
+engine case must be opened, and every major component part must be inspected using visual
+and/or nondestructive inspection (NDI) procedures as applicable.
+
+   (3) The sudden-stoppage inspections include checking for cowling, spinner, and
+airframe cracks and hidden damage and alignment of the engine mount to the airframe, the
+
+Par 8-1  Page 8-1
+
+===== PDF PAGE 440 =====
+9/8/98  AC 43.13-1B
+
+mounting hardware, isolation mounts, and bushings. The aircraft’s firewall must also be checked
+for distortion, cracks, and elongated bolt holes. The damaged propeller must be sent to a Federal
+Aviation Administration (FAA)-certificated repair station for complete NDI and repair.
+
+   (4) Engine accessories, such as magnetos, starters, fuel pumps, turbochargers,
+alternators, or generators, must be inspected in accordance with the manufacturer’s maintenance
+manual on sudden stoppage or overhaul procedures to determine the product’s airworthiness.
+
+   c. Reciprocating Engine (Direct Drive). Preliminary inspection before teardown.
+
+   (1) Remove the engine cowling and examine the engine for visible external damage and
+audible internal damage.
+
+   (2) Rotate the propeller shaft to determine any evidence of abnormal grinding or
+rubbing sounds.
+
+   (3) With the propeller removed, inspect the crankshaft flange or splines for signs of
+twisting, cracks, or other deformation. Remove the thrust-bearing nut and seal and thoroughly
+inspect the threaded area of the shaft for evidence of cracks.
+
+   (4) Rotate the shaft slowly in 90-degree increments while using a dial indicator or an
+equivalent instrument to check the concentricity of the shaft.
+
+   (5) Remove the oil sump drain plug and check for metal chips and foreign material.
+
+   (6) Remove the oil screens and inspect for metal particles and contamination.
+
+   (7) Visually inspect the engine case exterior for signs of oil leaks and cracks. Give
+particular attention to the propeller thrust-bearing area of the nose case section.
+
+   (8) Inspect cylinders and the cylinder hold-down area for cracks and oil leaks.
+Thoroughly investigate any indication of cracks, oil leaks, or other damage.
+
+   d. Internal Inspection Requirements.
+
+   (1) On engines equipped with crankshaft vibration dampers, remove and inspect the
+cylinders and inspect the crankshaft dampers in accordance with the engine manufacturer’s
+inspection and overhaul manual. When engine design permits, remove the damper pins and
+examine the pins and damper liners for signs of nicks or brinelling.
+
+   (2) After removing the engine-driven accessories, remove the accessory drive case and
+examine the accessory and supercharger drive gear train, couplings, and drive case for evidence
+of damage.
+
+   (a) Check for cracks in the case in the area of accessory mount pads and gear shaft
+bosses.
+
+   (b) Check the gear train for signs of cracked, broken, or brinelled teeth.
+
+Par 8-2  Page 8-2
+
+===== PDF PAGE 441 =====
+9/8/98  AC 43.13-1B
+
+   (c) Check the accessory drive shaft couplings for twisted splines, misalignment, and
+run-out.
+
+   (d) Check connecting rods for cracks and straightness.
+
+   e. Reciprocating Engine (Gear-Drive). Inspect the engine, propeller (see Section 4 on
+propeller inspection), and components as described in the preceding paragraphs.
+
+   (1) Remove the propeller reduction gear housing and inspect for:
+
+   (a) Loose, sheared, or spalled cap screws or bolts.
+
+   (b) Cracks in the case.
+
+   (2) Disassemble the gear train and inspect the propeller shaft, reduction gears, and
+accessory drive gears for nicks, cracks, or spalling.
+
+   f. Engine-Mount Inspection.
+
+   (1) Examine the engine flex mounts, when applicable, for looseness of engine to mount,
+distortion, or signs of wear.
+
+   (2) Inspect the engine-mount structure for bent, cracked, or buckled tubes.
+
+   (3) Check the adjacent airframe structure firewall for cracks, distortion, or wrinkles.
+
+   (4) Remove engine-mount bolts and mount hold-down bolts and replace.
+
+   g. Exhaust-Driven Supercharger (Turbo) Inspection. Sudden stoppage of the
+powerplant can cause the heat in turbine parts to heat soak the turbine seals and bearings. This
+excessive heat causes carbon to develop in the seal area and varnish to form on the turbine
+bearings and journals.
+
+   (1) Inspect all air ducts and connections for air leaks, warpage, or cracks.
+
+   (2) Remove compressor housing and check the turbine wheel for rubbing or binding
+and coke or varnish buildup.
+
+   NOTE: Turbine turbosupercharger disk seal rubbing is not unusual and
+   may be a normal condition. Consult the engine manufacturer’s inspection
+   procedures and table of limits.
+
+   h. Accessory and Drive Inspection. Check the drive shaft of each accessory,
+i.e., magnetos, generators, external superchargers, and pumps, for evidence of damage.
+
+8-3. CRANKSHAFT INSPECTION AND REPAIR REQUIREMENTS. Carefully inspect
+for misalignment and replace if bent beyond the manufacturer’s permissible service limit. Worn
+journals may be repaired by regrinding in accordance with manufacturers’ instructions. It is
+recommended that grinding operations be performed by appropriately rated repair stations or the
+
+Par 8-2  Page 8-3
+
+===== PDF PAGE 442 =====
+9/8/98  AC 43.13-1B
+
+original engine manufacturer. Common errors that occur in crankshaft grinding are the removal
+of nitrided journal surface, improper journal radii, unsatisfactory surfaces, and grinding tool
+marks on the journals. If the fillets are altered, do not reduce their radii. Polish the reworked
+surfaces to assure removal of all tool marks. Most opposed engines have nitrided crankshafts,
+and engine manufacturers specify that these crankshafts must be re-nitrided after grinding.
+
+   NOTE: Rapid deceleration or momentary slowing of a propeller may occur
+   due to contact with tall grass, water, or snow. If this occurs, the engine and
+   propeller should be inspected in accordance with the manufacturer’s
+   instruction or SBs.
+
+8-4. REPLACEMENT PARTS IN CERTIFICATED ENGINES. Engine replacement parts
+must be approved under Title 14 of the Code of Federal Regulations (14 CFR) part 21.
+Serviceable parts obtained from the engine manufacturer, authorized service facility, and those
+which are approved FAA/Parts Manufacturer Approval (PMA) or Technical Standard Order
+(TSO) and meet the requirements of part 21 are acceptable for use as replacement parts. Used
+engine parts can be installed if that part either conforms to new part tolerances or meets the
+manufacturer’s service limits. Ensure that used parts are airworthy and properly identified as a
+PMA or TSO part.
+
+8-5. OIL SYSTEM LINES INSPECTION. The inspection of the plumbing for an oil system is
+similar to the inspection of any other plumbing system. The tubing, hose, tube fittings, hose
+fittings, hose clamps, and all other components of the system are inspected for cracks, holes,
+dents, bulges, and other signs of damage that might restrict the oil flow or cause a leak. All lines
+are inspected to ensure that they are properly supported and are not rubbing against a structure.
+Fittings should be checked for signs of improper installation, overtorquing, excessive tension, or
+other conditions which may lead to failure.
+
+8-6. OIL FILTER INSPECTION. The oil filter provides an excellent method for discovering
+internal engine damage. During the inspection of the engine oil filter, the residue on the screens,
+disks, or disposable filter cartridge and the residue in the filter housing are carefully examined
+for metal particles. A new engine or a newly overhauled engine will often have a small amount
+of fine metal particles in the screen or filter, but this is not considered abnormal. After the engine
+has been operated for a time and the oil has been changed one or more times, there should not be
+an appreciable amount of metal particles in the oil screen. If an unusual residue of metal particles
+is found in the oil screen, the engine must be taken out of service and disassembled to determine
+the source of the particles. As an additional precaution, an oil analysis/trend analysis may
+prevent an engine failure in flight. At oil changes, oil samples are often taken and sent to
+laboratories to be analyzed for wear by determining the amount of metal in the sample. Over
+time, a trend is developed, and the engine can be removed from service before failure.
+
+8-7. CYLINDER HOLD-DOWN NUTS AND CAP SCREWS. Great care is required in
+tightening cylinder hold-down nuts and cap screws. They must be tightened to the recommended
+torque limits to prevent improper stressing and to ensure even loading on the cylinder flange.
+The installation of baffles, brackets, clips, and other extraneous parts under nuts and cap screws
+is not a good practice and is discouraged. If these baffles, brackets, etc., are not properly
+fabricated or made of suitable material, they may cause loosening of the nuts or cap screws even
+
+Par 8-3  Page 8-4
+
+===== PDF PAGE 443 =====
+9/8/98  AC 43.13-1B
+
+though the nuts or cap screws were properly tightened and locked at installation. Improper
+prestressing or loosening of any one of these nuts or cap screws will introduce the danger of
+progressive stud failure with the possible loss of the engine cylinder in flight.
+
+8-8. REUSE OF SAFETYING DEVICES. Do not use cotter pins and safety wire a second
+time. Flat, steel-type wrist pin retainers and lock washers, likewise, must be replaced at overhaul
+unless the manufacturer’s recommendations permit their reuse.
+
+8-9. SELF-LOCKING NUTS FOR AIRCRAFT ENGINES AND ACCESSORIES.
+Self-locking nuts may be used on aircraft engines provided the following criteria are met:
+
+   a. When their use is specified by the engine manufacturer in the assembly drawing, parts
+list, and bills of material.
+
+   b. When the nuts will not fall inside the engine should they loosen and come off.
+
+   c. When there is at least one full thread protruding beyond the nut.
+
+   d. Where the temperature will not exceed the maximum limits established for the
+self-locking material used in the nut. On many engines, the cylinder baffles, rocker box covers,
+drive covers and pads, and accessory and supercharger housings are fastened with fiber insert
+lock nuts, which are limited to a maximum temperature of 250 °F. Above this temperature, the
+fiber insert will usually char and, consequently, lose its locking characteristic. For locations such
+as the exhaust pipe attachment to the cylinder, a locknut, which has good locking features at
+elevated temperatures, will give invaluable service. In a few instances, fiber insert lock nuts have
+been approved for use on cylinder hold-down studs. This practice is not generally recommended
+since especially tight stud fits to the crankcase must be provided and extremely good cooling
+must prevail so that low temperatures exist where the nut is installed.
+
+   e. Information concerning approved self-locking nuts and their use on specific engines
+are usually found in engine manufacturer’s manuals or bulletins. If the desired information is not
+available, it is suggested that the engine manufacturer be contacted.
+
+   f. See Chapter 7, Aircraft Hardware, Control Cables, and Turnbuckles, for additional
+information on self-locking nuts.
+
+8-10. METALLIZING. Metallizing internal parts of aircraft engines is not acceptable unless it
+is proven to the FAA that the metallized part will not adversely affect the airworthiness of the
+engine. Metallizing the finned surfaces of steel cylinder barrels with aluminum is acceptable
+since many engines are originally manufactured in this manner.
+
+8-11. PLATING. Before restoring the plating on any engine part in accordance with the
+manufacturer’s instructions, the part should be visually inspected and have an NDI performed
+before any cylinder reconditioning. In general, chromium plating would not be applied to highly
+stressed engine parts. Certain applications of this nature have been found to be satisfactory;
+however, engineering evaluation of the details for the processes used should be obtained.
+
+Par 8-7  Page 8-5
+
+===== PDF PAGE 444 =====
+9/8/98  AC 43.13-1B
+
+   a. Dense chromium plating of the crankpin and main journals of some small engine
+crankshafts has been found satisfactory except where the crankshaft is already marginal in
+strength. Plating to restore worn, low-stress engine parts, such as accessory drive shafts and
+splines, propeller shaft ends, and seating surfaces of roller and ball-type bearing races, is
+acceptable but requires compliance with FAA-approved data.
+
+   b. Porous chromium-plated walls of cylinder barrels have been found to be satisfactory
+for practically all types of engines. Dense or smooth chromium plating without roughened
+surfaces, on the other hand, has not been found to be satisfactory.
+
+   (1) Cylinder barrel pre-grinding and chromium plating techniques used by the military
+are considered acceptable for all engines, and military-approved facilities engaged in doing this
+work in accordance with military specifications are eligible for approval by the FAA.
+
+   (2) Chromium-plated cylinder barrels have been required for some time to be identified
+in such a manner that the markings are visible with the cylinder installed. Military-processed
+cylinders are banded with orange enamel above the mounting flange. It has been the practice to
+etch on either the flange edge or on the barrel skirt the processor’s initials and the cylinder
+oversize. Most plating facilities use the orange band as well as the permanent identification
+marks.
+
+   (3) A list of engine and maximum permissible cylinder barrel oversize are referenced in
+Table 8-1.
+
+   TABLE 8-1. CURRENT ENGINE AND MAXIMUM PERMISSIBLE CYLINDER
+   BARREL OVERSIZE
+
+   Engine Manufacturer  Engine Series  Max. Oversize (in)
+Aircooled Motors (Franklin)  No oversize for sleeved cylinders.  0.017
+   Solid cylinders
+Continental Motors  R-670, W-670, R9A  0.010 to 0.020
+   GTSIO-520, 550  0.005
+   All others  0.015
+Jacobs  All  0.015
+Kinner  All  0.015
+Pigman, LeBlond, Rearwin, Ken  All  0.025
+Royce
+Lycoming  All  0.010 to 0.020
+Menasco  All  0.010
+
+Par 8-11  Page 8-6
+
+===== PDF PAGE 445 =====
+9/8/98  AC 43.13-1B
+
+   Engine Manufacturer  Engine Series  Max. Oversize (in)
+Pratt & Whitney  R-2800B, C, CA, CB  0.025
+   *R-959 and R-1830  0.030
+   All others  0.020
+Ranger  6-410 early cyls. 6-390  0.010
+   6-410 late cyls. 6-440 (L-440) series  0.120
+Warner  All  0.015
+Wright  All  0.020
+*(The above oversize limits correspond to the manufacturer’s requirements, except for P&W
+R-985 and R-1830 series engines.)
+NOTE: (Check for latest manufacturer specifications.)
+
+   (4) Cylinder barrels, which have been plated by an agency whose process is approved
+by the FAA and which have not been worked beyond maximum permissible limits, will be
+considered acceptable for installation on certificated engines. It will be the responsibility of the
+owner or the repairing agency to provide this proof. In some cases, it may be necessary to
+remove cylinders to determine the amount of oversize since this information may be etched on
+the mating surface of the cylinder base flange.
+
+8-12. CORROSION. Accomplish corrosion preventive measures for temporary and long-term
+storage in accordance with the instructions issued by the pertinent engine manufacturer. Avoid
+the use of solutions which contain strong caustic compounds and all solutions, polishes, cleaners,
+abrasives, etc., which might possibly promote corrosive action (see Chapter 6, Corrosion,
+Inspection, and Protection).
+
+8-13. ENGINE RUN-IN. After an aircraft engine has been overhauled, it is recommended that
+the pertinent aircraft engine manufacturer’s run-in instructions be followed. Observe the
+manufacturer’s recommendations concerning engine temperatures and other criteria. Repair
+processes employed during overhaul often necessitate amending the manufacturer’s run-in
+procedures. Follow the approved amended run-in procedures in such instances.
+
+   NOTE: Do not run up engines on the ground for long periods of time with
+   the cowling off. The engine will overheat because cylinder cooling has been
+   disrupted.
+
+8-14. COMPRESSION TESTING OF AIRCRAFT ENGINE CYLINDERS. A test to
+determine the internal condition of the combustion chamber cylinder assembly by ascertaining if
+any appreciable internal leakage is occurring is compression testing of aircraft engine cylinders.
+If a cylinder has less than a 60/80 reading on the differential test gauges on a hot engine and
+procedures in subparagraphs 8-14b(5)(i) and (j) fail to raise the compression reading, the
+cylinder must be removed and inspected. To determine the cylinder’s problem area, have
+someone hold the propeller at the weak cylinder’s top dead center (TDC) and, with compressed
+air still being applied, listen. If air is heard coming out of the exhaust pipe, the cylinder’s exhaust
+
+Par 8-11  Page 8-7
+
+===== PDF PAGE 446 =====
+9/27/01  AC 43.13-1B CHG 1
+
+valve is not seating properly. If air is heard leaking out of the air cleaner/carburetor heat box, the
+intake valve is leaking. With the oil dipstick removed, and air is rushing out, the piston rings are
+defective. Remove and repair/overhaul the defective cylinder.
+
+   a. Differential Compression Test. The most common type of compression tester
+currently in use is the differential pressure-type tester. It provides a cross-reference to validate
+the readings obtained and tends to assure that the cylinder is defective before it is removed.
+Before beginning a compression test, consider the following points:
+
+   (1) When the spark plugs are removed from the engine, identify them to coincide with
+the cylinder and location from which they were removed. Close examination of the plugs will
+reveal the actual operating conditions and aid in diagnosing problems within each individual
+cylinder.
+
+   (2) The operating and maintenance records of the engine should be reviewed. Records
+of previous compression tests are of assistance in determining progressive wear conditions and
+help to establish the necessary maintenance corrective actions.
+
+   b. Differential Pressure Compression Test. The differential pressure tester is designed to
+check the compression of aircraft engines by measuring the leakage through the cylinders caused
+by worn or damaged components. The operation of the compression tester is based on the
+principle that for any given airflow through a fixed orifice, a constant pressure drop across that
+orifice will result. The restrictor orifice dimensions in the differential pressure tester should be
+sized for the particular engine as follows:
+
+   (1) For an engine cylinder having less than a 5.00-inch bore, 0.040-inch orifice
+diameter, 0.250-inch long, and a 60-degree approach angle.
+
+   (2) For an engine cylinder with 5.00-inch bore and over 0.060-inch orifice diameter,
+0.250-inch long, and a 60-degree approach angle.
+
+   (3) A typical schematic diagram of the differential pressure tester is shown in
+Figure 8-1.
+
+Par 8-14  Page 8-8
+
+===== PDF PAGE 447 =====
+9/8/98  AC 43.13-1B
+
+FIGURE 8-1. SCHEMATIC OF DIFFERENTIAL PRESSURE COMPRESSION TESTER
+
+   (4) As the regulated air pressure is applied to one side of the restrictor orifice with the
+air valve closed, there will be no leakage on the other side of the orifice, and both pressure
+gauges will read the same. However, when the air valve is opened and leakage through the
+cylinder increases, the cylinder pressure gauge will record a proportionally lower reading.
+
+   (5) While performing the check, the following procedures are listed to outline the
+principles involved and are intended to supplement the manufacturer’s instructions for the
+particular tester being used.
+
+   (a) Perform the compression test as soon as possible after the engine is shut down to
+ensure that the piston rings, cylinder walls, and other engine parts are well lubricated.
+
+   (b) Remove the most accessible spark plug from each cylinder.
+
+   (c) With the air valve closed, apply an external source of clean air (approximately
+100 to 120 pounds per square inch (psi)) to the tester.
+
+Par 8-14  Page 8-9
+
+===== PDF PAGE 448 =====
+9/8/98  AC 43.13-1B
+
+   (d) Install an adapter in the spark plug bushing and connect the compression tester
+to the cylinder.
+
+   (e) Adjust the pressure regulator to obtain a reading of 20 psi on the regulator
+pressure gauge. At this time, the cylinder pressure gauge should also register 20 psi.
+
+   (f) Turn the crankshaft, by hand, in the direction of rotation until the piston (in the
+cylinder being checked) is coming up on its compression stroke. Slowly open the air valve and
+pressurize the cylinder to 80 psi.
+
+   CAUTION: Care must be exercised in opening the air valve since sufficient
+   air pressure will have built up in the cylinder to cause it to rapidly rotate the
+   propeller if the piston is not at TDC.
+
+   (g) Continue rotating the engine against this pressure until the piston reaches TDC.
+Reaching TDC is indicated by a flat spot or sudden decrease in force required to turn the
+crankshaft. If the crankshaft is rotated too far, back up at least one-half revolution and start over
+again to eliminate the effect of backlash in the valve operating mechanism and to keep piston
+rings seated on the lower ring lands.
+
+   (h) Open the air valve completely. Check the regulated pressure and readjust, if
+necessary, to read 80 psi.
+
+   (i) Observe the pressure indication of the cylinder pressure gauge. The difference
+between this pressure and the pressure shown by the regulator pressure gauge is the amount of
+leakage through the cylinder. A loss in excess of 25 percent of the input air pressure is cause to
+suspect the cylinder of being defective; however, recheck the readings after operating the engine
+for at least 3 minutes to allow for sealing of the rings with oil.
+
+   (j) If leakage is still occurring after a recheck, it may be possible to correct a low
+reading. This is accomplished by placing a fiber drift on the rocker arm directly over the valve
+stem and tapping the drift several times with a hammer to dislodge any foreign material between
+the valve face and seat.
+
+   NOTE: When correcting a low reading in this manner, rotate the propeller
+   so the piston will not be at TDC. This is necessary to prevent the valve from
+   striking the top of the piston in some engines. Rotate the engine before
+   rechecking compression to reseat the valves in the normal manner.
+
+8-15. SPARK PLUGS. The spark plug provides the high-voltage electrical spark to ignite the
+fuel/air mixture in the cylinder. The types of spark plugs used in different engines will vary with
+regard to heat range, reach, thread size, and other characteristics required by the particular
+installation.
+
+   a. Heat Range. The heat range of a spark plug is the principal factor governing aircraft
+performance under various service conditions. The term “heat range” refers to the classification
+of spark plugs according to their ability to transfer heat from the firing end of the spark plug to
+the cylinder head.
+
+Par 8-14  Page 8-10
+
+===== PDF PAGE 449 =====
+9/8/98  AC 43.13-1B
+
+   (1) Spark plugs have been classified as “hot,” “normal,” and “cold.” However, these
+terms may be misleading because the heat range varies through many degrees of temperature
+from extremely hot to extremely cold. Thus, the words “hot,” “cold,” and “normal” do not
+necessarily tell the whole story.
+
+   (2) Since the insulator is designed to be the hottest part of the spark plug, its
+temperature can be related to the pre-ignition and fouling regions as shown in Figure 8-2.
+Pre-ignition is likely to occur if surface areas in the combustion chamber exceed critical limits or
+if the spark plug core nose temperature exceeds 1,630 ºF (888 ºC). However, fouling or short
+circuiting of the plug due to carbon deposits is likely to occur if the insulator tip temperature
+drops below approximately 800 ºF (427 ºC). Since spark plugs must operate between fairly
+well-defined temperature limits, they must be supplied in various heat ranges to meet the
+requirements of different engines under a variety of operating conditions.
+
+   FIGURE 8-2. CHART OF SPARK PLUG TEMPERATURE RANGES
+
+   (3) From the engineering standpoint, each individual plug must be designed to offer the
+widest possible operating range. This means that a given type of spark plug should operate as hot
+as possible at low speeds and light loads and as cool as possible under cruising and takeoff
+power. Plug performance, therefore, depends on the operating temperature of the insulator nose
+with the most desirable temperature range falling between 1,000 ºF and 1,250 ºF (538 ºC
+and 677 ºC).
+
+   (4) Fundamentally, an engine which runs hot requires a relatively cold spark plug,
+whereas an engine which runs cool requires a relatively hot spark plug. If a hot spark plug is
+installed in an engine which runs hot, the spark plug tip will be overheated and cause
+pre-ignition. If a cold spark plug is installed in an engine which runs cool, the tip of the spark
+plug will collect unburned carbon, causing fouling of the plug. The principal factors governing
+the heat range of aircraft spark plugs are:
+
+Par 8-15  Page 8-11
+
+===== PDF PAGE 450 =====
+9/8/98  AC 43.13-1B
+
+   (a) The distance between the copper sleeve around the insulator and the insulator
+tip;
+
+   (b) The thermal conductivity of the insulating material;
+
+   (c) The thermal conductivity of the electrode;
+
+   (d) The rate of heat transfer between the electrode and the insulator;
+
+   (e) The shape of the insulator tip;
+
+   (f) The distance between the insulator tip and the shell; and
+
+   (g) The type of outside gasket used.
+
+   (5) “Hot” plugs have a long insulator nose; thereby, creating a long heat transfer path,
+whereas “cold” plugs have a relatively short insulator to provide a rapid transfer of heat to the
+cylinder head (see Figure 8-3).
+
+   FIGURE 8-3. HOT AND COLD SPARK PLUGS
+
+   b. Reach. The spark plug reach (see Figure 8-4) is the threaded portion which is inserted
+into the spark plug bushing of the cylinder. A plug with the proper reach will ensure that the
+electrode end inside the cylinder is in the best position to achieve ignition. Spark plug seizure or
+improper combustion within the cylinder will probably occur if a plug with the wrong reach is
+used. Shell threads of spark plugs are classified as 14- or 18-mm spark plug diameter, long reach
+or short reach, thus:
+
+Par 8-15  Page 8-12
+
+===== PDF PAGE 451 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 8-4. SPARK PLUG REACH
+
+   Diameter  Long Reach  Short Reach
+   14 mm  1/2 in (12.7 mm)  3/8 in (9.53 mm)
+   18 mm  13/16 in (20.64 mm)  1/2 in (12.7 mm)
+
+   c. Installation Procedures. When installing spark plugs, observe the following procedure.
+
+   (1) Visually inspect the plug for cleanliness and the condition of the threads, ceramic,
+and electrodes.
+
+   NOTE: Never install a spark plug which has been dropped and always use
+   new gaskets every time you install a spark plug.
+
+   (2) Check the plug for the proper gap setting using a round wire feeler gauge as shown
+in Figure 8-5. In the case of used plugs, procedures for cleaning and regapping are usually
+contained in the various manufacturers’ manuals.
+
+   FIGURE 8-5. METHOD OF CHECKING SPARK PLUG GAP
+
+Par 8-15  Page 8-13
+
+===== PDF PAGE 452 =====
+9/8/98  AC 43.13-1B
+
+   (3) Check the plug and cylinder bushing to ascertain that only one gasket is used per
+spark plug. When a thermocouple-type gasket is used, no other gasket is required.
+
+   (4) Apply anti-seize compound sparingly to the shell threads but do not allow the
+compound to contact the electrodes since the material is conductive and will short out the plug. If
+desired, the use of anti-seize compound may be eliminated on engines equipped with stainless
+steel spark plug bushings or inserts.
+
+   (5) Screw the plug into the cylinder head as far as possible by hand. If the plug will not
+turn easily to within two or three threads of the gasket, it may be necessary to clean the threads.
+
+   NOTE: Cleaning inserts with a tap is not recommended as permanent
+   damage to the insert may result.
+
+   (6) Seat the proper socket securely on the spark plug and tighten to the torque limit
+specified by the engine manufacturer before proceeding to the next plug.
+
+   CAUTION: A loose spark plug will not transfer heat properly and, during
+   engine operation, may overheat to the point in which the nose ceramic will
+   become a “hot spot” and cause pre-ignition. However, avoid over-tightening
+   as damage to the plug and bushing may result.
+
+   (7) Connect the ignition lead after wiping clean with a dry, lint-free cloth. Insert the
+terminal assembly into the spark plug in a straight line. (Care should be taken as improper
+techniques can damage the terminal sleeves.) Screw the connector nut into place until finger
+tight, then tighten an additional one-quarter turn while holding the elbow in the proper position.
+
+   (8) Perform an engine runup after installing a new set of spark plugs. When the engine
+has reached normal operating temperatures, check the magnetos and spark plugs in accordance
+with the manufacturer’s instructions.
+
+8-16. OPERATIONAL PROBLEMS. Whenever problems develop during engine operation
+and appear to be caused by the ignition system, it is recommended that the spark plugs and
+ignition harnesses be checked first before working on the magnetos. The following are the more
+common spark plug malfunctions and are relatively easy to identify.
+
+   a. Fouling.
+
+   (1) Carbon fouling (see Figure 8-6) is identified by the dull black, sooty deposits on the
+electrode end of the plug. Although the primary causes are excessive ground idling and rich idle
+mixtures, a cold heat range may also be a contributing factor.
+
+Par 8-15  Page 8-14
+
+===== PDF PAGE 453 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 8-6. TYPICAL CARBON-FOULED SPARK PLUG
+
+   (2) Lead fouling is characterized by hard, dark, cinder-like globules which gradually fill
+up the electrode cavity and short out the plug (see Figure 8-6a). The primary cause for this
+condition is poor fuel vaporization combined with a high tetraethyllead content fuel. A cold heat
+range may also contribute to this condition.
+
+   FIGURE 8-6a. TYPICAL LEAD-FOULED SPARK PLUG
+
+Par 8-16  Page 8-15
+
+===== PDF PAGE 454 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (3) Oil fouling is identified by a wet, black carbon deposit over the entire firing end of
+the plug as shown in Figure 8-6b. This condition is fairly common on the lower plugs in
+horizontally opposed engines and both plugs in the lower cylinders of radial engines. Oil fouling
+is normally caused by oil drainage past the piston rings after shutdown. However, when both
+spark plugs removed from the same cylinder are badly fouled with oil and carbon, some form of
+engine damage should be suspected and the cylinder more closely inspected. Mild forms of oil
+fouling can usually be cleared up by slowly increasing power while running the engine until the
+deposits are burned off and the misfiring stops.
+
+   FIGURE 8-6b. TYPICAL OIL-FOULED SPARK PLUG
+
+   b. Fused Electrodes. There are many different types of malfunctions which result in fused
+spark plug electrodes; however, most are associated with pre-ignition as either the cause or the
+effect. For this reason, any time a spark plug is found with the following defects, further
+investigation of the cylinder and piston should be conducted.
+
+   (1) Occasionally, the ceramic nose core will crack, break away, and remain trapped
+behind the ground electrode. This piece of insulation material will then build up heat to the point
+it will ignite the fuel/air mixture prematurely. The high temperatures and pressures encountered
+during this condition can cause damage to the cylinder and piston and ultimately lead to fusing
+and shorting out of the plug (see Figure 8-6c).
+
+Par 8-16  Page 8-16
+
+===== PDF PAGE 455 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 8-6c. TYPICAL SPARK PLUG WITH CRACKED CORE NOSE
+
+   (2) Corrosive gases formed by combustion and the high voltage spark have eroded the
+electrodes. Spark plugs in this condition require more voltage to fire—often more than the
+ignition system can produce (see Figure 8-6d).
+
+   FIGURE 8-6d. TYPICAL WORN OUT SPARK PLUG
+
+Par 8-16  Page 8-17
+
+===== PDF PAGE 456 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   c. Bridged Electrodes. Occasionally, free combustion chamber particles will settle on the
+electrodes of a spark plug and gradually bridge the electrode gap, resulting in a shorted plug.
+Small particles may be dislodged by slowly cycling the engine as described for the oil-fouled
+condition; however, the only remedy for more advanced cases is removal and replacement of the
+spark plug. This condition is shown in Figure 8-6e.
+
+   FIGURE 8-6e. TYPICAL SPARK PLUG WITH BRIDGED ELECTRODES
+
+   d. Metal Deposits. Whenever metal spray is found on the electrodes of a spark plug, it is
+an indication that a failure of some part of the engine is in progress. The location of the cylinder
+in which the spray is found is important in diagnosing the problem, as various types of failures
+will cause the metal spray to appear differently. For example, if the metal spray is located evenly
+in every cylinder, the problem will be in the induction system, such as an impeller failure. If the
+metal spray is found only on the spark plugs in one cylinder, the problem is isolated to that
+cylinder and will generally be a piston failure. In view of the secondary damage which occurs
+whenever an engine part fails, any preliminary indication, such as metal spray, should be
+thoroughly investigated to establish and correct the cause.
+
+   e. Flashover. It is important that spark plug terminal contact springs and moisture seals be
+checked regularly for condition and cleanliness to prevent “flashover” in the connector well.
+Foreign matter or moisture in the terminal connector well can reduce the insulation value of the
+connector to the point the ignition system voltages at higher power settings may flash over the
+connector well surface to ground and cause the plug to misfire. If moisture is the cause, hard
+starting can also result. The cutaway spark plug shown in Figure 8-7 illustrates this malfunction.
+Any spark plug found with a dirty connector well may have this condition and should be
+reconditioned before reuse.
+
+Par 8-16  Page 8-18
+
+===== PDF PAGE 457 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   FIGURE 8-7. SPARK PLUG WELL FLASHOVER
+
+8-17. SPARK PLUG PRE-RECONDITIONING INSPECTION. All spark plugs should be
+inspected visually before reconditioning to eliminate any plug with obvious defects. A partial
+checklist of common defects includes:
+
+   a. Chipped or cracked ceramic either at the nose core or in the connector well.
+
+   b. Damaged or badly worn electrodes.
+
+   c. Badly nicked, damaged, or corroded threads on shell or shielding barrel.
+
+   d. Dented, bent, or cracked shielding barrel.
+
+   e. Connector seat at the top of the shielding barrel badly nicked or corroded.
+
+8-18. IGNITION HARNESSES INSPECTION. Aircraft-quality ignition harness is usually
+made of either medium or high-temperature wire. The type used will depend upon the
+manufacturing specification for the particular engine. In addition to the applicable
+manufacturer’s maintenance and repair procedures, the following is a quick reference checklist
+for isolating some of the malfunctions inherent to ignition harnesses.
+
+   a. Carefully inspect the lead conduit or shielding. A few broken strands will not affect
+serviceability, but if the insulation in general looks worn, replace the lead.
+
+   b. When replacing a lead, if the dressing procedure is not accomplished properly, strands
+of shielding may be forced through the conductor insulation. If this occurs, a short will exist in
+the conductor; therefore, it is essential this task be performed properly.
+
+   c. The high-temperature coating used on some lightweight harnesses is provided for
+vibration abrasion resistance and moisture protection. Slight flaking or peeling of this coating is
+not serious, and a harness assembly need not be removed from service because of this condition.
+
+   d. Check the spark plug contact springs for breaks, corrosion, or deformation. If
+possible, check the lead continuity from the distributor block to the contact spring.
+
+   e. Check the insulators at the spark plug end of the lead for cracks, breaks, or evidence of
+old age. Make sure they are clean.
+
+Par 8-16  Page 8-19
+
+===== PDF PAGE 458 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   f. Check to see that the leads are positioned as far away from the exhaust manifold as
+possible and are supported to prevent any whipping action.
+
+   g. When lightweight harnesses are used and the conduit enters the spark plug at a severe
+angle, use clamps, as shown in Figure 8-8, to prevent overstressing the lead.
+
+   FIGURE 8-8. TYPICAL METHOD OF CLAMPING LEADS
+
+8-19. MAGNETO INSPECTION. Whenever ignition problems develop and it is determined
+that the magneto is the cause of the difficulty, the following are a few simple inspection
+procedures which may locate the malfunction quickly. However, conduct any internal inspection
+or repair of a magneto in accordance with the manufacturer’s maintenance and overhaul
+manuals.
+
+   a. Inspect the distributor block contact springs. If broken or corroded, replace.
+
+   b. Inspect the felt oil washer, if applicable. It should be saturated with oil. If it is dry,
+check for a worn bushing.
+
+   c. Inspect the distributor block for cracks or a burned area. The wax coating on the
+block should not be removed. Do not use any solvents for cleaning.
+
+   d. Look for excess oil in the breaker compartment. If oil is present, it may indicate a bad
+oil seal or bushing at the drive end. This condition could require complete overhaul, as too much
+oil may foul and cause excessive burning of the contact points.
+
+   e. Look for frayed insulation on the leads in the breaker compartment of the magneto.
+See that all terminals are secure. Be sure that wires are properly positioned.
+
+   f. Inspect the capacitor visually for general condition and check the mounting bracket
+for cracks or looseness. If possible, check the capacitor for leakage, capacity, and series
+resistance.
+
+   g. Examine the points for excessive wear or burning. Discard points which have deep pits
+or excessively burned areas. Desired contact surfaces have a dull gray, sandblasted (almost
+rough) or frosted appearance over the area where electrical contact is made. Figure 8-9 shows
+
+Par 8-18  Page 8-20
+
+===== PDF PAGE 459 =====
+9/8/98  AC 43.13-1B
+
+how the normal contact point will look when surfaces are separated for inspection. Minor
+irregularities or roughness of point surfaces are not harmful (see Figure 8-10), neither are small
+pits or mounds, if not too pronounced. If there is a possibility of the pit becoming deep enough to
+penetrate the pad (see Figure 8-11), reject the contact assembly.
+
+   FIGURE 8-9. NORMAL CONTACT POINT
+
+   FIGURE 8-10. POINT WITH MINOR IRREGULARITIES
+
+   FIGURE 8-11. POINT WITH WELL-DEFINED MOUND
+
+   h. Generally, no attempt should be made to dress or stone contact point assemblies;
+however, if provided, procedures and limits contained in the manufacturer’s manuals may be
+followed.
+
+Par 8-19  Page 8-21
+
+===== PDF PAGE 460 =====
+9/8/98  AC 43.13-1B
+
+   CAUTION: When inspecting the contact points for condition, do not open
+   further than absolutely necessary. Excess tension on the spring will weaken it
+   and adversely affect the performance of the magneto.
+
+   i. Adjustment of magneto point gaps must be correct for proper internal timing of a
+magneto. See the applicable manufacturer’s publications for internal timing procedures.
+
+   j. Check the breaker cam to assure cleanness and smoothness. Check the cam screw for
+tightness. If new points have been installed, blot a little oil on the cam. In addition, check the
+contact point assembly to ascertain that the cam follower is securely fastened.
+
+   k. If the impulse coupling is accessible, inspect for excessive wear on the contact edges
+of the body and flyweights. In addition, check the flyweights for looseness on the axles.
+
+   l. Further examination of the impulse coupling body may disclose cracks caused by
+exceedingly tight flyweight axle rivets.
+
+   m. Check the magneto ventilators for proper functioning and obstructions. If drilled
+plugs are used, they should be in the lowest vent hole of the magneto to serve as a drain for
+condensation and oil.
+
+8-20. MAGNETO-TO-ENGINE TIMING. While the actual process of timing magnetos to an
+engine is covered in the engine manufacturer’s technical manuals, the following general
+procedures may be applied.
+
+   a. Before installing a new magneto, the correct “E” gap setting specified by the magneto
+manufacturer should be verified.
+
+   b. When setting or checking the magneto-to-engine timing, always turn the crankshaft
+steadily in the normal direction of rotation to eliminate any error caused by gear backlash.
+
+   c. Recheck magneto-to-engine timing after any point-gap adjustment or after
+replacement of the breaker points.
+
+   d. Never advance the magneto timing beyond the engine timing specification
+recommended by the engine manufacturer.
+
+   e. The possibility of a timing error exists if a timing indicator which attaches to the
+propeller shaft or spinner of geared engines is used. Engine timing specifications are always
+given in degrees of crankshaft travel and cannot be applied directly to geared propeller shafts
+because of the gear ratio. Therefore, the correct position of the propeller shaft, if used for timing,
+must be determined by multiplying the crankshaft timing angle in degrees before top center
+(BTC) by the propeller gear ratio.
+
+8-21.–8-29. [RESERVED.]
+
+Par 8-19  Page 8-22
+
+===== PDF PAGE 461 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 2. FUEL SYSTEMS
+
+8-30. GENERAL. Maintain, service, and adjust aircraft fuel systems and fuel system
+components in accordance with the applicable manufacturer’s maintenance instructions. Certain
+general fuel system maintenance principles are outlined in the following paragraphs.
+
+8-31. FUEL LINES AND FITTINGS. When fuel system lines are to be replaced or repaired,
+consider the following fundamentals in addition to the applicable airworthiness requirements.
+Additional inspection and repair practices for aircraft tubing systems may be found in Chapter 9,
+Aircraft Systems and Components.
+
+   a. Compatibility of Fittings. All fittings are to be compatible with their mating parts.
+Although various types of fittings appear to be interchangeable, in many cases they have
+different thread pitch or minor design differences which prevent proper mating and may cause
+the joint to leak or fail.
+
+   b. Routing. Make sure that the line does not chafe against control cables, airframe
+structure, etc., or come in contact with electrical wiring or conduit. Where physical separation of
+the fuel lines from electrical wiring or conduit is impracticable, locate the fuel line below the
+wiring and clamp it securely to the airframe structure. In no case should wiring be supported by
+the fuel line.
+
+   c. Alignment. Locate bends accurately so that the tubing is aligned with all support
+clamps and end fittings and is not drawn, pulled, or otherwise forced into place by them. Never
+install a straight length of tubing between two rigidly mounted fittings. Always incorporate at
+least one bend between such fittings to absorb strain caused by vibration and temperature
+changes.
+
+   d. Bonding. Bond metallic fuel lines at each point where they are clamped to the structure.
+Integrally bonded and cushioned line support clamps are preferred to other clamping and
+bonding methods.
+
+   e. Support of Line Units. To prevent possible failure, all fittings heavy enough to cause
+the line to sag should be supported by means other than the tubing.
+
+   f. Support Clamps.
+
+   (1) Place support clamps or brackets for metallic lines as follows:
+
+   Approximate Distance
+   Tube OD
+   Between Supports
+   1/8”–3/16”  9”
+   1/4”–5/16”  12”
+   3/8”–1/2”  16”
+   5/8”–3/4”  22”
+   1”–1 1/4”  30”
+   1 1/2”–2”  40”
+
+Par 8-30  Page 8-23
+
+===== PDF PAGE 462 =====
+9/8/98  AC 43.13-1B
+
+   (2) Locate clamps or brackets as close to bends as possible to reduce overhang (see
+Figure 8-12).
+
+   FIGURE 8-12. LOCATION OF CLAMPS AT TUBE BENDS
+
+8-32. FUEL TANKS AND CELLS. Welded or riveted fuel tanks that are made of
+commercially pure aluminum, 3003, 5052, or similar alloys may be repaired by welding. Tanks
+made from heat-treatable aluminum alloys are generally assembled by riveting. In case it is
+necessary to rivet a new piece in a tank, use the same material as used in the tank undergoing
+repair and seal the seams with a compound that is insoluble in gasoline. Special sealing
+compounds are available and should be used in the repair of tanks. Inspect fuel tanks and cells
+for general condition, security of attachment, and evidence of leakage. Examine the fuel tank or
+cell vent line, fuel line, and sump drain attachment fittings closely.
+
+   CAUTION: Purge defueled tanks of explosive fuel/air mixtures in
+   accordance with the manufacturer’s service instructions. In the absence of
+   such instructions, utilize an inert gas, such as carbon dioxide (CO2), as a
+   purgative to assure the total deletion of fuel/air mixtures.
+
+   a. Integral Tanks. Examine the interior surfaces and seams for sealant deterioration and
+corrosion (especially in the sump area). Follow the manufacturer’s instructions for repair and
+cleaning procedures.
+
+   b. Internal Metal Tanks. Check the exterior for corrosion and chafing. Dents or other
+distortion, such as a partially collapsed tank caused by an obstructed fuel tank vent, can
+adversely affect fuel quantity gauge accuracy and tank capacity. Check the interior surfaces for
+corrosion. Pay particular attention to the sump area, especially for those of which sumps are
+made of cast material. Repairs to the tank may be accomplished in accordance with the practices
+outlined in the Chapter 4, Metal Structure, Welding, and Brazing of this advisory circular (AC).
+
+Par 8-31  Page 8-24
+
+===== PDF PAGE 463 =====
+9/8/98  AC 43.13-1B
+
+   c. Removal of Flux After Welding. It is especially important, after repair by welding, to
+completely remove all flux in order to avoid possible corrosion. Promptly upon completion of
+welding, wash the inside and outside of the tank with liberal quantities of hot water and then
+drain. Next, immerse the tank in either a 5-percent nitric or 5-percent sulfuric acid solution. If the
+tank cannot be immersed, fill the tank with either solution and wash the outside with the same
+solution. Permit the acid to remain in contact with the weld for about one hour and then rinse
+thoroughly with clean water. Test the efficiency of the cleaning operation by applying some
+acidified 5-percent silver nitrate solution to a small quantity of the rinse water used last to wash
+the tank. If a heavy white precipitate forms, the cleaning is insufficient, and the washing should
+be repeated.
+
+   d. Flexible Fuel Cells. Inspect the interior for checking, cracking, porosity, or other signs
+of deterioration. Make sure the cell retaining fasteners are properly positioned. If repair or further
+inspection is required, follow the manufacturer’s instructions for cell removal, repair, and
+installation. Do not allow flexible fuel cells to dry out. Preserve them in accordance with the
+manufacturer’s instructions.
+
+8-33. FUEL TANK CAPS, VENTS, AND OVERFLOW LINES. Inspect the fuel tank caps to
+determine they are the correct type and size for the installation and that O-rings are in good
+condition.
+
+   a. Unvented caps, substituted for vented caps, will cause fuel starvation and possible
+collapse of the fuel tank or cell. Malfunctioning of this type occurs when the pressure within the
+tank decreases as the fuel is withdrawn. Eventually, a point is reached where the fuel will no
+longer flow and/or the outside atmospheric pressure collapses the tank. Thus, the effects will
+occur sooner with a full fuel tank than with one partially filled.
+
+   b. Check tank vents and overflow lines thoroughly for condition, obstructions, correct
+installation, and proper operation of any check valves and ice protection units. Pay particular
+attention to the location of the tank vents when such information is provided in the
+manufacturer’s service instructions. Inspect for cracked or deteriorated filler opening recess
+drains, which may allow spilled fuel to accumulate within the wing or fuselage. One method of
+inspection is to plug the fuel line at the outlet and observe fuel placed in the filler opening recess.
+If drainage takes place, investigate condition of the line and purge any excess fuel from the wing.
+
+   c. Assure that filler opening markings are affixed to, or near, the filler opening; are
+marked according to the applicable airworthiness requirements; and are complete and legible.
+
+8-34. FUEL CROSS-FEED, FIREWALL SHUTOFF, AND TANK SELECTOR VALVES.
+Inspect these valves for leakage and proper operation as follows.
+
+   a. Internal leakage can be checked by placing the appropriate valve in the “off” position,
+draining the fuel strainer bowl, and observing if fuel continues to flow into it. Check all valves
+located downstream of boost pumps with the pump(s) operating. Do not operate the pump(s)
+longer than necessary.
+
+Par 8-32  Page 8-25
+
+===== PDF PAGE 464 =====
+9/8/98  AC 43.13-1B
+
+   b. External leakage from these units can result in a severe fire hazard, especially if the
+unit is located under the cabin floor or within a similarly confined area. Correct the cause of any
+fuel stains associated with fuel leakage.
+
+   c. Selector Handles. Check the operation of each handle or control to see that it indicates
+the actual position of the selector valve to the placard location. Movement of the selector handle
+should be smooth and free of binding. Assure that stops and detents have positive action and
+smooth operational feel. Worn or missing detents and stops can cause unreliable positioning of
+the fuel selector valve.
+
+   d. Worn Linkage. Inaccurate positioning of fuel selector valves can also be caused by
+worn mechanical linkage between the selector handle and the valve unit. An improper fuel valve
+position setting can seriously reduce engine power by restricting the available fuel flow. Check
+universal joints, pins, gears, splines, cams, levers, etc., for wear and excessive clearance, which
+prevent the valve from positioning accurately or from obtaining fully “off” and “on” positions.
+
+   e. Assure that required placards are complete and legible. Replace those that are
+missing or cannot be read easily.
+
+8-35. FUEL PUMPS. Inspect, repair, and overhaul boost pumps, emergency pumps, auxiliary
+pumps, and engine-driven pumps in accordance with the appropriate manufacturer’s instructions.
+
+8-36. FUEL FILTERS, STRAINERS, AND DRAINS. Check each strainer and filter element
+for contamination. Determine and correct the source of any contaminants found. Replace
+throwaway filter elements with the recommended type. Examine fuel strainer bowls to see that
+they are properly installed according to the direction of the fuel flow. Check the operation of all
+drain devices to see that they operate properly and have positive shutoff action.
+
+8-37. INDICATOR SYSTEMS. Inspect, service, and adjust the fuel indicator systems
+according to the manufacturer’s instructions. Determine that the required placards and instrument
+markings are complete and legible.
+
+8-38. FUEL SYSTEM PRECAUTIONS. In servicing fuel systems, remember that fuel is
+flammable and that the danger of fire or explosion always exists. The following precautions
+should be taken:
+
+   a. Aircraft being serviced or having the fuel system repaired must be properly grounded.
+
+   b. Spilled fuel must be neutralized or removed as quickly as possible.
+
+   c. Open fuel lines must be capped.
+
+   d. Fire-extinguishing equipment must always be available.
+
+   e. Metal fuel tanks must not be welded or soldered unless they have been adequately
+purged of fuel fumes. Keeping a tank or cell filled with CO2 will prevent explosion of fuel
+fumes.
+
+Par 8-34  Page 8-26
+
+===== PDF PAGE 465 =====
+9/8/98  AC 43.13-1B
+
+   f. Do not use Teflon tape on any fuel lines to avoid getting the tape between the flare and
+fitting, which can cause fluid leaks.
+
+8-39.–8-44. [RESERVED.]
+
+Par 8-38  Page 8-27
+
+===== PDF PAGE 466 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 3. EXHAUST SYSTEMS
+
+8-45. GENERAL. Any exhaust system failure should be regarded as a severe hazard.
+Depending upon the location and type of failure, it can result in carbon monoxide (CO)
+poisoning of crew and passengers, partial or complete engine power loss, or fire. Exhaust system
+failures generally reach a maximum rate of occurrence at 100 to 200 hours’ operating time, and
+over 50 percent of the failures occur within 400 hours.
+
+8-46. MUFFLER/HEAT EXCHANGER FAILURES. Approximately one-half of all exhaust
+system failures are traced to cracks or ruptures in the heat exchanger surfaces used for cabin and
+carburetor air heat sources.
+
+   a. Failures in the heat exchanger’s surface (usually the muffler’s outer wall) allow
+exhaust gases to escape directly into the cabin heat system. The failures are, for the most part,
+attributed to thermal and vibration fatigue cracking in the areas of stress concentration,
+e.g., tailpipe and stack, inlet-attachment areas (see Figures 8-13 through 8-16).
+
+   FIGURE 8-13. TYPICAL MUFFLER WALL FATIGUE FAILURE AT EXHAUST
+   OUTLET. (A. COMPLETE MUFFLER ASSEMBLY WITH HEAT SHROUD
+   REMOVED; B. DETAIL VIEW OF FAILURE)
+
+Par 8-45  Page 8-28
+
+===== PDF PAGE 467 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 8-14. TYPICAL MUFFLER WALL FAILURE. (A. COMPLETE MUFFLER
+  ASSEMBLY WITH HEAT SHROUD REMOVED; B. DETAIL VIEW OF FAILURE;
+   C. CROSS-SECTION OF FAILED MUFFLER)
+
+Par 8-46  Page 8-29
+
+===== PDF PAGE 468 =====
+9/8/98  AC 43.13-1B
+
+  FIGURE 8-15. TYPICAL MUFFLER WALL FATIGUE FAILURE. (A. COMPLETE
+   MUFFLER ASSEMBLY WITH HEAT SHROUD PARTIALLY REMOVED;
+   B. DETAILED VIEW OF FAILURE)
+
+FIGURE 8-16. TYPICAL FATIGUE FAILURE OF MUFFLER END PLATE AT STACK
+   INLET
+
+   b. Failures of the spot welds which attach heat transfer pins, as shown in Figure 8-14,
+image A, can result in exhaust gas leakage. In addition to the CO hazard, failure of heat
+exchanger surfaces can permit exhaust gases to be drawn into the engine induction system and
+cause engine overheating and power loss.
+
+8-47. MANIFOLD/STACK FAILURES. Exhaust manifold and stack failures are also usually
+fatigue-type failures, which occur at welded or clamped joints (e.g., stack-to-flange,
+stack-to-manifold, muffler connections, or crossover pipe connections). Although these failures
+are primarily a fire hazard, they also present a CO problem. Exhaust gases can enter the cabin via
+
+Par 8-46  Page 8-30
+
+===== PDF PAGE 469 =====
+9/8/98  AC 43.13-1B
+
+defective or inadequate seals at firewall openings, wing strut fittings, doors, and wing root
+openings. Manifold/stack failures, which account for approximately 20 percent of all exhaust
+system failures, reach a maximum rate of occurrence at about 100 hours’ operating time. Over
+50 percent of the failures occur within 300 hours.
+
+8-48. INTERNAL MUFFLER FAILURES. Internal failures (baffles, diffusers, etc.) can cause
+partial or complete engine power loss by restricting the flow of the exhaust gases (see
+Figures 8-17 through 8-20). As opposed to other failures, erosion and carbonizing caused by the
+extreme thermal conditions are the primary causes of internal failures. Engine after-firing and
+combustion of unburned fuel within the exhaust system are probable contributing factors.
+
+FIGURE 8-17. SECTION OF A MUFFLER SHOWING TYPICAL INTERNAL BAFFLE
+   FAILURE
+
+   FIGURE 8-18. LOOSE PIECES OF A FAILED INTERNAL BAFFLE
+
+Par 8-47  Page 8-31
+
+===== PDF PAGE 470 =====
+9/8/98  AC 43.13-1B
+
+   FIGURE 8-19. FAILED INTERNAL BAFFLE PARTIALLY OBSTRUCTING THE
+   MUFFLER OUTLET
+
+  FIGURE 8-20. FAILED INTERNAL BAFFLE COMPLETELY OBSTRUCTING THE
+   MUFFLER OUTLET
+
+   a. In addition, local hot spot areas caused by uneven exhaust gas flow result in burning,
+bulging, and rupture of the outer muffler wall (see Figure 8-14). As might be expected, the time
+required for these failures to develop is longer than that for fatigue failures. Internal muffler
+failures account for nearly 20 percent of the total number of exhaust system failures.
+
+   b. The highest rate of internal muffler failures occurs between 500 and 750 hours of
+operating time. Engine power loss and excessive backpressure caused by exhaust outlet blockage
+may be averted by the installation of an exhaust outlet guard as shown in Figures 8-21a
+and 8-21b. The outlet guard may be fabricated from a 3/16-inch stainless steel welding rod.
+
+Par 8-48  Page 8-32
+

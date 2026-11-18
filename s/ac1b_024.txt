@@ -1,0 +1,1140 @@
+AC 43.13-1B Chg 1, chapter 11 (Aircraft Electrical Systems), PDF pages 572-597
+
+===== PDF PAGE 572 =====
+9/8/98  AC 43.13-1B
+
+   CHAPTER 11. AIRCRAFT ELECTRICAL SYSTEMS
+
+   SECTION 1. INSPECTION AND CARE OF ELECTRICAL SYSTEMS
+
+11-1. GENERAL. The term “electrical system” as used in this AC means those parts of the
+aircraft that generate, distribute, and use electrical energy, including their support and
+attachments. The satisfactory performance of an aircraft is dependent upon the continued
+reliability of the electrical system. Damaged wiring or equipment in an aircraft, regardless of
+how minor it may appear to be, cannot be tolerated. Reliability of the system is proportional to
+the amount of maintenance received and the knowledge of those who perform such maintenance.
+It is, therefore, important that maintenance be accomplished using the best techniques and
+practices to minimize the possibility of failure. This chapter is not intended to supersede or
+replace any government specification or specific manufacturer’s instruction regarding electrical
+system inspection and repair.
+
+11-2. INSPECTION AND OPERATION CHECKS. Inspect equipment, electrical
+assemblies, and wiring installations for damage, general condition, and proper functioning to
+ensure the continued satisfactory operation of the electrical system. Adjust, repair, overhaul, and
+test electrical equipment and systems in accordance with the recommendations and procedures in
+the aircraft and/or component manufacturer’s maintenance instructions. Replace components of
+the electrical system that are damaged or defective with identical parts, with aircraft
+manufacturer’s approved equipment, or its equivalent to the original in operating characteristics,
+mechanical strength, and environmental specifications. A list of suggested problems to look for
+and checks (see Appendix 1, Glossary, for a description of the check types) to be performed are:
+
+   a. Damaged, discolored, or overheated equipment, connections, wiring, and installations.
+
+   b. Excessive heat or discoloration at high current carrying connections.
+
+   c. Misalignment of electrically driven equipment.
+
+   d. Poor electrical bonding (broken, disconnected, or corroded bonding strap) and
+grounding, including evidence of corrosion.
+
+   e. Dirty equipment and connections.
+
+   f. Improper, broken, inadequately supported wiring and conduit, loose connections of
+terminals, and loose ferrules.
+
+   g. Poor mechanical or cold solder joints.
+
+   h. Condition of circuit breaker and fuses.
+
+   i. Insufficient clearance between exposed current carrying parts and ground or poor
+insulation of exposed terminals.
+
+   j. Broken or missing safety wire, broken bundle lacing, cotter pins, etc.
+
+Par 11-1  Page 11-1
+
+===== PDF PAGE 573 =====
+9/8/98  AC 43.13-1B
+
+   k. Operational check of electrically operated equipment such as motors, inverters,
+generators, batteries, lights, protective devices, etc.
+
+   l. Ensure that ventilation and cooling air passages are clear and unobstructed.
+
+   m. Voltage check of electrical system with portable precision voltmeter.
+
+   n. Condition of electric lamps.
+
+   o. Missing safety shields on exposed high-voltage terminals (i.e., 115/200V alternating
+current (AC)).
+
+11-3. FUNCTIONAL CHECK OF STAND-BY OR EMERGENCY EQUIPMENT. An
+aircraft should have functional tests performed at regular intervals as prescribed by the
+manufacturer. The inspections or functional check periods should be clearly stated in the aircraft
+maintenance manual, along with the overhaul intervals.
+
+11-4. CLEANING AND PRESERVATION. Annual cleaning of electrical equipment to
+remove dust, dirt, and grime is recommended. Suitable solvents or fine abrasives that will not
+score the surface or remove the plating may be used to clean the terminals and mating surfaces if
+they are corroded or dirty. Only cleaning agents that do not leave any type of residue must be
+used. Components must be cleaned and preserved in accordance with the aircraft handbooks or
+manufacturer’s instructions. Avoid using emery cloth to polish commutators or slip rings
+because particles may cause shorting and burning. Be sure that protective finishes are not scored
+or damaged when cleaning. Ensure that metal-to-metal electrically bonded surfaces are treated at
+the interface with a suitable anti-corrosive conductive coating, and that the joint is sealed around
+the edges by restoring the original primer and paint finish. Connections that must withstand a
+highly corrosive environment may be encapsulated with an approved sealant in order to prevent
+corrosion.
+
+   CAUTION: Turn power off before cleaning.
+
+11-5. BATTERY ELECTROLYTE CORROSION. Corrosion found on or near lead-acid
+batteries can be removed mechanically with a stiff bristle brush and then chemically neutralized
+with a 10-percent sodium bicarbonate and water solution. For Nickel Cadmium (NiCad)
+batteries, a 3-percent solution of acetic acid can be used to neutralize the electrolyte. After
+neutralizing, the battery should be washed with clean water and thoroughly dried.
+
+11-6. ADJUSTMENT AND REPAIR. Accomplish adjustments to items of equipment such as
+regulators, alternators, generators, contactors, control devices, inverters, and relays at a location
+outside the aircraft, and on a test stand or test bench where all necessary instruments and test
+equipment are at hand. Follow the adjustment and repair procedures outlined by the equipment
+or aircraft manufacturer. Replacement or repair must be accomplished as a part of routine
+maintenance. Adjustment of a replacement voltage regulator is likely since there will always be a
+difference in impedance between the manufacturer’s test equipment and the aircraft’s electrical
+system.
+
+Par 11-2  Page 11-2
+
+===== PDF PAGE 574 =====
+9/8/98  AC 43.13-1B
+
+11-7. INSULATION OF ELECTRICAL EQUIPMENT. In some cases, electrical equipment
+is connected into a heavy current circuit, perhaps as a control device or relay. Such equipment is
+normally insulated from the mounting structure since grounding the frame of the equipment may
+result in a serious ground fault in the event of equipment internal failure. Stranded 18 or 20
+American Wire Gauge (AWG) wire should be used as a grounding strap to avoid shock hazard to
+equipment and personnel. If the end connection is used for shock hazard, the ground wire must
+be large enough to carry the highest possible current (0.1 to 0.2 ohms max.).
+
+11-8. BUS BARS. Annually check bus bars for general condition, cleanliness, and security of
+all attachments and terminals. Grease, corrosion, or dirt on any electrical junction may cause the
+connections to overheat and eventually fail. Bus bars that exhibit corrosion, even in limited
+amounts, should be disassembled, cleaned and brightened, and reinstalled.
+
+11-9. ASTM INTERNATIONAL. The Federal Aviation Administration (FAA) worked in
+conjunction with ASTM International to initiate voluntary consensus standards. The FAA
+reviewed the consensus standards for compliance with the regulatory requirements and published
+FAA-acceptance of the standards in the Federal Register (FR) as an acceptable means of
+compliance to 14 CFR part 23 sections concerning electrical wiring systems. Any normal, utility,
+acrobatic, and commuter aircraft issued an airworthiness certificate, which has been designed,
+manufactured, and maintained in accordance with accepted ASTM consensus standards, provides
+the public with the appropriate level of safety established under the regulations. These standards
+are not intended to replace any instructions for continued airworthiness (ICA) published by the
+aircraft manufacturer or type design holder. The consensus standards may be used unless the
+FAA publishes a specific notification otherwise. The FAA maintains a listing of accepted
+consensus standards on the FAA website (www.faa.gov). Examples of consensus standards
+accepted by the FAA are shown in Table 11-1.
+
+   TABLE 11-1. ASTM CONSENSUS STANDARDS
+
+   Federal Register
+   Standard  Published By
+   Title  Notice
+   Designation
+   Organization Committee  Date  FR Page
+   Standard Guide for Aircraft
+   F2490-05  ASTM  13-Mar-  71 FR
+   Electrical Load and Power  F39
+   (2013)  International  2006  12771
+   Source Capacity Analysis
+   Standard Practice for Design,
+   €1  Alteration, and Certification of ASTM  23-Sep-  75 FR
+   F2639-07  F39
+   Airplane Electrical Wiring  International  2010  58016
+   Systems
+   Standard Practice for
+   ASTM  30-Dec-  79 FR
+   F2696-14  Inspection of Aircraft Electrical  F39
+   International  2014  78553
+   Wiring Systems
+   Standard Practice for
+   ASTM  30-Dec-  79 FR
+   F2799-14  Maintenance of Aircraft  F39
+   International  2014  78553
+   Electrical Wiring Systems
+
+Par 11-7  Page 11-3
+
+===== PDF PAGE 575 =====
+9/8/98  AC 43.13-1B
+
+   NOTE: A standard is issued under a fixed designation (i.e., F2696-08); the
+   number immediately following the designation indicates the year of original
+   adoption or, in the case of revision, the year of last revision. A number in
+   parentheses indicates the year of last reapproval. A reapproval indicates a
+   2-year review cycle completed with no technical changes. A superscript
+   epsilon (€) indicates an editorial change since the last revision or reapproval.
+   A notice of availability will only be issued for new or revised standards.
+   Reapproved standards issued with no technical changes or standards issued
+   with editorial changes only (i.e., superscript epsilon (€)) are considered
+   accepted by the FAA without need for a notice of availability.
+
+11-10.–11-14. [RESERVED.]
+
+Par 11-9  Page 11-4
+
+===== PDF PAGE 576 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 2. STORAGE BATTERIES
+
+11-15. GENERAL.
+
+   a. Aircraft batteries may be used for many functions, e.g., ground power, emergency
+power, improving DC bus stability, and fault-clearing. Most small private aircraft use lead-acid
+batteries. Most commercial and military aircraft use NiCad batteries. However, other types are
+becoming available such as gel cell and sealed lead-acid batteries. The battery best suited for a
+particular application will depend on the relative importance of several characteristics, such as
+weight, cost, volume, service or shelf life, discharge rate, maintenance, and charging rate. Any
+change of battery type may be considered a major alteration.
+
+   b. Storage batteries are usually identified by the material used for the plates. All battery
+types possess different characteristics and, therefore, must be maintained in accordance with the
+manufacturer’s recommendations.
+
+   WARNING: It is extremely dangerous to store or service lead-acid and
+   NiCad batteries in the same area. Introduction of acid electrolytes into
+   alkaline electrolyte will destroy the NiCad and vice-versa.
+
+11-16. BATTERY CHARGING. Operation of storage batteries beyond their ambient
+temperature or charging voltage limits can result in excessive cell temperatures leading to
+electrolyte boiling, rapid deterioration of the cells, and battery failure. The relationship between
+maximum charging voltage and the number of cells in the battery is also significant. This will
+determine (for a given ambient temperature and state of charge) the rate at which energy is
+absorbed as heat within the battery. For lead-acid batteries, the voltage per cell must not exceed
+2.35 volts. In the case of NiCad batteries, the charging voltage limit varies with design and
+construction. Values of 1.4 and 1.5 volts per cell are generally used. In all cases, follow the
+recommendations of the battery manufacturer.
+
+11-17. BATTERY FREEZING. Discharged lead-acid batteries exposed to cold temperatures
+are subject to plate damage due to freezing of the electrolyte. To prevent freezing damage,
+maintain each cell’s specific gravity at 1.275, or for sealed lead-acid batteries check “open”
+circuit voltage. (See Table 11-2.) NiCad battery electrolyte is not as susceptible to freezing
+because no appreciable chemical change takes place between the charged and discharged states.
+However, the electrolyte will freeze at approximately minus 75 °F.
+
+   NOTE: Only a load check will determine overall battery condition.
+
+Par 11-15  Page 11-5
+
+===== PDF PAGE 577 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-2. LEAD-ACID BATTERY ELECTROLYTE FREEZING POINTS
+
+   State of Charge (SOC) for
+   Specific  Freeze Point
+   Sealed Lead-Acid Batteries at 70 °
+   Gravity  C.  F.  SOC  12 volt  24 volt
+   1.300  -70  -95  100%  12.9  25.8
+   1.275  -62  -80  75%  12.7  25.4
+   1.250  -52  -62  50%  12.4  24.8
+   1.225  -37  -35  25%  12.0  24.0
+   1.200  -26  -16
+   1.175  -20  -4
+   1.150  -15  +5
+   1.125  -10  +13
+   1.100  -8  +19
+
+11-18. TEMPERATURE CORRECTION. U.S.-manufactured lead-acid batteries are
+considered fully charged when the specific gravity reading is between 1.275 and 1.300. A
+1/3-discharged battery reads about 1.240 and a 2/3 discharged battery will show a specific
+gravity reading of about 1.200, when tested by a hydrometer and the electrolyte temperature
+is 80 °F. However, to determine precise specific gravity readings, a temperature correction (see
+Table 11-3) should be applied to the hydrometer indication. As an example, with a hydrometer
+reading of 1.260 and the temperature of the electrolyte at 40 °F, the corrected specific gravity
+reading of the electrolyte is 1.244.
+
+Par 11-17  Page 11-6
+
+===== PDF PAGE 578 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-3. SULFURIC ACID TEMPERATURE CORRECTION
+
+   Electrolyte  Points to be Subtracted or
+   Temperature  Added to Specific Gravity
+   °C  °F  Readings
+
+   60  140  +24
+   55  130  +20
+   49  120  +16
+   43  110  +12
+   38  100  +8
+   33  90  +4
+   27  80  0
+   23  70  -4
+   15  60  -8
+   10  50  -12
+   5  40  -16
+   -2  30  -20
+   -7  20  -24
+   -13  10  -28
+   -18  0  -32
+   -23  -10  -36
+   -28  -20  -40
+   -35  -30  -44
+
+11-19. BATTERY MAINTENANCE. Battery inspection and maintenance procedures vary
+with the type of chemical technology and the type of physical construction. Always follow the
+battery manufacturer’s approved procedures. Battery performance at any time in a given
+application will depend upon the battery’s age, state of health, state of charge, and mechanical
+integrity.
+
+   a. Age. To determine the life and age of the battery, record the install date of the battery
+on the battery. During normal battery maintenance, battery age must be documented either in the
+aircraft maintenance log or in the shop maintenance log.
+
+   b. State of Health. Lead-acid battery state of health may be determined by duration of
+service interval (in the case of vented batteries), by environmental factors (such as excessive heat
+or cold), and by observed electrolyte leakage (as evidenced by corrosion of wiring and
+connectors or accumulation of powdered salts). If the battery needs to be refilled often, with no
+evidence of external leakage, this may indicate a poor state of the battery, the battery charging
+system, or an over charge condition.
+
+Par 11-18  Page 11-7
+
+===== PDF PAGE 579 =====
+9/8/98  AC 43.13-1B
+
+   (1) Use a hydrometer to determine the specific gravity of the battery electrolyte, which
+is the weight of the electrolyte compared to the weight of pure water.
+
+   (2) Take care to ensure the electrolyte is returned to the cell from which it was
+extracted. When a specific gravity difference of 0.050 or more exists between cells of a battery,
+the battery is approaching the end of its useful life and replacement should be considered.
+Electrolyte level may be adjusted by the addition of distilled water.
+
+   c. State of Charge. Battery state of charge will be determined by the cumulative effect of
+charging and discharging the battery. In a normal electrical charging system, the battery’s
+generator or alternator restores a battery to full charge during a flight of 1 hour to 90 minutes.
+
+   d. Mechanical Integrity. Proper mechanical integrity involves the absence of any
+physical damage as well as assurance that hardware is correctly installed and the battery is
+properly connected. Battery and battery compartment venting system tubes, nipples, and
+attachments, when required, provide a means of avoiding the potential buildup of explosive
+gases, and should be checked periodically to ensure that they are securely connected and oriented
+in accordance with the maintenance manual’s installation procedures. Always follow procedures
+approved for the specific aircraft and battery system to ensure that the battery system is capable
+of delivering specified performance.
+
+   e. Battery and Charger Characteristics. The following information is provided to
+acquaint the user with characteristics of the more common aircraft battery and battery charger
+types. Products may vary from these descriptions due to different applications of available
+technology. Consult the manufacturer for specific performance data.
+
+   NOTE: Under no circumstances connect a lead-acid battery to a charger,
+   unless properly serviced.
+
+   (1) Lead-acid vented batteries have a 2-volt nominal cell voltage. Batteries are
+constructed so that individual cells cannot be removed. Occasional addition of water is required
+to replace water loss due to overcharging in normal service. Batteries that become fully
+discharged may not accept recharge.
+
+   (2) Lead-acid sealed batteries are similar in most respects to lead-acid vented batteries,
+but do not require the addition of water.
+
+   (3) The lead-acid battery is economical and has extensive application, but is heavier
+than an equivalent performance battery of another type. The battery is capable of a high rate of
+discharge and low-temperature performance. However, maintaining a high rate of discharge for a
+period of time usually warps the cell plates, shorting out the battery. Its electrolyte has a
+moderate specific gravity, and state of charge can be checked with a hydrometer.
+
+   (4) Do not use high-amperage automotive battery chargers to charge aircraft batteries.
+
+   (5) NiCad vented batteries have a 1.2-volt nominal cell voltage. Occasional addition of
+distilled water is required to replace water loss due to overcharging in normal service. Cause of
+failure is usually shorting or weakening of a cell. After replacing the bad cell with a good cell,
+
+Par 11-18  Page 11-8
+
+===== PDF PAGE 580 =====
+9/8/98  AC 43.13-1B
+
+the battery’s life can be extended for 5 or more years. Full discharge is not harmful to this type of
+battery.
+
+   (6) NiCad sealed batteries are similar in most respects to NiCad vented batteries, but do
+not normally require the addition of water. Fully discharging the battery (to zero volts) may
+cause irreversible damage to one or more cells, leading to eventual battery failure due to low
+capacity.
+
+   (7) The state of charge of a NiCad battery cannot be determined by measuring the
+specific gravity of the potassium hydroxide electrolyte. The electrolyte specific gravity does not
+change with the state of charge. The only accurate way to determine the state of charge of a
+NiCad battery is by a measured discharge with a NiCad battery charger and following the
+manufacturer’s instructions. After the battery has been fully charged and allowed to stand for at
+least 2 hours, the fluid level may be adjusted, if necessary, using distilled or demineralized water.
+Because the fluid level varies with the state of charge, water should never be added while the
+battery is installed in the aircraft. Overfilling the battery will result in loss of electrolyte during
+charging. This will cause corrosive effects on the cell links, self-discharge of the battery, dilution
+of the electrolyte density, possible blockage of the cell vents, and eventual cell rupture.
+
+   (8) Lead-acid batteries are usually charged by regulated DC voltage sources. This
+allows maximum accumulation of charge in the early part of recharging.
+
+   (9) Constant-current battery chargers are usually provided for NiCad batteries because
+the NiCad cell voltage has a negative temperature coefficient. With a constant voltage charging
+source, a NiCad battery having a shorted cell might overheat due to excessive overcharge and
+undergo a thermal runaway, destroying the battery and creating a possible safety hazard to the
+aircraft.
+
+   Definition. Thermal runaway can result in a chemical fire and/or explosion of
+   the NiCad battery under recharge by a constant-voltage source, and is due to
+   cyclical, ever-increasing temperature and charging current. One or more
+   shorted cells or an existing high temperature and low charge can produce the
+   cyclical sequence of events: (1) excessive current, (2) increased temperature,
+   (3) decreased cell(s) resistance, (4) further increased current, and (5) further
+   increased temperature. This will not become a self-sustaining thermal-chemical
+   action if the constant-voltage charging source is removed before the battery
+   temperature is in excess of 160 °F.
+
+   (10) Pulsed-current battery chargers are sometimes provided for NiCad batteries.
+
+   CAUTION: It is important to use the proper charging procedures for
+   batteries under test and maintenance. These charging regimes for
+   reconditioning and charging cycles are defined by the aircraft manufacturer
+   and should be closely followed.
+
+   f. Shop-Level Maintenance Procedures. Shop procedures must follow the
+manufacturer’s recommendations. Careful examination of sealed batteries and proper
+reconditioning of vented batteries will ensure the longest possible service life.
+
+Par 11-19  Page 11-9
+
+===== PDF PAGE 581 =====
+9/8/98  AC 43.13-1B
+
+   g. Aircraft Battery Inspection.
+
+   (1) Inspect battery sump jar and lines for condition and security.
+
+   (2) Inspect battery terminals and quick-disconnect plugs and pins for evidence of
+corrosion, pitting, arcing, and burns. Clean as required.
+
+   (3) Inspect battery drain and vent lines for restriction, deterioration, and security.
+
+   (4) Routine preflight and post-flight inspection procedures should include observation
+for evidence of physical damage, loose connections, and electrolyte loss.
+
+11-20. ELECTROLYTE SPILLAGE. Spillage or leakage of electrolyte may result in serious
+corrosion of the nearby structure or control elements as both sulfuric acid and potassium
+hydroxide are actively corrosive. Electrolyte may be spilled during ground servicing, leaked
+when cell case rupture occurs, or sprayed from cell vents due to excessive charging rates. If the
+battery is not case enclosed, properly treat structural parts near the battery that may be affected
+by acid fumes. Treat all case and drain surfaces, that have been affected by electrolyte, with a
+solution of sodium bicarbonate (for acid electrolyte) or boric acid, vinegar, or a 3-percent
+solution of acetic acid (for potassium hydroxide electrolyte).
+
+   CAUTION: Serious burns will result if the electrolyte comes in contact with
+   any part of the body. Use rubber gloves, rubber apron, and protective
+   goggles when handling electrolyte. If sulfuric acid is splashed on the body,
+   neutralize with a solution of baking soda and water, and shower or flush the
+   affected area with water. For the eyes, use an eye fountain and flush with an
+   abundance of water. If potassium hydroxide contacts the skin, neutralize
+   with 9-percent acetic acid, vinegar, or lemon juice and wash with water. For
+   the eyes, wash with a weak solution of boric acid or a weak solution of
+   vinegar and flush with water.
+
+11-21. NOXIOUS FUMES. When charging rates are excessive, the electrolyte may boil to the
+extent that fumes containing droplets of the electrolyte are emitted through the cell vents. These
+fumes from lead-acid batteries may become noxious to the crewmembers and passengers;
+therefore, thoroughly check the venting system. NiCad batteries will emit gas near the end of the
+charging process and during overcharge. The battery vent system in the aircraft should have
+sufficient air flow to prevent this explosive mixture from accumulating. It is often advantageous
+to install a jar in the battery vent discharge system serviced with an agent to neutralize the
+corrosive effect of battery vapors.
+
+11-22. INSTALLATION PRACTICES.
+
+   a. External Surface. Clean the external surface of the battery prior to installation in the
+aircraft.
+
+   b. Replacing Lead-Acid Batteries. When replacing lead-acid batteries with NiCad
+batteries, a battery temperature or current monitoring system must be installed. Neutralize the
+battery box or compartment and thoroughly flush with water and dry. A flight manual
+
+Par 11-19  Page 11-10
+
+===== PDF PAGE 582 =====
+9/8/98  AC 43.13-1B
+
+supplement must also be provided for the NiCad battery installation. Acid residue can be
+detrimental to the proper functioning of a NiCad battery, as alkaline will be to a lead-acid
+battery.
+
+   c. Battery Venting. Battery fumes and gases may cause an explosive mixture or
+contaminated compartments and should be dispersed by adequate ventilation. Venting systems
+often use ram pressure to flush fresh air through the battery case or enclosure to a safe overboard
+discharge point. The venting system pressure differential should always be positive, and remain
+between recommended minimum and maximum values. Line runs should not permit battery
+overflow fluids or condensation to be trapped and prevent free airflow.
+   d. Battery Sump Jars. A battery sump jar installation may be incorporated in the venting
+system to dispose of battery electrolyte overflow. The sump jar should be of adequate design and
+the proper neutralizing agent used. The sump jar must be located only on the discharge side of
+the battery venting system. (See Figure 11-1.)
+   FIGURE 11-1. BATTERY VENTILATING SYSTEMS
+
+   e. Installing Batteries. When installing batteries in an aircraft, exercise care to prevent
+inadvertent shorting of the battery terminals. Serious damage to the aircraft structure (frame, skin
+and other subsystems, avionics, wire, fuel etc.) can be sustained by the resultant high discharge
+of electrical energy. This condition may normally be avoided by insulating the terminal posts
+during the installation process. Remove the grounding lead first for battery removal, then the
+positive lead. Connect the grounding lead of the battery last to minimize the risk of shorting the
+“hot terminal” of the battery during installation.
+   f. Battery Hold Down Devices. Ensure that the battery hold down devices are secure, but
+not so tight as to exert excessive pressure that may cause the battery to buckle causing internal
+shorting of the battery.
+
+Par 11-20  Page 11-11
+
+===== PDF PAGE 583 =====
+9/8/98  AC 43.13-1B
+
+   g. Quick-Disconnect Type Battery. If a quick-disconnect type of battery connector that
+prohibits crossing the battery lead is not employed, ensure that the aircraft wiring is connected to
+the proper battery terminal. Reverse polarity in an electrical system can seriously damage a
+battery and other electrical components. Ensure that the battery cable connections are tight to
+prevent arcing or a high-resistance connection.
+11-23.–11-29. [RESERVED.]
+
+Par 11-22  Page 11-12
+
+===== PDF PAGE 584 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 3. INSPECTION OF EQUIPMENT INSTALLATION
+
+11-30. GENERAL. When installing equipment which consumes electrical power in an aircraft,
+it should be determined that the total electrical load can be safely controlled or managed within
+the rated limits of the affected components of the aircraft’s electrical power supply system.
+Addition of most electrical utilization equipment is a major alteration and requires appropriate
+FAA approval. The electrical load analysis must be prepared in general accordance with good
+engineering practices. Additionally, an addendum to the flight manual is generally required.
+
+11-31. INSTALLATION CLEARANCE PROVISIONS. All electrical equipment should be
+installed so that inspection and maintenance may be performed and that the installation does not
+interfere with other systems, such as engine or flight controls.
+
+11-32. WIRES, WIRE BUNDLES, AND CIRCUIT PROTECTIVE DEVICES. Before any
+aircraft electrical load is increased, the new total electrical load (previous maximum load plus
+added load) must be checked to determine if the design levels are being exceeded. Where
+necessary, wires, wire bundles, and circuit protective devices having the correct ratings should be
+added or replaced.
+
+11-33. ALTERNATOR DIODES. Alternators employ diodes for the purpose of converting the
+alternating current to direct current. These diodes are solid-state electronic devices and are easily
+damaged by rough handling, abuse, overheating, or reversing the battery connections. A voltage
+surge in the line, if it exceeds the design value, may destroy the diode. The best protection
+against diode destruction by voltage surges is to make certain that the battery is never
+disconnected from the aircraft's electrical system when the alternator is in operation. The battery
+acts as a large capacitor and tends to damp out voltage surges. The battery must never be
+connected with reversed polarity as this may subject the diodes to a forward bias condition,
+allowing very high current conduction that will generally destroy them instantly.
+
+11-34. STATIC ELECTRICAL POWER CONVERTERS. Static power converters employ
+solid-state devices to convert the aircraft’s primary electrical source voltage to a different voltage
+or frequency for the operation of radio and electronic equipment. They contain no moving parts
+(with the exception of a cooling fan on some models) and are relatively maintenance free.
+Various types are available for AC to DC or DC to AC conversion.
+
+   a. Location of static converters should be carefully chosen to ensure adequate ventilation
+for cooling purposes. Heat-radiating fins should be kept clean of dirt and other foreign matter
+that may impair their cooling properties.
+
+   b. Static power converters often emit unacceptable levels of electromagnetic interference
+(EMI) that may disrupt communication equipment and navigation instruments. Properly shielded
+connectors, terminal blocks, and wires may be required, with all shields well-grounded to the
+airframe.
+
+   CAUTION: Do not load converters beyond their rated capacity.
+
+Par 11-30  Page 11-13
+
+===== PDF PAGE 585 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-35. ACCEPTABLE MEANS OF CONTROLLING OR MONITORING THE
+ELECTRICAL LOAD.
+
+   a. Output Rating. The generator or alternator output ratings and limits prescribed by the
+manufacturer must be checked against the electrical loads that can be imposed on the affected
+generator or alternator by installed equipment. When electrical load calculations show that the
+total continuous electrical load can exceed 80-percent output load limits of the generator or
+alternator, and where special placards or monitoring devices are not installed, the electrical load
+must be reduced or the generating capacity of the charging system must be increased. (This is
+strictly a “rule of thumb” method and should not be confused with an electrical load analysis,
+which is a complete and accurate analysis of the composite aircraft power sources and all
+electrical loads.) When a storage battery is part of the electrical power system, the battery will be
+continuously charged in flight.
+
+   b. The use of placards is recommended to inform the pilot and/or crewmembers of the
+combination(s) of loads that may be connected to each power source. Warning lights can be
+installed that will be triggered if the battery bus voltage drops below 13 volts on a 14-volt system
+or 26 volts on a 28-volt system.
+
+   c. For installations where the ammeter is in the battery lead, and the regulator system
+limits the maximum current that the generator or alternator can deliver, a voltmeter can be
+installed on the system bus. As long as the ammeter never reads “discharge” (except for short
+intermittent loads such as operating the gear and flaps) and the voltmeter remains at “system
+voltage,” the generator or alternator will not be overloaded.
+
+   d. In installations where the ammeter is in the generator or alternator lead and the
+regulator system does not limit the maximum current that the generator or alternator can deliver,
+the ammeter can be redlined at 100 percent of the generator or alternator rating. If the ammeter
+reading is never allowed to exceed the red line, except for short intermittent loads, the generator
+or alternator will not be overloaded.
+
+   e. Where the use of placards or monitoring devices is not practical or desired, and where
+assurance is needed that the battery will be charged in flight, the total continuous connected
+electrical load should be held to approximately 80 percent of the total generator output capacity.
+When more than one generator is used in parallel, the total rated output is the combined output of
+the installed generators.
+
+   f. When two or more generators and alternators are operated in parallel and the total
+connected system load can exceed the rated output of a single generator, a method should be
+provided for quickly coping with a sudden overload that can be caused by generator or engine
+failure. A quick load reduction system or procedure should be identified whereby the total load
+can be reduced by the pilot to a quantity within the rated capacity of the remaining operable
+generator or generators.
+
+11-36. ELECTRICAL LOAD DETERMINATION. The connected load of an aircraft’s
+electrical system may be determined by any one or a combination of several acceptable methods,
+techniques, or practices. However, those with a need to know the status of a particular aircraft’s
+
+Par 11-35  Page 11-14
+
+===== PDF PAGE 586 =====
+9/27/01  AC 43.13-1B CHG 1
+
+electrical system should have accurate and up-to-date data concerning the capacity of the
+installed electrical power source(s) and the load(s) imposed by installed electrical
+power-consuming devices. Such data should provide a true picture of the status of the electrical
+system. New or additional electrical devices should not be installed in an aircraft or the capacity
+changed of any power source, until the status of the electrical system in the aircraft has been
+determined accurately and found not to adversely affect the integrity of the electrical system.
+
+11-37. JUNCTION BOX CONSTRUCTION. Replacement junction boxes should be
+fabricated using the same material as the original or from a fire-resistant, nonabsorbent material,
+such as aluminum, or an acceptable plastic material. Where fire-proofing is necessary, a stainless
+steel junction box is recommended. Rigid construction will prevent “oil-canning” of the box
+sides that could result in internal short circuits. In all cases, drain holes should be provided in the
+lowest portion of the box. Cases of electrical power equipment must be insulated from metallic
+structure to avoid ground fault related fires. (See paragraph 11-7.)
+
+   a. Internal Arrangement. The junction box arrangement should permit easy access to
+any installed items of equipment, terminals, and wires. Where marginal clearances are
+unavoidable, an insulating material should be inserted between current carrying parts and any
+grounded surface. It is not good practice to mount equipment on the covers or doors of junction
+boxes, since inspection for internal clearance is impossible when the door or cover is in the
+closed position.
+
+   b. Installation. Junction boxes should be securely mounted to the aircraft structure in such
+a manner that the contents are readily accessible for inspection. When possible, the open side
+should face downward or at an angle so that loose metallic objects, such as washers or nuts, will
+tend to fall out of the junction box rather than wedge between terminals.
+
+   c. Wiring. Junction box layouts should take into consideration the necessity for adequate
+wiring space and possible future additions. Electrical wire bundles should be laced or clamped
+inside the box so that cables do not touch other components, prevent ready access, or obscure
+markings or labels. Cables at entrance openings should be protected against chafing by using
+grommets or other suitable means.
+
+11-38.–11-46. [RESERVED.]
+
+Par 11-36  Page 11-15
+
+===== PDF PAGE 587 =====
+9/8/98  AC 43.13-1B
+
+   SECTION 4. INSPECTION OF CIRCUIT-PROTECTION DEVICES
+
+11-47. GENERAL. All electrical wires must be provided with some means of circuit protection.
+Electrical wire should be protected with circuit breakers or fuses located as close as possible to
+the electrical power source bus. Normally, the manufacturer of electrical equipment will specify
+the fuse or breaker to be used when installing the respective equipment, or SAE ARP1199 may
+be referred to for recommended practices.
+
+11-48. DETERMINATION OF CIRCUIT BREAKER RATINGS. Circuit protection devices
+must be sized to supply open circuit capability. A circuit breaker must be rated so that it will
+open before the current rating of the wire attached to it is exceeded, or before the cumulative
+rating of all loads connected to it are exceeded, whichever is lowest. A circuit breaker must
+always open before any component downstream can overheat and generate smoke or fire. Wires
+must be sized to carry continuous current in excess of the circuit protective device rating,
+including its time-current characteristics, and to avoid excessive voltage drop. See Section 5 for
+wire rating methods.
+
+11-49. DC CIRCUIT PROTECTOR CHART. Table 11-4 may be used as a guide for the
+selection of circuit breaker and fuse rating to protect copper conductor wire. This chart was
+prepared for the conditions specified. If actual conditions deviate materially from those stated,
+ratings above or below the values recommended may be justified. For example, a wire run
+individually in the open air may possibly be protected by the circuit breaker of the next higher
+rating to that shown on the chart. In general, the chart is conservative for all ordinary aircraft
+electrical installations.
+
+Par 11-47  Page 11-16
+
+===== PDF PAGE 588 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   TABLE 11-4. DC WIRE AND CIRCUIT PROTECTOR CHART
+
+   Wire AN  Circuit Breaker
+   Fuse amp.
+   Gauge Copper  amp.
+   22  5  5
+   20  7.5  5
+   18  10  10
+   16  15  10
+   14  20  15
+   12  30  20
+   10  40  30
+   8  50  50
+   6  80  70
+   4  100  70
+   2  125  100
+   1  150
+   0  150
+   Basis of chart:
+   (1) Wire bundles in 135 °F ambient and altitudes up to 30,000 feet.
+   (2) Wire bundles of 15 or more wires, with wires carrying no more
+   than 20 percent of the total current carrying capacity of the bundle as
+   given in AS50881 (ASG).
+   (3) Protectors in 75 to 85 °F ambient.
+   (4) Copper wire AS50881.
+   (5) Circuit breakers to AS5809 or equivalent.
+   (6) Fuses to MIL-PRF-15160 or equivalent.
+
+11-50. RESETTABLE CIRCUIT PROTECTION DEVICES.
+
+   a. All resettable type circuit breakers must open the circuit irrespective of the position
+of the operating control when an overload or circuit fault exists. Such circuit breakers are
+referred to as “trip free.”
+
+   b. Automatic reset circuit breakers, that automatically reset themselves periodically, are
+not recommended as circuit protection devices for aircraft.
+
+11-51. CIRCUIT BREAKER USAGE. Circuit breakers are designed as circuit protection for
+the wire (see paragraphs 11-48 and 11-49), not for protection of black boxes or components. Use
+of a circuit breaker as a switch is not recommended. Use of a circuit breaker as a switch will
+decrease the life of the circuit breaker.
+
+Par 11-49  Page 11-17
+
+===== PDF PAGE 589 =====
+9/27/01  AC 43.13-1B CHG 1
+
+11-52. CIRCUIT BREAKER MAINTENANCE. Circuit breakers should be periodically
+cycled with no load to enhance contact performance by cleaning contaminants from the contact
+surfaces. Also periodically verify legibility of rating and location markings.
+
+11-53. SWITCHES. In all circuits where a switch malfunction can be hazardous, a switch
+specifically designed for aircraft service should be used. These switches are of rugged
+construction and have sufficient contact capacity to break, make, and continuously carry the
+connected load current. The position of the switch should be checked with an electrical meter.
+
+   a. Electrical Switch Inspection. Special attention should be given to electrical circuit
+switches, especially the spring-loaded type, during the course of normal airworthiness inspection.
+An internal failure of the spring-loaded type may allow the switch to remain closed even though
+the toggle or button returns to the “off” position. During inspection, attention should also be
+given to the possibility that improper switch substitution may have been made.
+
+   (1) With the power off, suspect aircraft electrical switches should be checked in the ON
+position for opens (high resistance) and in the OFF position for shorts (low resistance), with an
+ohmmeter.
+
+   (2) Any abnormal side-to-side movement of the switch should be an alert to imminent
+failure even if the switch tested was shown to be acceptable with an ohmmeter.
+
+   b. Electromechanical Switches. Switches have electrical contacts and various types of
+switch actuators (i.e., toggle, plunger, push-button, knob, rocker).
+
+   (1) Contacts designed for high-level loads must not be subsequently used for low-level
+applications, unless testing has been performed to establish this capability.
+
+   (2) Switches are specifically selected based on the design for the aircraft service current
+ratings for lamp loads, inductive loads, and motor loads and must be replaced with identical
+make and model switches.
+
+   c. Proximity Switches. These switches are usually solid-state devices that detect the
+presence of a predetermined target without physical contact and are usually rated 0.5 amps or
+less.
+
+   d. Switch Rating. The nominal current rating of the conventional aircraft switch is usually
+stamped on the switch housing and represents the continuous current rating with the contacts
+closed. Switches should be derated from their nominal current rating for the following types of
+circuits:
+
+   (1) Circuits containing incandescent lamps can draw an initial current that is 15 times
+greater than the continuous current. Contact burning or welding may occur when the switch is
+closed.
+
+   (2) Inductive circuits have magnetic energy stored in solenoid or relay coils that is
+released when the control switch is opened and may appear as an arc.
+
+Par 11-52  Page 11-18
+
+===== PDF PAGE 590 =====
+9/8/98  AC 43.13-1B
+
+   (3) Direct-current motors will draw several times their rated current during starting, and
+magnetic energy stored in their armature and field coils is released when the control switch is
+opened.
+
+   e. Switch Selection. Switches for aircraft use should be selected with extreme caution.
+The contact ratings should be adequate for all load conditions and applicable voltages, at both
+sea level and the operational altitude. Consideration should be given to the variation in the
+electrical power characteristics, using MIL-STD-704 as a guide.
+
+   f. Derating Factors. Table 11-5 provides an approximate method for derating nominal
+ratings to obtain reasonable switch efficiency and service life under reactive load conditions.
+
+   WARNING: Do not use AC derated switches in DC circuits. AC switches will
+   not carry the same amperage as a DC switch.
+
+   TABLE 11-5. SWITCH DERATING FACTORS
+
+   Nominal
+   Derating
+   System  Type of Load
+   Factor
+   Voltage
+   28 VDC  Lamp  8
+   28 VDC  Inductive
+   4
+   (relay-solenoid)
+   28 VDC  Resistive (Heater)  2
+   28 VDC  Motor  3
+   12 VDC  Lamp  5
+   12 VDC  Inductive
+   2
+   (relay-solenoid)
+   12 VDC  Resistive (Heater)  1
+   12 VDC  Motor  2
+   NOTES:
+   1. To find the nominal rating of a switch required to operate a given
+   device, multiply the continuous current rating of the device by the
+   derating factor corresponding to the voltage and type of load.
+   2. To find the continuous rating that a switch of a given nominal rating
+   will handle efficiently, divide the switch nominal rating by the derating
+   factor corresponding to the voltage and type of load.
+
+   g. Low-Energy Loads. Switches rated for use at 28 VDC or more, and at 1.0 amp or
+more, generally have silver contacts. In general, silver contacts should not be used to control
+devices which have either a voltage less than 8 volts or a continuous current less than 0.5 amps
+unless the switch is specifically rated for use with low-energy loads. Table 11-6 provides general
+guidelines for selecting contact materials for low-energy loads, but is not applicable to
+hermetically sealed switches.
+
+Par 11-53  Page 11-19
+
+===== PDF PAGE 591 =====
+9/8/98  AC 43.13-1B
+
+   TABLE 11-6. SELECTION OF CONTACT MATERIAL
+
+   (1) Typical logic load devices have a voltage of 0.5 volts to 28 volts and a continuous
+current of less than 0.5 amps. A suitable method of rating switches for use on logic load devices
+is specified in ANSI/EIA 5200000, Generic Specification for Special-Use Electromechanical
+Switches of Certified Quality.
+
+   (2) Typical low-level load devices have a voltage of less than 0.5 volts and a continuous
+current of less than 0.5 amps. A suitable method of rating switches for use on logic load devices
+is specified in ANSI/EIA 5200000.
+
+Par 11-53  Page 11-20
+
+===== PDF PAGE 592 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   h. Shock and Vibration.
+
+   (1) Electromechanical switches (toggle switches) are most susceptible to shock and
+vibration in the plane that is parallel to contact motion. Under these conditions the switch
+contacts may momentarily separate. ANSI/EIA 5200000 specifies that contact separations
+greater than 10 microseconds and that closing of open contacts in excess of 1 microsecond are
+failures. Repeated contact separations during high levels of vibration or shock may cause
+excessive electrical degradation of the contacts. These separations can also cause false signals to
+be registered by electronic data processors without proper buffering.
+
+   (2) Although proximity switches do not have moving parts, the reliability of the internal
+electronic parts of the switch may be reduced. Reliability and mean time between failure
+(MTBF) calculations should reflect the applicable environment. Note that the mounting of both
+the proximity sensor and its target must be rigid enough to withstand shock or vibration to avoid
+creating false responses.
+
+   i. Electromagnetic/Radio-Frequency Interference (EMI/RFI).
+
+   (1) DC operated electromechanical switches are usually not susceptible to EMI/RFI.
+Proximity switches are susceptible to an EMI/RFI environment and must be evaluated in the
+application. Twisting lead wires, metal overbraids, lead wire routing, and the design of the
+proximity switch can minimize susceptibility.
+
+   (2) The arcing of electromechanical switch contacts generates short duration EMI/RFI
+when controlling highly inductive electrical loads. Twisting lead wires, metal overbraids, and
+lead wire routing can reduce or eliminate generation problems when dealing with arcing loads.
+Proximity sensors generally use a relatively low-energy electromagnetic field to sense the target.
+Adequate spacing is required to prevent interference between adjacent proximity sensors or other
+devices susceptible to EMI/RFI. Refer to manufacturer’s instructions.
+
+   j. Temperature.
+
+   (1) Electromechanical switches can withstand wide temperature ranges and rapid
+gradient shifts without damage. Most aircraft switches operate between 55 °C and 85 °C with
+designs available from 185 °C to 260 °C or more. Higher temperatures require more exotic
+materials, which can increase costs and limit life. It should be noted that O-ring seals and
+elastomer boot seals tend to stiffen in extreme cold. This can increase operating forces and
+reduce release forces or stop the switch from releasing.
+
+   (2) Proximity sensors are normally designed for environments from 55 °C to 125 °C.
+During temperature excursions, the operating and release points may shift from 5 percent to
+10 percent. Reliability of the proximity sensor will typically be highest at room temperature. The
+reliability and MTBF estimates should be reduced for use under high temperatures or high
+thermal gradients.
+
+Par 11-53  Page 11-21
+
+===== PDF PAGE 593 =====
+9/8/98  AC 43.13-1B
+
+   k. Sealing.
+
+   NOTE: The materials used for sealing (O-rings, potting materials, etc.)
+   should be compatible with any aircraft fluids to which the switch may be
+   exposed.
+
+   (1) Electromechanical switches range in sealing from partially sealed to hermetically
+sealed. Use a sealed switch when the switch will be exposed to a dirty environment during
+storage, assembly, or operation. Use a higher level of sealing when the switch will not have an
+arcing load to self-clean the contacts. Low-energy loads tend to be more susceptible to
+contamination.
+
+   (2) Proximity switches for aircraft applications typically have a metal face and potting
+material surrounding any electronics and lead wire exits. The potting material should be
+compatible with the fluids the switch will be exposed to in the environment. The plastic sensing
+face of some proximity switches may be subject to absorption of water that may cause the
+operating point to shift should be protected.
+
+   l. Switch Installation. Hazardous errors in switch operation may be avoided by logical
+and consistent installation. “On-off” two-position switches should be mounted so that the “on”
+position is reached by an upward or forward movement of the toggle. When the switch controls
+movable aircraft elements, such as landing gear or flaps, the toggle should move in the same
+direction as the desired motion. Inadvertent operation of switches can be prevented by mounting
+suitable guards over the switches.
+
+11-54. RELAYS. A relay is an electrically controlled device that opens and closes electrical
+contacts to effect the operation of other devices in the same or in another electrical circuit. The
+relay converts electrical energy into mechanical energy through various means, and through
+mechanical linkages, actuates electrical conductors (contacts) that control electrical circuits.
+Solid-state relays may also be used in electrical switching applications.
+
+   a. Use of Relays. Most relays are used as a switching device where a weight reduction can
+be achieved, or to simplify electrical controls. It should be remembered that the relay is an
+electrically operated switch, and therefore subject to dropout under low system voltage
+conditions.
+
+   b. Types of Connections. Relays are manufactured with various connective means from
+mechanical to plug-in devices. Installation procedures vary by the type of connection and should
+be followed to ensure proper operation of the relay.
+
+   c. Repair. Relays are complicated electromechanical assemblies and most are not
+repairable.
+
+   d. Relay Selection.
+
+   (1) Contact ratings, as described on the relay case, describe the make, carry, and break
+capability for resistive currents only. Consult the appropriate specification to determine the
+
+Par 11-53  Page 11-22
+
+===== PDF PAGE 594 =====
+9/27/01  AC 43.13-1B CHG 1
+
+derating factor to use for other types of current loads. (Refer to MIL-PRF-39016,
+MIL-PRF-5757, MIL-PRF-6106, MIL-PRF-83536.)
+
+   (2) Operating a relay at less than nominal coil voltage may compromise its performance
+and should never be done without written manufacturer approval.
+
+   e. Relay Installation and Maintenance. For installation and maintenance, care should be
+taken to ensure proper placement of hardware, especially at electrical connections. The use of
+properly calibrated torque wrenches and following the manufacturer’s installation procedures is
+strongly recommended. This is especially important with hermetically sealed relays, since the
+glass-to-metal seal (used for insulation of the electrically “live” components) is especially
+vulnerable to catastrophic failure as a result of over-torquing.
+
+   (1) When replacing relays in alternating current (AC) applications, it is essential to
+maintain proper phase sequencing. For any application involving plug-in relays, proper
+engagement of their retaining mechanism is vital.
+
+   (2) The proximity of certain magnetically permanent, magnet assisted, coil operated
+relays may cause them to have an impact on each other. Any manufacturer’s recommendations
+or precautions must be closely followed.
+
+11-55. LOAD CONSIDERATIONS. When switches or relays are to be used in applications
+where current or voltage is substantially lower than rated conditions, additional intermediate
+testing should be performed to ensure reliable operation. Contact the manufacturer on
+applications different from the rated conditions.
+
+11-56. OPERATING CONDITIONS FOR SWITCHES AND RELAYS. Switches and relays
+should be compared to their specification rating to ensure that all contacts are made properly
+under all conditions of operation, including vibration equivalent to that in the area of the aircraft
+in which the switch or relay is to be installed.
+
+11-57.–11-65. [RESERVED.]
+
+Par 11-54  Page 11-23
+
+===== PDF PAGE 595 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   SECTION 5. ELECTRICAL WIRE RATING
+
+11-66. GENERAL. Wires must be sized so that they: have sufficient mechanical strength to
+allow for service conditions; do not exceed allowable voltage drop levels; are protected by
+system circuit protection devices; and meet circuit current carrying requirements.
+
+   a. Mechanical Strength of Wires. If it is desirable to use wire sizes smaller than #20,
+particular attention should be given to the mechanical strength and installation handling of these
+wires, e.g., vibration, flexing, and termination. Wire containing less than 19 strands must not be
+used. Consideration should be given to the use of high-strength alloy conductors in small gauge
+wires to increase mechanical strength. As a general practice, wires smaller than size #20 should
+be provided with additional clamps and be grouped with at least three other wires. They should
+also have additional support at terminations, such as connector grommets, strain relief clamps,
+shrinkable sleeving, or telescoping bushings. They should not be used in applications where they
+will be subjected to excessive vibration, repeated bending, or frequent disconnection from screw
+termination.
+
+   b. Voltage Drop in Wires. The voltage drop in the main power wires from the generation
+source or the battery to the bus should not exceed 2 percent of the regulated voltage when the
+generator is carrying rated current or the battery is being discharged at the 5-minute rate. The
+tabulation shown in Table 11-7 defines the maximum acceptable voltage drop in the load circuits
+between the bus and the utilization equipment ground.
+
+  TABLE 11-7. TABULATION CHART (ALLOWABLE VOLTAGE DROP BETWEEN
+   BUS AND UTILIZATION EQUIPMENT GROUND)
+
+   Allowable Voltage
+   Nominal System  Intermittent
+   Drop Continuous
+   Voltage  Operation
+   Operation
+   14  0.5  1
+   28  1  2
+   115  4  8
+   200  7  14
+
+   c. Resistance. The resistance of the current return path through the aircraft structure is
+generally considered negligible. However, this is based on the assumption that adequate bonding
+to the structure or a special electric current return path has been provided that is capable of
+carrying the required electric current with a negligible voltage drop. To determine circuit
+resistance check the voltage drop across the circuit. If the voltage drop does not exceed the limit
+established by the aircraft or product manufacturer, the resistance value for the circuit may be
+considered satisfactory. When checking a circuit, the input voltage should be maintained at a
+constant value. Tables 11-8 and 11-9 show formulas that may be used to determine electrical
+resistance in wires and some typical examples.
+
+Par 11-66  Page 11-24
+
+===== PDF PAGE 596 =====
+9/27/01  AC 43.13-1B CHG 1
+
+  TABLE 11-8. EXAMPLES OF DETERMINING REQUIRED TIN-PLATED COPPER
+   WIRE SIZE AND CHECKING VOLTAGE DROP USING FIGURE 11-2
+
+   Circuit  Check-Calculated Voltage Drop
+   Voltage  Run Lengths  Wire Size
+   Current  (VD)= (Resistance/Ft) (Length)
+   Drop  (Feet)  From Chart
+   (Amps)  (Current)
+
+   1  107  20  No. 6  VD = (.00044 ohms/ft.) (107)(20) = 0.942
+
+   0.5  90  20  No. 4  VD = (.00028 ohms/ft.) (90)(20) = 0.504
+
+   4  88  20  No. 12  VD = (.00202 ohms/ft.) (88)(20) = 3.60
+
+   7  100  20  No. 14  VD = (.00306 ohms/ft.) (100)(20) = 6.12
+
+  TABLE 11-9. EXAMPLES OF DETERMINING MAXIMUM TIN-PLATED COPPER
+   WIRE LENGTH AND CHECKING VOLTAGE DROP USING FIGURE 11-2
+
+   Maximum
+ Maximum  Circuit
+   Wire  Wire Run  Check-Calculated Voltage Drop
+  Voltage  Current
+   Size  Length  (VD) = (Resistance/Ft) (Length) (Current)
+   Drop  (Amps)
+   (Feet)
+   1  No. 10  20  39  VD = (.00126 ohms/ft.) (39)(20) = .98
+
+   0.5  —  19.5  VD = (.00126 ohms/ft.) (19.5)(20) =.366
+
+   4  —  156  VD = (.00126 ohms/ft.) (156)(20) = 3.93
+
+   7  —  273  VD = (.00126 ohms/ft.) (273)(20) =6.88
+
+   d. Resistance Calculation Methods. Figures 11-2 and 11-3 provide a convenient means
+of calculating maximum wire length for the given circuit current.
+
+   (1) Values in Tables 11-8 and 11-9 are for tin-plated copper conductor wires. Because
+the resistance of tin-plated wire is slightly higher than that of nickel- or silver-plated wire,
+maximum run lengths determined from these charts will be slightly less than the allowable limits
+for nickel- or silver-plated copper wire and are therefore safe to use. Figures 11-2 and 11-3 can
+be used to derive slightly longer maximum run lengths for silver- or nickel-plated wires by
+multiplying the maximum run length by the ratio of resistance of tin-plated wire, divided by the
+resistance of silver- or nickel-plated wire.
+
+   (2) As an alternative method or a means of checking results from Figure 11-2,
+continuous flow resistance for a given wire size can be read from Table 11-10 and multiplied by
+the wire run length and the circuit current. For intermittent flow, use Figure 11-3.
+
+Par 11-66  Page 11-25
+
+===== PDF PAGE 597 =====
+9/27/01  AC 43.13-1B CHG 1
+
+   (3) Voltage drop calculations for aluminum wires can be accomplished by multiplying
+the resistance for a given wire size, defined in Table 11-11, by the wire run length and circuit
+current.
+
+   (4) When the estimated or measured conductor temperature (T2) exceeds 20 °C, such as
+in areas having elevated ambient temperatures or in fully loaded power-feed wires, the maximum
+allowable run length (L2), must be shortened from L1 (the 20 °C value) using one of the
+following formulas:
+
+   (a) For copper conductor wire:
+
+   (b) For aluminum conductor wire:
+
+   (c) These formulas use the reciprocal of each material’s resistivity temperature
+coefficient to take into account increased conductor resistance resulting from operation at
+elevated temperatures.
+
+   (5) To determine T2 for wires carrying a high percentage of their current carrying
+capability at elevated temperatures, laboratory testing using a load bank and a high-temperature
+chamber is recommended. Such tests should be run at anticipated worse case ambient
+temperature and maximum current-loading combinations.
+
+   (6) Approximate T2 can be estimated using the following formula:
+
+   This formula is quite conservative and will typically yield somewhat higher
+   estimated temperatures than are likely to be encountered under actual operating
+   conditions.
+
+   NOTE: Aluminum Wire: From Tables 11-10 and 11-11, note that the
+   conductor resistance of aluminum wire and that of copper wire (two
+   numbers higher) are similar. Accordingly, the electric wire current in
+
+Par 11-66  Page 11-26
+
