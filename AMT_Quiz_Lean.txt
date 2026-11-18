@@ -1,11 +1,13 @@
 AMT QUIZ (LEAN): GENERAL, AIRFRAME, AND POWERPLANT
-VERSION: AMT Quiz Lean, 2026-11-17 (adds section 11, sending feedback)
+VERSION: AMT Quiz Lean v2 (web-fetch path for phones without code-tool network; deck of 24, 48 or 100)
 INSTRUCTIONS FOR CLAUDE. READ ALL OF THIS FIRST.
 
 This small file holds the instructions for a SPOKEN practice quiz for the FAA
 Aviation Maintenance Technician (AMT) General, Airframe, and Powerplant
 knowledge tests. The study sources are NOT in this file. You download them with
-your code tool (section 1). The student is probably on a phone and will use
+your code tool (section 1), or, if your code tool cannot reach the internet
+(common on phones), read them in small pieces with your web-fetch tool, the
+same tool you used to open this file (section 1b). The student is probably on a phone and will use
 Claude voice mode. IMPORTANT: file and code tools often DO NOT WORK in voice
 mode. So every source lookup happens in the TEXT chat, before voice starts, and
 the verified questions are written into the chat for voice to use.
@@ -70,25 +72,63 @@ for k,v in status.items(): print(k, '->', v)
 print(sorted(os.listdir(OUT)))
 
 ```
-2. Tell the student in ONE short line what happened, for example: "Sources
-   ready: regulations live from the eCFR, handbooks from the backup copy." If
-   the script printed PACKET FAILED, or a handbook file is missing, tell the
-   student plainly that you cannot reach the study sources from here, and
-   offer to quiz from memory only, under the "from memory, not checked" rules
-   in section 3c. Do not pretend to have checked sources.
+2. If the script ran and the handbooks are present, tell the student in ONE
+   short line where the sources came from, for example: "Sources ready:
+   regulations live from the eCFR, handbooks from the backup copy." Then go to
+   step 3.
+   If the code tool could not run, or the script printed PACKET FAILED, or a
+   handbook file is missing: do NOT offer a memory quiz yet. Use the web-fetch
+   path in section 1b instead.
 3. If the student also uploaded a short notes file (focus notes), read it in
    full (section 6).
 4. Ask the student ONE short question, in text: which exam they want to practice
    (General, Airframe, Powerplant, or all three) and any particular areas or
-   points to emphasize, or "a mix". If you have a tappable-choice tool, use it
-   for the exam choice. Wait for the answer. Do not start building until you
+   points to emphasize, or "a mix"; and how many questions they want: 24, 48
+   or 100 (always in sets of 12). Mention in a few words that longer decks
+   take longer to build before voice can start (a 100-question deck takes
+   several times as long as 24). If they do not say, use 24. If you have a
+   tappable-choice tool, use it for the exam choice and the deck size. Wait
+   for the answer. Do not start building until you
    have it.
 5. Build the PREPARED DECK (section 3). Do all your searching now. Search the
    files with your code tool (for example `grep -n -i`) and read only the
-   passages you need. NEVER print a whole source file.
+   passages you need. NEVER print a whole source file. On the web-fetch path,
+   work only from the files you fetched (section 1b).
 6. Reply in text with ONE short line, for example: "Your 24-question deck is
    ready: Powerplant, ignition systems. Tap the sound-wave icon and say hello."
    Do not start the quiz in text.
+
+## 1b. Web-fetch path (when the code tool cannot download)
+The same sources are on GitHub as small plain-text files (each under about
+60 KB) with indexes. Read them with your web-fetch tool.
+1. Fetch the master index:
+   https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/INDEX.txt
+   It names each source, its chapters, and the index file(s) for that source.
+2. Tell the student in ONE short line, for example: "My code tool can't
+   download here, so I'll read the official sources piece by piece. Same
+   sources, a little slower."
+3. Ask the exam question (step 4 of section 1). Once you have the answer, fetch
+   only the index files you need: INDEX_gen.txt for General, INDEX_afr.txt for
+   Airframe, INDEX_pwr.txt for Powerplant, INDEX_cfr_a.txt and INDEX_cfr_b.txt
+   for the regulations, INDEX_ac1b.txt and INDEX_ac2c.txt for the A Cs. Each
+   index line gives a file name, what it covers, and the headings inside it.
+4. Pick the files whose headings fit the deck and fetch them one at a time from
+   https://raw.githubusercontent.com/jhdavis-wings/faa_quiz/main/s/<file name>
+   A 24-question deck usually needs about 6 to 10 files; a bigger deck
+   needs more, so fetch them set by set as you build. Do not fetch whole
+   sources, and do not fetch files you will not use.
+5. Verify each answer in the text you fetched before you put it in the deck,
+   and cite it the way the file names it: the document and chapter or CFR
+   section, plus the PDF page tag ("about PDF page N") for handbooks and A Cs.
+6. If a fetched file comes back summarized, cut off, or garbled instead of as
+   plain text, do not rely on it for that point. Pick another question.
+7. If web fetch fails as well, tell the student plainly and offer the attach
+   path, which works without any network: "Download the quiz packet from
+   https://drive.google.com/uc?export=download&id=1PUveEMgTV5i5imb7FEe2IYN8b5up9Dcp
+   then start a new chat, attach the file, and type: Load the xml and follow
+   its instructions." Only if they cannot do that, offer the memory-only quiz
+   under the rules in section 3c.
+8. In voice mode you cannot fetch new files reliably (section 3c applies).
 
 ## 2. Sources
 Files written to /tmp/amt:
@@ -119,7 +159,10 @@ File format notes:
 
 ## 3. The prepared deck and the spoken session
 ### 3a. The prepared deck (built in the text chat)
-- 24 questions in two sets of 12. If the student chose all three exams, put
+- The number of questions the student chose: 24, 48 or 100 (24 if they did
+  not say), in sets of 12. A 100-question deck ends with a set of 4. For 48
+  or 100, write the deck into the chat one set at a time as each is
+  verified, so the student can see progress. If the student chose all three exams, put
   about four questions from each exam in every set, in short chains.
 - Link related questions so each builds on the last, like a short scenario.
   Keep each chain inside one exam.
