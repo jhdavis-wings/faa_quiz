@@ -1,0 +1,1764 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 442-460
+
+===== PDF PAGE 442 =====
+Chapter 12
+
+Fundamentals of Electricity &
+Electronics
+Introduction
+This chapter addresses the fundamental concepts that are
+the building blocks for advanced electrical knowledge and
+practical troubleshooting. Some of the questions addressed
+are: How does energy travel through a copper wire and
+through space? What is electric current and electromotive
+force? What makes a landing light turn on or a hydraulic
+pump motor run? Each of these questions requires an
+understanding of many basic principles. By adding one
+basic idea on top of other basic ideas, it becomes possible
+to answer most of the interesting and practical questions
+about electricity or electronics.
+Our understanding of electrical current must begin with the
+nature of matter. All matter is composed of molecules. All
+molecules are made up of atoms, which are themselves made
+up of electrons, protons, and neutrons.
+
+General Composition of Matter
+Matter
+Matter can be defined as anything that has mass and volume
+and is the substance of which physical objects are composed.
+Essentially, it is anything that can be touched. Matter is what
+all things are made of; whatever occupies space, has mass,
+and is perceptible to the senses in some way. Weight is an
+indirect method of determining mass, but it is not the same.
+Weight is a measure of the pull of gravity acting on the mass
+of an object. The more mass an object has, the more it weighs
+under the earth’s force of gravity. Mathematically, weight can
+be stated as follows:
+Weight = Mass × Gravity
+Categories of matter are ordered by molecular activity.
+The four categories or states are: solids, liquids, gases, and
+plasma. For the purposes of the aircraft technician, only
+solids, liquids, and gases are considered.
+Element
+An element is a substance that cannot be reduced to a
+simpler form by chemical means. Iron, gold, silver, copper,
+and oxygen are examples of elements. Beyond this point of
+reduction, the element ceases to be what it is.
+
+Compound
+A compound is a chemical combination of two or more
+elements. Water is one of the most common compounds and
+is made up of two hydrogen atoms and one oxygen atom.
+Molecule
+The smallest particle of matter that can exist and still retain
+its identity, such as water (H2O), is called a molecule.
+[Figure 12-1] Substances composed of only one type of atom
+are called elements. But most substances occur in nature as
+compounds, that is, combinations of two or more types of
+atoms. It would no longer retain the characteristics of water if
+it were compounded of one atom of hydrogen and two atoms
+of oxygen. If a drop of water is divided and then divided again
+and again until it cannot be divided any longer, it is still water.
+Atom
+The atom is considered to be the most basic building block
+of all matter. Atoms are composed of three subatomic
+particles: protons, neutrons, and electrons. These three
+particles determine the properties of the specific atoms.
+Elements are substances composed of the same atoms with
+specific properties. Oxygen is an example of this. The main
+property that defines each element is the number of neutrons,
+protons, and electrons. Hydrogen and helium are examples
+of elements. Both of these elements have neutrons, protons,
+and electrons but differ in the number of those items. This
+difference alone accounts for the variations in chemical and
+physical properties of these two different elements. There are
+over 100 known elements in the periodic table. [Figure 12-2]
+They are categorized according to their properties on that
+table. The kinetic theory of matter also states that the
+particles that make up the matter are always moving. Thermal
+expansion is considered in the kinetic theory and explains
+why matter contracts when it is cool and expands when it is
+hot, with the exception of water/ice.
+Electrons, Protons, & Neutrons
+At the center of the atom is the nucleus, which contains
+protons and neutrons. Protons are positively-charged
+particles, and neutrons are neutrally-charged particles. A
+neutron has approximately the same mass as the proton. The
+third particle of the atom is the electron that is a negatively12-1
+
+===== PDF PAGE 443 =====
+charged particle with a very small mass compared to the
+proton. The proton’s mass is approximately 1,837 times
+greater than the electron. Due to the proton and the neutron
+location in the central portion of the atom (nucleus) and the
+electron’s position at the distant periphery of the atom, it
+is the electron that undergoes the change during chemical
+reactions. Since a proton weighs approximately 1,845 times
+as much as an electron, the number of protons and neutrons
+in its nucleus determines the overall weight of an atom. The
+weight of an electron is not considered in determining the
+weight of an atom. Indeed, the nature of electricity cannot be
+defined clearly because it is not certain whether the electron
+is a negative charge with no mass (weight) or a particle of
+matter with a negative charge.
+
+maximum number of electrons that can be contained in any
+shell or sub-shell is the same for all atoms and is defined as
+electron capacity = 2n2. In this equation, n represents the
+energy level in question. The first shell can only contain two
+electrons; the second shell can only contain eight electrons;
+the third, 18, and so on until we reach the seventh shell for
+the heaviest atoms, which have six energy levels. Because the
+innermost shell is the lowest energy level, the shell begins to
+fill up from the shell closest to the nucleus and fill outward
+as the atomic number of the element increases. However,
+an energy level does not need to be completely filled before
+electrons begin to fill the next level. The Periodic Table
+of Elements should be checked to determine an element’s
+electron configuration.
+
+Hydrogen represents the simplest form of an atom.
+[Figure 12-3] At the nucleus of the hydrogen atom is one
+proton and at the outer shell is one orbiting electron. At a
+more complex level is the oxygen atoms, which has eight
+electrons in two shells orbiting the nucleus with eight protons
+and eight neutrons. [Figure 12-4] When the total positive
+charge of the protons in the nucleus equals the total negative
+charge of the electrons in orbit around the nucleus, the atom
+is said to have a neutral charge.
+
+Valence Electrons
+
+Electron Shells & Energy Levels
+Electrons require a certain amount of energy to stay in an
+orbit. This particular quantity is called the electron’s energy
+level. By its motion alone, the electron possesses kinetic
+energy, while the electron’s position in orbit determines its
+potential energy. The total energy of an electron is the main
+factor that determines the radius of the electron’s orbit.
+Electrons of an atom appear only at certain definite energy
+levels (shells). The spacing between energy levels is such
+that when the chemical properties of the various elements are
+cataloged, it is convenient to group several closely spaced
+permissible energy levels together into electron shells. The
+
+Oxygen atom
+Nucleus
+
+Electrons
+
+Valence is the number of chemical bonds an atom can
+form. Valence electrons are electrons that can participate in
+chemical bonds with other atoms. The number of electrons
+in the outermost shell of the atom is the determining factor
+in its valence. Therefore, the electrons contained in this shell
+are called valence electrons.
+
+Ions
+Ionization is the process by which an atom loses or gains
+electrons. Dislodging an electron from an atom causes the
+atom to become positively charged. This net positivelycharged atom is called a positive ion or a cation. An atom
+that has gained an extra number of electrons is negatively
+charged and is called a negative ion or an anion. When atoms
+are neutral, the positively-charged proton and the negativelycharged electron are equal.
+
+Free Electrons
+Valence electrons are found drifting midway between two
+nuclei. Some electrons are more tightly bound to the nucleus
+of their atom than others and are positioned in a shell or sphere
+closer to the nucleus, while others are more loosely bound and
+orbit at a greater distance from the nucleus. These outermost
+electrons are called “free” electrons because they can be easily
+dislodged from the positive attraction of the protons in the
+nucleus. Once freed from the atom, the electron can then travel
+from atom to atom, becoming the flow of electrons commonly
+called current in a practical electrical circuit.
+Electron Movement
+
+Conductors, Insulators, and Semiconductors
+
+Hydrogen atoms
+Figure 12-1. A water molecule.
+
+The valence of an atom determines its ability to gain or
+lose an electron, which ultimately determines the chemical
+and electrical properties of the atom. These properties can
+be categorized as being a conductor, semiconductor, or
+insulator, depending on the ability of the material to produce
+free electrons. When a material has a large number of free
+12-2
+
+===== PDF PAGE 444 =====
+Figure 12-2. Periodic table of elements.
+
+Electron
+
+8 Protons
+8 Neutrons
+Nucleus (1 Proton)
+
+Figure 12-3. Hydrogen atom.
+
+electrons available, a greater current can be conducted in
+the material.
+
+Conductors
+Elements such as gold, copper, and silver possess many free
+electrons and make good conductors. The atoms in these
+materials have a few loosely bound electrons in their outer
+orbits. Energy in the form of heat can cause these electrons
+in the outer orbit to break loose and drift throughout the
+material. Copper and silver have one electron in their outer
+orbits. At room temperature, a piece of silver wire has billions
+
+Figure 12-4. Oxygen atom.
+
+of free electrons.
+
+Insulators
+Insulators are materials that do not conduct electrical current
+very well or not at all, such as glass, ceramic, and plastic.
+12-3
+
+===== PDF PAGE 445 =====
+Under normal conditions, atoms in these materials do not
+produce free electrons. The absence of free electrons means
+that electrical current cannot be conducted through the
+material. Only when the material is in an extremely strong
+electrical field will the outer electrons be dislodged. This
+action is called breakdown and usually causes physical
+damage to the insulator.
+
+Semiconductors
+The material properties of semiconductors fall in between
+conductors and insulators. In their pure state, they are not
+good at conducting or insulating. Semiconductors can operate
+like a conductor or insulator depending on what external load
+is placed on the material. Semiconductors are used to make
+transistors and integrated circuits. Silicon and germanium
+are the most widely used semiconductor materials. For a
+more detailed explanation on this topic, refer to page 12-98
+in this chapter.
+
+Metric Based Prefixes Used for Electrical
+Calculations
+In any system of measurements, a single set of units is usually
+not sufficient for all the computations involved in electrical
+repair and maintenance. Small distances, for example, can
+usually be measured in inches, but larger distances are
+more meaningfully expressed in feet, yards, or miles. Since
+electrical values often vary from numbers that are a millionth
+part of a basic unit of measurement to very large values, it is
+often necessary to use a wide range of numbers to represent
+the values of units, such as volts, amperes, or ohms. A series
+of prefixes that appear with the name of the unit have been
+devised for the various multiples or submultiples of the basic
+units. There are 12 of these prefixes, which are also known as
+conversion factors. Four of the most commonly used prefixes
+in electrical work are:
+Mega (M) means one million (1,000,000).
+Kilo (k) means one thousand (1,000).
+Milli (m) means one-thousandth (1⁄1,000).
+Micro (μ) means one-millionth (1⁄1,000,000).
+Kilo is one of the most extensively used conversion factors. It
+explains the use of prefixes with basic units of measurement.
+Kilo means 1,000, and when used with volts, is expressed as
+kilovolt, meaning 1,000 volts. The symbol for kilo is the letter
+“k.” Thus, 1,000 volts is one kilovolt or 1 kV. Conversely,
+one volt would equal one-thousandth of a kV, or 1 ⁄1,000 kV.
+This could also be written 0.001 kV.
+Similarly, the word “milli” means one-thousandth, and
+thus, 1 millivolt equals one-thousandth (1⁄1000) of a volt.
+Figure 12-5 contains a complete list of the multiples used to
+
+express electrical quantities, together with the prefixes and
+symbols used to represent each number.
+
+Static Electricity
+Electricity is often described as being either static or dynamic.
+The difference between the two is based simply on whether
+the electrons are at rest (static) or in motion (dynamic). Static
+electricity is a buildup of an electrical charge on the surface
+of an object. It is considered “static” due to the fact that there
+is no current flowing as in alternate current (AC) or direct
+current (DC) electricity. Static electricity is usually caused
+when non-conductive materials, such as rubber, plastic, or
+glass, are rubbed together causing a transfer of electrons,
+which results in an imbalance of charges between the two
+materials. The fact that there is an imbalance of charges
+between the two materials means that the objects will exhibit
+an attractive or repulsive force.
+Attractive and Repulsive Forces
+One of the most fundamental laws of static electricity, as
+well as magnetics, deals with attraction and repulsion. Like
+charges repel each other and unlike charges attract each other.
+All electrons possess a negative charge and as such repel each
+other. Similarly, all protons possess a positive charge and
+as such repel each other. Electrons (negative) and protons
+(positive) are opposite in their charge and attract each other.
+For example, if two pith balls are suspended, as shown in
+Figure 12-6, and each ball is touched with the charged glass
+rod, some of the charge from the rod is transferred to the balls.
+The balls now have similar charges and, consequently, repel
+each other as shown in part B of Figure 12-6. If a plastic rod
+is rubbed with fur, it becomes negatively charged and the
+fur is positively charged. By touching each ball with these
+differently charged sources, the balls obtain opposite charges
+and attract each other as shown in part C of Figure 12-6.
+Although most objects become charged with static electricity
+by means of friction, a charged substance can also influence
+objects near it by contact. [Figure 12-7] If a positively-charged
+rod touches an uncharged metal bar, it draws electrons from
+the uncharged bar to the point of contact. Some electrons enter
+the rod, leaving the metal bar with a deficiency of electrons
+(positively charged) and making the rod less positive than it
+was or, perhaps, even neutralizing its charge completely.
+A method of charging a metal bar by induction is demonstrated
+in Figure 12-8. A positively-charged rod is brought near, but
+does not touch, an uncharged metal bar. Electrons in the metal
+bar are attracted to the end of the bar nearest the positivelycharged rod, leaving a deficiency of electrons at the opposite
+end of the bar. If this positively-charged end is touched by
+a neutral object, electrons will flow into the metal bar and
+12-4
+
+===== PDF PAGE 446 =====
+neutralize the charge. The metal bar is left with an overall
+excess of electrons.
+Electrostatic Field
+A field of force exists around a charged body. This field is
+an electrostatic field (sometimes called a dielectric field) and
+is represented by lines extending in all directions from the
+charged body and terminating where there is an equal and
+opposite charge.
+To explain the action of an electrostatic field, lines are used
+to represent the direction and intensity of the electric field
+of force. As illustrated in Figure 12-9, the intensity of the
+field is indicated by the number of lines per unit area, and
+the direction is shown by arrowheads on the lines pointing
+in the direction in which a small test charge would move (or
+tend to move) if acted upon by the field of force.
+Either a positive or negative test charge can be used, but it
+has been arbitrarily agreed that a small positive charge is
+always used in determining the direction of the field. Thus,
+the direction of the field around a positive charge is always
+away from the charge because a positive test charge would
+be repelled. [Figure 12-9] On the other hand, the direction of
+the lines about a negative charge is toward the charge, since
+a positive test charge is attracted toward it.
+Figure 12-10 illustrates the field around bodies having like
+charges. Positive charges are shown, but regardless of the
+type of charge, the lines of force would repel each other if the
+charges were alike. The lines terminate on material objects
+and always extend from a positive charge to a negative
+charge. These are imaginary lines used to show the direction
+a real force takes.
+It is important to know how a charge is distributed on an
+object. Figure 12-11 shows a small metal disk on which
+
+Number
+
+Prefix
+
+Symbol
+
+1,000,000,000,000
+
+tera
+
+t
+
+1,000,000,000
+
+giga
+
+g
+
+1,000,000
+
+mega
+
+M
+
+1,000
+
+kilo
+
+k
+
+100
+
+hecto
+
+h
+
+10
+
+deka
+
+dk
+
+0.1
+
+deci
+
+d
+
+0.01
+
+centi
+
+c
+
+0.001
+
+milli
+
+m
+
+0.000001
+
+micro
+
+µ
+
+0.000000001
+nano
+n
+Figure
+12-5. Prefixes and symbols
+0.000000000001
+picofor multiples of basic
+p quantities.
+
+a concentrated negative charge has been placed. By using
+an electrostatic detector, it can be shown that the charge is
+spread evenly over the entire surface of the disk. Since the
+metal disk provides uniform resistance everywhere on its
+surface, the mutual repulsion of electrons results in an even
+distribution over the entire surface.
+Another example, shown in Figure 12-12, is the charge on
+a hollow sphere. Although the sphere is made of conducting
+material, the charge is evenly distributed over the outside
+surface. The inner surface is completely neutral. This
+phenomenon is used to safeguard operating personnel of the
+large Van de Graaff static generators used for atom smashing.
+The safest area for the operators is inside the large sphere,
+where millions of volts are being generated.
+The distribution of the charge on an irregularly-shaped object
+differs from that on a regularly-shaped object. Figure 12-13
+shows that the charge on such objects is not evenly
+distributed. The greatest charge is at the points, or areas of
+sharpest curvature, of the objects.
+Electrostatic Discharge (ESD) Considerations
+One of the most frequent causes of damage to a solidstate component or integrated circuits is the electrostatic
+discharge (ESD) from the human body when one of these
+devices is handled. Careless handling of line replaceable
+units (LRUs), circuit cards, and discrete components can
+cause unnecessarily time consuming and expensive repairs.
+This damage can occur if a technician touches the mating
+pins for a card or box. Other sources for ESD can be the top
+of a toolbox that is covered with a carpet. Damage can be
+avoided by discharging the static electricity from your body
+by touching the chassis of the removed box, by wearing
+a grounding wrist strap, and exercising good professional
+handling of the components in the aircraft. This can include
+placing protective caps over open connectors and not placing
+an ESD-sensitive component in an environment that causes
+damage. Parts that are ESD sensitive are typically shipped
+in bags specially designed to protect components from
+electrostatic damage.
+Other precautions that should be taken with working with
+electronic components are:
+1.
+
+Always connect a ground between test equipment and
+circuit before attempting to inject or monitor a signal.
+
+2.
+
+Ensure test voltages do not exceed maximum
+allowable voltage for the circuit components and
+transistors.
+
+3.
+
+Ohmmeter ranges that require a current of more than
+one milliampere in the test circuit should not be used
+for testing transistors.
+12-5
+
+===== PDF PAGE 447 =====
+Charge rod
+
+Electrons are attracted
+Positively-charged by positive charge
+rod almost touching
+uncharged bar
+
+When rod touches bar,
+electrons enter rod
+
+Pith balls
+
+A
+
+Metal bar now has
+positive charge
+The rod is now less
+positively charged
+
+B
+
+Repulsion
+
+Figure 12-7. Charging by contact.
+
+Electrons are attracted
+toward charged rod
+
+C
+
+Electrons are attracted off
+finger and enter bar
+Attraction
+
+Figure 12-6. Reaction of like and unlike charges.
+
+4.
+
+The heat applied to a diode or transistor, when
+soldering is required, should be kept to a minimum
+by using low-wattage soldering irons and heat sinks.
+
+5.
+
+Do not pry components of a circuit board.
+
+6.
+
+Power must be removed from a circuit before replacing
+a component.
+
+7.
+
+When using test probes on equipment and the space
+between the test points is very close, keep the exposed
+portion of the leads as small as possible to prevent
+shorting.
+
+Finger is removed. Positive
+and negative charges are
+mostly neutralized
+
+Rod is removed and
+excess electrons remain
+
+Magnetism
+Magnetism is defined as the property of an object to attract
+certain metallic substances. In general, these substances are
+ferrous materials; that is, materials composed of iron or iron
+
+Figure 12-8. Charging a bar by induction.
+
+12-6
+
+===== PDF PAGE 448 =====
+Inside surface neutral
+
+Figure 12-9. Direction of electric field around positive and negative
+
+charges.
+
+Figure 12-12. Charge on a hollow sphere.
+
+swing freely, it aligns itself with the earth’s magnetic poles.
+One end is labeled “N,” meaning the North seeking end or
+pole of the magnet. If the “N” end of a compass or magnet
+is referred to as North seeking rather than North, there is no
+conflict in referring to the pole it seeks, which is the North
+magnetic pole. The opposite end of the magnet, marked “S”
+is the South seeking end and points to the South magnetic
+pole. Since the earth is a giant magnet, its poles attract
+the ends of the magnet. These poles are not located at the
+geographic poles.
+
+Figure 12-10. Field around two positively-charged bodies.
+
+alloys, such as soft iron, steel, and alnico. These materials,
+sometimes called magnetic materials, include at least three
+nonferrous materials: nickel, cobalt, and gadolinium, which
+are magnetic to a limited degree. All other substances are
+considered nonmagnetic. A few of these non-magnetic
+substances can be classified as diamagnetic since they are
+repelled by both poles of a magnet.
+Magnetism is an invisible force, the ultimate nature of which
+has not been fully determined. It can best be described by
+the effects it produces. Examination of a simple bar magnet
+similar to that illustrated in Figure 12-14 discloses some basic
+characteristics of all magnets. If the magnet is suspended to
+
+The somewhat mysterious and completely invisible force
+of a magnet depends on a magnetic field that surrounds the
+magnet. [Figure 12-15] This field always exists between
+the poles of a magnet and arranges itself to conform to the
+shape of any magnet.
+The theory that explains the action of a magnet holds that each
+molecule making up the iron bar is itself a tiny magnet, with
+both North and South poles as illustrated in Figure 12-16A.
+These molecular magnets each possess a magnetic field,
+but in an unmagnetized state, the molecules are arranged at
+random throughout the iron bar. If a magnetizing force, such
+as stroking with a lodestone, is applied to the unmagnetized
+
+Greatest charge
+
+Figure 12-11. Even distribution of charge on metal disk.
+
+Figure 12-13. Charge on irregularly-shaped objects.
+
+12-7
+
+===== PDF PAGE 449 =====
+bar, the molecular magnets rearrange themselves in line with
+the magnetic field of the lodestone, with all North ends of the
+magnets pointing in one direction and all South ends in the
+opposite direction. [Figure 12-16B] In such a configuration,
+the magnetic fields of the magnets combine to produce the
+total field of the magnetized bar.
+When handling a magnet, avoid applying direct heat,
+hammering, or dropping it. Heating or sudden shock creates
+misalignment of the molecules, causing the strength of a
+magnet to decrease. When a magnet is to be stored, devices
+known as “keeper bars” are installed to provide an easy path
+for flux lines from one pole to the other. This promotes the
+retention of the molecules in their North-South alignment.
+The presence of the magnetic force or field around a magnet
+can best be demonstrated by the experiment illustrated in
+Figure 12-17. A sheet of transparent material, such as glass
+or Lucite™, is placed over a bar magnet and iron filings are
+sprinkled slowly on this transparent shield. If the glass or
+Lucite™ is tapped lightly, the iron filings arrange themselves
+in a definite pattern around the bar, forming a series of lines
+from the North to South end of the bar to indicate the pattern
+of the magnetic field.
+As shown, the field of a magnet is made up of many individual
+forces that appear as lines in the iron filing demonstration.
+Although they are not “lines” in the ordinary sense, this word
+is used to describe the individual nature of the separate forces
+making up the entire magnetic field. These lines of force are
+also referred to as magnetic flux.
+They are separate and individual forces, since one line will
+never cross another; indeed, they actually repel one another.
+They remain parallel to one another and resemble stretched
+rubber bands, since they are held in place around the bar by
+the internal magnetizing force of the magnet.
+The demonstration with iron filings further shows that the
+magnetic field of a magnet is concentrated at the ends of
+the magnet. These areas of concentrated flux are called the
+North and South poles of the magnet. There is a limit to the
+number of lines of force that can be crowded into a magnet of
+a given size. When a magnetizing force is applied to a piece
+of magnetic material, a point is reached where no more lines
+of force can be induced or introduced. The material is then
+said to be saturated.
+The characteristics of the magnetic flux can be demonstrated
+by tracing the flux patterns of two bar magnets with like poles
+together. [Figure 12-18] The two like poles repel one another
+because the lines of force will not cross each other. As the
+arrows on the individual lines indicate, the lines turn aside as
+
+North Pole
+
+South
+Pole
+
+Figure 12-14. One end of magnetized strip points to the magnetic
+
+North pole.
+
+the two like poles are brought near each other and travel in a
+path parallel to each other. Lines moving in this manner repel
+each other, causing the magnets as a whole to repel each other.
+By reversing the position of one of the magnets, the attraction
+of unlike poles can be demonstrated. [Figure 12-19] As the
+unlike poles are brought near each other, the lines of force
+rearrange their paths and most of the flux leaving the North
+pole of one magnet enters the South pole of the other. The
+tendency of lines of force to repel each other is indicated by
+the bulging of the flux in the air gap between the two magnets.
+To further demonstrate that lines of force do not cross
+one another, a bar magnet and a horseshoe magnet can be
+positioned to display a magnetic field similar to that of
+
+Lines of force
+
+N
+N
+
+S
+
+S
+
+Figure 12-15. Magnetic field around magnets.
+
+12-8
+
+===== PDF PAGE 450 =====
+N
+N
+
+N
+
+S N
+
+S N
+
+S N
+
+S
+
+N
+
+S N
+
+S N
+
+S N
+
+S
+
+N
+
+N
+
+N
+
+N
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+S
+
+N
+
+N
+
+N
+
+S
+
+N
+
+S
+
+S
+
+N
+
+S
+
+A Unmagnetized
+
+B Magnetized
+
+Figure 12-16. Arrangement of molecules in a piece of magnetic material.
+
+Figure 12-20. The magnetic fields of the two magnets do
+not combine, but are rearranged into a distorted flux pattern.
+The two bar magnets may be held in the hands and the North
+poles brought near each other to demonstrate the force of
+repulsion between like poles. In a similar manner, the two
+South poles can demonstrate this force. The force of attraction
+between unlike poles can be felt by bringing a South and a
+North end together. [Figure 12-21]
+Figure 12-22 illustrates another characteristic of magnets.
+If the bar magnet is cut or broken into pieces, each piece
+immediately becomes a magnet itself, with a North and South
+pole. This feature supports the theory that each molecule
+is a magnet, since each successive division of the magnet
+produces more magnets.
+Since the magnetic lines of force form a continuous loop,
+they form a magnetic circuit. It is impossible to say where in
+the magnet they originate or start. Arbitrarily, it is assumed
+that all lines of force leave the North pole of any magnet and
+enter at the South pole.
+There is no known insulator for magnetic flux, or lines of
+force, since they pass through all materials. However, they do
+pass through some materials more easily than others. Thus,
+it is possible to shield items, such as instruments, from the
+effects of the flux by surrounding them with a material that
+offers an easier path for the lines of force. Figure 12-23 shows
+an instrument surrounded by a path of soft iron, which offers
+very little opposition to magnetic flux. The lines of force
+take the easier path, the path of greater permeability, and are
+guided away from the instrument.
+Materials such as soft iron and other ferrous metals are
+said to have a high permeability, the measure of the ease
+with which magnetic flux can penetrate a material. The
+permeability scale is based on a perfect vacuum with a
+rating of one. Air and other nonmagnetic materials are so
+close to this that they are also considered to have a rating
+
+of one. The nonferrous metals with a permeability greater
+than one, such as nickel and cobalt, are called paramagnetic.
+The term ferromagnetic is applied to iron and its alloys,
+which have by far the greatest permeability. Any substance,
+such as bismuth, having a permeability of less than one, is
+considered diamagnetic.
+Reluctance, the measure of opposition to the lines of force
+through a material, can be compared to the resistance of an
+electrical circuit. The reluctance of soft iron, for instance, is
+much lower than that of air. Figure 12-24 demonstrates that a
+piece of soft iron placed near the field of a magnet can distort
+the lines of force, which follow the path of lowest reluctance
+through the soft iron.
+The magnetic circuit can be compared in many respects
+to an electrical circuit. The magnetomotive force, causing
+lines of force in the magnetic circuit, can be compared to
+the electromotive force (emf) or electrical pressure of an
+electrical circuit. The magnetomotive force is measured in
+gilberts, symbolized by the capital letter “F.” The symbol for
+the intensity of the lines of force, or flux, is the Greek letter
+phi, and the unit of field intensity is the gauss. An individual
+line of force, called a maxwell, in an area of one square
+centimeter produces a field intensity of one gauss. Using
+reluctance rather than permeability, the law for magnetic
+circuits can be stated: a magnetomotive force of one gilbert
+causes one maxwell, or line of force, to be set up in a material
+when the reluctance of the material is one.
+
+Types of Magnets
+Magnets are either natural or artificial. Since naturally
+occurring magnets or lodestones have no practical use, all
+magnets considered in this chapter are artificial or manmade.
+Artificial magnets can be further classified as permanent
+magnets, which retain their magnetism long after the
+magnetizing force has been removed, and temporary magnets,
+which quickly lose most of their magnetism when the external
+magnetizing force is removed.
+
+12-9
+
+===== PDF PAGE 451 =====
+Tracing out a magnetic field
+by means of iron filings
+
+Iron filings
+
+et
+agn
+
+How the iron filings
+arrange themselves
+
+Lucite
+
+M
+
+et
+
+gn
+Ma
+
+Figure 12-17. Tracing out a magnetic field with iron filings.
+Air gap
+
+S
+
+N
+
+Air gap
+
+N
+
+S
+N
+
+S
+
+N
+
+S
+
+Figure 12-18. Like poles repel.
+Figure 12-19. Unlike poles attract.
+
+12-10
+
+===== PDF PAGE 452 =====
+N
+N
+
+S
+
+S
+
+N
+
+S
+
+N
+
+N
+
+S
+
+N
+
+S
+
+S
+
+N
+
+S
+
+N
+
+S
+Figure 12-22. Magnetic poles in a broken magnet.
+Figure 12-20. Bypassing flux lines.
+
+Modern permanent magnets are made of special alloys that
+have been found through research to create increasingly
+better magnets. The most common categories of magnet
+materials are made out of aluminum-nickel-cobalt
+(alnicos), strontium-iron (ferrites, also known as ceramics),
+neodymium-iron-boron (neo magnets), and samariumcobalt. Alnico, an alloy of iron, aluminum, nickel and
+cobalt, is considered one of the very best. Others with
+excellent magnetic qualities are alloys such as Remalloy™
+and Permendur™.
+
+33
+
+6
+
+24
+
+9
+
+RADIO
+COMPASS
+21
+
+Magnets can be made in many different shapes, such as balls,
+cylinders, or disks. One special type of magnet is the ring
+magnet, or Gramme ring, often used in instruments. This is
+a closed loop magnet, similar to the type used in transformer
+cores, and is the only type that has no poles.
+
+S
+
+N
+
+N
+
+S
+
+N
+
+Repulsion
+
+S
+
+3
+
+27
+
+The ability of a magnet to hold its magnetism varies greatly
+with the type of metal and is known as retentivity. Magnets
+made of soft iron are very easily magnetized but quickly
+lose most of their magnetism when the external magnetizing
+force is removed. The small amount of magnetism remaining,
+called residual magnetism, is of great importance in such
+electrical applications as generator operation.
+Horseshoe magnets are commonly manufactured in two forms.
+[Figure 12-25] The most common type is made from a long
+bar curved into a horseshoe shape, while a variation of this
+type consists of two bars connected by a third bar, or yoke.
+
+0
+
+30
+
+18
+
+12
+
+15
+
+Soft iron
+Figure 12-23. Magnetic shield.
+
+Sometimes special applications require that the field of force
+lie through the thickness rather than the length of a piece of
+metal. Such magnets are called flat magnets and are used as
+pole pieces in generators and motors.
+
+S
+
+Repulsion
+
+N
+
+S
+
+N S
+
+N
+
+Attraction
+
+Figure 12-21. Repulsion and attraction of magnet poles.
+
+12-11
+
+===== PDF PAGE 453 =====
+Electromagnetism
+In 1820, the Danish physicist, Hans Christian Oersted,
+discovered that the needle of a compass brought near a current
+carrying conductor would be deflected. When the current flow
+stopped, the compass needle returned to its original position.
+This important discovery demonstrated a relationship between
+electricity and magnetism that led to the electromagnet and to
+many of the inventions on which modern industry is based.
+Oersted discovered that the magnetic field had no connection
+with the conductor in which the electrons were flowing,
+because the conductor was made of nonmagnetic copper. The
+electrons moving through the wire created the magnetic field
+around the conductor. Since a magnetic field accompanies a
+charged particle, the greater the current flow, the greater the
+magnetic field. Figure 12-26 illustrates the magnetic field
+around a current carrying wire. A series of concentric circles
+around the conductor represent the field, which if all the lines
+were shown would appear more as a continuous cylinder of
+such circles around the conductor.
+As long as current flows in the conductor, the lines of force
+remain around it. [Figure 12-27] If a small current flows
+through the conductor, there will be a line of force extending
+out to circle A. If the current flow is increased, the line of
+force increases in size to circle B, and a further increase in
+current expands it to circle C. As the original line (circle) of
+force expands from circle A to B, a new line of force appears
+at circle A. As the current flow increases, the number of
+circles of force increases, expanding the outer circles farther
+from the surface of the current carrying conductor.
+If the current flow is a steady nonvarying direct current, the
+magnetic field remains stationary. When the current stops,
+the magnetic field collapses and the magnetism around the
+conductor disappears.
+A compass needle is used to demonstrate the direction of
+the magnetic field around a current carrying conductor.
+Figure 12-28A shows a compass needle positioned at right
+
+angles to, and approximately one inch from, a current
+carrying conductor. If no current were flowing, the North
+seeking end of the compass needle would point toward the
+earth’s magnetic pole. When current flows, the needle lines
+itself up at right angles to a radius drawn from the conductor.
+Since the compass needle is a small magnet, with lines of
+force extending from South to North inside the metal, it turns
+until the direction of these lines agrees with the direction
+of the lines of force around the conductor. As the compass
+needle is moved around the conductor, it maintains itself in
+a position at right angles to the conductor, indicating that the
+magnetic field around a current carrying conductor is circular.
+As shown in Figure 12-28B, when the direction of current
+flow through the conductor is reversed, the compass needle
+points in the opposite direction, indicating the magnetic field
+has reversed its direction.
+A method used to determine the direction of the lines of force
+when the direction of the current flow is known is shown in
+Figure 12-29. If the conductor is grasped in the left hand,
+with the thumb pointing in the direction of current flow, the
+fingers will be wrapped around the conductor in the same
+direction as the lines of the magnetic field. This is called the
+left-hand rule.
+Although it has been stated that the lines of force have direction,
+this should not be construed to mean that the lines have motion
+in a circular direction around the conductor. Although the
+lines of force tend to act in a clockwise or counterclockwise
+direction, they are not revolving around the conductor.
+Since current flows from negative to positive, many
+illustrations indicate current direction with a dot symbol
+on the end of the conductor when the electrons are flowing
+toward and a plus sign when the current is flowing away
+from the observer. [Figure 12-30]
+When a wire is bent into a loop and an electric current flows
+through it, the left-hand rule remains valid. [Figure 12-31]
+If the wire is coiled into two loops, many of the lines of force
+become large enough to include both loops. Lines of force
+
+N
+S
+
+S
+
+N
+
+S
+
+N
+
+Soft iron
+
+N
+
+Figure 12-24. Effect of a magnetic substance in a magnetic field.
+
+S
+
+N
+
+S
+
+Figure 12-25. Two forms of horseshoe magnets.
+
+12-12
+
+===== PDF PAGE 454 =====
+go through the loops in the same direction, circle around the
+outside of the two coils, and come in at the opposite end.
+[Figure 12-32]
+When a wire contains many such loops, it is called a coil. The
+lines of force form a pattern through all the loops causing
+a high concentration of flux lines through the center of the
+coil. [Figure 12-33]
+
+Conductor
+
+A
+
+In a coil made from loops of a conductor, many of the
+lines of force are dissipated between the loops of the coil.
+By placing a soft iron bar inside the coil, the lines of force
+are concentrated in the center of the coil, since soft iron
+has a greater permeability than air. [Figure 12-34] This
+combination of an iron core in a coil of wire loops, or turns,
+is called an electromagnet, since the poles (ends) of the coil
+possess the characteristics of a bar magnet.
+
+B
+C
+Magnetic lines
+
+Figure 12-27. Expansion of magnetic field as current increases.
+
+The addition of the soft iron core does two things for the
+current carrying coil. First, the magnetic flux is increased.
+Second, the flux lines are more highly concentrated.
+
+Magnetic fields
+
+When direct current flows through the coil, the core becomes
+magnetized with the same polarity (location of North and
+South poles) as the coil would have without the core. If the
+current is reversed, the polarity is also reversed.
+Conductor
+Figure 12-26. Magnetic field formed around a conductor in which
+
+current is flowing.
+
+The polarity of the electromagnet is determined by the
+left-hand rule in the same manner as the polarity of the
+coil without the core was determined. If the coil is grasped
+in the left hand in such a manner that the fingers curve
+
+Magnetic field
+
+Checking direction of magnetic field,
+using N
+
+S compass
+
+and left-hand rule
+
+Compass
+
+Current carrying conductor
+A
+
+B
+
+Figure 12-28. Magnetic field around a current-carrying conductor.
+
+12-13
+
+===== PDF PAGE 455 =====
+Conventional Flow & Electron Flow
+Today’s technician will find that there are two competing
+schools of thought and analytical practices regarding the flow
+of electricity. The two are called the conventional current
+theory and the electron theory.
+
+Direction
+of field
+
+Direction of current
+Figure 12-29. Left-hand rule.
+
+around the coil in the direction of electron flow (minus to
+plus), the thumb points in the direction of the North pole.
+[Figure 12-35]
+The strength of the magnetic field of the electromagnet
+can be increased by either increasing the flow of current or
+the number of loops in the wire. Doubling the current flow
+approximately doubles the strength of the field. In a similar
+manner, doubling the number of loops approximately doubles
+magnetic field strength. Finally, the type of metal in the core
+is a factor in the field strength of the electromagnet.
+A soft iron bar is attracted to either pole of a permanent
+magnet and, likewise, is attracted by a current carrying coil.
+The lines of force extend through the soft iron, magnetizing
+it by induction and pulling the iron bar toward the coil. If
+the bar is free to move, it is drawn into the coil to a position
+near the center where the field is strongest. [Figure 12-36]
+Electromagnets are used in electrical instruments, motors,
+generators, relays, and other devices. Some electromagnetic
+devices operate on the principle that an iron core held away
+from the center of a coil is rapidly pulled into a center position
+when the coil is energized. This principle is used in the
+solenoid, also called solenoid switch or relay, in which the
+iron core is spring-loaded off center and moves to complete
+a circuit when the coil is energized.
+
+Conventional Flow
+Of the two, the conventional current theory was the first to
+be developed and, through many years of use, this method
+has become ingrained in electrical publications. The theory
+was initially advanced by Benjamin Franklin who reasoned
+that current flowed out of a positive source into a negative
+source or an area that lacked an abundance of charge. The
+notation assigned to the electric charges was positive (+)
+for the abundance of charge and negative (−) for a lack of
+charge. It then seemed natural to visualize the flow of current
+as being from the positive (+) to the negative (−).
+Electron Flow
+Later discoveries were made that proved just the opposite
+is true. Electron flow is what actually happens when an
+abundance of electrons flow out of the negative (−) source
+to an area that lacks electrons or the positive (+) source. Both
+conventional flow and electron flow are used in industry.
+Many publications in current use employ both electron flow
+and conventional flow methods. From the practical standpoint
+of the technician troubleshooting a system, it makes little
+to no difference which way current is flowing as long as it
+is used consistently in the analysis. The Federal Aviation
+Administration (FAA) officially defines current flow using
+electron theory (negative to positive).
+
+Electromotive Force (Voltage)
+Unlike current, which is easy to visualize as a flow, voltage
+is a variable that is determined between two points. Often,
+we refer to voltage as a value across two points. It is the
+electromotive force (emf) or the push or pressure felt in a
+
++
+
+Dot indicates current is
+flowing out of the conductor
+
+Cross indicates current is
+flowing into the conductor
+
+Figure 12-30. Direction of current flow in a conductor.
+
+Figure 12-31. Magnetic field around a looped conductor.
+
+12-14
+
+===== PDF PAGE 456 =====
+Direction of
+current
+
+Figure 12-32. Magnetic field around a conductor with two loops.
+
+S
+
+N
+
+Figure 12-33. Magnetic field of a coil.
+
+S
+
+N
+
+Figure 12-34. Electromagnet.
+
+12-15
+
+===== PDF PAGE 457 =====
+S
+
+N
+
+Figure 12-35. Left-hand rule applied to a coil.
+
+conductor that ultimately moves the electrons in a flow. The
+symbol for emf is the capital letter “E.”
+Across the terminals of the typical aircraft battery, voltage
+can be measured as the potential difference of 12 volts or
+24 volts. That is to say that between the two terminal posts
+of the battery, there is an emf of 12 or 24 volts available to
+push current through a circuit. Relatively free electrons in
+the negative terminal move toward the excessive number
+of positive charges in the positive terminal. Recall from the
+discussion on static electricity that like charges repel each
+other but opposite charges attract each other. The net result
+is a flow or current through a conductor. There cannot be a
+flow in a conductor unless there is an applied voltage from
+a battery, generator, or ground power unit. The potential
+difference, or the voltage across any two points in an electrical
+system, can be determined by:
+Where
+E
+Q
+E = Potential difference in volts
+E = Energy expanded or absorbed in joules (J)
+Q = Charge measured in coulombs
+E=
+
+Figure 12-37 illustrates the flow of electrons of electric
+current. Two interconnected water tanks demonstrate that
+
+when a difference of pressure exists between the two tanks,
+water flows until the two tanks are equalized. The illustration
+shows the level of water in tank A to be at a higher level,
+reading 10 psi (higher potential energy) than the water level
+in tank B, reading 2 psi (lower potential energy). Between
+the two tanks, there is 8-psi potential difference. If the valve
+in the interconnecting line between the tanks is opened,
+water flows from tank A into tank B until the level of water
+(potential energy) of both tanks is equalized. It is important
+to note that it was not the pressure in tank A that caused the
+water to flow; rather, it was the difference in pressure between
+tank A and tank B that caused the flow.
+This comparison illustrates the principle that electrons move,
+when a path is available, from a point of excess electrons
+(higher potential energy) to a point deficient in electrons
+(lower potential energy). The force that causes this movement
+is the potential difference in electrical energy between the
+two points. This force is called the electrical pressure or
+the potential difference or the electromotive force (electron
+moving force).
+
+Current
+Electrons in motion make up an electric current. This electric
+current is usually referred to as “current” or “current flow,”
+no matter how many electrons are moving. Current is a
+measurement of a rate at which a charge flows through some
+region of space or a conductor. The moving charges are the
+free electrons found in conductors, such as copper, silver,
+aluminum, and gold. The term “free electron” describes a
+condition in some atoms where the outer electrons are loosely
+bound to their parent atom. These loosely bound electrons
+can be easily motivated to move in a given direction when
+an external source, such as a battery, is applied to the circuit.
+These electrons are attracted to the positive terminal of the
+battery, while the negative terminal is the source of the
+electrons. The greater amount of charge moving through the
+conductor in a given amount of time translates into a current.
+Current =
+or
+
+N
+
+S
+
+N
+
+S
+
+I=
+
+Charge
+Time
+Q
+t
+
+Where:
+I = current in amperes (A)
+Q = charge in coulombs (C)
+T = time
+
+Figure 12-36. Solenoid with iron core.
+
+12-16
+
+===== PDF PAGE 458 =====
+The System International (SI) unit for current is the ampere
+(A), where
+1A = 1
+
+C
+s
+
+One ampere (A) of current is equivalent to 1 coulomb (C)
+of charge passing through a conductor in 1 second. One
+coulomb of charge equals 6.28 billion electrons. The symbol
+used to indicate current in formulas or on schematics is the
+capital letter “I.”
+When current flow is one direction, it is called direct
+current (DC). Later in the handbook, the form of current
+that periodically oscillates back and forth within the circuit
+is discussed. The present discussion is only concerned with
+the use of DC.
+The velocity of the charge is actually an average velocity
+and is called drift velocity. To understand the idea of drift
+velocity, think of a conductor in which the charge carriers
+are free electrons. These electrons are always in a state of
+random motion similar to that of gas molecules. When a
+voltage is applied across the conductor, an emf creates an
+electric field within the conductor and a current is established.
+The electrons do not move in a straight direction but undergo
+repeated collisions with other nearby atoms. These collisions
+usually knock other free electrons from their atoms, and
+these electrons move on toward the positive end of the
+conductor with an average velocity called the drift velocity,
+which is relatively a slow speed. To understand the nearly
+instantaneous speed of the effect of the current, it is helpful
+to visualize a long tube filled with steel balls as shown in
+Figure 12-38. It can be seen that a ball introduced in one end
+of the tube, which represents the conductor, will immediately
+cause a ball to be emitted at the opposite end of the tube.
+Thus, electric current can be viewed as instantaneous, even
+though it is the result of a relatively slow drift of electrons.
+
+Ohm’s Law (Resistance)
+The two fundamental properties of current and voltage
+are related by a third property known as resistance. In any
+electrical circuit, when voltage is applied to it, a current
+results. The resistance of the conductor determines the
+amount of current that flows under the given voltage. In most
+cases, the greater the circuit resistance, the less the current.
+If the resistance is reduced, then the current increases. This
+relation is linear in nature and is known as Ohm’s Law.
+By having a linearly proportional characteristic, it is meant
+that if one unit in the relationship increases or decreases by
+a certain percentage, the other variables in the relationship
+increase or decrease by the same percentage. An example
+would be if the voltage across a resistor is doubled, then
+the current through the resistor doubles. It should be added
+that this relationship is true only if the resistance in the
+circuit remains constant. If the resistance changes, current
+also changes. A graph of this relationship is shown in
+Figure 12-39, which uses a constant resistance of 20Ω. The
+relationship between voltage and current in this example
+shows voltage plotted horizontally along the X axis in values
+from 0 to 120 volts, and the corresponding values of current
+are plotted vertically in values from 0 to 6.0 amperes along
+the Y axis. A straight line drawn through all the points where
+the voltage and current lines meet represents the equation I
+= E⁄20 and is called a linear relationship.
+If
+
+E = 10 V
+
+Then
+
+10 V
+= 0.5 A
+20 Ω
+
+If
+
+E = 60 V
+
+Then
+
+60 V
+=3A
+20 Ω
+
+If
+
+E = 120 V
+
+Then
+
+120V
+=6A
+20 Ω
+
+Ohm’s Law may be expressed as an equation, as follows:
+Equation 1
+I=
+
+E
+R
+
+I = current in amperes (A)
+E = voltage (V)
+R = resistance (Ω)
+A
+Figure 12-37. Difference of pressure.
+
+B
+
+Where I is current in amperes, E is the potential difference
+measured in volts, and R is the resistance measured in ohms.
+
+12-17
+
+===== PDF PAGE 459 =====
+If any two of these circuit quantities are known, the third
+may be found by simple algebraic transposition. With this
+equation, we can calculate current in a circuit if the voltage
+and resistance are known. This same formula can be used to
+calculate voltage. By multiplying both sides of the equation
+1 by R, we get an equivalent form of Ohm’s Law, which is:
+Equation 2
+E = I (R)
+Finally, if we divide equation 2 by I, we solve for resistance,
+This relationship is true only if the resistance in the
+circuit remains constant. If the resistance changes, current
+also changes. A graph of this relationship is shown in
+Figure 12-39, which uses a constant resistance of 20Ω. The
+relationship between voltage and current in this example
+shows voltage plotted horizontally along the X axis in values
+from 0 to 120 volts. The corresponding values of current are
+plotted vertically in values from 0 to 6.0 amperes along the
+Y axis. A straight line drawn through all the points where the
+voltage and current lines meet represents the equation I = E⁄20
+and is called a linear relationship.
+Equation 3
+R=
+
+E
+I
+
+All three formulas presented in this section are equivalent
+to each other and are simply different ways of expressing
+Ohm’s Law.
+The various equations, which may be derived by transposing
+the basic law, can be easily obtained by using the triangles
+in Figure 12-40.
+The triangles containing E, R, and I are divided into two
+parts, with E above the line and I × R below it. To determine
+an unknown circuit quantity when the other two are known,
+cover the unknown quantity with a thumb. The location of
+the remaining uncovered letters in the triangle indicate the
+mathematical operation to be performed. For example, to find
+I, refer to Figure 12-40A, and cover I with the thumb. The
+uncovered letters indicate that E is to be divided by R, or I =
+E
+⁄R. To find R, refer to Figure 12-40B, and cover R with the
+thumb. The result indicates that E is to be divided by I, or R
+
+Figure 12-38. Electron movement.
+
+= E⁄I. To find E, refer to Figure 12-40C, and cover E with the
+thumb. The result indicates I is to be multiplied by R, or E =
+I × R. This chart is useful when learning to use Ohm’s Law.
+It should be used to supplement the beginner’s knowledge
+of the algebraic method.
+
+Resistance of a Conductor
+While wire of any size or resistance value may be used, the
+word “conductor” usually refers to materials that offer low
+resistance to current flow, and the word “insulator” describes
+materials that offer high resistance to current. There is no
+distinct dividing line between conductors and insulators; under
+the proper conditions, all types of material conduct some
+current. Materials offering a resistance to current flow midway
+between the best conductors and the poorest conductors
+(insulators) are sometimes referred to as “semiconductors,”
+and find their greatest application in the field of transistors.
+The best conductors are materials, chiefly metals, which
+possess a large number of free electrons; conversely,
+insulators are materials having few free electrons. The best
+conductors are silver, copper, gold, and aluminum; but
+some nonmetals, such as carbon and water, can be used as
+conductors. Materials such as rubber, glass, ceramics, and
+plastics are such poor conductors that they are usually used
+as insulators. The current flow in some of these materials
+is so low that it is usually considered zero. The unit used
+to measure resistance is called the ohm. The symbol for the
+ohm is the Greek letter omega (Ω). In mathematical formulas,
+the capital letter “R” refers to resistance. The resistance of a
+conductor and the voltage applied to it determine the number
+of amperes of current flowing through the conductor. Thus,
+1 ohm of resistance limits the current flow to 1 ampere in a
+conductor to which a voltage of 1 volt is applied.
+Factors Affecting Resistance
+1.
+
+The resistance of a metallic conductor is dependent on
+the type of conductor material. It has been pointed out
+that certain metals are commonly used as conductors
+because of the large number of free electrons in their
+outer orbits. Copper is usually considered the best
+available conductor material, since a copper wire of a
+particular diameter offers a lower resistance to current
+flow than an aluminum wire of the same diameter.
+However, aluminum is much lighter than copper, and
+for this reason, as well as cost considerations, aluminum
+is often used when the weight factor is important.
+
+2.
+
+The resistance of a metallic conductor is directly
+proportional to its length. The longer the length
+of a given size of wire, the greater the resistance.
+Figure 12-41 shows two wire conductors of different
+lengths. If 1 volt of electrical pressure is applied across
+12-18
+
+===== PDF PAGE 460 =====
+Amperes (I)
+6.0
+5.5
+To find I (amperes),
+place thumb over I
+and divide E by R
+as indicated.
+
+A
+
+5.0
+4.5
+
+E
+I
+
+4.0
+
+X
+
+R
+
+3.5
+3.0
+2.5
+R = 20 Ohms
+(Constant)
+
+2.0
+
+B
+
+1.5
+
+To find R (ohms),
+place thumb over
+R and divide as
+indicated.
+
+1.0
+0.5
+0
+
+E
+I
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+X
+
+R
+
+90 100 110 120
+
+Volts (E)
+Figure 12-39. Voltage vs. current in a constant-resistance circuit.
+
+the two ends of the conductor that is 1 foot in length,
+and the resistance to the movement of free electrons
+is assumed to be 1 ohm, the current flow is limited
+to 1 ampere. If the same size conductor is doubled in
+length, the same electrons set in motion by the 1 volt
+applied now find twice the resistance; consequently,
+the current flow is reduced by one-half.
+3.
+
+The resistance of a metallic conductor is inversely
+proportional to the cross-sectional area. This area may
+be triangular or even square, but is usually circular.
+If the cross-sectional area of a conductor is doubled,
+the resistance to current flow is reduced in half. This
+is true because of the increased area in which an
+electron can move without collision or capture by an
+atom. Thus, the resistance varies inversely with the
+cross-sectional area of a conductor.
+
+4.
+
+The fourth major factor influencing the resistance of a
+conductor is temperature. Although some substances,
+such as carbon, show a decrease in resistance as the
+ambient (surrounding) temperature increases, most
+materials used as conductors increase in resistance as
+temperature increases. The resistance of a few alloys,
+such as constantan and Manganin™, change very little
+as the temperature changes. The amount of increase in
+the resistance of a 1 ohm sample of a conductor, per
+degree rise in temperature above 0° Centigrade (C), the
+assumed standard, is called the temperature coefficient
+of resistance. For each metal, this is a different value.
+For example, for copper the value is approximately
+
+C
+
+To find E (volts),
+place thumb over
+E and multiply as
+indicated.
+
+E
+I
+
+X
+
+R
+
+Figure 12-40. Ohm’s law chart.
+
+0.00427 ohm. Thus, a copper wire having a resistance
+of 50 ohms at a temperature of 0 °C has an increase
+in resistance of 50 × 0.00427, or 0.214 ohm, for each
+degree rise in temperature above 0 °C. The temperature
+coefficient of resistance must be considered where there
+is an appreciable change in temperature of a conductor
+during operation. Charts listing the temperature
+coefficient of resistance for different materials are
+available. Figure 12-42 shows a table for “resistivity”
+of some common electric conductors.
+The resistance of a material is determined by four properties:
+material, length, area, and temperature. The first three
+properties are related by the following equation at T = 20 °C
+(room temperature):
+R=
+
+(ρ × 1)
+A
+
+Where
+R = resistance in ohms
+ρ = resistivity of the material in circular
+mil-ohms per foot
+12-19
+

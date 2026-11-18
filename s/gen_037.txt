@@ -1,0 +1,1693 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 518-534
+
+===== PDF PAGE 518 =====
+on the peak value of the voltage.
+
+Varmeter
+Voltage
+coil
+
+Reactor
+
+Current
+coil
+
+M
+
+Load
+
+Figure 12-162. A varmeter connected in an AC circuit.
+
+The purpose of the vertical and horizontal deflection plates
+is to bend the electron beam and position it to a specific
+point of the screen. [Figure 12-165] By providing a neutral
+or zero voltage to a deflection plate, the electron beam is
+unaffected. By applying a negative voltage to a plate, the
+electron beam is repelled and driven away from the plate.
+Finally, by applying a positive voltage, the electron beam is
+drawing to the plate. Figure 12-165 provides a few possible
+plate voltage combinations and the resultant beam position.
+Horizontal Deflection
+To get a visual representation of the input signal, an internally
+generated saw-tooth voltage is generated and then applied
+to the horizontal deflection plates. Figure 12-166 illustrates
+that the saw-tooth is a pattern of voltage applied, which
+begins at a negative voltage and increases at a constant rate
+to a positive voltage. This applied varying voltage draws or
+traces the electron beam from the far left of the screen to the
+far right side of the screen. The resulting display is a straight
+line, if the sweep rate is fast enough. This saw-tooth applied
+voltage is a repetitive signal so that the beam is repeatedly
+swept across the tube. The rate at which the saw-tooth voltage
+goes from negative to positive is determined by the frequency.
+This rate then establishes the sweep rate of the beam. When
+the saw-tooth reaches the end of its sweep from left to right,
+the beam then rapidly returns to the left side and is ready to
+make another sweep. During this time, the electron beam is
+stopped or blanked out and does not produce any kind of a
+trace. This period of time is called flyback.
+Vertical Deflection
+If this same signal were applied to the vertical plates, it would
+also produce a vertical line by causing the beam to trace from
+the down position to the up position.
+Tracing a Sine Wave
+Reproducing the sine wave on the oscilloscope combines
+both the vertical and horizontal deflection patterns.
+[Figure 12-167] If the sine wave voltage signal is applied
+across the vertical deflection plates, the result will be the
+vertical beam oscillation up and down on the screen. The
+amount that the beam moves above the centerline depends
+
+While the beam is being swept from the left to the right by
+the horizontal plates, the sine wave voltage is being applied
+to the vertical plates, causing the form of the input signal to
+be traced out on the screen.
+Control Features on an Oscilloscope
+While there are many different styles of oscilloscopes, which
+range from the simple to the complex, they all have some
+controls in common. Apart from the screen and the ON/OFF
+switch, some of these controls are listed as follows:
+•
+
+Horizontal Position—allows for the adjustment of the
+neutral horizontal position of the beam. Use this control
+to reposition the waveform display in order to have a
+better view of the wave or to take measurements.
+
+•
+
+Vertical Position—moves the traced image up or down
+allowing better observations and measurements.
+
+•
+
+Focus—controls the electron beam as it is aimed and
+converges on the screen. When the beam is in sharp
+focus, it is narrowed down to a very fine point and
+does not have a fuzzy appearance.
+
+•
+
+Intensity—essentially the brightness of the trace.
+Controlling the flow of electrons onto the screen varies
+the intensity. Do not keep the intensity too high for
+extended testing or when the beam is motionless and
+forms a dot on the screen. This can damage the screen.
+
+•
+
+Seconds/Division—a time-based control that sets the
+horizontal sweep rate. Basically, the switch is used
+to select the time interval that each division on the
+horizontal scale represents. These divisions can be
+seconds, milliseconds, or even microseconds. A simple
+example would be if the technician had the seconds/
+division control set to 10 μS. If this technician is
+viewing a waveform that has a period of 4 divisions
+on the screen, then the period would be 40 μS. The
+frequency of this waveform can then be determined
+by taking the inverse of the period. In this case, 1⁄40 μS
+equals a frequency of 25 kHz.
+
+•
+
+Volts/Division—used to select the voltage interval
+that each division on the vertical scale represents.
+For example, suppose each vertical division was set
+to equal 10 mV. If a waveform was measured and
+had a peak value of 4 divisions, then the peak value
+in voltage would be 40 mV.
+
+•
+
+Trigger—The trigger control provides synchronization
+between the saw-tooth horizontal sweep and the applied
+signal on the vertical plates. The benefit is that the
+waveform on the screen appears to be stationary and
+fixed and not drifting across the screen. A triggering
+circuit is used to initiate the start of a sweep rather than
+12-77
+
+===== PDF PAGE 519 =====
+type equipment but are mobile and great tools for trouble
+shooting. [Figure 12-169]
+Digital Multimeter
+Traditionally, the meters that technicians have used have been
+the analog voltmeter, ammeter, and the ohmmeter. These
+have usually been combined into the same instrument and
+called a multimeter or a VOM (volt-ohm-milliammeter). This
+approach has been both convenient and economical. Digital
+multimeters (DMM) and digital voltmeters (DVM) are more
+common due to their ease of use. These meters are easier to
+read and provide greater accuracy when compared to the
+older analog units with needle movement. The multimeter’s
+single-coil movement requires a number of scales, which are
+not always easy to read accurately. In addition, the loading
+characteristics due to the internal resistance sometimes
+affect the circuit and the measurements. Not only does the
+DVM offer greater accuracy and less ambiguity, but also
+higher input resistance, which has less of a loading effect
+and influence on a circuit.
+
+Potential
+coil
+
+M
+
+R
+
+Current coil
+
+Load
+
+Figure 12-163. Simplified electrodynamometer wattmeter circuit.
+
+the fixed saw-tooth sweep rate. In a typical oscilloscope,
+this triggering signal comes from the input signal
+itself at a selected point during the signal’s cycle. The
+horizontal signal goes through one sweep, retraces back
+to the left side and waits there until it is triggered again
+by the input signal to start another sweep.
+Flat Panel Color Displays for Oscilloscopes
+While the standard CRT design of oscilloscope is still in
+service, the technology of display and control has evolved
+into use of the flat panel monitors. Furthermore, the newer
+oscilloscopes can even be integrated with the common
+personal computer (PC). [Figure 12-168] Some of the features
+of this technology include easy data capture, data transfer,
+documentation, and data analysis. Hand-held oscilloscopes are
+now available that can perform the functions of larger bench
+
+Basic Circuit Analysis & Troubleshooting
+Troubleshooting is the systematic process of recognizing
+the symptoms of a problem, identifying the possible cause,
+and locating the failed component or conductor in the
+circuit. To be proficient at troubleshooting, the technician
+must understand how the circuit operates and know how to
+properly use the test equipment. There are many ways in
+which a system can fail and to cover all of the possibilities is
+beyond the scope of this handbook. However, there are some
+basic concepts that enable the technician to handle many of
+the common faults encountered in the aircraft.
+Before starting a discussion on basic circuits and
+troubleshooting, the following definitions are given.
+•
+
+Short circuit—an unintentional low resistance path
+between two components in a circuit or between a
+
+Electron gun
+Control grid
+
+Mating
+connector
+
+Vertical deflection plates (V)
+
+CRT
+base
+
+eeeeeeeeeeeeeeeeeeee
+
+Screen
+
+Anode
+Cathode (K) & heater
+Preaccelerating anode (A1)
+
+Accelerating anode (A3)
+Focus anode (A2)
+
+Horizontal deflection plates (H)
+
+Figure 12-164. Basic components of the CRT with a block diagram.
+
+12-78
+
+===== PDF PAGE 520 =====
+Vertical
+deflection plates (v)
+
+Electrons repelled down
+(−) volts
+
+(0) volts
+
+Screen
+
+Electrons repelled to left
+(0) volts
+
+(−) volts
+
+Horizontal
+deflection plates (h)
+
+Beam on center
+(0) volts
+
+Electrons attracted up
+(+) volts
+
+(0) volts
+
+(0) volts
+
+Electrons attracted to right
+(0) volts
+
+(+) volts
+
+Figure 12-165. Possible plate voltage combinations and the resultant beam position.
+
+component/conductor and ground. It usually creates
+high current flow, which burns out or causes damage
+to the circuit conductor or components.
+The horizontal
+beam position
+will depend on
+the applied
+saw-tooth
+voltage
+
+Vertical
+deflection plates (V)
+(0) volts
+
+Horizontal
+deflection
+plates (H)
+
+(+) volts
+(0) volts
+(−) volts
+
+Applied
+Voltage starts at a maximum
+negative value and increases to a
+maximum positive value, tracing
+the beam from the left to the right
+
+Figure 12-166. Saw-tooth applied voltage.
+
+•
+
+Open circuit—a circuit that is not a complete or
+continuous path. An open circuit represents an
+infinitely large resistance. Switches are common
+devices used to open and close a circuit. Sometimes
+a circuit opens due to a component failure, such as a
+light bulb or a burned out resistor.
+
+•
+
+Continuity—the state of being continuous,
+uninterrupted or connected together; the opposite of
+a circuit that is not broken or does not have an open.
+
+•
+
+Discontinuity—the opposite of continuity, indicating
+that a circuit is broken or not continuous.
+
+Voltage Measurement
+Voltage is measured across a component with a voltmeter or
+the voltmeter position on a multimeter. Usually, there is a DC
+and an AC selection on the meter. Before the meter is used
+for measurements, make sure that the meter is selected for
+the correct type of voltage. When placing the probes across a
+component to take a measurement, take care to ensure that the
+polarity is correct. [Figure 12-170] Standard practice is for
+the red meter lead to be installed in the positive (+) jack and
+the black meter lead to be installed in the negative meter jack
+(−). Then when placing the probes across or in parallel with
+a component to measure the voltage, the leads should match
+the polarity of the component. The red lead is on the positive
+12-79
+
+===== PDF PAGE 521 =====
+(+) volts
+
+Applied
+
+(0) volts
+
+(–) volts
+
+Vertical deflection plates (v)
+(0) volts
+
+Input signal
+
+Horizontal deflection plates (h)
+
+(+) volts
+(0) volts
+
+Applied
+
+(−) volts
+
+Figure 12-167. Sine wave voltage signal.
+
+side of the component and the black is on the negative side,
+which prevents damage to the meter or incorrect readings.
+All meters have some resistance and will shunt some of the
+current. This has the effect of changing the characteristic of
+the circuit because of this change in current. This is typically
+more of a concern with older analog type meters. If there
+are any questions about the magnitude of the voltage across
+a component, then the meter should be set to measure on
+the highest voltage range. This prevents the meter from
+“pegging” and possible damage. The range should then be
+selected to low values until the measured voltage is read at
+the mid-scale deflection. Readings taken at mid-scale are
+the most accurate.
+Current Measurement
+Current is measured with the ammeter connected in the
+current path by opening or breaking the circuit and inserting
+the meter in series. [Figure 12-170] Standard practice is for
+the red meter lead to be installed in the positive (+) jack and
+the black meter lead to be installed in the negative meter jack
+
+(−). The positive side of the meter is connected towards the
+positive voltage source. Ideally, the meter should not alter
+the current and influence the circuit and the measurements.
+However, the meter does have some effect because of its
+internal resistance that is connected with the rest of the circuit
+in series. The resistance is rather small and for most practical
+purposes, this can be neglected.
+Checking Resistance in a Circuit
+The ohmmeter is used to measure the resistance. In its more
+basic form, the ohmmeter consists of a variable resistor in
+series with a meter movement and a voltage source. The
+meter must first be adjusted before use.
+Refer to Figure 12-171 for meter configurations during
+adjustments. When the meter leads are not connected (open),
+the needle points to the full left-hand position, indicating
+infinite resistance or and open circuit. With the lead placed
+together, the circuit is shorted as shown with the meter
+needle to the full right-hand position. When a connection
+is made, the internal battery is allowed to produce a current
+through the movement coil, causing a deflection of the
+12-80
+
+===== PDF PAGE 522 =====
+needle in proportion to the value of the external resistance.
+In this case, the resistance is zero because the leads are
+shorted.
+The purpose of the variable resistor in the meter is to adjust
+the current so that the pointer reads exactly zero when the
+leads are shorted. This is needed because as the battery
+continues to be used, the voltage changes, thus requiring an
+adjustment. The meter should be “zeroed” before each use.
+To check the value of a resistor, the resistor must be
+disconnected from the circuit. This prevents any possible
+damage to the ohmmeter, and it prevents the possibility of
+any inaccurate readings due to the circuit being in parallel
+with the resistor in question. [Figure 12-172]
+
+Figure 12-168. Oscilloscope with flat panel display.
+
+Continuity Checks
+In many cases, the ohmmeter is not used for measuring the
+resistance of a component but to simply check the integrity
+of a connection from one portion of a circuit to another. If
+there is a good connection, then the ohmmeter reads a near
+zero resistance or a short. If the circuit is open or has a very
+poor connection at some point like an over-crimped pin in
+a connector, then the ohmmeter reads infinity or some very
+high resistance. Keep in mind that while any measurement
+is being taken, contact with the circuit or probes should be
+avoided. Contact can introduce another parallel path and
+provide misleading indications.
+Capacitance Measurement
+Figure 12-173 illustrates a basic test of a capacitor with an
+ohmmeter. There are usually two common modes of failure
+for a capacitor. One is a complete failure characterized
+by short circuit through the capacitor due to the dielectric
+breaking down or an open circuit. The more insidious failure
+occurs due to degradation, which is a gradual deterioration
+of the capacitor’s characteristics.
+If a problem is suspected, remove the capacitor from the circuit
+and check with an ohmmeter. The first step is to short the two
+leads of the capacitor to ensure that it is entirely discharged.
+Next, connect the two leads as shown in Figure 12-173 across
+the capacitor and observe the needle movement. At first, the
+needle should indicate a short circuit. Then as the capacitor
+begins to charge, the needle should move to the left or infinity
+and eventually indicate an open circuit. The capacitor takes
+its charge from the internal battery of the ohmmeter. The
+greater the capacitance, the longer it takes to charge. If the
+capacitor is shorted, then the needle remains at a very low or
+shorted resistance. If there is some internal deterioration of the
+dielectric, then the needle never reaches a high resistance but
+some intermediate value, indicating a current.
+
+Figure 12-169. Handheld oscilloscope.
+
+Inductance Measurement
+The common mode of failure in an inductor is an open. To
+check the integrity of an inductor, it must be removed from
+the circuit and tested as an isolated component just like the
+capacitor. If there is an open in the inductor, a simple check
+with an ohmmeter shows it as an open circuit with infinite
+resistance. If in fact the inductor is in good condition, then
+the ohmmeter indicates the resistance of the coil.
+On occasions, the inductor fails due to overheating. When
+the inductor is overheated, it is possible for the insulation
+covering the wire in the coil to melt, causing a short. The
+effects of a shorted coil are that of reducing the number of
+turns. At this point, further testing of the inductor must be
+12-81
+
+===== PDF PAGE 523 =====
+done with test equipment not covered in this handbook.
+Troubleshooting Open Faults in a Series Circuit
+One of the most common modes of failure is the “open”
+circuit. A component, such as a resistor, can overheat due
+to the power rating being exceeded. Other more frustrating
+problems can happen when a “cold” solder joint cracks
+leaving a wire disconnected from a relay or connector.
+This type of damage can occur during routine maintenance
+after a technician has accessed an area for inspections.
+In many cases, there is no visual indication that a failure
+has occurred, and the soon-to-be-frustrated technician is
+unaware that there is a problem until power is reapplied to
+the aircraft in the final days leading up to aircraft delivery
+and scheduled operations.
+The first example is a simplified diagram shown in
+Figures 12-174 through 12-176. The circuit depicted in
+Figure 12-174 is designed to cause current to flow through a
+lamp, but because of the open resistor, the lamp will not light.
+To locate this open, a voltmeter or an ohmmeter should be used.
+
+A
+
+V
+
+Ω
+
+Ammeter symbol
+
+Voltmeter symbol
+
+Ohmmeter symbol
+
+Meter symbols
++
+
++
+−
+
++
+−
+
++
+−
+
+A
+
+−
+
+Open the circuit
+and insert ammeter in
+series with the load
+
+R1
+3k Ω
+
+Voltage is measured
+across a component
+
+R1
+3k Ω
+
+V
+
+Resistance is
+measured across a
+component
+
+R1
+3k Ω
+
+Ω
+
++
+−
+
++
+−
+
+Simplified use of meters
+
+Tracing Opens with the Voltmeter
+A general procedure to follow in this case is to measure the
+voltage drop across each component in the circuit, keeping
+in mind the following points. If there is an open in a series
+circuit, then the voltage drops on sides of the component.
+In this case, the total voltage must appear across the open
+resistor as per Kirchhoff’s Voltage Law.
+If a voltmeter is connected across the lamp, as shown in
+Figure 12-175, the voltmeter reads zero. Since no current can
+flow in the circuit because of the open resistor, there is no
+voltage drop across the lamp indicating that the lamp is good.
+Next, the voltmeter is connected across the open resistor, as
+shown in Figure 12-176. The voltmeter has closed the circuit
+by shunting (paralleling) the burned out resistor, allowing
+current to flow. Current flows from the negative terminal of
+the battery, through the switch, through the voltmeter and the
+lamp, back to the positive terminal of the battery. However,
+the resistance of the voltmeter is so high that only a very
+small current flows in the circuit. The current is too small to
+light the lamp, but the voltmeter reads the battery voltage.
+Tracing Opens with the Ohmmeter
+A simplified circuit, as shown in Figures 12-177 and 12-178,
+illustrates how to locate an open in a series circuit using the
+ohmmeter. A general rule to keep in mind when troubleshooting
+with an ohmmeter is: when an ohmmeter is properly connected
+across a circuit component and a resistance reading is obtained,
+the component has continuity and is not open.
+When an ohmmeter is used, the circuit component to be tested
+must be isolated and the power source removed from the
+circuit. In this case, these requirements can be met by opening
+the circuit switch as shown in Figure 12-177. The ohmmeter
+is zeroed and across all good components is zero. The voltage
+drop across the open component equals the total voltage across
+the series combination. This condition happens because the
+open component prevents current to pass through the series
+circuit. With there being no current, there can be no voltage
+drop across any of the good components. Because the current is
+zero, it can be determined by Ohm’s Law that E = IR = 0 volts
+across a component. The voltage is the same on both places
+across (in parallel with) the lamp. In this testing configuration,
+some value of resistance is read indicating that the lamp is in
+good condition and is not the source of the open in the circuit.
+Now the technician should move to the resistor and place
+the ohmmeter probe across it as shown in Figure 12-178.
+When the ohmmeter is connected across the open resistor,
+it indicates infinite resistance, or a discontinuity. Thus, the
+circuit open has now been located.
+
+Figure 12-170. Current, voltage, and resistance measurement.
+
+12-82
+
+===== PDF PAGE 524 =====
+Simplified ohmmeter
+
+Simplified ohmmeter
+
+∞
+
+∞
+
+0
+
++
+
++
+
+−
+
+−
+Black lead
+
+Red lead
+
+0
+
+Red lead
+
+Black lead
+
+R1
+Open circuit
+Isolate from circuit
+connect across resistor
+Simplified ohmmeter
+∞
+
++
+
+0
+
+−
+
++
+−
+
+R3
+
+R2
+
+Figure 12-172. Meter adjustment.
+Black lead
+
+Red lead
+
+shorts that are not immediately seen but “latent” and do not
+show symptoms until the aircraft is in service. Another point
+to keep in mind is when closing panels. Wires can become
+pinched between the panel and the airframe causing either
+a short or a latent, intermittent short. The simplified circuit,
+shown in Figures 12-179 through 12-182 is used to illustrate
+troubleshooting a short in a series circuit.
+Shorted circuit
+Figure 12-171. Meter configurations during adjustments.
+
+Troubleshooting Shorting Faults in a Series Circuit
+An open fault can cause a component or system not to
+work, which can be critical and hazardous. A shorting
+fault can potentially be more of a severe nature than the
+open type of fault. A short circuit, or “short,” causes the
+opposite effect. A short across a series circuit produces a
+greater than normal current flow. Faults of this type can
+develop slowly when a wire bundle is not properly secured
+and is allowed to chafe against the airframe structure or
+other systems, such as hydraulic lines. Shorts can also
+occur due to a careless technician using incorrect hardware
+when installing an interior. If screws that are too long are
+used to install trim, it is possible to penetrate a wire bundle
+immediately causing numerous shorts. Worse yet, are the
+
+In Figure 12-179, a circuit is designed to light a lamp. A
+resistor is connected in the circuit to limit current flow. If the
+resistor is shorted, as shown in the illustration, the current
+flow increases and the lamp becomes brighter. If the applied
+voltage were high enough, the lamp would burn out, but in
+this case the fuse would protect the lamp by opening first.
+Usually a short circuit produces an open circuit by either
+blowing (opening) the fuse or burning out a circuit
+component. But in some circuits, there may be additional
+resistors which do not allow one shorted resistor to increase
+the current flow enough to blow the fuse or burn out a
+component. [Figure 12-180] Thus, with one resistor shorted
+out, the circuit still functions since the power dissipated by
+the other resistors does not exceed the rating of the fuse.
+Tracing Shorts with the Ohmmeter
+The shorted resistor can be located with an ohmmeter.
+[Figure 12-181] First the switch is opened to isolate the
+12-83
+
+===== PDF PAGE 525 =====
+Simplified ohmmeter
+∞
++
+
+0
+
+Needle moves
+full-scale (short)
+
+−
+Black lead
+
+Red lead
+
+Conventional current
+
+Initial charging of capacitor behaves like a shorted circuit.
+Simplified ohmmeter
+∞
+
+0
+Needle moves
+full-scale (open)
+
++
+
+Troubleshooting Open Faults in a Parallel Circuit
+The procedures used in troubleshooting a parallel circuit are
+sometimes different from those used in a series circuit. Unlike a
+series circuit, a parallel circuit has more than one path in which
+current flows. A voltmeter cannot be used, since, when it is placed
+across an open resistor, it reads the voltage drop in a parallel
+branch. But an ammeter or the modified use of an ohmmeter
+can be employed to detect an open branch in a parallel circuit.
+If the open resistor shown in Figure 12-183 was not visually
+apparent, the circuit might appear to be functioning properly,
+because current would continue to flow in the other two
+branches of the circuit. To determine that the circuit is not
+operating properly, a determination must be made as to how the
+circuit should behave when working properly. First, the total
+resistance, total current, and the branch currents of the circuit
+should be calculated as if there were no open in the circuit.
+In this case, the total resistance can be simply determined by:
+
+Where
+
+RT = R
+N
+RT is the total circuit resistance
+N is the number of resistors
+R is the resistor value
+
+−
+Black lead
+
+Red lead
+
+Break
+Full charge no current
+−
+
++
+
+Once charged, the capacitor behaves like an open circuit.
+Figure 12-173. Basic test of a capacitor with an ohmmeter.
+
+Figure 12-174. An open circuit.
+
+circuit components. In Figure 12-181, this circuit is shown
+with an ohmmeter connected across each of the resistors.
+Only the ohmmeter connected across the shorted resistor
+shows a zero reading, indicating that this resistor is shorted.
+Tracing Shorts with the Voltmeter
+To locate the shorted resistor while the circuit is functioning,
+a voltmeter can be used. Figure 12-182 illustrates that when
+a voltmeter is connected across any of the resistors that are
+not shorted, a portion of the applied voltage is indicated on
+the voltmeter scale. When it is connected across the shorted
+resistor, the voltmeter reads zero.
+
+Break
+
+V
+Figure 12-175. Voltmeter across a lamp in an open circuit.
+
+12-84
+
+===== PDF PAGE 526 =====
+Break
+
+Figure 12-176. Voltmeter across a resistor in an open circuit.
+
+RT = 30 Ω = 10 Ω
+
+3
+The total current of the circuit can now be determined
+by using Ohm’s Law:
+
+Where
+
+E
+IT = S
+RT
+IT is the total current
+ES is the source voltage across the
+parallel branch
+RT is the total resistance of the
+parallel branch
+
+IT = 30 v = 3 amperes (total current)
+10 Ω
+
+Break
+
+V
+
+Each branch current should be determined in a similar
+manner. For the first branch, the current is:
+E
+I1 = S
+
+R1
+Where I1 is the current in the first branch
+
+ES is the source voltage across the
+
+parallel branch
+
+R1 is the resistance of the first branch
+I1 = 30 v = 1 ampere
+
+30 Ω
+Because the other two branches are of the same resistive
+value, then the current in each of those branches is 1 ampere
+also. Adding up the amperes in each branch confirms the
+
+Break
+
+Ω
+Figure 12-177. Using an ohmmeter to check a circuit component.
+
+Ω
+
+Figure 12-178. Using an ohmmeter to locate an open in a circuit
+
+component.
+
+initial calculation of total current being 3 amperes.
+Tracing an Open with an Ammeter
+If the technician now places an ammeter in the circuit, the
+total current would be indicated as 2 amperes as shown in
+Figure 12-183 instead of the calculated 3 amperes. Since 1
+ampere of current should be flowing through each branch,
+it is obvious that one branch is open. If the ammeter is then
+connected into the branches, one after another, the open
+branch is eventually located by a zero ammeter reading.
+Tracing an Open with an Ohmmeter
+A modified use of the ohmmeter can also locate this type
+of open. If the ohmmeter is connected across the open
+resistor, as shown in Figure 12-184, an erroneous reading
+of continuity would be obtained. Even though the circuit
+switch is open, the open resistor is still in parallel with R1
+and R2, and the ohmmeter would indicate the open resistor
+had a resistance of 15 ohms, the equivalent resistance of
+the parallel combination of R1 and R2.
+Therefore, it is necessary to open the circuit as shown in
+Figure 12-185 in order to check the resistance of R3. In this
+way, the resistor is not shunted (paralleled) by R1 and R2. The
+reading on the ohmmeter now indicates infinite resistance,
+which means the open component has been isolated.
+Troubleshooting Shorting Faults in Parallel Circuits
+As in a series circuit, a short in a parallel circuit usually
+causes an open circuit by blowing the fuse. But, unlike a
+series circuit, one shorted component in a parallel circuit
+stops current flow by causing the fuse to open. Refer to the
+circuit in Figure 12-186. If resistor R3 is shorted, a path of
+almost zero resistance is offered the current, and all the circuit
+current flows through the branch containing the shorted
+resistor. Since this is practically the same as connecting a
+wire between the terminals of the battery, the current rises to
+an excessive value, and the fuse opens. Since the fuse opens
+almost as soon as a resistor shorts out, there is no time to
+
+12-85
+
+===== PDF PAGE 527 =====
+perform a current or voltage check. Thus, troubleshooting
+a parallel DC circuit for a shorted component should be
+accomplished with an ohmmeter. But, as in the case of
+checking for an open resistor in a parallel circuit, a shorted
+resistor can be detected with an ohmmeter only if one end
+of the shorted resistor is disconnected and isolated from the
+rest of the circuit.
+
+Some voltage
+V
+
+Zero
+voltage
+Short
+
+Troubleshooting Shorting Faults in Series-Parallel
+Circuits
+
+V
+
+Logic in Tracing an Open
+
+Troubleshooting a series-parallel resistive circuit involves
+Figure 12-182. Voltmeter connected across resistors.
+
+locating malfunctions similar to those found in a series or
+a parallel circuit. Figures 12-187 through 12-189 illustrate
+three points of failure in a series-parallel circuit and their
+generalized effects.
+1.
+
+In the circuit shown in Figure 12-187, an open has
+occurred in the series portion of the circuit. When
+the open occurs anywhere in the series portion of a
+series-parallel circuit, current flow in the entire circuit
+stops. In this case, the circuit does not function, and
+the lamp, L1, is not lit.
+
+2.
+
+If the open occurs in the parallel portion of a seriesparallel circuit, as shown in Figure 12-188, part of the
+circuit continues to function. In this case, the lamp
+continues to burn, but its brightness diminishes, since
+the total resistance of the circuit has increased and the
+total current has decreased.
+
+3.
+
+If the open occurs in the branch containing the lamp,
+as shown in Figure 12-189, the circuit continues to
+function with increased resistance and decreased
+current, but the lamp does not light.
+
+Figure 12-179. A shorted resistor.
+
+Figure 12-180. A short that does not open the circuit.
+
+Ω
+
+Tracing Opens with the Voltmeter
+To explain how the voltmeter and ohmmeter can be used
+to troubleshoot series-parallel circuits, the circuit shown in
+Figure 12-190 has been labeled at various points. A pointto-point description is listed below with expected results:
+
+40 Ω
+
+R1
+100 V
+
+0Ω
+R2
+
+R4
+
+R3
+
+Ω
+
+Ω
+
+10 Ω
+
+1.
+
+By connecting a voltmeter between points A and D,
+the battery and switch can be checked for opens.
+
+2.
+
+By connecting the voltmeter between points A and
+B, the voltage drop across R1 can be checked. This
+voltage drop is a portion of the applied voltage.
+
+3.
+
+If R1 is open, the reading between B and D is zero.
+
+4.
+
+By connecting a voltmeter between A and E, the
+continuity of the conductor between the positive
+terminal of the battery and point E, as well as the fuse,
+
+Ω
+
+50 Ω
+
+Figure 12-181. Using an ohmmeter to locate a shorted resistor.
+
+12-86
+
+===== PDF PAGE 528 =====
+electrolyte is sulfuric acid (battery acid), the positive
+electrode is lead peroxide, and the negative electrode is
+lead. A typical lead-acid battery consists of six lead-acid
+cells in a case. Each cell produces 2 volts, so the whole
+battery produces a total of 12 volts.
+
+Break
+R1
+30 Ω
+
+30 V
+
+R2
+30 Ω
+
+R3
+30 Ω
+
+2a
+A
+Figure 12-183. Finding an open branch in a parallel circuit.
+
+can be checked. If the conductor or fuse is open, the
+voltmeter reads zero.
+5.
+
+If the lamp is burning, it is obvious that no open
+exists in the branch containing the lamp, and the
+voltmeter could be used to detect an open in the branch
+containing R2 by removing lamp, L1, from the circuit.
+
+Troubleshooting the series portion of a series-parallel circuit
+presents no difficulties, but in the parallel portion of the
+circuit, misleading readings can be obtained.
+
+Batteries
+Primary Cell
+The dry cell is the most common type of primary-cell battery
+and is similar in its characteristics to that of an electrolytic
+cell. This type of a battery is basically designed with a metal
+electrode or graphite rod acting as the cathode (+) terminal,
+immersed in an electrolytic paste. This electrode⁄electrolytic
+build-up is then encased in a metal container, usually made
+of zinc, which itself acts as the anode (−) terminal. When the
+battery is in a discharge condition an electrochemical reaction
+takes place resulting in one of the metals being consumed.
+Because of this consumption, the charging process is not
+reversible. Attempting to reverse the chemical reaction in a
+primary cell by way of recharging is usually dangerous and
+can lead to a battery explosion.
+These batteries are commonly used to power items such as
+flashlights. The most common primary cells today are found
+in alkaline batteries, silver-oxide, and lithium batteries. The
+earlier carbon-zinc cells, with a carbon post as cathode and a
+zinc shell as anode were once prevalent but are not as common.
+Secondary Cell
+A secondary cell is any kind of electrolytic cell in which the
+electrochemical reaction that releases energy is reversible.
+The lead-acid car battery is a secondary-cell battery. The
+
+Other commonly used secondary cell chemistry types are
+nickel-cadmium (Ni-Cad), nickel-metal hydride (NiMH),
+lithium-ion (Li-ion), and Lithium-ion polymer (Li-ion
+polymer).
+Lead-acid batteries used in aircraft are similar to automobile
+batteries. The lead acid battery is made up of a series of
+identical cells each containing sets of positive and negative
+plates. Figure 12-191 illustrates each cell contains positive
+plates of lead dioxide (PbO2), negative plates of spongy lead,
+and electrolyte (sulfuric acid and water). A practical cell is
+constructed with many more plates than just two in order to get
+the required current output. All positive plates are connected
+together as well as all the negatives. Because each positive
+plate is always positioned between two negative plates, there
+are always one or more negative plates than positive plates.
+Between the plates are porous separators that keep the
+positive and negative plates from touching each other and
+shorting out the cell. The separators have vertical ribs on
+the side facing the positive plate. This construction permits
+the electrolyte to circulate freely around the plates. In
+addition, it provides a path for sediment to settle to the
+bottom of the cell.
+Each cell is seated in a hard rubber casing through the top
+of which are terminal posts and a hole into which a nonspill
+vent cap is screwed. The hole provides access for testing the
+strength of the electrolyte and adding water. The vent plug
+permits gases to escape from the cell with a minimum of
+leakage of electrolyte, regardless of the position the airplane
+might assume. [Figure 12-192] In level flight, the lead weight
+
+Break
+R1
+30 Ω
+
+R2
+30 Ω
+
+R3
+30 Ω
+
+Figure 12-184. A misleading ohmmeter indication.
+
+12-87
+
+===== PDF PAGE 529 =====
+Open
+
+A
+
+Break
+R2
+R1
+
+L1
+
+R3
+
+R2
+Break
+
+Figure 12-187. An open in the series portion of a series-parallel
+
+circuit.
+
+B
+Figure 12-185. Opening a branch circuit to obtain an accurate
+
+R1
+
+ohmmeter reading.
+
+R2
+
+L1
+
+Break
+30 V
+
+R1
+30 Ω
+
+R2
+30 Ω
+
+R3
+30 Ω
+Figure 12-188. An open in the parallel portion of a series‑parallel
+
+circuit.
+
+Figure 12-186. A shorted component causes the fuse to open.
+
+permits venting of gases through a small hole. In inverted
+flight, this hole is covered by the lead weight.
+The individual cells of the battery are connected in series by
+means of cell straps. [Figure 12-193] The complete assembly
+is enclosed in an acid resisting metal container (battery box),
+which serves as electrical shielding and mechanical protection.
+The battery box has a removable top. It also has a vent tube
+nipple at each end. When the battery is installed in an airplane, a
+vent tube is attached to each nipple. One tube is the intake tube
+and is exposed to the slipstream. The other is the exhaust vent
+tube and is attached to the battery drain sump, which is a glass
+jar containing a felt pad moistened with a concentrated solution
+of sodium bicarbonate (baking soda). With this arrangement,
+the airstream is directed through the battery case where battery
+gases are picked up, neutralized in the sump, and then expelled
+overboard without damage to the airplane.
+To facilitate installation and removal of the battery in some
+aircraft, a quick disconnect assembly is used to connect the
+power leads to the battery. This assembly attaches the battery
+leads in the aircraft to a receptacle mounted on the side of the
+battery. [Figure 12-194] The receptacle covers the battery
+terminal posts and prevents accidental shorting during the
+
+R1
+Break
+R2
+
+L1
+
+Figure 12-189. An open lamp in a series-parallel circuit.
+
+installation and removal of the battery. The plug consists of
+a socket and a handwheel with a course pitch thread. It can
+be readily connected to the receptacle by the handwheel.
+Another advantage of this assembly is that the plug can be
+installed in only one position, eliminating the possibility of
+reversing the battery leads.
+The voltage of lead acid cell is approximately two volts in order
+to attain the voltage required for the application. Each cell is
+then connected in series with heavy gauge metal straps to form
+a battery. In a typical battery, such as that used in an aircraft for
+starting, the voltage required is 12 or 24 volts. This voltage is
+achieved by connecting six cells or twelve cells respectively
+together in series and enclosing them in one plastic box.
+
+12-88
+
+===== PDF PAGE 530 =====
+Each cell containing the plates are filled with an electrolyte
+composed of sulfuric acid and distilled water with a specific
+gravity of 1.270 at 60 °F. This solution contains positive
+hydrogen ions and negative sulfate (SO4) ions that are free to
+combine with other ions and form a new chemical compound.
+When the cell is discharged, electrons leave the negative
+plate and flow to the positive plates where they cause the
+lead dioxide (PbO2) to break down into negative oxygen
+ions and positive lead ions. The negative oxygen ions join
+with positive hydrogen ions from the sulfuric acid and form
+water (H2O). The negative sulfate ions join with the lead
+ions in both plates and form lead sulfate (PbSO4). After the
+discharge, the specific gravity changes to about 1.150.
+Battery Ratings
+The voltage of a battery is determined by the number of
+cells connected in series to form the battery. Although the
+voltage of one lead-acid cell just removed from a charger is
+approximately 2.2 volts, a lead-acid cell is normally rated at
+approximately 2 volts. A battery rated at 12 volts consists of
+6 lead-acid cells connected in series, and a battery rated at
+24 volts is composed of 12 cells.
+The most common battery rating is the ampere-hour rating.
+This is a unit of measurement for battery capacity. It is
+determined by multiplying a current flow in amperes by the
+time in hours that the battery is being discharged.
+A battery with a capacity of 1 ampere-hour should be able
+to continuously supply a current of 1 amp to a load for
+exactly 1 hour, or 2 amps for 1⁄2 hour, or 1⁄3 amp for 3 hours,
+etc., before becoming completely discharged. Actually, the
+ampere-hour output of a particular battery depends on the
+rate at which it is discharged. Heavy discharge current heats
+the battery and decreases its efficiency and total ampere-hour
+output. For airplane batteries, a period of 5 hours has been
+established as the discharge time in rating battery capacity.
+However, this time of 5 hours is only a basis for rating and
+does not necessarily mean the length of time during which
+A
+
+B
+
+the battery is expected to furnish current. Under actual service
+conditions, the battery can be completely discharged within
+a few minutes, or it may never be discharged if the generator
+provides sufficient charge.
+The ampere-hour capacity of a battery depends upon its total
+effective plate area. Connecting batteries in parallel increases
+ampere-hour capacity. Connecting batteries in series increases
+the total voltage but not the ampere-hour capacity.
+Life Cycle of a Battery
+Battery life cycle is defined as the number of complete charge/
+discharge cycles a battery can perform before its normal charge
+capacity falls below 80 percent of its initial rated capacity.
+Battery life can vary anywhere from 500 to 1,300 cycles.
+Various factors can cause deterioration of a battery and shorten
+its service life. The first is over-discharging, which causes
+excess sulfation; second, too-rapid charging or discharging
+that results in overheating of the plates and shedding of active
+material. The accumulation of shed material, in turn, causes
+shorting of the plates and results in internal discharge. A battery
+that remains in a low or discharged condition for a long period
+of time may be permanently damaged. The deterioration can
+continue to a point where cell capacity can drop to 80 percent
+after 1,000 cycles. In many cases, the cell can continue working
+to nearly 2,000 cycles but with a diminished capacity of 60
+percent of its original state.
+
+Cell container
+
+Vent cap
+Terminal post
+Cell cover
+
+Plates
+
+C
+
+R1
+
+Separators
+R2
+
+L1
+
+Supporting ribs
+D
+
+E
+
+F
+
+Figure 12-190. Using the voltmeter to troubleshoot a series-parallel
+
+circuit.
+
+Figure 12-191. Lead-acid cell construction.
+
+12-89
+
+===== PDF PAGE 531 =====
+Lead-Acid Battery Testing Methods
+The state of charge of a storage battery depends upon
+the condition of its active materials, primarily the plates.
+However, the state of charge of a battery is indicated by the
+density of the electrolyte and is checked by a hydrometer,
+an instrument that measures the specific gravity (weight as
+compared with water) of liquids.
+The most commonly used hydrometer consists of a small
+sealed glass tube weighted at its lower end so it floats upright.
+[Figure 12-195] Within the narrow stem of the tube is a paper
+scale with a range of 1.100 to 1.300. When a hydrometer
+is used, a quantity of electrolyte sufficient to float the
+hydrometer is drawn up into the syringe. The depth to which
+the hydrometer sinks into the electrolyte is determined by the
+density of the electrolyte, and the scale value indicated at the
+level of the electrolyte is its specific gravity. The more dense
+the electrolyte, the higher the hydrometer floats; therefore,
+the highest number on the scale (1.300) is at the lower end
+of the hydrometer scale.
+In a new, fully-charged aircraft storage battery, the electrolyte
+is approximately 30 percent acid and 70 percent water (by
+volume) and is 1.300 times as heavy as pure water. During
+discharge, the solution (electrolyte) becomes less dense and
+its specific gravity drops below 1.300. A specific gravity
+reading between 1.300 and 1.275 indicates a high state of
+charge; between 1.275 and 1.240, a medium state of charge;
+and between 1.240 and 1.200, a low state of charge. Aircraft
+batteries are generally of small capacity but are subject to
+heavy loads. The values specified for state of charge are
+therefore rather high. Hydrometer tests are made periodically
+on all storage batteries installed in aircraft. An aircraft battery
+in a low state of charge may have perhaps 50 percent charge
+remaining, but is nevertheless considered low in the face of
+heavy demands that would soon exhaust it. A battery in such a
+
+Vent plug
+
+Cells
+
+Cell strap
+
+Figure 12-193. Connection of storage battery.
+
+state of charge is considered in need of immediate recharging.
+When a battery is tested using a hydrometer, the temperature
+of the electrolyte must be taken into consideration. The
+specific gravity readings on the hydrometer vary from
+the actual specific gravity as the temperature changes. No
+correction is necessary when the temperature is between
+70 °F and 90 °F, since the variation is not great enough to
+consider. When temperatures are greater than 90 °F or less
+than 70 °F, it is necessary to apply a correction factor. Some
+hydrometers are equipped with a correction scale inside the
+tube. With other hydrometers, it is necessary to refer to a chart
+provided by the manufacturer. In both cases, the corrections
+should be added to, or subtracted from the reading shown
+on the hydrometer.
+The specific gravity of a cell is reliable only if nothing has
+
+Inverted position
+electrolyte
+
+Upright position gases escape
+Vent
+
+Vent
+Lead weight seated not sealed
+
+Lead weight seated
+
+Figure 12-192. Nonspill battery vent plug.
+
+Figure 12-194. A battery quick-disconnect assembly.
+
+12-90
+
+===== PDF PAGE 532 =====
+been added to the electrolyte except occasional small amounts
+of distilled water to replace that lost as a result of normal
+evaporation. Always take hydrometer readings before adding
+distilled water, never after. This is necessary to allow time
+for the water to mix thoroughly with the electrolyte and to
+avoid drawing up into the hydrometer syringe a sample that
+does not represent the true strength of the solution.
+
+explosive mixture, it is important to take steps to prevent
+ignition of the gas mixture. Loosen the vent caps and
+leave in place. Do not permit open flames, sparks, or other
+sources of ignition in the vicinity. Before disconnecting
+or connecting a battery to the charge, always turn off the
+power by means of a remote switch. Figure 12-197 shows
+battery charging equipment.
+
+Exercise extreme care when making the hydrometer test of
+a lead-acid cell. Handle the electrolyte carefully because
+sulfuric acid burns clothing and skin. If the acid does contact
+the skin, wash the area thoroughly with water and then apply
+bicarbonate of soda.
+
+Nickel-Cadmium Batteries
+
+Lead-Acid Battery Charging Methods
+Passing direct current through the battery in a direction
+opposite to that of the discharge current may charge a
+storage battery. Because of the internal resistance (IR) in the
+battery, the voltage of the external charging source must be
+greater than the open circuit voltage. For example, the open
+circuit voltage of a fully charged 12 cell, lead-acid battery is
+approximately 26.4 volts (12 × 2.2 volts), but approximately
+28 volts are required to charge it. This larger voltage is needed
+for charging because of the voltage drop in the battery caused
+by the internal resistance. Hence, the charging voltage of a
+lead-acid battery must equal the open circuit voltage plus the
+IR drop within the battery (product of the charging current
+and the internal resistance).
+Batteries are charged by either the constant voltage or
+constant current method. In the constant voltage method
+[Figure 12-196A], a motor generator set with a constant,
+regulated voltage forces the current through the battery. In
+this method, the current at the start of the process is high but
+automatically tapers off, reaching a value of approximately
+1 ampere when the battery is fully charged. The constant
+voltage method requires less time and supervision than does
+the constant current method.
+In the constant current method [Figure 12-196B], the current
+remains almost constant during the entire charging process.
+This method requires a longer time to charge a battery fully
+and, toward the end of the process, presents the danger of
+overcharging, if care is not exercised.
+In the aircraft, the storage battery is charged by direct current
+from the aircraft generator system. This method of charging
+is the constant voltage method, since the generator voltage
+is held constant by use of a voltage regulator.
+When a storage battery is being charged, it generates a
+certain amount of hydrogen and oxygen. Since this is an
+
+Chemistry and Construction
+Active materials in nickel-cadmium cells (Ni-Cad) are nickel
+hydroxide (NiOOH) in the charged positive plate (Anode)
+and sponge cadmium (Cd) in the charged negative plate
+(Cathode). The electrolyte is a potassium hydroxide (KOH)
+solution in concentration of 20–34 percent by weight pure
+KOH in distilled water.
+Sintered nickel-cadmium cells have relatively thin sintered
+nickel matrices forming a plate grid structure. The grid
+structure is highly porous and is impregnated with the active
+positive material (nickel-hydroxide) and the negative material
+(cadmium-hydroxide). The plates are then formed by sintering
+nickel powder to fine-mesh wire screen. In other variations
+of the process, the active material in the sintered matrix is
+converted chemically, or thermally, to an active state and
+then formed. In general, there are many steps to these cycles
+of impregnation and formation. Thin sintered plate cells are
+ideally suited for very high rate charge and discharge service.
+Pocket plate nickel-cadmium cells have the positive or negative
+active material, pressed into pockets of perforated nickel-plated
+steel plates or into tubes. The active material is trapped securely
+in contact with a metal current collector so active material
+shedding is largely eliminated. Plate designs vary in thickness
+
+1100
+
+1100
+
+1100
+
+1150
+
+1100
+
+1150
+
+1200
+
+1150
+
+1200
+
+1250
+
+1200
+
+1250
+
+1300
+
+1250
+
+1300
+
+1300
+
+1150
+1200
+1250
+1300
+
+Low charge
+
+Medium charge
+
+High charge
+
+Figure 12-195. Hydrometer (specific gravity readings).
+
+12-91
+
+===== PDF PAGE 533 =====
+depending upon cycling service requirements. The typical open
+circuit cell voltage of a nickel-cadmium battery is about 1.25
+volts. Figure 12-198 shows a nickel-cadmium aircraft battery.
+Operation of Nickel-Cadmium Cells
+When a charging current is applied to a nickel-cadmium
+battery, the negative plates lose oxygen and begin forming
+metallic cadmium. The active material of the positive plates,
+nickel-hydroxide, becomes more highly oxidized. This
+process continues while the charging current is applied or
+until all the oxygen is removed from the negative plates and
+only cadmium remains.
+Toward the end of the charging cycle, the cells emit gas. This
+also occurs if the cells are overcharged. This gas is caused by
+decomposition of the water in the electrolyte into hydrogen
+at the negative plates and oxygen at the positive plates. The
+voltage used during charging, as well as the temperature,
+determines when gassing occurs. To completely charge a
+nickel-cadmium battery, some gassing, however slight, must
+take place; thus, some water is used.
+The chemical action is reversed during discharge. The
+positive plates slowly give up oxygen, which is regained by
+the negative plates. This process results in the conversion of
+the chemical energy into electrical energy. During discharge,
+the plates absorb a quantity of the electrolyte. On recharge,
+the level of the electrolyte rises and, at full charge, the
+electrolyte is at its highest level. Therefore, water should be
+added only when the battery is fully charged.
+The nickel-cadmium battery is usually interchangeable with
+the lead-acid type. When replacing a lead-acid battery with
+a nickel-cadmium battery, the battery compartment must be
+clean, dry, and free of all traces of acid from the old battery.
+The compartment must be washed out and neutralized with
+ammonia or boric acid solution, allowed to dry thoroughly,
+and then painted with an alkali resisting varnish.
+The pad in the battery sump jar should be saturated with a
+three percent (by weight) solution of boric acid and water
+before connecting the battery vent system.
+
+around vent cap seals is potassium carbonate (K2CO3).
+Clean up these surfaces with distilled water and dry. While
+handling the caustic potassium hydroxide electrolyte, wear
+safety goggles to protect the eyes. The technician should also
+wear plastic gloves and an apron to protect skin and clothes.
+In case of spillage on hands or clothes, neutralize the alkali
+immediately with vinegar or dilute boric acid solution (one
+pound per gallon of water); then rinse with clear water.
+During overcharging conditions, explosive mixtures of
+hydrogen and oxygen develop in nickel-cadmium cells.
+When this occurs, the cell relief valves vent these gases
+to the atmosphere, creating a potentially explosive hazard.
+Additionally, room ventilation should be such as to prevent
+a hydrogen build up in closed spaces from exceeding one
+percent by volume. Explosions can occur at concentrations
+above four percent by volume in air.
+Sealed Lead Acid (SLA) Batteries
+In many applications, sealed lead acid (SLA) batteries
+are gaining in use over flooded lead acid and Ni-Cad
+batteries. One leading characteristic of Ni-Cad batteries is
+that they perform well in low voltage, full-discharge, high
+cycle applications. However, they do not perform as well
+
+V
+
+Motor
+generator
+
+R
+Rheostat
++
+
+A
+
+A
+
+General Maintenance and Safety Precautions
+
+1.
+
+Hydrate cells to supply water lost during overcharging.
+
+2.
+
+Maintain inter-cell connectors at proper torque values.
+
+3.
+
+Keep cell tops and exposed sides clean and dry.
+
+Electrolyte spillage can form grounding paths. White moss
+
+ON
+
+FF
+
+O
+
+Refer to the battery manufacturer for detailed service
+instructions. Below are general recommendations for
+maintenance and safety precautions. For vented nickelcadmium cells, the general maintenance requirements are:
+
+Constant voltage
+charging circuit
+
+Constant current
+charging circuit
+
++
+
+B
+Figure 12-196. Battery charging methods.
+
+12-92
+
+===== PDF PAGE 534 =====
+in extended standby applications, such as auxiliary or as
+emergency battery packs used to power inertial reference
+units or stand-by equipment (attitude gyro).
+It is typical during the servicing of a Ni-Cad battery to
+match as many as twenty individual cells in order to prevent
+unbalance and thus cell reversal during end of discharge.
+When a Ni-Cad does reverse, very high pressure and heat
+can result. The result is often pressure seal rupture, and in
+the worst case, a cell explosion. With SLA batteries, cell
+matching is inherent in each battery. Ni-Cads also have an
+undesirable characteristic caused by constant overcharge
+and infrequent discharges, as in standby applications. It is
+technically known as “voltage depression” and commonly
+but erroneously called “memory effect.” This characteristic
+is only detectable when a full discharge is attempted. Thus,
+it is possible to believe a full charge exists, while in fact it
+does not. SLA batteries do not have this characteristic voltage
+depression (memory) phenomenon, and therefore do not
+require scheduled deep cycle maintenance as do Ni-Cads.
+The Ni-Cad emergency battery pack requires relatively
+complicated test equipment due to the complex characteristics
+of the Ni-Cad. Sealed lead acid batteries do not have these
+temperamental characteristics and therefore it is not necessary
+to purchase special battery maintenance equipment. Some
+manufacturers of SLA batteries have included in the battery
+packs a means by which the battery can be tested while still
+installed on the aircraft. Ni-Cads must have a scheduled
+energy test performed on the bench due to the inability to
+measure their energy level on the aircraft, and because of
+their notable “memory” shortcoming.
+The SLA battery can be designed to alert the technician if a
+battery is failing. Furthermore, it may be possible to test the
+failure detection circuits by activating a Built in Test (BITE)
+button. This practice significantly reduces FAA paperwork and
+maintenance workload. Figure 12-199 shows a SLA battery.
+
+Figure 12-197. Battery charger.
+
+Lithium-Ion Batteries
+Lithium-ion batteries are the primary type of battery for
+many consumer type of equipment, such as cell phones,
+battery-powered tools, and computers, but now they are also
+being used in commercial and military aircraft. The FAA has
+certified lithium-ion batteries to be used on aircraft and one
+of the first aircraft to utilize the lithium-ion battery is the
+Boeing 787. The three primary functional components of a
+lithium-ion battery are the positive and negative electrodes and
+electrolyte. Generally, the negative electrode of a conventional
+lithium-ion cell is made from carbon. The positive electrode is
+a metal-oxide, and the electrolyte is a lithium salt in an organic
+solvent. The electrochemical roles of the electrodes reverse
+between anode and cathode, depending on the direction of
+current flow through the cell. Lithium-ion batteries can be
+dangerous under some conditions and can pose a safety
+hazard since they contain, unlike other rechargeable batteries,
+a flammable electrolyte and are also kept pressurized. Under
+certain conditions, they can overheat and a fire can occur.
+The Boeing 787 aircraft utilizes two large 32V 8 cell lithiumion batteries. These batteries are much lighter and more
+powerful than Ni-Cad batteries used in similar-sized aircraft.
+These batteries can produce 150 A for airplane power up.
+Figure 12-200 shows a B787 battery.
+
+Inverters
+An inverter is used in some aircraft systems to convert a
+portion of the aircraft’s DC power to AC. This AC is used
+mainly for instruments, radio, radar, lighting, and other
+accessories. These inverters are usually built to supply
+current at a frequency of 400 cps, but some are designed to
+provide more than one voltage; for example, 26 volt AC in
+one winding and 115 volts in another.
+There are two basic types of inverters: the rotary and the
+static. Either type can be single-phase or multiphase. The
+multiphase inverter is lighter for the same power rating than
+the single-phase, but there are complications in distributing
+multiphase power and in keeping the loads balanced.
+
+Figure 12-198. Nickel-Cadmium aircraft battery.
+
+12-93
+

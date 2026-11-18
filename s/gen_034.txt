@@ -1,0 +1,2343 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 461-480
+
+===== PDF PAGE 461 =====
+l = length of the sample in feet
+A = area in circular mils
+Resistance and Relation to Wire Sizing
+
+Circular Conductors (Wires/Cables)
+
+Because it is known that the resistance of a conductor is directly
+proportional to its length, and if we are given the resistance of
+the unit length of wire, we can readily calculate the resistance
+of any length of wire of that particular material having the
+same diameter. Also, because it is known that the resistance of
+a conductor is inversely proportional to its cross-sectional area,
+and if we are given the resistance of a length of wire with unit
+cross-sectional area, we can calculate the resistance of a similar
+length of wire of the same material with any cross-sectional
+area. Therefore, if we know the resistance of a given conductor,
+we can calculate the resistance for any conductor of the same
+material at the same temperature. From the relationship:
+		R =
+It can also be written:
+
+(ρ × 1)
+A
+
+R1 11
+A
+=
+= 1
+R2
+12
+A2
+If we have a conductor that is 1 meter (m) long with a crosssectional area of 1 (millimeter) mm2 and has a resistance of
+0.017 ohm, what is the resistance of 50 m of wire from the
+same material but with a cross-sectional area of 0.25 mm2?
+R1 11
+A
+=
+= 1
+R2
+12
+A2
+1 mm2
+50 m
+×
+= 3.4 Ω
+1m
+0.25 mm2
+
+R2 = 0.017 Ω ×
+
+While the SI units are commonly used in the analysis of
+electric circuits, electrical conductors in North America are
+
+still being manufactured using the foot as the unit length and
+the mil (one thousandth of an inch) as the unit of diameter.
+Before using the equation R = (ρ × l)⁄A to calculate the resistance
+of a conductor of a given American wire gauge (AWG) size,
+the cross-sectional area in square meters must be determined
+using the conversion factor 1 mil = 0.0254 mm. The most
+convenient unit of wire length is the foot. Using these
+standards, the unit of size is the mil-foot. Thus, a wire has
+unit size if it has a diameter of 1 mil and length of 1 foot.
+In the case of using copper conductors, we are spared the
+task of tedious calculations by using a table as shown in
+Figure 12-43. Note that cross-sectional dimensions listed on
+the table are such that each decrease of one gauge number
+equals a 25 percent increase in the cross-sectional area.
+Because of this, a decrease of three gauge numbers represents
+an increase in cross-sectional area of approximately 2:1.
+Likewise, change of ten wire gauge numbers represents a 10:1
+change in cross-sectional area—also, by doubling the crosssectional area of the conductor, the resistance is cut in half.
+A decrease of three wire gauge numbers cuts the resistance
+of the conductor of a given length in half.
+
+Rectangular Conductors (Bus Bars)
+To compute the cross-sectional area of a conductor in square
+mils, the length in mils of one side is squared. In the case of a
+rectangular conductor, the length of one side is multiplied by
+the length of the other. For example, a common rectangular
+bus bar (large, special conductor) is 3⁄8 inch thick and 4 inches
+wide. The 3⁄8-inch thickness may be expressed as 0.375
+inch. Since 1,000 mils equal 1 inch, the width in inches can
+be converted to 4,000 mils. The cross-sectional area of the
+rectangular conductor is found by converting 0.375 to mils
+(375 mils × 4,000 mils = 1,500,000 square mils).
+
+Power and Energy
+Power in an Electrical Circuit
+This section covers power in the DC circuit and energy
+consumption. Whether referring to mechanical or electrical
+systems, power is defined as the rate of energy consumption
+
+t
+
+ee
+
+2f
+
+p
+
+.5
+
+0
+
+am
+
+(2
+
+s)
+
+m
+
+oh
+
+1
+
+t
+foo
+
++
+p
+
++
+
+1
+
+am
+
+(1
+
+)
+
+m
+
+oh
+
+Figure 12-41. Resistance varies with length of conductor.
+
+Conductor Material
+
+Resistivity (ohm meters @ 20 °C)
+
+Silver
+
+1.64 × 10-8
+
+Copper
+
+1.72 × 10-8
+
+Aluminum
+
+2.83 × 10-8
+
+Tungsten
+
+5.50 × 10-8
+
+Nickel
+
+7.80 × 10-8
+
+Iron
+
+12.0 × 10-8
+
+Constantan
+
+49.0 × 10-8
+
+Nichrome II
+
+110 × 10-8
+
+Figure 12-42. Resistivity table.
+
+12-20
+
+===== PDF PAGE 462 =====
+or conversion within that system—that is, the amount of
+energy used or converted in a given amount of time.
+From the scientific discipline of physics, the fundamental
+expression for power is:
+E
+P=
+t
+Where
+P = power measured in watts (W)
+E = energy (E is a script E) measured in joules (J)
+and
+t = time measured in seconds (s)
+
+AWG Number
+
+Diameter in mils
+
+Ohms per 1,000 ft.
+
+0000
+
+460.0
+
+0.04901
+
+000
+
+409.6
+
+0.06180
+
+00
+
+364.8
+
+0.07793
+
+0
+
+324.9
+
+0.09827
+
+1
+
+289.3
+
+0.1239
+
+2
+
+257.6
+
+0.1563
+
+3
+
+229.4
+
+0.1970
+
+4
+
+204.3
+
+0.2485
+
+5
+
+181.9
+
+0.3133
+
+6
+
+162.0
+
+0.3951
+
+8
+
+128.5
+
+0.6282
+
+The unit measurement for power is the watt (W), which refers
+to a rate of energy conversion of 1 joule (J)/second. Therefore,
+the number of joules consumed in 1 second is equal to the
+number of watts. A simple example is given below.
+
+10
+
+101.9
+
+0.9989
+
+12
+
+80.81
+
+1.588
+
+14
+
+64.08
+
+2.525
+
+16
+
+50.82
+
+4.016
+
+Suppose 300 joules of energy is consumed in 10 seconds.
+What would be the power in watts?
+
+18
+
+40.30
+
+6.385
+
+20
+
+31.96
+
+10.15
+
+22
+
+25.35
+
+16.14
+
+24
+
+20.10
+
+25.67
+
+26
+
+15.94
+
+40.81
+
+28
+
+12.64
+
+64.9
+
+30
+
+10.03
+
+103.2
+
+energy
+General formula P =
+time
+
+300 J
+P=
+10 s
+			P = 30 W
+The watt is named for James Watt, the inventor of the steam
+engine. Watt devised an experiment to measure the power of
+a horse in order to find a means of measuring the mechanical
+power of his steam engine. One horsepower is required to
+move 33,000 pounds 1 foot in 1 minute. Since power is the
+rate of doing work, it is equivalent to the work divided by
+time. Stated as a formula, this is:
+
+		Power = 33,000 ft-lb
+60 s
+
+P = 550 ft-lb/s
+Electrical power can be rated in a similar manner. For
+example, an electric motor rated as a 1 horsepower motor
+requires 746 watts of electrical energy.
+Power Formulas Used in the Study of Electricity
+When current flows through a resistive circuit, energy is
+dissipated in the form of heat. Recall that voltage can be
+expressed in the terms of energy and charge as given in the
+expression:
+E=
+
+E
+Q
+
+Where
+
+Figure 12-43. Conversion table when using copper conductors.
+
+E = potential difference in volts
+E = energy expanded or absorbed in joules (J)
+Q = charge measured in coulombs
+Current I, can also be expressed in terms of charge and time
+as given by the expression:
+Current =
+
+Charge
+Time
+
+or
+		I =
+
+Q
+T
+
+Where:
+I = current in amperes (A)
+Q = charge in coulombs (C)
+T = time
+When voltage W⁄Q and current Q⁄t are multiplied, the charge
+Q is divided out leaving the basic expression from physics:
+E×I=
+
+E
+E
+E
+×
+=
+= power
+Q
+t
+t
+
+For a simple DC electrical system, power dissipation
+12-21
+
+===== PDF PAGE 463 =====
+can then be given by the equation:
+General Power Formula
+
+P = I (E)
+
+Where
+P = Power
+I = Current
+E = Volts
+If a circuit has a known voltage of 24 volts and a current of
+2 amps, then the power in the circuit is:
+P = I (E)
+P = 2A (24V)
+P = 48W
+Now recall Ohm’s Laws that state E = I(R). If we now
+substitute IR for E in the general formula, we get a formula
+that uses only current I and resistance R to determine the
+power in a circuit.
+P = I (IR)
+Second Form of Power Equation
+P = I2R
+If a circuit has a known current of 2 amps and a resistance
+of 100 Ω, then the power in the circuit is:
+P = I2R
+P = (2A)2 100 Ω
+P = 400 W
+Using Ohm’s Law, which can be stated as I = E⁄R, we can again
+make a substitution such that power can be determined by
+knowing only the voltage (E) and resistance (R) of the circuit.
+P=
+
+(RE)(E)
+
+Third Form of Power Equation
+P=
+
+E2
+R
+
+If a circuit has a known voltage of 24 volts and a resistance
+of 20 Ω, then the power in the circuit is:
+E2
+		P = R
+
+(24 V)2
+P=
+20 Ω
+
+P = 28.8 W
+
+Power in a Series & Parallel Circuit
+The total power dissipated in both a series and parallel circuit
+is equal to the sum of the power dissipated in each resistor
+in the circuit. Power is simply additive and can be stated as:
+PT = P1 + P2 + P3 + ……PN
+Figure 12-44 provides a summary of all the possible
+transpositions of the Ohm’s Law formula and the power
+formula.
+Energy in an Electrical Circuit
+Energy is defined as the ability to do work. Because power
+is the rate of energy usage, power used over a span of time
+is actually energy consumption. If power and time are
+multiplied together, we get energy.
+The joule is defined as a unit of energy. There is another unit
+of measure which is perhaps more familiar. Because power
+is expressed in watts and time in seconds, a unit of energy
+can be called a watt-second (Ws) or more recognizable from
+the electric bill, a kilowatt-hour (kWh). Refer to Chapter 5,
+Physics, for further discussion on energy.
+Sources of Electricity
+Electrical energy can be produced in a number of methods. The
+four most common are pressure, chemical, thermal, and light.
+
+Pressure Source
+This form of electrical generation is commonly known as
+piezoelectric (piezo or piez taken from Greek: to press;
+pressure; to squeeze) is a result of the application of
+mechanical pressure on a dielectric or non-conducting crystal.
+The most common piezoelectric materials used today are
+crystalline quartz and Rochelle salt. However, Rochelle salt is
+being superseded by other materials, such as barium titanate.
+The application of a mechanical stress produces an electric
+polarization, which is proportional to this stress. This
+polarization establishes a voltage across the crystal. If a
+circuit is connected across the crystal, a flow of current can
+be observed when the crystal is loaded (pressure is applied).
+An opposite condition can occur, where an application of a
+voltage between certain faces of the crystal can produce a
+mechanical distortion. This effect is commonly referred to
+as the piezoelectric effect.
+Piezoelectric materials are used extensively in transducers
+for converting a mechanical strain into an electrical signal.
+Such devices include microphones, phonograph pickups, and
+vibration-sensing elements. The opposite effect, in which a
+mechanical output is derived from an electrical signal input,
+is also widely used in headphones and loudspeakers.
+12-22
+
+===== PDF PAGE 464 =====
+Chemical Source
+Chemical energy can be converted into electricity; the
+most common form of this is the battery. A primary battery
+produces electricity using two different metals in a chemical
+solution like alkaline electrolyte, where a chemical reaction
+between the metals and the chemicals frees more electrons
+in one metal than in the other. One terminal of the battery is
+attached to one of the metals, such as zinc; the other terminal
+is attached to the other metal, such as manganese oxide. The
+end that frees more electrons develops a positive charge
+and the other end develops a negative charge. If a wire is
+attached from one end of the battery to the other, electrons
+flow through the wire to balance the electrical charge.
+
+Thermal Sources
+The most common source of thermal electricity found in the
+aviation industry comes from thermocouples. Thermocouples
+are widely used as temperature sensors. They are cheap
+and interchangeable, have standard connectors, and can
+measure a wide range of temperatures. Thermocouples
+are pairs of dissimilar metal wires joined at least at one
+end, which generate a voltage between the two wires that
+is proportional to the temperature at the junction. This is
+called the Seebeck effect, in honor of Thomas Seebeck who
+first noticed the phenomena in 1821. It was also noticed
+that different metal combinations have a different voltage
+difference. Thermocouples are used to measure cylinder head
+temperatures and Turbine Inlet Temperature (TIT).
+
+Light Sources
+A solar cell or a photovoltaic cell is a device that converts
+
+E2
+
+R
+
+E
+
+R
+P
+
+I2R
+
+E
+
+IE
+
+P
+
+I
+
+P
+
+PR
+
+E
+
+R
+
+E
+
+P
+
+E2 P
+
+I
+
+IR
+
+Figure 12-44. Ohm’s Law formula.
+
+P 2
+I
+
+R
+I
+
+light energy into electricity. Fundamentally, the device
+contains certain chemical elements that, when exposed to
+light energy, release electrons.
+Photons in sunlight are taken in by the solar panel or cell,
+where they are absorbed by semiconducting materials, such
+as silicon. Electrons in the cell are broken loose from their
+atoms, allowing them to flow through the material to produce
+electricity. The complementary positive charges that are also
+created are called holes (absence of electron) and flow in the
+direction opposite of the electrons in a silicon solar panel.
+Solar cells have many applications and have historically been
+used in earth orbiting satellites or space probes, handheld
+calculators, and wrist watches.
+Schematic Representation of Electrical
+Components
+The schematic is the most common place where the technician
+finds electronic symbols. The schematic is a diagram that
+depicts the interconnection and logic of an electronic or
+electrical circuit. Many symbols are employed for use in
+the schematic drawings, blueprints, and illustrations. This
+section briefly outlines some of the more common symbols
+and explains how to interpret them.
+
+Conductors
+The schematic depiction of a conductor is simple enough.
+This is generally shown as a solid line. However, the line
+types may vary depending on who drew the schematics and
+what exactly the line represents. While the solid line is used
+to depict the wire or conductor, schematics used for aircraft
+modifications can also use other line types, such as a dashed
+to represent “existing” wires prior to modification and solid
+lines for “new” wires.
+There are two methods employed to show wire crossovers
+and wire connections. Figure 12-45 shows the two methods
+of drawing wires that cross: version A and version B.
+Figure 12-46 shows the two methods for drawing wire
+that connect version A and version B. If version A in
+Figure 12-45 is used to depict crossovers, then version A for
+wire connections in Figure 12-46 is used. The same can then
+be said about the use of version B methods. The technician
+encounters both in common use.
+Figure 12-47 shows a few examples of the more common
+wire types that the technician encounters in schematics. They
+are the single wire, single shielded, shielded twisted pair or
+double, and the shielded triple. This is not an exhaustive list of
+wire types but a fair representation of how they are depicted.
+Figure 12-47 also shows the wires having a wire number.
+These are shown for the sake of illustration and vary from one
+12-23
+
+===== PDF PAGE 465 =====
+installation agency to another. For further understanding of a
+wire numbering system, consult the appropriate wiring guide
+published by the agency that drew the prints. Regardless of
+the specifics of the wire numbering system, organizations
+that exercise professional wiring practices have the installed
+wire marked in some manner. This is an aid to the technician
+who has to troubleshoot or modify the system at a later date.
+
+Types of Resistors
+Fixed Resistor
+Fixed resistors have built into the design a means of opposing
+current. [Figure 12-48] The general use of a resistor in a
+circuit is to limit the amount of current flow. There are a
+number of methods used in construction and sizing of a
+resistor that control properties, such as resistance value, the
+precision of the resistance value, and the ability to dissipate
+heat. While in some applications the purpose of the resistive
+element is used to generate heat, such as in propeller anti-ice
+boots, heat typically is the unwanted loss of energy.
+Carbon Composition
+The carbon composed resistor is constructed from a mixture
+of finely grouped carbon/graphite, an insulation material
+for filler, and a substance for binding the material together.
+The amount of graphite in relation to the insulation material
+determines the ohmic or resistive value of the resistor. This
+mixture is compressed into a rod, which is fitted with axial
+leads or “pigtails.” The finished product is sealed in an
+insulating coating for isolation and physical protection.
+
+variation between the marked value and the actual value of
+a resistor is known as the “tolerance” of a resistor. A resistor
+coded for a 5 percent tolerance is not more than 5 percent
+higher or lower than the value indicated by the color code.
+The resistor color code is made up of a group of colors,
+numbers, and tolerance values. Each color is represented by a
+number, and in most cases, by a tolerance value. [Figure 12-49]
+When the color code is used with the end-to-center band marking
+system, the resistor is normally marked with bands of color at
+one end of the resistor. The body or base color of the resistor
+has nothing to do with the color code, and in no way indicates
+a resistance value. To prevent confusion, this body is never
+the same color as any of the bands indicating resistance value.
+
+A
+
+B
+
+Figure 12-45. Unconnected crossover wires.
+
+There are other types of fixed resistors in common use.
+Included in this group are:
+Carbon film
+
+•
+
+Metal-oxide
+
+•
+
+Metal film
+
+•
+
+Metal glaze
+
+The construction of a film resistor is accomplished by
+depositing a resistive material evenly on a ceramic rod. This
+resistive material can be graphite for the carbon film resistor,
+nickel chromium for the metal film resistor, metal and glass
+for the metal glaze resistor, and metal and an insulating oxide
+for the metal-oxide resistor.
+Resistor Ratings
+
+A
+
+B
+
+Figure 12-46. Connected wires.
+Typical Wire No.
+SX001A22
+
+Shielded
+single wire
+
+NM200A22
+
+Shielded
+double
+wire
+
+RF300A22
+
+Shielded
+triple
+wire
+
+Color Code
+
+It is very difficult to manufacture a resistor to an exact standard
+of ohmic values. Fortunately, most circuit requirements are
+not extremely critical. For many uses, the actual resistance in
+ohms can be 20 percent higher or lower than the value marked
+on the resistor without causing difficulty. The percentage
+
+Single
+wire
+
+12PB501-*APJ356
+Conductor
+
+•
+
+Shielding
+Figure 12-47. Common wire types.
+
+12-24
+
+===== PDF PAGE 466 =====
+Color Band Decoding
+When the end-to-center band marking system is used, either
+three or four bands mark the resistor.
+1.
+
+The first color band (nearest the end of the resistor)
+indicates the first digit in the numerical resistance
+value. This band is never gold or silver in color.
+
+2.
+
+The second color band always indicates the second
+digit of ohmic value. It is never gold or silver in color.
+[Figure 12-50]
+
+3.
+
+The third color band indicates the number of zeros to
+be added to the two digits derived from the first and
+second bands, except in the following two cases:
+(a) If the third band is gold in color, the first two
+digits must be multiplied by 10 percent.
+(b) If the third band is silver in color, the first two
+digits must be multiplied by 1 percent.
+
+4.
+
+If there is a fourth color band, it is used as a multiplier
+for percentage of tolerance, as indicated in the color
+code chart in Figure 12-49. If there is no fourth band,
+the tolerance is understood to be 20 percent.
+
+Figure 12-50 illustrates the rules for reading the resistance
+value of a resistor marked with the end-to-center band system.
+This resistor is marked with three bands of color, which must
+be read from the end toward the center.
+There is no fourth color band; therefore, the tolerance is
+understood to be 20 percent. 20 percent of 250,000 Ω, equals
+50,000 Ω.
+Since the 20 percent tolerance is plus or minus,
+Maximum resistance
+= 250,000 Ω + 50,000 Ω
+= 300,000 Ω
+Minimum resistance
+= 250,000 Ω − 50,000 Ω
+= 200,000 Ω
+The following paragraphs provide a few extra examples of
+resistor color band decoding. Figure 12-51 contains a resistor
+with another set of colors. This resistor code should be read
+as follows:
+
+Figure 12-48. Fixed resistor schematic.
+
+The resistance of this resistor is 86,000 ±10 percent ohms.
+The maximum resistance is 94,600 ohms, and the minimum
+resistance is 77,400 ohms.
+Another example is the resistance of the resistor in Figure 12-52
+is 960 ±5 percent ohms. The maximum resistance is 1,008
+ohms, and the minimum resistance is 912 ohms.
+Sometimes circuit considerations dictate that the tolerance
+must be smaller than 20 percent. Figure 12-53 shows
+an example of a resistor with a 2 percent tolerance. The
+resistance value of this resistor is 2,500 ±2 percent ohms.
+The maximum resistance is 2,550 ohms, and the minimum
+resistance is 2,450 ohms.
+Figure 12-54 contains an example of a resistor with a black
+third color band. The color code value of black is zero, and
+the third band indicates the number of zeros to be added to
+the first two digits.
+In this case, a zero number of zeros must be added to the first
+two digits; therefore, no zeros are added. Thus, the resistance
+value is 10 ±1 percent ohms. The maximum resistance is
+10.1 ohms, and the minimum resistance is 9.9 ohms. There
+are two exceptions to the rule stating the third color band
+indicates the number of zeros. The first of these exceptions
+is illustrated in Figure 12-55. When the third band is gold in
+color, it indicates that the first two digits must be multiplied
+by 10 percent. The value of this resistor in this case is:
+10 × 0.10 ±2% = 1 = 0.02 ohms
+When the third band is silver, as is the case in Figure 12-56,
+the first two digits must be multiplied by 1 percent. The value
+Resistor color code
+Color
+
+Number
+
+Tolerance
+
+Black
+
+0
+
+—
+
+Brown
+
+1
+
+1%
+
+Red
+
+2
+
+2%
+
+Orange
+
+3
+
+3%
+
+Yellow
+
+4
+
+4%
+
+Green
+
+5
+
+5%
+
+Blue
+
+6
+
+6%
+
+Violet
+
+7
+
+7%
+
+Gray
+
+8
+
+8%
+
+White
+
+9
+
+9%
+
+Gold
+
+—
+
+5%
+
+Silver
+
+—
+
+10%
+
+No color
+
+—
+
+20%
+
+Figure 12-49. Resistor color code.
+
+12-25
+
+===== PDF PAGE 467 =====
+of the resistor is 0.45 ±10 percent ohms.
+Blue
+
+Wire-Wound
+Wire-wound resistors typically control large amounts of
+current and have high power ratings. Resistors of this type are
+constructed by winding a resistance wire around an insulating
+rod usually made of porcelain. The windings are coated with an
+insulation material for physical protection and heat conduction.
+Both ends of the windings are connected to terminals, which
+are used to connect the resistor to a circuit. [Figure 12-57]
+A wire-wound resistor with tap is a special type of fixed
+resistor that can be adjusted. These adjustments can be
+made by moving a slide bar tap or by moving the tap to a
+preset incremental position. While the tap may be adjustable,
+the adjustments are usually set at the time of installation
+to a specific value and then operated in service as a fixed
+resistor. Another type of wire-wound resistor is constructed
+of Manganin wire, used when high precision is needed.
+Variable Resistors
+Variable resistors are constructed so that the resistive value
+can be changed easily. This adjustment can be manual or
+automatic, and the adjustments can be made while the system
+that it is connected to is in operation. There are two basic
+types of manual adjustors: the rheostat and the potentiometer.
+
+Rheostat
+A rheostat is a variable resistor used to vary the amount of
+current flowing in a circuit. [Figure 12-58] Figure 12-59
+shows a rheostat connected in series with an ordinary
+resistance in a series circuit. As the slider arm moves
+from point A to B, the amount of rheostat resistance (AB)
+is increased. Since the rheostat resistance and the fixed
+resistance are in series, the total resistance in the circuit also
+increases, and the current in the circuit decreases. On the
+other hand, if the slider arm is moved toward point A, the total
+resistance decreases and the current in the circuit increases.
+
+8
+
+1st Band
+
+Red
+
+Green
+
+Color
+
+3rd Band
+
+6
+
+000 10%
+
+Figure 12-51. Resistor color code example.
+
+Blue
+White
+
+9
+
+Brown
+Gold
+
+6
+
+0
+
+5%
+
+Figure 12-52. Resistor color code example.
+
+Green
+Red
+
+2
+
+Red
+Red
+
+5
+
+00
+
+2%
+
+Figure 12-53. Resistor with two percent tolerance.
+
+Black
+Brown
+
+1
+
+Black
+Brown
+
+0
+
+1%
+
+Figure 12-54. Resistor with black third color band.
+
+Black
+
+Gold (Multiplier)
+Red
+
+Brown
+
+1
+2nd Band
+
+Orange
+Silver
+
+Gray
+
+0
+
+10% 2%
+
+Figure 12-55. Resistor with gold third band.
+
+Green
+Yellow
+
+Yellow
+Numerical Value
+
+Silver (Multiplier)
+Silver
+
+Significance
+
+1st band — red
+
+2
+
+1st digit
+
+2nd band — green
+
+5
+
+2nd digit
+
+3rd band — yellow
+
+4
+
+No. of zeroes to add
+
+4
+
+5
+
+1% 10%
+
+Figure 12-56. Resistor with a silver third band.
+
+Figure 12-50. End-to-center band marking.
+
+12-26
+
+===== PDF PAGE 468 =====
+Potentiometer
+The potentiometer is considered a three-terminal device.
+[Figure 12-60] As illustrated, terminals 1 and 2 have the
+entire value of the potentiometer resistance between them.
+Terminal 3 is the wiper or moving contact. Through this wiper,
+the resistance between terminals 1 and 3 or terminals 2 and 3
+can be varied. While the rheostat is used to vary the current
+in a circuit, the potentiometer is used to vary the voltage in a
+circuit. A typical use for this component can be found in the
+volume controls on an audio panel and input devices for flight
+data recorders, among many other applications.
+In Figure 12-61A, a potentiometer is used to obtain a variable
+voltage from a fixed voltage source to apply to an electrical
+load. The voltage applied to the load is the voltage between
+points 2 and 3. When the slider arm is moved to point 1, the
+entire voltage is applied to the electrical device (load); when
+the arm is moved to point 3, the voltage applied to the load
+is zero. The potentiometer makes possible the application of
+any voltage between zero and full voltage to the load.
+The current flowing through the circuit of Figure 12-61
+leaves the negative terminal electron flow of the battery and
+divides one part flowing through the lower portion of the
+potentiometer (points 3 to 2) and the other part through the
+load. Both parts combine at point 2 and flow through the
+upper portion of the potentiometer (points 2 to 1) back to the
+positive terminal of the battery. In View B of Figure 12-61, a
+potentiometer and its schematic symbol are shown.
+In choosing a potentiometer resistance, the amount of current
+drawn by the load should be considered, as well as the current
+flow through the potentiometer at all settings of the slider
+arm. The energy of the current through the potentiometer is
+dissipated in the form of heat.
+It is important to keep this wasted current as small as
+possible by making the resistance of the potentiometer as
+large as practicable. In most cases, the resistance of the
+potentiometer can be several times the resistance of the load.
+Figure 12-62 shows how a potentiometer can be wired to
+function as a rheostat.
+
+Figure 12-57. Wire-wound resistors.
+
+tapered potentiometer. [Figure 12-64] Keep in mind that
+one-half of full potentiometer travel does not necessarily
+correspond to one-half the total resistance of the potentiometer.
+Thermistors
+The thermistor is a type of a variable resistor that is
+temperature sensitive. [Figure 12-65] This component
+has a negative temperature coefficient, which means that
+as the sensed temperature increases, the resistance of the
+thermistor decreases.
+Photoconductive Cells
+The photoconductive cell is similar to the thermistor. Like the
+thermistor, it has a negative temperature coefficient. Unlike
+the thermistor, the resistance is controlled by light intensity.
+This kind of component can be found in radio control heads
+where the intensity of the ambient light is sensed through
+the photoconductive cell resulting in the backlighting of the
+control heads to adjust to the flight deck lighting conditions.
+[Figure 12-66]
+
+Circuit Protection Devices
+Perhaps the most serious trouble in a circuit is a direct short.
+The term “direct short” describes a situation in which some
+point in the circuit, where full system voltage is present,
+comes in direct contact with the ground or return side of the
+circuit. This establishes a path for current flow that contains
+no resistance other than that present in the wires carrying the
+current, and these wires have very little resistance.
+Most wires used in aircraft electrical circuits are small
+gauge, and their current carrying capacity is quite limited.
+The size of the wires used in any given circuit is determined
+
+Linear Potentiometers
+In a linear potentiometer, the resistance between both terminal
+and the wiper varies linearly with the position of the wiper.
+To illustrate, one quarter of a turn on the potentiometer results
+in one quarter of the total resistance. The same relationship
+exists when one-half or three-quarters of potentiometer
+movement. [Figure 12-63]
+Tapered Potentiometers
+Resistance varies in a nonlinear manner in the case of the
+
+Figure 12-58. Rheostat schematic symbol.
+
+12-27
+
+===== PDF PAGE 469 =====
+B
+
+A
+1
+2
+Load
+3
+
+Figure 12-59. Rheostat connected in series.
+A
+1
+
+Terminals
+
+3
+
+Shaft
+Wiper
+
+Resistive strip
+
+2
+Figure 12-60. Potentiometer schematic symbol.
+
+by the amount of current the wires are expected to carry
+under normal operating conditions. Any current flow in
+excess of normal, such as the case of a direct short, would
+cause a rapid generation of heat. If the excessive current
+flow caused by the short is left unchecked, the heat in the
+wire could cause a portion of the wire to melt and at the
+very least, open the circuit.
+
+Rotary potentiometer construction
+B
+Figure 12-61. Potentiometer and schematic symbol.
+1
+
+To protect aircraft electrical systems from damage and failure
+caused by excessive current, several kinds of protective
+devices are installed in the systems. Fuses, circuit breakers,
+thermal protectors, and arc fault circuit breakers are used
+for this purpose.
+Circuit protective devices, as the name implies, all have a
+common purpose—to protect the units and the wires in the
+circuit. Some are designed primarily to protect the wiring
+and to open the circuit in such a way as to stop the current
+flow when the current becomes greater than the wires can
+safely carry. Other devices are designed to protect a unit in
+the circuit by stopping the current flow to it when the unit
+becomes excessively warm.
+Fuse
+Fuses are used to protect the circuit from over current
+conditions. [Figure 12-67A] The fuse is installed in the circuit
+so that all the current in the circuit passes through it. In most
+fuses, the strip of metal is made of an alloy of tin and bismuth,
+which melts and opens the circuit when the current exceeds
+
+3
+
+2
+Figure 12-62. Potentiometer wired to function as rheostat.
+
+100 Ω
+
+70 Ω
+30 Ω
+A
+25%
+
+100 Ω
+
+30 Ω
+70 Ω
+
+10 Ω
+100 Ω
+
+B
+50%
+
+90 Ω
+C
+75%
+
+Figure 12-63. Linear potentiometer schematic.
+
+12-28
+
+===== PDF PAGE 470 =====
+the rated capacity of the fuse. For example, if a 5-amp fuse
+is placed into a circuit, the fuse allows currents up to 5 amps
+to pass. Because the fuse is intended to protect the circuit,
+it is quite important that its capacity match the needs of the
+circuit in which it is used.
+When replacing a fuse, consult the applicable manufacturer’s
+instructions to be sure a fuse of the correct type and capacity
+is installed. Fuses are installed in two types of fuse holders
+in aircraft. “Plug-in holders” or in-line holders are used for
+small and low capacity fuses. “Clip” type holders are used
+for heavy high capacity fuses and current limiters.
+Current Limiter
+The current limiter is very much like the fuse. However, the
+current limiter link is usually made of copper and will stand
+a considerable overload for a short period of time. Like the
+fuse, it opens up in an over current condition in heavy current
+circuits such as 30 amp or greater. These are used primarily
+to sectionalize an aircraft circuit or bus. Once the limiter is
+opened, it must be replaced. The schematic symbol for the
+current limiter shows two triangles pointing to each other
+with a line on both sides of the triangles. [Figure 12-67B].
+
+70 Ω
+
+30 Ω
+
+100 Ω
+
+70 Ω
+
+30 Ω
+A
+25%
+
+100 Ω
+
+B
+50%
+
+Figure 12-64. Tapered potentiometer.
+
+T
+
+Figure 12-65. Schematic symbol for thermistor.
+
+There are several types of circuit breakers in general use in
+aircraft systems. One is a magnetic type. When excessive
+current flows in the circuit, it makes an electromagnet strong
+enough to move a small armature, which trips the breaker.
+Another type is the thermal overload switch or breaker.
+This consists of a bimetallic strip which, when it becomes
+overheated from excessive current, bends away from a catch
+on the switch lever and permits the switch to trip open.
+
+10 Ω
+
+Most circuit breakers must be reset by hand. If the overload
+condition still exists, the circuit breaker trips again to prevent
+damage to the circuit. At this point, it is usually not advisable
+to continue resetting the circuit breaker, but to initiate
+troubleshooting to determine the cause. Repeated resetting
+of a circuit breaker can lead to circuit or component damage
+or worse, the possibility of a fire or explosion. Automatic
+reset type circuit breakers are not allowed in aircraft. Circuit
+breakers are commonly grouped on a circuit breaker panel that
+is accessible to the flight crew. Figure 12-69 shows a circuit
+breaker and a circuit breaker panel.
+
+90 Ω
+
+Arc Fault Circuit Breaker
+
+Circuit Breaker
+The circuit breaker is commonly used in place of a fuse and is
+designed to break the circuit and stop the current flow when
+the current exceeds a predetermined value. Unlike the fuse,
+the circuit breaker can be reset; whereas the fuse or current
+limiter must be replaced. [Figure 12-68]
+
+100 Ω
+
+Figure 12-66. Photoconductive cell schematic symbol component.
+
+C
+75%
+
+In recent years, the arc fault circuit breaker has begun to
+provide an additional layer of protection beyond that of the
+thermal protection already provided by conventional circuit
+breakers. The arc fault circuit breaker monitors the circuit
+for an electrical arcing signature, which can indicate possible
+wiring faults and unsafe conditions. These conditions can
+lead to fires or loss of power to critical systems. The arc fault
+circuit breaker is only beginning to make an appearance in
+the aircraft industry and is not widely used like the thermal
+type of circuit breaker.
+Thermal Protectors
+A thermal protector, or switch, is used to protect a motor. It
+is designed to open the circuit automatically whenever the
+temperature of the motor becomes excessively high. It has
+two positions—open and closed. The most common use for
+a thermal switch is to keep a motor from overheating. If a
+12-29
+
+===== PDF PAGE 471 =====
+A
+
+Switches
+Switches control the current flow in most aircraft electrical
+circuits. A switch is used to start, to stop, or to change the
+direction of the current flow in the circuit. The switch in
+each circuit must be able to carry the normal current of the
+circuit and must be insulated heavily enough for the voltage
+of the circuit. Figure 12-70 shows various switches used in
+aircraft electrical systems.
+
+B
+
+An understanding of some basic definitions of the switch is
+necessary before any of the switch types are discussed. The
+number of poles, throws, and positions they have designates
+toggle switches, as well as some other type of switches.
+Pole—the switch’s movable blade or contactor. The number
+of poles is equal to the number of circuits, or paths for
+current flow, that can be completed through the switch at
+any one time.
+
+Figure 12-67. Schematic symbol for fuse (A) and current limiter (B).
+
+malfunction in the motor causes it to overheat, the thermal
+switch breaks the circuit intermittently.
+The thermal switch contains a bimetallic disk, or strip, that
+bends and breaks the circuit when it is heated. This occurs
+because one of the metals expands more than the other when
+they are subjected to the same temperature. When the strip
+or disk cools, the metals contract and the strip returns to its
+original position and closes the circuit.
+Control Devices
+Components in the electrical circuits are typically not all
+intended to operate continuously or automatically. Most of
+them are meant to operate at certain times, under certain
+conditions, to perform very definite functions. There must
+be some means of controlling their operation. Either a
+switch, or a relay, or both may be included in the circuit
+for this purpose.
+
+Throw—indicates the number of circuits, or paths for current,
+that it is possible to complete through the switch with each
+pole or contactor.
+Positions—indicates the number of places at which the
+operating device (toggle, plunger, and so forth) comes to
+rest and at the same time open or close one or more circuits.
+
+Toggle Switch
+Single-Pole, Single-Throw (SPST)
+The single-pole, single-throw (SPST) switch allows a
+connection between two contacts. One of two conditions
+exist. Either the circuit is open in one position or closed in
+the other position. [Figure 12-71]
+Single-Pole, Double-Throw (SPDT)
+The single-pole, double-throw (SPDT) switch is shown in
+Figure 12-72. With this switch, contact between one contact
+can be made between one contact and the other.
+Double-Pole, Single-Throw (DPST)
+The double-pole, single-throw (DPST) switch connection
+can be made between one set of contacts and either of two
+other sets of contacts. [Figure 12-73]
+Double-Pole, Double-Throw (DPDT)
+The schematic symbol for the double-pole, double-throw
+(DPDT) switch is shown in Figure 12-74. This type of switch
+makes a connection from one set of contacts to either of two
+other sets of contacts.
+
+Figure 12-68. Schematic symbol for circuit breaker.
+
+A toggle switch that is spring-loaded to the OFF position
+12-30
+
+===== PDF PAGE 472 =====
+position and closing it in another, is a two-position switch. A
+toggle switch that comes to rest at any one of three positions
+is a three-position switch.
+A switch that stays open, except when it is held in the closed
+position, is a normally open switch (usually identified as
+NO). One that stays closed, except when it is held in the
+open position is a normally closed switch (NC). Both kinds
+are spring loaded to their normal position and return to that
+position as soon as they are released.
+Locking toggles require the operator to pull out on the switch
+toggle before moving it in to another position. Once in the new
+position, the switch toggle is release back into a lock, which
+then prevents the switch from inadvertently being moved.
+
+Microswitches
+A microswitch opens or closes a circuit with a very small
+movement of the tripping device (1⁄16 inch or less). This is
+what gives the switch its name, since micro means small.
+Microswitches are usually pushbutton switches. They are
+used primarily as limit switches to provide automatic control
+of landing gears, actuator motors, and the like. Figure 12-75
+shows a normally closed microswitch in cross-section and
+illustrates how these switches operate. When the operating
+plunger is pressed in, the spring and the movable contact are
+pushed, opening the contacts and the circuit. Figure 12-76
+shows a pushbutton microswitch.
+
+Rotary Selector Switches
+A rotary selector switch takes the place of several switches.
+When the knob of the switch is rotated, the switch opens one
+circuit and closes another. Ignition switches and voltmeter
+selector switches are typical examples of this kind of switch.
+[Figure 12-77]
+
+Pushbutton Switches
+Pushbutton switches have one stationary contact and one
+
+Figure 12-69. Circuit breaker assembly for aircraft electrical
+
+system.
+
+and must be held in the ON position to complete the circuit
+is a momentary contact two-position switch. One that comes
+to rest at either of two positions, opening the circuit in one
+
+Figure 12-70. Various types of switches used in modern aircraft.
+
+12-31
+
+===== PDF PAGE 473 =====
+Figure 12-71. Single-pole, single-throw switch schematic symbol.
+
+Figure 12-72. Single-pole, double-throw switch schematic symbol.
+
+movable contact. The movable contact is attached to the
+pushbutton. The pushbutton is either an insulator itself or is
+insulated from the contact. This switch is spring loaded and
+designed for momentary contact.
+
+Lighted Pushbutton Switches
+Another more common switch found in today’s aircraft is
+the lighted pushbutton switch. This type of switch takes the
+form of a 5⁄8-inch to 1-inch cube with incandescent or LED
+lights to indicate the function of the switch. Switch designs
+come in a number of configurations; the two most common
+are the alternate action and momentary action and usually
+have a two-pole or four-pole switch body. Other less common
+
+Figure 12-74. Double-pole, double-throw switch schematic symbol.
+
+switch actions are the alternate and momentary holding coil
+configurations. The less known holding or latching coil switch
+bodies are designed to have a magnetic coil inside the switch
+body that is energized through two contacts in the base of the
+switch. When the coil is energized and the switch is pressed,
+the switch contacts remain latched until power is removed from
+the coil. This type of design allows for some degree of remote
+control over the switch body. [Figure 12-78]
+The display optics of the lighted pushbutton switch provide the
+crew with a clear message that is visible under a wide range of
+lighting conditions with very high luminance and wide viewing
+angles. While some displays are simply a transparent screen
+that is backlit by an incandescent light, the higher quality
+and more reliable switches are available in sunlight readable
+displays and night vision (NVIS) versions. Due to the sunlight
+environment of the flight deck, displays utilizing standard
+lighting techniques “washout” when viewed in direct sunlight.
+Sunlight readable displays are designed to minimize this effect.
+Lighted pushbutton switches can also be used in applications
+where a switch is not required and the optics are only for
+indications. This type of an indicator is commonly called
+an annunciator.
+
+Figure 12-73. Double-pole, single-throw switch schematic symbol.
+
+12-32
+
+===== PDF PAGE 474 =====
+Operating plunger
+
+Stationary contact
+
+Moveable contact
+
+Grooved anchor
+
+Three-bladed spring
+
+Figure 12-75. Cross-section of a microswitch.
+
+Dual In-Line Parallel (DIP) Switches
+The acronym “DIP” switch is defined as Dual In-Line Parallel
+switch in reference to the physical layout. DIP switches are
+commonly found in card cages, and line replaceable units
+(LRU) and are used in most cases to adjust gains, control
+configurations, and so forth. Each one of the switches is
+generally an SPST slide or rocker switch. The technician may
+find this switch in packages ranging in size from DIP2 through
+DIP32. Some of the more common sizes are DIP4 and DIP8.
+
+Switch Guards
+Switch guards are covers that protect a switch from
+unintended operation. Prior to the operation of the switch, the
+guard is usually lifted. Switch guards are commonly found
+on systems such as fire suppression and override logics for
+various systems. Figure 12-79A shows a traditional switch
+with a guard while Figure 12-79B shows a pushbutton switch
+with a guard. The guard needs to be moved before the switch
+can be pushed.
+
+Relays
+A relay is simply an electromechanical switch where a small
+amount of current can control a large amount of current.
+[Figure 12-80] When a voltage is applied to the coil of the
+
+Figure 12-77. Rotary switches.
+
+relay, the electromagnet is energized due to the current. When
+energized, an electromagnetic field pulls the common (C) or
+arm of the relay down. When the arm or common is pulled
+down, the circuit between the arm and the normally closed
+(NC) contacts is opened and the circuit between the arm and the
+normally open (NO) contacts are closed. When the energizing
+voltage is removed, the spring returns the arm contacts back to
+the normally closed (NC) contacts. The relay usually has two
+connections for the coil. The (+) side is designated as X1 and
+the ground-side of the coil is designated as X2.
+
+Series DC Circuits
+The series circuit is the most basic electrical circuit and
+provides a good introduction to basic circuit analysis. The
+series circuit represents the first building block for all of
+the circuits to be studied and analyzed. Figure 12-81 shows
+this simple circuit with nothing more than a voltage source
+or battery, a conductor, and a resistor. This is classified as a
+series circuit because the components are connected end-toend, so that the same current flows through each component
+equally. There is only one path for the current to take and the
+battery and resistor are in series with each other. Next is to
+make a few additions to the simple circuit in Figure 12-81.
+Figure 12-82 shows an additional resistor and a little more
+
+Figure 12-76. Pushbutton microswitch.
+
+12-33
+
+===== PDF PAGE 475 =====
+A
+
+Figure 12-78. Lighted pushbutton switches.
+
+detail regarding the values. With these values, we can now
+begin to learn more about the nature of the circuit. In this
+configuration, there is a 12-volt DC source in series with two
+resistors, R1 = 10 Ω and R2 = 30 Ω. For resistors in a series
+configuration, the total resistance of the circuit is equal to
+the sum of the individual resistors. The basic formula is:
+RT = R1 + R2 + R3 + ………RN
+For Figure 12-82, this will be:
+RT = 10 Ω + 30 Ω
+RT = 40 Ω
+B
+
+Now that the total resistance of the circuit is known, the
+current for the circuit can be determined. In a series circuit,
+the current cannot be different at different points within the
+circuit. The current through a series circuit is always the
+same through each element and at any point. Therefore, the
+current in the simple circuit can now be determined using
+Ohm’s Law:
+Formula, E = I (R)
+Solve for current, I = E
+R
+The variables, E = 12 V and RT = 40 Ω
+12 V
+Substitute variables, I = 40 Ω
+Current in circuits, I = 0.3 A
+Ohm’s Law describes a relationship between the variables
+of voltage, current, and resistance that is linear and easy to
+illustrate with a few extra calculations. First is the act of
+changing the total resistance of the circuit while the other
+two remain constant. In this example, the RT of the circuit
+in Figure 12-82 is doubled.
+The effects on the total current in the circuit are:
+
+Figure 12-79. (A) Red guarded switch. (B) Pushbutton switch with
+
+a guard.
+
+Formula, E = I (R)
+Solve for current, I = E
+R
+The variables, E = 12 V and RT = 80 Ω
+12 V
+Substitute variables, I = 80 Ω
+Current in circuits, I = 0.15 A
+It can be seen quantitatively and intuitively that when the
+resistance of the circuit is doubled, the current is reduced by
+half the original value.
+Next, reduce the RT of the circuit in Figure 12-82 to half of
+its original value. The effects on the total current are:
+12-34
+
+===== PDF PAGE 476 =====
+voltage and voltage drop when discussing series circuits.
+Voltage drop refers to the loss in electrical pressure or emf
+caused by forcing electrons through a resistor. Because there
+are two resistors in the example, there are separate voltage
+drops. Each drop is associated with each individual resistor.
+The amount of electrical pressure required to force a given
+number of electrons through a resistance is proportional to
+the size of the resistor.
+
+Multiple poles
+B3
+B1
+
+NC
+
+B2
+
+NC
+
+A3
+A1
+
+C
+
+NO
+
+A2
+
+C
+
+NO
+
+X1
+
+X1
+
+X2
+
+X2
+
+In Figure 12-83, the values used to illustrate the idea of
+voltage drop are:
+
+Schematic Symbol for a Relay
+
+Normally closed (NC)
+
+Common (C) or Arm
+Electromagnet pulls
+contact down
+
+Normally open (NO)
+N
+
+X1
+
+(+)
+
+S
+
+X2
+
+(−)
+
+Magnetic field
+
+Relay Illustration
+Figure 12-80. Basic relay.
+
+Current, I = 1 mA
+R1 = 1 kΩ
+R2 = 3 kΩ
+R3 = 5 kΩ
+The voltage drop across each resistor is calculated using
+Ohm’s Law. The drop for each resistor is the product of each
+resistance and the total current in the circuit. Keep in mind
+that the same current flows through series resistor.
+Formula:
+
+E = I (R)
+
+Voltage across R1: E1 = IT (R1)
+
+E1 = 1 mA (1 kΩ) = 1 volt
+Voltage across R2: E2 = IT (R2)
+
+E2 = 1 mA (3 kΩ) = 3 volt
+
++
+
+−
+
+Figure 12-81. Simple DC circuit.
+
+Formula, E = I (R)
+
+Voltage across R3: E3 = IT (R3)
+
+E3 = 1 mA (5 kΩ) = 5 volt
+The source voltage can now be determined, which can then
+be used to confirm the calculations for each voltage drop.
+Using Ohm’s Law:
+Formula:
+
+Source voltage = current × the total resistance
+
+ES = I (RT)
+
+Solve for current, I = E
+R
+
+R1
+10Ω
+
+The variables, E = 12 V and RT = 20 Ω
+12 V
+Substitute variables, I = 20 Ω
+Current in circuits, I = 0.6 A
+Voltage Drops & Further Application of Ohm’s Law
+The example circuit in Figure 12-83 is used to illustrate the
+idea of voltage drop. It is important to differentiate between
+
+E = I (R)
+
++
+12V
+−
+
+R2
+30Ω
+
+Figure 12-82. Simple DC circuit with additional resistor.
+
+12-35
+
+===== PDF PAGE 477 =====
+
+RT = 1 kΩ + 3 kΩ + 5 kΩ
+RT = 9 kΩ
+
+Now:
+
+ES = I (RT)
+
+Substitute
+
+ES = 1 mA (9 kΩ)
+ES = 9 volts
+
+Simple checks to confirm the calculation and to illustrate
+the concept of the voltage drop add up the individual values
+of the voltage drops and compare them to the results of the
+above calculation.
+1 volt + 3 volts + 5 volts = 9 volts
+Voltage Sources in Series
+A voltage source is an energy source that provides a constant
+voltage to a load. Two or more of these sources in series equals
+the algebraic sum of all the sources connected in series. The
+significance of pointing out the algebraic sum is to indicate that
+the polarity of the sources must be considered when adding up
+the sources. The polarity is indicated by a plus or minus sign
+depending on the source’s position in the circuit.
+In Figure 12-84, all of the sources are in the same direction
+in terms of their polarity. All of the voltages have the same
+sign when added up. In the case of Figure 12-84, three cells
+of a value of 1.5 volts are in series with the polarity in the
+same direction. The addition is simple enough:
+ET = 1.5v + 1.5v + 1.5v = +4.5 volts
+However, in Figure 12-85, one of the three sources has been
+turned around, and the polarity opposes the other two sources.
+Again the addition is simple:
+ET = + 1.5v − 1.5v + 1.5v = +1.5 volts
+Kirchhoff’s Voltage Law
+A law of basic importance to the analysis of an electrical
+circuit is Kirchhoff’s Voltage Law. This law simply states
+that the algebraic sum of all voltages around a closed path
+or loop is zero. Another way of saying it: the sum of all the
+voltage drops equals the total source voltage. A simplified
+formula showing this law is shown below:
+With three resistors in the circuit:
+ES – E1 – E2 – E3 … –EN = 0 volts
+Notice that the sign of the source is opposite that of the
+individual voltage drops. Therefore, the algebraic sum equals
+zero. Written another way:
+
+IT 1 mA
+
+R1
+1 kΩ
+
++
+
+−
+
+R2
+3 kΩ
+R3
+5 kΩ
+
+Figure 12-83. Example of three resistors in series.
+
+ES = E1 + E2 + E3 … +EN
+The source voltage equals the sum of the voltage drops. The
+polarity of the voltage drop is determined by the direction
+of the current flow. When going around the circuit, notice
+that the polarity of the resistor is opposite that of the source
+voltage. The positive on the resistor is facing the positive
+on the source, and the negative on the resistor is facing the
+negative on the source.
+Figure 12-86 illustrates the very basic idea of Kirchhoff’s
+Voltage Law. There are two resistors in this example. One
+has a drop of 14 volts and the other has a drop of 10 volts.
+The source voltage must equal the sum of the voltage drops
+around the circuit. By inspection, it is easy to determine the
+source voltage as 24 volts.
+Figure 12-87 shows a series circuit with three voltage
+drops and one voltage source rated at 24 volts. Two of the
+voltage drops are known. However, the third is not known.
+Using Kirchhoff’s Voltage Law, the third voltage drop can
+be determined.
+With three resistors in the circuit:
+ES – E1 – E2 – E3 = 0 volts
+Substitute the known values:
+24v – 12v – 10v − E3 = 0
+Collect known values: 2v – E3 = 0
+Solve for the unknown: E3 = 2 volts
+Determine the value of E4 in Figure 12-88. For this example,
+I = 200mA.
+First, the voltage drop across each of the individual resistors
+must be determined.
+
+E1 = I (R1)
+E1 = (200 mA) (10 Ω)
+12-36
+
+===== PDF PAGE 478 =====
+1.5V
+'
++
+
+'
+
+1.5V
++
+
+'
+
+1.5V
++
+
+Figure 12-84. Voltage sources in series add algebraically.
+
+Voltage drop across R1 E1 = 2 volts
+
+E2 = I (R2)
+
+E2 = (200 mA) (50 Ω)
+Voltage drop across R2 E2 = 10 volts
+
+E3 = I (R3)
+
+E3 = (200 mA) (100 Ω)
+Voltage drop across R3 E3 = 20 volts
+Kirchhoff’s Voltage Law is now employed to determine the
+voltage drop across E4.
+
+E
+I
+E
+Specific application: R4 = 4
+I
+68 V
+R4 =
+Substitute values:
+200 mA
+Ohm’s Law:
+
+R=
+
+Value for R4:
+
+R4 = 340 Ω
+
+Voltage Dividers
+Voltage dividers are devices that make it possible to obtain
+more than one voltage from a single power source. A voltage
+divider usually consists of a resistor, or resistors connected in
+series, with fixed or movable contacts and two fixed terminal
+contacts. As current flows through the resistor, different
+voltages can be obtained between the contacts.
+Series circuits are used for voltage dividers. The voltage divider
+rule allows the technician to calculate the voltage across one
+or a combination of series resistors without having to first
+calculate the current in the circuit. [Figure 12-89] Because
+the current flows through each resistor, the voltage drops are
+proportional to the ohmic values of the constituent resistors.
+To understand how a voltage divider works, examine
+Figure 12-90 carefully and observe the following:
+Each load draws a given amount of current: I1, I2, I3. In
+
+With four resistors in the circuit
+ES – E1 – E2 – E3 – E4 = 0 volts
+−
+
+Substituting values:
+100v – 2v – 10v – 20v – E4 = 0
+
+14V
+
++
+
++
+
+Combine: 68v – E4 = 0
+
+ES=24V
+−
+
+Solve for unknown: E4 = 68v
+Using Ohm’s Law and substituting in E4, the value for R4
+can now be determined.
+
+−
+
+10V
+
++
+
+Figure 12-86. Kirchhoff’s Voltage Law.
+
+1.5V
+−
++
+
+1.5V
++ −
+
+1.5V
+−
++
+
++
+
+E1
+12V
+
+−
+
++
+
++
+E2
+10V
+
+ES 24V
+−
+
+−
+Figure 12-85. Voltage sources add algebraically; one source
+
+reversed.
+
+E3
+?
+
+−
+
++
+
+Figure 12-87. Determine the unknown voltage drop.
+
+12-37
+
+===== PDF PAGE 479 =====
+addition to the load currents, some bleeder current (IB) flows.
+The current (IT) is drawn from the power source and is equal
+to the sum of all currents.
+The voltage at each point is measured with respect to a
+common point. Note that the common point is the point at
+which the total current (IT) divides into separate currents (I1,
+I2, I3). Each part of the voltage divider has a different current
+flowing in it. The current distribution is as follows:
+Through R1 — bleeder current (IB)
+Through R2 — IB + I1
+Through R3 — IB + I1, + I2
+The voltage across each resistor of the voltage divider is:
+90 volts across R1
+60 volts across R2
+50 volts across R3
+The voltage divider circuit discussed up to this point has had
+one side of the power supply (battery) at ground potential. In
+Figure 12-91, the common reference point (ground symbol)
+has been moved to a different point on the voltage divider.
+The voltage drop across R1 is 20 volts; however, since tap A is
+connected to a point in the circuit that is at the same potential
+as the negative side of the battery, the voltage between tap
+A and the reference point is a negative (−) 20 volts. Since
+resistors R2 and R3 are connected to the positive side of the
+battery, the voltages between the reference point and tap B
+or C are positive.
+The following rules provide a simple method of determining
+negative and positive voltages: (1) If current enters a
+resistance flowing away from the reference point, the voltage
+drop across that resistance is positive in respect to the
+reference point; (2) if current flows out of a resistance toward
+the reference point, the voltage drop across that resistance is
+negative in respect to the reference point. It is the location
+of the reference point that determines whether a voltage is
+negative or positive.
+Tracing the current flow provides a means for determining
+the voltage polarity. Figure 12-92 shows the same circuit
+with the polarities of the voltage drops and the direction of
+current flow indicated.
+The current flows from the negative side of the battery to R1.
+Tap A is at the same potential as the negative terminal of the
+battery since the slight voltage drop caused by the resistance
+of the conductor is disregarded; however, 20 volts of the
+source voltage are required to force the current through R1
+and this 20-volt drop has the polarity indicated. Stated another
+way, there are only 80 volts of electrical pressure left in the
+
+R1
+
++ 10 Ω −
++
+
++
+
+R2
+50 Ω
+−
+
+ES 100 V
+−
+
+−
+
+R4
+?
+
+−
+
++
+R3
+100 Ω
+
++
+
+Figure 12-88. Determine the unknown voltage drop.
+
+circuit on the ground side of R1.
+When the current reaches tap B, 30 more volts have been used
+to move the electrons through R2, and in a similar manner
+the remaining 50 volts are used for R3. But the voltages
+across R2 and R3 are positive voltages, since they are above
+ground potential.
+Figure 12-93 shows the voltage divider used previously. The
+voltage drops across the resistances are the same; however,
+the reference point (ground) has been changed. The voltage
+between ground and tap A is now a negative 100 volts, or
+the applied voltage.
+The voltage between ground and tap B is a negative 80 volts,
+and the voltage between ground and tap C is a negative 50 volts.
+Determining the Voltage Divider Formula
+Figure 12-94 shows the example network of four resistors and
+a voltage source. With a few simple calculations, a formula
+for determining the voltage divisions in a series circuit can
+be determined.
+The voltage drop across any particular resistor shall be called
+EX, where the subscript x is the value of a particular resistor
+(1, 2, 3, or 4). Using Ohm’s Law, the voltage drop across any
+C
+
+B
+R3
+
+A
+R2
+R1
+
+Figure 12-89. A voltage divider circuit.
+
+12-38
+
+===== PDF PAGE 480 =====
+IT
+
+explanation of this formula is that the voltage drop across
+any resistor or combination of resistors in a series circuit is
+equal to the ratio of the resistance value to the total resistance,
+divided by the value of the source voltage. Figure 12-95
+illustrates this with a network of three resistors and one
+voltage source.
+
+200v
+
+R3
+150v
+
+( )
+
+EX = RX ES
+RT
+RT = 100 Ω + 300 Ω + 600 Ω = 1,000 Ω
+ES = 10 V
+
+R2
+
+E
+
+90v
+
+R1
+
+Load
+
+Load
+
+Load
+
+I1
+
+I2
+
+I3
+
+IB
+
+IT
+
+Voltage drop over 100 Ω resistor is:
+100 Ω
+EX =
+100 V
+1,000 Ω
+E100Ω = 10 V
+
+(
+
+)
+
+Voltage drop over 300 Ω resistor is:
+300 Ω
+EX = 1,000 Ω 100 V
+E100 Ω = 30 V
+
+(
+
+Figure 12-90. A typical voltage divider.
+
+resistor can be determined.
+
+)
+
+Voltage drop over 600 Ω resistor is:
+600 Ω
+EX =
+100 V
+1,000 Ω
+E100Ω = 60 V
+
+(
+
+Ohm’s Law: EX = I (RX)
+As seen earlier in the handbook, the current is equal to the
+source voltage divided by the total resistance of the series
+circuit.
+E
+Current: I = RS
+T
+
+C
+
+)
+
+R3
++50 V
++
+
+R2
++30 V
+
+B
+
+−
+
++
+
+R1
+−20 V
+
+−
+
++
+
+A
+
+−
+
+The current equation can now be substituted into the
+equation for Ohm’s Law.
+
+( )(R )
+Algebraic rearrange: E = (R )(E )
+R
+Substitute: EX = ES
+RT
+
+X
+
+X
+
+X
+
+T
+
+100 V
+
+S
+
+This equation is the general voltage divider formula. The
+C
+
+50 V
+
+B
+
+R3=100 Ω
+
+30 V
+
+20 V
+
+R2=60 Ω
+
+R1=40 Ω
+
+A
+
+100 V
+
+Figure 12-91. Positive and negative voltage on a voltage divider.
+
+Figure 12-92. Current flow through a voltage divider.
+
+50 V
+
+C
+
+R3
+
+30 V
+R2
+
+B
+
+20 V
+
+A
+
+R1
+
+100 V
+
+Figure 12-93. Voltage divider with changed ground.
+
+12-39
+

@@ -1,0 +1,877 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 1 (Aircraft Engines), PDF pages 72-82
+
+===== PDF PAGE 72 =====
+Figure 1-69. Single-stage rotor turbine.
+
+Figure 1-68. Shrouded turbine blades.
+
+Figure 1-72.
+Exhaust Section
+The exhaust section of the gas turbine engine consists
+of several components. Although the components have
+individual purposes, they also have one common function:
+they must direct the flow of hot gases rearward in such a
+manner as to prevent turbulence and, at the same time, impart
+a high final or exit velocity to the gases. In performing the
+various functions, each of the components affects the flow
+of gases in different ways. The exhaust section is located
+directly behind the turbine section and ends when the gases
+are ejected at the rear in the form of high-velocity exhaust
+gases. The components of the exhaust section include the
+exhaust cone, tailpipe (if required), and the exhaust nozzle.
+The exhaust cone collects the exhaust gases discharged from
+the turbine section and gradually converts them into a solid
+flow of gases. In performing this, the velocity of the gases is
+decreased slightly and the pressure increased. This is due to
+the diverging passage between the outer duct and the inner
+cone; that is, the annular area between the two units increases
+rearward. The exhaust cone assembly consists of an outer
+shell or duct, an inner cone, three or four radial hollow struts
+or fins, and the necessary number of tie rods to aid the struts
+in supporting the inner cone from the outer duct.
+The outer shell or duct is usually made of stainless steel and
+is attached to the rear flange of the turbine case. This element
+collects the exhaust gases and delivers them directly to the
+exhaust nozzle. The duct must be constructed to include such
+features as a predetermined number of thermocouple bosses
+for installing exhaust temperature thermocouples, and there
+must also be insertion holes for the supporting tie rods. In
+some cases, tie rods are not used for supporting the inner
+cone. If such is the case, the hollow struts provide the sole
+support of the inner cone, the struts being spot-welded in
+position to the inside surface of the duct and to the inner cone,
+respectively. [Figure 1-73] The radial struts actually have a
+twofold function. They not only support the inner cone in the
+
+Figure 1-70. Multirotor turbine.
+
+Figure 1-71. Dual-rotor turbine for split-spool compressor.
+
+Figure 1-72. Turbine casing assembly.
+
+exhaust duct, but they also perform the important function of
+straightening the swirling exhaust gases that would otherwise
+leave the turbine at an angle of approximately 45°.
+The centrally located inner cone fits rather closely against
+the rear face of the turbine disc, preventing turbulence of the
+gases as they leave the turbine wheel. The cone is supported
+by the radial struts. In some configurations, a small hole is
+located in the exit tip of the cone. This hole allows cooling
+1-51
+
+===== PDF PAGE 73 =====
+air to be circulated from the aft end of the cone, where the
+pressure of the gases is relatively high, into the interior of the
+cone and consequently against the face of the turbine wheel.
+The flow of air is positive, since the air pressure at the turbine
+wheel is relatively low due to rotation of the wheel; thus, air
+circulation is assured. The gases used for cooling the turbine
+wheel return to the main path of flow by passing through the
+clearance between the turbine disc and the inner cone. The
+exhaust cone assembly is the terminating component of the
+basic engine. The remaining component (the exhaust nozzle)
+is usually considered an airframe component.
+The tailpipe is usually constructed so that it is semiflexible.
+On some tailpipes, a bellows arrangement is incorporated
+in its construction, allowing movement in installation,
+maintenance, and in thermal expansion. This eliminates stress
+and warping which would otherwise be present.
+The heat radiation from the exhaust cone and tailpipe could
+damage the airframe components surrounding these units.
+For this reason, some means of insulation had to be devised.
+There are several suitable methods of protecting the fuselage
+structure; two of the most common are insulation blankets
+and shrouds.
+The insulation blanket, illustrated in Figures 1-74 and 1-75,
+consists of several layers of aluminum foil, each separated by
+a layer of fiberglass or some other suitable material. Although
+these blankets protect the fuselage from heat radiation, they
+are used primarily to reduce heat loss from the exhaust system.
+The reduction of heat loss improves engine performance.
+Outer duct
+
+There are two types of exhaust nozzle designs: the converging
+design for subsonic gas velocities and the convergingdiverging design for supersonic gas velocities. These exhaust
+nozzle designs are discussed in greater detail in Chapter 3,
+Induction & Exhaust Systems.
+The exhaust nozzle opening may be of either fixed or variable
+area. The fixed-area type is the simpler of the two exhaust
+nozzles since there are no moving parts. The outlet area of the
+fixed exhaust nozzle is very critical to engine performance.
+If the nozzle area is too large, thrust is wasted; if the area is
+too small, the engine could choke or stall. A variable-area
+exhaust nozzle is used when an augmenter or afterburner is
+used due to the increased mass of flow when the afterburner is
+activated. It must increase its open area when the afterburner
+is selected. When the afterburner is off, the exhaust nozzle
+closes to a smaller area of opening.
+
+Gas Turbine Engine Bearings & Seals
+The main bearings have the critical function of supporting
+the main engine rotor. The number of bearings necessary
+for proper engine support is, for the most part, determined
+by the length and weight of the engine rotor. The length and
+weight are directly affected by the type of compressor used
+in the engine. Naturally, a two-spool compressor requires
+more bearing support. The minimum number of bearings
+required to support one shaft is one deep groove ball bearing
+(thrust and radial loads) and one straight roller bearing (radial
+load only). Sometimes, it is necessary to use more than one
+roller bearing if the shaft is subject to vibration or its length
+is excessive. The gas turbine rotors are supported by ball and
+roller bearings, which are antifriction bearings. [Figure 1-76]
+Many newer engines use hydraulic bearings, in which the
+outside race is surrounded by a thin film of oil. This reduces
+vibrations transmitted to the engine.
+In general, antifriction bearings are preferred largely because
+they:
+
+Insulation blanket
+
+Inner cone
+
+Struts
+
+Figure 1-73. Exhaust collector with welded support struts.
+
+Ram air
+
+Induction air
+
+Cooling air ejector
+
+Figure 1-74. Exhaust system insulation blanket.
+
+1-52
+
+===== PDF PAGE 74 =====
+Cooling air
+
+120 ° F
+
+Stainless steel shroud – 350 ° F
+Fiberglass
+Aluminum foil
+Fiberglass
+Silver foil
+Jet tailpipe 900 ° F
+
+Exhaust gas
+
+1000 ° F
+
+Figure 1-75. Insulation blanket with the temperatures obtained at the various locations shown.
+
+•
+
+Offer little rotational resistance,
+
+•
+
+Facilitate precision alignment of rotating elements,
+
+•
+
+Are relatively inexpensive,
+
+•
+
+Are easily replaced,
+
+•
+
+Withstand high momentary overloads,
+
+•
+
+Are simple to cool, lubricate, and maintain,
+
+•
+
+Accommodate both radial and axial loads, and
+
+•
+
+Are relatively resistant to elevated temperatures.
+
+The main disadvantages are their vulnerability to foreign
+matter and tendency to fail without appreciable warning.
+Usually the ball bearings are positioned on the compressor or
+turbine shaft so that they can absorb any axial (thrust) loads
+or radial loads. Because the roller bearings present a larger
+working surface, they are better equipped to support radial
+loads than thrust loads. Therefore, they are used primarily
+
+for this purpose. A typical ball or roller bearing assembly
+includes a bearing support housing, which must be strongly
+constructed and supported in order to carry the radial and
+axial loads of the rapidly rotating rotor. The bearing housing
+usually contains oil seals to prevent the oil leaking from its
+normal path of flow. It also delivers the oil to the bearing for
+its lubrication, usually through spray nozzles. The oil seals
+may be the labyrinth or thread (helical) type. These seals
+also may be pressurized to minimize oil leaking along the
+compressor shaft. The labyrinth seal is usually pressurized,
+but the helical seal depends solely on reverse threading to
+stop oil leakage. These two types of seals are very similar,
+differing only in thread size and the fact that the labyrinth
+seal is pressurized.
+Another type of oil seal used on some of the later engines is
+the carbon seal. These seals are usually spring loaded and
+are similar in material and application to the carbon brushes
+1-53
+
+===== PDF PAGE 75 =====
+Ball bearing
+
+Roller bearing
+
+Preformed sleeve bearing
+
+Slipper bearing
+
+Figure 1-76. Types of main bearings used for gas turbine rotor support.
+
+used in electrical motors. Carbon seals rest against a surface
+provided to create a sealed bearing cavity or void; thus, the
+oil is prevented from leaking out along the shaft into the
+compressor airflow or the turbine section. [Figure 1-77]
+The ball or roller bearing is fitted into the bearing housing and
+may have a self-aligning feature. If a bearing is self-aligning,
+it is usually seated in a spherical ring. This allows the shaft
+a certain amount of radial movement without transmitting
+stress to the bearing inner race.
+The bearing surface is usually provided by a machined journal
+on the appropriate shaft. The bearing is usually locked in
+position by a steel snap ring or other suitable locking device.
+The rotor shaft also provides the matching surface for the oil
+seals in the bearing housing. These machined surfaces are
+called lands and fit in rather close to the oil seal.
+
+Turboprop Engines
+The turbopropeller (turboprop) engine is a combination of
+a gas turbine engine, reduction gear box, and a propeller.
+[Figure 1-78] Turboprops are basically gas turbine engines
+that have a compressor, combustion chamber(s), turbine,
+and an exhaust nozzle (gas generator), all of which operate
+in the same manner as any other gas engine. However, the
+difference is that the turbine in the turboprop engine usually
+has extra stages to extract energy to drive the propeller. In
+
+addition to operating the compressor and accessories, the
+turboprop turbine transmits increased power forward through
+a shaft and a gear train to drive the propeller. The increased
+power is generated by the exhaust gases passing through
+additional stages of the turbine.
+Some engines use a multirotor turbine with coaxial shafts
+for independent driving of the compressor and propeller.
+Although there are three turbines utilized in this illustration,
+as many as five turbine stages have been used for driving the
+two rotor elements, propeller, and accessories.
+The exhaust gases also contribute to engine power output
+through thrust production, although the amount of energy
+available for thrust is considerably reduced. Two basic types
+of turboprop engine are in use: fixed turbine and free turbine.
+The fixed turbine has a mechanical connection from the gas
+generator (gas-turbine engine) to the reduction gear box
+and propeller. The free turbine has only an air link from gas
+generator to the power turbines. There is no mechanical link
+from the propeller to the gas turbine engine (gas generator).
+There are advantages and disadvantages of each system, with
+the airframe generally dictating the system used.
+Since the basic components of normal gas-turbine and
+turboprop engines differ slightly only in design features, it
+should be fairly simple to apply acquired knowledge of the
+1-54
+
+===== PDF PAGE 76 =====
+those sections unique to turboprop configurations.
+Spacers
+
+Seal housing
+
+3.
+
+The torquemeter assembly—transmits the torque from
+the engine to the gearbox of the reduction section.
+
+4.
+
+The accessory drive housing assembly—mounted
+on the bottom of the compressor air inlet housing.
+It includes the necessary gear trains for driving all
+power section driven accessories at their proper rpm
+in relation to engine rpm.
+
+Turboshaft Engines
+
+Bearing inner race
+
+Seals
+
+Figure 1-77. Carbon oil seal.
+
+basic gas turbine to the turboprop.
+The typical turboprop engine can be broken down into
+assemblies as follows:
+1.
+
+The power section assembly—contains the usual major
+components of a gas turbine engine (i.e., compressor,
+combustion chamber, turbine, and exhaust sections).
+
+2.
+
+The reduction gear or gearbox assembly—contains
+
+A gas-turbine engine that delivers power through a shaft to
+operate something other than a propeller is referred to as
+a turboshaft engine. [Figure 1-79] The output shaft may
+be coupled directly to the engine turbine, or the shaft may
+be driven by a turbine of its own (free turbine) located in
+the exhaust stream. As mentioned with the turboprop, the
+free turbine rotates independently. This principle is used
+extensively in current production of turboshaft engines. The
+turboshaft engine’s output is measured in horsepower instead
+of thrust because the power output is a turning shaft.
+
+Turbofan Engines
+The turbofan gas turbine engine is, in principle, the same as
+a turboprop, except that the propeller is replaced by a ductenclosed axial-flow fan. [Figure 1-80] The fan can be a part
+of the first-stage compressor blades or can be mounted as a
+separate set of fan blades. The blades are mounted forward
+of the compressor.
+The general principle of the fan engine is to convert more
+of the fuel energy into pressure. With more of the energy
+
+Figure 1-78. PT6 turboprop engine.
+
+1-55
+
+===== PDF PAGE 77 =====
+Figure 1-79. Turboshaft engine.
+
+converted to pressure, a greater product of pressure times
+area can be achieved. One of the major advantages is turbofan
+production of this additional thrust without increasing fuel
+flow. The end result is fuel economy with the consequent
+increase in range. Because more of the fuel energy is turned
+into pressure in the turbofan engine, additional stages must
+be added in the turbine section to provide the power to drive
+the fan. This means there is less energy left over and less
+thrust from the core exhaust gases. Also, in a mixed-exhaust
+nozzle (where fan air and core air mix in a common nozzle
+before entering ambient conditions) the exhaust nozzle must
+be larger in area. The result is that the fan develops most of
+the thrust. The thrust produced by the fan more than makes
+up for the decrease in thrust of the core (gas generator) of
+the engine. Depending on the fan design and bypass ratio,
+it produces 80 percent of the turbofan engine’s total thrust.
+Two different exhaust nozzle designs are used with turbofan
+engines. The air leaving the fan can be ducted overboard by
+a separate fan nozzle [Figure 1-43], or it can be ducted along
+the outer case of the basic engine to be discharged through
+the mixed nozzle (core and fan exhaust together). The fan air
+is either mixed with the exhaust gases before it is discharged
+(mixed or common nozzle), or it passes directly to the
+atmosphere without prior mixing (separate nozzle). Turbofans
+are the most widely used gas turbine engine for air transport
+aircraft. The turbofan is a compromise between the good
+
+operating efficiency and high thrust capability of a turboprop
+and the high speed, high altitude capability of a turbojet.
+
+Turbine Engine Operating Principles
+The principle used by a gas turbine engine as it provides
+force to move an airplane is based on Newton’s Third Law.
+This law states that for every action there is an equal and
+opposite reaction; therefore, if the engine accelerates a mass
+of air (action), it applies a force on the aircraft (reaction).
+The turbofan generates thrust by giving a relatively slower
+acceleration to a large quantity of air. The old pure turbojet
+engine achieves thrust by imparting greater acceleration to a
+smaller quantity of air. This was its main problem with fuel
+consumption and noise.
+The mass of air is accelerated within the engine by the use of
+a continuous-flow cycle. Ambient air enters the inlet diffuser
+where it is subjected to changes in temperature, pressure, and
+velocity due to ram effect. The compressor then increases
+pressure and temperature of the air mechanically. The air
+continues at constant pressure to the burner section where its
+temperature is increased by combustion of fuel. The energy
+is taken from the hot gas by expanding through a turbine
+which drives the compressor, and by expanding through an
+exhaust nozzle designed to discharge the exhaust gas at high
+velocity to produce thrust.
+
+1-56
+
+===== PDF PAGE 78 =====
+Figure 1-80. Turbofan engine.
+
+The high velocity gases from the engine may be considered
+continuous, imparting this force against the aircraft in which
+it is installed, thereby producing thrust. The formula for thrust
+can be derived from Newton’s second law, which states that
+force is proportional to the product of mass and acceleration.
+This law is expressed in the following formula:
+
+F=MxA
+where:
+F = force in pounds
+M = mass in pounds per second
+A = acceleration in feet per second
+In the above formula, mass is similar to weight, but it is
+actually a different quantity. Mass refers to the quantity
+of matter, while weight refers to the pull of gravity on that
+quantity of matter. At sea level under standard conditions,
+1 pound of mass has a weight of 1 pound. To calculate the
+acceleration of a given mass, the gravitational constant is
+used as a unit of comparison. The force of gravity is 32.2
+feet per second squared (ft/sec2). This means that a free
+falling 1 pound object accelerates at the rate of 32.2 feet per
+second each second that gravity acts on it. Since the object
+mass weighs 1 pound, which is also the actual force imparted
+to it by gravity, it can be assumed that a force of 1 pound
+accelerates a 1 pound object at the rate of 32.2 ft/sec2.
+
+Also, a force of 10 pound accelerates a mass of 10 pound at
+the rate of 32.2 ft/sec2. This is assuming there is no friction
+or other resistance to overcome. It is now apparent that the
+ratio of the force (in pounds) is to the mass (in pounds) as
+the acceleration in ft/sec2 is to 32.2. Using M to represent
+the mass in pounds, the formula may be expressed thus:
+
+F
+A or F = MA
+M = G
+G
+where:
+F = force
+M = mass
+A = acceleration
+G = gravity
+In any formula involving work, the time factor must be
+considered. It is convenient to have all time factors in
+equivalent units (i.e., seconds, minutes, or hours). In
+calculating jet thrust, the term “pounds of air per second” is
+convenient, since the second is the same unit of time used
+for the force of gravity.
+
+1-57
+
+===== PDF PAGE 79 =====
+Thrust
+Using the following formula, compute the force necessary to
+accelerate a mass of 50 pounds by 100 ft/sec2.
+
+F = MA
+G
+2
+F = 50 lb x 100 ft/sec
+2
+32.2 ft/sec
+2
+F = 5,000 lb-ft/sec
+32.2 ft/sec2
+F = 155 lb
+This illustrates that if the velocity mass per second is
+increased by 100, the resulting thrust is 155 pounds.
+Since the turbojet engine accelerates air, the following
+formula can be used to determine jet thrust:
+
+Ms (V2 - V1)
+G
+
+F=
+
+where:
+F = force in pounds
+Ms = mass flow in lb/sec
+V1 = inlet velocity
+V2 = jet velocity (exhaust)
+V2 - V1 = change in velocity; difference between
+inlet velocity and jet velocity
+G = acceleration of gravity or 32.2 ft/sec2
+As an example, to use the formula for changing the velocity
+of 100 pounds of mass airflow per second from 600 ft/sec to
+800 ft/sec, the formula can be applied as follows:
+
+F=
+
+100 lb/sec (800 ft/sec - 600 ft/sec)
+32.2 ft/sec2
+F=
+
+20,000 lb/sec
+32.2 ft/sec2
+
+F = 621 lb
+As shown by the formula, if the mass airflow per second and
+the difference in the velocity of the air from the intake to the
+exhaust are known, it is easy to compute the force necessary
+to produce the change in the velocity. Therefore, the thrust of
+the engine must be equal to the force required to accelerate
+the air mass through the engine. Then, by using the symbol
+“Fn” for thrust pounds, the formula becomes:
+
+Fn =
+
+Ms (V2 - V1)
+G
+
+Thrust of a gas turbine engine can be increased by two
+methods: increasing the mass flow of air through the engine
+or increasing the gas velocity. If the velocity of the turbojet
+engine remains constant with respect to the aircraft, the thrust
+decreases if the speed of the aircraft is increased. This is
+because V1 increases in value. This does not present a serious
+problem, however, because as the aircraft speed increases,
+more air enters the engine, and jet velocity increases. The
+resultant net thrust is almost constant with increased airspeed.
+The Brayton cycle is the name given to the thermodynamic
+cycle of a gas turbine engine to produce thrust. This is a
+variable volume constant-pressure cycle of events and is
+commonly called the constant-pressure cycle. A more recent
+term is “continuous combustion cycle.” The four continuous
+and constant events are intake, compression, expansion
+(includes power), and exhaust. These cycles are discussed
+as they apply to a gas-turbine engine. In the intake cycle, air
+enters at ambient pressure and a constant volume. It leaves
+the intake at an increased pressure and a decrease in volume.
+At the compressor section, air is received from the intake at
+an increased pressure, slightly above ambient, and a slight
+decrease in volume. Air enters the compressor where it is
+compressed. It leaves the compressor with a large increase in
+pressure and decrease in volume, created by the mechanical
+action of the compressor. The next step, expansion, takes
+place in the combustion chamber by burning fuel, which
+expands the air by heating it. The pressure remains relatively
+constant, but a marked increase in volume takes place. The
+expanding gases move rearward through the turbine assembly
+and are converted from velocity energy to mechanical energy
+by the turbine. The exhaust section, which is a convergent
+duct, converts the expanding volume and decreasing pressure
+of the gases to a final high velocity. The force created inside
+the engine to keep this cycle continuous has an equal and
+opposite reaction (thrust) to move the aircraft forward.
+Bernoulli’s principle (whenever a stream of any fluid has its
+velocity increased at a given point, the pressure of the stream
+at that point is less than the rest of the stream) is applied to
+gas turbine engines through the design of convergent and
+divergent air ducts. The convergent duct increases velocity
+and decreases pressure. The divergent duct decreases
+velocity and increases pressure. The convergent principle is
+usually used for the exhaust nozzle. The divergent principle
+is used in the compressor and diffuser where the air is
+slowing and pressurizing.
+
+1-58
+
+===== PDF PAGE 80 =====
+Rpm is a direct measure of compression ratio; therefore, at
+constant rpm, maximum thermal efficiency can be obtained
+by maintaining the highest possible exhaust temperature.
+Since engine life is greatly reduced at high turbine inlet
+temperatures, the operator should not exceed the exhaust
+temperatures specified for continuous operation. Figure 1-83
+illustrates the effect of turbine inlet temperature on turbine
+blade life. In the previous discussion, it was assumed that
+the state of the air at the inlet to the compressor remains
+constant. Since this is a practical application of a turbine
+engine, it becomes necessary to analyze the effect of varying
+inlet conditions on the thrust or power produced. The three
+principal variables that affect inlet conditions are the speed
+of the aircraft, the altitude of the aircraft, and the ambient
+temperature. To make the analysis simpler, the combination
+of these three variables can be represented by a single variable
+called stagnation density.
+The power produced by a turbine engine is proportional to
+the stagnation density at the inlet. The next three illustrations
+show how changing the density by varying altitude, airspeed,
+and outside air temperature affects the power level of the
+engine. Figure 1-84 shows that the thrust output improves
+rapidly with a reduction in outside air temperature (OAT) at
+constant altitude, rpm, and airspeed. This increase occurs
+partly because the energy required per pound of airflow to
+drive the compressor varies directly with the temperature,
+leaving more energy to develop thrust. In addition, the thrust
+output increases since the air at reduced temperature has an
+increased density. The increase in density causes the mass
+flow through the engine to increase. The altitude effect on
+thrust, as shown in Figure 1-85, can also be discussed as a
+density and temperature effect. In this case, an increase in
+altitude causes a decrease in pressure and temperature.
+
+Since the temperature lapse rate is lower than the pressure
+lapse rate as altitude is increased, the density is decreased.
+Although the decreased temperature increases thrust, the
+effect of decreased density more than offsets the effect of
+the colder temperature. The net result of increased altitude
+is a reduction in the thrust output.
+The effect of airspeed on the thrust of a gas-turbine engine
+is shown in Figure 1-86. To explain the airspeed effect, it
+is necessary to understand first the effect of airspeed on the
+factors that combine to produce net thrust: specific thrust
+and engine airflow. Specific thrust is the net thrust in pounds
+developed per pound of airflow per second. It is the remainder
+of specific gross thrust minus specific ram drag. As airspeed
+is increased, ram drag increases rapidly. The exhaust velocity
+remains relatively constant; thus, the effect of the increase in
+
+30
+Thermal efficiency (in percent)
+
+Thermal efficiency is a prime factor in gas turbine performance.
+It is the ratio of net work produced by the engine to the
+chemical energy supplied in the form of fuel. The three most
+important factors affecting the thermal efficiency are turbine
+inlet temperature, compression ratio, and the component
+efficiencies of the compressor and turbine. Other factors that
+affect thermal efficiency are compressor inlet temperature
+and combustion efficiency. Figure 1-81 shows the effect that
+changing compression ratio (compressor pressure ratio) has on
+thermal efficiency when compressor inlet temperature and the
+component efficiencies of the compressor and turbine remain
+constant. The effects that compressor and turbine component
+efficiencies have on thermal efficiency when turbine and
+compressor inlet temperatures remain constant are shown in
+Figure 1-82. In actual operation, the turbine engine exhaust
+temperature varies directly with turbine inlet temperature at
+a constant compression ratio.
+
+Temperature
+1000 °F 1200 °F
+
+25
+
+1400 °F 1600 °F
+
+20
+15
+10
+5
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Compression ratio
+Figure 1-81. The effect of compression ratio on thermal efficiency.
+
+30
+Thermal efficiency (in percent)
+
+Gas Turbine Engine Performance
+
+Efficiency of C&T
+90% 80% 85% 75%
+
+25
+20
+15
+10
+5
+0
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+Compression ratio
+Figure 1-82. Turbine and compressor efficiency vs. thermal
+
+efficiency.
+
+1-59
+
+===== PDF PAGE 81 =====
+Increase
+
+Net thrust
+
+Turbine inlet temperature
+
+Constant altitude, rpm, and airspeed
+
+0
+
+100
+
+200
+
+300
+
+400
+
+100%
+
+60%
+Dec
+
+500
+
+Turbine bucket life (in hours)
+
+airspeed results in decreased specific thrust. [Figure 1-86] In
+the low-speed range, the specific thrust decreases faster than
+the airflow increases and causes a decrease in net thrust. As the
+airspeed increases into the higher range, the airflow increases
+faster than the specific thrust decreases and causes the net
+thrust to increase until sonic velocity is reached. The effect
+of the combination on net thrust is illustrated in Figure 1-87.
+Ram Recovery
+A rise in pressure above existing outside atmospheric pressure
+at the engine inlet, as a result of the forward velocity of an
+aircraft, is referred to as ram pressure. Since any ram effect
+causes an increase in compressor entrance pressure over
+atmospheric, the resulting pressure rise causes an increase
+in the mass airflow and gas velocity, both of which tend to
+increase thrust. Although ram effect increases engine thrust,
+the thrust being produced by the engine decreases for a given
+throttle setting as the aircraft gains airspeed. Therefore, two
+opposing trends occur when an aircraft’s speed is increased.
+What actually takes place is the net result of these two
+different effects.
+An engine’s thrust output temporarily decreases as aircraft
+speed increases from static, but soon ceases to decrease.
+Moving toward higher speeds, thrust output begins to increase
+again due to the increased pressure of ram recovery.
+
+Figure 1-84. Effect of OAT on thrust output.
+100
+Constant airspeed and rpm
+
+Thrust—percent sea level rated
+
+life.
+
+INC
+
+Outside air temperature (OAT)
+
+50
+
+0
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Altitude—thousand of ft
+Figure 1-85. Effect of altitude on thrust output.
+100
+Constant rpm, altitude, and OAT
+
+Net thrust
+
+Figure 1-83. Effect of turbine inlet temperature on turbine bucket
+
+STD
+
+With ram
+
+50
+
+Wit
+
+hou
+
+t ra
+
+m
+
+0
+0
+
+Increase
+TAS
+
+Figure 1-86. Effect of airspeed on net thrust.
+
+1-60
+
+===== PDF PAGE 82 =====
+Airflow (in lb/sec)
+
+Constant rpm, altitude, and OAT
+(w
+
+)
+
+a
+
+l
+
+irf
+
+la
+
+a
+ot
+
+ow
+
+T
+
+Sp
+
+ec
+
+0
+
+ifi
+
+c
+
+th
+
+ru
+
+st
+
+Increase
+TAS
+
+Figure 1-87. Effect of airspeed on specific thrust and total engine
+
+airflow.
+
+1-61
+

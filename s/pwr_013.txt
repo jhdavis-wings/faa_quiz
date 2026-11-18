@@ -1,0 +1,1657 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 4 (Engine Ignition & Electrical Systems), PDF pages 160-177
+
+===== PDF PAGE 160 =====
+Chapter 4
+
+Engine Ignition & Electrical Systems
+Reciprocating Engine Ignition Systems
+The basic requirements for reciprocating engine ignition
+systems are similar, regardless of the type of engine. All
+ignition systems must deliver a high-tension spark across the
+electrodes of each spark plug in each cylinder of the engine
+in the correct firing order. At a predetermined number of
+degrees ahead of the top dead center position of the piston,
+as measured by crankshaft travel in degrees of rotation, the
+spark occurs in the cylinder. The potential output voltage of
+the system must be adequate to arc the gap in the spark plug
+electrodes under all operating conditions. The spark plug is
+threaded into the cylinder head with the electrodes exposed
+to the combustion area of the engine’s cylinder.
+Ignition systems can be divided into two classifications:
+magneto-ignition systems or electronic Full Authority Digital
+Engine Control (FADEC) systems for reciprocating engines.
+Ignition systems can also be subclassified as either single or
+dual magneto-ignition systems. The single magneto-ignition
+system, usually consisting of one magneto and the necessary
+wiring, was used with another single magneto on the same
+engine. Dual magnetos generally use one rotating magnet
+that feeds two complete magnetos in one magneto housing.
+An example of each type is shown in Figure 4-1.
+Aircraft magneto-ignition systems can be classified as either
+high-tension or low-tension. The low-tension magneto
+system, covered in a later section of this chapter, generates a
+low-voltage that is distributed to a transformer coil near each
+spark plug. This system eliminates some problems inherent in
+the high-tension system that was containing the high-voltage
+until it passed through the spark plug. The materials that were
+used for ignition leads could not withstand the high-voltage
+
+and were prone to leak to ground before the spark would get
+to the cylinder. As new materials evolved and shielding was
+developed, the problems with high-tension magnetos were
+overcome. The high-tension magneto system is still the most
+widely used aircraft ignition system.
+Some very old antique aircraft used a battery-ignition system.
+In this system, the source of energy is a battery or generator,
+rather than a magneto. This system was similar to that used in
+most automobiles at the time. Figure 4-2 shows a simplified
+schematic of a battery-ignition system.
+
+Magneto-Ignition System Operating
+Principles
+The magneto, a special type of engine-driven alternating
+current (AC) generator, uses a permanent magnet as a source
+of energy. By the use of a permanent magnet (basic magnetic
+field), coil of wire (concentrated lengths of conductor), and
+relative movement of the magnetic field, current is generated
+in the wire. At first, the magneto generates electrical power
+by the engine rotating the permanent magnet and inducing
+a current to flow in the coil windings. As current flows
+through the coil windings, it generates its own magnetic
+field that surrounds the coil windings. At the correct time,
+this current flow is stopped and the magnetic field collapses
+across a second set of windings in the coil and a high-voltage
+is generated. This is the voltage used to arc across the spark
+plug gap. In both cases, the three basic things needed to
+generate electrical power are present to develop the highvoltage that forces a spark to jump across the spark plug gap
+
+Ignition coil
+Distributor
+
+P
+
+S
+
+Mechanical linkage
+
+tery
+
+Bat
+
+Cam
+Condenser
+
+Figure 4-1. Single and dual magnetos.
+
+Breaker
+contact
+points
+
+Cylinder
+& piston
+
+Figure 4-2. Battery-ignition system.
+
+4-1
+
+===== PDF PAGE 161 =====
+in each cylinder. Magneto operation is timed to the engine
+so that a spark occurs only when the piston is on the proper
+stroke at a specified number of crankshaft degrees before the
+top dead center piston position.
+
+As the magnet moves farther from the full register position,
+more lines of flux are short circuited through the pole shoe
+ends. Finally, at the neutral position 45° from the full register
+position, all flux lines are short circuited, and no flux flows
+through the coil core. [Figure 4-3B] As the magnet moves
+from full register to the neutral position, the number of flux
+lines through the coil core decreases in the same manner
+as the gradual collapse of flux in the magnetic field of an
+ordinary electromagnet.
+
+High-Tension Magneto System Theory of Operation
+The high-tension magneto system can be divided, for
+purposes of discussion, into three distinct circuits: magnetic,
+primary electrical, and secondary electrical circuits.
+
+The neutral position of the magnet is where one of the poles
+of the magnet is centered between the pole shoes of the
+magnetic circuit. As the magnet is moved clockwise from
+this position, the lines of flux that had been short circuited
+through the pole shoe ends begin to flow through the coil
+core again. But this time, the flux lines flow through the coil
+core in the opposite direction. [Figure 4-3C] The flux flow
+reverses as the magnet moves out of the neutral position
+because the north pole of the rotating permanent magnet is
+opposite the right pole shoe instead of the left. [Figure 4-3A]
+
+Magnetic Circuit
+The magnetic circuit consists of a permanent multi-pole
+rotating magnet, a soft iron core, and pole shoes. [Figure 4-3]
+The magnet is geared to the aircraft engine and rotates in the
+gap between two pole shoes to furnish the magnetic lines of
+force (flux) necessary to produce an electrical voltage. The
+poles of the magnet are arranged in alternate polarity so that
+the flux can pass out of the north pole through the coil core
+and back to the south pole of the magnet. When the magnet is
+in the position shown in Figure 4-3A, the number of magnetic
+lines of force through the coil core is maximum because two
+magnetically opposite poles are perfectly aligned with the
+pole shoes.
+
+When the magnet is again moved a total of 90°, another full
+register position is reached with a maximum flux flow in
+the opposite direction. The 90° of magnet travel is shown in
+Figure 4-4, where a curve shows how the flux density in the
+coil core, without a primary coil around the core, changes
+as the magnet is rotated.
+
+This position of the rotating magnet is called the full register
+position and produces a maximum number of magnetic lines
+of force, flux flow clockwise through the magnetic circuit
+and from left to right through the coil core. When the magnet
+is moved away from the full register position, the amount of
+flux passing through the coil core begins to decrease. This
+occurs because the magnet’s poles are moving away from
+the pole shoes, allowing some lines of flux to take a shorter
+path through the ends of the pole shoes.
+A
+
+B
+
+Flux to right
+
+Figure 4-4 shows that as the magnet moves from the full
+register position 0°, flux flow decreases and reaches a zero
+value as it moves into the neutral position 45°. While the
+magnet moves through the neutral position, flux flow reverses
+and begins to increase as indicated by the curve below the
+C
+
+No flux
+
+Flux to left
+
+Coil core
+
+N
+
+N
+
+S
+
+Pole shoe
+
+S
+S
+
+N
+0°
+
+S
+
+N
+
+N
+
+S
+
+S
+N
+45°
+
+90°
+
+Figure 4-3. Magnetic flux at three positions of the rotating magnet.
+
+4-2
+
+===== PDF PAGE 162 =====
+Flux density
+
+Neutral
+
+45°
+
+90°
+
+0°
+
+315°
+135°
+
+360°
+
+225°
+
+Full register
+
+Figure 4-4. Change in flux density as magnet rotates.
+
+horizontal line. At the 90° position, another position of
+maximum flux is reached. Thus, for one revolution 360° of
+the four pole magnet, there are four positions of maximum
+flux, four positions of zero flux, and four flux reversals.
+This discussion of the magnetic circuit demonstrates how the
+coil core is affected by the rotating magnet. It is subjected to
+an increasing and decreasing magnetic field and a change in
+polarity each 90° of magnet travel.
+When a coil of wire as part of the magneto’s primary electrical
+circuit is wound around the coil core, it is also affected by
+the varying magnetic field.
+
+Primary Electrical Circuit
+The primary electrical circuit consists of a set of breaker
+contact points, a condenser, and an insulated coil. [Figure 4-5]
+The coil is made up of a few turns of heavy copper wire,
+one end is grounded to the coil core and the other end to
+the ungrounded side of the breaker points. [Figure 4-5] The
+primary circuit is complete only when the ungrounded
+breaker point contacts the grounded breaker point. The
+third unit in the circuit, the condenser (capacitor), is wired
+in parallel with the breaker points. The condenser prevents
+arcing at the points when the circuit is opened and hastens
+the collapse of the magnetic field about the primary coil.
+
+Primary coil
+
+Condenser
+Breaker contact points
+
+Figure 4-5. Primary electrical circuit of a high-tension magneto.
+
+The primary breaker closes at approximately full register
+position. When the breaker points are closed, the primary
+electrical circuit is completed and the rotating magnet
+induces current flow in the primary circuit. This current
+flow generates its own magnetic field, which is in such a
+direction that it opposes any change in the magnetic flux of
+the permanent magnet’s circuit.
+While the induced current is flowing in the primary circuit,
+it opposes any decrease in the magnetic flux in the core. This
+is in accordance with Lenz’s Law that states: “An induced
+current always flows in such a direction that its magnetism
+opposes the motion or the change that induced it.” (For a
+review of Lenz’s Law, refer to the Aviation Maintenance
+Technician—General Handbook, FAA-H-8083-30). Thus,
+the current flowing in the primary circuit holds the flux in
+the core at a high value in one direction until the rotating
+magnet has time to rotate through the neutral position to a
+point a few degrees beyond neutral. This position is called
+the E-gap position (E stands for efficiency).
+There are three basic events required to fire a spark plug
+when its piston is in the prescribed position:
+1.
+
+the magneto must be in the E-gap position,
+
+2.
+
+the breaker contact points must be open, and
+
+3.
+
+the distributor must be aligned correctly.
+
+With the magnetic rotor in E-gap position and the primary
+coil holding the magnetic field of the magnetic circuit in
+the opposite polarity, a very high rate of flux change can be
+obtained by opening the primary breaker points. Opening
+the breaker points stops the flow of current in the primary
+circuit and allows the magnetic rotor to quickly reverse the
+field through the coil core. This sudden flux reversal produces
+a high rate of flux change in the core, that cuts across the
+secondary coil of the magneto (wound over and insulated
+from the primary coil), inducing the pulse of high-voltage
+electricity in the secondary needed to fire a spark plug. As
+the rotor continues to rotate to approximately full register
+position, the primary breaker points close again and the
+cycle is repeated to fire the next spark plug in firing order.
+The sequence of events can now be reviewed in greater detail
+to explain how the state of extreme magnetic stress occurs.
+With the breaker points, cam, and condenser connected in
+the circuit as shown in Figure 4-6, the action that takes place
+as the magnetic rotor turns is depicted by the graph curve
+in Figure 4-7. At the top (A) of Figure 4-7, the original
+static flux curve of the magnets is shown. Shown below the
+static flux curve is the sequence of opening and closing the
+magneto breaker points. Note that opening and closing the
+breaker points is timed by the breaker cam. The points close
+4-3
+
+===== PDF PAGE 163 =====
+when a maximum amount of flux is passing through the coil
+core and open at a position after neutral. Since there are four
+lobes on this particular cam (there are some magnetos with
+cams that have only two lobes), the breaker points close and
+open in the same relation to each of the four neutral positions
+of the rotor magnet. Also, the point opening and point closing
+intervals are approximately equal.
+
+Coil (about 180 turns no. 18 wire)
+
+Coil core
+Pole shoe
+
+Starting at the maximum flux position marked 0° at the
+top of Figure 4-7, the sequence of events in the following
+paragraphs occurs.
+As the magnet rotor is turned toward the neutral position,
+the amount of flux through the core starts to decrease.
+[Figure 4-7D] This change in flux linkages induces a current
+in the primary winding. [Figure 4-7C] This induced current
+creates a magnetic field of its own that opposes the change of
+flux linkages inducing the current. Without current flowing in
+the primary coil, the flux in the coil core decreases to zero as
+the magnet rotor turns to neutral and starts to increase in the
+opposite direction (dotted static flux curve in Figure 4-7D).
+But, the electromagnetic action of the primary current
+prevents the flux from changing and temporarily holds the
+field instead of allowing it to change (resultant flux line in
+Figure 4-7D).
+
+Magnet
+Contact breaker
+Breaker cam
+Condenser
+Figure 4-6. Components of a high-tension magneto circuit.
+
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+A Static flux curve
+Neutral
+
+Neutral
+
+Neutral
+
+B Breaker timing point
+opening before neutral
+closing interval point
+closing E-gap
+
+OPEN
+
+CLOSED
+
+Neutral
+
+OPEN
+
+CLOSED
+
+OPEN
+
+CLOSED
+
+OPEN
+
+CLOSED
+
+OPEN
+
+CLOSED
+
+C Primary current
+
+D Resultant flux
+Flux density
+
+Resultant flux
+
+Static flux
+
+Figure 4-7. Magneto flux curves.
+
+4-4
+
+===== PDF PAGE 164 =====
+flow is accomplished through a pair of breaker contact points
+made of an alloy that resists pitting and burning.
+Most breaker points used in aircraft ignition systems are
+of the pivotless type in which one of the breaker points is
+movable and the other stationary. [Figure 4-8] The movable
+breaker point attached to the leaf spring is insulated from
+the magneto housing and is connected to the primary coil.
+[Figure 4-8] The stationary breaker point is grounded to the
+magneto housing to complete the primary circuit when the
+points are closed and can be adjusted so that the points can
+open at the proper time.
+
+Figure 4-8. Pivotless type breaker assembly and cam.
+
+As a result of the holding process, there is a very high stress in
+the magnetic circuit by the time the magnet rotor has reached
+the position where the breaker points are about to open. The
+breaker points, when opened, function with the condenser to
+interrupt the flow of current in the primary coil, causing an
+extremely rapid change in flux linkages. The high-voltage in
+the secondary winding discharges across the gap in the spark
+plug to ignite the air-fuel mixture in the engine cylinder. Each
+spark actually consists of one peak discharge, after which a
+series of small oscillations takes place.
+They continue to occur until the voltage becomes too low
+to maintain the discharge. Current flows in the secondary
+winding during the time that it takes for the spark to
+completely discharge. The energy or stress in the magnetic
+circuit is completely dissipated by the time the contacts close
+for the production of the next spark. Breaker assemblies, used
+in high-tension magneto-ignition systems, automatically open
+and close the primary circuit at the proper time in relation
+to piston position in the cylinder to which an ignition spark
+is being furnished. The interruption of the primary current
+Two-lobe cam
+
+Four-lobe cam
+
+Another part of the breaker assembly is the cam follower,
+which is spring-loaded against the cam by the metal leaf
+spring. The cam follower is a Micarta block or similar material
+that rides the cam and moves upward to force the movable
+breaker contact away from the stationary breaker contact
+each time a lobe of the cam passes beneath the follower. A
+felt oiler pad is located on the underside of the metal spring
+leaf to lubricate and prevent corrosion of the cam.
+The breaker-actuating cam may be directly driven by the
+magneto rotor shaft or through a gear train from the rotor
+shaft. Most large radial engines use a compensated cam that
+is designed to operate with a specific engine and has one lobe
+for each cylinder to be fired by the magneto. The cam lobes
+are machine ground at unequal intervals to compensate for
+the elliptical path of the articulated connecting rods. This
+path causes the pistons top dead center position to vary
+from cylinder to cylinder with regard to crankshaft rotation.
+A compensated 14-lobe cam, together with a two-, four-,
+and eight-lobe uncompensated cam, is shown in Figure 4-9.
+The unequal spacing of the compensated cam lobes, although
+it provides the same relative piston position for ignition
+to occur, causes a slight variation of the E-gap position of
+the rotating magnet and thus a slight variation in the highvoltage impulses generated by the magneto. Since the spacing
+between each lobe is tailored to a particular cylinder of a
+particular engine, compensated cams are marked to show
+Eight-lobe cam
+
+Compensated 14-lobe cam
+
+Figure 4-9. Typical breaker assemblies.
+
+4-5
+
+===== PDF PAGE 165 =====
+the series of the engine, the location of the master rods, the
+lobe used for magneto timing, the direction of cam rotation,
+and the E-gap specification in degrees past neutral of magnet
+rotation. In addition to these markings, a step is cut across
+the face of the cam, that, when aligned with scribed marks
+on the magneto housing, places the rotating magnet in the
+E-gap position for the timing cylinder. Since the breaker
+points should begin to open when the rotating magnet moves
+into the E-gap position, alignment of the step on the cam with
+marks in the housing provides a quick and easy method of
+establishing the exact E-gap position to check and adjust the
+breaker points.
+
+Secondary Electrical Circuit
+The secondary circuit contains the secondary windings of the
+coil, distributor rotor, distributor cap, ignition lead, and spark
+plug. The secondary coil is made up of a winding containing
+approximately 13,000 turns of fine, insulated wire; one end
+of which is electrically grounded to the primary coil or to
+the coil core and the other end connected to the distributor
+rotor. The primary and secondary coils are encased in a nonconducting material. The whole assembly is then fastened to
+the pole shoes with screws and clamps.
+
+breaker points open enters the rotor where it arcs a small air
+gap to the No. 1 electrode in the block.
+Since the distributor rotates at one-half crankshaft speed
+on all four-stroke cycle engines, the distributor block has
+as many electrodes as there are engine cylinders, or as
+many electrodes as cylinders served by the magneto. The
+electrodes are located circumferentially around the distributor
+block so that, as the rotor turns, a circuit is completed to a
+different cylinder and spark plug each time there is alignment
+between the rotor finger and an electrode in the distributor
+block. The electrodes of the distributor block are numbered
+consecutively in the direction of distributor rotor travel.
+[Figure 4-10]
+The distributor numbers represent the magneto sparking
+order rather than the engine cylinder numbers. The distributor
+electrode marked “1” is connected to the spark plug in the
+No. 1 cylinder; distributor electrode marked “2” to the second
+
+When the primary circuit is closed, the current flow through
+the primary coil produces magnetic lines of force that cut
+across the secondary windings, inducing an electromotive
+force. When the primary circuit current flow is stopped, the
+magnetic field surrounding the primary windings collapses,
+causing the secondary windings to be cut by the lines of
+force. The strength of the voltage induced in the secondary
+windings, when all other factors are constant, is determined
+by the number of turns of wire. Since most high-tension
+magnetos have many thousands of turns of wire in the
+secondary coil windings, a very high-voltage, often as high
+as 20,000 volts, is generated in the secondary circuit. The
+high-voltage induced in the secondary coil is directed to
+the distributor, which consists of two parts: revolving and
+stationary. The revolving part is called a distributor rotor and
+the stationary part is called a distributor block. The rotating
+part, which may take the shape of a disc, drum, or finger,
+is made of a non-conducting material with an embedded
+conductor. The stationary part consists of a block also made of
+non-conducting material that contains terminals and terminal
+receptacles into which the ignition lead wiring that connects
+the distributor to the spark plug is attached. This high-voltage
+is used to jump the air gap of electrodes of the spark plug in
+the cylinder to ignite the air-fuel mixture.
+As the magnet moves into the E-gap position for the No.
+1 cylinder and the breaker points just separate or open, the
+distributor rotor aligns itself with the No. 1 electrode in the
+distributor block. The secondary voltage induced as the
+
+1
+
+9
+8
+
+2
+3
+
+Engine
+
+7
+
+4
+5
+
+6
+
+Distributor
+
+1
+
+9
+
+2
+3
+
+8
+7
+
+4
+6
+
+5
+
+Coil
+Figure 4-10. Relation between distributor terminal numbers and
+
+cylinder numbers.
+
+4-6
+
+===== PDF PAGE 166 =====
+cylinder to be fired; distributor electrode marked “3” to the
+third cylinder to be fired, and so forth.
+In Figure 4-10, the distributor rotor finger is aligned with
+the distributor electrode marked “3,” which fires the No. 5
+cylinder of a nine-cylinder radial engine. Since the firing
+order of a nine-cylinder radial engine is 1-3-5-7-9-2-4-6-8,
+the third electrode in the magneto sparking order serves the
+No. 5 cylinder.
+Magneto & Distributor Venting
+Since magneto and distributor assemblies are subjected to
+sudden changes in temperature, the problems of condensation
+and moisture are considered in the design of these units.
+Moisture in any form is a good conductor of electricity. If
+absorbed by the nonconducting material in the magneto, such
+as distributor blocks, distributor fingers, and coil cases, it can
+create a stray electrical conducting path. The high-voltage
+current that normally arcs across the air gaps of the distributor
+can flash across a wet insulating surface to ground, or the
+high-voltage current can be misdirected to some spark plug
+other than the one that should be fired. This condition is called
+flashover and usually results in cylinder misfiring. This can
+cause a serious engine condition called pre-ignition, which
+can damage the engine. For this reason, coils, condensers,
+distributors, and distributor rotors are waxed so that moisture
+on such units stand in separate beads and do not form a
+complete circuit for flashover.
+Flashover can lead to carbon tracking, which appears as a fine
+pencil-like line on the unit across which flashover occurs.
+The carbon trail results from the electric spark burning dirt
+particles that contain hydrocarbon materials. The water in the
+hydrocarbon material is evaporated during flashover, leaving
+carbon to form a conducting path for current. When moisture
+is no longer present, the spark continues to follow the carbon
+track to the ground. This prevents the spark from getting to
+the spark plug, so the cylinder does not fire.
+Magnetos cannot be hermetically sealed to prevent moisture
+from entering a unit, because the magneto is subject to
+pressure and temperature changes in altitude. Thus, adequate
+drains and proper ventilation reduce the tendency of flashover
+and carbon tracking. Good magneto circulation also ensures
+that corrosive gases produced by normal arcing across the
+distributor air gap, such as ozone, are carried away. In some
+installations, pressurization of the internal components of
+the magnetos and other various parts of the ignition system
+is essential to maintain a higher absolute pressure inside the
+magneto and to eliminate flashover due to high altitude flight.
+This type of magneto is used with turbocharged engines
+that operate at higher altitudes. Flashover becomes more
+likely at high altitudes because of the lower air pressure,
+
+which makes it easier for the electricity to jump air gaps.
+By pressurizing the interior of the magneto, the normal air
+pressure is maintained and the electricity or the spark is
+held within the proper areas of the magneto even though the
+ambient pressure is very low.
+Even in a pressurized magneto, the air is allowed to flow
+through and out of the magneto housing. By providing
+more air and allowing small amounts of air to bleed out for
+ventilation, the magneto remains pressurized. Regardless of
+the method of venting employed, the vent bleeds or valves
+must be kept free of obstructions. Further, the air circulating
+through the components of the ignition system must be free of
+oil since even minute amounts of oil on ignition parts result
+in flashover and carbon tracking.
+Ignition Harness
+The ignition lead directs the electrical energy from the
+magneto to the spark plug. The ignition harness contains an
+insulated wire for each cylinder that the magneto serves in the
+engine. [Figure 4-11] One end of each wire is connected to
+the magneto distributor block and the other end is connected
+to the proper spark plug. The ignition harness leads serve a
+dual purpose. It provides the conductor path for the hightension voltage to the spark plug. It also serves as a shield
+for stray magnetic fields that surround the wires as they
+momentarily carry high-voltage current. By conducting these
+magnetic lines of force to the ground, the ignition harness
+cuts down electrical interference with the aircraft radio and
+other electrically sensitive equipment.
+A magneto is a high frequency radiation emanating (radio
+wave) device during its operation. The wave oscillations
+produced in the magneto are uncontrolled and cover a wide
+range of frequencies and must be shielded. If the magneto and
+ignition leads were not shielded, they would form antennas
+and pick up the random frequencies from the ignition system.
+
+Figure 4-11. A high-tension ignition harness.
+
+4-7
+
+===== PDF PAGE 167 =====
+The lead shielding is a metal mesh braid that surrounds the
+entire length of the lead. The lead shielding prevents the
+radiation of the energy into the surrounding area.
+Capacitance is the ability to store an electrostatic charge
+between two conducting plates separated by a dielectric. Lead
+insulation is called a dielectric, meaning it can store electrical
+energy as an electrostatic charge. An example of electrostatic
+energy storage in a dielectric is the static electricity stored
+in a plastic hair comb. When shielding is placed around the
+ignition lead, capacitance increases by bringing the two
+plates closer together. Electrically, the ignition lead acts as
+a capacitor and has the ability to absorb and store electrical
+energy. The magneto must produce enough energy to charge
+the capacitance caused by the ignition lead and have enough
+energy left over to fire the plug.
+Ignition lead capacitance increases the electrical energy
+required to provide a spark across the plug gap. More magneto
+primary current is needed to fire the plug with the shielded
+lead. This capacitance energy is discharged as fire across the
+plug gap after each firing of the plug. Reversing the polarity
+during servicing by rotating the plugs to new locations, the
+plug wear is equalized across the electrodes. The very center
+of the ignition lead is the high-voltage carrier surrounded by
+a silicone insulator material that is surrounded by a metal
+mesh, or shielding, covered with a thin silicone rubber coating
+that prevents damage by engine heat, vibration, or weather.
+A sectional view of the typical ignition lead is shown in
+Figure 4-12. Ignition leads must be routed and clamped
+correctly to avoid hot spots on the exhaust and vibration
+points as the leads are routed from the magneto to the
+individual cylinders. Ignition leads are normally of the
+all-weather type and are hard connected at the magneto
+distributor and affixed to the spark plug by threads. The
+shielded ignition lead spark plug terminal is available in allweather ¾ inch diameter and 5⁄8 inch diameter barrel ignition
+lead nut. [Figure 4-13] The 5⁄8 – 24 plug takes a ¾ wrench
+on the lead nut and the ¾ – 20 plug takes a 7⁄8 wrench on the
+lead nut. The ¾ inch all-weather design utilizes a terminal
+seal that results in greater terminal well insulation. This
+
+Blue coating
+
+Figure 4-13. Ignition lead spark plug end.
+
+is recommended because the lead end of the spark plug is
+completely sealed from moisture.
+An older radial engine type of ignition harness is a manifold
+formed to fit around the crankcase of the engine with flexible
+extensions terminating at each spark plug. A typical hightension ignition harness is shown in Figure 4-14. Many older
+single-row radial engine aircraft ignition systems employ a
+dual-magneto system, in which the right magneto supplies
+the electric spark for the front plugs in each cylinder, and the
+left magneto fires the rear plugs.
+Ignition Switches
+All units in an aircraft ignition system are controlled by
+an ignition switch. The type of switch used varies with the
+number of engines on the aircraft and the type of magnetos
+used. All switches, however, turn the system off and on in
+much the same manner. The ignition switch is different in at
+least one respect from all other types of switches: when the
+ignition switch is in the off position, a circuit is completed
+through the switch to ground. In other electrical switches, the
+off position normally breaks or opens the circuit.
+
+Sheiding
+Insulator
+
+Conductor
+
+Figure 4-12. Ignition lead.
+
+4-8
+
+===== PDF PAGE 168 =====
+Left magneto
+
+Ignition switch
+
+Right magneto
+
+Coil
+
+Off
+Condenser
+Switch
+
+Booster
+
+Figure 4-14. Accessory-mounted nine cylinder engine ignition
+
+harness.
+
+Figure 4-15. Typical ignition switch in off position.
+
+The ignition switch has one terminal connected to the primary
+electrical circuit between the coil and the breaker contact
+points. The other terminal of the switch is connected to the
+aircraft ground structure. As shown in Figure 4-15, two ways
+to complete the primary circuit are:
+1.
+
+Through the closed breaker points to ground and
+
+2.
+
+Through the closed ignition switch to ground.
+
+Figure 4-15 shows that the primary current is not interrupted
+when the breaker contacts open since there is still a path to
+ground through the closed, or off, ignition switch. Since
+primary current is not stopped when the contact points open,
+there can be no sudden collapse of the primary coil flux field
+and no high-voltage induced in the secondary coil to fire the
+spark plug.
+As the magnet rotates past the electrical gap (E-gap) position,
+a gradual breakdown of the primary flux field occurs. But that
+breakdown occurs so slowly that the induced voltage is too
+low to fire the spark plug. Thus, when the ignition switch is
+in the off position with the switch closed, the contact points
+are as completely short-circuited as if they were removed
+from the circuit, and the magneto is inoperative.
+When the ignition switch is placed in the on position, switch
+open, the interruption of primary current and the rapid
+collapse of the primary coil flux field is once again controlled
+or triggered by the opening of the breaker contact points.
+[Figure 4-16] When the ignition switch is in the on position,
+the switch has absolutely no effect on the primary circuit.
+
+Coil
+
+Ignition switch
+
+On
+
+Condenser
+
+Figure 4-16. Typical ignition switch in on position.
+
+The ignition/starter switch, or magneto switch, controls the
+magnetos on or off and can also connect the starter solenoid
+for turning the starter. When a starting vibrator, a box that
+emits pulsating direct current (DC), is used on the engine,
+the ignition/starter switch is used to control the vibrator
+and retard points. This system is explained in detail later in
+this chapter. Some ignition starter switches have a push to
+prime feature during the starting cycle. This system allows
+additional fuel to spray into the intake port of the cylinder
+during the starting cycle.
+
+4-9
+
+===== PDF PAGE 169 =====
+Single & Dual High-Tension System Magnetos
+High-tension system magnetos used on aircraft engines are
+either single or dual type magnetos. The single magneto
+design incorporates the distributor in the housing with
+the magneto breaker assembly, rotating magnet, and coil.
+[Figure 4-17] The dual magneto incorporates two magnetos
+contained in a single housing. One rotating magnet and a
+cam are common to two sets of breaker points and coils.
+Two separate distributor units are mounted in the magneto.
+[Figure 4-18]
+Magneto Mounting Systems
+Flange-mounted magnetos are attached to the engine by
+a flange around the driven end of the rotating shaft of the
+magneto. [Figure 4-19] Elongated slots in the mounting
+flange permit adjustment through a limited range to aid in
+timing the magneto to the engine. Some magnetos mount by
+the flange and use clamps on each side to secure the magneto
+to the engine. This design also allows for timing adjustments.
+Base mounted magnetos are only used on very old or antique
+aircraft engines.
+
+Figure 4-18. A dual magneto with two distributors.
+
+High output coil
+
+Impulse coupling
+
+Distributor gear
+
+Magnet
+Distributor block
+Pinion gear
+Ball bearing
+
+Capacitor
+Cam
+
+Figure 4-17. Magneto cutaway.
+
+4-10
+
+===== PDF PAGE 170 =====
+Mounting flange
+
+Electronically, the low-tension system is different from the
+high-tension system. In the low-tension system, low-voltage
+is generated in the magneto and flows to the primary winding
+of a transformer coil located near the spark plug. There,
+the voltage is increased to high by transformer action and
+conducted to the spark plug by very short high-tension leads.
+[Figure 4-20]
+
+lot
+
+nt s
+
+me
+ust
+
+j
+
+Ad
+
+ignition wires enclosed in shielding to prevent radio noise
+due to high-voltages. Many aircraft were turbosupercharged
+and operated at increased high altitudes. The low pressure at
+these altitudes would allow the high-voltage to leak out even
+more. To meet these problems, low-tension ignition systems
+were developed.
+
+Figure 4-19. Magneto mounting flange.
+
+High- & Low-Tension Magneto Systems
+High-tension ignition systems have undergone many
+refinements and improvements in design. This includes new
+electronic systems that control more than just providing
+ignition to the cylinders. High-tension voltage presents
+certain problems with carrying the high-voltage from the
+magneto internally and externally to the spark plugs. In early
+years, it was difficult to provide insulators that could contain
+the high-voltage, especially at high altitudes when the air
+pressures were reduced. Another requirement of high-tension
+systems was that all weather and radio-equipped aircraft have
+
+The low-tension system virtually eliminates flashover in both
+the distributor and the harness because the air gaps within the
+distributor have been eliminated by the use of a brush-type
+distributor, and high-voltage is present only in short leads
+between the transformer and spark plug.
+Although a certain amount of electrical leakage is characteristic
+of all ignition systems, it is more pronounced on radioshielded installations because the metal conduit is at ground
+potential and close to the ignition wires throughout their
+entire length. In low-tension systems, however, this leakage is
+reduced considerably because the current throughout most of
+the system is transmitted at a low-voltage potential. Although
+
+Starting vibrator
+Magneto switch
+Left magneto
+
+R3
+
+Off
+
+Both
+
+R1
+
+L2
+
+R
+
+C2
+
+T1
+
+Main breaker
+V1
+
+L1
+
+L4
+
+Spark plug
+
+L
+
+R2
+
+Retard
+breaker
+
+C1
+
+S3
+
+Off
+On
+
+C3
+
+L3
+
+Main
+breaker
+Starter solenoid
+
+R4
+
+L5
+
+T2
+
+Spark plug
+
+Right magneto
+
+S
+
+Figure 4-20. Simplified low-tension ignition system schematic.
+
+4-11
+
+===== PDF PAGE 171 =====
+the leads between the transformer coils and the spark plugs of
+a low-tension ignition system are short, they are high-tension
+high-voltage conductor, and are subject to the same failures
+that occur in high-tension systems. Low-tension ignition
+systems have limited use in modern aircraft because of the
+excellent materials and shielding available to construct hightension ignition leads and the added cost of a coil for each
+spark plug with the low-tension system.
+
+are connected either in shunt or in compound formats.
+
+Types of DC Generators
+
+In a shunt generator, any increase in load causes a decrease
+in the output voltage, and any decrease in load causes an
+increase output voltage. This occurs since the field winding
+is connected in parallel to the load and armature, and all the
+current flowing in the external circuit passes only through
+the armature winding (not the field).
+
+There are three types of DC generators: series wound, parallel
+(shunt) wound, and series-parallel (compound) wound. The
+appropriate generator is determined by the connections to
+the armature and field circuits with respect to the external
+circuit. The external circuit is the electrical load powered
+by the generator. In general, the external circuit is used
+for charging the aircraft battery and supplying power to
+all electrical equipment being used by the aircraft. As their
+names imply, windings in series have characteristics different
+from windings in parallel.
+Series Wound DC Generators
+The series generator contains a field winding connected
+in series with the external circuit. [Figure 4-21] Series
+generators have very poor voltage regulation under changing
+load, since the greater the current is through the field coils
+to the external circuit, the greater the induced EMFs and the
+greater the output voltage is. When the aircraft electrical
+load is increased, the voltage increases; when the load is
+decreased, the voltage decreases.
+Since the series wound generator has such poor voltage
+and current regulation, it is never employed as an airplane
+generator. Generators in airplanes have field windings, that
+
+Parallel (Shunt) Wound DC Generators
+A generator having a field winding connected in parallel with
+the external circuit is called a shunt generator. [Figure 4-22] It
+should be noted that, in electrical terms, shunt means parallel.
+Therefore, this type of generator could be called either a shunt
+generator or a parallel generator.
+
+As shown in Figure 4-22A, the output voltage of a shunt
+generator can be controlled by means of a rheostat inserted
+in series with the field windings. As the resistance of the field
+circuit is increased, the field current is reduced; consequently,
+the generated voltage is also reduced. As the field resistance
+is decreased, the field current increases and the generator
+output increases. In the actual aircraft, the field rheostat
+would be replaced with an automatic control device, such
+
+A
+
+Field
+winding
+Field
+rheostat
+
+Armature winding
+
+−
+
+−
+
+S
+
+S
+
+Field winding
+
+Field rheostat
+
+Load
+
+N
++
+
+Shunt circuit
+
+Main circuit
+
+B
+
+N
+
+Field coils
+
+Armature
+
++
+Load
+
+Figure 4-21. Diagram of a series wound generator.
+
+Figure 4-22. Shunt wound generator.
+
+4-12
+
+===== PDF PAGE 172 =====
+as a voltage regulator.
+
+attached to the generator. When replacing a generator, it is
+important to choose one of the proper ratings.
+
+Compound Wound DC Generators
+A compound wound generator employs two field windings one
+in series and another in parallel with the load. [Figure 4-23]
+This arrangement takes advantage of both the series and
+parallel characteristics described earlier. The output of a
+compound wound generator is relatively constant, even with
+changes in the load.
+Generator Ratings
+A DC generator is typically rated for its voltage and power
+output. Each generator is designed to operate at a specified
+voltage, approximately 14 or 28 volts. It should be noted that
+aircraft electrical systems are designed to operate at one of
+these two voltage values. The aircraft’s voltage depends on
+which battery is selected for that aircraft. Batteries are either
+12 or 24 volts when fully charged. The generator selected
+must have a voltage output slightly higher than the battery
+voltage. Hence, the 14- or 28-volt rating is required for
+aircraft DC generators.
+The power output of any generator is given as the maximum
+number of amperes the generator can safely supply. Generator
+rating and performance data are stamped on the nameplate
+
+A
+Parallel
+field
+winding
+
+Series
+field
+winding
+
+−
+
+S
+Load
+
+N
++
+Armature winding
+
+Series field coil
+
+B
+Shunt
+field
+coil
+
+To load
+Armature
+
+Compound wound
+
+Figure 4-23. Compound wound generator.
+
+The rotation of generators is termed either clockwise or
+counterclockwise, as viewed from the driven end. The
+direction of rotation may also be stamped on the data plate. It
+is important that a generator with the correct rotation be used;
+otherwise, the polarity of the output voltage is reversed. The
+speed of an aircraft engine varies from idle rpm to takeoff
+rpm; however, during the major portion of a flight, it is at a
+constant cruising speed. The generator drive is usually geared
+to turn the generator between 11⁄8 and 11⁄2 times the engine
+crankshaft speed. Most aircraft generators have a speed at
+which they begin to produce their normal voltage. Called the
+“coming in” speed, it is usually about 1,500 rpm.
+DC Generator Maintenance
+The following information about the inspection and
+maintenance of DC generator systems is general in nature
+because of the large number of differing aircraft generator
+systems. These procedures are for familiarization only.
+Always follow the applicable manufacturer’s instructions
+for a given generator system. In general, the inspection of
+the generator installed in the aircraft should include the
+following items:
+1.
+
+Security of generator mounting.
+
+2.
+
+Condition of electrical connections.
+
+3.
+
+Dirt and oil in the generator. If oil is present, check
+engine oil seals. Blow out any dirt with compressed air.
+
+4.
+
+Condition of generator brushes.
+
+5.
+
+Generator operation.
+
+6.
+
+Voltage regulator operation.
+
+Sparking of brushes quickly reduces the effective brush area
+in contact with the commutator bars. The degree of such
+sparking should be determined. Excessive wear warrants
+a detailed inspection and possible replacement of various
+components. [Figure 4-24]
+Manufacturers usually recommend the following procedures
+to seat brushes that do not make good contact with slip
+rings or commutators. Lift the brush sufficiently to permit
+the insertion of a strip of extra-fine 000 (triple aught) grit,
+or finer, sandpaper under the brush, rough side towards the
+carbon brush. [Figure 4-25]
+Pull the sandpaper in the direction of armature rotation, being
+careful to keep the ends of the sandpaper as close to the slip
+ring or commutator surface as possible in order to avoid
+rounding the edges of the brush. When pulling the sandpaper
+back to the starting point, raise the brush so it does not ride
+4-13
+
+===== PDF PAGE 173 =====
+bars. It is important that the brush spring pressure be correct.
+Excessive pressure causes rapid wear of brushes. Too little
+pressure, however, allows bouncing of the brushes, resulting
+in burned and pitted surfaces. The pressure recommended by
+the manufacturer should be checked by the use of a spring
+scale graduated in ounces. Brush spring tension on some
+generators can be adjusted. A spring scale is used to measure
+the pressure that a brush exerts on the commutator.
+Flexible low-resistance pigtails are provided on most heavy
+current carrying brushes, and their connections should be
+securely made and checked at frequent intervals. The pigtails
+should never be permitted to alter or restrict the free motion of
+the brush. The purpose of the pigtail is to conduct the current
+from the armature, through the brushes, to the external circuit
+of the generator.
+
+Figure 4-24. Wear areas of commutator and brushes.
+
+FADEC System Description
+
+Unseated brush
+
+/
+
+/
+
+1 32" to 1 16"
+
+000 sandpaper (sand side next to brush)
+
+A FADEC is a solid-state digital electronic ignition and
+electronic sequential port fuel injection system with only
+one moving part that consists of the opening and closing
+of the fuel injector. FADEC continuously monitors and
+controls ignition, timing, and fuel mixture/delivery/injection,
+and spark ignition as an integrated control system. FADEC
+monitors engine operating conditions (crankshaft speed, top
+dead center position, the induction manifold pressure, and
+the induction air temperature) and then automatically adjusts
+the fuel-to-air ratio mixture and ignition timing accordingly
+for any given power setting to attain optimum engine
+performance. As a result, engines equipped with FADEC
+require neither magnetos nor manual mixture control.
+This microprocessor-based system controls ignition timing
+for engine starting and varies timing with respect to engine
+speed and manifold pressure. [Figure 4-26]
+
+Properly seated brush
+Figure 4-25. Seating brushes with sandpaper.
+
+on the sandpaper. Sand the brush only in the direction of
+rotation. Carbon dust resulting from brush sanding should
+be thoroughly cleaned from all parts of the generators after
+a sanding operation.
+After the generator has run for a short period, brushes should
+be inspected to make sure that pieces of sand have not become
+embedded in the brush. Under no circumstances should
+emery cloth or similar abrasives be used for seating brushes
+(or smoothing commutators), since they contain conductive
+materials that cause arcing between brushes and commutator
+
+PowerLink provides control in both specified operating
+conditions and fault conditions. The system is designed to
+prevent adverse changes in power or thrust. In the event of
+loss of primary aircraft-supplied power, the engine controls
+continue to operate using a secondary power source (SPS).
+As a control device, the system performs self-diagnostics to
+determine overall system status and conveys this information
+to the pilot by various indicators on the health status
+annunciator (HSA) panel. PowerLink is able to withstand
+storage temperature extremes and operate at the same
+capacity as a non-FADEC-equipped engine in extreme heat,
+cold, and high humidity environments.
+Low-Voltage Harness
+The low-voltage harness connects all essential components
+of the FADEC System. [Figure 4-26] This harness acts as
+a signal transfer bus interconnecting the electronic control
+4-14
+
+===== PDF PAGE 174 =====
+High voltage harness
+
+Low voltage harness
+
+Electronic control unit (ECU)
+
+Figure 4-26. PowerLink system components.
+
+units (ECUs) with aircraft power sources, the ignition switch,
+speed sensor assembly (SSA), temperature and pressure
+sensors. The fuel injector coils and all sensors, except the
+SSA and fuel pressure and manifold pressure sensors, are
+hardwired to the low-voltage harness. This harness transmits
+sensor inputs to the ECUs through a 50-pin connector. The
+harness connects to the engine-mounted pressure sensors
+via cannon plug connectors. The 25-jpin connectors connect
+the harness to the speed sensor signal conditioning unit.
+The low-voltage harness attaches to the cabin harness by a
+firewall-mounted data port through the same cabin harness/
+bulkhead connector assembly. The bulkhead connectors also
+supply the aircraft electrical power required to run the system.
+The ECU is at the heart of the system, providing both ignition
+and fuel injection control to operate the engine with the
+maximum efficiency realizable. Each ECU contains two
+microprocessors, referred to as a computer, that control two
+cylinders. Each computer controls its own assigned cylinder
+and is capable of providing redundant control for the other
+computer’s cylinder.
+The computer constantly monitors the engine speed and
+timing pulses developed from the camshaft gear as they are
+detected by the SSA. Knowing the exact engine speed and
+the timing sequence of the engine, the computers monitor
+the manifold air pressure and manifold air temperature to
+
+calculate air density and determine the mass air flow into the
+cylinder during the intake stroke. The computers calculate
+the percentage of engine power based on engine revolutions
+per minute (rpm) and manifold air pressure.
+From this information, the computer can then determine the
+fuel required for the combustion cycle for either best power
+or best economy mode of operation. The computer precisely
+times the injection event, and the duration of the injector
+should be on time for the correct fuel-to-air ratio. Then, the
+computer sets the spark ignition event and ignition timing,
+again based on percentage of power calculation. Exhaust
+gas temperature is measured after the burn to verify that the
+fuel-to-air ratio calculations were correct for that combustion
+event. This process is repeated by each computer for its own
+assigned cylinder on every combustion/power cycle.
+The computers can also vary the amount of fuel to control
+the fuel-to-air ratio for each individual cylinder to control
+both cylinder head temperature (CHT) and exhaust gas
+temperature (EGT).
+Electronic Control Unit (ECU)
+An ECU is assigned to a pair of engine cylinders. [Figure 4-27]
+The ECUs control the fuel mixture and spark timing for
+their respective engine cylinders; ECU 1 controls opposing
+cylinders 1 and 2, ECU 2 controls cylinders 3 and 4, and ECU
+4-15
+
+===== PDF PAGE 175 =====
+Figure 4-27. Electronic control unit.
+
+3 controls cylinders 5 and 6. Each ECU is divided into upper
+and lower portions. The lower portion contains an electronic
+circuit board, while the upper portion houses the ignition
+coils. Each electronic control board contains two independent
+microprocessor controllers that serve as control channels.
+During engine operation, one control channel is assigned to
+operate a single engine cylinder. Therefore, one ECU can
+control two engine cylinders, one control channel per cylinder.
+The control channels are independent, and there are no shared
+electronic components within one ECU. They also operate
+on independent and separate power supplies. However, if
+one control channel fails, the other control channel in the
+pair within the same ECU is capable of operating both its
+assigned cylinder and the other opposing engine cylinder as
+backup control for fuel injection and ignition timing. Each
+control channel on the ECU monitors the current operating
+conditions and operates its cylinder to attain engine operation
+within specified parameters. The following transmit inputs to
+the control channels across the low-voltage harness:
+1.
+
+Speed sensor that monitors engine speed and crank
+position,
+
+2.
+
+Fuel pressure sensors,
+
+3.
+
+Manifold pressure sensors,
+
+4.
+
+Manifold air temperature (MAT) sensors,
+
+5.
+
+CHT sensors, and
+
+6.
+
+EGT sensors.
+
+All critical sensors are dually redundant with one sensor
+from each type of pair connected to control channels in
+different ECUs. Synthetic software default values are also
+used in the unlikely event that both sensors of a redundant
+pair fail. The control channel continuously monitors changes
+in engine speed, manifold pressure, manifold temperature,
+and fuel pressure based on sensor input relative to operating
+conditions to determine how much fuel to inject into the
+intake port of the cylinder.
+
+PowerLink Ignition System
+The ignition system consists of the high-voltage coils atop the
+ECU, the high-voltage harness, and spark plugs. Since there
+are two spark plugs per cylinder on all engines, a six-cylinder
+engine has 12 leads and 12 spark plugs. One end of each lead
+on the high-voltage harness attaches to a spark plug, and the
+other end of the lead wire attaches to the spark plug towers on
+each ECU. The spark tower pair is connected to opposite ends
+of one of the ECU’s coil packs. Two coil packs are located
+in the upper portion of the ECU. Each coil pack generates
+a high-voltage pulse for two spark plug towers. One tower
+fires a positive polarity pulse and the other of the same coil
+fires a negative polarity pulse. Each ECU controls the ignition
+spark for two engine cylinders. The control channel within
+each ECU commands one of the two coil packs to control
+the ignition spark for the engine cylinders. [Figure 4-28]
+The high-voltage harness carries energy from the ECU spark
+towers to the spark plugs on the engine.
+For both spark plugs in a given cylinder to fire on the
+compression stroke, both control channels must fire their
+coil packs. Each coil pack has a spark plug from each of the
+two cylinders controlled by that ECU unit.
+The ignition spark is timed to the engine’s crankshaft position.
+The timing is variable throughout the engine’s operating
+range and is dependent upon the engine load conditions. The
+spark energy is also varied with respect to the engine load.
+Note: Engine ignition timing is established by the ECUs and
+cannot be manually adjusted.
+Engine Indicating & Crew Alerting System
+(EICAS)
+An engine indicating and crew alerting system (EICAS)
+performs many of the same functions as an ECAM system.
+The objective is still to monitor the aircraft systems for
+the pilot. All EICAS display engine, as well as airframe,
+parameters. Traditional gauges are not utilized, other than
+a standby combination engine gauge in case of total system
+failure.
+EICAS is also a two-monitor, two-computer system with a
+display select panel. Both monitors receive information from
+the same computer. The second computer serves as a standby.
+Digital and analog inputs from the engine and airframe
+systems are continuously monitored. Caution and warning
+lights, as well as aural tones, are incorporated. [Figure 4-29]
+EICAS provides full time primary engine parameters (EPR,
+N1, EGT) on the top, primary monitor. Advisories and
+warnings are also shown there. Secondary engine parameters
+4-16
+
+===== PDF PAGE 176 =====
+Electronic Control Unit 1
+
+CHANNEL 1
+
+Top spark plug
+
+Coil Pack 1
+
+Cylinder
+No. 1
+
+Bottom spark plug
+CHANNEL 2
+
+Top spark plug
+
+Coil Pack 2
+
+Cylinder
+No. 2
+
+Bottom spark plug
+
+Figure 4-28. Ignition control.
+
+and nonengine system status are displayed on the bottom
+screen. The lower screen is also used for maintenance
+diagnosis when the aircraft is on the ground. Color coding
+is used, as well as message prioritizing.
+The display select panel allows the pilot to choose which
+computer is actively supplying information. It also controls
+the display of secondary engine information and system status
+displays on the lower monitor. EICAS has a unique feature
+that automatically records the parameters of a failure event
+to be regarded afterwards by maintenance personnel. Pilots
+that suspect a problem may be occurring during flight can
+press the event record button on the display select panel. This
+also records the parameters for that flight period to be studied
+later by maintenance. Hydraulic, electrical, environmental,
+performance, and APU data are examples of what may be
+recorded.
+EICAS uses BITE for systems and components. A
+maintenance panel is included for technicians. From this
+panel, when the aircraft is on the ground, push-button
+switches display information pertinent to various systems
+for analysis. [Figure 4-30]
+
+Auxiliary Ignition Units
+During engine starting, the output of a magneto is low
+because the cranking speed of the engine is low. This is
+understandable when the factors that determine the amount
+
+of voltage induced in a circuit are considered.
+To increase the value of an induced voltage, the strength
+of the magnetic field must be increased by using a stronger
+magnet, by increasing the number of turns in the coil, or by
+increasing the rate of relative motion between the magnet
+and the conductor.
+Since the strength of the rotating magnet and the number
+of turns in the coil are constant factors in magneto ignition
+systems, the voltage produced depends upon the speed at
+which the rotating magnet is turned. When the engine is
+being cranked for starting, the magnet is rotated at about
+80 rpm. Since the value of the induced voltage is so low, a
+spark may not jump the spark plug gap. To facilitate engine
+starting, an auxiliary device is connected to the magneto to
+provide a high ignition voltage.
+Ordinarily, such auxiliary ignition units are energized by the
+battery and connected to the left magneto. Reciprocating
+engine starting systems normally include one of the following
+types of auxiliary starting systems: booster coil (older style),
+starting vibrator (sometimes called shower of sparks),
+impulse coupling, or electronic ignition systems.
+During the starting cycle, the engine is turning very slowly
+compared to normal speed. The ignition must be retarded
+or moved back to prevent kickback of the piston trying to
+4-17
+
+===== PDF PAGE 177 =====
+Upper DU
+Discrete caution
+& warning lights
+
+Data buses
+Warning & cautions
+Engine primary displays
+
+Aural warning
+Standy engine
+indicators
+
+L computer
+
+Engine sensors
+Oil press
+N1
+N2
+Oil quantity
+Oil temperature
+N3
+EPR
+Vibration
+EGT
+FF
+
+Lower DU
+
+Display switching
+
+Engine secondary
+or
+status display
+or
+maintenance display
+
+Maintenance panel
+
+Display select panel
+
+R computer
+
+System sensors
+Hydraulic quantity & press
+ADC hydraulic system temperature
+Control surface positions
+Electical system: volts amps freq
+Generator drive temperature
+ECS temps
+APU EGT. RPM
+Brake temperature
+
+Other system discretes
+FCC MCDP
+TMC interface
+FEC interface
+FMC interface
+RAD Altitude interface
+ADC interface
+
+Figure 4-29. Schematic of an engine indicating and crew alerting system (EICAS).
+
+rotate opposite normal rotation. Each starting system has a
+method of retarding the spark during starting of the engine.
+Booster Coil
+Used mainly with older radial engine ignition systems,
+the booster coil assembly consists of two coils wound on
+a soft iron core, a set of contact points, and a condenser.
+[Figure 4-31] The booster coil is separate from the magneto
+and can generate a series of sparks on its own. During the
+start cycle, these sparks are routed to the trailing finger on
+the distributor rotor and then to the appropriate cylinder
+ignition lead. The primary winding has one end grounded at
+the internal grounding strip and its other end connected to the
+moving contact point. The stationary contact is fitted with a
+terminal to which battery voltage is applied when the magneto
+switch is placed in the start position, or automatically applied
+when the starter is engaged. The secondary winding, which
+
+contains several times as many turns as the primary coil,
+has one end grounded at the internal grounding strip and the
+other terminated at a high-tension terminal. The high-tension
+terminal is connected to an electrode in the distributor by an
+ignition cable.
+Since the regular distributor terminal is grounded through
+the primary or secondary coil of a high-tension magneto,
+the high-voltage furnished by the booster coil must be
+distributed by a separate circuit in the distributor rotor. This is
+accomplished by using two electrodes in one distributor rotor.
+The main electrode, or finger, carries the magneto output
+voltage; the auxiliary electrode or trailing finger, distributes
+only the output of the booster coil. The auxiliary electrode
+is always located so that it trails the main electrode, thus
+retarding the spark during the starting period.
+
+4-18
+

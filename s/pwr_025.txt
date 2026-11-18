@@ -1,0 +1,971 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 8 (Engine Removal & Replacement), PDF pages 342-349
+
+===== PDF PAGE 342 =====
+0.1875 hex socket
+IDLE
+
+MAX
+
+INC
+
+INC
+
+0.125 hex socket
+RPM adjustment
+
+all lines as they are disconnected to prevent entrance of
+foreign material.
+Remove the clamps securing the bleed-air ducts at the firewall.
+Then, disconnect the electrical connector plugs, engine
+breather and vent lines, and fuel, oil, and hydraulic lines.
+Disconnect the engine power lever and propeller control rods
+or cables. Remove the covers from the QECA lift points,
+attach the QECA sling, and remove slack from the cables
+using a suitable hoist. The sling must be adjusted to position
+the hoisting eye over the QECA CG. Failure to do so may
+result in engine damage.
+
+Figure 8-14. Typical fuel control adjustments.
+
+for each parameter measured. The parameters checked can
+include:
+1.
+
+Minimum idle (percent N2).
+
+2.
+
+Approach idle (percent N2).
+
+3.
+
+2.5 bleed open (percent N1).
+
+4.
+
+2.5 bleed closed (percent N1).
+
+5.
+
+Takeoff engine pressure ratio (EPR).
+
+6.
+
+95 percent takeoff thrust (EPR).
+
+7.
+
+90 percent thrust change decal (EPR).
+
+The actual trim check would be done based on a temperature
+and pressure, such as the example in Figure 8-15. For these
+given temperature and pressures, the target parameter values
+can be derived from a chart in the manufacturer’s manual.
+The engine is run up, and these values are checked against
+the tolerances given in the manual.
+
+Turboprop Powerplant Removal & Installation
+Since most turboprop powerplant removal and installation
+instructions are developed for QECA, the following procedures
+reflect those used for a typical QECA. The procedures for
+turboprop engine removal and installation are similar to those
+presented in the section of this chapter for turbojet engines,
+except for those systems related to the turboprop propeller.
+Open the engine side panels and remove the nacelle access
+panels. Disconnect the engine thermocouple leads at the
+terminal board. Before disconnecting any lines, make sure
+that all fuel, oil, and hydraulic fluid valves are closed. Plug
+
+Remove the engine mount bolts. The QECA is then ready to
+be removed. Recheck all of the disconnect points to make
+certain they are all disconnected prior to moving the engine.
+Move the engine forward, out of the nacelle structure, until
+it clears the aircraft. Lower the QECA into position on the
+QECA stand and secure it prior to removing the engine sling.
+The installation procedures are essentially the reverse of
+the removal procedures. Move the QECA straight back into
+the nacelle structure and align the mount bolt holes and the
+firewall. Start all the bolts before torqueing. With all the
+bolts started, and using the correct torque wrench adapter,
+tighten the mount bolts to their proper torque. Remove the
+sling and install the access covers at the lift point. Using
+the reverse of the removal procedures, connect the various
+lines and connectors. New O-ring seals should be used.
+The manufacturer’s instructions should be consulted for the
+proper torque limits for the various clamps and bolts.
+After installation, an engine runup should be made. In
+general, the runup consists of checking proper operation of
+the powerplant and related systems. Several functional tests
+are performed to evaluate each phase of engine operation.
+The tests and procedures outlined by the engine or airframe
+manufacturers should be followed.
+
+Reciprocating Helicopter Engine & QECA
+The engine is installed facing aft with the propeller shaft
+approximately 39° above horizontal. The engine is supported
+by the engine mount, which is bolted to the fuselage structure.
+The installation of the engine provides for ease of maintenance
+by allowing easy access to all accessories and components
+when the engine access doors are opened. The QECA contains
+the engine, engine mount, engine accessories, engine controls,
+fuel system, lubrication system, ignition system, cooling
+system, and hydromechanical clutch and fan assembly.
+
+8-15
+
+===== PDF PAGE 343 =====
+ASSUME
+1. Ambient temperature: OAT = 12 °F
+2. Barometric pressure = 29.0 inches of mercury
+SELECT TRIM TARGETS FOR THE FOLLOWING
+1. Minimum idle (%N2) is 57.7 (+1.5/−0.5)%N2
+2. Approach idle (%N2) is 67.6 ±0.5 %N2
+3. 2.5 bleed open inc (%N1) 60.4 ±0.5 %N1
+4. 2.5 bleed closed inc (%N1) is 63.5 ±0.5 %N1
+
+DAT °F (°C)
+
+5. Takeoff (EPR) is 1.50 +0.01/−0.00 EPR
+6. 95% takeoff thrust (EPR) is 1.46 EPR
+7. 90% thrust change deceleration (EPR)
+is 1.04 EPR
+Barometer (inches of mercury)
+
+Trim targets
+31.0
+
+30.0
+
+29.0
+
+28.0
+
+27.0
+
+26.0
+
+25.0
+
+24.0
+
+23.0
+
+22.0
+
+12 (−11)
+
+MIN IDLE (%N2)
+APP IDLE (%N2)
+2.5 BLEED OPEN INC (%N1)
+2.5 BLEED CLOSED INC (%N1)
+TAKEOFF (EPR)
+95% TAKEOFF THRUST (EPR)
+90% THRUST CHANGE DECEL (EPR)
+
+57.6
+67.5
+60.4
+63.5
+1.45
+1.42
+1.03
+
+57.6
+67.5
+60.4
+63.5
+1.48
+1.45
+1.03
+
+57.7
+67.6
+60.4
+63.5
+1.50
+1.46
+1.04
+
+58.0
+67.7
+60.4
+63.5
+1.51
+1.47
+1.04
+
+58.3
+67.8
+60.4
+63.5
+1.53
+1.48
+1.04
+
+58.6
+67.9
+60.4
+63.5
+1.54
+1.50
+1.04
+
+58.9
+68.0
+60.4
+63.5
+1.56
+1.51
+1.04
+
+59.5
+68.3
+60.4
+63.5
+1.57
+1.52
+1.04
+
+60.2
+68.8
+60.4
+63.5
+1.59
+1.53
+1.04
+
+60.9
+69.0
+60.4
+63.5
+1.61
+1.54
+1.04
+
+16 (−9)
+
+MIN IDLE (%N2)
+APP IDLE (%N2)
+2.5 BLEED OPEN INC (%N1)
+2.5 BLEED CLOSED INC (%N1)
+TAKEOFF (EPR)
+95% TAKEOFF THRUST (EPR)
+90% THRUST CHANGE DECEL (EPR)
+
+57.9
+67.8
+60.6
+63.8
+1.45
+1.42
+1.03
+
+57.9
+67.8
+60.6
+63.8
+1.48
+1.45
+1.03
+
+58.0
+67.9
+60.6
+63.8
+1.50
+1.46
+1.04
+
+58.2
+68.0
+60.6
+63.8
+1.51
+1.47
+1.04
+
+58.5
+68.1
+60.6
+63.8
+1.53
+1.48
+1.04
+
+58.8
+68.2
+60.6
+63.8
+1.54
+1.50
+1.04
+
+59.2
+68.3
+60.6
+63.8
+1.56
+1.51
+1.04
+
+59.8
+68.6
+60.6
+63.8
+1.57
+1.52
+1.04
+
+60.4
+68.9
+60.6
+63.8
+1.59
+1.53
+1.04
+
+61.2
+69.3
+60.6
+63.8
+1.61
+1.54
+1.04
+
+20 (−7)
+
+MIN IDLE (%N2)
+APP IDLE (%N2)
+2.5 BLEED OPEN INC (%N1)
+2.5 BLEED CLOSED INC (%N1)
+TAKEOFF (EPR)
+95% TAKEOFF THRUST (EPR)
+90% THRUST CHANGE DECEL (EPR)
+
+58.1
+68.1
+60.9
+64.0
+1.45
+1.42
+1.03
+
+58.1
+68.1
+60.9
+64.0
+1.48
+1.45
+1.03
+
+58.2
+68.2
+60.9
+64.0
+1.50
+1.46
+1.04
+
+58.5
+68.3
+60.9
+64.0
+1.51
+1.47
+1.04
+
+58.8
+68.3
+60.9
+64.0
+1.53
+1.48
+1.04
+
+59.1
+68.5
+60.9
+64.0
+1.54
+1.50
+1.04
+
+59.4
+68.6
+60.9
+64.0
+1.56
+1.52
+1.04
+
+60.0
+68.9
+60.9
+64.0
+1.57
+1.52
+1.04
+
+60.7
+69.2
+60.9
+64.0
+1.59
+1.53
+1.04
+
+61.4
+69.6
+60.9
+64.0
+1.61
+1.54
+1.04
+
+Figure 8-15. Trim check data (Boeing).
+
+Removal of Helicopter QECA
+Prior to removing the helicopter QECA, the engine should
+be preserved if it is possible to do so. Then, shut off the
+fuel supply to the engine and drain the oil. Make the
+disconnections necessary to remove the QECA, and then
+perform the following steps:
+1.
+
+Attach the engine lifting sling to a hoist of at least a
+two-ton capacity.
+
+2.
+
+Raise the hoist to apply a slight lift to the QECA.
+Loosen both engine mount lower attachment bolt nuts
+before leaving the upper attachment bolts.
+
+3.
+
+Remove the bolts from the sway braces and remove
+both engine upper attachment bolts. Then, remove
+both engine mount lower attachment bolts and remove
+the QECA from the helicopter. Mount the power
+package in a suitable workstand and remove the sling.
+
+Installation, Rigging, & Adjustment of Helicopter
+QECA
+The installation of a new or an overhauled engine is in reverse
+of the removal procedure. The manufacturer’s instructions
+
+for the helicopter must be consulted to ascertain the correct
+interchange of parts from the old engine to the new engine.
+The applicable maintenance instructions should be followed.
+Refer to the Maintenance Instructions Manual and associated
+technical publications for detailed information concerning
+rigging the throttle, mixture control, cable tensions, and
+related data.
+Testing the Engine Installation
+Normal engine run-in procedures must be followed in
+accordance with the manufacturer’s instructions. A flight
+test is usually performed after the engine has been installed
+and the engine controls have been adjusted.
+
+Engine Mounts
+Mounts for Reciprocating Engines
+Most aircraft equipped with reciprocating engines use an
+engine mount structure made of welded steel tubing. The
+mount is constructed in one or more sections that incorporate
+the engine mount ring, bracing members (V-struts), and
+fittings for attaching the mount to the wing nacelle.
+
+8-16
+
+===== PDF PAGE 344 =====
+under normal conditions, rubber alone supports the engine.
+Of course, if the engine is subjected to abnormal shocks or
+loads, the metal snubbers limit excessive movement of the
+engine. Dynafocal engine mounts, or vibration isolators, are
+units that give directional support to the engines. Dynafocal
+engine mounts have the mounting pad angled to point to the
+CG of the engines mass. [Figure 8-16]
+Mounts for Turbofan Engines
+The engine mounts on most turbofan engines perform the
+same basic functions of supporting the engine and transmitting
+the loads imposed by the engine to the aircraft structure. Most
+turbine engine mounts are made of stainless steel and are
+typically located as illustrated in Figure 8-17. Some engine
+mounting systems use two mounts to support the forward end
+of the engine and a single mount at the rear end.
+
+Figure 8-16. Engine mounting ring.
+
+The engine mounts are usually secured to the aircraft by
+special heat-treated steel bolts. The importance of using only
+these special bolts can be readily appreciated, since they
+alone support the entire weight of, and withstand all, the
+stresses imposed by the engine and propeller in flight. The
+upper bolts support the weight of the engine while the aircraft
+is on the ground, but when the aircraft is airborne another
+stress is added. This stress is torsional and affects all bolts,
+not just the top bolts. A typical engine mount ring shown in
+Figure 8-16 discloses fittings and attachment points located
+at four positions on the engine mount structure. Each fitting
+houses a dynamic engine mount.
+
+Turbine Vibration Isolation Engine Mounts
+The vibration isolator engine mounts support the power
+plants and isolate the airplane structure from adverse
+engine vibrations. Each power plant is generally supported
+by forward vibration isolator mounts and an aft vibration
+isolator mount.
+The forward vibration isolator engine mounts carry vertical,
+side, and axial (thrust) loads and allow engine growth due
+to thermal expansion. The aft mounts take only vertical and
+side loads; however, they will also accommodate thermal
+expansion of the engine without applying axial loads to the
+engine flanges.
+
+The section of an engine mount where the engine is attached
+is known as the engine mount ring. It is usually constructed
+of steel tubing having a larger diameter than the rest of the
+mount structure. It is circular in shape so that it can surround
+the engine, which is near the point of balance for the engine.
+The engine is usually attached to the mount by dynafocal
+mounts, attached to the engine at the point of balance forward
+of the mount ring. Other types of mounting devices are also
+used to secure the different engines to their mount rings.
+As aircraft engines became larger and produced more power,
+some method was needed to absorb their vibration. This
+demand led to the development of the rubber and steel enginesuspension units called shock mounts. This combination
+permits restricted engine movement in all directions. These
+vibration isolators are commonly known as flexible, or elastic,
+shock mounts. An interesting feature common to most shock
+mounts is that the rubber and metal parts are arranged so that,
+
+Figure 8-17. Turbine engine front mount.
+
+8-17
+
+===== PDF PAGE 345 =====
+The vibration isolators consist of a resilient material
+permanently enclosed in a metal case. As an engine vibrates,
+the resilient material deforms slightly, thereby dampening
+the vibrations before they reach the airplane structure. If
+complete failure or loss of the resilient material occurs, the
+isolators will continue to support the engine.
+
+Preservation & Storage of Engines
+An engine awaiting overhaul or return to service after
+overhaul must be given careful attention. It does not receive
+the daily care and attention necessary to detect and correct
+early stages of corrosion. For this reason, some definite
+action must be taken to prevent corrosion from affecting the
+engine. Engines that are not flown regularly may not achieve
+normal service life because of corrosion in and around the
+cylinders. The normal combustion process creates moisture
+and corrosive by-products that attack the unprotected surfaces
+of the cylinder walls, valves, and any other exposed areas
+that are unprotected. In engines that have accumulated 50
+hours or more time in service in a short period, the cylinder
+walls have acquired a varnish that tends to protect them
+from corrosive action; engines under favorable atmospheric
+conditions can remain inactive for several weeks without
+evidence of damage by corrosion. This is the best-case
+scenario, but aircraft that operate close to oceans, lakes,
+rivers, and humid regions have a greater need for engine
+preservation than engines operated in dry low humid areas.
+Corrosion-Preventive Materials
+An engine in service is in a sense self-purging of moisture,
+since the heat of combustion evaporates the moisture in and
+around the engine, and the lubricating oil circulated through
+the engine temporarily forms a protective coating on the
+metal it contacts. If the operation of an engine in service
+is limited or suspended for a period of time, the engine is
+preserved to a varying extent, depending upon how long it
+is to be inoperative. There are three types of engine storage:
+active engine, temporary, and indefinite. An engine in active
+storage is defined as having at least one continuous hour of
+operation with an oil temperature of at least 165 °F to 200 °F
+and storage time not to exceed 30 days. Temporary storage
+describes an aircraft and engine that is not flown for 30 to
+90 days, and indefinite storage is for an aircraft not to be
+flown for over 90 days or is removed from the aircraft for
+extended time.
+Corrosion-Preventive Compounds
+The preservation materials discussed are used for all types
+of engine storage. Corrosion-preventive compounds are
+petroleum-based products that form a wax-like film over the
+metal to which they are applied. Several types of corrosionpreventive compounds are manufactured according to
+
+different specifications to fit the various aviation needs. The
+type mixed with engine oil to form a corrosion-preventive
+mixture is a relatively light compound that readily blends
+with engine oil when the mixture is heated to the proper
+temperature.
+The light mixture is available in three forms: MIL-C-6529C
+type I, type II, or type III. Type I is a concentrate and must be
+blended with three parts of MIL-L-22851 or MIL-L-6082C
+(SAE J1966) grade 1100 oil to one part of concentrate. Type
+II is a ready-mixed material with MIL-L-22851 or grade 1100
+oil and does not require dilution. Type III is a ready-mixed
+material with grade 1010 oil for use in turbine engines only.
+The light mixture is intended for use when a preserved engine
+is to remain inactive for less than 30 days. It is also used to
+spray cylinders and other designated areas.
+The desired proportions of lubricating oil, and either heavy or
+light corrosion-preventive compound, must not be obtained
+by adding the compound to the oil already in the engine. The
+mixture must be prepared separately before applying to the
+engine or placing in an oil tank.
+A heavy compound is used for the dip treating of metal
+parts and surfaces. It must be heated to a high temperature
+to be sufficiently liquid to effectively coat the objects to be
+preserved. A commercial solvent, or kerosene spray, is used
+to remove corrosion-preventive compounds from the engine
+or parts when they are being prepared for return to service.
+Although corrosion-preventive compounds act as an insulator
+from moisture, in the presence of excessive moisture, they
+eventually break down and corrosion begins. Also, the
+compounds eventually dry because their oil base gradually
+evaporates. This allows moisture to contact the engine’s metal
+and aids in corroding it. Therefore, when an engine is stored
+in a shipping case or container, some dehydrating (moisture
+removing) agent must be used to remove the moisture from
+the air in and around the engine.
+Dehydrating Agents
+There are a number of substances (referred to as desiccants)
+that can absorb moisture from the atmosphere in sufficient
+quantities to be useful as dehydrators. One of these is silica
+gel. This gel is an ideal dehydrating agent since it does not
+dissolve when saturated.
+As a corrosion preventive, bags of silica gel are placed around
+and inside various accessible parts of a stored engine. It is
+also used in clear plastic plugs, called dehydrator plugs,
+that can be screwed into engine openings, such as the
+spark plug holes. Cobalt chloride is added to the silica gel
+used in dehydrator plugs. This additive makes it possible
+8-18
+
+===== PDF PAGE 346 =====
+of dehydrator plugs can be dried by removing the silica gel
+and heating the gel to dry it out, returning it to its original
+blue color. [Figure 8-19] When the relative humidity is less
+than 30 percent, corrosion does not normally take place.
+Therefore, if the dehydrator plugs are bright blue, the air in
+the engine has so little moisture that internal corrosion is held
+to a minimum. This same cobalt-chloride-treated silica gel is
+used in humidity indicator envelopes. These envelopes can
+be fastened to the stored engine so that they can be inspected
+through a small window in the shipping case or metal engine
+container. All desiccants are sealed in containers to prevent
+their becoming saturated with moisture before they are used.
+Care should be taken never to leave the container open or
+improperly closed.
+
+Engine Preservation & Return to Service
+
+Figure 8-18. Dehydrator plug “pink” showing high humidity
+
+(Sacramento Sky Ranch).
+
+Before an engine is placed in temporary or indefinite storage,
+it should be operated and filled with a corrosion-preventive oil
+mixture added in the oil system to retard corrosion by coating
+the engine’s internal parts. Drain the normal lubricating oil
+from the sump or system and replace with a preservative oil
+mixture according to the manufacturer’s instructions. Operate
+the engine until normal operating temperatures are obtained
+for at least one hour.
+Always take the appropriate precautions when turning or
+working around a propeller. After the flight, remove all the
+spark plug leads and the top spark plugs.
+To prevent corrosion, spray each cylinder interior with
+corrosion-preventive mixture to prevent moisture and oxygen
+from contacting the deposits left by combustion. Spray the
+cylinders by inserting the nozzle of the spray gun into each
+spark plug hole and playing the gun to cover as much area
+as possible. Before spraying, each cylinder to be treated
+should be at the bottom center position and the oil at room
+temperature. This allows the entire inside of the cylinder
+to become coated with corrosion-preventive mixture. After
+spraying each engine cylinder at bottom center, respray each
+cylinder while the crankshaft is stationary with none of the
+cylinder’s pistons at top dead center.
+
+Figure 8-19. Dehydrator plug “blue” showing low humidity
+
+(Sacramento Sky Ranch).
+
+for the plugs to indicate the moisture content, or relative
+humidity, of the air surrounding the engine. The cobaltchloride-treated silica gel remains a bright blue color with
+low relative humidity; as the relative humidity increases, the
+shade of the blue becomes progressively lighter, becoming
+lavender at 30 percent relative humidity and fading through
+the various shades of pink [Figure 8-18], until at 60 percent
+relative humidity it is a natural or white color. Some types
+
+The crankshaft must not be moved after this final spraying,
+or the seal of corrosion-preventive mixture between the
+pistons and cylinder walls are broken. Air can then enter past
+the pistons into the engine. Also, the coating of corrosionpreventive mixture on the cylinder walls is scraped away,
+exposing the bare metal to possible corrosion. The engine
+should have a sign attached similar to the following: “DO
+NOT TURN CRANKSHAFT—ENGINE PRESERVED
+PRESERVATION DATE ____________.”
+When preparing the engine for storage, dehydrator plugs are
+8-19
+
+===== PDF PAGE 347 =====
+be coated with the compound. Then, a plastic sleeve, or
+moisture-proof paper, is secured around the shaft, and a
+threaded protector cap is screwed onto the propeller retaining
+nut threads.
+Ventilator plug
+
+Figure 8-20. Ignition harness lead support installation.
+
+screwed into the spark plug opening of each cylinder. If the
+engine is to be stored in a wooden shipping case, the ignition
+harness leads are attached to the dehydrator plugs with lead
+supports. [Figure 8-20] Special ventilatory plugs are installed
+in the spark plug holes of an engine stored horizontally in a
+storage container. Any engine being prepared for storage must
+receive thorough treatment around the exhaust ports. Because
+the residue of exhaust gases is potentially very corrosive,
+a corrosion-preventive mixture must be sprayed into each
+exhaust port, including the exhaust valve. After the exhaust
+ports have been thoroughly coated, a moisture-proof and
+oil-proof gasket backed by a metal or wooden plate should
+be secured over the exhaust ports using the exhaust stack
+mounting studs and nuts. These covers form a seal to prevent
+moisture from entering the interior of the engine through the
+exhaust ports. Engines stored in metal containers usually
+have special ventilatory covers. Another point at which the
+engine must be sealed is the intake manifold. If the carburetor
+is to remain on the engine during storage, the throttle valve
+should be wired open and a seal installed over the air inlet.
+But, if the carburetor is removed and stored separately, the
+seal is made at the carburetor mounting pad. The seal used in
+either instance can be an oil-proof and moisture-proof gasket,
+backed by a wooden or metal plate securely bolted into place.
+Silica gel should be placed in the intake manifold to absorb
+moisture. The silica gel bags are usually suspended from
+the cover plate. This eliminates the possibility of forgetting
+to remove the silica gel bags when the engine is eventually
+removed from storage. A ventilatory cover, without silica
+gel bags attached, can be used when the engine is stored in
+a metal container.
+After the following details have been taken care of, the
+engine is ready to be packed into its container. If the engine
+has not been spray coated with corrosion-preventive mixture,
+the propeller shaft and propeller shaft thrust bearing must
+
+All engine openings into which dehydrator plugs (or
+ventilatory plugs if the engine is stored in a metal container)
+have not been fitted must be sealed. At points where
+corrosion-preventive mixture can seep from the interior of
+the engine, such as the oil inlet and outlet, oil-proof and
+moisture-proof gasket material backed by a metal or wooden
+plate should be used. At other points moisture-proof tape can
+be used if it is carefully installed.
+Before its installation in a shipping container, the engine
+should be carefully inspected to determine if the following
+accessories, which are not a part of the basic engine, have
+been removed: spark plugs and spark plug thermocouples,
+remote fuel pump adapters (if applicable), propeller hub
+attaching bolts (if applicable), starters, generators, vacuum
+pumps, hydraulic pumps, propeller governors, and enginedriven fuel pumps.
+1.
+
+Remove seals and all desiccant bags.
+
+2.
+
+Remove cylinder dehydrators and plugs or spark plugs
+from upper and lower spark plug holes.
+
+3.
+
+Remove oil sump drain plug and drain the corrosion
+preventive mixture. Replace drain plug, torque and
+safety. Remove oil filter. Install new oil filter, torque
+and safety. Service the engine with oil in accordance
+with the manufacturer’s instructions.
+Warning: To prevent serious bodily injury or death,
+accomplish the following before moving the propeller:
+a.
+
+Disconnect all spark plug leads.
+
+b.
+
+Verify that magneto switches are connected to
+magnetos and that they are in the off position and
+P-leads are grounded.
+
+c.
+
+Throttle position CLOSED.
+
+d.
+
+Mixture control IDLE-CUT-OFF.
+
+e.
+
+Set brakes and block aircraft wheels. Ensure that
+aircraft tiedowns are installed and verify that the
+cabin door latch is open.
+
+f.
+
+Do not stand within the arc of the propeller blades
+while turning the propeller.
+
+4.
+
+Rotate propeller by hand several revolutions to remove
+preservative oil.
+
+5.
+
+Service and install spark plugs and ignition leads in
+accordance with the manufacturer’s instructions.
+
+6.
+
+Service engine and aircraft in accordance with the
+manufacturer’s instruction.
+8-20
+
+===== PDF PAGE 348 =====
+7.
+
+Thoroughly clean the aircraft and engine. Perform
+visual inspection.
+
+8.
+
+Correct any discrepancies.
+
+9.
+
+Conduct a normal engine start.
+
+10. Perform operational test in accordance with operational
+inspection of the applicable Maintenance Manual.
+11. Correct any discrepancies.
+12 Perform a test flight in accordance with airframe
+manufacturer’s instructions.
+13. Correct any discrepancies prior to returning aircraft
+to service.
+14. Change oil and filter after 25 hours of operation.
+
+Engine Shipping Containers
+For protection, engines are sealed in plastic or foil envelopes
+and can be packed in a wooden shipping case or in pressurized
+metal containers.
+The engine is lowered into the shipping container so that the
+mounting plate can be bolted into position. The protective
+envelope is attached directly to the base of the shipping
+case. Then, the engine is lowered vertically onto the base
+and bolted directly to it. A carburetor not mounted on its
+reciprocating engine (or no provision is made to seal it in a
+small container to be placed inside the shipping case) can, in
+some cases, be fastened to a specially constructed platform
+bolted to the engine.
+Before the protective envelope is sealed, silica gel should be
+placed around the engine to dehydrate the air sealed into the
+envelope. The amount of silica gel used is determined by the
+size of the engine. The protective envelope is then carefully
+gathered around the engine and partially sealed, leaving an
+opening at one end from which as much air as possible is
+exhausted. A vacuum applied to the container is very useful
+for this purpose and is also an aid in detecting any leaks in
+the envelope. The envelope is then completely sealed, usually
+by pressing the edges together and fusing them with heat.
+Before lowering the shipping case cover over the engine,
+a quick inventory should be made. Be sure the humidity
+indicator card is placed so that it can be seen through the
+Engine attachments
+
+Cover
+Base
+Figure 8-21. Turbine engine shipping container.
+
+inspection window and that everything required is enclosed
+in the container. While lowering the wooden shipping case
+cover into position, be careful that it does not twist and tear
+the protective envelope. Secure the cover and stencil or mark
+the date of preservation on the case. Also, indicate whether
+the engine is repairable or serviceable.
+There are several types of shipping containers in use.
+[Figure 8-21] Another type allows horizontal installation
+of an engine, thus eliminating the need for an extra hoist.
+The engine is simply lowered onto the base portion of the
+container and secured. Then, silica gel bags are packed into
+the container, usually in a special section. The amount of
+silica gel required in a metal container is generally greater
+than that needed in a wooden shipping case, since the volume
+of air in the metal container is much greater than that in the
+protective envelope installed around an engine in a wooden
+shipping case. Also, in the metal container the silica gel bags
+must dehydrate the interior of the engine, since ventilatory
+plugs are normally installed in the engine openings in place
+of dehydrator plugs. All records of the engine should be
+enclosed inside the shipping container or on the outside for
+accessibility. A humidity indicator should be fastened inside
+the containers with an inspection window provided. Then,
+the rubber seal between the base and the top of the container
+must be carefully inspected. This seal is usually suitable for
+re-use several times. After the top of the container has been
+lowered into position and fastened to the base of the container,
+dehydrated air at approximately 5 pounds per square inch
+(psi) pressure is forced into the container. The container
+should be checked for leaks by occasional rechecks of the
+air pressure, since radical changes in temperature affect the
+air pressure in the container.
+
+Inspection of Stored Engines
+Most maintenance shops provide a scheduled inspection
+system for engines in storage. Normally, the humidity
+indicators on engines stored in shipping cases are inspected
+every 30 days. When the protective envelope must be opened
+to inspect the humidity indicator, the inspection period may
+be extended to once every 90 days, if local conditions permit.
+The humidity indicator of a metal container is inspected every
+180 days under normal conditions.
+If the humidity indicator in a wooden shipping case shows
+by its color that more than 30 percent relative humidity is
+present in the air around the engine, all desiccants should
+be replaced. If more than half the dehydrator plugs installed
+in the spark plug holes indicate the presence of excessive
+moisture, the interior of the cylinders should be resprayed.
+If the humidity indicator in a metal container gives a safe
+blue indication, but air pressure has dropped below 1 psi, the
+container needs only to be brought to the proper pressure with
+8-21
+
+===== PDF PAGE 349 =====
+dehydrated air. However, if the humidity indicator shows an
+unsafe (pink) condition, the engine should be represerved.
+
+Preservation & Depreservation of Gas
+Turbine Engines
+The procedures for preserving and depreserving gas turbine
+engines vary depending upon the length of inactivity, the
+type of preservative used, and whether or not the engine
+may be rotated during the inactive period. Much of the basic
+information on corrosion control presented in the section on
+reciprocating engines is applicable to gas turbine engines.
+However, the requirements for the types of preservatives and
+their use are normally different.
+The lubrication system is usually drained and may or may
+not be flushed with preservative oil. The engine fuel system
+is generally filled with preservative oil, including the fuel
+control. Before the engine can be returned to service,
+the preservative oil must be completely flushed from the
+fuel system by motoring the engine and bleeding the fuel
+system. Always follow the manufacturer’s instructions
+when performing any preservation or depreservation of gas
+turbine engines.
+
+8-22
+

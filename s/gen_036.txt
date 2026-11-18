@@ -1,0 +1,2057 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 499-517
+
+===== PDF PAGE 499 =====
+Inductors in Parallel
+When two inductors are connected in parallel, each must
+have the same potential difference between the terminals.
+[Figure 12-129] When inductors are connected in parallel,
+the total inductance is less than the smallest inductance. The
+general equation for n number of inductors in parallel is:
+
+Opposing magnetic fields
+
+Current
+
+eee
+A
+
+eee
+
+LT =
+
+Coils with some separation
+Combined magnetic fields
+
+1
+L1
+
+1
+
+1
++
+L2
+
++
+
+1
+1
++...
+L3
+LN
+
+A simple example would be:
+L1 = 10 mH, L2 = 5 mH, L3 = 2 mH
+Current
+
+eee
+B
+
+1
+1
+1
+1
++
++
+10 mH
+5 mH 2 mH
+1
+LT =
+0.8 mH
+
+eee
+
+LT =
+
+Coils without separation
+
+LT = 1.25 mH
+North
+
+South
+
+Current
+eee
+
+eee
+
+C
+
+Strong magnetic field in a coil
+
+Figure 12-125. Many loops of a coil.
+
+Units of Inductance
+The henry is the basic unit of inductance and is symbolized
+with the letter H. An electric circuit has an inductance of one
+henry when current changing at the rate of one ampere per
+second induces a voltage of one volt into the circuit. In many
+practical applications, millihenries (mH) and microhenries
+(μH) are more common units. The typical symbol for an
+inductor is shown in Figure 12-127.
+Inductors in Series
+If we connect two inductors in series, the same current flows
+through both inductors and, therefore, both are subject to
+the same rate of change of current. [Figure 12-128] When
+inductors are connected in series, the total inductance LT, is
+the sum of the individual inductors. The general equation for
+n number of inductors in series is:
+LT = L1 + L2 + L3 + … LN
+
+Inductive Reactance
+Alternating current is in a constant state of change; the effects
+of the magnetic fields are a continuously inducted voltage
+opposition to the current in the circuit. This opposition
+is called inductive reactance, symbolized by XL, and is
+measured in ohms just as resistance is measured. Inductance
+is the property of a circuit to oppose any change in current and
+is measured in henries. Inductive reactance is a measure of
+how much the countering emf in the circuit opposes current
+Current
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+95%
+
+86%
+
+98%
+
+63%
+
+1t
+
+99%
+
+Applied
+voltage
+
+2t
+
+3t
+
+4t
+
+5t
+
+Counter emf
+Current, counter emf, and applied voltage in an inductive circuit.
+Figure 12-126. Inductor curve.
+
+12-58
+
+===== PDF PAGE 500 =====
+variations.
+
+the individual reactances.
+
+The inductive reactance of a component is directly
+proportional to the inductance of the component and the
+applied frequency to the circuit. By increasing either the
+inductance or applied frequency, the inductive reactance
+likewise increases and presents more opposition to current
+in the circuit. This relationship is given as:
+
+The total reactance of inductors connected in parallel is found
+the same way as the total resistance in a parallel circuit.
+[Figure 12-132] Thus, the total reactance of inductances
+connected in parallel, as shown, is expressed as:
+
+XL = 2πfL
+Where: XL = inductive reactance in ohms
+f = frequency in cycles per second
+π = 3.1416
+L = inductance
+In Figure 12-130, an AC series circuit is shown in which the
+inductance is 0.146 henry and the voltage is 110 volts at a
+frequency of 60 cps. Inductive reactance is determined by
+the following method.
+XL = 2π × f × L
+XL = 6.28 × 60 × 0.146
+XL = 55 ohm
+In any circuit where there is only resistance, the expression
+for the relationship of voltage and current is given by Ohm’s
+Law: I = E/R. Similarly, when there is inductance in an AC
+circuit, the relationship between voltage and current can be
+expressed as:
+Current =
+
+Voltage
+E
+or I =
+Reactance
+XL
+
+Where:
+
+XL = inductive reactance of the circuit in ohms
+
+(XL)T =
+
+1
+(XL)1
+
+AC Circuits
+Ohm’s Law for AC Circuits
+The rules and equations for DC circuits apply to AC circuits
+only when the circuits contain resistance alone, as in the case
+of lamps and heating elements. In order to use effective values
+of voltage and current in AC circuits, the effect of inductance
+and capacitance with resistance must be considered.
+The combined effects of resistance, inductive reactance,
+and capacitive reactance make up the total opposition to
+current flow in an AC circuit. This total opposition is called
+impedance and is represented by the letter Z. The unit for
+the measurement of impedance is the ohm.
+Series AC Circuits
+If an AC circuit consists of resistance only, the value of the
+impedance is the same as the resistance, and Ohm’s Law for
+an AC circuit, I = E/Z, is exactly the same as for a DC circuit.
+In Figure 12-133, a series circuit containing a lamp with 11
+ohms resistance connected across a source is illustrated. To
+find how much current flows if 110 volts DC is applied and
+how much current flows if 110 volts AC are applied, the
+following examples are solved:
+E
+R
+110 V
+I=
+11 W
+
+E
+XL
+110
+I=
+55
+I=
+
+I = 2 amperes
+
+In AC series circuits, inductive reactances are added like
+resistances in series in a DC circuit. [Figure 12-131] Thus,
+the total reactance in the illustrated circuit equals the sum of
+
+1
+1
+1
++
++
+(XL)2 (XL)3
+
+E
+(where Z = R)
+Z
+110 V
+I=
+11 W
+
+I=
+
+I=
+
+I = 10 amperes DC
+
+I = 10 amperes AC
+
+When AC circuits contain resistance and either inductance
+or capacitance, the impedance, Z, is not the same as the
+
++
+
+L1
+
+L2
+
+−
+Inductor
+Figure 12-127. Typical symbol for an inductor.
+
+Figure 12-128. Two inductors in series.
+
+12-59
+
+===== PDF PAGE 501 =====
++
+L1
+
+L2
+
+−
+
+inductance connected in series is connected to a source of
+110 volts at 60 cps. The resistive element is a lamp with 6
+ohms resistance, and the inductive element is a coil with an
+inductance of 0.021 henry. What is the value of the impedance
+and the current through the lamp and the coil?
+
+Solution:
+First, the inductive reactance of the coil is computed:
+
+Figure 12-129. Two inductors in parallel.
+
+resistance, R. The impedance of a circuit is the circuit’s
+total opposition to the flow of current. In an AC circuit,
+this opposition consists of resistance and reactance, either
+inductive or capacitive or elements of both.
+Resistance and reactance cannot be added directly, but they
+can be considered as two forces acting at right angles to
+each other. Thus, the relation between resistance, reactance,
+and impedance may be illustrated by a right triangle.
+[Figure 12-134]
+Since these quantities may be related to the sides of a right
+triangle, the formula for finding the impedance, or total
+opposition to current flow in an AC circuit, can be found
+by using the law of right triangles. This theorem, called the
+Pythagorean theorem, applies to any right triangle. It states
+that the square of the hypotenuse is equal to the sum of the
+squares of the other two sides. Thus, the value of any side of a
+right triangle can be found if the other two sides are known. If
+an AC circuit contains resistance and inductance, as shown in
+Figure 12-135, the relation between the sides can be stated as:
+Z2 = R2 + XL2
+
+XL = 2π × f × L
+XL = 6.28 × 60 × 0.021
+XL = 8 ohms inductive reactance
+Next, the total impedance is computed:
+Z = R2 + XL2
+Z = 62 + 82
+Z = 36 + 64
+Z = 100
+Z = 10 ohms impedance
+Then the current flow,
+I=
+
+E
+Z
+
+I=
+
+110
+10
+
+I = 11 amperes current
+
+110V AC
+60 cycles
+
+The square root of both sides of the equation gives
+Z=
+
+R2 + XL2
+
+This formula can be used to determine the impedance when
+the values of inductive reactance and resistance are known. It
+can be modified to solve for impedance in circuits containing
+capacitive reactance and resistance by substituting XC in the
+formula in place of XL. In circuits containing resistance with
+both inductive and capacitive reactance, the reactances can be
+combined, but because their effects in the circuit are exactly
+opposite, they are combined by subtraction:
+
+A
+Figure 12-130. AC circuit containing inductance.
+
+XL1
+
+XL2
+
+X = XL − XC or X = XC − XL (the smaller number is
+always subtracted from the larger)
+In Figure 12-135, a series circuit consisting of resistance and
+
+Figure 12-131. Inductances in series.
+
+12-60
+
+===== PDF PAGE 502 =====
+The voltage drop across the resistance (ER) is:
+ER = I × R
+ER = 11 × 6 = 66 volts
+110 V
+
+The voltage drop across the inductance (EXL) is:
+EXL = I × XL
+EXL = 11 × 8 = 88 volts
+The sum of the two voltages is greater than the impressed
+voltage. This results from the fact that the two voltages are
+out of phase and, as such, represent the maximum voltage.
+If the voltage in the circuit is measured by a voltmeter, it is
+approximately 110 volts, the impressed voltage. This can be
+proved by the equation:
+E = (ER)2 + (EXL)2
+E = 662 + 882
+E = 4,356 + 7,744
+E = 12,100
+E = 110 volts
+
+Figure 12-133. Applying DC and AC to a circuit.
+
+XC = 13 ohms capacitive reactance
+To find the impedance,
+Z = R2 + XC2
+Z = 102 + 132
+Z = 100 + 169
+Z = 269
+Z = 16.4 ohms capacitive reactance
+To find the current,
+
+In Figure 12-136, a series circuit is illustrated in which a
+capacitor of 200 µf is connected in series with a 10 ohm
+lamp. What is the value of the impedance, the current flow,
+and the voltage drop across the lamp?
+
+Solution:
+First, the capacitance is changed from microfarads to farads.
+Since 1 million microfarads equal 1 farad, then:
+200
+= 0.000200 farads
+1,000,000
+1
+XC =
+2πfC
+1
+XC =
+6.28 × 60 × 0.000200 farads
+1
+XC =
+0.07536
+200 μf =
+
+I = 6.7 amperes
+The voltage drop across the lamp (ER) is:
+ER = 6.7 × 10
+ER = 67 volts
+The voltage drop across the capacitor (EXC) is
+EXC = I × XC
+EXC = 6.7 × 13
+EXC = 86.1 volts
+
+XL2
+
+Reactance
+
+XL1
+
+E
+Z
+110
+I=
+16.4
+I=
+
+Impedance
+XL − XC
+
+Z
+
+R
+Resistance
+Figure 12-132. Inductances in parallel.
+
+Figure 12-134. Impedance triangle.
+
+12-61
+
+===== PDF PAGE 503 =====
+6Ω
+110V AC
+60 cycles
+
+0.021 henries
+
+A
+Figure 12-135. A circuit containing resistance and inductance.
+
+The sum of these two voltages does not equal the applied
+voltage, since the current leads the voltage. To find the
+applied voltage, use the following formula:
+ET =		 (ER)2 + (EXC)2
+ET = 672 + 86.12
+ET = 4,489 + 7,413
+ET = 11,902
+ET = 110 volts
+When the circuit contains resistance, inductance, and
+capacitance, the following equation is used to find the
+impedance:
+Z=
+
+R2 + (XL – XC)2
+
+Example: What is the impedance of a series circuit,
+consisting of a capacitor with a reactance of 7 ohms, an
+inductor with a reactance of 10 ohms, and a resistor with a
+resistance of 4 ohms? [Figure 12-137]
+
+Parallel AC Circuits
+The methods used in solving parallel AC circuit problems
+are basically the same as those used for series AC circuits.
+Out of phase voltages and currents can be added by using
+the law of right triangles. However, in solving circuit
+problems, the currents through the branches are added since
+the voltage drops across the various branches are the same
+and are equal to the applied voltage. In Figure 12-138, a
+parallel AC circuit containing an inductance and a resistance
+is shown schematically. The current flowing through the
+inductance, IL, is 0.0584 ampere, and the current flowing
+through the resistance is 0.11 ampere. What is the total
+current in the circuit?
+
+Solution:
+IT =
+=
+
+IL2 + IR2
+(0.0584)2 + (0.11)2
+
+= 0.0155
+= 0.1245 ampere
+Since inductive reactance causes voltage to lead the current,
+the total current, which contains a component of inductive
+current, lags the applied voltage. If the current and voltages
+are plotted, the angle between the two, called the phase angle,
+illustrates the amount the current lags the voltage.
+In Figure 12-139, a 112-volt generator is connected to a load
+consisting of a 2 µf capacitance and a 10,000-ohm resistance
+in parallel. What is the value of the impedance and total
+current flow?
+
+Solution:
+
+First, find the capacitive reactance of the circuit:
+
+Solution:
+Z = R2 + (XL – XC)2
+Z = 42 + (10 – 7)2
+Z = 42 + 32
+Z = 25
+Z = 5 ohms
+
+XC =
+
+Changing 2 μf to farads and entering the values into the
+formula given:
+
+Assuming that the reactance of the capacitor is 10 ohms and
+the reactance of the inductor is 7 ohms, then XC is greater
+than XL. Thus,
+Z = R2 + (XL – XC)2
+Z = 42 + (7 – 10)2
+Z = 42 + (–3)2
+Z = 16 + 9
+Z = 25
+Z = 5 ohms
+
+1
+2πfC
+
+10 Ω
+110 V AC
+60 cycles
+
+200 μf
+
+A
+Figure 12-136. A circuit containing resistance and capacitance.
+
+12-62
+
+===== PDF PAGE 504 =====
+=
+
+1
+2 × 3.14 × 60 × 0.000002
+
+1
+10,000
+=
+or
+0.00075360
+7.536
+= 1,327 XC capacitive reactance
+
+4Ω
+
+110 V AC
+60 cycles
+
+7Ω
+
+To find the impedance, the impedance formula used in a
+series AC circuit must be modified to fit the parallel circuit:
+Z=
+=
+
+RXC
+R2 + XC2
+10,000 × 1,327
+(10,000)2 + (1,327)2
+
+= 0.1315 W (approximately)
+To find the current through the capacitance:
+E
+XC
+110
+IC =
+1,327
+= 0.0829 ampere
+IC =
+
+To find the current flowing through the resistance:
+E
+R
+110
+=
+10,000
+= 0.011 ampere
+
+IR =
+
+To find the total current in the circuit:
+IT2 =
+
+IR2 + IC2
+
+IT = IL2 + IR2
+= 0.0836 ampere (approximately)
+Resonance
+It has been shown that both inductive reactance:
+(XL = 2πfL)
+and capacitive reactance:
+XC =
+
+1
+2πfC
+
+are functions of an AC frequency. Decreasing the frequency
+decreases the ohmic value of the inductive reactance, but a
+decrease in frequency increases the capacitive reactance. At
+some particular frequency, known as the resonant frequency,
+the reactive effects of a capacitor and an inductor is equal.
+
+10 Ω
+Figure 12-137. A circuit containing resistance, inductance, and
+
+capacitance.
+
+Since these effects are the opposite of one another, they will
+cancel, leaving only the ohmic value of the resistance to
+oppose current flow in a circuit. If the value of resistance is
+small or consists only of the resistance in the conductors, the
+value of current flow can become very high.
+In a circuit where the inductor and capacitor are in series,
+and the frequency is the resonant frequency, or frequency
+of resonance, the circuit is said to be “in resonance” and
+is referred to as a series resonant circuit. The symbol for
+resonant frequency is Fn.
+If, at the frequency of resonance, the inductive reactance is
+equal to the capacitive reactance, then:
+XL = XC, or
+1
+2πfL =
+2πfC
+Dividing both sides by 2 fL,
+Fn2 =
+
+1
+(2π) 2LC
+
+Extracting the square root of both sides gives:
+Fn =
+
+1
+2π
+
+LC
+
+Where Fn is the resonant frequency in cps, C is the
+capacitance in farads, and L is the inductance in henries.
+With this formula, the frequency at which a capacitor and
+inductor is resonant can be determined.
+To find the inductive reactance of a circuit use:
+XL = 2πfL
+The impedance formula used in a series AC circuit must be
+modified to fit a parallel circuit.
+
+12-63
+
+===== PDF PAGE 505 =====
+G
+
+IL
+
+5 henries
+
+IR
+1000 Ω
+
+Figure 12-138. AC parallel circuit containing inductance and
+
+resistance.
+
+Z=
+
+XL
+R2 = XL2
+
+To find the parallel networks of inductance and capacitive
+reactors, use:
+X=
+
+X L + XC
+X L + XC
+
+To find the parallel networks with resistance capacitive and
+inductance, use:
+Z=
+
+R XL XC
+XL2 XC2 + (RXL – RXC)2
+
+Since at the resonant frequency XL cancels XC, the current can
+become very large, depending on the amount of resistance. In
+such cases, the voltage drop across the inductor or capacitor
+is often higher than the applied voltage.
+
+G
+
+110V
+
+2 μf
+
+causes the current through the capacitor to lead the voltage
+by 90°, the two currents are 180° out of phase. The canceling
+effect of such currents would mean that no current would
+flow from the generator and the parallel combination of
+the inductor and the capacitor would appear as infinite
+impedance. In practice, no such circuit is possible, since some
+value of resistance is always present, and the parallel circuit,
+sometimes called a tank circuit, acts as very high impedance.
+It is also called an antiresonant circuit, since its effect in a
+circuit is opposite to that of a series resonant circuit, in which
+the impedance is very low.
+Power in AC Circuits
+In a DC circuit, power is obtained by the equation, P = EI,
+(watts equal volts × amperes). Thus, if 1 ampere of current
+flows in a circuit at a pressure of 200 volts, the power is 200
+watts. The product of the volts and the amperes is the true
+power in the circuit.
+True Power Defined
+True power of any AC circuit is commonly referred to as
+the working power of the circuit. True power is the power
+consumed by the resistance portion of the circuit and is
+measured in watts. True power is symbolized by the letter P
+and is indicated by any wattmeter in the circuit. True power
+is calculated by the formula:
+P = I2 × Z
+
+Apparent Power Defined
+
+Apparent power in an AC circuit is sometimes referred to as
+the reactive power of a circuit. Apparent power is the power
+consumed by the entire circuit, including both the resistance
+and the reactance. Apparent power is symbolized by the letter
+S and is measured in volt-amps (VA). Apparent power is a
+product of the effective voltage multiplied by the effective
+current. Apparent power is calculated by the formula:
+
+10,000 Ω
+
+Figure 12-139. A parallel AC circuit containing capacitance and
+
+resistance.
+
+In a parallel resonant circuit, the reactances are equal and
+equal currents flow through the coil and the capacitor.
+[Figure 12-140]
+Since the inductive reactance causes the current through the
+coil to lag the voltage by 90°, and the capacitive reactance
+
+S = I2 × Z
+Only when the AC circuit is made up of pure resistance is
+the apparent power equal to the true power. [Figure 12-141]
+When there is capacitance or inductance in the circuit, the
+current and voltage are not exactly in phase, and the true
+power is less than the apparent power. The true power is
+obtained by a wattmeter reading. The ratio of the true power
+to the apparent power is called the power factor and is usually
+expressed in percent. In equation form, the relationship is:
+Power Factor (PF) =
+
+100 × watts (True Power)
+volts × amperes (Apparent Power)
+
+Example: A 220-volt AC motor takes 50 amperes from the
+line, but a wattmeter in the line shows that only 9,350 watts
+12-64
+
+===== PDF PAGE 506 =====
+are taken by the motor. What are the apparent power and the
+power factor?
+
+Solution:
+Apparent power = Volts × Amperes
+Apparent power = 220 × 50 = 11,000 watts or
+
+volt-amperes.
+(PF) =
+
+Watts (True Power) × 100
+VA (Apparent Power)
+
+(PF) =
+
+9,350 × 100
+11,000
+
+(PF) = 85, or 85%
+
+Transformers
+A transformer changes electrical energy of a given voltage
+into electrical energy at a different voltage level. It consists of
+two coils that are not electrically connected, but are arranged
+so that the magnetic field surrounding one coil cuts through
+the other coil. When an alternating voltage is applied to
+(across) one coil, the varying magnetic field set up around that
+coil creates an alternating voltage in the other coil by mutual
+induction. A transformer can also be used with pulsating DC,
+but a pure DC voltage cannot be used, since only a varying
+voltage creates the varying magnetic field that is the basis
+of the mutual induction process.
+A transformer consists of three basic parts. [Figure 12-142]
+These are an iron core, which provides a circuit of low
+reluctance for magnetic lines of force; a primary winding,
+which receives the electrical energy from the source of applied
+voltage; and a secondary winding, which receives electrical
+energy by induction from the primary coil.
+The primary and secondary of this closed core transformer
+are wound on a closed core to obtain maximum inductive
+effect between the two coils.
+There are two classes of transformers: voltage transformers,
+used for stepping up or stepping down voltages; and
+current transformers used in instrument circuits. In voltage
+transformers, the primary coils are connected in parallel
+across the supply voltage. [Figure 12-143A] The primary
+windings of current transformers are connected in series in
+the primary circuit. [Figure 12-143B] Of the two types, the
+voltage transformer is the more common.
+There are many types of voltage transformers. Most of these
+are either step-up or step-down transformers. The factor
+that determines whether a transformer is a step-up or stepdown type is the “turns” ratio. The turns ratio is the ratio of
+the number of turns in the primary winding to the number
+of turns in the secondary winding. For example, the turns
+ratio of the step-down transformer is 5 to 1, since there are
+
+five times as many turns in the primary as in the secondary.
+[Figure 12-144A] The step-up transformer has a 1 to 4 turns
+ratio. [Figure 12-144B]
+The ratio of the transformer input voltage to the output
+voltage is the same as the turns ratio if the transformer is
+100 percent efficient. Thus, when 10 volts are applied to
+the primary of the transformer, two volts are induced in the
+secondary. [Figure 12-144A] If 10 volts are applied to the
+primary of the transformer, the output voltage across the
+terminals of the secondary is 40 volts. [Figure 12-144B]
+No transformer can be constructed that is 100 percent
+efficient, although iron core transformers can approach this
+figure. This is because all the magnetic lines of force set up
+in the primary do not cut across the turns of the secondary
+coil. A certain amount of the magnetic flux, called leakage
+flux, leaks out of the magnetic circuit. The measure of how
+well the flux of the primary is coupled into the secondary
+is called the “coefficient of coupling.” For example, if it is
+assumed that the primary of a transformer develops 10,000
+lines of force and only 9,000 cut across the secondary, the
+coefficient of coupling would be 0.9. Stated another way, the
+transformer would be 90 percent efficient.
+When an AC voltage is connected across the primary terminals
+of a transformer, an AC flows and self induces a voltage in the
+primary coil that is opposite and nearly equal to the applied
+voltage. The difference between these two voltages allows
+just enough current in the primary to magnetize its core. This
+is called the exciting, or magnetizing, current. The magnetic
+field caused by this exciting current cuts across the secondary
+coil and induces a voltage by mutual induction.
+If a load is connected across the secondary coil, the load current
+flowing through the secondary coil produces a magnetic field
+that tends to neutralize the magnetic field produced by the
+primary current. This reduces the self-induced (opposition)
+voltage in the primary coil and allows more primary current
+
+Figure 12-140. A parallel resonant circuit.
+
+12-65
+
+===== PDF PAGE 507 =====
+to flow. The primary current increases as the secondary load
+current increases, and decreases as the secondary load current
+decreases. When the secondary load is removed, the primary
+current is again reduced to the small exciting current sufficient
+only to magnetize the iron core of the transformer.
+If a transformer steps up the voltage, it steps down the current
+by the same ratio. This should be evident if the power formula
+is considered, for the power (I × E) of the output (secondary)
+electrical energy is the same as the input (primary) power
+minus that energy loss in the transforming process. Thus,
+if 10 volts and 4 amps (40 watts of power) are used in the
+primary to produce a magnetic field, there is 40 watts of
+power developed in the secondary (disregarding any loss).
+If the transformer has a step-up ratio of 4 to 1, the voltage
+across the secondary is 40 volts and the current is 1 amp. The
+voltage is 4 times greater and the current is one-fourth the
+primary circuit value, but the power (I × E value) is the same.
+When the turns ratio and the input voltage are known, the
+output voltage can be determined as follows:
+E2
+N
+= 2
+E1
+N1
+Where E is the voltage of the primary, E2 is the output voltage
+of the secondary, and N1 and N2 are the number of turns of
+the primary and secondary, respectively.
+Transposing the equation to find the output voltage gives:
+E2 =
+
+E1 N2
+N1
+
+The most commonly used types of voltage transformers are:
+1.
+
+Power transformers are used to step up or step down
+voltages and current in many types of power supplies.
+They range in size from the small power transformer
+[Figure 12-145] used in a radio receiver to the large
+transformers used to step down high power line
+
+voltage to the 110–120 volt level used in homes.
+Figure 12-146 shows the schematic symbol for an
+iron core transformer. In this case, the secondary is
+made up of three separate windings. Each winding
+supplies a different circuit with a specific voltage,
+which saves the weight, space, and expense of three
+separate transformers. Each secondary has a midpoint
+connection called a “center tap,” which provides a
+selection of half the voltage across the whole winding.
+The leads from the various windings are color coded
+by the manufacturer. [Figure 12-146] This is a standard
+color code, but other codes or numbers may be used.
+2.
+
+Audio transformers resemble power transformers. They
+have only one secondary and are designed to operate
+over the range of audio frequencies (20 to 20,000 cps).
+
+3.
+
+RF transformers are designed to operate in equipment
+that functions in the radio range of frequencies. The
+symbol for the RF transformer is the same as for an RF
+choke coil. It has an air core as shown in Figure 12-147.
+
+4.
+
+Autotransformers are normally used in power circuits;
+however, they may be designed for other uses. Two
+different symbols for autotransformers used in power
+or audio circuits are shown in Figure 12-148. If
+used in an RF communication or navigation circuit
+[Figure 12-148B], it is the same, except there is no
+symbol for an iron core. The autotransformer uses
+part of a winding as a primary; and, depending on
+whether it is step up or step down, it uses all or part
+of the same winding as the secondary. For example,
+the autotransformer shown in Figure 12-148A could
+use the following possible choices for primary and
+secondary terminals.
+
+Reactive power
+
+Primary coil
+
+Apparent power
+volts x amperes
+S
+
+True power
+Watts
+
+P
+
+Iron
+
+core
+Secondary coil
+
+Figure 12-141. Power relations in AC circuit.
+Figure 12-142. An iron-core transformer.
+
+12-66
+
+===== PDF PAGE 508 =====
+AC power supply
+
+AC power supply
+
+Load
+
+Meter
+A
+
+To load
+
+B
+
+Figure 12-143. Voltage and current transformers.
+
+Current Transformers
+Current transformers are used in AC power supply systems
+to sense generator line current and to provide a current,
+proportional to the line current, for circuit protection and
+control devices.
+The current transformer is a ring-type transformer using a
+current carrying power lead as a primary (either the power
+lead or the ground lead of the AC generator). The current in
+
+10 turns
+primary
+
+2 turns
+secondary
+
+Transformer Losses
+In addition to the power loss caused by imperfect coupling,
+transformers are subject to “copper” and “iron” losses. The
+resistance of the conductor comprising the turns of the coil
+causes copper loss. The iron losses are of two types: hysteresis
+loss and eddy current loss. Hysteresis loss is the electrical
+energy required to magnetize the transformer core, first in
+one direction and then in the other, in step with the applied
+alternating voltage. Eddy current loss is caused by electric
+currents (eddy currents) induced in the transformer core by
+the varying magnetic fields. To reduce eddy current losses,
+cores are made of laminations coated with an insulation,
+which reduces the circulation of induced currents.
+Power in Transformers
+Since a transformer does not add any electricity to the circuit
+but merely changes or transforms the electricity that already
+exists in the circuit from one voltage to another, the total
+amount of energy in a circuit must remain the same. If it were
+possible to construct a perfect transformer, there would be no
+loss of power in it; power would be transferred undiminished
+from one voltage to another.
+Since power is the product of volts times amperes, an increase
+in voltage by the transformer must result in a decrease in
+current and vice versa. There cannot be more power in the
+secondary side of a transformer than there is in the primary.
+The product of amperes times volts remains the same.
+
+A
+
+2 turns
+primary
+
+the primary induces a current in the secondary by magnetic
+induction. The sides of all current transformers are marked
+“H1” and “H2” on the unit base. The transformers must
+be installed with the “H1” side toward the generator in the
+circuit in order to have proper polarity. The secondary of the
+transformer should never be left open while the system is being
+operated; to do so could cause dangerously high voltages and
+could overheat the transformer. Therefore, the transformer
+output connections should always be connected with a jumper
+when the transformer is not being used but is left in the system.
+
+8 turns
+secondary
+
+The transmission of power over long distances is accomplished
+by using transformers. At the power source, the voltage is
+stepped up in order to reduce the line loss during transmission.
+At the point of utilization, the voltage is stepped down, since
+it is not feasible to use high voltage to operate motors, lights,
+or other electrical appliances.
+
+DC Measuring Instruments
+B
+
+Figure 12-144. A step-down and a step-up transformer.
+
+Understanding the functional design and operation of
+electrical measuring instruments is very important, since
+they are used in repairing, maintaining, and troubleshooting
+electrical circuits. The best and most expensive measuring
+instrument is of no use unless the technician knows what is
+12-67
+
+===== PDF PAGE 509 =====
+being measured and what each reading indicates. The purpose
+of the meter is to measure quantities existing in a circuit. For
+this reason, when a meter is connected to a circuit, it must
+not change the characteristics of that circuit.
+Meters are either self-excited or externally excited. Those that
+are self-excited operate from a power source within the meter.
+Externally-excited meters get their power source from the
+circuit that they are connected to. The most common analog
+meters in use today are the voltmeter, ammeter, and ohmmeter.
+All of which operate on the principles of electromagnetism.
+The fundamental principle behind the operation of the meter
+is the interaction between magnetic fields created by a current
+gathered from the circuit in some manner. This interaction is
+between the magnetic fields of a permanent magnet and the
+coils of a rotating magnet. The greater the current through the
+coils of the rotating magnet, the stronger the magnetic field
+produced. A stronger field produces greater rotation of the coil.
+While some meters can be used for both DC and AC circuit
+measurement, only those used as DC instruments are discussed
+in this section. The meters used for AC, or for both AC and
+DC, are discussed in the study of AC theory and circuitry.
+D’Arsonval Meter Movement
+This basic DC type of meter movement—first employed
+by the French scientist, d’Arsonval, in making electrical
+measurement—is a current measuring device, which is
+used in the ammeter, voltmeter, and ohmmeter. The pointer
+is deflected in proportion to the amount of current through
+the coil. Basically, both the ammeter and the voltmeter are
+current measuring instruments, the principal difference being
+the method in which they are connected in a circuit. While an
+ohmmeter is also basically a current measuring instrument,
+it differs from the ammeter and voltmeter in that it provides
+its own source (self-excited) of power and contains other
+auxiliary circuits.
+
+Red
+Iron core
+
+Black
+
+Primary
+
+Red - Yellow
+
+High-voltage
+winding
+
+Red
+Yellow
+Yellow - Blue
+
+5-volt winding
+
+Yellow
+Black
+
+Green
+Green - Yellow
+Green
+
+6-volt winding
+
+Secondary windings
+Figure 12-146. Schematic symbol for an iron-core power
+
+transformer.
+
+Figure 12-147. An air-core transformer.
+
+Current Sensitivity and Resistance
+The current sensitivity of a meter movement is the amount of
+current required to drive the meter movement to a full-scale
+deflection. A simple example would be a meter movement
+that has 1 mA sensitivity. What this indicates is that meter
+movement requires 1 mA of current to move the needle to
+a full-scale indication. Likewise, a half-scale deflection
+requires only 0.5 mA of current. Additionally, what is called
+Primary
+
+Secondary
+used with
+“
+”
+“
+”
+“
+”
+“
+”
+“
+”
+“
+”
+
+1–2
+1–2
+1–3
+1–3
+2–3
+2–3
+
+1–3
+2–3
+1–2
+2–3
+1–3
+1–2
+
+1
+
+2
+
+Input
+Output
+
+3
+A
+Figure 12-145. Power supply transformer.
+
+B
+
+Figure 12-148. Autotransformers.
+
+12-68
+
+===== PDF PAGE 510 =====
+movement resistance is the actual DC resistance of the wire
+used to construct the meter coil.
+In a standard d’Arsonval meter, movement may have a
+current sensitivity of 1 mA and a resistance of 50 Ω. If the
+meter is going to be used to measure more than 1 mA, then
+additional circuitry is required to accomplish the task. This
+additional circuitry is a simple shunt resistor. The purpose
+of the shunt resistor is to bypass current that exceeds the
+1 mA limitation of the meter movement. To illustrate this,
+assume that the 1 mA meter in question is needed to measure
+10 mA. The shunt resistor used should carry 9 mA while
+the remaining 1 mA is allowed to pass through the meter.
+[Figure 12-149]
+To determine the proper shunt resistance for this situation:
+RSH = Shunt resistance
+RM = Meter resistance = 50 Ω
+Because the shunt resistance and the 50 Ω meter resistance are
+in parallel, the voltage drop across both of them is the same.
+ESH = EM
+Using Ohm’s Law, this relationship can be rewritten as:
+ESH = ISH × RSH
+EM = IM × RM
+ISH × RSH = IM × RM
+Simply solve for RSH
+RSH =
+
+IM × RM
+ISH
+
+Substituting the values
+ImA × 50 Ω
+RSH =
+= 5.56 Ω
+9 mA
+Damping
+To make meter readings quickly and accurately, it is
+desirable that the moving pointer overshoot its proper
+position only a small amount and come to rest after not more
+than one or two small oscillations. The term “damping” is
+applied to methods used to bring the pointer of an electrical
+meter to rest after it has been set in motion. Damping may
+be accomplished by electrical means, by mechanical means,
+or by a combination of both.
+
+Electrical Damping
+A common method of damping by electrical means is to wind
+the moving coil on an aluminum frame. As the coil moves
+in the field of the permanent magnet, eddy currents are set
+up in the aluminum frame. The magnetic field produced by
+the eddy currents opposes the motion of the coil. The pointer
+therefore swings more slowly to its proper position and comes
+to rest quickly with very little oscillation.
+Mechanical Damping
+Air damping is a common method of damping by mechanical
+means. As shown in Figure 12-150, a vane is attached to the
+shaft of the moving element and enclosed in an air chamber.
+The movement of the shaft is retarded because of the
+resistance that the air offers to the vane. Effective damping is
+achieved if the vane nearly touches the walls of the chamber.
+A Basic Multirange Ammeter
+Building upon the basic meter previously discussed is the more
+complex and useful multirange meter, which is more practical.
+The basic idea of a multirange ammeter is to make the meter
+usable over a wide range of voltages. In order to accomplish
+this, each range must utilize a different shunt resistance. The
+example given in this handbook is that of a two-range meter.
+However, once the basics of a two-range multirange ammeter
+are understood, the concepts can easily be transferred to the
+design of meters with many selectable ranges.
+Figure 12-151 shows the schematic of an ammeter with two
+selectable ranges. This example builds upon the previous
+10 mA range meter by adding a 100 mA range. With the
+switch selected to the 10 mA range, the meter indicates
+10 mA when the needle is deflected to full-scale and likewise
+indicates 100 mA at full-scale when selected to 100 mA. The
+value of the 100 mA shunt resistor is determined the same
+way the 10 mA shunt resistor was determined. Recall that
+the meter movement can only carry 1 mA. This means that
+in a 100 mA range the remaining current of 99 mA must pass
+through the shunt resistor.
+RSH =
+
+IM × RM
+ISH
+
+Substituting the values:
+ImA × 50 Ω
+RSH =
+= 0.51 Ω
+99 mA
+
+Precautions
+The precautions to observe when using an ammeter are
+summarized as follows:
+1.
+
+Always connect ammeter in series with the element
+
+12-69
+
+===== PDF PAGE 511 =====
+2.
+
+3.
+
+4.
+
+through which the current flow is to be measured.
+
+The Voltmeter
+
+Never connect an ammeter across a source of voltage,
+such as a battery or generator. Remember that the
+resistance of an ammeter, particularly on the higher
+ranges, is extremely low and that any voltage, even a
+volt or so, can cause very high current to flow through
+the meter, causing damage to it.
+
+The voltmeter uses the same type of meter movement as
+the ammeter but employs a different circuit external to the
+meter movement.
+
+Use a range large enough to keep the deflection less
+than full-scale. Before measuring a current, form
+some idea of its magnitude. Then switch to a large
+enough scale or start with the highest range and
+work down until the appropriate scale is reached. The
+most accurate readings are obtained at approximately
+half-scale deflection. Many milliammeters have been
+ruined by attempts to measure amperes. Therefore,
+be sure to read the lettering either on the dial or on
+the switch positions and choose proper scale before
+connecting the meter in the circuit.
+Observe proper polarity in connecting the meter in the
+circuit. Current must flow through the coil in a definite
+direction in order to move the indicator needle up
+scale. Current reversal because of incorrect connection
+in the circuit results in a reversed meter deflection and
+frequently causes bending of the meter needle. Avoid
+improper meter connections by observing the polarity
+markings on the meter.
+
+IMM
+
+ISH
+
+[−]
+RSH
+
+9 mA
+[+]
+
+ISH
+
+[−]
+RSH
+
+Basic ammeter
+
+RM =
+
+950 mV
+= 19k Ω
+50 μA
+
+Therefore, for 1 volt full-scale deflection, the total resistance
+of the voltmeter is 20k Ω. That is, the multiplier resistance
+and the coil resistance.
+
+Multiple Range Voltmeters
+The simplified voltmeter in Figure 12-152 has only one range
+(1 volt), which means that it can measure voltages from 0
+volts to 1 volt. In order for the meter to be more useful,
+additional multiplier resistors must be used. One resistor
+must be used for each desired range.
+For a 50 μA movement, the total resistance required is 20k
+Ω for each volt of full-scale reading. In other words, the
+sensitivity for a 50 μA movement is always 20k Ω regardless
+of the selected range. The full-scale meter current is 50 μA at
+any range selection. To find the total meter resistance, multiply
+the sensitivity by the full-scale voltage for that particular range.
+
+Meter movement
+1 mA
+
+10 mA
+
+The meter movement drops 50 mV at a full-scale deflection of
+50 μA. The multiplying resistor RM must drop the remaining
+voltage of 1 V − 50 mV = 950 mV. Since RM is in series with
+the movement, it also carries 50 μA at full scale.
+
+Voltmeter Sensitivity
+Voltmeter sensitivity is defined in terms of resistance per
+volt (Ω/V). The meter used in the previous example has a
+sensitivity of 20k Ω and a full-scale deflection of 1 volt.
+
+Meter movement
+
+[+]
+
+As shown before, the voltage drop across the meter coil
+is a function of current and the coil resistance. In another
+example, 50 μA × 1,000 Ω = 50 mV. In order for the meter to
+be used to measure voltages greater than 50 mV, there must
+be added a series resistance to drop any excess voltage greater
+than that which the meter movement requires for a full-scale
+deflection. The case of the voltmeter, this resistance is called
+multiplier resistance and is designated as RM. [Figure 12-152]
+The voltmeter only has one multiplier resistor for use in one
+range. In this example, the full-scale reading is 1 volt. RM is
+determined in the following way:
+
+For example for a 10 volt range, RT = (20k Ω/V) (10V) = 200k Ω.
+The total resistance for the 1 volt range is 20k Ω, so RM for
+a 10 V range is 200k Ω − 20k Ω = 180k Ω. [Figure 12-153]
+
+Figure 12-149. Basic meter drawing.
+
+12-70
+
+===== PDF PAGE 512 =====
+The Ohmmeter
+
+Closed air chamber
+
+Light vane swinging in
+chamber with small
+clearance
+
+Figure 12-150. Air damping.
+
+Voltmeter Circuit Connections
+When voltmeters are used, they are connected in parallel
+with a circuit. If unsure about the voltage to be measured,
+take the first reading at the high value on the meter and then
+progressively move down through the range until a suitable
+read is obtained. Observe that the polarity is correct before
+connecting the meter to the circuit or damage occurs by
+driving the movement backwards.
+Influence of the Voltmeter in the Circuit
+When a voltmeter is connected across two points in a circuit,
+current is shunted. If the voltmeter has low resistance, it draws
+off a significant amount of current. This lowers the effective
+resistance of the circuit and change the voltage readings.
+When making a voltage measurement, use a high resistance
+voltmeter to prevent shunting of the circuit.
+
+1mA, 50 ohm movement
+
+The meter movement used for the ammeter and the voltmeter
+can also be used for the ohmmeter. The function of the
+ohmmeter is to measure resistance. A simplified one-stage
+ohmmeter is illustrated in Figure 12-154, which shows that
+the basic ohmmeter contains a battery and a variable resistor
+in series with the meter movement. To measure resistance, the
+leads of the meter are connected across an external resistance,
+which is to be measured. By doing this, the ohmmeter circuit
+is completed. This connection allows the internal battery
+to produce a current through the movement coil, causing
+a deflection of the pointer proportional to the value of the
+external resistance being measured.
+Zero Adjustment
+When the ohmmeter leads are open, the meter is at a full-scale
+deflection, indicating an infinite (∞) resistance or an open
+circuit. [Figure 12-155] When the leads are shorted as shown
+in figure “zero adjust,” the pointer is at the full right-hand
+position, indicating a short circuit or zero resistance. The
+purpose of the variable resistor in this figure is to adjust the
+current so that the pointer is at exactly zero when the leads
+are shorted. This is used to compensate for changes in the
+internal battery voltage due to aging.
+Ohmmeter Scale
+Figure 12-156 shows a typical analog ohmmeter scale.
+Between zero and infinity (∞), the scale is marked to indicate
+various resistor values. Because the values decrease from left
+to right, this scale is often called a back-off scale.
+In the case of the example given, assume that a certain
+ohmmeter uses a 50 μA, 1,000 Ω meter movement and has
+an internal 1.5 volt battery. A current of 50 μA produces a
+full-scale deflection when the test leads are shorted. To have
+50 μA, the total ohmmeter resistance is 1.5 V/50 μA = 30k Ω.
+Therefore, since the coil resistance is 1k Ω, the variable zero
+adjustment resistor must be set to 30k Ω – 1k Ω = 29k Ω.
+Now consider that a 120k Ω resistor is connected to
+the ohmmeter leads. Combined with the 30k Ω internal
+resistance, the total R is 150k Ω. The current is 1.5 V/150k
+Ω = 10 μA, which is 20 percent of the full-scale current and
+appears on the scale shown in Figure 12-156.
+
+10mA
+[+]
+
+5.56Ω
+[−]
+5.51Ω
+
+100mA
+Figure 12-151. Ammeter with two ranges.
+
+Now consider further that a 120k Ω resistor is connected to
+the ohmmeter leads. This results in a current of 1.5 V/75k Ω =
+10 μA, which is 40 percent of the full-scale current and
+marked on the scale. Additional calculations of this type
+show that the scale is nonlinear. It is more compressed
+toward the left side than the right side. The center scale point
+corresponds to the internal meter resistance of 30k Ω. The
+reason is as follows:
+12-71
+
+===== PDF PAGE 513 =====
+With 30k Ω connected to the leads, the current is 1.5 V/60k Ω
+= 25 μA, which is half of the full-scale current of 50 μA.
+The Multirange Ohmmeter
+A practical ohmmeter has several operational ranges. These
+typically are indicated by R × 1, R × 10, R × 100, R × 1k,
+R × 100k and R × 1M. These range selections are interpreted
+in a different manner than that of an ammeter or voltmeter.
+The reading on the ohmmeter scale is multiplied by the factor
+indicated by the range setting. For example, if the pointer is
+set on the scale and the range switch is set at R × 100, the
+actual resistance measurement is 20 × 100 or 2k Ω.
+To measure small resistance values, the technician must use
+a higher ohmmeter current than is needed for measuring
+large resistance values. Shunt resistors are needed to provide
+multiple ranges on the ohmmeter to measure a range of
+resistance values from the very small to very large. For each
+range, a different value of shunt resistance is switched in.
+The shunt resistance increases for higher ohm ranges and
+is always equal to the center scale reading on any selected
+range. In some meters, a higher battery voltage is used for
+the highest ohm range. [Figure 12-157]
+Megger (Megohmmeter)
+The megger, or megohmmeter, is a high range ohmmeter
+containing a hand-operated generator. It is used to measure
+insulation resistance and other high-resistance values. It is
+also used for ground, continuity, and short-circuit testing of
+electrical power systems. The chief advantage of the megger
+over an ohmmeter is its capacity to measure resistance with a
+high potential, or “breakdown” voltage. This type of testing
+ensures that insulation or a dielectric material will not short
+or leak under potential electrical stress.
+The megger consists of two primary elements, both of which
+are provided with individual magnetic fields from a common
+permanent magnet: a hand-driven DC generator, G, which
+supplies the necessary current for making the measurement;
+and the instrument portion, which indicates the value of the
+resistance being measured. The instrument portion is of the
+opposed coil type. Coils A and B are mounted on the movable
+member with a fixed angular relationship to each other and
+are free to turn as a unit in a magnetic field. Coil B tends to
+
+move the pointer counterclockwise and coil A, clockwise. The
+coils are mounted on a light, movable frame that is pivoted in
+jewel bearings and free to move about axis 0. [Figure 12-158]
+Coil A is connected in series with R3 and the unknown
+resistance, RX, to be measured. The series combination of
+coil A, R3, and RX is connected between the + and − brushes
+of the DC generator. Coil B is connected in series with R2,
+and this combination is also connected across the generator.
+There are no restraining springs on the movable member of
+the instrument portion of the megger. When the generator is
+not in operation, the pointer floats freely and may come to
+rest at any position on the scale.
+If the terminals are open circuited, no current flows in coil
+A, and the current in coil B alone controls the movement
+of the moving element. Coil B takes a position opposite
+the gap in the core (since the core cannot move and coil B
+can), and the pointer indicates infinity on the scale. When a
+resistance is connected between the terminals, current flows
+in coil A, tending to move the pointer clockwise. At the same
+time, coil B tends to move the pointer counterclockwise.
+Therefore, the moving element, composed of both coils and
+the pointer, comes to rest at a position at which the two forces
+are balanced. This position depends upon the value of the
+external resistance, which controls the relative magnitude of
+current of coil A. Because changes in voltage affect both coils
+A and B in the same proportion, the position of the moving
+element is independent of the voltage. If the terminals are
+short circuited, the pointer rests at zero because the current
+in A is relatively large. The instrument is not damaged under
+these circumstances because the current is limited by R3.
+There are two types of hand-driven meggers: the variable
+type and the constant pressure type. The speed of the variable
+pressure megger is dependent on how fast the hand crank
+
+1k ohm movement
+RM2
+
+RM1
+
+180k Ω
+
+19k Ω
+
+∞
+
+0
+
+[−]
+
+Basic voltmeter
+10 V
+
+1V
+
+50A, 1k ohm movement
+RM
+[+]
+
+[−]
+[+]
+
+Figure 12-152. Basic voltmeter.
+
+Figure 12-153. Two range voltmeter.
+
+12-72
+
+===== PDF PAGE 514 =====
+Meter movement
+∞
+
+Meter movement
+Adjuster
+
+0
+
+∞
+
+0
+
+Basic voltmeter
+
++
+
++
+
+−
+
+−
+
+Internal battery
+
+[+]
+
+[−]
+
+Test probes
+
+[+]
+
+Meter movement
+∞
+
+Adjuster
+
+0
+
+[−]
+
+Open
+Meter movement
+∞
+
+0
+
+Basic voltmeter
+
++
+
++
+
+Internal battery
+
+Internal battery
+−
+
+Current
+[+]
+
+[−]
+
+−
+[+]
+
+Figure 12-154. Basic ohmmeter.
+
+is turned. The constant pressure megger uses a centrifugal
+governor, or slip clutch. The governor becomes effective only
+when the megger is operated at a speed above its slip speed,
+at which speed its voltage remains constant.
+
+AC Measuring Instruments
+A DC meter, such as an ammeter, connected in an AC circuit
+indicates zero, because the meter movements used in a
+d’Arsonval type movement is restricted to DC. Since the field
+of a permanent magnet in the d’Arsonval type meter remains
+constant and in the same direction at all times, the moving coil
+follows the polarity of the current. The coil attempts to move
+in one direction during half of the AC cycle and in the reverse
+direction during the other half when the current reverses.
+
+[−]
+
+Shorted
+
+External resistor
+
+Figure 12-155. Zero adjustment.
+
+40% full-scale 45k Ω
+20% full-scale 120k Ω
+
+50% full-scale 30k Ω
+
+0Ω
+
+∞
+
+0
+Full-scale
+
+Simplified Ohmmeter Scale
+
+Figure 12-156. Ohm scale.
+
+The current reverses direction too rapidly for the coil to
+follow, causing the coil to assume an average position. Since
+12-73
+
+===== PDF PAGE 515 =====
+the current is equal and opposite during each half of the AC
+cycle, the DC meter indicates zero, which is the average value.
+Thus, a meter with a permanent magnet cannot be used to
+measure alternating voltage and current. For AC measurements
+of current and voltage, additional circuitry is required. The
+additional circuitry has a rectifier, which converts AC to DC.
+There are two basic types of rectifiers: the half-wave rectifier
+and the full-wave rectifier. [Figure 12-159]
+Figure 12-159 also shows a simplified block diagram of an
+AC meter. In this depiction, the full-wave rectifier precedes
+the meter movement. The movement responds to the average
+value of the pulsating DC. The scale can then be calibrated
+to show anything the designer wants. In most cases, it is the
+root mean square (RMS) value or peak value.
+Electrodynamometer Meter Movement
+The electrodynamometer can be used to measure alternating or
+direct voltage and current. It operates on the same principles
+as the permanent magnet moving coil meter, except that the
+permanent magnet is replaced by an air core electromagnet.
+The field of the electrodynamometer is developed by the same
+current that flows through the moving coil. [Figure 12-160]
+Because this movement contains no iron, the
+electrodynamometer can be used as a movement for both AC
+and DC instruments. AC can be measured by connecting the
+stationary and moving coils in series. Whenever the current
+in the moving coil reverses, the magnetic field produced
+by the stationary coil reverses. Regardless of the direction
+of the current, the needle moves in a clockwise direction.
+However, for either voltmeter or ammeter applications,
+the electrodynamometer is too expensive to economically
+compete with the d’Arsonval-type movement.
+Moving Iron Vane Meter
+The moving iron vane meter is another basic type of meter.
+It can be used to measure either AC or DC. Unlike the
+d’Arsonval meter, which employs permanent magnets, it
+depends on induced magnetism for its operation. It utilizes the
+principle of repulsion between two concentric iron vanes, one
+fixed and one movable, placed inside a solenoid. A pointer is
+attached to the movable vane. [Figure 12-161]
+When current flows through the coil, the two iron vanes
+become magnetized with North poles at their upper ends and
+South poles at their lower ends for one direction of current
+through the coil. Because like poles repel, the unbalanced
+component of force, tangent to the movable element, causes
+it to turn against the force exerted by the springs.
+The movable vane is rectangular in shape and the fixed
+vane is tapered. This design permits the use of a relatively
+uniform scale.
+
+Meter movement
+Adjuster
+
+∞
+
+0
+
+Rx1
+R x 10
+R x 100
+
+Range switch
+
+R x 1k
+R x 10k
+
++
+
+−
+[+]
+
+[−]
+
+Figure 12-157. Multirange ohmmeter.
+
+When no current flows through the coil, the movable vane
+is positioned so that it is opposite the larger portion of the
+tapered fixed vane, and the scale reading is zero. The amount
+of magnetization of the vanes depends on the strength of
+the field, which, in turn, depends on the amount of current
+flowing through the coil.
+The force of repulsion is greater opposite the larger end of
+the fixed vane than it is nearer the smaller end. Therefore,
+the movable vane moves toward the smaller end through an
+angle that is proportional to the magnitude of the coil current.
+The movement ceases when the force of repulsion is balanced
+by the restraining force of the spring.
+Because the repulsion is always in the same direction (toward
+the smaller end of the fixed vane), regardless of the direction
+of current flow through the coil, the moving iron vane
+instrument operates on either DC or AC circuits.
+Mechanical damping in this type of instrument can be obtained
+by the use of an aluminum vane attached to the shaft so that,
+as the shaft moves, the vane moves in a restricted air space.
+When the moving iron vane meter is used as an ammeter, the
+coil is wound with relatively few turns of large wire in order
+to carry the rated current. When the moving iron vane meter is
+used as a voltmeter, the solenoid is wound with many turns of
+small wire. Portable voltmeters are made with self-contained
+series resistance for ranges up to 750 volts. Higher ranges are
+obtained by the use of additional external multipliers.
+12-74
+
+===== PDF PAGE 516 =====
+R2
+RX
+
+M
+B
+C
+
+A
+
+R3
+
+Axis O
+
+Ohmmeter
+
+M
+
+Inf.
+
++
+
+Hand
+generator
+
+G
+−
+0
+
+Figure 12-158. Simplified megger circuit.
+
+The moving iron vane instrument may be used to measure
+DC but has an error due to residual magnetism in the vanes.
+Reversing the meter connections and averaging the readings
+may minimize the error. When used on AC circuits, the
+instrument has an accuracy of 0.5 percent. Because of its
+simplicity, relatively low cost, and the fact that no current is
+conducted to the moving element, this type of movement is
+used extensively to measure current and voltage in AC power
+circuits. However, because the reluctance of the magnetic
+circuit is high, the moving iron vane meter requires much
+more power to produce full-scale deflection than is required
+by a d’Arsonval meter of the same range. Therefore, the
+moving iron vane meter is seldom used in high-resistance
+low-power circuits.
+Inclined Coil Iron Vane Meter
+The principle of the moving iron vane mechanism is applied
+to the inclined coil type of meter, which can be used to
+measure both AC and DC. The inclined coil, iron vane
+meter has a coil mounted at an angle to the shaft. Attached
+
+obliquely to the shaft, and located inside the coil, are two
+soft iron vanes. When no current flows through the coil, a
+control spring holds the pointer at zero, and the iron vanes
+lie in planes parallel to the plane of the coil. When current
+flows through the coil, the vanes tend to line up with magnetic
+lines passing through the center of the coil at right angles to
+the plane of the coil. Thus, the vanes rotate against the spring
+action to move the pointer over the scale.
+The iron vanes tend to line up with the magnetic lines
+regardless of the direction of current flow through the coil.
+Therefore, the inclined coil, iron vane meter can be used to
+measure either AC or DC. The aluminum disk and the drag
+magnets provide electromagnetic damping.
+Like the moving iron vane meter, the inclined coil type requires
+a relatively large amount of current for full-scale deflection and
+is seldom used in high-resistance low-power circuits.
+As in the moving iron vane instruments, the inclined coil
+instrument is wound with few turns of relatively large wire
+when used as an ammeter and with many turns of small wire
+when used as a voltmeter.
+Varmeters
+Multiplying the volts by the amperes in an AC circuit gives
+the apparent power: the combination of the true power (which
+does the work) and the reactive power (which does no work
+and is returned to the line). Reactive power is measured in
+units of vars (volt-amperes reactive) or kilovars (kilovoltamperes reactive (kVAR). When properly connected,
+wattmeters measure the reactive power. As such, they are
+called varmeters. [Figure 12-162]
+
+0
+
+AC In
+
+Half-wave rectifier
+
+Pulsing DC
+
+0
+
+0
+
+AC In
+
+Full-wave rectifier
+
+Pulsing DC
+
+0
+
+0
+
+AC In
+
+AC converted to pulsing DC
+on every positive half-cycle
+
+AC converted to pulsing DC
+on both positive and
+negative half-cycle
+
+Simple AC voltmeter
+Full-wave
+rectifier
+
+Figure 12-159. Simplified block diagram of AC meter.
+
+12-75
+
+===== PDF PAGE 517 =====
+Wattmeter
+Electric power is measured by means of a wattmeter. Because
+electric power is the product of current and voltage, a
+wattmeter must have two elements, one for current and the
+other for voltage. For this reason, wattmeters are usually of
+the electrodynamometer type. [Figure 12-163]
+The movable coil with a series resistance forms the voltage
+element, and the stationary coils constitute the current
+element. The strength of the field around the potential coil
+depends on the amount of current that flows through it. The
+current, in turn, depends on the load voltage applied across
+the coil and the high resistance in series with it. The strength
+of the field around the current coils depends on the amount of
+current flowing through the load. Thus, the meter deflection is
+proportional to the product of the voltage across the potential
+coil and the current through the current coils. The effect is
+
+almost the same (if the scale is properly calibrated) as if the
+voltage applied across the load and the current through the
+load were multiplied together.
+If the current in the line is reversed, the direction of current in
+both coils and the potential coil is reversed, the net result is
+that the pointer continues to read up scale. Therefore, this type
+of wattmeter can be used to measure either AC or DC power.
+Frequency Measurement/Oscilloscope
+The oscilloscope is by far one of the more useful electronic
+measurements available. The viewing capabilities of the
+oscilloscope make it possible to see and quantify various
+waveform characteristics, such as phase relationships,
+amplitudes, and durations. While oscilloscopes come in
+a variety of configurations and presentations, the basic
+operation is typically the same. Most oscilloscopes in general
+bench or shop applications use a cathode-ray tube (CRT),
+which is the device or screen that displays the waveforms.
+The CRT is a vacuum instrument that contains an electron gun,
+which emits a very narrow and focused beam of electrons. A
+phosphorescent coat applied to the back of the screen forms
+the screen. The beam is electronically aimed and accelerated
+so that the electron beam strikes the screen. When the electron
+beam strikes the screen, light is emitted at the point of impact.
+
+Fixed coils
+
+A
+
+C
+
+B
+
+Figure 12-164 shows the basic components of the CRT
+with a block diagram. The heated cathode emits electrons.
+The magnitude of voltage on the control grid determines
+the actual flow of electrons and thus controls the intensity
+of the electron beam. The acceleration anodes increase the
+speed of the electrons, and the focusing anode narrows the
+beam down to a fine point. The surface of the screen is also
+an anode and assists in the acceleration of the electron beam.
+
+Pointer
+
+Movable coils
+
+Control spring
+Cylindrical coil
+A
+
+B
+C
+Shunt
+
+Moving iron segment
+
+Stationary iron segment
+
+Figure 12-160. Simplified diagram of an electrodynamometer
+
+movement.
+
+Figure 12-161. Moving iron vane meter.
+
+12-76
+

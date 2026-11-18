@@ -1,0 +1,344 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 6 (Lubrication & Cooling Systems), PDF pages 282-286
+
+===== PDF PAGE 282 =====
+The engine cowling discussed in this section is typical of
+that used on many radial or horizontally opposed engines.
+All cooling systems function in the same manner, with minor
+engineering changes designed for specific installations.
+The cowl is manufactured in removable sections, the number
+varies with the aircraft make and model. The installation
+shown in Figure 6-55 contains two sections that are locked
+together when installed.
+The cowl panels, made from sheet aluminum or composite
+material, have a smooth external surface to permit
+undisturbed airflow over the cowl. The internal construction
+is designed to give strength to the panel and, in addition, to
+provide receptacles for the toggle latches, cowl support, and
+engine air seal.
+An air seal is constructed of rubber material, bolted to a
+metal rib riveted to the cowl panel. [Figure 6-55] This seal,
+as the name implies, seals the air in the engine section,
+preventing the air from escaping along the inner surface
+of the panel without circulating around the cylinders. The
+engine air seal must be used on engines that have a complete
+cylinder baffling system that covers the cylinder heads. Its
+purpose is to force the air to circulate around and through the
+baffle system. Inspect the cowl panels during each regular
+engine and aircraft inspection. Removing the cowling for
+maintenance provides an opportunity for a more detailed
+inspection of the cowling.
+Inspect the cowling panels for scratches, dents, and tears
+in the panels. This type of damage causes weakness of the
+panel structure, increases drag by disrupting airflow, and
+contributes to the starting of corrosion. The cowling panel
+latches should be inspected for pulled rivets and loose or
+damaged handles. The internal construction of the panel
+should be examined to see that the reinforcing ribs are not
+cracked and that the air seal is not damaged. The cowl flap
+hinges, if equipped, and cowl flap hinge bondings should be
+checked for security of mounting and for breaks or cracks.
+These inspections are visual checks and should be performed
+frequently to ensure that the cowling is serviceable and is
+contributing to efficient engine cooling.
+Engine Cylinder Cooling Fin Inspection
+The cooling fins are of the utmost importance to the
+cooling system, since they provide a means of transferring
+the cylinder heat to the air. Their condition can mean the
+difference between adequate or inadequate cylinder cooling.
+The fins are inspected at each regular inspection. Fin area
+is the total area (both sides of the fin) exposed to the air.
+During the inspection, the fins should be examined for
+cracks and breaks. [Figure 6-56] Small cracks are not a
+
+Figure 6-56. A cylinder head and fins.
+
+reason for cylinder removal. These cracks can be filled or
+even sometimes stop-drilled to prevent any further cracking.
+Rough or sharp corners on fins can be smoothed out by
+filing, and this action eliminates a possible source of new
+cracks. However, before reprofiling cylinder cooling fins,
+consult the manufacturer’s service or overhaul manual for
+the allowable limits.
+The definition of fin area becomes important in the
+examination of fins for broken areas. It is a determining
+factor for cylinder acceptance or removal. For example, on
+a certain engine, if more than 12 inches in length of any one
+fin, as measured at its base, is completely broken off, or if
+the total fins broken on any one cylinder head exceed 83
+square inches of area, the cylinder is removed and replaced.
+The reason for removal in this case is that an area of that size
+would cause a hot spot on the cylinder; since very little heat
+transfer could occur.
+Where adjacent fins are broken in the same area, the total
+length of breakage permissible is six inches on any two
+adjacent fins, four inches on any three adjacent fins, two
+inches on any four adjacent fins, and one inch on any five
+adjacent fins. If the breakage length in adjacent fins exceeds
+this prescribed amount, the cylinder should be removed and
+replaced. These breakage specifications are applicable only
+to the engine used in this discussion as a typical example.
+In each specific case, applicable manufacturer’s instructions
+should be consulted.
+Cylinder Baffle & Deflector System Inspection
+Reciprocating engines use some type of intercylinder and
+cylinder head baffles to force the cooling air into close
+contact with all parts of the cylinders. Figure 6-50 shows a
+baffle and deflector system around a cylinder. The air baffle
+6-36
+
+===== PDF PAGE 283 =====
+Cowl panel air seal
+Air baffle
+Deflector
+
+This part of the probe presses against
+the cylinder head when installed
+
+The nut locks the probe in the cylinder head socket
+Figure 6-57. Cylinder head baffle and deflector system.
+
+blocks the flow of air and forces it to circulate between the
+cylinder and the deflectors. Figure 6-57 illustrates a baffle
+and deflector arrangement designed to cool the cylinder
+head. The air baffle prevents the air from passing away
+from the cylinder head and forces it to go between the head
+and deflector. Although the resistance offered by baffles to
+the passage of the cooling air demands that an appreciable
+pressure differential be maintained across the engine to obtain
+the necessary airflow, the volume of cooling air required is
+greatly reduced by employing properly designed and located
+cylinder deflectors.
+As shown in Figure 6-55, the airflow approaches the nacelle
+and piles up at the top of the engine, creating a high pressure
+in the top of the cylinders. This piling up of the air reduces
+the air velocity. The outlet at the bottom rear of the cowling
+produces a low-pressure area. As the air nears the cowl exit, it
+is speeded up again and merges smoothly with the airstream.
+The pressure differential between the top and the bottom of the
+engine forces the air past the cylinders through the passages
+formed by the deflectors. The baffles and deflectors normally
+are inspected during the regular engine inspection, but they
+should be checked whenever the cowling is removed for any
+purpose. Checks should be made for cracks, dents, or loose
+hold down studs. Cracks or dents, if severe enough, would
+necessitate repair or removal and replacement of these units.
+However, a crack that has just started can be stop-drilled, and
+dents can be straightened, permitting further service from
+these baffles and deflectors.
+Cylinder Temperature Indicating Systems
+This system usually consists of an indicator, electrical wiring,
+and a thermocouple. The wiring is between the instrument
+and the nacelle firewall. At the firewall, one end of the
+thermocouple leads connects to the electrical wiring, and the
+other end of the thermocouple leads connects to the cylinder.
+The thermocouple consists of two dissimilar metals, generally
+constantan and iron, connected by wiring to an indicating
+system. If the temperature of the junction is different from
+the temperature where the dissimilar metals are connected
+to wires, a voltage is produced. This voltage sends a current
+through wires to the indicator, a current-measuring instrument
+
+Figure 6-58. Bayonet type CHT probe.
+
+Gasket type cylinder head temperature probe
+
+Figure 6-59. Gasket type CHT probe.
+
+graduated in degrees.
+The thermocouple end that connects to the cylinder is either
+the bayonet or gasket type. To install the bayonet type, the
+knurled nut is pushed down and turned clockwise until it is
+snug. [Figure 6-58] In removing this type, the nut is pushed
+down and turned counterclockwise until released. The gasket
+type fits under the spark plug and replaces the normal spark
+plug gasket. [Figure 6-59] When installing a thermocouple
+lead, remember not to cut off the lead because it is too long,
+but coil and tie up the excess length. The thermocouple is
+designed to produce a given amount of resistance. If the
+length of the lead is reduced, an incorrect temperature reading
+results. The bayonet or gasket of the thermocouple is inserted
+or installed on the hottest cylinder of the engine, as determined
+in the block test. When the thermocouple is installed and the
+wiring connected to the instrument, the indicated reading is the
+cylinder temperature. Prior to operating the engine, provided
+it is at ambient temperature, the cylinder head temperature
+indicator indicates the free outside air temperature; that is one
+test for determining that the instrument is working correctly.
+The cover glass of the cylinder head temperature indicator
+6-37
+
+===== PDF PAGE 284 =====
+should be checked regularly to see that it has not slipped or
+cracked. The cover glass should be checked for indications
+of missing or damaged decals that indicate temperature
+limitations. If the thermocouple leads were excessive in length
+and had to be coiled and tied down, the tie should be inspected
+for security or chafing of the wire. The bayonet or gasket
+should be inspected for cleanness and security of mounting.
+When operating the engine, all of the electrical connections
+should be checked if the cylinder head temperature pointer
+fluctuates.
+Exhaust Gas Temperature Indicating Systems
+The exhaust gas temperature indicator consists of a
+thermocouple placed in the exhaust stream just after the
+cylinder port. [Figure 6-60] It is then connected to the
+instrument in the instrument panel. This allows for the
+adjustment of the mixture, which has a large effect on engine
+temperature. By using this instrument to set the mixture, the
+engine temperature can be controlled and monitored.
+
+Turbine Engine Cooling
+The intense heat generated when fuel and air are burned
+necessitates that some means of cooling be provided for
+all internal combustion engines. Reciprocating engines are
+cooled either by passing air over fins attached to the cylinders
+or by passing a liquid coolant through jackets that surround
+the cylinders. The cooling problem is made easier because
+combustion occurs only during every fourth stroke of a fourstroke-cycle engine.
+The burning process in a gas turbine engine is continuous, and
+nearly all of the cooling air must be passed through the inside
+of the engine. If only enough air were admitted to the engine
+to provide an ideal air-fuel ratio of 15:1, internal temperatures
+would increase to more than 4,000 °F. In practice, a large
+amount of air in excess of the ideal ratio is admitted to the
+engine. The large surplus of air cools the hot sections of the
+engine to acceptable temperatures ranging from 1,500° to
+
+EGT probe mounted in exhaust stack
+
+Figure 6-60. EGT probe in exhaust stack.
+
+2,100 °F. Because of the effect of cooling, the temperatures
+of the outside of the case are considerably less than those
+encountered within the engine. The hottest area occurs in and
+around the turbines. Although the gases have begun to cool
+a little at this point, the conductivity of the metal in the case
+carries the heat directly to the outside skin.
+The secondary air passing through the engine cools the
+combustion-chamber liners. The liners are constructed to
+induce a thin, fast-moving film of air over both the inner
+and outer surfaces of the liner. Can-annular-type burners
+frequently are provided with a center tube to lead cooling
+air into the center of the burner to promote high combustionefficiency and rapid dilution of the hot combustion gases
+while minimizing pressure losses. In all types of gas turbines,
+large amounts of relatively cool air join and mix with the
+burned gases aft of the burners to cool the hot gases just
+before they enter the turbines.
+Cooling-air inlets are frequently provided around the exterior
+of the engine to permit the entrance of air to cool the turbine
+case, the bearings, and the turbine nozzle. Internal air is
+bled from the engine compressor section and is vented to
+the bearings and other parts of the engine. Air vented into
+or from the engine is ejected into the exhaust stream. When
+located on the side of the engine, the case is cooled by outside
+air flowing around it. The engine exterior and the engine
+nacelle are cooled by passing fan air around the engine and
+the nacelle. The engine compartment frequently is divided
+into two sections. The forward section is referred to as the
+cold section and the aft section (turbine) is referred to as the
+hot section. Case drains drain potential leaks overboard to
+prevent fluids from building up in the nacelle.
+Accessory Zone Cooling
+Turbine powerplants can be divided into primary zones
+that are isolated from each other by fireproof bulkheads
+and seals. The zones are the fan case compartment,
+intermediate compressor case compartment, and the core
+engine compartment. [Figure 6-61] Calibrated airflows are
+supplied to the zones to keep the temperatures around the
+engine at levels that are acceptable. The airflow provides for
+proper ventilation to prevent a buildup of any harmful vapors.
+Zone 1, for example, is around the fan case that contains
+the accessory case and the electronic engine control (EEC).
+This area is vented by using ram air through an inlet in the
+nose cowl and is exhausted through a louvered vent in the
+right fan cowling.
+If the pressure exceeds a certain limit, a pressure relief door
+opens and relieves the pressure. Zone 2 is cooled by fan air
+from the upper part of the fan duct and is exhausted at the
+lower end back into the fan air stream. This area has both
+6-38
+
+===== PDF PAGE 285 =====
+Zone 2 ventilation inlet
+
+IP compressor compartment (zone 2)
+
+Thrust reverser seal leaks (zone 3 inlet)
+
+Fancase compartment (zone 1)
+
+Precooler
+
+Zone 1 ventilation inlet
+
+Turbine case cooling
+
+Ram air
+
+Zone 2 drainage pipe
+
+Zone 1 pressure relief door
+
+Zone 1 ventilation exit
+
+Zone 2 ventilation exit
+
+Figure 6-61. Accessory zone cooling.
+
+fuel and oil lines, so removing any unwanted vapors would
+be important.
+Zone 3 is the area around the high-pressure compressor to
+the turbine cases. This zone also contains fuel and oil lines
+and other accessories. Air enters from the exhaust of the
+
+pre-cooler and other areas and is exhausted from the zone
+through the aft edge of the thrust reverser inner wall and the
+turbine exhaust sleeve.
+
+Outer engine compartment
+Stainless steel shroud
+
+350° F
+
+Fiberglass
+Cooling air
+
+120° F
+
+Aluminum foil
+Fiberglass
+
+Exhaust gas
+
+1,000° F
+
+Silver foil
+Exhaust duct
+
+900° F
+
+Figure 6-62. Typical engine insulation blanket.
+
+6-39
+
+===== PDF PAGE 286 =====
+Turbine Engine Insulation Blankets
+To reduce the temperature of the structure in the vicinity
+of the exhaust duct or thrust augmentor (afterburner) and
+to eliminate the possibility of fuel or oil coming in contact
+with the hot parts of the engine, it is sometimes necessary
+to provide insulation on the exhaust duct of gas turbine
+engines. The exhaust duct surface temperature runs quite
+high. A typical insulation blanket and the temperatures
+obtained at various locations are shown in Figure 6-62. This
+blanket contains fiberglass as the low conductance material
+and aluminum foil as the radiation shield. The blanket is
+suitably covered so that it does not become oil soaked.
+Insulation blankets have been used rather extensively on
+many installations in which long exhaust is needed. Some
+auxiliary power units (APU) mounted in the tail cone of
+transport aircraft have air that surrounds the exhaust tail pipe
+that provides cooling and protects the surrounding structure.
+
+6-40
+

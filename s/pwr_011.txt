@@ -1,0 +1,1652 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 3 (Induction & Exhaust Systems), PDF pages 129-146
+
+===== PDF PAGE 129 =====
+Chapter 3
+
+Induction & Exhaust Systems
+Reciprocating Engine Induction Systems
+The basic induction system of an aircraft reciprocating engine
+consists of an air scoop used to collect the inlet air and ducting
+that transfers the air to the inlet filter. The air filter is generally
+housed in the carburetor heat box or other housing close by
+that is attached to the carburetor or fuel injection controller.
+The engine used in light aircraft is usually equipped with
+either a carburetor or a fuel-injection system. After air passes
+through the fuel metering device, an intake manifold with
+long curved pipes or passages is used to send the air-fuel
+mixture to the cylinders. An induction air scoop is shown in
+Figure 3-1. The air scoop is located on the engine cowling to
+allow maximum airflow into the engine’s induction system.
+The air filter, shown in Figure 3-2, prevents dirt and other
+foreign matter from entering the engine. Filtered air enters
+the fuel metering device (carburetor/fuel injector) where the
+throttle plate controls the amount of air flowing to the engine.
+The air coming out of the throttle is referred to as manifold
+pressure. This pressure is measured in inches of mercury
+("Hg) and controls engine power output.
+Induction systems can consist of several different
+arrangements. Two that are used are the updraft and downdraft
+induction systems. An updraft induction system consists of
+
+Figure 3-1. Inlet scoop in engine cowling.
+
+two runners and a balance tube with intake pipes for each
+cylinder to deliver induction air to each cylinder’s intake
+port. [Figure 3-3] The balance tube is used to reduce pressure
+imbalances between the two side induction runners. With
+carbureted engines, it is important to maintain a constant and
+even pressure in the induction system so that each cylinder
+receives equal amounts of fuel. On fuel-injected engines,
+the fuel is injected at the intake port just before the intake
+valve. It is important with this system to keep the pressure
+consistent at each intake port.
+A downdraft balanced induction system provides optimum
+airflow to each of the individual cylinders throughout a
+wide operational range. [Figure 3-4] Better matched air-fuel
+ratios provide a much smoother and more efficient engine
+operation. Air from the induction manifold flows into the
+intake ports where it is mixed with fuel from the fuel nozzles
+and then enters the cylinders as a combustible mixture as the
+intake valve opens.
+Basic Carburetor Induction System
+Figure 3-2 is a diagram of an induction system used in an
+engine equipped with a carburetor. In this induction system,
+carburetor normal flow air is admitted at the lower front nose
+cowling below the propeller spinner and is passed through an
+air filter into air ducts leading to the carburetor. A carburetor
+heat air valve is located below the carburetor for selecting
+an alternate warm air source (carburetor heat) to prevent
+carburetor icing. [Figure 3-5] Carburetor icing occurs when
+the temperature is lowered in the throat of the carburetor and
+enough moisture is present to freeze and block the flow of air
+to the engine. The carburetor heat valve admits air from the
+outside air scoop for normal operation, and it admits warm
+air from the engine compartment for operation during icing
+conditions. The carburetor heat is operated by a push-pull
+control in the flight deck. When the carburetor heat air door
+is closed, warm ducted air from around the exhaust is directed
+into the carburetor. This raises the intake air temperature.
+An alternate air door can be opened by engine suction if the
+normal route of airflow should be blocked by something.
+The valve is spring loaded closed and is sucked open by the
+engine if needed.
+The carburetor air filter, shown in Figure 3-6, is installed in
+the air scoop in front of the carburetor air duct. Its purpose is
+
+3-1
+
+===== PDF PAGE 130 =====
+Carburetor
+
+Carburetor air valve
+Air filter
+
+Temperature bulb
+Air intake duct
+Warm air
+
+Drain line
+
+Cold air
+
+Cold air actuator lever
+
+Figure 3-2. Nonsupercharged induction system using a carburetor.
+
+Induction riser
+Balance crossover tube
+Hose clamp
+Throttle body
+Hose
+
+Induction risers
+Induction elbow
+
+Figure 3-5. Location of a carburetor heat air valve.
+Figure 3-3. Updraft induction system.
+
+Throttle body
+
+Intake manifold tube
+
+Hose
+
+Induction manifold assembly
+Intake manifold tube
+
+Intake gasket
+
+Figure 3-4. Downdraft balanced induction system.
+
+to stop dust and other foreign matter from entering the engine
+through the carburetor. The screen consists of an aluminum
+alloy frame and a deeply crimped screen, arranged to present
+maximum screen area to the airstream. There are several types
+of air filters in use including paper, foam, and other types of
+filters. Most air filters require servicing at regular intervals
+and the specific instructions for the type of filter must be
+followed. [Figure 3-6]
+The carburetor air ducts consist of a fixed duct riveted to the
+nose cowling and a flexible duct between the fixed duct and
+the carburetor air valve housing. The carburetor air ducts
+normally provide a passage for outside air to the carburetor.
+Applying carburetor heat to an operating engine decreases the
+density of the air, which leans the air-fuel mixture. Air enters
+the system through the ram-air intake. The intake opening is
+located in the slipstream so the air is forced into the induction
+system giving a ram effect to the incoming airflow. The air
+passes through the air ducts to the carburetor. The carburetor
+meters the fuel in proportion to the air and mixes the air with
+3-2
+
+===== PDF PAGE 131 =====
+Impact ice
+
+Figure 3-6. Location of air filter.
+
+the correct amount of fuel. The throttle plate of the carburetor
+can be controlled from the flight deck to regulate the flow
+of air (manifold pressure), and in this way, power output of
+the engine can be controlled.
+Although many newer aircraft are not so-equipped, some
+engines are equipped with carburetor air temperature
+indicating systems which shows the temperature of the air
+at the carburetor inlet. If the bulb is located at the engine
+side of the carburetor, the system measures the temperature
+of the air-fuel mixture.
+
+Throttle ice
+
+Fuel evaporation ice
+
+Induction System Icing
+A short discussion concerning the formation and location of
+induction system ice is helpful, even though a technician is
+not normally concerned with operations that occur when the
+aircraft is in flight. [Figure 3-7] Technicians should know
+something about induction system icing because of its effect
+on engine performance and troubleshooting. Even when an
+inspection shows that everything is in proper working order
+and the engine performs perfectly on the ground, induction
+system ice can cause an engine to act erratically and lose
+power in the air. Many engine troubles commonly attributed
+to other sources are actually caused by induction system icing.
+Induction system icing is an operating hazard because it can
+cut off the flow of the air-fuel charge or vary the air-fuel
+ratio. Ice can form in the induction system while an aircraft
+is flying in clouds, fog, rain, sleet, snow, or even clear air that
+has high moisture content (high humidity). Induction system
+icing is generally classified in three types:
+•
+
+Impact ice,
+
+•
+
+Fuel evaporation ice, and
+
+•
+
+Throttle ice.
+
+Induction system ice can be prevented or eliminated by raising
+the temperature of the air that passes through the system,
+using a carburetor heat system located upstream near the
+induction system inlet and well ahead of the dangerous icing
+
+Figure 3-7. Location of a carburetor heat air valve.
+
+zones. This air is collected by a duct surrounding the exhaust
+manifold. Heat is usually obtained through a control valve
+that opens
+the induction system to the warm air circulating in the engine
+compartment and around the exhaust manifold.
+Improper or careless use of carburetor heat can be just as
+dangerous as the most advanced stage of induction system
+ice. Increasing the temperature of the air causes it to expand
+and decrease in density. This action reduces the weight of the
+charge delivered to the cylinder and causes a noticeable loss in
+power because of decreased volumetric efficiency. If icing is
+not present when carburetor heat or induction system anti-icing
+is applied and the throttle setting does not change, the mixture
+will become richer. In addition, high intake air temperature
+may cause detonation and engine failure, especially during
+takeoff and high power operation. Therefore, during all phases
+of engine operation, the carburetor temperature must afford
+the greatest protection against icing and detonation.
+When there is danger of induction system icing, the flight deck
+carburetor heat control is moved to the hot position. Throttle
+ice or any ice that restricts airflow or reduces manifold
+pressure can best be removed by using full carburetor heat.
+3-3
+
+===== PDF PAGE 132 =====
+If the heat from the engine compartment is sufficient and the
+application has not been delayed, it is only a matter of a few
+minutes until the ice is cleared.
+When there is no danger of icing, the heat control is normally
+kept in the “cold” position. It is best to leave the control in
+this position if there are particles of dry snow or ice in the air.
+The use of heat may melt the ice or snow, and the resulting
+moisture may collect and freeze on the walls of the induction
+system. To prevent damage to the heater valves in the case of
+backfire, carburetor heat should not be used while starting the
+engine. Also, during ground operation only enough carburetor
+heat should be used to give smooth engine operation.
+Part-throttle operation can lead to icing in the throttle area.
+When the throttle is placed in a partly closed position, it, in
+effect, limits the amount of air available to the engine. When
+the aircraft is in a glide, a fixed-pitch propeller windmills,
+causing the engine to consume more air than it normally
+would at this same throttle setting, thus adding to the lack of
+air behind the throttle. The partly closed throttle, under these
+circumstances, establishes a much higher than normal air
+velocity past the throttle, and an extremely low-pressure area is
+produced. The low-pressure area lowers the temperature of the
+air surrounding the throttle valve. If the temperature in this air
+falls below freezing and moisture is present, ice forms on the
+throttles and nearby units restricting the airflow to the engine
+causing it to quit. Throttle ice may be minimized on engines
+equipped with controllable-pitch propellers by the use of a
+higher than normal brake mean effective pressure (BMEP) at
+this low power. The high BMEP decreases the icing tendency
+because a large throttle opening at low engine revolutions
+per minute (rpm) partially removes the temperature-reducing
+obstruction that part-throttle operation offers.
+
+Induction System Filtering
+Dust and dirt can be a serious source of trouble to an aircraft
+engine. Dust consists of small particles of hard, abrasive
+material that can be carried by the air and drawn into the
+engine cylinders. It can also collect on the fuel-metering
+elements of the carburetor, upsetting the proper relation
+between airflow and fuel flow at all engine power settings. It
+acts on the cylinder walls by grinding down these surfaces and
+the piston rings. Then, it contaminates the oil and is carried
+through the engine, causing further wear on the bearings and
+gears. In extreme cases, an accumulation may clog an oil
+passage and cause oil starvation. Although dust conditions
+are most critical at ground level, continued operation under
+such conditions without engine protection results in extreme
+engine wear and can produce excessive oil consumption.
+When operation in a dusty atmosphere is necessary, the
+engine can be protected by an alternate induction system air
+inlet which incorporates a dust filter. This type of air filter
+
+system normally consists of a filter element, a door, and
+an electrically operated actuator. When the filter system is
+operating, air is drawn through a louvered access panel that
+does not face directly into the airstream. With this entrance
+location, considerable dust is removed as the air is forced
+to turn and enter the duct. Since the dust particles are solid,
+they tend to continue in a straight line, and most of them are
+separated at this point. Those that are drawn into the louvers
+are easily removed by the filter.
+In flight, with air filters operating, consideration must be
+given to possible icing conditions which may occur from
+actual surface icing or from freezing of the filter element
+after it becomes rain soaked. Some installations have a
+spring-loaded filter door which automatically opens when
+the filter is excessively restricted. This prevents the airflow
+from being cut off when the filter is clogged with ice or dirt.
+Other systems use an ice guard in the filtered-air entrance.
+The ice guard consists of a coarse-mesh screen located a short
+distance from the filtered-air entrance. In this location, the
+screen is directly in the path of incoming air so that the air
+must pass through or around the screen. When ice forms on
+the screen, the air, which has lost its heavy moisture particles,
+passes around the iced screen and into the filter element.
+The efficiency of any filter system depends upon proper
+maintenance and servicing. Periodic removal and cleaning of
+the filter element is essential to satisfactory engine protection.
+
+Induction System Inspection & Maintenance
+The induction system should be checked for cracks and leaks
+during all regularly scheduled engine inspections. The units
+of the system should be checked for security of mounting.
+The system should be kept clean at all times, since pieces of
+rags or paper can restrict the airflow if allowed to enter the
+air intakes or ducts. Loose bolts and nuts can cause serious
+damage if they pass into the engine.
+On systems equipped with a carburetor air filter, the filter
+should be checked regularly. If it is dirty or does not have
+the proper oil film, the filter element should be removed and
+cleaned. After it has dried, it is usually immersed in a mixture
+of oil and rust-preventive compound. The excess fluid should
+be allowed to drain off before the filter element is reinstalled.
+Paper-type filters should be inspected and replaced as needed.
+The efficiency of any filter system depends upon proper
+maintenance and servicing. Periodic removal and cleaning of
+the filter element is essential to satisfactory engine protection.
+If the induction system air filter becomes excessively dirty, it
+will cause a loss of power or the engine will not start.
+
+Extinguishing Engine Fires
+In all cases, a fireguard should stand by with a CO2 fire
+3-4
+
+===== PDF PAGE 133 =====
+Probable Cause
+1
+
+Isolation Procedure
+
+Correction
+
+Engine fails to start
+
+a Induction system obstructed
+
+Inspect air scoop and air ducts
+
+Remove obstructions
+
+b Air leaks
+
+Inspect carburetor mounting and intake pipes
+
+Tighten carburetor and repair or replace intake pipe
+
+a Loose air ducts
+
+Inspect air ducts
+
+Tighten air ducts
+
+b Leaking intake pipes
+
+Inspect intake pipe packing nuts
+
+Tighten nuts
+
+c Engine valves sticking
+
+Remove rocker arm cover and check valve action
+
+Lubricate and free sticking valves
+
+d Bent or worn valve push rods
+
+Inspect push rods
+
+Replace worn or damaged push rods
+
+a Restricted intake duct
+
+Examine intake duct
+
+Remove restrictions
+
+b Broken door in carburetor air valve
+
+Inspect air valve
+
+Replace air valve
+
+c Dirty air filter
+
+Inspect air filter
+
+Clean air filter
+
+a Shrunken intake packing
+
+Inspect packing for proper fit
+
+Replace packing
+
+b Hole in intake pipe
+
+Inspect intake pipe
+
+Replace defective intake pipes
+
+c Loose carburetor mounting
+
+Inspect mount bolts
+
+Tighten mount bolts
+
+2
+
+3
+
+4
+
+Engine runs rough
+
+Low power
+
+Engine idles improperly
+
+Figure 3-8. Common problems for troubleshooting induction systems.
+
+extinguisher while the aircraft engine is being started. This
+is a necessary precaution against fire during the starting
+procedure. The fireguard must be familiar with the induction
+system of the engine so that in case of fire, they can direct
+the CO2 into the air intake of the engine to extinguish it. A
+fire could also occur in the exhaust system of the engine from
+liquid fuel being ignited in the cylinder and expelled during
+the normal rotation of the engine.
+If an engine fire develops during the starting procedure,
+continue cranking to start the engine and blow out the fire.
+If the engine does not start and the fire continues to burn,
+discontinue the start attempt. The fireguard then extinguishes
+the fire using the available equipment. The fireguard must
+observe all safety practices at all times while standing by
+during the starting procedure.
+
+boost the manifold pressure above 30 inches of mercury. In
+other words, a true supercharger boosts the manifold pressure
+above ambient pressure.
+Since many engines installed in light aircraft do not
+use any type of compressor or supercharging device,
+induction systems for reciprocating engines can be broadly
+classified as supercharged or nonsupercharged. [Figure 3-9]
+Supercharging systems used in reciprocating engine induction
+systems are normally classified as either internally driven or
+externally driven (turbosupercharged). Internally driven
+superchargers compress the air-fuel mixture after it leaves
+the carburetor, while externally driven superchargers
+(turbochargers) compress the air before it is mixed with the
+
+Induction System Troubleshooting
+Figure 3-8 provides a general guide to the most common
+induction system troubles.
+Supercharged Induction Systems
+Since aircraft operate at altitudes where the air pressure is
+lower, it is useful to provide a system for compressing the
+air-fuel mixture. Some systems are used to normalize the air
+pressure entering the engine. These systems are used to regain
+the air pressure lost by the increase in altitude. This type of
+system is not a ground boost system and it is not used to ever
+boost the manifold pressure above 30 inches of mercury. A
+true supercharged engine, called ground boosted engines, can
+
+Figure 3-9. An example of a naturally aspirated reciprocating
+
+engine.
+
+3-5
+
+===== PDF PAGE 134 =====
+metered fuel from the carburetor.
+
+Internally Driven Superchargers
+Internally-driven superchargers were used almost exclusively
+in high horsepower radial reciprocating engines and are
+engine driven through a mechanical connection. Although
+their use is very limited, some are still used in cargo
+carriers and spray planes. Except for the construction and
+arrangement of the various types of superchargers, all
+induction systems with internally driven superchargers were
+very similar. Aircraft engines require the same air temperature
+control to produce good combustion in the engine cylinders.
+For example, the charge must be warm enough to ensure
+complete fuel vaporization and, thus, even distribution. At
+the same time, it must not be so hot that it reduces volumetric
+efficiency or causes detonation. All reciprocating engines
+must guard against intake air that is too hot. As with any
+type of supercharging (compressing intake air), the air gains
+heat as it is compressed. Sometimes this air requires cooling
+before it is routed to the engine’s intake ports. With these
+requirements, most induction systems that use internally
+driven superchargers must include pressure and temperaturesensing devices and the necessary units required to warm or
+cool the air.
+The simple internally driven supercharger induction system is
+used to explain the location of units and the path of the air and
+air-fuel mixture. [Figure 3-10] Air enters the system through
+the ram air intake. The intake opening is located so that the
+air is forced into the induction system, giving a ram effect
+caused by the aircraft moving through the air. The air passes
+through ducts to the carburetor. The carburetor meters the
+fuel in proportion to the air and mixes the air with the correct
+
+25
+
+10
+
+Intake pipe
+
+35
+
+IN Hg
+A Lg.
+
+15
+
+One method used mainly on radial reciprocating engines of
+improving fuel distribution is shown in Figure 3-11. This
+device is known as a distribution impeller. The impeller is
+attached directly to the end of the rear shank of the crankshaft
+by bolts or studs. Since the impeller is attached to the end
+of the crankshaft and operates at the same speed, it does
+not materially boost or increase the pressure on the mixture
+
+Intake air duct
+
+30
+
+MANIFOLD
+PRESS
+
+20
+
+amount of fuel. The carburetor can be controlled from the
+flight deck to regulate the flow of air. In this way, the power
+output of the engine can be controlled. The manifold pressure
+gauge measures the pressure of the air-fuel mixture before it
+enters the cylinders. It is an indication of the performance that
+can be expected of the engine. The carburetor air temperature
+indicator measures either the temperature of the inlet air or
+of the air-fuel mixture. Either the air inlet or the mixture
+temperature indicator serves as a guide so that the temperature
+of the incoming charge may be kept within safe limits. If
+the temperature of the incoming air at the entrance to the
+carburetor scoop is 100 °F, there is approximately a 50 °F
+drop in temperature because of the partial vaporization of the
+fuel at the carburetor discharge nozzle. Partial vaporization
+takes place and the air temperature falls due to absorption
+of the heat by vaporization. The final vaporization takes
+place as the mixture enters the cylinders where higher
+temperatures exist. The fuel, as atomized into the airstream
+that flows in the induction system, is in a globular form.
+The problem, then, becomes one of uniformly breaking up
+and distributing the fuel, remaining in globular form to the
+various cylinders. On engines equipped with a large number
+of cylinders, the uniform distribution of the mixture becomes
+a greater problem, especially at high engine speeds when full
+advantage is taken of large air capacity.
+
+40
+45
+
+50
+
+Manifold pressure
+Carburetor heat valve
+Carburetor air temperature bulb
+Carburetor
+
+-10
+
+0
+
+10
+
+20
+50
+
+CARB. TEMP.
+C°
+
+Throttle valve
+
+Supercharger
+
+Figure 3-10. Internally-driven supercharger induction system.
+
+3-6
+
+===== PDF PAGE 135 =====
+Primer nozzle
+Manifold pressure
+
+25
+20
+
+35
+
+IN Hg
+ALg.
+
+15
+10
+
+Crankshaft
+
+30
+
+MANIFOLD
+PRESS
+
+40
+45
+
+50
+
+an impeller that compresses the incoming air. For this
+reason, they are commonly called turbosuperchargers or
+turbochargers. To be a true supercharger, it must boost the
+manifold pressure above 30 "Hg.
+The typical turbosupercharger, shown in Figure 3-12, is
+composed of three main parts:
+1.
+
+Compressor assembly,
+
+Ring type oil seal
+
+2.
+
+Turbine wheel assembly, and
+
+Diffuser chamber
+
+3.
+
+A full floating shaft bearing assembly.
+
+Tail shaft
+
+Inlet
+Counterweight
+Large diameter impeller
+Manifold ring
+Slip joint
+Rubber gasket
+Gland nut
+
+Figure 3-11. Radial engine distribution impeller.
+
+flowing into the cylinders. But, the fuel remaining in the
+globular form is broken up into finer particles as it strikes the
+impeller, thereby coming in contact with more air. This creates
+a more homogeneous mixture with a consequent improvement
+in distribution to the various cylinders, especially on
+acceleration of the engine or when low temperatures prevail.
+To obtain greater pressure of the air-fuel mixture within the
+cylinders, the diffuser or blower section contains a high speed
+impeller. Unlike the distribution impeller, which is connected
+directly to the crankshaft, the supercharger, or blower
+impeller, is driven through a gear train from the crankshaft.
+
+Turbosuperchargers
+Externally driven superchargers (turbosuperchargers)
+are designed to deliver compressed air to the inlet of the
+carburetor or air-fuel control unit of an engine. Externally
+driven superchargers derive their power from the energy of
+engine exhaust gases directed against a turbine that drives
+
+Detail examples of a turbosupercharger are shown in
+Figure 3-13. In addition to the major assemblies, there is a
+baffle between the compressor casing and the exhaust-gas
+turbine that directs cooling air to the pump and bearing casing,
+and also shields the compressor from the heat radiated by the
+turbine. In installations where cooling air is limited, the baffle
+is replaced by a regular cooling shroud that receives its air
+directly from the induction system.
+The compressor assembly is made up of an impeller, a
+diffuser, and a casing. The air for the induction system enters
+through a circular opening in the center of the compressor
+casing, where it is picked up by the blades of the impeller,
+which gives it high velocity as it travels outward toward the
+diffuser. The diffuser vanes direct the airflow as it leaves
+the impeller and also converts the high velocity of the air
+to high-pressure.
+Motive power for the impeller is furnished through the
+impeller’s attachment to the turbine wheel shaft of the
+exhaust-gas turbine. This complete assembly is referred to as
+the rotor. (The rotor revolves on the oil feed bearings.) The
+exhaust gas turbine assembly consists of the turbocharger and
+waste gate valve. [Figure 3-14] The turbine wheel, driven by
+exhaust gases, drives the impeller. The turbo housing collects
+and directs the exhaust gases onto the turbine wheel, and the
+waste gate regulates the amount of exhaust gases directed to
+the turbine. The waste gate controls the volume of the exhaust
+gas that is directed onto the turbine and thereby regulates
+the speed of the rotor (turbine and impeller). [Figure 3-15]
+If the waste gate is completely closed, all the exhaust gases
+are “backed up” and forced through the turbine wheel. If the
+waste gate is partially closed, a corresponding amount of
+exhaust gas is directed to the turbine. The exhaust gasses, thus
+directed, strike the turbine blades, arranged radially around
+the outer edge of the turbine, and cause the rotor (turbine and
+impeller) to rotate. The gases, having exhausted most of their
+energy, are then exhausted overboard. When the waste gate
+is fully open, nearly all of the exhaust gases pass overboard
+providing little or no boost.
+3-7
+
+===== PDF PAGE 136 =====
+Center housing
+Turbine housing
+
+Turbine wheel assembly
+
+Compressor wheel assembly
+
+Compressor Housing
+
+Full floating shaft bearing assembly
+Exhaust Inlet
+Exhaust Outlet
+Compressor Inlet
+Compressor Outlet
+
+Figure 3-12. A typical turbosupercharger and its main parts.
+
+Compressor housing
+
+Compressor impeller
+
+Center housing
+
+Oil feed pressure bearing
+Turbine
+
+Turbine housing
+
+Turbocharger components
+
+Figure 3-13. Detail examples of the main components of a turbosupercharger.
+
+3-8
+
+===== PDF PAGE 137 =====
+Exhaust risers
+
+Controller
+
+Exhaust risers
+
+Turbocharger 1-3-5
+
+Turbocharger 2-4-6
+
+Exhaust waste gate valve
+
+Tailpipe 2-4-6
+
+Tailpipe 1-3-5
+
+Figure 3-14. Exhaust gas turbine assembly.
+
+available below that altitude. The location of the air induction
+and exhaust systems of a typical normalizing turbocharger
+system for a small aircraft is shown in Figure 3-16.
+
+Ground-Boosted Turbosupercharger System
+Piston
+
+Butterfly
+
+Oil outlet port
+controller
+
+Oil inlet port
+Seal
+Power cylinder drain port
+
+Figure 3-15. Waste gate control of exhaust.
+
+Normalizer Turbocharger
+Some engines used in light aircraft are equipped with an
+externally driven normalizing system. These systems are
+powered by the energy of exhaust gases and are usually referred
+to as “normalizing turbocharger” systems. These systems were
+not designed to be used as a true supercharger (boost manifold
+pressure over 30 "Hg). They compensate for the power lost due
+to the pressure drop resulting from increased altitude. On many
+small aircraft engines, the turbocharger (normalizing) system
+is designed to be operated only above a certain altitude, 5,000
+feet for example, since maximum power without normalizing is
+
+Some ground-boosted (sea level) turbosupercharged systems
+are designed to operate from sea level up to their critical altitude.
+These engines, sometimes referred to as sea level-boosted
+engines, can develop more power at sea level than an engine
+without turbosupercharging. As was mentioned earlier, an
+engine must be boosted above 30 "Hg to truly be supercharged.
+This type of turbocharger accomplishes this by increasing the
+manifold pressure above 30 "Hg to around 40 "Hg.
+The turbosupercharger air induction system consists of a
+filtered ram-air intake located on the side of the nacelle.
+[Figure 3-17] An alternate air door within the nacelle permits
+compressor suction automatically to admit alternate air
+(heated engine compartment air) if the induction air filter
+becomes clogged. In many cases, the alternate air door can
+be operated manually in the event of filter clogging.
+Almost all turbocharger systems use engine oil as the control
+fluid for controlling the amount of boost (extra manifold
+pressure) provided to the engine. The waste-gate actuator and
+controllers use pressurized engine oil for their power supply.
+The turbocharger is controlled by the waste gate and waste
+gate actuator. The waste gate actuator, which is physically
+connected to the waste gate by mechanical linkage, controls
+3-9
+
+===== PDF PAGE 138 =====
+Throttle and mixture control
+
+Control system
+
+Exhaust system
+
+Intake manifold
+Air intake
+
+Alternate air intake
+
+Induction system
+
+Turbocharger
+
+Figure 3-16. Typical location of the air induction and exhaust systems of a normalizing turbocharger system.
+
+the position of the waste gate butterfly valve. The waste gate
+bypasses the engine exhaust gases around the turbocharger
+turbine inlet. By controlling the amount of exhaust gases
+that pass through the turbine of the turbocharger, the speed
+of the compressor and the amount of intake boost (upper
+deck pressure) is controlled. Engine oil is also used to cool
+and lubricate the bearings that support the compressor and
+turbine in the turbocharger. Turbocharger lubricating oil is
+engine oil supplied through the engine oil system. An oil
+supply hose from the rear of the oil cooler directs oil to the
+turbocharger center housings and bearings. Oil hoses return
+oil from the turbochargers to the oil scavenge pump located
+on the rear of the engine. The one-way check valve in the oil
+supply line prevents oil from draining into the turbocharger
+while the engine is not operating. Piston ring-like oil seals are
+used on the compressor wheel shaft to prevent the lubricating
+oil from entering the turbine and compressor housings from
+the center housing.
+The position of the waste gate is controlled by adjusting the
+oil pressure in the waste gate actuator. Several different types
+of controllers are used to provide the correct pressure in the
+waste gate actuator. This is done either by restricting the oil
+flow or by allowing the oil to return to the engine. The more
+the oil is restricted, the more pressure is in the waste gate
+
+actuator and the more closed the waste gate is. This causes
+the exhaust gases to pass through the turbine, increasing the
+speed of the compressor raising the inlet pressure. The reverse
+happens if the oil is not restricted by the controllers and boost
+is reduced. The pressure from the outlet of the compressor of
+the turbocharger to the throttle is referred to as deck pressure
+or upper deck pressure.
+
+A Typical Turbosupercharger System
+Figure 3-18 is a schematic of a sea level booster
+turbosupercharger system. This system used widely is
+automatically regulated by three components:
+•
+
+Exhaust bypass valve assembly,
+
+•
+
+Density controller, and
+
+•
+
+Differential pressure controller.
+
+By regulating the waste gate position and the “fully open”
+and “closed” positions, a constant power output can be
+maintained. When the waste gate is fully open, all the exhaust
+gases are directed overboard to the atmosphere, and no air is
+compressed and delivered to the engine air inlet. Conversely,
+when the waste gate is fully closed, a maximum volume
+of exhaust gases flows into the turbocharger turbine, and
+maximum supercharging is accomplished. Between these
+3-10
+
+===== PDF PAGE 139 =====
+Induction manifold
+Left hand bank
+
+CODE
+
+Induction system balance tube
+
+Ram air
+Ram filtered air
+Compressed air
+Heated air
+Mechanical linkage
+Oil pressure
+Oil return
+
+Induction manifold
+Right hand bank
+
+Filtered Ram-Air
+Turbocharger
+Throttle body
+Alternate air door (Normally closed)
+Waste gate controller
+
+Filter
+
+Waste gate actuator
+Waste gate
+
+Induction system balance tube
+
+Induction manifold
+Left hand bank
+
+Induction manifold
+Right hand bank
+
+Heated air
+Turbocharger
+Throttle body
+Alternate air door (open)
+Waste gate controller
+Filter
+Waste gate actuator
+Waste gate
+Figure 3-17. A turbocharger air induction system.
+
+3-11
+
+===== PDF PAGE 140 =====
+Exhaust manifold
+
+Differential pressure control
+Engine oil
+pressure inlet
+Fuel injector
+Density controller
+
+Oil return to
+crankcase
+
+Exhaust bypass
+valve assembly
+Oil return
+to crankcase
+
+Turbocharger
+
+Exhaust gases
+
+Exhaust gas discharge
+
+Compressor
+discharge pressure
+Inlet manifold
+pressure
+
+Filter
+
+Air inlet
+
+Oil
+Air
+
+Oil
+
+Exhaust gas
+
+Figure 3-18. Sea level booster turbosupercharger system.
+
+two extremes of waste gate position, constant power output
+can be achieved below the maximum altitude at which the
+system is designed to operate. An engine with a critical
+altitude of 16,000 feet cannot produce 100 percent of its rated
+manifold pressure above 16,000 feet. Critical altitude means
+the maximum altitude at which, in standard atmosphere, it
+is possible to maintain, at a specified rotational speed, a
+specified power or a specified manifold pressure.
+A critical altitude exists for every possible power setting
+below the maximum operating ceiling. If the aircraft is
+flown above this altitude without a corresponding change in
+the power setting, the waste gate is automatically driven to
+the fully closed position in an effort to maintain a constant
+power output. Thus, the waste gate is almost fully open at sea
+level and continues to move toward the closed position as the
+aircraft climbs, in order to maintain the preselected manifold
+pressure setting. When the waste gate is fully closed (leaving
+only a small clearance to prevent sticking), the manifold
+pressure begins to drop if the aircraft continues to climb. If
+a higher power setting cannot be selected, the turbocharger’s
+critical altitude has been reached. Beyond this altitude, the
+
+power output continues to decrease. If a turbocharger waste
+gate will not close fully, then the aircraft will not be able to
+reach its critical altitude.
+The position of the waste gate valve, which determines power
+output, is controlled by oil pressure. Engine oil pressure acts
+on a piston in the waste gate assembly, which is connected
+by linkage to the waste gate valve. When oil pressure is
+increased on the piston, the waste gate valve moves toward
+the closed position, and engine output power increases.
+Conversely, when the oil pressure is decreased, the waste gate
+valve moves toward the open position, and output power is
+decreased as described earlier.
+The position of the piston attached to the waste gate valve is
+dependent on bleed oil, which controls the engine oil pressure
+applied to the top of the piston. Oil is returned to the engine
+crankcase through two control devices, the density controller
+and the differential pressure controller. These two controllers,
+acting independently, determine how much oil is bled back to
+the crankcase and establishes the oil pressure on the piston.
+
+3-12
+
+===== PDF PAGE 141 =====
+Cylinder 5
+
+Engine intake
+
+Engine oil cooler
+
+3
+
+Injector nozzle shrouds
+6
+
+4
+
+2
+
+Air filter
+
+Ambient
+air intake
+
+Induction “Y”
+
+1
+
+Fuel pump
+
+Alternate air source
+—pull to open
+
+To fuel pressure
+gauge vent port
+
+Check valve
+Turbine
+Exhaust
+tailpipe
+
+Scavenge pump
+
+To engine
+case
+
+Throttle control
+Throttle
+connected
+variable
+controller
+
+Exhaust bypass
+
+Compressor
+To engine sump
+Actuator
+
+One-way
+check valve
+
+Waste gate
+
+Tank vent
+
+Engine exhaust
+
+Vent
+overboard
+
+Bellows
+
+nk
+
+p ta
+
+Sum
+
+Figure 3-19. Components of a turbocharger system engine.
+
+The density controller is designed to limit the manifold
+pressure below the turbocharger’s critical altitude and regulates
+bleed oil only at the full throttle position. The pressure- and
+temperature-sensing bellows of the density controller react to
+pressure and temperature changes between the fuel injector
+inlet and the turbocharger compressor. The bellows, filled
+with dry nitrogen, maintain a constant density by allowing the
+pressure to increase as the temperature increases. Movement
+of the bellows repositions the bleed valve, causing a change
+in the quantity of bleed oil, which changes the oil pressure on
+top of the waste gate piston. [Figure 3-18]
+The differential pressure controller functions during all
+positions of the waste gate valve other than the fully open
+position, which is controlled by the density controller. One
+side of the diaphragm in the differential pressure controller
+senses air pressure upstream from the throttle; the other side
+samples pressure on the cylinder side of the throttle valve.
+[Figure 3-18] At the “wide open” throttle position when the
+density controller controls the waste gate, the pressure across
+the differential pressure controller diaphragm is at a minimum
+and the controller spring holds the bleed valve closed. At “part
+
+throttle” position, the air differential is increased, opening
+the bleed valve to bleed oil to the engine crankcase and
+reposition the waste gate piston. Thus, the two controllers
+operate independently to control turbocharger operation at all
+positions of the throttle. Without the overriding function of the
+differential pressure controller during part-throttle operation,
+the density controller would position the waste gate valve for
+maximum power. The differential pressure controller reduces
+injector entrance pressure and continually repositions the
+valve over the whole operating range of the engine.
+The differential pressure controller reduces the unstable
+condition known as “bootstrapping” during part-throttle
+operation. Bootstrapping is an indication of unregulated power
+change that results in the continual drift of manifold pressure.
+This condition can be illustrated by considering the operation
+of a system when the waste gate is fully closed. During this
+time, the differential pressure controller is not modulating the
+waste gate valve position. Any slight change in power caused
+by a change in temperature or rpm fluctuation is magnified
+and results in manifold pressure change since the slight change
+causes a change in the amount of exhaust gas flowing to the
+3-13
+
+===== PDF PAGE 142 =====
+turbine. Any change in exhaust gas flow to the turbine causes
+a change in power output and is reflected in manifold pressure
+indications. Bootstrapping, then, is an undesirable cycle of
+turbocharging events causing the manifold pressure to drift
+in an attempt to reach a state of equilibrium.
+Bootstrapping is sometimes confused with the condition
+known as overboost, but bootstrapping is not a condition that
+is detrimental to engine life. An overboost condition is one in
+which manifold pressure exceeds the limits prescribed for a
+particular engine and can cause serious damage. A pressure
+relief valve when used in some systems, set slightly in excess
+of maximum deck pressure, is provided to prevent damaging
+over boost in the event of a system malfunction.
+The differential pressure controller is essential to smooth
+functioning of the automatically controlled turbocharger,
+since it reduces bootstrapping by reducing the time required
+to bring a system into equilibrium. There is still extra
+throttle sensitivity with a turbocharged engine than with a
+naturally aspirated engine. Rapid movement of the throttle
+can cause a certain amount of manifold pressure drift in a
+turbocharged engine. Less severe than bootstrapping, this
+condition is called overshoot. While overshoot is not a
+dangerous condition, it can be a source of concern to the
+pilot or operator who selects a particular manifold pressure
+setting only to find it has changed in a few seconds and must
+be reset. Since the automatic controls cannot respond rapidly
+enough to abrupt changes in throttle settings to eliminate the
+inertia of turbocharger speed changes, overshoot must be
+controlled by the operator. This can best be accomplished by
+slowly making changes in throttle setting, accompanied by a
+few seconds’ wait for the system to reach a new equilibrium.
+Such a procedure is effective with turbocharged engines,
+regardless of the degree of throttle sensitivity.
+
+Turbocharger Controllers & System Descriptions
+Turbocharger system engines contain many of the same
+components mentioned with the previous systems.
+[Figure 3-19] Some systems use special lines and fittings that
+are connected to the upper-deck pressure for air reference to
+the fuel injection system and in some cases for pressurizing
+the magnetos. Basic system operation is similar to other
+turbocharger systems with the main differences being in the
+controllers. The controller monitors deck pressure by sensing
+the output of the compressor. The controller controls the oil
+flow through the waste gate actuator, which opens or closes
+the exhaust bypass valve. If a malfunction occurs causing
+the waste gate or controller to not be stable, it will cause the
+engine to surge due to an erratic manifold pressure. When
+deck pressure is insufficient, the controller restricts oil flow
+thereby increasing oil pressure at the waste gate actuator. This
+pressure acts on the piston to close off the waste gate valve,
+
+Air reference lines
+
+Sloped controller
+Aftercooler
+
+Induction Y
+Scavenge oil return
+
+Turbocharger
+
+Figure 3-20. An aftercooler installation.
+
+forcing more exhaust gas pulses to turn the turbine faster and
+cause an increase in compressor output. When deck pressure
+is too great, the opposite occurs. The exhaust waste gate fully
+opens and bypasses some of the exhaust gases to decrease
+exhaust flow across the turbine. An aftercooler is installed
+in the induction air path between the compressor stage and
+the air throttle inlet. [Figure 3-20]
+Most turbochargers are capable of compressing the induction
+air to the point at which it can raise the air temperature by a
+factor of five. This means that full power takeoff on a 100 °F
+day could produce induction air temperatures exiting the
+compressor at up to 500 °F. This would exceed the allowable
+throttle air inlet temperature on all reciprocating engine
+models. Typically, the maximum air throttle inlet temperature
+ranges from a low 230 °F to a high of 300 °F. Exceeding
+these maximums can place the combustion chambers closer
+to detonation. The function of the aftercooler is to cool the
+compressed air, which decreases the likelihood of detonation
+and increases the charge air density, which improves the
+turbocharger performance for that engine design. On engine
+start, the controller senses insufficient compressor discharge
+pressure (deck pressure) and restricts the flow of oil from the
+waste gate actuator to the engine. This causes the waste gate
+butterfly valve to close. As the throttle is advanced, exhaust
+gas flows across the turbine increases, thereby increasing
+turbine/compressor shaft speed and compressor discharge
+pressure. The controller senses the difference between
+upper deck and manifold pressure. If either deck pressure
+or throttle differential pressure rises, the controller poppet
+valve opens, relieving oil pressure to the waste gate actuator.
+This decreases turbocharger compressor discharge pressure
+(deck pressure).
+
+Variable Absolute Pressure Controller (VAPC)
+The VAPC contains an oil control valve similar to the other
+3-14
+
+===== PDF PAGE 143 =====
+Aneroid bellows assembly
+
+Aneroid bellows assembly
+
+Upper
+deck
+pressure
+
+Manifold
+pressure
+sensing
+port
+Diaphragm
+
+Engine oil
+from
+wastegate
+actuator
+
+Oil restrictor valve
+
+Dock
+pressure
+sensing
+port
+
+Oil return to
+engine
+
+Poppet
+Oil inlet port
+
+Poppet seat
+
+Oil drain port
+
+Throttle controlled cam
+
+Adjustment screw
+
+Figure 3-22. A diagram of a sloped controller used to maintain the
+Figure 3-21. A diagram of a variable absolute pressure controller
+
+(VAPC).
+
+controllers that were discussed. [Figure 3-21] The oil
+restrictor is actuated by an aneroid bellows that is referenced
+to upper deck pressure. A cam connected to the throttle
+mechanism applies pressure to the restrictor valve and
+aneroid. As the throttle is opened to greater values, the cam
+applies a greater pressure to the aneroid. This increases the
+amount of upper deck pressure necessary to compress the
+aneroid and thereby open the oil restrictor valve. This means
+that the scheduled absolute value of upper deck pressure that
+is required to overcome the aneroid is variable by throttle
+position. As the throttle is opened wide, the manifold pressure
+and upper deck pressure requirements greatly increase.
+
+Sloped Controller
+The sloped controller is designed to maintain the rated
+compressor discharge pressure at wide-open throttle and to
+reduce this pressure at part throttle settings. [Figure 3-22]
+A diaphragm, coupled with a spring-supported bellows for
+absolute pressure reference, is exposed to deck pressure and
+intake manifold pressure through ports located before and
+after the throttle, respectively. This arrangement constantly
+monitors deck pressure and the pressure differential between
+the deck and manifold pressure due to a partially closed
+throttle. If either deck pressure or throttle differential pressure
+
+rated compressor discharge pressure at wide-open throttle.
+
+rises, the controller poppet opens and decreases turbocharger
+discharge (deck) pressure. The sloped controller is more
+sensitive to the throttle differential pressure than to deck
+pressure, thereby accomplishing deck pressure reduction as
+the throttle is closed.
+
+Absolute Pressure Controller
+One device used to control the speed and output of the
+turbocharger, but controls the system only at maximum
+output, is the absolute pressure controller. The absolute
+pressure controller contains an aneroid bellows that is
+referenced to upper deck pressure. It operates the waste gate,
+which diverts, more or less, exhaust gas over the turbine.
+As an absolute pressure setting is reached, it bypasses
+oil, and relieves the pressure on the waste gate actuator.
+This allows the absolute pressure controller to control the
+maximum turbocharger compressor discharge pressure. The
+turbocharger is completely automatic, requiring no pilot
+action up to the critical altitude.
+
+Turbocharger System Troubleshooting
+Figure 3-23 includes some of the most common turbocharger
+system malfunctions together with their cause and repair.
+These troubleshooting procedures are presented as a
+guide only and should not be substituted for applicable
+3-15
+
+===== PDF PAGE 144 =====
+Trouble
+
+Probable Cause
+
+Aircraft fails to
+reach critical
+altitude
+
+Damaged compressor or turbine wheel
+
+Replace turbocharger
+
+Exhaust system leaks
+
+Repair leaks
+
+Faulty turbocharger bearings
+
+Replace turbocharge
+
+Wastegate will not close fully
+
+Refer to wastegate in the trouble column
+
+Malfunctioning controller
+
+Refer to differential controller in the trouble column
+
+Bootstrapping
+
+Ensure engine is operated in proper range
+
+Wastegate malfunction
+
+Refer to wastegate in the trouble column
+
+Controller malfunction
+
+Refer to differential controller in the trouble column
+
+Wastegate bypass valve bearing tight
+
+Replace bypass valve
+
+Oil inlet orifice blocked
+
+Clean orifice
+
+Differential controller malfunction
+
+Refer to controller in the trouble column
+
+Broken wastegate linkage
+
+Replace linkage and adjust waste gate for proper opening and closing
+
+Oil outlet obstructed
+
+Clean and reconnect oil return line
+
+Broken wastegate linkage
+
+Replace linkage and adjust waste gate opening and closing
+
+Controller malfunction
+
+Refer to controller in the trouble column
+
+Seals leaking
+
+Replace controller
+
+Diaphragm broken
+
+Replace controller
+
+Controller valve stuck
+
+Replace controller
+
+Seals leaking
+
+Replace controller
+
+Bellows damaged
+
+Replace controller
+
+Valve stuck
+
+Replace controller
+
+Engine surges
+
+Wastegate will
+not close fully
+
+Wastegate will
+not open
+
+Differential
+controller
+malfunctions
+
+Density controller
+malfunctions
+
+Remedy
+
+Figure 3-23. Common issues when troubleshooting turbocharger systems.
+
+manufacturer’s instructions or troubleshooting procedures.
+
+Turbine Engine Inlet Systems
+The engine inlet of a turbine engine is designed to provide a
+relatively distortion-free flow of air, in the required quantity,
+to the inlet of the compressor. [Figure 3-24] Many engines
+use inlet guide vanes (IGV) to help straighten the airflow and
+direct it into the first stages of the compressor. A uniform and
+steady airflow is necessary to avoid compressor stall (airflow
+tends to stop or reverse direction of flow) and excessive
+internal engine temperatures in the turbine section. Normally,
+the air-inlet duct is considered an airframe part and not a
+part of the engine. However, the duct is very important to
+the engine’s overall performance and the engine’s ability to
+produce an optimum amount of thrust.
+A gas turbine engine consumes considerable more airflow
+than a reciprocating engine. The air entrance passage is
+correspondingly larger. Furthermore, it is more critical in
+determining engine and aircraft performance, especially
+at high airspeeds. Inefficiencies of the inlet duct result in
+successively magnified losses through other components of
+
+the engine. The inlet varies according to the type of turbine
+engine. Small turboprop and turboshaft engines have a
+lower airflow than large turbofan engines which require a
+completely different type of inlet. Many turboprop, auxiliary
+power units, and turboshaft engines use screens that cover
+the inlet to prevent foreign object damage (FOD).
+
+Figure 3-24. An example of a turbine engine inlet.
+
+3-16
+
+===== PDF PAGE 145 =====
+As aircraft speed increases, thrust tends to decrease
+somewhat; as the aircraft speed reaches a certain point, ram
+recovery compensates for the losses caused by the increases
+in speed. The inlet must be able to recover as much of the total
+pressure of the free airstream as possible. As air molecules
+are trapped and begin to be compressed in the inlet, much
+of the pressure loss is recovered. This added pressure at the
+inlet of the engine increases the pressure and airflow to the
+engine. This is known as “ram recovery” or “total pressure
+recovery.” The inlet duct must uniformly deliver air to
+the compressor inlet with as little turbulence and pressure
+variation as possible. The engine inlet duct must also hold
+the drag effect on the aircraft to a minimum.
+Air pressure drop in the engine inlet is caused by the friction
+of the air along both sides of the duct and by the bends in the
+duct system. Smooth flow depends upon keeping the amount
+of turbulence to a minimum as the air enters the duct. On
+engines with low flow rates, turning the airflow allows the
+engine nacelle to be smaller and have less drag. On turbofan
+engines, the duct must have a sufficiently straight section to
+ensure smooth, even airflow because of the high airflows.
+The choice of configuration of the entrance to the duct is
+dictated by the location of the engine within the aircraft
+and the airspeed, altitude, and attitude at which the aircraft
+is designed to operate. To accomplish this, inlet ducts are
+designed to function as diffusers with a divergent shape,
+decreasing the velocity and increasing the static pressure of
+the air passing through them.
+Divided-Entrance Duct
+The requirements of high-speed, single- or twin-engine
+military aircraft, in which the pilot sits low in the fuselage and
+close to the nose, render it difficult to employ the older type
+single-entrance duct, which is not used on modern aircraft.
+Some form of a divided duct, which takes air from either side
+of the fuselage, has become fairly widely used. This divided
+duct can be either a wing-root inlet or a scoop at each side of
+the fuselage. [Figure 3-25] Either type of duct presents more
+problems to the aircraft designer than a single-entrance duct
+because of the difficulty of obtaining sufficient airscoop area
+without imposing prohibitive amounts of drag. Internally,
+the problem is the same as that encountered with the singleentrance duct: to construct a duct of reasonable length with
+as few bends as possible. Scoops at the sides of the fuselage
+are often used. These side scoops are placed as far forward
+as possible to permit a gradual bend toward the compressor
+inlet, making the airflow characteristics approach those of a
+single-entrance duct. A series of turning vanes is sometimes
+placed in the side-scoop inlet to assist in straightening the
+incoming airflow and to prevent turbulence.
+
+Figure 3-25. An example of a divided-entrance duct.
+
+Variable-Geometry Duct
+The main function of an inlet duct is to furnish the proper
+amount of air to the engine inlet. In a typical military aircraft
+using a turbojet or low bypass turbofan engine, the maximum
+airflow requirements are such that the Mach number of the
+airflow directly ahead of the face of the engine is less than
+Mach 1. Airflow through the engine must be less than Mach 1
+at all times. Therefore, under all flight conditions, the velocity
+of the airflow as it enters the air-inlet duct must be reduced
+through the duct before the airflow is ready to enter the
+compressor. To accomplish this, inlet ducts are designed to
+function as diffusers, decreasing the velocity and increasing the
+static pressure of the air passing through them. [Figure 3-26]
+As with military supersonic aircraft, a diffuser progressively
+decreases in area in the downstream direction. Therefore, a
+supersonic inlet duct follows this general configuration until
+the velocity of the incoming air is reduced to Mach 1. The
+
+Figure 3-26. An inlet duct acts as a diffuser to decrease the airflow
+
+velocity and to increase the static pressure of air.
+
+3-17
+
+===== PDF PAGE 146 =====
+aft section of the duct then increases in area, since this part
+must act as a subsonic diffuser. [Figure 3-27] In practice, inlet
+ducts for supersonic aircraft follows this general design only
+as much as practical, depending upon the design features of
+the aircraft. For very high speed aircraft, the inside area of
+configuration of the duct is changed by a mechanical device
+as the speed of the aircraft increases or decreases. A duct of
+this type is usually known as a variable-geometry inlet duct.
+Military aircraft use the three methods described above to
+diffuse the inlet air and slow the inlet airflow at supersonic
+flight speeds. One is to vary the area, or geometry, of the inlet
+duct either by using a movable restriction, such as a ramp
+or wedge, inside the duct. Another system is some sort of a
+variable airflow bypass arrangement, which extracts part of
+the inlet airflow from the duct ahead of the engine. In some
+cases, a combination of both systems is used.
+The third method is the use of a shock wave in the airstream.
+A shock wave is a thin region of discontinuity in a flow of
+air or gas, during which the speed, pressure, density, and
+temperature of the air or gas undergo a sudden change.
+Stronger shock waves produce larger changes in the
+properties of the air or gas. A shock wave is willfully set up
+in the supersonic flow of the air entering the duct, by means
+of some restriction or small obstruction which automatically
+protrudes into the duct at high flight Mach numbers. The
+shock wave results in diffusion of the airflow, which, in turn,
+decreases the velocity of the airflow. In at least one aircraft
+installation, both the shock method and the variable-geometry
+method of causing diffusion are used in combination. The
+same device that changes the area of the duct also sets up a
+shock wave that further reduces the speed of the incoming
+air within the duct. The amount of change in duct area and
+the magnitude of the shock are varied automatically with the
+airspeed of the aircraft.
+
+Compressor Inlet Screens
+To prevent the engine from readily ingesting any items that
+can be drawn in the intake, a compressor inlet screen is
+sometimes placed across the engine air inlet at some location
+along the inlet duct. Engines that incorporate inlet screens,
+such as turboprops [Figure 3-28] and APUs [Figure 3-29] are
+not as vulnerable to FOD. The advantages and disadvantages
+of a screen vary. If the engine is readily subjected to internal
+damage, as would be the case for an engine having an axial
+compressor fitted with aluminum compressor blades, an
+inlet screen is almost a necessity. Screens, however, add
+appreciably to inlet duct pressure loss and are very susceptible
+to icing. Failure due to fatigue is also a problem. A failed
+screen can sometimes cause more damage than no screen
+at all. In some instances, inlet screens are made retractable
+and may be withdrawn from the airstream after takeoff or
+whenever icing conditions prevail. Such screens are subject
+to mechanical failure and add both weight and bulk to
+the installation. In large turbofan engines having steel or
+titanium compressor (fan) blades, which do not damage
+
+Figure 3-28. An example of a turboprop engine that incorporates
+
+inlet screens.
+Convergent
+supersonic
+section
+
+Divergent
+subsonic
+section
+
+Figure 3-27. The aft section of an inlet duct acting as a subsonic
+
+diffuser.
+
+Figure 3-29. An example of an inlet screen on an APU.
+
+3-18
+

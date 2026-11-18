@@ -1,0 +1,950 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 3 (Induction & Exhaust Systems), PDF pages 147-159
+
+===== PDF PAGE 147 =====
+easily, the disadvantages of compressor screens outweigh
+the advantages, so they are not generally used.
+Bellmouth Compressor Inlets
+A bellmouth inlet is usually installed on an engine undergoing
+testing in a test cell. For this reason, the bellmouth inlet duct
+is most often used on helicopter airframes. [Figure 3-30]
+It is generally equipped with probes that, with the use of
+instruments, can measure intake temperature and pressure
+(total and static). [Figure 3-31] During testing, it is important
+that the outside static air is allowed to flow into the engine
+with as little resistance as possible. The bellmouth is attached
+to the movable part of the test stand and moves with the
+engine. The thrust stand is made up of two components,
+one nonmoving and one moving. This is so the moving
+component can push against a load cell and measure thrust
+during the testing of the engine. The bellmouth is designed
+with the single objective of obtaining very high aerodynamic
+efficiency. Essentially, the inlet is a bell-shaped funnel
+having carefully rounded shoulders which offer practically
+no air resistance. [Figure 3-30] Duct loss is so slight that it
+
+is considered zero. The engine can, therefore, be operated
+without the complications resulting from losses common
+to an installed aircraft inlet duct. Engine performance data,
+such as rated thrust and thrust specific fuel consumption, are
+obtained while using a bellmouth inlet. Usually, the inlets are
+fitted with protective screening. In this case, the efficiency
+lost as the air passes through the screen must be taken into
+account when very accurate engine data are necessary.
+Turboprop & Turboshaft Compressor Inlets
+The air inlet on a turboprop is more of a problem than some
+other gas turbine engines because the propeller drive shaft,
+the hub, and the spinner must be considered in addition to
+other inlet design factors. The ducted arrangement is generally
+considered the best inlet design of the turboprop engine as
+far as airflow and aerodynamic characteristics are concerned.
+[Figure 3-32] The inlet for many types of turboprops are
+anti-iced by using electrical elements in the lip opening of
+the intake. Ducting either part of the engine or nacelle directs
+the airflow to the intake of the engine. Deflector doors are
+sometimes used to deflect ice or dirt away from the intake.
+[Figure 3-33] The air then passes through a screen and into
+the engine on some models. A conical spinner, which does
+not allow ice to build up on the surface, is sometimes used
+with turboprop and turbofan engines. In either event, the
+arrangement of the spinner and the inlet duct plays an important
+function in the operation and performance of the engine.
+Turbofan Engine Inlet Sections
+High-bypass turbofan engines are usually constructed with
+the fan at the forward end of the compressor. A typical
+turbofan intake section is shown in Figure 3-34. Sometimes,
+the inlet cowl is bolted to the front of the engine and provides
+the airflow path into the engine. In dual compressor (dual
+spool) engines, the fan is integral with the relatively slowturning, low-pressure compressor, which allows the fan
+
+Figure 3-30. A bellmouth inlet used during system tests.
+
+Figure 3-31. Probes within a bellmouth inlet used to measure intake
+
+temperature and pressure.
+
+Figure 3-32. An example of a ducted arrangement on a turboprop
+
+engine.
+
+3-19
+
+===== PDF PAGE 148 =====
+Figure 3-33. Deflector doors used to deflect ice or dirt away from
+
+the intake.
+
+Figure 3-35. Rubber stripping inside a turbofan engine inlet allows
+
+for friction for short periods of time during changes in the flightpath.
+
+the fan blades forms a secondary airstream, which is ducted
+overboard without passing through the main engine. This
+secondary air (fan flow) produces 80 percent of the thrust in
+high-bypass engines. The air that passes through the inner
+part of the fan blades becomes the primary airstream (core
+flow) through the engine itself. [Figure 3-36]
+The air from the fan exhaust, which is ducted overboard, may
+be discharged in either of two ways:
+
+Figure 3-34. A typical turbofan intake section.
+
+blades to rotate at low tip speed for best fan efficiency. The
+fan permits the use of a conventional air inlet duct, resulting
+in low inlet duct loss. The fan reduces engine damage from
+ingested foreign material because much of any material
+that may be ingested is thrown radially outward and passes
+through the fan discharge rather than through the core of
+the engine. Warm bleed air is drawn from the engine and
+circulated on the inside of the inlet lip for anti-icing. The
+fan hub or spinner is either heated by warm air or is conical
+as mentioned earlier. Inside the inlet by the fan blade tips is
+an abraidable rub strip that allows the fan blades to rub for
+short times due to flightpath changes. [Figure 3-35] Also,
+inside the inlet are sound-reducing materials to lower the
+noise generated by the fan.
+The fan on high-bypass engines consists of one stage
+of rotating blades and stationary vanes that can range in
+diameter from less than 84 inches to more than 112 inches.
+[Figure 3-36] The fan blades are either hollow titanium or
+composite materials. The air accelerated by the outer part of
+
+1.
+
+To the outside air through short ducts (dual exhaust
+nozzles) directly behind the fan. [Figure 3-37]
+
+2.
+
+Ducted fan, which uses closed ducts all the way to the
+rear of the engine, where it is exhausted to the outside
+air through a mixed exhaust nozzle. This type engine
+is called a ducted fan and the core airflow and fan
+airflow mix in a common exhaust nozzle.
+
+Figure 3-36. The air that passes through the inner part of the fan
+
+blades becomes the primary airstream.
+
+3-20
+
+===== PDF PAGE 149 =====
+Fa
+n
+
+rge
+ha
+sc
+di
+
+Figure 3-37. Air from the fan exhaust can be discharged overboard
+
+through short ducts directly behind the fan.
+
+Figure 3-38. Location of a typical collector exhaust system.
+
+Reciprocating Engine Exhaust Systems
+
+system components of a horizontally opposed engine is
+shown in a side view. The exhaust system in this installation
+consists of a down-stack from each cylinder, an exhaust
+collector tube on each side of the engine, and an exhaust
+ejector assembly protruding aft and down from each side of
+the firewall. The down-stacks are connected to the cylinders
+with high temperature locknuts and secured to the exhaust
+collector tube by ring clamps. A cabin heater exhaust shroud
+is installed around each collector tube. [Figure 3-39]
+
+The reciprocating engine exhaust system is fundamentally
+a scavenging system that collects and disposes of the high
+temperature, noxious gases being discharged by the engine.
+Its main function is to dispose of the gases with complete
+safety to the airframe and the occupants of the aircraft. The
+exhaust system can perform many useful functions, but its
+first duty is to provide protection against the potentially
+destructive action of the exhaust gases. Modern exhaust
+systems, though comparatively light, adequately resist high
+temperatures, corrosion, and vibration to provide long,
+trouble-free operation with minimum maintenance.
+There are two general types of exhaust systems in use on
+reciprocating aircraft engines: the short stack (open) system
+and the collector system. The short stack system is generally
+used on nonsupercharged engines and low-powered engines
+where noise level is not too objectionable. The collector system
+is used on most large nonsupercharged engines and on all
+turbosupercharged engines and installations on which it would
+improve nacelle streamlining or provide easier maintenance in
+the nacelle area. On turbosupercharged engines, the exhaust
+gases must be collected to drive the turbine compressor of the
+supercharger. Such systems have individual exhaust headers
+that empty into a common collector ring with only one outlet.
+From this outlet, the hot exhaust gas is routed via a tailpipe
+to the turbosupercharger that drives the turbine. Although the
+collector system raises the back pressure of the exhaust system,
+the gain in horsepower from turbosupercharging more than
+offsets the loss in horsepower that results from increased back
+pressure. The short stack system is relatively simple, and its
+removal and installation consists essentially of removing and
+installing the hold-down nuts and clamps. Short stack systems
+have limited use on most modern aircraft.
+In Figure 3-38, the location of typical collector exhaust
+
+The collector tubes terminate at the exhaust ejector openings
+at the firewall and are tapered to deliver the exhaust gases
+at the proper velocity to induce airflow through the exhaust
+
+Upper sheet jacket
+
+Heat exchanger collector tube
+
+Lower sheet jacket
+Figure 3-39. A cabin heater exhaust shroud.
+
+3-21
+
+===== PDF PAGE 150 =====
+ejectors. The exhaust ejectors consist of a throat-and-duct
+assembly that utilizes the pumping action of the exhaust
+gases to induce a flow of cooling air through all parts of the
+engine compartment (augmenter tube action).
+Radial Engine Exhaust Collector Ring System
+Figure 3-40 shows the exhaust collector ring installed on
+a 14-cylinder radial engine. The collector ring is a welded
+corrosion-resistant steel assembly manufactured in seven
+sections, with each section collecting the exhaust from two
+cylinders. The sections are graduated in size. [Figure 3-41]
+The small sections are on the inboard side, and the largest
+sections are on the outboard side at the point where the tailpipe
+connects to the collector ring. Each section of the collector
+ring is bolted to a bracket on the blower section of the engine
+and is partly supported by a sleeve connection between the
+collector ring ports and the short stack on the engine exhaust
+ports. The exhaust tailpipe is joined to the collector ring by a
+telescoping expansion joint, which allows enough slack for the
+removal of segments of the collector ring without removing
+the tailpipe. The exhaust tailpipe is a welded, corrosionresistant steel assembly consisting of the exhaust tailpipe and,
+on some aircraft, a muff-type heat exchanger.
+Manifold & Augmentor Exhaust Assembly
+Some radial engines are equipped with a combination
+exhaust manifold and augmentor assembly. On a typical
+18-cylinder engine, two exhaust assemblies and two
+augmentor assemblies are used. Each manifold assembly
+collects exhaust gases from nine cylinders and discharges the
+gases into the forward end of the augmentor assembly. The
+exhaust gases are directed into the augmentor bellmouths.
+The augmentors are designed to produce a venturi effect to
+draw an increased airflow over the engine to augment engine
+
+A
+B
+C
+D
+E
+F
+
+Clamp assembly
+Telescoping flange
+Main exhaust segment
+Engine diaphragm
+Clamp assembly
+Clevis pin & washer
+
+E
+
+A
+
+F
+
+C
+B
+
+D
+
+Figure 3-40. Elements of an exhaust collector ring installed on a
+
+radial engine.
+
+Figure 3-41. A radial engine exhaust collector ring is graduated in
+
+size from the inboard side to the outboard side.
+
+cooling. An augmentor vane is located in each tailpipe. When
+the vane is fully closed, the cross-sectional area of the tailpipe
+is reduced by approximately 45 percent. The augmentor
+vanes are operated by an electrical actuator, and indicators
+adjacent to the augmentor vane switches in the flight deck
+show vane positions. The vanes may be moved toward the
+“closed” position to decrease the velocity of flow through
+the augmentor to raise the engine temperature. This system is
+only used with older aircraft that generally use radial engines.
+Reciprocating Engine Exhaust System Maintenance
+Practices
+Any exhaust system failure should be regarded as a severe
+hazard. Depending on the location and type of failure,
+an exhaust system failure can result in carbon monoxide
+poisoning of crew and passengers, partial or complete loss
+of engine power, or an aircraft fire. Cracks in components,
+leaking gaskets, or complete failure can cause serious
+problems in flight. Often, these failures can be detected
+before complete failure. Black soot around an exhaust gasket
+shows the gasket has failed. The exhaust system should be
+inspected very thoroughly.
+Exhaust System Inspection
+While the type and location of exhaust system components
+vary somewhat with the type of aircraft, the inspection
+requirements for most reciprocating engine exhaust systems
+3-22
+
+===== PDF PAGE 151 =====
+are very similar. The following paragraphs include a
+discussion of the most common exhaust system inspection
+items and procedures for all reciprocating engines.
+Figure 3-42 shows the primary inspection areas of three
+types of exhaust systems.
+When performing maintenance on exhaust systems, never use
+galvanized or zinc-plated tools on the exhaust system. Exhaust
+system parts should never be marked with a lead pencil. The
+lead, zinc, or galvanized mark is absorbed by the metal of the
+exhaust system when heated, creating a distinct change in its
+molecular structure. This change softens the metal in the area
+of the mark, causing cracks and eventual failure.
+After the installation of a complete exhaust system and all
+pieces of engine cowl are installed and secured, the engine
+should be operated to allow the exhaust system to heat up
+to normal operating temperatures. The engine is then shut
+
+A
+
+B
+
+C
+
+Figure 3-42. Primary inspection areas of three types of exhaust
+
+systems.
+
+down and the cowling removed to expose the exhaust system.
+Each clamped connection and each exhaust port connection
+should be inspected for evidence of exhaust gas leakage.
+An exhaust leak is indicated by a flat gray or a sooty black
+streak on the pipes in the area of the leak. An exhaust leak
+is usually the result of poor alignment of two mated exhaust
+system members. When a leaking exhaust connection is
+discovered, the clamps should be loosened, and the leaking
+units repositioned to ensure a gas-tight fit.
+After repositioning, the system nuts should be retightened
+enough to eliminate any looseness without exceeding the
+specified torque. If tightening to the specified torque does
+not eliminate looseness, the bolts and nuts should be replaced
+since they have probably stretched. After tightening to the
+specified torque, all nuts should be safetied. With the cowling
+removed, all necessary cleaning operations can be performed.
+Some exhaust units are manufactured with a plain sandblast
+finish. Others may have a ceramic-coated finish. Ceramiccoated stacks should be cleaned by degreasing only. They
+should never be cleaned with sandblast or alkali cleaners.
+During the inspection of an exhaust system, close attention
+should be given to all external surfaces of the exhaust system
+for cracks, dents, or missing parts. This also applies to welds,
+clamps, supports, support attachment lugs, bracing, slip joints,
+stack flanges, gaskets, and flexible couplings. Each bend
+should be examined, as well as areas adjacent to welds. Any
+dented areas or low spots in the system should be inspected
+for thinning and pitting due to internal erosion by combustion
+products or accumulated moisture. An ice pick or similar
+pointed instrument is useful in probing suspected areas.
+The system should be disassembled as necessary to inspect
+internal baffles or diffusers. If a component of the exhaust
+system is inaccessible for a thorough visual inspection or is
+hidden by nonremovable parts, it should be removed and
+checked for possible leaks. This can often be accomplished
+best by plugging the openings of the component, applying
+a suitable internal pressure (approximately 2 psi), and
+submerging it in water. Any leaks cause bubbles that
+can readily be detected. The procedures required for an
+installation inspection are also performed during most regular
+inspections. Daily inspection of the exhaust system usually
+consists of checking the exposed exhaust system for cracks,
+scaling, excessive leakage, and loose clamps.
+Muffler & Heat Exchanger Failures
+Approximately half of all muffler and heat exchanger failures
+can be traced to cracks or ruptures in the heat exchanger
+surfaces used for cabin and carburetor heat sources. Failures
+in the heat exchanger surface (usually in the outer wall) allow
+3-23
+
+===== PDF PAGE 152 =====
+exhaust gases to escape directly into the cabin heat system.
+These failures, in most cases, are caused by thermal and
+vibration fatigue cracking in areas of stress concentration.
+Failure of the spot-welds, which attach the heat transfer pins,
+can result in exhaust gas leakage. In addition to a carbon
+monoxide hazard, failure of heat exchanger surfaces can
+permit exhaust gases to be drawn into the engine induction
+system, causing engine overheating and power loss.
+Exhaust Manifold & Stack Failures
+Exhaust manifold and stack failures are usually fatigue
+failures at welded or clamped points (e.g., stack-to-flange,
+stack-to-manifold, and crossover pipe or muffler connections).
+Although these failures are primarily fire hazards, they also
+present carbon monoxide problems. Exhaust gases can
+enter the cabin via defective or inadequate seals at firewall
+openings, wing strut fittings, doors, and wing root openings.
+Internal Muffler Failures
+Internal failures (baffles, diffusers, etc.) can cause partial or
+complete engine power loss by restricting the flow of the
+exhaust gases. If pieces of the internal baffling breaks loose
+and partially or totally blocks the flow of exhaust gases,
+engine failure can occur. [Figure 3-43] As opposed to other
+failures, erosion and carburization caused by the extreme
+thermal conditions are the primary causes of internal failures.
+Engine backfiring and combustion of unburned fuel within the
+exhaust system are probable contributing factors. In addition,
+local hot-spot areas caused by uneven exhaust gas flow can
+result in burning, bulging, or rupture of the outer muffler wall.
+
+Figure 3-43. An example of internal muffler failure. Muffler failure
+
+can be caused by erosion and carbonization, which in turn can lead
+to breakage blocking exhaust flow.
+
+Exhaust Systems with Turbocharger
+When a turbocharger or a turbosupercharger system is
+included, the engine exhaust system operates under greatly
+increased pressure and temperature conditions. Extra
+precautions should be taken in exhaust system care and
+maintenance. During high-pressure altitude operation, the
+exhaust system pressure is maintained at or near sea level
+values. Due to the pressure differential, any leaks in the system
+allow the exhaust gases to escape with torch-like intensity
+that can severely damage adjacent structures. A common
+cause of malfunction is coke deposits (carbon buildup) in the
+waste gate unit causing erratic system operation. Excessive
+deposit buildups may cause the waste gate valve to stick in
+the “closed” position, causing an overboost condition. Coke
+deposit buildup in the turbo itself causes a gradual loss of
+power in flight and low manifold pressure reading prior to
+takeoff. Experience has shown that periodic de-coking, or
+removal of carbon deposits, is necessary to maintain peak
+efficiency. Clean, repair, overhaul, and adjust the system
+components and controls in accordance with the applicable
+manufacturer’s instructions.
+Augmentor Exhaust System
+On exhaust systems equipped with augmentor tubes, the
+augmentor tubes should be inspected at regular intervals for
+proper alignment, security of attachment, and general overall
+condition. Even where augmentor tubes do not contain heat
+exchanger surfaces, they should be inspected for cracks
+along with the remainder of the exhaust system. Cracks
+in augmentor tubes can present a fire or carbon monoxide
+hazard by allowing exhaust gases to enter the nacelle, wing,
+or cabin areas.
+Exhaust System Repairs
+It is generally recommended that exhaust stacks, mufflers,
+tailpipes, etc., be replaced with new or reconditioned
+components rather than repaired. Welded repairs to exhaust
+systems are complicated by the difficulty of accurately
+identifying the base metal so that the proper repair materials
+can be selected. Changes in composition and grain structure
+of the original base metal further complicate the repair.
+However, when welded repairs are necessary, the original
+contours should be retained; the exhaust system alignment
+must not be warped or otherwise affected. Repairs or sloppy
+weld beads that protrude internally are not acceptable as they
+cause local hot spots and may restrict exhaust gas flow. The
+proper hardware and clamps should always be used when
+repairing or replacing exhaust system components. Steel or
+low temperature, self-locking nuts should not be substituted
+for brass or special high temperature locknuts used by the
+manufacturer. Old gaskets should never be re-used. When
+disassembly is necessary, gaskets should be replaced with
+new ones of the same type provided by the manufacturer.
+3-24
+
+===== PDF PAGE 153 =====
+Turbine Engine Exhaust Nozzles
+Turbine engines have several different types of exhaust
+nozzles depending upon the type of engine. Turboshaft
+engines in helicopters can have an exhaust nozzle that forms
+a divergent duct. This type of nozzle would not provide any
+thrust, all engine power going to rotate the rotors, improving
+helicopter hovering abilities. Turbofan engines tend to fall
+into either ducted fan of unducted fan engines. Ducted fan
+engines take the fan airflow and direct it through closed
+ducts along the engine. Then, it flows into a common exhaust
+nozzle. The core exhaust flow and the fan flow mix and flow
+from the engine through this mixed nozzle. The unducted fan
+has two nozzles, one for the fan airflow and one for the core
+airflow. These both flow to ambient air separate from each
+other and have separate nozzles. [Figure 3-44]
+The unducted engine or the separate nozzle engine handles
+high amounts of airflow. The fan air which creates most of the
+thrust (80–85 percent total thrust) must be directed through
+the fan blades and exit vanes with little turbulence as possible.
+[Figure 3-45] The core airflow needs to be straightened as
+it comes from the turbine. Through the use of a converging
+nozzle, the exhaust gases increase in velocity before they are
+discharged from the exhaust nozzle. Increasing the velocity of
+the gases increases their momentum and increases the thrust
+produced (20–15 percent total thrust). Most of the energy of
+the gases have been absorbed to drive the fan through the
+low-pressure turbine stages.
+Turboprop exhaust nozzles provide small amounts of thrust
+(10–15 percent) but are mainly used to discharge the exhaust
+gases from the aircraft. Most of the energy has been transferred
+to the propeller. On some turboprop aircraft, an exhaust duct
+is often referred to as a tailpipe, although the duct itself is
+
+Figure 3-45. Fan air is directed through the fan blades and exit
+
+vanes.
+
+essentially a simple, stainless steel, conical or cylindrical pipe.
+The assembly also includes an engine tail cone and the struts
+inside the duct. The tail cone and the struts add strength to
+the duct, impart an axial direction to the gas flow, and smooth
+the gas flow. In a typical installation, the tailpipe assembly is
+mounted in the nacelle and attached at its forward end to the
+firewall. The forward section of the tailpipe is funnel shaped
+and surrounds but does not contact the turbine exhaust section.
+This arrangement forms an annular gap that serves as an air
+ejector for the air surrounding the engine hot section. As the
+high-velocity exhaust gases enter the tailpipe, a low-pressure
+effect is produced which causes the air around the engine hot
+section to flow through the annular gap into the tailpipe. The
+rear section of the tailpipe is secured to the airframe by two
+support arms, one on each side of the tailpipe. The support
+arms are attached to the upper surface of the wing in such
+
+Fan airflow
+
+Core airflow
+
+Core airflow
+
+Fan airflow
+
+Figure 3-44. Path of both core exhaust flow and fan flow from the engine to separate nozzles.
+
+3-25
+
+===== PDF PAGE 154 =====
+a way that allow movement fore and aft to compensate for
+expansion. The tailpipe assembly is wrapped in an insulating
+blanket to shield the surrounding area from the high heat
+produced by the exhaust gases. Such blankets may be made of
+a stainless steel laminated sheet on the outside and fiberglass
+on the inside. This is used when the engine exhaust is located
+some distance from the edge of the wing or aircraft structure.
+Immediately aft of the turbine outlet, and usually just forward
+of the flange to which the exhaust duct is attached, the engine
+is instrumented for turbine discharge pressure. One or more
+pressure probes are inserted into the exhaust duct to provide
+adequate sampling of the exhaust gases. In large engines,
+it is not practical to measure the internal temperature at the
+turbine inlet, so the engine is often also instrumented for
+exhaust gas temperature at the turbine outlet.
+Convergent Exhaust Nozzle
+As the exhaust gases exit the rear of the engine, they flow
+into the exhaust nozzle. [Figure 3-46] The very first part of
+the exhaust nozzle and the exhaust plug form a divergent duct
+to reduce turbulence in the airflow, then the exhaust gases
+flow into the convergent component of the exhaust nozzle
+where the flow is restricted by a smaller outlet opening. Since
+this forms a convergent duct, the gas velocity is increased
+providing increased thrust. The restriction of the opening of
+the outlet of the exhaust nozzle is limited by two factors. If
+the nozzle opening is too big, thrust is being wasted. If it is
+too little, the flow is choked in the other components of the
+engine. In other words, the exhaust nozzle acts as an orifice,
+the size of which determines the density and velocity of
+the gases as they emerge from the engine. This is critical to
+thrust performance. Adjusting the area of the exhaust nozzle
+changes both the engine performance and the exhaust gas
+temperature. When the velocity of the exhaust gases at the
+
+Tail cone
+
+Exhaust nozzle
+
+nozzle opening becomes Mach 1, the flow passes only at this
+speed—it does not increase or decrease. Sufficient flow to
+maintain Mach 1 at the nozzle opening and have extra flow
+(flow that is being restricted by the opening) creates what
+is called a choked nozzle. The extra flow builds up pressure
+in the nozzle, which is sometimes called pressure thrust. A
+differential in pressure exists between the inside of the nozzle
+and the ambient air. By multiplying this difference in pressure
+times the area of the nozzle opening, pressure thrust can be
+calculated. Many engines cannot develop pressure thrust
+because most of the energy is used to drive turbines that turn
+propellers, large fans, or helicopter rotors.
+Convergent-Divergent Exhaust Nozzle
+Whenever the engine pressure ratio is high enough to produce
+exhaust gas velocities which might exceed Mach 1 at the
+engine exhaust nozzle, more thrust can be gained by using
+a convergent-divergent type of nozzle. [Figure 3-47] The
+advantage of a convergent-divergent nozzle is greatest at
+high Mach numbers because of the resulting higher pressure
+ratio across the engine exhaust nozzle.
+To ensure that a constant weight or volume of a gas flows past
+any given point after sonic velocity is reached, the rear part
+of a supersonic exhaust duct is enlarged to accommodate the
+additional weight or volume of a gas that flows at supersonic
+rates. If this is not done, the nozzle does not operate efficiently.
+This is the divergent section of the exhaust duct.
+When a divergent duct is used in combination with a
+conventional exhaust duct, it is called a convergent-divergent
+exhaust duct. In the convergent-divergent, or C-D nozzle, the
+convergent section is designed to handle the gases while they
+remain subsonic, and to deliver the gases to the throat of the
+nozzle just as they attain sonic velocity. The divergent section
+
+Subsonic convergent
+section
+
+Supersonic divergent
+section
+
+Exhaust nozzle
+
+Gas attains sonic velocity
+
+Figure 3-46. Exhaust gases exit the rear of the engine through the
+
+exhaust nozzle.
+
+Figure 3-47. A convergent-divergent nozzle can be used to help
+
+produce more thrust when exhaust gas velocities are greater than
+Mach 1.
+
+3-26
+
+===== PDF PAGE 155 =====
+handles the gases, further increasing their velocity, after they
+emerge from the throat and become supersonic. As the gas
+flows from the throat of the nozzle, it becomes supersonic
+(Mach 1 and above) and then passes into the divergent section
+of the nozzle. Since it is supersonic, it continues to increase
+in velocity. This type of nozzle is generally used on very high
+speed aerospace vehicles.
+
+Thrust Reversers
+As aircraft have increased in gross weights with higher
+landing airspeeds, the problem of stopping an aircraft after
+landing has greatly increased. In many instances, the aircraft
+brakes can no longer be relied upon solely to slow the aircraft
+within a reasonable distance, immediately after touchdown.
+Most thrust reverser systems can be divided into two
+categories: mechanical-blockage and aerodynamic-blockage.
+Mechanical blockage is accomplished by placing a removable
+obstruction in the exhaust gas stream, usually somewhat to the
+rear of the nozzle. The engine exhaust gases are mechanically
+blocked and diverted at a suitable angle in the reverse
+direction by an inverted cone, half-sphere, or clam shell.
+[Figure 3-48] This is placed in position to reverse the flow of
+exhaust gases. This type is generally used with ducted turbofan
+engines, where the fan and core flow mix in a common nozzle
+before exiting the engine. The clamshell-type or mechanicalblockage reverser operates to form a barrier in the path of
+escaping exhaust gases, which nullifies and reverses the
+forward thrust of the engine. The reverser system must be
+able to withstand high temperatures, be mechanically strong,
+relatively light in weight, reliable, and “fail-safe.” When not
+in use, it must be streamlined into the configuration of the
+engine nacelle. When the reverser is not in use, the clamshell
+doors retract and nest neatly around the engine exhaust duct,
+usually forming the rear section of the engine nacelle.
+In the aerodynamic blockage type of thrust reverser, used
+mainly with unducted turbofan engines, only fan air is used
+to slow the aircraft. A modern aerodynamic thrust reverser
+system consists of a translating cowl, blocker doors, and
+cascade vanes that redirect the fan airflow to slow the
+aircraft. [Figure 3-49] If the thrust levers are at idle position
+and the aircraft has weight on the wheels, moving the thrust
+levers aft activates the translating cowl to open, closing the
+blocker doors. This action stops the fan airflow from going
+aft and redirects it through the cascade vanes, which direct
+the airflow forward to slow the aircraft. Since the fan can
+produce approximately 80 percent of the engine’s thrust,
+the fan is the best source for reverse thrust. By returning the
+thrust levers (power levers) to the idle position, the blocker
+doors open and the translating cowl closes.
+A thrust reverser must not have any adverse effect on engine
+operation either deployed or stowed. Generally, there is
+
+Forward thrust
+
+Reverse thrust
+Figure 3-48. Engine exhaust gases are blocked and diverted in a
+
+reserve direction during thrust reversal.
+
+an indication in the flight deck with regard to the status of
+the reverser system. The thrust reverser system consists of
+several components that move either the clam shell doors
+or the blocker door and translating cowl. Actuating power
+is generally pneumatic or hydraulic and uses gearboxes,
+flexdrives, screwjacks, control valves, and air or hydraulic
+motors to deploy or stow the thrust reverser systems. The
+systems are locked in the stowed position until commanded to
+deploy by the flight deck. Since there are several moving parts,
+maintenance and inspection requirements are very important.
+While performing any type of maintenance, the reverser
+system must be mechanically locked out from deploying while
+personnel are in the area of the reverser system.
+
+Afterburning/Thrust Augmentation
+The terms afterburning and thrust augmentation generally
+pertain to military engine applications. The terms are used to
+describe the same system. Normally, this is used to increase
+the thrust of the engine up to double the original thrust. The
+required additions to the exhaust nozzle for this system are
+a flame stabilizer, fuel manifold, flame holder, igniter, and a
+3-27
+
+===== PDF PAGE 156 =====
+Translating cowl
+
+Cascade vanes
+
+Blocker doors
+
+Power lever
+
+Direction and speed control valve
+
+Reverse thrust
+select lever
+(forward thrust)
+
+Vent
+
+Lock indicator light switch
+
+Flexible drive
+
+Flexible drive
+Flexible drive
+Air motor
+Gearbox
+
+Forward thrust position
+
+Screwjack
+
+Reverse thrust
+select lever
+(reverse thrust)
+
+Lock and sequence valve
+Selector valve
+
+Fuel regulator
+Feedback gearbox
+Pressure regulator and SOV
+
+Air motor unit
+
+Blocker doors (folded)
+
+Exhaust
+
+Reverse thrust position
+
+Figure 3-49. Components of a thrust reverser system.
+
+3-28
+
+===== PDF PAGE 157 =====
+variable area exhaust nozzle. [Figure 3-50] After the engine
+has reached full power under normal operation, the power
+lever can be advanced to activate the afterburner. This allows
+more fuel to flow into the exhaust nozzle where it is ignited
+and burned. As energy and mass are added to the gas flow,
+the exhaust nozzle must open wider to allow greater flow.
+As the power lever is moved back out of the afterburner, the
+exhaust nozzle closes down again. Some low-bypass turbofan
+engines used in military aircraft use bypass (fan air) to flow
+into the exhaust nozzle. Just as in a ducted fan, this air is
+used in the afterburner. It contains more oxygen and assists
+combustion in the afterburner. Since fuel is being burned in
+the exhaust nozzle, the heat buildup around the nozzle is a
+problem. A special type of liner is used around the nozzle to
+allow cooler air to circulate around the nozzle. This operates
+somewhat like a single burner can combustion chamber.
+Operation in the afterburner mode is somewhat limited by
+high fuel consumption, which can be almost double normal
+consumption.
+
+Thrust Vectoring
+Thrust vectoring is the ability of an aircraft’s main engines to
+direct thrust other than parallel to the vehicle’s longitudinal
+axis, allowing the exhaust nozzle to move or change position
+to direct the thrust in varied directions. Vertical takeoff
+aircraft use thrust vectoring as takeoff thrust and then change
+direction to propel the aircraft in horizontal flight. Military
+aircraft use thrust vectoring for maneuvering in flight to
+change direction. Thrust vectoring is generally accomplished
+by relocating the direction of the exhaust nozzle to direct the
+thrust to move the aircraft in the desired path. At the rear of
+a gas turbine engine, a nozzle directs the flow of hot exhaust
+gases out of the engine and afterburner. Usually, the nozzle
+points straight out of the engine. The pilot can move, or
+vector, the vectoring nozzle up and down by 20°. This makes
+the aircraft much more maneuverable in flight. [Figure 3-51]
+
+Figure 3-50. An example of a variable area exhaust nozzle used to
+
+increase or decrease exhaust flow during afterburn.
+
+Figure 3-51. A pilot can direct thrust via the vectoring nozzle 20°
+
+up or down to increase flight maneuverability.
+
+Engine Noise Suppression
+Aircraft powered by gas turbine engines sometimes require
+noise suppression for the engine exhaust gases when
+operating from airports located in or near highly populated
+areas. Several types of noise suppressors are used. A common
+type of noise suppressor is an integral, airborne part of the
+aircraft engine installation or engine exhaust nozzle. Engine
+noise comes from several sources on the engine, the fan, or
+compressor and the air discharge from the core of the engine.
+There are three sources of noise involved in the operation
+of a gas turbine engine. The engine air intake and vibration
+from engine housing are sources of some noise, but the
+noise generated does not compare in magnitude with that
+produced by the engine exhaust. [Figure 3-52] The noise
+produced by the engine exhaust is caused by the high degree
+of turbulence of a high-velocity jet stream moving through
+a relatively quiet atmosphere. For a distance of a few nozzle
+diameters downstream behind the engine, the velocity of the
+jet stream is high, and there is little mixing of the atmosphere
+with the jet stream. In this region, the turbulence within
+the high speed jet stream is very fine grain turbulence and
+produces relatively high-frequency noise. This noise is caused
+by violent, turbulent mixing of the exhaust gases with the
+atmosphere and is influenced by the shearing action caused by
+the relative speeds between the velocity and the atmosphere.
+Farther downstream, as the velocity of the jet stream
+slows down, the jet stream mixes with the atmosphere and
+turbulence of a coarser type begins. Compared with noise
+from other portions of the jet stream, noise from this portion
+has a much lower frequency. As the energy of the jet stream
+finally is dissipated in large turbulent swirls, a greater portion
+of the energy is converted into noise. The noise generated as
+the exhaust gases dissipate is at a frequency near the low end
+of the audible range. The lower the frequency of the noise,
+3-29
+
+===== PDF PAGE 158 =====
+30 D
+
+D
+
+10 D
+
+Most of the noise radiates from this low frequency
+turbulence region
+10°
+
+D = Nozzle diameter
+Figure 3-52. Engine noise from engine exhaust is created by the turbulence of a high velocity jet stream moving through the relatively
+
+quiet atmosphere.
+
+the greater the distance the noise travels. This means that the
+low-frequency noises reach an individual on the ground in
+greater volume than the high-frequency noises, and hence
+are more objectionable. High-frequency noise is weakened
+more rapidly than low-frequency noise, both by distance
+and the interference of buildings, terrain, and atmospheric
+disturbances. A deep-voiced, low-frequency foghorn, for
+example, may be heard much farther than a shrill, highfrequency whistle, even though both may have the same
+overall volume (decibels) at their source.
+Noise levels vary with engine thrust and are proportional
+to the amount of work done by the engine on the air that
+passes through it. An engine having relatively low airflow
+but high thrust due to high turbine discharge (exhaust gas)
+temperature, pressure, and/or afterburning produces a gas
+stream of high velocity and, therefore, high noise levels. A
+larger engine, handling more air, is quieter at the same thrust
+and large engines operating at partial thrust are less noisy than
+smaller engines operating at full thrust. Thus, the noise level
+can be reduced considerably by operating the engine at lower
+power settings. Compared with a turbojet, a turbofan version
+of the same engine is quieter during takeoff. The noise level
+produced by a fan-type engine is lower, principally because
+the exhaust gas velocities ejected at the engine tailpipe are
+slower than those for a turbojet of comparative size.
+Fan engines require a larger turbine to provide additional
+power to drive the fan. The large turbine, which usually has
+an additional turbine stage, reduces the velocity of the gas
+and, therefore, reduces the noise produced because exhaust
+gas noise is proportional to exhaust gas velocity. The exhaust
+from the fan is at a relatively low velocity and, therefore, does
+
+not create a noise problem. Because of the characteristic of
+low-frequency noise to linger at a relatively high volume,
+effective noise reduction for a turbojet aircraft must be
+achieved by revising the noise pattern or by changing the
+frequency of the noise emitted by the jet nozzle.
+The noise suppressors in current use are either of the corrugatedperimeter type, or the multi-tube type. [Figure 3-53] Both
+types of suppressors break up the single, main jet exhaust
+stream into a number of smaller jet streams. This increases
+the total perimeter of the nozzle area and reduces the size
+of the air stream eddies created as the gases are discharged
+into the open air. Although the total noise-energy remains
+unchanged, the frequency is raised considerably. The size
+of the air stream eddies scales down at a linear rate with
+the size of the exhaust stream. This has two effects: 1) the
+change in frequency may put some of the noise above the
+audibility range of the human ear, and 2) high frequencies
+
+Tail
+cone
+
+Figure 3-53. Noise suppressors currently in use are corrugated-
+
+perimeter type, or multi-tube type.
+
+3-30
+
+===== PDF PAGE 159 =====
+within the audible range, while perhaps more annoying, are
+more highly attenuated by atmospheric absorption than are
+low frequencies. Thus, the falloff in intensity is greater and
+the noise level is less at any given distance from the aircraft.
+In the engine nacelle, the area between the engine and the
+cowl has acoustic linings surrounding the engine. This
+noise-absorbing lining material converts acoustic energy
+into heat. These linings normally consist of a porous skin
+supported by a honeycomb backing and provide a separation
+between the face sheet and the engine duct. For optimum
+suppression, the acoustic properties of the skin and the liner
+are carefully matched.
+
+Turbine Engine Emissions
+Engineers are introducing new combustion technology that
+has dramatically reduced emissions from gas turbine engines.
+Lowering exhaust emissions from gas turbine, especially
+oxides of nitrogen (NOX), continue to require improvement.
+Most of the research has centered around the combustion
+section of the engine. New technology with unique combustor
+design has greatly reduced emissions. One manufacturer
+has a design called the Twin Annular, Pre-mixing Swirler
+(TAPS) combustor. Most advanced designs rely on a method
+of pre-mixing the air-fuel before it enters the combustion
+burner area. In the TAPS design, air from the high-pressure
+compressor is directed into the combustor through two highenergy swirlers adjacent to the fuel nozzles. This swirl creates
+a more thorough and leaner mix of fuel and air, which burns
+at lower temperatures than in previous gas turbine engine
+designs. Most of the NOX is formed by the reaction of oxygen
+and nitrogen at high temperatures. The NOX levels are higher
+if the burning air-fuel mixture stays at high temperatures for a
+longer time. Newly designed combustors also produce lower
+levels of carbon monoxide and unburned hydrocarbons. The
+increases in gas turbine engine component efficiencies have
+resulted in fewer emissions from gas turbine engines.
+
+3-31
+

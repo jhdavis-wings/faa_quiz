@@ -1,0 +1,1594 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 590-605
+
+===== PDF PAGE 590 =====
+to run. This rated, or nonsynchronous, speed is slightly less
+than the synchronous speed. To determine the number of
+poles per phase on the motor, divide 120 times the frequency
+by the rated speed. Written as an equation, it is:
+P=
+
+120 × f
+N
+
+Where: P is the number of poles per phase
+f is the frequency in cps
+N is the rated speed in rpm, and
+120 is a constant
+The result is nearly equal to the number of poles per phase.
+For example, consider a 60-cycle, three-phase motor with a
+rated speed of 1,750 rpm. In this case:
+P = 120 × 60 = 7,200 = 4.1
+1,750
+1,750
+Therefore, the motor has four poles per phase. If the number
+of poles per phase is given on the nameplate, the synchronous
+speed can be determined by dividing 120 times the frequency
+by the number of poles per phase. In the example used above,
+the synchronous speed is equal to 7,200/4, or 1,800 rpm.
+The rotor of an induction motor consists of an iron core
+having longitudinal slots around its circumference in which
+heavy copper or aluminum bars are embedded. These bars
+are welded to a heavy ring of high conductivity on either
+end. The composite structure is sometimes called a squirrel
+cage, and motors containing such a rotor are called squirrel
+cage induction motors. [Figure 12-308]
+Induction Motor Slip
+When the rotor of an induction motor is subjected to the
+revolving magnetic field produced by the stator windings,
+a voltage is induced in the longitudinal bars. The induced
+voltage causes a current to flow through the bars. This current,
+in turn, produces its own magnetic field, which combines
+with the revolving field so that the rotor assumes a position in
+which the induced voltage is minimized. As a result, the rotor
+revolves at very nearly the synchronous speed of the stator
+field, the difference in speed being just sufficient enough to
+induce the proper amount of current in the rotor to overcome
+the mechanical and electrical losses in the rotor. If the rotor
+were to turn at the same speed as the rotating field, the rotor
+conductors would not be cut by any magnetic lines of force,
+no EMF would be induced in them, no current could flow, and
+there would be no torque. The rotor would then slow down.
+For this reason, there must always be a difference in speed
+between the rotor and the rotating field. This difference in
+speed is called slip and is expressed as a percentage of the
+synchronous speed. For example, if the rotor turns at 1,750 rpm
+
+and the synchronous speed is 1,800 rpm, the difference in speed
+is 50 rpm. The slip is then equal to 50/1,800 or 2.78 percent.
+Single-Phase Induction Motor
+The previous discussion has applied only to polyphase
+motors. A single-phase motor has only one stator winding.
+This winding generates a field, which merely pulsates, instead
+of rotating. When the rotor is stationary, the expanding and
+collapsing stator field induces currents in the rotor. These
+currents generate a rotor field opposite in polarity to that of
+the stator. The opposition of the field exerts a turning force
+on the upper and lower parts of the rotor trying to turn it 180°
+from its position. Since these forces are exerted through the
+center of the rotor, the turning force is equal in each direction.
+As a result, the rotor does not turn. If the rotor starts turning,
+it continues to rotate in the direction in which it started, since
+the turning force in that direction is aided by the momentum
+of the rotor.
+Shaded Pole Induction Motor
+The first effort in the development of a self-starting,
+single-phase motor was the shaded pole induction motor.
+[Figure 12-309] This motor has salient poles, a portion
+of each pole being encircled by a heavy copper ring. The
+presence of the ring causes the magnetic field through the
+ringed portion of the pole face to lag appreciably behind
+that through the other part of the pole face. The net effect
+is the production of a slight component of rotation of the
+field, sufficient to cause the rotor to revolve. As the rotor
+accelerates, the torque increases until the rated speed is
+obtained. Such motors have low starting torque and find
+their greatest application in small fan motors where the initial
+torque required is low.
+In Figure 12-309, a diagram of a pole and the rotor is
+shown. The poles of the shaded pole motor resemble those
+of a DC motor.
+A low resistance, short-circuited coil or copper band is placed
+across one tip of each small pole from which the motor gets
+the name of shaded pole. The rotor of this motor is the squirrel
+cage type. As the current increases in the stator winding, the
+flux increases. A portion of this flux cuts the low resistance
+shading coil. This induces a current in the shading coil, and
+by Lenz’s Law, the current sets up a flux that opposes the
+flux inducing the current. Hence, most of the flux passes
+through the unshaded portion of the poles. [Figure 12-310]
+When the current in the winding and the main flux reaches
+a maximum, the rate of change is zero; thus, no emf is
+induced in the shading coil. A little later, the shading coil
+current, which causes the induced emf to lag, reaches zero,
+and there is no opposing flux. Therefore, the main field flux
+12-149
+
+===== PDF PAGE 591 =====
+Split-Phase Motor
+There are various types of self-starting motors, known as
+split-phase motors. Such motors have a starting winding
+displaced 90 electrical degrees from the main or running
+winding. In some types, the starting winding has a fairly
+high resistance, which causes the current in this winding
+to be out of phase with the current in the running winding.
+This condition produces, in effect, a rotating field and
+the rotor revolves. A centrifugal switch disconnects the
+starting winding automatically after the rotor has attained
+approximately 25 percent of its rated speed.
+
+1
+6
+
+2
+
+5
+
+3
+4
+
+a
+b
+c
+A
+0
+
+1
+
+2
+
+4
+
+c
+
+a
+
+180°
+
+3
+
+5
+
+6
+
+b
+
+b
+
+a
+
+Capacitor Start Motor
+With the development of high-capacity electrolytic
+capacitors, a variation of the split-phase motor known as the
+capacitor start motor, has been made. Nearly all fractional
+horsepower motors in use today on refrigerators and other
+similar appliances are of this type. [Figure 12-311] In this
+adaptation, the starting winding and running winding have
+the same size and resistance value. The phase shift between
+currents of the two windings is obtained by using capacitors
+connected in series with the starting winding.
+Capacitor start motors have a starting torque comparable to
+their torque at rated speed and can be used in applications
+where the initial load is heavy. Again, a centrifugal switch
+is required for disconnecting the starting winding when the
+rotor speed is approximately 25 percent of the rated speed.
+
+c
+
+Time
+B
+
+Figure 12-307. Rotating magnetic field developed by application
+
+of three-phase voltages.
+
+passes through the shaded portion of the field pole. The
+main field flux, which is now decreasing, induces a current
+in the shading coil. This current sets up a flux that opposes
+the decrease of the main field flux in the shaded portion of
+the pole. The effect is to concentrate the lines of force in
+the shaded portion of the pole face. In effect, the shading
+coil retards, in time phase, the portion of the flux passing
+through the shaded part of the pole. This lag in time phase
+of the flux in the shaded tip causes the flux to produce the
+effect of sweeping across the face of the pole, from left to
+right in the direction of the shaded tip. This behaves like a
+very weak rotating magnetic field, and sufficient torque is
+produced to start a small motor. The starting torque of the
+shaded pole motor is exceedingly weak, and the power factor
+is low. Consequently, it is built in sizes suitable for driving
+such devices as small fans.
+
+Although some single-phase induction motors are rated as
+high as 2 horsepower (hp), the major field of application is
+1 hp, or less, at a voltage rating of 115 volts for the smaller
+sizes and 110 to 220 volts for one-fourth hp and up. For even
+larger power ratings, polyphase motors generally are used,
+since they have excellent starting torque characteristics.
+Direction of Rotation of Induction Motors
+The direction of rotation of a three-phase induction motor
+can be changed by simply reversing two of the leads to the
+motor. The same effect can be obtained in a two-phase motor
+by reversing connections to one phase. In a single-phase
+motor, reversing connections to the starting winding reverses
+the direction of rotation.
+Most single-phase motors designed for general application
+have provision for readily reversing connections to the
+starting winding. Nothing can be done to a shaded pole motor
+to reverse the direction of rotation because the direction is
+determined by the physical location of the copper shading
+ring. If, after starting, one connection to a three-phase motor
+is broken, the motor continues to run but delivers only
+one-third the rated power. Also, a two-phase motor runs at
+one-half its rated power if one phase is disconnected. Neither
+12-150
+
+===== PDF PAGE 592 =====
+Welds holding copper or
+aluminum bars to end ring
+
+Weld at all joints
+Aluminum or
+copper end ring
+
+Shaft
+
+Iron core
+
+A
+
+Aluminum or copper bars
+
+B
+
+Figure 12-308. Squirrel cage rotor for an AC induction motor.
+
+motor starts under these abnormal conditions.
+
+Shaded poles
+
+Synchronous Motor
+The synchronous motor is one of the principal types of AC
+motors. Like the induction motor, the synchronous motor
+makes use of a rotating magnetic field. Unlike the induction
+motor, however, the torque developed does not depend on
+the induction of currents in the rotor. Briefly, the principle of
+operation of the synchronous motor is as follows: A multiphase
+source of AC is applied to the stator windings, and a rotating
+magnetic field is produced. A direct current is applied to the
+rotor winding, and another magnetic field is produced. The
+synchronous motor is so designed and constructed that these
+two fields react to each other in such a manner that the rotor
+is dragged along and rotates at the same speed as the rotating
+magnetic field produced by the stator windings.
+An understanding of the operation of the synchronous
+motor can be obtained by considering the simple motor of
+Figure 12-312. Assume that poles A and B are being rotated
+clockwise by some mechanical means in order to produce
+a rotating magnetic field. They induce poles of opposite
+polarity in the soft iron rotor, and forces of attraction exist
+between corresponding North and South poles.
+Consequently, as poles A and B rotate, the rotor is dragged
+along at the same speed. However, if a load is applied to the
+rotor shaft, the rotor axis momentarily falls behind that of the
+rotating field but, thereafter, continues to rotate with the field
+at the same speed as long as the load remains constant. If the
+load is too large, the rotor pulls out of synchronism with the
+rotating field and, as a result, no longer rotates with the field
+at the same speed. Thus, the motor is said to be overloaded.
+Such a simple motor as shown in Figure 12-312 is never used.
+The idea of using some mechanical means of rotating the poles
+
+Shaded poles
+Figure 12-309. Shaded pole induction motor.
+
+is impractical because another motor would be required to
+perform this work. Also, such an arrangement is unnecessary
+because a rotating magnetic field can be produced electrically
+by using phased AC voltages. In this respect, the synchronous
+motor is similar to the induction motor.
+The synchronous motor consists of a stator field winding
+similar to that of an induction motor. The stator winding
+produces a rotating magnetic field. The rotor may be a
+permanent magnet, as in small, single-phase synchronous
+motors used for clocks and other small precision equipment,
+or it may be an electromagnet, energized from a DC source of
+power and fed through slip rings into the rotor field coils, as
+in an alternator. In fact, an alternator may be operated either
+as an alternator or a synchronous motor.
+
+12-151
+
+===== PDF PAGE 593 =====
+Since a synchronous motor has little starting torque, some
+means must be provided to bring it up to synchronous speed.
+The most common method is to start the motor at no load,
+allow it to reach full speed, and then energize the magnetic
+field. The magnetic field of the rotor locks with the magnetic
+field of the stator and the motor operates at synchronous speed.
+The magnitude of the induced poles in the rotor shown in
+Figure 12-313 is so small that sufficient torque cannot be
+developed for most practical loads. To avoid such a limitation
+on motor operation, a winding is placed on the rotor and
+energized with DC. A rheostat placed in series with the DC
+source provides the operator of the machine with a means
+of varying the strength of the rotor poles, thus placing the
+motor under control for varying loads.
+The synchronous motor is not a self-starting motor. The
+rotor is heavy and, from a dead stop, it is impossible to
+bring the rotor into magnetic lock with the rotating magnetic
+field. For this reason, all synchronous motors have some
+kind of starting device. One type of simple starter is
+another motor, either AC or DC, which brings the rotor up
+to approximately 90 percent of its synchronous speed. The
+starting motor is then disconnected, and the rotor locks in
+step with the rotating field. Another starting method is a
+second winding of the squirrel cage type on the rotor. This
+induction winding brings the rotor almost to synchronous
+speed, and when the DC is connected to the rotor windings,
+the rotor pulls into step with the field. The latter method is
+the more commonly used.
+AC Series Motor
+An AC-series motor is a single-phase motor, but is not an
+induction or synchronous motor. It resembles a DC motor in
+
+Shaded pole
+
+Rotor
+
+Figure 12-310. Diagram of a shaded pole motor.
+
+that it has brushes and a commutator. The AC-series motor
+operates on either AC or DC circuits. Remember that the
+direction of rotation of a DC-series motor is independent
+of the polarity of the applied voltage, provided the field
+and armature connections remain unchanged. Hence, if a
+DC-series motor is connected to an AC source, a torque is
+developed that tends to rotate the armature in one direction.
+However, a DC-series motor does not operate satisfactorily
+from an AC supply for the following reasons:
+1.
+
+The alternating flux sets up large eddy current and
+hysteresis losses in the unlaminated portions of the
+magnetic circuit and causes excessive heating and
+reduced efficiency.
+
+2.
+
+The self-induction of the field and armature windings
+causes a low power factor.
+
+3.
+
+The alternating field flux establishes large currents in
+the coils, which are short circuited by the brushes; this
+action causes excessive sparking at the commutator.
+
+To design a series motor for satisfactory operation on AC,
+the following changes are made:
+1.
+
+The eddy current losses are reduced by laminating the
+field poles, frame, and armature.
+
+2.
+
+Hysteresis losses are minimized by using high
+permeability, transformer-type, silicon steel
+laminations.
+
+3.
+
+The reactance of the field windings is kept satisfactorily
+low by using shallow pole pieces, few turns of wire,
+low frequency (usually 25 cycles for large motors),
+low flux density, and low reluctance (a short air gap).
+
+4.
+
+The reactance of the armature is reduced by using a
+compensating winding embedded in the pole pieces. If
+the compensating winding is connected in series with
+the armature, as shown in Figure 12-314, the armature
+is conductively compensated.
+If the compensating winding is designed as shown
+in Figure 12-315, the armature is inductively
+compensated. If the motor is designed for operation
+on both DC and AC circuits, the compensating winding
+is connected in series with the armature. The axis of
+the compensating winding is displaced from the main
+field axis by an angle of 90°. This arrangement is
+similar to the compensating winding used in some DC
+motors and generators to overcome armature reaction.
+The compensating winding establishes a counter
+magnetomotive force, neutralizing the effect of the
+armature magnetomotive force, preventing distortion
+of the main field flux, and reducing the armature
+reactance. The inductively compensated armature
+acts like the primary of a transformer, the secondary
+12-152
+
+===== PDF PAGE 594 =====
+Winding 1 (Starting winding)
+
+Capacitor
+Centrifugal switch
+
+S
+N
+
+Alternator
+
+S
+N
+
+Winding 2 (Running winding)
+
+Figure 12-311. Single-phase motor with capacitor starting winding.
+
+of which is the shorted compensating winding. The
+shorted secondary receives an induced voltage by the
+action of the alternating armature flux, and the resulting
+current flowing through the turns of the compensating
+winding establishes the opposing magnetomotive force,
+neutralizing the armature reactance.
+5.
+
+Sparking at the commutator is reduced by the use of
+preventive leads P1, P2, P3, and so forth, as shown in
+Figure 12-316, where a ring armature is shown for
+simplicity. When coils at A and B are shorted by the
+brushes, the induced current is limited by the relatively
+high resistance of the leads. Sparking at the brushes
+is also reduced by using armature coils having only a
+single turn and multipolar fields. High torque is obtained
+by having a large number of armature conductors and
+a large diameter armature. Thus, the commutator has
+a large number of very thin commutator bars and the
+armature voltage is limited to about 250 volts.
+
+a temperature too hot for the hand is too high for safety. Next
+to the temperature, the sound of a motor or generator is the
+best trouble indicator. When operating properly, it should hum
+evenly. If it is overloaded it “grunts.” A three-phase motor
+Rotating pole
+structure
+A
+
+N
+
+S
+
+Maintenance of AC Motors
+The inspection and maintenance of AC motors is very simple.
+The bearings may or may not need frequent lubrication. If
+they are the sealed type, lubricated at the factory, they require
+no further attention. Be sure the coils are kept dry and free
+from oil or other abuse. The temperature of a motor is usually
+its only limiting operating factor. A good rule of thumb is that
+
+Rotor shaft
+
+Induced poles
+N
+
+Fractional horsepower AC series motors are called universal
+motors. They do not have compensating windings or
+preventive leads. They are used extensively to operate fans
+and portable tools, such as drills, grinders, and saws.
+
+Rotor
+
+Rotor axis
+
+S
+
+B
+Rotating pole
+structure
+Figure 12-312. Illustrating the operation of a synchronous motor.
+
+12-153
+
+===== PDF PAGE 595 =====
+with one lead disconnected refuses to turn and “growls.” A
+knocking sound generally indicates a loose armature coil,
+a shaft out of alignment, or armature dragging because of
+worn bearings. In all cases, the inspection and maintenance
+of all AC motors should be performed in accordance with
+the applicable manufacturer’s instructions.
+
+Method of Excitation
+One means of classification is by the type of excitation system
+used. In alternators used on aircraft, excitation can be affected
+by one of the following methods:
+1.
+
+A direct connected, DC generator. This system consists
+of a DC generator fixed on the same shaft with the
+AC generator. A variation of this system is a type of
+alternator that uses DC from the battery for excitation,
+after which the alternator is self-excited.
+
+2.
+
+By transformation and rectification from the AC
+system. This method depends on residual magnetism
+for initial AC voltage buildup, after which the field is
+supplied with rectified voltage from the AC generator.
+
+3.
+
+Integrated brushless type. This arrangement has a DC
+generator on the same shaft with an AC generator.
+The excitation circuit is completed through silicon
+rectifiers rather than a commutator and brushes. The
+rectifiers are mounted on the generator shaft and
+their output is fed directly to the AC generator’s main
+rotating field.
+
+Alternators
+Basic Alternators & Classifications
+An electrical generator is a machine that converts mechanical
+energy into electrical energy by electromagnetic induction.
+A generator that produces alternating current is referred to
+as an AC generator and, through combination of the words
+“alternating” and “generator,” the word “alternator” has come
+into widespread use. In some areas, the word “alternator” is
+applied only to small AC generators. This handbook treats
+the two terms synonymously and uses the term “alternator”
+to distinguish between AC and DC generators.
+The major difference between an alternator [Figure 12-317]
+and a DC generator is the method of connection to the
+external circuit. The alternator is connected to the external
+circuit by slip rings, but the DC generator is connected by
+a commutator.
+
+Number of Phases
+Another method of classification is by the number of phases
+of output voltage. AC generators may be single-phase,
+two-phase, three-phase, or even six-phase and more. In the
+
+N
+Three-phase winding produces
+a rotating magnetic field
+
+S
+
+S
+
++
+N
+
+–
+
+Slip rings
+
+Figure 12-313. Synchronous motor.
+
+12-154
+
+===== PDF PAGE 596 =====
+electrical systems of aircraft, the three-phase alternator is by
+far the most common.
+Armature or Field Rotation
+Still another means of classification is by the type of stator
+and rotor used. From this standpoint, there are two types of
+alternators: the revolving armature-type and the revolving
+field-type. The revolving armature alternator is similar in
+construction to the DC generator in that the armature rotates
+through a stationary magnetic field. The revolving armature
+alternator is found only in alternators of low-power rating
+and generally is not used. In the DC generator, the EMF
+generated in the armature windings is converted into a
+unidirectional voltage (DC) by means of the commutator.
+In the revolving armature-type of alternator, the generated
+AC voltage is applied unchanged to the load by means of
+slip rings and brushes.
+The revolving field type of alternator has a stationary
+armature winding (stator) and a rotating field winding
+(rotor). [Figure 12-318] The advantage of having a stationary
+armature winding is that the armature can be connected
+directly to the load without having sliding contacts in the
+load circuit. A rotating armature would require slip rings
+and brushes to conduct the load current from the armature
+to the external circuit. Slip rings have a relatively short
+service life and arc over is a continual hazard; therefore, high
+voltage alternators are usually of the stationary armature,
+rotating field-type. The voltage and current supplied to the
+rotating field are relatively small, and slip rings and brushes
+for this circuit are adequate. The direct connection to the
+armature circuit makes possible the use of large cross-section
+conductors, adequately insulated for high voltage. Since the
+rotating field alternator is used almost universally in aircraft
+systems, this type is explained in detail, as a single-phase,
+two-phase, and three-phase alternator.
+
+Single-Phase Alternator
+Since the EMF induced in the armature of a generator is
+alternating, the same sort of winding can be used on an
+alternator as on a DC generator. This type of alternator is
+known as a single-phase alternator, but since the power
+delivered by a single-phase circuit is pulsating, this type of
+circuit is objectionable in many applications.
+A single-phase alternator has a stator made up of a number of
+windings in series, forming a single circuit in which an output
+voltage is generated. [Figure 12-319] The stator has four polar
+groups evenly spaced around the stator frame. The rotor has
+four poles with adjacent poles of opposite polarity. As the rotor
+revolves, AC voltages are induced in the stator windings. Since
+one rotor pole is in the same position relative to a stator winding
+as any other rotor pole, all stator polar groups are cut by equal
+
+Compensating
+winding
+
+Main field
+
+Figure 12-314. Conductively compensated armature of AC series
+
+motor.
+
+Compensating
+winding
+
+Main field
+
+Figure 12-315. Inductively compensated armature of AC series
+
+motor.
+
+numbers of magnetic lines of force at any time.
+As a result, the voltages induced in all the windings have
+the same amplitude, or value, at any given instant. The four
+stator windings are connected to each other so that the AC
+voltages are in phase or “series adding.” Assume that rotor
+pole 1, a South pole, induces a voltage in the direction
+indicated by the arrow in stator winding 1. Since rotor
+pole 2 is a North pole, it induces a voltage in the opposite
+direction in stator coil 2 with respect to that in coil 1. For
+the two induced voltages to be in series addition, the two
+coils are connected as shown in Figure 12-319. Applying
+the same reasoning, the voltage induced in stator coil
+3 (clockwise rotation of the field) is the same direction
+(counterclockwise) as the voltage induced in coil 1.
+12-155
+
+===== PDF PAGE 597 =====
+A
+
+P9
+
+P1
+
+P8
+
+P2
+
+P7
+
+P3
+
+P6
+
+P4
+
+P5
+
+B
+Figure 12-316. Preventive coils in AC series motor.
+
+Similarly, the direction of the voltage induced in winding
+4 is opposite to the direction of the voltage induced in coil
+1. All four stator coil groups are connected in series so that
+the voltages induced in each winding add to give a total
+voltage that is four times the voltage in any one winding.
+
+Two-Phase Alternator
+Two-phase alternators have two or more single-phase windings
+spaced symmetrically around the stator. In a two-phase
+alternator, there are two single-phase windings spaced physically
+so that the AC voltage induced in one is 90° out of phase with
+the voltage induced in the other. The windings are electrically
+separate from each other. When one winding is being cut by
+maximum flux, the other is being cut by no flux. This condition
+establishes a 90° relation between the two phases.
+
+Three-Phase Alternator
+A three-phase, or polyphase circuit, is used in most aircraft
+alternators, instead of a single or two-phase alternator. The
+three-phase alternator has three single-phase windings spaced
+so that the voltage induced in each winding is 120° out of
+phase with the voltages in the other two windings. A schematic
+diagram of a three-phase stator showing all the coils becomes
+complex and difficult to see what is actually happening.
+
+Wye Connection (Three-Phase)
+Rather than have six leads from the three-phase alternator,
+one of the leads from each phase may be connected to form
+a common junction. The stator is then called wye or star
+connected. The common lead may or may not be brought out
+of the alternator. If it is brought out, it is called the neutral lead.
+The simplified schematic shows a wye connected stator with
+the common lead not brought out. [Figure 12-321A] Each
+load is connected across two phases in series. Thus, RAB is
+connected across phases A and B in series; RAC is connected
+across phases A and C in series; and RBC is connected across
+phases B and C in series. Therefore, the voltage across each
+load is larger than the voltage across a single phase. The total
+voltage, or line voltage, across any two phases is the vector
+sum of the individual phase voltages. For balanced conditions,
+the line voltage is 1.73 times the phase voltage. Since there is
+only one path for current in a line wire and the phase to which
+it is connected, the line current is equal to the phase current.
+Delta Connection (Three-Phase)
+A three-phase stator can also be connected so that the phases
+are connected end to end. [Figure 12-321B] This arrangement
+is called a delta connection. In a delta connection, the voltages
+are equal to the phase voltages; the line currents are equal
+to the vector sum of the phase currents; and the line current
+is equal to 1.73 times the phase current when the loads are
+balanced. For equal loads (equal output), the delta connection
+supplies increased line current at a value of line voltage equal
+to phase voltage, and the wye connection supplies increased
+line voltage at a value of line current equal to phase current.
+Alternator Rectifier Unit
+A type of alternator used in the electrical system of many
+aircraft weighing less than 12,500 pounds is shown in
+Figure 12-322. This type of power source is sometimes called
+a DC generator, since it is used in DC systems. Although its
+output is a DC voltage, it is an alternator rectifier unit. This
+type of alternator rectifier is a self-excited unit but does not
+contain a permanent magnet. The excitation for starting is
+
+A simplified schematic diagram showing each of three
+phases is illustrated in Figure 12-320. The rotor is omitted for
+simplicity. The waveforms of voltage are shown to the right of
+the schematic. The three voltages are 120° apart and are similar
+to the voltages that would be generated by three single-phase
+alternators whose voltages are out of phase by angles of 120°.
+The three phases are independent of each other.
+Figure 12-317. Belt driven alternator for small single-engine
+
+aircraft.
+
+12-156
+
+===== PDF PAGE 598 =====
+obtained from the battery; immediately after starting, the unit
+is self-exciting. Cooling air for the alternator is conducted
+into the unit by a blast air tube on the air inlet cover.
+The alternator is directly coupled to the aircraft engine by
+means of a flexible drive coupling. The output of the alternator
+portion of the unit is three-phase alternating current, derived
+from a three-phase, delta connected system incorporating a
+three-phase, full-wave bridge rectifier. [Figure 12-323] This
+unit operates in a speed range from 2,100 to 9,000 rpm, with
+a DC output voltage of 26–29 volts and 125 amperes.
+Brushless Alternator
+This design is more efficient because there are no brushes to
+wear down or to arc at high altitudes. This generator consists of
+a pilot exciter, an exciter, and the main generator system. The
+need for brushes is eliminated by using an integral exciter with
+a rotating armature that has its AC output rectified for the main
+AC field, which is also of the rotating type. [Figure 12-324]
+The pilot exciter is an 8-pole, 8,000 rpm, 533 cps, AC
+generator. The pilot exciter field is mounted on the main
+generator rotor shaft and is connected in series with the main
+generator field. The pilot exciter armature is mounted on the
+main generator stator. The AC output of the pilot exciter is
+supplied to the voltage regulator, where it is rectified and
+controlled, and is then impressed on the exciter field winding
+to furnish excitation for the generator.
+The exciter is a small AC generator with its field mounted
+
+Armature
+
+Circuit
+
+The exciter field resistance is temperature compensated by a
+thermistor. This aids regulation by keeping a nearly constant
+resistance at the regulator output terminals. The exciter
+output is rectified and impressed on the main generator
+field and the pilot exciter field. The exciter stator has a
+stabilizing field, which is used to improve stability and to
+prevent voltage regulator over-corrections for changes in
+generator output voltage.
+The AC generator shown in Figure 12-324 is a 6-pole, 8,000
+rpm unit having a rating of 31.5 kilovoltamperes (kVA),
+115⁄200 volts, 400 cps. This generator is three-phase, 4 wire,
+wye connected with grounded neutrals. By using an integral
+AC exciter, the necessity for brushes within the generator
+has been eliminated. The AC output of the rotating exciter
+armature is fed directly into the three-phase, full-wave,
+rectifier bridge located inside the rotor shaft, which uses
+high-temperature silicon rectifiers. The DC output from the
+rectifier bridge is fed to the main AC generator rotating field.
+Voltage regulation is accomplished by varying the strength
+of the AC exciter stationary fields. Polarity reversals of the
+AC generator are eliminated and radio noise is minimized
+by the absence of the brushes. A noise filter mounted on
+the alternator further reduces any existing radio noise.
+The rotating pole structure of the generator is laminated
+from steel punchings, containing all six poles and a
+connecting hub section. This provides optimum magnetic
+and mechanical properties.
+Some alternators are cooled by circulating oil through steel
+tubes. The oil used for cooling is supplied from the constant
+speed drive assembly. Ports located in the flange connecting
+the generator and drive assemblies make oil flow between
+the constant speed drive and the generator possible.
+
+Rotating field
+Slip rings
+
+S
+
+on the main generator stator and its three-phase armature
+mounted on the generator rotor shaft. Included in the exciter
+field are permanent magnets mounted on the main generator
+stator between the exciter poles.
+
+N
+4
+
+–
+To exciter
+
++
+
+S
+
+3
+
+1
+
+3
+2
+N
+
++e
+
+N
+
+4
+
+1
+S
+
+0
+
+Time axis
+
+–e
+
+2
+Figure 12-318. Alternator with stationary armature and rotating
+
+field.
+
+Figure 12-319. Single-phase alternator.
+
+12-157
+
+===== PDF PAGE 599 =====
+Voltage is built up by using permanent magnet interpoles in
+the exciter stator. The permanent magnets assure a voltage
+buildup, precluding the necessity of field flashing. The rotor
+of the alternator may be removed without causing loss of the
+alternator’s residual magnetism.
+Alternator Frequency
+The frequency of the alternator voltage depends upon the
+speed of rotation of the rotor and the number of poles.
+The faster the speed, the higher the frequency; the lower
+the speed, the lower the frequency. The more poles on the
+rotor, the higher the frequency for a given speed. When a
+rotor has rotated through an angle so that two adjacent rotor
+poles (a North and a South pole) have passed one winding,
+the voltage induced in that winding has varied through one
+complete cycle. For a given frequency, the greater the number
+of pairs of poles, the lower the speed of rotation. A two-pole
+alternator rotates at twice the speed of a four-pole alternator
+for the same frequency of generated voltage. The frequency
+of the alternator in cycles per minute (cpm) is related to the
+number of poles and the speed, as expressed by the equation:
+F=
+
+P
+N
+PN
+×
+=
+N
+60
+120
+
+Where: P is the number of poles per phase
+f is the frequency in cps
+N is the rated speed in rpm
+For example, a 2-pole, 3,600 rpm alternator has a frequency of:
+2 × 3,600
+= 60 cps
+120
+A 4-pole, 1,800 rpm alternator has the same frequency; a
+6-pole, 500 rpm alternator has a frequency of:
+6 × 500
+= 25 cps
+120
+A 12-pole, 4,000 rpm alternator has a frequency of:
+
++e
+A
+
+A
+
+B
+
+C
+
+RAB
+
+A
+B
+
+C
+
+A
+
+RA
+RC
+
+RAC
+RBC
+
+A Wye connection
+
+B
+
+RB
+
+B Delta connection
+
+Figure 12-321. Wye and delta connected alternators.
+
+12 × 4,000
+= 400 cps
+120
+Starter Generator
+Many turbine-powered aircraft use a starter generator that
+acts like a starter during the start of the engine and when the
+engine is online it acts like a Generator. [Figure 12-325] The
+main advantage of the starter generator is saving weight by
+eliminating a separate starter that is only used during the start.
+Initially used on small turboprops and light jets but large units
+are now installed on the B787 aircraft engines to power the
+main engines and power the electrical system.
+Alternator Rating
+The maximum current that can be supplied by an alternator
+depends upon the maximum heating loss (I2R power loss) that
+can be sustained in the armature and the maximum heating loss
+that can be sustained in the field. The armature current of an
+alternator varies with the load. This action is similar to that of A
+12 pole, 4,000 rpm alternator has a frequency of DC generators.
+In AC generators, however, lagging power factor loads tend
+to demagnetize the field of an alternator, and terminal voltage
+is maintained only by increasing DC field current. For this
+reason, AC generators are usually rated according to kVA,
+power factor, phases, voltage, and frequency. One generator,
+for example, may be rated at 40 kVA, 208 volts, 400 cycles,
+three phase, at 75 percent power factor. The kVA indicates the
+apparent power. This is the kVA output, or the relationship
+between the current and voltage at which the generator is
+intended to operate. The power factor is the expression of the
+
+C
+
+B
+0
+
+C
+
+–e
+
+Figure 12-320. Simplified schematic of three-phase alternator with
+
+output waveforms.
+
+Figure 12-322. Exploded view of alternator rectifier.
+
+12-158
+
+===== PDF PAGE 600 =====
+ratio between the apparent power (volt-amperes) and the true
+or effective power (watts). The number of phases is the number
+of independent voltages generated. Three-phase generators
+generate three voltages 120 electrical degrees apart.
+Alternator Maintenance
+Maintenance and inspection of alternator systems is similar
+to that of DC systems. Check the exciter brushes for wear and
+surfacing. On most large aircraft with two or four alternator
+systems, each power panel has three signal lights, one
+connected to each phase of the power bus, so the lamp lights
+when the panel power is on. The individual buses throughout
+the airplane can be checked by operating equipment from that
+particular bus. Consult the manufacturer’s instructions on
+operation of equipment for the method of testing each bus.
+Alternator test stands are used for testing alternators and
+constant speed drives in a repair facility. They are capable of
+supplying power to constant speed drive units at input speeds
+varying from 2,400 rpm to 9,000 rpm.
+A typical test stand motor uses 220/440 volt, 60 cycle,
+three-phase power. Blowers for ventilation, oil coolers,
+and necessary meters and switches are integral parts of the
+test stand. A load bank supplies test circuits. An AC motor
+generator set for ground testing is shown in Figure 12-326.
+A typical, portable, AC electrical system test set is an
+analyzer, consisting of a multirange ohmmeter, a multirange
+combination AC DC voltmeter, an ammeter with a clip-on
+current transformer, a vibrating reed type frequency meter,
+E
+
+–
+G1
+
+L1
+
++
+
+C3
+
+CR1
+
+CR4
+
+CR2
+
+CR5
+
+CR3
+
+CR6
+
+C2
+
++
+B
+
++
+A
+Figure 12-323. Wiring diagram of alternator-rectifier unit.
+
+and an unmounted continuity light.
+A portable load bank unit furnishes a load similar to that
+on the airplane for testing alternators, either while mounted
+in the airplane or on the shop test stand. A complete unit
+consists of resistive and reactive loads controlled by selector
+switches and test meters mounted on a control panel. This
+load unit is compact and convenient, eliminating the difficulty
+of operating large loads on the airplane while testing and
+adjusting the alternators and control equipment.
+Proper maintenance of an alternator requires that the unit be
+kept clean and that all electrical connections are tight and
+in good repair. If the alternator fails to build up voltage as
+designated by applicable manufacturer’s technical instructions,
+test the voltmeter first by checking the voltages of other
+alternators, or by checking the voltage in the suspected
+alternator with another voltmeter and comparing the results.
+If the voltmeter is satisfactory, check the wiring, the brushes,
+and the drive unit for faults. If this inspection fails to reveal
+the trouble, the exciter may have lost its residual magnetism.
+Residual magnetism is restored to the exciter by flashing the
+field. Follow the applicable manufacturer’s instructions when
+flashing the exciter field. If, after flashing the field, no voltage
+is indicated, replace the alternator, since it is probably faulty.
+Clean the alternator exterior with an approved fluid; smooth
+a rough or pitted exciter commutator or slip ring with 000
+sandpaper; then clean and polish with a clean, dry cloth. Check
+the brushes periodically for length and general condition.
+Consult the applicable manufacturer’s instructions on the
+specific alternator to obtain information on the correct brushes.
+Regulation of Generator Voltage
+Efficient operation of electrical equipment in an airplane
+depends on a constant voltage supply from the generator.
+Among the factors, which determine the voltage output of a
+generator, only one, the strength of the field current, can be
+conveniently controlled. To illustrate this control, refer to the
+diagram in Figure 12-327, showing a simple generator with
+a rheostat in the field circuit. If the rheostat is set to increase
+the resistance in the field circuit, less current flows through
+the field winding and the strength of the magnetic field in
+which the armature rotates decreases. Consequently, the
+voltage output of the generator decreases. If the resistance in
+the field circuit is decreased with the rheostat, more current
+flows through the field windings, the magnetic field becomes
+stronger, and the generator produces a greater voltage.
+Voltage Regulation with a Vibrating-Type Regulator
+Refer to Figure 12-328. With the generator running at
+normal speed and switch K open, the field rheostat is
+adjusted so that the terminal voltage is about 60 percent of
+12-159
+
+===== PDF PAGE 601 =====
+Stator
+
+Terminal block
+Terminal block
+Oil inlet cover
+
+Rotor
+
+Ball bearing
+
+Filter assembly
+T3
+
+T4
+
+T1
+
+E2
+
+N
+
+Pilot exciter
+armature
+
+Rotor
+
+T6
+T5
+Main AC
+generator
+stator
+windings
+
+Main AC
+generator
+field
+
+F
+
+E1 Exciter
+field
+
+Pilot exciter
+field
+
+S
+
+Stabilizing
+field
+
+S
+
+Radio
+noise
+filter
+
+Thermistor
+
+Exciter
+armature
+
+3 phase bridge rectifier
+
+Figure 12-324. A typical brushless alternator.
+
+normal. Solenoid S is weak and contact B is held closed
+by the spring. When K is closed, a short circuit is placed
+across the field rheostat. This action causes the field current
+to increase and the terminal voltage to rise.
+When the terminal voltage rises above a certain critical value,
+the solenoid downward pull exceeds the spring tension and
+contact B opens, thus reinserting the field rheostat in the field
+circuit and reducing the field current and terminal voltage.
+
+When the terminal voltage falls below a certain critical voltage,
+the solenoid armature contact B is closed again by the spring,
+the field rheostat is now shorted, and the terminal voltage starts
+to rise. The cycle repeats with a rapid, continuous action. Thus,
+an average voltage is maintained with or without load change.
+The dashpot P provides smoother operation by acting as a
+damper to prevent hunting. The capacitor C across contact B
+12-160
+
+===== PDF PAGE 602 =====
+eliminates sparking. Added load causes the field rheostat to
+be shorted for a longer period of time and, thus, the solenoid
+armature vibrates more slowly. If the load is reduced and the
+terminal voltage rises, the armature vibrates more rapidly and
+the regulator holds the terminal voltage to a steady value for
+any change in load, from no load to full load, on the generator.
+Vibrating-type regulators cannot be used with generators,
+which require a high-field current, since the contacts pit or
+burn. Heavy-duty generator systems require a different type
+of regulator, such as the carbon pile voltage regulator.
+Three Unit Regulators
+Many light aircraft employ a three unit regulator for their
+generator systems. [Figure 12-329] This type of regulator
+includes a current limiter and a reverse current cut-out in
+addition to a voltage regulator.
+The action of the voltage regulator unit is similar to the
+vibrating-type regulator described earlier. The second of the
+three units is a current regulator to limit the output current
+of the generator. The third unit is a reverse current cut-out
+that disconnects the battery from the generator. If the battery
+is not disconnected, it discharges through the generator
+armature when the generator voltage falls below that of the
+battery, thus driving the generator as a motor. This action is
+called “motoring” the generator and, unless it is prevented,
+it discharges the battery in a short time.
+The operation of a three unit regulator is described in the
+following paragraphs. [Figure 12-330]
+The action of vibrating contact C1 in the voltage regulator
+unit causes an intermittent short circuit between points R1 and
+L2. When the generator is not operating, spring S1 holds C1
+closed; C2 is also closed by S2. The shunt field is connected
+directly across the armature.
+When the generator is started, its terminal voltage rises as
+the generator comes up to speed, and the armature supplies
+the field with current through closed contacts C2 and C1.
+
+Figure 12-325. Starter generator for small business jet.
+
+As the terminal voltage rises, the current flow through L1
+increases and the iron core becomes more strongly magnetized.
+At a certain speed and voltage, when the magnetic attraction
+on the movable arm becomes strong enough to overcome the
+tension of spring S1, contact points C1 are separated. The field
+current now flows through R1 and L2. Because resistance is
+added to the field circuit, the field is momentarily weakened
+and the rise in terminal voltage is checked. Also, since the
+L2 winding is opposed to the L1 winding, the magnetic pull
+of L1 against S1 is partially neutralized, and spring S1 closes
+contact C1. Therefore, R1 and L2 are again shorted out of
+the circuit, and the field current again increases; the output
+voltage increases, and C1 is opened because of the action of
+L1. The cycle is rapid and occurs many times per second. The
+terminal voltage of the generator varies slightly, but rapidly,
+above and below an average value determined by the tension
+of spring S1, which may be adjusted.
+The purpose of the vibrator-type current limiter is to limit the
+output current of the generator automatically to its maximum
+rated value in order to protect the generator. As shown in
+Figure 12-330, L3 is in series with the main line and load.
+Thus, the amount of current flowing in the line determines
+when C2 is opened and R2 placed in series with the generator
+field. By contrast, the voltage regulator is actuated by line
+voltage, whereas the current limiter is actuated by line current.
+Spring S2 holds contact C2 closed until the current through
+the main line and L3 exceeds a certain value, as determined
+by the tension of spring S2, and causes C2 to be opened.
+The increase in current is due to an increase in load. This
+action inserts R2 into the field circuit of the generator and
+decreases the field current and the generated voltage. When
+the generated voltage is decreased, the generator current is
+reduced. The core of L3 is partly demagnetized and the spring
+closes the contact points. This causes the generator voltage
+and current to rise until the current reaches a value sufficient
+to start the cycle again. A certain minimum value of load
+current is necessary to cause the current limiter to vibrate.
+The purpose of the reverse current cut-out relay is to
+automatically disconnect the battery from the generator when
+the generator voltage is less than the battery voltage. If this
+device were not used in the generator circuit, the battery
+would discharge through the generator. This would tend
+to make the generator operate as a motor, but because the
+generator is coupled to the engine, it could not rotate such
+a heavy load. Under this condition, the generator windings
+may be severely damaged by excessive current.
+There are two windings, L4 and L5, on the soft iron core. The
+current winding, L4, consisting of a few turns of heavy wire,
+is in series with the line and carries the entire line current.
+12-161
+
+===== PDF PAGE 603 =====
+Exciter
+(if used)
+
+Alternator
+
+Motor
+Motor starting panel
+
+Alternator control panel
+
+Start-stop pushbutton
+V
+
+A
+
+W
+Voltage control
+
+Reset button
+
+VM
+5W
+
+AM
+5W
+
+Input terminal
+
+Output terminal
+
+Figure 12-326. AC motor generator set for ground testing.
+B
+
+The voltage winding, L5, consisting of a large number of
+turns of fine wire, is shunted across the generator terminals.
+When the generator is not operating, the contacts, C3 are held
+open by the spring S3. As the generator voltage builds up, L5
+magnetizes the iron core. When the current (as a result of the
+generated voltage) produces sufficient magnetism in the iron
+core, contact C3 is closed, as shown. The battery then receives
+a charging current. The coil spring, S3, is so adjusted that the
+voltage winding does not close the contact points until the
+voltage of the generator is in excess of the normal voltage of
+the battery. The charging current passing through L4 aids the
+current in L5 to hold the contacts tightly closed. Unlike C1
+and C2, contact C3 does not vibrate. When the generator slows
+down or, for any other cause, the generator voltage decreases
+to a certain value below that of the battery, the current reverses
+through L4 and the ampere turns of L4 oppose those of L5.
+Thus, a momentary discharge current from the battery reduces
+the magnetism of the core and C3 is opened, preventing the
+battery from discharging into the generator and motoring it.
+C3 does not close again until the generator terminal voltage
+exceeds that of the battery by a predetermined value.
+
++
+
+Shunt field
+Rheostat
+Load
+
+–
+
+A
+Terminal connections
+E
+Current flow
+
+Figure 12-327. Regulation of generator voltage by field rheostat.
+
+Differential Relay Switch
+Aircraft electrical systems normally use some type of reverse
+current relay switch, which acts not only as a reverse current
+relay cut-out but also serves as a remote control switch by
+which the generator can be disconnected from the electrical
+system at any time. One type of reverse current relay switch
+operates on the voltage level of the generator, but the type
+most commonly used on large aircraft is the differential
+relay switch, which is controlled by the difference in voltage
+12-162
+
+===== PDF PAGE 604 =====
+C
+B
+
+Load
+
+K
+S
+P
+
+Figure 12-328. Vibrating-type voltage regulator.
+
+between the battery bus and the generator.
+The differential type relay switch connects the generator to
+the main bus bar in the electrical system when the generator
+voltage output exceeds the bus voltage by 0.35 to 0.65 volt.
+It disconnects the generator when a nominal reverse current
+flows from the bus to the generator. The differential relays on
+all the generators of a multiengine aircraft do not close when
+the electrical load is light. For example, in an aircraft having
+a load of 50 amperes, only two or three relays may close.
+If a heavy load is applied, the equalizing circuit lowers the
+voltage of the generators already on the bus and, at the same
+time, raise the voltage of the remaining generators, allowing
+their relays to close. If the generators have been paralleled
+properly, all the relays stay closed until the generator control
+switch is turned off or until the engine speed falls below the
+minimum needed to maintain generator output voltage.
+The differential generator control relay shown in Figure 12-331
+is made up of two relays and a coil-operated contactor. One
+relay is the voltage relay and the other is the differential relay.
+Both relays include permanent magnets that pivot between
+the pole pieces of temporary magnets wound with relay coils.
+Voltages of one polarity set up fields about the temporary
+magnets with polarities that cause the permanent magnet to
+move in the direction necessary to close the relay contacts;
+voltages of the opposite polarity establish fields that cause
+the relay contacts to open. The differential relay has two
+coils wound on the same core. The coil-operated contactor,
+called the main contactor, consists of movable contacts that
+are operated by a coil with a movable iron core.
+Closing the generator switch on the control panel connects
+the generator output to the voltage relay coil. When generator
+voltage reaches 22 volts, current flows through the coil
+and closes the contacts of the voltage relay. This action
+completes a circuit from the generator to the battery through
+the differential coil.
+
+Figure 12-329. Three unit regulator.
+
+When the generator voltage exceeds the bus voltage by
+0.35 volt, current flows through the differential coil, the
+differential relay contact closes and, thus, completes the main
+contractor coil circuit. The contacts of the main contactor
+close and connect the generator to the bus.
+When the generator voltage drops below the bus (or battery)
+voltage, a reverse current weakens the magnetic field about
+the temporary magnet of the differential relay. The weakened
+field permits a spring to open the differential relay contacts,
+breaking the circuit to the coil of the main contactor relay,
+opening its contacts, and disconnecting the generator from
+the bus. The generator battery circuit may also be broken
+by opening the flight deck control switch, which opens the
+contacts of the voltage relay, causing the differential relay
+coil to be de-energized.
+Overvoltage & Field Control Relays
+Two other items used with generator control circuits are the
+overvoltage control and the field control relay. As its name
+implies, the overvoltage control protects the system when
+
+Voltage
+regulator
+
+Current
+limiter
+
+Reverse
+current
+cut-out
+Loads
+S3
+C3
+
+Armature
+
+L1
+
++
+–
+
+L3
+
+L2
+Shunt
+field
+
+C1
+
+C2
+S1
+
+R1
+
+A
+
+L4
+
++
+L5
+Storage
+battery
+
+S2
+
+–
+
+R2
+
+Figure 12-330. Three unit regulator for variable speed generators.
+
+12-163
+
+===== PDF PAGE 605 =====
+excessive voltage exists. The overvoltage relay is closed
+when the generator output reaches 32 volts and completes a
+circuit to the trip coil of the field control relay. The closing of
+the field control relay trip circuit opens the shunt field circuit
+and completes it through a resistor, causing generator voltage
+to drop; also, the generator switch circuit and the equalizer
+circuit (multiengine aircraft) are opened. An indicator light
+circuit is completed, warning that an overvoltage condition
+exists. A “reset” position of the flight deck switch is used
+to complete a reset coil circuit in the field control relay,
+returning the relay to its normal position.
+
+of the busses are equalized in their load sharing.
+
+Generator Control Units (GCU)
+
+Differential Voltage
+When the GCU allows the logic output to close the generator
+line contactor, the generator voltage must be within a close
+tolerance of the load bus. If the output is not within the
+specified tolerance, then the contactor is not allowed to
+connect the generator to the bus.
+
+Basic Functions of a Generator Control Unit (GCU)
+The generator control unit (GCU) is more commonly found
+on turbine power aircraft. The most basic GCU perform a
+number of functions related to the regulation, sensing, and
+protection of the DC generation system. [Figure 12-332]
+Voltage Regulation
+The most basic of the GCU functions is that of voltage
+regulation. Regulation of any kind requires the regulation unit
+to take a sample of an output and to compare that sample with
+a controlled reference. If the sample taken falls outside of the
+limits set by the reference, then the regulation unit must provide
+an adjustment to the unit generating the output so as to diminish
+or increase the output levels. In the case of the GCU, the output
+voltage from a generator is sensed by the GCU and compared
+to a reference voltage. If there is any difference between the
+two, the error is usually amplified and then sent back to the field
+excitation control portion of the circuit. The field excitation
+control then makes voltage⁄excitation adjustments in the field
+winding of the generator in order to bring the output voltage
+back into required bus tolerances.
+Overvoltage Protection
+Like the voltage regulation feature of the GCU, the
+overvoltage protection system compares the sampled voltage
+to reference voltage. The output of the overvoltage protection
+circuit is used to open the relay that controls the output for the
+field excitation. These types of faults can occur for a number
+of reasons. The most common, however, is the failure of the
+voltage regulation circuit in the GCU.
+Parallel Generator Operations
+The paralleling feature of the GCU allows for two or more
+GCU/generator systems to work in a shared effort to provide
+current to the aircraft electrical system. Comparing voltages
+between the equalizer bus and the interpole/compensator
+voltage, and amplifying the differences accomplishes the
+control of this system. The difference is then sent to the
+voltage regulation circuit, where adjustments are then made
+in the regulation output. These adjustments continue until all
+
+Over-Excitation Protection
+When a GCU in a paralleled system fails, a situation can
+occur where one of the generators becomes overexcited and
+tries to carry more than its share of the load, if not all of
+the loads. When this condition is sensed on the equalizing
+bus, the faulted generation control system shuts down
+by receiving a de-excitation signal. This signal is then
+transmitted to the overvoltage circuit, and then opens the
+field excitation output circuit.
+
+Reverse Current Sensing
+If the generator is unable to maintain the required voltage
+level, it eventually begins to draw current instead of providing
+it. In this case, the faulty generator is seen as a load to the
+other generators and will need to be removed from the
+bus. Once the generator is off-line, it is not permitted to be
+reconnected to the bus until such time that the generator faults
+are cleared and the generator is capable of providing a current
+to the bus. In most cases, the differential voltage circuit and
+the reverse current sensing circuit are one in the same.
+
+Alternator Constant Speed Drive System
+Alternators are not always connected directly to the airplane
+engine like DC generators. Since the various electrical
+devices operating on AC supplied by alternators are designed
+to operate at a certain voltage and at a specified frequency,
+the speed of the alternators must be constant; however, the
+speed of an airplane engine varies. Therefore, the engine,
+through a constant speed drive installed between the engine
+and the alternator, drives some alternators.
+A typical hydraulic-type drive is shown in Figure 12-333.
+The following discussion of a constant speed drive system
+is based on such a drive found on large multiengine aircraft.
+The constant speed drive is a hydraulic transmission that may
+be controlled either electrically or mechanically.
+The constant speed drive assembly is designed to deliver an
+output of 6,000 rpm, provided the input remains between
+2,800 and 9,000 rpm. If the input, which is determined by
+engine speed, is below 6,000 rpm, the drive increases the
+speed in order to furnish the desired output. This stepping
+up of speed is known as overdrive.
+
+12-164
+

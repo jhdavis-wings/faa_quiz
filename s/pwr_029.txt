@@ -1,0 +1,1799 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 10 (Engine Maintenance & Operation), PDF pages 399-412
+
+===== PDF PAGE 399 =====
+Afterfiring can also be caused by cylinders that are not
+firing because of faulty spark plugs, defective fuel-injection
+nozzles. or incorrect valve clearance. The unburned mixture
+from these dead cylinders passes into the exhaust system,
+where it ignites and burns. Unfortunately, the resultant
+torching or afterburning can easily be mistaken for evidence
+of a rich carburetor. Cylinders that are firing intermittently
+can cause a similar effect. Again, the malfunction can be
+remedied only by discovering the real cause and correcting
+the defect. Dead or intermittent cylinders can be located by
+the cold cylinder check.
+
+Factors Affecting Engine Operation
+Compression
+To prevent loss of power, all openings to the cylinder must
+close and seal completely on the compression and power
+strokes. In this respect, there are three items in the proper
+operation of the cylinder that must be operating correctly for
+maximum efficiency. First, the piston rings must be in good
+condition to provide maximum sealing during the stroke of
+the piston. There must be no leakage between the piston and
+the walls of the combustion chamber. Second, the intake and
+exhaust valves must close tightly so that there is no loss of
+compression at these points. Third, and very important, the
+timing of the valves (opening and closing) must be such that
+highest efficiency is obtained when the engine is operating at
+its normal rated rpm. A failure at any of these points results
+in greatly reduced engine efficiency.
+Fuel Metering
+The induction system is the distribution and fuel-metering
+part of the engine. Obviously, any defect in the induction
+system seriously affects engine operation. For best operation,
+each cylinder of the engine must be provided with the proper
+air-fuel mixture, usually metered by the carburetor. On some
+fuel-injection engines, fuel is metered by the fuel injector
+flow divider and fuel-injection nozzles.
+
+a maximum. Beyond this point, the power output falls off
+as the mixture is further enriched. This is because the fuel
+mixture is now too rich to provide perfect combustion. Note
+that maximum engine power can be obtained by setting the
+carburetor for one point on the curve.
+In establishing the carburetor settings for an aircraft engine,
+the design engineers run a series of curves similar to the one
+shown. A curve is run for each of several engine speeds. If,
+for example, the idle speed is 600 rpm, the first curve might
+be run at this speed. Another curve might be run at 700 rpm,
+another at 800 rpm, and so on, in 100-rpm increments, up to
+takeoff rpm. The points of maximum power on the curves are
+then joined to obtain the best power curve of the engine for
+all speeds. This best power curve establishes the rich setting
+of the carburetor.
+In establishing the detailed engine requirements regarding
+carburetor setting, the fact that the cylinder head temperature
+varies with air-fuel ratio must be considered. This variation is
+illustrated in the curve shown in Figure 10-45. Note that the
+cylinder head temperature is lower with the auto-lean setting
+than it is with the auto-rich mixture. This is exactly opposite
+common belief, but it is true. Furthermore, knowledge
+of this fact can be used to advantage by flight crews. If,
+during cruise, it becomes difficult to keep the cylinder head
+temperature within limits, the air-fuel mixture may be leaned
+out to get cooler operation. The desired cooling can then be
+obtained without going to auto-rich with its costly waste of
+fuel. The curve shows only the variation in cylinder head
+temperature. For a given rpm, the power output of the engine
+is less with the best-economy setting (auto-lean) than with
+the best-power mixture.
+The decrease in cylinder head temperature with a leaner
+mixture holds true only through the normal cruise range.
+At higher power settings, cylinder temperatures are higher
+High
+Auto rich
+
+Power
+
+Afterfiring
+Afterfiring, sometimes called afterburning, often results
+when the air-fuel mixture is too rich. Overly rich mixtures
+are also slow burning; therefore, charges of unburned fuel are
+present in the exhausted gases. Air from outside the exhaust
+stacks mixes with this unburned fuel that ignites. This causes
+an explosion in the exhaust system. Afterfiring is perhaps
+more common where long exhaust ducting retains greater
+amounts of unburned charges. As in the case of backfiring,
+the correction for afterfiring is the proper adjustment of the
+air-fuel mixture.
+
+Auto lean
+Brake
+HP
+
+Low
+
+The relation between air-fuel ratio and power is illustrated
+in Figure 10-44. As the fuel mixture is varied from lean to
+rich, the power output of the engine increases until it reaches
+
+Lean
+
+Air-Fuel Mixture
+
+Rich
+
+Figure 10-44. Power versus air-fuel mixture curve.
+
+10-31
+
+===== PDF PAGE 400 =====
+High
+
+High
+Auto rich
+
+Power
+
+Dry takeoff power
+Auto lean
+Brake
+HP
+
+Air-fuel
+mixture
+
+Normal A-F mixture
+auto-rich position
+A-F mixture with water injection
+Wet takeoff power
+
+Low
+
+Low
+Lean
+
+Air-Fuel Mixture
+
+Rich
+
+Figure 10-45. Variation in head temperature with air-fuel mixture
+
+(cruise power).
+
+with the leaner mixtures. The reason for this reversal hinges
+on the cooling ability of the engine. As higher powers are
+approached, a point is reached where the airflow around the
+cylinders do not provide sufficient cooling. At this point, a
+secondary cooling method must be used. This secondary
+cooling is done by enriching the air-fuel mixture beyond
+the best-power point. Although enriching the mixture to this
+extent results in a power loss, both power and economy must
+be sacrificed for engine cooling purposes.
+Many older, large, high-powered radial engines were
+influenced by the cooling requirements on air-fuel mixture,
+by effects of water injection. Figure 10-46 shows an air-fuel
+curve for a water-injection engine. The dotted portion of the
+curve shows how the air-fuel mixture is leaned out during
+water injection. This leaning is possible because water, rather
+than extra fuel, is used as a cylinder coolant. These types of
+systems are not used on modern aircraft.
+This permits leaning out to approximately best-power mixture
+without danger of overheating or detonation. This leaning
+out gives an increase in power. The water does not alter the
+combustion characteristics of the mixture. Fuel added to the
+auto-rich mixture in the power range during dry operation is
+solely for cooling. A leaner mixture would give more power.
+Actually, water or, more accurately, the antidetonant (wateralcohol) mixture is a better coolant than extra fuel. Therefore,
+water injection permits higher manifold pressures and a still
+further increase in power.
+In establishing the final curve for engine operation, the
+engine’s ability to cool itself at various power settings is, of
+course, taken into account. Sometimes the mixture must be
+altered for a given installation to compensate for the effect
+of cowl design, cooling airflow, or other factors on engine
+
+Airflow in lb/hr
+
+Low
+
+High
+
+Figure 10-46. Air-fuel curve for a water-injection engine.
+
+cooling. The final air-fuel mixture curves take into account
+economy, power, engine cooling, idling characteristics, and
+all other factors that affect combustion.
+Figure 10-47 shows a typical final curve for a float-type
+carburetor. Note that the air-fuel mixture at idle is the same
+in rich and in manual lean. The mixture remains the same
+until the low cruise range is reached. At this point, the curves
+separate and then remain parallel through the cruise and
+power ranges.
+Note the spread between the rich and lean setting in the
+cruise range of both curves. Because of this spread, there
+is a decrease in power when the mixture control is moved
+from auto-rich to auto-lean with the engine operating in the
+cruise range. This is true because the auto-rich setting in
+the cruise range is very near the best power mixture ratio.
+
+Rich
+Idle
+
+Takeoff
+Climb
+Maximum cruise
+Minimum cruise
+Rich
+
+Air-fuel
+
+Manual lean
+
+Lean
+Low
+
+Airflow in lb/hr
+
+High
+
+Figure 10-47. Typical air-fuel mixture curve for a float-type
+
+carburetor.
+
+10-32
+
+===== PDF PAGE 401 =====
+Therefore, any leaning out gives a mixture that is leaner
+than best power.
+Idle Mixture
+The idle mixture curve shows how the mixture changes when
+the idle mixture adjustment is changed. [Figure 10-48] Note
+that the greatest effect is at idling speeds. However, there
+is some effect on the mixture at airflows above idling. The
+airflow at which the idle adjustment effect cancels out varies
+from minimum cruise to maximum cruise. The exact point
+depends on the type of carburetor and the carburetor setting.
+In general, the idle adjustment affects the air-fuel mixture up
+to low cruise on engines equipped with float-type carburetors.
+This means that incorrect idle mixture adjustments can easily
+give faulty cruise performance, as well as poor idling.
+There are variations in mixture requirements between
+one engine and another because of the fuel distribution
+within the engine and the ability of the engine to cool.
+Remember, a carburetor setting must be rich enough to
+supply a combustible mixture for the leanest cylinder. If fuel
+distribution is poor, the overall mixture must be richer than
+would be required for the same engine if distribution were
+good. The engine’s ability to cool depends on such factors
+as cylinder design (including the design of the cooling fins),
+compression ratio, accessories on the front of the engine that
+cause individual cylinders to run hot, and the design of the
+baffling used to deflect airflow around the cylinder. At takeoff
+power, the mixture must be rich enough to supply sufficient
+fuel to keep the hottest cylinder cool.
+Induction Manifold
+The induction manifold provides the means of distributing air,
+or the air-fuel mixture, to the cylinders. Whether the manifold
+handles an air-fuel mixture or air alone depends on the type
+of fuel metering system used. On an engine equipped with
+
+Rich
+
+Idle
+Takeoff power
+Rated power
+Minimum cruise
+
+Air-fuel
+Maximum cruise
+
+Lean
+Low
+
+Airflow in lb/hr
+
+Figure 10-48. Idle mixture curve.
+
+High
+
+a carburetor, the induction manifold distributes an air-fuel
+mixture from the carburetor to the cylinders. On a fuelinjection engine, the fuel is delivered to injection nozzles,
+one in each cylinder, that provide the proper spray pattern for
+efficient burning. Thus, the mixing of fuel and air takes place
+at the inlet port to the cylinder. On a fuel-injection engine
+the induction manifold handles only air.
+The induction manifold is an important item because of the
+effect it can have on the air-fuel mixture that finally reaches the
+cylinder. Fuel is introduced into the airstream by the carburetor
+in a liquid form. To become combustible, the fuel must be
+vaporized in the air. This vaporization takes place in the
+induction manifold, which includes the internal supercharger,
+if one is used. Any fuel that does not vaporize clings to the
+walls of the intake pipes. Obviously, this affects the effective
+air-fuel ratio of the mixture that finally reaches the cylinder
+in vapor form. This explains the reason for the apparently
+rich mixture required to start a cold engine. In a cold engine,
+some of the fuel in the airstream condenses out and clings to
+the walls of the manifold. This is in addition to that fuel that
+never vaporized in the first place. As the engine warms up,
+less fuel is required because less fuel is condensed out of the
+airstream and more of the fuel is vaporized, thus giving the
+cylinder the required air-fuel mixture for normal combustion.
+Any leak in the induction system has an effect on the mixture
+reaching the cylinders. This is particularly true of a leak at the
+cylinder end of an intake pipe. At manifold pressures below
+atmospheric pressure, such a leak leans out the mixture. This
+occurs because additional air is drawn in from the atmosphere
+at the leaky point. The affected cylinder may overheat, fire
+intermittently, or even cut out altogether.
+Operational Effect of Valve Clearance
+While considering the operational effect of valve clearance,
+keep in mind that all aircraft reciprocating engines of current
+design use valve overlap. Valve overlap is when the intake
+and exhaust valves are open at the same time. This takes
+advantage of the momentum of the entering and exiting gases
+to improve the efficiency of getting air-fuel in and exhaust
+gases out. Figure 10-49 shows the pressures at the intake and
+exhaust ports under two different sets of operating conditions.
+In one case, the engine is operating at a manifold pressure
+of 35 "Hg. Barometric pressure (exhaust back pressure) is
+29 "Hg. This gives a pressure acting in the direction indicated
+by the arrow of differential of 6 "Hg (3 psi).
+During the valve overlap period, this pressure differential
+forces the air-fuel mixture across the combustion chamber
+toward the open exhaust. This flow of air-fuel mixture forces
+ahead of it the exhaust gases remaining in the cylinder,
+resulting in complete scavenging of the combustion chamber.
+10-33
+
+===== PDF PAGE 402 =====
+Manifold pressure
+
+Intake valve
+
+Exhaust valve
+
+an open stack and an exhaust collector ring installation for
+engines that are otherwise identical. The mixture variation
+decreases as the engine speed or airflow is increased from
+idle into the cruise range.
+Engine, airplane, and equipment manufacturers provide a
+powerplant installation that gives satisfactory performance.
+Cams are designed to give best valve operation and correct
+overlap. But valve operation is correct only if valve clearances
+are set and remain at the value recommended by the engine
+manufacturer. If valve clearances are set wrong, the valve
+overlap period is longer or shorter than the manufacturer
+intended. The same is true if clearances get out of adjustment
+during operation.
+
+Impeller
+
+MAP
+
+Pressure differential
+
+Barometric
+pressure
+
+35" Hg.
+20" Hg.
+
+6" Hg.
+9" Hg.
+
+29" Hg.
+29" Hg.
+
+Figure 10-49. Effect of valve overlap.
+
+This, in turn, permits complete filling of the cylinder with
+a fresh charge on the following intake event. This is the
+situation in which valve overlap gives increased power.
+There is a pressure differential in the opposite direction
+of 9 "Hg (4.5 psi) when the manifold pressure is below
+atmospheric pressure, for example, 20 "Hg. These cause air
+or exhaust gases to be drawn into the cylinder through the
+exhaust port during valve overlap.
+In engines with collector rings, this inflow through the
+exhaust port at low power settings consists of burned exhaust
+gases. These gases are pulled back into the cylinder and mix
+with the incoming air-fuel mixture. However, these exhaust
+gases are inert; they do not contain oxygen. Therefore, the
+air-fuel mixture ratio is not affected much. With open exhaust
+stacks, the situation is entirely different. Here, fresh air
+containing oxygen is pulled into the cylinders through the
+exhaust. This leans out the mixture. Therefore, the carburetor
+must be set to deliver an excessively rich idle mixture so that,
+when this mixture is combined with the fresh air drawn in
+through the exhaust port, the effective mixture in the cylinder
+will be at the desired ratio.
+At first thought, it does not appear possible that the effect
+of valve overlap on air-fuel mixture is sufficient to cause
+concern. However, the effect of valve overlap becomes
+apparent when considering idle air-fuel mixtures. These
+mixtures must be enriched 20 to 30 percent when open stacks,
+instead of collector rings (radial engines) are used on the
+same engine. [Figure 10-50] Note the spread at idle between
+
+Where there is too much valve clearance, the valves do not
+open as wide or remain open as long as they should. This
+reduces the overlap period. At idling speed, it affects the
+air-fuel mixture, since a less-than-normal amount of air or
+exhaust gases is drawn back into the cylinder during the
+shortened overlap period. As a result, the idle mixture tends
+to be too rich.
+When valve clearance is less than it should be, the valve
+overlap period is lengthened. A greater than normal amount
+of air, or exhaust gases, is drawn back into the cylinder at
+idling speeds. As a result, the idle mixture is leaned out at the
+cylinder. The carburetor is adjusted with the expectation that
+a certain amount of air or exhaust gases is drawn back into
+the cylinder at idling. If more or less air, or exhaust gases,
+are drawn into the cylinder during the valve overlap period,
+the mixture is too lean or too rich.
+When valve clearances are wrong, it is unlikely that they are
+all wrong in the same direction. Instead, there is too much
+clearance on some cylinders and too little on others. Naturally,
+Rich
+Open stack
+
+Air-fuel
+mixture
+Collector ring
+
+Lean
+Low (idle)
+
+Airflow
+
+(Takeoff) High
+
+Figure 10-50. Comparison of air-fuel mixture curves for open-stack
+
+and collector-ring installations.
+
+10-34
+
+===== PDF PAGE 403 =====
+this gives a variation in valve overlap between cylinders.
+This results in a variation in air-fuel ratio at idling and lowerpower settings, since the carburetor delivers the same mixture
+to all cylinders. The carburetor cannot tailor the mixture to
+each cylinder to compensate for variation in valve overlap.
+The effect of variation in valve clearance and valve overlap
+on the air-fuel mixture between cylinders is illustrated in
+Figure 10-51. Note how the cylinders with too little clearance
+run rich, and those with too much clearance run lean. Note
+also the extreme mixture variation between cylinders.
+
+Figure 10-52 lists general conditions or troubles that may
+be encountered on reciprocating engines, such as engine
+fails to start. They are further divided into the probable
+causes contributing to such conditions. Corrective actions
+are indicated in the remedy column. The items are presented
+with consideration given to frequency of occurrence, ease
+of accessibility, and complexity of the corrective action
+indicated.
+The need for troubleshooting normally is dictated by poor
+operation of the complete powerplant. Power settings for the
+type of operation at which any difficulty is encountered, in
+many cases, indicate that part of the powerplant that is the
+basic cause of difficulty.
+
+Valve clearance also effects volumetric efficiency. Any
+variations in air-fuel into, and exhaust gases out of, the
+cylinder affects the volumetric efficiency of the cylinder. With
+the use of hydraulic valve lifters that set the valve clearance
+automatically, engine operation has been greatly improved.
+Hydraulic lifters do have a limited range in which they can
+control the valve clearance, or they can become stuck in one
+position that can cause them to be a source of engine trouble.
+Normally engines equipped with hydraulic lifters require
+little to no maintenance.
+
+The cylinders of an engine, along with any type of
+supercharging, form an air pump. Furthermore, the power
+developed in the cylinders varies directly with the rate that
+air can be consumed by the engine. Therefore, a measure
+of air consumption or airflow into the engine is a measure
+of power input. Ignoring for the moment such factors as
+humidity and exhaust back pressure, the manifold pressure
+gauge and the engine tachometer provide a measure of
+engine air consumption. Thus, for a given rpm, any change
+in power input is reflected by a corresponding change in
+manifold pressure.
+
+Engine Troubleshooting
+Troubleshooting is a systematic analysis of the symptoms
+that indicate engine malfunction. It would be impractical to
+list all the malfunctions that could occur in a reciprocating
+engine, so only the most common malfunctions are discussed.
+A thorough knowledge of the engine systems, applied with
+logical reasoning, solves most problems that may occur.
+
+The power output of an engine is the power absorbed by the
+propeller. Therefore, propeller load is a measure of power
+output. Propeller load, in turn, depends on the propeller
+rpm, blade angle, and air density. For a given angle and air
+
+Lengthened
+
+Lean
+
+Valve overlap as
+affected by valve
+clearance
+
+Effect on air-fuel
+mixture or combustible
+charge
+
+Reduced
+
+Rich
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+Figure 10-51. Effect of variation in valve overlap on air-fuel mixture between cylinders.
+
+10-35
+
+===== PDF PAGE 404 =====
+Trouble
+
+Probable causes
+
+Remedy
+
+Engine fails to start.
+
+• Lack of fuel.
+
+• Check fuel system for leaks fill fuel tank.
+• Clean dirty lines, strainers, or fuel valves.
+
+• Underpriming.
+
+• Use correct priming procedure.
+
+• Overpriming.
+
+• Open throttle and “unload” engine by
+
+• Incorrect throttle setting.
+
+• Open throttle to one-tenth of its range.
+
+• Defective spark plugs.
+
+• Clean and re-gap or replace spark plugs.
+
+• Defective ignition wire.
+
+• Test and replace any defective wires.
+
+• Defective or weak battery.
+
+• Replace with charged battery.
+
+• Improper operation of magneto or breaker
+
+• Check internal timing of magnetos.
+
+rotating the propeller.
+
+points.
+
+Engine fails to idle properly.
+
+• Water in carburetor.
+
+• Drain carburetor and fuel lines.
+
+• Internal failure.
+
+• Check oil sump strainer for metal particles.
+
+• Magnetized impulse coupling, if installed.
+
+• Demagnetize impulse coupling.
+
+• Frozen spark plug electrodes.
+
+• Replace spark plugs or dry out plugs.
+
+• Mixture control in idle cutoff.
+
+• Open mixture control.
+
+• Shorted ignition switch or loose ground.
+
+• Check and replace or obtain correct idle.
+
+• Incorrect carburetor idle speed adjustment.
+
+• Adjust throttle stop to obtain correct idle.
+
+• Incorrect idle mixture.
+
+• Adjust mixture. (Refer to engine manufacturer’s
+
+• Leak in the induction system.
+
+• Tighten all connections in the induction
+
+handbook for proper procedure.)
+system. Replace any defective parts.
+• Low cylinder compression.
+
+• Check cylinder compression.
+
+• Faulty ignition system.
+
+• Check entire ignition system.
+
+• Open or leaking primer.
+
+• Lock or repair primer.
+
+• Improper spark plug setting for altitude.
+
+• Check spark plug gap.
+
+• Dirty air filter.
+
+• Clean or replace.
+
+Low power and engine
+
+• Mixture too rich; indicated by sluggish engine
+
+• Check primer. Re-adjust carburetor mixture.
+
+running uneven.
+
+operation, red exhaust flame, and black smoke.
+• Mixture too lean; indicated by overheating or
+
+• Check fuel lines for dirt or other restrictions.
+
+backfiring.
+
+Check fuel supply.
+
+• Leaks in induction system.
+
+• Tighten all connections. Replace defective
+
+• Defective spark plugs.
+
+• Clean or replace spark plugs.
+
+• Improper grade of fuel.
+
+• Fill tank with recommended grade.
+
+• Magneto breaker points not working properly.
+
+• Clean points. Check internal timing of magneto.
+
+• Defective ignition wire.
+
+• Test and replace any defective wires.
+
+• Defective spark plug terminal connectors.
+
+• Replace connectors on spark plug wire.
+
+• Incorrect valve clearance.
+
+• Adjust valve clearance.
+
+parts.
+
+• Check and replace or repair.
+Figure 10-52. Troubleshooting opposed engines.
+
+density, propeller load (power output) is directly proportional
+to engine speed. The basic power of an engine is related to
+manifold pressure, fuel flow, and rpm. Because the rpm of
+the engine and the throttle opening directly control manifold
+pressure, the primary engine power controls are the throttle
+and the rpm control. An engine equipped with a fixed-pitch
+
+propeller has only a throttle control. In this case, the throttle
+setting controls both manifold pressure and engine rpm.
+With proper precautions, manifold pressure can be taken as a
+measure of power input, and rpm can be taken as a measure
+of power output. However, the following factors must be
+10-36
+
+===== PDF PAGE 405 =====
+Trouble
+
+Probable causes
+
+Remedy
+
+Low power and engine
+
+• Restriction in exhaust system.
+
+• Remove restriction.
+
+running uneven.
+
+• Improper ignition timing.
+
+• Check magnetos for timing and synchronization.
+
+Engine fails to develop full
+
+• Throttle lever out of adjustment.
+
+• Adjust throttle lever.
+
+power.
+
+• Leak in induction system.
+
+• Tighten all connections and replace defective
+
+• Restriction in carburetor airscoop.
+
+• Examine airscoop and remove restriction.
+
+• Improper fuel.
+
+• Fill tank with recommended fuel.
+
+• Propeller governor out of adjustment.
+
+• Adjust governor.
+
+• Faulty ignition.
+
+• Tighten all connections. Check system. Check
+
+• Cracked engine mount(s).
+
+• Repair or replace engine mount(s).
+
+• Unbalanced propeller.
+
+• Remove propeller and have it checked for
+
+• Defective mounting bushings.
+
+• Install new mounting bushings.
+
+• Lead deposit on spark plugs.
+
+• Clean or replace plugs.
+
+• Primer unlocked.
+
+• Lock primer.
+
+• Insufficient oil.
+
+• Check oil supply.
+
+• Dirty oil strainers.
+
+• Remove and clean oil strainers.
+
+• Defective pressure gauge.
+
+• Replace gauge.
+
+• Air lock or dirt in relief valve.
+
+• Remove and clean oil pressure relief valve.
+
+• Leak in suction line or pressure line.
+
+• Check gasket between accessory housing
+
+parts.
+
+ignition timing.
+Rough running engine.
+
+balance.
+
+Low oil pressure.
+
+crankcase.
+• High oil temperature.
+
+• See “high oil temperature” in trouble column.
+
+• Stoppage in oil pump intake passage.
+
+• Check line for obstruction. Clean suction
+strainer.
+
+High oil temperature.
+
+• Worn or scored bearings.
+
+• Overhaul engine.
+
+• Insufficient air cooling.
+
+• Check air inlet and outlet for deformation or
+obstruction.
+
+• Insufficient oil supply.
+
+• Fill oil tank to proper level.
+
+• Clogged oil lines or strainers.
+
+• Remove and clean oil line or strainers.
+
+• Failing or failed bearings.
+
+• Examine sump for metal particles and, if found,
+
+• Defective thermostats.
+
+• Replace thermostats.
+
+• Defective temperature gauge.
+
+• Usually caused by weak or stuck rings.
+
+• Excessive blow-by.
+
+• Overhaul engine.
+
+• Failing or failed bearing.
+
+• Check sump for metal particles and if found,
+
+• Worn or broken piston rings.
+
+• Install new rings.
+
+• Incorrect installation of piston rings.
+
+• Install new rings.
+
+• External oil leakage.
+
+• Check engine carefully for leaking gaskets or
+
+overhaul engine.
+
+Excessive oil consumption.
+
+an overhaul of engine is indicated.
+
+O-rings.
+• Leakage through engine fuel pump vent.
+
+• Replace fuel pump seal.
+
+• Engine breather or vacuum pump breather.
+
+• Check engine, and overhaul or replace vacuum
+pump.
+
+Figure 10-52. Troubleshooting opposed engines (continued).
+
+10-37
+
+===== PDF PAGE 406 =====
+considered:
+1.
+
+Atmospheric pressure and air temperature must be
+considered, since they affect air density.
+
+2.
+
+These measures of power input and power output
+should be used only for comparing the performance
+of an engine with its previous performance, or for
+comparing identical powerplants.
+
+3.
+
+With a controllable propeller, the blades must be
+against their low-pitch stops, since this is the only
+blade position in which the blade angle is known and
+does not vary. Once the blades are off their low-pitch
+stops, the propeller governor takes over and maintains
+a constant rpm, regardless of power input or engine
+condition. This precaution means that the propeller
+control must be set to maximum or takeoff rpm, and
+the checks made at engine speeds below this setting.
+
+Having relative measures of power input and power output,
+the condition of an engine can be determined by comparing
+input and output. This is done by comparing the manifold
+pressure required to produce a given rpm with the manifold
+pressure required to produce the same rpm at a time when
+the engine (or an identical powerplant) was known to be in
+top operating condition.
+An example shows the practical application of this method of
+determining engine condition. With the propeller control set for
+takeoff rpm (full low blade angle), an engine may require 32
+inches of manifold pressure to turn 2,200 rpm for the ignition
+check. On previous checks, this engine required only 30 inches
+of manifold pressure to turn 2,200 rpm at the same station
+(altitude) and under similar atmospheric conditions. Obviously,
+something is wrong; a higher power input (manifold pressure)
+is now required for the same power output (rpm). There is a
+good chance that one cylinder has a malfunction.
+There are several standards against which engine performance
+can be compared. The performance of a particular engine can
+be compared with its past performance, provided adequate
+records are kept. Engine performance can be compared with
+that of other engines on the same aircraft or aircraft having
+identical installations.
+If a fault does exist, it may be assumed that the trouble lies
+in one of the following systems:
+1.
+
+Ignition system.
+
+2.
+
+Fuel-metering system.
+
+3.
+
+Induction system.
+
+4.
+
+Power section (valves, cylinders, etc.).
+
+5.
+
+Instrumentation.
+
+If a logical approach to the problem is taken and the
+instrument readings properly utilized, the malfunctioning
+system can be pinpointed, and the specific problem in the
+defective system can be singled out.
+The more information available about any particular problem,
+the better the opportunity for a rapid repair. Information that
+is of value in locating a malfunction includes:
+1.
+
+Was any roughness noted? Under what conditions of
+operation?
+
+2.
+
+What is the time on the engine and spark plugs? How
+long since last inspection?
+
+3.
+
+Was the ignition system operational check and power
+check normal?
+
+4.
+
+When did the trouble first appear?
+
+5.
+
+Was backfiring or afterfiring present?
+
+6.
+
+Was the full throttle performance normal?
+
+From a different point of view, the powerplant is, in reality,
+a number of small engines turning a common crankshaft
+and being operated by two common phases: fuel metering
+and ignition. When backfiring, low power output or other
+powerplant difficulty is encountered, first find out which
+system, fuel metering or ignition, is involved and then
+determine whether the entire engine or only one cylinder
+is at fault. For example, backfiring normally is caused by:
+1.
+
+Valves holding open or sticking open in one or more
+of the cylinders.
+
+2.
+
+Lean mixture.
+
+3.
+
+Intake pipe leakage.
+
+4.
+
+An error in valve adjustment that causes individual
+cylinders to receive too small a charge or one too large,
+even though the mixture to the cylinders has the same
+air-fuel ratio.
+
+Ignition system reasons for backfiring might be a cracked
+distributor block or a high-tension leak between two ignition
+leads. Either of these conditions could cause the charge in
+the cylinder to be ignited during the intake stroke. Ignition
+system troubles involving backfiring normally are not
+centered in the basic magneto, since a failure of the basic
+magneto would result in the engine not running, or it would
+run well at low speeds but cut out at high speeds. On the other
+hand, replacement of the magneto would correct a difficulty
+caused by a cracked distributor where the distributor is a part
+of the magneto.
+If the fuel system, ignition system, and induction system are
+10-38
+
+===== PDF PAGE 407 =====
+functioning properly, the engine should produce the correct
+bhp unless some fault exists in the basic power section.
+Valve Blow-By
+Valve blow-by is indicated by a hissing or whistle when
+pulling the propeller through prior to starting the engine,
+when turning the engine with the starter, or when running
+and blow-by past the intake valve is audible through the
+carburetor.
+Correct valve blow-by immediately to prevent valve failure
+and possible engine failure by taking the following steps:
+1.
+
+Perform a cylinder compression test to locate the faulty
+cylinder.
+
+2.
+
+Check the valve clearance on the affected cylinder.
+If the valve clearance is incorrect, the valve may be
+sticking in the valve guide. To release the sticking
+valve, place a fiber drift on the rocker arm immediately
+over the valve stem and strike the drift several times
+with a mallet. Sufficient hand pressure should be
+exerted on the fiber drift to remove any space between
+the rocker arm and the valve stem prior to hitting the
+drift.
+
+3.
+
+If the valve is not sticking and the valve clearance is
+incorrect, adjust it as necessary.
+
+4.
+
+Determine whether blow-by has been eliminated by
+again pulling the engine through by hand or turning
+it with the starter. If blow-by is still present, it may be
+necessary to replace the cylinder.
+
+Cylinder Compression Tests
+The cylinder compression test determines if the valves, piston
+rings, and pistons are adequately sealing the combustion
+chamber. If pressure leakage is excessive, the cylinder
+cannot develop its full power. The purpose of testing cylinder
+compression is to determine whether cylinder replacement
+is necessary. The detection and replacement of defective
+cylinders prevents a complete engine change because of
+cylinder failure. It is essential that cylinder compression tests
+be made periodically. Low compression, for the most part,
+can be traced to leaky valves.
+Conditions that affect engine compression are:
+1.
+
+Incorrect valve clearances.
+
+2.
+
+Worn, scuffed, or damaged piston.
+
+3.
+
+Excessive wear of piston rings and cylinder walls.
+
+4.
+
+Burned or warped valves.
+
+5.
+
+Carbon particles between the face and the seat of the
+valve or valves.
+
+6.
+
+Early or late valve timing.
+
+Perform a compression test as soon as possible after the
+engine is shut down so that piston rings, cylinder walls,
+and other parts are still freshly lubricated. However, it is
+not necessary to operate the engine prior to accomplishing
+compression tests during engine buildup or on individually
+replaced cylinders. In such cases, before making the test,
+spray a small quantity of lubricating oil into the cylinder(s),
+and turn the engine over several times to seal the piston and
+rings in the cylinder barrel.
+Be sure that the ignition switch is in the OFF position so
+that there is no accidental firing of the engine. Remove
+necessary cowling and the most accessible spark plug from
+each cylinder. When removing the spark plugs, identify
+them to coincide with the cylinder. Close examination of
+the plugs aid in diagnosing problems within the cylinder.
+Review the maintenance records of the engine being tested.
+Records of previous compression checks help in determining
+progressive wear conditions and in establishing the necessary
+maintenance actions.
+Differential Pressure Tester
+The differential pressure tester checks the compression
+of aircraft engines by measuring the leakage through the
+cylinders. The design of this compression tester is such that
+minute valve leakages can be detected, making possible the
+replacement of cylinders where valve burning is starting. The
+operation of the compression tester is based on the principle
+that, for any given airflow through a fixed orifice, a constant
+pressure drop across the orifice results.
+As the airflow and pressure changes, pressure varies
+accordingly in the same direction. If air is supplied under
+pressure to the cylinder with both intake and exhaust valves
+closed, the amount of air that leaks by the valves or piston
+rings indicates their condition; the perfect cylinder would
+have no leakage. The differential pressure tester requires the
+application of air pressure to the cylinder being tested with
+the piston at top-center compression stroke. [Figure 10-53]
+Guidelines for performing a differential compression test are:
+1.
+
+Perform the compression test as soon as possible after
+engine shutdown to provide uniform lubrication of
+cylinder walls and rings.
+
+2.
+
+Remove the most accessible spark plug from the
+cylinder, or cylinders, and install a spark plug adapter
+in the spark plug insert.
+
+3.
+
+Connect the compression tester assembly to a 100 to
+150 psi compressed air supply. [Figure 10-54] With
+the shutoff valve on the compression tester closed,
+10-39
+
+===== PDF PAGE 408 =====
+mechanism and to keep the piston rings seated on the
+lower ring lands.
+
+Regulated pressure gauge
+Shutoff valve
+
+6.
+
+Close the shutoff valve in the compression tester and
+re-check the regulated pressure to see that it is 80 psi
+with air flowing into the cylinder. If the regulated
+pressure is more or less than 80 psi, readjust the
+regulator in the test unit to obtain 80 psi. When closing
+the shutoff valve, make sure that the propeller path is
+clear of all objects. There is sufficient air pressure in
+the combustion chamber to rotate the propeller if the
+piston is not on top dead center.
+
+7.
+
+With regulated pressure adjusted to 80 psi, if the
+cylinder pressure reading indicated on the cylinder
+pressure gauge is below the minimum specified for the
+engine being tested, move the propeller in the direction
+of rotation to seat the piston rings in the grooves.
+Check all the cylinders and record the readings.
+
+Cylinder pressure gauge
+30
+
+25
+
+40
+
+20
+
+30
+
+25
+
+35
+
+15
+10
+
+35
+40
+
+20
+45
+
+15
+
+50
+
+10
+
+45
+50
+
+55
+75
+
+70
+
+65
+
+60
+
+55
+75
+
+70
+
+65
+
+60
+
+Metering orifice
+To air compressor
+Piston on true top dead center
+
+Figure 10-53. Differential compression tester diagrams.
+
+adjust the regulator of the regulated pressure gauge
+compression tester to obtain 80 psi.
+4.
+
+5.
+
+Open the shutoff valve and attach the air hose quickconnect fitting to the spark plug adapter. The shutoff
+valve, when open, automatically maintains a pressure
+in the cylinder of 15 to 20 psi when both the intake
+and exhaust valves are closed.
+By hand, turn the engine over in the direction of rotation
+until the piston in the cylinder being tested comes up
+on the compression stroke against the 15 psi. Continue
+turning the propeller slowly in the direction of rotation
+until the piston reaches top dead center. Top dead center
+can be detected by a decrease in force required to move
+the propeller. If the engine is rotated past top dead
+center, the 15 to 20 psi tends to move the propeller in the
+direction of rotation. If this occurs, back the propeller up
+at least one blade prior to turning the propeller again in
+the direction of rotation. This backing up is necessary to
+eliminate the effect of backlash in the valve-operating
+
+If low compression is obtained on any cylinder, turn the
+engine through with the starter, or re-start, and run the engine
+to takeoff power and re-check the cylinder, or cylinders,
+having low compression.
+If the low compression is not corrected, remove the rockerbox cover and check the valve clearance to determine if the
+difficulty is caused by inadequate valve clearance. If the low
+compression is not caused by inadequate valve clearance,
+place a fiber drift on the rocker arm immediately over the
+valve stem and tap the drift several times with a 1 to 2 pound
+hammer to dislodge any foreign material that may be lodged
+between the valve and valve seat.
+After staking the valve in this manner, rotate the engine with
+the starter and re-check the compression. Do not make a
+compression check after staking a valve until the crankshaft
+has been rotated either with the starter or by hand to re-seat
+the valve in normal manner. The higher seating velocity
+obtained when staking the valve will indicate valve seating,
+even though valve seats are slightly egged or eccentric.
+This procedure should only be performed if approved by
+the manufacturer.
+Cylinders having compression below the minimum specified
+should be further checked to determine whether leakage is
+past the exhaust valve, intake valve, or piston. Excessive
+leakage can be detected (during the compression check):
+
+Figure 10-54. Compression tester and adapter.
+
+1.
+
+At the exhaust valve by listening for air leakage at the
+exhaust outlet;
+
+2.
+
+At the intake valve by escaping air at the air intake;
+and
+
+3.
+
+Past the piston rings by escaping air at the engine
+
+10-40
+
+===== PDF PAGE 409 =====
+breather outlets.
+Next to valve blow-by, the most frequent cause of
+compression leakage is excessive leakage past the piston.
+This leakage may occur because of lack of oil. To check this
+possibility, apply engine oil into the cylinder and around the
+piston. Then, re-check the compression. If this procedure
+raises compression to or above the minimum required,
+continue the cylinder in service. If the cylinder pressure
+readings still do not meet the minimum requirement, replace
+the cylinder. When it is necessary to replace a cylinder as a
+result of low compression, record the cylinder number and
+the compression value of the newly installed cylinder on the
+compression check sheet.
+Cylinder Replacement
+Reciprocating engine cylinders are designed to operate for
+a specified time before normal wear requires their overhaul.
+If the engine is operated as recommended and proficient
+maintenance is performed, the cylinders normally last until
+the engine has reached its TBO. It is known from experience
+that materials fail, and engines are abused through incorrect
+operation; this has a serious effect on cylinder life. Another
+reason for premature cylinder change is poor maintenance.
+Therefore, exert special care to ensure that all the correct
+maintenance procedures are adhered to when working on the
+engine. Some of the reasons for cylinder replacement are:
+1.
+
+Low compression.
+
+2.
+
+High oil consumption in one or more cylinders.
+
+3.
+
+Excessive valve guide clearance.
+
+4.
+
+Loose intake pipe flanges.
+
+5.
+
+Loose or defective spark plug inserts.
+
+6.
+
+External damage, such as cracks.
+
+The cylinder is always replaced as a complete assembly,
+which includes piston, rings, valves, and valve springs.
+Obtain the cylinder by ordering the cylinder assembly under
+the part number specified in the engine parts catalog. Parts,
+such as valve springs, rocker arms, and rocker box covers,
+may be replaced individually.
+Normally, all the cylinders in an engine are similar, all are
+standard size or all a certain oversize, and all are steel bore or
+all are chrome-plated. The size of the cylinder is indicated by
+a color code around the barrel between the attaching flange
+and the lower barrel cooling fin. In some instances, air-cooled
+engines are equipped with chrome-plated cylinders. Chromeplated cylinders are usually identified by a paint band around
+the barrel between the attaching flange and the lower barrel
+cooling fin. This color band is usually international orange.
+When installing a chrome-plated cylinder, do not use
+
+chrome-plated piston rings. The matched assembly includes
+the correct piston rings. However, if a piston ring is broken
+during cylinder installation, check the cylinder marking to
+determine what ring, chrome-plated or otherwise, is correct
+for replacement. Similar precautions must be taken to be sure
+that the correct size rings are installed.
+Correct procedures and care are important when replacing
+cylinders. Careless work or the use of incorrect tools can
+damage the replacement cylinder or its parts. Incorrect
+procedures in installing rocker-box covers may result in
+troublesome oil leaks. Improper torque on cylinder hold down
+nuts or cap-screws can easily result in a cylinder malfunction
+and subsequent engine failure.
+
+Cylinder Removal
+Since these instructions are meant to cover all air-cooled
+engines, they are of a very general nature. The applicable
+manufacturer’s maintenance manual should be consulted for
+torque values and special precautions applying to a particular
+aircraft and engine. However, always practice neatness
+and cleanliness, and always protect openings so that nuts,
+washers, tools, and miscellaneous items do not enter the
+engine’s internal sections.
+Assuming that all obstructing cowling and brackets have
+been removed, first remove the intake pipe and exhaust pipes.
+Plug or cover openings in the intake or diffuser section. Then,
+remove cylinder deflectors and any attaching brackets that
+would obstruct cylinder removal. Loosen the spark plugs and
+remove the spark plug lead clamps. Do not remove the spark
+plugs until ready to pull the cylinder off. Remove the rocker
+box covers. First, remove the nuts and then tap the cover
+lightly with a rawhide mallet or plastic hammer. Never pry
+the cover off with a screwdriver or similar tool.
+Loosen the pushrod packing gland nuts or hose clamps, top
+and bottom. Pushrods are removed by depressing the rocker
+arms with a special tool, or by removing the rocker arm.
+Before removing the pushrods, turn the crankshaft until the
+piston is at top dead center on the compression stroke. This
+relieves the pressure on both intake and exhaust rocker arms.
+It is also wise to back off the adjusting nut as far as possible,
+because this allows maximum clearance for pushrod removal
+when the rocker arms are depressed.
+On some model engines, or if the engine is rotated, tappets
+and springs of lower cylinders can fall out. Provision must be
+made to catch them as the pushrod and housing are removed.
+After removing the pushrods, examine them for markings or
+mark them so that they may be replaced in the same location
+as they were before removal. The ball ends are usually
+worn to fit the sockets in which they have been operating.
+Furthermore, on some engines, pushrods are not all of the
+10-41
+
+===== PDF PAGE 410 =====
+same length. A good procedure is to mark the pushrods near
+the valve tappet ends No. 1 IN, No. 1 EX, No. 2 IN, No. 2 EX.,
+etc. On fuel injection engines, disconnect the fuel injection
+line and any line clamps that interfere with cylinder removal.
+The next step in removing the cylinder is to cut the lock wire
+or remove the cotter pin, and pry off the locking device from
+the cylinder-attaching cap-screws or nuts. Remove all the
+screws or nuts except two located 180° apart. Use the wrench
+specified for this purpose in the special tools section of the
+applicable manual.
+Finally, while supporting the cylinder, remove the two
+remaining nuts and gently pull the cylinder away from the
+crankcase. Two technicians working together during this
+step, as well as during the remaining procedure for cylinder
+replacement, helps prevent damage or dropping of the
+cylinder. After the cylinder skirt has cleared the crankcase,
+but before the piston protrudes from the skirt, provide some
+means (usually a shop cloth) for preventing pieces of broken
+rings from falling into the crankcase. After the piston has
+been removed, remove the cloths and carefully check that
+all pieces were prevented from falling into the crankcase.
+Place a support on the cylinder mounting pad and secure it
+with two cap-screws or nuts. Then, remove the piston and
+ring assembly from the connecting rod. A pin pusher or puller
+tool can be used when varnish makes it hard to remove the
+pin. If the special tool is not available and a drift is used to
+remove the piston pin, the connecting rod should be supported
+so that it does not have to take the shock of the blows. If this
+is not done, the rod may be damaged.
+After the removal of a cylinder and piston, the connecting
+rod must be supported to prevent damage to the rod and
+crankcase. This can be done by supporting each connecting
+rod with the removed cylinder base oil seal ring looped
+around the rod and cylinder base studs.
+Using a wire brush, clean the studs or cap-screws and
+examine them for cracks, damaged threads, or any other
+visible defects. If one cap-screw is found loose or broken
+at the time of cylinder removal, all the cap-screws for the
+cylinder should be discarded, since the remaining cap-screws
+may have been seriously weakened. A cylinder hold down
+stud failure places the adjacent studs under a greater operating
+pressure, and they are likely to be stretched beyond their
+elastic limit. The engine manufacturer’s instruction must be
+followed for the number of studs that have to be replaced
+after a stud failure. When removing a broken stud, take proper
+precautions to prevent metal chips from entering the engine
+crankcase section. In all cases, both faces of the washers and
+the seating faces of stud nuts or cap-screws must be cleaned
+
+and any roughness or burrs removed.
+
+Cylinder Installation
+See that all preservative oil accumulation on the cylinder and
+piston assembly is washed off with solvent and thoroughly
+dried with compressed air. Install the piston and ring assembly
+on the connecting rod. Be sure that the piston faces in the
+right direction. The piston number stamped on the bottom of
+the piston head should face toward the front of the engine.
+Lubricate the piston pin before inserting it. It should fit with
+a push fit. If a drift must be used, follow the same precaution
+that was taken during pin removal.
+Oil the exterior of the piston assembly generously, forcing oil
+around the piston rings and in the space between the rings and
+grooves. Stagger the ring gaps around the piston and check
+to see that rings are in the correct grooves, and whether they
+are positioned correctly, as some are used as oil scrapers,
+others as pumper rings. The number, type, and arrangement
+of the compression and oil-control rings vary with the make
+and model of engine.
+Perform any and all visual, structural, and dimensional
+inspection checks before installing the cylinder. Check the
+flange to see that the mating surface is smooth and clean.
+Coat the inside of the cylinder barrel generously with oil. Be
+sure that the cylinder oil-seal ring is in place and that only
+one seal ring is used.
+Using a ring compressor, compress the rings to a diameter
+equal to that of the piston. With the piston at TDC, start the
+cylinder assembly down over the piston, making certain
+that the cylinder and piston plane remain the same. Ease
+the cylinder over the piston with a straight, even movement
+that moves the ring compressor as the cylinder slips on. Do
+not rock the cylinder while slipping it on the piston, since
+any rocking is apt to release a piston ring or a part of a ring
+from the ring compressor prior to the ring’s entrance into the
+cylinder bore. A ring released in this manner expands and
+prevents the piston from entering the cylinder. Any attempt
+to force the cylinder onto the piston is apt to cause cracking
+or chipping of the ring or damage to the ring lands.
+After the cylinder has slipped on the piston, so that all piston
+rings are in the cylinder bore, remove the ring compressor
+and the connecting rod guide. Then, slide the cylinder into
+place on the mounting pad. If cap-screws are used, rotate the
+cylinder to align the holes. While still supporting the cylinder,
+install two cap-screws or stud nuts 180° apart.
+Install the remaining nuts or cap-screws and tighten them
+until they are snug. The hold down nuts, or cap-screws, must
+now be torqued to the value specified in the table of torque
+10-42
+
+===== PDF PAGE 411 =====
+values in the engine manufacturer’s service or overhaul
+manual. Apply the torque with a slow, steady motion until
+the prescribed value is reached. Hold the tension on the
+wrench for a sufficient length of time to ensure that the nut
+or cap-screw tightens no more at the prescribed torque value.
+In many cases, additional turning of the cap-screw, or nut,
+as much as one-quarter turn can be done by maintaining
+the prescribed torque on the nut for a short period of time.
+After the stud nuts, or cap-screws, have been torqued to the
+prescribed value, safety them in the manner recommended
+in the engine manufacturer’s service manual.
+Reinstall the push rods, push rod housings, rocker arms, barrel
+deflectors, intake pipes, ignition harness lead clamps and
+brackets, fuel injection line clamps and fuel injection nozzles
+(if removed), exhaust stack, cylinder head deflectors, and
+spark plugs. Remember that the push rods must be installed
+in their original locations and must not be turned end to end.
+Make sure that the push rod ball end seats properly in the
+tappet. If it rests on the edge or shoulder of the tappet during
+valve clearance adjustment and later drops into place, valve
+clearance is off.
+
+In preparation for the cold cylinder check, head the aircraft
+into the wind to minimize irregular cooling of the individual
+cylinders and to ensure even propeller loading during
+engine operation.
+Operate the engine on its roughest magneto at a speed between
+1,200 and 1,600 rpm until the cylinder head temperature
+reading is stabilized. If engine roughness is encountered
+at more than one speed, or if there is an indication that a
+cylinder ceases operating at idle or higher speeds, run the
+engine at each of these speeds, and perform a cold cylinder
+check to pick out all the dead or intermittently operating
+cylinders. When low power output or engine vibration is
+encountered at speeds above 1,600 rpm when operating
+with the ignition switch on both, run the engine at the speed
+where the difficulty is encountered until the cylinder head
+temperatures have stabilized.
+When cylinder head temperatures have reached the stabilized
+values, stop the engine by moving the mixture control to
+
+Furthermore, rotating the crankshaft with the push rod
+resting on the edge of the tappet may bend the push rod.
+After installing the push rods and rocker arms, set the valve
+clearance. Before installing the rocker-box covers, lubricate
+the rocker arm bearings and valve stems. Check the rockerbox covers for flatness; re-surface them if necessary. After
+installing the gaskets and covers, tighten the rocker-box cover
+nuts to the specified torque. Always follow the recommended
+safety procedures.
+
+Cold Cylinder Check
+The cold cylinder check determines the operating
+characteristics of each cylinder of an air-cooled engine.
+The tendency for any cylinder, or cylinders, to be cold,
+or to be only slightly warm, indicates lack of combustion
+or incomplete combustion within the cylinder. This must
+be corrected if best operation and power conditions are to
+be obtained. The cold cylinder check is made with a cold
+cylinder indicator.
+
+100
+
+200
+
+300
+
+0
+
+5
+
+4 OIL
+
+Engine difficulties that can be analyzed by use of the cold
+cylinder indicator are [Figure 10-55]:
+1.
+
+Rough engine operation.
+
+2.
+
+Excessive rpm drop during the ignition system check.
+
+3.
+
+High manifold pressure for a given engine rpm during
+the ground check when the propeller is in the full lowpitch position.
+
+4.
+
+Faulty mixture ratios caused by improper valve
+clearance.
+
+Figure 10-55. Cold cylinder indicator.
+
+10-43
+
+===== PDF PAGE 412 =====
+the idle cutoff or full lean position. When the engine ceases
+firing, turn off both ignition and master switches. Record the
+cylinder head temperature reading registered on the flight
+deck gauge. As soon as the propeller has ceased rotating,
+apply the instrument to each cylinder head, and record the
+relative temperature of each cylinder. Start with number one
+and proceed in numerical order around the engine, as rapidly
+as possible. To obtain comparative temperature values, a firm
+contact must be made at the same relative location on each
+cylinder. Note any outstandingly low (cold) values. Compare
+the temperature readings to determine which cylinders are
+dead (cold cylinders) or are operating intermittently.
+Difficulties that may cause a cylinder to be inoperative
+(dead) when isolated to one magneto, either the right or left
+positions, are:
+1.
+
+Defective spark plugs.
+
+2.
+
+Incorrect valve clearances.
+
+3.
+
+Leaking intake pipes.
+
+4.
+
+Lack of compression.
+
+5.
+
+Defective spark plug lead.
+
+6. Defective fuel-injection nozzle.
+Repeat the cold cylinder test for the other magneto positions
+on the ignition switch, if necessary. Cooling the engine
+between tests is unnecessary. The airflow created by the
+propeller, and the cooling effect of the incoming air-fuel
+mixture is sufficient to cool any cylinders that are functioning
+on one test and not functioning on the next.
+In interpreting the results of a cold cylinder check,
+remember that the temperatures are relative. A cylinder
+temperature taken alone means little, but when compared
+with the temperatures of other cylinders on the same engine,
+it provides valuable diagnostic information. The readings
+shown in Figure 10-56 illustrate this point. On this check,
+the cylinder head temperature gauge reading at the time the
+engine was shut down was 160 °C on both tests.
+A review of these temperature readings reveals that, on the
+right magneto, cylinder number 3 runs cool and cylinders
+5 and 6 run cold. This indicates that cylinder 3 is firing
+intermittently, and cylinders 5 and 6 are dead during engine
+operation on the plugs fired by the right magneto. Cylinders
+4 and 6 are dead during operation on the plugs fired by the
+left magneto. Cylinder 6 is completely dead. An ignition
+system operational check would not disclose this dead
+cylinder, since the cylinder is inoperative on both right and
+left switch positions.
+
+Cylinder No.
+
+Temperature readings
+Right magneto
+
+Left magneto
+
+1
+
+180
+
+170
+
+2
+
+170
+
+175
+
+3
+
+100
+
+170
+
+4
+
+145
+
+60
+
+5
+
+70
+
+155
+
+6
+
+60
+
+45
+
+Figure 10-56. Readings taken during a cold cylinder check.
+
+manifold pressure to produce any given rpm below the cut-in
+speed of the propeller governor. A dead cylinder could also
+be detected by comparing power input and power output with
+the aid of a torquemeter.
+Defects within the ignition system that can cause a cylinder
+to go completely dead are:
+1.
+
+Both spark plugs inoperative.
+
+2.
+
+Both ignition leads grounded, leaking, or open.
+
+3.
+
+A combination of inoperative spark plugs and
+defective ignition leads.
+
+4.
+
+Faulty fuel-injection nozzles, incorrect valve
+clearances, and other defects outside the ignition
+system.
+
+In interpreting the readings obtained on a cold cylinder
+check, the amount the engine cools during the check must be
+considered. To determine the extent to which this factor should
+be considered in evaluating the readings, re-check some of
+the first cylinders tested, and compare the final readings with
+those made at the start of the check. Another factor to be
+considered is the normal variation in temperature between
+cylinders and between rows. This variation results from those
+design features that affect the airflow past the cylinders.
+
+Turbine Engine Maintenance
+Turbine powerplant maintenance procedures vary widely
+according to the design and construction of the particular
+engine being serviced. The detailed procedures recommended
+by the engine manufacturer should be followed when
+performing inspections or maintenance. Maintenance
+information presented in this section is not intended to specify
+the exact manner in which maintenance operations are to be
+performed but is included to convey a general idea of the
+procedures involved. For inspection purposes, the turbine
+engine is divided into two main sections: the cold and hot.
+
+A dead cylinder can be detected during run-up, since an
+engine with a dead cylinder requires a higher than normal
+10-44
+

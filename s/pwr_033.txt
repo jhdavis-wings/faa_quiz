@@ -1,0 +1,1363 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 11 (Light-Sport Aircraft Engines), PDF pages 452-465
+
+===== PDF PAGE 452 =====
+Select full power and check that both pressure gauges are
+registering the same readings. If the same reading is not
+made on both gauges, shut down the engine and check
+that carburetor actuation has full travel and that the chokes
+are in the full off-position. If necessary, fit/modify the
+carburetor actuation as required to achieve full power on
+both carburetors. Once full power has been established
+on both carburetors, retard the throttle and observe the
+pressure gauge settings. The pressure gauges should show
+the same reading for both carburetors. Discrepancies must
+be compensated for by adjusting the off idle adjustment (7).
+[Figure 11-27] The carburetor with the lower indication
+must be advanced to match the higher one. This is done by
+shutting down the engine and loosening the locknut on the
+Bowden cable and screwing the off idle adjustment in by ½
+turn, then tightening the locknut and retesting the engine.
+Final idle speed adjustment may be required by resetting
+the idle speed adjustment screws (2). [Figure 11-27] Equal
+adjustment must be made on both carburetors.
+
+the engine or airframe, thus possibly falsifying idle speed
+setting and synchronization. [Figure 11-30] Each carburetor
+is actuated by two Bowden cables. At position 1, connection
+for throttle valve and at position 2, make the connection for
+the choke actuator. The Bowden cables must be adjusted so
+that the throttle valve and the choke actuation of the starting
+carburetor can be fully opened and closed. Bowden cables
+and lever must operate freely and not jam.
+
+Any major adjustments require retesting to verify all
+parameters mentioned in this procedure are within limits.
+Install compensation tube assembly on the engine in reverse
+sequence of removal. Any minor differences in balance at idle
+speed is compensated for. Always follow the instructions of
+the instrument manufacturer.
+
+Oil Level Check
+Always allow engine to cool down to ambient temperature
+before starting any work on the lubrication system. Severe
+burns and scalds may result from hot oil coming into contact
+with the skin. Switch off ignition and remove ignition key. To
+assure that the engine does not turn by the starter, disconnect
+the negative terminal of aircraft battery. Before checking
+the oil level, make sure that there is not excess residue oil
+in the crankcase. Prior to oil level check, turn the propeller
+
+Optimizing Engine Running
+Optimizing the engine run is necessary only if not
+accomplished at carburetor synchronization. Close the idle
+mixture screw (6) by turning clockwise to screw in fully
+and, then, opening again by 1½ turns counterclockwise.
+[Figures 11-27 and 11-28] Starting from this basic adjustment,
+the idle mixture screw (6) is turned until the highest motor
+speed is reached. The optimum setting is the middle
+between the two positions, at which an rpm drop is noticed.
+Readjustment of the idle speed is carried out using the idle
+speed adjustment screw (2) and, if necessary, by slightly
+turning the idle mixture screw again. Turning the idle mixture
+control screw in a clockwise direction results in a leaner
+mixture and turning counterclockwise in a richer mixture.
+Checking the Carburetor Actuation
+The Bowden cables should be routed in such a way that
+carburetor actuation is not influenced by any movement of
+
+Lubrication System
+
+~1 mm
+
+1
+3
+
+3
+2
+
+CODE
+
+Idle Speed Adjustment
+If satisfactory idle speed adjustment cannot be achieved,
+inspection of the idle jet or additional pneumatic
+synchronization is necessary. Always carry out idle speed
+adjustment when the engine is warm. Basic adjustment of
+the idle speed is first accomplished by using the idle speed
+adjustment screw (2) of the throttle valve. [Figure 11-27]
+
+Warning: With carburetor actuation not connected, the
+throttle valve is fully open. The initial position of the
+carburetor is full throttle. Never start the engine with the
+actuation disconnected. Inspect Bowden cables and levers
+for free movement. Cables must allow for full travel of lever
+from stop to stop. Adjust throttle cables to a clearance of 1
+mm (0.04 in). Inspect and lubricate linkage on carburetor
+and carburetor joints with engine oil. Inspect return springs
+(3) and engagement holes for wear.
+
+1 Throttle valve connection
+2 Choke actuator connection
+4 Return springs
+
+Figure 11-30. Bowden cable routing.
+
+11-19
+
+===== PDF PAGE 453 =====
+several times by hand in the direction of engine rotation to
+pump all the oil from the engine to the oil tank. This process
+is completed when air flows back to the oil tank. This air
+flow can be perceived as a gurgling noise when the cap of
+the oil tank is removed. The oil level in the oil tank should
+be between the two marks (maximum/minimum) on the
+oil dipstick, but must never fall below the minimum mark.
+[Figure 11-31] Replenish oil as required, but for longer
+flights, replenish oil to maximum mark to provide for more
+of an oil reserve. During standard engine operation, the
+oil level should be mid-way between the maximum and
+minimum marks a higher oil level (over servicing). Oil can
+escape through the venting (breather) passage.
+
+2
+3
+
+4
+5
+
+8
+
+Max
+Min
+
+7
+1
+
+CODE
+
+Oil Change
+It is advisable to check the oil level prior to an oil change, as
+it provides information about oil consumption. Run engine
+to warm the oil before beginning the procedure. Taking
+proper precautions, crank the engine by hand to transfer the
+oil from the crankcase. Remove the safety wire and oil drain
+screw (1) from the oil tank, drain the used oil, and dispose
+of as per environmental regulations. [Figure 11-32] Remove
+and replace oil filter at each oil change. It is not necessary
+to remove oil lines and other oil connections. Draining the
+suction lines, oil cooler, and return line is not necessary
+and must be avoided, as it results in air entering the oil
+system. Replacement of the oil filter and the oil change
+should be accomplished quickly and without interruption
+to prevent a draining of the oil system and the hydraulic
+tappets. Compressed air must not be used to blow through
+
+6
+
+1 Oil drain screw
+
+5 Baffle insert
+
+2 Profile clamp
+
+6 Partition
+
+3 Oil tank cover
+
+7 Sealing ring
+
+4 O-ring
+
+8 Oil tank
+
+Figure 11-32. Oil tank.
+
+the oil system (or oil lines, oil pump housing, oil bores in
+the housing). Replace the oil drain screw torque and safety
+wire. Only use the appropriate oil in accordance with the
+latest operator’s manual and service instruction. The engine
+must not be cranked when the oil system is open. After the
+oil change is accomplished, the engine should be cranked by
+hand in the direction of engine rotation (approximately 20
+turns) to completely refill the entire oil circuit.
+Cleaning the Oil Tank
+Cleaning the oil is optional and requires venting of the oil
+system. It is only necessary to clean the oil tank and the inner
+parts if there is heavy oil contamination. The procedure for
+cleaning the oil tank is shown in Figure 11-32. Detach the
+profile clamp (2) and remove the oil tank cover (3), together
+with the O-ring (4) and the oil lines. Remove the inner parts of
+the oil tank, such as the baffle insert (5) and the partition (6).
+Clean oil tank (8) and inner parts (5, 6), and check for damage.
+Be aware that incorrect assembly of the oil tank components
+can cause engine faults or engine damage. Replace the drain
+screw with a new sealing ring (7) and tighten to 25 Newton
+meters (Nm) (18.5 ft/lb) and safety wire. Reassemble the oil
+tank by following the same steps in reverse order.
+
+Figure 11-31. Oil dipstick minimum and maximum marks.
+
+11-20
+
+===== PDF PAGE 454 =====
+Inspecting the Magnetic Plug
+Remove the magnetic plug and inspect it for accumulation
+of chips. [Figure 11-33] The magnetic plug (torx screw) is
+located on the crankcase between cylinder 2 and the gearbox.
+This inspection is important because it allows conclusions
+to be drawn on the internal condition of the gearbox and
+engine, and reveals information about possible damage. If
+a significant amount of metal chips are detected, the engine
+must be inspected, repaired, or overhauled. Steel chips in low
+numbers can be tolerated if the accumulation is below 3 mm
+(0.125 in). [Figure 11-33] In the case of unclear findings,
+flush the oil circuit and fit a new oil filter. Afterwards, conduct
+an engine test run and inspect the oil filter once more. If there
+are larger accumulations of metal chips on the magnetic plug,
+the engine must be repaired or overhauled in accordance with
+the manufacturer’s instructions for continued airworthiness.
+A detailed inspection of affected engine components must
+be performed. If the oil circuit is contaminated, replace the
+oil cooler and flush the oil circuit, then trace the cause and
+remedy the situation. If the magnetic chip is found to have no
+metal, then clean and reinstall. Tighten the plug to a torque
+of 25 Nm (18.5 ft/lb). Safety wire the plug and inspect all
+systems for correct function.
+Checking the Propeller Gearbox
+The following free rotation check and friction torque check
+are necessary only on certificated engines and on engines with
+the overload clutch as an optional extra. Engines without the
+overload clutch (slipper clutch) still incorporate the torsional
+shock absorption. This design is similar to the system with
+overload clutch, but without free rotation. For this reason, the
+friction torque method cannot be applied on engines without
+the overload clutch.
+Checking the Friction Torque in Free Rotation
+Fit the crankshaft with a locking pin. [Figure 11-34] With
+the crankshaft locked, the propeller can be turned by hand
+15 or 30 degrees, depending on the profile of the dog gears
+installed. This is the maximum amount of movement allowed
+
+Length (L) in m
+
+0
+2
+4
+6
+8
+10
+12
+14
+
+0
+2
+4
+6
+8
+10
+12
+14
+
+Force (F) in N
+Example of minimum torque: F x L = 20N x 0.76m = 15 Nm
+Example of maximum torque: F x L = 59 N x 0.76m = 45 Nm
+Figure 11-34. Checking propeller gearbox.
+
+by the dog gears in the torsional shock absorption unit.
+Warning: Ignition OFF and system grounded. Disconnect
+negative terminal of aircraft battery.
+Turn the propeller by hand back and forth between ramps,
+taking into consideration the friction torque. No odd noises or
+irregular resistance must be noticeable during this movement.
+Attach a calibrated spring scale to the propeller at a certain
+distance (L) from the center of the propeller. Measure the
+force required to pull the propeller through the 15 or 30
+degree range of free rotation. Calculate friction torque Nm by
+multiplying the force Newton’s (N) or pounds (lb) obtained
+on the spring scale by the distance the scale is attached from
+the center of the propeller (L). The distance measurement and
+torque measurement must be in the same units either standard
+or metric and cannot be mixed up. The friction torque must
+be between a minimum of 25 Nm and maximum of 60 Nm
+(18.5 to 44.3 ft/lb). A calculation example is as follows:
+Friction Torque (FT) = Length (meters) x Torque (Newtons)
+FT = 0.5 meters x 60 Newtons
+FT = 30 Nm
+
+Remove crankshaft locking pin and reinstall plug with new
+gasket. Reconnect negative terminal of aircraft battery.
+If the above mentioned friction torque is not achieved,
+inspect, repair, or overhaul the gearbox in accordance with
+the manufacturer’s instructions for continued airworthiness.
+Testing the propeller flange is not normal maintenance but
+can be carried out if defects or cracks are suspected.
+
+Acceptable
+
+Not acceptable
+
+Figure 11-33. Inspecting the magnetic plug.
+
+Daily Maintenance Checks
+The following checklist should be used for daily maintenance
+checks. Repair, as necessary, all discrepancies before flight.
+1.
+
+Verify ignition OFF.
+11-21
+
+===== PDF PAGE 455 =====
+2.
+
+Drain water from fuel tank sump and/or water trap
+(if fitted).
+
+1.
+
+Verify ignition OFF.
+
+3.
+
+Inspect carburetor rubber socket or flange for cracks
+and verify secure attachment.
+
+2.
+
+Check fuel content.
+
+3.
+
+Inspect for coolant leaks.
+
+4.
+
+Inspect carburetor float chamber for water and dirt.
+
+4.
+
+Verify oil tank content (oil injection engines).
+
+5.
+
+Verify security and condition of intake silencer and
+air filter.
+
+5.
+
+Verify spark plug connectors for security.
+
+6.
+
+Inspect engine and gearbox for oil leaks.
+
+6.
+
+Verify security of radiator mounting. Inspect radiators
+for damage and leaks.
+
+7.
+
+7.
+
+Verify coolant level in overflow bottle and security of
+cap.
+
+Inspect engine and gearbox for loose or missing nuts,
+bolts, and screws, and verify security of gearbox to
+engine mounting.
+
+8.
+
+8.
+
+Verify coolant hoses for security, and inspect for leaks
+and chafing.
+
+Inspect propeller for splits and chips. If any damage,
+repair and/or rebalance before use.
+
+9.
+
+Verify security of propeller mounting.
+
+9.
+
+Inspect engine for coolant leaks (cylinder head,
+cylinder base, and water pump).
+
+10. Check throttle, oil injection pump, and choke actuation
+for free and full movement.
+
+10. Verify oil content for rotary valve gear lubrication and
+security of oil cap.
+
+11. Verify that cooling fan turns when engine is rotated
+(air-cooled engines).
+
+11. Verify oil hoses for security, and inspect for leaks and
+chafing (rotary valve gear lubrication system and oil
+injection system).
+
+12. Inspect exhaust for cracks, security of mounting,
+springs, and hooks for breakage and wear, and verify
+safety wiring of springs.
+
+12. Verify ignition coils/electronic boxes for secure
+mounting, and check ignition leads and all electrical
+wiring for secure connections and chafing.
+
+13. Start engine after assuring that area is clear of
+bystanders.
+
+13. Verify electric starter for secure mounting, and inspect
+cover for cracks.
+14. Verify engine to airframe mounting for security and
+inspect cracks.
+15. Verify fuel pump mounting for security, and inspect
+all fuel hose connections (filters, primer bulbs, and
+taps for security, leakage, chafing and kinks).
+16. Verify fuel pump impulse hose for secure connections,
+and inspect for chafing and kinks.
+17. Verify safety wiring of gearbox drain and level plugs.
+18. Inspect rubber coupling for damage and aging (C type
+gearbox only).
+19. Rotate engine by hand and listen for unusual noises
+(first, double verify ignition OFF).
+20. Check propeller shaft bearing for clearance by rocking
+propeller.
+21. Inspect throttle choke and oil pump lever cables for
+damage (end fittings, outer casing, and kinks).
+
+Pre-flight Checks
+The following checklist should be performed for all preflight checks. Repair, as necessary, all discrepancies and
+shortcoming before flight.
+
+14. Single ignition engines: check operation of ignition
+switch (flick ignition off and on again at idling).
+15. Dual ignition engines: check operation of both
+ignition circuits.
+16. Check operation of all engine instruments during
+warm up.
+17. If possible, visually check engine and exhaust for
+excessive vibration during warm up (indicates
+propeller out of balance).
+18. Verify that engine reaches full power rpm during
+takeoff roll.
+
+Troubleshooting & Abnormal Operation
+The information in this section is for training purposes
+and should never be used for maintenance on the actual
+aircraft. Only qualified personnel (experienced two-stroke
+technicians) trained on this particular type of engine are
+allowed to carry out maintenance and repair work. If
+the following information regarding the remedy of the
+malfunction does not solve the malfunction, contact an
+authorized facility. The engine must not be returned to service
+until the malfunction is rectified. As described earlier in the
+text, engines require basically two essentials to run: spark
+and correct air-fuel mixture. The majority of problems quite
+often are a simple lack of one or the other.
+
+11-22
+
+===== PDF PAGE 456 =====
+Troubleshooting
+Follow an organized method of troubleshooting. This
+facilitates the identification of discrepancies or malfunctions.
+•
+
+Fuel—start by checking the supply (tank), fittings
+(loose), filter (plugged), and float chamber (fouled).
+
+•
+
+Spark—check for spark at the spark plugs.
+
+Problems of a more complex nature are best left to an engine
+technician. The following are examples of engine troubles
+and potential fixes.
+
+Engine Keeps Running With Ignition OFF
+Possible cause: Overheating of engine.
+Remedy: Let engine cool down at idling at approximately
+2,000 engine rpm.
+
+Knocking Under Load
+Possible cause: Octane rating of fuel too low.
+Remedy: Use fuel with higher octane rating.
+Possible cause: Fuel starvation, lean mixture.
+Remedy: Check fuel supply.
+Abnormal Operation
+
+Exceeding the Maximum Admissible Engine Speed
+Reduce engine speed. Any overage of the maximum
+admissible engine speed must be entered by the pilot into the
+logbook, stating duration and extent of over-speed.
+
+Exceeding Maximum Admissible Cylinder Head
+Temperature
+Reduce engine power, setting to the minimum necessary,
+and carry out precautionary landing. Any exceeding of the
+maximum admissible cylinder head temperature must be
+entered by the pilot into the logbook, stating duration and
+extent of excess-temperature condition.
+
+Exceeding Maximum Admissible Exhaust Gas
+Temperature
+Reduce engine power, setting to the minimum necessary,
+and carry out precautionary landing. Any exceedence of
+the maximum admissible exhaust gas temperature must be
+entered by the pilot into the logbook, stating duration and
+extent of excess-temperature condition.
+
+Engine Preservation
+If the engine is not going to be used for an extended period
+of time, certain measures must be taken to protect engine
+against heat, direct sun light, corrosion, and formation of
+residues. In particular, the water bonded by the alcohol in
+the fuel causes increased corrosion problems during storage.
+
+After each flight, activate choke for a moment before stopping
+engine. Close all engine openings like exhaust pipe, venting
+tube, and air filter to prevent entry of contamination and
+humidity. For engine storage of one to four weeks, proceed
+with preservation prior to engine stop or on the engine at
+operating temperature. Let the engine run at increased idle
+speed. Shut the engine down and secure against inadvertent
+engine start. Remove air filters and inject approximately
+3 cubic cm of preservation oil or equivalent oil into the
+air intake of each carburetor. Restart the engine and run at
+increased idle speed for 10–15 seconds. Shut engine down
+and secure against inadvertent engine start. Close all engine
+openings, such as exhaust pipe, venting tube, and air filter,
+to prevent entry of contamination and humidity.
+For engine storage of engine for longer than four weeks and
+up to one year, proceed with preservation prior to engine stop
+and on the engine at operating temperature. Let the engine
+run at increased idle speed. Remove air filters and inject
+approximately 6 cubic cm of preservative oil or equivalent
+oil into the air intake of each carburetor. Stop the engine.
+Remove spark plugs and inject approximately 6 cubic cm
+preservation oil or equivalent oil into each cylinder and
+slowly turn crankshaft 2 to 3 turns by hand to lubricate top
+end parts. Replace and re-torque the spark plugs. Drain
+gasoline from float chambers, fuel tank, and fuel lines. Drain
+coolant on liquid cooled engines to prevent any damage by
+freezing. Lubricate all carburetor linkages using the proper
+lubricates. Close all openings of the engine, such as exhaust
+pipe openings, venting tube, and air intake, to prevent entry
+of any foreign material and humidity. Protect all external
+steel parts by spraying with engine oil.
+
+General Maintenance Practices for the LightSport Jabiru Engines
+Note: Some specific maintenance practices that differ from
+conventional certificated engines is covered for background
+and educational acquaintance purposes only. Always refer
+to the current manufacturer’s information when performing
+maintenance on any engine.
+Engine & Engine Compartment Inspection
+Check for oil, fuel exhaust, and induction leaks and clean
+the entire engine and compartment before inspection. Check
+flywheel screw tensions to 24 foot pounds. Check the
+carburetor air filter and clean it by removing it from the intake
+housing and blowing compressed air against the direction of
+the intake flow. For operation in heavy dust conditions, clean
+air filter at shorter intervals than recommended for normal
+conditions. A clogged filter reduces engine performance,
+as well as promotes premature engine wear. The engine
+baffles and air ducts should be checked for condition and
+functionality.
+11-23
+
+===== PDF PAGE 457 =====
+Two methods can be used to check the cylinders compression.
+The compression gauge method is used to measure
+compression using a compression tracer. Readings are taken
+with a fully open throttle valve at engine oil temperature
+between 30 °C and 70 °C (90 °F to 160 °F). If readings are
+below 6 bar (90 psi) a check of the pistons, cylinders, valves,
+and cylinder heads must be undertaken.
+
+age the oil lines and lead to hoses slipping off the cooler.
+
+The second method uses the pressure differential test. Check
+cylinder compression for a maximum allowable pressure
+loss of 25 percent. As an alternative to a compression test, a
+pressure differential test (leak down) can be accomplished.
+This is a much better test of the condition of rings, bore, head
+sealing, and valves. This is the normal test used in aviation
+and requires specific equipment. The test is carried out with
+the engine in warm to hot condition. Input pressure is best
+set at 80 psi; a second gauge reads the differential. This is
+done with the piston on TDC on the firing stroke.
+
+The mixture is set by selecting jet sizes. As supplied, the
+engine has jets to suit a majority of installations; however,
+the mixture may be affected by operation with a propeller
+that does not meet the requirements listed in the installation
+manual or by ambient temperature extremes. If an engine is
+to be used in these situations, an exhaust gas temperature
+(EGT) gauge should be fitted and monitored against the
+limits specified above. Do not change carburetor settings if
+EGT readings fall outside the range given without consulting
+with Jabiru Aircraft or the local authorized representative.
+The carburetor automatically adjusts the mixture to account
+for altitude. Visual inspection should include checks for
+carburetor joint degradation and carburetor linkage for full
+and free movement, correct positioning of stops and security.
+
+Note: The propeller needs to be restrained. A differential
+of lower than 80/60 (generally a 25 percent loss) indicates
+a problem.
+Problems can be better identified by observing where air is
+escaping from the cylinder, blow-by. Some examples are as
+follows:
+1.
+
+Blow-by through the crankcase vent indicates worn
+rings or bore.
+
+2.
+
+Leaking from carburetor indicates a poor intake valve
+seal.
+
+3.
+
+Leaking from exhaust indicates a poor exhaust valve
+seal.
+
+4.
+
+Head leak indicates poor head to cylinder seal.
+
+With the problem identified, the malfunction can then
+be corrected. Poor compression can be an indication of a
+serious problem. For example, continued operation with
+poor compression due to a poorly sealing valve can lead
+to eventual valve failure and heavy damage to the piston,
+connecting-rod, barrel, and head.
+Lubrication System
+The oil should be changed as required by the manufacturer.
+When changed, the oil filter should also be changed. Change
+the oil filter at every 50 hourly inspection. Drain the oil while
+engine is still warm and visually check for leaks. Fill the
+engine with oil (approximately 2.3 liters) and check oil level.
+Never exceed the maximum mark. Use only registered brand
+oils meeting the correct specifications. Do not drain the oil
+cooler during a normal oil change. The cooler holds only a
+small amount of old oil that has negligible effect on the new
+oil. Taking the hoses on and off the cooler can prematurely
+
+Carburetor Adjustment & Checks
+To adjust the engine’s idle speed, adjust the idle stop screw
+(7 mm screw) against throttle lever. Standard idle mixture
+screw position is 1¼ turns out from the seated position. Fine
+adjustment may be necessary to give a smooth idle.
+
+Spark Plugs
+When plugs are removed from a warm engine, the inspection
+of the tip of the spark plug can be used to indicate the health
+of the engine. If the tip of the plug is a light brown color,
+the plug is operating correctly. A black velvet, sooty looking
+plug tip generally is an indication of an overly rich mixture
+(check the choke, air filter, and intake). If the firing end tip
+is covered with oil, it is an indication of too much oil in
+the combustion chamber (check for worn piston rings and
+cylinder walls). When servicing the spark plugs, do not
+use steel or brass brushes for cleaning, and never sandblast
+plugs. Clean the spark plugs with a plastic brush in a solvent.
+Check electrode gap and, if necessary, adjust to 0.55–0.6mm
+(0.022 in–0.024 in) by carefully bending the electrode. Use
+the recommended Plugs (NGK D9EA) and place a suitable
+anti-seize compound on threads of the plug before installing
+them in the engine. Tighten spark plugs when the engine is
+cold and adjust engine to the correct torque value. Reconnect
+the ignition lead.
+Exhaust System
+Visually check the exhaust system for security of mounting,
+damage, rubbing, leaks, and general condition. Check nuts
+and bolts for tightness and condition; re-torque and replace
+if necessary.
+Head Bolts
+Check the head bolt torque after five hours of operation, and
+again after ten hours of operation. The bolts should, thereafter,
+be checked annually. Head bolts torque when cold to 20 ft/lb.
+11-24
+
+===== PDF PAGE 458 =====
+Tachometer & Sender
+Many apparent engine problems can be caused through
+inaccurate tachometers. Where engine performance is
+observed to be outside limits, the tachometer should be
+checked against a calibrated instrument. Tachometer sender
+gap is 0.4mm (0.016 inches). The sender must have at least
+60 percent covered by the tags fitted to the gearbox side of
+the flywheel. Ensure both tags are equal distance from sender.
+
+Engine Inspection Charts
+Note: Read all inspection requirement paragraphs prior to
+using these charts. [Figure 11-35]
+
+Propeller
+
+Engine and Engine Compartment
+
+Spinner * *
+
+Check flywheel screw tensions to 24 foot pounds*
+
+Spinner flange * *
+
+Carburetor air filter * *
+
+Spinner screws * *
+
+Engine baffles and air ducts *
+
+Propeller * *
+
+Cylinders *
+
+Propeller bolts/nuts - Tension *
+
+Crankcase & front crankcase seal *
+
+Spinner/prop tracking * *
+
+Hoses, lines and fittings * *
+Intake and exhaust systems *
+Ignition harness, distributor caps & rotors *
+NOTE: Check for oil, fuel exhaust and induction leaks, then
+clean entire engine and compartment before inspection.
+
+Annual Inspection**
+Each 100 Hours*
+Figure 11-35. Engine inspection charts.
+
+11-25
+
+===== PDF PAGE 459 =====
+Glossary
+A
+Abradable strip. A strip of material in the compressor
+housing of some axial-flow gas turbine engines. The tip of
+the compressor blade touches the abradable strip, and wears,
+or abrades a groove in it. This groove ensures the minimum
+tip clearance.
+Abradable tip (compressor blade tip). The tip of some
+axial-flow compressor blades constructed so that it will
+abrade, or wear away, upon contact with the compressor
+housing, which ensures the minimum tip clearance between
+the blade and the housing.
+Absolute pressure. Pressure referenced from zero pressure
+or a vacuum.
+AC. Alternating current. Electrical current in which
+the electrons continually change their rate of flow and
+periodically reverse their direction.
+ACC. Active clearance control. A system for controlling the
+clearance between tips of the compressor and turbine blades
+and the case of high-performance turbofan engines. When
+the engine is operating at maximum power, the blade tip
+clearance should be minimum, and the ACC system sprays
+cool fan discharge air over the outside of the engine case. This
+causes the case to shrink enough to decrease the tip clearance.
+For flight conditions that do not require such close clearance,
+the cooling air is turned off, and the case expands to its normal
+dimensions. The control of the ACC system is done by the
+FADEC, or full-authority digital electronic control.
+Acceleration. The amount the velocity of an object is
+increased by a force during each second it is acted upon by
+that force. Acceleration is usually measured and expressed
+in terms of feet per second, per second (fps²).
+Accessory end. The end of a reciprocating engine on which
+many of the accessories are mounted. Also, called the antipropeller end.
+Accumulator. A hydraulic component that stores a
+non-compressible fluid, such as oil, under pressure. An
+accumulator has two compartments separated by a flexible
+or movable partition with one compartment containing
+compressed air. When oil is pumped into the other
+
+compartment, the partition moves over, further compressing
+the air which holds pressure on the oil.
+AD (ashless dispersant) oil. A mineral-based lubricating oil
+used in reciprocating engines. This oil does not contain any
+metallic ash-forming additives, but has additives that disperse
+the contaminants and hold them in suspension until they can
+be removed by filters.
+ADC. Air data computer. An electronic computer in an
+aircraft that senses pitot pressure, static pressure, and total air
+temperature. It produces an indication of altitude, indicated
+airspeed, true airspeed, and Mach number. The output of ADC
+is usable by any of the engine or flight control computers.
+ADI (antidetonation injection) system. A system used with
+some large reciprocating engines in which a mixture of water
+and alcohol is sprayed into the engine with the fuel when
+operating at extremely high power. The air/fuel mixture is
+leaned to allow the engine to develop its maximum power,
+and the ADI fluid absorbs excessive heat when it vaporizes.
+Adiabatic change. A physical change that takes place within
+a material in which heat energy is neither added to the
+material, nor taken away. If a container of gas is compressed,
+with no heat energy added to or taken from it, the gas will
+become hotter; its temperature will rise.
+Aeromatic propeller. A patented variable-pitch propeller
+that has flyweights around the blade shanks and the
+blades angled back from the hub to increase the effects of
+aerodynamic and centrifugal twisting forces. This propeller
+automatically maintains a relatively constant rpm for any
+throttle setting.
+Aft-fan engine. A turbofan engine with the fan mounted
+behind the compressor section. The blades of an aft-fan are
+normally extensions of the free turbine blades.
+Afterburner. A component in the exhaust system of a
+turbojet or turbofan engine used to increase the thrust for
+takeoff and for special flight conditions. Since much of the air
+passing through a gas turbine engine is used only for cooling,
+it still contains a great deal of oxygen. Fuel is sprayed into
+the hot, oxygen-rich exhaust in the afterburner, where it is
+ignited and burned to produce additional thrust.
+
+G-1
+
+===== PDF PAGE 460 =====
+Air bleed (carburetor component). A small hole in the fuel
+passage between the float bowl and the discharge nozzle of
+a float carburetor. Air drawn into the liquid fuel through the
+air bleed breaks the fuel up into an emulsion, making it easy
+to atomize and vaporize.
+Air cooling. The removal of unwanted heat from an aircraft
+engine by transferring the heat directly into the air flowing
+over the engine components.
+Air/fuel mixture ratio. The ratio of the weight of the air
+to that of the fuel in the mixture fed into the cylinders of
+an engine.
+Air impingement starter. A turbine engine starter that
+basically consists of a nozzle that blows a stream of
+compressed air against the turbine blades to rotate the
+compressor for starting the engine.
+Air-oil separator. A component in a turbine engine
+lubrication system that removes the air from the scavenged
+oil before it is returned to the oil tank.
+
+Analog indicator. An indicator that shows the value of
+the parameter being measured by a number marked on a
+graduated dial aligned with a movable pointer.
+Angle of attack. The acute angle between the chordline of
+a propeller blade and the relative wind. The angle of attack
+is affected by both the engine rpm and the forward speed of
+the aircraft.
+Annual inspection. A complete inspection of the airframe and
+powerplant required for FAA-certificated aircraft operating
+under 14 CFR part 91 General Operating and Flight Rules,
+and not on one of the authorized special inspection programs.
+An annual inspection must be conducted every 12 calendar
+months, and it must be conducted by an aviation maintenance
+technician who holds an Airframe and Powerplant rating
+and an Inspection Authorization. The scope of an annual
+inspection is the same as that of a 100-hour inspection.
+Annular duct. A duct, or passage, that surrounds an object.
+The annular fan-discharge duct surrounds the core engine.
+
+Airworthiness Directive. Airworthiness Directives (ADs)
+are legally enforceable regulations issued by the FAA
+in accordance with 14 CFR part 39 to correct an unsafe
+condition in a product. Part 39 defines a product as an aircraft,
+engine, propeller, or appliance.
+
+Annular orifice. A ring-shaped orifice, normally one that
+surrounds another orifice.
+
+All-weather spark plug. A shielded spark plug designed for
+high altitude operation. The ceramic insulator is recessed into
+the shell to allow a resilient grommet on the ignition harness
+to provide a watertight seal. All weather spark plugs, also
+called high-altitude spark plugs, are identified by their 3/420 shielding threads.
+
+Annunciator panel. A panel of warning lights visible to the
+flight crew. The lights are identified by the name of the system
+they represent and are often covered with colored lenses. Red
+lights indicate a dangerous condition and green indicate a
+safe condition.
+
+Alpha control range (alpha mode). The flight operating
+mode from takeoff through landing for a turbo-prop engine.
+Alpha mode includes operations from 95% to 100% of the
+engine’s rated rpm.
+Altitude engine. An aircraft reciprocating engine equipped
+with a supercharger that allows it to maintain its rated sealevel horsepower to an established higher altitude.
+Amateur-built aircraft. Aircraft built by individuals as
+a hobby rather than by factories as commercial products.
+Amateur-built or home-built aircraft do not fall under the
+stringent requirements imposed by the FAA on commercially
+built aircraft.
+Ambient air pressure. The pressure of the air that surrounds
+an object.
+
+Annulus. A ring or groove around the outside of a circular
+body or shaft, or around the inside of a cylindrical hole.
+
+Anodizing. A hard, airtight, unbroken oxide film
+electrolytically deposited on an aluminum alloy surface to
+protect it from corrosion.
+Anti-icing. Prevention of the formation of ice on a surface.
+Anti-propeller end. The end of a reciprocating engine that
+does not attach to the propeller. Also called the accessory end.
+APC. Absolute pressure controller.
+APU. Auxiliary power unit. A small turbine- or reciprocatingengine-powered generator, hydraulic pump, and air pump.
+APUs are installed in the aircraft and are used to supply
+electrical power, air, and hydraulic pressure when the main
+engines are not running.
+Aramid fiber. Fiber made from an organic compound of
+G-2
+
+===== PDF PAGE 461 =====
+carbon, hydrogen, oxygen, and nitrogen. It has high strength
+and low density. It is flexible under load and is able to
+withstand impact, shock, and vibration. Kevlar is a wellknown aramid fiber.
+Aromatic compound. A chemical compound such as
+toluene, xylene, and benzene that is blended with gasoline
+to improve its anti-detonation characteristics.
+Articulating rod. See link rod.
+Aspect ratio. The ratio of the length of an airfoil, such as a
+compressor blade, to its width.
+Asymmetrical loading. The loading of a propeller disc that
+causes one side to produce more thrust than the other side.
+ATF. Aerodynamic twisting force. The aerodynamic force
+that acts on a rotating propeller blade to increase its blade
+angle. The axis of rotation of a blade is near the center of its
+chordline, and the center of pressure is between the axis and
+the leading edge. Aerodynamic lift acting through the center
+of pressure tries to rotate the blade to a higher pitch angle.
+Atomize. The process of breaking a liquid down into tiny
+droplets or a fine spray. Atomized liquids vaporize easily.
+Augmentor tube. A long, specially shaped stainless steel
+tube mounted around the exhaust tail pipe of a reciprocating
+engine. As exhaust gases flow through the augmentor tube,
+they produce a low pressure in the engine compartment that
+draws in cooling air through the cylinder fins.
+Automatic intake valve. An intake valve opened by low
+pressure created inside the cylinder as the piston moves down.
+There is no mechanical means of opening it.
+Automatic mixture control (AMC). The device in a fuel
+metering system, such as a carburetor or fuel injection system,
+that keeps the air/fuel mixture ratio constant as the density
+of air changes with altitude.
+Autosyn system. The registered trade name of a remote
+indicating instrument system. An Autosyn system uses an
+electromagnet rotor, excited with 400-hertz AC, and a threephase distributed-pole stator.
+Axial bearing load. The load on a bearing parallel to the
+shaft on which the bearing is mounted. Thrust produces an
+axial load on a bearing.
+Axial turbine. A turbine that is turned by a fluid flowing
+through it in a direction that is approximately parallel to the
+
+shaft on which the turbine wheel is mounted.
+Axial-flow compressor. A type of compressor used in
+gas turbine engines. Air passes through the compressor
+in essentially a straight line, parallel to the axis of the
+compressor. The compressor is made of a number of stages
+of rotating compressor blades between stages of stationary
+stator vanes.
+Axis of rotation. The center line about which a propeller
+rotates.
+
+B
+Babbitt. A soft silvery metal used for main bearing inserts
+in aircraft reciprocating engines. Babbitt is made of tin with
+small amounts of copper and antimony.
+Back (propeller nomenclature). The curved surface of a
+propeller blade. The back of a propeller blade corresponds
+to the upper surface of an airplane wing.
+Back-suction mixture control. A type of mixture control
+used in some float carburetors that regulates the air/fuel
+mixture by varying the air pressure above the fuel in the
+float bowl.
+Baffle. A thin sheet metal shroud or bulkhead used to direct
+the flow of cooling air between and around the cylinder fins
+of an air-cooled reciprocating engine.
+Bayonet stack. An exhaust stack with an elongated and
+flattened end. The gases leave the stack through a slot
+perpendicular to its length. Bayonet stacks decrease both
+exhaust back pressure and noise.
+BDC. Bottom dead center. The position of a piston in a
+reciprocating engine when the piston is at the bottom of
+its stroke, and the wrist pin, crankpin, and center of the
+crankshaft are all in line.
+Bell mouth. The shape of the inlet of an augmentor tube
+that forms a smooth converging duct. The bell mouth shape
+allows the maximum amount of air to be drawn into the tube.
+Bell mouth inlet duct. A form of convergent inlet-air duct
+used to direct air into the compressor of a gas turbine engine.
+It is extremely efficient, and is used where there is little ram
+pressure available to force air into the engine. Bell mouth
+ducts are used in engine test cells and on engines installed
+in helicopters.
+Benzene. A colorless, volatile, flammable, aromatic
+G-3
+
+===== PDF PAGE 462 =====
+hydrocarbon liquid which has the chemical formula C6H6.
+Benzene, which is sometimes called benzoil, is used as a
+solvent, a cleaning fluid, and a fuel for some special types
+of reciprocating engines.
+Bernoulli’s principle. A physical principle that explains
+the relationship between kinetic and potential energy in a
+stream of moving fluid. When energy is neither added to
+nor taken from the fluid, any increase in its velocity (kinetic
+energy) will result in a corresponding decrease in its pressure
+(potential energy).
+Beta control range (Beta mode). The range of operation
+of a turboprop powerplant used for in-flight approach and
+ground handling of the engine and aircraft. Typically, the
+Beta mode includes operations from 65% to 95% of the
+engine’s rated rpm.
+
+Blending. A method of repairing damaged compressor
+and turbine blades. The damage is removed and the area is
+cleaned out with a fine file to form a shallow depression with
+generous radii. The file marks are then removed with a fine
+abrasive stone so the surface of the repaired area will match
+the surface of the rest of the blade.
+Blisk. A turbine wheel machined from a single slab of steel.
+The disc and blades are an integral unit.
+Blow-in doors. Spring-loaded doors in the inlet duct of some
+turbojet or turbofan engine installations that are opened by
+differential air pressure when inlet air pressure drops below
+that of the ambient air. Air flowing through the doors adds
+to the normal inlet air passing through the engine and helps
+prevent compressor stall.
+
+Beta tube. A tube in a Garrett TPE331 turboprop powerplant
+that extends into the propeller pitch control to act as a followup device. It provides movement of the propeller blades in
+proportion to movement of the power lever.
+
+BMEP. Brake mean effective pressure. The average pressure
+inside the cylinder of a reciprocating engine during the power
+stroke. BMEP, measured in pounds per square inch, relates
+to the torque produced by the engine and can be calculated
+when you know the brake horsepower.
+
+Bezel. The rim which holds the glass cover in the case of an
+aircraft instrument.
+
+Boost. A term for manifold pressure that has been increased
+above the ambient atmospheric pressure by a supercharger.
+
+BHP. Brake horsepower. The actual horsepower delivered
+to the propeller shaft of a reciprocating or turboprop engine.
+
+Bootstrapping. An action that is self-initiating or selfsustaining. In a turbocharger system, bootstrapping
+describes a transient increase in engine power that causes the
+turbocharger to speed up, which in turn causes the engine to
+produce more power.
+
+Bidirectional fibers. Fibers in a piece of composite material
+arranged to sustain loads in two directions.
+Bimetallic hairspring. A flat, spiral-wound spring made of
+two strips of metal laid side-by-side and welded together.
+The two metals have different coefficients of expansion,
+and as the temperature changes, the spiral either tightens or
+loosens. A bimetallic hair spring is used in a thermocouple
+temperature changes at the reference junction.
+Bimetallic strip. A metal strip made of two different types
+of metal fastened together side by side. When heated, the two
+metals expand different amounts and the strip warps or bends.
+BITE. Built-in test equipment. A troubleshooting system
+installed in many modern electronic equipment. BITE
+equipment monitors engine and airframe systems, and when a
+fault is found, isolates it and provides maintenance personnel
+with a code that identifies the LRU (line replaceable unit)
+that contains the fault.
+Blade. The component of a propeller that converts the
+rotation of the propeller shaft into thrust. The blade of a
+propeller corresponds to the wing of an airplane.
+
+Bore. The diameter of a reciprocating engine cylinder.
+Borescope. An inspection tool for viewing the inside of
+a turbine engine without disassembling it. The instrument
+consists of a light, mirror, and magnifying lens mounted
+inside a small-diameter tube that is inserted into a turbine
+engine through borescope inspection ports.
+Boss. An enlarged area in a casting or machined part. A
+boss provides additional strength to the part where holes for
+mounting or attaching parts are drilled.
+Bottom. (verb) A condition in the installation of a propeller
+on a splined shaft when either the front or rear cone contacts
+an obstruction that prevents the cone from properly seating
+inside the propeller hub.
+Bourdon tube. The major component in a gage-pressure
+measuring instrument. It is a thin-wall metal tube that has
+an elliptical cross section and is formed into a curve. One
+end of the tube is sealed and connected to an arm that moves
+G-4
+
+===== PDF PAGE 463 =====
+the pointer across the instrument dial, and the open end is
+anchored to the instrument case. The pressure to be measured
+is directed into the open end, which causes the elliptical cross
+section to become more circular. As the cross section changes,
+the curve straightens and moves the pointer over the dial by
+an amount proportional to the amount of pressure.
+Brayton cycle. The constant-pressure cycle of energy
+transformation used by gas turbine engines. Fuel is sprayed
+into the air passing through the engine and burned. Heat from
+the burning air/fuel mixture expands the air and accelerates it
+as it moves through the engine. The Brayton cycle is an open
+cycle in that the intake, compression, combustion, expansion,
+and exhaust events all take place at the same time, but in
+different locations within the engine.
+
+Bypass ratio. The ratio of the mass of air moved by the fan
+to the mass of air moved by the core engine.
+
+C
+Calendar month. The measurement of time used by the FAA
+for inspection and certification purposes. One calendar month
+from a given date extends from that date until midnight of
+the last day of that month.
+Cam. An eccentric, or lobe, on a rotating shaft that changes
+rotary motion into linear motion. A cam is mounted on the
+magnet shaft in a magneto to push upward on the insulated
+breaker point to separate, or open, the points when the magnet
+is in a particular location.
+
+British thermal unit (Btu). The basic unit of heat energy
+in the English system. One Btu is the amount of heat energy
+needed to raise the temperature of one pound of pure water
+from 60 ˚F to 61˚F.
+
+Cam engine. A reciprocating engine with axial cylinders
+arranged around a central shaft. Rollers on the pistons in
+the cylinders press against a sinusoidal cam mounted on the
+shaft to produce rotation of the shaft.
+
+BSFC. Brake specific fuel consumption. A measure of the
+amount of fuel used for a given amount of power produced
+by a heat engine. BSFC is expressed in pounds of fuel burned
+per hour for each brake horse-power the engine is producing.
+
+Cam-ground piston. A reciprocating engine piston that is
+not round, but is ground so that its diameter parallel to the
+wrist pin is slightly smaller than its diameter perpendicular
+to the pin. The mass of metal used in the wrist pin boss,
+the enlarged area around the wrist pin hole, expands when
+heated, and when the piston is at its operating temperature,
+it is perfectly round.
+
+Buckets. The portions of aft-fan blades that are in the exhaust
+of the core engine. Buckets drive the fan from energy received
+from hot gases leaving the core engine.
+Bungee cord. An elastic cord made of small strips of rubber
+encased in a loosely braided cloth tube that holds and protects
+the rubber, yet allows it to stretch. The energy in a stretched
+bungee cord may be used to crank a large aircraft engine.
+Burner. See combustor.
+Burnish. To smooth the surface of a metal part that has been
+damaged by a deep scratch or gouge. Metal piled at the edge
+of the damage is pushed back into the damage with a smooth,
+hard steel burnishing tool.
+Butterfly valve. A flat, disc-shaped valve used to control
+the flow of fluid in a round pipe or tube. When the butterfly
+valve is across the tube, the flow is shut off, and when it is
+parallel with the tube, the obstruction caused by the valve
+is minimum, and the flow is at its greatest. Butterfly-type
+throttle valves are used to control the airflow through the
+fuel metering system.
+Bypass engine. Another name for a turbofan engine. See
+turbofan engine.
+
+Can-annular combustor. A type of combustor used in some
+large turbojet and turbofan engines. It consists of individual
+cans into which fuel is sprayed and ignited. These cans mount
+on an annular duct which collects the hot gases and directs
+them uniformly into the turbine.
+Capacitance afterfiring. The continuation of the spark
+across the gap in a shielded spark plug after the air/fuel
+mixture in the cylinder is ignited. Afterfiring is caused by
+the return of electrical energy stored in the capacitance of the
+shielded ignition leads. Capacitance afterfiring is eliminated
+by the use of a resistor in the spark plug.
+Capacitor. An electrical component, formerly called a
+condenser, that consists of two large-area conductors, called
+plates, separated by an insulator. Electrons stored on one
+of the plates produces an electrostatic pressure difference
+between the plates.
+Capillary tube. A glass or metal tube with a tiny inside
+diameter. Capillary action causes the fluid to move within
+the tube.
+Carbon pile voltage regulator. A voltage regulator for a high
+G-5
+
+===== PDF PAGE 464 =====
+output DC generator that uses a stack of pure carbon discs for
+the variable resistance element. A spring holds pressure on the
+stack to reduce its resistance when the generator output voltage
+is low. This allows maximum field current to flow. The field
+from an electro-magnet, whose strength varies directly with
+the generator voltage, opposes the spring to loosen the stack
+and increase its resistance when the generator voltage needs
+to be decreased. The increased resistance decreases the field
+current and reduces the output voltage.
+Carbon track. A trail of carbon deposited by an arc across a
+high-voltage component such as a distributor block. Carbon
+tracks have a relatively low resistance to the high voltage and
+can cause misfiring and loss of engine power.
+Cartridge starter. A self-contained starter used on some
+military aircraft. A cartridge similar in size to a shotgun
+shell is ignited in the starter breech. The expanding gases
+drive a piston attached to a helical spline that converts the
+linear movement of the piston into rotary motion to rotate
+the crankshaft.
+Cascade effect. The cumulative effect that occurs when the
+output of one series of components serves as the input to
+the next series.
+Catalyst. A substance used to change the speed, or rate, of
+a chemical action without being chemically changed itself.
+Cavitating. The creation of low pressure in an oil pump
+when the inlet system is not able to supply all of the oil
+the pump requires. Prolonged cavitation can damage pump
+components.
+Center of pressure. The point on the chordline of an airfoil
+where all aerodynamic forces are concentrated.
+Center-line thrust airplane. A twin-engine airplane with
+both engines mounted in the fuselage. One is installed as a
+tractor in the front of the cabin. The empennage is mounted
+on booms.
+Centrifugal compressor. A type of compressor that uses a
+vaned plate like impeller. Air is taken into the center, or eye,
+of the impeller and slung outward by centrifugal force into
+a diffuser where its velocity is decreased and its pressure
+increased.
+Ceramic. Any of several hard, brittle, heat-resistant,
+noncorrosive materials made by shaping and then firing a
+mineral, such as clay, at a high temperature.
+Channel-chromed cylinders. Reciprocating engine
+
+cylinders with hard chromium-plated walls. The surface of
+this chrome plating forms a spider web of tiny stress cracks.
+Deplating current enlarges the cracks and forms channels
+that hold lubricating oil on the cylinder wall.
+Cheek (crankshaft). The offset portion of a crankshaft that
+connects the crankpin to the main bearing journals.
+Chip detector. A component in a lubrication system that
+attracts and holds ferrous metal chips circulating with the
+engine oil. Some chip detectors are part of an electrical
+circuit. When metal particles short across the two contacts
+in the detector, the circuit is completed, and an annunciator
+light is turned on to inform the flight crew that metal particles
+are loose in the lubrication system.
+Choke of a cylinder. The difference in the bore diameter of
+a reciprocating engine cylinder in the area of the head and
+in the center of the barrel.
+Choke-ground cylinder. A cylinder of a reciprocating engine
+that is ground so that its diameter at the top of the barrel is
+slightly smaller than the diameter in the center of the stroke.
+The large mass of metal in the cylinder head absorbs enough
+heat to cause the top end of the barrel to expand more than
+the rest of the barrel. At normal operating temperature, the
+diameter of a choke-ground cylinder is uniform throughout.
+Choke nozzle. A nozzle in a gas turbine engine that limits
+the speed of gases flowing through it. The gases accelerate
+until they reach the speed of sound, and a normal shock wave
+forms that prevents further acceleration.
+Chordline. An imaginary line, passing through a propeller
+blade, joining the leading and trailing edges.
+Cigarette. A commonly used name for a spark plug terminal
+connector used with a shielded spark plug.
+Circular magnetism. A method of magnetizing a part for
+magnetic particle inspection. Current is passed through the
+part, and the lines of magnetic flux surround it. Circular
+magnetism makes it possible to detect faults that extend
+lengthwise through the part.
+Circumferential coil spring (garter spring). A coil spring
+formed into a ring. This type of spring is used to hold segmented
+ring-type carbon seals tightly against a rotating shaft.
+Claret red. A dark purplish pink to a dark gray purplish
+red color.
+Class A fire. A fire with solid combustible materials such as
+G-6
+
+===== PDF PAGE 465 =====
+wood, paper, and cloth as its fuel.
+Class B fire. A fire that has combustible liquids as its fuel.
+Class C fire. A fire which involves energized electrical
+equipment.
+Class D fire. A fire in which a metal such as magnesium
+burns.
+Closed-loop control. A type of control in which part of
+the output is fed back to the input. This allows the input to
+continually compare the command signals with the output
+to determine the extent to which the commands have been
+complied with.
+Coke. The solid carbon residue left when all volatile parts
+of a mineral oil have been evaporated by heat.
+Cold-cranking simulation. A method used for specifying
+the characteristics of a lubricating oil at low temperature. Oils
+rated by this test have the letter W (standing for Winter) in
+their designation. For example, SAE 15W50.
+Cold section. The portion of a gas turbine engine ahead of
+the combustion section. The cold section includes the inlet,
+compressor, and diffuser.
+Cold-tank lubrication system. A turbine engine lubricating
+system in which the oil cooler is in the scavenge subsystem.
+Collector ring. A ring made of thin corrosion-resistant steel
+tubing that encircles a radial engine and collects exhaust
+gases from each cylinder. The ring ends with a connection
+to the exhaust tail pipe.
+Combustor (combustion chamber). The section of a gas
+turbine engine in which fuel is injected. This fuel mixes with
+air from the compressor and burns. The intense heat from the
+combustion expands the air flowing through the combustor
+and directs it our through the turbine. Combustors are also
+called burners.
+Commutator. A mechanical rectifier mounted on the
+armature shaft of a DC generator or motor. It consists of a
+cylindrical arrangement of insulated copper bars connected
+to the armature coils. Carbon brushes ride on the copper bars
+to carry current into or out of the commutator, providing a
+unidirectional current from a generator or a reversal of current
+in the motor coils.
+Compensating winding. A series winding in a compoundwound DC generator. The compensating windings are
+
+embedded in the faces of the field poles and their varying
+magnetic field works with the fields from the interpoles to
+effectively cancel the field distortion caused by armature
+current.
+Composite propeller blade. A propeller blade made from
+several materials such as metal, graphite, glass or aramid
+fibers, and foam.
+Compression ratio (reciprocating engine). The ratio of
+the volume of a cylinder of a reciprocating engine with the
+piston at the bottom of its stroke engine to the volume of the
+cylinder with the piston at the top of its stroke.
+Compression ratio (turbine engine). The ratio of the
+pressure of the air at the discharge of a turbine engine
+compressor to the pressure of the air at its inlet.
+Compressor (air conditioning system component). The
+component in a vapor-cycle cooling system in which the lowpressure refrigerant vapors, after they leave the evaporator, are
+compressed to increase both their temperature and pressure
+before they pass into the condenser. Some compressors are
+driven by electric motors, others by hydraulic motors and,
+in the case of most light airplanes, are belt driven from the
+engine.
+Compressor bleed air. Air that is tapped off from a turbine
+engine compressor. Compressor bleed air is used for antiicing the inlet ducts and for cooling the turbine inlet guide
+vanes and first stage turbine blades. Bleed air is also used for
+certain airframe functions. See customer bleed air.
+Compressor pressure ratio. See compression ratio (turbine
+engine).
+Compressor stall. A condition in a turbine engine axial-flow
+compressor in which the angle of attack of one or more blades
+is excessive and the smooth airflow through the compressor
+is disrupted.
+Compressor surge. A stall that affects the entire compressor
+and seriously restricts the airflow through the engine.
+Con-di ducts. The British name for a convergent-divergent
+duct. See convergent-divergent duct.
+Condenser. See capacitor.
+“Contact.” The term used between a person hand-propping
+an aircraft engine and the person in the flightdeck. When the
+person is ready to spin the propeller, he calls “contact”. The
+person in the flightdeck turns on the fuel, slightly opens the
+G-7
+

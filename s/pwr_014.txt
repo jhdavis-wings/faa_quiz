@@ -1,0 +1,1528 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 4 (Engine Ignition & Electrical Systems), PDF pages 178-194
+
+===== PDF PAGE 178 =====
+Environmental control systems and maintenance message formats
+
+Selects data from auto or manual event in memory
+
+Electrical and hydraulic systems formal
+Performance and auxiliary power unit formats
+
+EICAS MAINT
+
+EVENT
+READ
+
+DESPLAY SELECT
+ECS
+
+ELEC
+
+PERF
+
+MSG
+
+HYD
+
+APU
+
+CONF
+
+ENG
+
+MCDP
+
+EXCD
+
+Engine exceedances
+
+AUTO
+
+MANUAL
+
+REC
+
+ERASE
+
+TEST
+
+BITE test switch for self-test routine
+Configuration and maintenance control/display panel
+
+Erases stored data currently displayed
+
+Records real-time data currently displayed (in manual event)
+
+Figure 4-30. The EICAS maintenance control panel is for the exclusive use of technicians.
+
+Figure 4-32 illustrates, in schematic form, the booster coil
+components shown in Figure 4-31. In operation, battery
+voltage is applied to the positive (+) terminal of the booster
+coil through the start switch. This causes current to flow
+through the closed contact points to the primary coil and
+ground. [Figure 4-32] Current flow through the primary coil
+sets up a magnetic field about the coil that magnetizes the
+coil core. As the core is magnetized, it attracts the movable
+contact point, which is normally held against the stationary
+contact point by a spring.
+As the movable contact point is pulled toward the iron
+core, the primary circuit is broken, collapsing the magnetic
+field that extended about the coil core. Since the coil core
+acts as an electromagnet only when current flows in the
+primary coil, it loses its magnetism as soon as the primary
+coil circuit is broken. This permits the action of the spring
+to close the contact points and again complete the primary
+coil circuit. This remagnetizes the coil core, and again
+attracts the movable contact point, which again opens the
+primary coil circuit. This action causes the movable contact
+point to vibrate rapidly, as long as the start switch is held
+in the closed, or on, position. The result of this action is a
+
+continuously expanding and collapsing magnetic field that
+links the secondary coil of the booster coil. With several
+times as many turns in the secondary as in the primary, the
+induced voltage that results from lines of force linking the
+secondary is high enough to furnish ignition for the engine.
+The condenser, which is connected across the contact points,
+has an important function in this circuit. [Figure 4-32] As
+current flow in the primary coil is interrupted by the opening
+of the contact points, the high self-induced voltage that
+accompanies each collapse of the primary magnetic field
+surges into the condenser. Without a condenser, an arc would
+jump across the points with each collapse of the magnetic
+field. This would burn and pit the contact points and greatly
+reduce the voltage output of the booster coil. The booster
+coil generates a pulsating DC in the primary winding that
+induces a high-voltage spark in the secondary windings of
+the booster coil.
+Impulse Coupling
+Many opposed reciprocating engines are equipped with
+an impulse coupling as the auxiliary starting system. An
+impulse coupling gives one of the magnetos attached to the
+4-19
+
+===== PDF PAGE 179 =====
+To starter side of start switch
+To battery negative
+Contact spring
+
+To booster terminal of magneto
+
+Access screw
+
+External ground
+through mounting bolt
+Vibrator stationary contact
+
+Vibrator moving contact
+Primary winding
+
+Cover
+
+Wire core
+
+Condenser
+
+Internal grounding strip
+
+Figure 4-31. Booster coil.
+
++
+Stationary
+contact point
+Condenser
+
+Primary winding
+
+Coil core
+
+Movable contact spring
+
+Moving
+contact point
+
+Secondary
+winding
+
+Internal grounding strip
+
+Figure 4-32. Booster coil schematic.
+
+engine, generally the left, a brief acceleration, that produces
+an intense spark for starting. This device consists of a cam
+and flyweight assembly, spring, and a body assembly.
+[Figure 4-33] The assembled impulse coupling is shown
+installed on a typical magneto in Figure 4-34.
+The magneto is flexibly connected through the impulse
+coupling by means of the spring so that at low speed the
+magneto is temporarily held. [Figure 4-35] The flyweight,
+because of slow rotation, catches on a stud or stop pins,
+and the magneto spring is wound as the engine continues to
+turn. The engine continues to rotate until the piston of the
+
+cylinder to be fired reaches approximately a top dead center
+position. At this point, the magneto flyweight contacts the
+body of the impulse coupling and is released. The spring
+kicks back to its original position, resulting in a quick twist
+of the rotating magnet of the magneto. [Figure 4-36] This,
+being equivalent to high-speed magneto rotation, produces
+a spark that jumps the gap at the spark plug electrodes. The
+impulse coupling has two functions: rotating the magneto fast
+enough to produce a good spark and retarding the timing of
+the spark during the start cycle. After the engine is started and
+the magneto reaches a speed at which it furnishes sufficient
+current, the flyweights in the impulse coupling fly outward
+due to centrifugal force or rapid rotation. This action prevents
+the two flyweight coupling members from contact with the
+stop pin. That makes it a solid unit, returning the magneto to
+a normal timing position relative to the engine. The presence
+of an impulse coupling is identified by a sharp clicking noise
+as the crankshaft is turned at starter cranking speed past top
+center on each cylinder.
+A problem that can arise from impulse couplings is that
+the flyweights can become magnetized and not engage the
+stop pins. Congealed oil or sludge on the flyweights during
+cold weather may produce the same results. This prevents
+the flyweight weights from engaging the stop pins, which
+results in no starting spark being produced. Wear can cause
+problems with impulse couplings. They should be inspected
+and any maintenance should be performed as set forth by the
+manufacturer. Another disadvantage of the impulse coupling
+is that it can produce only one spark for each firing cycle
+of the cylinder. This is a disadvantage, especially during
+4-20
+
+===== PDF PAGE 180 =====
+Body
+
+Stop pin
+
+Counterweights
+
+Impulse coupling
+
+Figure 4-34. Impulse coupling on a magneto.
+
+Cam
+
+Spring
+
+Engages stop pin
+Figure 4-35. Flyweights engage stop pins.
+
+enclosed in a metal case.
+Figure 4-33. Parts of an impulse coupling.
+
+adverse starting conditions. Even with these disadvantages,
+the impulse coupling is still in wide use.
+High-Tension Retard Breaker Vibrator
+To provide for more spark power during the starting cycle,
+the shower of sparks system was developed, which provides
+several sparks at the spark plug electrodes during starting.
+The starting vibrator, or shower of sparks, consists essentially
+of an electrically operated vibrator, a condenser, and a relay.
+[Figure 4-37] These units are mounted on a base plate and
+
+The starting vibrator, unlike the booster coil, does not
+produce the high ignition voltage within itself. The function
+of this starting vibrator is to change the DC of the battery
+into a pulsating DC and deliver it to the primary coil of the
+magneto. Closing the ignition switch energizes the starter
+solenoid and causes the engine to rotate. At the same time,
+current also flows through the vibrator coil and its contact
+points. Current flow in the vibrator coil sets up a magnetic
+field that attracts and opens the vibrator points. When the
+vibrator points open, current flow in the coil stops, and the
+magnetic field that attracted the movable vibrator contact
+point disappears. This allows the vibrator points to close and
+4-21
+
+===== PDF PAGE 181 =====
+secondary coils of the magneto many times per second.
+The rapid successions of separate voltages induced in the
+secondary coil produces a shower of sparks across the
+selected spark plug air gap.
+
+Body hits flyweight
+
+The retard breaker magneto and starting vibrator system is
+used as part of the high-tension starting system on many
+types of aircraft. Designed for four- and six-cylinder ignition
+systems, the retard breaker magneto eliminates the need for
+the impulse coupling in light aircraft. This system uses an
+additional breaker to obtain retarded sparks for starting. The
+starting vibrator is also adaptable to many helicopter ignition
+systems. A schematic diagram of an ignition system using
+the retard breaker magneto and starting vibrator concept is
+shown in Figure 4-37.
+Figure 4-36. Flyweight contacts body, releasing impulse coupling
+
+With the magneto switch in the both position and the starter
+switch S1 in the on position, starter solenoid L3 and coil L1
+are energized, closing relay contacts R4, R1, R2, and R3. R3
+connects the right magneto to ground, keeping it inoperative
+during starting operation. Electrical current flows from the
+battery through R1, vibrator points V1, coil L2, through both
+the retard breaker points, through R2, and the main breaker
+points of the left magneto to ground.
+
+to spin.
+
+again permits battery current to flow in the vibrator coil. This
+completes a cycle of operation. The cycle, however, occurs
+many times per second, so rapidly that the vibrator points
+produce an audible buzz.
+Each time the vibrator points close, current flows to the
+magneto as a pulsating DC. Since this current is being
+interrupted many times per second, the resulting magnetic
+field is building and collapsing across the primary and
+
+The energized coil L2 opens vibrator points V1, interrupting
+the current flow through L2. The magnetic field about L2
+collapses, and vibrator points V1 close again. Once more,
+
+Starting vibrator
+L
+
+Magneto switch
+
+R
+R3
+
+L2
+
+V1
+
+Left magneto
+
+Off
+L
+
+R2
+
+L
+
+R1
+
+In
+
+Grd
+
+Both
+
+L
+
+R
+
+Retard
+
+L1
+
+C2
+
+Switch
+
+R
+
+T1
+
+Main
+breaker
+Retard
+breaker
+
+C1
+
+Right magneto
+S1
+
+Off
+On
+
+Switch
+
+Main
+breaker
+
+L3
+
+R4
+
+C3
+T2
+
+S
+
+Figure 4-37. High-tension retard breaker magneto and starting vibrator circuit.
+
+4-22
+
+===== PDF PAGE 182 =====
+current flows through L2, and again V1 vibrator points open.
+This process is repeated continuously, and the interrupted
+battery current flows to ground through the main and retard
+breaker points of the left magneto.
+
+become inoperative. It also opens relay contact R3, which
+removes the ground from the right magneto. Both magnetos
+now fire at the normal running advanced degree position of
+crankshaft rotation before top dead center piston position.
+
+Since relay R4 is closed, the starter is energized and the engine
+crankshaft is rotated. When the engine reaches its normal
+advance firing position, the main breaker points of the left
+magneto begin to open. The interrupted surges of current from
+the vibrator can still find a path to ground through the retard
+breaker points, which do not open until the retarded firing
+position of the engine is reached. At this point in crankshaft
+travel, the retard points open. Since the main breaker points
+are still open, the magneto primary coil is no longer shorted,
+and current produces a magnetic field around T1.
+
+Low-Tension Retard Breaker Vibrator
+This system, which is in limited use, is designed for light
+aircraft reciprocating engines. A typical system consists of a
+retard breaker magneto, a single breaker magneto, a starting
+vibrator, transformer coils, and a starter and ignition switch.
+[Figure 4-38]
+
+Each time the vibrator points V1 open, current flow through
+V1 is interrupted. The collapsing field about T1 cuts through
+the magneto coil secondary and induces a high-voltage surge
+of energy used to fire the spark plug. Since the V1 points are
+opening and closing rapidly and continuously, a shower of
+sparks is furnished to the cylinders when both the main and
+retard breaker points are open.
+
+To operate the system, place the starter switch S3 in the
+on position. This energizes starter solenoid L3 and coil
+L1, closing relay contacts R1, R2, R3, and R4. With the
+magneto switch in the L position, current flows through R1,
+the vibrator points, L2, R2, and through the main breaker
+points to ground. Current also flows through R3 and the
+retard breaker points to ground. Current through L2 builds
+up a magnetic field that opens the vibrator points. Then, the
+current stops flowing through L2, reclosing the points. These
+surges of current flow through both the retard and main
+breaker points to ground.
+
+After the engine begins to accelerate, the manual starter switch
+is released, causing L1 and L3 to become deenergized. This
+action causes both the vibrator and retard breaker circuits to
+
+Since the starter switch is closed, the engine crankshaft is
+turning. When it has turned to the normal advance or running
+ignition position, the main breaker points of the magneto
+
+Starting vibrator
+Magneto switch
+Left magneto
+
+R3
+
+Off
+
+Both
+
+R1
+
+L2
+
+R
+
+C2
+
+T1
+
+Main breaker
+V1
+
+L1
+
+L4
+
+Spark plug
+
+L
+
+R2
+
+Retard
+breaker
+
+C1
+
+S3
+
+On
+
+C3
+
+L3
+
+Main
+breaker
+Starter solenoid
+
+R4
+
+L5
+
+T2
+
+Spark plug
+
+Right magneto
+Off
+
+S
+
+Figure 4-38. Low-tension retard breaker magneto and starting vibrator circuit.
+
+4-23
+
+===== PDF PAGE 183 =====
+open. However, current still flows to ground through the
+closed retard breaker points. As the engine continues to turn,
+the retard ignition position is reached, and the retard breaker
+points open. Since the main breaker points are still open,
+current must flow to ground through coil L4, producing a
+magnetic field around the coil L4.
+
+5/8"-24 Shielding
+barrel with connector
+
+3/4"-20 Shielding
+barrel with connector
+
+As the engine continues to turn, the vibrator breaker points
+open, collapsing the L4 magnetic field through T1 primary,
+inducing a high-voltage in the secondary of T1 to fire the
+spark plug.
+When the engine fires, the starter switch is released, deenergizing L1 and L3. This opens the vibrator circuit and
+retard breaker points circuit. The ignition switch is then
+turned to the both position, permitting the right magneto to
+operate in time with the left magneto.
+
+Spark Plugs
+The function of the spark plug in an ignition system is to
+conduct a short impulse of high-voltage current through
+the wall of the combustion chamber. Inside the combustion
+chamber, it provides an air gap across which the impulse
+can produce an electric spark to ignite the air-fuel charge.
+While the aircraft spark plug is simple in construction and
+operation, it can be the cause of malfunctions in aircraft
+engines. Despite this fact, spark plugs provide a great deal of
+trouble-free operation when properly maintained and when
+correct engine operating procedures are practiced.
+Spark plugs operate at extreme temperatures, electrical
+pressures, and very high cylinder pressures. A cylinder of an
+engine operating at 2,100 rpm must produce approximately
+17 separate and distinct high-voltage sparks that bridge the
+air gap of a single spark plug each second. This would appear
+as a continuous spark across the spark plug electrodes at
+temperatures of over 3,000 °F. At the same time, the spark
+plug is subjected to gas pressures as high as 2,000 pounds
+per square inch (psi) and electrical pressure as high as 20,000
+volts. Given the extremes that spark plugs must operate under,
+and the fact that the engine loses power if one spark does
+not occur correctly, proper function of a spark plug in the
+operation of the engine is imperative.
+The three main components of a spark plug are the electrode,
+insulator, and outer shell. [Figure 4-39] The outer shell,
+threaded to fit into the cylinder, is usually made of finely
+machined steel and is often plated to prevent corrosion from
+engine gases and possible thread seizure. Close-tolerance
+screw threads and a copper gasket prevent cylinder gas
+pressure from escaping around the plug. Pressure that might
+escape through the plug is retained by inner seals between the
+outer metal shell and the insulator, and between the insulator
+
+Outer shell
+Insulator
+
+Electrodes
+Figure 4-39. Spark plug cutaway.
+
+and the center electrode assembly. The other end is threaded
+to receive the ignition lead from the magneto. All-weather
+plugs form a seal between the lead and the plug that is water
+proof to prevent moisture from entering this connection.
+The insulator provides a protective core around the electrode.
+In addition to affording electrical insulation, the ceramic
+insulator core also transfers heat from the ceramic tip, or nose,
+to the cylinder. The insulator is made from aluminum oxide
+ceramic having excellent dielectric strength, high mechanical
+strength, and thermal conductivity. The types of spark plugs
+used in different engines vary in respect to heat range, reach,
+massive electrode, fine wire electrode (Iridium/platinum),
+or other characteristics of the installation requirements for
+different engines.
+The electrodes can be of several designs from massive
+electrodes or Nickel-base alloy to fine wire electrodes.
+[Figure 4-39 and 4-40] The massive electrode material has
+a lower melting point and is more susceptible to corrosion.
+The main differences include cost and length of service.
+Fine wire iridium and platinum electrodes have a very high
+melting point and are considered precious metals. Therefore,
+the cost of this type of spark plug is higher, but they have
+4-24
+
+===== PDF PAGE 184 =====
+Hot
+
+Cold
+
+Figure 4-41. Hot and cold spark plugs.
+
+Figure 4-40. Fine wire electrodes.
+
+a longer service life with increased performance. Fine wire
+spark plugs are more effective than massive electrode plugs
+because the size shields its own spark from some of the fuel
+air mixture. Less than efficient combustion occurs due to
+uneven ignition. The iridium electrode allows for a larger
+spark gap, which creates a more intense spark that increases
+performance. The spark gap of any electrode is vulnerable
+to erosion and the melting point of the electrode material.
+The heat range of a spark plug is a measure of its ability to
+transfer the heat of combustion to the cylinder head. The
+plug must operate hot enough to burn off carbon deposits,
+which can cause fouling, a condition where the plug no
+longer produces a spark across the electrodes, yet remain
+cool enough to prevent a pre-ignition condition. Spark plug
+pre-ignition is caused by plug electrodes glowing red hot as
+a glow plug, setting off the air-fuel mixture before the normal
+firing position. The length of the nose core is the principal
+factor in establishing the plug’s heat range. [Figure 4-41]
+Hot plugs have a long insulator nose that creates a long heat
+transfer path; cold plugs have a relatively short insulator
+to provide a rapid transfer of heat to the cylinder head.
+[Figure 4-41]
+
+or cold spark plugs, the plug used is determined by the
+compression ratio, the degree of supercharging, and how the
+engine is to be operated. High-compression engines tend to
+use colder range plugs while low-compression engines tend
+to use hot range plugs.
+A spark plug with the proper reach ensures that the electrode
+end inside the cylinder is in the best position to achieve
+ignition. The spark plug reach is the length of the threaded
+portion that is inserted in the spark plug bushing of the
+cylinder. [Figure 4-42] Spark plug seizure and/or improper
+combustion within the cylinder can occur if a plug with the
+wrong reach is used. In extreme cases, if the reach is too
+long, the plug may contact a piston or valve and damage
+the engine. If the plug threads are too long, they extend into
+the combustion chamber and carbon adheres to the threads
+making it almost impossible to remove the plug. This can
+also be a source of pre-ignition. Heat of combustion can make
+some of the carbon a source for ignition, which can ignite the
+air-fuel mixture prematurely. It is very important to select
+the approved spark plugs for the engine.
+
+If an engine were operated at only one speed, spark plug
+design would be greatly simplified. Because flight demands
+impose different loads on the engine, spark plugs must be
+designed to operate as hot as possible at slow speeds and light
+loads, and as cool as possible at cruise and takeoff power.
+The choice of spark plugs to be used in a specific aircraft
+engine is determined by the engine manufacturer after
+extensive tests. When an engine is certificated to use hot
+
+Reach
+
+Figure 4-42. Spark plug reach.
+
+4-25
+
+===== PDF PAGE 185 =====
+Reciprocating Engine Ignition System
+Maintenance & Inspection
+
+An aircraft’s ignition system is the result of careful design and
+thorough testing. The ignition system usually provides good,
+dependable service, provided it is maintained and inspected
+properly. However, difficulties can occur with normal wear,
+which affects ignition system performance, especially
+with magneto systems. Breakdown and deterioration of
+insulating materials, breaker point wear, corrosion, bearing
+and oil seal wear, and electrical connection problems are all
+possible defects that can be associated with magneto-ignition
+systems. The ignition timing requires precise adjustment and
+painstaking care so that the following four conditions occur
+at the same instant:
+1.
+
+The piston in the No. 1 cylinder must be in a position
+a prescribed number of degrees before top dead center
+on the compression stroke.
+
+2.
+
+The rotating magnet of the magneto must be in the
+E-gap position.
+
+3.
+
+The breaker points must be just opening on the No. 1
+cam lobe.
+
+4.
+
+The distributor finger must be aligned with the
+electrode serving the No. 1 cylinder.
+
+If one of these conditions is out of synchronization with any
+of the others, the ignition system is out of time. If the spark
+is out of time, it is not delivered to the cylinder at the correct
+time and engine performance decreases.
+When ignition in the cylinder occurs before the optimum
+crankshaft position is reached, the timing is said to be early.
+If ignition occurs too early, the piston rising in the cylinder
+is opposed by the full force of combustion. This condition
+results in a loss of engine power, overheating, and possible
+detonation and pre-ignition.
+If ignition occurs at a time after the optimum crankshaft
+position is reached, the ignition timing is said to be late. If it
+occurs too late, not enough time is allowed to consume the
+air-fuel charge, and combustion is incomplete. As a result,
+the engine loses power and requires a greater throttle opening
+to carry a given propeller load.
+Moisture forming on different parts of the ignition system
+causes more common irregularities. Moisture can enter
+ignition system units through cracks or loose covers, or it
+can result from condensation. Breathing, a situation that
+occurs during the readjustment of the system from low to
+high atmospheric pressure, can result in drawing in moistureladen air. Ordinarily, the heat of the engine is sufficient
+to evaporate this moisture, but occasionally the moist air
+condenses as the engine cools. The result is an appreciable
+
+moisture accumulation which causes the insulation materials
+to lose electrical resistance. A slight amount of moisture
+contamination may cause reduction in magneto output by
+short-circuiting to ground a part of the high-voltage current
+intended for the spark plug. If the moisture accumulation is
+appreciable, the entire magneto output may be dissipated to
+ground by way of flashover and carbon tracking. Moisture
+accumulation during flight is extremely rare because the high
+operating temperature of the system is effective in preventing
+condensation. Difficulties from moisture accumulation are
+probably more evident during starting and ground operation.
+Spark plugs are often diagnosed as being faulty when the real
+malfunction exists in a different system. Malfunctioning of
+the carburetor, poor fuel distribution, too much valve overlap,
+leaking primer system, or poor idle speed and mixture settings
+show symptoms that are the same as those for faulty ignition.
+Unfortunately, many of these conditions can be temporarily
+improved by a spark plug change, but the trouble recurs in a
+short time because the real cause of the malfunction has not
+been eliminated. A thorough understanding of the various
+engine systems, along with meticulous inspection and good
+maintenance methods, can substantially reduce such errors.
+
+Magneto-Ignition Timing Devices
+Built-In Engine Timing Reference Marks
+Most reciprocating engines have timing reference marks
+built into the engine. The timing reference marks vary by
+manufacturer. [Figure 4-43] When the starter gear hub is
+installed correctly, the timing marks are marked on it that
+line up with the mark on the starter. On an engine that has no
+starter gear hub, the timing mark is normally on the propeller
+flange edge. [Figure 4-44] The top center (TC) mark stamped
+on the edge aligns with the crankcase split line below the
+crankshaft when the No. 1 piston is at top dead center. Other
+flange marks indicate degrees before top center.
+Some engines have degree markings on the propeller
+reduction drive gear. To time these engines, the plug
+provided on the exterior of the reduction gear housing must
+be removed to view the timing marks. On other engines, the
+timing marks are on a crankshaft flange and can be viewed
+by removing a plug from the crankcase. In every case, the
+engine manufacturer’s instructions give the location of builtin timing reference marks.
+In using built-in timing marks to position the crankshaft, be
+sure to sight straight across the stationary pointer or mark on
+the nose section, the propeller shaft, crankshaft flange, or bell
+gear. [Figure 4-45] Sighting at an angle results in an error
+in positioning the crankshaft. Normally, the No. 1 cylinder
+is used to time or check the timing of the magnetos. When
+installing magnetos, the timing marks must be lined up and
+the No. 1 cylinder must be on the compression stroke.
+4-26
+
+===== PDF PAGE 186 =====
+Indexing groove
+
+20
+
+Number of degrees of crankshaft rotation is marked on
+the propeller hub
+Index mark is a
+dot on the starter
+
+Figure 4-43. Lycoming timing marks.
+
+Timing marks
+
+T C
+
+24
+
+32
+
+Figure 4-45. Typical built-in timing mark on propeller reduction
+
+gear.
+
+Split line
+
+T C
+
+24
+
+32
+
+Figure 4-44. Propeller flange timing marks.
+
+The amount of gear backlash in any system of gears varies
+between installations because there is clearance between
+the gear teeth. Always take timing when reading, or stop
+movement of the engine for timing set up, in the direction
+of rotation. Another unfavorable aspect in the use of timing
+marks on the reduction gear is the small error that exists when
+sighting down the reference mark to the timing mark inside
+the housing on the reduction gear. This can occur because
+there is depth between the two reference marks.
+
+Timing Discs
+Most timing disc devices are mounted to the crankshaft
+flange and use a timing plate. [Figure 4-46] The markings
+vary according to the specifications of the engine. This plate
+is temporarily installed on the crankshaft flange with a scale
+numbered in crankshaft degrees and the pointer attached to
+the timing disc.
+Piston Position Indicators
+Any given piston position, whether it is to be used for
+ignition, valve, or injection pump timing, is referenced to a
+piston position called top dead center. This piston position is
+not to be confused with a piston position called top center. A
+piston in top center has little value from a timing standpoint
+because the corresponding crankshaft position may vary
+from 1° to 5° for this piston position. This is illustrated in
+Figure 4-47, which is exaggerated to emphasize the no-travel
+zone of the piston. Notice that the piston does not move
+while the crankshaft describes the small arc from position A
+to position B. This no-travel zone occurs between the time
+the crankshaft and connecting rod stop pushing the piston
+upward, and continues until the crankshaft has swung the
+lower end of the connecting rod into a position where the
+crankshaft can start pulling the piston downward. Top dead
+center is a piston and crankshaft position from which all other
+piston and crankshaft locations are referenced. When a piston
+is in the top dead center position of the crankshaft, it is also
+in the center of the no-travel zone. The piston is in a position
+where a straight line can be drawn through the center of the
+crankshaft journal, the crankpin, and the piston pin. This is
+4-27
+
+===== PDF PAGE 187 =====
+TC
+
+is connected to the case of the magneto being tested. The
+other leads are connected to the primary leads of the breaker
+point assembly of the magnetos being timed. The color of the
+lead corresponds to the color of the light on the timing light.
+25°
+
+With the leads connected in this manner, it can be easily
+determined whether the points are open or closed by turning
+on the switch and observing the two lights. If the points are
+closed, most of the current flows through the breaker points
+and not through the transformers, and the lights do not come
+on. If the points are open, the current flows through the
+transformer and the lights glow. Some models of timing lights
+operate in the reverse manner (i.e., the light goes out when
+the points open). Each of the two lights is operated separately
+by the set of breaker points to which it is connected. This
+makes it possible to observe the time, or point in reference to
+magneto rotor rotation, that each set of points opens.
+
+Figure 4-46. A timing plate and pointer.
+
+Top center
+
+A
+
+Top dead center
+
+Most timing lights use batteries that must be replaced after
+long use. Attempts to use a timing light with weak batteries
+may result in erroneous readings because of low current flow
+in the circuits.
+
+B
+
+Crankshaft moves about 8° without moving piston
+Figure 4-47. Difference between top center and top dead center.
+
+shown on the right of Figure 4-47. With such an alignment,
+a force applied to the piston could not move the crankshaft.
+Timing Lights
+Timing lights are used to help determine the exact instant
+that the magneto points open. There are two general types
+of timing lights in common use. Both have two lights and
+three external wire connections. Although both have internal
+circuits that are somewhat different, their function is very
+much the same. [Figures 4-48 and 4-49]
+Three wires plug into the light box. [Figure 4-49] There are
+two lights on the front face of the unit, one green and one
+red, and a switch to turn the unit on and off. To use the timing
+light, the center lead, which is black, marked “ground lead”
+
+Figure 4-48. E50 Magneto Synchronizer.
+
+Figure 4-49. Timing light.
+
+4-28
+
+===== PDF PAGE 188 =====
+Checking the Internal Timing of a Magneto
+
+Red marks visible through vent hole must align
+
+When replacing or preparing a magneto for installation,
+the first concern is with the internal timing of the magneto.
+For each magneto model, the manufacturer determines how
+many degrees beyond the neutral position a pole of the rotor
+magnet should be to obtain the strongest spark at the instant
+of breaker point separation. This angular displacement from
+the neutral position, known as the E-gap angle, varies with
+different magneto models. On one model, a step is cut on
+the end of the breaker cam to check internal timing of the
+magneto. When a straightedge is laid along this step and it
+coincides with the timing marks on the rim of the breaker
+housing, the magneto rotor is then in the E-gap position, and
+the breaker contact points should just begin to open.
+Another method for checking E-gap is to align a timing
+mark with a pointed chamfered tooth. [Figure 4-50] The
+breaker points should be just starting to open when these
+marks line up.
+In a third method, the E-gap is correct when a timing pin is
+in place and red marks visible through a vent hole in the side
+of the magneto case are aligned. [Figure 4-51] The contact
+points should be just opening when the rotor is in the position
+just described.
+
+Timing pin
+Figure 4-51. Checking magneto E-gap.
+
+High-Tension Magneto E-Gap Setting (Bench
+Timing)
+The following steps are taken to check and adjust the timing
+of the breaker points for the S-200 magneto, which does not
+have timing marks in the breaker compartment:
+1.
+
+Remove the timing inspection plug from the top of
+the magneto. Turn the rotating magnet in its normal
+direction of rotation until the painted, chamfered tooth
+on the distributor gear is approximately in the center
+of the inspection window. Then, turn the magnet back
+a few degrees until it is in its neutral position. Because
+of its magnetism, the rotating magnet holds itself in
+the neutral position.
+
+2.
+
+Install the timing kit and place the pointer in the zero
+position. [Figure 4-52]
+
+3.
+
+Connect a suitable timing light across the main breaker
+points and turn the magnet in its normal direction of
+rotation 10° as indicated by the pointer. This is the
+E-gap position. The main breaker points should be
+adjusted to open at this point.
+
+4.
+
+Turn the rotating magnet until the cam follower is
+at the highpoint on the cam lobe, and measure the
+clearance between the breaker points. This clearance
+must be 0.018 inch ± 0.006 inch [0.46 millimeter
+(mm) ± 0.15 mm]. If the breaker point clearance is
+not within these limits, the points must be adjusted
+for correct setting. It is then necessary to recheck and
+readjust the timing for breaker opening. If the breaker
+points cannot be adjusted to open at the correct time,
+they should be replaced.
+
+Bench timing the magneto, or setting the E-gap, involves
+positioning the magneto rotor at the E-gap position and
+setting the breaker points to open when the timing lines or
+marks provided for that purpose are perfectly aligned.
+
+Chamfered tooth
+
+Timing mark
+
+Figure 4-50. Timing marks indicate the number one firing position
+
+of a magneto.
+
+4-29
+
+===== PDF PAGE 189 =====
+Figure 4-53. Timing marks aligned.
+
+Figure 4-52. Installing timing kit.
+
+Timing the High-tension Magneto to the Engine
+When replacing magnetos on aircraft engines, two factors
+must be considered:
+1.
+
+The internal timing of the magneto, including breaker
+point adjustment, which must be correct to obtain
+maximum potential voltage from the magneto.
+
+2.
+
+The engine crankshaft position where the spark occurs.
+The engine is usually timed by using the No. 1 cylinder
+on the compression stroke.
+
+The magneto must be timed by first adjusting or checking the
+internal timing with the magneto off the engine. This is done
+by checking and adjusting the ignition points to open at the
+E-gap position. The chamfered tooth should line up (reference
+timing mark for the magneto) in the middle of the timing
+window. The magneto is set to fire the No. 1 cylinder. Remove
+the most accessible spark plug from the No. 1 cylinder. Pull
+the propeller through in the direction of rotation until the No.
+1 piston is coming up on the compression stroke. This can be
+determined by holding a thumb over the spark plug hole until
+the compression air is felt. Set the engine crankshaft at the
+prescribed number of degrees ahead of true top dead center
+as specified in the applicable manufacturer’s instruction,
+usually using the timing marks on the engine. With the engine
+set at a prescribed number of degrees ahead of true top dead
+center on the compression stroke and with final movement
+of the engine stopped in the direction of normal rotation,
+the magneto can be installed on the engine. [Figure 4-53]
+While holding the magneto drive in the firing position for the
+No. 1 cylinder as indicated by the alignment of the reference
+marks for the magneto, install the magneto drive into the
+
+engine drive. It should be installed in the middle of its slotted
+flange to allow for fine timing of the magneto to the engine.
+Attach a timing light to both magnetos. With the engine
+still in the firing position, the magnetos should be timed by
+moving them in the flange slots until the breaker points in the
+magneto just open. If the slots in the mounting flange of the
+magneto do not permit sufficient movement to effect breaker
+point opening for the No. 1 cylinder, move the magneto out
+of position far enough to permit turning the magneto drive
+shaft. Then, install the magneto in position again and repeat
+the previous check for point opening.
+Install the magneto attaching nuts on the studs and tighten
+slightly. The nuts must not be tight enough to prevent the
+movement of the magneto assembly when the magneto
+mounting flange is tapped with a mallet. Reconnect the timing
+light to the magneto and breaker points. With the light and
+ignition switch turned on, rotate the magneto assembly first
+in the direction of rotation and then in the opposite direction.
+This is done to determine that the points just opened. After
+completing this adjustment, tighten the mounting nuts. Move
+the propeller one blade opposite the direction of rotation and
+then, while observing the timing light, move the propeller
+in the direction of rotation until the prescribed number of
+degrees ahead of top dead center is reached. Be sure that the
+lights for both sets of points come on points open, within the
+prescribed timing position.
+Both right and left sets of breaker points should open at the
+same instant, proper magneto-to-engine timing exists, and all
+phases of magneto operation are synchronized. Some early
+engines had what was referred to as staggered timing where
+one magneto would fire at a different number of degrees
+before top dead center on the compression stroke. In this
+case, each magneto had to be timed separately. If staggered
+ignition timing is used, the spark plug nearest the exhaust
+valve will fire first.
+4-30
+
+===== PDF PAGE 190 =====
+In the following example, a timing light is used for timing the
+magneto to the engine. The timing light is designed in such
+a way that one of two lights come on when the points open.
+The timing light incorporates two lights. When connecting
+the timing light to the magneto, the leads should be connected
+so that the light on the right side of the box represents the
+breaker points on the right magneto, and the light on the left
+side represents the left magneto breaker points. The black lead
+or ground lead must be attached to the engine or an effective
+ground. When using the timing light to check a magneto in a
+complete ignition system installed on the aircraft, the ignition
+switch for the engine must be turned to both. Otherwise, the
+lights do not indicate breaker point opening.
+Performing Ignition System Checks
+The ignition system has checks performed on it during the
+aircraft engine run-up, which is the engine check before
+each flight. The magneto check, as it is usually referred to,
+is performed during the engine run-up check list.
+One other check is accomplished prior to engine shutdown.
+The ignition system check is used to check the individual
+magnetos, harnesses, and spark plugs. After reaching the
+engine rpm specified for the ignition system check, allow the
+rpm to stabilize. Place the ignition switch in the right position
+and note the rpm drop on the tachometer. Return the switch
+to the both position. Allow the switch to remain in the both
+position for a few seconds so that the rpm stabilizes again.
+Place the ignition switch in the left position and again note the
+rpm drop. Return the ignition switch to the both position. Note
+the amount of total rpm drop that occurs for each magneto
+position. The magneto drop should be even for both magnetos
+and is generally in the area of a 25–75 rpm drop for each
+magneto. Always refer to the aircraft operating manual for
+specific information. This rpm drop is because operating on
+one magneto combustion is not as efficient as it is with two
+magnetos providing sparks in the cylinder.
+Remember, this tests not only the magnetos but also the
+ignition leads and spark plugs. If either magneto has
+excessive rpm drop while operating by itself, the ignition
+system needs to be checked for problems. If only one
+magneto has a high magneto drop, the problem can be
+isolated and corrected by operating on that magneto. This
+ignition system check is usually performed at the beginning
+of the engine run-up because rpm drops not within the
+prescribed limits affect later checks.
+Ignition Switch Check
+The ignition switch check is performed to see that all
+magneto ground leads are electrically grounded. The
+ignition switch check is usually made at 700 rpm. On those
+
+aircraft engine installations that do not idle at this low rpm,
+set the engine speed to the lowest possible to perform this
+check. When the speed to perform this check is obtained,
+momentarily turn the ignition switch to the off position.
+The engine should completely quit firing. After a drop of
+200–300 rpm is observed, return the switch to the both
+position as rapidly as possible. Do this quickly to eliminate
+the possibility of afterfire and backfire when the ignition
+switch is returned to both.
+If the ignition switch is not returned quickly enough, the
+engine rpm drops off completely and the engine stops. In
+this case, leave the ignition switch in the off position and
+place the mixture control in the idle-cutoff position to avoid
+overloading the cylinders and exhaust system with raw fuel.
+When the engine has completely stopped, allow it to remain
+inoperative for a short time before restarting.
+If the engine does not cease firing in the off position, the
+magneto ground lead, more commonly referred to as the P
+lead, is open, and the trouble must be corrected. This means
+that one or more of the magnetos are not being shut off even
+when the ignition switch is in the off position. Turning the
+propeller of this engine can result in personnel injury or
+death. If the propeller is turned in this condition, the engine
+can start with personnel in the propeller arch.
+Maintenance & Inspection of Ignition Leads
+Inspection of ignition leads should include both a visual
+and an electrical test. During the visual test, the lead cover
+should be inspected for cracks or other damage, abrasions,
+mutilated braid, or other physical damage. Inspect leads for
+overheating if routed close to exhaust stacks. Disconnect the
+harness coupling nuts from the top of the spark plugs and
+remove the leads from the spark plug lead well. Inspect the
+contact springs and compression springs for any damage
+or distortion and the sleeves for cracks or carbon tracking.
+The coupling nut that connects to the spark plug should be
+inspected for damaged threads or other defects.
+Each lead should be checked for continuity using a hightension lead tester by connecting the black lead to the contact
+spring and the red lead to the eyelet of the same lead in the
+cover. The continuity lamp on the tester should illuminate
+when tested. The insulation resistance test of each lead is
+accomplished using the high-tension lead tester by attaching
+the red, or high-voltage, lead to the spring of the harness
+lead. Then, attach the black lead to the ferrule of the same
+lead. Depress the press-to-test push button switch on the lead
+tester. Observe that the indictor lamp flashes and gap fires
+simultaneously as long as the press-to-test switch is held in
+the depressed position.
+
+4-31
+
+===== PDF PAGE 191 =====
+If the indicator lamp flashes and the gap fails to fire, the lead
+under test is defective and must be replaced. The indicator
+lamp flashes to show that a high-voltage impulse was sent
+out. If it fails to pass through the tester, then the electrical
+pulse leaked through the wire showing it to be defective.
+When defective leads are revealed by an ignition harness test,
+continue the test to determine whether the leads or distributor
+block are defective. If the difficulty is in an individual ignition
+lead, determine whether the electrical leak is at the spark plug
+elbow or elsewhere. Remove the elbow, pull the ignition lead
+out of the manifold a slight amount, and repeat the harness
+test on the defective lead. If this stops the leakage, cut away
+the defective portion of the lead and reinstall the elbow
+assembly, integral seal, and terminal (sometimes referred to
+as cigarette). [Figure 4-54] When installing the leads, you
+should avoid bends because weak points may develop in
+the insulation through which high-tension current can leak.
+
+the distributor block end of the defective lead and
+approximately 1 inch of insulation from the end of
+the replacement cable. Splice this end to the end of
+the lead to be replaced and solder the splice.
+4.
+
+Remove the elbow adapter from the spark plug end
+of the defective lead, then pull the old lead out and
+put the new lead into the harness. While pulling the
+leads through the harness, have someone push the
+replacement lead into the ignition manifold at the
+distributor end to reduce the force required to pull the
+lead through the ignition manifold.
+
+5.
+
+When the replacement lead has been pulled completely
+through the manifold, force the ignition lead up into
+the manifold from the distributor block end to provide
+extra length for future repairs, which may be necessary
+because of chafing at the spark plug elbow.
+
+6.
+
+Remove approximately 3⁄8 inch of insulation from
+the distributor block end. Bend the ends of the wire
+back and prepare the ends of the cable for installation
+into the distributor block well. Insert the lead in the
+distributor and tighten the piercing screw.
+
+7.
+
+Remove approximately ¼ inch of insulation from
+the spark plug end of the lead and install the elbow,
+integral seal, and cigarette. [Figure 4-54]
+
+8.
+
+Install a marker on the distributor end of the cable to
+identify its cylinder number. If a new marker is not
+available, use the marker removed from the defective
+cable.
+
+If the lead is too short to repair in the manner described, or the
+electrical leak is inside the harness, replace the defective lead.
+Single ignition lead replacement procedures are as follows:
+1.
+
+Disassemble the magneto or distributor so that the
+distributor block is accessible.
+
+2.
+
+Loosen the piercing screw in the distributor block for
+the lead to be replaced, and remove the lead from the
+distributor block.
+
+3.
+
+Remove approximately 1 inch of insulation from
+
+5mm ferrule
+
+Elbow
+
+5mm ignition cable
+
+Seal
+For distributor blocks with 5mm wells
+
+7mm sleeve
+
+5mm ferrule
+
+Terminal
+sleeve
+assembly
+
+5mm ignition cable
+
+For distributor blocks with 7mm wells
+
+Protector cap
+
+Figure 4-54. Replacement procedure for ignition lead terminals.
+
+4-32
+
+===== PDF PAGE 192 =====
+Replacement of Ignition Harness
+Replace a complete ignition harness only when the
+shielding of the manifold is damaged or when the number
+of defective leads makes it more practical to replace the
+harness than to replace the individual leads. Replace a castfilled harness only when leakage in the cast-filled portion
+is indicated. Before replacing any harness to correct engine
+malfunctioning, make extensive ignition harness tests.
+Typical procedures for installing an ignition harness are
+detailed in the following paragraphs.
+
+battery switch is on. Since the induction vibrator buzzes
+whether the ignition switch is on or off, leave the switch off
+during the check. If the engine is equipped with an inertia or
+combination starter, make the check by closing the engage
+mesh switch; if the engine is equipped with a direct-cranking
+starter, see that the propeller is clear and close the start switch.
+An assistant stationed close to the induction vibrator should
+listen for an audible buzzing sound. If the unit buzzes when
+the starter is engaged or cranked, the induction vibrator is
+operating properly.
+
+Install the ignition harness on the engine. Tighten and safety
+the hold down nuts and bolts and install and tighten the
+individual lead brackets according to instructions. The ignition
+harness is then ready for connection of the individual leads
+to the distributor block. A band is attached to each lead at the
+distributor end of the harness to identify the cylinder for the
+lead. However, each lead should be checked individually with
+a continuity or timing light prior to connecting it.
+
+Spark Plug Inspection & Maintenance
+
+Check for continuity by grounding the lead at the cylinder
+and then checking at the distributor block end to establish that
+the lead grounded is as designated on the band for the lead.
+After checking all leads for proper identification, cut them
+to the proper length for installation into the distributor
+block. Before cutting the leads, however, force them back
+into the manifold as far as possible to provide surplus wire
+in the ignition manifold. This extra wire may be needed at
+a later date in the event that chafing of a lead at the spark
+plug elbow necessitates cutting a short section of wire from
+the spark plug end of the harness. After cutting each lead to
+length, remove approximately 3⁄8 inch of insulation from the
+end and prepare the lead for insertion into the distributor
+block. Before installing the lead, back out the set screw in
+the distributor block far enough to permit slipping the end of
+the wire into the hole without force. Insert the lead into the
+block and tighten the set screw. Connect the wires in firing
+order (the first cylinder to fire No. 1 location on the block,
+the second in the firing order to No. 2 location, etc).
+
+Carbon Fouling of Spark Plugs
+Carbon fouling from fuel is associated with mixtures that
+are too rich to burn or mixtures that are so lean they cause
+intermittent firing. [Figure 4-55] Each time a spark plug does
+not fire, raw fuel and oil collect on the nonfiring electrodes
+and nose insulator. These difficulties are almost invariably
+associated with an improper idle mixture adjustment, a
+leaking primer, or carburetor malfunctions that cause too rich
+a mixture in the idle range. A rich air-fuel mixture is detected
+by soot or black smoke coming from the exhaust and by an
+increase in rpm when the idling air-fuel mixture is leaned
+to best power. The soot that forms as a result of overly rich
+idle air-fuel mixtures settles on the inside of the combustion
+chamber because the heat of the engine and the turbulence
+
+Spark plug operation can often be a major source of engine
+malfunctions because of lead, oil, graphite, carbon fouling,
+and spark plug gap erosion. Most of these failures, which
+usually accompany normal spark plug operation, can be
+minimized by good operational and maintenance practices.
+A spark plug is considered fouled if it has stopped allowing
+the spark to bridge the gap either completely or intermittently.
+
+After connecting each lead, check continuity between the
+lead and its distributor block electrode with continuity light
+or timing light. To perform one test lead, touch the other test
+lead to the proper distributor block electrode. If the light does
+not indicate a complete circuit, the set screw is not making
+contact with the ignition wire or the lead is connected to the
+wrong block location. Correct any faulty connections before
+installing the distributor block.
+Checking Ignition Induction Vibrator Systems
+To check the induction vibrator, ensure that the manual
+mixture control is in idle cutoff, the fuel shutoff valve and
+booster pump for that engine are in the off position, and the
+
+Figure 4-55. Carbon fouled spark plug.
+
+4-33
+
+===== PDF PAGE 193 =====
+in the combustion chamber are slight. At higher engine
+speeds and powers, however, the soot is swept out and does
+not condense out of the charge in the combustion chamber.
+Oil Fouling of Spark Plugs
+Even though the idling air-fuel mixture is correct, there is a
+tendency for oil to be drawn into the cylinder past the piston
+rings, valve guides, and impeller shaft oil seal rings. At low
+engine speeds, the oil combines with the soot in the cylinder
+to form a solid that is capable of shorting out the spark plug.
+Spark plugs that are wet or covered with lubricating oil are
+usually grounded out during the engine start. In some cases,
+these plugs may clear up and operate properly after a short
+period of engine operation.
+Engine oil that has been in service for any length of time
+holds in suspension minute carbon particles that are capable
+of conducting an electric current. Thus, a spark plug will not
+arc the gap between the electrodes when the plug is full of
+oil. Instead, the high-voltage impulse flows through the oil
+from one electrode to the other without a spark as though
+a wire conductor were placed between the two electrodes.
+Combustion in the affected cylinder does not occur until, at
+a higher rpm, increased airflow has carried away the excess
+oil. Then, when intermittent firing starts, combustion assists
+in emitting the remaining oil. In a few seconds, the engine is
+running clean with white fumes of evaporating and burning
+oil coming from the exhaust.
+
+Figure 4-56. Lead fouled spark plug.
+
+Lead Fouling of Spark Plugs
+Lead fouling of aviation spark plugs is a condition likely
+to occur in any engine using leaded fuels. Lead is added
+to aviation fuel to improve its anti-knock qualities. The
+lead, however, has the undesirable effect of forming lead
+oxide during combustion. This lead oxide forms as a solid
+with varying degrees of hardness and consistency. Lead
+deposits on combustion chamber surfaces are good electrical
+conductors at high temperatures and cause misfiring. At low
+temperatures, the same deposits may be good insulators. In
+either case, lead formations on aircraft spark plugs prevent
+their normal operation. [Figure 4-56] To minimize the
+formation of lead deposits, ethylene dibromide is added to
+the fuel as a scavenging agent that combines with the lead
+during combustion.
+
+If lead fouling is detected before the spark plugs become
+completely fouled, the lead can usually be eliminated
+or reduced by either a sharp rise or a sharp decrease in
+combustion temperature. This imposes a thermal shock on
+cylinder parts, causing them to expand or contract. Since
+there is a different rate of expansion between deposits and
+metal parts on which they form, the deposits chip off or are
+loosened and then scavenged from the combustion chamber
+by the exhaust or are burned in the combustion process.
+
+Lead fouling may occur at any power setting, but perhaps the
+power setting most conducive to lead fouling is cruising with
+lean mixtures. At this power, the cylinder head temperature
+is relatively low and there is more oxygen than needed to
+consume all the fuel in the air-fuel mixture. Oxygen, when
+hot, is very active and aggressive. When all the fuel has
+been consumed, some of the excess oxygen unites with
+some of the lead and some of the scavenger agent to form
+
+oxygen compounds of lead or bromine or both. Some of
+these undesirable lead compounds solidify and build up
+in layers as they contact the relatively cool cylinder walls
+and spark plugs. Although lead fouling may occur at any
+power setting, experience indicates that the lead buildup
+is generally confined to a specific combustion temperature
+range. Combustion temperatures outside this specific range
+minimize the lead fouling tendency.
+
+Several methods of producing thermal shock to cylinder
+parts are used. The method used depends on the accessory
+equipment installed on the engine. A sharp rise in combustion
+temperatures can be obtained on all engines by operating
+them at full takeoff power for approximately 1 minute.
+When using this method to eliminate fouling, the propeller
+control must be placed in low pitch, or high rpm, and the
+throttle advanced slowly to produce takeoff rpm and manifold
+pressure. Slow movement of the throttle control provides
+reasonable freedom from backfiring in the affected cylinders
+during the application of power.
+
+4-34
+
+===== PDF PAGE 194 =====
+Another method of producing thermal shock is the use of
+excessively rich air-fuel mixtures. This method suddenly
+cools the combustion chamber because the excess fuel does
+not contribute to combustion; instead, it absorbs heat from
+the combustion area. Some carburetor installations use twoposition manual mixture controls that provide a lean mixture
+setting for cruising economy and a richer mixture setting for
+all powers above cruising. Neither manual mixture control
+setting in this type of configuration is capable of producing
+an excessively rich air-fuel mixture. Even when the engine
+is operated in auto-rich at powers where an auto-lean setting
+would be entirely satisfactory, the mixture is not rich enough.
+Graphite Fouling of Spark Plugs
+As a result of careless and excessive application of thread
+lubricant, called antiseize compound, to the spark plug, the
+lubricant flows over the electrodes and causes shorting.
+Shorting occurs because graphite is a good electrical
+conductor. The elimination of service difficulties caused
+by graphite is up to the aircraft technician. Use care when
+applying the lubricant to make certain that smeared fingers,
+shop towels, or brushes do not contact the electrodes or any
+part of the ignition system except the spark plug threads.
+Never apply to the first set of threads.
+Gap Erosion of Spark Plugs
+Erosion of the electrodes takes place in all aircraft spark
+plugs as the spark jumps the air gap between the electrodes.
+[Figure 4-57]
+The spark carries with it a portion of the electrode, part of
+which is deposited on the other electrode. The remainder
+is blown off in the combustion chamber. As the airgap
+is enlarged by erosion, the resistance that the spark must
+
+overcome in jumping the air gap also increases. This means
+that the magneto must produce a higher voltage to overcome
+the higher resistance. With higher voltages in the ignition
+system, a greater tendency exists for the spark to discharge
+at some weak insulation point in the ignition system. Since
+the resistance of an air gap also increases as the pressure
+in the engine cylinder increases, a double danger exists at
+takeoff and during sudden acceleration with enlarged airgaps.
+Insulation breakdown, premature flashover, and carbon
+tracking result in misfiring of the spark plug and go hand in
+hand with excessive spark plug gap. Wide gap settings also
+raise the coming in speed of a magneto and therefore cause
+hard starting.
+Spark plug manufacturers have partially overcome the
+problem of gap erosion by using a hermetically sealed resistor
+in the center electrode of spark plugs. This added resistance
+in the high-tension circuit reduces the peak current at the
+instant of firing. This reduced current flow helps prevent
+metal disintegration in the electrodes. Also, due to the high
+erosion rate of steel or any of its known alloys, spark plug
+manufacturers are using tungsten or an alloy of nickel for
+their massive electrode plugs and iridium/platinum plating
+for their fine wire electrode plugs.
+Spark Plug Removal
+Spark plugs should be removed for inspection and servicing
+at the intervals recommended by the manufacturer. Since the
+rate of gap erosion varies with different operating conditions,
+engine models, and type of spark plug, engine malfunction
+traceable to faulty spark plugs may occur before the regular
+servicing interval is reached. Normally, in such cases, only
+the faulty plugs are replaced.
+Since spark plugs can be easily damaged, careful handling
+of the used and replacement plugs during installation
+and removal of spark plugs from an engine cannot be
+overemphasized. To prevent damage, spark plugs should
+always be handled individually and new and reconditioned
+plugs should be stored in separate cartons. A common method
+of storage is illustrated in Figure 4-58. This is a drilled tray,
+which prevents the plugs from bumping against one another
+and damaging the fragile insulators and threads. Additionally,
+the tray helps identify where the spark plug came from and
+its proper rotation. If a plug is dropped on the floor or other
+hard surface, it should not be installed in an engine, since
+the shock of impact usually causes small, invisible cracks
+in the insulators. A dropped spark plug should be discarded.
+
+Figure 4-57. Spark plug gap erosion.
+
+Before a spark plug can be removed, the ignition harness lead
+must be disconnected. Using the special spark plug coupling
+elbow wrench, loosen and remove the spark plug to elbow
+coupling nut from the spark plug. Take care to pull the lead
+4-35
+

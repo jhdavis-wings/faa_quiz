@@ -1,0 +1,1559 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 1 (Aircraft Engines), PDF pages 38-54
+
+===== PDF PAGE 38 =====
+Valve Construction
+The valves in the cylinders of an aircraft engine are subjected
+to high temperatures, corrosion, and operating stresses; thus,
+the metal alloy in the valves must be able to resist all these
+factors. Because intake valves operate at lower temperatures
+than exhaust valves, they can be made of chromic-nickel
+steel. Exhaust valves are usually made of nichrome,
+silchrome, or cobalt-chromium steel because these materials
+are much more heat resistant.
+The valve head has a ground face that forms a seal against
+the ground valve seat in the cylinder head when the valve is
+closed. The face of the valve is usually ground to an angle
+of either 30° or 45°. In some engines, the intake-valve face
+is ground to an angle of 30°, and the exhaust-valve face is
+ground to a 45° angle. Valve faces are often made more
+durable by the application of a material called stellite. About
+1
+⁄16 inch of this alloy is welded to the valve face and ground
+to the correct angle. Stellite is resistant to high-temperature
+corrosion and also withstands the shock and wear associated
+with valve operation. Some engine manufacturers use a
+nichrome facing on the valves. This serves the same purpose
+as the stellite material.
+
+the valve guide installed in the cylinder head for this purpose.
+[Figure 1-21] The valve stem is surface hardened to resist wear.
+The neck is the part that forms the junction between the head
+and the stem. The tip of the valve is hardened to withstand the
+hammering of the valve rocker arm as it opens the valve. A
+machined groove on the stem near the tip receives the split-ring
+stem keys. These stem keys form a lock ring to hold the valve
+spring retaining washer in place. [Figure 1-22]
+Some intake and exhaust valve stems are hollow and
+partially filled with metallic sodium. This material is used
+because it is an excellent heat conductor. The sodium melts
+at approximately 208 °F and the reciprocating motion of
+the valve circulates the liquid sodium, allowing it to carry
+away heat from the valve head to the valve stem where it
+is dissipated through the valve guide to the cylinder head
+and the cooling fins. Thus, the operating temperature of the
+valve may be reduced as much as 300° to 400 °F. Under
+no circumstances should a sodium-filled valve be cut open
+
+The valve stem acts as a pilot for the valve head and rides in
+
+Hardened tip
+
+Sodium chamber
+
+Large stem
+Small stem
+Face
+
+Figure 1-21. View of valve guide installed on a cylinder head.
+Neck
+Head
+
+Hollow-head
+mushroom type
+
+Mushroom type
+
+Tulip type
+
+Tulip type
+
+Semi-tulip type
+
+Tulip type
+Figure 1-22. Stem keys forming a lock ring to hold valve spring
+
+Figure 1-20. Various valve types.
+
+retaining washers in place.
+
+1-17
+
+===== PDF PAGE 39 =====
+or subjected to treatment which may cause it to rupture.
+Exposure of the sodium in these valves to the outside air
+results in fire or explosion with possible personal injury.
+
+Adjusting screw
+
+Rocker arm
+Roller
+
+Lock screw
+
+The most commonly used intake valves have solid stems,
+and the head is either flat or tulip shaped. Intake valves for
+low-power engines are usually flat headed. In some engines,
+the intake valve may be the tulip type and have a smaller stem
+than the exhaust valve or it may be similar to the exhaust
+valve but have a solid stem and head. Although these valves
+are similar, they are not interchangeable since the faces of the
+valves are constructed of different material. The intake valve
+usually has a flat milled on the tip to identify it.
+
+Push rod tube
+Valve spring
+Port
+Seat
+Return oil
+
+Valve Operating Mechanism
+For a reciprocating engine to operate properly, each valve
+must open at the proper time, stay open for the required
+length of time, and close at the proper time. Intake valves
+are opened just before the piston reaches top dead center,
+and exhaust valves remain open after top dead center. At
+a particular instant, therefore, both valves are open at the
+same time (end of the exhaust stroke and beginning of the
+intake stroke). This valve overlap permits better volumetric
+efficiency and lowers the cylinder operating temperature.
+This timing of the valves is controlled by the valve-operating
+mechanism and is referred to as the valve timing.
+The valve lift (distance that the valve is lifted off its seat) and
+the valve duration (length of time the valve is held open) are
+both determined by the shape of the cam lobes. Typical cam
+lobes are illustrated in Figure 1-23. The portion of the lobe
+that gently starts the valve operating mechanism moving is
+called a ramp, or step. The ramp is machined on each side of
+
+Valve guide
+
+Tappet
+Case
+Pressure oil
+Cam roller
+Cam ring
+Tappet guide
+Cam lobe
+
+Cam track
+
+Figure 1-24. Valve-operating mechanism (radial engine).
+
+Camshaft
+
+Cam ramps
+
+Figure 1-23. Typical cam lobes.
+
+the cam lobe to permit the rocker arm to be eased into contact
+with the valve tip and thus reduce the shock load which would
+otherwise occur. The valve operating mechanism consists of a
+cam ring or camshaft equipped with lobes that work against a
+cam roller or a cam follower. [Figures 1-24 and 1-25] The cam
+follower pushes a push rod and ball socket, actuating a rocker
+arm, which in turn opens the valve. Springs, which slip over
+the stem of the valves and are held in place by the valve-spring
+retaining washer and stem key, close each valve and push the
+valve mechanism in the opposite direction. [Figure 1-26]
+Cam Rings
+The valve mechanism of a radial engine is operated by one or
+two cam rings, depending upon the number of rows of cylinders.
+In a single-row radial engine, one ring with a double cam
+track is used. One track operates the intake valves, the other
+1-18
+
+===== PDF PAGE 40 =====
+Push rod
+
+Tappet
+Camshaft
+
+Valve spring
+
+Figure 1-25. Valve-operating mechanism (opposed engine).
+
+operates the exhaust valves. The cam ring is a circular piece of
+steel with a series of cams or lobes on the outer surface. The
+surface of these lobes and the space between them (on which
+the cam rollers ride) is known as the cam track. As the cam ring
+revolves, the lobes cause the cam roller to raise the tappet in the
+tappet guide, thereby transmitting the force through the push
+rod and rocker arm to open the valve. In a single-row radial
+engine, the cam ring is usually located between the propeller
+reduction gearing and the front end of the power section. In a
+twin-row radial engine, a second cam for the operation of the
+valves in the rear row is installed between the rear end of the
+power section and the supercharger section.
+The cam ring is mounted concentrically with the crankshaft
+and is driven by the crankshaft at a reduced rate of speed
+
+Figure 1-26. A typical set of valve springs used to dampen
+
+oscillations. Multiple springs are used to protect against breakage.
+
+through the cam intermediate drive gear assembly. The cam
+ring has two parallel sets of lobes spaced around the outer
+periphery, one set (cam track) for the intake valves and the
+other for the exhaust valves. The cam rings used may have
+four or five lobes on both the intake and the exhaust tracks.
+The timing of the valve events is determined by the spacing
+of these lobes and the speed and direction at which the cam
+rings are driven in relation to the speed and direction of the
+crankshaft. The method of driving the cam varies on different
+makes of engines. The cam ring can be designed with teeth
+on either the inside or outside periphery. If the reduction
+gear meshes with the teeth on the outside of the ring, the
+cam turns in the direction of rotation of the crankshaft. If the
+ring is driven from the inside, the cam turns in the opposite
+direction from the crankshaft. [Figure 1-24]
+A four-lobe cam may be used on either a seven-cylinder or
+nine-cylinder engine. [Figure 1-27] On the seven cylinder,
+it rotates in the same direction as the crankshaft, and on the
+nine cylinder, opposite the crankshaft rotation. On the ninecylinder engine, the spacing between cylinders is 40° and
+the firing order is 1-3-5-7-9-2-4-6-8. This means that there
+is a space of 80° between firing impulses. The spacing on
+the four lobes of the cam ring is 90°, which is greater than
+the spacing between impulses. Therefore, to obtain proper
+relation of valve operations and firing order, it is necessary
+to drive the cam opposite the crankshaft rotation. Using the
+four-lobe cam on the seven-cylinder engine, the spacing
+between the firing of the cylinders is greater than the spacing
+of the cam lobes. Therefore, it is necessary for the cam to
+rotate in the same direction as the crankshaft.
+1-19
+
+===== PDF PAGE 41 =====
+Number
+of Lobes
+
+Speed
+
+Number
+of Lobes
+
+Speed
+
+9 Cylinders
+
+Speed
+
+7 Cylinders
+
+Number
+of Lobes
+
+5 Cylinders
+
+3
+2
+
+1/6
+1/4
+
+4
+3
+
+1/8
+1/6
+
+5
+4
+
+1/10
+1/8
+
+Direction
+of Rotation
+
+with crankshaft
+opposite crankshaft
+
+Figure 1-27. Radial engines, cam ring table.
+
+Camshaft
+The valve mechanism of an opposed engine is operated by a
+camshaft. The camshaft is driven by a gear that mates with
+another gear attached to the crankshaft. [Figure 1-28] The
+camshaft always rotates at one-half the crankshaft speed. As
+the camshaft revolves, the lobes cause the tappet assembly
+to rise in the tappet guide, transmitting the force through the
+push rod and rocker arm to open the valve. [Figure 1-29]
+Tappet Assembly
+The tappet assembly consists of:
+1.
+
+A cylindrical tappet, which slides in and out in a tappet
+guide installed in one of the crankcase sections around
+the cam ring;
+
+2.
+
+A tappet roller, which follows the contour of the cam
+ring and lobes;
+
+3.
+
+A tappet ball socket or push rod socket; and
+
+4.
+
+A tappet spring.
+
+Cam gear is twice the
+size of the crankshaft
+gear and operates at
+1/2 speed
+
+Camshaft lobe
+
+Camshaft
+
+Crankshaft
+Crankshaft gear
+Timing gear
+Figure 1-28. Cam drive mechanism opposed-type aircraft engine.
+
+Figure 1-29. Cam load on lifter body.
+
+The function of the tappet assembly is to convert the rotational
+movement of the cam lobe into reciprocating motion and to
+transmit this motion to the push rod, rocker arm, and then
+to the valve tip, opening the valve at the proper time. The
+purpose of the tappet spring is to take up the clearance
+between the rocker arm and the valve tip to reduce the shock
+load when the valve is opened. A hole is drilled through the
+tappet to allow engine oil to flow to the hollow push rods to
+lubricate the rocker assemblies.
+Solid Lifters/Tappets
+Solid lifters or cam followers generally require the valve
+clearance to be adjusted manually by adjusting a screw and
+lock nut. Valve clearance is needed to assure that the valve
+has enough clearance in the valve train to close completely.
+This adjustment or inspection was a continuous maintenance
+item until hydraulic lifters were used.
+Hydraulic Valve Tappets/Lifters
+Some aircraft engines incorporate hydraulic tappets that
+automatically keep the valve clearance at zero, eliminating
+the necessity for any valve clearance adjustment mechanism.
+A typical hydraulic tappet (zero-lash valve lifter) is shown
+in Figure 1-30.
+When the engine valve is closed, the face of the tappet body
+(cam follower) is on the base circle or back of the cam.
+[Figure 1-30] The light plunger spring lifts the hydraulic
+plunger so that its outer end contacts the push rod socket,
+exerting a light pressure against it, thus eliminating any
+clearance in the valve linkage. As the plunger moves outward,
+the ball check valve moves off its seat. Oil from the supply
+chamber, which is directly connected with the engine
+lubrication system, flows in and fills the pressure chamber. As
+the camshaft rotates, the cam pushes the tappet body and the
+1-20
+
+===== PDF PAGE 42 =====
+Oil hole
+Oil pressure chamber
+
+Oil supply chamber
+
+Cam
+
+Tappet body
+Push rod
+
+Push rod socket
+
+Ball check valve
+Cylinder
+
+Push rod shroud tube
+
+Plunger spring
+
+Plunger
+
+Figure 1-30. Hydraulic valve tappets.
+
+hydraulic lifter cylinder outward. This action forces the ball
+check valve onto its seat; thus, the body of oil trapped in the
+pressure chamber acts as a cushion. During the interval when
+the engine valve is off its seat, a predetermined leakage occurs
+between plunger and cylinder bore, which compensates for
+any expansion or contraction in the valve train. Immediately
+after the engine valve closes, the amount of oil required to
+fill the pressure chamber flows in from the supply chamber,
+preparing for another cycle of operation.
+Hydraulic valve lifters are normally adjusted at the time of
+overhaul. They are assembled dry (no lubrication), clearances
+checked, and adjustments are usually made by using push
+rods of different lengths. A minimum and maximum valve
+clearance is established. Any measurement between these
+extremes is acceptable, but approximately half way between
+the extremes is desired. Hydraulic valve lifters require less
+maintenance, are better lubricated, and operate more quietly
+than the screw adjustment type.
+Push Rod
+The push rod, tubular in form, transmits the lifting force from
+the valve tappet to the rocker arm. A hardened-steel ball is
+pressed over or into each end of the tube. One ball end fits into
+the socket of the rocker arm. In some instances, the balls are
+on the tappet and rocker arm, and the sockets are on the push
+rod. The tubular form is employed because of its lightness and
+strength. It permits the engine lubricating oil under pressure
+to pass through the hollow rod and the drilled ball ends to
+lubricate the ball ends, rocker-arm bearing, and valve-stem
+guide. The push rod is enclosed in a tubular housing that
+extends from the crankcase to the cylinder head, referred to
+
+as push rod tubes.
+Rocker Arms
+The rocker arms transmit the lifting force from the cams
+to the valves. [Figure 1-31] Rocker arm assemblies are
+supported by a plain, roller, or ball bearing, or a combination
+of these, which serves as a pivot. Generally, one end of the
+arm bears against the push rod and the other bears on the
+valve stem. One end of the rocker arm is sometimes slotted
+to accommodate a steel roller. The opposite end is constructed
+with either a threaded split clamp and locking bolt or a tapped
+hole. The arm may have an adjusting screw, for adjusting
+the clearance between the rocker arm and the valve stem
+tip. The screw can be adjusted to the specified clearance to
+make certain that the valve closes fully.
+Valve Springs
+Each valve is closed by two or three helical springs. If a single
+spring were used, it would vibrate or surge at certain speeds.
+To eliminate this difficulty, two or more springs (one inside
+the other) are installed on each valve. Each spring vibrates
+at a different engine speed and rapid damping out of all
+spring-surge vibrations during engine operation results. Two
+or more springs also reduce danger of weakness and possible
+failure by breakage due to heat and metal fatigue. The springs
+are held in place by split locks installed in the recess of the
+valve spring upper retainer or washer, and engage a groove
+machined into the valve stem. The functions of the valve
+springs are to close the valve and to hold the valve securely
+on the valve seat.
+
+1-21
+
+===== PDF PAGE 43 =====
+Plain Bearings
+Plain bearings are generally used for the crankshaft, cam
+ring, camshaft, connecting rods, and the accessory drive shaft
+bearings. Such bearings are usually subjected to radial loads
+only, although some have been designed to take thrust loads.
+Plain bearings are usually made of nonferrous (having no
+iron) metals, such as silver, bronze, aluminum, and various
+alloys of copper, tin, or lead. Master rod or crankpin bearings
+in some engines are thin shells of steel, plated with silver on
+both the inside and the outside surfaces and with lead-tin
+plated over the silver on the inside surface only. Smaller
+bearings, such as those used to support various shafts in the
+accessory section, are called bushings. Porous Oilite bushings
+are widely used in this instance. They are impregnated with
+oil so that the heat of friction brings the oil to the bearing
+surface during engine operation.
+
+Figure 1-31. Rocker arms.
+
+Bearings
+A bearing is any surface which supports, or is supported by,
+another surface. A good bearing must be composed of material
+that is strong enough to withstand the pressure imposed on it
+and should permit the other surface to move with a minimum
+of friction and wear. The parts must be held in position within
+very close tolerances to provide efficient and quiet operation,
+and yet allow freedom of motion. Lubricated bearings of
+many types are used to accomplish this, and at the same
+time reduce friction of moving parts so that power loss is
+not excessive and to prevent high oil temperatures caused
+by failed or failing bearings. Bearings are required to take
+radial loads, thrust loads, or a combination of the two. An
+example of a radial load would be a rotating shaft being held
+or contained in one position on a radial plane. Thrust load
+would be the rotating shaft being contained from moving
+axially along the shafts axis. These radial and thrust loads
+are illustrated in Figure 1-32. There are two ways in which
+bearing surfaces move in relation to each other. One is by
+the sliding movement of one metal against the other (sliding
+friction), and the second is for one surface to roll over the
+other (rolling friction). The three different types of bearings
+in general use are plain, roller, and ball. [Figure 1-33]
+
+Thrust loads
+
+Ball Bearings
+A ball bearing assembly consists of grooved inner and outer
+races, one or more sets of balls, in bearings designed for
+disassembly, and a bearing retainer. They are used for shaft
+bearings and rocker arm bearings in some reciprocating
+engines. Special deep-groove ball bearings are used to
+transmit propeller thrust and radial loads to the engine nose
+section of radial engines. Since this type of bearing can accept
+both radial and thrust loads, it is used in gas turbine engines
+to support one end of a shaft (radial loads) and to keep the
+shaft from moving axially (thrust loads).
+Roller Bearings
+Roller bearings are made in many types and shapes, but the
+two types generally used in the aircraft engine are the straight
+roller and the tapered roller bearings. Straight roller bearings
+are used where the bearing is subjected to radial loads only.
+In tapered roller bearings, the inner- and outer-race bearing
+surfaces are cone-shaped. Such bearings withstand both
+radial and thrust loads. Straight roller bearings are used in
+high power reciprocating aircraft engines for the crankshaft
+main bearings. They are also used in gas turbine applications
+where radial loads are high. Generally, a rotating shaft in a
+gas turbine engine is supported by a deep-groove ball bearing
+
+Straight roller bearing
+
+Deep-groove ball bearing
+controls both radial and
+thrust loads
+
+No thrust loads
+
+Rotating shaft
+
+Radial loads only
+
+Figure 1-32. Radial and thrust loads.
+
+1-22
+
+===== PDF PAGE 44 =====
+Plain
+
+Roller
+
+are in use. The three types most commonly used are spur
+planetary, bevel planetary, and spur and pinion. [Figure 1-34]
+The spur planetary reduction gearing consists of a large
+driving gear or sun gear splined (and sometimes shrunk)
+to the crankshaft, a large stationary gear, called a bell gear,
+and a set of small spur planetary pinion gears mounted on a
+carrier ring. The ring is fastened to the propeller shaft and the
+planetary gears mesh with both the sun gear and the stationary
+bell or ring gear. The stationary gear is bolted or splined to
+the front section housing. When the engine is operating, the
+sun gear rotates. Because the planetary gears are meshed with
+this ring, they also must rotate. Since they also mesh with the
+stationary gear, they walk or roll around it as they rotate, and
+the ring in which they are mounted rotates the propeller shaft
+in the same direction as the crankshaft but at a reduced speed.
+In some engines, the bell gear is mounted on the propeller
+shaft, and the planetary pinion gear cage is held stationary.
+The sun gear is splined to the crankshaft and acts as a
+driving gear. In such an arrangement, the propeller travels at
+a reduced speed but in opposite direction to the crankshaft.
+
+Ball
+
+Figure 1-33. Bearings.
+
+(radial and thrust loads) on one end and a straight roller
+bearing (radial loads only) on the other end.
+
+Propeller Reduction Gearing
+The increased brake horsepower delivered by a high
+horsepower engine results partly from increased crankshaft
+rpm. It is therefore necessary to provide reduction gears to
+limit the propeller rotation speed to a value at which efficient
+operation is obtained. Whenever the speed of the blade tips
+approaches the speed of sound, the efficiency of the propeller
+decreases rapidly. Reduction gearing for engines allows the
+engine to operate at a higher rpm, developing more power
+while slowing down the propeller rpm. This prevents the
+propeller efficiency from decreasing. Since reduction gearing
+must withstand extremely high stresses, the gears are machined
+from steel forgings. Many types of reduction gearing systems
+
+In the bevel planetary reduction gearing system, the driving
+gear is machined with beveled external teeth and is attached to
+the crankshaft. A set of mating bevel pinion gears is mounted
+in a cage attached to the end of the propeller shaft. The
+pinion gears are driven by the drive gear and walk around the
+stationary gear, which is bolted or splined to the front section
+housing. The thrust of the bevel pinion gears is absorbed by a
+thrust ball bearing of special design. The drive and the fixed
+gears are generally supported by heavy-duty ball bearings.
+This type of planetary reduction assembly is more compact
+than the other one described and, therefore, can be used
+where a smaller propeller gear step-down is desired. In the
+case of gas turbine turboprop engines, more than one stage
+of reduction gearing is used due to the high output speeds of
+the engine. Several types of lower powered engines can use
+the spur and pinion reduction gear arrangement.
+
+Propeller Shafts
+Propeller shafts may be of three major types: tapered, splined,
+or flanged. Tapered shafts are identified by taper numbers.
+Splined and flanged shafts are identified by SAE numbers.
+The propeller shaft of most low power output engines is
+forged as part of the crankshaft. It is tapered, and a milled
+slot is provided so that the propeller hub can be keyed to
+the shaft. The keyway and key index of the propeller are in
+relation to the No. 1 cylinder top dead center. The end of the
+shaft is threaded to receive the propeller retaining nut. Tapered
+propeller shafts are common on older and smaller engines.
+The propeller shaft of high-output radial engines is generally
+1-23
+
+===== PDF PAGE 45 =====
+Spur planetary
+Bell gear
+Pinion
+
+Sun gear
+
+Bevel planetary
+
+Spur and pinion
+
+Driven gear
+
+Drive gear
+
+Crank shaft
+
+Figure 1-34. Reduction gears.
+
+splined. It is threaded on one end for a propeller hub nut.
+The thrust bearing, which absorbs propeller thrust, is located
+around the shaft and transmits the thrust to the nose section
+housing. The shaft is threaded for attaching the thrust-bearing
+retaining nut. On the portion protruding from the housing
+
+(between the two sets of threads), splines are located to
+receive the splined propeller hub. The shaft is generally
+machined from a steel-alloy forging throughout its length.
+The propeller shaft may be connected by reduction gearing
+to the engine crankshaft, but in smaller engines the propeller
+1-24
+
+===== PDF PAGE 46 =====
+shaft is simply an extension of the engine crankshaft. To
+turn the propeller shaft, the engine crankshaft must revolve.
+Flanged propeller shafts are used on most modern
+reciprocating and turboprop engines. One end of the shaft is
+flanged with drilled holes to accept the propeller mounting
+bolts. The installation may be a short shaft with internal
+threading to accept the distributor valve to be used with a
+controllable propeller. The flanged propeller shaft is a very
+common installation on most propeller driven aircraft.
+
+Reciprocating Engine Operating Principles
+The relationships between pressure, volume, and temperature
+of gases are the basic principles of engine operation. An
+internal combustion engine is a device for converting heat
+energy into mechanical energy. Gasoline is vaporized and
+mixed with air, forced or drawn into a cylinder, compressed
+by a piston, and then ignited by an electric spark. The
+conversion of the resultant heat energy into mechanical
+energy and then into work is accomplished in the cylinder.
+Figure 1-35 illustrates the various engine components
+necessary to accomplish this conversion and also presents
+the principal terms used to indicate engine operation.
+The operating cycle of an internal combustion reciprocating
+engine includes the series of events required to induct,
+compress, ignite, and burn, causing expansion of the airfuel charge in the cylinder and to scavenge or exhaust the
+byproducts of the combustion process. When the compressed
+mixture is ignited, the resultant gases of combustion expand
+very rapidly and force the piston to move away from the
+cylinder head. This downward motion of the piston, acting
+on the crankshaft through the connecting rod, is converted to
+a circular or rotary motion by the crankshaft. A valve in the
+top or head of the cylinder opens to allow the burned gases to
+escape, and the momentum of the crankshaft and the propeller
+forces the piston back up in the cylinder where it is ready for
+the next event in the cycle. Another valve in the cylinder head
+then opens to let in a fresh charge of the air-fuel mixture. The
+valve allowing for the escape of the burning exhaust gases
+is called the exhaust valve, and the valve which lets in the
+fresh charge of the air-fuel mixture is called the intake valve.
+These valves are opened and closed mechanically at the
+proper times by the valve-operating mechanism. Therefore,
+the order of the five events of a four stroke cycle engine are
+intake, compression, ignition, power, and exhaust.
+The bore of a cylinder is its inside diameter. The stroke is the
+distance the piston moves from one end of the cylinder to
+the other, specifically from top dead center (TDC) to bottom
+dead center (BDC), or vice versa. [Figure 1-35]
+
+Operating Cycles
+There are several operating cycles in use:
+1.
+
+Four stroke.
+
+2.
+
+Two stroke.
+
+3.
+
+Rotary.
+
+4.
+
+Diesel.
+
+Four-Stroke Cycle
+The vast majority of certified aircraft reciprocating engines
+operate on the four-stroke cycle, sometimes called the Otto
+cycle after its originator, a German physicist. The four-stroke
+cycle engine has many advantages for use in aircraft. One
+advantage is that it lends itself readily to high performance
+through supercharging.
+In this type of engine, four strokes are required to complete the
+required series of events or operating cycle of each cylinder.
+[Figure 1-36] Two complete revolutions of the crankshaft
+(720°) are required for the four strokes; thus, each cylinder in
+an engine of this type fires once in every two revolutions of
+the crankshaft. In the following discussion of the four-stroke
+cycle engine operation, note that the timing of the ignition and
+
+Spark plug
+
+Combustion chamber
+
+Intake valve
+
+Exhaust valve
+
+Piston
+
+TDC
+Stroke
+
+Connecting rod
+
+BDC
+
+Cylinder flange
+
+Top center
+Crankshaft
+
+Bottom center
+
+Figure 1-35. Components and terminology of engine operation.
+
+1-25
+
+===== PDF PAGE 47 =====
+The intake valve is opened considerably before the piston
+
+A Intake stroke
+
+B Compression stroke
+
+Valves
+closed
+
+Intake
+open
+
+Exhaust
+open
+Valves
+closed
+
+C Power stroke
+Figure 1-36. Four-stroke cycle.
+
+D Exhaust stroke
+
+7
+lap
+
+5° both valves open
+
+Start cycle 50° BTC
+Intake valve opens
+
+mp
+Co
+
+ression stro
+
+Finish cycle 25° ATC
+Exhaust valve closed
+
+ition
+
+ke
+
+Ign
+ust stroke
+Exha
+
+During the intake stroke, the piston is pulled downward in
+the cylinder by the rotation of the crankshaft. This reduces
+the pressure in the cylinder and causes air under atmospheric
+pressure to flow through the carburetor, which meters the
+correct amount of fuel. The air-fuel mixture passes through
+the intake pipes and intake valves into the cylinders. The
+quantity or weight of the air-fuel charge depends upon the
+degree of throttle opening.
+
+lv
+Va
+
+ver
+eo
+
+stroke
+wer
+Po
+troke
+ke s
+
+Intake Stroke
+
+One complete actual cycle of a four-stroke cycle reciprocating engine
+
+a
+Int
+
+the valve events vary considerably in different engines. Many
+factors influence the timing of a specific engine, and it is most
+important that the engine manufacturer’s recommendations
+in this respect be followed in maintenance and overhaul. The
+timing of the valve and ignition events is always specified in
+degrees of crankshaft travel. It should be remembered that a
+certain amount of crankshaft travel is required to open a valve
+fully; therefore, the specified timing represents the start of
+opening rather than the full-open position of the valve. An
+example valve timing chart can be seen in Figure 1-37.
+
+Intake valve
+closes 30° ABC
+
+Exhaust valve opens
+30° BBC
+BTC = before top center
+ATC = after top center
+ABC = after bottom center
+BBC = before bottom center
+
+Figure 1-37. Valve timing chart.
+
+reaches TDC on the exhaust stroke, in order to induce a
+greater quantity of the air-fuel charge into the cylinder and
+thus increase the horsepower. The distance the valve may be
+opened before TDC, however, is limited by several factors,
+such as the possibility that hot gases remaining in the cylinder
+from the previous cycle may flash back into the intake pipe
+and the induction system.
+In all high-power aircraft engines, both the intake and the
+exhaust valves are off the valve seats at TDC at the start
+of the intake stroke. As mentioned above, the intake valve
+opens before TDC on the exhaust stroke (valve lead), and the
+closing of the exhaust valve is delayed considerably after the
+piston has passed TDC and has started the intake stroke (valve
+lag). This timing is called valve overlap and is designed
+to aid in cooling the cylinder internally by circulating the
+cool incoming air-fuel mixture, to increase the amount of
+the air-fuel mixture induced into the cylinder, and to aid in
+scavenging the byproducts of combustion from the cylinder.
+The intake valve is timed to close about 50° to 75° past BDC
+on the compression stroke, depending upon the specific
+engine, to allow the momentum of the incoming gases
+to charge the cylinder more completely. Because of the
+comparatively large volume of the cylinder above the piston
+when the piston is near BDC, the slight upward travel of the
+piston during this time does not have a great effect on the
+incoming flow of gases. This late timing can be carried too
+far because the gases may be forced back through the intake
+valve and defeat the purpose of the late closing.
+1-26
+
+===== PDF PAGE 48 =====
+Compression Stroke
+After the intake valve is closed, the continued upward travel
+of the piston compresses the air-fuel mixture to obtain the
+desired burning and expansion characteristics. The charge is
+fired by means of an electric spark as the piston approaches
+TDC. The time of ignition varies from 20° to 35° before TDC,
+depending upon the requirements of the specific engine to
+ensure complete combustion of the charge by the time the
+piston is slightly past the TDC position.
+Many factors affect ignition timing, and the engine
+manufacturer has expended considerable time in research and
+testing to determine the best setting. All engines incorporate
+devices for adjusting the ignition timing, and it is most
+important that the ignition system be timed according to the
+engine manufacturer’s recommendations.
+
+Power Stroke
+As the piston moves through the TDC position at the end
+of the compression stroke and starts down on the power
+stroke, it is pushed downward by the rapid expansion of the
+burning gases within the cylinder head with a force that can
+be greater than 15 tons (30,000 psi) at maximum power output
+of the engine. The temperature of these burning gases may
+be between 3,000 °F and 4,000 °F. As the piston is forced
+downward during the power stroke by the pressure of the
+burning gases exerted upon it, the downward movement of
+the connecting rod is changed to rotary movement by the
+crankshaft. Then, the rotary movement is transmitted to the
+propeller shaft to drive the propeller. As the burning gases
+are expanded, the temperature drops to within safe limits
+before the exhaust gases flow out through the exhaust port.
+The timing of the exhaust valve opening is determined by,
+among other considerations, the desirability of using as much
+of the expansive force as possible and of scavenging the
+cylinder as completely and rapidly as possible. The valve is
+opened considerably before BDC on the power stroke (on
+some engines at 50° and 75° before BDC) while there is still
+some pressure in the cylinder. This timing is used so that the
+pressure can force the gases out of the exhaust port as soon
+as possible. This process frees the cylinder of waste heat
+after the desired expansion has been obtained and avoids
+overheating the cylinder and the piston. Thorough scavenging
+is very important, because any exhaust products remaining
+in the cylinder dilute the incoming air-fuel charge at the start
+of the next cycle.
+
+Exhaust Stroke
+As the piston travels through BDC at the completion of the
+power stroke and starts upward on the exhaust stroke, it
+begins to push the burned exhaust gases out the exhaust port.
+
+The speed of the exhaust gases leaving the cylinder creates
+a low pressure in the cylinder. This low or reduced pressure
+speeds the flow of the fresh air-fuel charge into the cylinder
+as the intake valve is beginning to open. The intake valve
+opening is timed to occur at 8° to 55° before TDC on the
+exhaust stroke on various engines.
+Two-Stroke Cycle
+The two-stroke-cycle engine has re-emerged and is being
+used in ultra-light, light sport, and many experimental
+aircraft. As the name implies, two-stroke cycle engines
+require only one upstroke and one down stroke of the piston
+to complete the required series of events in the cylinder. Thus,
+the engine completes the operating cycle in one revolution
+of the crankshaft. The intake and exhaust functions are
+accomplished during the same stroke. These engines can
+be either air or water cooled and generally require a gear
+reduction housing between the engine and propeller.
+Rotary Cycle
+The rotary cycle has a three-sided rotor that turns inside an
+elliptical housing, completing three of the four cycles for each
+revolution. These engines can be single rotor or multi-rotor
+and can be air or water cooled. They are used mostly with
+experimental and light aircraft. Vibration characteristics are
+also very low for this type of engine.
+Diesel Cycle
+The diesel cycle depends on high compression pressures to
+provide for the ignition of the air-fuel charge in the cylinder.
+As air is drawn in the cylinder, it is compressed by a piston
+and, at maximum pressure, fuel is sprayed in the cylinder. At
+this point, the high pressure and temperature in the cylinder
+causes the fuel to burn increasing the internal pressure of the
+cylinder. This drives the piston down, turning or driving the
+crankshaft. Water and air cooled engines that can operate on
+JET A fuel (kerosene) use a version of the diesel cycle. There
+are many types of diesel cycles in use including two-stroke
+and four-stroke diesels.
+
+Reciprocating Engine Power & Efficiencies
+All aircraft engines are rated according to their ability
+to do work and produce power. This section presents an
+explanation of work and power and how they are calculated.
+Also discussed are the various efficiencies that govern the
+power output of a reciprocating engine.
+Work
+A physicist defines work as force times distance. Work done
+by a force acting on a body is equal to the magnitude of the
+force multiplied by the distance through which the force acts.
+
+Work (W) = Force (F) x Distance (D)
+1-27
+
+===== PDF PAGE 49 =====
+Work is measured by several standards. The most common
+unit is called foot-pound (ft-lb). If a one-pound mass is raised
+one foot, one ft-lb of work has been performed. The greater
+the mass is and/or the greater the distance is, the greater the
+work performed.
+Horsepower
+The common unit of mechanical power is the horsepower
+(hp). Late in the 18th century, James Watt, the inventor of the
+steam engine, found that an English workhorse could work
+at the rate of 550 ft-lb per second, or 33,000 ft-lb per minute,
+for a reasonable length of time. From his observations came
+the unit of horsepower, which is the standard unit of
+mechanical power in the English system of measurement. To
+calculate the hp rating of an engine, divide the power
+developed in ft-lb per minute by 33,000, or the power in ft-lb
+per second by 550.
+
+One hp =
+
+ft-lb per min
+33,000
+or
+
+ft-lb per sec
+550
+As stated above, work is the product of force and distance,
+and power is work per unit of time. Consequently, if a
+33,000‑lb weight is lifted through a vertical distance of 1 foot
+in 1 minute, the power expended is 33,000 ft-lb per minute,
+or exactly 1 hp.
+Work is performed not only when a force is applied for lifting;
+force may be applied in any direction. If a 100-lb weight is
+dragged along the ground, a force is still being applied to
+perform work, although the direction of the resulting motion
+is approximately horizontal. The amount of this force would
+depend upon the roughness of the ground.
+If the weight were attached to a spring scale graduated in
+pounds, then dragged by pulling on the scale handle, the
+amount of force required could be measured. Assume that
+the force required is 90 lb, and the 100-lb weight is dragged
+660 feet in 2 minutes. The amount of work performed in the
+2 minutes is 59,400 ft-lb or 29,700 ft-lb per minute. Since 1
+hp is 33,000 ft-lb per minute, the hp expended in this case is
+29,700 divided by 33,000, or 0.9 hp.
+Piston Displacement
+When other factors remain equal, the greater the piston
+displacement, the greater the maximum horsepower an engine
+is capable of developing. When a piston moves from BDC to
+TDC, it displaces a specific volume. The volume displaced by
+the piston is known as piston displacement and is expressed
+
+in cubic inches for most American-made engines and cubic
+centimeters for others.
+The piston displacement of one cylinder may be obtained
+by multiplying the area of the cross-section of the cylinder
+by the total distance the piston moves in the cylinder in one
+stroke. For multicylinder engines, this product is multiplied
+by the number of cylinders to get the total piston displacement
+of the engine.
+Since the volume (V) of a geometric cylinder equals the area
+(A) of the base multiplied by the height (h), it is expressed
+mathematically as follows:
+
+V=Axh
+The area of the base is the area of the cross-section of the cylinder.
+Area of a Circle
+To find the area of a circle, it is necessary to use a number
+called pi (π). This number represents the ratio of the
+circumference to the diameter of any circle. Pi cannot be
+stated exactly because it is a never-ending decimal. It is
+3.1416 expressed to four decimal places, which is accurate
+enough for most computations.
+The area of a circle, as in a rectangle or triangle, must be
+expressed in square units. The distance that is one-half the
+diameter of a circle is known as the radius. The area of any
+circle is found by squaring the radius (r) and multiplying by
+π. The formula is as follows:
+
+A = πr2
+The radius of a circle is equal to ½ the diameter:
+
+d
+r= 2
+Example
+Compute the piston displacement of the PWA 14 cylinder
+engine having a cylinder with a 5.5 inch diameter and a 5.5
+inch stroke. Formulas required are:
+
+d
+r= 2
+
+A = πr2
+V=Axh
+Total V = V x n (number of cylinders)
+Substitute values into these formulas and complete the
+calculation.
+1-28
+
+===== PDF PAGE 50 =====
+d 5.5 inches (in) 2.75 in
+=
+r= 2 =
+2
+
+A = πr2 = 3.1416 (2.75 in x 2.75 in)
+
+A = 3.1416 x 7.5625 square inches (in2) = 23.7584 in2
+V = A x h = 23.7584 in2 x 5.5 in = 130.6712 cubic inches (in3)
+Total V = V x n = 130.6712 in3 x 14
+Total V = 1829.3968 in3
+Rounded off to the next whole number, total piston
+displacement equals 1,829 cubic inches.
+Another method of calculating the piston displacement uses
+the diameter of the piston instead of the radius in the formula
+for the area of the base.
+
+A = ¼ (π)(d2)
+Substituting A = ¼ x 3.1416 x 5.5 in x 5.5 in
+
+A = 0.7854 x 30.25 in2
+A = 23.758 in2
+From this point on, the calculations are identical to the
+preceding example.
+Compression Ratio
+All internal combustion engines must compress the air-fuel
+mixture to receive a reasonable amount of work from each
+power stroke. The air-fuel charge in the cylinder can be
+compared to a coil spring in that the more it is compressed,
+the more work it is potentially capable of doing.
+The compression ratio of an engine is a comparison of the
+volume of space in a cylinder when the piston is at the bottom
+of the stroke to the volume of space when the piston is at the
+top of the stroke. [Figure 1-38] This comparison is expressed
+as a ratio, hence the term compression ratio. Compression
+ratio is a controlling factor in the maximum horsepower
+developed by an engine, but it is limited by present day fuel
+grades and the high engine speeds and manifold pressures
+required for takeoff. For example, if there are 140 cubic
+inches of space in the cylinder when the piston is at the bottom
+and there are 20 cubic inches of space when the piston is at
+the top of the stroke, the compression ratio would be 140
+to 20. If this ratio is expressed in fraction form, it would be
+140/20 or 7 to 1, usually represented as 7:1.
+
+pressures has a major effect on engine operation. Manifold
+pressure is the average absolute pressure of the air or air-fuel
+charge in the intake manifold and is measured in units of
+inches of mercury ("Hg). Manifold pressure is dependent on
+engine speed (throttle setting) and the degree supercharging.
+The operation of the supercharger increases the weight of
+the charge entering the cylinder. When a true supercharger
+is used with the aircraft engine, the manifold pressure may
+be considerably higher than the pressure of the outside
+atmosphere. The advantage of this condition is that a greater
+amount of charge is forced into a given cylinder volume, and
+a greater output of horsepower results.
+Compression ratio and manifold pressure determine the
+pressure in the cylinder in that portion of the operating cycle
+when both valves are closed. The pressure of the charge
+before compression is determined by manifold pressure,
+while the pressure at the height of compression (just prior
+to ignition) is determined by manifold pressure times the
+compression ratio. For example, if an engine were operating
+at a manifold pressure of 30 "Hg with a compression ratio
+of 7:1, the pressure at the instant before ignition would be
+approximately 210 "Hg. However, at a manifold pressure of
+60 "Hg, the pressure would be 420 "Hg.
+Without going into great detail, it has been shown that
+the compression event magnifies the effect of varying the
+manifold pressure, and the magnitude of both affects the
+pressure of the fuel charge just before the instant of ignition.
+If the pressure at this time becomes too high, pre-ignition
+or detonation occur and produce overheating. Pre-ignition
+is when the fuel air charge starts to burn before the spark
+plug fires. Detonation occurs when the fuel air charge
+is ignited by the spark plug, but instead of burning at a
+controlled rate, it explodes causing cylinder temperatures
+and pressures to spike very quickly. If this condition exists
+for very long, the engine can be damaged or destroyed.
+One of the reasons for using engines with high compression
+ratios is to obtain long-range fuel economy, to convert more
+heat energy into useful work than is done in engines of low
+compression ratio. Since more heat of the charge is converted
+into useful work, less heat is absorbed by the cylinder walls.
+This factor promotes cooler engine operation, which in turn
+increases the thermal efficiency. Here again, a compromise
+is needed between the demand for fuel economy and the
+demand for maximum horsepower without detonation.
+Some manufacturers of high compression engines suppress
+detonation at high manifold pressures by using high octane
+fuel and limiting maximum manifold pressure.
+
+The limitations placed on compression ratios, manifold
+pressure, and the manifold pressure’s effect on compression
+1-29
+
+===== PDF PAGE 51 =====
+Indicated Horsepower
+The indicated horsepower produced by an engine is the
+horsepower calculated from the indicated mean effective
+pressure and the other factors which affect the power output
+of an engine. Indicated horsepower is the power developed
+in the combustion chambers without reference to friction
+losses within the engine. This horsepower is calculated as
+a function of the actual cylinder pressure recorded during
+engine operation.
+To facilitate the indicated horsepower calculations, a
+mechanical indicating device, such as is attached to the
+engine cylinder, captures the actual pressure existing in the
+cylinder during the complete operating cycle. This pressure
+variation can be represented by the kind of graph shown in
+Figure 1-39. Notice that the cylinder pressure rises on the
+compression stroke, reaches a peak after top center, and
+decreases as the piston moves down on the power stroke.
+Since the cylinder pressure varies during the operating cycle,
+an average pressure (line AB) is computed. This average
+pressure, if applied steadily during the time of the power
+stroke, would do the same amount of work as the varying
+pressure during the same period. This average pressure is
+known as indicated mean effective pressure and is included
+in the indicated horsepower calculation with other engine
+specifications. If the characteristics and the indicated mean
+effective pressure of an engine are known, it is possible to
+calculate the indicated horsepower rating.
+
+The indicated horsepower for a four-stroke cycle engine can
+be calculated from the following formula, in which the letter
+symbols in the numerator are arranged to spell the word
+“PLANK” to assist in memorizing the formula:
+PLANK
+Indicated horsepower = 33,000
+Where:
+P = Indicated mean effective pressure, in psi
+L = Length of the stroke, in feet or in fractions of a foot
+A = Area of the piston head or cross-sectional area of the
+cylinder, in square inches
+rpm
+N = Number of power strokes per minute:
+2
+K = Number of cylinders
+
+In the formula above, the area of the piston multiplied by the
+indicated mean effective pressure gives the force acting on the
+piston in pounds. This force multiplied by the length of the
+stroke in feet gives the work performed in one power stroke,
+which, multiplied by the number of power strokes per minute,
+gives the number of ft-lb per minute of work produced by one
+cylinder. Multiplying this result by the number of cylinders
+in the engine gives the amount of work performed, in ft-lb,
+by the engine. Since hp is defined as work done at the rate
+of 33,000 ft-lb per minute, the total number of ft-lb of work
+performed by the engine is divided by 33,000 to find the
+indicated horsepower.
+
+Clearance volume
+1
+
+TDC
+
+4
+5
+6
+BDC
+
+Displacement volume
+
+3
+
+Total volume
+
+2
+
+7
+
+Figure 1-38. Compression ratio.
+
+1-30
+
+===== PDF PAGE 52 =====
+Example
+
+is the product of a force and the distance of the force from
+the axis about which it acts, or
+
+Given:
+
+Torque = force x distance
+(at right angles to the force)
+
+P = 1.65 lb/in2
+L = 0.5 ft.
+A = 5.5 inches
+N = 1,500
+K = 12
+PLANK
+Indicated hp = 33,000 ft-lb/min
+
+Torque is a measure of load and is properly expressed in
+pound-inches (lb-in) or pound-feet (lb-ft). Torque should not
+be confused with work, which is expressed in inch-pounds
+(in-lb) or foot-pounds (ft-lb).
+
+Find indicated hp.
+A is found by using the equation:
+A = ¼πD2
+A = ¼ x 3.1416 x 5.5 in x 5.5 in
+= 23.76 in2
+
+There are numerous devices for measuring torque, such as a
+dynamometer or a torque meter. One very simple type of
+device that can be used to demonstrate torque calculations
+is the Prony brake. [Figure 1-40] All of these torquemeasuring devices are usable to calculate power output of
+an engine on a test stand. It consists essentially of a hinged
+collar, or brake, which can be clamped to a drum splined to
+the propeller shaft. The collar and drum form a friction brake,
+which can be adjusted by a wheel. An arm of a known length
+is rigidly attached to or is a part of the hinged collar and
+terminates at a point that rests on a set of scales. As the
+propeller shaft rotates, it tends to carry the hinged collar of
+the brake with it and is prevented from doing so only by the
+arm that rests on the scale. The scale indicates the force
+necessary to arrest the motion of the arm. If the resulting
+force registered on the scale is multiplied by the length of
+the arm, the resulting product is the torque exerted by the
+rotating shaft. For example, if the scale registers 200 pounds
+and the length of the arm is 3.18 feet, the torque exerted by
+the shaft is:
+
+N is found by multiplying the rpm by ½:
+N = ½ x 3,000 = 1,500 rpm
+Now, substituting in the formula:
+1.65 lb/in2 x 0.5 in x 23.76 in2 x 1,500 rpm x 12
+Indicated hp =
+33,000 ft-lb/min
+Indicated hp = 1,069.123
+
+Brake Horsepower
+The indicated horsepower calculation discussed in the
+preceding paragraph is the theoretical power of a frictionless
+engine. The total horsepower lost in overcoming friction
+must be subtracted from the indicated horsepower to arrive at
+the actual horsepower delivered to the propeller. The power
+delivered to the propeller for useful work is known as brake
+horsepower (bhp). The difference between indicated and
+brake horsepower is known as friction horsepower, which
+is the horsepower required to overcome mechanical losses,
+such as the pumping action of the pistons, the friction of the
+pistons, and the friction of all other moving parts.
+
+200 lb x 3.18 ft = 636 lb-ft
+Once the torque is known, the work done per revolution of
+the propeller shaft can be computed without difficulty by the
+equation:
+
+The measurement of an engine’s bhp involves the measurement
+of a quantity known as torque or twisting moment. Torque
+Compression
+
+Work per revolution = 2π x torque
+
+Power
+
+Exhaust
+
+Intake
+
+Pressure in cylinder
+
+Peak pressure
+
+P
+
+Spark
+
+Bottom center
+
+A
+
+B Indicated mean effective pressure (IMEP)
+
+D
+
+C
+
+Top center
+
+BC
+
+I
+
+E
+
+TC
+
+BC
+
+Figure 1-39. Compression ratio.
+
+1-31
+
+===== PDF PAGE 53 =====
+If work per revolution is multiplied by the rpm, the result is
+work per minute, or power. If the work is expressed in ft-lb
+per minute, this quantity is divided by 33,000. The result is
+the brake horsepower of the shaft.
+
+Power = Work per revolution x rpm
+Work per revolution x rpm
+33,000
+2πr x force on scales (lb) x length of arm (ft) x rpm
+33,000
+bhp =
+
+Example
+Given:
+Force on scales
+Length of arm
+rpm
+π
+
+= 200 lb
+= 3.18 ft
+= 3,000
+= 3.1416
+
+Find bhp substituting in equation:
+6.2832 x 200 x 3.18 x 3,000
+bhp =
+33,000
+= 363.2
+= 363
+
+As long as the friction between the brake collar and propeller
+shaft drum is great enough to impose an appreciable load on
+
+the engine, but is not great enough to stop the engine, it is
+not necessary to know the amount of friction between the
+collar and drum to compute the bhp. If there were no load
+imposed, there would be no torque to measure, and the engine
+would “run away.” If the imposed load is so great that the
+engine stalls, there may be considerable torque to measure,
+but there is no rpm. In either case, it is impossible to measure
+the bhp of the engine. However, if a reasonable amount of
+friction exists between the brake drum and the collar and the
+load is then increased, the tendency of the propeller shaft to
+carry the collar and arm about with it becomes greater, thus
+imposing a greater force upon the scales. As long as the torque
+increase is proportional to the rpm decrease, the horsepower
+delivered at the shaft remains unchanged. This can be seen
+from the equation in which 2πr and 33,000 are constants and
+torque and rpm are variables. If the change in rpm is inversely
+proportional to the change in torque, their product remains
+unchanged, and bhp remains unchanged. This is important. It
+shows that horsepower is the function of both torque and rpm,
+and can be changed by changing either torque, rpm, or both.
+Friction Horsepower
+Friction horsepower is the indicated horsepower minus
+brake horsepower. It is the horsepower used by an engine
+in overcoming the friction of moving parts, drawing in fuel,
+expelling exhaust, driving oil and fuel pumps, and other
+engine accessories. On modern aircraft engines, this power
+loss through friction may be as high as 10 to 15 percent of
+
+Scale 200 lb
+0
+Friction adjusting wheel
+300
+Collar
+
+Arm
+
+Hinge
+
+Drum
+
+100
+
+200
+
+Propeller shaft
+
+Length of arm 3.18 ft
+Figure 1-40. Typical Prony brake.
+
+1-32
+
+===== PDF PAGE 54 =====
+the indicated horsepower.
+Friction & Brake Mean Effective Pressures
+The indicated mean effective pressure (IMEP), discussed
+previously, is the average pressure produced in the combustion
+chamber during the operating cycle and is an expression of the
+theoretical, frictionless power known as indicated horsepower.
+In addition to completely disregarding power lost to friction,
+indicated horsepower gives no indication of how much actual
+power is delivered to the propeller shaft for doing useful
+work. However, it is related to actual pressures that occur in
+the cylinder and can be used as a measure of these pressures.
+To compute the friction loss and net power output, the
+indicated horsepower of a cylinder may be thought of as
+two separate powers, each producing a different effect. The
+first power overcomes internal friction, and the horsepower
+thus consumed is known as friction horsepower. The
+second power, known as brake horsepower, produces useful
+work at the propeller. That portion of IMEP that produces
+brake horsepower is called brake mean effective pressure
+(BMEP). The remaining pressure used to overcome internal
+friction is called friction mean effective pressure (FMEP).
+[Figure 1-41] IMEP is a useful expression of total cylinder
+power output, but is not a real physical quantity; likewise,
+FMEP and BMEP are theoretical but useful expressions of
+friction losses and net power output.
+Although BMEP and FMEP have no real existence in the
+cylinder, they provide a convenient means of representing
+pressure limits or rating engine performance throughout its
+entire operating range. There is an operating relationship
+between IMEP, BMEP, and FMEP.
+One of the basic limitations placed on engine operation is
+the pressure developed in the cylinder during combustion.
+In the discussion of compression ratios and indicated mean
+effective pressure, it was found that, within limits, increased
+pressure resulted in increased power. It was also noted that if
+the cylinder pressure were not controlled within close limits,
+it would impose dangerous internal loads that might result in
+engine failure. Therefore, it is important to have a means of
+determining these cylinder pressures as a protective measure
+and for efficient application of power.
+If the bhp is known, the BMEP can be computed by means
+of the following equation:
+
+BMEP =
+
+bhp x 33,000
+LANK
+
+Given:
+bhp = 1,000
+Stroke = 6 in
+Bore = 5.5 in
+rpm = 3,000
+Number of cycles = 12
+
+Find BMEP:
+Find length of stroke (in ft):
+L = 6 in = 0.5 ft
+Find area of cylinder bore:
+A = ¼πrD2
+A = ¼ x 3.1416 x 5.5 in x 5.5 in
+A = 23.76 in2
+Find number of power strokes per min:
+N = ½ x rpm
+N = ½ x 3,000
+N = 1,500
+Then, substituting in the equation:
+BMEP =
+
+1,000 bhp x 33,000 ft-lb/min
+0.5 ft x 23.76 in2 x 1,500 strokes/min x 12
+
+= 154.32 lb/in2
+
+Thrust Horsepower
+Thrust horsepower can be considered the result of the engine
+and the propeller working together. If a propeller could be
+designed to be 100 percent efficient, the thrust and the bph
+would be the same. However, the efficiency of the propeller
+varies with the engine speed, attitude, altitude, temperature,
+and airspeed. Thus, the ratio of the thrust horsepower and the
+bhp delivered to the propeller shaft will never be equal. For
+example, if an engine develops 1,000 bhp, and it is used with a
+propeller having 85 percent efficiency, the thrust horsepower
+of that engine-propeller combination is 85 percent of 1,000
+or 850 thrust hp. Of the four types of horsepower discussed,
+it is the thrust horsepower that determines the performance
+of the engine-propeller combination.
+
+Efficiencies
+Thermal Efficiency
+Any study of engines and power involves consideration of
+heat as the source of power. The heat produced by the burning
+of gasoline in the cylinders causes a rapid expansion of the
+gases in the cylinder, and this, in turn, moves the pistons
+1-33
+

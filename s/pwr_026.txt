@@ -1,0 +1,1905 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 9 (Engine Fire Protection Systems), PDF pages 350-368
+
+===== PDF PAGE 350 =====
+Chapter 9
+
+Engine Fire Protection Systems
+Introduction
+Because fire is one of the most dangerous threats to an
+aircraft, the potential fire zones of all multiengine aircraft
+currently produced are protected by a fixed fire protection
+system. A “fire zone” is an area or region of an aircraft
+designated by the manufacturer to require fire detection
+and/or fire extinguishing equipment and a high degree
+of inherent fire resistance. The term “fixed” describes a
+permanently installed system in contrast to any type of
+portable fire extinguishing equipment, such as a hand-held
+fire extinguisher.
+In accordance with Title 14 of the Code of Federal
+Regulations (14 CFR) parts 23 and 25, engine fire protection
+systems are mandatory on: multiengine turbine-powered
+aircraft, multiengine reciprocating engine-powered aircraft
+incorporating turbochargers, aircraft with engine(s) located
+where they are not readily visible from the flight deck, all
+commuter and transport category aircraft, and the auxiliary
+power unit (APU) compartment of any aircraft incorporating
+an APU. Fire protection systems are not mandatory for many
+single and twin reciprocating engine general aviation (GA)
+aircraft.
+Several general failures or hazards can result in overheat
+conditions or fires peculiar to turbine engine aircraft because
+of their operating characteristics. The two major types of
+turbine failure can be classified as 1) thermodynamic and
+2) mechanical.
+Thermodynamic causes upset the proportion of air used to
+cool combustion temperatures to the levels that the turbine
+materials can tolerate. When the cooling cycle is upset,
+turbine blades can melt, causing a sudden loss of thrust. The
+rapid buildup of ice on inlet screens or inlet guide vanes can
+result in severe overheating, causing the turbine blades to
+melt or to be severed and thrown outward. Such failure can
+result in a severed tail cone and possible penetration of the
+aircraft structure, tanks, or equipment near the turbine wheel.
+In general, most thermodynamic failures are caused by ice,
+excess air bleed or leakage, or faulty controls that permit
+compressor stall or excess fuel.
+Mechanical failures, such as fractured or thrown blades,
+can also lead to overheat conditions or fires. Thrown blades
+can puncture the tail cone, creating an overheat condition.
+Failure of forward stages of multi-stage turbines is usually
+
+much more severe. Penetration of the turbine case by failed
+blades is a possible fire hazard, as is the penetration of lines
+and components containing flammable fluids.
+A high flow of fuel through an improperly adjusted fuel
+nozzle can cause burn-through of the tail cone in some
+engines. Engine fires can be caused by burning fluid that
+occasionally runs out through the exhaust pipe.
+Components
+A complete fire protection system includes both a fire
+detection and a fire extinguishing system. To detect fires
+or overheat conditions, detectors are placed in the various
+zones to be monitored. Fires are detected in aircraft by using
+one or more of the following: overheat detectors, rate-oftemperature-rise detectors, and flame detectors. In addition
+to these methods, other types of detectors are used in aircraft
+fire protection systems but are not used to detect engine fires.
+For example, smoke detectors are better suited to monitor
+areas such as baggage compartments or lavatories, where
+materials burn slowly or smolder. Other types of detectors
+in this category include carbon monoxide detectors.
+Fire protection systems on current-production aircraft do not
+rely on observation by crewmembers as a primary method
+of fire detection. An ideal fire detector system includes as
+many of the following features as possible:
+1.
+
+A system that does not cause false warnings under any
+flight or ground condition.
+
+2.
+
+Rapid indication of a fire and accurate location of the
+fire.
+
+3.
+
+Accurate indication that a fire is out.
+
+4.
+
+Indication that a fire has reignited.
+
+5.
+
+Continuous indication for duration of a fire.
+
+6.
+
+Means for electrically testing the detector system from
+the aircraft flight deck.
+
+7.
+
+Detectors that resist damage from exposure to oil,
+water, vibration, extreme temperatures, or handling.
+
+8.
+
+Detectors that are light in weight and easily adaptable
+to any mounting position.
+
+9.
+
+Detector circuitry that operates directly from the
+aircraft power system without inverters.
+
+10. Minimum electrical current requirements when not
+indicating a fire.
+9-1
+
+===== PDF PAGE 351 =====
+11. Each detector system should turn on a flight deck light,
+indicating the location of the fire, and have an audible
+alarm system.
+12. A separate detector system for each engine.
+Engine Fire Detection Systems
+Several different types of fire detection systems are installed
+in aircraft to detect engine fires. Two common types used are
+spot detectors and continuously loop systems. Spot detector
+systems use individual sensors to monitor a fire zone.
+Examples of spot detector systems are the thermal switch
+system, the thermocouple system, the optical fire detection
+system, and the pneumatic-based thermal fire detection
+system. Continuous loop systems are typically installed
+on transport type aircraft and provide more complete fire
+detection coverage by using several loop-type sensors.
+
+Thermal Switch System
+A number of detectors or sensing devices are available.
+Many older model aircraft still operating have some type of
+thermal switch system or thermocouple system. A thermal
+switch system has one or more lights energized by the aircraft
+power system and thermal switches that control operation of
+the light(s). These thermal switches are heat-sensitive units
+that complete electrical circuits at a certain temperature.
+They are connected in parallel with each other, but in series
+with the indicator lights [Figure 9-1]. If the temperature rises
+above a set value in any one section of the circuit, the thermal
+switch closes, completing the light circuit to indicate a fire
+or overheat condition.
+No set number of thermal switches is required; the exact
+number usually is determined by the aircraft manufacturer.
+On some installations, all the thermal detectors are connected
+to one light; others may have a separate thermal switch for
+each indicator light.
+
+Resister
+
+Indicator light
+R
+
+Test switch
+
+Test relay
+
+Also included in the circuit shown in Figure 9-1 is a dimming
+relay. By energizing the dimming relay, the circuit is altered to
+include a resistor in series with the light. In some installations,
+several circuits are wired through the dimming relay, and all
+the warning lights may be dimmed at the same time.
+
+Thermocouple Systems
+The thermocouple fire warning system operates on an
+entirely different principle than the thermal switch system.
+A thermocouple depends on the rate of temperature rise and
+does not give a warning when an engine slowly overheats
+or a short circuit develops. The system consists of a relay
+box, warning lights, and thermocouples. The wiring system
+of these units may be divided into the following circuits:
+(1) the detector circuit, (2) the alarm circuit, and (3) the test
+circuit. These circuits are shown in Figure 9-2.
+The relay box contains two relays, the sensitive relay and the
+slave relay, and the thermal test unit. Such a box may contain
+from one to eight identical circuits, depending on the number
+of potential fire zones. The relays control the warning lights.
+In turn, the thermocouples control the operation of the relays.
+The circuit consists of several thermocouples in series with
+each other and with the sensitive relay.
+Thermocouple leads are made from a variety of metals,
+depending on the maximum temperature to which they are
+exposed. Iron and constantan, or copper and constantan,
+are common for CHT measurement. Chromel and alumel
+are used for turbine EGT thermocouples. The point where
+these metals are joined and exposed to the heat of a fire
+is called a hot junction. There is also a reference junction
+enclosed in a dead air space between two insulation blocks.
+Thermocouples
+
+Thermal switches
+
+Dimming relay
+
+Some warning lights are push-to-test lights. The bulb is tested
+by pushing it in to check an auxiliary test circuit. The circuit
+shown in Figure 9-1 includes a test relay. With the relay
+contact in the position shown, there are two possible paths
+for current flow from the switches to the light. This is an
+additional safety feature. Energizing the test relay completes
+a series circuit and checks all the wiring and the light bulb.
+
+Sensitive relay
+
+Slave relay
+
+Detector
+circuit
+Test switch
+
+Alarm
+circuit
+
+Test circuit
+Heater
+
+Figure 9-1. Thermal switch fire circuit.
+
+Figure 9-2. Thermocouple fire warning circuit.
+
+9-2
+
+===== PDF PAGE 352 =====
+A metal cage surrounds the thermocouple to give mechanical
+protection without hindering the free movement of air to the
+hot junction. Thermocouple leads are designed for a specific
+installation and may not be altered, if they are altered they
+will no longer be calibrated specific probe and instrument
+combination.
+If the temperature rises rapidly, the thermocouple produces
+a voltage because of the temperature difference between the
+reference junction and the hot junction. If both junctions
+are heated at the same rate, no voltage results. In the engine
+compartment, there is a normal, gradual rise in temperature
+from engine operation; because it is gradual, both junctions
+heat at the same rate and no warning signal is given.
+If there is a fire, however, the hot junction heats more rapidly
+than the reference junction. The reference junction is also
+commonly referred to as the cold junction. The ensuing
+voltage causes a current to flow within the detector circuit.
+Any time the current is greater than 4 milliamperes (0.004
+ampere), the sensitive relay closes. This completes a circuit
+from the aircraft power system to the coil of the slave relay.
+The slave relay then closes and completes the circuit to the
+warning light to give a visual fire warning.
+The total number of thermocouples used in individual
+detector circuits depends on the size of the fire zones and the
+total circuit resistance, which usually does not exceed 5 ohms.
+As shown in Figure 9-2, the circuit has two resistors. The
+resistor connected across the slave relay terminals absorbs
+the coil’s self-induced voltage to prevent arcing across the
+points of the sensitive relay. The contacts of the sensitive relay
+are so fragile that they burn or weld if arcing is permitted.
+When the sensitive relay opens, the circuit to the slave
+relay is interrupted and the magnetic field around its coil
+collapses. When this happens, the coil gets a voltage through
+self-induction, but with the resistor across the coil terminals,
+there is a path for any current flow as a result of this voltage.
+Thus, arcing at the sensitive relay contacts is eliminated.
+
+Optical Fire Detection Systems
+Optical sensors, often referred to as “flame detectors,”
+are designed to alarm when they detect the presence of
+prominent, specific radiation emissions from hydrocarbon
+flames. The two types of optical sensors available are infrared
+(IR) and ultraviolet, based on the specific emission wave
+lengths they are designed to detect.
+Infrared Optical Fire Protection
+IR-based optical flame detectors are used primarily on light
+turboprop aircraft and helicopter engines. These sensors
+have proven to be very dependable and economical for the
+
+relatively benign environments of these applications.
+Principle of Operation
+Radiation emitted by the fire crosses the airspace between
+the fire and the detector and impinges on the detector front
+face and window. The window allows a broad spectrum
+of radiation to pass into the detector where it impinges
+on the face of the sensing device filter. The filter allows
+only radiation in a tight waveband centered around 4.3
+micrometers in the IR to pass on to the radiation-sensitive
+surface of the sensing device. The radiation striking the
+sensing device minutely raises its temperature causing small
+thermoelectric voltages to be generated. These voltages are
+fed to an amplifier whose output is connected to various
+analytical electronic processing circuits. The processing
+electronics is tailored exactly to the time signature of all
+known hydrocarbon flame sources and ignores false alarm
+sources, such as incandescent lights and sunlight. Alarm
+sensitivity level is accurately controlled by a digital circuit.
+A typical warning system is illustrated in Figure 9-3.
+
+Pneumatic Thermal Fire Detection
+Pneumatic detectors are based on the principles of gas laws.
+The sensing element consists of a closed helium-filled tube
+connected at one end to a responder assembly. As the element
+is heated, the gas pressure inside the tube increases until the
+alarm threshold is reached. At this point, an internal switch
+closes and reports an alarm to the flight deck. The pneumatic
+detector integrity pressure switch opens and triggers the
+fault alarm if the pneumatic detector losses pressure, as in
+the case of a leak.
+
+Continuous-Loop Detector Systems
+Large commercial aircraft almost exclusively use continuous
+thermal sensing elements for powerplant protection, since
+these systems offer superior detection performance and
+coverage, and they have the proven ruggedness to survive in
+the harsh environment of modern turbofan engines.
+A continuous-loop detector, or sensing system, permits
+more complete coverage of a fire hazard area than any
+of the spot-type temperature detectors. Continuous-loop
+systems are versions of the thermal switch system. They are
+overheat systems, heat-sensitive units that complete electrical
+circuits at a certain temperature. There is no rate-of-heatrise sensitivity in a continuous-loop system. Two widely
+used types of continuous-loop systems are the Kidde and
+the Fenwal systems. This text briefly discusses the Fenwal
+system, while the Kidde system is discussed more in-depth.
+Fenwal Continuous-Loop System
+The Fenwal system uses a slender inconel tube packed with
+thermally sensitive eutectic salt and a nickel wire center
+9-3
+
+===== PDF PAGE 353 =====
+Functional Schematic
+
+12V
+
+F
+
+GND
+
+Voltage
+regulator
+
++15V
+
+GND
+
++15V
+
+Duration
+discriminator
+
+2.58
+
+Reset
+counter
+clock
+
+THRESHOLD
+
+Flicker rate
+discriminator
+F
+
+4.3
+Micrometer
+sensor
+SIGNAL
+
+Figure 9-3. Optical fire detection system circuit.
+
+conductor. [Figure 9-4] Lengths of these sensing elements
+are connected in series to a control unit. The elements may
+be of equal or varying length and of the same or different
+temperature settings. The control unit, operating directly from
+the power source, impresses a small voltage on the sensing
+elements. When an overheat condition occurs at any point
+along the element length, the resistance of the eutectic salt
+within the sensing element drops sharply, causing current to
+flow between the outer sheath and the center conductor. This
+
+current flow is sensed by the control unit, which produces a
+signal to actuate the output relay.
+When the fire has been extinguished or the critical temperature
+lowered, the Fenwal system automatically returns to standby
+alert, ready to detect any subsequent fire or overheat
+condition. The Fenwal system may be wired to employ a
+“loop” circuit. In this case, should an open circuit occur, the
+system still signals fire or overheat. If multiple open circuits
+occur, only that section between breaks becomes inoperative.
+Kidde Continuous-Loop System
+In the Kidde continuous-loop system, two wires are imbedded
+in an inconel tube filled with a thermistor core material.
+[Figure 9-5] Two electrical conductors go through the length
+of the core. One conductor has a ground connection to the
+tube and the other conductor connects to the fire detection
+control unit.
+
+Figure 9-4. Fenwal sensing element.
+
+As the temperature of the core increases, electrical resistance
+to ground decreases. The fire detection control unit monitors
+this resistance. If the resistance decreases to the overheat
+set point, an overheat indication occurs in the flight deck.
+Typically, a 10-second time delay is incorporated for the
+9-4
+
+===== PDF PAGE 354 =====
+No. 10 screw terminal
+
+Quick release clamp
+
+No. 8 screw terminal
+Element loop 1
+
+Retaining nut
+End bracket
+
+Aircraft wiring (ref)
+
+Support tube
+Bushing
+Element loop 2
+Wires
+Thermistor core
+
+Inconel tube
+Thermistor
+Electrical conductors
+
+Sheath
+
+Figure 9-5. Kidde continuous-loop system.
+
+overheat indication. If the resistance decreases more to the
+fire set point, a fire warning occurs. When the fire or overheat
+condition is gone, the resistance of the core material increases
+to the reset point and the flight deck indications go away.
+The rate of change of resistance identifies an electrical short
+or a fire. The resistance decreases more quickly with an
+electrical short than with a fire. In addition to fire and overheat
+detection, the Kidde continuous-loop system can supply
+nacelle temperature data to the aircraft condition monitoring
+function of the Aircraft In-Flight Monitoring System (AIMS).
+Sensing Element
+The sensing element consists, essentially, of an infinite
+number of unit thermistors electrically in parallel along its
+length. The resistance of the sensing element is a function of
+the length heated, as well as the temperature-heating of less
+than the full length of element, which requires that portion to
+be heated to a higher temperature to achieve the same total
+resistance change. As a result, the system responds not to a
+fixed alarm temperature but to the sum of the resistances (in
+parallel) that reflects a nonarithmetic “average.” The sensing
+element may be routed close to nonhazardous hot spots that
+may have a normal temperature well above the overall alarm
+temperature, without danger of causing a false alarm. This
+feature permits the alarm point to be set close to the maximum
+general ambient temperature, giving greater sensitivity to a
+general overheat or fire without being subject to false alarms
+from localized nonhazardous hot spots.
+
+Combination Fire & Overheat Warning
+The analog signal from the thermistor sensing element permits
+the control circuits to be arranged to give a two-level response
+from the same sensing element loop. The first is an overheat
+warning at a temperature level below the fire warning,
+indicating a general engine compartment temperature
+rise, which could be caused by leakage of hot bleed air or
+combustion gas into the engine compartment. It could be an
+early warning of fire and would alert the crew to appropriate
+action to reduce the engine compartment temperature. The
+second-level response would be at a level above that attainable
+by the leaking hot gas and would be the fire warning.
+Temperature Trend Indication
+The analog signal produced by the sensing element loop as
+its temperature changes can readily be converted to signals
+suitable for meter or cathode ray tube (CRT) display to
+indicate engine bay temperature increases from normal.
+A comparison of the readings from each loop system also
+provides a check on the condition of the fire detection system,
+because the two loops should normally read alike.
+System Test
+The integrity of the continuous-loop fire detection system
+may be tested by actuating a test switch in the flight deck,
+which switches one end of the sensing element loop from
+its control circuit to a test circuit, built into the control unit,
+that simulates the sensing element resistance change due to
+fire. [Figure 9-6] If the sensing element loop is unbroken,
+the resistance detected “seen” by the control circuit is now
+9-5
+
+===== PDF PAGE 355 =====
+Sensing element loop
+
+Test switch
+Test circuit
+Monitor circuit
+Control unit
+Figure 9-6. Continuous-loop fire detection system test circuit.
+
+that of the simulated fire and so the alarm is signaled. This
+demonstrates, in addition to the continuity of the sensing
+element loop, the integrity of the alarm indicator circuit and
+the proper functioning of the control circuits. The thermistor
+properties of the sensing element remain unchanged for the
+life of the element (no chemical or physical changes take
+place on heating), so that it functions properly as long as it
+is electrically connected to the control unit.
+
+Automatic Self-Interrogation
+Dual-loop systems automatically perform the loop switching
+and decision-making function required of the flight crew
+upon appearance of the fault indication in the flight deck.
+Automatic self-interrogation eliminates the fault indication
+and assures the immediate appearance of the fire indication
+should fire occur while at least one loop of the dual-loop
+system is operative. Should the control circuit from a single
+loop signal “fire,” the self-interrogation circuit automatically
+tests the functioning of the other loop. If it tests operative,
+the circuit suppresses the fire signal (because the operative
+loop would have signaled if a fire existed). If, however, the
+other loop tests inoperative, the circuit outputs a fire signal.
+The interrogation and decision takes place in milliseconds,
+so that no delay occurs if a fire actually exists.
+Support Tube-Mounted Sensing Elements
+When you want to mount the sensing elements on the engine,
+and in some cases, on the aircraft structure, the support tubemounted element solves the problem of providing sufficient
+element support points, and greatly facilitates the removal and
+reinstallation of the sensing elements for engine or system
+maintenance.
+
+Fault Indication
+Provision can be made in the control unit to send a fault signal
+to activate a fault indicator whenever the short discriminator
+circuit detects a short in the sensing element loop. While this
+is a requirement in 14 CFR for transport category aircraft
+because such a short disables the fire detection system, it is
+offered as an option for other aircraft types in which it may
+not be a requirement.
+
+Most modern installations use the support tube concept of
+mounting sensing elements for better maintainability as well
+as increased reliability. The sensing element is attached to
+a prebent stainless steel tube by closely spaced clamps and
+bushings, where it is supported from vibration damage and
+protected from pinching and excessive bending. The support
+tube-mounted elements can be furnished with either single- or
+dual-sensing elements.
+
+Dual-Loop Systems
+Dual-loop systems are, in essence, two complete basic fire
+detection systems with their output signals connected so that
+both must signal to result in a fire warning. This arrangement,
+called “AND” logic, results in greatly increased reliability
+against false fire warnings from any cause. Should one of
+the two loops be found inoperative at the preflight integrity
+test, a flight deck selector switch disconnects that loop and
+allows the signal from the other loop alone to activate the
+fire warning. Since the single operative loop meets all fire
+detector requirements, the aircraft can be safely dispatched,
+and maintenance deferred to a more convenient time.
+However, should one of the two loops become inoperative
+in flight and a fire subsequently occur, the fire signaling
+loop activates a flight deck fault signal that alerts the flight
+crew to select single-loop operation to confirm the possible
+occurrence of fire.
+
+Being prebent to the designed configuration assures its
+installation in the aircraft precisely in its designed location,
+where it has the necessary clearance to be free from the
+possibility of the elements chafing against engine or aircraft
+structure. The assembly requires only a few attachment
+points, and removal for engine maintenance is quick and
+easy. Should the assembly require repair or maintenance, it
+is easily replaced with another assembly, leaving the repair
+for the shop. A damaged sensing element is easily replaced
+in the assembly. The assembly is rugged, easy to handle, and
+unlikely to suffer damage during handling for installation
+or removal.
+Fire Detection Control Unit (Fire Detection Card)
+The control unit for the simplest type of system typically
+contains the necessary electronic resistance monitoring
+and alarm output circuits, housed in a hermetically sealed
+aluminum case and filled with a mounting bracket and
+circular electrical connector. For more sophisticated systems,
+control modules may be employed that contain removable
+9-6
+
+===== PDF PAGE 356 =====
+control cards having circuitry for individual hazard areas, and/
+or unique functions. In the most advanced applications, the
+detection system circuitry controls all aircraft fire protection
+functions, including fire detection and extinguishing for
+engines, APUs, cargo bays, and bleed air systems.
+Fire Zones
+The powerplant installation has several designated fire
+zones: (1) the engine power section; (2) the engine accessory
+section; (3) except for reciprocating engines, any complete
+powerplant compartment in which no isolation is provided
+between the engine power section and the engine accessory
+section; (4) any APU compartment; (5) any fuel-burning
+heater and other combustion equipment installation; (6)
+the compressor and accessory sections of turbine engines;
+and (7) combustor, turbine, and tailpipe sections of turbine
+engine installations that contain lines or components carrying
+flammable fluids or gases. Figure 9-7 shows fire protection
+for a large turbo fan engine.
+In addition to the engine and nacelle area zones, other areas
+on multiengine aircraft are provided with fire detection
+and protection systems. These areas include baggage
+compartments, lavatories, APU, combustion heater
+installations, and other hazardous areas. Discussion of fire
+protection for these areas is not included in this section, which
+is limited to engine fire protection.
+
+Engine Fire Extinguishing System
+Commuter aircraft certificated under 14 CFR part 23 are
+required to have, at a minimum, a one-shot fire extinguishing
+system. All transport category aircraft certificated under 14
+CFR part 25 are required to have two discharges, each of
+which produces adequate agent concentration. An individual
+one-shot system may be used for APUs, fuel burning heaters,
+and other combustion equipment. For each “other” designated
+fire zone, two discharges (two-shot system) must be provided,
+each of which produces adequate agent concentration.
+[Figure 9-8]
+
+Fire Extinguishing Agents
+The fixed fire extinguisher systems used in most engine fire
+protection systems are designed to dilute the atmosphere with
+an inert agent that does not support combustion. Many systems
+use perforated tubing or discharge nozzles to distribute the
+extinguishing agent. High rate of discharge (HRD) systems
+use open-end tubes to deliver a quantity of extinguishing
+agent in 1 to 2 seconds. The most common extinguishing
+agent still used today is Halon 1301 because of its effective
+firefighting capability and relatively low toxicity (U.L.
+classification Group 61). Noncorrosive, Halon 1301 does not
+affect the material it contacts and requires no clean-up when
+discharged. Halon 1301 is the current extinguishing agent for
+commercial aircraft, but a replacement is under development.
+Because Halon 1301 depletes the ozone layer only recycled
+Halon 1301 is currently available. Halon 1301 is used until
+a suitable replacement is developed. Some military aircraft
+use HCL-125, which the Federal Aviation Administration
+(FAA) is testing for use in commercial aircraft.
+Carbon dioxide (CO2) is an effective extinguishing agent. It
+is most often used in fire extinguishers that are available on
+the ramp to fight fires on the exterior of the aircraft, such as
+engine or APU fires. CO2 has been used for many years to
+extinguish flammable fluid fires and fires involving electrical
+equipment. It is noncombustible and does not react with most
+substances. It provides its own pressure for discharge from
+the storage vessel, except in extremely cold climates where
+a booster charge of nitrogen may be added to winterize the
+system. Normally, CO2 is a gas, but it is easily liquefied by
+compression and cooling. After liquefaction, CO2 remains in
+a closed container as both liquid and gas. When CO2 is then
+discharged to the atmosphere, most of the liquid expands to
+gas. Heat absorbed by the gas during vaporization cools the
+remaining liquid to –110 °F, and it becomes a finely divided
+white solid, dry ice snow.
+
+Engine fire detector (upper)
+
+Engine fire detector (lower)
+Engine fire detector (lower FWD)
+
+Engine section side view
+
+Engine section view (looking forward)
+
+Figure 9-7. Large turbofan engine fire zones.
+
+9-7
+
+===== PDF PAGE 357 =====
+AFT bottle
+
+Forward bottle
+
+No. 2 engine
+
+Directional control valve
+APU
+
+Thermal relief outlet
+No. 1 engine
+
+Figure 9-8. Typical fire extinguishing system.
+
+Turbine Engine Ground Fire Protection
+On many aircraft, means are usually provided for rapid access
+to the compressor, tailpipe, or burner compartments. Many
+aircraft systems are equipped with spring-loaded or pop-out
+access doors in the skin of the various compartments. Internal
+engine tailpipe fires that take place during engine shutdown
+or false starts can be blown out by motoring the engine with
+the starter. A running engine can be accelerated to rated
+speed to achieve the same result. If such a fire persists, a fire
+extinguishing agent can be directed into the tailpipe. It should
+be remembered that excessive use of CO2, or other agents
+that have a cooling effect, can shrink the turbine housing on
+the turbine and cause the engine to disintegrate.
+Containers
+Fire extinguisher containers (HRD bottles) store a liquid
+halogenated extinguishing agent and pressurized gas
+(typically nitrogen) normally manufactured from stainless
+steel. Depending upon design considerations, alternate
+materials are available including titanium. Containers are
+also available in a wide range of capacities and are produced
+under Department of Transportation (DOT) specifications or
+exemptions. Most aircraft containers are spherical in design,
+which provides the lightest weight possible. However,
+cylindrical shapes are available where space limitations are
+a factor. Each container incorporates a temperature/pressure
+sensitive safety relief diaphragm that prevents container
+pressure from exceeding container test pressure in the event
+of exposure to excessive temperatures. [Figure 9-9]
+
+Discharge Valves
+Discharge valves are installed on the containers. A cartridge
+(squib) and frangible disc type valve are installed in the
+outlet of the discharge valve assembly. Special assemblies
+having solenoid-operated or manually-operated seat type
+valves are also available. Two types of cartridge disc-release
+techniques are used. Standard release type uses a slug driven
+by explosive energy to rupture a segmented closure disc.
+For high temperature or hermetically sealed units, a direct
+explosive impact type cartridge is used, which applies
+fragmentation impact to rupture a prestressed corrosionresistant steel diaphragm. Most containers use conventional
+metallic gasket seals that facilitate refurbishment following
+discharge. [Figure 9-10]
+Pressure Indication
+A wide range of diagnostics are utilized to verify the fire
+extinguisher agent charge status. A simple visually indicated
+gauge is available, typically a vibration-resistant helical
+bourdon-type indicator. [see Figure 9-9]
+A combination gauge switch visually indicates actual
+container pressure and also provides an electrical signal if
+container pressure is lost, precluding the need for discharge
+indicators. A ground checkable diaphragm-type low-pressure
+switch is commonly used on hermetically sealed containers.
+The Kidde system also has a temperature compensated
+pressure switch that tracks the container pressure variations
+with temperatures by using a hermetically sealed reference
+chamber.
+9-8
+
+===== PDF PAGE 358 =====
+Nameplate
+
+Weldment
+Mounting lug
+Data plate
+
+Caution plate
+
+Fill fitting
+Discharge outlet
+Cartridge
+
+CAU
+
+TION
+
+Caution tag
+
+Pressure device (pressure switch and gauge guard)
+
+Figure 9-9. Fire extinguisher containers (HRD bottles).
+
+Figure 9-10. Discharge valve (left) and cartridge (squib) (right).
+
+Two-Way Check Valve
+A complete line of two-way check valves is available,
+manufactured from either lightweight aluminum or steel.
+These valves are required in a two-shot system to prevent
+the agent in a reserve container from backing up into the
+previous emptied main container. Valves are supplied with
+either MS-33514 or MS-33656 fitting configurations.
+Discharge Indicators
+Discharge indicators provide immediate visual evidence
+of container discharge on fire extinguishing systems. Two
+kinds of indicators can be furnished: thermal and discharge.
+Both types are designed for aircraft and skin mounting.
+[Figure 9-11]
+
+Thermal Discharge Indicator (Red Disc)
+The thermal discharge indicator is connected to the fire
+container relief fitting and ejects a red disc to show when
+container contents have dumped overboard due to excessive
+heat. The agent discharges through the opening created when
+the disc blows out. This gives the flight and maintenance
+crews an indication that the fire extinguisher container needs
+
+to be replaced before the next flight.
+
+Yellow Disc Discharge Indicator
+If the flight crew activates the fire extinguisher system, a
+yellow disc is ejected from the skin of the aircraft fuselage.
+This is an indication for the maintenance crew that the fire
+extinguishing system was activated by the flight crew, and
+that the fire extinguishing container needs to be replaced
+before the next flight.
+Fire Switch
+Fire switches are typically installed on the center overhead
+panel or center console in the flight deck. [Figure 9-12]
+When the fire switch is activated, the following happens: the
+engine stops because the fuel control shuts off, the engine is
+isolated from the aircraft systems, and the fire extinguishing
+system is activated. Some aircraft use fire switches that need
+to be pulled and turned to activate the system, while others
+use a push-type switch with a guard. To prevent accidental
+activation of the fire switch, a lock is installed that releases the
+fire switch only when a fire has been detected. This lock can
+be manually released by the flight crew if the fire detection
+9-9
+
+===== PDF PAGE 359 =====
+Fire Detection System Maintenance
+Fire detector sensing elements are located in many highactivity areas around aircraft engines. Their location, together
+with their small size, increases the chance of damage to
+the sensing elements during maintenance. An inspection
+and maintenance program for all types of continuous-loop
+systems should include the following visual checks. These
+procedures are examples and should not be used to replace
+the applicable manufacturer’s instructions.
+
+Figure 9-11. Discharge indicators.
+
+Sensing elements of a continuous-loop system should be
+inspected for the following:
+1.
+
+Cracked or broken sections caused by crushing or
+squeezing between inspection plates, cowl panels, or
+engine components.
+
+2.
+
+Abrasion caused by rubbing of the element on cowling,
+accessories, or structural members.
+
+3.
+
+Pieces of safety wire or other metal particles that may
+short the spot-detector terminals.
+
+4.
+
+Condition of rubber grommets in mounting clamps,
+which may be softened from exposure to oils or
+hardened from excessive heat.
+
+5.
+
+Dents and kinks in sensing element sections. Limits on
+the element diameter, acceptable dents and kinks, and
+degree of smoothness of tubing contour are specified
+by the manufacturer. No attempt should be made to
+straighten any acceptable dent or kink, since stresses
+may be set up that could cause tubing failure. (See
+illustration of kinked tubing in Figure 9-14.)
+
+6.
+
+Nuts at the end of the sensing elements [Figure 9-15]
+should be inspected for tightness and the presence of
+a safety wire. Loose nuts should be retorqued to the
+value specified by the manufacturer’s instructions.
+Some types of sensing element connection joints
+require the use of copper crush gaskets, which should
+be replaced any time a connection is separated.
+
+7.
+
+If shielded flexible leads are used, they should be
+inspected for fraying of the outer braid. The braided
+sheath is composed of many fine metal strands woven
+into a protective covering surrounding the inner
+insulated wire. Continuous bending of the cable or
+rough treatment can break these fine wires, especially
+those near the connectors.
+
+8.
+
+Sensing element routing and clamping should be
+inspected carefully. [Figure 9-14] Long, unsupported
+sections may permit excessive vibration that can cause
+breakage. The distance between clamps on straight
+runs, usually about 8–10 inches, is specified by the
+manufacturer. At end connectors, the first support
+clamp is usually located about four to six inches from
+
+Figure 9-12. Engine fire switches.
+
+system malfunctions. [Figure 9-13]
+Warning Systems
+Visible and audible warning systems are installed in the
+flight deck to alert the flight crew. A horn sounds and one
+or several warning lights illuminate to alert the flight crew
+that an engine fire has been detected. These indications stop
+when the fire is extinguished.
+
+9-10
+
+===== PDF PAGE 360 =====
+Center
+
+ch 2
+
+Dis
+
+Engine fire override switch
+
+1
+
+LE
+
+FT
+
+Spring return
+(switch open)
+
+Push-pull contacts (internal)
+
+Discharge 2
+(switch closed)
+
+Rotary contacts (internal)
+
+1
+
+2
+
+L
+E
+F
+T
+
+Engine fire warning light
+Electrical connector
+Engine fire switch (P8)
+
+DISCH
+
+Spring return
+(switch open)
+Discharge 2
+(switch closed)
+
+Switch positions
+Engine fire
+override
+switch
+pushed
+
+Solenoid energized
+
+Switch locked
+
+Switch released electrically
+
+Switch released manually
+
+Switch pulled
+
+Figure 9-13. Engine fire switch operation.
+
+Sharp bend
+
+Crushed
+section
+
+Heat-sensing element
+Long unsupported loop
+
+Kink
+
+Figure 9-14. Sensing element defects.
+
+the end connector fittings. In most cases, a straight run
+of one inch is maintained from all connectors before a
+bend is started, and an optimum bend radius of three
+inches is normally applied.
+9.
+
+Interference between a cowl brace and a sensing
+element can cause rubbing. [Figure 9-16] This
+interference may cause wear and short the sensing
+element.
+
+10. Grommets should be installed on the sensing element
+so that both ends are centered on its clamp. The split
+end of the grommet should face the outside of the
+nearest bend. Clamps and grommets should fit the
+element snugly. [Figure 9-17]
+
+Figure 9-15. Connector joint fitting attached to the structure.
+
+Fire Detection System Troubleshooting
+The following troubleshooting procedures represent the
+most common difficulties encountered in engine fire
+detection systems:
+1.
+
+Intermittent alarms are most often caused by an
+intermittent short in the detector system wiring. Such
+shorts may be caused by a loose wire that occasionally
+touches a nearby terminal, a frayed wire brushing
+against a structure, or a sensing element rubbing
+against a structural member long enough to wear
+through the insulation. Intermittent faults often can
+be located by moving wires to re-create the short.
+
+9-11
+
+===== PDF PAGE 361 =====
+indicator light, or an opening in the sensing element
+or connecting wiring. When the test switch fails to
+provide an alarm, the continuity of a two-wire sensing
+loop can be determined by opening the loop and
+measuring the resistance. In a single-wire, continuousloop system, the center conductor should be grounded.
+
+Loose clamp
+
+Rub point
+
+Fire Extinguisher System Maintenance
+Practices
+
+Figure 9-16. Rubbing interference.
+
+Grommet
+
+Clamp hinge
+
+Clamp screw
+
+Bracket
+
+Heat-sensing element
+Figure 9-17. Inspection of fire detector loop clamp.
+
+2.
+
+Fire alarms and warning lights can occur when no
+engine fire or overheat condition exists. Such false
+alarms can be most easily located by disconnecting
+the engine sensing loop connections from the control
+unit. If the false alarm ceases when the engine sensing
+loop is disconnected, the fault is in the disconnected
+sensing loop, which should be examined for areas
+that have been bent into contact with hot parts of the
+engine. If no bent element can be found, the shorted
+section can be located by isolating the connecting
+elements consecutively around the entire loop.
+
+3.
+
+Kinks and sharp bends in the sensing element can
+cause an internal wire to short intermittently to the
+outer tubing. The fault can be located by checking the
+sensing element with an ohm meter while tapping the
+element in the suspected areas to produce the short.
+
+4.
+
+5.
+
+Moisture in the detection system seldom causes a
+false fire alarm. If, however, moisture does cause an
+alarm, the warning persists until the contamination is
+removed or boils away, and the resistance of the loop
+returns to its normal value.
+Failure to obtain an alarm signal when the test switch
+is actuated may be caused by a defective test switch or
+control unit, the lack of electrical power, inoperative
+
+Regular maintenance of fire extinguisher systems typically
+includes such items as the inspection and servicing of fire
+extinguisher bottles (containers), removal and reinstallation
+of cartridge and discharge valves, testing of discharge tubing
+for leakage, and electrical wiring continuity tests. The
+following paragraphs contain details of some of the most
+typical maintenance procedures.
+Fire extinguisher containers are checked periodically to
+determine that the pressure is between the prescribed
+minimum and maximum limits. Changes of pressure with
+ambient temperatures must also fall within prescribed
+limits. The graph shown in Figure 9-18 is typical of the
+pressure temperature curve graphs that provide maximum
+and minimum gauge readings. If the pressure does not fall
+within the graph limits, the extinguisher container is replaced.
+The service life of fire extinguisher discharge cartridges is
+calculated from the manufacturer’s date stamp, which is
+usually placed on the face of the cartridge. The cartridge
+service life recommended by the manufacturer is usually in
+terms of years. Cartridges are available with a service life
+of 5 years or more. To determine the unexpired service life
+of a discharge cartridge, it is usually necessary to remove
+the electrical leads and discharge line from the plug body,
+which can then be removed from the extinguisher container.
+
+900
+800
+700
+
+Pressure (psig)
+
+Loose clamp
+
+600
+
+Maximum gauge reading
+
+500
+400
+300
+200
+
+Minimum gauge reading
+
+100
+0
+
+−40 −30 −20 −10
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Temperature (°F)
+Figure 9-18. Fire extinguisher container pressure-temperature chart.
+
+9-12
+
+===== PDF PAGE 362 =====
+Be careful when replacing cartridge and discharge valves.
+Most new extinguisher containers are supplied with
+their cartridge and discharge valve disassembled. Before
+installation on the aircraft, properly assemble the cartridge
+in the discharge valve and connect the valve to the container,
+usually by means of a swivel nut that tightens against a
+packing ring gasket. [Figure 9-19]
+
+Mounting lugs (4)
+
+Pressure gauge
+Bottle
+
+If a cartridge is removed from a discharge valve for any
+reason, it should not be used in another discharge valve
+assembly, since the distance the contact point protrudes may
+vary with each unit. Thus, continuity might not exist if a used
+plug that had been indented with a long contact point were
+installed in a discharge valve with a shorter contact point.
+
+Packing ring
+Bottle outlet
+Cartridge
+
+The preceding material in this chapter is general in nature,
+addressing the principles involved and general procedures to
+be followed. When actually performing maintenance, always
+refer to the applicable maintenance manuals and other related
+publications pertaining to a particular aircraft.
+
+Boeing 777 Aircraft Fire Detection &
+Extinguishing System
+
+Strainer
+
+Contact assembly
+Gasket
+
+The following section discusses the fire detection and
+extinguishing system of the B777 aircraft. The information
+is included only for familiarization purposes.
+Each engine has two fire detection loops: loop 1 and loop
+2. A fire detection card in the system card file monitors the
+loops for fires, overheat conditions, and faults. There is a fire
+detection card for each engine.
+Overheat Detection
+If the fire detection loops detect an overheat condition, the
+fire detection card sends a signal to the AIMS and to the
+warning electronics unit. The following indications occur
+in the flight deck:
+•
+
+The master caution lights come on.
+
+•
+
+The caution aural operates.
+
+•
+
+An engine overheat caution message shows.
+
+Fire Detection
+If an engine fire occurs, the fire detection card sends a
+signal to the AIMS and to the warning electronics unit, and
+a warning message illuminates. The following indications
+occur in the flight deck:
+•
+
+The master warning lights come on.
+
+•
+
+The fire warning aural operates.
+
+•
+
+An engine fire warning message shows.
+
+•
+
+The engine fire warning light comes on.
+
+Nut
+
+Swivel nut
+
+Discharge plug (or valve) body
+Figure 9-19. Components of fire extinguisher container.
+
+•
+
+The fuel control switch fire warning light comes on.
+
+Nacelle Temperature Recording
+The fire detection card measures the average temperature of
+the loops. This data goes to the AIMS through the system’s
+ARINC 629 buses and is recorded by the aircraft condition
+monitoring function.
+Continuous Fault Monitoring
+The fire detection card monitors the two loops and their
+wiring for defects. In normal (dual loop) operation, both
+loops must have a fire or overheat condition to cause the
+flight deck indications.
+If a failure occurs in a loop, the fire detection card sends the
+data to the AIMS. A status message shows, and the system
+changes to single-loop operation. In this mode, fire/overheat
+indications occur when one loop is defective and the other
+has a fire or overheat condition.
+
+9-13
+
+===== PDF PAGE 363 =====
+Single/Dual Loop Operation
+The fire detection card monitors the loops for faults. In
+normal (dual loop) operation, both loops must have a fire or
+overheat condition to cause the flight deck indications. If one
+detection loop fails, the card sends data about the failure to
+the AIMS, and a status message shows. The card changes to
+single-loop operation, if necessary. If both detection loops
+fail, an advisory message and status messages are displayed,
+and the fire detection system does not operate.
+System Test
+Built-in test equipment (BITE) performs a test of the engine
+fire detection system for these conditions:
+•
+
+When the system first gets power.
+
+•
+
+After a power interrupt.
+
+•
+
+Every 5 minutes of operation. [Figures 9-20 and 9-21]
+
+Boeing 777 Fire Extinguisher System
+
+Fire Extinguisher Containers
+
+The B777 aircraft has two fire extinguishing bottles that
+contain Halon fire extinguishing agent pressurized with
+nitrogen. The engine fire switches in the flight deck are pulled
+and rotated to release the Halon. Halon from each bottle can
+be discharged to the right or left engine. Engine indicating
+and crew alerting system (EICAS) messages, status messages,
+
+and indicator lights show when the bottle pressure is low. The
+two engine fire extinguishing bottles are located behind the
+right sidewall lining of the forward cargo compartment, aft
+of the cargo door. [Figure 9-22]
+The two engine fire extinguishing bottles are identical. Each
+bottle has these following components:
+•
+
+A safety relief and fill port,
+
+•
+
+A handle for removal and installation,
+
+•
+
+A pressure switch,
+
+•
+
+Two discharge assemblies,
+
+•
+
+An identification plate, and
+
+•
+
+Four mounting lugs. [Figures 9-23, 9-24, 9-25]
+
+The bottles contain Halon fire extinguishing agent pressurized
+with nitrogen. If the pressure in the bottle becomes too high,
+the safety relief and fill port opens so that the bottle does not
+explode. The discharge assembly has an explosive squib. An
+electric current from the fire extinguishing circuit fires the
+squib. This releases the Halon through the discharge port.
+The pressure switch gives flight deck indications when bottle
+pressure decreases. The switch monitors the pressure inside
+the bottle and is normally open. When the pressure decreases
+because of a leak or bottle discharge, the switch closes an
+indicating circuit.
+
+AIMS
+
+CAUTION
+
+Master caution light (2)
+Engine fire
+detectors
+
+Speaker (2)
+Loop 1
+Loop 2
+
+L&R Systems
+ARINC 629
+buses
+
+WARNING
+
+Master warning light (2)
+L FUEL CONTROL R
+
+Fire
+detection
+card - ENG
+
+RUN
+
+CUTOFF
+
+P10 control stand
+FIRE/
+OVERHEAT
+TEST
+
+ENGINE BOTTLE
+2 DISCHARGE
+
+DISCH
+
+DISCH
+
+LEFT
+
+RIGHT
+
+Pressure switch cargo
+fire/engine control panel
+
+ENGINE BOTTLE
+1 DISCHARGE
+
+P8 engine fire panel
+
+Figure 9-20. Engine fire detection system.
+
+9-14
+
+===== PDF PAGE 364 =====
+Right engine fire
+switch APU fire switch
+28V DC
+BAT. BUS
+FIRE HANDLE
+UNLOCK
+
+Fuel spar
+ignition relay
+
+Unlocking
+Solendid
+
+P310 standby power mgmt panel
+Loop 1
+
+Left engine fire
+detection card
+
+MD&T
+
+Fire warning switch
+Loop 2
+
+Fire alarm 1
+
+P105 left integration panel
+
+Left engine fire switch
+
+MD&T
+
+Left fuel control switch
+L
+
+R
+
+WARNING
+CAUTION
+
+WEU (2)
+Fire alarm 2
+
+Master warning/
+caution light (2)
+
+}
+
+L
+
+• Fire alarm
+• OVHT alarm
+• Temp data
+• Fault data
+
+R
+
+ASG card (2)
+
+Speaker (2)
+
+AIMS cabinet (2)
+
+Systems arine 629 buses
+Figure 9-21. Engine fire detection system functional description.
+
+ENG BTL
+
+ENG BTL
+
+1 DISCH
+
+2 DISCH
+
+Engine bottle discharge lights
+Engine fire switches
+
+DISCH
+
+1
+
+L
+E
+F
+T
+
+2
+
+DISCH
+
+1
+
+Front spar (ref)
+
+2
+
+R
+I
+G
+H
+T
+
+Discharge nozzles
+Engine fire extinguishing bottles
+
+ENGINE FIRE PANEL (P8)
+
+Discharge manifold
+Discharge nozzles
+
+Figure 9-22. Boeing 777 fire extinguisher container location.
+
+9-15
+
+===== PDF PAGE 365 =====
+The engine fire switch has four functions:
+
+Safety relief and fill port
+Handle
+Mounting lug (4)
+
+Identification plate
+Pressure
+switch
+
+Discharge assembly (2)
+Squib (2)
+Discharge port (2)
+
+Pressure switch
+electrical
+connector
+
+Pressure switch test button
+Figure 9-23. Fire extinguishing bottle.
+
+Squib
+The squib is installed in the discharge assembly at the bottom
+of the fire container. A fire container has two squibs, one for
+each engine. The squib is an electrically operated explosive
+device. When the squib is activated, it fires a slug through
+the breakable disc, and nitrogen pressure inside the bottle
+pushes the Halon through the discharge port. The squib fires
+when the fire switch is pulled and turned to the DISCH 1 or
+DISCH 2 position. [Figure 9-22]
+
+ENG BTL
+
+ENG BTL
+
+1 DISCH
+
+2 DISCH
+
+1
+
+L
+E
+F
+T
+
+2
+
+DISCH
+
+1
+
+Gives an indication of an engine fire,
+
+•
+
+Stops the engine,
+
+•
+
+Isolates the engine from the aircraft systems, and
+
+•
+
+Controls the engine fire extinguishing system.
+
+The fire switch assembly incorporates a solenoid that locks
+the fire switch so that the flight crew cannot pull it accidently.
+If an engine has a fire, the fire warning light comes on and the
+solenoid energizes to release the switch. When the solenoid
+is energized, the fire switch can be pulled.
+When the fire detection system malfunctions or the solenoid
+is defective, and the flight crew wants to extinguish an engine
+fire, someone must push the fire override switch. The fire
+override switch allows the fire switch to be pulled when the
+solenoid is not energized. When the fire switch is pulled, the
+push-pull switch contacts operate electrical circuits that stop
+the engine and isolate it from the aircraft systems. With the
+switch pulled, it can be rotated to left or right to a mechanical
+stop at the discharge position. The rotary switch contacts
+close and operate the fire extinguishing system.
+When the fire switch is pulled, the switch isolates the
+following aircraft systems from the engine:
+
+Engine Fire Switches
+The engine fire panel is in the flight deck on the P8 aisle stand.
+The engine fire panel has a fire switch for each engine and a
+discharge light for each fire bottle. [Figure 9-26]
+
+DISCH
+
+•
+
+•
+
+Closes the fuel spar valve.
+
+•
+
+Deenergizes the engine fuel metering unit (FMU)
+cutoff solenoid.
+
+•
+
+Closes the engine hydraulic pump shutoff valve.
+
+•
+
+Depressurizes the engine driven hydraulic pump valve.
+
+•
+
+Closes the pressure regulator and shutoff valve.
+
+•
+
+Removes power from thrust reverser isolation valve.
+
+•
+
+Trips the generator field.
+
+•
+
+Trips the backup generator field. [Figure 9-27]
+
+Discharge assembly
+2
+
+R
+I
+G
+H
+T
+
+Bottle 1
+
+ENGINE FIRE PANEL (P8)
+Left engine
+
+To discharge nozzles
+Right engine
+
+Bottle 2
+
+To discharge nozzles
+Check valve
+Pressure switch
+
+Discharge manifold
+
+Figure 9-24. Location of fire extinguishing bottles.
+
+9-16
+
+===== PDF PAGE 366 =====
+Diaphragm
+
+Bottle (REF)
+
+Gland nut
+
+Discharge port
+Discharge assembly
+Squib
+
+Ground lug
+
+Electrical connector
+Figure 9-25. Squib or cartridge.
+
+Engine bottle discharge lights
+ch 2
+
+Dis
+
+LE
+
+FT
+
+Quick release fastener (4)
+
+1
+
+D
+
+E
+N
+G
+B
+IS TL
+C
+H
+
+2
+
+D
+
+E
+N
+G
+B
+IS TL
+C
+H
+
+1
+
+Engine fire warning light
+ch 2
+
+Dis
+1
+
+LE
+
+FT
+
+Electrical connector
+Engine fire override switch
+
+Engine fire switch
+
+Figure 9-26. Fire switch.
+
+Engine Fire Operation
+If an engine has a fire, the engine fire detection system gives a
+fire warning in the flight deck. The engine fire warning lights
+come on to identify which fire switch to use to extinguish the
+fire. The solenoid in the fire switch energizes and releases the
+switch so that the fire switch can be pulled. If the solenoid
+does not energize, push the fire override switch to release
+the fire switch manually. When the fire switch is pulled, it
+stops the engine, and the fire switch isolates the engine from
+the aircraft systems.
+If the fire warnings do not go away when the switch is pulled,
+
+position the switch to the DISCH 1 or DISCH 2 position, and
+hold the switch against the stop for one second. This fires
+the squib in the fire extinguisher container and releases the
+fire extinguishing agent into the engine nacelle. Ensure that
+the engine bottle discharge light comes on. If the first bottle
+does not extinguish the fire, the switch must be placed to the
+other DISCH position. This fires the squib for the other bottle.
+
+APU Fire Detection & Extinguishing System
+The APU fire protection system is similar in design to engine
+fire protection systems, but there are some differences.
+The APU is often operated with no personnel in the flight
+9-17
+
+===== PDF PAGE 367 =====
+}
+
+28V DC
+BAT. BUS
+FIRE HANDLE
+UNLOCK
+
+P310 standby power
+management panel
+
+Engine fire detection circuit
+RUN
+
+Solenoid
+CUTOFF
+
+} AIMS
+ENG fuel spar/
+ignition relay
+} Fuel spar valve circuit
+} Engine FMU cutoff solenoid
+} EDP shutoff valve circuit
+} EDP depressurization circuit
+} Pressure regulator and shutoff valve circuit
+} Thrust reverser isolation valve circuit
+} Generator field circuit
+
+} Backup generator field circuit
+
+}
+
+Engine fire extinguishing circuit
+
+Engine fire switch
+Figure 9-27. Engine fire switch circuit.
+
+deck and; the APU fire protection system can operate in
+an unattended mode on the ground with the engines not
+running. If there is an APU fire in the unattended mode, the
+fire extinguisher discharges automatically. The APU operates
+in the attended mode when at least one engine is running. If
+there is an APU fire in this mode, the crew discharges the
+bottle manually. Fire switches are located on the cargo fire/
+engine control panel and the service and APU shutdown
+panel located outside the aircraft on the nose landing gear.
+[Figure 9-28]
+
+switch against the discharge stop for one second. This fires
+the bottle squib and releases the fire extinguishing agent into
+the APU compartment. Verify that the APU bottle discharge
+light comes on. [Figure 9-29]
+
+APU Fire Warning
+If there is an APU fire, the APU fire detection system gives
+fire warnings and automatically stops the APU. The APU fire
+warning light comes on to identify the correct fire switch to
+use to extinguish the fire. The fire switch solenoid releases
+the switch so that it can be pulled up. If the APU is running,
+it stops when the fire switch is pulled. The fire switch isolates
+the APU from the aircraft systems.
+Fire Bottle Discharge
+If the fire warnings do not go away with the switch out,
+put the switch to the left or right DISCH position. Hold the
+9-18
+
+===== PDF PAGE 368 =====
+P40 service and APU shutdown panel
+
+Fire bottle armed light
+
+Bottle discharged light
+
+APU fire shutdown switch
+APU bottle discharge switch
+
+Figure 9-28. P40 service and APU shutdown panel.
+
+Cargo fire/engine control panel (P5)
+Master
+Dim &
+Test
+
+A A
+
+Test
+button
+
+APU bottle discharge
+APU fire switch
+disch
+
+28V DC hot battery bus
+
+Pressure switch
+
+Fire EXT APU
+disch
+
+APU
+remote
+warning
+
+In
+Out
+
+APU fire extinguishing bottle
+
+Fire/Overheat test
+
+APU bottle discharge
+10 seconds delay
+Fire alarm 1
+Unattended
+fire alarm
+28V DC hot
+APU fuel
+battery bus system & ELMS
+APU EXT shutdown
+APU RMT fire indicator/auto discharge arm
+P310 standby power management panel
+
+APU fire shutdown
+
+A
+
+Fire bottle armed
+A
+
+AIMS cabinet (2)
+
+Bottle discharged
+P40 service and APU shutdown panel
+
+Figure 9-29. APU fire extinguishing circuit.
+
+9-19
+

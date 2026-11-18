@@ -1,0 +1,1529 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 2 (Engine Fuel & Fuel Metering Systems), PDF pages 98-115
+
+===== PDF PAGE 98 =====
+Vent chamber
+
+Idle
+spring
+A B C D
+Balance
+diaphragm
+Sealing
+diaphragm
+
+Vapor
+separator
+
+E
+Poppet
+valve and
+diaphram
+Fuel
+
+Air
+diaphragm
+
+strainer
+
+Mixture control bleeds
+Duel diaphragm
+
+Fuel inlet
+Fuel pressure
+gauge connection
+
+Figure 2-24. Regulator unit.
+
+regulated air-inlet pressure from the air intake. Chamber B
+is boost venturi pressure. Chamber C contains metered fuel
+pressure controlled by the discharge nozzle or fuel feed valve.
+Chamber D contains unmetered fuel pressure controlled by
+the opening of the poppet valve. Chamber E is fuel pump
+pressure controlled by the fuel pump pressure relief valve.
+The poppet valve assembly is connected by a stem to the two
+main control diaphragms. The purpose of the regulator unit is
+to regulate the fuel pressure to the inlet side of the metering
+jets in the fuel control unit. This pressure is automatically
+regulated according to the mass airflow to the engine.
+The carburetor fuel strainer (also called the gascolator),
+located in the inlet to chamber E, is a fine mesh screen through
+which all the fuel must pass as it enters chamber D. The
+strainer must be removed and cleaned at scheduled intervals.
+Referring to Figure 2-24, assume that for a given airflow
+in lb/hr through the throttle body and venturi, a negative
+pressure of 1⁄4 psi is established in chamber B. This tends
+to move the diaphragm assembly and the poppet valve in a
+direction to open the poppet valve permitting more fuel to
+enter chamber D. The pressure in chamber C is held constant
+at 5 psi (10 psi on some installations) by the discharge
+nozzle or impeller fuel feed valve. Therefore, the diaphragm
+assembly and poppet valve moves in the open direction until
+the pressure in chamber D is 51⁄4 psi. Under these pressures,
+there is a balanced condition of the diaphragm assembly with
+a pressure drop of 1⁄4 psi across the jets in the fuel control unit
+(auto-rich or auto-lean).
+
+If nozzle pressure (chamber C pressure) rises to 51⁄2 psi, the
+diaphragm assembly balance is upset, and the diaphragm
+assembly moves to open the poppet valve to establish
+the necessary 53⁄4 psi pressure in chamber D. Thus, the 1⁄4
+psi differential between chamber C and chamber D is reestablished, and the pressure drop across the metering jets
+remains the same.
+If the fuel inlet pressure is increased or decreased, the fuel
+flow into chamber D tends to increase or decrease with
+the pressure change causing the chamber D pressure to do
+likewise. This upsets the balanced condition previously
+established, and the poppet valve and diaphragm assembly
+respond by moving to increase or decrease the flow to reestablish the pressure at the 1⁄4 psi differential.
+The fuel flow changes when the mixture control plates
+are moved from auto-lean to auto-rich, thereby selecting
+a different set of jets or cutting one or two in or out of the
+system. When the mixture position is altered, the diaphragm
+and poppet valve assembly repositions to maintain the
+established pressure differential of 1⁄4 psi between chambers
+C and D, maintaining the established differential across the
+jets. Under low power settings (low airflows), the difference
+in pressure created by the boost venturi is not sufficient to
+accomplish consistent regulation of the fuel. Therefore, an idle
+spring, shown in Figure 2-24, is incorporated in the regulator.
+As the poppet valve moves toward the closed position, it
+contacts the idle spring. The spring holds the poppet valve
+off its seat far enough to provide more fuel than is needed
+for idling. This potentially overrich mixture is regulated by
+the idle valve. At idling speed, the idle valve restricts the fuel
+flow to the proper amount. At higher speeds, it is withdrawn
+from the fuel passage and has no metering effect.
+Vapor vent systems are provided in these carburetors to
+eliminate fuel vapor created by the fuel pump, heat in the
+engine compartment, and the pressure drop across the poppet
+valve. The vapor vent is located in the fuel inlet (chamber E)
+or, on some models of carburetors, in both chambers D and E.
+The vapor vent system operates in the following way. When
+air enters the chamber in which the vapor vent is installed,
+the air rises to the top of the chamber, displacing the fuel
+and lowering its level. When the fuel level has reached a
+predetermined position, the float (which floats in the fuel)
+pulls the vapor vent valve off its seat, permitting the vapor
+in the chamber to escape through the vapor vent seat, its
+connecting line, and back to the fuel tank.
+If the vapor vent valve sticks in a closed position or the vent
+line from the vapor vent to the fuel tank becomes clogged, the
+vapor-eliminating action is stopped. This causes the vapor to
+2-16
+
+===== PDF PAGE 99 =====
+build up within the carburetor to the extent that vapor passes
+through the metering jets with the fuel. With a given size
+carburetor metering jet, the metering of vapor reduces the
+quantity of fuel metered. This causes the air-fuel mixture to
+lean out, usually intermittently.
+
+Manual mixture control
+Idle needle valve
+
+If the vapor vent valve sticks open or the vapor vent float
+becomes filled with fuel and sinks, a continuous flow of
+fuel and vapor occurs through the vent line. It is important
+to detect this condition, as the fuel flow from the carburetor
+to the fuel supply tank may cause an overflowing tank with
+resultant increased fuel consumption.
+To check the vent system, disconnect the vapor vent line
+where it attaches to the carburetor, and turn the fuel booster
+pump on while observing the vapor vent connection at the
+carburetor. Move the carburetor mixture control to auto-rich;
+then return it to idle cutoff. When the fuel booster pump is
+turned on, there should be an initial ejection of fuel and air
+followed by a cutoff with not more than a steady drip from
+the vent connection. Installations with a fixed bleed from the
+D chamber connected to the vapor vent in the fuel inlet by a
+short external line should show an initial ejection of fuel and
+air followed by a continuing small stream of fuel. If there
+is no flow, the valve is sticking closed; if there is a steady
+flow, it is sticking open.
+Fuel Control Unit
+The fuel control unit is attached to the regulator assembly
+and contains all metering jets and valves. [Figure 2-25] The
+idle and power enrichment valves, together with the mixture
+control plates, select the jet combinations for the various
+settings (i.e., auto-rich, auto-lean, and idle cutoff).
+The purpose of the fuel control unit is to meter and control
+the fuel flow to the discharge nozzle. The basic unit consists
+of three jets and four valves arranged in series, parallel, and
+series-parallel hookups. [Figure 2-25] These jets and valves
+receive fuel under pressure from the regulator unit and then
+meter the fuel as it flows to the discharge nozzle. The manual
+mixture control valve controls the fuel flow. By using proper
+size jets and regulating the pressure differential across the
+jets, the right amount of fuel is delivered to the discharge
+nozzle, giving the desired air-fuel ratio in the various power
+settings. It should be remembered that the inlet pressure to the
+jets is regulated by the regulator unit and the outlet pressure
+is controlled by the discharge nozzle.
+The jets in the basic fuel control unit are the auto-lean jet, the
+auto-rich jet, and power enrichment jet. The basic fuel flow
+is the fuel required to run the engine with a lean mixture and
+is metered by the auto-lean jet. The auto-rich jet adds enough
+fuel to the basic flow to give a slightly richer mixture than
+
+Auto lean jet
+Regulator fill valve
+Auto rich jet
+
+Power enrichment valve
+
+Power enrichment jet
+
+Figure 2-25. Fuel control unit.
+
+best power mixture when the manual mixture control is in
+the auto-rich position.
+The four valves in the basic fuel control unit are:
+1.
+
+Idle needle valve,
+
+2.
+
+Power enrichment valve,
+
+3.
+
+Regulator fill valve, and
+
+4.
+
+Manual mixture control.
+
+The functions of these valves are:
+1.
+
+The idle needle valve meters the fuel in the idle
+range only. It is a round, contoured needle valve, or a
+cylinder valve placed in series with all other metering
+devices of the basic fuel control unit. The idle needle
+valve is connected by linkage to the throttle shaft so
+that it restricts the fuel flowing at low power settings
+(idle range).
+
+2.
+
+The manual mixture control is a rotary disc valve
+consisting of a round stationary disc with ports leading
+from the auto-lean jet, the auto-rich jet, and two
+smaller ventholes. Another rotating part, resembling
+a cloverleaf, is held against the stationary disc by
+spring tension and rotated over the ports in that disc
+by the manual mixture control lever. All ports and
+vents are closed in the idle cutoff position. In the autolean position, the ports from the auto-lean jet and the
+two ventholes are open. The port from the auto-rich
+jet remains closed in this position. In the auto-rich
+position, all ports are open. The valve plate positions
+
+2-17
+
+===== PDF PAGE 100 =====
+Vent channel from chamber D
+
+Channel from auto-rich jet
+
+Channel from auto-lean jet
+Vent for space above valve
+Full rich
+
+Auto-lean
+
+Auto-rich
+
+Idle cutoff
+
+Figure 2-26. Manual mixture control valve plate positions.
+
+are illustrated in Figure 2-26. The three positions of
+the manual mixture control lever make it possible to
+select a lean mixture a rich mixture, or to stop fuel flow
+entirely. The idle cutoff position is used for starting or
+stopping the engine. During starting, fuel is supplied
+by the primer.
+3.
+
+4.
+
+5.
+
+The regulator fill valve is a small poppet-type valve
+located in a fuel passage which supplies chamber C
+of the regulator unit with metered fuel pressure. In
+idle cutoff, the flat portion of the cam lines up with
+the valve stem, and a spring closes the valve. This
+provides a means of shutting off the fuel flow to
+chamber C and thus provides for a positive idle cutoff.
+The power enrichment valve is another poppet-type
+valve. It is in parallel with the auto-lean and auto-rich
+jets, but it is in series with the power enrichment jet.
+This valve starts to open at the beginning of the power
+range. It is opened by the unmetered fuel pressure
+overcoming metered fuel pressure and spring tension.
+The power enrichment valve continues to open wider
+during the power range until the combined flow
+through the valve and the auto-rich jet exceeds that
+of the power enrichment jet. At this point the power
+enrichment jet takes over the metering and meters fuel
+throughout the power range.
+Carburetors equipped for water injection are modified
+by the addition of a derichment valve and a derichment
+jet. The derichment valve and derichment jet are in
+series with each other and parallel with the power
+enrichment jet.
+
+The carburetor controls fuel flow by varying two basic
+factors. The fuel control unit, acting as a pressure-reducing
+valve, determines the metering pressure in response to the
+
+metering forces. The regulator unit, in effect, varies the size
+of the orifice through which the metering pressure forces
+the fuel. It is a basic law of hydraulics that the amount of
+fluid that passes through an orifice varies with the size of the
+orifice and the pressure drop across it. The internal automatic
+devices and mixture control act together to determine the
+effective size of the metering passage through which the fuel
+passes. The internal devices, fixed jets, and variable power
+enrichment valve are not subject to direct external control.
+
+Automatic Mixture Control (AMC)
+The automatic mixture control unit consists of a bellows
+assembly, calibrated needle, and seat. [Figure 2-27] The
+purpose of the automatic mixture control is to compensate for
+changes in air density due to temperature and altitude changes.
+The automatic mixture control contains a metallic bellows,
+which is sealed at 28 "Hg absolute pressure. The bellows
+responds to changes in pressure and temperature. In the
+illustration, the automatic mixture control is located at the
+carburetor air inlet. As the density of the air changes, the
+expansion and contraction of the bellows moves the tapered
+needle in the atmospheric line. At sea level, the bellows
+is contracted, and the needle is not in the atmospheric
+passage. As the aircraft climbs and the atmospheric pressure
+decreases, the bellows expands, inserting the tapered
+needle farther and farther into the atmospheric passage
+and restricting the flow of air to chamber A of the regulator
+unit. [Figure 2-24] At the same time, air leaks slowly from
+chamber A to chamber B through the small bleed (often
+referred to as the back-suction bleed or mixture control
+bleed). The rate at which air leaks through this bleed is
+about the same at high altitude as it is at sea level. As the
+tapered needle restricts the flow of air into chamber A, the
+pressure on the left side of the air diaphragm decreases. As
+2-18
+
+===== PDF PAGE 101 =====
+Automatic mixture control
+
+The automatic mixture control can be removed and cleaned
+if the lead seal at the point of adjustment is not disturbed.
+
+Boost venturi
+
+Intake air
+
+Intake air
+
+Stromberg PS Carburetor
+The PS series carburetor is a low-pressure, single-barrel,
+injection-type carburetor. The carburetor consists basically
+of the air section, the fuel section, and the discharge nozzle
+mounted together to form a complete fuel metering system.
+This carburetor is similar to the pressure-injection carburetor;
+therefore, its operating principles are the same.
+
+Impact tubes
+Main venturi
+
+Throttle valve
+
+Figure 2-27. Automatic mixture control and throttle body.
+
+a result, the poppet valve moves toward its seat, reducing
+the fuel flow to compensate for the decrease in air density.
+
+Discharge nozzle
+needle valve
+
+In this type carburetor, metering is accomplished on a mass
+airflow basis. [Figure 2-28] Air flowing through the main
+venturi creates suction at the throat of the venturi, which
+is transmitted to the B chamber in the main regulating part
+of the carburetor and to the vent side of the fuel discharge
+nozzle diaphragm. The incoming air pressure is transmitted
+to a chamber A of the regulating part of the carburetor and
+to the main discharge bleed in the main fuel discharge jet.
+The discharge nozzle consists of a spring-loaded diaphragm
+connected to the discharge nozzle valve, which controls the
+
+Discharge nozzle
+
+Main metering jet
+
+C
+Discharge air bleed
+Accelerating pump
+suction channel
+
+A
+
+Accelerating pump
+
+Vapor vent
+
+B
+D
+
+Poppet valve
+Fuel pressure
+connection
+Fuel strainer
+
+Relief valve
+
+Throttle valve
+Idle cutoff cam
+Fuel inlet
+Venturi
+Manual idle control rod
+Idle needle valve
+Venturi drain
+Vacuum channel reducer
+Impact air (chamber A)
+Inlet fuel pressure
+
+Venturi
+suction
+
+Manual mixture control needle valve
+Idle cutoff plunger
+
+Intake air
+
+Impact air
+
+Unmetered fuel
+Venturi suction (chamber B)
+
+Metered fuel
+Pressure above throttle
+
+Figure 2-28. Schematic of the PS series carburetor.
+
+2-19
+
+===== PDF PAGE 102 =====
+flow of fuel injected into the main discharge jet. Here, it is
+mixed with air to accomplish distribution and atomization
+into the airstream entering the engine.
+In the PS series carburetor, as in the pressure-injection
+carburetor, the regulator spring has a fixed tension, which
+tends to hold the poppet valve open during idling speeds
+or until the D chamber pressure equals approximately 4
+psi. The discharge nozzle spring has a variable adjustment
+which, when tailored to maintain 4 psi, results in a balanced
+pressure condition of 4 psi in chamber C of the discharge
+nozzle assembly and 4 psi in chamber D. This produces a
+zero drop across the main jets at zero fuel flow.
+At a given airflow, if the suction created by the venturi is
+equivalent to 1⁄4 pound, the pressure decrease is transmitted
+to chamber B and to the vent side of the discharge nozzle.
+Since the area of the air diaphragm between chambers A
+and B is twice as great as that between chambers B and D,
+the 1⁄4 pound decrease in pressure in chamber B moves the
+diaphragm assembly to the right to open the poppet valve.
+Meanwhile, the decreased pressure on the vent side of the
+discharge nozzle assembly causes a lowering of the total
+pressure from 4 pounds to 33⁄4 pounds. The greater pressure
+of the metered fuel (41⁄4 pounds) results in a differential across
+the metering head of 1⁄4 pound (for the 1⁄4 pound pressure
+differential created by the venturi).
+The same ratio of pressure drop across the jet to venturi
+suction applies throughout the range. Any increase or
+decrease in fuel inlet pressure tends to upset the balance in
+the various chambers in the manner already described. When
+this occurs, the main fuel regulator diaphragm assembly
+repositions to restore the balance.
+
+The mixture control, whether operated manually or
+automatically, compensates for enrichment at altitude
+by bleeding impact air pressure into chamber B, thereby
+increasing the pressure (decreasing the suction) in chamber
+B. Increasing the pressure in chamber B tends to move the
+diaphragm and poppet valve more toward the closed position,
+restricting fuel flow to correspond proportionately to the
+decrease in air density at altitude.
+The idle valve and economizer jet can be combined in one
+assembly. The unit is controlled manually by the movement
+of the valve assembly. At low airflow positions, the tapered
+section of the valve becomes the predominant jet in the
+system, controlling the fuel flow for the idle range. As the
+valve moves to the cruise position, a straight section on the
+valve establishes a fixed orifice effect which controls the
+cruise mixture. When the valve is pulled full-open by the
+throttle valve, the jet is pulled completely out of the seat, and
+the seat side becomes the controlling jet. This jet is calibrated
+for takeoff power mixtures.
+An airflow-controlled power enrichment valve can also be
+used with this carburetor. It consists of a spring-loaded,
+diaphragm-operated metering valve. Refer to Figure 2-29
+for a schematic view of an airflow power enrichment valve.
+One side of the diaphragm is exposed to unmetered fuel
+pressure and the other side to venturi suction plus spring
+tension. When the pressure differential across the diaphragm
+establishes a force strong enough to compress the spring, the
+valve opens and supplies an additional amount of fuel to the
+metered fuel circuit in addition to the fuel supplied by the
+main metering jet.
+
+Enrichment valve and seat assembly
+Metered fuel chamber C pressure
+Power enrichment valve adjustment screw
+
+Venturi suction chamber B pressure
+Metering jet
+
+Unmetered fuel chamber D pressure
+
+Figure 2-29. Airflow power enrichment valve.
+
+2-20
+
+===== PDF PAGE 103 =====
+Accelerating Pump
+The accelerating pump of the Stromberg PS carburetor is a
+spring-loaded diaphragm assembly located in the metered
+fuel channel with the opposite side of the diaphragm vented
+to the engine side of the throttle valve. With this arrangement,
+opening the throttle results in a rapid decrease in suction. This
+decrease in suction permits the spring to extend and move
+the accelerating pump diaphragm. The diaphragm and spring
+action displace the fuel in the accelerating pump and force it
+out the discharge nozzle.
+Vapor is eliminated from the top of the main fuel chamber
+D through a bleed hole, then through a vent line back to the
+main fuel tank in the aircraft.
+Manual Mixture Control
+A manual mixture control provides a means of correcting
+for enrichment at altitude. It consists of a needle valve and
+seat that form an adjustable bleed between chamber A and
+chamber B. The valve can be adjusted to bleed off the venturi
+suction to maintain the correct air-fuel ratio as the aircraft
+gains altitude.
+When the mixture control lever is moved to the idle cutoff
+position, a cam on the linkage actuates a rocker arm which
+moves the idle cutoff plunger inward against the release
+lever in chamber A. The lever compresses the regulator
+diaphragm spring to relieve all tension on the diaphragm
+between chambers A and B. This permits fuel pressure plus
+poppet valve spring force to close the poppet valve, stopping
+the fuel flow. Placing the mixture control lever in idle cutoff
+also positions the mixture control needle valve off its seat and
+allows metering suction within the carburetor to bleed off.
+
+Fuel-Injection Systems
+The fuel-injection system has many advantages over a
+conventional carburetor system. There is less danger of
+induction system icing, since the drop in temperature due
+to fuel vaporization takes place in or near the cylinder.
+Acceleration is also improved because of the positive action
+of the injection system. In addition, fuel injection improves
+fuel distribution. This reduces the overheating of individual
+cylinders often caused by variation in mixture due to uneven
+distribution. The fuel-injection system also gives better fuel
+economy than a system in which the mixture to most cylinders
+must be richer than necessary so that the cylinder with the
+leanest mixture operates properly.
+Fuel-injection systems vary in their details of construction,
+arrangement, and operation. The Bendix and Continental
+fuel-injection systems are discussed in this section. They
+are described to provide an understanding of the operating
+principles involved. For the specific details of any one
+
+system, consult the manufacturer’s instructions for the
+equipment involved.
+Bendix/Precision Fuel-Injection System
+The Bendix inline stem-type regulator injection system
+(RSA) series consists of an injector, flow divider, and fuel
+discharge nozzle. It is a continuous-flow system which
+measures engine air consumption and uses airflow forces to
+control fuel flow to the engine. The fuel distribution system
+to the individual cylinders is obtained by the use of a fuel
+flow divider and air bleed nozzles.
+Fuel Injector
+The fuel injector assembly consists of:
+1.
+
+An airflow section,
+
+2.
+
+A regulator section, and
+
+3.
+
+A fuel metering section. Some fuel injectors are
+equipped with an automatic mixture control unit.
+
+Airflow Section
+The airflow consumption of the engine is measured by
+sensing impact pressure and venturi throat pressure in the
+throttle body. These pressures are vented to the two sides of
+an air diaphragm. A cutaway view of the airflow measuring
+section is shown in Figure 2-30. Movement of the throttle
+valve causes a change in engine air consumption. This
+results in a change in the air velocity in the venturi. When
+airflow through the engine increases, the pressure on the left
+of the diaphragm is lowered due to the drop in pressure at
+the venturi throat. [Figure 2-31] As a result, the diaphragm
+moves to the left, opening the ball valve. Contributing to this
+force is the impact pressure that is picked up by the impact
+tubes. [Figure 2-32] This pressure differential is referred
+to as the “air metering force.” This force is accomplished
+by channeling the impact and venturi suction pressures to
+opposite sides of a diaphragm. The difference between these
+
+Figure 2-30. Cutaway view of airflow measuring section.
+
+2-21
+
+===== PDF PAGE 104 =====
+Unmetered fuel pressure
+
+Metering fuel pressure
+Venturi suction
+Inlet air pressure
+Fuel inlet pressure
+Metered fuel pressure
+
+Throttle valve
+Constant head idle spring
+
+Line to flow divider
+
+Fuel diaphragm
+
+Ball valve
+
+Air diaphragm
+Venturi
+Air inlet
+
+Impact tube
+
+Figure 2-31. Airflow section of a fuel injector.
+
+two pressures becomes a usable force that is equal to the area
+of the diaphragm times the pressure difference.
+Regulator Section
+The regulator section consists of a fuel diaphragm that
+opposes the air metering force. Fuel inlet pressure is applied
+to one side of the fuel diaphragm and metered fuel pressure
+is applied to the other side. The differential pressure across
+the fuel diaphragm is called the fuel metering force. The fuel
+pressure shown on the ball side of the fuel diaphragm is the
+pressure after the fuel has passed through the fuel strainer
+and the manual mixture control rotary plate and is referred to
+as metered fuel pressure. Fuel inlet pressure is applied to the
+
+Figure 2-32. Impact tubes for inlet air pressure.
+
+opposite side of the fuel diaphragm. The ball valve attached
+to the fuel diaphragm controls the orifice opening and fuel
+flow through the forces placed on it. [Figure 2-33]
+The distance the ball valve opens is determined by the
+difference between the pressures acting on the diaphragms.
+This difference in pressure is proportional to the airflow
+through the injector. Thus, the volume of airflow determines
+the rate of fuel flow.
+Under low power settings, the difference in pressure created
+by the venturi is insufficient to accomplish consistent
+regulation of the fuel. A constant-head idle spring is
+
+Figure 2-33. Fuel diaphragm with ball valve attached.
+
+2-22
+
+===== PDF PAGE 105 =====
+Fuel strainer
+
+Fuel inlet pressure
+Metered fuel pressure
+
+Fuel inlet
+Metered fuel pressure
+
+Metering jet
+
+Unmetered fuel pressure
+
+Idle valve lever connected to throttle lever linkage
+
+Manual mixture control and idle cut off lever
+
+Figure 2-34. Fuel metering section of the injector.
+
+incorporated to provide a constant fuel differential pressure.
+This allows an adequate final flow in the idle range.
+Fuel Metering Section
+The fuel metering section is attached to the air metering
+section and contains an inlet fuel strainer, a manual mixture
+control valve, an idle valve, and the main metering jet.
+[Figure 2-34] The idle valve is connected to the throttle valve
+by means of an external adjustable link. In some injector
+models, a power enrichment jet is also located in this section.
+The purpose of the fuel metering section is to meter and
+control the fuel flow to the flow divider. [Figure 2-35] The
+manual mixture control valve produces full rich condition
+when the lever is against the rich stop, and a progressively
+leaner mixture as the lever is moved toward idle cutoff. Both
+idle speed and idle mixture may be adjusted externally to
+meet individual engine requirements.
+
+valve assembly. This moves the valve upward until fuel can
+pass out through the annulus of the valve to the fuel nozzle.
+[Figure 2-37] Since the regulator meters and delivers a fixed
+amount of fuel to the flow divider, the valve opens only as
+far as necessary to pass this amount to the nozzles. At idle,
+the opening required is very small; the fuel for the individual
+cylinders is divided at idle by the flow divider.
+As fuel flow through the regulator is increased above idle
+requirements, fuel pressure builds up in the nozzle lines.
+This pressure fully opens the flow divider valve, and
+fuel distribution to the engine becomes a function of the
+discharge nozzles.
+
+Flow Divider
+The metered fuel is delivered from the fuel control unit to a
+pressurized flow divider. This unit keeps metered fuel under
+pressure, divides fuel to the various cylinders at all engine
+speeds, and shuts off the individual nozzle lines when the
+control is placed in idle cutoff.
+Referring to the diagram in Figure 2-36, metered fuel pressure
+enters the flow divider through a channel that permits fuel to
+pass through the inside diameter of the flow divider needle.
+At idle speed, the fuel pressure from the regulator must build
+up to overcome the spring force applied to the diaphragm and
+
+Figure 2-35. Fuel inlet and metering.
+
+2-23
+
+===== PDF PAGE 106 =====
+Flow divider
+Fuel nozzle (one per cylinder)
+
+10
+
+Nozzle discharge pressure
+Metered fuel pressure
+Ambient air pressure
+
+15
+
+20
+
+25
+30
+
+5
+
+35
+
+0
+
+40
+
+Nozzle pressure or lb/hr fuel flow (gauge)
+
+Figure 2-36. Flow divider.
+
+A fuel pressure gauge, calibrated in pounds per hour fuel
+flow, can be used as a fuel flow meter with the Bendix RSA
+injection system. This gauge is connected to the flow divider
+and senses the pressure being applied to the discharge nozzle.
+This pressure is in direct proportion to the fuel flow and
+indicates the engine power output and fuel consumption.
+
+Figure 2-37. Flow divider cutaway.
+
+Figure 2-38. Fuel nozzle assembly.
+
+Fuel Discharge Nozzles
+The fuel discharge nozzles are of the air bleed configuration.
+There is one nozzle for each cylinder located in the cylinder
+head. [Figure 2-38] The nozzle outlet is directed into the
+intake port. Each nozzle incorporates a calibrated jet. The
+jet size is determined by the available fuel inlet pressure
+and the maximum fuel flow required by the engine. The fuel
+is discharged through this jet into an ambient air pressure
+chamber within the nozzle assembly. Before entering the
+individual intake valve chambers, the fuel is mixed with air to
+aid in atomizing the fuel. Fuel pressure, before the individual
+nozzles, is in direct proportion to fuel flow; therefore, a
+simple pressure gauge can be calibrated in fuel flow in gallons
+per hour and be employed as a flow meter. Engines modified
+with turbosuperchargers must use shrouded nozzles. By the
+use of an air manifold, these nozzles are vented to the injector
+air inlet pressure.
+Continental/TCM Fuel-Injection System
+The Continental fuel-injection system injects fuel into the
+intake valve port in each cylinder head. [Figure 2-39] The
+2-24
+
+===== PDF PAGE 107 =====
+system consists of a fuel injector pump, a control unit, a fuel
+manifold, and a fuel discharge nozzle. It is a continuous-flow
+type, which controls fuel flow to match engine airflow. The
+continuous-flow system permits the use of a rotary vane pump
+which does not require timing to the engine.
+Fuel-Injection Pump
+The fuel pump is a positive-displacement, rotary-vane type with
+a splined shaft for connection to the accessory drive system
+of the engine. [Figure 2-40] A spring-loaded, diaphragm-type
+relief valve is provided. The relief valve diaphragm chamber
+is vented to atmospheric pressure. A sectional view of a fuelinjection pump is shown in Figure 2-41.
+Fuel enters at the swirl well of the vapor separator. Here,
+vapor is separated by a swirling motion so that only liquid
+fuel is delivered to the pump. The vapor is drawn from the
+top center of the swirl well by a small pressure jet of fuel
+and is directed into the vapor return line. This line carries
+the vapor back to the fuel tank.
+Ignoring the effect of altitude or ambient air conditions,
+the use of a positive-displacement, engine-driven pump
+
+To aircraft gauge
+Manifold valve assembly
+
+10
+
+15
+
+20
+
+A check valve is provided so that boost pump pressure to the
+system can bypass the engine-driven pump for starting. This
+feature also suppresses vapor formation under high ambient
+temperatures of the fuel and permits use of the auxiliary
+pump as a source of fuel pressure in the event of enginedriven pump failure.
+Air-Fuel Control Unit
+The function of the air-fuel control assembly is to control
+engine air intake and to set the metered fuel pressure for
+proper air-fuel ratio. The air throttle is mounted at the
+manifold inlet and its butterfly valve, positioned by the
+throttle control in the aircraft, controls the flow of air to the
+engine. [Figure 2-42]
+
+Inlet fuel from ACFT
+Unmetered fuel pressure
+Metered fuel pressure
+Return fuel from fuel control
+Nozzle pressure
+Vapor return
+
+25
+30
+
+5
+0
+
+means that changes in engine speed affect total pump flow
+proportionally. Since the pump provides greater capacity than
+is required by the engine, a recirculation path is required. By
+arranging a calibrated orifice and relief valve in this path, the
+pump delivery pressure is also maintained in proportion to
+engine speed. These provisions assure proper pump pressure
+and fuel delivery for all engine operating speeds.
+
+35
+Psi
+
+40
+
+Metered fuel pressure
+
+Vapor return
+Fuel pump assembly
+
+Fuel inlet
+from fuel tank
+
+Fuel control
+Fuel return
+Fuel injectors
+Low pressure
+relief valve
+Bypass
+Idle mixture adjust
+
+Adjustable orifice
+
+15
+
+Idle speed stop screw
+
+Throttle body
+
+20
+
+25
+
+30
+35
+
+10
+
+40
+
+5
+
+45
+
+0
+
+Psi
+
+50
+
+Drain
+
+Unmetered fuel pressure
+
+Figure 2-39. Continental/TCM Fuel-Injection System.
+
+2-25
+
+===== PDF PAGE 108 =====
+Vapor return
+Engine mount flange
+Fuel pump inlet
+Low pressure relief valve
+
+Mixture control
+Adjustable orifice
+
+Dry bay inspection drain
+Fuel pump outlet
+
+Figure 2-40. Fuel pump.
+
+The air throttle assembly is an aluminum casting which
+contains the shaft and butterfly-valve assembly. The casting
+bore size is tailored to the engine size, and no venturi or other
+restriction is used.
+Fuel Control Assembly
+The fuel control body is made of bronze for best bearing
+action with the stainless steel valves. Its central bore contains
+a metering valve at one end and a mixture control valve at
+the other end. Each stainless steel rotary valve includes a
+groove which forms a fuel chamber.
+
+Fuel enters the control unit through a strainer and passes to the
+metering valve. [Figure 2-43] This rotary valve has a camshaped edge on the outer part of the end face. The position
+of the cam at the fuel delivery port controls the fuel passed
+to the manifold valve and the nozzles. The fuel return port
+connects to the return passage of the center metering plug.
+The alignment of the mixture control valve with this passage
+determines the amount of fuel returned to the fuel pump.
+By connecting the metering valve to the air throttle, the fuel
+flow is properly proportioned to airflow for the correct airfuel ratio. A control level is mounted on the mixture control
+valve shaft and connected to the flight deck mixture control.
+Fuel Manifold Valve
+The fuel manifold valve contains a fuel inlet, a diaphragm
+chamber, and outlet ports for the lines to the individual
+nozzles. [Figure 2-44] The spring-loaded diaphragm operates
+a valve in the central bore of the body. Fuel pressure provides
+the force for moving the diaphragm. The diaphragm is
+enclosed by a cover that retains the diaphragm loading spring.
+When the valve is down against the lapped seat in the body,
+the fuel lines to the cylinders are closed off. The valve is
+drilled for passage of fuel from the diaphragm chamber to
+its base, and a ball valve is installed within the valve. All
+incoming fuel must pass through a fine screen installed in
+the diaphragm chamber.
+
+Vapor ejector
+
+Pump assembly
+
+Inlet
+Vapor separator
+
+Drive shaft
+
+Relief valve
+assembly
+Outlet
+
+Orifice
+
+Figure 2-41. Fuel injection pump.
+
+2-26
+
+===== PDF PAGE 109 =====
+Fuel Discharge Nozzle
+The fuel discharge nozzle is located in the cylinder head
+with its outlet directed into the intake port. The nozzle body
+contains a drilled central passage with a counterbore at each
+end. [Figure 2-45] The lower end is used as a chamber for
+air-fuel mixing before the spray leaves the nozzle. The upper
+bore contains a removable orifice for calibrating the nozzles.
+Nozzles are calibrated in several ranges, and all nozzles
+furnished for one engine are of the same range and are
+identified by a letter stamped on the hex of the nozzle body.
+
+Intake air
+
+Part throttle position
+
+Drilled radial holes connect the upper counterbore with the
+outside of the nozzle body. These holes enter the counterbore
+above the orifice and draw air through a cylindrical screen
+fitted over the nozzle body. A shield is press-fitted on the
+nozzle body and extends over the greater part of the filter
+screen, leaving an opening near the bottom. This provides
+both mechanical protection and an abrupt change in the
+direction of airflow which keeps dirt and foreign material
+out of the nozzle interior.
+
+Intake air
+
+Carburetor Maintenance
+Carburetor Removal
+The removal procedures vary with both the type of
+carburetor concerned and the type of engine on which it
+is used. Always refer to the applicable manufacturer’s
+technical instructions for a particular installation. Generally,
+the procedures are much the same, regardless of the type
+of carburetor concerned.
+
+Full throttle position
+
+Figure 2-42. Fuel air control unit.
+
+From the fuel-injection control valve, fuel is delivered to
+the fuel manifold valve, which provides a central point for
+dividing fuel flow to the individual cylinders. In the fuel
+manifold valve, a diaphragm raises or lowers a plunger
+valve to open or close the individual cylinder fuel supply
+ports simultaneously.
+
+Fuel inlet from fuel pump
+
+Fuel return to fuel pump
+
+To fuel manifold valve
+
+Before removing a carburetor, make sure the fuel shutoff (or
+selector) valve is closed. Disconnect the throttle and mixture
+control linkages, and lockwire the throttle valve in the closed
+position. Disconnect the fuel inlet line and all vapor return,
+gauge, and primer lines. If the same carburetor is to be reinstalled, do not alter the rigging of the throttle and mixture
+controls. Remove the airscoop or airscoop adapter. Remove
+
+Fuel inlet filter screen
+
+Fuel metering plug
+
+Mixture control shaft
+
+Throttle metering shaft
+
+Figure 2-43. Dual fuel control assembly.
+
+2-27
+
+===== PDF PAGE 110 =====
+Cover & vent
+
+Fuel valve assembly
+
+Low pressure
+
+Fuel filter screen
+
+Fuel manifold body
+
+High pressure
+
+Figure 2-44. Fuel manifold valve assembly.
+
+Protective shroud
+Air inlet holes
+Air screen
+
+Cylinder #1 12B nozzle size
+
+Standard nozzle
+
+550 series crossflow
+
+Crossflow IO-360 series
+
+Turbocharge nozzle
+
+Figure 2-45. Fuel discharge nozzles.
+
+2-28
+
+===== PDF PAGE 111 =====
+the air screens and gaskets from the carburetor. Remove
+the nuts and washers securing the carburetor to the engine.
+When removing a downdraft carburetor, use extreme care
+to ensure that nothing is dropped into the engine. Remove
+the carburetor. Immediately install a protective cover on the
+carburetor mounting flange of the engine to prevent small
+parts or foreign material from falling into the engine. When
+there is danger of foreign material entering open fuel lines
+during removal or installation of the carburetor, plug them
+using the proper cover fittings.
+Installation of Carburetor
+Check the carburetor for proper lockwiring before installation
+on an engine. Be sure that all shipping plugs have been
+removed from the carburetor openings.
+Remove the protective cover from the carburetor mounting
+flange on the engine. Place the carburetor mounting flange
+gasket in position. On some engines, bleed passages are
+incorporated in the mounting pad. The gasket must be
+installed so that the bleed hole in the gasket is aligned with
+the passage in the mounting flange.
+Inspect the induction passages for the presence of any
+foreign material before installing the carburetor. As soon
+as the carburetor is placed in position on the engine, close
+and lockwire the throttle valves in the closed position until
+the remainder of the installation is completed. Place the
+carburetor deck screen, when feasible, in position to further
+eliminate the possibility of foreign objects entering the
+induction system.
+When installing a carburetor that uses diaphragms for
+controlling fuel flow, connect the fuel lines and fill the
+carburetor with fuel. To do this, turn on the fuel boost pump
+and move the mixture control from the idle cutoff position
+to rich position. Continue the flow until oil-free fuel flows
+from the drain valve. This indicates that the preservative oil
+has been flushed from the carburetor. Turn off the fuel flow,
+plug the fuel inlet and vapor vent outlet, and then allow
+the carburetor, filled with fuel, to stand for a minimum of
+8 hours. This is necessary in order to soak the diaphragms
+and render them pliable to the same degree as when the unit
+was originally calibrated. Tighten the carburetor mounting
+bolts to the value specified in the table of torque limits in the
+applicable maintenance manual. Tighten and safety any other
+nuts and bolts incidental to the installation of the carburetor
+before connecting the throttle and mixture-control levers.
+After the carburetor has been bolted to the engine, check the
+throttle and mixture-control lever on the unit for freedom of
+movement before connecting the control cables or linkage.
+Check the vapor vent lines or return lines from the carburetor
+to the aircraft fuel tank for restriction.
+
+Rigging Carburetor Controls
+Connect and adjust carburetor or fuel metering equipment
+throttle controls so that full movement of the throttle is
+obtained from corresponding full movement of the control
+in the flight deck. In addition, check and adjust the throttle
+control linkages so that springback on the throttle quadrant
+in the aircraft is equal in both the full-open and full-closed
+positions. Correct any excess play or looseness of control
+linkage or cables. Controls should be checked so that they
+go stop-to-stop on the carburetor. Check for complete and
+full travel of each control.
+When installing carburetors or fuel metering equipment
+incorporating manual-type mixture controls that do not have
+marked positions, adjust the mixture control mechanism to
+provide an equal amount of springback at both the rich and
+lean ends of the control quadrant in the flight deck when
+the mixture control on the carburetor or fuel metering
+equipment is moved through the full range. Where mixture
+controls with detents are used, rig the control mechanism
+so that the designated positions on the control quadrant in
+the aircraft agree with the corresponding positions on the
+carburetor or fuel metering equipment. Controls should
+move freely and smoothly without binding throughout
+their total travel. In all cases, check the controls for proper
+positioning in both the advance and retard positions. Correct
+excess play or looseness of control linkage or cables. Safety
+all controls properly to eliminate the possibility of loosening
+from vibration during operation.
+Adjusting Idle Mixtures
+Excessively rich or lean idle mixtures result in incomplete
+combustion within the engine cylinder, with resultant
+formation of carbon deposits on the spark plugs and
+subsequent spark plug fouling. In addition, excessively rich
+or lean idle mixtures make it necessary to taxi at high idle
+speeds with resultant fast taxi speeds and excessive brake
+wear. Each engine must have the carburetor idle mixture
+tailored for the particular engine and installation if best
+operation is to be obtained.
+Engines that are properly adjusted, insofar as valve operation,
+cylinder compression, ignition, and carburetor idle mixture
+are concerned, idle at the prescribed rpm for indefinite periods
+without loading up, overheating, or spark plug fouling. If an
+engine does not respond to idle mixture adjustment with the
+resultant stable idling characteristics previously outlined,
+some other phase of engine operation is not correct. In such
+cases, determine and correct the cause of the difficulty. A
+general guide to check and adjust the idle mixture and speed
+on many types of reciprocating engine is discussed in the
+following paragraphs. Always refer to the appropriate manual
+2-29
+
+===== PDF PAGE 112 =====
+for specific information.
+Before checking the idle mixture on any engine, warm
+up the engine until oil and cylinder head temperatures are
+normal. Keep the propeller control in the increase rpm setting
+throughout the entire process of warming up the engine.
+Always make idle mixture adjustments with cylinder head
+temperatures at normal values. The idle mixture adjustment is
+made on the idle mixture fuel control valve. [Figure 2-46] It
+should not be confused with the adjustment of the idle speed
+stop. The importance of idle mixture adjustment cannot be
+overstressed. Optimum engine operation at low speeds can be
+obtained only when proper air-fuel mixtures are delivered to
+every cylinder of the engine. Excessively rich idle mixtures
+and the resultant incomplete combustion are responsible
+for more spark plug fouling than any other single cause.
+Excessively lean idle mixtures result in faulty acceleration.
+Furthermore, the idle mixture adjustment affects the air-fuel
+mixture and engine operation well up into the cruise range.
+On an engine with a conventional carburetor, the idle mixture
+is checked by manually leaning the mixture with the flight
+deck mixture control. Move the carburetor mixture control
+slowly and smoothly toward the idle cutoff position. On
+installations that do not use a manifold pressure gauge, it is
+necessary to observe the tachometer for an indication of a
+rpm change. With most installations, the idle mixture should
+be adjusted to provide an rpm rise prior to decreasing as the
+engine ceases to fire. This rpm increase varies from 10 to 50
+rpm, depending on the installation. Following the momentary
+increase in rpm, the engine speed starts to drop. Immediately
+move the mixture control back to rich to prevent the engine
+from stopping completely.
+On RSA fuel-injection engines, the optimum idle setting is
+one that is rich enough to provide a satisfactory acceleration
+under all conditions and lean enough to prevent spark plug
+
+fouling or rough operation. A rise of 25–50 rpm as the mixture
+control is moved to the idle cutoff position usually satisfies
+both of these conditions. The actual idle mixture adjustment is
+made by the lengthening or shortening of the linkage between
+the throttle lever and the idle lever. [Figure 2-47]
+If the check of the idle mixture reveals it to be too lean or too
+rich, increase or decrease the idle fuel flow as required. Then,
+repeat the check. Continue checking and adjusting the idle
+mixture until it checks out properly. During this process, it
+may be desirable to move the idle speed stop completely out
+of the way and to hold the engine speed at the desired rpm by
+means of the throttle. This eliminates the need for frequent
+readjustments of the idle stop as the idle mixture is improved
+and the idle speed picks up. After each adjustment, clear the
+engine by briefly running it at higher rpm. This prevents
+fouling of the plugs which might otherwise be caused by
+incorrect idle mixture. After adjusting the idle mixture,
+recheck it several times to determine definitively that the
+mixture is correct and remains constant on repeated changes
+from high power back to idle. Correct any inconsistency in
+engine idling before releasing the aircraft for service.
+Setting the idle mixture on the continental TCM fuel injection
+system consists of a conventional spring loaded screw located
+in the air throttle lever. [Figure 2-48] The fuel pump pressure
+is part of the basic calibration and requires servicing to make
+sure the pump pressure are set correctly before making idle
+adjustments. The idle mixture adjustment is the locknut at
+the metering valve end of the linkage between the metering
+valve and the air throttle levers. Tightening the nut to shorten
+the linkage provides a richer mixture. A leaner mixture is
+obtained by backing off the nut to lengthen the linkage.
+Adjust to obtain a slight and momentary gain in idle speed
+as the mixture control is slowly moved toward idle cut off.
+If the idle mixture is set too lean, the idle speed drops with
+no gain in speed.
+Idle Speed Adjustment
+After adjusting the idle mixture, reset the idle stop to the
+idle rpm specified in the aircraft maintenance manual. The
+engine must be warmed up thoroughly and checked for
+ignition system malfunctioning. Throughout any carburetor
+adjustment procedure, periodically run the engine up to
+approximately half of normal rated speed to clear the engine.
+
+Figure 2-46. Idle mixture adjustment for carburetor.
+
+Some carburetors are equipped with an eccentric screw to
+adjust idle rpm. Others use a spring-loaded screw to limit
+the throttle valve closing. In either case, adjust the screw
+as required to increase or decrease rpm with the throttle
+retarded against the stop. Open the throttle to clear the engine;
+close the throttle and allow the rpm to stabilize. Repeat this
+operation until the desired idling speed is obtained.
+2-30
+
+===== PDF PAGE 113 =====
+Inlet fuel pressure tap
+Fuel inlet and strainer
+
+Metered fuel outlet
+
+Idle speed adjustment
+
+Idle mixture adjustment
+
+Idle valve
+Impact air
+Figure 2-47. Bendix adjustment of idle mixture linkage.
+
+Fuel System Inspection & Maintenance
+The inspection of a fuel system installation consists basically
+of an examination of the system for conformity to design
+requirements together with functional tests to prove correct
+operation. Since there are considerable variations in the fuel
+systems used on different aircraft, no attempt has been made
+
+Idle speed adjustment
+Figure 2-48. TCM adjustment points.
+
+Idle mixture adjustment
+
+to describe any particular system in detail. It is important that
+the manufacturer’s instructions for the aircraft concerned
+be followed when performing inspection or maintenance
+functions.
+Complete System
+Inspect the entire system for wear, damage, or leaks. Make
+sure that all units are securely attached and properly safetied.
+The drain plugs or valves in the fuel system should be opened
+to check for the presence of sediment or water. The filter and
+sump should also be checked for sediment, water, or slime.
+The filters or screens, including those provided for flow
+meters and auxiliary pumps, must be clean and free from
+corrosion. The controls should be checked for freedom of
+movement, security of locking, and freedom from damage
+due to chafing. The fuel vents should be checked for correct
+positioning and freedom from obstruction; otherwise, fuel
+flow or pressure fueling may be affected. Filler neck drains
+should be checked for freedom from obstruction.
+If booster pumps are installed, the system should be checked
+for leaks by operating the pumps. During this check, the
+ammeter or load meter should be read and the readings of
+all the pumps, where applicable, should be approximately
+the same.
+2-31
+
+===== PDF PAGE 114 =====
+Fuel Tanks
+All applicable panels in the aircraft skin or structure should
+be removed and the tanks inspected for corrosion on the
+external surfaces, for security of attachment, and for correct
+adjustment of straps and slings. Check the fittings and
+connections for leaks or failures.
+Some fuel tanks manufactured of light alloy materials are
+provided with inhibitor cartridges to reduce the corrosive
+effects of combined leaded fuel and water. Where
+applicable, the cartridge should be inspected and renewed
+at the specified periods.
+Lines & Fittings
+Be sure that the lines are properly supported and that the nuts
+and clamps are securely tightened. To tighten hose clamps
+to the proper torque, use a hose-clamp torque wrench. If
+this wrench is not available, tighten the clamp finger-tight
+plus the number of turns specified for the hose and clamp.
+If the clamps do not seal at the specified torque, replace the
+clamps, the hose, or both. After installing a new hose, check
+the clamps daily and tighten if necessary. When this daily
+check indicates that cold flow has ceased, inspect the clamps
+at less frequent intervals.
+Replace the hose if the plys have separated, if there is
+excessive cold flow, or if the hose is hard and inflexible.
+Permanent impressions from the clamp and cracks in the tube
+or cover stock indicate excessive cold flow. Replace any hose
+that has collapsed at the bends or as a result of misaligned
+fittings or lines. Some hoses tend to flare at the ends beyond
+the clamps. This is not an unsatisfactory condition unless
+leakage is present.
+Blisters may form on the outer synthetic rubber cover of the
+hose. These blisters do not necessarily affect the serviceability
+of the hose. When a blister is discovered on a hose, remove
+the hose from the aircraft and puncture the blister with a
+pin. The blister should then collapse. If fluid (oil, fuel, or
+hydraulic) emerges from the pinhole in the blister, reject the
+hose. If only air emerges, then test the hose pressure at 11⁄2
+times the working pressure. If no fluid leakage occurs, the
+hose can be regarded as serviceable.
+Puncturing the outer cover of the hose may permit the entry
+of corrosive elements, such as water, which could attack
+the wire braiding and ultimately result in failure. For this
+reason, puncturing the outer covering of hoses exposed to
+the elements should be avoided.
+The external surface of hose may develop fine cracks, usually
+short in length, which are caused by surface aging. The hose
+
+assembly may be regarded as serviceable, provided these
+cracks do not penetrate to the first braid.
+Selector Valves
+Rotate selector valves and check for free operation, excessive
+backlash, and accurate pointer indication. If the backlash
+is excessive, check the entire operating mechanism for
+worn joints, loose pins, and broken drive lugs. Replace any
+defective parts. Inspect cable control systems for worn or
+frayed cables, damaged pulleys, or worn pulley bearings.
+Pumps
+During an inspection of booster pumps, check for the
+following conditions:
+1.
+
+Proper operation;
+
+2.
+
+Leaks and condition of fuel and electrical connections;
+and
+
+3.
+
+Wear of motor brushes.
+
+Be sure the drain lines are free of traps, bends, or restrictions.
+Check the engine-driven pump for leaks and security of
+mounting. Check the vent and drain lines for obstructions.
+Main Line Strainers
+Drain water and sediment from the main line strainer at
+each preflight inspection. Remove and clean the screen at
+the periods specified in the airplane maintenance manual.
+Examine the sediment removed from the housing. Particles of
+rubber are often early warnings of hose deterioration. Check
+for leaks and damaged gaskets.
+Fuel Quantity Gauges
+If a sight gauge is used, be sure that the glass is clear and that
+there are no leaks at the connections. Check the lines leading to
+it for leaks and security of attachment. Check the mechanical
+gauges for free movement of the float arm and for proper
+synchronization of the pointer with the position of the float.
+On the electrical and electronic gauges, be sure that both the
+indicator and the tank units are securely mounted and that
+their electrical connections are tight.
+Fuel Pressure Gauge
+Check the pointer for zero tolerance and excessive oscillation.
+Check the cover glass for looseness and for proper range
+markings. Check the lines and connections for leaks. Be sure
+that there is no obstruction in the vent. Replace the instrument
+if it is defective.
+Pressure Warning Signal
+Inspect the entire installation for security of mounting
+and condition of the electrical, fuel, and air connections.
+2-32
+
+===== PDF PAGE 115 =====
+Check the lamp by pressing the test switch to see that it
+lights. Check the operation by turning the battery switch on,
+building up pressure with the booster pump, and observing
+the pressure at which the light goes out. If necessary, adjust
+the contact mechanism.
+Water Injection Systems for Reciprocating Engines
+These systems have very limited use in modern aircraft
+engines. Water injection was used mostly on large radial
+engines. The water injection system enabled more power to
+be obtained from the engine at takeoff than is possible without
+water injection. The carburetor (operating at high power
+settings) delivers more fuel to the engine than it actually
+needs. A leaner mixture would produce more power; however,
+the additional fuel is necessary to prevent overheating and
+detonation. With the injection of the antidetonant fluid, the
+mixture can be leaned out to that which produces maximum
+power, and the vaporization of the water-alcohol mixture then
+provides the cooling formerly supplied by the excess fuel.
+
+Turbine Engine Fuel System—General
+Requirements
+The fuel system is one of the more complex aspects of the gas
+turbine engine. It must be possible to increase or decrease the
+power at will to obtain the thrust required for any operating
+condition. In turbine-powered aircraft, this control is provided
+by varying the flow of fuel to the combustion chambers.
+However, some turboprop aircraft also use variable-pitch
+propellers; thus, the selection of thrust is shared by two
+controllable variables, fuel flow and propeller blade angle.
+The quantity of fuel supplied must be adjusted automatically
+to correct for changes in ambient temperature or pressure.
+If the quantity of fuel becomes excessive in relation to mass
+airflow through the engine, the limiting temperature of the
+turbine blades can be exceeded, or it will produce compressor
+stall and a condition referred to as rich blowout. Rich blowout
+occurs when the amount of oxygen in the air supply is
+insufficient to support combustion and when the mixture is
+cooled below the combustion temperature by the excess fuel.
+The other extreme, lean flameout, occurs if the fuel quantity
+is reduced proportionally below the air quantity. The engine
+must operate through acceleration and deceleration without
+any fuel-control-related problems.
+The fuel system must deliver fuel to the combustion chambers
+not only in the right quantity, but also in the right condition
+for satisfactory combustion. The fuel nozzles form part of
+the fuel system and atomize or vaporize the fuel so that
+it ignites and burns efficiently. The fuel system must also
+supply fuel so that the engine can be easily started on the
+ground and in the air. This means that the fuel must be
+injected into the combustion chambers in a combustible
+
+condition during engine starting, and that combustion must
+be sustained while the engine is accelerating to its normal
+idling speed. Another critical condition to which the fuel
+system must respond occurs during a rapid acceleration.
+When the engine is accelerated, energy must be furnished to
+the turbine in excess of that necessary to maintain a constant
+rpm. However, if the fuel flow increases too rapidly, an over
+rich mixture can be produced, with the possibility of a rich
+blowout or compressor stall.
+Turbofan, turbojet, turboshaft, and turboprop engines are
+equipped with a fuel control unit which automatically
+satisfies the requirements of the engine. Although the basic
+requirements apply generally to all gas turbine engines, the
+way in which individual fuel controls meet these needs cannot
+be conveniently generalized.
+Turbine Fuel Controls
+Gas turbine engine fuel controls can be divided into three
+basic groups:
+1.
+
+Hydromechanical,
+
+2.
+
+Hydromechanical/electronic, and
+
+3.
+
+Full Authority Digital Engine (or Electronics) Control
+(FADEC).
+
+The hydromechanical/electronic fuel control is a hybrid
+of the two types of fuel control but can function solely
+as a hydromechanical control. In the dual mode, inputs
+and outputs are electronic, and fuel flow is set by servo
+motors. The third type, FADEC, uses electronic sensors for
+its inputs and controls fuel flow with electronic outputs.
+The FADEC-type control gives the electronic controller
+(computer) complete control. The computing section of the
+FADEC system depends completely on sensor inputs to the
+electronic engine control (EEC) to meter the fuel flow. The
+fuel metering device meters the fuel using only outputs from
+the EEC. Most turbine fuel controls are quickly going to the
+FADEC type of control. This electronically controlled fuel
+control is very accurate in scheduling fuel by sensing many
+of the engine parameters.
+Regardless of the type, all fuel controls accomplish essentially
+the same function. That function is to schedule the fuel flow
+to match the power required by the pilot. Some sense more
+engine variables than others. The fuel control can sense many
+different inputs, such as power lever position, engine rpm for
+each spool, compressor inlet pressure and temperature, burner
+pressure, compressor discharge pressure, and many more
+parameters as needed by the specific engine. These variables
+affect the amount of thrust that an engine produces for a given
+fuel flow. By sensing these parameters, the fuel control has
+a clear picture of what is happening in the engine and can
+2-33
+

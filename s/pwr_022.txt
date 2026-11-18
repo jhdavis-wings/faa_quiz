@@ -1,0 +1,1461 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 7 (Propellers), PDF pages 302-316
+
+===== PDF PAGE 302 =====
+to the propeller and the blade angle decreases. Decreasing the
+volume of oil increases blade angle and decreases propeller
+rpm. By changing blade angle, the governor can vary the
+load on the engine and maintain constant engine rpm (within
+limits), independent of where the power lever is set. The
+governor uses engine speed sensing mechanisms that permit
+it to supply or drain oil as necessary to maintain constant
+engine speed (rpm). Most of the steel hub Hartzell propellers
+and many of the aluminum hub are full feathering. These
+feathering propellers operate similarly to the nonfeathering
+ones except the feathering spring assists the flyweights to
+increase the pitch. This propeller is normally placed in the full
+high pitch position before the engine is shut down to prevent
+exposure and corrosion of the pitch changing mechanism.
+Feathering is accomplished by releasing the governor oil
+pressure, allowing the flyweights and feathering spring to
+feather the blades. This is done by pulling the condition lever
+(pitch control) back to the limit of its travel, which opens up
+a port in the governor allowing the oil from the propeller
+to drain back into the engine. Feathering occurs because
+the summation of internal propeller forces causes the oil to
+drain out of the propeller until the feather stop position is
+reached. The time necessary to feather depends upon the size
+of the oil passage from the propeller to the engine, and the
+force exerted by the spring and flyweights. The larger the
+passage is through the governor and the heavier the spring,
+the quicker the feathering action is. An elapsed time for
+feathering of between 3 and 10 seconds is usual with this
+system. Engine shutdown is normally accomplished during
+the feathering process.
+In order to prevent the feathering spring and flyweights from
+feathering the propeller when the engine is shut down and the
+engine stopped, automatically removable high-pitch stops
+were incorporated in the design. These consist of springloaded latches fastened to the stationary hub that engage
+high-pitch stop plates bolted to the movable blade clamps.
+When the propeller is in rotation at speeds over 600–800 rpm,
+centrifugal force acts to disengage the latches from the highpitch stop plates so that the propeller pitch may be increased
+to the feathering position. At lower rpm, or when the engine
+is stopped, the latch springs engage the latches with the highpitch stops, preventing the pitch from increasing further due to
+the action of the feathering spring. As mentioned earlier, the
+engine load would be excessive, especially on fixed-turbine
+turboprop engines. One safety feature inherent in this method
+of feathering is that the propeller feathers if the governor oil
+pressure drops to zero for any reason. As the governor obtains
+its supply of oil from the engine lubricating system, it follows
+that if the engine runs out of oil or if oil pressure fails due
+to breakage of a part of the engine, the propeller feathers
+automatically. This action may save the engine from further
+
+damage in case the pilot is not aware of trouble.
+Unfeathering
+Unfeathering can be accomplished by any of several methods,
+as follows:
+1.
+
+Start the engine, so the governor can pump oil back
+into the propeller to reduce pitch. In most light twins,
+this procedure is considered adequate since the
+feathering of the propeller would happen infrequently.
+Vibration can occur when the engine starts and the
+propeller starts to come out of feather.
+
+2.
+
+Provide an accumulator connected to the governor
+with a valve to trap an air-oil charge when the propeller
+is feathered but released to the propeller when the rpm
+control is returned to normal position. This system is
+used with training aircraft because it unfeathers the
+propeller in a very short time and starts the engine
+windmilling.
+
+3.
+
+Provide an unfeathering pump that provides pressure
+to force the propeller back to low pitch quickly using
+engine oil.
+
+Normal in-flight unfeathering is accomplished when the pilot
+positions the propeller condition lever into the normal flight
+(governing) range. [Figure 7-26] This causes the governor to
+disconnect the propeller oil supply from drain and reconnects
+it to the governed oil supply line from the governor. At that
+point, there is no oil available from the engine oil pump to
+the governor; therefore, no governed oil is available from the
+governor for controlling the propeller blade angle and rpm.
+As the engine is started, its speed increases, the governor
+supplies oil to the propeller, and the blade angle decreases.
+As soon as the engine is operating, the governor starts to
+unfeather the blades. Soon, windmilling takes place, which
+speeds up the process of unfeathering.
+In general, restarting and unfeathering of propellers can
+be classified as reciprocating engine restart unfeathering,
+turboprop engine restart unfeathering, and accumulator
+unfeathering. When reciprocating unfeathering is used, the
+engine takes a little longer to start turning enough to provide
+oil pressure to the governor and then to the propeller. This
+delay can cause vibration as the propeller is unfeathered.
+Many aircraft can use an accumulator to provide stored
+pressure to unfeather the propeller much quicker.
+Special unfeathering systems are available for certain aircraft
+where restarting the engine is difficult or for training purposes.
+The system consists of an oil accumulator connected to the
+governor through a valve. [Figure 7-26] The air or nitrogen
+pressure in one side of the accumulator pushes a piston to
+force oil from the other side of the accumulator through
+7-16
+
+===== PDF PAGE 303 =====
+Accumulator
+Change valve
+Air or nitrogen
+Piston
+Oil
+
+Propeller control oil
+
+Oil drain
+
+Engine oil
+
+ENGINE
+
+Governor to accumulator connection
+
+Propeller
+
+Governor
+
+Figure 7-26. Unfeathering system.
+
+the governor to the propeller piston to move the propeller
+blades from feather to a lower blade angle. The propeller
+then begins to windmill and permits the engine to start. When
+the unfeathering pump is used, it is an additional pump that,
+once the propeller control is in the correct position, the (full
+increase rpm) pump is actuated and the oil pressure from the
+pump unfeathers the propeller.
+
+Propeller Auxiliary Systems
+Ice Control Systems
+Ice formation on a propeller blade, in effect, produces a
+distorted blade airfoil section that causes a loss in propeller
+efficiency. Generally, ice collects asymmetrically on a
+propeller blade and produces propeller unbalance and
+destructive vibration and increases the weight of the blades.
+
+Anti-Icing Systems
+A typical fluid system includes a tank to hold a supply of
+anti-icing fluid. [Figure 7-27] This fluid is forced to each
+propeller by a pump. The control system permits variation
+in the pumping rate so that the quantity of fluid delivered to
+a propeller can be varied, depending on the severity of icing.
+
+Fluid is transferred from a stationary nozzle on the engine
+nose case into a circular U-shaped channel (slinger ring)
+mounted on the rear of the propeller assembly. The fluid
+under pressure of centrifugal force is transferred through
+nozzles to each blade shank.
+Because airflow around a blade shank tends to disperse
+anti-icing fluids to areas where ice does not collect in large
+quantities, feed shoes, or boots, are installed on the blade
+leading edge. These feed shoes are a narrow strip of rubber
+extending from the blade shank to a blade station that is
+approximately 75 percent of the propeller radius. The feed
+shoes are molded with several parallel open channels in
+which fluid flows from the blade shank toward the blade
+tip by centrifugal force. The fluid flows laterally from the
+channels over the leading edge of the blade.
+Isopropyl alcohol is used in some anti-icing systems because
+of its availability and low cost. Phosphate compounds are
+comparable to isopropyl alcohol in anti-icing performance
+and have the advantage of reduced flammability. However,
+phosphate compounds are comparatively expensive
+and, consequently, are not widely used. This system has
+7-17
+
+===== PDF PAGE 304 =====
+Vent line
+
+which terminate in slip rings and brushes. Flexible connectors
+are used to transfer power from the hub to the blade elements.
+A deice system consists of one or more on-off switches.
+The pilot controls the operation of the deice system by
+turning on one or more switches. All deice systems have a
+master switch and may have another toggle switch for each
+propeller. Some systems may also have a selector switch
+to adjust for light or heavy icing conditions or automatic
+switching for icing conditions.
+
+Fluid tank
+
+Fluid pump
+
+Slinger ring
+Rheostat
+
+Fluid feed shoe
+
+Figure 7-27. Typical propeller fluid anti-icing system.
+
+disadvantages in that it requires several components that add
+weight to the aircraft, and the time of anti-ice available is
+limited to the amount of fluid on board. This system is not used
+on modern aircraft, giving way to the electric deicing systems.
+
+Deicing Systems
+An electric propeller-icing control system consists of an
+electrical energy source, a resistance heating element, system
+controls, and necessary wiring. [Figure 7-28] The heating
+elements are mounted internally or externally on the propeller
+spinner and blades. Electrical power from the aircraft system
+is transferred to the propeller hub through electrical leads,
+
+Deicing power circuit breaker or limiter
+
+The timer or cycling unit determines the sequence of which
+blades (or portion thereof) are currently being deiced, and for
+what length of time. The cycling unit applies power to each
+deice boot, or boot segment, in a sequence or all on order.
+A brush block, which is normally mounted on the engine
+just behind the propeller, is used to transfer electricity to
+the slip ring. A slip ring and brush block assembly is shown
+in Figure 7-29. The slip ring rotates with the propeller and
+provides a current path to the blade deice boots. A slip ring
+wire harness is used on some hub installations to electrically
+connect the slip ring to the terminal strip connection screw.
+A deice wire harness is used to electrically connect the deice
+boot to the slip ring assembly.
+A deice boot contains internal heating elements or dual
+elements. [Figure 7-30] The boot is securely attached to the
+leading edge of each blade with adhesive.
+
+Power relay
+
+Shunt
+Deicing power lines
+Nacelle bus
+
+Power relay
+
+To other pair of blades
+
+Loadmeter
+Fuselage bus
+
+To other propellers
+Control panel
+
+Timer or
+cycling unit
+Internal or external heating elements
+Control circuit breaker
+
+Control switch
+
+Figure 7-28. Typical electrical deicing system.
+
+7-18
+
+===== PDF PAGE 305 =====
+Brush block
+Slip rings
+
+Brushes
+
+Figure 7-29. Deicing brush block and slip ring assembly.
+
+Deice boot
+
+Figure 7-30. Electric deice boot.
+
+Icing control is accomplished by converting electrical energy
+to heat energy in the heating element. Balanced ice removal
+from all blades must be obtained as nearly as possible if
+excessive vibration is to be avoided. To obtain balanced ice
+removal, variation of heating current in the blade elements
+is controlled so that similar heating effects are obtained in
+opposite blades.
+Electric deicing systems are usually designed for intermittent
+application of power to the heating elements to remove ice
+after formation but before excessive accumulation. Proper
+control of heating intervals aids in preventing runback,
+since heat is applied just long enough to melt the ice face in
+contact with the blade. If heat supplied to an icing surface
+is more than that required for melting just the inner ice face,
+but insufficient to evaporate all the water formed, water will
+run back over the unheated surface and freeze. Runback of
+this nature causes ice formation on uncontrolled icing areas
+of the blade or surface.
+
+Cycling timers are used to energize the heating element
+circuits for periods of 15 to 30 seconds, with a complete cycle
+time of 2 minutes. A cycling timer is an electric motor driven
+contactor that controls power contactors in separate sections
+of the circuit. Controls for propeller electrical deicing systems
+include on-off switches, ammeters or loadmeters to indicate
+current in the circuits, and protective devices, such as current
+limiters or circuit breakers. The ammeters or loadmeters
+permit monitoring of individual circuit currents and reflect
+operation of the timer. To prevent element overheating, the
+propeller deicing system is used only when the propellers are
+rotating and for short test periods of time during the takeoff
+check list or system inspection.
+Propeller Synchronization & Synchrophasing
+Most multi-engine aircraft are equipped with propeller
+synchronization systems. Synchronization systems provide
+a means of controlling and synchronizing engine rpm.
+Synchronization reduces vibration and eliminates the
+unpleasant beat produced by unsynchronized propeller
+operation. The synchrophasing system is designed to
+maintain a preset angular relationship between the designated
+master propeller and the slave propellers.
+A typical synchrophasing system is an electronic system.
+[Figure 7-31] It functions to match the rpm of both engines
+and establish a blade phase relationship between the left
+and right propellers to reduce cabin noise. The system is
+controlled by a two-position switch located forward of the
+throttle quadrant. Turning the control switch on supplies
+direct current (DC) power to the electronic control box.
+Input signals representing propeller rpm are received from
+magnetic pickup on each propeller. The computed input
+signals are corrected to a command signal and sent to a rpm
+trimming coil located on the propeller governor of the slow
+engine. Its rpm is adjusted to that of the other propeller.
+
+Propeller spinner
+Propeller governor
+RPM sensor
+
+RPM sensor
+
+Syncrophasing controller
+
+Propeller synchronization
+OFF
+DC bus
+
+Synchroscope
+
+DC power input to controller
+Output to left governor
+Left engine input to controller
+Right engine input to controller
+Output to right governor
+Figure 7-31. Synchrophasing system.
+
+7-19
+
+===== PDF PAGE 306 =====
+Autofeathering System
+An autofeather system is used normally only during takeoff,
+approach, and landing. It is used to feather the propeller
+automatically if power is lost from either engine. The system
+uses a solenoid valve to dump oil pressure from the propeller
+cylinder (this allows the prop to feather) if two torque
+switches sense low torque from the engine. This system has
+a test-off-arm switch that is used to arm the system.
+The autofeather system automatically energizes the holding
+coil (pulling in the feather button) when engine power loss
+results in a propeller thrust drop to a preset value. This system
+is switch-armed for use during takeoff and can function only
+when the power lever is near or in the “takeoff” position.
+
+Propeller Inspection & Maintenance
+Propellers must be inspected regularly. The exact time
+interval for particular propeller inspections is usually
+specified by the propeller manufacturer. The regular daily
+inspection of propellers varies little from one type to another.
+Typically, it is a visual inspection of propeller blades, hubs,
+controls, and accessories for security, safety, and general
+condition. Visual inspection of the blades does not mean
+a careless or casual observation. The inspection should be
+meticulous enough to detect any flaw or defect that may exist.
+Inspections performed at greater intervals of time (e.g., 25,
+50, or 100 hours) usually include a visual check of:
+
+The NTS device mechanically moves the NTS plunger,
+which actuates a linkage in the propeller control when a
+predetermined negative torque value is sensed (when the
+propeller drives the engine). This plunger, working through
+control linkage, shifts the feather valve plunger, sending the
+blades toward feather.
+
+1.
+
+Blades, spinners, and other external surfaces for
+excessive oil or grease deposits.
+
+2.
+
+Weld and braze sections of blades and hubs for
+evidence of failure.
+
+3.
+
+Blade, spinner, and hubs for nicks, scratches, or other
+flaws. Use a magnifying glass if necessary.
+
+As the blade angle increases, negative torque decreases until
+the NTS signal is removed, closing the feather valve. If the
+predetermined negative torque value is again exceeded, the
+NTS plunger again causes the feather valve plunger to shift.
+The normal effect of the NTS is a cycling of rpm slightly
+below the rpm at which the negative torque was sensed.
+
+4.
+
+Spinner or dome shell attaching screws for tightness.
+
+5.
+
+The lubricating requirements and oil levels, when
+applicable.
+
+Unfeathering is initiated by pulling the feather button to
+the “unfeather” position. This action supplies voltage to the
+auxiliary motor to drive the auxiliary pump. Because the
+propeller governor is in an underspeed position with the
+propeller feathered, the blades will move in a decreased pitch
+direction under auxiliary pump pressure.
+
+If a propeller is involved in an accident, and a possibility
+exists that internal damage may have occurred, or if a
+propeller has had a ground strike or sudden stoppage, the
+recommendations of the engine and propeller manufacturer's
+maintenance manual need to be adhered to. The propeller
+should be disassembled and inspected. Whenever a propeller
+is removed from a shaft, the hub cone seats, cones, and other
+contact parts should be examined to detect undue wear,
+galling, or corrosion.
+
+The pitch lock operates in the event of a loss of propeller
+oil pressure or an overspeed. The ratchets of the assembly
+become engaged when the oil pressure, which keeps them
+apart, is dissipated through a flyweight-actuated valve, which
+operates at an rpm slightly higher than the 100% rpm The
+ratchets become disengaged when high pressure and rpm
+settings are restored.
+
+It is also vitally important to keep up-to-date airworthiness
+directives (ADs) or service bulletins (SBs) for a propeller.
+Compliance with ADs is required to make the aircraft legally
+airworthy, but it is also important to follow the SBs. All work
+performed on the propeller, including AD and SB compliance,
+should be noted in the propeller logbook.
+
+At the “flight idle” power lever position, the control beta
+follow-up low-pitch stop on the beta set cam (on the alpha
+shaft) is set about 2' below the flight low-pitch stop setting,
+acting as a secondary low-pitch stop. At the “takeoff” power
+lever position, this secondary low-pitch stop sets a higher
+blade angle stop than the mechanical flight low-pitch stop.
+This provides for control of overspeed after rapid power lever
+advance, as well as a secondary low-pitch stop.
+
+The propeller inspection requirements and maintenance
+procedures discussed in this section are representative of
+those in widespread use on most of the propellers described
+in this chapter. No attempt has been made to include detailed
+maintenance procedures for a particular propeller, and
+all pressures, figures, and sizes are solely for the purpose
+of illustration and do not have specific application. For
+maintenance information on a specific propeller, always refer
+to applicable manufacturer instructions.
+
+7-20
+
+===== PDF PAGE 307 =====
+Wood Propeller Inspection
+Wood propellers should be inspected frequently to ensure
+airworthiness. Inspect for defects, such as cracks, dents,
+warpage, glue failure, delamination defects in the finish, and
+charring of the wood between the propeller and the flange
+due to loose propeller mounting bolts. Examine the wood
+close to the metal sleeve of wood blades for cracks extending
+outward on the blade. These cracks sometimes occur at the
+threaded ends of the lag screws and may be an indication of
+internal cracking of the wood. Check the tightness of the lag
+screws, which attach the metal sleeve to the wood blade, in
+accordance with the manufacturer’s instructions. In-flight tip
+failures may be avoided by frequent inspections of the metal
+cap, leading edge strip, and surrounding areas. Inspect for
+such defects as looseness or slipping, separation of soldered
+joints, loose screws, loose rivets, breaks, cracks, eroded
+sections, and corrosion. Inspect for separation between the
+metal leading edge and the cap, which would indicate the cap
+is moving outward in the direction of centrifugal force. This
+condition is often accompanied by discoloration and loose
+rivets. Inspect the tip for cracks by grasping it with your hand
+and slightly twisting about the longitudinal blade centerline
+and by slightly bending the tip backward and forward. If the
+leading edge and the cap have separated, carefully inspect
+for cracks at this point. Cracks usually start at the leading
+edge of the blade. Inspect moisture holes to ensure that they
+are open. A fine line appearing in the fabric or plastic may
+indicate a crack in the wood. Check the trailing edge of the
+propeller blades for bonding, separation, or damage.
+Metal Propeller Inspection
+Metal propellers and blades are generally susceptible to
+fatigue failure resulting from the concentration of stresses
+at the bottoms of sharp nicks, cuts, and scratches. It is
+necessary, therefore, to frequently and carefully inspect them
+for such defects and make repairs promptly. The inspection
+of steel blades may be accomplished by either visual,
+fluorescent penetrant or magnetic particle inspection. The
+visual inspection is easier if the steel blades are covered with
+engine oil or rust-preventive compound. The full length of the
+leading edge (especially near the tip), the full length of the
+trailing edge, the grooves and shoulders on the shank, and all
+dents and scars should be examined with a magnifying glass
+to decide whether defects are scratches or cracks.
+Tachometer inspection is a very important part of the overall
+propeller inspection. Operation with an inaccurate tachometer
+may result in restricted rpm operation and damaging high
+stresses. This could shorten blade life and could result in
+catastrophic failure. If the tachometer is inaccurate, then
+the propeller could be turning much faster than it is rated
+to turn, providing extra stress. Accuracy of the engine
+tachometer should be verified at 100-hour intervals or at
+
+annual inspection, whichever occurs first. Hartzell Propeller
+recommends using a tachometer that is accurate within ± 10
+rpm and has an appropriate calibration schedule.
+Aluminum Propeller Inspection
+Carefully inspect aluminum propellers and blades for cracks
+and other flaws. A transverse crack or flaw of any size is
+cause for rejection. No repairs are permitted to the shanks
+(roots or hub ends) of aluminum-alloy, adjustable-pitch
+blades. The shanks must be within manufacturer’s limits.
+Multiple deep nicks and gouges on the leading edge and
+face of the blade is cause for rejection. Use dye penetrant or
+fluorescent dye penetrant to confirm suspected cracks found
+in the propeller. Refer any unusual condition or appearance
+revealed by these inspections to the manufacturer.
+Composite Propeller Inspection
+Composite blades need to be visually inspected for nicks,
+gouges, loose material, erosion, cracks and debonds,
+and lightning strike. [Figure 7-32] Composite blades are
+inspected for delaminations and debonds by tapping the
+blade or cuff (if applicable) with a metal coin. If an audible
+change is apparent, sounding hollow or dead, a debond or
+delamination is likely. [Figure 7-33] Blades that incorporate
+a “cuff” have a different tone when coin tapped in the cuff
+area. To avoid confusing the sounds, coin tap the cuff area and
+the transition area between the cuff and the blade separately
+from the blade area. Additional nondestructive testing (NDT)
+techniques for composite materials, such as phased array
+inspections, and ultrasound inspections, are available for
+more detailed inspections.
+Repairs to propellers are often limited to minor type repairs.
+Certificated mechanics are not allowed to perform major
+repairs on propellers. Major repairs need to be accomplished
+by a certificated propeller repair station.
+
+Carbon/glass fiber envelope
+Lightning conductor earthed to metal root
+All over polyurethane spray coat
+
+Carbon fiber spars
+Polyurethane foam core
+
+Nickel leading-edge protection
+
+Figure 7-32. Composite blade construction.
+
+7-21
+
+===== PDF PAGE 308 =====
+YTR
+
+E
+BIL
+
+80
+0
+
+2
+
+Coin tap along the entire
+surface of the erosion shield
+to check for debonds.
+
+YTR
+
+E
+BIL
+
+80
+0
+
+2
+
+Coin tap the
+composite blade
+suface to check
+for delaminations.
+Figure 7-33. Coin-tap test to check for debonds and delaminations.
+
+Propeller Vibration
+Although vibration can be caused by the propeller, there are
+numerous other possible sources of vibration that can make
+troubleshooting difficult. If a propeller vibrates, whether
+due to balance, angle, or track problems, it typically vibrates
+throughout the entire rpm range, although the intensity of the
+vibration may vary with the rpm. If a vibration occurs only at
+one particular rpm or within a limited rpm range (e.g., 2200–
+2350 rpm), the vibration is not normally a propeller problem
+but a problem of a poor engine-propeller match. If a propeller
+vibration is suspected but cannot be positively determined,
+the ideal troubleshooting method is to temporarily replace the
+propeller with one known to be airworthy and then test fly the
+aircraft if possible. Blade shake is not the source of vibration
+problems. Once the engine is running, centrifugal force holds
+the blades firmly (approximately 30,000–40,000 pounds)
+against blade bearings. Cabin vibration can sometimes be
+improved by reindexing the propeller to the crankshaft. The
+propeller can be removed, rotated 180°, and reinstalled. The
+propeller spinner can be a contributing factor to an out-ofbalance condition. An indication of this would be a noticeable
+spinner wobble while the engine is running. This condition is
+usually caused by inadequate shimming of the spinner front
+support or a cracked or deformed spinner.
+When powerplant vibration is encountered, it is sometimes
+difficult to determine whether it is the result of engine
+vibration or propeller vibration. In most cases, the cause of
+the vibration can be determined by observing the propeller
+hub, dome, or spinner while the engine is running within a
+1,200- to 1,500-rpm range and determining whether or not
+the propeller hub rotates on an absolutely horizontal plane.
+If the propeller hub appears to swing in a slight orbit, the
+vibration is usually caused by the propeller. If the propeller
+hub does not appear to rotate in an orbit, the difficulty is
+probably caused by engine vibration.
+When propeller vibration is the reason for excessive vibration,
+the difficulty is usually caused by propeller blade imbalance,
+
+propeller blades not tracking, or variation in propeller blade
+angle settings. Check the propeller blade tracking and then
+the low-pitch blade angle setting to determine if either is
+the cause of the vibration. If both propeller tracking and
+low blade angle setting are correct, the propeller is statically
+or dynamically unbalanced and should be replaced, or rebalanced if permitted by the manufacturer.
+Blade Tracking
+Blade tracking is the process of determining the positions of
+the tips of the propeller blades relative to each other (blades
+rotating in the same plane of rotation). Tracking shows only
+the relative position of the blades, not their actual path. The
+blades should all track one another as closely as possible. The
+difference in track at like points must not exceed the tolerance
+specified by the propeller manufacturer. The design and
+manufacture of propellers is such that the tips of the blades
+give a good indication of tracking. The following method for
+checking tracking is normally used:
+1.
+
+Chock the aircraft so it cannot be moved.
+
+2.
+
+Remove one spark plug from each cylinder. This
+makes the propeller easier and safer to turn.
+
+3.
+
+Rotate one of the blades so it is pointing down.
+
+4.
+
+Place a solid object (e.g., a heavy wooden block that is
+at least a couple of inches higher off the ground than the
+distance between the propeller tip and the ground) next
+to the propeller tip so that it just touches or attaches a
+pointer/indicator to the cowling itself. [Figure 7-34]
+
+5.
+
+Rotate the propeller slowly to determine if the next
+blade tracks through the same point (touches the block/
+pointer). Each blade track should be within 1⁄16 inch
+
+± 1/16"
+Wood block
+
+Cowling fixture
+
+Figure 7-34. Propeller blade tracking.
+
+7-22
+
+===== PDF PAGE 309 =====
+(plus or minus) from the opposite blade’s track.
+An out-of-track propeller, may be due to one or more
+propeller blades being bent, a bent propeller flange,
+or propeller mounting bolts that are either over- or
+undertorqued. An out-of-track propeller causes
+vibration and stress to the airframe and engine and
+may cause premature propeller failure.
+
+Check the blade angle by determining how much the flat
+side of the block slants from the plane of rotation. First,
+locate a point to represent the plane of rotation by placing
+the protractor vertically against the end of the hub nut or any
+convenient surface known to lie in the plane of propeller
+
+Vernier scale on ring
+Disc adjuster
+
+Center spirit level
+
+Ring
+
+Degree scale on disc
+
+8
+
+70
+
+60
+
+0
+
+10
+
+50
+
+30
+
+20
+
+10
+
+10
+
+30 120 110
+40 1
+1 00
+0 1
+90
+15
+
+60
+
+70
+
+80
+
+0
+
+10
+0
+
+0
+16
+
+90
+
+40
+30 1
+0 1
+
+150 160
+
+170
+
+18
+0
+
+17
+
+Edge used for checking
+against the propeller blade
+Corner spirit level
+
+Ring-to-frame lock
+
+Nut—loosen to rotate face of level
+Figure 7-35. Blade angle measurement.
+
+0
+
+50
+
+Edge used for checking against the propeller blade
+
+0
+
+10
+
+Edge used for checking against the propeller blade
+
+Ring adjuster
+
+Disc
+
+40
+
+Protractor TE97
+
+Release the ring-to-frame lock (a right-hand screw with
+thumb nut) and turn the ring until both ring and disc zeros
+are at the top of the protractor.
+
+30
+
+Reference blade radius location
+
+Figure 7-36. Bench top protractor.
+
+20
+
+Universal Propeller Protractor
+The universal propeller protractor can be used to check
+propeller blade angles when the propeller is on a balancing
+stand or installed on the aircraft engine. Figure 7-37 shows
+the parts and adjustments of a universal propeller protractor.
+The following instructions for using the protractor apply to a
+propeller installed on the engine. Turn the propeller until the
+first blade to be checked is horizontal with the leading edge
+up. Place the corner spirit level at right angles to the face of
+the protractor. Align degree and vernier scales by turning
+the disc adjuster before the disc is locked to the ring. The
+locking device is a pin that is held in the engaged position
+by a spring. The pin can be released by pulling it outward
+and turning it 90°.
+
+Bench top protractor TE96
+
+12
+
+Checking & Adjusting Propeller Blade Angles
+When you find an improper blade angle setting during
+installation or when indicated by engine performance,
+follow basic maintenance guidelines. From the applicable
+manufacturer’s instructions, obtain the blade angle setting and
+the station at which the blade angle is checked. Do not use
+metal scribes or other sharply pointed instruments to mark the
+location of blade stations or make reference lines on propeller
+blades, since such surface scratches can induce failure (stress
+concentrator), eventually resulting in blade failure. Use a
+bench-top protractor if the propeller is removed from the
+aircraft. [Figure 7-35] Use a handheld protractor (a digital
+protractor provides an easy measurement) to check blade angle
+if the propeller is installed on the aircraft or is placed on the
+knife-edge balancing stand. [Figure 7-36]
+
+0
+11
+
+6.
+
+Disc-to-ring lock
+
+Figure 7-37. Universal propeller protractor.
+
+7-23
+
+===== PDF PAGE 310 =====
+rotation. Keep the protractor vertical by the corner spirit
+level and turn the ring adjuster until the center spirit level is
+horizontal. This sets the zero of the vernier scale at a point
+representing the plane of propeller rotation. Then, lock the
+ring to the frame.
+While holding the protractor by the handle with the curved
+edge up, release the disc-to-ring lock. Place the forward
+vertical edge (the edge opposite the one first used) against
+the blade at the station specified in the manufacturer’s
+instructions. Keep the protractor vertical by the corner spirit
+level and turn the disc adjuster until the center spirit level
+is horizontal. The number of degrees and tenths of a degree
+between the two zeros indicates the blade angle.
+In determining the blade angle, remember that ten points on the
+vernier scale are equal to nine points on the degree scale. The
+graduations on the vernier scale represent tenths of a degree,
+but those of the degree scale represent whole degrees. The
+number of tenths of a degree in the blade angle is given by the
+number of vernier scale spaces between the zero of the vernier
+scale and the vernier scale graduation line nearest to perfect
+alignment with a degree scale graduation line. This reading
+should always be made on the vernier scale. The vernier
+scale increases in the same direction that the protractor scale
+increases. This is opposite to the direction of rotation of the
+moving element of the protractor. After making any necessary
+adjustment of the blade, lock it in position and repeat the same
+operations for the remaining blades of the propeller.
+
+Propeller Balancing
+Propeller unbalance, which is a source of vibration in an
+aircraft, may be either static or dynamic. Propeller static
+imbalance occurs when the center of gravity (CG) of the
+propeller does not coincide with the axis of rotation. Dynamic
+unbalance results when the CG of similar propeller elements,
+such as blades or flyweights, does not follow in the same
+plane of rotation. Since the length of the propeller assembly
+along the engine crankshaft is short in comparison to its
+diameter, and since the blades are secured to the hub so they
+lie in the same plane perpendicular to the running axis, the
+dynamic unbalance resulting from improper mass distribution
+is negligible, provided the track tolerance requirements are
+met. Another type of propeller unbalance, aerodynamic
+unbalance, results when the thrust (or pull) of the blades is
+unequal. This type of unbalance can be largely eliminated by
+checking blade contour and blade angle setting.
+Static Balancing
+The knife-edge test stand has two hardened steel edges
+mounted to allow the free rotation of an assembled propeller
+between them. [Figure 7-38] The knife-edge test stand must
+be located in a room or area that is free from any air motion,
+
+and preferably removed from any source of heavy vibration.
+The standard method of checking propeller assembly balance
+involves the following sequence of operations:
+1.
+
+Insert a bushing in the engine shaft hole of the
+propeller.
+
+2.
+
+Insert a mandrel or arbor through the bushing.
+
+3.
+
+Place the propeller assembly so that the ends of the
+arbor are supported upon the balance stand knifeedges. The propeller must be free to rotate.
+
+If the propeller is properly balanced statically, it remains at
+any position in which it is placed. Check two-bladed propeller
+assemblies for balance: first with the blades in a vertical
+position and then with the blades in a horizontal position.
+Repeat the vertical position check with the blade positions
+reversed; that is, with the blade that was checked in the
+downward position placed in the upward position.
+Check a three-bladed propeller assembly with each blade
+placed in a downward vertical position. [Figure 7-39]
+During a propeller static balance check, all blades must be at
+the same blade angle. Before conducting the balance check,
+inspect to see that each blade has been set at the same blade
+angle.
+Unless otherwise specified by the manufacturer, an
+acceptable balance check requires that the propeller assembly
+have no tendency to rotate in any of the positions previously
+described. If the propeller balances perfectly in all described
+positions, it should also balance perfectly in all intermediate
+positions. When necessary, check for balance in intermediate
+positions to verify the check in the originally described
+positions. [Figure 7-40]
+When a propeller assembly is checked for static balance and
+there is a definite tendency of the assembly to rotate, certain
+corrections to remove the unbalance are allowed.
+1.
+
+The addition of permanent fixed weights at acceptable
+locations when the total weight of the propeller
+assembly or parts is under the allowable limit.
+
+2.
+
+The removal of weight at acceptable locations when
+the total weight of the propeller assembly or parts is
+equal to the allowable limit.
+
+The location for removal or addition of weight for propeller
+unbalance correction has been determined by the propeller
+manufacturer. The method and point of application of
+unbalance corrections must be checked to see that they are
+according to applicable drawings.
+7-24
+
+===== PDF PAGE 311 =====
+A. Vertical balance check
+
+B. Horizontal balance check
+
+Figure 7-38. Positions of two-bladed propeller during a balance check.
+
+1
+
+2
+
+3
+
+3
+
+1
+
+2
+
+2
+
+3
+
+1
+
+Figure 7-39. Positions of three-bladed propeller during balance check.
+
+Dynamic Balancing
+Propellers can also be dynamically balanced (spin balanced)
+with an analyzer kit to reduce the vibration levels of the
+propeller and spinner assembly. Some aircraft have the
+system hardwired in the aircraft and on other aircraft the
+sensors and cables need to be installed before the balancing
+run. Balancing the propulsion assembly can provide
+substantial reductions in transmitted vibration and noise to
+the cabin and also reduces excessive damage to other aircraft
+and engine components. The dynamic imbalance could be
+caused by mass imbalance or any aerodynamic imbalance.
+Dynamic balancing only improves the vibration caused by
+mass unbalance of the externally rotating components of the
+propulsion system. Balancing does not reduce the vibration
+
+level if the engine or aircraft is in poor mechanical condition.
+Defective, worn, or loose parts will make balancing
+impossible. Several manufacturers make dynamic propeller
+balancing equipment, and their equipment operation could
+differ. The typical dynamic balancing system consists of a
+vibration sensor that is attached to the engine close to the
+propeller, and an analyzer unit that calculates the weight and
+location of balancing weights.
+Balancing Procedure
+Face the aircraft directly into the wind (maximum 20 knots)
+and place chocks at the wheels. When you have installed the
+analyzing equipment, run the engine up at low cruise rpm; the
+7-25
+
+===== PDF PAGE 312 =====
+or inner surface of the spinner dome. Visually examine each
+propeller blade assembly for evidence of grease leakage.
+Visually examine the inner surface of the spinner dome for
+evidence of grease leakage. If there is no evidence of grease
+leakage, lubricate the propeller in accordance with the
+maintenance manual. If grease leakage is evident, determine
+the location of the leak and correct before relubricating the
+propeller and dynamic balancing. Before dynamic balance,
+record the number and location of all balance weights. Static
+balance is accomplished at a propeller overhaul facility when
+an overhaul or major repair is performed. Twelve equally
+spaced locations are recommended for weight attachment.
+Install the balancing weights using aircraft quality 10-32 or
+AN-3 type screws or bolts. Balance weight screws attached to
+the spinner bulkhead must protrude through the self-locking
+nuts or nut plates a minimum of one thread and a maximum
+of four threads. Unless otherwise specified by the engine
+or airframe manufacturer, Hartzell recommends that the
+propeller be dynamically balanced to a reading of 0.2 ips, or
+less. If reflective tape is used for dynamic balancing, remove
+the tape immediately after balancing is completed. Make a
+record in the propeller logbook of the number and location
+of dynamic balance weights, and static balance weights if
+they have been reconfigured.
+Figure 7-40. Static propeller balancing.
+
+dynamic analyzer calculates the balancing weight required at
+each blade position. After installing the balancing weights,
+run the engine up again to check if the vibration levels have
+diminished. This process may have to be repeated several
+times before satisfactory results are achieved.
+A dynamic balancing example procedure is listed here, but
+always refer to the aircraft and propeller manuals when
+performing any balancing procedure. Dynamic balance is
+accomplished by using an accurate means of measuring the
+amount and location of the dynamic imbalance. The number
+of balance weights installed must not exceed the limits
+specified by the propeller manufacturer. Follow the dynamic
+balance equipment manufacturer’s instructions for dynamic
+balance in addition to the specifications of the propeller.
+
+Propeller Removal & Installation
+Removal
+The following procedure is for demonstration purposes only.
+Always use the current manufacturer’s information when
+removing and installing any propeller.
+1.
+
+Remove the spinner dome in accordance with the
+spinner removal procedures. Cut and remove the safety
+wire (if installed) on the propeller mounting studs.
+
+2.
+
+Support the propeller assembly with a sling. If the
+propeller is reinstalled and has been dynamically
+balanced, make an identifying mark (with a felt-tipped
+pen only) on the propeller hub and a matching mark on
+the engine flange to make sure of proper orientation
+during reinstallation to prevent dynamic imbalance.
+
+3.
+
+Unscrew the four mounting bolts from the engine
+bushings. Unscrew the two mounting nuts and the
+attached studs from the engine bushings. If the
+propeller is removed between overhaul intervals,
+mounting studs, nuts, and washers may be reused if
+they are not damaged or corroded.
+
+Most equipment use an optical pickup that senses reflective
+tape for rpm reading. Also, there is an accelerometer mounted
+to the engine that senses vibration in inches per second (ips).
+Visually inspect the propeller assembly before dynamic
+balancing. The first runup of a new or overhauled propeller
+assembly may leave a small amount of grease on the blades
+and inner surface of the spinner dome. Use Stoddard solvent
+(or equivalent) to completely remove any grease on the blades
+
+Caution: Remove the propeller from the mounting
+flange with care to prevent damaging the propeller
+mounting studs. Using the support sling, remove the
+propeller from the mounting flange.
+4.
+
+Place the propeller on a cart for transport.
+
+7-26
+
+===== PDF PAGE 313 =====
+Installation
+A flange propeller has six studs configured in a four-inch
+circle. Two special studs that also function as dowel pins
+are provided to transfer torque and index the propeller with
+respect to the engine crankshaft. The dowel pin locations
+used on a particular propeller installation are indicated in the
+propeller model stamped on the hub. Perform the applicable
+steps under Spinner Pre-Installation and clean the engine
+flange and propeller flange with quick dry Stoddard solvent
+or methyl ethyl ketone (MEK). Install the O-ring in the O-ring
+groove in the hub bore. Note: When the propeller is received
+from the factory, the O-ring has usually been installed. With a
+suitable support, such as a crane hoist or similar equipment,
+carefully move the propeller assembly to the aircraft engine
+mounting flange in preparation for installation.
+Install the propeller on the engine flange. Make certain
+to align the dowel studs in the propeller flange with the
+corresponding holes in the engine mounting flange. The
+propeller may be installed on the engine flange in a given
+position, or 180° from that position. Check the engine and
+airframe manuals to determine if either manual specifies a
+propeller mounting position.
+Caution: Mounting hardware must be clean and dry to
+prevent excessive preload of the mounting flange.
+Caution: Tighten nuts evenly to avoid hub damage.
+Install the propeller mounting nuts (dry) with spacers. Torque
+the propeller mounting nuts (dry) in accordance with the
+proper specifications and safety wire the studs in pairs (if
+required by the aircraft maintenance manual) at the rear of
+the propeller mounting flange.
+
+Servicing Propellers
+Propeller servicing includes cleaning, lubricating, and
+replenishing operating lubrication supplies.
+Cleaning Propeller Blades
+Aluminum and steel propeller blades and hubs are usually
+cleaned by washing the blades with a suitable cleaning
+solvent, using a brush or cloth but current manufacturer's
+information should always be used. Do not use acid or caustic
+materials. Power buffers, steel wool, steel brushes, or any
+other tool or substance that may scratch or mar the blade
+should be avoided. If a high polish is desired, a number of
+good grades of commercial metal polish are available. After
+completing the polishing operation, immediately remove all
+traces of polish. When the blades are clean, coat them with a
+clean film of engine oil or suitable equivalent.
+To clean wooden propellers, use warm water and a mild
+
+soap, together with brushes or cloth. If a propeller has been
+subjected to salt water, flush it with fresh water until all traces
+of salt have been removed. This should be accomplished
+as soon as possible after the salt water has splashed on
+the propeller, regardless of whether the propeller parts are
+aluminum alloy, steel, or wood. After flushing, thoroughly
+dry all parts, and coat metal parts with clean engine oil or a
+suitable equivalent.
+To remove grease or oil from propeller surfaces, apply
+Stoddard solvent or equivalent to a clean cloth and wipe
+the part clean. Using a noncorrosive soap solution, wash
+the propeller. Thoroughly rinse with water. Permit to dry.
+Aluminum and steel propeller blades and hubs usually are
+cleaned by washing the blades with a suitable cleaning
+solvent, using a brush or cloth. Do not use acid or caustic
+materials. Avoid power buffers, steel wool, steel brushes,
+or any other tool or substance that may scratch or mar the
+blade. If a high polish is desired, a number of good grades of
+commercial metal polish are available. After completing the
+polishing operation, immediately remove all traces of polish.
+When the blades are clean, coat them with a clean film of
+engine oil or suitable equivalent.
+Charging the Propeller Air Dome
+These instructions are general in nature and do not represent
+any aircraft procedure. Always check the correct manual
+before servicing any propeller system. Examine the propeller
+to make sure that it is positioned on the start locks and using
+the proper control, then charge the cylinder with dry air or
+nitrogen. The air charge valve is located on the cylinder as
+indicated in Figure 7-41. Nitrogen is the preferred charging
+medium. The correct charge pressure is identified by checking
+the correct table shown. The temperature is used to find the
+correct pressure to charge the hub air pressure.
+Propeller Lubrication
+Hydromatic propellers operated with engine oil and some
+sealed propellers do not require lubrication. Electric propellers
+require oils and greases for hub lubricants and pitch change
+drive mechanisms. Proper propeller lubrication procedures,
+with oil and grease specifications, are usually published in the
+manufacturer’s instructions. Experience indicates that water
+sometimes gets into the propeller blade bearing assembly
+on some models of propellers. For this reason, the propeller
+manufacturer’s greasing schedule must be followed to ensure
+proper lubrication of moving parts and protection from
+corrosion. Observe overhaul periods because most defects
+in propellers are not external but unseen internal corrosion.
+Dissimilar metals in the prop and hub create an environment
+ripe for corrosion, and the only way to properly inspect many
+of these areas is through a teardown. Extensive corrosion can
+dramatically reduce the strength of the blades or hub. Even
+7-27
+
+===== PDF PAGE 314 =====
+Air charge temperature/
+pressure chart
+Air charge valve
+
+Figure 7-41. Servicing air charge in propeller.
+
+seemingly minor corrosion may cause a blade or hub to fail
+an inspection. Because of the safety implications (blade loss),
+this is clearly an area in which close monitoring is needed.
+One example of the lubrication requirements and procedures
+is detailed here for illustration purposes only. Lubrication
+intervals are important to adhere to because of corrosion
+implications. The propeller must be lubricated at intervals
+not to exceed 100 hours or at 12 calendar months, whichever
+occurs first. If annual operation is significantly less than
+100 hours, calendar lubrication intervals should be reduced
+to 6 months. If the aircraft is operated or stored under
+adverse atmospheric conditions, such as high humidity, salt
+air, calendar lubrication intervals should be reduced to 6
+
+months. Hartzell recommends that new or newly overhauled
+propellers be lubricated after the first 1 or 2 hours of operation
+because centrifugal loads pack and redistribute grease,
+which may result in a propeller imbalance. Redistribution
+of grease may also result in voids in the blade bearing area
+where moisture can collect. Remove the lubrication fitting
+from the cylinder-side hub half installed in the engine-side
+hub half. [Figure 7-42] Pump 1 fluid ounce (30 milliliters
+(ml)) grease into the fitting located nearest the leading edge
+of the blade on a tractor installation, or nearest the trailing
+edge on a pusher installation, until grease emerges from the
+hole where the fitting was removed, whichever occurs first.
+Note: 1 fluid ounce (30 ml) is approximately six pumps with
+
+Lubricating bearing in this area
+
+Remove grease fitting
+
+Pump grease in here
+
+Figure 7-42. Lubricating propeller bearings.
+
+7-28
+
+===== PDF PAGE 315 =====
+a hand-operated grease gun. Reinstall the removed lubrication
+fittings. Tighten the fittings until snug. Make sure that the
+ball of each lubrication fitting is properly seated. Reinstall
+a lubrication fitting cap on each lubrication fitting. Perform
+grease replacement through attached pressure fittings (zerks)
+in accordance with the manufacturer’s instructions.
+
+Propeller Overhaul
+Propeller overhaul should be accomplished at the maximum
+hours or calendar time limit, whichever occurs first. Upon
+receipt for overhaul, prepare a document that tracks the
+propeller components throughout the overhaul process.
+Research all applicable ADs, current specifications, and
+manufacturers’ SBs for incorporation during the overhaul
+process. Double check the serial number and make notes on
+the work order regarding the general condition in which the
+propeller was received. As you disassemble and clean the
+unit, perform a preliminary inspection on all related parts.
+Record those revealing discrepancies requiring rework or
+replacement in the overhaul record by part number, along
+with the reason for the required action. Discard all threaded
+fasteners during disassembly and, with a few exceptions
+permitted by the manufacturer, replace with new components.
+Many specialized tools and fixtures are required in the
+disassembly and proper reassembly of propellers. These
+tools are generally model specific and range from massive
+15-foot torque adapter bars and 100-ton presses down to
+tiny dowel pin alignment devices. Dimensionally inspect
+components that are subject to wear to the manufacturer’s
+specifications. After passing inspection, anodize aluminum
+parts and cadmium plate steel parts for maximum protection
+against corrosion.
+The Hub
+Strip nonferrous hubs and components of paint and anodize
+and inspect for cracks using a liquid penetrant inspection
+(LPI) procedure. Etch, rinse, dry, and then immerse the
+parts in a fluorescent penetrant solution. After soaking in
+the penetrant, rinse them again and blow dry. Then, apply
+developer, which draws any penetrant caught in cracks or
+defects to the surface. Under an ultraviolet inspection lamp,
+the penetrant clearly identifies the flaw. Certain models of
+hubs are also eddy-current inspected around critical, highstress areas. Eddy-current testing passes an electrical current
+through a conductive material that, when disturbed by a
+crack or other flaw, causes a fluctuation on a meter or CRT
+display. This method of inspection can detect flaws that are
+below the surface of the material and not exposed to the eye.
+Magnetic particle inspection (MPI) is used to locate flaws in
+steel parts. The steel parts of the propeller are magnetized by
+passing a strong electrical current through them. A suspension
+of fluorescent iron oxide powder and solvent is spread over
+the parts. While magnetized, the particles within the fluid
+
+on the parts surface immediately align themselves with the
+discontinuity. When examined under black light, the crack
+or fault shows as a bright fluorescent line.
+The first step in blade overhaul is the precise measurement
+of blade width, thickness, face alignment, blade angles,
+and length. Then, record the measurements on each blade’s
+inspection record and check against the minimum acceptable
+overhaul specifications established by the manufacturer.
+Blade overhaul involves surface grinding and repitching,
+if necessary. Occasionally, blade straightening is also
+required. The manufacturer’s specification dictates certain
+allowable limits within which a damaged blade may be cold
+straightened and returned to airworthy condition. Specialized
+tooling and precision measuring equipment permit pitch
+changes or corrections of less than one-tenth of one degree.
+To ensure accuracy, take frequent face alignment and angle
+measurements during the repair process. Precision hand grind
+the blade airfoil to remove all corrosion, scratches, and surface
+flaws. After completely removing all stress risers and faults,
+take final blade measurements and record on each blade’s
+inspection record. Balance and match the propeller blades and
+anodize and paint them for long-term corrosion protection.
+Prop Reassembly
+When both the hubs and the blades have completed the
+overhaul process, the propeller is ready for final assembly.
+Recheck part numbers with the manufacturer’s specifications.
+Lubricate and install the parts per each unit’s particular
+overhaul manual. After final assembly, check both highand low-pitch blade angles on constant-speed propellers
+for proper operation and leaks by cycling the propeller with
+air pressure through its blade angle range. Then, check the
+assembled propeller for static balance. If necessary, place
+weights on the hub areas of each “light” blade socket to
+bring about its proper balance. These weights should be
+considered part of the basic hub assembly and should not be
+moved during subsequent dynamic balancing to the engine.
+As with most aircraft components, all of the hardware on
+the propeller assembly must be safety wired, unless secured
+by self-locking devices. Then, the final inspector fills out
+and signs maintenance release tags reflecting the work
+accomplished, applicable ADs, and all incorporated service
+documents. These documents certify that the major repairs
+and/or alterations that have been made meet established
+standards and that the propeller is approved for return to
+service. All minor repairs and minor alterations on propellers
+must be accomplished by a certified repair station, an airframe
+and powerplant technician (A&P), or a person working under
+the direct supervision of such a technician or an appropriately
+rated air carrier. Major repairs or alterations, including the
+overhaul of controllable pitch propellers, must be done by an
+appropriately rated repair station, manufacturer, or air carrier.
+7-29
+
+===== PDF PAGE 316 =====
+Troubleshooting Propellers
+Some brief examples of troubleshooting problems and
+possible causes are provided in the following subsections.
+Always refer to the correct manual for actual information
+on troubleshooting.
+Hunting & Surging
+Hunting is characterized by a cyclic variation in engine speed
+above and below desired speed. Surging is characterized
+by a large increase/decrease in engine speed, followed by a
+return to set speed after one or two occurrences. If propeller is
+hunting, an appropriately licensed repair facility should check:
+1.
+
+Governor,
+
+2.
+
+Fuel control, and
+
+3.
+
+Synchrophaser or synchronizer.
+
+Engine Speed Varies with Flight Attitude (Airspeed)
+Small variances in engine speed are normal and are no cause
+for concern. An increase in engine speed while descending or
+increasing airspeed with a nonfeathering propeller could be:
+1.
+
+The governor not increasing oil volume in the
+propeller,
+
+2.
+
+Engine transfer bearing leaking excessively, or
+
+3.
+
+Excessive friction in blade bearings or pitch changing
+mechanism.
+
+Failure to Feather or Feathers Slowly
+Failure to feather or slow feathering of the propeller requires
+the FAA-certificated A&P technician to:
+1.
+
+Refer to the air charge section in the maintenance
+manual if the air charge is lost or low.
+
+2.
+
+Check for proper function and rigging of propeller/
+governor control linkage.
+
+3.
+
+Check the governor drain function.
+
+4.
+
+Check the propeller for misadjustment or internal
+corrosion (usually in blade bearings or pitch change
+mechanism) that results in excessive friction. This
+must be performed at an appropriately licensed
+propeller repair facility.
+
+Figure 7-43. Turboprop commuter.
+
+Figure 7-44. Pratt & Whitney PT6 engine.
+
+Turboprop Engines & Propeller Control
+Systems
+Turboprop engines are used for many single, twin, and
+commuter aircraft. [Figure 7-43] Smaller turboprop engines,
+such as the PT-6, are used on single and twin engine designs;
+the power ranges from 500 to 2,000 shaft horsepower.
+[Figure 7-44] Large commuter aircraft use turboprop engines,
+such as the P&W 150 and AE2100 that can deliver up to
+5,000 shaft horsepower to power mid-sized to large turboprop
+aircraft. [Figure 7-45] The turboprop propeller is operated
+by a gas turbine engine through a reduction-gear assembly.
+It has proved to be an extremely efficient power source.
+The combination of propeller, reduction-gear assembly, and
+turbine engine is referred to as a turboprop powerplant.
+The turbofan engine produces thrust directly; the turboprop
+engine produces thrust indirectly because the compressor and
+turbine assembly furnishes torque to a propeller, producing
+
+Figure 7-45. Pratt & Whitney 150 turboprop engine.
+
+7-30
+

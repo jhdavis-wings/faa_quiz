@@ -1,0 +1,1413 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 10 (Engine Maintenance & Operation), PDF pages 369-384
+
+===== PDF PAGE 369 =====
+Chapter 10
+
+Engine Maintenance & Operation
+Reciprocating Engine Overhaul
+Both maintenance and complete engine overhauls are
+performed normally at specified intervals. This interval is
+usually governed by the number of hours the powerplant
+has been in operation. The actual overhaul period for a
+specific engine is generally determined by the manufacturer’s
+recommendations. Each engine manufacturer sets a total
+time in service when the engine should be removed from
+service and overhauled. Depending upon how the engine
+is used in service, the overhaul time can be mandatory. The
+overhaul time is listed in hours and is referred to as time
+before overhaul (TBO). For example, if an engine had a life
+of 2,000 hours and had operated 500 hours, it would have a
+TBO of 1,500 hours. Tests and experience have shown that
+operation beyond this period of time could result in certain
+parts being worn beyond their safe limits. For an overhauled
+engine to be as airworthy as a new one, worn parts, as well
+as damaged parts, must be detected and replaced during
+overhaul. The only way to detect all unairworthy parts is to
+perform a thorough and complete overhaul process while the
+engine is disassembled. The major purpose of overhaul is to
+inspect, repair, and replace worn engine parts.
+A complete overhaul process includes the following ten
+steps: receiving inspection; disassembly; visual inspection;
+cleaning; structural inspection; non-destructive testing (NDT)
+inspection; dimensional inspection; repair and replacement;
+reassembly; and testing and break in. The inspection phases
+are the most precise and the most important phases of the
+overhaul. Inspection cannot be slighted or performed in a
+careless or incomplete manner. It is always recommended
+that complete records be made of the inspection process and
+kept with the engine records.
+Each engine manufacturer provides very specific tolerances
+to which the engine parts must conform and provides general
+instructions to aid in determining the airworthiness of the
+part. However, in many cases, the final determination must
+be made by the technician. Although the determination must
+be made if the part is serviceable, repairable, or should be
+rejected, the technician should follow the manufacturer’s
+manuals and information. When dimensional tolerances
+are concerned, the manufacturer publishes a new minimum
+and serviceable dimension for all critical component parts.
+Knowledge of the operating principles, strength, and stresses
+
+applied to a part is essential in making decisions regarding
+visible wear. When the powerplant technician signs the release
+for the return to service for an overhauled engine, this certifies
+that the complete overhaul process has been performed using
+methods, techniques, and practices acceptable to the Federal
+Aviation Administration (FAA) Administrator.
+Top Overhaul
+Reciprocating piston aircraft engines can be repaired by a
+top overhaul. This means an overhaul of those parts on top of
+the crankcase, without completely dismantling the engine. It
+includes removal of the units (i.e., exhaust collectors, ignition
+harness, intake pipes) necessary to remove the cylinders. The
+actual top overhaul consists of reconditioning the engine’s
+cylinders by replacing or reconditioning the piston and
+piston rings, and reconditioning or plating the cylinder wall
+and valve-operating mechanism, including valve guides if
+needed. A top overhaul is a little misleading, because it is
+really an engine repair procedure and not a real overhaul
+as described earlier. Usually at this time, the accessories
+require no attention other than that normally required during
+ordinary maintenance functions. This repair is generally due
+to valves or piston rings wearing prematurely. Many stress
+that if an engine requires this much dismantling, it should
+be completely disassembled and receive a major overhaul.
+Major Overhaul & Major Repairs
+Major overhaul consists of the complete reconditioning of
+the powerplant. A reciprocating engine would require that the
+crankcase be disassembled per the FAA; a major overhaul
+is not generally a major repair. A certified powerplant-rated
+technician can perform or supervise a major overhaul of an
+engine if it is not equipped with an internal supercharger
+or has a propeller reduction system other than spur-type
+gears. At regular intervals, an engine should be completely
+dismantled, thoroughly cleaned, and inspected. Each part
+should be overhauled in accordance with the manufacturer’s
+instructions and tolerances for the engine involved. At this
+time all accessories are removed, overhauled, and tested.
+Again, instructions from the manufacturer of the accessory
+concerned should be followed.
+
+General Overhaul Procedures
+Because of the continued changes and the many different
+types of engines in use, it is not possible to treat the specific
+10-1
+
+===== PDF PAGE 370 =====
+overhaul of each engine in this text. However, there are
+various overhaul practices and instructions of a nonspecific
+nature that apply to all makes and models of engines.
+Any engine to be overhauled completely should receive a
+runout check of its crankshaft or propeller shaft as a first
+step. Any question concerning crankshaft or propeller shaft
+replacement is resolved at this time, since a shaft whose
+runout is beyond limits must be replaced.
+Throughout the life of a product (whether type-certificated
+or not), manufacturing defects, changes in service, or
+design improvements often occur. When that happens, the
+OEM frequently uses a safety bulletin (SB) to distribute
+the information to the operator of the aircraft. SBs are
+good information and should be strongly considered by the
+owner for implementation to the aircraft. However, SBs are
+not required unless they are referred to in an airworthiness
+directive (AD) note or if compliance is required as a part of
+the authorized inspection program. Refer to 14 CFR part 39,
+section 39.27.
+
+Receiving Inspection
+The receiving inspection consists of determining the
+general condition of the total engine as received, along with
+an inventory of the engine’s components. The accessory
+information should be recorded, such as model and serial
+numbers, and the accessories should be sent to overhaul
+if needed. The overhaul records should be organized, and
+the appropriate manuals obtained and reviewed along with
+a review of the engine’s history (log books). The engine’s
+service bulletins, airworthiness directives, and type certificate
+compliance should be checked. The exterior of the engine
+should be cleaned after mounting it on an overhaul stand.
+[Figure 10-1]
+
+Disassembly
+As visual inspection immediately follows disassembly, all
+individual parts should be laid out in an orderly manner on
+a workbench as they are removed. To guard against damage
+and to prevent loss, suitable containers should be available
+in which to place small parts (nuts, bolts, etc.) during the
+disassembly operation.
+Other practices to observe during disassembly include:
+1.
+
+Drain the engine oil sumps and remove the oil filter.
+Drain the oil into a suitable container; strain it through
+a clean cloth. Check the oil and the cloth for metal
+particles.
+
+2.
+
+Dispose of all safety devices (safety wire, cotter pins,
+etc.) as they are removed. Never use them a second
+time. Always replace with new safety devices.
+
+Figure 10-1. Engine mounted on an overhaul stand.
+
+3.
+
+All loose studs, and loose or damaged fittings, should
+be carefully tagged to prevent being overlooked during
+inspection.
+
+4.
+
+Always use the proper tool for the job. Use sockets
+and box end wrenches wherever possible. If special
+tools are required, use them rather than improvising.
+
+Inspection Process
+The inspection of engine parts during overhaul is divided
+into three categories:
+1.
+
+Visual.
+
+2.
+
+Structural.
+
+3.
+
+Dimensional.
+
+Many defects on the engine components can be detected
+visually, and a determination of airworthiness can be made
+at this time. If, by visual inspection, the component is
+determined to be unairworthy, the part is rejected, and no
+further inspection or repair is required. Structural failures can
+be determined by several different methods. Magnetic parts
+can readily be examined by the magnetic particle method.
+Other methods, such as dye penetrate, eddy current, ultra
+sound, and X-ray, can also be used. The first two methods
+are aimed at determining structural failures in the parts,
+while the last method deals with the size and shape of each
+part. By using very accurate measuring equipment, each
+engine component can be dimensionally evaluated and
+compared to service limits and standards (tolerances) set by
+the manufacturer.
+
+10-2
+
+===== PDF PAGE 371 =====
+Visual Inspection
+Visual inspection should precede all other inspection
+procedures. Parts should not be cleaned before a preliminary
+visual inspection, since indications of a failure may often be
+detected from the residual deposits of metallic particles in
+some recesses in the engine.
+Several terms are used to describe defects detected in engine
+parts during inspection. Some of the more common terms
+and definitions are:
+1.
+
+Abrasion—an area of roughened scratches or marks
+usually caused by foreign matter between moving
+parts or surfaces.
+
+2.
+
+Brinelling—one or more indentations on bearing races,
+usually caused by high static loads or application of
+force during installation or removal. Indentations are
+rounded or spherical due to the impression left by the
+contacting balls or rollers of the bearing.
+
+3.
+
+Burning—surface damage due to excessive heat. It is
+usually caused by improper fit, defective lubrication,
+or over-temperature operation.
+
+4.
+
+Burnishing—polishing of one surface by sliding
+contact with a smooth, harder surface. Usually no
+displacement nor removal of metal.
+
+5.
+
+Burr—a sharp or roughened projection of metal
+usually resulting from machine processing.
+
+6.
+
+Chafing—a condition caused by a rubbing action
+between two parts under light pressure that results in
+wear.
+
+7.
+
+Chipping—breaking away of pieces of material, that
+is usually caused by excessive stress concentration or
+careless handling.
+
+8.
+
+Corrosion—loss of metal by a chemical or
+electrochemical action. The corrosion products are
+easily removed by mechanical means. Iron rust is an
+example of corrosion.
+
+9.
+
+Crack—a partial separation of material usually caused
+by vibration, overloading, internal stresses, defective
+assembly, or fatigue. Depth may be a few thousandths,
+to the full thickness of the piece.
+
+10. Cut—loss of metal, usually to an appreciable depth
+over a relatively long and narrow area, by mechanical
+means, as would occur with the use of a saw blade,
+chisel, or sharp-edged stone striking a glancing blow.
+11. Dent—a small, rounded depression in a surface usually
+caused by the part being struck with a rounded object.
+12. Erosion—loss of metal from the surface by mechanical
+action of foreign objects, such as grit or fine sand. The
+
+eroded area is rough and may be lined in the direction
+that the foreign material moved relative to the surface.
+13. Flaking—the breaking loose of small pieces of metal
+or coated surfaces, that is usually caused by defective
+plating or excessive loading.
+14. Fretting—a condition of surface erosion caused by
+minute movement between two parts usually clamped
+together with considerable unit pressure.
+15. Galling—a severe condition of chafing or fretting in
+which a transfer of metal from one part to another
+occurs. It is usually caused by a slight movement of
+mated parts having limited relative motion and under
+high loads.
+16. Gouging—a furrowing condition in which a
+displacement of metal has occurred (a torn effect).
+It is usually caused by a piece of metal, or foreign
+material, between close moving parts.
+17. Grooving—a recess, or channel, with rounded and
+smooth edges usually caused by faulty alignment
+of parts.
+18. Inclusion—presence of foreign or extraneous material
+entirely within a portion of metal. Such material is
+introduced during the manufacture of rod, bar, or
+tubing by rolling or forging.
+19. Nick—a sharp-sided gouge or depression with a
+V-shaped bottom, that is generally the result of careless
+handling of tools and parts.
+20. Peening—a series of blunt depressions in a surface.
+21. Pick up or scuffing—a buildup or rolling of metal
+from one area to another, that is usually caused by
+insufficient lubrication, clearances, or foreign matter.
+22. Pitting—small hollows of irregular shape in the
+surface, usually caused by corrosion or minute
+mechanical chipping of surfaces.
+23. Scoring—a series of deep scratches caused by foreign
+particles between moving parts or careless assembly
+or disassembly techniques.
+24. Scratches—shallow, thin lines or marks, varying in
+degree of depth and width, caused by presence of fine
+foreign particles during operation or contact with other
+parts during handling.
+25. Stain—a change in color, locally, causing a noticeably
+different appearance from the surrounding area.
+26. Upsetting—a displacement of material beyond the
+normal contour or surface (a local bulge or bump).
+Usually indicates no metal loss.
+Examine all gears for evidence of pitting or excessive wear.
+10-3
+
+===== PDF PAGE 372 =====
+These conditions are of particular importance when they
+occur on the teeth; deep pit marks in this area are sufficient
+cause to reject the gear. Bearing surfaces of all gears should be
+free from deep scratches. However, minor abrasions usually
+can be dressed out with a fine abrasive cloth.
+All bearing surfaces should be examined for scores, galling,
+and wear. Considerable scratching and light scoring of
+aluminum bearing surfaces in the engine do no harm and
+should not be considered a reason for rejecting the part,
+provided it falls within the clearances set forth in the table of
+limits in the engine manufacturer’s overhaul manual. Even
+though the part comes within the specific clearance limits, it is
+not satisfactory for re-assembly in the engine unless inspection
+shows the part to be free from other serious defects.
+Ball bearings should be inspected visually and by feel for
+roughness, flat spots on balls, flaking or pitting of races, or
+scoring on the outside of races. All journals should be checked
+for galling, scores, misalignment, or out-of-round condition.
+Shafts, pins, etc., should be checked for straightness. This
+may be done, in most cases, by using V-blocks and a dial
+indicator.
+Pitted surfaces in highly stressed areas, resulting from
+corrosion, can cause ultimate failure of the part. The
+following areas should be examined carefully for evidence
+of such corrosion:
+1.
+
+Interior surfaces of piston pins.
+
+2.
+
+The fillets at the edges of crankshaft main and crankpin
+journal surfaces.
+
+3.
+
+Thrust bearing races.
+
+If pitting exists on any of the surfaces mentioned, to the extent
+that it cannot be removed by polishing with crocus cloth or
+other mild abrasive, the part usually must be rejected.
+Parts, such as threaded fasteners or plugs, should be inspected
+to determine the condition of the threads. Badly worn or
+mutilated threads cannot be tolerated; the parts should be
+rejected. However, small defects, such as slight nicks or burrs,
+may be dressed out with a small file, fine abrasive cloth,
+or stone. If the part appears to be distorted, badly galled,
+mutilated by overtightening, or from the use of improper
+tools, replace it with a new one.
+Cylinder Head
+Inspect the cylinder head for internal and external cracks.
+Use a bright light to inspect for cracks and investigate any
+suspicious areas with a magnifying glass or microscope.
+Carbon deposits must be cleaned from the inside of the
+head, and paint must be removed from the outside for this
+inspection.
+
+Exterior cracks show up on the head fins where they have
+been damaged by tools or contact with other parts because
+of careless handling. Cracks near the edge of the fins are not
+dangerous, if the portion of the fin is removed and contoured
+properly. Cracks at the base of the fin are a reason for rejecting
+the cylinder. Cracks may also occur on the rocker box or in
+the rocker bosses.
+Interior cracks almost always radiate from the valve seat
+bosses or the spark plug bushing boss. These cracks are
+usually caused by improper installation of the seats or
+bushings. They may extend completely from one boss to
+the other.
+Inspect all the studs on the cylinder head for looseness,
+straightness, damaged threads, and proper length. Slightly
+damaged threads may be chased with the proper die. The
+length of the stud should be correct within ±1⁄32 (0.03125)
+inch to allow for proper installation of safety devices.
+Be sure the valve guides are clean before inspection. Often,
+carbon covers pits inside the guide. If a guide in this condition
+is put back in service, carbon again collects in the pits and
+valve sticking results. Besides pits, scores, and burned areas
+inside the valve guide, inspect them for wear or looseness.
+Inspection of valve seat inserts before they are re-faced is
+mostly a matter of determining if there is enough of the seat
+left to correct any pitting, burning, scoring, or out-of-trueness.
+Inspect the rocker shaft bosses for scoring, cracks, oversize,
+or out-of-roundness. Scoring is generally caused by the rocker
+shaft turning in the bosses, which means either the shaft was
+too loose in the bosses or a rocker arm was too tight on the
+shaft. Out-of-roundness is usually caused by a stuck valve.
+If a valve sticks, the rocker shaft tends to work up and down
+when the valve offers excessive resistance to opening. Inspect
+for out-of-roundness and oversize using a telescopic gauge
+and a micrometer.
+
+Straightedge
+
+Check piston for
+cracks at base of
+ring lands
+
+Junction of wall and
+head
+
+Check for
+depression with
+straightedge and
+thickness gage
+
+Figure 10-2. Checking a piston head for flatness.
+
+10-4
+
+===== PDF PAGE 373 =====
+Piston, Valve Train, & Piston Pin
+When applicable, check for flatness of the piston head
+using a straightedge and thickness gauge. [Figure 10-2] If
+a depression is found, check for cracks on the inside of the
+piston. A depression in the top of the piston usually means
+that detonation has occurred within the cylinder.
+Inspect the exterior of the piston for scores and scratches.
+Scores on the top ring land are not cause for rejection, unless
+they are excessively deep. Deep scores on the side of the
+piston are usually a reason for rejection.
+Examine the piston for cracked skirts, broken ring lands,
+and scored piston-pin holes. Do not mistake casting marks
+or laps for a crack. During major overhaul, most pistons are
+generally replaced, as it requires more labor to clean and
+inspect the piston than it costs to replace it.
+Crankshaft & Connecting Rods
+Carefully inspect all surfaces of the crankshaft for cracks.
+Check the bearing surfaces for evidence of galling, scoring,
+or other damage. When a shaft is equipped with oil transfer
+tubes, check them for tightness.
+Visual inspection of connecting rods should be done with the
+aid of a magnifying glass or bench microscope. A rod that is
+obviously bent or twisted should be rejected without further
+inspection. Inspect all surfaces of the connecting rods for
+cracks, corrosion, pitting, galling, or other damage. Galling
+is caused by a slight amount of movement between the
+surfaces of the bearing insert and the connecting rod during
+periods of high loading, such as that produced during overspeed or excessive manifold pressure operation. The visual
+evidence produced by galling appears as if particles from
+one contacting surface had welded to the other. Evidence
+of any galling is sufficient reason for rejecting the complete
+rod assembly. Galling is a distortion in the metal and is
+comparable to corrosion in the manner in which it weakens
+the metallic structure of the connecting rod.
+
+caustic compounds or soap are used. Such compounds, in
+addition to being potentially corrosive to aluminum and
+magnesium, may become impregnated in the pores of the
+metal and cause oil foaming when the engine is returned to
+service. Therefore, when using water-mixed solutions, it is
+imperative that the parts be rinsed thoroughly and completely
+in clear boiling water after degreasing. Regardless of the
+method and type of solution used, coat or spray all parts with
+lubricating oil immediately after cleaning to prevent corrosion.
+Removing Hard Carbon
+While the degreasing solution removes dirt, grease, and soft
+carbon, deposits of hard carbon almost invariably remain
+on many interior surfaces. To remove these deposits, they
+must first be loosened by immersion in a tank containing a
+decarbonizing solution (usually heated). A great variety of
+commercial decarbonizing agents are available. Decarbonizers,
+like the degreasing solutions previously mentioned, fall
+generally into two categories, water-soluble and hydrocarbons.
+The same caution concerning the use of water-soluble
+degreasers is applicable to water-soluble decarbonizers.
+Caution: When using a decarbonizing solution on magnesium
+castings, avoid immersing steel and magnesium parts in the
+same decarbonizing tank, as this practice often results in
+damage to the magnesium parts from corrosion.
+Decarbonizing will usually loosen most of the hard carbon
+deposits remaining after degreasing. However, the complete
+removal of all hard carbon generally requires brushing,
+scraping, or grit-blasting. In all of these operations, be careful
+to avoid damaging the machined surfaces. In particular, wire
+brushes and metal scrapers must never be used on any bearing
+or contact surface.
+Follow the manufacturer's recommendations when grit-
+
+Cleaning
+After visually inspecting engine recesses for deposits of metal
+particles, it is important to clean all engine parts thoroughly
+to facilitate further inspection. Two processes for cleaning
+engine parts are:
+1.
+
+Degreasing to remove dirt and sludge (soft carbon).
+
+2.
+
+The removal of hard carbon deposits by decarbonizing,
+brushing or scraping, and grit-blasting.
+
+Degreasing
+Degreasing can be done by immersing or spraying the part in a
+suitable commercial solvent. [Figure 10-3] Extreme care must
+be used if any water-mixed degreasing solutions containing
+
+Figure 10-3. Typical solvent degreasing tank.
+
+10-5
+
+===== PDF PAGE 374 =====
+blasting parts for the abrasive material being used. Sand,
+rice, baked wheat, plastic pellets, glass beads, or crushed
+walnut shells are examples of abrasive substances that are
+used for grit-blasting parts. A grit-blasting machine is shown
+in Figure 10-4.
+
+to 200 °F). Then the part should be washed thoroughly in
+cold running water, dipped in hot water, and dried in an air
+blast. Immediately thereafter, the part should be painted with
+a prime coat and engine enamel in the same manner as that
+suggested for aluminum parts.
+
+All machined surfaces must be masked properly and
+adequately, and all openings tightly plugged before blasting.
+The one exception to this is the valve seats, which may be
+left unprotected when blasting the cylinder head combustion
+chamber. It is often advantageous to grit-blast the seats, since
+this will cut the glaze which tends to form (particularly on
+the exhaust valve seat), thus facilitating subsequent valve
+seat reconditioning. Piston ring grooves may be grit-blasted
+if necessary; however, extreme caution must be used to
+avoid the removal of metal from the bottom and sides of
+the grooves. When grit-blasting housings, plug all drilled
+oil passages with rubber plugs or other suitable material to
+prevent the entrance of foreign matter.
+
+Some older engines used sludge chambers in the crankshafts,
+which were manufactured with hollow crankpins that serve as
+sludge removers. The sludge chambers require inspection and
+cleaning at overhaul. Sludge chambers are formed by means
+of spool-shaped tubes pressed into the hollow crankpins, or
+by plugs pressed into each end of the crankpin. If an engine
+has a sludge chamber or tubes, they must be removed for
+cleaning at overhaul. If these are not removed, accumulated
+sludge loosened during cleaning may clog the crankshaft
+oil passages and cause subsequent bearing failures. If the
+sludge chambers are formed by means of tubes pressed into
+the hollow crankpins, make certain they are re-installed
+correctly to avoid covering the ends of the oil passages. Due
+to improved oils, sludge chambers are no longer used with
+modern engines.
+
+The decarbonizing solution will generally remove most of the
+enamel on exterior surfaces. All remaining enamel should be
+removed by grit-blasting, particularly in the crevices between
+cylinder cooling fins.
+At the conclusion of cleaning operations, rinse the part in
+petroleum solvent, dry and remove any loose particles of
+carbon or other foreign matter by air-blasting, and apply a
+liberal coating of preservative oil to all surfaces.
+Magnesium parts should be cleaned thoroughly with a
+dichromate treatment prior to painting. This treatment
+consists of cleaning all traces of grease and oil from the
+part by using a neutral, noncorrosive degreasing medium
+followed by a rinse, after which the part is immersed for at
+least 45 minutes in a hot dichromate solution (three-fourths of
+a pound of sodium dichromate to 1 gallon of water at 180 °F
+
+Structural Inspection
+One of the best methods to double check your visual
+inspection findings is to supplement them with one of the
+forms of nondestructive testing, such as magnetic particle,
+dye penetrate, eddy current, ultrasound, and x-ray inspections.
+Defects in nonmagnetic parts (aluminum parts) can be found
+by all these methods except for magnetic particle inspection,
+which is used for magnetic or ferrous materials (steel).
+Dye Penetrant Inspection
+Dye penetrant inspection is a nondestructive test for defects
+open to the surface in parts made of any nonporous material.
+It is used with equal success on such metals as aluminum,
+magnesium, brass, copper, cast iron, stainless steel, and
+titanium. Dye penetrant inspection uses a penetrating liquid
+that enters a surface opening and remains there, making it
+clearly visible to the inspector. It calls for visual examination
+of the part after it has been processed, increasing the visibility
+of the defect so that it can be detected. Visibility of the
+penetrating material is increased by the addition of one of two
+types of dye: visible or fluorescent. When using a fluorescent
+dye, the inspection is accomplished using an ultraviolet (UV)
+light source (black light).
+The steps for performing a dye penetrant inspection are:
+1.
+
+Thorough cleaning of the metal surface.
+
+2.
+
+Applying penetrant.
+
+3.
+
+Removing penetrant with remover emulsifier or
+cleaner.
+
+Figure 10-4. Grit-blasting machine.
+
+10-6
+
+===== PDF PAGE 375 =====
+4.
+
+Drying the part.
+
+5.
+
+Applying the developer.
+
+6.
+
+Inspecting and interpreting results.
+
+Eddy Current Inspection
+Eddy currents are composed of free electrons under the
+influence of an induced electromagnetic field, that are made
+to drift through metal. Different meter readings are seen when
+the same metal is in different hardness states. Readings in the
+affected area are compared with identical materials in known
+unaffected areas for comparison. A difference in readings
+indicates a difference in the hardness state of the affected
+area. Eddy current inspection can frequently be performed
+without removing the surface coatings, such as primer, paint,
+and anodized films. It can be effective in detecting surface
+and subsurface corrosion, pots, and heat treat condition.
+Ultrasonic Inspection
+Ultrasonic detection equipment makes it possible to locate
+defects in all types of materials. There are three basic
+ultrasonic inspection methods:
+1.
+
+Pulse-echo.
+
+2.
+
+Through transmission.
+
+3.
+
+Resonance.
+
+Pulse-Echo
+Flaws are detected by measuring the amplitude of signals
+reflected and the time required for these signals to travel
+between specific surfaces and the discontinuity.
+
+Through Transmission
+Through transmission inspection uses two transducers, one to
+generate the pulse and another placed on the opposite surface
+to receive it. A disruption in the sound path indicates a flaw and
+is displayed on the instrument screen. Through transmission
+is less sensitive to small defects than the pulse-echo method.
+
+Resonance
+This system differs from the pulse-echo method, in that
+the frequency of transmission may be continuously varied.
+The resonance method is principally used for thickness
+measurements when the two sides of the material being tested
+are smooth and parallel, and the backside is inaccessible. The
+point at which the frequency matches the resonance point of
+the material being tested is the thickness determining factor.
+Magnetic Particle Inspection
+Magnetic particle inspection is a method of detecting invisible
+cracks and other defects in ferromagnetic materials, such as
+iron and steel. It is not applicable to nonmagnetic materials.
+
+The inspection process consists of magnetizing the part, and
+then applying ferromagnetic particles to the surface area to be
+inspected. The ferromagnetic particles (indicating medium)
+may be held in suspension in a liquid that is flushed over the
+part; the part may be immersed in the suspension liquid; or
+the particles, in dry powder form, may be dusted over the
+surface of the part. The wet process is more commonly used
+in the inspection of aircraft parts.
+If a discontinuity is present, the magnetic lines of force
+are disturbed, and opposite poles exist on either side of the
+discontinuity. The magnetized particles form a pattern in
+the magnetic field between the opposite poles. This pattern,
+known as an indication, assumes the approximate shape of
+the surface projection of the discontinuity. A discontinuity
+may be defined as an interruption in the normal physical
+structure or configuration of a part.
+X-ray
+X-rays can penetrate material and disclose discontinuities
+through the metal or non-metal components, making it an
+excellent inspection process when needed to determine the
+structural integrity of an engine component. The penetrating
+radiation is projected through the part to be inspected and
+produces an invisible or latent image in the film. When
+processed, the film becomes a radiograph, or shadow picture,
+of the object. This inspection medium, as a portable unit,
+provides a fast and reliable means for checking the integrity
+of engine components.
+Additional and more thorough information on NDT inspection
+is covered in detail in the Aviation Maintenance Technician
+Handbook - General (FAA-H-8083-30, as amended).
+
+Dimensional Inspection
+The dimensional inspection is used to assure that the engine’s
+component parts and clearances meet the manufacturer’s
+specifications. These specs are listed in a table of limits,
+which lists serviceable limits and the manufacturer’s new part
+maximum and minimum dimensions. Many measuring tools
+are used to perform the dimensional inspection of the engine.
+Some examples of these devices are discussed as the procedure
+for measuring the engine’s components for dimensional
+inspection is explained in the following paragraphs.
+Cylinder Barrel
+Inspect the cylinder barrel for wear, using a cylinder bore
+gauge [Figure 10-5], a telescopic gauge, and micrometer or
+an inside micrometer. Dimensional inspection of the barrel
+consists of the following measurements:
+1.
+
+Maximum taper of cylinder walls.
+
+2.
+
+Maximum out-of-roundness.
+10-7
+
+===== PDF PAGE 376 =====
+at the skirt of the cylinder to detect dents or bends caused by
+careless handling. A step, or ridge, is formed in the cylinder
+by the wearing action of the piston rings. [Figure 10-6] The
+greatest wear is at the top of the ring travel limit. The ridge
+that results is likely to cause damage to the rings or piston. If
+the step exceeds tolerances, it should be removed by grinding
+the cylinder oversize, or it should be blended by hand-stoning
+to break the sharp edge.
+A step also may be found where the bottom ring reaches the
+lowest travel. This step is rarely found to be excessive, but
+it should be checked.
+
+Figure 10-5. A cylinder bore gauge.
+
+3.
+
+Bore diameter.
+
+4.
+
+Step.
+
+5.
+
+Fit between piston skirt and cylinder.
+
+Inspect the cylinder walls for rust, pitting, or scores. Mild
+damage of this sort can be removed when the cylinders are
+deglazed. With more extensive damage, the cylinder has to be
+reground or honed. If the damage is too deep to be removed
+by either of these methods, the cylinder usually will have to
+be rejected. Most engine manufacturers, or engine overhaul
+repair stations, have an exchange service on cylinders with
+damaged barrels.
+
+All measurements involving cylinder barrel diameters must
+be taken at a minimum of two positions 90° apart in the
+particular plane being measured. It may be necessary to take
+more than two measurements to determine the maximum
+wear.
+
+Check the cylinder flange for warpage by placing the cylinder
+on a suitable jig. Check to see that the flange contacts the jig
+all the way around. The amount of warpage can be checked by
+using a thickness gauge. A cylinder whose flange is warped
+beyond the limits should be rejected.
+
+Taper of the cylinder walls is the difference between the
+diameter of the cylinder barrel at the bottom and the diameter
+at the top. The cylinder is usually worn larger at the top than
+at the bottom. This taper is caused by the natural wear pattern.
+At the top of the stroke, the piston is subjected to greater heat
+and pressure and more erosive environment than at the bottom
+of the stroke. Also, there is greater freedom of movement
+at the top of the stroke. Under these conditions, the piston
+wears the cylinder wall more at the top of the cylinder. In
+most cases, the taper ends with a ridge, that must be removed
+during overhaul. [Figure 10-6]
+
+Rocker Arms & Shafts
+Inspect the valve rockers for cracks and worn, pitted, or scored
+tips. See that all oil passages are free from obstructions.
+
+Where cylinders are built with an intentional choke,
+measurement of taper becomes more complicated. Cylinder
+choke is where the top of the cylinder has been made with
+the very top diameter of the cylinder smaller, to compensate
+for wear and expansion during operation. It is necessary to
+know exactly how the size indicates wear or taper. Taper
+can be measured in any cylinder by a cylinder dial gauge
+as long as there is not a sharp step. The dial gauge tends to
+ride up on the step and causes inaccurate readings at the top
+of the cylinder.
+The measurement for out-of-roundness is usually taken at the
+top of the cylinder. However, a reading should also be taken
+
+Inspect the shaft’s diameter for correct size with a micrometer.
+Rocker shafts are often found to be scored and burned because
+of excessive turning in the cylinder head. Also, there may be
+some pickup on the shaft (bronze from the rocker bushing
+transferred to the steel shaft). Generally, this is caused
+by overheating and too little clearance between shaft and
+bushing. The clearance between the shaft and the bushing
+is most important.
+Inspect the rocker arm bushing for correct size. Check for
+proper clearance between the shaft and the bushing. Very
+often the bushings are scored because of mishandling during
+disassembly. Check to see that the oil holes line up. .At least
+50% of the hole in the bushing should align with the hole in
+the rocker arm.
+On engines that use a bearing, rather than a bushing, inspect
+the bearing to make certain it has not been turning in the
+rocker arm boss. Also inspect the bearing to determine its
+serviceability.
+
+10-8
+
+===== PDF PAGE 377 =====
+Ridge worn at top of ring travel
+
+Original cylinder wall
+
+Ridge removed by grinding
+
+Ridge removed by hand-stoning
+
+Figure 10-6. Ridge or step formed in an engine cylinder.
+
+Crankshaft
+Use extreme care in inspecting and checking the crankshaft
+for straightness. Place the crankshaft in V-blocks, supported
+at the locations specified in the applicable engine overhaul
+manual as in Figure 10-7. Using a surface plate and a dial
+indicator, measure the shaft runout. If the total indicator
+reading exceeds the dimensions given in the manufacturer’s
+table of limits, the shaft must not be re-used. A bent crankshaft
+should not be straightened. Any attempt to do so results
+in rupture of the nitrided surface of the bearing journals,
+a condition that causes eventual failure of the crankshaft.
+Measure the outside diameter of the crankshaft main and rodbearing journals using a micrometer. [Figure 10-8] Internal
+measurements can be made by using telescoping gauges, and
+then measuring the telescoping gauge with a micrometer.
+[Figure 10-9] Compare the resulting measurements with
+those in the table of limits.
+
+Figure 10-7. Checking crankshaft runout.
+
+Checking Alignment
+Check bushings that have been replaced to determine if the
+bushing and rod bores are square and parallel to each other.
+The alignment of a connecting rod can be checked several
+ways. One method requires a push fit arbor for each end of
+the connecting rod, a surface plate, and two parallel blocks
+of equal height.
+To measure rod squareness, or twist, insert the arbors into
+the rod bores. [Figure 10-10] Place the parallel blocks on
+
+Figure 10-8. A micrometer.
+
+10-9
+
+===== PDF PAGE 378 =====
+be impractical to list all the steps involved in the overhaul
+of an engine. It should be understood that there are other
+operations and inspections that must be performed. For exact
+information regarding a specific engine model, consult the
+manufacturer’s overhaul manual.
+Repair & Replacement
+The engine components that have failed inspection, or are
+unrepairable, should have been discarded. The component
+parts that need repair and replacement are now given the
+attention required. The replacement components (new parts)
+are organized and laid out for reassembly.
+
+Figure 10-9. Telescoping gauges and micrometer combination.
+
+Parallel blocks
+
+Figure 10-10. Checking connecting rod squareness.
+
+a surface plate. Place the ends of the arbors on the parallel
+blocks. Using a thickness gauge, check the clearance at the
+points where the arbors rest on the blocks. This clearance,
+divided by the separation of the blocks in inches, gives the
+twist per inch of length.
+To determine bushing or bearing parallelism (convergence),
+insert the arbors in the rod bores. Measure the distance
+between the arbors on each side of the connecting rod at
+points that are equidistant from the rod centerline. For exact
+parallelism, the distances checked on both sides should be
+the same. Consult the manufacturer’s table of limits for the
+amount of misalignment permitted.
+The preceding operations are typical of those used for most
+reciprocating engines and are included to introduce some
+of the operations involved in engine overhaul. It would
+
+Minor damage to engine parts, such as burrs, nicks, scratches,
+scoring, or galling, should be removed with a fine oil stone,
+crocus cloth, or any similar abrasive substance. Following
+any repairs of this type, the part should be cleaned carefully
+to be certain that all abrasive has been removed, and then
+checked with its mating part to assure that the clearances
+are not excessive. Flanged surfaces that are bent, warped,
+or nicked can be repaired by lapping to a true surface on a
+surface plate. Again, the part should be cleaned to be certain
+that all abrasive has been removed. Defective threads can
+sometimes be repaired with a suitable die or tap. Small
+nicks can be satisfactorily removed with Swiss pattern files
+or small, edged stones. Pipe threads should not be tapped
+deeper to clean them, because this practice results in an
+oversized tapped hole. If galling or scratches are removed
+from a bearing surface of a journal, it should be buffed to a
+high polished finish.
+In general, welding of highly-stressed engine parts can be
+accomplished only when approved by the manufacturer.
+However, welding may be accomplished using methods that
+are approved by the engine manufacturer, and if it can be
+reasonably expected that the welded repair will not adversely
+affect the airworthiness of the engine.
+Many minor parts not subjected to high stresses may be
+safely repaired by welding. Mounting lugs, cowl lugs,
+cylinder fins, rocker box covers, and many parts originally
+fabricated by welding are in this category. The welded part
+should be suitably stress-relieved after welding. However,
+before welding any engine part, consult the manufacturer’s
+instructions for the engine concerned to see if it is approved
+for repair by welding.
+Parts requiring use of paint for protection or appearance
+should be repainted according to the engine manufacturer’s
+recommendations. Aluminum alloy parts should have
+original, exterior painted surfaces rubbed smooth to provide
+a proper paint base. See that surfaces to be painted are
+thoroughly cleaned. Care must be taken to avoid painting
+mating surfaces. Exterior aluminum parts should be primed
+10-10
+
+===== PDF PAGE 379 =====
+first with a thin coat of zinc chromate primer. After the primer
+is dry, parts should be painted with engine enamel, that should
+be air dried until hard, or baked for 1⁄2 hour at 82 °C (180 °F).
+Aluminum parts from which the paint has not been removed
+may be repainted without the use of a priming coat, provided
+no bare aluminum is exposed.
+Any studs that are bent, broken, damaged, or loose must be
+replaced. After a stud has been removed, the tapped stud hole
+should be examined for size and condition of threads. If it
+is necessary to re-tap the stud hole, it also is necessary to
+use a suitable oversize stud. Studs that have been broken off
+flush with the case must be drilled and removed with suitable
+stud remover. Be careful not to damage any threads. When
+replacing studs, coat the coarse threads of the stud with an
+anti-seize compound.
+Cylinder Assembly Reconditioning
+Cylinder and piston assemblies are inspected according
+to the procedures contained in the engine manufacturer’s
+manuals, charts, and service bulletins. A general procedure
+for inspecting and reconditioning cylinders is discussed in
+the following section to provide an understanding of the
+operations involved.
+Visually inspect the head fins for other damage besides cracks.
+Dents or bends in the fins should be left alone unless there
+is danger of cracking. Where pieces of fin are missing, the
+sharp edges should be filed to a smooth contour. Fin breakage
+in a concentrated area causes dangerous local hot spots. Fin
+breakage near the spark plug bushings or on the exhaust side
+of the cylinder is obviously more dangerous than in other
+areas. When removing or re-profiling a cylinder fin, follow
+the instructions and the limits in the manufacturer’s manual.
+
+checked for side clearance with a feeler gauge to determine
+the amount of wear in the grooves. Examine the piston pin
+for scoring, cracks, excessive wear, and pitting. Check the
+clearance between the piston pin and the bore of the piston
+pin bosses using a telescopic gauge and a micrometer. Use
+the magnetic particle method to inspect the pin for cracks.
+Since the pins are often case hardened, cracks show up inside
+the pin more often than they do on the outside. Check the pin
+for bends using V-blocks and a dial indicator on a surface
+plate. [Figure 10-11] Measure the fit of the plugs in the
+pin. In many cases, the pistons and piston pins are routinely
+replaced at overhaul.
+Valves & Valve Springs
+The locations for checking runout and edge thickness of the
+valves are shown in Figure 10-12. Measure the edge thickness
+of valve heads. If, after re-facing, the edge thickness is less
+than the limit specified by the manufacturer, the valve must
+not be re-used. The edge thickness can be measured with
+sufficient accuracy by a dial indicator and a surface plate.
+Using a magnifying glass, examine the valve in the stem area
+and the tip for evidence of cracks, nicks, or other indications
+of damage. This type of damage seriously weakens the
+valve, making it susceptible to failure. If superficial nicks
+and scratches on the valve indicate that it might be cracked,
+inspect it using a structural inspection method described later.
+Examine the valve springs for cracks, rust, broken ends, and
+compression. Cracks can be located by visual inspection or
+the magnetic particle method.
+
+Inspect spark plug inserts for the condition of the threads
+and for looseness. Run a tap of the proper size through the
+bushing. Very often, the inside threads of the bushing are
+burned. If more than one thread is missing, the bushing
+should be rejected. Tighten a plug in the bushing to check
+for looseness.
+Piston & Piston Pins
+If the old piston is to be reused, or a new piston is to be used,
+measure the outside of the piston by means of a micrometer.
+Measurements must be taken in several directions and on
+the skirt, as well as on the lands section. Check these sizes
+against the cylinder size. Most engines use cam ground
+pistons to compensate for the greater expansion parallel to
+the pin during engine operation. The diameter of these pistons
+measures several thousandths of an inch larger at an angle to
+the piston pin hole, than parallel to the pin hole. Inspect the
+ring grooves for evidence of wear. The groove needs to be
+
+Figure 10-11. Checking a piston pin for bends.
+
+10-11
+
+===== PDF PAGE 380 =====
+Face of valve must run true with stem within 0.0015-inch
+
+A
+
+Valve face. Do not include
+when measuring thickness
+
+A
+
+Figure 10-12. Valve showing locations for checking runout and
+
+section for measuring edge thickness.
+
+Figure 10-14. Checking valve stretch with a manufacturer’s gauge.
+
+Critical areas of the valve include the face and tip
+[Figure 10-13], both of which should be examined for
+pitting and excessive wear. Minor pitting on valve faces can
+sometimes be removed by grinding.
+Inspect the valve for stretch and wear using a micrometer
+or a valve radius gauge. [Figure 10-14] If a micrometer is
+used, stretch is found as a smaller diameter of the valve stem
+near the neck of the valve. Measure the diameter of the valve
+stem and check the fit of the valve in its guide.
+Examine the valve visually for physical damage and damage
+from burning or corrosion. Do not re-use valves that indicate
+damage of this nature.
+Compression is tested with a valve spring compression tester.
+[Figure 10-15] The spring is compressed until its total height
+is that specified by the manufacturer. The dial on the tester
+should indicate the pressure, in pounds, required to compress
+
+Valve face
+
+Figure 10-15. Valve spring compression tester.
+Figure 10-13. Valve face surface.
+
+10-12
+
+===== PDF PAGE 381 =====
+the spring to the specified height. This must be within the
+pressure limits established by the manufacturer.
+Refacing Valve Seats
+The valve seat inserts of aircraft engine cylinders usually
+are in need of refacing at every overhaul. They are refaced
+to provide a true, clean, and correct size seat for the valve.
+When valve guides or valve seats are replaced in a cylinder,
+the seats must be made concentric with the valve guide.
+Low power engines can use either bronze or steel seats. Bronze
+seats, although not widely used on current engines, are made
+of aluminum bronze or phosphor bronze alloys. Steel seats
+are commonly used for valve seats on higher powered engines
+and are made of heat-resistant steel with a layer of stellite steel
+alloy on the valve contact surface. Stellite seats can require a
+special stone to grind this very hard material.
+Steel valve seats are refaced by grinding equipment.
+[Figure 10-16] Bronze seats are refaced preferably by the
+use of cutters or reamers, but they may be ground when this
+equipment is not available. The only disadvantage of using
+a stone on bronze is that the soft metal loads the stone to
+such an extent that much time is consumed in redressing the
+stone to keep it clean.
+The equipment used on steel seats can be either wet or
+dry valve seat grinding equipment. The wet grinder uses a
+mixture of soluble oil and water to wash away the chips and
+to keep the stone and seat cool; this produces a smoother,
+more accurate job than the dry grinder. The stones may be
+either silicon carbide or aluminum oxide.
+Before refacing the seat, make sure that the valve guide is in
+good condition, clean, and does not have to be replaced. Mount
+the cylinder firmly in the hold down fixture. An expanding
+
+pilot is inserted in the valve guide from the inside of the
+cylinder, and an expander screw is inserted in the pilot from
+the top of the guide. [Figure 10-17] The pilot must be tight in
+the guide, because any movement can cause a poor grind. The
+fluid hose is inserted through one of the spark plug inserts.
+The three grades of stones available for use are classified as
+rough, finishing, and polishing stones. The rough stone is
+designed to true and clean the seat. The finishing stone must
+follow the rough to remove grinding marks and produce a
+smooth finish. The polishing stone does just as the name
+implies and is used only where a highly polished seat is desired.
+The stones are installed on special stone holders. The face
+of the stone is trued by a diamond dresser. The stone should
+be refaced whenever it is grooved or loaded, and when the
+stone is first installed on the stone holder. The diamond
+dresser also may be used to cut down the diameter of the
+stone. Dressing of the stone should be kept to a minimum
+as a matter of conservation; therefore, it is desirable to have
+sufficient stone holders for all the stones to be used on the job.
+In the actual grinding job, considerable skill is required
+in handling the grinding gun. The gun must be centered
+accurately on the stone holder. If the gun is tilted offcenter, chattering of the stone results, and a rough grind is
+produced. It is very important that the stone be rotated at a
+speed that permits grinding instead of rubbing. This speed is
+approximately 8,000 to 10,000 revolutions per minute (rpm).
+Excessive pressure on the stone can slow it down. It is not a
+good technique to let the stone grind at slow speed by putting
+pressure on the stone when starting or stopping the gun. The
+maximum pressure used on the stone at any time should be
+no more than that exerted by the weight of the gun.
+Grinding
+
+Fluid hose
+
+e
+on r
+St lde
+o
+h
+Spacing washers
+Stone
+Pilot
+
+Expander screw
+Figure 10-16. Valve seat grinding equipment.
+
+Figure 10-17. Valve seat grinding setup.
+
+10-13
+
+===== PDF PAGE 382 =====
+Another practice, conducive to good grinding, is to ease off
+on the stone every second or so to let the coolant wash away
+the chips on the seat. This rhythmic grinding action also
+helps keep the stone up to its correct speed. Since it is quite
+a job to replace a seat, remove as little material as possible
+during the grinding. Inspect the job frequently to prevent
+unnecessary grinding.
+The rough stone is used until the seat is true to the valve
+guide and until all pits, scores, or burned areas are removed.
+[Figure 10-18] After refacing, the seat should be smooth
+and true. The finishing stone is used only until the seat has a
+smooth, polished appearance. Extreme caution should be used
+when grinding with the finishing stone to prevent chattering.
+The size and trueness of the seat can be checked by several
+methods. Runout of the seat is checked with a special dial
+indicator and should not exceed 0.002 inch. The size of the
+seat may be determined by using Prussian blue. Prussian
+blue is used to check for contact transfer from one surface
+to the other. To check the fit of the seat, spread a thin coat
+of Prussian blue evenly on the seat. Press the valve onto the
+seat. The blue transferred to the valve indicates the contact
+surface. The contact surface should be one-third to two-thirds
+the width of the valve face and in the middle of the face. In
+some cases, a-go and no-go gauge is used in place of the valve
+when making the Prussian blue check. If Prussian blue is
+not used, the same check may be made by lapping the valve
+lightly to the seat. Lapping is accomplished by using a small
+amount of lapping compound placed between the valve face
+and seat. The valve is then moved in a rotary motion back
+and forth until the lapping compound grinds slightly into the
+surface. After cleaning the lapping contact compound off, a
+contact area can be seen. Examples of test results are shown
+in Figure 10-19.
+If the seat contacts the upper third of the valve face, grind off
+the top corner of the valve seat. [Figure 10-20] Such grinding
+is called narrowing grinding. This permits the seat to contact
+the center third of the valve face without touching the upper
+
+Seat out of alignment with guide
+Needs further rough grinding
+
+portion of the valve face.
+If the seat contacts the bottom third of the valve face, grind
+off the inner corner of the valve seat. [Figure 10-21] The
+seat is narrowed by a stone other than the standard angle. It
+is common practice to use a 15° angle and 45° angle cutting
+stone on a 30° angle valve seat, and a 30° angle and 75° angle
+stone on a 45° angle valve seat. [Figure 10-22]
+If the valve seat has been cut or ground too much, the valve
+contacts the seat too far up into the cylinder head, and the
+valve clearance, spring tension, and the fit of the valve to
+the seat is affected. To check the height of a valve, insert the
+valve into the guide, and hold it against the seat. Check the
+height of the valve stem above the rocker box or some other
+fixed position.
+Before refacing a valve seat, consult the overhaul manual
+for the particular model engine. Each manufacturer specifies
+the desired angle for grinding and narrowing the valve seat.
+Valve Reconditioning
+One of the most common jobs during engine overhaul is
+grinding the valves. The equipment used should preferably
+be a wet valve grinder. With this type of machine, a mixture
+of soluble oil and water is used to keep the valve cool and
+carry away the grinding chips.
+Like many machine jobs, valve grinding is mostly a matter
+of setting up the machine. The following points should be
+checked or accomplished before starting a grind. True the
+stone by means of a diamond nib. The machine is turned on,
+and the diamond is drawn across the stone, cutting just deep
+enough to true and clean the stone. Determine the face angle
+of the valve being ground and set the movable head of the
+machine to correspond to this valve angle. Usually, valves
+are ground to the standard angles of 30° or 45°. However, in
+some instances, an interference fit of 0.5° or 1.5° less than
+the standard angle may be ground on the valve face.
+
+Excessive pitting
+True and clean ready for finish grind
+
+Figure 10-18. Valve seat grinding.
+
+10-14
+
+===== PDF PAGE 383 =====
+Valve
+
+45° stone
+
+Seat
+
+Seat
+Valve and seat ground to 45°
+
+Grind seat to 45°
+Figure 10-19. Fitting the valve and seat.
+
+Valve
+
+30° stone
+Seat
+Seat
+Top edge reduced to 30°
+
+Reduce seat 1/3 with 30° stone
+Figure 10-20. Grinding top surface of the valve seat.
+
+75° stone
+
+Valve
+Seat
+
+Seat
+Lower edge reduced to 75°
+
+Reduce seat 1/3 with 75° stone
+Figure 10-21. Grinding the inner corner of the valve seat.
+Upper corner
+Upper corner
+30°
+45°
+Inner
+corner
+
+75° Seat
+
+Inner
+corner
+
+45°
+
+30°
+
+45°
+
+15°
+Seat
+
+Line contact
+
+44°
+
+Figure 10-22. Valve seat angles.
+
+The interference fit is used to obtain a more positive seal by
+means of a narrow contact surface. [Figure 10-23] Theoretically,
+there is a line contact between the valve and seat. With this
+line contact, the load that the valve exerts against the seat
+is concentrated in a very small area, thereby increasing the
+unit load at any one spot. The interference fit is especially
+beneficial during the first few hours of operation after an
+overhaul. The positive seal reduces the possibility of a burned
+valve or seat that a leaking valve might produce. After the
+first few hours of running, these angles tend to pound down
+and become identical.
+
+Install the valve into the chuck and adjust the chuck so that
+the valve face is approximately 2 inches from the chuck.
+[Figure 10-24] If the valve is chucked any further out,
+there is danger of excessive wobble and also a possibility of
+grinding into the stem.
+
+Notice that the interference angle is ground into the valve, not
+the seat. It is easier to change the angle of the valve grinder
+work head than to change the angle of a valve seat grinder
+stone. Do not use an interference fit unless the manufacturer
+approves it.
+
+There are various types of valve grinding machines. In one
+type, the stone is moved across the valve face; in another, the
+valve is moved across the stone. Whichever type is used, the
+following procedures are typical of those performed when
+refacing a valve.
+
+Figure 10-23. Interference fit of valve and valve seat.
+
+10-15
+
+===== PDF PAGE 384 =====
+Valve adjusted correctly
+
+2"
+
+Workhead table
+
+“In” stop prevents
+grinding the stem
+Travel adjusted by stops
+
+Out
+
+In
+
+Figure 10-24. Valve installed in grinding machine.
+
+Check the travel of the valve face across the stone. The valve
+should completely pass the stone on both sides, yet not travel
+far enough to grind the stem. There are stops on the machine
+that can be set to control this travel.
+With the valve set correctly in place, turn on the machine and
+the grinding fluid so that it splashes on the valve face. Back
+the grinding wheel off all the way. Place the valve directly
+in front of the stone. [Figure 10-25] Slowly bring the wheel
+forward until a light cut is made on the valve. The intensity
+of the grind is measured by sound more than anything else.
+Slowly draw the valve back and forth across the stone without
+increasing the cut. Move the work head table back and forth
+using the full face of the stone, but always keep the valve
+face on the stone. When the sound of the grind diminishes,
+indicating that some valve material has been removed, move
+the workhead table to the extreme left to stop rotation of the
+valve. Inspect the valve to determine if further grinding is
+necessary. If another cut must be made, bring the valve in
+
+front of the stone, then advance the stone out to the valve.
+Do not increase the cut without having the valve directly in
+front of the stone.
+An important precaution in valve grinding, as in any kind
+of grinding, is to make light cuts only. Heavy cuts cause
+chattering, that may make the valve surface so rough that
+much time is lost in obtaining the desired finish.
+After grinding, check the valve margin to be sure that the
+valve edge has not been ground too thin. A thin edge is called
+a feather edge and can lead to pre-ignition; the valve edge
+would burn away in a short period of time, and the cylinder
+would have to be overhauled again. Figure 10-26 shows a
+valve with a normal margin and one with a feather edge.
+The valve tip may be resurfaced on the valve grinder. The
+tip is ground to remove cupping or wear, and also to adjust
+valve clearances on some engines.
+
+Normal margin
+
+Feather edge
+
+Figure 10-25. Valve in chuck ready to grind.
+
+Figure 10-26. Engine valves showing normal margin and a feather
+
+edge.
+
+10-16
+

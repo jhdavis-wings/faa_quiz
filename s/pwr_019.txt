@@ -1,0 +1,1709 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 6 (Lubrication & Cooling Systems), PDF pages 264-281
+
+===== PDF PAGE 264 =====
+system. The purpose of this section is to present typical
+troubles. It is not intended to imply that any of the troubles
+are exactly as they may be in a particular aircraft.
+
+Requirements for Turbine Engine Lubricants
+
+Figure 6-28. Oil sump screen.
+
+Using the special filter cutting tool, slightly tighten the
+cutter blade against filter and rotate 360º until the mounting
+plate separates from the can. [Figure 6-29] Using a clean
+plastic bucket containing varsol, move the filter to remove
+contaminants. Use a clean magnet and check for any ferrous
+metal particles in the filter or varsol solution. Then, take the
+remaining varsol and pour it through a clean filter or shop
+towel. Using a bright light, inspect for any nonferrous metals.
+Assembly of & Installation of Oil Filters
+After cleaning the parts, installation of the canister or filter
+element type filter is accomplished by lightly oiling the new
+rubber gaskets and installing a new copper gasket on the
+hex head screw. Assemble the hex head screw into the filter
+case using the new copper gasket. Install the filter element
+and place the cover over the case, then manually thread on
+the nylon nut by hand. Install the housing on the engine by
+turning it clockwise, then torque and safety it. Spin-on filters
+generally have installation instructions on the filter. Place a
+coating of engine oil on the rubber gasket, install the filter,
+torque and safety it. Always follow the manufacturer’s current
+instructions to perform any maintenance.
+Troubleshooting Oil Systems
+The outline of malfunctions and their remedies listed in
+Figure 6-30 can expedite troubleshooting of the lubrication
+A
+
+There are many requirements for turbine engine lubricating
+oils. Due to the absence of reciprocating motion and the
+presence of ball and roller bearings (antifriction bearings),
+the turbine engine uses a less viscous lubricant. Gas turbine
+engine oil must have a high viscosity for good load-carrying
+ability but must also be of sufficiently low viscosity to
+provide good flowability. It must also be of low volatility
+to prevent loss by evaporation at the high altitudes at which
+the engines operate. In addition, the oil should not foam and
+should be essentially nondestructive to natural or synthetic
+rubber seals in the lubricating system. Also, with high-speed
+antifriction bearings, the formation of carbons or varnishes
+must be held to a minimum. Synthetic oil for turbine engines
+are usually supplied in sealed one-quart cans.
+The many requirements for lubricating oils are met in the
+synthetic oils developed specifically for turbine engines.
+Synthetic oil has two principal advantages over petroleum oil.
+It has a lower tendency to deposit lacquer and coke (solids
+left after solvents have been evaporated) because it does not
+evaporate the solvents from the oil at high temperature. Oil
+grades used in some turbine engines normally contain thermal
+and oxidation preventives, load-carrying additives, and
+substances that lower the pour point in addition to synthetic
+chemical-base materials. MIL-L-7808, which is a military
+specification for turbine oil, is a type I turbine oil. Turbine
+synthetic oil has a viscosity of around 5 to 5.5 centistokes
+at 210º F that is approved against the military specification
+MIL-PRF-23699F. This oil is referred to as type II turbine
+oil. Most turbine oils meet this type II specification and are
+made with the following characteristics:
+1.
+
+Vapor phase deposits—carbon deposits formed from
+oil mist and vapor contact with hot engine surfaces.
+
+2.
+
+Load-carrying ability—provides for heavy loads on
+
+B
+
+C
+
+Figure 6-29. Cutting open a spin-on type oil filter using a special filter cutter.
+
+6-18
+
+===== PDF PAGE 265 =====
+Trouble
+1
+
+Isolation Procedure
+
+Remedy
+
+Excessive oil consumption
+Oil line leakage.
+
+Check external lines for evidence of oil leakage.
+
+Replace or repair defective lines.
+
+Accessory seal leakage.
+
+Check for leak at accessories immediately after
+engine operation.
+
+Replace accessory and/or defective
+accessory oil seal.
+
+Low grade of oil.
+Failing or failed bearing.
+2
+
+3
+
+Fill tank with proper grade oil.
+Check sump and oil pressure pump screen for
+material particles.
+
+High or low indicated oil pressure
+Defective pressure gauge.
+
+Check indicator.
+
+Replace indicator if defective.
+
+Improper operation of oil
+pressure.
+
+Erratic pressure indications either excessively
+high or low.
+
+Remove, clean, and inspect relief valve
+accessory oil seal.
+
+Inadequate oil supply.
+
+Check oil quantity.
+
+Fill oil tank.
+
+Diluted or contaminated oil.
+
+Drain engine and tank; refill tank.
+
+Clogged oil screen.
+
+Remove and clean oil screen.
+
+Oil viscosity incorrect.
+
+Make sure correct oil is being used.
+
+Drain engine and tank; refill tank.
+
+Oil pump pressure relief
+valve adjustment incorrect.
+
+Check pressure relief valve adjustment.
+
+Make correct adjustment on oil pump
+pressure relief valve.
+
+High or low indicated oil temperature
+Defective temperature gauge.
+
+Check indicator.
+
+Replace indicator if defective.
+
+Inadequate oil supply.
+
+Check oil quantity.
+
+Fill oil tank.
+
+Diluted or contaminated oil.
+Obstruction in oil tank.
+
+Drain engine and tank; refill tank.
+Check tank.
+
+Drain oil and remove obstruction.
+
+Clogged oil screen.
+Obstruction in oil cooler
+passages.
+4
+
+Replace engine if metal particles are found.
+
+Remove and clean oil screens.
+Check cooler for blocked or deformed passages.
+
+Replace oil cooler if defective.
+
+Oil foaming
+Diluted or contaminated oil.
+Oil level in tank too high.
+
+Drain engine and tank; refill tank.
+Check oil quantity.
+
+Drain excess oil from tank.
+
+Figure 6-30. Oil system troubleshooting procedures.
+
+the bearing systems of turbine engines.
+3.
+
+Cleanliness—minimum formation of sludge deposits
+during severe operation.
+
+4.
+
+Bulk stability—resistance to physical or chemical
+change resulting from oxidation. Permits long periods
+of service operation without significant increase
+in viscosity or total acidity, the main indicators of
+oxidation.
+
+5.
+
+Compatibility—most turbine oil is compatible with
+other oils that meet the same military specification.
+But, most engine manufacturers do not recommend
+the indiscriminate mixing of approved oil brands and
+
+this is not a generally accepted practice.
+6.
+
+Seal Wear—essential for the life of engines with
+carbon seals that lubricant properties prevent wear of
+the carbon at the carbon seal face.
+
+Turbine Oil Health & Safety Precautions
+Under normal conditions, the use of turbine oil presents a
+low health risk for humans. Although each person reacts
+somewhat differently to exposure, contact with liquids,
+vapors, and mist of turbine oil should be minimized.
+Information on established limits on exposure to turbine
+oil can generally be found in the material safety data
+sheets (MSDS). Prolonged breathing of hydrocarbon vapor
+6-19
+
+===== PDF PAGE 266 =====
+concentrations in excess of the prescribed limits may result
+in lightheadedness, dizziness, and nausea. If turbine oil is
+ingested, call a doctor immediately; identify the product and
+how much was ingested. Because of the risk of ingestion,
+petroleum products should never be siphoned by mouth.
+Prolonged or repeated contact of turbine oil with the skin can
+cause irritation and dermatitis. In case of skin contact, wash
+the skin thoroughly with soap and warm water. Promptly
+remove oil-soaked clothing and wash. If turbine oil contacts
+the eyes, flush the eyes with fresh water until the irritation
+subsides. Protective clothing, gloves, and eye protection
+should be used when handling turbine oil.
+During operation, it is possible for the oil to be subjected to
+very high temperatures that can break it down and produce a
+product of unknown toxicity. If this happens, all precautions
+to avoid explosives should be taken. It can also have a
+tendency to blister, discolor, or remove paint whenever it
+is spilled. Painted surfaces should be wiped clean with a
+petroleum solvent after spillage.
+Spectrometric Oil Analysis Program
+The Spectrometric Oil Analysis Program allows an oil
+sample to be analyzed and searched for the presence of
+minute metallic elements. Due to oil circulation throughout
+an aircraft engine, every lubricant that is in service contains
+microscopic particles of metallic elements called wear metals.
+As the engine operates over time, the oil picks up very
+small particles that stay suspended in the oil. Oil analysis
+programs identify and measure these particles in parts per
+million (PPM) by weight. The analyzed elements are grouped
+into categories, such as wear metals and additives, and their
+measurement in PPM provides data that expert analysts can
+use as one of many tools to determine the engine’s condition.
+An increase in PPM of certain materials can be a sign of
+component wear or impending failure of the engine. When
+you take a sample, note and record the amount of wear metals.
+If the amount of wear metals increases beyond a normal
+rate, then the operator can be notified quickly so repair or
+a recommendation of a specific maintenance procedure or
+inspection can be ordered.
+Oil analysis increases safety by identifying an engine problem
+before engine failure. It also saves money by finding engine
+problems before they become large problems or complete
+engine failure. This procedure can be used for both turbine
+and reciprocating engines.
+Typical Wear Metals & Additives
+The following examples of wear metals are associated
+with areas of the engine that could be lead to their source.
+Identifying the metal can help identify the engine components
+
+that are wearing or failing.
+•
+
+Iron—wear from rings, shafts, gears, valve train,
+cylinder walls, and pistons in some engines.
+
+•
+
+Chromium—primary sources are chromed parts (such
+as rings, liners, etc.) and some coolant additives.
+
+•
+
+Nickel—secondary indicator of wear from certain
+types of bearings, shafts, valves, and valve guides.
+
+•
+
+Aluminum—indicates wear of pistons, rod bearings,
+and certain types of bushings.
+
+•
+
+Lead—mostly from tetraethyl lead contamination.
+
+•
+
+Copper—wear from bearings, rocker arm bushings,
+wrist pin bushings, thrust washers, and other bronze
+or brass parts, and oil additive or antiseize compound.
+
+•
+
+Tin—wear from bearings.
+
+•
+
+Silver—wear of bearings that contain silver and, in
+some instances, a secondary indicator of oil cooler
+problems.
+
+•
+
+Titanium—alloy in high-quality steel for gears and
+bearings.
+
+•
+
+Molybdenum—gear or ring wear and used as an
+additive in some oils.
+
+•
+
+Phosphorous—antirust agents, spark plugs, and
+combustion chamber deposits.
+
+Turbine Engine Lubrication Systems
+Both wet- and dry-sump lubrication systems are used in
+gas turbine engines. Wet-sump engines store the lubricating
+oil in the engine proper, while dry-sump engines utilize an
+external tank mounted on the engine or somewhere in the
+aircraft structure near the engine, similar to reciprocating
+piston engines mentioned earlier.
+Turbine engine’s oil systems can also be classified as a
+pressure relief system that maintains a somewhat constant
+pressure: the full flow type of system, in which the pressure
+varies with engine speed, and the total loss system, used in
+engines that are for short duration operation (target drones,
+missiles, etc.). The most widely used system is the pressure
+relief system with the full flow used mostly on large fantype engines. One of the main functions of the oil system in
+turbine engines is cooling the bearings by carrying the heat
+away from the bearing by circulating oil around the bearing.
+The exhaust turbine bearing is the most critical lubricating
+point in a gas turbine engine because of the high temperature
+normally present. In some engines, air cooling is used in
+addition to oil cooling the bearing, which supports the turbine.
+Air cooling, referred to as secondary air flow, is cooling air
+provided by bleed air from the early stages of the compressor.
+6-20
+
+===== PDF PAGE 267 =====
+This internal air flow has many uses on the inside of the
+engine. It is used to cool turbine disc, vanes, and blades.
+Also, some turbine wheels may have bleed air flowing over
+the turbine disc, which reduces heat radiation to the bearing
+surface. Bearing cavities sometimes use compressor air to aid
+in cooling the turbine bearing. This bleed air, as it is called,
+is usually bled off a compressor stage at a point where air
+has enough pressure but has not yet become too warm (as
+the air is compressed, it becomes heated).
+The use of cooling air substantially reduces the quantity of
+oil necessary to provide adequate cooling of the bearings.
+Since cooling is a major function of the oil in turbine engines,
+the lubricating oil for bearing cooling normally requires an
+oil cooler. When an oil cooler is required, usually a greater
+quantity of oil is necessary to provide for circulation between
+the cooler and engine. To ensure proper temperature, oil
+is routed through either air-cooled and/or fuel-cooled oil
+coolers. This system is used to also heat (regulate) the fuel
+to prevent ice in the fuel.
+
+Turbine Lubrication System Components
+The following component descriptions include most found
+in the various turbine lubrication systems. However, since
+engine oil systems vary somewhat according to engine model
+and manufacturer, not all of these components are necessarily
+found in any one system.
+
+Oil Tank
+Although the dry-sump systems use an oil tank that contains
+most of the oil supply, a small sump is usually included on the
+engine to hold a small supply of oil. It usually contains the
+oil pump, the scavenge and pressure inlet strainers, scavenge
+return connection, pressure outlet ports, an oil filter, and
+mounting bosses for the oil pressure gauge and temperature
+bulb connections.
+A view of a typical oil tank is shown in Figure 6-31. It is
+designed to furnish a constant supply of oil to the engine
+during any aircraft attitude. This is done by a swivel outlet
+assembly mounted inside the tank, a horizontal baffle
+mounted in the center of the tank, two flapper check valves
+mounted on the baffle, and a positive vent system.
+The swivel outlet fitting is controlled by a weighted end
+that is free to swing below the baffle. The flapper valves
+in the baffle are normally open; they close only when the
+oil in the bottom of the tank tends to rush to the top of the
+tank during decelerations. This traps the oil in the bottom of
+the tank where it is picked up by the swivel fitting. A sump
+drain is located in the bottom of the tank. The vent system
+inside the tank is so arranged that the airspace is vented at
+all times even though oil may be forced to the top of the tank
+by deceleration of the aircraft.
+All oil tanks are provided with expansion space. This allows
+
+Baffle
+
+Return inlet assembly
+
+Vent assembly
+Vent tubes
+
+Strainer assembly
+
+Oil outlet
+
+Flapper door
+
+Swivel assembly
+
+Figure 6-31. Oil tank.
+
+6-21
+
+===== PDF PAGE 268 =====
+expansion of the oil after heat is absorbed from the bearings
+and gears and after the oil foams as a result of circulating
+through the system. Some tanks also incorporate a deaerator
+tray for separating air from the oil returned to the top of the
+tank by the scavenger system. Usually these deaerators are
+the can type in which oil enters at a tangent. The air released
+is carried out through the vent system in the top of the tank.
+In most oil tanks, a pressure buildup is desired within the
+tank to ensure a positive flow of oil to the oil pump inlet.
+This pressure buildup is made possible by running the vent
+line through an adjustable check relief valve. The check
+relief valve is usually set to relieve at about 4 psi, keeping
+positive pressure on the oil pump inlet. If the air temperature
+is abnormally low, the oil may be changed to a lighter
+grade. Some engines may provide for the installation of an
+immersion-type oil heater.
+Oil Pump
+The oil pump is designed to supply oil under pressure to the
+parts of the engine that require lubrication, then circulate the
+oil through coolers as needed, and return the oil to the oil
+tank. Many oil pumps consist of not only a pressure supply
+
+element, but also scavenge elements, such as in a dry-sump
+system. However, there are some oil pumps that serve a single
+function; that is, they either supply or scavenge the oil. These
+pump elements can be located separate from each other and
+driven by different shafts from the engine. The numbers
+of pumping elements (two gears that pump oil), pressure
+and scavenge, depend largely on the type and model of the
+engine. Several scavenge oil pump elements can be used
+to accommodate the larger capacity of oil and air mix. The
+scavenge elements have a greater pumping capacity than the
+pressure element to prevent oil from collecting in the bearing
+sumps of the engine.
+The pumps may be one of several types, each type having
+certain advantages and limitations. The two most common
+oil pumps are the gear and gerotor, with the gear-type being
+the most commonly used. Each of these pumps has several
+possible configurations.
+The gear-type oil pump has only two elements: one for
+pressure oil and one for scavenging. [Figure 6-32] However,
+some types of pumps may have several elements: one or more
+
+To oil filter
+To accessories case
+
+Relief valve
+
+Shear section
+From accessories case
+Scavenge element
+Pressure element
+
+From supply
+
+Pressure oil
+
+Scavenge oil
+From main bearings and coupling assembly
+
+Figure 6-32. Cutaway view of gear oil pump.
+
+6-22
+
+===== PDF PAGE 269 =====
+elements for pressure and two or more for scavenging. The
+clearances between the gear teeth and the sides of the pump
+wall and plate are critical to maintain the correct output of
+the pump.
+A regulating (relief) valve in the discharge side of the pump
+limits the output pressure of the pump by bypassing oil to the
+pump inlet when the outlet pressure exceeds a predetermined
+limit. [Figure 6-32] The regulating valve can be adjusted, if
+needed, to bring the oil pressure within limits. Also shown
+is the shaft shear section that causes the shaft to shear if the
+pump gears should seize up and not turn.
+The gerotor pump, like the gear pump, usually contains
+a single element for oil pressure and several elements for
+scavenging oil. Each of the elements, pressure and scavenge,
+is almost identical in shape; however, the capacity of
+the elements can be controlled by varying the size of the
+gerotor elements. For example, the pressure element may
+have a pumping capacity of 3.1 gallons per minute (gpm) as
+compared to 4.25 gpm capacity for the scavenge elements.
+Consequently, the pressure element is smaller since the
+elements are all driven by a common shaft. The pressure is
+determined by engine rpm with a minimum pressure at idling
+speed and maximum pressure at intermediate and maximum
+engine speeds.
+A typical set of gerotor pumping elements is shown in
+Figure 6-33. Each set of gerotors is separated by a steel plate,
+making each set an individual pumping unit consisting of
+an inner and an outer element. The small star-shaped inner
+element has external lobes that fit within and are matched
+with the outer element that has internal lobes. The small
+element fits on and is keyed to the pump shaft and acts as a
+drive for the outer free-turning element. The outer element fits
+within a steel plate having an eccentric bore. In one engine
+model, the oil pump has four elements: one for oil feed and
+three for scavenge. In some other models, pumps have six
+elements: one for feed and five for scavenge. In each case,
+the oil flows as long as the engine shaft is turning.
+
+Figure 6-33. Typical gerotor pumping elements.
+
+Turbine Oil Filters
+Filters are an important part of the lubrication system
+because they remove foreign particles that may be in the
+oil. This is particularly important in gas turbines as very
+high engine speeds are attained; the antifriction types of ball
+and roller bearings would become damaged quite rapidly
+if lubricated with contaminated oil. Also, there are usually
+numerous drilled or core passages leading to various points
+of lubrication. Since these passages are usually rather small,
+they are easily clogged.
+There are several types and locations of filters used for
+filtering the turbine lubricating oil. The filtering elements
+come in a variety of configurations and mesh sizes. Mesh
+sizes are measured in microns, which is a linear measurement
+equal to one millionth of a meter (a very small opening).
+
+Figure 6-34. Turbine oil filter element.
+
+Filter element
+
+Figure 6-35. Turbine oil filter paper element.
+
+6-23
+
+===== PDF PAGE 270 =====
+A main oil strainer filter element is shown in Figure 6-34.
+The filtering element interior is made of varying materials
+including paper and metal mesh. [Figure 6-35] Oil normally
+flows through the filter element from the outside into the
+filter body. One type of oil filter uses a replaceable laminated
+paper element, while others use a very fine stainless steel
+metal mesh of about 25–35 microns.
+Most filters are located close to the pressure pump and consist
+of a filter body or housing, filter element, a bypass valve, and
+a check valve. The filter bypass valve prevents the oil flow
+from being stopped if the filter element becomes clogged. The
+bypass valve opens whenever a certain pressure is reached.
+If this occurs, the filtering action is lost, allowing unfiltered
+oil to be pumped to the bearings. However, this prevents the
+bearings from receiving no oil at all. In the bypass mode,
+many engines have a mechanical indicator that pops out to
+indicate the filter is in the bypass mode. This indication is
+visual and can only be seen by inspecting the engine directly.
+An antidrain check valve is incorporated into the assembly to
+prevent the oil in the tank from draining down into the engine
+sumps when the engine is not operating. This check valve is
+normally spring loaded closed with 4 to 6 psi needed to open it.
+The filters generally discussed are used as main oil filters;
+that is, they strain the oil as it leaves the pump before being
+piped to the various points of lubrication. In addition to
+the main oil filters, there are also secondary filters located
+throughout the system for various purposes. For instance,
+there may be a finger screen filter that is sometimes used
+for straining scavenged oil. These screens tend to be large
+mesh screens that trap larger contaminants. Also, there are
+fine-mesh screens called last chance filters for straining
+the oil just before it passes from the spray nozzles onto the
+bearing surfaces. [Figure 6-36] These filters are located at
+each bearing and help screen out contaminants that could
+plug the oil spray nozzle.
+
+Oil Pressure Regulating Valve
+Most turbine engine oil systems are pressure regulating type
+systems that keep the pressure fairly constant. An oil pressure
+regulating valve is included in the oil system on the pressure
+side of the pressure pump. A regulating valve system controls
+the systems pressure to a limited pressure within the system.
+It is more of a regulating valve than a relief valve because it
+keeps the pressure in the system within certain limits other
+than only opening when the absolute maximum pressure of
+the system is exceeded.
+The regulating valve Figure 6-37 has a valve held against a
+seat by a spring. By adjusting the tension (increase) on the
+spring, you change the pressure at which the valve opens, and
+you also increase the system pressure. A screw pressing on the
+spring adjusts the tension on the valve and the system pressure.
+Oil Pressure Relief Valve
+Some large turbofan oil systems do not have a regulating valve.
+The system pressure varies with engine rpm and pump speed.
+There is a wide range of pressure in this system. A relief valve
+is used to relieve pressure only if it exceeds the maximum limit
+for the system. [Figure 6-38] This true relief valve system
+is preset to relieve pressure and bypass the oil back to the
+inlet side of the oil pump whenever the pressure exceeds the
+maximum preset system limit. This relief valve is especially
+important when oil coolers are incorporated in the system
+since the coolers are easily ruptured because of their thin-wall
+construction. Under normal operation, it should never open.
+
+Pressure regulating valve
+
+Figure 6-36. Last-chance filter before spray nozzle.
+
+Figure 6-37. Pressure regulating valve.
+
+6-24
+
+===== PDF PAGE 271 =====
+The oil jets are easily clogged because of the small orifice in
+their tips; consequently, the oil must be free of any foreign
+particles. If the last-chance filters in the oil jets should become
+clogged, bearing failure usually results since nozzles are not
+accessible for cleaning except during engine maintenance.
+To prevent damage from clogged oil jets, main oil filters are
+checked frequently for contamination.
+
+Pressure relief valve
+
+Figure 6-38. Pressure relief valve.
+
+Oil nozzle
+
+Oil seal
+
+Bearing
+
+Figure 6-39. Oil nozzles spray lubricate on bearings.
+
+Oil Jets
+Oil jets (or nozzles) are located in the pressure lines adjacent
+to, or within, the bearing compartments and rotor shaft
+couplings. [Figure 6-39] The oil from these nozzles is
+delivered in the form of an atomized spray. Some engines use
+an air-oil mist spray that is produced by tapping high-pressure
+bleed air from the compressor to the oil nozzle outlet. This
+method is considered adequate for ball and roller bearings;
+however, the solid oil spray method is considered the better
+of the two methods.
+
+Lubrication System Instrumentation
+Gauge connection provisions are incorporated in the oil
+system for oil pressure, oil quantity, low oil pressure, oil
+filter differential pressure switch, and oil temperature. The
+oil pressure gauge measures the pressure of the lubricant as
+it leaves the pump and enters the pressure system. The oil
+pressure transmitter connection is located in the pressure
+line between the pump and the various points of lubrication.
+An electronic sensor is placed to send a signal to the Full
+Authority Digital Engine Control (FADEC) control unit and
+through the Engine Indicating and Crew Alerting System
+(EICAS) computers, and on to the displays in the flight deck.
+[Figure 6-40] The tank quantity transmitter information is
+sent to the EICAS computers. The low oil pressure switch
+alerts the crew if the oil pressure falls below a certain pressure
+during engine operation. The differential oil pressure switch
+alerts the flight crew of an impending oil filter bypass because
+of a clogged filter. A message is sent to the display in the
+upper EICAS display in the flight deck as can be seen in
+Figure 6-40. Oil temperature can be sensed at one or more
+points in the engine’s oil flow path. The signal is sent to the
+FADEC/EICAS computer and is displayed on the lower
+EICAS display.
+Lubrication System Breather Systems (Vents)
+Breather subsystems are used to remove excess air from the
+bearing cavities and return the air to the oil tank where it is
+separated from any oil mixed in the vapor of air and oil by
+the deaerator. Then, the air is vented overboard and back to
+the atmosphere. All engine bearing compartments, oil tanks,
+and accessory cases are vented together so the pressure in
+the system remains the same.
+The vent in an oil tank keeps the pressure within the tank
+from rising above or falling below that of the outside
+atmosphere. However, the vent may be routed through
+a check relief valve that is preset to maintain a slight
+(approximately 4 psi) pressure on the oil to assure a positive
+flow to the oil pump inlet.
+In the accessory case, the vent (or breather) is a screenprotected opening that allows accumulated air pressure
+within the accessory case to escape to the atmosphere. The
+scavenged oil carries air into the accessory case and this air
+6-25
+
+===== PDF PAGE 272 =====
+L ENG
+Oil pressure
+
+UPPER EICAS DISPLAY
+
+R ENG
+Oil pressure
+
+1.49
+
+FADEC/EEC oil
+temperature probe
+
+Low oil pressure switch
+
+1.45
+1.01
+
+1.37
+
+N1
+84.4
+
+21.5
+
+ITT
+
+49.7
+
+No. 3 bearing scavenge
+oil temperature probe
+
+Engine oil pressure
+
+33.8
+
+N2
+
+L oil pressure R oil pressure
+L oil filter
+R oil filter
+EICAS
+Computers
+
+LOWER EICAS DISPLAY
+91
+
+60
+
+11.0
+
+1.0
+
+Oil pressure transmitter
+
+Oil quantity transmitter
+Oil filter out pressure
+No. 1, 11/2, and 2
+bearing breather
+Oil filter in pressure
+
+ank
+Oil t
+
+126
+
+98
+
+15
+
+15
+
+118
+
+108
+
+49.7
+
+49.7
+
+Oil filter differential pressure switch
+Figure 6-40. Oil indicating system.
+
+must be vented. Otherwise, the pressure buildup within the
+accessory case would stop the flow of oil draining from the
+bearing, forcing this oil past the bearing oil seals and into
+the compressor housing. If in enough quantity, oil leakage
+could cause burning and seal and bearing malfunction. The
+screened breathers are usually located in the front center
+of the accessory case to prevent oil leakage through the
+breather when the aircraft is in unusual flight attitudes.
+Some breathers may have a baffle to prevent oil leakage
+during flight maneuvers. A vent that leads directly to the
+bearing compartment may be used in some engines. This
+vent equalizes pressure around the bearing surface so that the
+lower pressure at the first compressor stage does not cause oil
+to be forced past the bearing rear oil seal into the compressor.
+Lubrication System Check Valve
+Check valves are sometimes installed in the oil supply lines
+of dry-sump oil systems to prevent reservoir oil from seeping
+(by gravity) through the oil pump elements and high-pressure
+lines into the engine after shutdown. Check valves, by
+stopping flow in an opposite direction, prevent accumulations
+of undue amounts of oil in the accessory gearbox, compressor
+rear housing, and combustion chamber. Such accumulations
+
+could cause excessive loading of the accessory drive gears
+during starts, contamination of the cabin pressurization
+air, or internal oil fires. The check valves are usually the
+spring-loaded ball-and-socket type constructed for free flow
+of pressure oil. The pressure required to open these valves
+
+Figure 6-41. Typical thermostatic bypass valve.
+
+6-26
+
+===== PDF PAGE 273 =====
+opens, bypassing the oil around the cooler.
+
+Figure 6-42. Air oil cooler.
+
+varies, but the valves generally require from 2 to 5 psi to
+permit oil to flow to the bearings.
+Lubrication System Thermostatic Bypass Valves
+Thermostatic bypass valves are included in oil systems
+using an oil cooler. Although these valves may be called
+different names, their purpose is always to maintain proper
+oil temperature by varying the proportion of the total oil
+flow passing through the oil cooler. A cutaway view of a
+typical thermostatic bypass valve is shown in Figure 6-41.
+This valve consists of a valve body, having two inlet ports
+and one outlet port, and a spring-loaded thermostatic element
+valve. The valve is spring loaded because the pressure drop
+through the oil cooler could become too great due to denting
+or clogging of the cooler tubing. In such a case, the valve
+
+Air-Oil Coolers
+Two basic types of oil coolers in general use are the air-cooled
+and the fuel-cooled. Air-oil coolers are used in the lubricating
+systems of some turbine engines to reduce the temperature
+of the oil to a degree suitable for recirculation through the
+system. The air-cooled oil cooler is normally installed at
+the forward end of the engine. It is similar in construction
+and operation to the air-cooled cooler used on reciprocating
+engines. An air-oil cooler is usually included in a dry-sump
+oil system. [Figure 6-42] This cooler may be air-cooled or
+fuel-cooled and many engines use both. Dry-sump lubrication
+systems require coolers for several reasons. First, air cooling
+of bearings by using compressor bleed-air is not sufficient to
+cool the turbine bearing cavities because of the heat present
+in area of the turbine bearings. Second, the large turbofan
+engines normally require a greater number of bearings, which
+means that more heat is transferred to the oil. Consequently,
+the oil coolers are the only means of dissipating the oil heat.
+Fuel-Oil Coolers
+The fuel-cooled oil cooler acts as a fuel-oil heat exchanger
+in that the fuel cools the hot oil and the oil heats the fuel
+for combustion. [Figure 6-43] Fuel flowing to the engine
+must pass through the heat exchanger; however, there is a
+thermostatic valve that controls the oil flow, and the oil may
+bypass the cooler if no cooling is needed. The fuel-oil heat
+
+Fuel outlet
+
+Oil return
+
+Oil inlet
+Oil temperature control valve
+
+Fuel inlet
+
+Figure 6-43. Fuel-oil heat exchanger cooler.
+
+6-27
+
+===== PDF PAGE 274 =====
+exchanger consists of a series of joined tubes with an inlet
+and outlet port. The oil enters the inlet port, moves around
+the fuel tubes, and goes out the oil outlet port.
+Deoiler
+The deoiler removes the oil from the breather air. The breather
+air goes into an impeller that turns in the deoiler housing.
+Centrifugal force drives the oil towards the outer wall of the
+impeller. Then, the oil drains from the deoiler into a sump or
+oil tank. Because the air is much lighter than the oil, it goes
+through the center of the impeller and is vented overboard.
+Magnetic Chip Detectors
+Magnetic chip detectors are used in the oil system to detect
+and catch ferrous (magnetic) particles present in the oil.
+[Figure 6-44] Scavenge oil generally flows past chip detectors
+so any magnetic particles are attracted and stick to the chip
+detector. Chip detectors are placed in several locations but
+generally are in the scavenge lines for each scavenge pump,
+oil tank, and in the oil sumps. Some engines have several
+detectors to one detector. During maintenance, the chip
+detectors are removed from the engine and inspected for
+metal; if none is found, the detector is cleaned, replaced,
+and safety wired. If metal is found on a chip detector, an
+investigation should be made to find the source of the metal
+on the chip.
+
+Typical Dry-Sump Pressure Regulated
+Turbine Lubrication System
+The turbine lubrication system is representative of turbine
+engines using a dry-sump system. [Figure 6-45] The
+lubrication system is a pressure regulated, high-pressure
+design. It consists of the pressure, scavenge, and breather
+subsystems.
+The pressure system supplies oil to the main engine bearings
+and to the accessory drives. The scavenger system returns
+the oil to the engine oil tank that is usually mounted on
+
+il
+
+Return o
+
+Chip detector
+
+Self-sealing housing
+Permanent magnet
+
+Figure 6-44. Chip detector.
+
+the compressor case. It is connected to the inlet side of the
+pressure oil pump and completes the oil flow cycle. A breather
+system connecting the individual bearing compartments and
+the oil tank with the breather pressurizing valve completes
+the engine lubrication system. In a turbine pressure relief
+dry-sump lubrication system, the oil supply is carried in a
+tank mounted on the engine. With this type of system, a larger
+oil supply can be carried, and the temperature of the oil can
+be readily controlled.
+
+Pressure System
+The oil pressure branch of the engine lubrication system
+is pressurized by a gear-type pressure pump located in the
+oil pump and accessory drive housing. [Figure 6-45] The
+pressure pump receives engine oil at its lower (inlet) side
+and discharges pressurized oil to an oil filter located on the
+housing. From the oil filter, which is equipped with a bypass
+valve for operation in case the filter clogs, the pressurized
+oil is transmitted to a cored passage running through to the
+pressure regulating (relief) valve that maintains system
+pressure. The pressure regulating (relief) valve is located
+downstream of the pump. It is adjusted to maintain a proper
+pressure to the oil metering jets in the engine. The pressure
+regulating (relief) valve is usually easily accessible for
+adjustment. Then, the oil flows through the fuel-oil cooler and
+on to the bearing cavities through last-chance filters and out
+spray nozzles to the bearings. Pressurized oil distributed to
+the engine main bearings is sprayed on the bearings through
+fixed orifice nozzles providing a relatively constant oil flow
+at all engine operating speeds.
+Scavenge System
+The scavenge system scavenges the main bearing
+compartments and circulates the scavenged oil back to
+the tank. The scavenge oil system includes five gear-type
+pumps. [Figure 6-45] The No.1 bearing oil scavenge
+pump scavenges accumulated oil from the front bearing
+case. It directs the oil through an external line to a
+central collecting point in the main accessory gearbox.
+The oil return from No. 2 and 3 bearings is through
+internal passages to a central collecting point in the main
+accessory case. The accessory gearbox oil suction pump,
+located in the main accessory gearbox, scavenges oil from
+the gearbox housing to the oil tank. Oil from the No. 4, No.
+41⁄2 and No. 5 bearing accumulates in the bearing cavity and
+is scavenged to the accessory gearbox.
+The turbine rear bearing oil suction pump scavenges oil from
+the No. 6 bearing compartment and directs the scavenged oil
+through a passage in the turbine case strut. From there, it is
+directed to the bearing cavity for the 4, 41⁄2, and 5 bearing
+cavities where it joins the oil and is returned to the oil tank.
+The scavenge oil passes through the deaerator as it enters the
+6-28
+
+===== PDF PAGE 275 =====
+To low oil pressure switch
+
+To oil pressure transmitter
+To oil temperature indicator
+
+S
+
+S
+
+No. 1
+
+No. 2
+
+S
+No. 3
+
+S
+
+No. 4 1/2
+
+No. 4
+
+No. 5
+
+No. 6
+
+Scavenge
+pumps
+Cooler
+bypass
+valve
+
+Tower
+shaft
+housing
+
+Scavenge pumps
+
+Test port
+
+C
+
+Breather
+vent port
+
+Fuel-oil cooler
+
+Deaerator
+
+NO. 4 Bearing seal check valve
+
+To fuel pump
+driver spline
+
+C
+
+LP3
+Accessory gearbox
+
+Deoiler
+Oil tank
+
+Oil pressure
+regulating valve
+
+S
+To oil quantity indicator
+Scavenge stage
+
+C
+S
+
+Pressure
+stage
+
+C
+Oil pump
+Filter bypass valve
+
+Oil filter
+
+LP6
+LP5
+
+Supply oil
+Pressure oil
+Sense oil
+Bypass oil
+Scavenge oil
+Breather air
+Seal drain
+Chip detector
+Last-chance oil strainer
+Positive-displacement
+gear pump
+
+To oil filter P switch
+
+Figure 6-45. Typical turbine dry-sump pressure regulated lubrication system.
+
+oil tank, which separates the air mixed in the return oil. The
+oil stays in the tank while the air flows into the accessory
+gearbox and enters the deoiler.
+Breather Pressurizing System
+The breather pressurizing system ensures a proper oil
+spray pattern from the main bearing oil jets and furnishes a
+pressure head to the scavenge system. Breather tubes in the
+compressor inlet case, the oil tank, the diffuser case, and the
+turbine exhaust case are connected to external tubing at the
+top of the engine. By means of this tubing, the vapor-laden
+atmospheres of the various bearing compartments and the
+oil tank are brought together in the deoiler in the accessory
+gearbox. The deoiler separates out the oil from the air-oil
+mist and vents the air back to the atmosphere.
+
+Typical Dry-Sump Variable Pressure
+Lubrication System
+The dry-sump variable-pressure lubrication system uses
+the same basic subsystems that the regulated systems use
+(pressure Scavenge breather). [Figure 6-46] The main
+difference is that the pressure in this system is not regulated
+by a regulating bypass valve. Most large turbofan engine
+pressure systems are variable-pressure systems in which the
+
+pump outlet pressure (oil pressure) depends on the engine
+rpm. In other words, the pump output pressure is proportional
+to the engine speed. Since the resistance to flow in the system
+does not vary much during operation and the pump has only
+the variable of turning faster or slower, the pressure is a
+function of engine speed. As an example, oil pressure can
+vary widely in this type of system, from 100 psi to over 260
+psi, with the relief valve opening at about 540 psi.
+Pressure Subsystem
+The oil flows from the oil tank down to the pressure stage
+of the oil pump. A slight pressure in the tank assures that the
+flow of oil into the pressure pump is continuous. After being
+pressurized, it moves on to the oil filter where it is filtered.
+If the filter is clogged, the bypass valve sends the oil around
+the filter. There is no regulating valve but there is a relief
+valve to prevent the system pressure from exceeding the
+maximum limits. This valve is usually set to open well above
+the system’s operating pressure. The oil flows from the filter
+housing to the engine air-oil cooler. The oil either bypasses
+the cooler (cold) or passes through the cooler (hot) and then
+on to the fuel-oil cooler. Through the use of the coolers, the
+fuel temperature is adjusted to meet the requirements needed
+for the engine. Some of the oil passes through the classified
+6-29
+
+===== PDF PAGE 276 =====
+S
+
+S
+
+Oil pressure metering nipple
+Fuel-oil cooler
+outlet manifold
+Oil pressure port
+IDGS oil to IDG
+
+No. 2 bearing damper
+oil shutoff valve
+
+S
+
+Fuel-oil cooler
+and valve
+
+S
+
+No. 4
+bearing
+damper oil
+
+No. 1, 1.5 and
+2 breather pressure tap
+Breather restrictor
+
+No. 1, 1.5 and 2
+Bearing
+compartment
+
+No. 3
+Bearing
+compartment
+
+Secondary filter
+
+Pressure
+fuel
+return
+
+Primary filter
+Oil filter switch
+
+Bypass fuel
+from pump
+Fuel from pump
+boost stage
+IDGS oil from IDGs
+air-oil heat exchanger
+
+Servo
+return
+to oil
+tank
+
+Fuel to
+fuel
+pump
+filter
+
+Tower
+shaft
+
+Angle
+gearbox
+
+Filler neck and
+flapper valve
+
+Pressure
+relief
+valve
+
+Deaerator
+Baffle
+
+Deoiler
+No. 3 bearing breather
+restrictor valve
+Oil temperature ports
+
+C
+
+Pressure dampener
+Lubrication and
+scavenge oil
+pump
+
+Layshaft
+
+Main gearbox
+
+Breather air
+Scavenge and breather
+IDGS oil
+Interstage fuel
+
+Oil tank
+
+Breather air
+overboard
+
+C
+
+Supply oil
+Pressure oil
+Return oil
+Scavenge oil
+
+Oil quantity
+transmitter
+
+Primary
+filter
+bypass
+valve
+
+Engine air-oil heat
+exchanger and valve
+Fan air
+or 2.5 air
+
+Check valve
+
+No. 4
+Bearing
+compartment
+
+C
+
+C
+
+C C
+
+Pressure stage
+
+S
+
+S Last-chance oil filter
+C Chip detector provision
+
+Figure 6-46. Typical turbine dry-sump variable pressure lubrication system.
+
+oil pressure trim orifice that helps adjust oil pressure at low
+speeds. The oil now flows through the last-chance oil filters
+(strainers) that remove particles from the oil if the oil filter has
+been bypassed. The engine oil passes through the nozzles to
+lubricate the bearings, gearboxes, seals, and accessory drive
+splines. After performing its functions of lubricating, cleaning,
+and cooling the bearings, the oil needs to be returned to the
+old tank by the scavenge system.
+Scavenger Subsystem
+The scavenger oil pump has several stages that pull oil from
+the bearing compartments and gearboxes and sends the oil
+to the tank. At the tank, the oil enters the deaerator, which
+separates the air from the scavenge oil. The oil returns to the
+tank and the air is vented through a check valve overboard.
+Each stage of the scavenge pump has a magnetic chip detector
+that can be removed for inspection.
+Breather Subsystem
+The purpose of the breather system is to remove air from the
+bearing compartments, separate breather air from oil, and
+vent the air overboard. The breather air from the bearing
+compartments is drawn to the gearbox by the deoiler.
+The deoiler is turned at high speed and causes the oil to
+
+separate from the air. The air is then vented with air from
+the deaerator overboard. By referring to Figure 6-46, notice
+that the deaerator is in the oil tank and the deoiler is in the
+main gearbox.
+
+Turbine Engine Wet-Sump Lubrication
+System
+In some engines, the lubrication system is the wet-sump type.
+There are relatively few engines using a wet-sump type of oil
+system. The components of a wet-sump system are similar to
+those of a dry-sump system. The major difference between the
+two systems is the location of the oil reservoir. The reservoir
+for the wet-sump oil system may be the accessory gear case
+or it may be a sump mounted on the bottom of the accessory
+case. Regardless of configuration, reservoirs for wet-sump
+systems are an integral part of the engine and contain the
+bulk of the engine oil supply. [Figure 6-47]
+Included in the wet-sump reservoir are the following
+components:
+1.
+
+A sight gauge indicates the oil level in the sump.
+
+2.
+
+A vent or breather equalizes pressure within the
+accessory casing.
+6-30
+
+===== PDF PAGE 277 =====
+Oil filter housing
+
+Sight gauge
+Oil fill cap
+
+Wet-sump
+Figure 6-47. Typical turbine wet-sump system.
+
+3.
+
+4.
+
+A magnetic drain plug may be provided to drain the
+oil and also to trap any ferrous metal particles in the
+oil. This plug should always be examined closely
+during inspections. The presence of metal particles
+may indicate gear or bearing failure.
+
+2.
+
+Remove the filter housing and withdraw the filter
+assembly. [Figure 6-48] Discard the old seals.
+
+3.
+
+Immerse the screen or filter in an approved carbon
+remover at room temperature for a few minutes. Rinse
+them in a degreaser fluid or cleaning solvent. Then,
+blow them dry with an air jet.
+
+4.
+
+Then, install the filter in the filter housing assembly.
+Place a new seal and tighten it to the torque prescribed
+in the manufacturer’s instructions.
+
+5.
+
+Secure with lock wire.
+
+Provision may also be made for a temperature bulb
+and an oil pressure fitting.
+
+This system is typical of all engines using a wet-sump
+lubrication system. The bearing and drive gears in the
+accessory drive casing are lubricated by a splash system. The
+oil for the remaining points of lubrication leaves the pump
+under pressure and passes through a filter to jet nozzles that
+direct the oil into the rotor bearings and couplings. The oil
+is returned to the reservoir (sump) by gravity. Oil from the
+compressor bearing and the accessories drive coupling shaft
+drains directly into the reservoir. Turbine oil drains into a
+sump where the oil was originally pumped.
+
+Turbine Engine Oil System Maintenance
+Maintenance of gas turbine lubrication systems consists
+mainly of adjusting, removing, cleaning, and replacing
+various components. Oil filter maintenance and oil change
+intervals for turbine engines vary widely from model to
+model, depending on the severity of the oil temperature
+conditions imposed by the specific airframe installation
+and engine configuration. The applicable manufacturer’s
+instructions should be followed. The oil filter should
+be removed at every regular inspection. It should be
+disassembled, cleaned, and any worn or damaged filter
+elements replaced. The following steps illustrate typical oil
+filter removal cleaning and replacement procedures:
+1.
+
+Figure 6-48. Oil filter housing.
+
+Provide a suitable container for collecting the drained
+oil, if needed.
+
+To adjust the oil pressure, first remove the adjusting screw
+acorn cap on the oil pressure relief valve. Then, loosen the
+locknut and turn the adjusting screw clockwise to increase,
+or counterclockwise to decrease, the oil pressure. In a typical
+turbojet lubrication system, the adjusting screw is adjusted
+to provide an oil pressure of 45, ±5 psi, at approximately
+75 percent of normal rated thrust. The adjustment should
+be made while the engine is idling; it may be necessary to
+perform several adjustments before the desired pressure
+is obtained. When the proper pressure setting is achieved,
+tighten the adjusting screw locknut, and install the acorn cap
+with a new gasket, then tighten and secure with lock wire.
+Checking or servicing aircraft engine oil is an important
+maintenance function. Before servicing any aircraft engine,
+consult the specific aircraft maintenance manual to determine
+the proper type of servicing equipment and procedures. In
+general, aircraft engine oil is checked with a dipstick or a
+sight gauge. There are markings on the stick or around the
+sight gauge to determine the correct level. Turbine engines
+must be checked just after shutdown.
+
+6-31
+
+===== PDF PAGE 278 =====
+Maintenance of scavenge and breather systems at regular
+inspections includes checks for oil leaks and security of
+mounting of system components. Also, check chip detectors
+for particles of ferrous material and clean last-chance filters;
+install and safety.
+
+Engine Cooling Systems
+Excessive heat is always undesirable in both reciprocating
+and turbine aircraft engines. If means were not available
+for its control or elimination, major damage or complete
+engine failure would occur. Although the vast majority of
+reciprocating engines are air cooled, some diesel liquidcooled engines are being made available for light aircraft.
+[Figure 6-49] In a liquid-cooled engine, around the cylinder
+are water jackets, in which liquid coolant is circulated and
+the coolant takes away the excess heat. The excess heat is
+then dissipated by a heat exchanger or radiator using air flow.
+Turbine engines use secondary airflow to cool the inside
+components and many of the exterior components.
+Reciprocating Engine Cooling Systems
+An internal-combustion engine is a heat machine that
+converts chemical energy in the fuel into mechanical energy
+at the crankshaft. It does not do this without some loss of
+energy, however, and even the most efficient aircraft engines
+may waste 60 to 70 percent of the original energy in the
+fuel. Unless most of this waste heat is rapidly removed,
+the cylinders may become hot enough to cause complete
+engine failure. Excessive heat is undesirable in any internalcombustion engine for three principal reasons:
+1.
+
+It affects the behavior of the combustion of the air-fuel
+charge.
+
+2.
+
+It weakens and shortens the life of engine parts.
+
+3.
+
+It impairs lubrication.
+
+If the temperature inside the engine cylinder is too great,
+the air-fuel mixture is preheated, and combustion occurs
+before the desired time. Since premature combustion causes
+
+detonation, knocking, and other undesirable conditions, there
+must be a way to eliminate heat before it causes damage.
+One gallon of aviation gasoline has enough heat value to
+boil 75 gallons of water; thus, it is easy to see that an engine
+that burns 4 gallons of fuel per minute releases a tremendous
+amount of heat. About one-fourth of the heat released is
+changed into useful power. The remainder of the heat must
+be dissipated so that it is not destructive to the engine. In a
+typical aircraft powerplant, half of the heat goes out with the
+exhaust and the other is absorbed by the engine. Circulating
+oil picks up part of this soaked-in heat and transfers it to the
+airstream through the oil cooler. The engine cooling system
+takes care of the rest. Cooling is a matter of transferring the
+excess heat from the cylinders to the air, but there is more
+to such a job than just placing the cylinders in the airstream.
+A cylinder on a large engine is roughly the size of a gallon
+jug. Its outer surface, however, is increased by the use of
+cooling fins so that it presents a barrel-sized exterior to the
+cooling air. Such an arrangement increases the heat transfer
+by convection. If too much of the cooling fin area is broken
+off, the cylinder cannot cool properly, and a hotspot develops.
+Therefore, cylinders are normally replaced if a specified
+number of square inches of fins are missing.
+Cowling and baffles are designed to force air over the
+cylinder cooling fins. [Figure 6-50] The baffles direct the
+air close around the cylinders and prevent it from forming
+hot pools of stagnant air while the main streams rush by
+unused. Blast tubes are built into the baffles to direct jets of
+cooling air onto the rear spark plug elbows of each cylinder
+to prevent overheating of ignition leads. Blast tubes also
+provide cooling to engine accessories such as alternators,
+generators, and starters.
+
+Deflector
+
+Air baffle
+
+Figure 6-49. Diesel liquid-cooled aircraft engine.
+
+Figure 6-50. Cylinder baffle and deflector system.
+
+6-32
+
+===== PDF PAGE 279 =====
+An engine can have an operating temperature that is too low.
+For the same reasons that an engine is warmed up before
+takeoff, it is kept warm during flight. Fuel evaporation and
+distribution and oil circulation depend on an engine being
+kept at its optimum operating temperature. The aircraft engine
+has temperature controls that regulate air circulation over
+the engine. Unless some controls are provided, the engine
+could overheat on takeoff and get too cold in high altitude,
+high-speed and low-power letdowns.
+The most common means of controlling cooling is the use of
+cowl flaps. [Figure 6-51] These flaps are opened and closed
+by electric motor-driven jackscrews, by hydraulic actuators,
+or manually in some light aircraft. When extended for
+increased cooling, the cowl flaps produce drag and sacrifice
+streamlining for the added cooling. On takeoff, the cowl flaps
+are opened only enough to keep the engine below the red-line
+temperature. Heating above the normal range is allowed so
+that drag is as low as possible. During ground operations, the
+cowl flaps should be opened wide since drag does not matter
+and cooling needs to be set at maximum. Cowl flaps are used
+mostly with older aircraft and radial engine installations.
+
+Figure 6-51. Regulating the cooling airflow.
+
+Some aircraft use augmentors to provide additional cooling
+airflow. [Figure 6-52] Each nacelle has two pairs of tubes
+running from the engine compartment to the rear of the
+nacelle. The exhaust collectors feed exhaust gas into the inner
+augmentor tubes. The exhaust gas mixes with air that has
+passed over the engine and heats it to form a high-temperature,
+low-pressure, jet-like exhaust. This low-pressure area in the
+augmentors draws additional cooling air over the engine. Air
+entering the outer shells of the augmentors is heated through
+contact with the augmentor tubes but is not contaminated with
+exhaust gases. The heated air from the shell goes to the cabin
+heating, defrosting, and anti-icing system.
+Augmentors use exhaust gas velocity to cause airflow over
+the engine so that cooling is not entirely dependent on the
+prop wash. Vanes installed in the augmentors control the
+volume of air. These vanes are usually left in the trail position
+to permit maximum flow. They can be closed to increase the
+heat for cabin or anti-icing use or to prevent the engine from
+cooling too much during descent from altitude. In addition to
+augmentors, some aircraft have residual heat doors or nacelle
+flaps that are used mainly to let the retained heat escape after
+engine shutdown. The nacelle flaps can be opened for more
+cooling than that provided by the augmentors. A modified
+form of the previously described augmentor cooling system
+is used on some light aircraft. [Figure 6-53] Augmentor
+systems are not used much on modern aircraft.
+As shown in Figure 6-53, the engine is pressure cooled by
+air taken in through two openings in the nose cowling, one
+on each side of the propeller spinner. A pressure chamber is
+sealed off on the top side of the engine with baffles properly
+directing the flow of cooling air to all parts of the engine
+compartment. Warm air is drawn from the lower part of the
+engine compartment by the pumping action of the exhaust
+
+Exhaust gases
+Cooling air
+Exhaust gas and cooling air mixture
+
+Heated air
+
+Augmentor
+
+Figure 6-52. Augmentor.
+
+6-33
+
+===== PDF PAGE 280 =====
+Exhaust stack
+
+Ambient air
+Exhaust
+Figure 6-53. Engine cooling and exhaust system.
+
+gases through the exhaust ejectors. This type of cooling
+system eliminates the use of controllable cowl flaps and
+assures adequate engine cooling at all operating speeds.
+Reciprocating Engine Cooling System Maintenance
+The engine cooling system of most reciprocating engines
+usually consists of the engine cowling, cylinder baffles,
+cylinder fins, and some use a type of cowl flaps. In addition to
+these major units, there are also some temperature-indicating
+systems, such as cylinder head temperature, oil temperature,
+and exhaust gas temperature.
+The cowling performs two functions:
+1.
+
+It streamlines the bulky engine to reduce drag.
+
+2.
+
+It forms an envelope around the engine that forces air
+to pass around and between the cylinders, absorbing
+the heat dissipated by the cylinder fins.
+
+The cylinder bases are metal shields, designed and arranged
+to direct the flow of air evenly around all cylinders. This even
+distribution of air aids in preventing one or more cylinders
+from being excessively hotter than the others. The cylinder
+fins radiate heat from the cylinder walls and heads. As the
+air passes over the fins, it absorbs this heat, carries it away
+
+from the cylinder, and is exhausted overboard through the
+bottom rear of the cowl.
+The controllable cowl flaps provide a means of decreasing
+or increasing the exit area at the rear of the engine cowling.
+[Figure 6-54] Closing the cowl flaps decreases the exit
+area, which effectively decreases the amount of air that can
+circulate over the cylinder fins. The decreased airflow cannot
+carry away as much heat; therefore, it has a tendency for the
+engine temperature to increase. Opening the cowl flaps makes
+the exit area larger. The flow of cooling air over the cylinders
+increases, absorbing more heat and the engine temperature
+tends to decrease. Good inspection and maintenance in the
+care of the engine cooling system aids in overall efficient
+and economical engine operation.
+Maintenance of Engine Cowling
+Of the total ram airflow approaching the airborne engine
+nacelle, only about 15 to 30 percent enters the cowling to
+provide engine cooling. The remaining air flows over the
+outside of the cowling. Therefore, the external shape of the
+cowl must be faired in a manner that permits the air to flow
+smoothly over the cowl with a minimum loss of energy.
+
+6-34
+
+===== PDF PAGE 281 =====
+1
+
+Cowl flap control level
+
+2
+
+Position bracket
+
+3
+
+Left cowl flap control
+
+4
+
+Cowl flaps
+
+5
+
+Right cowl flap control
+
+1
+
+2
+4
+
+5
+
+3
+
+Figure 6-54. Small aircraft cowl flaps.
+
+High pressure area
+Aircraft supplied cooling baffles
+
+Ram air
+
+Low pressure area
+Cooling air exit
+Cowl flaps
+
+Figure 6-55. Differential air cooling.
+
+6-35
+

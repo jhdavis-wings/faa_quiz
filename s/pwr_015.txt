@@ -1,0 +1,2729 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 4 (Engine Ignition & Electrical Systems), PDF pages 195-212
+
+===== PDF PAGE 195 =====
+Figure 4-60. Proper spark plug removal technique.
+
+Figure 4-58. Spark plug tray.
+
+straight out and in line with the centerline of the plug barrel.
+If a side load is applied, damage to the barrel insulator and
+the ceramic lead terminal may result. [Figure 4-59] If the
+lead cannot be removed easily in this manner, the neoprene
+collar may be stuck to the shielding barrel. Break loose the
+neoprene collar by twisting the collar as though it were a nut
+being unscrewed from a bolt.
+
+Damage to
+shielding barrel
+insulator at this
+point
+
+Figure 4-59. Improper lead removal technique.
+
+After the lead has been disconnected, select the proper size
+deep socket for spark plug removal. Apply steady pressure
+with one hand on the hinge handle, holding the socket in
+alignment with the other hand. Failure to hold the socket in
+correct alignment causes the socket to tilt to one side and
+damage the spark plug. [Figure 4-60]
+In the course of engine operation, carbon and other products of
+combustion are deposited across the spark plug and cylinder,
+and some carbon may even penetrate the lower threads of the
+shell. As a result, a high torque is generally required to break
+the spark plug loose. This factor imposes a shearing load on
+the shell section of the plug. After removing the plugs, they
+should be placed in a spark plug tray. [Figure 4-58]
+Spark Plug Reconditioning Service
+A visual inspection should be the first step in servicing
+spark plugs. The threads on the shielding barrel and on the
+shell that screws into the cylinder should be inspected for
+damaged or nicked threads. Inspect the lead shielding barrel
+for corrosion, nicks, and cracks. The firing end should be
+checked for insulator cracks, chips, and excessive electrode
+wear. The shell hex or wrench hex should be checked to see
+if it is rounded off or mutilated. If the spark plug passes the
+visual check, then it should be degreased using petroleum
+solvent. Take care to keep solvent out of the shielding barrel.
+Never soak the plugs in solvent. After drying the firing end
+of the plugs, remove the lead compound deposits using a
+vibrator cleaner. [Figure 4-61] The firing end can now be
+cleaned by using an abrasive blaster. This is usually done
+using a spark plug cleaner tester. [Figure 4-62] As the
+firing end is subjected to the abrasive blast, the plug should
+be rotated so all the area of the firing end is cleaned. After
+the abrasive blast, the firing end gets a thorough air blast to
+remove the abrasive material. The shielding barrel insulators
+may be cleaned with a cotton cloth or felt swab saturated with
+solvent, wood alcohol, or other approved cleaner. The firing
+end should be inspected using a light and a magnifying glass.
+If the plug passes the firing end visual and cleaning checks,
+then the spark gap should be set using a round thickness
+4-36
+
+===== PDF PAGE 196 =====
+Figure 4-61. Spark plug vibrator cleaner.
+
+bushing threads by sight where possible, and start the tap by
+hand until there is no possibility of it being cross-threaded in
+the bushing. To start the tap on installations where the spark
+plug hole is located deeper than can be reached by a clenched
+hand, it may be necessary to use a short length of hose slipped
+over the square end of the tap to act as an extension. When
+screwing the tap into the bushing, be sure that the full tap
+cutting thread reaches the bottom thread of the bushing. This
+removes carbon deposits from the bushing threads without
+removing bushing metal, unless the pitch diameter of the
+threads has contracted as the result of shrinkage or some
+other unusual condition. Replace the cylinder if, during the
+thread-cleaning process, the bushing is found to be loose,
+loosened in the cylinder, or the threads are cross-threaded
+or otherwise seriously damaged.
+Spark plug Heli-Coil inserts are cleaned with a round wire
+brush, preferably one having a diameter slightly larger than
+the diameter of the spark plug hole. A brush considerably
+larger than the hole may cause removal of material from
+the Heli-Coil proper or from the cylinder head surrounding
+the insert. Also, the brush should not disintegrate with use,
+allowing wire bristles to fall into the cylinder. Clean the insert
+by carefully rotating the wire brush with a power tool. When
+using the power brush, be careful that no material is removed
+from the spark plug gasket seating surface, since this may
+cause a change in the spark plug’s heat range, combustion
+leakage, and eventual cylinder damage. Never clean the HeliCoil inserts with a cleaning tap, since permanent damage to
+the insert results. If a Heli-Coil insert is damaged as a result
+of normal operation or while cleaning it, replace it according
+to the applicable manufacturer’s instructions.
+
+Figure 4-62. Spark plug cleaner tester.
+
+gauge. The spark plug should be tested by using a tester as
+shown in Figure 4-62, which passes a high-voltage through
+the spark plug and fire the gap. As this test takes place, the
+firing end of the plug is subjected to air pressure to simulate
+the pressure in the engine’s cylinder. If the firing pattern
+is good, the plug should be returned to its holder ready for
+installation in the engine.
+Inspection Prior to Installation
+Before installing new or reconditioned spark plugs in the
+engine cylinders, clean the spark plug bushings or HeliCoil inserts.
+Brass or stainless steel spark plug bushings are usually
+cleaned with a spark plug bushing cleanout tap. Before
+inserting the cleanout tap in the spark plug hole, fill the flutes
+of the tap, or channels between threads, with clean grease to
+prevent hard carbon or other material removed by the tap from
+dropping into the inside of the cylinder. Align the tap with the
+
+Using a lint-free rag and cleaning solvent, wipe the spark
+plug gasket seating surface of the cylinder to eliminate the
+possibility of dirt or grease being accidentally deposited on
+the spark plug electrodes at the time of installation.
+Before the new or reconditioned plugs are installed, they must
+be inspected for each of the following conditions:
+1.
+
+Ensure that the plug is of the approved type,
+as indicated by the applicable manufacturer’s
+instructions.
+
+2.
+
+Check for evidence of rust-preventive compound
+on the spark plug exterior and core insulator and on
+the inside of the shielding barrel. Rust-preventive
+compound accumulations are removed by washing
+the plug with a brush and cleaning solvent. It must
+then be dried with a dry air blast.
+
+3.
+
+Check both ends of the plug for nicked or cracked
+threads and any indication of cracks in the nose
+insulator.
+4-37
+
+===== PDF PAGE 197 =====
+4.
+
+Inspect the inside of the shielding barrel for cracks in
+the barrel insulator, and the center electrode contact
+for rust and foreign material that might cause poor
+electrical contact.
+
+5.
+
+Install a new spark plug gasket. When the thermocouple
+gasket is used, do not use an additional gasket.
+
+The gap setting should be checked with a round wirethickness gauge. [Figure 4-63] A flat-type gauge gives an
+incorrect clearance indication because the massive ground
+electrodes are contoured to the shape of the round center
+electrode. When using the wire thickness gauge, insert the
+gauge in each gap parallel to the centerline of the center
+electrode. If the gauge is tilted slightly, the indication is
+incorrect. Do not install a plug that does not have an air gap
+within the specified clearance range.
+Spark Plug Installation
+Prior to spark plug installation, carefully coat the first two
+or three threads from the electrode end of the shell with a
+graphite base antiseize compound. Prior to application, stir
+the antiseize compound to ensure thorough mixing. When
+applying the antiseize compound to the threads, be extremely
+careful that none of the compound gets on the ground,
+center electrodes, or on the nose of the plug, where it can
+spread to the ground or center electrode during installation.
+This precaution is mentioned because the graphite in the
+compound is an excellent electrical conductor and could
+cause permanent fouling.
+
+the gasket out of shape and distort and stretch the plug shell
+to a point where breakage would result during the next
+removal or installation. Shell stretching occurs as excessive
+torque continues to screw the lower end of the shell into the
+cylinder after the upper end has been stopped by the gasket
+shoulder. As the shell stretches, the seal between the shell
+and core insulator is opened, creating a loss of gas tightness
+or damage to the core insulator. After a spark plug has been
+seated with the fingers, use a torque wrench and tighten to
+the specified torque. [Figure 4-64]
+Spark Plug Lead Installation
+Before installing the spark plug lead, carefully wipe the
+terminal sleeve and the integral seal with a cloth moistened
+with acetone or an approved solvent. After the plug lead is
+cleaned, inspect it for cracks and scratches. If the terminal
+sleeve is damaged or heavily stained, replace it.
+Application of a light coating of an insulating material to the
+outer surface of the terminal sleeve, as well as filling the space
+occupied by the contact spring, is sometimes recommended.
+By occupying the space in the electrical contact area of the
+shielding barrel, the insulating material prevents moisture
+from entering the contact area and shorting the spark plug.
+Installation with Normal Torque
+
+Installation with Excess Torque
+
+Stretching occurs over
+this length
+
+To install a spark plug, start it into the cylinder without using
+a wrench of any kind, and turn it until the spark plug is seated
+on the gasket. If you can screw the plug into the cylinder with
+comparative ease using your fingers, this indicates good,
+clean threads. In this case, only a small amount of additional
+tightening torque is needed to compress the gasket to form
+a gastight seal. If a high torque is needed to install the plug,
+dirty or damaged threads on either the plug or plug bushing
+are indicated. The use of excessive torque might compress
+
+Seal for combustion gas intact
+Seal is opened at this point
+Figure 4-63. Wire gap gauge.
+
+Figure 4-64. Effect of excessive torque in installing a spark plug.
+
+4-38
+
+===== PDF PAGE 198 =====
+Some manufacturers recommend the use of such insulating
+compounds only when moisture in the ignition system
+becomes a problem, and others have discontinued the use
+of such materials.
+After inspection of the spark plug lead, slip the lead into
+the shielding barrel of the plug with care. Then, tighten the
+spark plug coupling elbow nut with the proper tool. Most
+manufacturers’ instructions specify the use of a tool designed
+to help prevent an overtorque condition. After the coupling
+nut is tightened, avoid checking for tightness by twisting the
+body of the elbow.
+After all plugs have been installed, torqued, and the leads
+properly installed, start the engine and perform a complete
+ignition system operational check.
+Breaker Point Inspection
+Inspection of the magneto consists essentially of a periodic
+breaker point and dielectric inspection. After the magneto
+has been inspected for security of mounting, remove the
+magneto cover, or breaker cover, and check the cam for
+proper lubrication. Under normal conditions, there is usually
+ample oil in the felt oiler pad of the cam follower to keep
+the cam lubricated between overhaul periods. However,
+during the regular routine inspection, examine the felt pad
+on the cam follower to be sure it contains sufficient oil for
+cam lubrication. Make this check by pressing the thumbnail
+against the oiler pad. If oil appears on the thumbnail, the
+pad contains sufficient oil for cam lubrication. If there is no
+evidence of oil on the fingernail, apply one drop of a light
+aircraft engine oil to the bottom felt pad and one drop to the
+upper felt pad of the follower assembly. [Figure 4-65]
+After application, allow at least 15 minutes for the felt to
+absorb the oil. At the end of 15 minutes, blot off any excess
+oil with a clean, lint-free cloth. During this operation, or any
+time the magneto cover is off, use extreme care to keep the
+breaker compartment free of oil, grease, or engine cleaning
+solvents, since each of these have an adhesiveness that
+collects dirt and grime that could foul an otherwise good set
+of breaker contact points.
+One drop here
+
+After the felt oiler pad has been inspected, serviced, and
+found to be satisfactory, visually inspect the breaker contacts
+for any condition that may interfere with proper operation
+of the magneto. If the inspection reveals an oily or gummy
+substance on the sides of the contacts, swab the contacts with
+a flexible wiper, such as a pipe cleaner dipped in acetone
+or other approved solvent. By forming a hook on the end
+of the wiper, ready access can be gained to the back side of
+the contacts.
+To clean the contact mating surfaces, force open the breaker
+points enough to admit a small swab. Whether spreading the
+points for purposes of cleaning or checking the surfaces for
+condition, always apply the opening force at the outer end of
+the mainspring and never spread the contacts more than 1⁄16
+inch. If the contacts are spread wider than recommended, the
+mainspring, the spring carrying the movable contact point,
+is likely to take a permanent set. If the mainspring takes a
+permanent set, the movable contact point loses some of its
+closing tension and the points then either bounce or float,
+preventing the normal induction buildup of the magneto.
+A swab can be made by wrapping a piece of linen tape or
+a small piece of lint-free cloth over one of the leaves of
+a clearance gauge and dipping the swab in an approved
+solvent. Pass the swab between the carefully separated
+contact surfaces until the surfaces are clean. During this
+entire operation, take care that drops of solvent do not fall
+on lubricated parts, such as the cam, follower block, or felt
+oiler pad.
+To inspect the breaker contact surfaces, it is necessary to
+know what a normal operating set of contacts looks like,
+what surface condition is considered as permissible wear, and
+what surface condition is cause for dressing or replacement.
+The probable cause of an abnormal surface condition can be
+determined from the contact appearance. The normal contact
+surface has a dull gray, sandblasted, almost rough appearance
+over the area where electrical contact is made. [Figure 4-66]
+This gray, sandblasted appearance indicates that the points
+have worn in and have mated to each other and are providing
+the best possible electrical contact. This does not imply that
+this is the only acceptable contact surface condition. Slight,
+smooth-surfaced irregularities, without deep pits or high
+peaks, such as shown in Figure 4-67, are considered normal
+wear and are not cause for replacement.
+However, when wear advances to a point where the slight,
+smooth irregularities develop into well-defined peaks
+extending noticeably above the surrounding surface, the
+breaker contacts must be replaced. [Figure 4-68]
+
+And one drop here
+Figure 4-65. Felt lubricator.
+
+Unfortunately, when a peak forms on one contact, the mating
+
+4-39
+
+===== PDF PAGE 199 =====
+Therefore, if the peak is quite high or the pit quite deep,
+remove and replace them with a new assembly. A comparison
+between Figures 4-67 and 4-68 will help to draw the line
+between minor irregularities and well-defined peaks.
+
+Figure 4-66. Normal contact surface.
+
+Figure 4-67. Points with normal irregularities.
+
+Figure 4-68. Points with well-defined peaks.
+
+contact has a corresponding pit or hole. This pit is more
+troublesome than the peak because it penetrates the platinum
+pad of the contact surface. It is sometimes difficult to judge
+whether a contact surface is pitted deeply enough to require
+replacement because this depends on how much of the
+original platinum is left on the contact surface. The danger
+arises from the possibility that the platinum pad may already
+be thin as a result of long service life and previous dressings.
+At overhaul facilities, a gauge is used to measure the
+remaining thickness of the pad, and no difficulty in
+determining the condition of the pad exists. But at line
+maintenance activities, this gauge is generally unavailable.
+
+Some examples of possible breaker contact surface conditions
+are illustrated in Figure 4-69. Item A illustrates an example
+of erosion or wear called frosting. This condition results from
+an open-circuited condenser and is easily recognized by the
+coarse, crystalline surface and the black “sooty” appearance
+of the sides of the points. The lack of effective condenser
+action results in an arc of intense heat being formed each
+time the points open. This, together with the oxygen in the
+air, rapidly oxidizes and erodes the platinum surface of the
+points, producing the coarse, crystalline, or frosted appearance.
+Properly operating points have a fine-grained, frosted, or
+silvery appearance and should not be confused with the coarsegrained and sooty point caused by faulty condenser action.
+Figure 4-69B and C illustrate badly pitted points. In the early
+stage, these points are identified by a fairly even contact edge
+and minute pits or pocks in or near the center of the contact
+surface with an overall smoky appearance. In more advanced
+stages, the pit may develop into a large, jagged crater, and
+eventually the entire contact surface takes on a burned, black,
+and crumpled appearance. Pitted points, as a general rule,
+are caused by dirt and impurities on the contact surfaces. If
+points are excessively pitted, a new breaker assembly must
+be installed.
+Figure 4-69E illustrates a built-up point that can be
+recognized by the mound of metal that has been transferred
+from one point to another. Buildup, like the other conditions
+mentioned, results primarily from the transfer of contact
+material by means of the arc as the points separate. But, unlike
+the others, there is no burning or oxidation in the process
+because of the closeness of the pit of one point and the buildup
+of the other. This condition may result from excessive breaker
+point spring tension that retards the opening of the points or
+causes a slow, lazy break. It can also be caused by a poor
+primary condenser or a loose connection at the primary coil.
+If excessive buildup has occurred, a new breaker assembly
+must be installed.
+Figure 4-69F illustrates oily points that can be recognized
+by their smoked and smudged appearance and by the lack of
+any of the previously mentioned irregularities. This condition
+may be the result of excessive cam lubrication or of oil
+vapors that may come from within or outside the magneto.
+A smoking or fuming engine, for example, could produce the
+oil vapors. These vapors then enter the magneto through the
+magneto ventilator and pass between and around the points.
+These conductive vapors produce arcing and burning on the
+
+4-40
+
+===== PDF PAGE 200 =====
+A
+
+B
+
+C
+D
+
+E
+
+F
+
+Figure 4-69. Examples of contact surface conditions.
+
+contact surfaces. The vapors also adhere to the other surfaces
+of the breaker assembly and form the sooty deposit. If so,
+install new breaker assembly.
+Dielectric Inspection
+Another phase of magneto inspection is the dielectric
+inspection. This inspection is a visual check for cleanliness
+and cracks. If inspection reveals that the coil cases,
+condensers, distributor rotor, or blocks are oily or dirty or
+have any trace of carbon tracking, they require cleaning and
+possibly waxing to restore their dielectric qualities.
+Clean all accessible condensers and coil cases that contain
+condensers by wiping them with a lint-free cloth moistened
+with acetone. Many parts of this type have a protective
+coating. This protective coating is not affected by acetone, but
+it may be damaged by scraping or by the use of other cleaning
+fluids. Never use unapproved cleaning solvents or improper
+cleaning methods. Also, when cleaning condensers or parts
+that contain condensers, do not dip, submerge, or saturate
+the parts in any solution because the solution used may seep
+inside the condenser and short out the plates.
+Coil cases, distributor blocks, distributor rotors, and other
+dielectric parts of the ignition system are treated with a wax
+coating when they are new and again at overhaul. The waxing
+of dielectrics aids their resistance to moisture absorption,
+carbon tracking, and acid deposits. When these parts become
+dirty or oily, some of the original protection is lost, and carbon
+tracking may result.
+If any hairline carbon tracks or acid deposits are present on the
+surface of the dielectric, immerse the part in approved cleaning
+solvent and scrub it vigorously with a stiff bristle brush. When
+the carbon track or acid deposits have been removed, wipe the
+
+part with a clean, dry cloth to remove all traces of the solvent
+used for cleaning. Then, coat the part with a special ignitiontreating wax. After wax treating the part, remove excess wax
+deposits and reinstall the part in the magneto.
+Ignition Harness Maintenance
+Although the ignition harness is simple, it is a vital link
+between the magneto and spark plug. Because the harness
+is mounted on the engine and exposed to the atmosphere, it
+is vulnerable to heat, moisture, and the effects of changing
+altitude. These factors, plus aging insulation and normal
+gap erosion, work against efficient engine operation. The
+insulation may break down on a wire inside the harness and
+allow the high-voltage to leak through the insulation to the
+harness shielding instead of going to the spark plug. Open
+circuits may result from broken wires or poor connections.
+A bare wire may be in physical contact with the shielding,
+or two wires may be shorted together.
+Any serious defect in an individual lead prevents the hightension impulse from reaching the spark plug to which the
+lead is connected. As a result, this plug will not fire. When
+only one spark plug is firing in a cylinder, the charge is
+not consumed as quickly as it would be if both plugs were
+firing. This factor causes the peak pressure of combustion to
+occur later on in the power stroke. If the peak pressure in the
+cylinder occurs later, a loss of power in that cylinder results.
+However, the power loss from a single cylinder becomes a
+minor factor when the effects of a longer burning time is
+considered. A longer burning time overheats the affected
+cylinder, causing detonation, possible pre-ignition, and
+perhaps permanent damage to the cylinder.
+High-Tension Ignition Harness Faults
+Perhaps the most common and most difficult high-tension
+ignition system faults to detect are high-voltage leaks. This
+is leakage from the core conductor through insulation to the
+ground of the shielded manifold. A certain small amount of
+leakage exists even in brand new ignition cable during normal
+operation. Various factors combine to produce first a high rate
+of leakage and then complete breakdown. Of these factors,
+moisture in any form is probably the worst.
+Under high-voltage stress, an arc forms and burns a path
+across the insulator where the moisture exists. If there is
+gasoline, oil, or grease present, it breaks down and forms
+carbon. The burned path is called a carbon track, since it
+is actually a path of carbon particles. With some types of
+insulation, it may be possible to remove the carbon track
+and restore the insulator to its former useful condition. This
+is generally true of porcelain, ceramics, and some of the
+plastics because these materials are not hydrocarbons and
+any carbon track forming on them is the result of a dirt film
+that can be wiped away.
+4-41
+
+===== PDF PAGE 201 =====
+Differences in location and amount of leakage produce
+different indications of malfunction during engine operation.
+Indications are generally misfiring or crossfiring. The
+indication may be intermittent, changing with manifold
+pressure or with climate conditions. An increase in manifold
+pressure increases the compression pressure and the resistance
+of the air across the air gap of the spark plugs. An increase in
+the resistance at the air gap opposes the spark discharge and
+produces a tendency for the spark to discharge at some weak
+point in the insulation. A weak spot in the harness may be
+aggravated by moisture collecting in the harness manifold.
+With moisture present, continued engine operation causes the
+intermittent faults to become permanent carbon tracks. Thus,
+the first indication of ignition harness unserviceability may
+be engine misfiring or roughness caused by partial leakage
+of the ignition voltage.
+Figure 4-70 demonstrates four faults that may occur. Fault A
+shows a short from one cable conductor to another. This fault
+usually causes misfiring, since the spark is short circuited to
+a plug in a cylinder where the cylinder pressure is low. Fault
+B illustrates a cable with a portion of its insulation scuffed
+away. Although the insulation is not completely broken
+down, more than normal leakage exists, and the spark plug
+to which this cable is connected may be lost during takeoff
+when the manifold pressure is quite high. Fault C is the
+result of condensation collecting in the lowest portion of
+the ignition manifold. This condensation may completely
+evaporate during engine operation, but the carbon track that
+is formed by the initial flashover remains to allow continued
+flashover whenever high manifold pressure exists. Fault
+D may be caused by a flaw in the insulation or the result
+of a weak spot in the insulation that is aggravated by the
+presence of moisture. However, since the carbon track is in
+
+direct contact with the metal shielding, it probably results in
+flashover under all operating conditions.
+Harness Testing
+The electrical test of the ignition harness checks the condition
+or effectiveness of the insulation around each cable in the
+harness. [Figure 4-71] This test involves application of a
+definite voltage to each lead, and then measurement with
+a very sensitive meter of the amount of current leakage
+between the lead and the grounded harness manifold. This
+reading, when compared with known specifications, becomes
+a guide to the condition or serviceability of the cable. As
+mentioned earlier, there is a gradual deterioration of flexible
+insulating material. When new, the insulation has a low rate
+of conductivity; so low that, under several thousand volts
+of electrical pressure, the current leakage is only a very few
+millionths of an ampere. Natural aging causes an extremely
+slow, but certain, change in the resistance of insulating
+material, allowing an ever-increasing rate of current leakage.
+The procedures for testing ignition harness and leads were
+discussed earlier in this chapter.
+
+CABLE TEST
+
+ER
+
+MODEL E5
+
+A
+
+PUSH TO TE
+
+ST
+
+12 Volt
+
+24 Volt
+
+B
+
+C
+
+D
+
+Figure 4-70. Cross section of an ignition harness.
+
+Figure 4-71. Harness tester.
+
+4-42
+
+===== PDF PAGE 202 =====
+Turbine Engine Ignition Systems
+Since turbine ignition systems are operated mostly for a
+brief period during the engine-starting cycle, they are, as a
+rule, more trouble-free than the typical reciprocating engine
+ignition system. The turbine engine ignition system does
+not need to be timed to spark during an exact point in the
+operational cycle. It is used to ignite the fuel in the combustor
+and then it is switched off. Other modes of turbine ignition
+system operation, such as continuous ignition that is used
+at a lower voltage and energy level, are used for certain
+flight conditions.
+Continuous ignition is used in case the engine were to flame
+out. This ignition could relight the fuel and keep the engine
+from stopping. Examples of critical flight modes that use
+continuous ignition are takeoff, landing, and some abnormal
+and emergency situations.
+Most gas turbine engines are equipped with a high-energy,
+capacitor-type ignition system and are air cooled by fan
+airflow. Fan air is ducted to the exciter box, and then flows
+around the igniter lead and surrounds the igniter before
+flowing back into the nacelle area. Cooling is important when
+continuous ignition is used for some extended period of time.
+Gas turbine engines may be equipped with an electronic-type
+ignition system, which is a variation of the simpler capacitortype system.
+The typical turbine engine is equipped with a capacitor-type,
+or capacitor discharge, ignition system consisting of two
+identical independent ignition units operating from a common
+low-voltage (DC) electrical power source: the aircraft battery,
+115AC, or its permanent magnet generator. The generator
+is turned directly by the engine through the accessory gear
+box and produces power any time the engine is turning.
+The fuel in turbine engines can be ignited readily in ideal
+atmospheric conditions, but since they often operate in the
+low temperatures of high altitudes, it is imperative that the
+system be capable of supplying a high heat intensity spark.
+Thus, a high-voltage is supplied to arc across a wide igniter
+spark gap, providing the ignition system with a high degree
+of reliability under widely varying conditions of altitude,
+atmospheric pressure, temperature, fuel vaporization, and
+input voltage.
+A typical ignition system includes two exciter units, two
+transformers, two intermediate ignition leads, and two hightension leads. Thus, as a safety factor, the ignition system
+is actually a dual system designed to fire two igniter plugs.
+[Figure 4-72]
+Figure 4-73 is a functional schematic diagram of a typical
+older style capacitor-type turbine ignition system. A 24-volt
+
+Exciter-to-igniter plug cable (2 locations)
+
+Igniter plug (2 locations)
+
+Ignition exciters
+
+Figure 4-72. Turbine ignition system components.
+
+DC input voltage is supplied to the input receptacle of the
+exciter unit. Before the electrical energy reaches the exciter
+unit, it passes through a filter that prevents noise voltage
+from being induced into the aircraft electrical system. The
+low-voltage input power operates a DC motor that drives
+one multilobe cam and one single-lobe cam. At the same
+time, input power is supplied to a set of breaker points that
+are actuated by the multilobe cam.
+From the breaker points, a rapidly interrupted current is
+delivered to an auto transformer. When the breaker closes,
+the flow of current through the primary winding of the
+transformer establishes a magnetic field. When the breaker
+opens, the flow of current stops, and the collapse of the field
+induces a voltage in the secondary of the transformer. This
+voltage causes a pulse of current to flow into the storage
+capacitor through the rectifier, which limits the flow to a
+single direction. With repeated pulses, the storage capacitor
+assumes a charge, up to a maximum of approximately 4
+joules. (Note: 1 joule per second equals 1 watt.) The storage
+capacitor is connected to the spark igniter through the
+triggering transformer and a contactor, normally open.
+When the charge on the capacitor has built up, the contactor
+is closed by the mechanical action of the single-lobe cam.
+A portion of the charge flows through the primary of the
+triggering transformer and the capacitor connected with it.
+This current induces a high-voltage in the secondary, which
+ionizes the gap at the spark igniter.
+When the spark igniter is made conductive, the storage
+capacitor discharges the remainder of its accumulated energy
+along with the charge from the capacitor in series with the
+primary of the triggering transformer. The spark rate at the
+4-43
+
+===== PDF PAGE 203 =====
+Power source
+Storage capacitor
+
+To
+
+r
+
+he
+
+ot
+
+Rectifier
+
+r
+
+ite
+
+c
+ex
+
+Input lead
+
+Auto transformer
+Breaker
+
+Noise filter
+
+Contactor
+
+Multilobe cam
+
+Motor
+
+Single-lobe cam
+
+Trigger capacitor
+
+Spark igniter
+
+Triggering transformer
+
+Bleeder resistor
+
+Figure 4-73. Capacitor-type ignition system schematic.
+
+spark igniter varies in proportion to the voltage of the DC
+power supply that affects the rpm of the motor. However,
+since both cams are geared to the same shaft, the storage
+capacitor always accumulates its store of energy from the
+same number of pulses before discharge. The employment
+of the high-frequency triggering transformer, with a lowreactance secondary winding, holds the time duration of the
+discharge to a minimum. This concentration of maximum
+energy in minimum time achieves an optimum spark for
+ignition purposes, capable of blasting carbon deposits and
+vaporizing globules of fuel.
+All high-voltage in the triggering circuits is completely
+isolated from the primary circuits. The complete exciter is
+hermetically sealed, protecting all components from adverse
+operating conditions, eliminating the possibility of flashover
+at altitude due to pressure change. This also ensures shielding
+
+against leakage of high-frequency voltage interfering with
+the radio reception of the aircraft.
+Capacitor Discharge Exciter Unit
+This capacity-type system provides ignition for turbine
+engines. Like other turbine ignition systems, it is required
+only for starting the engine; once combustion has begun, the
+flame is continuous. [Figure 4-74]
+The energy is stored in capacitors. Each discharge circuit
+incorporates two storage capacitors; both are located in the
+exciter unit. The voltage across these capacitors is stepped
+up by transformer units. At the instant of igniter plug firing,
+the resistance of the gap is lowered sufficiently to permit the
+larger capacitor to discharge across the gap. The discharge
+of the second capacitor is of low-voltage, but of very high
+4-44
+
+===== PDF PAGE 204 =====
+EN
+ID
+T
+
+115 VAC input
+
+Cooling air
+
+G
+
+NIN
+
+R
+WA
+
+Exciter-to-ignitor plug cable connector
+
+ENG IGN
+A (AIRBUS)
+1(BOEING)
+A(DAC)
+
+Fan cooling air
+from cables
+
+TOP
+IGNITER
+PLUG
+
+Anti-shock mount
+
+Bracket
+
+Fan cooling air
+from cables
+
+ENG IGN
+)
+A (AIRBUS
+1(BOEING)
+A(DAC)
+
+Coolin
+
+g air
+
+TOP
+IGNITER
+PLUG
+
+Exciter-to-ignitor plug cable connector
+115 VAC input
+
+Cooling air
+
+Figure 4-74. Fan air-cooled exciter.
+
+energy. The result is a spark of great heat intensity, capable
+of not only igniting abnormal fuel mixtures but also burning
+away any foreign deposits on the plug electrodes.
+The exciter is a dual unit that produces sparks at each of the
+two igniter plugs. A continuous series of sparks is produced
+until the engine starts. The power is then cut off, and the
+plugs do not fire while the engine is operating other than on
+continuous ignition for certain flight conditions. This is why
+the exciters are air cooled to prevent overheating during long
+use of continuous ignition.
+Igniter Plugs
+The igniter plug of a turbine engine ignition system differs
+considerably from the spark plug of a reciprocating engine
+ignition system. [Figure 4-75] Its electrode must be
+capable of withstanding a current of much higher energy
+than the electrode of a conventional spark plug. This high
+energy current can quickly cause electrode erosion, but the
+short periods of operation minimize this aspect of igniter
+maintenance. The electrode gap of the typical igniter plug
+is designed much larger than that of a spark plug since the
+operating pressures are much lower and the spark can arc
+more easily than in a spark plug. Finally, electrode fouling,
+
+common to the spark plug, is minimized by the heat of the
+high-intensity spark.
+Figure 4-76 is a cutaway illustration of a typical annular-gap
+igniter plug, sometimes referred to as a long reach igniter
+because it projects slightly into the combustion chamber liner
+to produce a more effective spark.
+Another type of igniter plug, the constrained-gap plug, is used
+in some types of turbine engines. [Figure 4-77] It operates
+at a much cooler temperature because it does not project into
+the combustion-chamber liner. This is possible because the
+spark does not remain close to the plug, but arcs beyond the
+face of the combustion chamber liner.
+
+Turbine Ignition System Inspection &
+Maintenance
+Maintenance of the typical turbine engine ignition system
+consists primarily of inspection, test, troubleshooting,
+removal, and installation.
+Inspection
+Inspection of the ignition system normally includes the
+following:
+4-45
+
+===== PDF PAGE 205 =====
+Gasket
+
+Lower shell
+Center electrode
+
+High-voltage air surface gap
+
+Upper shell
+
+High-voltage surface gap
+Cement
+Sealing wire
+Gasket
+
+Terminal screw
+
+High-voltage recessed surface gap
+
+Insulator
+Low-voltage shunted surface gap
+Figure 4-75. Igniter plugs.
+
+•
+
+Ignition lead terminal inspection; ceramic terminal
+should be free of arcing, carbon tracking and cracks.
+
+•
+
+The grommet seal should be free of flashover and
+carbon tracking. [Figure 4-78]
+
+•
+
+The wire insulation should remain flexible with no
+evidence of arcing through the insulation.
+
+•
+
+Inspect the complete system for security of component
+mounting, shorts or high-voltage arcing, and loose
+connections.
+
+Check System Operation
+The igniter can be checked by listening for a snapping noise
+as the engine begins to turn, driven by the starter. Though
+the following procedure is not common practice and should
+only be used when the maintenance manual suggests it as
+an alternative method, the igniter can also be checked by
+removing it and activating the start cycle, noting the spark
+across the igniter.
+Caution: The high energy level and voltage associated
+with turbine ignition systems can cause injury or death to
+personnel coming into contact with the activated system.
+
+Coupling nut
+
+Figure 4-76. Typical annular gap igniter plug.
+
+Repair
+Tighten and secure as required and replace faulty components
+and wiring. Secure, tighten, and safety as required.
+
+Removal, Maintenance, & Installation of
+Ignition System Components
+The following instructions are typical procedures suggested
+by many gas turbine manufacturers. These instructions are
+applicable to the engine ignition components. Always consult
+the applicable manufacturer’s instructions before performing
+any ignition system maintenance.
+Ignition System Leads
+1.
+
+Remove clamps securing ignition leads to engine.
+
+2.
+
+Remove safety wire and disconnect electrical
+connectors from exciter units.
+4-46
+
+===== PDF PAGE 206 =====
+Evidence of arcing
+
+Evidence of flashover
+
+Figure 4-78. Flashover inspection.
+
+from the ignition exciter unit and wait at least one
+minute to permit the stored energy to dissipate before
+disconnecting the high-voltage cable from the igniter.
+
+Figure 4-77. Constrained gap igniter plug.
+
+3.
+
+Remove safety wire and disconnect lead from igniter
+plug.
+
+4.
+
+Discharge any electrical charge stored in the system
+by grounding and remove ignition leads from engine.
+
+5.
+
+Clean leads with approved dry cleaning solvent.
+
+6.
+
+Inspect connectors for damaged threads, corrosion,
+cracked insulators, and bent or broken connector pins.
+
+7.
+
+Inspect leads for worn or burned areas, deep cuts,
+fraying, and general deterioration.
+
+8.
+
+Perform continuity check of ignition leads.
+
+9.
+
+Reinstall leads, reversing the removal procedure.
+
+Igniter Plugs
+1.
+
+Disconnect ignition leads from igniter plugs. A good
+procedure to perform before disconnecting the ignition
+lead is to disconnect the low-voltage primary lead
+
+2.
+
+Remove igniter plugs from mounts.
+
+3.
+
+Inspect igniter plug gap surface material. Before
+inspection, remove residue from the shell exterior
+using a dry cloth. Do not remove any deposits or
+residue from the firing end of the low-voltage igniters.
+High-voltage igniters can have the firing end cleaned
+to aid in inspection. [Figure 4-79]
+
+4.
+
+Inspect for fretting of igniter plug shank.
+
+5.
+
+Replace an igniter plug whose surface is granular,
+chipped, or otherwise damaged.
+
+6.
+
+Replace dirty or carbonized igniter plugs.
+
+7.
+
+Install igniter plugs in mounting pads.
+
+8.
+
+Check for proper clearance between chamber liner
+and igniter plug.
+
+9.
+
+Tighten igniter plugs to manufacturer’s specified
+torque.
+
+10. Safety wire igniter plugs.
+
+Powerplant Electrical Systems
+The satisfactory performance of any modern aircraft depends
+to a great degree on the continuing reliability of electrical
+systems and subsystems. Improperly or carelessly installed
+or maintained wiring can be a source of both immediate
+and potential danger. The continued proper performance of
+electrical systems depends upon the knowledge and technique
+of the mechanic who installs, inspects, and maintains the
+electrical wire and cable of the electrical systems.
+The procedures and practices outlined in this section are
+general recommendations and are not intended to replace the
+manufacturer’s instructions in approved practices.
+4-47
+
+===== PDF PAGE 207 =====
+Gap
+Description
+
+Typical Firing
+End Configuration
+
+High-voltage
+air surface gap
+
+High-voltage
+surface gap
+
+High-voltage
+recessed
+surface gap
+
+Clean
+Firing
+End
+
+Wire single solid conductor
+
+Conductors
+
+Yes
+
+Solid conductor
+
+Standed conductor
+
+A
+
+B
+
+Yes
+
+Yes
+
+Figure 4-80. Two types of aircraft wire.
+
+and the smallest is number 40. Larger and smaller sizes are
+manufactured but are not commonly used.
+Low-voltage
+shunted
+surface gap
+
+No
+
+Figure 4-79. Firing end cleaning.
+
+For the purpose of this discussion, a wire is described as a
+single solid conductor, or a stranded conductor, covered with
+an insulating material. [Figure 4-80] The term “cable,” as
+used in aircraft electrical installations, includes the following:
+1.
+
+Multiconductor cable—two or more separately
+insulated conductors in the same jacket.
+
+2.
+
+Twisted pair—two or more separately insulated
+conductors twisted together.
+
+3.
+
+Shielded cable—one or more insulated conductors,
+covered with a metallic braided shield.
+
+4.
+
+Radio frequency cable—a single, insulated center
+conductor with a metallic braided outer conductor.
+The concentricity of the center conductor and the outer
+conductor is carefully controlled during manufacture
+to ensure that they are coaxial.
+
+Wire Size
+Wire is manufactured in sizes according to a standard known
+as the American wire gauge (AWG). The wire diameters
+become smaller as the gauge numbers become larger. The
+largest wire size shown in Figure 4-81 is number 0000,
+
+Wire size may be determined by using a wire gauge.
+[Figure 4-82] This type of gauge measures wires ranging
+in size from number 0 (zero) to number 36. The wire to be
+measured is inserted in the smallest slot that just accommodates
+the bare wire. The gauge number corresponding to that slot
+indicates the wire size. The slot has parallel sides and should
+not be confused with the semicircular opening at the end of
+the slot. The opening simply permits the free movement of
+the wire all the way through the slot.
+Gauge numbers are useful in comparing the diameter of
+wires, but not all types of wire or cable can be accurately
+measured with a gauge. Large wires are usually stranded to
+increase their flexibility. In such cases, the total area can be
+determined by multiplying the area of one strand, usually
+computed in circular mils (commonly used as a reference to
+wire size) when diameter or gauge number is known by the
+number of strands in the wire or cable.
+Factors Affecting the Selection of Wire Size
+Several factors must be considered in selecting the size of
+wire for transmitting and distributing electric power. One
+factor is the allowable power loss (PR loss) in the line. This
+loss represents electrical energy converted into heat. The
+use of large conductors reduces the resistance and therefore
+the PR loss. However, large conductors are more expensive
+initially than small ones; they are heavier and require more
+substantial supports.
+A second factor is the permissible voltage drop (IR drop)
+in the line. If the source maintains a constant voltage at
+4-48
+
+===== PDF PAGE 208 =====
+Cross Section
+
+Ohms per 1,000 ft
+
+Gauge Number
+
+Diameter (mils)
+
+Circular (mils)
+
+Square inches
+
+25 °C (77 °F)
+
+65 °C (149 °F)
+
+0000
+
+460.0
+
+212,000.0
+
+0.166
+
+0.0500
+
+0.0577
+0.0727
+
+000
+
+410.0
+
+168,000.0
+
+0.132
+
+0.0630
+
+00
+
+365.0
+
+133,000.0
+
+0.105
+
+0.0795
+
+0.0917
+
+0
+
+325.0
+
+106,000.0
+
+0.0829
+
+0.100
+
+0.166
+
+1
+
+289.0
+
+83,700.0
+
+0.0657
+
+0.126
+
+0.146
+
+2
+
+258.0
+
+66,400.0
+
+0.0521
+
+0.159
+
+0.184
+
+3
+
+229.0
+
+52,600.0
+
+0.0413
+
+0.201
+
+0.232
+
+4
+
+204.0
+
+41,700.0
+
+0.0328
+
+0.253
+
+0.292
+
+5
+
+182.0
+
+33,100.0
+
+0.0260
+
+0.319
+
+0.369
+0.465
+
+6
+
+162.0
+
+26,300.0
+
+0.0206
+
+0.403
+
+7
+
+144.0
+
+20,800.0
+
+0.0164
+
+0.508
+
+0.586
+
+8
+
+128.0
+
+16,500.0
+
+0.0130
+
+0.641
+
+0.739
+
+9
+
+114.0
+
+13,100.0
+
+0.0103
+
+0.808
+
+0.932
+
+10
+
+102.0
+
+10,400.0
+
+0.00815
+
+1.02
+
+1.18
+
+11
+
+91.0
+
+8,230.0
+
+0.00647
+
+1.28
+
+1.48
+
+12
+
+81.0
+
+6,530.0
+
+0.00513
+
+1.62
+
+1.87
+
+13
+
+72.0
+
+5,180.0
+
+0.00407
+
+2.04
+
+2.36
+
+2.58
+
+2.97
+
+14
+
+64.0
+
+4,110.0
+
+0.00323
+
+15
+
+57.0
+
+3,260.0
+
+0.00256
+
+3.25
+
+3.75
+
+16
+
+51.0
+
+2,580.0
+
+0.00203
+
+4.09
+
+4.73
+
+17
+
+45.0
+
+2,050.0
+
+0.00161
+
+5.16
+
+5.96
+
+18
+
+40.0
+
+1,620.0
+
+0.00128
+
+6.51
+
+7.51
+
+19
+
+36.0
+
+1,290.0
+
+0.00101
+
+8.21
+
+9.48
+
+20
+
+32.0
+
+1,020.0
+
+0.000802
+
+10.40
+
+11.90
+
+21
+
+28.5
+
+810.0
+
+0.000636
+
+13.10
+
+15.10
+
+16.50
+
+19.00
+
+22
+
+25.3
+
+642.0
+
+0.000505
+
+23
+
+22.6
+
+509.0
+
+0.000400
+
+20.80
+
+24.00
+
+24
+
+20.1
+
+404.0
+
+0.000317
+
+26.20
+
+30.20
+
+25
+
+17.9
+
+320.0
+
+0.000252
+
+33.00
+
+38.10
+
+26
+
+15.9
+
+254.0
+
+0.000200
+
+41.60
+
+48.00
+
+27
+
+14.2
+
+202.0
+
+0.000158
+
+52.50
+
+60.60
+
+28
+
+12.6
+
+160.0
+
+0.000126
+
+66.20
+
+76.40
+
+29
+
+11.3
+
+127.0
+
+0.0000995
+
+83.40
+
+96.30
+
+105.00
+
+121.00
+
+30
+
+10.0
+
+101.0
+
+0.0000789
+
+31
+
+8.9
+
+79.7
+
+0.0000626
+
+133.00
+
+153.00
+
+32
+
+8.0
+
+63.2
+
+0.0000496
+
+167.00
+
+193.00
+
+33
+
+7.1
+
+50.1
+
+0.0000394
+
+211.00
+
+243.00
+
+34
+
+6.3
+
+39.8
+
+0.0000312
+
+266.00
+
+307.00
+
+35
+
+5.6
+
+31.5
+
+0.0000248
+
+335.00
+
+387.00
+
+36
+
+5.0
+
+25.0
+
+0.0000196
+
+423.00
+
+488.00
+
+37
+
+4.5
+
+19.8
+
+0.0000156
+
+533.00
+
+616.00
+
+673.00
+
+776.00
+
+38
+
+4.0
+
+15.7
+
+0.0000123
+
+39
+
+3.5
+
+12.5
+
+0.0000098
+
+848.00
+
+979.00
+
+40
+
+3.1
+
+9.9
+
+0.0000078
+
+1.070.00
+
+1,230.00
+
+Figure 4-81. American wire gauge for standard annealed solid copper wire.
+
+4-49
+
+===== PDF PAGE 209 =====
+types of insulation. The chart in Figure 4-83 shows the current
+carrying capacity and resistance of copper wire continuous
+duty wire in bundles at various temperature ratings.
+
+36
+
+35
+
+6
+
+5
+
+34
+
+Factors Affecting Selection of Conductor Material
+Although silver is the best conductor, its cost limits its use to
+special circuits where a substance with high conductivity is
+needed. The two most generally used conductors are copper
+and aluminum. Each has characteristics that make its use
+advantageous under certain circumstances; also, each has
+certain disadvantages.
+
+4
+
+7
+
+8
+
+9
+
+33
+
+3
+
+10
+
+11
+
+2
+
+12
+
+1
+
+32
+
+13 14 15
+17
+
+31
+
+16
+
+0
+
+18
+
+19
+20
+
+21
+
+22
+
+30
+
+23
+
+24
+
+25
+
+26
+
+27
+
+28
+
+29
+
+Wire
+
+Figure 4-82. Wire gauge.
+
+the input to the line, any variation in the load on the line
+causes a variation in line current and a consequent variation
+in the IR drop in the line. A wide variation in the IR drop
+in the line causes poor voltage regulation at the load. The
+obvious remedy is to reduce either current or resistance. A
+reduction in load current lowers the amount of power being
+transmitted, whereas a reduction in line resistance increases
+the size and weight of conductors required. A compromise is
+generally reached whereby the voltage variation at the load
+is within tolerable limits and the weight of line conductors
+is not excessive.
+A third factor is the current carrying ability of the conductor.
+When current is drawn through the conductor, heat is
+generated. The temperature of the wire rises until the
+heat radiated, or otherwise dissipated, is equal to the heat
+generated by the passage of current through the line. If the
+conductor is insulated, the heat generated in the conductor is
+not so readily removed as it would be if the conductor were
+not insulated. Thus, to protect the insulation from too much
+heat, the current through the conductor must be maintained
+below a certain value.
+When electrical conductors are installed in locations where
+the ambient temperature is relatively high, the heat generated
+by external sources constitutes an appreciable part of the total
+conductor heating. Allowance must be made for the influence
+of external heating on the allowable conductor current, and
+each case has its own specific limitations. The maximum
+allowable operating temperature of insulated conductors
+varies with the type of conductor insulation being used.
+Tables are available that list the safe current ratings for
+various sizes and types of conductors covered with various
+
+Copper has a higher conductivity; it is more ductile, can be
+drawn out, has relatively high tensile strength, and can be easily
+soldered. It is more expensive and heavier than aluminum.
+Although aluminum has only about 60 percent of the
+conductivity of copper, it is used extensively. Its light weight
+makes possible long spans, and its relatively large diameter
+for a given conductivity reduces corona, the discharge of
+electricity from the wire when it has a high potential. The
+discharge is greater when smaller diameter wire is used than
+when larger diameter wire is used. Some bus bars are made of
+aluminum which has a greater radiating surface than copper
+for the same conductance. The characteristics of copper and
+aluminum are compared in Figure 4-84.
+Voltage Drop in Aircraft Wire & Cable
+The voltage drop in the main power cables from the aircraft
+generation source or the battery to the bus should not exceed
+2 percent of the regulated voltage when the generator is
+carrying rated current or the battery is being discharged at a
+5-minute rate. The 5-minute rate in this case means that the
+battery should last a minimum of 5 minutes in an emergency,
+with all battery operated equipment running. Figure 4-85
+shows the recommended maximum voltage drop in the load
+circuits between the bus and the utilization equipment.
+The resistance of the current return path through the aircraft
+structure is always considered negligible. However, this is
+based on the assumption that adequate bonding of the structure
+or a special electric current return path has been provided
+that is capable of carrying the required electric current with
+a negligible voltage drop. A resistance measurement of 0.005
+ohms from ground point of the generator or battery to ground
+terminal of any electrical device is considered satisfactory.
+Another satisfactory method of determining circuit resistance
+is to check the voltage drop across the circuit. If the voltage
+drop does not exceed the limit established by the aircraft or
+product manufacturer, the resistance value for the circuit is
+considered satisfactory. When using the voltage drop method
+of checking a circuit, the input voltage must be maintained
+at a constant value.
+4-50
+
+===== PDF PAGE 210 =====
+Continuous Duty Current (Amps)-Wires in Bundles,
+Groups, Harnesses, or Conduits (See Note #1)
+Wire
+Size
+
+Wire Conductor Temperature Rating
+
+Max. Resistance
+ohms/1,000 ft@20 °C
+Tin Plated Conductor
+(See Note #2)
+
+Nominal
+Conductor
+Area
+(circ.mils)
+475
+
+105 °C
+
+150 °C
+
+200 °C
+
+24
+
+2.5
+
+4
+
+5
+
+28.40
+
+22
+
+3
+
+5
+
+6
+
+16.20
+
+755
+
+20
+
+4
+
+7
+
+9
+
+9.88
+
+1,216
+
+18
+
+6
+
+9
+
+12
+
+6.23
+
+1,900
+
+16
+
+7
+
+11
+
+14
+
+4.81
+
+2,426
+
+14
+
+10
+
+14
+
+18
+
+3.06
+
+3,831
+
+12
+
+13
+
+19
+
+25
+
+2.02
+
+5,874
+
+10
+
+17
+
+26
+
+32
+
+1.26
+
+9,354
+
+8
+
+38
+
+57
+
+71
+
+0.70
+
+16,983
+
+6
+
+50
+
+76
+
+97
+
+0.44
+
+26,818
+
+4
+
+68
+
+103
+
+133
+
+0.28
+
+42,615
+
+2
+
+95
+
+141
+
+179
+
+0.18
+
+66,500
+
+1
+
+113
+
+166
+
+210
+
+0.15
+
+81,700
+
+0
+
+128
+
+192
+
+243
+
+0.12
+
+104,500
+
+00
+
+147
+
+222
+
+285
+
+0.09
+
+133,000
+
+000
+
+172
+
+262
+
+335
+
+0.07
+
+166,500
+
+0000
+
+204
+
+310
+
+395
+
+0.06
+
+210,900
+
+Note 1:
+
+Rating is for 70 °C ambient, 33 or more wires in the bundle for sizes 24 through 10, and 9 wires for size 8 and larger, with
+no more than 20 percent of harness current carrying capacity being used, at an operating altitude of 60,000 feet.
+
+Note 2:
+
+For resistance of silver or nickel-plated conductors, see wire specifications.
+
+Figure 4-83. Current-carrying capacity and resistance of copper wire.
+Characteristic
+
+Copper Aluminum
+
+Tensile strength (lb/in2)
+
+55,000
+
+25,000
+
+Tensile strength for same conductivity (lb)
+
+55,000
+
+40,000
+
+Weight for same conductivity (lb)
+
+100
+
+48
+
+Cross section for same conductivity (CM)
+
+100
+
+160
+
+Specific resistance (Ω/mil ft)
+
+10.6
+
+17
+
+Figure 4-84. Characteristics of copper and aluminum.
+
+of the cable while carrying the required current. The graphs
+in Figures 4-86 and 4-87 can simplify these determinations.
+To use this graph to select the proper size of conductor, the
+following must be known:
+1.
+
+The conductor length in feet;
+
+2.
+
+The number of amperes of current to be carried;
+
+3.
+
+The amount of voltage drop permitted;
+
+4.
+
+Whether the current to be carried is intermittent or
+continuous;
+
+5.
+
+The estimated or measured temperature of the
+conductor;
+
+6.
+
+Whether the wire to be installed is in a conduit or in
+a bundle; and
+
+7.
+
+Whether it is a single conductor in free air.
+
+Allowable Voltage Drop
+
+Nominal
+System
+Voltage
+
+Continuous
+Operation
+
+Intermittent
+Operation
+
+14
+
+0.5
+
+1
+
+28
+
+1
+
+2
+
+115
+
+4
+
+8
+
+200
+
+7
+
+14
+
+Figure 4-85. Recommended voltage drop in load circuits.
+
+The graph in Figure 4-86 applies to copper conductors
+carrying direct current. To select the correct size of conductor,
+two major requirements must be met. First, the size must
+be sufficient to prevent an excessive voltage drop while
+carrying the required current over the required distance.
+Second, the size must be sufficient to prevent overheating
+
+Suppose that you want to install a 50-foot conductor from
+the aircraft bus to the equipment in a 28-volt system. For this
+length, a 1-volt drop is permissible for continuous operation
+with a conductor temperature of 20 ºC or less. By referring
+to the chart in Figure 4-86, the maximum number of feet a
+conductor may be run carrying a specified current with a
+1-volt drop can be determined. In this example, the number
+50 is selected.
+4-51
+
+===== PDF PAGE 211 =====
+CONTINUOUS
+CIRCUIT
+VOLTAGE
+200 115
+
+28
+
+AMPERES
+14
+
+1
+
+1.5
+
+2
+
+3
+
+4
+
+5
+
+7
+
+10
+
+15
+
+20
+
+30
+
+50
+
+70
+
+800 200 100
+600 150
+
+75
+
+400 100
+360 90
+320 80
+280 70
+240 60
+
+50
+45
+40
+35
+30
+
+350 200
+
+50
+
+25
+
+280 160
+
+40
+
+20
+
+210 120
+
+30
+
+15
+
+175 100
+
+25
+
+12
+
+140
+
+80
+
+20
+
+10
+
+112
+98
+
+64
+56
+
+16
+14
+
+8
+7
+
+84
+
+48
+
+12
+
+6
+
+63
+56
+49
+42
+
+36
+32
+28
+24
+
+9
+8
+7
+6
+
+4
+
+35
+
+20
+
+5
+
+2
+
+7
+
+4
+
+1
+
+0.5
+
+100
+
+150
+
+Wire length (ft)
+
+700
+630
+560
+490
+420
+
+200
+300
+
+3
+
+24
+
+22
+
+20
+
+VOLTAGE DROP
+
+}
+
+EXAMPLE 1
+EXAMPLE 2
+No. 8 wire at 20 amps
+
+18 16
+
+14
+
+12
+
+10
+
+WIRE SIZE
+Voltage drop chart
+continuous flow at 20 °C
+tin-plated MIL-W-27759
+conductor
+
+No. 12 wire at 20 amps
+No. 14 wire at 20 amps
+
+8
+
+6
+
+4
+
+2
+
+1
+
+1/0 2/0 3/0 4/0
+
+NOTE
+Length (LI) is based on conductor temperatures of
+20 °C to determine length (L2) at a higher conductor
+temperature use formula where T2 = estimated
+conductor temperature °C
+L2 =
+
+(254.5) (L1)
+(234.5) + (T2)
+
+Figure 4-86. Conductor graph—continuous flow.
+
+Assuming the current required by the equipment is 20
+amperes, the line indicating the value of 20 amperes should
+be selected from the diagonal lines. Follow this diagonal
+line downward until it intersects the horizontal line number
+50. From this point, drop straight down to the bottom of the
+graph to find that a conductor between size No. 8 and No.
+10 is required to prevent a greater drop than 1 volt. Since the
+indicated value is between two numbers, the larger size, No.
+8, should be selected. This is the smallest size that should be
+used to avoid an excessive voltage drop.
+If the installation is for equipment having only an intermittent
+(maximum 2 minutes) requirement for power, the graph in
+Figure 4-87 is used in the same manner.
+Conductor Insulation
+Two fundamental properties of insulation materials (e.g.,
+rubber, glass, asbestos, and plastic) are insulation resistance
+and dielectric strength. These are entirely different and
+distinct properties.
+
+Insulation resistance is the resistance to current leakage
+through and over the surface of insulation materials.
+Insulation resistance can be measured with a megger without
+damaging the insulation. This serves as a useful guide in
+determining the general condition of insulation. However, the
+data obtained in this manner may not give a true picture of
+the condition of the insulation. Clean, dry insulation having
+cracks or other faults may show a high value of insulation
+resistance but would not be suitable for use.
+Dielectric strength is the ability of the insulator to withstand
+potential difference and is usually expressed in terms of
+the voltage at which the insulation fails due to electrostatic
+stress. Maximum dielectric strength values can be measured
+by raising the voltage of a test sample until the insulation
+breaks down.
+Because of the expense of insulation, its stiffening effect,
+and the great variety of physical and electrical conditions
+under which the conductors are operated, only the necessary
+minimum insulation is applied for any particular type of cable
+4-52
+
+===== PDF PAGE 212 =====
+CIRCUIT
+VOLTAGE
+200
+
+115
+
+28
+
+AMPERES
+14
+
+1
+
+1.5
+
+2
+
+3
+
+4
+
+5
+
+7
+
+10
+
+15
+
+20
+
+30
+
+50
+
+70
+
+1600 400 200
+
+100
+
+1200 300 150
+
+Wire length (ft)
+
+150
+200 100
+180 90
+160 80
+140 70
+120 60
+
+1400
+1260
+1120
+980
+840
+
+800
+720
+640
+560
+480
+
+700
+
+400 100
+
+50
+
+560
+
+320
+
+80
+
+40
+
+420
+
+240
+
+60
+
+30
+
+350
+
+200
+
+50
+
+24
+
+280
+
+160
+
+40
+
+20
+
+224
+196
+
+128
+112
+
+32
+28
+
+16
+14
+
+168
+
+96
+
+24
+
+12
+
+126
+112
+98
+84.
+
+72
+64
+56
+48
+
+18
+16
+14
+12
+
+8
+
+70
+
+40
+
+10
+
+4
+
+14
+
+8
+
+2
+
+1
+
+200
+300
+
+6
+
+24
+
+22
+
+20
+
+18 16
+
+VOLTAGE DROP
+
+14
+
+12
+
+10
+
+WIRE SIZE
+Voltage drop chart
+intermittent flow at 20°
+tin-plated MIL-W-27759
+conductor
+
+8
+
+6
+
+4
+
+2
+
+1
+
+1/0 2/0 3/0 4/0
+
+NOTE
+Length (LI) is based on conductor temperatures of
+20 °C to determine length (L2) at a higher conductor
+temperature use formula where T2 = estimated
+conductor temperature °C
+L2 =
+
+(254.5) (L1)
+(234.5) + (T2)
+
+Figure 4-87. Conductor graph—intermittent flow.
+
+Identifying Wire & Cable
+To aid in testing and repair operations, many maintenance
+activities mark wire or cable with a combination of letters
+and numbers that identify the wire, the circuit it belongs to,
+the gauge number, and other information necessary to relate
+the wire or cable to a wiring diagram. Such markings are the
+identification code.
+There is no standard procedure for marking and identifying
+wiring; each manufacturer normally develops its own
+identification code. Figure 4-88 illustrates one identification
+system and shows the usual spacing in marking a wire.
+Some system components, especially plugs and jacks, are
+identified by a letter or group of letters and numbers added
+to the basic identification number. These letters and numbers
+
+Most manufacturers mark the wires at intervals of not more
+than 15 inches lengthwise and within 3 inches of each
+junction or terminating point. [Figure 4-89]
+Coaxial cable and wires at terminal blocks and junction
+boxes are often identified by marking or stamping a wiring
+sleeve rather than the wire itself. For general purpose wiring,
+flexible vinyl sleeving, either clear or white opaque, is
+
+3 in
+max
+H215A20
+
+3 in
+max
+
+6 ft
+
+The type of conductor insulation material varies with the type
+of installation. Rubber, silk, and paper insulation are no longer
+used extensively in aircraft systems. More common today are
+such materials as vinyl, cotton, nylon, Teflon, and Rockbestos.
+
+may indicate the location of the component in the system.
+Interconnected cables are also marked in some systems to
+indicate location, proper termination, and use. In any system,
+the marking should be legible, and the stamping color should
+contrast with the color of the wire insulation. For example,
+use black stamping with light-colored backgrounds, or white
+stamping on dark-colored backgrounds.
+
+6 ft
+
+designed to do a specific job.
+
+H215A20
+
+H215A20
+
+Figure 4-88. Spacing of printed identification marks.
+
+4-53
+

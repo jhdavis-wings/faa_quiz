@@ -1,0 +1,1250 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 8 (Engine Removal & Replacement), PDF pages 328-341
+
+===== PDF PAGE 328 =====
+Chapter 8
+
+Engine Removal & Replacement
+Introduction
+Procedures for removing or installing an aircraft engine
+usually vary widely with the type of aircraft and the type of
+engine. Thus, no single list of instructions can be provided
+as a guideline for all engines. Because of the many types
+of engine and aircraft installations and the large number of
+design variations within each type or category, representative
+examples have been selected to illustrate the most typical
+installation procedures for reciprocating, turboprop, and
+turbofan engines. There are some common tasks that
+must be accomplished when replacing an aircraft engine.
+Most engines require disconnecting and reconnecting
+electrical, hydraulic, fuel supply, intake and exhaust air
+path components, engine controls, and engine mounting
+connections to the airframe.
+Reciprocating engines and gas turbine engines are used in
+this chapter to describe and represent general and typical
+procedures for engine buildup, removal, preservation,
+storage, and installation. Although these two types of engines
+have some common areas, each procedure has been included
+to ensure adequate coverage of the engines used in both
+heavy and light aircraft. It should be emphasized that while
+procedures for specific engines and aircraft are included
+in this chapter, many pertinent or mandatory references
+have been omitted because of their irrelevance to a general
+discussion. For this reason, always reference the applicable
+manufacturer’s instructions before performing any phase of
+engine removal or installation.
+
+Reasons for Removal of Reciprocating
+Engines
+The following paragraphs outline the most common reasons
+for removing and replacing an engine. Information to aid
+in determining engine conditions that require removal
+is included; however, in every case, consult applicable
+manufacturer’s instructions as the final authority in
+establishing the basis for engine replacement.
+Engine or Component Lifespan Exceeded
+Engine life is dependent upon such factors as operational
+use, the quality of manufacture or overhaul, the type of
+aircraft in which the engine is installed, the kind of operation
+being carried out, and the degree to which maintenance is
+accomplished. Thus, the manufacturer sets engine removal
+times. Based on service experience, it is possible to establish
+
+a maximum expected time before overhaul (TBO) or span of
+time within which an engine needs to be overhauled. Certain
+critical components of turbine engines such as turbine blades,
+turbine discs or combustion liners may have shorter life
+limits established by the manufacturer due to the stresses
+imposed on those parts during operation. The FAA requires
+that the manufacture identify and establish which parts have
+mandatory replacement times.
+Engine Sudden Stoppage or Propeller Strike
+Engine sudden stoppage causes a very rapid and complete
+engine stoppage. Propeller strikes can cause either reduction
+in speed or a complete engine stoppage. Either can be caused
+by engine seizure or by one or more of the propeller blades
+striking an object in such a way that revolutions per minute
+(rpm) goes to zero in less than one complete revolution
+of the propeller. Sudden stoppage may occur under such
+conditions as complete and rapid collapse of the landing
+gear, nosing over of the aircraft, or crash landing. Sudden
+stoppage can cause internal damage, such as cracked
+propeller gear teeth, gear train damage, crankshaft flyweights
+becoming detuned or misalignment, or damaged propeller
+bearings. When sudden stoppage occurs, the engine usually
+requires replacement or disassembly and inspection as per
+manufacturer’s instructions.
+Sudden Reduction in Speed
+Sudden reduction in engine speed can occur when one or
+more of the propeller blades strike an object at a low engine
+rpm. After impact, the foreign object is cleared and the engine
+recovers rpm and continues to run unless stopped to prevent
+further damage. While taxiing an aircraft, sudden reduction in
+speed can occur when the propeller strikes a foreign object,
+such as a raised section in the runway, a tool box, or a portion of
+another airplane. When the accident occurs at high engine rpm,
+shocks are much more severe. When sudden reduction in rpm
+occurs, the following procedure can be used as a general rule,
+but you must comply with the manufacturer’s information.
+Make a thorough external inspection of the engine mount,
+crankcase, and nose section to determine whether any parts
+have been damaged. If damage is found that cannot be
+corrected by line maintenance, remove the engine. Internal
+components can be damaged, especially counter weights on
+the crankshaft.
+Remove the engine oil screens or filters. Inspect them for
+8-1
+
+===== PDF PAGE 329 =====
+the presence of metal particles. Remove the engine sump
+plugs, drain the oil into a clean container, strain it through a
+clean cloth, and check the cloth and the strained oil for metal
+particles. Heavy metal particles in the oil indicate a definite
+engine failure, and the engine must be removed. However, if
+the metal particles present are similar to fine filings, continue
+the inspection of the engine to determine its serviceability.
+If there are no heavy metal particles in the engine oil, check
+again for metal in the oil system after operating the engine.
+Metal in the screens is a sign that the bearings have been
+compromised and are in the process of failing.
+Remove the propeller and check the crankshaft, or the
+propeller drive shaft on reduction-gear engines, for
+misalignment. Clamp a test indicator to the nose section of the
+engine. Use the dial-indicator that has 1⁄1,000-inch graduations.
+Remove the spark plugs from all the cylinders. Then, turn the
+crankshaft, and observe if the crankshaft, propeller shaft, or
+flange turns straight without any bending taking place. If there
+is an excessive runout (bend in the crankshaft or propeller
+flange) reading at the crankshaft or propeller-drive shaft at
+the front seat location, the engine should be removed. Consult
+the applicable manufacturer’s instructions for permissible
+limits. If the crankshaft or propeller drive shaft runout does
+not exceed these limits, install a serviceable propeller. Make
+an additional check by tracking the propeller at the tip in the
+same plane, perpendicular to the axis of rotation, to assure
+that blade track tolerance is within the prescribed limits.
+Start the engine to see if operation is smooth, without vibration,
+and the power output adequate. If the engine operates properly
+during this ground check, shut the engine down and repeat the
+inspection for metal particles in the oil system.
+Metal Particles in the Oil
+Metal particles in the engine oil screens or the magnetic chip
+detectors are generally an indication of partial internal failure
+of the engine. Carbon tends to break loose from the interior
+of the engine in rock-like pieces that have the appearance
+of metal. It is necessary to consider these possibilities when
+foreign particles are found on the engine oil screens or
+magnetic chip detectors.
+Before removing an engine for suspected internal failure, as
+indicated by foreign material on the oil screens or oil sump
+plugs, determine if the foreign particles are ferrous metal by
+placing them close to a magnet to see if they are magnetic. If
+the material is not magnetic, it is not attracted by the magnet.
+Any ferrous metal in the oil screens is cause for concern.
+Very small amounts of nonferrous metal, especially after
+major engine maintenance, can sometimes be normal. If the
+particles are metal, determine the probable extent of internal
+damage. For example, if only small particles are found that
+
+are similar in nature to filings, drain the oil system, and refill
+it. Then, ground-run the engine and reinspect the oil screens
+and magnetic chip detectors. If no further evidence of foreign
+material is found, continue the engine in service or per the
+manufacturer’s instructions. However, engine performance
+should be closely observed for any indication of difficulty
+or internal failure.
+Spectrometric Oil Analysis Engine Inspection
+Program
+Spectrometric oil analysis program allows an oil sample
+to be analyzed and searched for the presence of minute
+metallic elements. Due to oil circulation throughout an
+aircraft engine, every lubricant that is in service contains
+microscopic particles of metallic elements called wear
+metals. As the engine operates over a certain amount of time,
+the oil picks up very small particles that stay suspended in
+the oil. Oil analysis programs identify and measure these
+particles in parts per million (PPM) by weight. The analyzed
+elements are grouped into categories, such as wear metals
+and additives, and their measurement in PPM provides the
+data that expert analysts can use as one of many tools to
+determine the engine’s condition. If certain metals have an
+increase in PPM, it can be a signal of component wear or
+pending failure of the engine. The amount of wear metals
+is recorded and noted each time a sample is taken. If the
+amount of wear metals increases beyond a normal rate, then
+the operator can be notified quickly so repair, a recommended
+specific maintenance procedure, or inspection can be ordered.
+The advantage of oil analysis is an increase in safety by
+noticing an engine problem before engine failure. It also saves
+money by finding engine problems before they become large
+problems or complete engine failure. This procedure can be
+used for both turbine and reciprocating engines. Oil analysis
+can be used to diagnose impending engine failure and would
+be a reason for removing the engine from the aircraft and
+sending it to overhaul.
+Turbine Engine Condition Monitoring Programs
+Many turbine engines are monitored by an engine condition
+program that helps determine the health of the engine in
+service. This can also be called trend analysis performance
+monitoring, but it consists mainly of monitoring certain
+engine parameters daily and watching for trend shifts or
+changes in the engine parameters. A shift in key parameters
+(change over time) could be a warning that the engine has
+serious internal deterioration and should be overhauled.
+Engine Operational Problems
+Engines are usually removed when there are consistent
+engine operational problems. Engine operational problems
+generally include, but are not limited to, one or more of the
+8-2
+
+===== PDF PAGE 330 =====
+following conditions:
+1.
+
+Excessive engine vibration; this is especially true with
+turbine engines.
+
+2.
+
+Backfiring, or misfiring, either consistent or
+intermittent due to valve train or other mechanical
+defect in reciprocating engines.
+
+3.
+
+Turbine engines that exceed normal operating
+parameters or life limited components exceeding
+maximum time in service or cycles.
+
+4.
+
+Low power output, generally caused by low
+compression, with reciprocating engines and internal
+engine deterioration or damage with turbines.
+
+General Procedures for Engine Removal &
+Installation
+Preparation of Engines for Installation
+After the decision has been made to remove an engine, the
+preparation of the replacement engine must be considered.
+The maintenance procedures and methods used vary widely.
+Commercial operators, whose maintenance operations
+require the most efficient and expeditious replacement of
+aircraft engines, usually rely on a system that utilizes the
+quick-engine-change assembly (QECA), also sometimes
+referred to as the engine power package. The QECA is
+essentially a powerplant and the necessary accessories
+installed in the engine.
+Other operators of aircraft equipped with reciprocating
+engines sometimes use a different replacement method in
+these repair facilities because engine changes often occur
+at random intervals. Such replacement engines may be
+partially or wholly built up with the necessary accessories
+and subassemblies, or they may be stored as received from
+the manufacturer in packing boxes, cases, or cans and are
+uncrated and built up for installation only when needed to
+replace an engine.
+
+Figure 8-1. Open cowling view of a typical power package.
+
+QECA are illustrated in Figure 8-1. As shown, the QECA
+consists of several units. On many aircraft, the engines are
+mounted in streamlined housings called nacelles that extend
+from the wings. These nacelles are divided into two main
+sections: wing nacelle and engine nacelle. The wing nacelle
+is that portion of the nacelle that is attached to the wing
+structure. The engine nacelle is that portion of the nacelle
+that is constructed separately from the wing. Also, the wing
+nacelles normally contain lines and units of the oil, fuel, and
+hydraulic systems, as well as linkages and other controls for
+the operation of the engine.
+The firewall is usually the foremost bulkhead of the engine
+nacelle and differs from most other aircraft bulkheads in that
+it is constructed of stainless steel or some other fire-resistant
+material. [Figure 8-2] The primary purpose of the firewall is to
+
+QECA Buildup Method for Changing of Engines
+Because the QECA system is most commonly used with large
+turbine engines used in the airlines, such engines are used to
+describe QECA buildup and installation procedures. Many
+of these procedures are applicable to all other methods of
+engine buildup and installation.
+The following study of QECA buildup is not designed to
+outline procedures to follow in a practical application;
+always use those recommended by the manufacturer.
+The procedures included in this chapter provide a logical
+sequence in following a QECA and its components through
+the stages of a typical buildup to gain a better understanding
+of units and systems interconnection. The components of a
+
+Figure 8-2. Typical firewall with components mounted on it.
+
+8-3
+
+===== PDF PAGE 331 =====
+confine any engine fire to the engine nacelle. It also provides
+a mounting surface for units within the engine nacelle and a
+point of disconnect for lines, linkages, and electrical wiring
+that are routed between the engine and the aircraft. Without
+this firewall, an engine fire would have ready access to the
+interior of the aircraft. Since the consequences of an engine
+fire are obvious, the necessity of sealing all unused openings
+in the firewall cannot be overstressed.
+An aircraft engine and its accessories that have been in
+storage must undergo careful depreservation and inspection
+before they may be installed in an aircraft. This involves
+more than removing an engine from its container and bolting
+it to the aircraft. If the engine is stored in a pressurized metal
+container, the air valve should be opened to bleed off the
+air pressure. Depending upon the size of the valve, the air
+pressure should bleed off in somewhat less than 30 minutes.
+Prepare the container for opening by removing the bolts that
+hold the two sections together. Then, attach a hoist to the
+“hoisting points” and lift the top section clear of the container
+and place it away from the work area. If the engine is installed
+in a wooden shipping case, it is necessary to carefully break
+the seal of the protective envelope and fold it down around
+the engine. Remove the dehydrating agent or desiccant bags
+and the humidity indicator from the outside of the engine.
+Also, remove and set safely aside any accessories that are
+not installed on the engine but are mounted on a special
+stand or otherwise installed inside the protective envelope
+with the engine.
+Depreservation of an Engine
+After the engine has been secured to an engine stand, all
+covers must be removed from the points where the engine was
+sealed or closed with ventilatory covers, such as the engine
+breathers, exhaust outlets, and accessory mounting-pad cover
+plates. As each cover is removed, inspect the uncovered part
+of the engine for signs of corrosion. Also, as the dehydrator
+plugs are removed from each cylinder, make a very careful
+check of the walls of any cylinder for which the dehydrator
+plug color indicates an unsafe condition. Care is emphasized
+in the inspection of the cylinders, even if it is necessary to
+remove a cylinder.
+
+dehydrator plugs are removed from each cylinder. Much of
+the compound drains from the spark plug holes of the lower
+cylinders of a radial engine when the dehydrator plugs are
+removed. But some of the mixture remains in the cylinder head
+below the level of the spark plug hole and can be removed
+with a hand pump. [Figure 8-3] A more positive method is
+to remove the lower intake pipes and open the intake valve
+of the cylinder by rotating the crankshaft. This latter method
+allows the compound to drain from the cylinder through the
+open intake valve. If excessive compound is present in an
+upper cylinder, it can be removed with a hand pump.
+The oil screens should be removed from the engine and
+thoroughly washed in an approved solvent to remove all
+accumulations that could restrict the oil circulation and cause
+engine failure. After the screens are cleaned, immerse them
+in clean oil and then reinstall them in the engine.
+When the cover has been removed from the intake area, the
+silica gel desiccant bags (used to remove moisture from the
+engine in storage) must be removed from the engine area. If
+the engine uses a propeller, remove the protective covering
+from the propeller shaft and wash all corrosion-preventive
+compounds from both the inside and outside surfaces of the
+shaft. Then, coat the propeller shaft lightly with engine oil.
+Turbine engines require the removal of several covers on
+many external areas on the engine.
+As a final check, see that the exterior of the engine is clean.
+Usually a quantity of compound runs out of the engine when
+the dehydrator plugs and oil screens are removed. To clean
+the engine, spray it with an approved commercial solvent.
+
+On radial engines, the inside of the lower cylinders and
+intake pipes should be carefully checked for the presence of
+excessive corrosion-preventive compound that has drained
+from throughout the interior of the engine and settled at these
+low points. This excessive compound could cause the engine
+to become damaged from a hydraulic lock (also referred to
+as liquid-lock) when a starting attempt is made.
+The check for excessive corrosion-preventive compound in
+the cylinders of reciprocating engines can be made as the
+
+Figure 8-3. Draining corrosion preventive compound.
+
+8-4
+
+===== PDF PAGE 332 =====
+Inspection & Depreservation of Accessories
+An engine’s performance is no better than that of its
+accessories. Though the engine has been completely
+overhauled and is in top condition, any oversight or error
+in installing the accessories can result in improper engine
+operation or even irreparable damage to it.
+Before depreserving any of the accessories enclosed with
+the engine, consult the storage data usually stenciled on the
+outside of the engine container or the records enclosed with
+the engine to determine how long the engine and accessories
+were in storage. Certain accessories that normally accompany
+an engine from overhaul are considered unsafe for use if their
+time in storage has exceeded a specified period. This time
+varies according to the limits prescribed by the manufacturer.
+Any accessory that has been removed from an old engine that
+can be installed on the new one must be given a thorough
+inspection to determine its condition. This inspection
+includes a check for general condition, cleanliness, absence
+of corrosion, and absence of wear as evidenced by excessive
+play in the moving parts.
+Some accessories must be replaced, regardless of their
+operating time, if the engine is being changed because
+of internal failure. Such accessories may have been
+contaminated by metal particles carried into their operating
+mechanisms by the engine oil that lubricates them.
+Before installing any replacement accessory, check it
+visually for signs of corrosion and for freedom of operation.
+Always wipe the mounting pad, flange, and coupling clean
+before mounting the accessory, and install the proper gasket
+between the mounting pad and the accessory mounting
+flange. Lubricate the accessory drive shaft if so indicated in
+the manufacturer’s instructions.
+
+Inspection & Replacement of Powerplant
+External Units & Systems
+The engine nacelle must be cleaned thoroughly before it is
+inspected. The design of an engine nacelle varies with different
+aircraft. Basically, it is a framework covered with removable
+cowling, in which the engine is mounted. This assembly is
+attached to the aircraft and incorporates an insulating firewall
+between the engine and the airframe. The interconnecting
+wiring, tubing, and linkages between the engine and its various
+systems and controls pass through the firewall.
+Inspect the complete engine nacelle for condition of the
+framework and the sheet-metal cowling and riveted plates
+that cover the nacelle. The engine mounting frame assembly
+should be checked for any distortion of the steel tubing, such
+as bends, dents, flat spots, corrosion, or cracks. Use the dye
+
+penetrant inspection method to reveal a crack, porous area,
+or other defects.
+The engine mounting bolts are usually checked for condition
+by magnetic particle inspection or other approved processes.
+While the bolts are removed, the bolt holes should be checked
+for elongation caused by the movement of an improperly
+tightened bolt.
+Check the outer surface of all exposed electrical wiring for
+breaks, chafing, or other damage. Also, check the security
+of crimped or soldered cable ends. In addition, carefully
+inspect connector plugs for overall condition. Any item that
+is damaged must be repaired or replaced, depending on the
+extent of the damage.
+Before installing an engine, inspect all tubing in the nacelle
+for dents, nicks, scratches, chafing, or corrosion. Check all
+tubing carefully for indications of fatigue or excessive flatness
+caused by improper or accidental bending. Thoroughly
+inspect all hoses used in various engine systems. Weather
+checking (a cracking of the outside covering of the hose)
+sometimes penetrates to the hose reinforcement. Replace any
+length of hose that shows indications of the cover peeling or
+flaking or has exposed fabric reinforcement. Replace a hose
+that shows indications of excessive cold flow. Cold flow is
+a term used to describe the deep and permanent impressions
+or cracks caused by hose clamp pressure.
+Always replace a control rod if it is nicked or corroded
+deeply enough to affect its strength. If the corrosion cannot
+be removed by rubbing with steel wool, the pitting is too
+deep for safety.
+On older aircraft, check the pulleys in the control system
+for freedom of movement. It is easy to spot a pulley that is
+not turning freely, for both it and the cable are worn from
+the cable sliding over the pulley instead of rolling free. The
+bearings of a pulley may be checked by inspecting the pulley
+for excessive play or wobble with the tension removed from
+the cable. The cable must also be inspected for corrosion
+and broken strands. Locate any broken strands by wiping
+the cable with a cloth.
+Check bonding for fraying, loose attachment, and cleanness
+of terminal ends. The electrical resistance of the complete
+bond must not exceed the resistance values specified in the
+applicable manufacturer’s instructions.
+Inspect the exhaust stacks, collector ring, and tailpipe assembly
+for security, cracks, or excessive corrosion. Depending on the
+installation, these units, or parts of them, may be mounted on
+the engine before it is installed in the aircraft.
+8-5
+
+===== PDF PAGE 333 =====
+Check all air ducts for dents and for the condition of the
+fabric or rubber anti-chafing strips at the points where
+sections of duct are joined. The dents may be pounded out;
+the anti-chafing strips should be replaced if they are pulled
+loose from the duct or are worn to the point at which they
+no longer form a tight seal at the joint.
+Thoroughly inspect the engine oil system and perform any
+required special maintenance upon it before installing a
+replacement engine. If an engine is being changed at the end
+of its normal time in service, it is usually necessary only to
+flush the oil system; however, if an engine has been removed
+for internal failure, usually some units of the oil system must
+be replaced and others thoroughly cleaned and inspected.
+If the engine has been removed because of internal failure,
+the oil tank is generally removed to permit thorough cleaning.
+Also, the oil cooler and temperature regulator must be
+removed and sent to a repair facility for overhaul. The vacuum
+pump pressure line and the oil separator in the vacuum system
+must also be removed, cleaned, and inspected. Internal failure
+also requires that the propeller governor and feathering pump
+mechanism be replaced if these units are operated by engine
+oil pressure.
+
+Preparing the Engine for Removal
+Before starting to work on the aircraft or reciprocating engine,
+always be sure that the magneto switch is in the off position.
+Aircraft engines can be started accidentally by turning the
+propeller if the magneto switch is on.
+Check to see that all fuel selectors or solenoid-operated fuel
+shutoff valves are closed. The fuel selector valves are either
+manually or solenoid operated. If solenoid-operated fuel
+shutoff valves are installed, it may be necessary to turn the
+battery switch on before the valves can be closed, since the
+solenoid depends on electricity for operation. These valves
+close the fuel line at the firewall between the engine and the
+aircraft. After ensuring that all fuel to the engine is shut off,
+disconnect the battery to eliminate the possibility of a hot
+wire starting a fire. If it is anticipated that the aircraft will
+be out of service for more than 6 days, the battery is usually
+removed and taken to the battery shop and placed on charge.
+Also, a few other preparations should be made before starting
+to work on the engine removal. First, make sure that there are
+enough fire extinguishers near at hand to meet any possible
+emergency. Check the seals on these extinguishers to be sure
+the extinguishers have not been discharged. Then, check
+the wheel chocks. If these are not in place, the aircraft can,
+and probably will, inch forward or back during some crucial
+operation. Also, if the aircraft has a tricycle landing gear, be
+
+sure that the tail is supported so that the aircraft cannot tip back
+when the weight of the engine is removed from the forward
+end. It is not necessary to support the tail on some multiengine
+aircraft if only one engine is to be removed. In addition, the
+landing gear shock struts can be deflated to prevent them from
+extending as the engine weight is removed from the aircraft.
+After taking these necessary precautions, begin removing the
+cowling from around the engine. As it is removed, clean it and
+check for cracks so that the necessary repairs can be made
+while the engine change is in progress. Place all cowling that
+does not need repair on a rack where it can be readily found
+when the time comes to reinstall it on the new engine. After
+removing the cowling, the propeller should be removed for
+inspection or repair.
+Draining the Engine
+Place a large metal pan (drip pan) on the floor under the
+engine to catch any spilled mixture or oil. Next, secure a clean
+container in which to drain the oil or corrosion-preventive
+mixture. Place the container beneath the engine, open the
+drain valve, and allow the oil to drain. Figure 8-4 shows the
+points at which a typical aircraft engine oil system is drained.
+Other points at which the oil system is drained can typically
+include the oil cooler, oil return line, and engine sumps.
+All valves, drains, and lines must remain open until the oil
+system has been completely drained. After draining the oil,
+reinstall all drain plugs and close all drain valves. Then, wipe
+all excess oil from around the drain points.
+Electrical Disconnects
+Electrical disconnections are usually made at the engine
+firewall. When the basic engine is being removed, the
+electrical leads to such accessories as the starter and
+generators are disconnected at the units themselves. When
+
+Drains
+
+Figure 8-4. Oil system drain points.
+
+8-6
+
+===== PDF PAGE 334 =====
+disconnecting electrical leads, it is a good safety habit to
+disconnect the magnetos first and immediately ground them
+at some point on the engine or the assembly being removed.
+Most firewall disconnections of electrical conduit and cable
+are simplified by use of (Army/Navy) AN or (Military
+Standard) MS connectors. Each connector consists of two
+parts: a plug assembly and a receptacle assembly. To prevent
+accidental disconnection during airplane operation, the outlet
+is threaded to permit a knurled sleeve nut to be screwed to
+the outlet and then fastened with safety wire, if necessary.
+
+or tape them to some portion of the assembly being removed.
+
+A typical plug fitting assembly is shown in Figure 8-5. It
+also shows a typical junction box assembly, which is used as
+a disconnect on some aircraft engine installations. After the
+safety wire is broken, remove all of it from the sleeve nuts that
+hold the conduit to the junction boxes, as well as from the nuts
+on the connectors. Wrap moisture proof tape over the exposed
+ends of connectors to protect them from dirt and moisture.
+Also, do not leave long electrical cables or conduits hanging
+loose, since they may become entangled with some part of the
+aircraft while the engine is being hoisted. It is a good practice
+to coil all lengths of cable or flexible conduit neatly, and tie
+
+The control rod in the linkage shown has two rod-end
+assemblies, a clevis, and an eye screwed onto opposite ends.
+These rod-end assemblies determine the length of the control
+rod by the distance they are screwed onto it, and they are
+locked into position by check nuts. An antifriction bearing is
+usually mounted in the eye end of a rod. This eye is slipped
+over a bolt in the bell crank arm and is held in position by
+a castle nut safety with a cotter pin. The clevis rod end is
+slipped over the end of a bell crank arm, which also usually
+contains an antifriction bearing. A bolt is passed through the
+clevis and the bell crank eye, fastened with a castle nut, and
+safetied with a cotter pin. Most control rod ends are provided
+with a test hole in the shank for inspection. If safety wire can
+be inserted through the test hole, the terminal is not being
+held by the required number of threads.
+
+Disconnection of Engine Controls
+The engine control rods and cables connect such units as
+the carburetor or fuel control throttle valve and the mixture
+control valve with their manually actuated control in the flight
+deck. The controls are sometimes disconnected by removing
+the turnbuckle that joins the cable ends. [Figure 8-6] A typical
+reciprocating engine control linkage consisting of a control
+rod attached to a bell crank is illustrated in Figure 8-7.
+
+Sometimes linkage assemblies do not include the antifriction
+bearings and are held in position only by a washer and cotter
+pin in the end of a clevis pin that passes through the bell
+crank and rod end. After the engine control linkages have
+been disconnected, the nuts and bolts should be replaced in
+the rod ends or bell crank arms to prevent their being lost.
+All control rods should be removed completely or tied back
+to prevent them from being bent or broken if they are struck
+by the replacement engine or QECA as it is being hoisted.
+Figure 8-5. Electrical connections.
+
+Figure 8-6. Engine control cable and turnbuckle assembly.
+
+8-7
+
+===== PDF PAGE 335 =====
+Eye
+
+Control rod
+
+Clevis
+
+Bellcrank
+Checknuts
+
+Figure 8-7. Engine control linkage assembly.
+
+Sleeve and nut fitting
+Threaded fitting and receptacle
+
+Hose clamp and fitting
+
+hose clamp. The firewall fittings for some lines have a quickdisconnect fitting that contains a check valve to prevent the
+system from losing fluid when the line is disconnected. Metal
+tubing on some installations may also be disconnected at a
+point at which two lengths of it are joined together by a length
+of rubber hose. Such a disconnection is made by loosening
+the hose clamps and sliding the length of rubber hose over
+the length of tubing that remains on the aircraft. There may
+be some further variations in these types of disconnections,
+but they follow the same basic pattern.
+Some type of a container should be used to collect any fuel,
+oil, or other fluid that may drain from the disconnected lines.
+After the lines have drained, they should be immediately
+plugged or covered with moisture-proof tape to prevent
+foreign matter from entering them, as well as to prevent any
+accumulated fluid from dripping out.
+
+Interconnecting hose
+
+Figure 8-8. Types of line disconnects.
+
+Disconnection of Lines
+The lines between units within the aircraft and the engine
+are either flexible hose or aluminum-alloy tubes joined by
+lengths of hose clamped to them. Lines that must withstand
+high pressure, such as hydraulic lines, are often made of
+stainless steel tubing.
+Figure 8-8 shows the basic types of line disconnects. Most
+lines leading from a QECA are secured to a threaded fitting
+at the firewall by a sleeve nut around the tubing. Hoses are
+sometimes secured in this manner but may also be secured
+by a threaded fitting on the unit to which they lead, or by a
+
+Other Disconnections
+The points at which the various air ducts are disconnected
+depend upon the engine and the aircraft in which it is
+installed. Usually, the air intake ducts and the exhaust system
+must be disconnected so the basic engine or the QECA can
+be removed. After the engine connections are free (except
+the engine mounts) and all the disconnections are entirely
+clear so they do not bind or become entangled, the engine
+can be prepared for hoisting.
+
+Removing the Engine
+If a QECA is being removed, the engine mount accompanies
+the engine. The mount remains on the aircraft if only the
+engine is being removed. Before the engine can be freed
+from its attachment points, a sling must be installed so the
+engine’s weight can be supported with a hoist when the
+mounting bolts are removed.
+Aircraft engines, or QECAs, have marked points for attaching
+
+8-8
+
+===== PDF PAGE 336 =====
+Engine lifting point
+
+Engine lifting point
+Figure 8-9. Hoisting sling attached to engine.
+
+a hoisting sling. The location of these attaching points varies
+according to the size and weight distribution of the engine.
+Figure 8-9 shows a sling supporting an engine that has two
+attaching points. As a matter of safety, carefully inspect the
+sling for condition before installing it on the engine.
+Before attaching the sling to the hoist, be sure that the hoist
+has sufficient capacity to lift the engine safely. The engine’s
+center of gravity (CG) should also be taken into account as
+the engine is hoisted. A manually operated hoist mounted in a
+
+portable frame is shown in Figure 8-10. This hoist assembly
+is specifically manufactured for the purpose of removing
+engines and other large assemblies from aircraft. Some
+frames are fitted with power-operated hoists. These should
+be used with care, since considerable damage can be done
+if an inexperienced operator allows a power-operated hoist
+to overrun. The hoist and frame should also be checked for
+condition before being used to lift the engine.
+Hoisting the Engine
+Before the hoist is hooked onto the engine sling, recheck the
+aircraft tail supports and the wheel chocks. Fasten lines to the
+engine, at points on the sides or rear, so that the engine can
+be controlled as it is being hoisted. Hook the hoist onto the
+sling and hoist the engine just enough to relieve the engine
+weight from the mount attachments. Remove the nuts from
+the mount attachments in the order recommended in the
+manufacturer’s instructions for the aircraft. As the last nuts
+are being removed, pull back on the lines fastened to the
+engine (or force it back by other means if lines are not being
+used), thus steadying the engine. If bolts must be removed
+from the mount attachments, be sure the engine is under
+control before doing so. If the bolts are to remain in the mount
+attachments, the hoist can be gently maneuvered upward or
+downward as necessary after all the nuts have been removed.
+Meanwhile, gently relax the backward force on the engine
+just enough to allow the engine gradual forward movement
+when it is free from the mount attachments. When the hoist
+has removed all engine weight from the mount attachments,
+the engine should be eased gently forward, away from the
+aircraft. If the engine binds at any point, maneuver it with
+the hoist until it slips free.
+The procedure just discussed applies to removal of most
+reciprocating and turbine aircraft engines. Any variation
+in details is outlined in the manufacturer’s instructions.
+Before attempting any engine removal, always consult these
+instructions for the aircraft concerned. When the engine has
+been removed, it can be carefully lowered onto a stand. The
+engine should be fastened to the stand and prepared for the
+removal of accessories.
+
+Hoisting & Mounting the Engine for Installation
+When the new or overhauled engine is ready to be hoisted
+for installation, move the engine stand as close as possible
+to the nacelle in which the replacement is to be installed.
+Then, attach the sling to the engine and hook the hoist to the
+sling. Take up the slack until the hoist is supporting most of
+the engine weight. Next, remove the engine attaching bolts
+from the stand and hoist the engine clear.
+
+Figure 8-10. Hoist and frame assembly used for engine removal.
+
+The engine stand may be moved and the hoist frame
+positioned so the engine can be hoisted easily into the nacelle.
+8-9
+
+===== PDF PAGE 337 =====
+To prevent injury to the crew or damage to the aircraft or
+engine, be sure that the engine is steadied when moving the
+hoist frame.
+Engine nacelles are rarely designed for the engine to be
+fitted and bolted into place as though it were being mounted
+on a bare wall. The engine must be guided into position and
+mated with its various connections, such as the mounting
+bolt holes and the exhaust tailpipe. This must be done despite
+such obstacles as the nacelle framework, ducts, or firewall
+connections and without leaving a trail of broken and bent
+parts, scratched paint, or crushed fingers.
+When the engine has been aligned correctly in the nacelle,
+insert the mounting bolts into their holes and start all
+of the nuts on them. Always use the type of bolt and
+nut recommended by the manufacturer. Never use an
+unauthorized substitution of a different type or specification
+of nut and bolt than that prescribed.
+The nuts on the engine mount bolts must be tightened to the
+torque recommended by the aircraft manufacturer. While the
+nuts are being tightened, the hoist should support the engine
+weight sufficiently to allow alignment of the mounting bolts.
+If the engine is permitted to exert upward or downward
+pressure on the bolts, it is necessary for the nuts to pull the
+engine into proper alignment. This results in nuts being
+tightened to the proper torque value without actually holding
+the engine securely to the aircraft.
+The applicable manufacturer’s instructions outline the
+sequence for tightening the mounting bolts to ensure security
+of fastening. After the nuts are safetied and the engine sling
+and hoist are removed, bonding strips should be connected
+across each engine mount to provide an electrical path from
+the mount to the airframe.
+Mounting the engine in the nacelle is, of course, only the
+beginning. All the ducts, electrical leads, controls, tubes, and
+conduits must be connected before the engine can be operated.
+Connections & Adjustments
+There are no hard-and-fast rules that direct the order in which
+units or systems should be connected to the engine. Each
+maintenance organization normally supplies a worksheet
+or checklist to be followed during this procedure. This list
+is based upon past engine installations on each particular
+aircraft. If this is followed carefully, it serves as a guide for
+an efficient installation. The following instructions are not a
+sequence of procedures but a discussion of correct methods
+for completing an engine installation.
+The system of ducts for routing air to the engine varies with
+
+all types of aircraft. In connecting them, the goal is to fit the
+ducts closely at all points of disconnect so that the air they
+route does not escape its intended path. The duct systems of
+some aircraft must be pressure checked for leaks. This is done
+by blocking the system at one end, supplying compressed air
+at a specified pressure at the other end, and then checking
+the rate of leakage.
+The filters in the air induction system must be cleaned to
+ensure an unrestricted flow of clean air to the engine and
+its units. Because methods for cleaning air filters vary with
+the materials used in the filtering element, clean them in
+accordance with the technical instructions for the aircraft
+being serviced.
+The exhaust system should also be carefully connected
+to prevent the escape of hot gases into the nacelle. When
+assembling the exhaust system, check all clamps, nuts,
+and bolts, and replace any in doubtful condition. During
+assembly, the nuts should be gradually and progressively
+tightened to the correct torque. The clamps should be tapped
+with a rawhide mallet as they are being tightened to prevent
+binding at any point. On some systems, a ball joint connects
+the stationary portion of the exhaust system to the portion
+that is attached to the engine. This ball joint absorbs the
+normal engine movement caused by the unbalanced forces
+of the engine operation. Ball joints must be installed with
+the specified clearance to prevent binding when expanded
+by hot exhaust gases.
+Hoses used inside low-pressure systems are generally
+fastened into place with clamps. Before using a hose clamp,
+inspect it for security of welding or riveting and for smooth
+operation of the adjusting screw. A clamp that is badly
+distorted or materially defective should be rejected. Material
+defects include extremely brittle or soft areas that may easily
+break or stretch when the clamp is tightened. After a hose is
+installed in a system, it should be supported with rubber-lined
+supporting clamps at regular intervals.
+Before installing metal tubing with threaded fittings, ensure
+the threads are clean and in good condition. Apply sealing
+compound, of the correct specification for the system, to
+the threads of the fittings before installing them. While
+connecting metal tubing, follow the same careful procedure
+for connecting hose fittings to prevent cross-threading and
+to ensure correct torque.
+When connecting the starter, generator, or various other
+electrical units within the nacelle, make sure that all lead
+connections are clean and properly secured. On leads that
+are fastened to a threaded terminal with a nut, a lock washer
+is usually inserted under the nut to prevent the lead from
+8-10
+
+===== PDF PAGE 338 =====
+working loose. When required, connector plugs can be
+safetied with steel wire to hold the knurled nut in the fulltight position.
+Electrical leads within the engine nacelle are usually passed
+through either flexible or rigid conduit. The conduit must be
+anchored, as necessary, to provide a secure installation and
+bonded when required.
+All engine controls must be accurately adjusted to ensure
+instantaneous response to the control setting. For flexibility,
+the engine controls are usually a combination of rods and
+cables. Since these controls are tailored to the model of
+aircraft in which they are installed, their adjustment must
+follow exactly the step-by-step procedure outlined in the
+manufacturer’s instructions for each particular model
+of aircraft.
+Figure 8-11 illustrates a simplified schematic drawing of a
+throttle control system for a reciprocating aircraft engine.
+Follow a general procedure for adjusting throttle controls.
+First, loosen the serrated throttle control arm at the carburetor
+and back off the throttle stop until the throttle valve is in
+
+the fully closed position. After locking the cable drum into
+position with the locking pin, adjust the control rod to a
+specified length. Then, attach one end of the control rod to
+the locked cable drum, and reinstall the throttle control arm
+on the carburetor in the serrations that allow the other end of
+the control rod to be attached to it. This correctly connects
+the control arm to the cable drum.
+Now, loosen the cable turnbuckles until the throttle control
+can be locked at the quadrant with the locking pin. Then, with
+both locking pins in place, adjust the cables to the correct
+tension as measured with a tensiometer. Remove the locking
+pins from the cable drum and quadrant.
+Next, adjust the throttle control so that it has a slight cushion
+action at two positions on the throttle quadrant: one when
+the carburetor throttle valve is in the full-open position and
+the other when it is closed to the idle position (stop to stop).
+Adjust the cushion by turning the cable turnbuckles equally
+in opposite directions until the throttle control cushion is
+correct at the full-open position of the throttle valve. Then,
+when the throttle arm stop is adjusted to the correct idle speed
+
+C
+
+E
+
+F
+
+B
+
+A
+
+D
+
+J
+
+K
+
+H
+
+G
+A
+
+Serrated throttle control arm
+
+D
+
+Cable drum
+
+G
+
+Quadrant locking pin
+
+B
+
+Control rod
+
+E
+
+Tensiometer
+
+H
+
+Cable turnbuckle
+
+C
+
+Adjustable rod ends
+
+F
+
+Cushion movement
+
+J
+
+Cable drum locking pin
+
+K
+
+Throttle stop
+
+Figure 8-11. Schematic drawing of throttle control system.
+
+8-11
+
+===== PDF PAGE 339 =====
+setting, the amount of cushion should be within tolerance at
+the idle speed position of the throttle valve. The presence of
+this cushion ensures that the travel of the throttle valve is not
+limited by the stops on the throttle control quadrant, but that
+they are opening fully and closing to the correct idle speed
+as determined by the throttle arm stop.
+Adjustment of the engine controls is basically the same on all
+aircraft regarding the linkage adjustment to a predetermined
+length for a specific setting of the unit to be controlled. Then
+adjust cables, if used in the control system, to a specific
+tension with the control system locked. Finally, the full
+travel of the unit to be controlled is ensured by establishing
+the correct cushion in the controls. In general, the same basic
+procedure is used to connect the linkage of the remaining
+engine controls. After rigging the engine controls, safety the
+turnbuckles and castle nuts, and make certain the jam nuts
+on all control rods are tightened.
+On multiengine aircraft, the amount of cushion of all engine
+controls on each quadrant must be equal so that all are
+aligned at any specific setting chosen. This eliminates the
+necessity of setting each control individually to synchronize
+engine operations.
+After the engine has been installed, it is necessary to adjust
+the cowl flaps, if installed, so that the passage of the cooling
+air over the engine can be regulated accurately. Operate the
+system and recheck for opening and closing to the specified
+limits. Also, check the cowl flap position indicators, if
+installed, to ensure that they indicate the true position of the
+cowl flaps. Cowl flaps are doors at the bottom of the rear
+cowling that are used to control air flow through the cowling.
+The oil cooler doors are adjusted in a manner similar to that
+used to adjust the cowl flaps. In some cases, the procedure
+is reversed in so far as the door is first adjusted to retract to
+a specified point, and the limit switch on the motor is set to
+cut out at this point. Then, the jackscrew is adjusted to permit
+the door to open only a specified distance, and the open limit
+switch is set to stop the motor when this point is reached.
+
+Preparation of Engine for Ground & Flight
+Testing
+Pre-Oiling
+Before the new engine is flight tested, it must undergo a
+thorough ground check. Before this ground check can be
+made, several operations are usually performed on the engine.
+To prevent failure of the engine bearings during the initial
+start, the engine should be pre-oiled. When an engine
+has been idle for an extended period of time, its internal
+bearing surfaces are likely to become dry at points where
+the corrosion-preventive mixture has dried out or drained
+away from the bearings. Hence, it is necessary to force oil
+throughout the entire engine oil system. If the bearings are dry
+when the engine is started, the friction at high rpm destroys
+the bearings before lubricating oil from the engine-driven oil
+pump can reach them.
+There are several methods of pre-oiling an engine. The
+method selected should provide an expeditious and adequate
+pre-oiling service. Before using any pre-oiling method,
+remove one spark plug from each cylinder to allow the engine
+to be turned over more easily with the starter. Also, connect
+an external source of electrical power (auxiliary power unit)
+to the aircraft electrical system to prevent an excessive drain
+on the aircraft battery.
+In using some types of pre-oilers, such as that shown in
+Figure 8-12, the oil line from the inlet side of the enginedriven oil pump must be disconnected to permit the pre-oiler
+tank to be connected at this point. Then, a line must be
+disconnected, or an opening made in the oil system at the
+nose of the engine, to allow oil to flow out of the engine.
+Oil flowing out of the engine indicates the completion of the
+pre-oiling operation, since the oil has now passed through
+the entire system.
+
+After the engine has been completely installed and connected,
+install the propeller on the aircraft. Before doing so, the thrust
+bearing retaining nut should be checked for correct torque. If
+required, the propeller shaft must be coated with light engine
+oil before the propeller is installed; the propeller governor and
+anti-icing system must be connected according to applicable
+manufacturer’s instructions.
+
+Figure 8-12. Pre-oiler tank.
+
+8-12
+
+===== PDF PAGE 340 =====
+In order to force oil from the pre-oiler tank through the
+engine, apply air pressure to the oil in the tank while the
+engine is being turned through with the starter. When this
+action has forced oil through the disconnection at the nose
+of the engine, stop cranking the engine and disconnect the
+pre-oiler tank. A motor-driven oil pump can also be used to
+pump oil through the engine during the pre-oiling operation.
+When no external means of pre-oiling an engine are available,
+the engine oil pump may be used. Fill the engine oil tank,
+or crankcase, to the proper level. Then, with the mixture
+in the idle cutoff position (reciprocating engine), the fuel
+shutoff valve and ignition switches in the off position, and
+the throttles fully open, crank the engine with the starter
+until the oil pressure gauge mounted on the instrument panel
+indicates oil pressure.
+After the engine has been pre-oiled, replace the spark plugs
+and connect the oil system. Generally, the engine should be
+operated within 4 hours of being pre-oiled; otherwise, the
+pre-oiling procedure normally must be repeated.
+Fuel System Bleeding
+To purge the fuel system of air locks, and to aid in flushing
+any traces of preservative oil from a pressure carburetor,
+fuel injector unit, or fuel control (turbine), remove the drain
+plug in the fuel unit chamber that is farthest from the fuel
+inlet to the fuel unit. In its place, screw a threaded fitting to
+a length of hose leading to a suitable container. Then, set
+the fuel control unit to flow fuel so that fuel is permitted to
+flow through the system. After ensuring the fuel shutoff and
+main fuel tank valves are open, turn on the fuel boost pump
+until there are no traces of preservative oil in the fuel being
+pumped through the system. The passage of air is indicated
+by the absence of air mixed in the fuel emerging from the end
+of the hose submerged in the container of fuel. Air trapped in
+the system should not be confused with the numerous small
+air bubbles that may appear as a result of the velocity of the
+fuel being ejected from the engine’s fuel unit. Usually, after
+approximately a gallon of fuel has been bled off, the system
+can be considered safe for operation. After completing the
+bleeding operation, return all switches and controls to their
+normal, or off, position, and replace and safety all fuel unit
+connections disturbed.
+
+Propeller Check
+The propeller, if equipped, must be checked before, during,
+and after the engine has been ground operated. The propeller
+should be checked for proper torque on the mounting bolts,
+leaks, vibration, and for correct safety.
+A propeller whose pitch-changing mechanism is electrically
+
+actuated may be checked before the engine is operated.
+Propellers whose pitch-changing mechanisms are oil actuated
+must be checked during engine operation after the normal
+operating oil temperature has been reached. In addition to
+checking the increase or decrease in rpm, the feathering cycle
+of the propeller should also be checked.
+
+Checks & Adjustments After Engine Runup &
+Operation
+After the engine has been ground operated, and again after
+flight test, operational factors must be adjusted, as necessary,
+and the entire installation given a thorough visual inspection.
+These adjustments often include fuel pressure and oil pressure,
+as well as rechecks of such factors as ignition timing, valve
+clearances, and idle speed and mixture. If these rechecks are
+indicated by the manner in which the engine performs.
+After both the initial ground runup and the test flight, remove
+the oil sump plugs and screens and inspect for metal particles.
+Clean the screens before reinstalling them.
+Check all lines for leakage and security of attachment.
+Especially, check the oil system hose clamps for security
+as evidenced by oil leakage at the hose connections. Also,
+inspect the cylinder holddown nuts or cap screws for security
+and safety. This check should also be performed after the
+flight immediately succeeding the test flight.
+
+Rigging, Inspections, & Adjustments
+The following instructions cover some of the basic
+inspections and procedures for rigging and adjusting fuel
+controls, fuel selectors, and fuel shutoff valves.
+1.
+
+Inspect all bellcranks for looseness, cracks, or
+corrosion.
+
+2.
+
+Inspect rod ends for damaged threads and the number
+of threads remaining after final adjustment.
+
+3.
+
+Inspect cable drums for wear and cableguards for
+proper position and tension.
+
+While rigging the fuel selector, power controls, and shutoff
+valve linkages, follow the manufacturer’s step-by-step
+procedure for the particular aircraft model being rigged.
+The cables should be rigged with the proper tension with
+the rigging pins installed. The pins should be free to be
+removed without any binding; if they are hard to remove, the
+cables are not rigged properly and should be rechecked. The
+power lever should have the proper cushion at the idle and
+full-power positions. The pointers, or indicators, on the fuel
+control should be within limits. The fuel selectors must be
+rigged so that they have the proper travel and do not restrict
+the fuel flow to the engines.
+
+8-13
+
+===== PDF PAGE 341 =====
+Rigging Power Controls
+Many older conventional turbofan engines use various power
+lever control systems. One of the common types is the cable
+and rod system. This system uses bellcranks, push-pull rods,
+drums, fairleads, flexible cables, and pulleys. All of these
+components make up the control system and must be adjusted
+or rigged from time to time. On single-engine aircraft, the
+rigging of the power lever controls is not very difficult. The
+basic requirement is to have the desired travel on the power
+lever and correct travel at the fuel control. On multiengine
+turbojet aircraft, the power levers must be rigged so that they
+are aligned at all power settings.
+Most computer controlled engines have an electronic
+connection from the flight deck to the engine. This eliminates
+the need for any type of cable or linkages. In the computer
+controlled system, the computer sends electronic information
+through wires or buses to the fuel control to command it to
+follow pilot inputs from the flight deck.
+On older style aircraft the power lever control cables and
+push-pull rods in the airframe system to the pylon and nacelle
+are not usually disturbed at engine change time and usually
+no rigging is required, except when some component has
+been changed. The control system from the pylon to the
+engine must be rigged after each engine change and fuel
+control change. Figure 8-13 shows the control system from
+the bellcrank in the upper pylon to the fuel control.
+Before adjusting the power controls at the engine, be sure
+that the power lever is free from binding and the controls
+have full throw on the console. If they do not have full throw
+or are binding, the airframe system should be checked, and
+the discrepancies repaired. After all adjustments have been
+
+Wing front span
+
+Pylon and nacelle control
+Power levers
+Center console
+
+Control rods
+Figure 8-13. Power lever control system.
+
+made, move the power levers through their complete range,
+carefully inspecting for adequate clearance between the
+various push-pull rods and tubes. Secure all locknuts, cotter
+pins, and safety as required.
+Adjusting the Fuel Control
+The fuel control unit of the typical turbofan on older aircraft
+can be a hydromechanical device that schedules the quantity
+of fuel flowing to the engine so that the desired amount of
+thrust can be obtained. The amount of thrust is dictated by the
+position of the power lever in the flight deck and the particular
+operation of the engine. Thus, the thrust of the engine and
+the consequent rpm of its turbine are scheduled by fuel flow.
+The fuel control unit of the engine is adjusted to trim the
+engine to obtain maximum thrust output of the engine when
+desired. The engine must be retrimmed after a fuel control
+unit is replaced, the engine does not develop maximum thrust,
+engine change, or excessive throttle stagger.
+After trimming the engine, the idle rpm can be adjusted.
+The idle rpm is adjusted by turning the INC. IDLE screw an
+eighth of a turn at a time, allowing sufficient time for the rpm
+to stabilize between adjustments. Retard the power lever to
+idle and recheck the idle rpm.
+If wind velocity is a factor, the aircraft should be headed
+into the wind while trimming or checking the trim on an
+engine. Since trimming accuracy decreases as windspeed
+and moisture content increase, the most accurate trimming is
+obtained under conditions of no wind and clear, moisture-free
+air. Do not trim when there is a tailwind because hot exhaust
+gases may be reingested. As a practical matter, the engine
+should never be trimmed when icing conditions exist because
+of the adverse effects on trimming accuracy. To obtain the
+most accurate results, the aircraft should always be headed
+into the wind while the engine is being trimmed.
+With the aircraft headed into the wind, verify that the exhaust
+area is clear. Install an engine trim gauge to the T-fitting in the
+turbine discharge pressure line. Start the engine and allow it
+to stabilize for 5 minutes before attempting to adjust the fuel
+control. Refer to the applicable manufacturer’s instructions
+for correct trim values. Compensate for temperature and
+pressure during the trimming process. If a hydromechanical
+fuel control is not within limits, turn the INC. MAX screw
+[Figure 8-14] about one-eighth turn in the appropriate
+direction. Repeat, if necessary, until the desired value is
+attained. If the aircraft is equipped with a pressure ratio gauge,
+set it to the correct value.
+An example of a trim check using an electronic controlled
+fuel control must take into account temperature and pressure
+8-14
+

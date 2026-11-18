@@ -1,0 +1,839 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 7 (Propellers), PDF pages 317-327
+
+===== PDF PAGE 317 =====
+the major portion of the propulsive force that drives the
+aircraft. The turboprop fuel control and the propeller governor
+are connected and operate in coordination with each other.
+The power lever directs a signal from the flight deck to the
+fuel control for a specific amount of power from the engine.
+The fuel control and the propeller governor together establish
+the correct combination of rpm, fuel flow, and propeller
+blade angle to create sufficient propeller thrust to provide
+the desired power.
+The propeller control system is divided into two types of
+control: one for flight and one for ground operation. For
+flight, the propeller blade angle and fuel flow for any given
+power lever setting are governed automatically according to a
+predetermined schedule. Below the “flight idle” power lever
+position, the coordinated rpm blade angle schedule becomes
+incapable of handling the engine efficiently. Here, the ground
+handling range, referred to as the beta range, is encountered. In
+the beta range of the throttle quadrant, the propeller blade angle
+is not governed by the propeller governor but is controlled by
+the power lever position. When the power lever is moved below
+the start position, the propeller pitch is reversed to provide
+reverse thrust for rapid deceleration of the aircraft after landing.
+A characteristic of the turboprop is that changes in power are
+not related to engine speed, but to turbine inlet temperature.
+During flight, the propeller maintains a constant engine
+speed. This speed is known as the 100 percent rated speed
+of the engine, and it is the design speed at which most power
+and best overall efficiency can be obtained. Power changes
+are affected by changing the fuel flow. An increase in fuel
+flow causes an increase in turbine inlet temperature and a
+corresponding increase in energy available at the turbine. The
+turbine absorbs more energy and transmits it to the propeller
+in the form of torque. The propeller, in order to absorb the
+increased torque, increases blade angle, thus maintaining
+
+constant engine rpm with added thrust.
+Reduction Gear Assembly
+The function of the reduction gear assembly is to reduce
+the high rpm from the engine to a propeller rpm that can be
+maintained without exceeding the maximum propeller tip
+speed (speed of sound). Most reduction gear assemblies use
+a planetary gear reduction. [Figure 7-46] Additional power
+takeoffs are available for propeller governor, oil pump, and
+other accessories. A propeller brake is often incorporated into
+the gearbox. The propeller brake is designed to prevent the
+propeller from windmilling when it is feathered in flight, and
+to decrease the time for the propeller to come to a complete
+stop after engine shutdown.
+Turbo-Propeller Assembly
+The turbo-propeller provides an efficient and flexible
+means of using the power of the engine at any condition
+in flight (alpha range). [Figure 7-47] For ground handling
+and reversing (beta range), the propeller can be operated
+to provide either zero or negative thrust. The major
+subassemblies of the propeller assembly are the barrel,
+dome, low-pitch stop assembly, overspeed governor, pitch
+control unit, auxiliary pump, feather and unfeather valves,
+torque motor, spinner, deice timer, beta feedback assembly,
+and propeller electronic control. Modern turboprop engines
+use dual Full Authority Digital Engine Control (FADEC) to
+control both engine and propeller. The spinner assembly is a
+cone-shaped configuration that mounts on the propeller and
+encloses the dome and barrel to reduce drag.
+Propeller operation is controlled by a mechanical linkage
+from the flight deck-mounted power lever and the emergency
+engine shutdown handle (if the aircraft is provided with one)
+to the coordinator, which, in turn, is linked to the propeller
+control input lever. Newer designs use electronic throttle
+control that is linked to the FADEC controller.
+Turbo-propeller control assemblies have a feathering system
+that feather the propeller when the engine is shut down in
+flight. The propeller can also be unfeathered during flight, if
+the engine needs to be started again. Propeller control systems
+for large turboprop engines differ from smaller engines
+because they are dual acting, which means that hydraulic
+pressure is used to increase and decrease propeller blade
+angle. [Figure 7-48]
+
+Pratt & Whitney PT6 Hartzell Propeller System
+
+Figure 7-46. Reduction gearbox.
+
+The PT6 Hartzell propeller system incorporates three-, four‑,
+or six-bladed propellers made of aluminum or composite
+materials. It is a constant-speed, feathering, reversing
+propeller system using a single-acting governor. Oil from
+the propeller governor feeds into the propeller shaft and to
+7-31
+
+===== PDF PAGE 318 =====
+Blade assembly
+
+Backplate
+
+Blade grease seal
+Flange attachment
+Operating pin assembly
+Beta tubes
+Piston
+Crosshead
+
+Cylinder
+
+Inner bearing assembly
+Deicing slip ring
+Outer bearing assembly
+
+Hub
+Hub assembly bolts
+
+Counterweight assembly
+
+Figure 7-47. Turboprop propeller.
+
+the servo piston via the oil transfer sleeve mounted on the
+propeller shaft. [Figure 7-49] As oil pressure increases,
+the servo piston is pushed forward, and the feather spring
+is compressed. Servo piston movement is transmitted to
+the propeller blade collars via a system of levers. When oil
+pressure is decreased, the return spring and flyweights force
+the oil out of the servo piston and change the blade pitch to
+a high pitch position. An increase in oil pressure drives the
+blades towards low pitch.
+Engine oil is supplied to the governor from the engine oil
+supply. A gear pump, mounted at the base of the governor,
+increases the flow of oil going to the constant speed unit
+(CSU) relief valve. When the oil pressure reaches the desired
+level, the relief valve opens to maintain the governor oil
+pressure. When the speed selected by the pilot is reached, the
+flyweight force equals the spring tension of the speeder spring.
+The governor flyweights are then on speed. When the engine
+output power is increased, the power turbines tend to increase
+speed. The flyweights in the CSU sense this acceleration and
+the flyweights go into an overspeed condition because of
+the increase centrifugal force. This force causes the control
+valve to move up and restrict oil flow to the propeller dome.
+[Figure 7-50] The feathering spring increases the propeller
+
+pitch to maintain the selected speed. Reducing power causes
+an under-speed of the flyweights, downward movement of
+the control valve, more oil in propeller dome, resulting in a
+lower pitch to control propeller speed. The propeller governor
+houses an electro-magnetic coil, which is used to match the
+rpm of both propellers during cruise. An aircraft supplied
+synchrophaser unit controls this function.
+At low power, the propeller and governor flyweights
+do not turn fast enough to compress the speeder spring.
+[Figure 7-51] In this condition, the control valve moves
+down, and high pressure oil pushes the dome forward moving
+the blades towards low pitch. Any further movement pulls
+the beta rod and slip ring forward. The forward motion of
+the slip ring is transmitted to the beta valve via the beta lever
+and the carbon block. Forward movement of the beta valve
+stops the oil supply to the propeller. This prevents the blade
+angles from going any lower. This is the primary blade angle
+(PBA) and is the minimum blade angle allowed for flight
+operation. From this point, the propeller is in the beta mode.
+If the engine power is reduced when the propeller is at the
+primary blade angle, the propeller speed decreases since the
+blade angle does not change.
+
+7-32
+
+===== PDF PAGE 319 =====
+HPP/OSG
+
+Gearbox oil supply
+
+AFP
+
+Drain
+
+HP pump
+Governor
+180-210
+psi
+1100 psi
+
+Pitch control unit
+
+Drain
+Unfeather solenoid
+
+Unfeather
+valve
+
+Torque motor
+
+Drain
+Relief valve
+
+R1
+
+Drain
+
+SOL
+(Deenergized)
+
+NRV B
+Drain
+
+Pilot press
+
+(Energized)
+
+Drain
+
+NRV A
+
+CODE
+P
+
+Pitch
+change
+press
+
+SOL
+
+GBEV solenoid
+Oil from PGB pump
+HP and OSG oil
+Drain oil
+Pitch change oil
+Auxiliary feather pump oil
+Pressure switch
+
+Servo valve
+
+Ground beta
+enable valve
+Ground fine
+P
+
+Coarse
+Blade
+
+R4
+
+FLT fine
+R2
+
+Feather
+valve
+
+R3
+Propeller gearbox
+Fine
+
+Flyweight
+
+Coarse
+Drain
+
+Prop
+
+Beta feedback
+
+Note: AFP (Auxiliary feather pump)
+
+Figure 7-48. Propeller control system schematic.
+
+The lock-pitch solenoid valve prevents the propeller from
+going into reverse or below the primary blade angle in the
+event of a beta system malfunction in flight. The solenoid
+is energized by a switch (airframe supplied) mechanically
+connected to the propeller slip-ring linkage via a second
+carbon block. As oil pressure leaks off around the propeller
+shaft oil transfer sleeve, the blade angle slowly drifts back
+toward high pitch. This deactivates the low pitch solenoid
+valve and restores the oil supply to the propeller servo. The
+low pitch solenoid valve cycles (close/open) as backup to
+the beta valve function. Moving the power lever backwards
+causes the reversing cam and cable to move the beta valve
+backward, allowing more oil to flow into the propeller
+dome, and causing the blades to go towards reverse pitch.
+[Figure 7-52]
+As the blades move to reverse, the dome pulls the slip ring
+forward and moves the beta valve outward, restricting the
+oil flow. This stops the blade movement toward reverse. To
+obtain more reverse thrust, move the power lever back more
+to reset the beta valve inward, and repeat the process. Move
+the reset arm on the CSU rearward by the interconnecting
+rod at the same time the blade angle moves toward reverse.
+This causes the reset lever and reset post to move down in
+the CSU, bringing the reset lever closer to the speeder spring
+cup. As propeller speed increases due to the increase in engine
+
+power, the governor flyweights begin to move outwards.
+Since the reset lever is closer to the speeder spring cup, the
+cup contacts the reset lever before the flyweights would
+normally reach the on-speed position (95 percent propeller
+speed instead of 100 percent). As the reset lever is pushed up
+by the flyweights/speeder spring cup, the Py air bleeds from
+the fuel control unit (FCU) which lowers the fuel flow, engine
+power, and thus propeller speed. In reverse, propeller speed
+remains 5 percent below the selected propeller speed so that
+the control valve remains fully open, and only the beta valve
+controls the oil flow to the propeller dome.
+In this mode, the propeller speed is no longer controlled by
+changing the blade angle. It is now controlled by limiting
+engine power. Bringing the propeller lever to the feather
+position causes the speed selection lever on the CSU to push
+the feathering valve plunger and allows propeller servo oil
+to dump into the reduction gearbox sump. The pressure loss
+in the propeller hub causes the feathering spring and the
+propeller flyweights to feather the propeller. In the event
+of a propeller overspeed not controlled by the propeller
+overspeed governor (oil governor), the flyweights in the
+propeller governor move outward until the speeder spring cup
+contacts the reset lever. [Figure 7-53] The movement of the
+reset lever around its pivot point opens the Py air passage. Py
+bleeds into the reduction gearbox limiting the fuel supply to
+7-33
+
+===== PDF PAGE 320 =====
+Propeller
+
+Propeller governor (CSU)
+Moves forward from PBA to REV
+
+Oil transfer sleeve
+
+Spider hub
+Servo piston (dome)
+
+Feathering spring
+Blade actuating lever
+
+Figure 7-49. Pitch change mechanism.
+
+the engine. This prevents the propeller/power turbines from
+accelerating beyond 106 percent rpm.
+
+flyweights move the blade quickly to feather.
+
+The oil overspeed governor houses a set of flyweights
+connected to a control valve that is driven by a beveled gear
+mounted on the propeller shaft. [Figure 7-54] The flyweight’s
+centrifugal force is acting against two springs: a speeder spring
+and a reset spring. When the propeller speed reaches a specified
+limit (4 percent over maximum propeller speed), the governor
+flyweights lift the control valve and bleed off propeller servo
+oil into the reduction gearbox sump, causing the blade angle
+to increase. An increase in blade pitch puts more load on the
+engine and slows down the propeller. To test the unit, the speed
+reset solenoid is activated, and servo oil pressure pushes against
+the reset piston to cancel the effect of the reset spring. With less
+spring tension acting on the flyweights, the overspeed governor
+can be tested at speeds lower than maximum.
+
+Many of the hydromatic propellers are used with older type
+aircraft involved in cargo operations. A hydromatic propeller
+has a double-acting governor that uses oil pressure on both
+sides of the propeller piston. Many larger turboprop systems
+also use this type of system. The governors are similar in
+construction and principle of operation in normal constantspeed systems. The major difference is in the pitch-changing
+mechanism. In the hydromatic propeller, no flyweights are
+used, and the moving parts of the mechanism are completely
+enclosed. Oil pressure and the centrifugal twisting moment
+of the blades are used together to turn the blades to a lower
+angle. The main advantages of the hydromatic propeller are
+the large blade angle range and the feathering and reversing
+features.
+
+On twin installation, a second solenoid valve is mounted on
+the overspeed governor and is used in conjunction with the
+aircraft autofeather system. The system is switched on for
+takeoff and, in the event of an engine malfunction, energizes
+the solenoid valve to dump propeller servo oil into the
+reduction gearbox sump. The feathering spring and propeller
+
+Hamilton Standard Hydromatic Propellers
+
+This propeller system is a double-acting hydraulic propeller
+system in which the hydraulic pressure (engine oil pressure)
+on one piston dome is used against governor oil pressure on
+the other side of the piston. These two opposing hydraulic
+forces are used to control and change blade angle or pitch.
+Although hydromatic propeller systems are very old, some
+7-34
+
+===== PDF PAGE 321 =====
+no movement
+
+PT6A-67B
+with fixed propeller speed
+
+Propeller speed control lever
+Reset post
+
+Governor spring
+Pressure relief valve
+
+Py
+
+no movement
+
+Pilot valve
+Engine oil
+
+Beta valve
+
+no movement
+
+Carbon block
+
+CSU pump
+
+Minimum govenor adjustment
+Reset arm
+
+CODE
+
+Beta rod
+Supply pressure
+Return to pump
+Propeller servo pressure
+Hydraulic low pitch adjustment
+Figure 7-50. Governing mode.
+
+are still used on radial engines. Larger new turboprop systems
+also use this opposing hydraulic force and double-acting
+governor systems.
+The distributor valve or engine-shaft-extension assembly
+provides oil passages for governor or auxiliary oil to the
+inboard side of the piston and for engine oil to the outboard
+side. During unfeathering operation, the distributor shifts
+under auxiliary pressure and reverses these passages so that
+oil from the auxiliary pump flows to the outboard side of the
+piston and oil on the inboard side flows back to the engine.
+The engine-shaft-extension assembly is used with propellers
+that do not have feathering capabilities.
+The hydromatic propeller [Figure 7-55] is composed of four
+major components:
+1.
+
+The hub assembly,
+
+2.
+
+The dome assembly,
+
+3.
+
+The distributor valve assembly (for feathering on
+
+single-acting propellers) or engine-shaft-extension
+assembly (for nonfeathering or double-acting
+propellers), and
+4.
+
+The anti-icing assembly.
+
+The hub assembly is the basic propeller mechanism. It
+contains both the blades and the mechanical means for
+holding them in position. The blades are supported by the
+spider and retained by the barrel. Each blade is free to turn
+about its axis under the control of the dome assembly.
+The dome assembly contains the pitch-changing mechanism
+for the blades. Its major components are the:
+1.
+
+rotating cam,
+
+2.
+
+fixed cam,
+
+3.
+
+piston, and
+
+4. dome shell.
+When the dome assembly is installed in the propeller hub,
+7-35
+
+===== PDF PAGE 322 =====
+no movement
+Propeller speed control lever
+Reset post
+
+Beta valve lever
+Governor spring
+
+Shut-off (lock pitch) solenoid valve
+
+Py
+
+Moves in response to beta feedback ring
+
+Beta valve
+
+Pilot valve
+Engine oil
+
+Carbon block
+
+CSU pump
+
+Minimum govenor adjustment
+
+CODE
+
+Reset arm
+
+Supply pressure
+Return to pump
+Propeller servo pressure
+
+Beta feedback ring moves
+forward as prop reaches ≈10°
+
+Beta rod
+
+Hydraulic low pitch adjustment
+Figure 7-51. Beta mode forward operation.
+
+the fixed cam remains stationary with respect to the hub. The
+rotating cam, which can turn inside the fixed cam, meshes
+with gear segments on the blades. The piston operates inside
+the dome shell and is the mechanism that converts engine and
+governor oil pressure into forces that act through the cams
+to turn propeller blades.
+Principles of Operation
+The pitch-changing mechanism of hydromatic propellers is
+a mechanical-hydraulic system in which hydraulic forces
+acting on a piston are transformed into mechanical twisting
+forces acting on the blades. Linear movement of the piston
+is converted to rotary motion by a cylindrical cam. A bevel
+gear on the base of the cam mates with bevel gear segments
+attached to the butt ends of the blades, thereby turning the
+blades. This blade pitch-changing action can be understood
+by studying the schematic in Figure 7-56.
+The centrifugal force acting on a rotating blade includes a
+component force that tends to move the blade toward low
+pitch. As shown in Figure 7-56, a second force, engine oil
+
+pressure, is supplied to the outboard side of the propeller
+piston to assist in moving the blade toward low pitch.
+Propeller governor oil, taken from the engine oil supply and
+boosted in pressure by the engine-driven propeller governor,
+is directed against the inboard side of the propeller piston. It
+acts as the counterforce, which can move the blades toward
+higher pitch. By metering this high-pressure oil to, or draining
+it from, the inboard side of the propeller piston by means of
+the constant-speed control unit, the force toward high pitch
+can balance and control the two forces toward low pitch. In
+this way, the propeller blade angle is regulated to maintain
+a selected rpm.
+The basic propeller control forces acting on the Hamilton
+Standard propeller are centrifugal twisting force and high
+pressure oil from the governor. The centrifugal force acting
+on each blade of a rotating propeller includes a component
+force that results in a twisting moment about the blade center
+line that tends, at all times, to move the blade toward low
+pitch. Governor pump output oil is directed by the governor
+7-36
+
+===== PDF PAGE 323 =====
+Push-pull control
+Reversing cam
+Reset post
+
+Rearward movement
+
+Propeller speed control lever
+
+Beta valve lever
+
+Governor spring
+
+Shut-off (lock pitch) solenoid valve
+
+Py
+Reset arm
+
+Rearward movement
+Carbon block
+Pilot valve
+
+FCU Arm
+Engine oil
+
+Beta valve
+
+CSU pump
+
+Minimum govenor adjustment
+
+CODE
+
+Full forward position
+Supply pressure
+Return to pump
+Propeller servo pressure
+
+Hydraulic low pitch adjustment
+Beta rod
+
+Figure 7-52. Beta mode reverse operation.
+
+to either side of the propeller piston. The oil on the side of
+the piston opposite this high-pressure oil returns to the intake
+side of the governor pump and is used over again. Engine oil
+at engine supply pressure does not enter the propeller directly
+but is supplied only to the governor. During constant-speed
+operations, the double-acting governor mechanism sends oil
+to one side or the other of the piston as needed to keep the
+speed at a specified setting.
+Feathering Operation
+A typical hydromatic propeller feathering installation is
+shown in Figure 7-57. When the feathering push-button
+switch is depressed, the low current circuit is established
+from the battery through the push-button holding coil and
+from the battery through the solenoid relay. As long as the
+circuit remains closed, the holding coil keeps the push button
+in the depressed position. Closing the solenoid establishes
+the high current circuit from the battery to the feathering
+motor pump unit. The feathering pump picks up engine oil
+from the oil supply tank, boosts its pressure, if necessary,
+
+to the relief valve setting of the pump, and supplies it to the
+governor high-pressure transfer valve connection. Auxiliary
+oil entering the high-pressure transfer valve connection shifts
+the governor transfer valve, which hydraulically disconnects
+the governor from the propeller and at the same time opens
+the propeller governor oil line to auxiliary oil. The oil flows
+through the engine transfer rings, through the propeller shaft
+governor oil passage, through the distributor valve port,
+between lands, and finally to the inboard piston end by way
+of the valve inboard outlet.
+The distributor valve does not shift during the feathering
+operation. It merely provides an oil passageway to the inboard
+piston end for auxiliary oil and the outboard piston end for
+engine oil. The same conditions described for underspeed
+operation exist in the distributor valve, except that oil at
+auxiliary pressure replaces drain oil at the inboard end of
+the land and between lands. The distributor-valve spring is
+backed up by engine oil pressure, which means that at all
+times the pressure differential required to move the piston is
+7-37
+
+===== PDF PAGE 324 =====
+Reset lever
+Py bleed to atmosphere
+
+Speeder spring cup
+
+Py seal
+
+Flyweights
+
+Py
+
+Air bleed orifice
+
+CODE
+
+Pivot
+
+Supply from FCU
+Oil to reduction gearbox
+Propeller servo oil
+
+To sump
+
+Figure 7-53. Nf overspeed governor.
+
+identical with that applied to the distributor valve.
+The propeller piston moves outboard under the auxiliary oil
+pressure at a speed proportional to the rate the oil is supplied.
+This piston motion is transmitted through the piston rollers
+operating in the oppositely inclined cam tracks of the fixed
+cam and the rotating cam and is converted by the bevel gears
+into the blade-twisting moment. Only during feathering or
+unfeathering is the low mechanical advantage portion of the
+cam tracks used. (The low mechanical advantage portion lies
+between the break and the outboard end of the track profile.)
+Oil at engine pressure, displaced from the outboard piston
+end, flows through the distributor valve outboard inlet, past
+the outboard end of the valve land, through the valve port, into
+the propeller shaft engine oil passage, and is finally delivered
+into the engine lubricating system. Thus, the blades move
+toward the full high-pitch (or feathered) angle.
+Having reached the full-feathered position, further movement
+of the mechanism is prevented by contact between the highangle stop ring in the base of the fixed cam and the stop
+lugs set in the teeth of the rotating cam. The pressure in the
+inboard piston end now increases rapidly, and upon reaching
+a set pressure, the electric cutout switch automatically opens.
+
+This cutout pressure is less than that required to shift the
+distributor valve.
+Opening the switch deenergizes the holding coil and releases
+the feathering push-button control switch. Release of this
+switch breaks the solenoid relay circuit, which shuts off the
+feathering pump motor. The pressures in both the inboard
+and outboard ends of the piston drop to zero, and, since all
+the forces are balanced, the propeller blades remain in the
+feathered position. Meanwhile, the governor high-pressure
+transfer valve has shifted to its normal position as soon as
+the pressure in the propeller governor line drops below that
+required to hold the valve open.
+Unfeathering Operation
+To unfeather a hydromatic propeller, depress and hold in the
+feathering switch push-button control switch. As in the case
+of feathering a propeller, the low-current control circuits
+from the battery through the holding coil and from the
+battery through the solenoid are completed when the solenoid
+closes. The high-current circuit from the battery starts the
+motor-pump unit, and oil is supplied at a high pressure to
+the governor transfer valve.
+
+7-38
+
+===== PDF PAGE 325 =====
+Speed adjusting screw
+
+Reduces spring tension = lower O/S
+
+Reset spring
+Reset piston
+Speeder spring
+
+Flyweights
+
+Speed reset solenoid
+
+Feathering solenoid valve
+
+Speed reset
+oil activation
+
+Governor spline drive
+
+From CSU
+
+Figure 7-54. Propeller overspeed governor.
+
+Auxiliary oil entering through the high-pressure transfer
+valve connection shifts the governor transfer valve and
+disconnects the governor from the propeller line; in the same
+operation, auxiliary oil is admitted. The oil flows through the
+engine oil transfer rings, through the propeller shaft governor
+oil passage, and into the distributor valve assembly.
+When the unfeathering operation begins, the piston is in the
+extreme outboard position. The oil enters the inboard piston
+end of the cylinder by way of the distributor valve inboard
+outlet. As the pressure on the inboard end of the piston
+increases, the pressure against the distributor valve land builds
+up. When the pressure becomes greater than the combined
+opposing force of the distributor valve spring and the oil
+pressure behind this spring, the valve shifts. Once the valve
+shifts, the passages through the distributor valve assembly to
+the propeller are reversed. A passage is opened between lands
+and through a port to the outboard piston end by way of the
+distributor valve outlet. As the piston moves inboard under the
+auxiliary pump oil pressure, oil is displaced from the inboard
+
+piston end through the inlet ports between the valve lands,
+into the propeller shaft engine oil lands, and into the propeller
+shaft engine oil passage where it is discharged into the engine
+lubricating system. At the same time, the pressure at the cutout
+switch increases and the switch opens. However, the circuit
+to the feathering pump and motor unit remains complete as
+long as the feathering switch is held in.
+With the inboard end of the propeller piston connected to
+drain and auxiliary pressure flowing to the outboard end of
+the piston, the piston moves inboard, unfeathering the blades.
+As the blades are unfeathered, they begin to windmill and
+assist the unfeathering operation by the added force toward
+low pitch brought about by the centrifugal twisting moment.
+When the engine speed has increased to approximately 1,000
+rpm, the operator shuts off the feathering pump motor. The
+pressure in the distributor valve and at the governor transfer
+valve decreases, allowing the distributor valve to shift under
+the action of the governor high-pressure transfer valve spring.
+This action reconnects the governor with the propeller and
+7-39
+
+===== PDF PAGE 326 =====
+Preload shim (use as required)
+
+Figure 7-55. Typical hydromatic propeller installation.
+Governor oil pressure
+
+establishes the same oil passages through the distributor valve
+that are used during constant-speed and feathering operations.
+Setting the Propeller Governor
+The propeller governor incorporates an adjustable stop that
+limits the maximum speed at which the engine can run. As
+soon as the takeoff rpm is reached, the propeller moves off the
+low-pitch stop. The larger propeller blade angle increases the
+load on the engine, thus maintaining the prescribed maximum
+engine speed. At the time of propeller, propeller governor, or
+engine installation, the following steps are normally taken
+to ensure that the powerplant obtains takeoff rpm. During
+ground runup, move the throttle to takeoff position and note
+the resultant rpm and manifold pressure. If the rpm obtained
+is higher or lower than the takeoff rpm prescribed in the
+
+Centrifugal twisting moment
+
+Low pitch
+
+Engine oil pressure
+
+1. Centrifugal twisting moment
+2. Engine oil pressure
+3. Governor oil pressure
+Figure 7-56. Diagram of hydromatic propeller operational forces.
+
+7-40
+
+===== PDF PAGE 327 =====
+manufacturer’s instructions, reset the adjustable stop on the
+governor until the prescribed rpm is obtained.
+
+Feathering button
+Pressure cutoff switch
+
+Holding coil
+
+Oil tank
+
+ery
+
+Batt
+
+Oil pump
+
+Solenoid relay
+
+Figure 7-57. Typical feathering installation.
+
+7-41
+

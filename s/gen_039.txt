@@ -1,0 +1,2374 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 553-571
+
+===== PDF PAGE 553 =====
+the corresponding letters of the alphabet. The pi-type filter
+section resembles the Greek letter pi (π) schematically.
+All the filter sections shown are similar in that the inductances
+are in series and the capacitances are in parallel with the
+load. The inductances must, therefore, offer very high
+impedance and the capacitors very low impedance to the
+ripple frequency. Since the ripple frequency is comparatively
+low, the inductances are iron core coils having large values
+of inductance (several henries). Because they offer such
+high impedance to the ripple frequency, these coils are called
+chokes. The capacitors must also be large (several microfarads)
+to offer very little opposition to the ripple frequency. Because
+the voltage across the capacitor is DC, electrolytic capacitors
+are frequently used as filter capacitors. Always observe the
+correct polarity in connecting electrolytic capacitors.
+LC filters are also classified according to the position of
+the capacitor and inductor. A capacitor input filter is one in
+which the capacitor is connected directly across the output
+terminals of the rectifier. A choke input filter is one in which
+a choke precedes the filter capacitor.
+If it is necessary to increase the applied voltage to more than
+a single rectifier can tolerate, the usual solution is to stack
+them. These rectifiers are similar to resistors added in series.
+Each resistor drops a portion of the applied voltage rather than
+the total voltage. The same theory applies to rectifiers added
+in series or stacked. Series stacking increases the voltage
+rating. If, for example, a rectifier is destroyed with an applied
+voltage exceeding 50 volts, and it is to be used in a circuit
+with an applied voltage of 150 volts, stacking of diodes can
+be employed. The result is shown in Figure 12-233.
+Basic LC Filters
+Analog filters are circuits that perform signal processing
+functions, specifically intended to remove unwanted signal
+components, such as ripple, and enhance desired signals. The
+simplest analog filters are based on combinations of inductors
+and capacitors. The four basic categories of filters discussed
+are: low-pass, high-pass, band-pass and band-stop. All these
+types are collectively known as passive filters, because they
+do not depend on any external power source.
+The operation of a filter relies on the characteristic of variable
+inductive and capacitive reactance based on the applied
+frequency. In review, the inductor blocks high-frequency
+signals (high reactance) and conducts low-frequency
+signals (low reactance), while capacitors do the reverse.
+A filter in which the signal passes through an inductor, or
+in which a capacitor provides a path to earth, presents less
+attenuation (reduction) to a low-frequency signal than to a
+high-frequency signal and is considered a low-pass filter. If
+the signal passes through a capacitor, or has a path to ground
+
+through an inductor, then the filter presents less attenuation
+to high-frequency signals than low-frequency signals and
+is then considered a high-pass filter. Typically after an AC
+signal is rectified, the pulses of voltage are changed to usable
+form of DC by way of filtering.
+
+Low-Pass Filter
+A low-pass filter is a filter that passes low frequencies well,
+but attenuates (reduces) higher frequencies. The so-called
+cutoff frequency divides the range of frequencies that are
+passed and the range of frequencies that are stopped. In other
+words, the frequency components higher than the cutoff
+frequency are stopped by a low-pass filter. The actual amount
+of attenuation for each frequency varies by filter design.
+An inductive low-pass filter inserts an inductor in series with
+the load, where a capacitive low-pass filter inserts a resistor
+in series and a capacitor in parallel with the load. The former
+filter design tries to block the unwanted frequency signal
+while the latter tries to short it out. Figure 12-234 illustrates
+this type of circuit and the frequency/current flow response.
+
+High-Pass Filter (HPF)
+A high-pass filter (HPF) is a filter that passes high frequencies
+well, but attenuates (reduces) frequencies lower than the
+cutoff frequency. The actual amount of attenuation for each
+frequency varies once again depending on filter design. In
+some cases, it is called a low-cut filter. A HPF is essentially
+the opposite of a low-pass filter.
+It is useful as a filter to block any unwanted low frequency
+components of a signal while passing the desired higher
+frequencies. Figure 12-235 illustrates this type of circuit and
+the frequency/current flow response.
+
+Band-Pass Filter
+A band-pass filter is basically a combination of a highpass and a low-pass. There are some applications where
+a particular range of frequencies need to be singled out or
+filtered from a wider range of frequencies. Band-pass filter
+circuits are designed to accomplish this task by combining
+the properties of low-pass and high-pass into a single
+filter. Figure 12-236 illustrates this type of circuit and the
+frequency/current flow response.
+
+Band-Stop Filter
+In signal processing, a band-stop filter or band-rejection filter
+is a filter that passes most frequencies unaltered, but attenuates
+those in a range to very low levels. It is the opposite of a bandpass filter. A notch filter is a band-stop filter with a narrow
+stopband (high Q factor). Notch filters are used in live sound
+reproduction (public address (PA) systems) and in instrument
+
+12-112
+
+===== PDF PAGE 554 =====
+frequency/current flow response.
+
+Amplifier Circuits
+AC input
+
+Rectifier
+
+DC
+
+C1
+
+R1
+
+Figure 12-228. A capacitor used as a filter.
+
+amplifier (especially amplifiers or preamplifiers for acoustic
+instruments, such as acoustic guitar, mandolin, bass instrument
+amplifier, etc.) to reduce or prevent feedback, while having
+little noticeable effect on the rest of the frequency spectrum.
+Other names include “band limit filter,” “T-notch filter,” “bandelimination filter,” and “band-rejection filter.”
+Typically, the width of the stop-band is less than 1 to 2
+decades (that is, the highest frequency attenuated is less than
+10 to 100 times the lowest frequency attenuated). In the audio
+band, a notch filter uses high and low frequencies that may
+be only semitones apart.
+A band-stop filter is the general case. A notch filter is a specific
+type of band-stop filter with a very narrow range. Also called
+band-elimination, band-reject, or notch filters, this kind of
+filter passes all frequencies above and below a particular
+range set by the component values. Not surprisingly, it can
+be made out of a low-pass and a high-pass filter, just like
+the band-pass design, except that this time we connect the
+two filter sections in parallel with each other instead of in
+series. Figure 12-237 illustrates this type of circuit and the
+
+Voltage across C1 with
+large load circuit
+
+Voltage across C1 with
+small load circuit
+
+Figure 12-229. Half-wave and full-wave rectifier outputs using
+
+capacitor filter.
+
+An amplifier is a device that enables an input signal to control
+an output signal. The output signal has some or all of the
+characteristics of the input signal but generally is a greater
+magnitude than the input signal in terms of voltage, current,
+or power. Gain is the basic function of all amplifiers. Because
+of this gain, we can expect the output signal to be greater than
+the input signal. For example, if we have an input signal of
+1 volt and an output signal of 10 volts, then the gain factor
+can be determined by:
+Gain = Signal out /signal in
+Gain = 10 V/1 V = 10
+Voltage gain is usually used to describe the operation of a
+small gain amplifier. In this type of an amplifier, the output
+signal voltage is larger than the input signal voltage. Power
+gain, on the other hand, is usually used to describe the
+operation of large signal amplifiers. In the case of power gain
+amplifiers, the gain is not based on voltage but on watts. A
+power amplifier is an amplifier in which the output signal
+power is greater than the input signal power. Most power
+amplifiers are used as the final stage of amplification and
+drive the output device. The output device could be a flight
+deck or cabin speaker, an indicator, or antenna. Whatever the
+device, the power to make it work comes from the final stage
+of amplification. Drivers for autopilot servos are sometimes
+contained in line replaceable units (LRUs) called autopilot
+amplifiers. These units take the low signal commands from
+the flight guidance system and amplify the signals to a level
+usable for driving the servo motors.
+Classification
+The classification of a transistor amplifier circuit is
+determined by the percentage of the time that the current
+flows through the output circuit in relation to the input signal.
+There are four classifications of operation: A, AB, B, and C.
+Each class of operation has a certain use and characteristic.
+No individual class of amplifiers is considered the best. The
+best use of an amplifier is a matter of proper selection for
+the particular operation desired.
+
+L1
+AC input
+
+Load
+Rectifier
+
+Figure 12-230. An inductor used as a filter.
+
+R1
+
+Figure 12-231. Output of an inductor filter rectifier.
+
+12-113
+
+===== PDF PAGE 555 =====
+50 V
+Load
+
+C1
+
+150 V
+
+L-filter
+A
+
+50 V
+
+150 V
+
+50 V
+
+C1
+
+Load
+
+Inverted L-filter
+B
+
+Load
+
+C1
+T-filter
+
+Figure 12-233. Stacking diodes in a circuit.
+
+delivered to the output compared to the power supplied to the
+circuit. Every device in the circuit consumes power in order
+to operate. If the amplifier operates for 360° of input signal,
+then it is using more power than if it was using only 180°
+of input signal. The more power consumed by the amplifier,
+the less there is available for the output signal. Usually the
+Class A amplifier is used where efficiency is of little concern
+and where fidelity in reproduction is desired.
+
+Class AB
+C
+
+C1
+
+C2
+
+Load
+
+π-filter
+D
+Figure 12-232. LC filters.
+
+Class A
+In the Class A operation, the current in the transistor
+flows for 100 percent or 360° of the input signal.
+[Figure 12-238] Class A operation is the least efficient class
+of operation but provides the best fidelity. Fidelity simply
+means that the output signal is a good reproduction of the
+input signal in all respects other than the amplitude, which is
+amplified. In some cases, there may be some phase shifting
+between the input signal and the output signal. Typically,
+the phase difference is 180°. If the output signal is not a
+good reproduction of the input signal, then the signal is said
+to be distorted. Distortion is any undesired change to the
+signal from the input to the output.
+The efficiency of an amplifier refers to the amount of power
+
+In the Class AB operation, the transistor current flows for more
+than 50 percent but less than 100 percent of the input signal.
+[Figure 12-239] Unlike the Class A amplifier, the output
+signal is distorted. A portion of the output circuit appears to
+be truncated. This is due to the lack of current through the
+transistor during this point of operation. When the emitter in this
+case becomes positive enough, the transistor cannot conduct
+because the base to emitter junction is no longer forward
+biased. The input signal going positive beyond this point does
+not produce any further output and the output remains level.
+The Class AB amplifier has a better efficiency and a poorer
+fidelity than the Class A amplifier. These amplifiers are used
+when an exact reproduction of the input is not required but
+both the positive and negative portions of the input signals
+need to be available on the output.
+
+Class B
+In Class B operation, the transistor current flows for only 50
+percent of the input signal. [Figure 12-240] In this illustration,
+the base-emitter bias does not allow the transistor to conduct
+whenever the input signal is greater than zero. In this case, only
+the negative portion of the input signal is reproduced. Unlike
+the rectifier, the Class B amplifier does not only reproduce half
+of the input signal, but it also amplifies it. Class B amplifiers
+are twice as efficient as the Class A amplifier because the
+amplifying device only uses power for half of the input signal.
+
+Class C
+In Class C operations, transistor current flows for less than
+50 percent of the input signal. [Figure 12-241] This class of
+12-114
+
+===== PDF PAGE 556 =====
+Load
+
+Low-pass filter
+
+Methods of Coupling
+Coupling is used to transfer a signal from one stage on an
+amplifier to another stage. Regardless of whether an amplifier
+is a single stage or one in a series of stages, there must be a
+method for the signal to enter and leave the circuit. Coupling
+is the process of transferring the energy between circuits.
+There are a number of ways for making this transfer and to
+discuss these methods in detail goes beyond the scope of this
+handbook. However, four methods are listed below with a
+brief description of their operation.
+
+Current
+
+Direct Coupling
+Direct coupling is the connection of the output of one stage
+directly to the input of the next stage. Direct coupling provides
+a good frequency response because no frequency-sensitive
+components, such as capacitors and inductors, are used. Yet
+this method is not used very often due to the complex power
+supply requirements and the impedance matching problems.
+
+Frequency
+Frequency response
+
+RC Coupling
+
+Figure 12-234. Low-pass filter.
+
+RC coupling is the most common method of coupling and
+
+operation is the most efficient. Because the transistor does
+not conduct except during a small portion of the input signal,
+this is the most efficient class of amplifier. The distortion of
+the Class C amplifier is greater (poor fidelity) than the Class
+A, AB, and B amplifiers because a small portion of the input
+signal is reproduced on the output. Class C amplifiers are used
+when the output signal is used for only small portions of time.
+
+Load
+
+Band-pass filter
+
+Load
+Load
+Band-pass filter
+
+Current
+
+Current
+
+High-pass filter
+
+Frequency
+Frequency
+Frequency response
+
+Frequency response
+Figure 12-236. Band-pass filter.
+
+Figure 12-235. High-pass filter.
+
+12-115
+
+===== PDF PAGE 557 =====
+uses a coupling capacitor and signal developing resistors.
+[Figure 12-242] In this circuit, R1 acts as a load resistor
+for Q1 and develops the output signal for that stage. The
+capacitor C1 blocks the DC bias signal and passes the AC
+output signal. R2 then becomes the load over which the
+passes AC signal is developed as an input to the base of Q2.
+This arrangement allows for the bias voltage of each stage to
+be blocked, while the AC signal is passed to the next stage.
+
+Impedance Coupling
+Impedance coupling uses a coil as a load for the first
+stage but otherwise functions just as an RC coupling.
+[Figure 12-243] This method is similar to the RC coupling
+method. The difference is that R1 is replaced with inductor
+L1 as the output load. The amount of signal developed on the
+output load depends on the inductive reactance of the coil. In
+order for the inductive reactance to be high, the inductance
+must be large; the frequency must be high or both. Therefore,
+load inductors should have relatively large amounts of
+inductance and are most effective at high frequencies.
+
+Transformer Coupling
+Transformer coupling uses a transformer to couple the signal
+
+Load
+
+Band-pass filter
+
+Load
+
+Current
+
+Band-pass filter
+
+Frequency
+Frequency response
+Figure 12-237. Band-stop filter.
+
+from one stage to the next. [Figure 12-244] The transformer
+action of T1 couples the signal from the first stage to the second
+stage. The primary coil of T1 acts as a load for the output of
+the first stage while the secondary coil acts as the developing
+impedance for the second stage Q2. Transformer coupling is very
+efficient and the transformer can aid in impedance matching.
+Feedback
+Feedback occurs when a small portion of the output signal is
+sent back to the input signal to the amplifier. There are two
+types of feedback in amplifiers:
+1.
+
+Positive (regenerative)
+
+2.
+
+Negative (degenerative)
+
+The main difference between these two signals is whether
+the feedback signal adds to the input signal or if the feedback
+signal diminishes the input signal.
+When the feedback is positive, the signal being returned to
+the input is in phase with the input signal and thus interferes
+constructively. Figure 12-245 illustrates this concept applied
+in the amplified circuit through a block diagram. Notice
+that the feedback signal is in phase with the input signal,
+which regenerates the input signal. This results in an output
+signal with amplitude greater than would have been without
+the constructive, positive feedback. This type of positive
+feedback is what causes an audio system to squeal.
+Figure 12-245 also illustrates with a block diagram how
+negative or degenerative feedback occurs. In this case, the
+feedback signal is out of phase with the input signal. This
+causes destructive interference and degenerates the input
+signal. The result is a lower amplitude output signal than
+would have occurred without the feedback.
+Operational Amplifiers (OP AMP)
+An operational amplifier (OP AMP) is designed to be used
+with other circuit components and performs either computing
+functions or filtering. [Figure 12-246] Operational amplifiers
+are usually high-gain amplifiers with the amount of gain
+governed by the amount of feedback.
+Operational amplifiers were originally developed for analog
+computers and used to perform mathematical functions.
+Today many devices use the operational amplifier for DC
+amplifiers, AC amplifiers, comparators, oscillators, and filter
+circuits. The widespread use is due to the fact that the OP
+AMP is a versatile device, small, and inexpensive. Built into
+the integrated chip, the operational amp is used as a basic
+building block of larger circuits.
+There are two inputs to the operational amplifier, inverting (−)
+and non-inverting (+), and there is one output. The polarity
+
+12-116
+
+===== PDF PAGE 558 =====
++
+
++
+
+VCC
+
+VCC
+−
+
+−
+NPN
+
+NPN
+
+Output
+
+Input
+
+Output
+
+Input
+
+−
+
+−
+
+VEE
+
+VEE
+
+Class A amplifier
+Figure 12-238. Simplified Class A amplifier circuit.
+
+Class AB amplifier
+Figure 12-239. Simplified Class AB amplifier circuit.
+
+of a signal applied to the inverting input (−) is reversed at the
+output. A signal applied to the non-inverting (+) input retains
+its polarity on the output. To be classified as an operational
+amplifier, the circuit must have certain characteristics:
+1.
+
+Very high gain
+
+2.
+
+Very high input impedance
+
+3.
+
+Very high output impedance
+
+This type of a circuit can be made up of discrete components,
+such as resistors and transistors. However, the most common
+form of an operational amplifier is found in the integrated
+circuit. This integrated circuit or chip contains the various
+stages of the operational amplifier and can be treated as if it
+were a single stage.
+
++
+VCC
+−
+NPN
+
+Input
+
+Applications
+
+−
+
+The number of applications for OP AMPs is too numerous to
+detail in this handbook. However, the technician occasionally
+comes across these devices in modern aircraft and should be
+able to recognize their general purpose in a circuit. Some of
+the basic applications are:
+1.
+
+Go/no-go detectors
+
+2.
+
+Square wave circuits
+
+3.
+
+Non-inverting amplifier
+
+4.
+
+Inverting amplifier
+
+Output
+
+VEE
+
+Class B amplifier
+Figure 12-240. Simplified Class B amplifier circuit.
+
+5.
+
+Half-wave rectifier
+
+12-117
+
+===== PDF PAGE 559 =====
+Output
+C1
+
++
+VCC
+Input
+
+−
+
+Q1
+
+Output
+
+R1
+
+Q2
+
+R2
+
+VCC
+
+NPN
+
+RC coupled amplifier
+Figure 12-242. Simplified RC coupling circuit.
+Input
+
+to the load is controlled by a variable inductance.
+−
+VEE
+
+Class C amplifier
+Figure 12-241. Simplified Class C amplifier circuit.
+
+Magnetic Amplifiers
+Magnetic amplifiers do not amplify magnetism but use
+electromagnetism to amplify a signal. Essentially, the
+magnetic amplifier is a power amplifier with a very limited
+frequency response. The frequency range most commonly
+associated with the magnetic amplifier is 100 Hz and less,
+which places it in the audio range. As a technical point, the
+magnetic amplifier is a low-frequency amplifier.
+
+If an AC voltage is applied to the primary winding of an
+iron core transformer, the iron core is magnetized and
+demagnetized at the same frequency as that of the applied
+voltage. This, in turn, induces a voltage in the transformers
+secondary winding. The output voltage across the terminals
+of the secondary depends on the relationship of the number
+of turns in the primary and the secondary of the transformer.
+The iron core of the transformer has a saturation point
+after which the application of a greater magnetic force
+produces no change in the intensity of magnetization.
+Hence, there is no change in transformer output, even if the
+input is greatly increased. The magnetic amplifier circuit
+in Figure 12-247 is used to explain how a simple magnetic
+amplifier functions.
+1.
+
+Assume that there is 1 ampere of current in coil A,
+which has 10 turns of wire. If coil B has 10 turns of
+wire, an output of 1 ampere is obtained if coil B is
+properly loaded.
+
+2.
+
+By applying direct current to coil C, the core of the
+magnetic amplifier coil can be further magnetized.
+Assume that coil C has the proper number of turns and,
+upon the application of 30 milliamperes, that the core
+
+Advantages of the magnetic amplifier are:
+1.
+
+Very high efficiency, on the order of approximately
+90 percent
+
+2.
+
+High reliability
+
+3.
+
+Very rugged, able to withstand vibrations, moisture,
+and overloads
+
+4.
+
+No warm-up time
+
+Output
+
+Some of the disadvantages of the magnetic amplifier are:
+1.
+
+Incapacity to handle low-voltage signals
+
+2.
+
+Not usable in high-frequency applications
+
+3.
+
+Time delay associated with magnetic affects
+
+4.
+
+Poor fidelity
+
+The basic operating principles of the magnetic amplifier are
+fairly simple. Keep in mind that all amplifiers are current
+control devices. In this particular case, power that is delivered
+
+C1
+
+Input
+
+Q1
+
+Q2
+
+L1
+VCC
+
+Impedance coupled amplifier
+
+Figure 12-243. Simplified impedance coupling circuit.
+
+12-118
+
+===== PDF PAGE 560 =====
+is magnetized to the point where 1 ampere on coil A
+results in only 0.24 ampere output from coil B.
+3.
+
+By making the DC input to coil C a continuous variable
+from 0 to 30 milliamperes and by maintaining an
+input of 1 ampere on coil A, it is possible to control
+the output of coil B to any point between 0.24 ampere
+and 1 ampere in this example.
+
+Input
+
+Positive feedback
+
+The term “amplifier” is used for this arrangement because,
+by use of a few milliamperes, control of an output of 1 or
+more amperes is obtained.
+Saturable-Core Reactor
+The same procedure can be used with the circuit shown
+in Figure 12-248. A saturable-core reactor is a magneticcore coil whose reactance is controlled by changing the
+permeability of the core. Varying the unidirectional flux
+controls the permeability of the core.
+By controlling the extent of magnetization of the iron ring,
+it is possible to control the amount of current flowing to
+the load, since the amount of magnetization controls the
+impedance of the AC input winding. This type of magnetic
+amplifier is called a simple saturable reactor circuit.
+Adding a rectifier to such a circuit would remove half the
+cycle of the AC input and permit DC to flow to the load. The
+amount of DC flowing in the load circuit is controlled by a
+DC control winding (sometimes referred to as bias). This type
+of magnetic amplifier is referred to as being self-saturating.
+To use the full AC input power, a circuit such as that shown
+in Figure 12-249 may be used. This circuit uses a full-wave
+bridge rectifier. The load receives a controlled DC by using
+the full AC input. This type of circuit is known as a selfsaturating, full-wave magnetic amplifier.
+In Figure 12-250, it is assumed that the DC control winding
+is supplied by a variable source, such as a sensing circuit. To
+Output
+T1
+
+Input
+
+Q2
+
+Q1
+VCC
+
+Transformer coupled amplifier
+Figure 12-244. Simplified transformer coupling circuit.
+
+Output
+
+Input
+
+Output
+
+Negative feedback
+Figure 12-245. Feedback.
+
+control such a source and use its variations to control the AC
+output, it is necessary to include another DC winding that has
+a constant value. This winding, referred to as the reference
+winding, magnetizes the magnetic core in one direction.
+The DC control winding, acting in opposition to the reference
+winding, either increases (degenerative) or decreases
+(regenerative) the magnetization of the core to change the
+amount of current flowing through the load. This is essentially
+a basic preamplifier.
+
+Logic Circuits
+Logic is considered the science of reasoning—the development
+of a reasonable conclusion based on known information.
+Human reasoning tells us that certain propositions are true if
+certain conditions or premises are true. An annunciator being
+lit in the master warning panel is an example of a proposition,
+which is either true or false. For example, predetermined and
+designed conditions must be met in order for an annunciator
+in a master warning panel to be lit. A “LOW HYDRAULIC
+PRESS” annunciator may have a simple set of conditions
+that cause it to be illuminated. If the conditions are met, such
+as a hydraulic reservoir that is low on fluid causing the line
+press to be low, then the logic is true and the annunciator
+lights. Several propositions, when combined, form a logical
+function. In the example above, the “LOW HYDRAULIC
+PRESS” annunciator is on if the LED is not burned out and
+the hydraulic press is low or if the LED is not burned out
+and the annunciator test is being asserted.
+This section on logic circuits only serves as an introduction
+to the basic concepts. The technician encounters many
+12-119
+
+===== PDF PAGE 561 =====
+this handbook to cover digital logic systems due to the vast
+body of knowledge that it represents. However, this serves
+as an introduction and, in some limited cases, is useful in
+reading system block diagrams that use logic symbols to aid
+the technician in understanding how a given circuit operates.
+
++VCC
+
+−
+Inputs
+
+Output
++
+
+−VEE
+Power supply requirements
+
+−
+Inputs
+
+Output
++
+
+Logic Polarity
+Electrical pulses can represent two logic conditions and
+any two differing voltages can be used for this purpose. For
+example, a positive voltage pulse could represent a true or 1
+condition and a negative voltage pulse could then represent a
+false or 0 logic condition. The condition in which the voltage
+changes to represent a true or 1 logic is known as the logic
+polarity. Logic circuits are usually divided into two broad
+classes: positive polarity and negative polarity. The voltage
+levels used and a statement indicating the use of positive
+or negative logic is usually specified in the logic diagrams
+provided by the original equipment manufacturers (OEMs).
+
+Positive
+
+Input/output requirements
+
+When a signal that activates a circuit to a 1, true or high
+condition, has an electrical level that is relatively more
+positive than the other 0 or false condition, then the logic
+polarity is said to be positive. An example would be:
+
++VCC
+
+Active State: 1 or True = +5 volts direct current (VDC)
+0 or False = −5 VDC
+
+−
+Inputs
+
+Output
++
+
+−VEE
+Feedback
+Figure 12-246. Schematic symbol for the operational amplifier.
+
+situations or problems in everyday life that can be expressed
+in some form of a logical function. Many problems and
+situations can be condensed down to simple yes⁄no or
+true⁄false statements that, if logically ordered, can filter
+a problem down to a reasonable answer. The digital logic
+circuits are well suited for this task and have been employed
+in today’s integrated circuits found in virtually all of the
+devices that we take for granted in modern aircraft. These
+logical circuits are used to carry out the logical functions for
+such things as navigation and communications. There are
+several fundamental elements that form the building blocks
+of the complex digital systems found in line replaceable
+units (LRUs) and avionics card cages. The following is
+a very basic outline of what those elements are and what
+logic conditions they process. It is far beyond the scope of
+
+Negative
+When the signal that actives a circuit to a 1, true or high
+condition, has an electrical level that is relatively more
+negative than the other 0 or false condition, then the logic
+polarity is said to be negative. An example would be:
+Active State: 1 or True = 0 VDC
+0 or False = +5 VDC
+Pulse Structure
+Figure 12-251 illustrates the positive and negative pulse in an
+idealized form. In both forms, the pulse is composed of two
+edges—one being the leading edge and the other the trailing
+edge. In the case of the positive pulse logic, the positive
+transition from a lower state to a higher state is the leading
+edge and the trailing edge is the opposite. In the case of the
+negative logic pulse, the negative transition from a higher
+state to a lower state is the leading edge while the rise from
+the lower state back to the higher state is the trailing edge.
+Figure 12-251 is considered an ideal pulse because the rise
+and fall times are instantaneous. In reality, these changes
+take time, although in actual practice, the rise and fall can
+be assumed as instantaneous. Figure 12-252 shows the nonideal pulse and its characteristics. The time required for a
+pulse to go from a low state to a high state is called the rise
+12-120
+
+===== PDF PAGE 562 =====
+A
+
+B
+
+AC input
+
+AC output
+
+C
+
+state into the opposite state. In terms of a binary digit, this
+would be like converting a 1 to a 0 or a 0 to a 1. When a
+high voltage is applied to the inverter input, low voltage is
+the output. When a low voltage is applied to the input, a high
+voltage is on the output. This operation can be put into what
+is known as a logic or truth table. The standard logic symbol
+is shown in Figure 12-253. Figure 12-254 shows the possible
+logic states for this gate. This is the common symbol for an
+amplifier with a small circle on the output. This type of logic
+can also be considered a NOT gate.
+
+The AND Gate
+
+DC
+Figure 12-247. Magnetic amplifier circuit.
+
+time, and the time required for the pulse to return to zero is
+called the fall time. It is common practice to measure the rise
+and fall time between 10 percent amplitude and 90 percent
+amplitude. The reason for taking the measurements in these
+points is due to the non-linear shape of the pulse in the first
+10 percent and final 90 percent of the rise and fall amplitudes.
+The pulse width is defined as the duration of the pulse. To be
+more specific, it is the time between the 50 percent amplitude
+point on both the pulse rise and fall.
+Basic Logic Circuits
+Boolean logic is a symbolic system used in representing the
+truth value of statements. It is employed in the binary system
+used by digital computers primarily because the only truth
+values (true and false) can be represented by the binary digits
+1 and 0. A circuit in computer memory can be open or closed,
+depending on the value assigned to it. The fundamental
+operations of Boolean logic, often called Boolean operators,
+are “and,” “or,” and “not;” combinations of these make up 13
+other Boolean operators. Six of these operators are discussed.
+
+The AND gate is made up of two or more inputs and a single
+output. The logic symbol is shown in Figure 12-255. Inputs
+are on the left and the output is on the right in each of the
+depictions. Gates with two, three, and four inputs are shown;
+however, any number of inputs can be used in the AND logic
+as long as the number is greater than one. The operation of
+the AND gate is such that the output is high only when all
+of the inputs are high. If any of the inputs are low, the output
+is also low. Therefore, the basic purpose of an AND gate is
+to determine when certain conditions have been met at the
+same time. A high level on all inputs produces a high level
+on the output. Figure 12-256 shows a simplified diagram of
+the AND logic with two switches and a light bulb. Notice that
+both switches need to be closed in order for the light bulb to
+turn on. Any other combination of switch positions is an open
+circuit and the light does not turn on. An example of AND
+logic could possibly be engage logic found in an autopilot. In
+this case, the autopilot would not be allowed to be engaged
+unless certain conditions are first met. Such conditions could
+be: Vertical gyro is valid AND directional gyro is valid AND
+all autopilot control knobs are in detents AND servo circuits
+are operational. Only when these conditions are met does the
+
+The Inverter Logic
+The inverter circuit performs a basic logic function called
+inversion. The purpose of the inverter is to convert one logic
+
+DC
+
+Load
+
+Load
+
+DC
+
+AC
+input
+Figure 12-248. Saturable CORE reactor circuit.
+
+AC
+
+Figure 12-249. Self-saturating, full-wave magnetic amplifier.
+
+12-121
+
+===== PDF PAGE 563 =====
+The NOR Gate
+
+DC
+Control
+
+Load
+
+DC Ref
+
+AC
+
+The term NOR is a combination of the NOT and OR and
+indicates an OR function with an inverted output. The
+standard logic symbol for a two-inputs NOR gate is shown
+in Figure 12-263. Notice that an equivalent AND gate with
+an inverter is also shown. The logical operation of the NOR
+gate is such that a low output happens when any of its inputs
+are high. Only when all of its inputs are low is the output
+high. The logic of this gate produces resultant outputs that
+are the opposite of the OR gate. In the NOR gate, the low
+output is the active output level. Figure 12-263 illustrates
+the logical operation of a two-input NOR gate for all of its
+possible combinations and the truth table.
+
+Exclusive OR Gate
+
+autopilot engage. [Figure 12-257]
+
+The exclusive OR gate is a modified OR gate that produces a
+1 output when only one of the inputs is a 1. The abbreviation
+often used is X-OR. It is different from the standard OR gate
+in that when both inputs are a 1, then the output remains at
+a 0. The standard symbol and truth table for the X-OR gate
+are shown in Figure 12-264.
+
+The OR Gate
+
+Exclusive NOR Gate
+
+Figure 12-250. Basic preamplifier circuit.
+
+The OR gate has two or more inputs and one output and
+is normally represented by the standard logic symbol and
+truth table. [Figure 12-258] Note that the OR gate can have
+any number of inputs as long as it is greater than one. The
+operation of the OR gate is such that a high on any one of
+the inputs produces a high on the output. The only time that a
+low is produced on the output is if there are no high levels on
+any input. Figure 12-259 is a simplified circuit that illustrates
+the OR logic. The example used is a “DOOR UNSAFE”
+annunciator. Let’s say in this case that the plane has one
+cabin door and a baggage door. In order for the annunciator
+light on the master warning panel to extinguish, both doors
+must be closed and locked. If any one of the doors is not
+secured properly, the baggage door OR the cabin door, then
+the “DOOR UNSAFE” annunciator illuminates. In this case,
+two switches are in parallel with each other. If either one of
+the two switches is closed, the light bulb lights up. The lamp
+is off only when both switches are open.
+
+The NAND Gate
+The term NAND is a combination of the NOT-AND gate
+and indicates an AND function with an inverted output. A
+standard logic symbol for a two input NAND gate is shown
+in Figure 12-260. Notice that an equivalent AND gate with
+an inverter is also shown. The logical operation of the NAND
+gate is such that a low output occurs only if all inputs are high.
+If any of the inputs are low, the output is high. An example
+of a two input NAND gate and its corresponding truth table
+are shown in Figure 12-261.
+
+The exclusive NOR (X-NOR) gate is nothing more than an
+X-OR gate with an inverted output. It produces a 1 output
+when all inputs are 1s and also when all inputs are 0s. The
+standard symbol is shown in Figure 12-265.
+The Integrated Circuit
+All of the logic functions so far discussed plus many other
+components are available in some form of an integrated
+circuit. The digital systems found in today’s aircraft owe
+their existence to a large extent to the design of the integrated
+circuit (IC). In most cases, the IC has an advantage over the
+use of discrete components in that they are smaller, consume
+less power, are very reliable, and are inexpensive. The most
+noticeable characteristic of the IC is its size and in comparison
+to the discrete semiconductor component, can easily be on
+the order of thousands of times smaller. [Figure 12-266]\
+A monolithic integrated circuit is an electronic circuit
+that is constructed entirely on a single chip or wafer of
+semiconductor material. All of the discrete components,
+such as resistors, transistors, diodes, and capacitors, can
+be constructed on these small pieces of semiconductor
+material and are an integral part of the chip. There are
+a number of levels of integration. Those levels are:
+small-scale integration, medium-scale integration, largescale integration, and microprocessors. The small-scale
+integration is considered the least complex design of
+the digital ICs. These ICs contain the basic components,
+such as the AND, OR, NOT, NOR and NAND gates.
+[Figure 12-267] The medium-scale integration can contain
+12-122
+
+===== PDF PAGE 564 =====
+DC Generators
+
+High
+Leading
+edge
+
+Trailing
+edge
+
+Low
+Positive logic pulse
+High
+Leading
+edge
+
+Trailing
+edge
+
+Low
+Negative logic pulse
+Figure 12-251. Positive and negative pulse in an idealized form.
+
+the same components as found in the small-scale design but
+in larger numbers ranging from 12 to 100. The mediumscale designs are house circuits that are more complex, such
+as encoders, decoders, registers, counters, multiplexers,
+smaller memories, and arithmetic circuits. [Figure 12-268]
+The large-scale integrated circuits contain even more logic
+gates, larger memories than the medium-scale circuits, and
+in some cases microprocessors.
+Microprocessors
+The microprocessor is a device that can be programmed
+to perform arithmetic and logical operations and other
+functions in a preordered sequence. The microprocessor is
+usually used as the central processing unit (CPU) in today’s
+computer systems when it is connected to other components,
+such as memory chips and input/output circuits. The basic
+arrangement and design of the circuits residing in the
+microprocessor is called the architecture.
+
+Theory of Operation
+In the study of alternating current, basic generator principles
+were introduced to explain the generation of an AC voltage
+by a coil rotating in a magnetic field. Since this is the basis
+for all generator operation, it is necessary to review the
+principles of generation of electrical energy.
+When lines of magnetic force are cut by a conductor passing
+through them, voltage is induced in the conductor. The
+strength of the induced voltage is dependent upon the speed
+of the conductor and the strength of the magnetic field. If
+the ends of the conductor are connected to form a complete
+circuit, a current is induced in the conductor. The conductor
+and the magnetic field make up an elementary generator.
+This simple generator is illustrated in Figure 12-269,
+together with the components of an external generator
+
+Input = 1
+(High)
+
+Output = 0
+(Low)
+
+Figure 12-253. Standard logic symbol.
+
+Input
+
+Output
+
+High
+
+Low
+
+Low
+
+High
+
+Figure 12-254. Possible logic states.
+
+A
+X
+B
+
+A
+B
+90% 9 V
+Pulse
+amplitude
+(10 volts)
+
+X
+
+C
+
+50% 5 V
+
+A
+Pulse width
+
+10% 1 V
+
+B
+Rise
+time
+
+Pulse characteristic from a databus
+Figure 12-252. Non-ideal pulse and its characteristics.
+
+Fall
+time
+
+X
+C
+D
+Figure 12-255. AND gate logic symbol.
+
+12-123
+
+===== PDF PAGE 565 =====
+A
+
+B
+
+A
+
+f=A+B
+
+B
+
++
+
+OR gate input/output
+
+−
+
+A
+
+B
+
++
+
+A
+
+B
+
+f
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Truth table
+
+Figure 12-258. OR gate.
+
+−
+Figure 12-256. Simplified diagram of the AND logic.
+
+circuit which collect and use the energy produced by the
+simple generator. The loop of wire [Figure 12-269A and B]
+is arranged to rotate in a magnetic field. When the plane of
+the loop of wire is parallel to the magnetic lines of force,
+the voltage induced in the loop causes a current to flow in
+the direction indicated by the arrows in Figure 12-269. The
+voltage induced at this position is maximum, since the wires
+are cutting the lines of force at right angles, thus cutting
+more lines of force per second than in any other position
+relative to the magnetic field. As the loop approaches the
+vertical position shown in Figure 12-270, the induced
+voltage decreases because both sides of the loop (A and B)
+are approximately parallel to the lines of force and the rate
+
+of cutting is reduced. When the loop is vertical, no lines
+of force are cut since the wires are momentarily traveling
+parallel to the magnetic lines of force, and there is no
+induced voltage. As the rotation of the loop continues, the
+number of lines of force cut increases until the loop has
+rotated an additional 90° to a horizontal plane. As shown
+in Figure 12-271, the number of lines of force cut and the
+induced voltage once again are maximum. The direction
+of cutting, however, is in the opposite direction to that
+occurring in Figures 12-269 and 12-270, so the direction
+(polarity) of the induced voltage is reversed. As rotation
+of the loop continues, the number of lines of force having
+been cut again decreases, and the induced voltage becomes
+zero at the position shown in Figure 12-272, since the wires
+A and B are again parallel to the magnetic lines of force.
+If the voltage induced throughout the entire 360° of rotation
+
+Pitch servo
+valid +28
+Ahrs
++28 vdc
+
+Roll servo
+valid +28
+Yaw damper
+valid +28
+Trim servo
+valid +28
+
+Ahrs
++28 vdc
+
+Attitude/heading
+reference system
+(Ahrs)
+Attitude valid +28
+Heading valid +28
+Autopilot controller
+
+A/p controller
++28 vdc
+
++28 vdc
++28 vdc
++28 vdc
++28 vdc
++28 vdc
++28 vdc
++28 vdc
++28 vdc
+
+Autopilot
+computer
+(engage circuit)
+
++28 vdc
+
+When all input circuits are valid,
+then the a/p can be engaged
+
+Pitch wheel centered
+Turn knob centered
+
+Autopilot Engage Logic
+
+Figure 12-257. AND logic of system found in the aircraft wiring diagrams.
+
+12-124
+
+===== PDF PAGE 566 =====
+Cabin door secured
+Door warn
+Baggage door secured
+
++28 VDC
+
+Light off
+
+0
+
+Door
+unsafe
+
+0
+1
+
+Door
+unsafe
+
+Baggage door secured
+
++28 VDC
+
+Figure 12-259. Simplified circuit that illustrates OR logic.
+
+is plotted, the curve shown in Figure 12-273 results. This
+voltage is called an alternating voltage because of its reversal
+from positive to negative value, first in one direction and
+then in the other.
+To use the voltage generated in the loop for producing a current
+flow in an external circuit, some means must be provided to
+connect the loop of wire in series with the external circuit.
+Such an electrical connection can be effected by opening the
+loop of wire and connecting its two ends to two metal rings,
+called slip rings, against which two metal or carbon brushes
+ride. The brushes are connected to the external circuit. By
+replacing the slip rings of the basic AC generator with two
+half cylinders, called a commutator, a basic DC generator is
+obtained. [Figure 12-274] In this illustration, the black side of
+the coil is connected to the black segment, and the white side
+of the coil to the white segment. The segments are insulated
+from each other. The two stationary brushes are placed on
+opposite sides of the commutator and are so mounted that each
+brush contacts each segment of the commutator as the latter
+revolves simultaneously with the loop. The rotating parts of a
+A
+
+F
+
+B
+
+1
+
+A
+
+B
+
+f
+
+0
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+0
+
+NAND gate truth table
+Figure 12-261. Two input NAND gate and corresponding truth table.
+
+DC generator (coil and commutator) are called an armature.
+The generation of an emf by the loop rotating in the magnetic
+field is the same for both AC and DC generators, but the action
+of the commutator produces a DC voltage.
+Generation of a DC Voltage
+Figure 12-275 illustrates in an elementary, step-by-step
+manner, how a DC voltage is generated. This is accomplished
+by showing a single wire loop rotating through a series of
+positions within a magnetic field.
+
+Position A
+The loop starts in position A and is rotating clockwise.
+However, no lines of force are cut by the coil sides,
+which means that no emf is generated. The black brush is
+shown coming into contact with the black segment of the
+commutator, and the white brush is just coming into contact
+with the white segment.
+
+A
+
+f=A+B
+
+B
+
+NAND gate
+
+0
+
+1
+
+NAND gate input/output
+
+Light on
+
+Door warn
+
+1
+
+1
+
+1
+
+0
+Cabin door not secured
+
+0
+
+1
+
+OR gate input/output
+A
+
+(1)
+
+(0)
+
+B
+A
+B
+
+(0)
+
+(1)
+
+F
+
+F
+
+Equivalent circuit NAND gate input/output
+Figure 12-260. Standard logic symbol for two input NAND gate.
+
+A
+
+B
+
+f
+
+0
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Truth table
+Figure 12-262. Standard logic symbol for two inputs OR gate.
+
+12-125
+
+===== PDF PAGE 567 =====
+0
+
+1
+
+1
+
+0
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+0
+
+1
+
+NOR gate input/output
+A
+
+B
+
+f
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+0
+
+Figure 12-263. Logical operation of two-input NOR gate and truth
+
+table.
+
+T1
+
+0
+
+A
+
+T2
+
+1
+
+T3
+
+0
+
+T4
+
+0
+
+In position B, the flux is now being cut at a maximum rate,
+which means that the induced emf is maximum. At this time,
+the black brush is contacting the black segment, and the
+white brush is contacting the white segment. The deflection
+of the meter is toward the right, indicating the polarity of
+the output voltage.
+
+Position C
+
+NOR gate truth table
+
+T0
+
+Position B
+
+At position C, the loop has completed 180° of rotation. Like
+position A, no flux lines are being cut and the output voltage
+is zero. The important condition to observe at position C is
+the action of the segments and brushes. The black brush at the
+180° angle is contacting both black and white segments on
+one side of the commutator, and the white brush is contacting
+both segments on the other side of the commutator. After the
+
+T0
+
+T4
+
+f
+
+B
+0
+
+0
+
+0
+
+T2
+
+T3
+
+T4
+
+T5
+
+1
+A
+
+B
+
+T1
+
+1
+
+f
+
+0
+
+1
+
+1
+
+0
+
+0
+
+1
+
+A
+
+B
+
+f
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+X-OR gate input/output
+
+Truth table
+
+Figure 12-264. Standard symbol and truth table for X-OR gate.
+
+T0
+
+A
+
+T1
+
+0
+
+T2
+
+1
+
+T3
+
+0
+
+T0
+
+T4
+
+A
+
+0
+
+0
+
+1
+
+T2
+
+T3
+
+T4
+
+1
+B
+
+B
+
+T1
+
+f=A+B
+
+1
+
+X-NOR gate input/output
+
+f
+
+0
+
+0
+
+0
+
+1
+
+A
+
+B
+
+f
+
+0
+
+0
+
+1
+
+0
+
+1
+
+0
+
+1
+
+0
+
+0
+
+1
+
+1
+
+1
+
+Truth table
+
+Figure 12-265. Standard Symbol for X-NOR gate.
+
+12-126
+
+===== PDF PAGE 568 =====
+16 15 14 13 12 11 10
+
+9
+
+4Y
+
+4A
+
+4B
+
+GND
+
+3A
+
+3B
+
+3Y
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+1Y
+
+1A
+
+1B
+
+VCC
+
+2A
+
+2B
+
+2Y
+
+0.280" max
+
+1
+
+2
+
+3 4 5 6
+0.785" max
+
+7
+
+8
+0.200" max
+
+Typical integrated logic circuit
+Figure 12-266. Integrated circuit.
+
+loop rotates slightly past the 180° point, the black brush is
+contacting only the white segment, and the white brush is
+contacting only the black segment.
+
+Quad exclusive-OR circuit
+
+A
+
+B
+
+Y
+
+Because of this switching of commutator elements, the
+black brush is always in contact with the coil side moving
+downward, and the white brush is always in contact with the
+coil side moving upward. Though the current actually reverses
+its direction in the loop in exactly the same way as in the AC
+generator, commutator action causes the current to flow always
+in the same direction through the external circuit or meter.
+
+0
+
+0
+
+0
+
+0
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+1
+
+0
+
+Position D
+At position D, commutator action reverses the current in
+the external circuit, and the second half cycle has the same
+waveform as the first half cycle. The process of commutation
+is sometimes called rectification, since rectification is the
+converting of AC voltage to DC voltage.
+
+Input
+
+Figure 12-267. Small-scale integration schematic form.
+
+1Q
+
+2Q
+
+2Q Enable Gnd
+
+3Q
+
+3Q
+
+4Q
+
+16
+
+15
+
+14
+
+13
+
+12
+
+11
+
+10
+
+9
+
+Q
+
+D
+
+D
+
+Q
+
+Q
+
+D
+
+D
+
+Q
+
+G
+
+G
+
+G
+
+G
+
+The Neutral Plane
+At the instant that each brush is contacting two segments on
+the commutator [Figure 12-275A, C, and E], a direct short
+circuit is produced. If an emf were generated in the loop at
+this time, a high current would flow in the circuit, causing
+an arc and thus damaging the commutator. For this reason,
+the brushes must be placed in the exact position where the
+short occurs when the generated emf is zero. This position is
+called the neutral plane. If the brushes are installed properly,
+no sparking occurs between the brushes and the commutator.
+Sparking is an indication of improper brush placement, which
+is the main cause of improper commutation.
+The voltage generated by the basic DC generator in
+Figure 12-275 varies from zero to its maximum value twice
+for each revolution of the loop. This variation of DC voltage
+is called “ripple,” and may be reduced by using more loops,
+or coils, as shown in Figure 12-276A. As the number of loops
+
+Output
+
+Q
+
+Q
+
+Q
+
+4
+
+Q
+
+1
+
+2
+
+3
+
+5
+
+6
+
+7
+
+8
+
+1Q
+
+1D
+
+2D Enable Vcc
+
+3D
+
+4D
+
+4Q
+
+D-register
+Figure 12-268. Medium-scale integration schematic form.
+
+is increased, the variation between maximum and minimum
+values of voltage is reduced [Figure 12-276B], and the output
+voltage of the generator approaches a steady DC value. In
+Figure 12-276A, the number of commutator segments is
+increased in direct proportion to the number of loops; that
+
+12-127
+
+===== PDF PAGE 569 =====
+is, there are two segments for one loop, four segments for
+two loops, and eight segments for four loops.
+The voltage induced in a single turn loop is small. Increasing
+the number of loops does not increase the maximum value
+of generated voltage, but increasing the number of turns
+in each loop increases this value. Within narrow limits,
+the output voltage of a DC generator is determined by the
+product of the number of turns per loop, the total flux per
+pair of poles in the machine, and the speed of rotation of
+the armature.
+An AC generator, or alternator, and a DC generator are
+identical as far as the method of generating voltage in the
+rotating loop is concerned. However, if the current is taken
+from the loop by slip rings, it is an alternating current, and
+the generator is called an AC generator, or alternator. If the
+current is collected by a commutator, it is direct current, and
+the generator is called a DC generator.
+Construction Features of DC Generators
+Generators used on aircraft may differ somewhat in design,
+since various manufacturers make them. All, however, are of
+the same general construction and operate similarly. The major
+parts, or assemblies, of a DC generator are a field frame (or
+yoke), a rotating armature, and a brush assembly. The parts
+of a typical aircraft generator are shown in Figure 12-277.
+
+A
+
+S
+
+B
+
+Figure 12-270. Inducing minimum voltage in an elementary
+
+generator.
+
+A
+
+S
+
+Field Frame
+The field frame is also called the yoke, which is the
+foundation or frame for the generator. The frame has two
+functions: It completes the magnetic circuit between the
+poles and acts as a mechanical support for the other parts of
+the generator. In Figure 12-278A, the frame for a two-pole
+generator is shown in a cross-sectional view. A four-pole
+generator frame is shown in Figure 12-278B.
+
+N
+
+N
+
+B
+
+Figure 12-271. Inducing maximum voltage in the opposite direction.
+
+e
+
+ol
+
+P
+ec
+
+pi
+
+Armature
+
+e
+
+B
+
+B
+
+A
+
+S
+
+N
+Sl
+
+S
+
+ip
+
+ad
+
+Lo
+
+Br
+
+N
+
+A
+
+rin
+
+g
+
+us
+
+h
+
+Figure 12-269. Inducing maximum voltage in an elementary
+
+Figure 12-272. Inducing a minimum voltage in the opposite
+
+direction.
+
+generator.
+
+12-128
+
+===== PDF PAGE 570 =====
++ Voltage
+– Voltage
+
+0°
+
+Maximum
+1 cycle
+
+360°
+90°
+Minimum
+
+270°
+180°
+
+S
+
+360°
+
+N
+
+Maximum
+
+Figure 12-273. Output of an elementary generator.
+
+In small generators, the frame is made of one piece of iron,
+but in larger generators, it is usually made up of two parts
+bolted together. The frame has high magnetic properties and,
+together with the pole pieces, forms the major part of the
+magnetic circuit. The field poles are bolted to the inside of
+the frame and form a core on which the field coil windings
+are mounted. [Figure 12-278]
+The poles are usually laminated to reduce eddy current
+losses and serve the same purpose as the iron core of an
+electromagnet; that is, they concentrate the lines of force
+produced by the field coils. The entire frame, including field
+poles, is made from high-quality magnetic iron or sheet steel.
+A practical DC generator uses electromagnets instead of
+permanent magnets. To produce a magnetic field of the
+necessary strength with permanent magnets would greatly
+increase the physical size of the generator.
+The field coils are made up of many turns of insulated wire
+and are usually wound on a form that fits over the iron core of
+the pole to which it is securely fastened. [Figure 12-279] The
+
+B
+
+exciting current, which is used to produce the magnetic field
+and which flows through the field coils, is obtained from an
+external source or from the generated DC of the machine.
+No electrical connection exists between the windings of the
+field coils and the pole pieces.
+Most field coils are connected so that the poles show
+alternate polarity. Since there is always one North pole for
+each South pole, there must always be an even number of
+poles in any generator.
+Note that the pole pieces in Figure 12-278 project from the
+frame. Because air offers a great amount of reluctance to the
+magnetic field, this design reduces the length of the air gap
+between the poles and the rotating armature and increases the
+efficiency of the generator. When the pole pieces are made to
+project they are called salient poles. [Figure 12-278]
+
+C
+
+D
+
+E
+
+Induced EMF
+
+A
+
+Figure 12-274. Basic DC generator.
+
+1 Revolution
+Figure 12-275. Operation of a basic DC generator.
+
+12-129
+
+===== PDF PAGE 571 =====
+Armature
+The armature assembly of a generator consists of many
+armature coils wound on an iron core, a commutator, and
+associated mechanical parts. These additional loops of wire
+are actually called windings and are evenly spaced around
+the armature so that the distance between each winding is
+the same. Mounted on a shaft, it rotates through the magnetic
+field produced by the field coils. The core of the armature acts
+as an iron conductor in the magnetic field and, for this reason,
+is laminated to prevent the circulation of eddy currents.
+
+the electrical contact between the armature coils and the
+external circuit. A flexible, braided copper conductor,
+commonly called a pigtail, connects each brush to the external
+circuit. The brushes, usually made of high-grade carbon and
+held in place by brush holders insulated from the frame, are
+free to slide up and down in their holders in order to follow
+any irregularities in the surface of the commutator. The
+brushes are usually adjustable so that the pressure of the
+brushes on the commutator can be varied and the position
+of the brushes with respect to the segments can be adjusted.
+
+Gramme-Ring Armature
+
+The constant making and breaking of connections to the coils
+in which a voltage is being induced necessitates the use of
+material for brushes, which has a definite contact resistance.
+Also, this material must be such that the friction between the
+commutator and the brush is low, to prevent excessive wear.
+For these reasons, the material commonly used for brushes is
+high-grade carbon. The carbon must be soft enough to prevent
+undue wear of the commutator and yet hard enough to provide
+reasonable brush life. Since the contact resistance of carbon
+is fairly high, the brush must be quite large to provide a large
+area of contact. The commutator surface is highly polished to
+reduce friction as much as possible. Oil or grease must never
+be used on a commutator, and extreme care must be used
+when cleaning it to avoid marring or scratching the surface.
+
+Drum-Type Armature
+A drum-type armature is shown in Figure 12-281. The
+armature core is in the shape of a drum and has slots cut into
+it where the armature windings are placed. The advantage is
+that each winding completely surrounds the core so that the
+entire length of the conductor cuts through the magnetic flux.
+The total induced voltage in this arrangement is far greater
+than that of the Gramme ring-type armature.
+Drum-type armatures are usually constructed in one of
+two methods: lap winding and the wave winding. Each
+method having its own advantage. Lap windings are used in
+generators that are designed for high current. The windings
+are connected in parallel paths and for this reason require
+several brushes. The wave winding is used in generators that
+are designed for high voltage outputs. The two ends of each
+coil are connected to commutator segments separated by the
+distance between poles. This results in a series arrangement
+of the coils and is additive of all the induced voltages.
+Commutators
+Figure 12-282 shows a cross-sectional view of a typical
+commutator. The commutator is located at the end of an
+armature and consists of wedge shaped segments of hard drawn
+copper, insulated from each other by thin sheets of mica. The
+segments are held in place by steel V-rings or clamping flanges
+fitted with bolts. Rings of mica insulate the segments from the
+flanges. The raised portion of each segment is called a riser,
+and the leads from the armature coils are soldered to the risers.
+When the segments have no risers, the leads are soldered to
+short slits in the ends of the segments.
+The brushes ride on the surface of the commutator, forming
+
+S
+
+N
+A
+
+A
+
+B
+
+C
+
+D
+
+E
+
+1/2
+
+3/4
+
+1
+
+Induced EMF
+
+There are two general kinds of armatures: the ring and the
+drum. Figure 12-280 shows a ring-type armature made up of
+an iron core, an eight-section winding, and an eight-segment
+commutator. The disadvantage of this arrangement is that
+the windings, located on the inner side of the iron ring, cut
+few lines of flux. As a result, they have very little voltage
+induced in them. For this reason, the Gramme ring armature
+is not widely used.
+
+0
+
+1/4
+
+Revolutions
+B
+Figure 12-276. Increasing the number of coils reduces the ripple
+
+in the voltage.
+
+12-130
+

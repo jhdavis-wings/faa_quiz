@@ -1,0 +1,361 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 10 (Engine Maintenance & Operation), PDF pages 431-433
+
+===== PDF PAGE 431 =====
+EGT indicator selector switch (SW-4)
+
+EGT indicator adjusting rheostat
+
+RPM check (takeal unit)
+
+Selector switch (SW-1)
+
+RPM CHECK
+
+Tachometer
+-EGT
+indicator
+check input
+receptacle
+(P-3)
+
+50
+
+40
+
+SELECTOR
+SWITCH
+MECH ZERO
+
+EGT
+
+T/C
+
+MECH ZERO
+
+OFF
+
+RPM
+
+RANGE
+
+70
+
+20
+
+80
+
+EGT IND CHECK
+INPUT
+
+R-1
+
+10
+
+INSUL
+
+90
+
+SW-1
+
+Resistance
+insulation check
+input receptacle
+(P-2)
+
+POTENTIOMETER
+
+P-3
+RPM
+
+SW-4
+
+REG INSUL
+
+100
+
+TEMP REGULATOR
+INSULATION
+CHECK
+
+ADJ RHEO
+
+110V 60-400
+
+MECH ZERO
+
+MECH ZERO
+RANGE
+
+SW-3
+
+THERMOCOUPLE CHECK
+S-1
+HEATER CABLE
+
+Heater cable receptacle (S-1)
+
+S-2
+
+Insulation check meter
+
+GALVO-3
+
+RESISTANCE CHECK
+P-3
+
+Temperature regulator
+
+RES
+
+0
+
+Resistance check
+selector switch
+
+60
+
+30
+
+GALVO-2
+
+OFF
+
+Temperature regulator
+
+ELEC
+ZERG
+
+SW-9
+
+R-3
+
+BATTERY
+OPERATION
+
+Power input receptacle (P-1)
+
+R 100
+R 1000
+2 AMP
+
+LEG
+ZERO
+
+20 AMP
+
+R-2
+SW-9
+
+CHECK CABLE
+
+Check cable receptacle (S-2)
+
+Heater cable switch (SW-2)
+
+R 10
+R1
+
+Potentiometer
+
+Fuses
+Insulation check meter operating knob
+
+Figure 10-77. Jetcal analyzer instrument compartment.
+
+thermocouples to be tested. Temperature gradients are
+very critical in the design of heater probes. Each type
+of aircraft thermocouple has its own specially designed
+probe. Never attempt to modify heater probes to test
+other types of thermocouples.
+5.
+
+Do not leave heater probe assemblies in the exhaust
+nozzle during engine run-up.
+
+6.
+
+Never allow the heater probes to go over 900 °C (1,652
+°F). Exceeding these temperatures results in damage
+to the jetcal analyzer and heater probe assemblies.
+
+Continuity Check of Aircraft EGT Circuit
+To eliminate any error caused by one or more inoperative
+aircraft thermocouples, a continuity check is performed.
+The check is made by heating one heater probe to between
+500 and 700 °C and placing the hot probe over each of the
+aircraft thermocouples, one at a time. The EGT indicator must
+show a temperature rise as each thermocouple is checked.
+When large numbers (eight or more) of thermocouples are
+used in the harness, it is difficult to see a rise on the aircraft
+instrument because of the electrical characteristics of a
+parallel circuit. Therefore, the temperature indication of the
+aircraft thermocouples is read on the potentiometer of the
+analyzer by using the check cable and necessary adapter.
+
+Functional Check of Aircraft EGT Circuit
+During the EGT system functional test and the thermocouple
+harness checks, the analyzer has a specific degree of accuracy at
+the test temperature, which is usually the maximum operating
+temperature of the turbine engine. [Figure 10-78] Each engine
+has its own maximum operating temperature, that can be
+found in applicable technical instructions.
+The test is made by heating the engine thermocouples in
+the exhaust nozzle or turbine section to the engine test
+temperature. The heat is supplied by heater probes through
+the necessary cables. With the engine thermocouples hot,
+their temperature is registered on the aircraft EGT indicator.
+At the same time, the thermocouples embedded in the heater
+probes, which are completely isolated from the aircraft
+system, are picking up and registering the same temperature
+on the test analyzer.
+The temperature registered on the aircraft EGT indicator
+should be within the specified tolerance of the aircraft system
+and the temperature reading on the temperature analyzer.
+When the temperature difference exceeds the allowable
+tolerance, troubleshoot the aircraft system.
+
+10-63
+
+===== PDF PAGE 432 =====
+connected in parallel, and both are indicating during engine
+run-up. The rpm check circuit readings can be compared
+with the readings of the aircraft tachometer to determine the
+accuracy of the aircraft instrument.
+Many newer engines use a magnetic pickup that counts
+passing gear teeth edges, which are seen electrically as
+pulses of electrical power as they pass by the pickup.
+[Figure 10-79] By counting the amount of pulses, the rpm
+of the shaft is obtained. This type of system requires little
+maintenance, other than setting the clearance between the
+gear teeth and the magnetic pickup.
+
+Troubleshooting EGT System
+Figure 10-78. EGT analyzer.
+
+EGT Indicator Check
+The EGT indicator is tested after being removed from the
+aircraft instrument panel and disconnected from the aircraft
+EGT circuit leads. Attach the instrument cable and EGT
+indicator adapter leads to the indicator terminals and place
+the indicator in its normal operating position. Adjust the
+analyzer switches to the proper settings. The indicator reading
+should correspond to the readings of the analyzer within the
+allowable limits of the EGT indicator.
+Correction for ambient temperature is not required for this
+test, as both the EGT indicator and analyzer are temperature
+compensated. The temperature registered on the aircraft
+EGT indicator should be within the specified tolerance
+of the aircraft system and the temperature reading on the
+analyzer readout. When the temperature difference exceeds
+the allowable tolerance, troubleshoot the aircraft system.
+Resistance & Insulation Check
+The thermocouple harness continuity is checked while the
+EGT system is being checked functionally. The resistance
+of the thermocouple harness is held to very close tolerances,
+since a change in resistance changes the amount of current
+flow in the circuit. A change of resistance gives erroneous
+temperature readings. The resistance and insulation check
+circuits make it possible to analyze and isolate any error in
+the aircraft system. How the resistance and insulation circuits
+are used is discussed with troubleshooting procedures.
+Tachometer Check
+To read engine speed with an accuracy of ±0.1 percent during
+engine run, the frequency of the tachometer-generator (older
+style) is measured by the rpm check analyzer. The scale of the
+rpm check circuit is calibrated in percent rpm to correspond to
+the aircraft tachometer indicator, which also reads in percent
+rpm. The aircraft tachometer and the rpm check circuit are
+
+An appropriate analyzer is used to test and troubleshoot the
+aircraft thermocouple system at the first indication of trouble,
+or during periodic maintenance checks.
+The test circuits of the analyzer make it possible to isolate
+the troubles listed below. Following the list is a discussion
+of each trouble mentioned.
+1.
+
+One or more inoperative thermocouples in engine
+parallel harness.
+
+2.
+
+Engine thermocouples out of calibration.
+
+3.
+
+EGT indicator error.
+
+4.
+
+Resistance of circuit out of tolerance.
+
+5.
+
+Shorts to ground.
+
+6.
+
+Shorts between leads.
+
+One or More Inoperative Thermocouples in
+Engine Parallel Harness
+This error is found in the regular testing of aircraft
+thermocouples with a hot heater probe and is a broken lead
+wire in the parallel harness, or a short to ground in the harness.
+In the latter case, the current from the grounded thermocouple
+can leak off and never be shown on the indicator. However,
+this grounded condition can be found by using the insulation
+resistance check.
+Engine Thermocouples Out of Calibration
+When thermocouples are subjected for a period of time
+to oxidizing atmospheres, such as encountered in turbine
+engines, they drift appreciably from their original calibration.
+On engine parallel harnesses, when individual thermocouples
+can be removed, these thermocouples can be bench-checked,
+using one heater probe. The temperature reading obtained
+from the thermocouples should be within manufacturer’s
+tolerances.
+
+10-64
+
+===== PDF PAGE 433 =====
+located and corrected.
+
+Figure 10-79. Magnetic pickup and gear.
+
+EGT Circuit Error
+This error is found by using the EGT and comparing the
+reading of the aircraft EGT indicator with the analyzer
+temperature reading. [Figure 10-78] The analyzer and aircraft
+temperature readings are then compared.
+Resistance of Circuit Out of Tolerance
+The engine thermocouple circuit resistance is a very
+important adjustment since a high-resistance condition gives
+a low indication on the aircraft EGT indicator. This condition
+is dangerous, because the engine is operating with excess
+temperature, but the high resistance makes the indicator
+read low. It is important to check and correct this condition.
+Shorts to Ground/Shorts Between Leads
+These errors are found by doing the insulation check using
+an ohmmeter. Resistance values from zero to 550,000 ohms
+can be read on the insulation check ohmmeter by selecting
+the proper range.
+
+Troubleshooting Aircraft Tachometer System
+A function of the rpm check is troubleshooting the aircraft
+tachometer system. The rpm check circuit in the analyzer
+is used to read engine speed during engine run-up with an
+accuracy of ±0.1 percent. The connections for the rpm check
+are the instrument cable and aircraft tachometer system lead
+to the tachometer indicator. After the connections have been
+made between the analyzer rpm check circuit and the aircraft
+tachometer circuit, the two circuits, now classed as one, are
+a parallel circuit. The engine is then run-up as prescribed in
+applicable technical instructions. Both systems can be read
+simultaneously.
+If the difference between the readings of the aircraft
+tachometer indicator and the analyzer rpm check circuit
+exceeds the tolerance prescribed in applicable technical
+instructions, the engine must be stopped, and the trouble
+10-65
+

@@ -1,0 +1,1730 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 572-589
+
+===== PDF PAGE 572 =====
+Armature Reaction
+Current flowing through the armature sets up electromagnetic
+fields in the windings. These new fields tend to distort or
+bend the magnetic flux between the poles of the generator
+from a straight-line path. Since armature current increases
+with load, the distortion becomes greater with an increase in
+load. This distortion of the magnetic field is called armature
+reaction. [Figure 12-283]
+Armature windings of a generator are spaced so that, during
+rotation of the armature, there are certain positions when the
+brushes contact two adjacent segments, thereby shorting the
+armature windings to these segments. When the magnetic
+field is not distorted, there is usually no voltage being
+induced in the shorted windings, and therefore no harmful
+results occur from the shorting of the windings. However,
+when the field is distorted, a voltage is induced in these
+shorted windings, and sparking takes place between the
+brushes and the commutator segments. Consequently, the
+commutator becomes pitted, the wear on the brushes becomes
+excessive, and the output of the generator is reduced. To
+correct this condition, the brushes are set so that the plane of
+the coils, which are shorted by the brushes, is perpendicular
+to the distorted magnetic field, which is accomplished by
+moving the brushes forward in the direction of rotation. This
+operation is called shifting the brushes to the neutral plane
+
+or plane of commutation. The neutral plane is the position
+where the plane of the two opposite coils is perpendicular
+to the magnetic field in the generator. On a few generators,
+the brushes can be shifted manually ahead of the normal
+neutral plane to the neutral plane caused by field distortion.
+On nonadjustable brush generators, the manufacturer sets
+the brushes for minimum sparking.
+Compensating windings or interpoles may be used to
+counteract some of the effects of field distortion, since
+shifting the brushes is inconvenient and unsatisfactory,
+especially when the speed and load of the generator are
+changing constantly.
+Compensating Windings
+The compensating windings consist of a series of coils
+embedded in slots in the pole faces. These coils are also
+connected in series with the armature. Consequently, this series
+connection with the armature produces a magnetic field in the
+compensating windings that varies directly with the armature
+current. The compensating windings are wound in such a
+manner that the magnetic field produced by them counteracts
+the magnetic field produced by the armature. As a result, the
+neutral plane remains stationary any magnitude of armature
+current. With this design, once the brushes are set correctly,
+they do not need to be moved again. Figure 12-284A illustrates
+how the windings are set into the pole faces.
+
+Sealed ball bearings
+
+Connector ligs
+Field frame
+
+Air scoop
+
+Drive end frame
+
+Brush connector bars
+Commutator
+Steel ring
+Drive shaft
+Commutator
+end frame
+
+Brush and holder
+
+Pole shoe
+
+Screw
+
+Field winding
+
+Field frame
+
+Armature
+Drive end
+Figure 12-277. Typical 24-volt aircraft generator.
+
+12-131
+
+===== PDF PAGE 573 =====
+Flux
+
+Frame
+
+N
+
+S
+
+Pole
+
+Field winding
+
+Figure 12-279. A field coil removed from a field pole.
+
+A
+
+Frame
+
+Flux
+
+Types of DC Generators
+There are three types of DC generators: series wound, shunt
+wound, and shunt series or compound wound. The difference
+in type depends on the relationship of the field winding to
+the external circuit.
+
+S
+N
+Pole
+
+the generator; therefore, field distortion is reduced by the
+interpoles, and the efficiency, output, and service life of the
+brushes are improved.
+
+N
+S
+
+Field winding
+
+B
+Figure 12-278. A two-pole and a four-pole frame assembly.
+
+Interpoles
+An interpole is a pole placed between the main poles of a
+generator. An example of interpole placement is shown in
+Figure 12-284B. This is a simple two-pole generator with
+two interpoles.
+An interpole has the same polarity as the next main pole in
+the direction of rotation. The magnetic flux produced by
+an interpole causes the current in the armature to change
+direction as an armature winding passes under it. This
+cancels the electromagnetic fields about the armature
+windings. The magnetic strength of the interpoles varies with
+the load on the generator; and since field distortion varies
+with the load, the magnetic field of the interpoles counteracts
+the effects of the field set up around the armature windings
+and minimizes field distortion. Thus, the interpole tends to
+keep the neutral plane in the same position for all loads on
+
+Series Wound DC Generators
+The field winding of a series generator is connected in series
+with the external circuit called the load. [Figure 12-285] The
+field coils are composed of a few turns of large wire; the
+magnetic field strength depends more on the current flow rather
+than the number of turns in the coil. Series generators have very
+poor voltage regulation under changing load, since the greater
+the current through the field coils to the external circuit, the
+greater the induced emf and the greater the terminal or output
+voltage. Therefore, when the load is increased, the voltage
+increases; likewise, when the load is decreased, the voltage
+
+N
+
+S
+
+Figure 12-280. An eight-section, ring-type armature.
+
+12-132
+
+===== PDF PAGE 574 =====
+Commutator
+
+Slots
+
+Shaft
+Coils
+Figure 12-281. A drum-type armature.
+
+decreases. The output voltage of a series wound generator
+may be controlled by a rheostat in parallel with the field
+windings. [Figure 12-285A] Since the series wound generator
+has such poor regulation, it is never employed as an airplane
+generator. Generators in airplanes have field windings, which
+are connected either in shunt or in compound.
+
+Shunt Wound DC Generators
+A generator having a field winding connected in parallel
+with the external circuit is called a shunt generator.
+[Figure 12-286A and B] The field coils of a shunt generator
+contain many turns of small wire; the magnetic strength
+is derived from the large number of turns rather than the
+current strength through the coils. If a constant voltage is
+desired, the shunt wound generator is not suitable for rapidly
+
+fluctuating loads. Any increase in load causes a decrease
+in the terminal or output voltage, and any decrease in load
+causes an increase in terminal voltage; since the armature
+and the load are connected in series, all current flowing in
+the external circuit passes through the armature winding.
+Because of the resistance in the armature winding, there is
+a voltage drop (IR drop = current × resistance). As the load
+increases, the armature current increases and the IR drop in
+the armature increases. The voltage delivered to the terminals
+is the difference between the induced voltage and the voltage
+drop; therefore, there is a decrease in terminal voltage. This
+decrease in voltage causes a decrease in field strength,
+because the current in the field coils decreases in proportion
+to the decrease in terminal voltage; with a weaker field, the
+voltage is further decreased. When the load decreases, the
+output voltage increases accordingly, and a larger current
+flows in the windings. This action is cumulative, so the output
+voltage continues to rise to a point called field saturation,
+after which there is no further increase in output voltage.
+The terminal voltage of a shunt generator can be controlled
+by means of a rheostat inserted in series with the field
+windings. [Figure 12-286A] As the resistance is increased,
+the field current is reduced; consequently, the generated
+voltage is reduced also. For a given setting of the field
+rheostat, the terminal voltage at the armature brushes is
+approximately equal to the generated voltage minus the IR
+
+Tightening nut
+Iron ring
+Mica V-ring
+Front V-ring
+Commutator bars
+
+Commutator bar
+Mica
+
+Mica insulation between bars
+Iron shell
+
+Slots
+
+Back V-ring with mica inner and outer rings for insulation
+
+Figure 12-282. Commutator with portion removed to show construction.
+
+12-133
+
+===== PDF PAGE 575 =====
+drop produced by the load current in the armature; thus, the
+voltage at the terminals of the generator drops as the load is
+applied. Certain voltage sensitive devices are available that
+automatically adjust the field rheostat to compensate for
+variations in load. When these devices are used, the terminal
+voltage remains essentially constant.
+
+Compound Wound DC Generators
+
+A compound wound generator combines a series winding
+and a shunt winding in such a way that the characteristics
+of each are used to advantage. The series field coils are
+made of a relatively small number of turns of large copper
+conductor, either circular or rectangular in cross section, and
+are connected in series with the armature circuit. These coils
+are mounted on the same poles on which the shunt field coils
+are mounted and, therefore, contribute a magnetomotive
+force which influences the main field flux of the generator.
+A diagrammatic and a schematic illustration of a compound
+wound generator is shown in Figure 12-287A and B.
+
++
+
++
+
+ion
+tat
+Ro
+
+a Neutral plane
++
+
+N
+
++
+
+If the series field aids the shunt field, the generator is said
+to be cumulative compounded. If the series field opposes
+the shunt field, the machine is said to be differentially
+compounded or is called a differential generator. Compound
+generators are usually designed to be overcompounded.
+This feature permits varied degrees of compounding by
+connecting a variable shunt across the series field. Such a
+shunt is sometimes called a diverter. Compound generators
+are used where voltage regulation is of prime importance.
+
+S
+b
+A Field excited, armature unexcited
+ion
+tat
+Ro
+
+S
++ +
+
++
+
++
+
++
++
++
++
++
++
++
+
+Differential generators have somewhat the same characteristics
+as series generators in that they are essentially constant
+current generators. However, they generate rated voltage at
+no load, the voltage dropping materially as the load current
+increases. Constant current generators are ideally suited as
+power sources for electric arc welders and are used almost
+universally in electric arc welding.
+
+N
+B Armature excited, field unexcited
++
+
+a
+
++
+
++
+
+N
++ + + +
+
++
+
++
+
++
++
++
++
++
+
++
+
+S
+
+Rot
+atio
+n
+
+b
+
+C Both field and armature excited
+Figure 12-283. Armature reaction.
+
+If the ampere turns of the series field act in the same direction
+as those of the shunt field, the combined magnetomotive force
+is equal to the sum of the series and shunt field components.
+Load is added to a compound generator in the same manner
+in which load is added to a shunt generator, by increasing
+the number of parallel paths across the generator terminals.
+Thus, the decrease in total load resistance with added load
+is accompanied by an increase in armature circuit and series
+field circuit current. The effect of the additive series field is
+that of increased field flux with increased load. The extent of
+the increased field flux depends on the degree of saturation
+of the field as determined by the shunt field current. Thus, the
+terminal voltage of the generator may increase or decrease with
+load, depending on the influence of the series field coils. This
+influence is referred to as the degree of compounding. A flat
+compound generator is one in which the no load and full load
+voltages have the same value; whereas an under compound
+generator has a full load voltage less than the no load value,
+and an over compound generator has a full load voltage which
+is higher than the no load value. Changes in terminal voltage
+with increasing load depend upon the degree of compounding.
+
+If the shunt field of a compound generator is connected across
+both the armature and the series field, it is known as a long
+shunt connection, but if the shunt field is connected across
+the armature alone, it is called a short shunt connection.
+These connections produce essentially the same generator
+characteristics. A summary of the characteristics of the various
+types of generators discussed is shown in Figure 12-288.
+Generator Ratings
+A generator is rated in power output. Since a generator is
+designed to operate at a specified voltage, the rating usually
+is given as the number of amperes the generator can safely
+12-134
+
+===== PDF PAGE 576 =====
+Armature windings
+Compensating
+windings
+
+Compensating
+windings
+
+A
+Field rheostat
+
+−
+
++
++
+−
+−
+−
+−
+−
+
++
++
++
++
+
+−
+
++
+
+−
+
++
+
+−
++
++
++
++
++
+
+−
+
+−
+
+−
+−
+
+S
+
+−
+−
+
++
+
+N
++
+
+Load
+Generator
+A
+
+Compensating
+
+Interpole windings
+
+B
+
+Field coils
+
+Main field windings
+To load
+Arm
+
+S
+−
+Main field
+windings
+
+N
+
+S
+Figure 12-285. Diagram and schematic of a series wound generator.
+
++
+N
+
+External load
+
+Interpole
+windings
+
+Generator
+B
+
+Interpole
+
+Figure 12-284. Simple two-pole generator with two interpoles.
+
+supply at its rated voltage. Generator rating and performance
+data are stamped on the nameplate attached to the generator.
+When replacing a generator, it is important to choose one of
+the proper rating.
+The rotation of generators is termed either clockwise or
+counterclockwise, as viewed from the driven end. Usually,
+the direction of rotation is stamped on the data plate. If
+no direction is stamped on the plate, the rotation may be
+marked by an arrow on the cover plate of the brush housing.
+It is important that a generator with the correct direction of
+rotation be used; otherwise, the voltage is reversed.
+The speed of an aircraft engine varies from idle rpm to takeoff
+rpm; however, during the major portion of a flight, it is at a
+constant cruising speed. The generator drive is usually geared
+to revolve the generator between 11⁄8 and 11⁄2 times the engine
+crankshaft speed. Most aircraft generators have a speed at
+
+which they begin to produce their normal voltage. Termed
+the “coming in” speed, it is usually about 1,500 rpm.
+Generator Terminals
+On most large 24-volt generators, electrical connections
+are made to terminals marked B, A, and E. The positive
+armature lead in the generator connects to the B terminal.
+The negative armature lead connects to the E terminal. The
+positive end of the shunt field winding connects to terminal A,
+and the opposite end connects to the negative terminal brush.
+Terminal A receives current from the negative generator brush
+through the shunt field winding. This current passes through
+the voltage regulator and back to the armature through the
+positive brush. Load current, which leaves the armature
+through the negative brushes, comes out of the E lead and
+passes through the load before returning to the armature
+through the positive brushes.
+
+DC Generator Maintenance
+Inspection
+The following information about the inspection and
+maintenance of DC generator systems is general in nature
+because of the large number of differing aircraft generator
+systems. These procedures are for familiarization only.
+Always follow the applicable manufacturer’s instructions
+for a given generator system.
+
+12-135
+
+===== PDF PAGE 577 =====
+of No. 000, or finer, sandpaper under the brush, rough side
+out. [Figure 12-289] Pull the sandpaper in the direction
+of armature rotation, being careful to keep the ends of the
+sandpaper as close to the slip ring or commutator surface as
+possible in order to avoid rounding the edges of the brush.
+
+A
+
+When pulling the sandpaper back to the starting point, raise
+the brush so it does not ride on the sandpaper. Sand the brush
+only in the direction of rotation.
+
+Field
+rheostat
+
+−
+
+Load
+
+S
+
+N
++
+
+Shunt circuit
+
+Main circuit
+
+B
+Field coils
+
+Arm
+
+To load
+
+Figure 12-286. Shunt wound generator.
+
+In general, the inspection of the generator installed in the
+aircraft should include the following items:
+1.
+
+Security of generator mounting
+
+2.
+
+Condition of electrical connections
+
+3.
+
+Dirt and oil in the generator—if oil is present, check
+engine oil seal. Blow out dirt with compressed air.
+
+4.
+
+Condition of generator brushes
+
+5.
+
+Generator operation
+
+6.
+
+Voltage regulator operation
+
+Condition of Generator Brushes
+Sparking of brushes quickly reduces the effective brush area
+in contact with the commutator bars. The degree of such
+sparking should be determined. Excessive wear warrants a
+detailed inspection.
+The following information pertains to brush seating, brush
+pressure, high mica condition, and brush wear. Manufacturers
+usually recommend the following procedures to seat brushes
+that do not make good contact with slip rings or commutators.
+Lift the brush sufficiently to permit the insertion of a strip
+
+After the generator has run for a short period, brushes should
+be inspected to make sure that pieces of sand have not become
+embedded in the brush and are collecting copper.
+Under no circumstances should emery cloth or similar
+abrasives be used for seating brushes (or smoothing
+commutators), since they contain conductive materials that
+cause arcing between brushes and commutator bars.
+Excessive pressure causes rapid wear of brushes. Too
+little pressure, however, allows “bouncing” of the brushes,
+resulting in burned and pitted surfaces.
+A carbon, graphite, or light metalized brush should exert a
+pressure of 11⁄2 to 21⁄2 psi on the commutator. The pressure
+recommended by the manufacturer should be checked by
+the use of a spring scale graduated in ounces. Brush spring
+
+A
+
+−
+
+S
+Load
+
+N
++
+
+Series field coil
+
+B
+Shunt
+field
+coil
+
+To load
+Arm
+
+Compound wound
+Figure 12-287. Compound wound generator.
+
+12-136
+
+===== PDF PAGE 578 =====
+tension is usually adjusted between 32 to 36 ounces; however,
+the tension may differ slightly for each specific generator.
+When a spring scale is used, the measurement of the pressure
+that a brush exerts on the commutator is read directly on the
+scale. The scale is applied at the point of contact between the
+spring arm and the top of the brush, with the brush installed
+in the guide. The scale is drawn up until the arm just lifts
+off the brush surface. At this instant, the force on the scale
+should be read.
+Flexible low resistance pigtails are provided on most heavy
+current carrying brushes, and their connections should be
+securely made and checked at frequent intervals. The pigtails
+should never be permitted to alter or restrict the free motion
+of the brush.
+The purpose of the pigtail is to conduct the current, rather
+than subjecting the brush spring to currents that would alter
+its spring action by overheating. The pigtails also eliminate
+any possible sparking to the brush guides caused by the
+movement of the brushes within the holder, thus minimizing
+side wear of the brush.
+Carbon dust resulting from brush sanding should be
+thoroughly cleaned from all parts of the generators after a
+sanding operation. Such carbon dust has been the cause of
+several serious fires, as well as costly damage to the generator.
+
+Output voltage
+
+100%
+
+Operation over extended periods of time often results in
+the mica insulation between commutator bars protruding
+above the surface of the bars. This condition is called “high
+mica” and interferes with the contact of the brushes to
+Cumulative compounding
+Shunt co
+nnectio
+n
+Diffe
+ren
+tial
+com
+pou
+nd
+ing
+n
+tio
+ec
+n
+n
+co
+ies
+r
+Se
+
+0
+
+Output current or load
+
+100%
+
+Figure 12-288. Generator characteristics.
+
+armature has been turned on a lathe, carefully undercut the
+mica insulation to a depth equal to the width of the mica, or
+approximately 1.20 inch.
+Each brush should be a specified length to work properly.
+If a brush is too short, the contact it makes with the
+commutator will be faulty, which can also reduce the spring
+force holding the brush in place. Most manufacturers specify
+the amount of wear permissible from a new brush length.
+When a brush has worn to the minimum length permissible,
+it must be replaced.
+Some special generator brushes should not be replaced
+because of a slight grooving on the face of the brush. These
+grooves are normal and will appear in AC and DC generator
+brushes which are installed in some models of aircraft
+generators. These brushes have two cores made of a harder
+material with a higher expansion rate than the material used
+in the main body of the brush. Usually, the main body of
+the brush face rides on the commutator. However, at certain
+temperatures, the cores extend and wear through any film
+on the commutator.
+DC Motors
+Most devices in an airplane, from the starter [Figure 12-290]
+to the automatic pilot, depend upon mechanical energy
+furnished by DC motors. A DC motor is a rotating machine,
+which transforms DC energy into mechanical energy. It
+consists of two principal parts—a field assembly and an
+armature assembly. The armature is the rotating part in which
+current carrying wires are acted upon by the magnetic field.
+Whenever a current carrying wire is placed in the field of
+a magnet, a force acts on the wire. The force is not one of
+attraction or repulsion; however, it is at right angles to the
+wire and also at right angles to the magnetic field set up by
+the magnet. The action of the force upon a current carrying
+wire placed in a magnetic field is shown in Figure 12-291.
+A wire is located between two permanent magnets. The lines
+of force in the magnetic field are from the North pole to the
+South pole. When no current flows, no force is exerted on the
+wire, but when current flows through the wire, a magnetic
+field is set up about it. [Figure 12-291] The direction of the
+field depends on the direction of current flow. Current in one
+direction creates a clockwise field about the wire, and current
+in the other direction, a counterclockwise field.
+Since the current carrying wire produces a magnetic field,
+a reaction occurs between the field about the wire and the
+magnetic field between the magnets. When the current flows
+
+the commutator. Whenever this condition exists, or if the
+12-137
+
+===== PDF PAGE 579 =====
+in a direction to create a counterclockwise magnetic field
+about the wire, this field and the field between the magnets
+add or reinforce at the bottom of the wire because the lines
+of force are in the same direction. At the top of the wire,
+they subtract or neutralize, since the lines of force in the two
+fields are opposite in direction. Thus, the resulting field at the
+bottom is strong and the one at the top is weak. Consequently,
+the wire is pushed upward. [Figure 12-291C] The wire is
+always pushed away from the side where the field is strongest.
+If current flow through the wire were reversed in direction,
+the two fields would add at the top and subtract at the bottom.
+Since a wire is always pushed away from the strong field,
+the wire would be pushed down.
+Force Between Parallel Conductors
+Two wires carrying current in the vicinity of one another exert
+a force on each other because of their magnetic fields. An
+end view of two conductors is shown in Figure 12-292. In
+Figure 12-292A, electron flow in both conductors is toward
+the reader, and the magnetic fields are clockwise around the
+conductors. Between the wires, the fields cancel because the
+directions of the two fields oppose each other. The wires are
+forced in the direction of the weaker field, toward each other.
+This force is one of attraction. In Figure 12-292B, the electron
+flow in the two wires is in opposite directions.
+The magnetic fields are, therefore, clockwise in one and
+
+Unseated brush
+
+/
+
+/
+
+1 32" to 1 16"
+
+000 sandpaper (sand side next to brush)
+
+Properly seated brush
+Figure 12-289. Seating brushes with sandpaper.
+
+counterclockwise in the other, as shown. The fields reinforce
+each other between the wires, and the wires are forced in the
+direction of the weaker field, away from each other. This
+force is one of repulsion.
+To summarize: conductors carrying current in the same
+direction tend to be drawn together; conductors carrying current
+in opposite directions tend to be repelled from each other.
+Developing Torque
+If a coil in which current is flowing is placed in a magnetic
+field, a force is produced which causes the coil to rotate. In
+the coil shown in Figure 12-293, current flows inward on
+side A and outward on side B. The magnetic field about B is
+clockwise and that about A, counterclockwise. As previously
+explained, a force develops which pushes side B downward.
+At the same time, the field of the magnets and the field
+about A, in which the current is inward, adds at the bottom
+and subtracts at the top. Therefore, A moves upward. The
+coil rotates until its plane is perpendicular to the magnetic
+lines between the North and South poles of the magnet, as
+indicated in Figure 12-293 by the white coil at right angles
+to the black coil.
+The tendency of a force to produce rotation is called torque.
+When the steering wheel of a car is turned, torque is applied.
+The engine of an airplane gives torque to the propeller. Torque
+is developed also by the reacting magnetic fields about the
+current carrying coil just described. This is the torque, which
+turns the coil.
+The right-hand motor rule can be used to determine the
+direction a current carrying wire moves in a magnetic field.
+As illustrated in Figure 12-294, if the index finger of the
+right hand is pointed in the direction of the magnetic field
+and the second finger in the direction of current flow, the
+thumb indicates the direction the current carrying wire moves.
+The amount of torque developed in a coil depends upon several
+factors: the strength of the magnetic field, the number of turns
+in the coil, and the position of the coil in the field. Magnets are
+made of special steel that produces a strong field. Since there
+is torque acting on each turn, the greater the number of turns
+on the coil, the greater the torque. In a coil carrying a steady
+current located in a uniform magnetic field, the torque varies
+at successive positions of rotation. [Figure 12-295] When the
+plane of the coil is parallel to the lines of force, the torque is
+zero. When its plane cuts the lines of force at right angles, the
+torque is 100 percent. At intermediate positions, the torque
+ranges between 0 and 100 percent.
+Basic DC Motor
+A coil of wire through which the current flows rotates when
+placed in a magnetic field. This is the technical basis governing
+the construction of a DC motor. [Figure 12-296] However,
+12-138
+
+===== PDF PAGE 580 =====
+if the connecting wires from the battery were permanently
+fastened to the terminals of the coil and there was a flow of
+current, the coil would rotate only until it lined itself up with
+the magnetic field. Then, it would stop, because the torque
+at that point would be 0.
+A motor, of course, must continue rotating. It is therefore
+necessary to design a device that reverses the current in the
+coil just at the time the coil becomes parallel to the lines of
+force. This creates torque again and causes the coil to rotate.
+If the current reversing device is set up to reverse the current
+each time the coil is about to stop, the coil can be made to
+continue rotating as long as desired.
+
+Figure 12-290. DC series starter motor.
+
+One method of doing this is to connect the circuit so that, as
+the coil rotates, each contact slides off the terminal to which it
+connects and slides onto the terminal of opposite polarity. In
+other words, the coil contacts switch terminals continuously
+as the coil rotates, preserving the torque and keeping the
+coil rotating. In Figure 12-296, the coil terminal segments
+are labeled A and B. As the coil rotates, the segments slide
+onto and past the fixed terminals or brushes. With this
+arrangement, the direction of current in the side of the coil
+next to the North-seeking pole flows toward the reader, and
+the force acting on that side of the coil turns it downward.
+The part of the motor that changes the current from one wire
+to another is called the commutator.
+
+Position B
+When the coil has rotated 90° to the position shown
+in Figure 12-296B, segments A and B of the commutator no
+longer make contact with the battery circuit and no current
+can flow through the coil. At this position, the torque has
+reached a minimum value, since a minimum number of lines
+of force are being cut. However, the momentum of the coil
+carries it beyond this position until the segments again make
+contact with the brushes, and current again enters the coil;
+this time, though, it enters through segment A and leaves
+through segment B. However, since the positions of segments
+A and B have also been reversed, the effect of the current is
+as before, the torque acts in the same direction, and the coil
+continues its counterclockwise rotation.
+
+Position A
+When the coil is positioned as shown in Figure 12-296A,
+current flows from the negative terminal of the battery to the
+negative (−) brush, to segment B of the commutator, through
+the loop to segment A of the commutator, to the positive (+)
+brush, and then back to the positive terminal of the battery.
+By using the right-hand motor rule, it is seen that the coil
+rotates counterclockwise. The torque at this position of the
+coil is maximum, since the greatest number of lines of force
+is being cut by the coil.
+
+Position C
+On passing through the position shown in Figure 12-296C,
+the torque again reaches maximum.
+
+Position D
+Continued rotation carries the coil again to a position of
+minimum torque as in Figure 12-296D. At this position, the
+brushes no longer carry current, but once more the momentum
+rotates the coil to the point where current enters through
+
+A
+
+B
+
+C
+
+Wire without current located
+in a magnetic field
+
+Wire with current and
+accompanying field
+
+Resultant field and
+direction of force on wire
+
+Figure 12-291. Force on a current carrying wire.
+
+12-139
+
+===== PDF PAGE 581 =====
+segment B and leaves through A. Further rotation brings the
+coil to the starting point and, thus, one revolution is completed.
+The switching of the coil terminals from the positive to the
+negative brushes occurs twice per revolution of the coil.
+The torque in a motor containing only a single coil is neither
+continuous nor very effective, for there are two positions
+where there is actually no torque at all. To overcome this, a
+practical DC motor contains a large number of coils wound on
+the armature. These coils are so spaced that, for any position
+of the armature, there are coils near the poles of the magnet.
+This makes the torque both continuous and strong. The
+commutator, likewise, contains a large number of segments
+instead of only two.
+The armature in a practical motor is not placed between
+the poles of a permanent magnet but between those of an
+electromagnet, since a much stronger magnetic field can be
+furnished. The core is usually made of a mild or annealed
+steel, which can be magnetized strongly by induction. The
+current magnetizing the electromagnet is from the same
+source that supplies the current to the armature.
+
+DC Motor Construction
+The major parts in a practical motor are the armature
+assembly, the field assembly, the brush assembly, and the
+end frame. [Figure 12-297]
+Armature Assembly
+The armature assembly contains a laminated, soft-iron core,
+coils, and a commutator, all mounted on a rotatable steel shaft.
+Laminations made of stacks of soft iron, insulated from each
+other, form the armature core. Solid iron is not used, since a
+solid iron core revolving in the magnetic field would heat and
+use energy needlessly. The armature windings are insulated
+copper wire, which are inserted in slots insulated with fiber
+paper (fish paper) to protect the windings. The ends of the
+windings are connected to the commutator segments. Wedges
+or steel bands hold the windings in place to prevent them
+from flying out of the slots when the armature is rotating at
+high speeds. The commutator consists of a large number of
+copper segments insulated from each other and the armature
+shaft by pieces of mica. Insulated wedge rings hold the
+segments in place.
+
+Torque
+
+Magnetic field
+
+Direction of current
+
+N
+A
+
+A
+B
+
+S
+
+Figure 12-293. Developing a torque.
+Motion
+
++
+
+Magnetic flux
+
+Current
+B
+Figure 12-292. Fields surrounding parallel conductors.
+
+Figure 12-294. Right-hand motor rule.
+
+12-140
+
+===== PDF PAGE 582 =====
+Field Assembly
+The field assembly consists of the field frame, the pole pieces,
+and the field coils. The field frame is located along the inner
+wall of the motor housing. It contains laminated, soft-steel pole
+pieces on which the field coils are wound. A coil, consisting of
+several turns of insulated wire, fits over each pole piece and,
+together with the pole, constitutes a field pole. Some motors
+have as few as two poles, others as many as eight.
+Brush Assembly
+The brush assembly consists of the brushes and their holders.
+The brushes are usually small blocks of graphitic carbon, since
+this material has a long service life and also causes minimum
+wear to the commutator. The holders permit some play in the
+brushes so they can follow any irregularities in the surface
+of the commutator and make good contact. Springs hold the
+brushes firmly against the commutator. [Figure 12-298]
+
+A
+Torque
+
+Brush
+A
+
+B
+
+No torque
+
+B
+
+End Frame
+The end frame is the part of the motor opposite the
+commutator. Usually, the end frame is designed so that it
+can be connected to the unit to be driven. The bearing for the
+drive end is also located in the end frame. Sometimes the end
+frame is made a part of the unit driven by the motor. When
+this is done, the bearing on the drive end may be located in
+any one of a number of places.
+
+Types of DC Motors
+
+S
+
+N
+
+N
+
+S
+
+B
+
+A
+
+C
+
+There are three basic types of DC motors: series motors, shunt
+motors, and compound motors. They differ largely in the
+method in which their field and armature coils are connected.
+
+Torque
+
+S
+
+N
+
+Series DC Motor
+In the series motor, the field windings, consisting of a
+relatively few turns of heavy wire, are connected in series
+with the armature winding. Both a diagrammatic and a
+schematic illustration of a series motor are shown in
+Figure 12-299. The same current flowing through the field
+winding also flows through the armature winding. Any
+increase in current, therefore, strengthens the magnetism of
+
+B
+
+A
+
+No torque
+
+D
+Zero torque
+00%
+
+71%
+
+1
+
+N
+
+S
+90°
+
+0°
+
+45°
+
+Figure 12-295. Torque on a coil at various angles of rotation.
+
+N
+
+S
+
+A
+
+B
+
+Figure 12-296. Basic DC motor operation.
+
+12-141
+
+===== PDF PAGE 583 =====
+both the field and the armature.
+Because of the low resistance in the windings, the series
+motor is able to draw a large current in starting. This starting
+current, in passing through both the field and armature
+windings, produces a high starting torque, which is the series
+motor’s principal advantage.
+The speed of a series motor is dependent upon the load. Any
+change in load is accompanied by a substantial change in
+speed. A series motor runs at high speed when it has a light
+load and at low speed with a heavy load. If the load is removed
+entirely, the motor may operate at such a high speed that the
+armature falls apart. If high starting torque is needed under
+heavy load conditions, series motors have many applications.
+Series motors are often used in aircraft as engine starters and for
+raising and lowering landing gears, cowl flaps, and wing flaps.
+Shunt DC Motor
+In the shunt motor, the field winding is connected in parallel
+or in shunt with the armature winding. [Figure 12-300] The
+resistance in the field winding is high. Since the field winding
+is connected directly across the power supply, the current
+through the field is constant. The field current does not vary
+with motor speed, as in the series motor and, therefore, the
+torque of the shunt motor varies only with the current through
+the armature. The torque developed at starting is less than
+that developed by a series motor of equal size.
+The speed of the shunt motor varies very little with changes
+in load. When all load is removed, it assumes a speed slightly
+higher than the loaded speed. This motor is particularly
+suitable for use when constant speed is desired and when
+high starting torque is not needed.
+Compound DC Motor
+The compound motor is a combination of the series and shunt
+motors. There are two windings in the field: a shunt winding
+and a series winding. [Figure 12-301] The shunt winding
+is composed of many turns of fine wire and is connected in
+parallel with the armature winding. The series winding
+consists of a few turns of large wire and is connected in series
+with the armature winding. The starting torque is higher than
+in the shunt motor but lower than in the series motor. Variation
+of speed with load is less than in a series wound motor but
+greater than in a shunt motor. The compound motor is used
+whenever the combined characteristics of the series and shunt
+motors are desired.
+Like the compound generator, the compound motor has both
+series and shunt field windings. The series winding may
+either aid the shunt wind (cumulative compound) or oppose
+the shunt winding (differential compound). The starting
+
+and load characteristics of the cumulative compound motor
+are somewhere between those of the series and those of the
+shunt motor.
+Because of the series field, the cumulative compound motor
+has a higher starting torque than a shunt motor. Cumulative
+compound motors are used in driving machines, which are
+subject to sudden changes in load. They are also used where a
+high starting torque is desired, but a series motor cannot be
+used easily.
+In the differential compound motor, an increase in load
+creates an increase in current and a decrease in total flux in
+this type of motor. These two tend to offset each other and
+the result is a practically constant speed. However, since an
+increase in load tends to decrease the field strength, the speed
+characteristic becomes unstable. Rarely is this type of motor
+used in aircraft systems.
+A graph of the variation in speed with changes of load of
+the various types of DC motors is shown in Figure 12-302.
+
+Counter Electromotive Force (emf)
+The armature resistance of a small, 28-volt DC motor
+is extremely low, about 0.1 ohm. When the armature is
+connected across the 28-volt source, current through the
+armature is apparently:
+I = E = 28 = 280 amperes
+R 0.1
+This high value of current flow is not only impracticable but
+also unreasonable, especially when the current drain, during
+normal operation of a motor, is found to be about 4 amperes.
+This is because the current through a motor armature during
+operation is determined by more factors than ohmic resistance.
+When the armature in a motor rotates in a magnetic field, a
+voltage is induced in its windings. This voltage is called the
+back or counter emf and is opposite in direction to the voltage
+applied to the motor from the external source.
+Counter emf opposes the current, which causes the armature
+to rotate. The current flowing through the armature, therefore,
+decreases as the counter emf increases. The faster the
+armature rotates, the greater the counter emf. For this reason,
+a motor connected to a battery may draw a fairly high current
+on starting, but as the armature speed increases, the current
+flowing through the armature decreases. At rated speed, the
+counter emf may be only a few volts less than the battery
+voltage. Then, if the load on the motor is increased, the motor
+slows down, less counter emf is generated, and the current
+drawn from the external source increases. In a shunt motor,
+the counter emf affects only the current in the armature, since
+12-142
+
+===== PDF PAGE 584 =====
+End frame
+
+Commutator
+
+Field coils
+
+Bearing
+
+Armature
+
+Cover
+
+Brush rigging
+
+Figure 12-297. Cutaway view of practical DC motor.
+
+the field is connected in parallel across the power source. As
+the motor slows down and the counter emf decreases, more
+current flows through the armature, but the magnetism in the
+field is unchanged. When the series motor slows down, the
+counter EMF decreases and more current flows through the
+field and the armature, thereby strengthening their magnetic
+
+fields. Because of these characteristics, it is more difficult to
+stall a series motor than a shunt motor.
+Types of Duty
+Electric motors are called upon to operate under various
+conditions. Some motors are used for intermittent operation;
+
+Tube type brush
+
+Box type brush
+
+Figure 12-298. Commutator and brushes.
+
+12-143
+
+===== PDF PAGE 585 =====
+others operate continuously. Motors built for intermittent
+duty can be operated for short periods only and, then, must
+be allowed to cool before being operated again. If such a
+motor is operated for long periods under full load, the motor
+becomes overheated. Motors built for continuous duty may
+be operated at rated power for long periods.
+Reversing Motor Direction
+By reversing the direction of current flow in either the armature
+or the field windings, the direction of a motor’s rotation may be
+reversed. This reverses the magnetism of either the armature or
+the magnetic field in which the armature rotates. If the wires
+connecting the motor to an external source are interchanged,
+the direction of rotation is not reversed, since changing these
+wires reverses the magnetism of both field and armature and
+leaves the torque in the same direction as before.
+One method for reversing direction of rotation employs
+two field windings wound in opposite directions on the
+same pole. This type of motor is called a split field motor.
+[Figure 12-303] The single pole, double throw switch
+makes it possible to direct current through either of the two
+windings. When the switch is placed in the lower position,
+current flows through the lower field winding, creating
+
+a North pole at the lower field winding and at the lower
+pole piece, and a South pole at the upper pole piece. When
+the switch is placed in the upper position, current flows
+through the upper field winding, the magnetism of the
+field is reversed, and the armature rotates in the opposite
+direction. Some split field motors are built with two separate
+field windings wound on alternate poles. The armature in
+such a motor, a four pole reversible motor, rotates in one
+direction when current flows through the windings of one set
+of opposite pole pieces, and in the opposite direction when
+current flows through the other set of windings.
+Another method of direction reversal, called the switch
+method, employs a double pole, double throw switch which
+changes the direction of current flow in either the armature
+or the field. In the illustration of the switch method shown in
+Figure 12-304, current direction may be reversed through the
+field but not through the armature. When the switch is thrown
+to the “up” position, current flows through the field winding
+to establish a North pole at the right side of the motor and a
+South pole at the left side of the motor. When the switch is
+thrown to the “down” position, this polarity is reversed and
+the armature rotates in the opposite direction.
+
+Shunt field
+
+Wire
+
+Commutator
+
+Armature
+
+Armature
+
+Commutator
+
+A Diagrammatic
+
+A Diagrammatic
+
+Shunt field
+
+B Schematic
+Figure 12-299. Series motor.
+
+B Schematic
+Figure 12-300. Shunt motor.
+
+12-144
+
+===== PDF PAGE 586 =====
+In the shunt motor, speed is controlled by a rheostat in series
+with the field windings. [Figure 12-305] The speed depends
+on the amount of current that flows through the rheostat to the
+field windings. To increase the motor speed, the resistance in
+the rheostat is increased, which decreases the field current.
+As a result, there is a decrease in the strength of the magnetic
+field and in the counter EMF. This momentarily increases the
+armature current and the torque. The motor then automatically
+speeds up until the counter EMF increases and causes the
+armature current to decrease to its former value. When this
+occurs, the motor operates at a higher fixed speed than before.
+To decrease the motor speed, the resistance of the rheostat
+is decreased. More current flows through the field windings
+and increases the strength of the field; then, the counter EMF
+increases momentarily and decreases the armature current.
+As a result, the torque decreases and the motor slows down
+until the counter EMF decreases to its former value; then the
+motor operates at a lower fixed speed than before.
+In the series motor, the rheostat speed control is connected
+either in parallel or in series with the motor field, or in
+parallel with the armature. When the rheostat is set for
+maximum resistance, the motor speed is increased in the
+parallel armature connection by a decrease in current. When
+the rheostat resistance is maximum in the series connection,
+motor speed is reduced by a reduction in voltage across the
+motor. For above normal speed operation, the rheostat is in
++
+Series
+field
+Shunt
+field
+M
+
+–
+Figure 12-301. Compound motor.
+
+parallel with the series field. Part of the series field current
+
+100%
+
+g
+Differential compoundin
+Shunt connection
+Cum
+ulativ
+ec
+
+Speed of rotation
+
+Motor Speed
+Motor speed can be controlled by varying the current in the
+field windings. When the amount of current flowing through
+the field windings is increased, the field strength increases,
+but the motor slows down since a greater amount of counter
+EMF is generated in the armature windings. When the field
+current is decreased, the field strength decreases, and the
+motor speeds up because the counter EMF is reduced. A
+motor in which speed can be controlled is called a variable
+speed motor. It may be either a shunt or series motor.
+
+Se
+rie
+sc
+onn
+ect
+
+0
+
+omp
+oun
+ding
+
+ion
+
+Output power or load
+
+100%
+
+Figure 12-302. Load characteristics of DC motors.
+
+is bypassed and the motor speeds up. [Figure 12-306]
+
+Energy Losses in DC Motors
+Losses occur when electrical energy is converted to
+mechanical energy (in the motor), or mechanical energy
+is converted to electrical energy (in the generator). For
+the machine to be efficient, these losses must be kept to a
+minimum. Some losses are electrical; others are mechanical.
+Electrical losses are classified as copper losses and iron
+losses; mechanical losses occur in overcoming the friction
+of various parts of the machine.
+Copper losses occur when electrons are forced through
+the copper windings of the armature and the field. These
+losses are proportional to the square of the current. They are
+sometimes called I2R losses, since they are due to the power
+dissipated in the form of heat in the resistance of the field
+and armature windings.
+Iron losses are subdivided in hysteresis and eddy current
+losses. Hysteresis losses are caused by the armature revolving
+in an alternating magnetic field. It, therefore, becomes
+magnetized first in one direction and then in the other. The
+residual magnetism of the iron or steel of which the armature
+is made causes these losses. Since the field magnets are
+always magnetized in one direction (DC field), they have
+no hysteresis losses.
+Eddy current losses occur because the iron core of the
+armature is a conductor revolving in a magnetic field. This
+sets up an EMF across portions of the core, causing currents
+to flow within the core. These currents heat the core and, if
+they become excessive, may damage the windings. As far as
+the output is concerned, the power consumed by eddy currents
+is a loss. To reduce eddy currents to a minimum, a laminated
+
+12-145
+
+===== PDF PAGE 587 =====
+core usually is used. A laminated core is made of thin sheets
+of iron electrically insulated from each other. The insulation
+between laminations reduces eddy currents, because it is
+“transverse” to the direction in which these currents tend to
+flow. However, it has no effect on the magnetic circuit. The
+thinner the laminations, the more effectively this method
+reduces eddy current losses.
+Inspection and Maintenance of DC Motors
+Use the following procedures to make inspection and
+maintenance checks:
+1.
+
+Check the operation of the unit driven by the motor
+in accordance with the instructions covering the
+specific installation.
+
+2.
+
+Check all wiring, connections, terminals, fuses, and
+switches for general condition and security.
+
+3.
+
+Keep motors clean and mounting bolts tight.
+
+4.
+
+Check brushes for condition, length, and spring
+tension. Minimum brush lengths, correct spring
+tension, and procedures for replacing brushes are
+given in the applicable manufacturer’s instructions.
+
+5.
+
+Inspect commutator for cleanness, pitting, scoring,
+roughness, corrosion, or burning. Check for high
+mica (IF the copper wears down below the mica, the
+mica insulates the brushes from the commutator.)
+Clean dirty commutators with a cloth moistened with
+the recommended cleaning solvent. Polish rough
+or corroded commutators with fine sandpaper (000
+or finer) and blow out with compressed air. Never
+use emery paper since it contains metallic particles
+
+B
+
+that may cause shorts. Replace the motor if the
+commutator is burned, badly pitted, grooved, or worn
+to the extent that the mica insulation is flush with the
+commutator surface.
+6.
+
+Inspect all exposed wiring for evidence of overheating.
+Replace the motor if the insulation on leads or
+windings is burned, cracked, or brittle.
+
+7.
+
+Lubricate only if called for by the manufacturer’s
+instructions covering the motor. Most motors used
+in today’s airplanes require no lubrication between
+overhauls.
+
+8.
+
+Adjust and lubricate the gearbox, or unit which the
+motor drives, in accordance with the applicable
+manufacturer’s instructions covering the unit.
+
+When trouble develops in a DC motor system, check first to
+determine the source of the trouble. Replace the motor only
+when the trouble is due to a defect in the motor itself. In most
+cases, the failure of a motor to operate is caused by a defect
+in the external electrical circuit or by mechanical failure in
+the mechanism driven by the motor.
+Check the external electrical circuit for loose or dirty
+
+Up
+
+Double pole
+A
+
+Down
+
+Double throw switch
+
+Figure 12-304. Switch method of reversing motor direction.
+
+Figure 12-303. Split field series motor.
+
+12-146
+
+===== PDF PAGE 588 =====
+connections and for improper connection of wiring. Look
+for open circuits, grounds, and shorts by following the
+applicable manufacturer’s circuit testing procedure. If the
+fuse is not blown, failure of the motor to operate is usually
+due to an open circuit. A blown fuse usually indicates an
+accidental ground or short circuit. A low battery usually
+causes the chattering of the relay switch, which controls the
+motor. When the battery is low, the open circuit voltage of
+the battery is sufficient to close the relay, but with the heavy
+current draw of the motor, the voltage drops below the level
+required to hold the relay closed. When the relay opens, the
+voltage in the battery increases enough to close the relay
+again. This cycle repeats and causes chattering, which is very
+harmful to the relay switch due to the heavy current causing
+an arc which burns the contacts.
+Check the unit driven by the motor for failure of the unit
+or drive mechanism. If the motor has failed as a result of a
+failure in the driven unit, the fault must be corrected before
+installing a new motor. If it has been determined that the
+fault is in the motor itself (by checking for correct voltage
+at the motor terminals and for failure of the driven unit),
+inspect the commutator and brushes. A dirty commutator
+or defective or binding brushes may result in poor contact
+between brushes and commutator. Clean the commutator,
+brushes, and brush holders with a cloth moistened with the
+recommended cleaning solvent. If brushes are damaged or
+worn to the specified minimum length, install new brushes in
+
+Frame
+Pole
+
+Shunt led
+Commutator
+
+Armature
+
+Rheostat
+
+Figure 12-305. Shunt motor with variable speed control.
+
+accordance with the applicable manufacturer’s instructions
+covering the motor. If the motor still fails to operate, replace
+it with a serviceable motor.
+
+AC Motors
+Because of their advantages, many types of aircraft motors
+are designed to operate on alternating current. In general,
+AC motors are less expensive than comparable DC motors.
+In many instances, AC motors do not use brushes and
+commutators so sparking at the brushes is avoided. AC
+motors are reliable and require little maintenance. They are
+also well suited for constant speed applications and certain
+types are manufactured that have, within limits, variable
+speed characteristics. Alternating current motors are designed
+to operate on polyphase or single-phase lines and at several
+voltage ratings.
+The speed of rotation of an AC motor depends upon the number
+of poles and the frequency of the electrical source of power:
+rpm =
+
+120 × Frequency
+Number of poles
+
+Since airplane electrical systems typically operate at 400
+cycles, an electric motor at this frequency operates at about
+seven times the speed of a 60-cycle commercial motor with
+the same number of poles. Because of this high speed of
+rotation, 400-cycle AC motors are suitable for operating
+small, high-speed rotors, through reduction gears, in
+lifting and moving heavy loads, such as the wing flaps, the
+retractable landing gear, and the starting of engines. The
+400-cycle induction type motor operates at speeds ranging
+from 6,000 rpm to 24,000 rpm. Alternating current motors
+are rated in horsepower output, operating voltage, full load
+current, speed, number of phases, and frequency. Whether
+the motors operate continuously or intermittently (for short
+intervals) is also considered in the rating.
+Types of AC Motors
+There are two general types of AC motors used in aircraft
+systems: induction motors and synchronous motors. Either type
+may be single-phase, two-phase, or three-phase. Three-phase
+induction motors are used where large amounts of power are
+required. They operate such devices as starters, flaps, landing
+gears, and hydraulic pumps. Single-phase induction motors
+are used to operate devices such as surface locks, intercooler
+shutters, and oil shutoff valves in which the power requirement
+is low. Three-phase synchronous motors operate at constant
+synchronous speeds and are commonly used to operate flux
+gate compasses and propeller synchronizer systems. Singlephase synchronous motors are common sources of power to
+operate electric clocks and other small, precision equipment.
+They require some auxiliary method to bring them up to
+12-147
+
+===== PDF PAGE 589 =====
++
+
++
+
++
+Slow
+
+Series
+filed
+
+Fast
+Fast
+
+Rheostat
+
+Slow
+
+Rheostat
+Slow
+
+Fast
+
+M
+
+M
+
+M
+
+–
+
+–
+
+Below normal speed
+
+Normal speed
+
+–
+Above normal speed
+
+Figure 12-306. Controlling the speed of a series DC motor.
+
+synchronous speeds; that is, to start them. Usually the starting
+winding consists of an auxiliary stator winding.
+Three-Phase Induction Motor
+The three-phase AC induction motor is also called a squirrel
+cage motor. Both single-phase and three-phase motors
+operate on the principle of a rotating magnetic field. A
+horseshoe magnet held over a compass needle is a simple
+illustration of the principle of the rotating field. The needle
+takes a position parallel to the magnetic flux passing between
+the two poles of the magnet. If the magnet is rotated, the
+compass needle follows. A rotating magnetic field can be
+produced by a two-or three-phase current flowing through
+two or more groups of coils wound on inwardly projecting
+poles of an iron frame. The coils on each group of poles
+are wound alternately in opposite directions to produce
+opposite polarity, and each group is connected to a separate
+phase of voltage. The operating principle depends on a
+revolving, or rotating, magnetic field to produce torque.
+The key to understanding the induction motor is a thorough
+understanding of the rotating magnetic field.
+Rotating Magnetic Field
+The field structure shown in Figure 12-307A has poles
+whose windings are energized by three AC voltages: a, b,
+and c. These voltages have equal magnitude but differ in
+phase. [Figure 12-307B] At the instant of time shown as
+0, the resultant magnetic field produced by the application
+of the three voltages has its greatest intensity in a direction
+
+extending from pole 1 to pole 4. Under this condition, pole
+1 can be considered as a North pole and pole 4 as a South
+pole. At the instant of time shown as 1, the resultant magnetic
+field has its greatest intensity in the direction extending from
+pole 2 to pole 5. In this case, pole 2 can be considered as a
+North pole and pole 5 as a South pole. Thus, between instant
+0 and instant 1, the magnetic field has rotated clockwise. At
+instant 2, the resultant magnetic field has its greatest intensity
+in the direction from pole 3 to pole 6, and the resultant
+magnetic field has continued to rotate clockwise. At instant
+3, poles 4 and 1 can be considered as North and South poles,
+respectively, and the field has rotated still farther. At later
+instants of time, the resultant magnetic field rotates to other
+positions while traveling in a clockwise direction, a single
+revolution of the field occurring in one cycle. If the exciting
+voltages have a frequency of 60 cps, the magnetic field makes
+60 revolutions per second, or 3,600 rpm. This speed is known
+as the synchronous speed of the rotating field.
+Construction of Induction Motor
+The stationary portion of an induction motor is called a stator,
+and the rotating member is called a rotor. Instead of salient
+poles in the stator, as shown in Figure 12-307A, distributed
+windings are used. These windings are placed in slots
+around the periphery of the stator. It is usually impossible
+to determine the number of poles in an induction motor by
+visual inspection, but the information can be obtained from
+the nameplate of the motor. The nameplate usually gives the
+number of poles and the speed at which the motor is designed
+12-148
+

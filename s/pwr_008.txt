@@ -1,0 +1,1499 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 2 (Engine Fuel & Fuel Metering Systems), PDF pages 83-97
+
+===== PDF PAGE 83 =====
+Chapter 2
+
+Engine Fuel & Fuel Metering Systems
+Fuel System Requirements
+The engine fuel system must supply fuel to the engine’s
+fuel metering device under all conditions of ground and air
+operation. It must function properly at constantly changing
+altitudes and in any climate. The most common fuels are
+AVGAS for reciprocating engines and Jet A for turbine
+engines. AVGAS is generally either 80 (red) or 100LL (blue)
+octane. The LL stands for low lead although it contains four
+times the lead of 80 octane AVGAS. Jet A is a kerosene-based
+fuel that is clear to straw in color.
+Electronic engine controls have allowed great increases in
+controlling the metered fuel flow to the engine. Engine fuel
+systems have become very accurate at providing the correct
+mixture of fuel and air to the engines. Gas turbine fuel controls
+have also greatly improved the ability to schedule (meter)
+the fuel correctly during all flight regimes. Improvements in
+electronics and the use of digital computers have enabled the
+aircraft and engines to be electronically interfaced together.
+By the use of electronic sensors and computer logic built
+in to electronic controls, the engines can be controlled with
+much more accuracy. Fuel cost and availability have also
+become factors in providing engines with fuel systems
+that are efficient and very precise in scheduling fuel flow
+to the engine. Many engines use an interactive system that
+senses engine parameters and feeds the information to the
+onboard computer (electronic engine control). The computer
+determines the amount of fuel needed and then sends a signal
+to the metering device. This signal sent to the metering device
+determines the correct amount of fuel needed by the engine.
+Electronic controls have become quite common with gas
+turbines and have increased the capabilities of the fuel system,
+making it less complicated for the technician and decreasing
+maintenance problems.
+Engine fuel systems can be fairly complicated, yet some are
+quite simple, such as on small aircraft with a simple gravityfeed fuel system. This system, consisting of a tank to supply
+fuel to the engine, is often installed in the overhead wing and
+feeds a small float-type carburetor. On multiengine aircraft,
+complex systems are necessary so that fuel can be pumped
+from any combination of tanks to any combination of engines
+through a crossfeed system. Provisions for transferring fuel
+from one tank to another may also be included on large aircraft.
+
+Vapor Lock
+All fuel systems should be designed so that vapor lock cannot
+take place. Older gravity-feed systems were more prone to
+vapor lock. The fuel system should be free of tendency to
+vapor lock, which can result from changes in ground and
+in-flight climatic conditions. Normally, the fuel remains in
+a liquid state until it is discharged into the air stream and
+then instantly changes to a vapor. Under certain conditions,
+the fuel may vaporize in the lines, pumps, or other units.
+The vapor pockets formed by this premature vaporization
+restrict the fuel flow through units which are designed to
+handle liquids rather than gases. The resulting partial or
+complete interruption of the fuel flow is called vapor lock.
+The three general causes of vapor lock are the lowering of the
+pressure on the fuel, high fuel temperatures, and excessive
+fuel turbulence.
+At high altitudes, the pressure on the fuel in the tank is low.
+This lowers the boiling point of the fuel and causes vapor
+bubbles to form. This vapor trapped in the fuel may cause
+vapor lock in the fuel system.
+Transfer of heat from the engine tends to cause boiling of the
+fuel in the lines and the pump. This tendency is increased if
+the fuel in the tank is warm. High fuel temperatures often
+combine with low pressure to increase vapor formation. This
+is most apt to occur during a rapid climb on a hot day. As the
+aircraft climbs, the outside temperature drops, but the fuel
+does not lose temperature rapidly. If the fuel is warm enough
+at takeoff, it retains enough heat to boil easily at high altitude.
+The chief causes of fuel turbulence are sloshing of the fuel in
+the tanks, the mechanical action of the engine-driven pump,
+and sharp bends or rises in the fuel lines. Sloshing in the tank
+tends to mix air with the fuel. As this mixture passes through
+the lines, the trapped air separates from the fuel and forms
+vapor pockets at any point where there are abrupt changes
+in direction or steep rises. Turbulence in the fuel pump often
+combines with the low pressure at the pump inlet to form a
+vapor lock at this point.
+Vapor lock can become serious enough to block the fuel flow
+completely and stop the engine. Even small amounts of vapor
+in the inlet line restrict the flow to the engine-driven pump
+2-1
+
+===== PDF PAGE 84 =====
+and reduce its output pressure. To reduce the possibility of
+vapor lock, fuel lines are kept away from sources of heat;
+also, sharp bends and steep rises are avoided. In addition,
+the volatility of the fuel is controlled in manufacture so that
+it does not vaporize too readily. The major improvement in
+reducing vapor lock, however, is the incorporation of booster
+pumps in the fuel system. These booster pumps, which are
+used widely in most modern aircraft, keep the fuel in the
+lines to the engine-driven pump under pressure. The pressure
+on the fuel reduces vapor formation and aids in moving a
+vapor pocket along. The boost pump also releases vapor from
+the fuel as it passes through the pump. The vapor moves
+upward through the fuel in the tank and out the tank vents.
+To prevent the small amount of vapor that remains in the
+fuel from upsetting its metering action, vapor eliminators are
+installed in some fuel systems ahead of the metering device
+or are built into this unit.
+
+Basic Fuel System
+The basic parts of a fuel system include tanks, boost pumps,
+lines, selector valves, strainers, engine-driven pumps, and
+pressure gauges. A review of fuel systems in the Aviation
+Maintenance Technician—General Handbook provides some
+information concerning these components.
+Generally, there are several tanks, even in a simple system, to
+store the required amount of fuel. The location of these tanks
+depends on both the fuel system design and the structural
+design of the aircraft. From each tank, a line leads to the
+selector valve. This valve is set from the flight deck to select
+the tank from which fuel is to be delivered to the engine. The
+boost pump forces fuel through the selector valve to the main
+line strainer. This filtering unit, located in the lowest part of
+the system, removes water and dirt from the fuel. During
+starting, the boost pump forces fuel through a bypass in the
+engine-driven pump to the metering device. Once the enginedriven pump is rotating at sufficient speed, it takes over and
+delivers fuel to the metering device at the specified pressure.
+The airframe fuel system begins with the fuel tank and ends
+at the engine fuel system. The engine fuel system usually
+includes the engine-driven pumps and the fuel metering
+systems. In aircraft powered with a reciprocating engine, the
+engine-driven fuel pump and metering system consists of the
+main components from the point at which the fuel enters the
+first control unit until the fuel is injected into the intake pipe
+or cylinder. For example, the engine fuel system of a typical
+engine has an engine-driven fuel pump, the air-fuel control
+unit (metering device), the fuel manifold valve, and the fuel
+discharge nozzles. The fuel metering system on current
+reciprocating engines meters the fuel at a predetermined
+ratio to airflow. The airflow to the engine is controlled by
+the carburetor or air-fuel control unit.
+
+The fuel metering system of the typical gas turbine engine
+consists of an engine-driven pump, fuel flow transmitter,
+fuel control with an electronic engine control, a distribution
+system or manifold, flow divider, and fuel discharge nozzles.
+On some turboprop engines, a fuel heater and a start control is
+a part of the engine fuel system. The rate of fuel delivery can
+be a function of air mass flow, compressor inlet temperature,
+compressor discharge pressure, compressor revolutions per
+minute (rpm), exhaust gas temperature, and combustion
+chamber pressure.
+
+Fuel Metering Devices for Reciprocating
+Engines
+Basic principles of operation are discussed here with no attempt
+being made to give detailed maintenance instructions. For the
+specific information needed to inspect or maintain a particular
+installation or unit, consult the manufacturer’s instructions.
+The basic requirement of a reciprocating fuel metering system
+is the same, regardless of the type of system used or the model
+engine on which the equipment is installed. It must meter fuel
+proportionately to air to establish the proper air-fuel mixture
+ratio for the engine at all speeds and altitudes at which the
+engine may be operated. In the air-fuel mixture curves shown
+in Figure 2-1, note that the basic best power and best economy
+air-fuel mixture requirements for reciprocating engines are
+approximately the same. The fuel metering system must
+atomize and distribute the fuel from the carburetor into the
+mass airflow. This must be accomplished so that the air-fuel
+charges going to all cylinders holds equal amounts of fuel.
+Each one of the engine’s cylinders should receive the same
+quantity of air-fuel mixture and at the same air-fuel ratio.
+Due to the drop in atmospheric pressure as altitude is
+increased, the density of the air also decreases. A normallyaspirated engine has a fixed amount or volume of air that
+it can draw in during the intake stroke, therefore less air is
+drawn into the engine as altitude increases. Less air tends to
+make carburetors run richer at altitude than at ground level,
+because of the decreased density of the airflow through
+the carburetor throat for a given volume of air. Thus, it is
+necessary that a mixture control be provided to lean the
+mixture and compensate for this natural enrichment. Some
+aircraft use carburetors in which the mixture control is
+operated manually. Other aircraft employ carburetors which
+automatically lean the carburetor mixture at altitude to
+maintain the proper air-fuel mixture.
+The rich mixture requirements for an aircraft engine are
+established by running a power curve to determine the airfuel mixture for obtaining maximum usable power. This
+curve is plotted at 100 rpm intervals from idle speed to
+2-2
+
+===== PDF PAGE 85 =====
+Typical Air-Fuel Mixture Curve—Float-Type Carburetor
+
+High
+
+Rich
+Auto rich
+
+Idle
+Takeoff
+Climb
+
+Minimum cruise
+Rich
+
+F/A
+
+Auto lean
+
+Power
+
+Maximum cruise
+
+Brake
+HP
+
+Idle
+
+Manual
+
+Takeoff
+
+Lean
+Low
+
+Lean
+
+Airflow in lb/hr
+
+Low
+
+High
+
+Typical Air-Fuel Mixture Curve—Pressure Injection Carburetor
+Rich
+
+Lean
+
+Air-Fuel Mixture
+
+Rich
+
+Figure 2-2. Power versus air-fuel mixture curve.
+
+Idle
+High
+
+Takeoff
+
+F/A
+
+Auto rich
+Auto lean
+Minimum cruise
+Lean
+Low
+
+Airflow in lb/hr
+
+High
+
+Figure 2-1. Air-fuel mixture curves.
+
+takeoff speed. [Figure 2-2] Since it is necessary in the power
+range to add fuel to the basic air-fuel mixture requirements
+to keep cylinder-head temperatures in a safe range, the fuel
+mixture must become gradually richer as powers above
+cruise are used. [Figure 2-1] In the power range, the engine
+runs on a much leaner mixture, as indicated in the curves.
+However, on the leaner mixture, cylinder-head temperature
+would exceed the maximum permissible temperatures and
+detonation would occur.
+The best economy setting is established by running a series
+of curves through the cruise range, as shown in the graph in
+Figure 2-3, the low point (auto-lean) in the curve being the
+air-fuel mixture where the minimum fuel per horsepower is
+used. In this range the engine operates normally on slightly
+leaner mixtures and obviously operates on richer mixtures
+than the low-point mixture. If a mixture leaner than that
+specified for the engine is used, the leanest cylinder of the
+engine is apt to backfire because the slower burning rate of
+the lean mixture results in a continued burning in the cylinder
+when the next intake stroke starts.
+
+Specific fuel consumption
+
+Climb
+Maximum cruise
+
+Auto rich
+
+Auto lean
+Low
+Lean
+
+Air-Fuel Mixture
+
+Rich
+
+Figure 2-3. Specific fuel consumption curve.
+
+Air-Fuel Mixtures
+Gasoline and other liquid fuels do not burn at all unless they
+are mixed with air. If the mixture is to burn properly within
+the engine cylinder, the ratio of air to fuel must be kept
+within a certain range. It would be more accurate to state that
+the fuel is burned with the oxygen in the air. Seventy-eight
+percent of air by volume is nitrogen, which is inert and does
+not participate in the combustion process, and 21 percent is
+oxygen. Heat is generated by burning the mixture of gasoline
+and oxygen. Nitrogen and gaseous byproducts of combustion
+absorb this heat energy and turn it into power by expansion.
+The mixture proportion of fuel and air by weight is of extreme
+importance to engine performance. The characteristics of a
+given mixture can be measured in terms of flame speed and
+combustion temperature.
+The composition of the air-fuel mixture is described by the
+mixture ratio. For example, a mixture with a ratio of 12 to 1
+2-3
+
+===== PDF PAGE 86 =====
+(12:1) is made up of 12 pounds of air and 1 pound of fuel. The
+ratio is expressed in weight because the volume of air varies
+greatly with temperature and pressure. The mixture ratio can
+also be expressed as a decimal. Thus, an air-fuel ratio of 12:1
+and an air-fuel ratio of 0.083 describe the same mixture ratio.
+Mixtures of air and gasoline as rich as 8:1 and as lean as 16:1
+will burn in an engine cylinder, but beyond these mixtures,
+either lean or rich blow out could occur. The engine develops
+maximum power with a mixture of approximately 12 parts
+of air and 1 part of gasoline by weight.
+From a chemist’s point of view, the perfect mixture for
+combustion of fuel and air would be 0.067 pounds of fuel
+to 1 pound of air (mixture ratio of 15:1). The scientist calls
+this chemically correct combination a stoichiometric mixture
+(pronounced stoy-key-o-metric). With this mixture (given
+sufficient time and turbulence), all the fuel and all the oxygen
+in the air is completely used in the combustion process. The
+stoichiometric mixture produces the highest combustion
+temperatures because the proportion of heat released to a
+mass of charge (fuel and air) is the greatest. If more fuel is
+added to the same quantity of air charge than the amount
+giving a chemically perfect mixture, changes of power
+and temperature occur. The combustion gas temperature is
+lowered as the mixture is enriched, and the power increases
+until the air-fuel ratio is approximately 0.0725. For mixtures
+from 0.0725 air-fuel ratio to 0.080 air-fuel ratio, the power
+remains essentially constant even though the combustion
+temperature continues downward. Mixtures from 0.0725
+air-fuel ratio to 0.080 air-fuel ratio are called best power
+mixtures, since their use results in the greatest power for
+a given airflow or manifold pressure. In this air-fuel ratio
+range, there is no increase in the total heat released, but the
+weight of nitrogen and combustion products is augmented
+by the vapor formed with the excess fuel. Thus, the working
+mass of the charge is increased. In addition, the extra fuel in
+the charge (over the stoichiometric mixture) speeds up the
+combustion process, which provides a favorable time factor
+in converting fuel energy into power.
+If the air-fuel ratio is enriched above 0.080, there is loss of
+power and a reduction in temperature. The cooling effects
+of excess fuel overtake the favorable factor of increased
+mass. This reduced temperature and slower rate of burning
+lead to an increasing loss of combustion efficiency. If, with
+constant airflow, the mixture is leaned below 0.067, air-fuel
+ratio power and temperature decrease together. This time, the
+loss of power is not a liability but an asset. The purpose in
+leaning is to save fuel. Air is free and available in limitless
+quantities. The object is to obtain the required power with
+the least fuel flow. A measure of the economical use of fuel
+is called specific fuel consumption (SFC), which is the fuel
+weight in pounds per hour per horsepower.
+
+SFC =
+
+pounds fuel/hour
+horsepower
+
+By using this ratio, the engine’s use of fuel at various power
+settings can be compared. When leaning below 0.067 airfuel ratio with constant airflow, even though the power
+diminishes, the cost in fuel to support each horsepower
+hour (SFC) also is lowered. While the mixture charge is
+becoming weaker, this loss of strength occurs at a rate
+lower than that of the reduction of fuel flow. This favorable
+tendency continues until a mixture strength known as best
+economy is reached. With this air-fuel ratio, the required
+hp is developed with the least fuel flow or, to put it another
+way, the greatest power produced by a given fuel flow. The
+best economy air-fuel ratio varies somewhat with rpm and
+other conditions, but for cruise powers on most reciprocating
+engines, it is sufficiently accurate to define this range of
+operation as being from 0.060 to 0.065 air-fuel ratios on
+aircraft where manual leaning is practiced.
+Below the best economical mixture strength, power and
+temperature continue to fall with constant airflow while
+the SFC increases. As the air-fuel ratio is reduced further,
+combustion becomes so cool and slow that power for a
+given manifold pressure gets so low as to be uneconomical.
+The cooling effect of rich or lean mixtures results from the
+excess fuel or air over that needed for combustion. Internal
+cylinder cooling is obtained from unused fuel when air-fuel
+ratios above 0.067 are used. The same function is performed
+by excess air when air-fuel ratios below 0.067 are used.
+Varying the mixture strength of the charge produces
+changes in the engine operating condition affecting power,
+temperature, and spark-timing requirements. The best power
+air-fuel ratio is desirable when the greatest power from a
+given airflow is required. The best economy mixture results
+from obtaining the given power output with the least fuel
+flow. The air-fuel ratio which gives most efficient operation
+varies with engine speed and power output.
+In the graph showing this variation in air-fuel ratio, note that
+the mixture is rich at both idling and high-speed operation
+and is lean through the cruising range. [Figure 2-1] At idling
+speed, some air or exhaust gas is drawn into the cylinder
+through the exhaust port during valve overlap. The mixture
+that enters the cylinder through the intake port must be
+rich enough to compensate for this gas or additional air. At
+cruising power, lean mixtures save fuel and increase the range
+of the airplane. An engine running near full power requires a
+rich mixture to prevent overheating and detonation. Since the
+engine is operated at full power for only short periods, the
+2-4
+
+===== PDF PAGE 87 =====
+As air passes through the
+throat of the venturi, there
+is an increase in velocity
+and a drop in pressure.
+
+4
+2
+
+6
+
+4
+
+VELOCITY
+
+8
+0
+
+I0
+
+2
+
+6
+
+4
+
+PRESSURE
+
+8
+0
+
+I0
+
+2
+
+6
+8
+
+0
+
+6
+
+4
+
+VELOCITY
+
+I0
+
+2
+
+4
+
+PRESSURE
+
+8
+I0
+
+0
+
+2
+
+6
+
+4
+
+VELOCITY
+
+8
+0
+
+I0
+
+2
+
+6
+
+PRESSURE
+
+8
+0
+
+I0
+
+Venturi throat
+Figure 2-4. Simple venturi.
+
+high fuel consumption is not a serious matter. If an engine
+is operating on a mixture that is too lean, and adjustments
+are made to increase the amount of fuel, the power output
+of the engine increases rapidly at first, then gradually until
+maximum power is reached. With a further increase in the
+amount of fuel, the power output drops gradually at first, then
+more rapidly as the mixture is further enriched.
+There are specific instructions concerning mixture ratios
+for each type of engine under various operating conditions.
+Failure to follow these instructions results in poor
+performance and often in damage to the engine. Excessively
+rich mixtures result in loss of power and waste of fuel. With
+the engine operating near its maximum output, very lean
+mixtures cause a loss of power and, under certain conditions,
+serious overheating. When the engine is operated on a
+lean mixture, the cylinder head temperature gauge should
+be watched closely. If the mixture is excessively lean, the
+engine may backfire through the induction system or stop
+completely. Backfire results from slow burning of the lean
+mixture. If the charge is still burning when the intake valve
+opens, it ignites the fresh mixture and the flame travels back
+through the combustible mixture in the induction system.
+
+and is, therefore, a measure of the airflow. The basic operating
+principle of most carburetors depends on the differential
+pressure between the inlet and the venturi throat.
+Application of Venturi Principle to Carburetor
+The carburetor is mounted on the engine so that air to the
+cylinders passes through the barrel, the part of the carburetor
+which contains the venturi. The size and shape of the venturi
+depends on the requirements of the engine for which the
+carburetor is designed. A carburetor for a high-powered
+engine may have one large venturi or several small ones. The
+air may flow either up or down the venturi, depending on the
+design of the engine and the carburetor. Those in which the
+air passes downward are known as downdraft carburetors,
+and those in which the air passes upward are called updraft
+carburetors. Some carburetors are made to use a side draft
+or horizontal air entry into the engine induction system, as
+shown in Figure 2-5.
+Air flows through the induction system covered in Chapter
+3. When a piston moves toward the crankshaft (down) on
+the intake stroke, the pressure in the cylinder is lowered.
+
+Carburetion Principles
+Venturi Principles
+The carburetor must measure the airflow through the
+induction system and use this measurement to regulate
+the amount of fuel discharged into the airstream. The air
+measuring unit is the venturi, which makes use of a basic law
+of physics: as the velocity of a gas or liquid increases, the
+pressure decreases. As shown in Figure 2-4, simple venturi
+is a passageway or tube in which there is a narrow portion
+called the throat. As the velocity of the air increases to get
+through the narrow portion, its pressure drops. Note that the
+pressure in the throat is lower than that in any other part of
+the venturi. This pressure drop is proportional to the velocity
+
+Figure 2-5. Side draft horizontal flow carburetor.
+
+2-5
+
+===== PDF PAGE 88 =====
+output of the engine. Actually, more air is admitted to the
+engine, and the carburetor automatically supplies enough
+additional gasoline to maintain the correct air-fuel ratio. This
+is because as the volume of airflow increases, the velocity
+in the venturi increases, lowering the pressure and allowing
+more fuel to be forced into the airstream. The throttle valve
+obstructs the passage of air very little when it is parallel with
+the flow, in the wide open throttle position. Throttle action
+is illustrated in Figure 2-6. Note how it restricts the airflow
+more and more as it rotates toward the closed position.
+
+Airflow
+
+Open position
+Closed position
+
+Figure 2-6. Wide open throttle position.
+
+Air rushes through the carburetor and intake manifold to
+the cylinder to replace the air displaced by the piston as it
+moved down on the intake stroke. Due to this low pressure
+area caused by the piston moving down, the higher pressure
+air in the atmosphere flows in to fill the low pressure area.
+As it does, the airflow must pass through the carburetor
+venturi. The throttle valve is located between the venturi
+and the engine. Mechanical linkage connects this valve with
+the throttle lever in the flight deck. By means of the throttle,
+airflow to the cylinders is regulated and controls the power
+
+Metering & Discharge of Fuel
+In Figure 2-7, showing the discharge of fuel into the airstream,
+locate the inlet through which fuel enters the carburetor from
+the engine-driven pump. The float-operated needle valve
+regulates the flow through the inlet, which maintains the
+correct level in the fuel float chamber. [Figures 2-8 and 2-9]
+This level must be slightly below the outlet of the discharge
+nozzle to prevent overflow when the engine is not running.
+The discharge nozzle is located in the throat of the venturi
+at the point where the lowest drop in pressure occurs as
+air passes through the carburetor to the engine cylinders.
+There are two different pressures acting on the fuel in the
+carburetor—a low pressure at the discharge nozzle and a
+higher (atmospheric) pressure in the float chamber. The
+higher pressure in the float chamber forces the fuel through
+
+Air-fuel mixture
+
+Float chamber
+
+Fuel inlet
+
+The blend of fuel and
+air is routed to the
+combustion chambers
+to be burned.
+
+Fuel level is maintained
+by a float-type device.
+
+Fuel is received into
+the carburetor through
+the fuel inlet.
+
+Throttle valve
+The flow of the air-fuel
+mixture is controlled by
+the throttle valve. The
+throttle valve is adjusted
+from the flight deck by
+the throttle.
+
+Fuel
+
+Venturi
+The shape of the venturi
+creates an area of low
+pressure.
+
+Mixture needle
+The mixture needle
+controls fuel to the
+discharge nozzle.
+Mixture needle position
+can be adjusted using
+the mixture control.
+
+Discharge nozzle
+Fuel is forced through
+the discharge nozzle
+into the venturi by
+greater atmospheric
+pressure in the float
+chamber.
+
+Air bleed
+Air inlet
+Air enters the carburetor
+through the air inlet.
+
+The air bleed allows air to be mixed
+with fuel being drawn out of the
+discharge nozzle to decrease fuel
+density and promote fuel vaporization.
+
+Figure 2-7. Fuel discharge.
+
+2-6
+
+===== PDF PAGE 89 =====
+5.
+
+Idle cutoff, and
+
+6.
+
+Power enrichment or economizer.
+
+Each of these systems has a definite function. It may act alone
+or with one or more of the others.
+The main metering system supplies fuel to the engine at all
+speeds above idling. The fuel discharged by this system is
+determined by the drop in pressure in the venturi throat.
+
+Figure 2-8. Needle valve and seat.
+
+Figure 2-9. Float chamber discharge nozzle and float.
+
+the discharge nozzle into the airstream. If the throttle is
+opened wider to increase the airflow to the engine, there is
+a greater drop in pressure at the venturi throat. Because of
+the higher differential pressure, the fuel discharge increases
+in proportion to the increase in airflow. If the throttle is
+moved toward the “closed” position, the airflow and fuel
+flow decrease.
+The fuel must pass through the metering jet to reach the
+discharge nozzle. [Figure 2-7] A metering jet is really a
+certain size hole that the fuel passes through. The size of this
+jet determines the rate of fuel discharge at each differential
+pressure. If the jet is replaced with a larger one, the fuel flow
+increases, resulting in a richer mixture. If a smaller jet is
+installed, there is a decrease in fuel flow and a leaner mixture.
+
+Carburetor Systems
+To provide for engine operation under various loads and at
+different engine speeds, each carburetor has six systems:
+1.
+
+Main metering,
+
+2.
+
+Idling,
+
+3.
+
+Accelerating,
+
+4.
+
+Mixture control,
+
+A separate system is necessary for idling because the main
+metering system can be erratic at very low engine speeds.
+At low speeds the throttle is nearly closed. As a result, the
+velocity of the air through the venturi is low and there is little
+drop in pressure. Consequently, the differential pressure is not
+sufficient to operate the main metering system, and no fuel
+is discharged from this system. Therefore, most carburetors
+have an idling system to supply fuel to the engine at low
+engine speeds.
+The accelerating system supplies extra fuel during sudden
+increases in engine power. When the throttle is opened, the
+airflow through the carburetor increases to obtain more
+power from the engine. The main metering system then
+increases the fuel discharge. During sudden acceleration,
+however, the increase in airflow is so rapid that there is
+a slight time lag before the increase in fuel discharge is
+sufficient to provide the correct mixture ratio with the new
+airflow. By supplying extra fuel during this period, the
+accelerating system prevents a temporary leaning out of the
+mixture and gives smooth acceleration.
+The mixture control system determines the ratio of fuel to
+air in the mixture. By means of a flight deck control, the
+manual mixture control can select the mixture ratio to suit
+operating conditions. In addition to these manual controls,
+many carburetors have automatic mixture controls so that
+the air-fuel ratio, once it is selected, does not change with
+variations in air density. This is necessary because as the
+airplane climbs and the atmospheric pressure decreases,
+there is a corresponding decrease in the weight of air passing
+through the induction system. The volume, however,
+remains constant. Since it is the volume of airflow that
+determines the pressure drop at the throat of the venturi,
+the carburetor tends to meter the same amount of fuel to
+this thin air as to the dense air at sea level. Thus, the natural
+tendency is for the mixture to become richer as the airplane
+gains altitude. The automatic mixture control prevents this
+by decreasing the rate of fuel discharge to compensate for
+the decrease in air density.
+The carburetor has an idle cutoff system so that the fuel can
+be shut off to stop the engine. This system, incorporated in
+2-7
+
+===== PDF PAGE 90 =====
+the manual mixture control, stops the fuel discharge from the
+carburetor completely when the mixture control lever is set
+to the “idle cutoff” position. An aircraft engine is stopped by
+shutting off the fuel rather than by turning off the ignition. If
+the ignition is turned off with the carburetor still supplying
+fuel, fresh air-fuel mixture continues to pass through the
+induction system to the cylinders. As the engine is coasting
+to a stop and if it is excessively hot, this combustible mixture
+may be ignited by local hot spots within the combustion
+chambers. This can cause the engine to continue running
+or kick backward. Also, the mixture may pass through
+the cylinders unburned, but be ignited in the hot exhaust
+manifold. Or, the engine comes to an apparently normal stop,
+but a combustible mixture remains in the induction passages,
+the cylinders, and the exhaust system. This is an unsafe
+condition since the engine may kick over after it has been
+stopped and seriously injure anyone near the propeller. When
+the engine is shut down by means of the idle cutoff system,
+the spark plugs continue to ignite the air-fuel mixture until the
+fuel discharge from the carburetor ceases. This alone should
+prevent the engine from coming to a stop with a combustible
+mixture in the cylinders. Some engine manufacturers suggest
+that just before the propeller stops turning, the throttle be
+opened wide so that the pistons can pump fresh air through
+the induction system, the cylinders, and the exhaust system
+as an added precaution against accidental kick-over. After
+the engine has come to a complete stop, the ignition switch
+is turned to the “off” position.
+The power enrichment system automatically increases the
+richness of the mixture during high power operation. It makes
+possible the variation in air-fuel ratio necessary to fit different
+operating conditions. Remember that at cruising speeds, a
+lean mixture is desirable for economy reasons, while at high
+power output, the mixture must be rich to obtain maximum
+power and to aid in cooling the engine cylinders. The power
+enrichment system automatically brings about the necessary
+change in the air-fuel ratio. Essentially, it is a valve that is
+closed at cruising speeds and opened to supply extra fuel
+to the mixture during high power operation. Although it
+increases the fuel flow at high power, the power enrichment
+system is actually a fuel saving device. Without this system,
+it would be necessary to operate the engine on a rich mixture
+over the complete power range. The mixture would then
+be richer than necessary at cruising speed to ensure safe
+operation at maximum power. The power enrichment system
+is sometimes called an economizer or a power compensator.
+Although the various systems have been discussed separately,
+the carburetor functions as a unit. The fact that one system
+is in operation does not necessarily prevent another from
+functioning. At the same time that the main metering system
+is discharging fuel in proportion to the airflow, the mixture
+
+control system determines whether the resultant mixture
+is rich or lean. If the throttle is suddenly opened wide, the
+accelerating and power enrichment systems act to add fuel to
+that already being discharged by the main metering system.
+
+Carburetor Types
+There are two types of carburetor used on aircraft with
+reciprocating engines—the float-type and the pressure-type.
+The float-type carburetor, the most common of the two,
+has several distinct disadvantages. The effect that abrupt
+maneuvers have on the float action and the fact that its fuel
+must be discharged at low pressure leads to incomplete
+vaporization and difficulty in discharging fuel into some
+types of supercharged systems. The chief disadvantage of the
+float carburetor, however, is its icing tendency. Since the float
+carburetor must discharge fuel at a point of low pressure, the
+discharge nozzle must be located at the venturi throat, and
+the throttle valve must be on the engine side of the discharge
+nozzle. This means that the drop in temperature due to fuel
+vaporization takes place within the venturi. As a result, ice
+readily forms in the venturi and on the throttle valve.
+A pressure-type carburetor discharges fuel into the airstream
+at a pressure well above atmospheric. This results in better
+vaporization and permits the discharge of fuel into the
+airstream on the engine side of the throttle valve. With the
+discharge nozzle located at this point, the drop in temperature
+due to fuel vaporization takes place after the air has passed
+the throttle valve and at a point where engine heat tends
+to offset it. Thus, the danger of fuel vaporization icing is
+practically eliminated. The effects of rapid maneuvers and
+rough air on the pressure-type carburetors are negligible
+since its fuel chambers remain filled under all operating
+conditions. Pressure carburetors have been replaced mostly
+by fuel injection systems and have limited use on modern
+aircraft engines.
+
+Carburetor Icing
+There are three general classifications of carburetor icing:
+1.
+
+Fuel evaporation ice,
+
+2.
+
+Throttle ice, and
+
+3.
+
+Impact ice.
+
+Fuel evaporation ice or refrigeration ice is formed because of
+the decrease in air temperature resulting from the evaporation
+of fuel after it is introduced into the airstream. As the fuel
+evaporates, the temperature is lowered in the area where
+the evaporation takes place. Any moisture in the incoming
+air can form ice in this area. It frequently occurs in those
+systems in which fuel is injected into the air upstream
+from the carburetor throttle, as in the case of float-type
+carburetors. It occurs less frequently in systems in which the
+2-8
+
+===== PDF PAGE 91 =====
+fuel is injected into the air downstream from the carburetor.
+Refrigeration ice can be formed at carburetor air temperatures
+as high as 100 °F over a wide range of atmospheric humidity
+conditions, even at relative humidity well below 100 percent.
+Generally, fuel evaporation ice tends to accumulate on the
+fuel distribution nozzle in the carburetor. This type of ice can
+lower manifold pressure, interfere with fuel flow, and affect
+mixture distribution.
+Throttle ice is formed on the rear side of the throttle, usually
+when the throttle is in a partially “closed” position. The
+rush of air across and around the throttle valve causes a low
+pressure on the rear side; this sets up a pressure differential
+across the throttle, which has a cooling effect on the airfuel charge. Moisture freezes in this low pressure area and
+collects as ice on the low pressure side. Throttle ice tends
+to accumulate in a restricted passage. The occurrence of a
+small amount of ice may cause a relatively large reduction in
+airflow and manifold pressure. A large accumulation of ice
+may jam the throttles and cause them to become inoperable.
+Throttle ice seldom occurs at temperatures above 38 °F.
+Impact ice is formed either from water present in the
+atmosphere as snow, sleet, or from liquid water which
+impinges on surfaces that are at temperatures below 32 °F.
+Because of inertia effects, impact ice collects on or near a
+surface that changes the direction of the airflow. This type of ice
+
+may build up on the carburetor elbow, as well as the carburetor
+screen and metering elements. The most dangerous impact ice
+is that which collects on the carburetor screen and causes a
+very rapid reduction of airflow and power. In general, danger
+from impact ice normally exists only when ice forms on the
+leading edges of the aircraft structure. Under some conditions,
+ice may enter the carburetor in a comparatively dry state and
+will not adhere to the inlet screen or walls or affect engine
+airflow or manifold pressure. This ice may enter the carburetor
+and gradually build up internally in the carburetor air metering
+passages and affect carburetor metering characteristics.
+
+Float-Type Carburetors
+A float-type carburetor consists essentially of six subsystems
+that control the quantity of fuel discharged in relation to the
+flow of air delivered to the engine cylinders. These systems
+work together to provide the engine with the correct fuel flow
+during all engine operating ranges.
+The essential subsystems of a float-type carburetor are
+illustrated in Figure 2-10. These systems are:
+1.
+
+Float chamber mechanism system,
+
+2.
+
+Main metering system,
+
+3.
+
+Idling system,
+
+4.
+
+Mixture control system,
+
+Throttle
+
+From fuel pump
+
+Float chamber
+
+Discharge nozzle
+Main air bleed
+
+Metering jet
+
+Figure 2-10. A float-type carburetor.
+
+2-9
+
+===== PDF PAGE 92 =====
+5.
+
+Accelerating system, and
+
+6.
+
+Economizer system.
+
+Float Chamber Mechanism System
+A float chamber is provided between the fuel supply and the
+main metering system of the carburetor. The float chamber,
+or bowl, serves as a reservoir for fuel in the carburetor.
+[Figure 2-11] This chamber provides a nearly constant level
+of fuel to the main discharge nozzle which is usually about
+1
+⁄8" below the holes in the main discharge nozzle. The fuel
+level must be maintained slightly below the discharge nozzle
+outlet holes to provide the correct amount of fuel flow and
+to prevent fuel leakage from the nozzle when the engine is
+not operating.
+The level of fuel in the float chamber is kept nearly constant by
+means of a float-operated needle valve and a seat. The needle
+seat is usually made of bronze. The needle valve is constructed
+of hardened steel, or it may have a synthetic rubber section
+which fits the seat. With no fuel in the float chamber, the float
+drops toward the bottom of the chamber and allows the needle
+valve to open wide. As fuel is admitted from the supply line,
+the float rises (floats in the fuel) and closes the needle valve
+when the fuel reaches a predetermined level. When the engine
+is running, and fuel is being drawn out of the float chamber,
+the valve assumes an intermediate position so that the valve
+opening is just sufficient to supply the required amount of
+fuel and keep the level constant. [Figure 2-10] If fuel is found
+leaking from the discharge nozzle of the carburetor when the
+engine is not running, the most likely cause is that the float
+needle valve and seat is leaking and needs to be replaced.
+
+forces the fuel out the discharge nozzle. A vent or small
+opening in the top of the float chamber allows air to enter or
+leave the chamber as the level of fuel rises or falls.
+Main Metering System
+The main metering system supplies fuel to the engine at all
+speeds above idling and consists of:
+1.
+
+Venturi,
+
+2.
+
+Main metering jet,
+
+3.
+
+Main discharge nozzle,
+
+4.
+
+Passage leading to the idling system, and
+
+5.
+
+Throttle valve.
+
+Since the throttle valve controls the mass airflow through
+the carburetor venturi, it must be considered a major unit
+in the main metering system as well as in other carburetor
+systems. A typical main metering system is illustrated in
+Figure 2-12. The venturi performs three functions:
+1.
+
+Proportions the air-fuel mixture,
+
+2.
+
+Decreases the pressure at the discharge nozzle, and
+
+3.
+
+Limits the airflow at full throttle.
+
+The fuel discharge nozzle is located in the carburetor barrel
+so that its open end is in the throat or narrowest part of the
+
+Throttle valve
+
+With the fuel at the correct level (float chamber), the
+discharge rate is controlled accurately by the air velocity
+through the carburetor venturi where a pressure drop at the
+discharge nozzle causes fuel to flow into the intake airstream.
+Atmospheric pressure on top of the fuel in the float chamber
+Fuel discharge nozzle
+14.7
+p.s.i.
+
+Venturi
+
+Main air bleed
+
+Idle feed passage
+Airflow
+
+Main metering jet
+Figure 2-11. Float chamber (bowl) with float removed.
+
+Figure 2-12. Main metering system.
+
+2-10
+
+===== PDF PAGE 93 =====
+venturi. A main metering orifice, or jet, is placed in the fuel
+passage between the float chamber and the discharge nozzle
+to limit the fuel flow when the throttle valve is wide open.
+When the engine crankshaft is revolved with the carburetor
+throttle open, the low pressure created in the intake manifold
+acts on the air passing through the carburetor barrel. Due
+to the difference in pressure between the atmosphere and
+the intake manifold, air flows from the air intake through
+the carburetor barrel into the intake manifold. The volume
+of airflow depends upon the degree of throttle opening. As
+the air flows through the venturi, its velocity increases. This
+velocity increase creates a low pressure area in the venturi
+throat. The fuel discharge nozzle is exposed to this low
+pressure. Since the float chamber is vented to atmospheric
+pressure, a pressure drop across the discharge nozzle is
+created. It is this pressure difference, or metering force, that
+causes fuel to flow from the discharge nozzle. The fuel comes
+out of the nozzle in a fine spray, and the tiny particles of fuel
+in the spray quickly vaporize in the air.
+The metering force (pressure differential) in most carburetors
+increases as the throttle opening is increased. The fuel must be
+raised in the discharge nozzle to a level at which it discharges
+into the airstream. To accomplish this, a pressure differential of
+0.5 "Hg is required. When the metering force is considerably
+reduced at low engine speeds, the fuel delivery from the
+discharge nozzle decreases if an air bleed (air metering jet) is
+not incorporated in the carburetor. The decrease in fuel flow
+in relation to airflow is due to two factors:
+1.
+
+The fuel tends to adhere to the walls of the discharge
+nozzle and break off intermittently in large drops
+instead of forming a fine spray.
+
+2.
+
+A part of the metering force is required to raise the
+fuel level from the float chamber level to the discharge
+
+nozzle outlet.
+The basic principle of the air bleed can be explained by
+simple diagrams, as shown in Figure 2-13. In each case, the
+same degree of suction is applied to a vertical tube placed in
+the container of liquid. As shown in A, the suction applied
+on the upper end of the tube is sufficient to lift the liquid a
+distance of about 1 inch above the surface. If a small hole is
+made in the side of the tube above the surface of the liquid,
+as in B, and suction is applied, bubbles of air enter the tube
+and the liquid is drawn up in a continuous series of small
+slugs or drops. Thus, air “bleeds” into the tube and partially
+reduces the forces tending to retard the flow of liquid through
+the tube. However, the large opening at the bottom of the
+tube effectively prevents any great amount of suction from
+being exerted on the air bleed hole or vent. Similarly, an air
+bleed hole that is too large in proportion to the size of the
+tube would reduce the suction available to lift the liquid. If
+the system is modified by placing a metering orifice in the
+bottom of the tube and air is taken in below the fuel level by
+means of an air bleed tube, a finely divided mixture of air
+and liquid is formed in the tube, as shown in C.
+In a carburetor, a small air bleed is bled into the fuel nozzle
+slightly below the fuel level. The open end of the air bleed is
+in the space behind the venturi wall where the air is relatively
+motionless and at approximately atmospheric pressure. The
+low pressure at the tip of the nozzle not only draws fuel from
+the float chamber but also draws air from behind the venturi.
+Air bled into the main metering fuel system decreases the
+fuel density and destroys surface tension. This results in
+better vaporization and control of fuel discharge, especially
+at lower engine speeds. The throttle, or butterfly valve, is
+located in the carburetor barrel near one end of the venturi.
+It provides a means of controlling engine speed or power
+output by regulating the airflow to the engine. This valve is
+
+Suction
+Air
+
+Pin hole
+1 inch
+
+3/4 inch
+
+Restriction
+
+A
+
+B
+
+C
+
+Figure 2-13. Air bleed principle.
+
+2-11
+
+===== PDF PAGE 94 =====
+Idling jet
+
+11 p.s.i.
+
+Idle mixture
+adjustment
+13.5 p.s.i.
+14
+p.s.i.
+Figure 2-14. Throttle action in idle position.
+
+Idle air bleed
+
+a disc that can rotate on an axis, so that it can be turned to
+open or close the carburetor air passage.
+Idling System
+With the throttle valve closed at idling speeds, air velocity
+through the venturi is so low that it cannot draw enough fuel
+from the main discharge nozzle; in fact, the spray of fuel
+may stop altogether. However, low pressure (piston suction)
+exists on the engine side of the throttle valve. In order to
+allow the engine to idle, a fuel passageway is incorporated to
+discharge fuel from an opening in the low pressure area near
+the edge of the throttle valve. [Figure 2-14] This opening is
+called the idling jet. With the throttle open enough so that the
+main discharge nozzle is operating, fuel does not flow out
+of the idling jet. As soon as the throttle is closed far enough
+to stop the spray from the main discharge nozzle, fuel flows
+out the idling jet. A separate air bleed, known as the idle air
+bleed, is included as part of the idling system. It functions
+in the same manner as the main air bleed. An idle mixture
+adjusting device is also incorporated. A typical idling system
+is illustrated in Figure 2-15.
+
+Figure 2-15. Idling system.
+
+On float-type carburetors, two types of purely manual
+or flight deck controllable devices are in general use for
+controlling air-fuel mixtures, the needle type and the backsuction type. [Figures 2-16 and 2-17]
+With the needle-type system, manual control is provided by a
+
+M
+
+Mixture Control System
+As altitude increases, the air becomes less dense. At an
+altitude of 18,000 feet, the air is only half as dense as it is
+at sea level. This means that a cubic foot of space contains
+only half as much air at 18,000 feet as at sea level. An engine
+cylinder full of air at 18,000 feet contains only half as much
+oxygen as a cylinder full of air at sea level.
+The low pressure area created by the venturi is dependent upon
+air velocity rather than air density. The action of the venturi
+draws the same volume of fuel through the discharge nozzle
+at a high altitude as it does at a low altitude. Therefore, the
+fuel mixture becomes richer as altitude increases. This can be
+overcome either by a manual or an automatic mixture control.
+
+Full rich
+Figure 2-16. Needle-type mixture control system.
+
+2-12
+
+===== PDF PAGE 95 =====
+the atmosphere. To stop the engine with such a system, close
+the throttle and place the mixture in the “idle cutoff” position.
+Leave the throttle in the closed position until the engine has
+stopped running and then open the throttle completely.
+
+Idle cutoff line
+
+Idle cutoff
+Back
+suction
+line
+
+Full rich
+position
+
+Figure 2-17. Back-suction-type mixture control system.
+
+needle valve in the base of the float chamber. [Figure 2-16] This
+can be raised or lowered by adjusting a control in the flight
+deck. Moving the control to “rich,” opens the needle
+valve wide, which permits the fuel to flow unrestricted
+to the nozzle. Moving the control to “lean,” partially closes
+the valve and restricts the flow of fuel to the nozzle.
+The back-suction-type mixture control system is the most
+widely used. [Figure 2-17] In this system, a certain amount
+of venturi low pressure acts upon the fuel in the float
+chamber so that it opposes the low pressure existing at the
+main discharge nozzle. An atmospheric line, incorporating
+an adjustable valve, opens into the float chamber. When the
+valve is completely closed, pressures on the fuel in the float
+chamber and at the discharge nozzle are almost equal, and fuel
+flow is reduced to maximum lean. With the valve wide open,
+pressure on the fuel in the float chamber is greatest and fuel
+mixture is richest. Adjusting the valve to positions between
+these two extremes controls the mixture. The quadrant in
+the flight deck is usually marked “lean” near the back end
+and “rich” at the forward end. The extreme back position is
+marked “idle cutoff” and is used when stopping the engine.
+On float carburetors equipped with needle-type mixture
+control, placing the mixture control in idle cutoff seats the
+needle valve, thus shutting off fuel flow completely. On
+carburetors equipped with back-suction mixture controls, a
+separate idle cutoff line, leading to the extreme low pressure
+on the engine side of the throttle valve, is incorporated. (See
+the dotted line in Figure 2-17.) The mixture control is so
+linked that when it is placed in the “idle cutoff” position,
+it opens another passage that leads to piston suction. When
+placed in other positions, the valve opens a passage leading to
+
+Accelerating System
+When the throttle valve is opened quickly, a large volume
+of air rushes through the air passage of the carburetor; the
+amount of fuel that is mixed with the air is less than normal
+due to the slow response rate of the main metering system.
+As a result, after a quick opening of the throttle, the air-fuel
+mixture leans out momentarily. This can cause the engine to
+accelerate slowly or stumble as it tries to accelerate.
+To overcome this tendency, the carburetor is equipped with a
+small fuel pump called an accelerating pump. A common type
+of accelerating system used in float carburetors is illustrated
+in Figure 2-18. It consists of a simple piston pump operated
+through linkage by the throttle control and a passageway
+opening into the main metering system or the carburetor
+barrel near the venturi. When the throttle is closed, the piston
+moves back, and fuel fills the cylinder. If the piston is pushed
+forward slowly, the fuel seeps past it back into the float
+chamber; if pushed rapidly, it sprays fuel in the venturi and
+enriches the mixture. An example of a cutaway accelerator
+pump is shown in Figure 2-19.
+Economizer System
+For an engine to develop maximum power at full throttle, the
+fuel mixture must be richer than for cruise. The additional
+fuel is used for cooling the engine combustion chambers to
+prevent detonation. An economizer is essentially a valve
+that is closed at throttle settings below approximately 60–70
+
+Force
+downward
+
+Economizer opening
+
+Figure 2-18. Accelerating system.
+
+2-13
+
+===== PDF PAGE 96 =====
+certain value, the bellows is compressed and opens a valve in
+a carburetor fuel passage, supplementing the normal quantity
+of fuel being discharged through the main nozzle.
+Another type of economizer is the back-suction system.
+[Figure 2-22] Fuel economy in cruising is provided by
+reducing the effective pressure acting on the fuel level in
+the float compartment. With the throttle valve in cruising
+position, suction is applied to the float chamber through an
+economizer hole and back-suction economizer channel and
+jet. The suction applied to the float chamber opposes the
+nozzle suction applied by the venturi. Fuel flow is reduced,
+leaning the mixture for cruising economy.
+Figure 2-19. Accelerating pump shown in cutaway.
+
+percent of rated power. This system, like the accelerating
+system, is operated by the throttle control.
+A typical economizer system consists of a needle valve
+which begins to open when the throttle valve reaches
+a predetermined point near the wide-open position.
+[Figure 2-20] As the throttle continues to open, the needle
+valve is opened further and additional fuel flows through
+it. This additional fuel supplements the flow from the main
+metering jet direct to the main discharge nozzle.
+
+Main air bleed
+
+A pressure-operated economizer system is shown in
+Figure 2-21. This type has a sealed bellows located in an
+enclosed compartment. The compartment is vented to engine
+manifold pressure. When the manifold pressure reaches a
+
+Another type of mixture control system uses a metering valve
+that is free to rotate in a stationary metering sleeve. Fuel
+enters the main and idling systems through a slot cut in the
+mixture sleeve. Fuel metering is accomplished by the relative
+position between one edge of the slot in the hollow metering
+valve and one edge of the slot in the metering sleeve. Moving
+the mixture control to reduce the size of the slot provides a
+leaner mixture for altitude compensation.
+
+Pressure Injection Carburetors
+Pressure injection carburetors are distinctly different from
+float-type carburetors as they do not incorporate a vented
+float chamber or suction pickup from a discharge nozzle
+located in the venturi tube. Instead, they provide a pressurized
+fuel system that is closed from the engine fuel pump to the
+discharge nozzle. The venturi serves only to create pressure
+differentials for controlling the quantity of fuel to the
+metering jet in proportion to airflow to the engine.
+
+Compression
+spring (force
+upward)
+Economizer
+needle
+
+To manifold
+pressure
+
+Fulcrum
+
+Dashpot
+
+Evacuated
+bellows (force
+downward)
+
+Main metering jet
+
+Economizer metering jet
+
+Main discharge nozzle
+
+Figure 2-20. A needle-valve type economizer system.
+
+Economizer opening automatically
+controlled by supercharger pressure
+Figure 2-21. A pressure operated economizer system.
+
+2-14
+
+===== PDF PAGE 97 =====
+Main air bleed
+
+Diaphragm
+Back suction
+economizer
+channel and jet
+
+Fuel valve
+
+Vent
+
+Main discharge nozzle
+
+Discharge nozzle
+
+Air
+
+Main metering jet
+Figure 2-22. Float-type carburetor.
+
+Typical Injection Carburetor
+The injection carburetor is a hydromechanical device
+employing a closed feed system from the fuel pump to the
+discharge nozzle. It meters fuel through fixed jets according
+to the mass airflow through the throttle body and discharges
+it under a positive pressure.
+The illustration in Figure 2-23 represents a pressure-type
+carburetor simplified so that only the basic parts are shown.
+Note the two small passages, one leading from the carburetor
+air inlet to the left side of the flexible diaphragm and the other
+from the venturi throat to the right side of the diaphragm.
+When air passes through the carburetor to the engine, the
+pressure on the right of the diaphragm is lowered because
+of the drop in pressure at the venturi throat. As a result, the
+diaphragm moves to the right, opening the fuel valve. Pressure
+from the engine-driven pump then forces fuel through the
+open valve to the discharge nozzle, where it sprays into the
+airstream. The distance the fuel valve opens is determined
+by the difference between the two pressures acting on the
+diaphragm. This difference in pressure is proportional to the
+airflow through the carburetor. Thus, the volume of airflow
+determines the rate of fuel discharge.
+The pressure injection carburetor is an assembly of the
+following units:
+1.
+
+Throttle body,
+
+2.
+
+Automatic mixture control,
+
+3.
+
+Regulator unit, and
+
+Fuel intake line
+
+Figure 2-23. Pressure-type carburetor.
+
+4.
+
+Fuel control unit (some are equipped with an adapter).
+
+Throttle Body
+The throttle body contains the throttle valves, main venturi,
+boost venturi, and the impact tubes. All air entering the
+cylinders must flow through the throttle body; therefore, it is
+the air control and measuring device. The airflow is measured
+by volume and by weight so that the proper amount of fuel can
+be added to meet the engine demands under all conditions.
+As air flows through the venturi, its velocity is increased,
+and its pressure is decreased (Bernoulli’s principle). This
+low pressure is vented to the low pressure side of the
+air diaphragm [Figure 2-24 chamber B] in the regulator
+assembly. The impact tubes sense carburetor inlet air pressure
+and direct it to the automatic mixture control, which measures
+the air density. From the automatic mixture control, the air
+is directed to the high pressure side of the air diaphragm
+(chamber A). The pressure differential of the two chambers
+acting upon the air diaphragm is known as the air metering
+force which opens the fuel poppet valve.
+The throttle body controls the airflow with the throttle valves.
+The throttle valves may be either rectangular or disc shaped,
+depending on the design of the carburetor. The valves are
+mounted on a shaft, which is connected by linkage to the
+idle valve and to the throttle control in the flight deck. A
+throttle stop limits the travel of the throttle valve and has an
+adjustment which sets engine idle speed.
+Regulator Unit
+The regulator is a diaphragm-controlled unit divided into
+five chambers and contains two regulating diaphragms
+and a poppet valve assembly. [Figure 2-24] Chamber A is
+2-15
+

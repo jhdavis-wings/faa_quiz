@@ -1,0 +1,1468 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 6 (Lubrication & Cooling Systems), PDF pages 247-263
+
+===== PDF PAGE 247 =====
+Chapter 6
+
+Lubrication & Cooling Systems
+Principles of Engine Lubrication
+The primary purpose of a lubricant is to reduce friction
+between moving parts. Because liquid lubricants or oils
+can be circulated readily, they are used universally in
+aircraft engines. In theory, fluid lubrication is based on the
+actual separation of the surfaces so that no metal-to-metal
+contact occurs. As long as the oil film remains unbroken,
+metallic friction is replaced by the internal fluid friction of
+the lubricant. Under ideal conditions, friction and wear are
+held to a minimum. Oil is generally pumped throughout the
+engine to all areas that require lubrication. Overcoming the
+friction of the moving parts of the engine consumes energy
+and creates unwanted heat. The reduction of friction during
+engine operation increases the overall potential power output.
+Engines are subjected to several types of friction.
+Types of Friction
+Friction may be defined as the rubbing of one object or
+surface against another. One surface sliding over another
+surface causes sliding friction, as found in the use of plain
+bearings. The surfaces are not completely flat or smooth and
+have microscopic defects that cause friction between the two
+moving surfaces. [Figure 6-1] Rolling friction is created
+when a roller or sphere rolls over another surface, such as
+with ball or roller bearings, also referred to as antifriction
+bearings. The amount of friction created by rolling friction is
+less than that created by sliding friction and this bearing uses
+an outer race and an inner race with balls, or steel spheres,
+rolling between the moving parts or races. Another type of
+friction is wiping friction, which occurs between gear teeth.
+With this type of friction, pressure can vary widely and loads
+applied to the gears can be extreme, so the lubricant must be
+able to withstand the loads.
+Functions of Engine Oil
+In addition to reducing friction, the oil film acts as a cushion
+between metal parts. [Figure 6-2] This cushioning effect is
+particularly important for such parts as reciprocating engine
+crankshafts and connecting rods, which are subject to shockloading. As the piston is pushed down on the power stroke,
+it applies loads between the connecting rod bearing and
+the crankshaft journal. The load-bearing qualities of the oil
+must prevent the oil film from being squeezed out, causing
+metal-to-metal contact in the bearing. Also, as oil circulates
+through the engine, it absorbs heat from the pistons and
+cylinder walls. In reciprocating engines, these components
+are especially dependent on the oil for cooling.
+
+Oil cooling can account for up to 50 percent of the total
+engine cooling and is an excellent medium to transfer the
+heat from the engine to the oil cooler. The oil also aids in
+forming a seal between the piston and the cylinder wall to
+prevent leakage of the gases from the combustion chamber.
+Oils clean the engine by reducing abrasive wear by picking
+up foreign particles and carrying them to a filter where they
+are removed. The dispersant, an additive, in the oil holds the
+particles in suspension and allows the filter to trap them as the
+oil passes through the filter. The oil also prevents corrosion
+on the interior of the engine by leaving a coating of oil on
+parts when the engine is shut down. This is one of the reasons
+why the engine should not be shut down for long periods of
+time. The coating of oil preventing corrosion will not last on
+
+Friction from metal-to-metal contact
+
+Figure 6-1. Two moving surfaces in direct contact create excessive
+
+friction.
+
+Oil film between parts preventing metalto-metal contact, reducing friction
+
+Figure 6-2. Oil film acts as a cushion between two moving surfaces.
+
+6-1
+
+===== PDF PAGE 248 =====
+the parts, allowing them to rust or corrode.
+The engine’s oil is the life blood of the engine and it is very
+important for the engine to perform its function and to extend
+the length between overhauls.
+
+Requirements & Characteristics of
+Reciprocating Engine Lubricants
+While there are several important properties that satisfactory
+reciprocating engine oil must possess, its viscosity is most
+important in engine operation. The resistance of an oil to flow
+is known as its viscosity. Oil that flows slowly is viscous or
+has a high viscosity; if it flows freely, it has a low viscosity.
+Unfortunately, the viscosity of oil is affected by temperature.
+It was not uncommon for earlier grades of oil to become
+practically solid in cold weather, increasing drag and making
+circulation almost impossible. Other oils may become so thin at
+high temperatures that the oil film is broken, causing a low load
+carrying ability, resulting in rapid wear of the moving parts.
+The oil selected for aircraft engine lubrication must be light
+enough to circulate freely at cold temperatures, yet heavy
+enough to provide the proper oil film at engine operating
+temperatures. Since lubricants vary in properties and since
+no one oil is satisfactory for all engines and all operating
+conditions, it is extremely important that only the approved
+grade or Society of Automotive Engineers (SAE) rating be
+used.
+Several factors must be considered in determining the proper
+grade of oil to use in a particular engine, the most important of
+which are the operating load, rotational speeds, and operating
+temperatures. The grade of the lubricating oil to be used
+is determined by the operating conditions to be met in the
+various types of engines. The oil used in aircraft reciprocating
+engines has a relatively high viscosity required by:
+1.
+
+Large engine operating clearances due to the relatively
+large size of the moving parts, the different materials
+used, and the different rates of expansion of the various
+materials;
+
+2.
+
+High operating temperatures; and
+
+3.
+
+High bearing pressures.
+
+Viscosity
+Generally, commercial aviation oils are classified by a
+number, (such as 80, 100, 140, etc.) that is an approximation
+of the viscosity as measured by a testing instrument called
+the Saybolt Universal Viscosimeter. In this instrument, a tube
+holds a specific quantity of the oil to be tested. The oil is
+brought to an exact temperature by a liquid bath surrounding
+the tube. The time in seconds required for exactly 60 cubic
+centimeters of oil to flow through an accurately calibrated
+
+orifice is recorded as a measure of the oil’s viscosity. If actual
+Saybolt values were used to designate the viscosity of oil,
+there would probably be several hundred grades of oil.
+To simplify the selection of oils, they are often classified
+under an SAE system that divides all oils into seven groups
+(SAE 10 to 70) according to viscosity at either 130 °F or
+210 °F. SAE ratings are purely arbitrary and bear no direct
+relationship to the Saybolt or other ratings.
+The letter W occasionally is included in the SAE number
+giving a designation, such as SAE 20W. This W indicates
+that the oil, in addition to meeting the viscosity requirements
+at the testing temperature specifications, is satisfactory oil
+for winter use in cold climates. This should not be confused
+with the W used in front of the grade or weight number that
+indicates the oil is of the ashless dispersant type.
+Although the SAE scale has eliminated some confusion in
+the designation of lubricating oils, it must not be assumed
+that this specification covers all the important viscosity
+requirements. An SAE number indicates only the viscosity
+grade or relative viscosity; it does not indicate quality or
+other essential characteristics. It is well known that there are
+good oils and inferior oils that have the same viscosities at a
+given temperature and, therefore, are subject to classification
+in the same grade.
+The SAE letters on an oil container are not an endorsement
+or recommendation of the oil by the SAE. Although each
+grade of oil is rated by an SAE number, depending on its
+specific use, it may be rated with a commercial aviation
+grade number or an Army and Navy specification number.
+The correlation between these grade numbering systems is
+shown in Figure 6-3.
+Viscosity Index
+The viscosity index is a number that indicates the effect of
+temperature changes on the viscosity with the oil. When oil
+has a low viscosity index, it signifies a relatively large change
+of viscosity of increased temperature. The oil becomes thin
+at high temperatures and thick at low temperatures. Oils with
+a high viscosity index have small changes in viscosity over
+a wide temperature range.
+Commercial
+Aviation No.
+
+Commercial
+SAE No.
+
+Army and Navy
+Specification No.
+
+65
+
+30
+
+1065
+
+80
+
+40
+
+1080
+
+100
+
+50
+
+1100
+
+120
+
+60
+
+1120
+
+140
+
+70
+
+Figure 6-3. Grade designations for aviation oils.
+
+6-2
+
+===== PDF PAGE 249 =====
+The best oil for most purposes is one that maintains a constant
+viscosity throughout temperature changes. Oil having a high
+viscosity index resists excessive thickening when the engine
+is subjected to cold temperatures. This allows for rapid
+cranking speeds during starting and prompt oil circulation
+during initial startup. This oil resists excessive thinning
+when the engine is at operating temperature and provides
+full lubrication and bearing load protection.
+Flash Point & Fire Point
+Flash point and fire point are determined by laboratory tests
+that show the temperature at which a liquid begins to give
+off ignitable vapors, flash, and the temperature at which
+there are sufficient vapors to support a fire. These points
+are established for engine oils to determine that they can
+withstand the high temperatures encountered in an engine.
+Cloud Point & Pour Point
+Cloud point and pour point also help to indicate suitability.
+The cloud point of oil is the temperature at which its wax
+content, normally held in solution, begins to solidify and
+separate into tiny crystals, causing the oil to appear cloudy
+or hazy. The pour point of oil is the lowest temperature at
+which it flows or can be poured.
+Specific Gravity
+Specific gravity is a comparison of the weight of the
+substance to the weight of an equal volume of distilled water
+at a specified temperature. As an example, water weighs
+approximately 8 pounds to the gallon; oil with a specific
+gravity of 0.9 would weigh 7.2 pounds to the gallon.
+In the early years, the performance of aircraft piston engines
+was such that they could be lubricated satisfactorily by means
+of straight mineral oils, blended from specially selected
+petroleum base stocks. Oil grades 65, 80, 100, and 120 are
+straight mineral oils blended from selected high-viscosity
+index base oils. These oils do not contain any additives except
+for very small amounts of pour point depressant, which helps
+improve fluidity at very low temperatures, and an antioxidant.
+This type of oil is used during the break-in period of a new
+aviation piston engine or those recently overhauled.
+Demand for oils with higher degrees of thermal and oxidation
+stability necessitated fortifying them with the addition of
+small quantities of nonpetroleum materials. The first additives
+incorporated in straight mineral piston engine oils were based
+on the metallic salts of barium and calcium. In most engines,
+the performance of these oils with respect to oxidation and
+thermal stability was excellent, but the combustion chambers
+of the majority of engines could not tolerate the presence of the
+ash deposits derived from these metal-containing additives. To
+
+overcome the disadvantages of harmful combustion chamber
+deposits, a nonmetallic (i.e., non-ash forming, polymeric)
+additive was developed that was incorporated in blends of
+selected mineral oil base stocks. W oils are of the ashless
+type and are still in use. The ashless dispersant grades contain
+additives, one of which has a viscosity stabilizing effect
+that removes the tendency of the oil to thin out at high oil
+temperatures and thicken at low oil temperatures.
+The additives in these oils extend operating temperature
+range and improve cold engine starting and lubrication of
+the engine during the critical warm-up period permitting
+flight through wider ranges of climatic changes without the
+necessity of changing oil.
+Semi-synthetic multigrade SAE W15 W50 oil for piston
+engines has been in use for some time. Oils W80, W100,
+and W120 are ashless dispersant oils specifically developed
+for aviation piston engines. They combine nonmetallic
+additives with selected high viscosity index base oils to
+give exceptional stability, dispersancy, and antifoaming
+performance. Dispersancy is the ability of the oil to hold
+particles in suspension until they can either be trapped by
+the filter or drained at the next oil change. The dispersancy
+additive is not a detergent and does not clean previously
+formed deposits from the interior of the engine.
+Some multigrade oil is a blend of synthetic and mineralbased oil semisynthetic, plus a highly effective additive
+package, that is added due to concern that fully synthetic oil
+may not have the solvency to handle the lead deposits that
+result from the use of leaded fuel. As multigrade oil, it offers
+the flexibility to lubricate effectively over a wider range of
+temperatures than monograde oils. Compared to monograde
+oil, multigrade oil provides better cold-start protection and a
+stronger lubricant film (higher viscosity) at typical operating
+temperatures. The combination of nonmetallic, antiwear
+additives and selected high viscosity index mineral and
+synthetic base oils give exceptional stability, dispersancy,
+and antifoaming performance. Startup can contribute up to
+80 percent of normal engine wear due to lack of lubrication
+during the start-up cycle. The more easily the oil flows to
+the engine’s components at start up, the less wear occurs.
+The ashless dispersant grades are recommended for aircraft
+engines subjected to wide variations of ambient temperature,
+particularly the turbocharged series engines that require oil
+to activate the various turbo controllers. At temperatures
+below 20 °F, preheating of the engine and oil supply tank is
+normally required regardless of the type of oil used.
+Premium, semisynthetic multigrade ashless dispersant oil is
+a special blend of a high-quality mineral oil and synthetic
+6-3
+
+===== PDF PAGE 250 =====
+hydrocarbons with an advanced additive package that has
+been specifically formulated for multigrade applications.
+The ashless antiwear additive provides exceptional wear
+protection for wearing surfaces.
+Many aircraft manufacturers add approved preservative
+lubricating oil to protect new engines from rust and corrosion
+at the time the aircraft leaves the factory. This preservative oil
+should be removed at end of the first 25 hours of operation.
+When adding oil during the period when preservative oil is
+in the engine, use only aviation grade straight mineral oil or
+ashless dispersant oil, as required, of the viscosity desired.
+If ashless dispersant oil is used in a new engine, or a newly
+overhauled engine, high oil consumption might possibly be
+experienced. The additives in some of these ashless dispersant
+oils may retard the break in of the piston rings and cylinder
+walls. This condition can be avoided by the use of mineral
+oil until normal oil consumption is obtained, then change to
+the ashless dispersant oil. Mineral oil should also be used
+following the replacement of one or more cylinders or until
+the oil consumption has stabilized.
+In all cases, refer to the manufacturers’ information when oil
+type or time in service is being considered.
+
+Reciprocating Engine Lubrication Systems
+Aircraft reciprocating engine pressure lubrication systems
+can be divided into two basic classifications: wet sump and
+dry sump. The main difference is that the wet sump system
+stores oil in a reservoir inside the engine. After the oil is
+circulated through the engine, it is returned to this crankcasebased reservoir. A dry sump engine pumps the oil from the
+engine’s crankcase to an external tank that stores the oil.
+The dry sump system uses a scavenge pump, some external
+tubing, and an external tank to store the oil.
+Other than this difference, the systems use similar types of
+components. Because the dry sump system contains all the
+components of the wet sump system, the dry sump system
+is explained as an example system.
+Combination Splash & Pressure Lubrication
+The lubricating oil is distributed to the various moving parts
+of a typical internal combustion engine by one of the three
+following methods: pressure, splash, or a combination of
+pressure and splash.
+The pressure lubrication system is the principal method of
+lubricating aircraft engines. Splash lubrication may be used
+in addition to pressure lubrication on aircraft engines, but it
+is never used by itself; aircraft-engine lubrication systems are
+always either the pressure type or the combination pressure
+
+and splash type, usually the latter.
+The advantages of pressure lubrication are:
+1.
+
+Positive introduction of oil to the bearings.
+
+2.
+
+Cooling effect caused by the large quantities of oil
+that can be pumped, or circulated, through a bearing.
+
+3.
+
+Satisfactory lubrication in various attitudes of flight.
+
+Lubrication System Requirements
+The lubrication system of the engine must be designed and
+constructed so that it functions properly within all flight
+attitudes and atmospheric conditions that the aircraft is
+expected to operate. In wet sump engines, this requirement
+must be met when only half of the maximum lubricant supply
+is in the engine. The lubrication system of the engine must
+be designed and constructed to allow installing a means of
+cooling the lubricant. The crankcase must also be vented to the
+atmosphere to preclude leakage of oil from excessive pressure.
+Dry Sump Oil Systems
+Many reciprocating and turbine aircraft engines have pressure
+dry sump lubrication systems. The oil supply in this type of
+system is carried in a tank. A pressure pump circulates the
+oil through the engine. Scavenger pumps then return it to the
+tank as quickly as it accumulates in the engine sumps. The
+need for a separate supply tank is apparent when considering
+the complications that would result if large quantities of oil
+were carried in the engine crankcase. On multiengine aircraft,
+each engine is supplied with oil from its own complete and
+independent system.
+Although the arrangement of the oil systems in different
+aircraft varies widely and the units of which they are composed
+differ in construction details, the functions of all such systems
+are the same. A study of one system clarifies the general
+operation and maintenance requirements of other systems.
+The principal units in a typical reciprocating engine dry
+sump oil system include an oil supply tank, an engine-driven
+pressure oil pump, a scavenge pump, an oil cooler with an
+oil cooler control valve, oil tank vent, necessary tubing, and
+pressure and temperature indicators. [Figure 6-4]
+Oil Tanks
+Oil tanks are generally associated with a dry sump lubrication
+system, while a wet sump system uses the crankcase of the
+engine to store the oil. Oil tanks are usually constructed of
+aluminum alloy and must withstand any vibration, inertia,
+and fluid loads expected in operation.
+Each oil tank used with a reciprocating engine must have
+expansion space of not less than the greater of 10 percent
+6-4
+
+===== PDF PAGE 251 =====
+Supply
+
+Engine breather
+
+Pressure
+Vent
+Return
+Drain
+Oil pressure gauge
+Scavenger pump
+Oil
+Press.
+
+Oil
+Temp
+
+Oil cooler
+Oil
+Press.
+
+Oil pressure pump
+Oil
+Temp
+
+Oil tank vent
+
+Oil temperature gauge
+Oil tank
+Scupper drain
+
+Flexible weighted internal hose assembly
+Oil tank drain valve
+
+Figure 6-4. Oil system schematic.
+
+of the tank capacity or 0.5 gallons. Each filler cap of an oil
+tank that is used with an engine must provide an oil-tight
+seal. The oil tank usually is placed close to the engine and
+high enough above the oil pump inlet to ensure gravity feed.
+Oil tank capacity varies with the different types of aircraft, but
+it is usually sufficient to ensure an adequate supply of oil for the
+total fuel supply. The tank filler neck is positioned to provide
+sufficient room for oil expansion and for foam to collect.
+
+that separate the main oil supply from the oil in the hopper.
+The opening at the bottom of the hopper in one type and
+the flapper valve-controlled openings in the other allow oil
+from the main tank to enter the hopper and replace the oil
+consumed by the engine. Whenever the hopper tank includes
+
+The filler cap or cover is marked with the word OIL. A drain
+in the filler cap well disposes of any overflow caused by the
+filling operation. Oil tank vent lines are provided to ensure
+proper tank ventilation in all attitudes of flight. These lines
+are usually connected to the engine crankcase to prevent the
+loss of oil through the vents. This indirectly vents the tanks
+to the atmosphere through the crankcase breather.
+Early large radial engines had many gallons of oil in their
+tank. To help with engine warm up, some oil tanks had a builtin hopper or temperature accelerating well. [Figure 6-5] This
+well extended from the oil return fitting on top of the oil tank
+to the outlet fitting in the sump in the bottom of the tank. In
+some systems, the hopper tank is open to the main oil supply
+at the lower end. Other systems have flapper-type valves
+
+Hopper tank
+
+Baffles
+Figure 6-5. Oil tank with hopper.
+
+6-5
+
+===== PDF PAGE 252 =====
+the flapper controlled openings, the valves are operated by
+differential oil pressure. By separating the circulating oil from
+the surrounding oil in the tank, less oil is circulated. This
+hastens the warming of the oil when the engine was started.
+Very few of these types of tanks are still in use and most are
+associated with radial engine installations.
+Generally, the return line in the top of the tank is positioned
+to discharge the returned oil against the wall of the tank in a
+swirling motion. This method considerably reduces foaming
+that occurs when oil mixes with air. Baffles in the bottom
+of the oil tank break up this swirling action to prevent air
+from being drawn into the inlet line of the oil pressure pump.
+Foaming oil increases in volume and reduces its ability to
+provide proper lubrication. In the case of oil-controlled
+propellers, the main outlet from the tank may be in the form
+of a standpipe so that there is always a reserve supply of
+oil for propeller feathering in case of engine failure. An oil
+tank sump, attached to the undersurface of the tank, acts as a
+trap for moisture and sediment. [Figure 6-4] The water and
+sludge can be drained by manually opening the drain valve
+in the bottom of the sump.
+Most aircraft oil systems are equipped with the dipstick-type
+quantity gauge, often called a bayonet gauge. Some larger
+aircraft systems also have an oil quantity indicating system
+that shows the quantity of oil during flight. One type system
+consists essentially of an arm and float mechanism that rides
+the level of the oil and actuates an electric transmitter on
+top of the tank. The transmitter is connected to a flight deck
+
+gauge that indicates the quantity of oil.
+Oil Pump
+Oil entering the engine is pressurized, filtered, and regulated
+by units within the engine. They are discussed along with
+the external oil system to provide a concept of the complete
+oil system.
+As oil enters the engine, it is pressurized by a gear-type
+pump. [Figure 6-6] This pump is a positive displacement
+pump that consists of two meshed gears that revolve inside
+the housing. The clearance between the teeth and housing is
+small. The pump inlet is located on the left and the discharge
+port is connected to the engine’s system pressure line. One
+gear is attached to a splined drive shaft that extends from
+the pump housing to an accessory drive shaft on the engine.
+Seals are used to prevent leakage around the drive shaft. As
+the lower gear is rotated counterclockwise, the driven idler
+gear turns clockwise.
+As oil enters the gear chamber, it is picked up by the gear
+teeth, trapped between them and the sides of the gear
+chamber, then it is carried around the outside of the gears and
+discharged from the pressure port into the oil screen passage.
+The pressurized oil flows to the oil filter, where any solid
+particles suspended in the oil are separated from it, preventing
+possible damage to moving parts of the engine.
+Oil under pressure then opens the oil filter check valve
+mounted in the top of the filter. This valve is used mostly
+
+Oil pressure passage to engine
+
+Relief valve
+
+Bypass valve
+
+Oil valve
+
+Oil filter
+Gear-type oil pump
+
+Figure 6-6. Engine oil pump and associated units.
+
+6-6
+
+===== PDF PAGE 253 =====
+with dry sump radial engines and is closed by a light spring
+loading of 1 to 3 pounds per square inch (psi) when the engine
+is not operating to prevent gravity-fed oil from entering
+the engine and settling in the lower cylinders or sump area
+of the engine. If oil were allowed to gradually seep by the
+rings of the piston and fill the combustion chamber, it could
+cause a liquid lock. This could happen if the valves on the
+cylinder were both closed, and the engine was cranked for
+start. Damage could occur to the engine.
+The oil filter bypass valve, located between the pressure side
+of the oil pump and the oil filter, permits unfiltered oil to
+bypass the filter and enter the engine if the oil filter is clogged
+or during cold weather if congealed oil is blocking the filter
+during engine start. The spring loading on the bypass valve
+allows the valve to open before the oil pressure collapses
+the filter; in the case of cold, congealed oil, it provides a
+low-resistance path around the filter. Dirty oil in an engine
+is better than no lubrication.
+Oil Filters
+The oil filter used on an aircraft engine is usually one of four
+types: screen, Cuno, canister, or spin-on. A screen-type filter
+with its double-walled construction provides a large filtering
+area in a compact unit. [Figure 6-6] As oil passes through the
+fine-mesh screen, dirt, sediment, and other foreign matter are
+removed and settle to the bottom of the housing. At regular
+intervals, the cover is removed, and the screen and housing
+cleaned with a solvent. Oil screen filters are used mostly as
+suction filters on the inlet of the oil pump.
+The Cuno oil filter has a cartridge made of discs and
+spacers. A cleaner blade fits between each pair of discs. The
+cleaner blades are stationary, but the discs rotate when the
+shaft is turned. Oil from the pump enters the cartridge well
+that surrounds the cartridge and passes through the spaces
+between the closely spaced discs of the cartridge, then
+through the hollow center, and on to the engine. Any foreign
+particles in the oil are deposited on the outer surface of the
+cartridge. When the cartridge is rotated, the cleaner blades
+comb the foreign matter from the discs. The cartridge of the
+manually operated Cuno filter is turned by an external handle.
+Automatic Cuno filters have a hydraulic motor built into
+the filter head. This motor, operated by engine oil pressure,
+rotates the cartridge whenever the engine is running. There is
+a manual turning nut on the automatic Cuno filter for rotating
+the cartridge manually during inspections. This filter is not
+often used on modern aircraft.
+A canister housing filter has a replaceable filter element
+that is replaced with the rest of the components other than
+seals and gaskets being reused. [Figure 6-7] The filter
+element is designed with a corrugated, strong steel center
+
+Hex head screw
+
+Copper gasket
+
+Case housing or canister
+
+Filter element
+
+Rubber gasket
+Cover plate
+Rubber gasket
+Nylon nut
+
+Figure 6-7. Housing filter element type oil filter.
+
+tube supporting each convoluted pleat of the filter media,
+resulting in a higher collapse pressure rating. The filter
+provides excellent filtration, because the oil flows through
+many layers of locked-in-fibers.
+Full flow spin-on filters are the most widely used oil filters
+for reciprocating engines. [Figure 6-8] Full flow means that
+all the oil is normally passed through the filter. In a full flow
+system, the filter is positioned between the oil pump and the
+engine bearings, which filters the oil of any contaminants
+before they pass through the engine bearing surfaces. The
+filter also contains an antidrain back valve and a pressure
+relief valve, all sealed in a disposable housing. The relief
+valve is used in case the filter becomes clogged. It would open
+to allow the oil to bypass, preventing the engine components
+from oil starvation. A cutaway of the micronic filter element
+shows the resin-impregnated cellulosic full-pleat media that
+is used to trap harmful particles, keeping them from entering
+the engine. [Figure 6-9]
+Oil Pressure Regulating Valve
+An oil pressure regulating valve limits oil pressure to
+a predetermined value, depending on the installation.
+[Figure 6-6] This valve is sometimes referred to as a relief
+valve, but its real function is to regulate the oil pressure at a
+preset pressure level. The oil pressure must be sufficiently
+high to ensure adequate lubrication of the engine and its
+6-7
+
+===== PDF PAGE 254 =====
+viscosity is verified. The exact procedure for adjusting the
+oil pressure and the factors that vary an oil pressure setting
+are included in applicable manufacturer’s instructions.
+Oil Pressure Gauge
+Usually, the oil pressure gauge indicates the pressure that oil
+enters the engine from the pump. This gauge warns of possible
+engine failure caused by an exhausted oil supply, failure of
+the oil pump, burned-out bearings, ruptured oil lines, or other
+causes that may be indicated by a loss of oil pressure.
+
+Figure 6-8. Full flow spin-on filter.
+
+Safety wire tabs conveniently located
+on hex nut for easy access
+
+One type of oil pressure gauge uses a Bourdon-tube
+mechanism that measures the difference between oil
+pressure and cabin, or atmospheric, pressure. This gauge is
+constructed similarly to other Bourdon-type gauges, except
+that it has a small restriction built into the instrument case,
+or into the nipple connection leading to the Bourdon tube.
+This restriction prevents the surging action of the oil pump
+from damaging the gauge or causing the pointer to oscillate
+too violently with each pressure pulsation. The oil pressure
+gauge has a scale ranging from 0–200 psi, or from 0–300 psi.
+Operation range markings are placed on the cover glass, or
+the face of the gauge, to indicate the safe range of oil pressure
+for a given installation.
+A dual-type oil pressure gauge is available for use on
+
+Corrugated center support tube for
+maximum resistance to collapse
+
+Resin-impregnated,
+cellulosic full-pleat
+media for uniform
+flow and collapse
+resistance
+
+Figure 6-9. Cutaway view of a filter.
+
+accessories at high speeds and powers. This pressure helps
+ensure that the oil film between the crankshaft journal and
+bearing is maintained. However, the pressure must not be too
+high, as leakage and damage to the oil system may result. The
+oil pressure is generally adjusted by loosening the locknut
+and turning the adjusting screw. [Figure 6-10] On most
+aircraft engines, turning the screw clockwise increases the
+tension of the spring that holds the relief valve on its seat
+and increases the oil pressure; turning the adjusting screw
+counterclockwise decreases the spring tension and lowers
+the pressure. Some engines use washers under the spring that
+are either removed or added to adjust the regulating valve
+and pressure. The oil pressure should be adjusted only after
+the engine’s oil is at operating temperature and the correct
+
+Figure 6-10. Oil pressure adjustment screw.
+
+6-8
+
+===== PDF PAGE 255 =====
+multiengine aircraft. The dual indicator contains two Bourdon
+tubes, housed in a standard instrument case; one tube being
+used for each engine. The connections extend from the back
+of the case to each engine. There is one common movement
+assembly, but the moving parts function independently. In
+some installations, the line leading from the engine to the
+pressure gauge is filled with light oil. Since the viscosity of this
+oil does not vary much with changes in temperature, the gauge
+responds better to changes in oil pressure. In time, engine oil
+mixes with some of the light oil in the line to the transmitter;
+during cold weather, the thicker mixture causes sluggish
+instrument readings. To correct this condition, the gauge line
+must be disconnected, drained, and refilled with light oil.
+The current trend is toward electrical transmitters and
+indicators for oil and fuel pressure-indicating systems in all
+aircraft. In this type of indicating system, the oil pressure
+being measured is applied to the inlet port of the electrical
+transmitter where it is conducted to a diaphragm assembly
+by a capillary tube. The motion produced by the diaphragm’s
+expansion and contraction is amplified through a lever and
+gear arrangement. The gear varies the electrical value of the
+indicating circuit, which in turn, is reflected on the indicator
+in the flight deck. This type of indicating system replaces
+long fluid-filled tubing lines with an almost weightless piece
+of wire.
+Oil Temperature Indicator
+In dry-sump lubricating systems, the oil temperature bulb
+may be anywhere in the oil inlet line between the supply
+tank and the engine. Oil systems for wet-sump engines have
+the temperature bulb located where it senses oil temperature
+after the oil passes through the oil cooler. In either system, the
+bulb is located so that it measures the temperature of the oil
+before it enters the engine’s hot sections. An oil temperature
+gauge in the flight deck is connected to the oil temperature
+bulb by electrical leads. The oil temperature is indicated on
+the gauge. Any malfunction of the oil cooling system appears
+as an abnormal reading.
+Oil Cooler
+The cooler, either cylindrical or elliptical shaped, consists
+of a core enclosed in a double-walled shell. The core is built
+of copper or aluminum tubes with the tube ends formed to
+a hexagonal shape and joined together in the honeycomb
+effect. [Figure 6-11] The ends of the copper tubes of the
+core are soldered, whereas aluminum tubes are brazed or
+mechanically joined. The tubes touch only at the ends so
+that a space exists between them along most of their lengths.
+This allows oil to flow through the spaces between the tubes
+while the cooling air passes through the tubes.
+The space between the inner and outer shells is known as
+
+Inlet from engine
+
+Outlet from bypass jacket
+
+Baffles
+
+Outlet from core
+
+Bypass jacket
+
+Core
+
+Figure 6-11. Oil cooler.
+
+the annular or bypass jacket. Two paths are open to the flow
+of oil through a cooler. From the inlet, it can flow halfway
+around the bypass jacket, enter the core from the bottom,
+and then pass through the spaces between the tubes and out
+to the oil tank. This is the path the oil follows when it is hot
+enough to require cooling. As the oil flows through the core,
+it is guided by baffles that force the oil to travel back and
+forth several times before it reaches the core outlet. The oil
+can also pass from the inlet completely around the bypass
+jacket to the outlet without passing through the core. Oil
+follows this bypass route when the oil is cold or when the
+core is blocked with thick, congealed oil.
+Oil Cooler Flow Control Valve
+As discussed previously, the viscosity of the oil varies with
+its temperature. Since the viscosity affects its lubricating
+properties, the temperature at which the oil enters an engine
+must be held within close limits. Generally, the oil leaving
+an engine must be cooled before it is recirculated. Obviously,
+the amount of cooling must be controlled if the oil is to return
+to the engine at the correct temperature. The oil cooler flow
+control valve determines which of the two possible paths the
+oil takes through the oil cooler. [Figure 6-12]
+There are two openings in a flow control valve that fit over
+the corresponding outlets at the top of the cooler. When the oil
+is cold, a bellows within the flow control contracts and lifts
+a valve from its seat. Under this condition, oil entering the
+cooler has a choice of two outlets and two paths. Following
+the path of least resistance, the oil flows around the jacket
+and out past the thermostatic valve to the tank. This allows
+the oil to warm up quickly and, at the same time, heats the
+6-9
+
+===== PDF PAGE 256 =====
+Surge condition
+
+Cold oil flow
+
+Hot oil flow
+
+A
+
+C
+
+B
+
+D
+E
+F
+
+G
+
+H
+
+A Control valve outlet
+
+C Surge valve
+
+E Poppet valve
+
+G Core outlet
+
+B Check valve
+
+D Control valve inlet
+
+F
+
+H Bypass jacket outlet
+
+Bypass jacket
+
+Figure 6-12. Control valve with surge protection.
+
+oil in the core. As the oil warms up and reaches its operating
+temperature, the bellows of the thermostat expand and closes
+the outlet from the bypass jacket. The oil cooler flow control
+valve, located on the oil cooler, must now flow oil through the
+core of the oil cooler. No matter which path it takes through
+the cooler, the oil always flows over the bellows of the
+thermostatic valve. As the name implies, this unit regulates
+the temperature by either cooling the oil or passing it on to
+the tank without cooling, depending on the temperature at
+which it leaves the engine.
+Surge Protection Valves
+When oil in the system is congealed, the scavenger pump
+may build up a very high pressure in the oil return line. To
+prevent this high pressure from bursting the oil cooler or
+blowing off the hose connections, some aircraft have surge
+protection valves in the engine lubrication systems. One type
+of surge valve is incorporated in the oil cooler flow control
+valve; another type is a separate unit in the oil return line.
+[Figure 6-12]
+The surge protection valve incorporated in a flow control
+valve is the more common type. Although this flow control
+valve differs from the one just described, it is essentially
+the same except for the surge protection feature. The highpressure operation condition is shown in Figure 6-12, in
+which the high oil pressure at the control valve inlet has
+forced the surge valve (C) upward. Note how this movement
+has opened the surge valve and, at the same time, seated
+the poppet valve (E). The closed poppet valve prevents oil
+
+from entering the cooler proper; therefore, the scavenge oil
+passes directly to the tank through outlet (A) without passing
+through either the cooler bypass jacket or the core. When the
+pressure drops to a safe value, the spring forces the surge and
+poppet valves downward, closing the surge valve (C) and
+opening the poppet valve (E). Oil then passes from the control
+valve inlet (D), through the open poppet valve, and into the
+bypass jacket (F). The thermostatic valve, according to oil
+temperature, determines oil flow either through the bypass
+jacket to port (H) or through the core to port (G). The check
+valve (B) opens to allow the oil to reach the tank return line.
+Airflow Controls
+By regulating the airflow through the cooler, the temperature
+of the oil can be controlled to fit various operating conditions.
+For example, the oil reaches operating temperature more
+quickly if the airflow is cut off during engine warm-up. There
+are two methods in general use: shutters installed on the rear
+of the oil cooler, and a flap on the air-exit duct. In some cases,
+the oil cooler air-exit flap is opened manually and closed by
+a linkage attached to a flight deck lever. More often, the flap
+is opened and closed by an electric motor.
+One of the most widely used automatic oil temperature
+control devices is the floating control thermostat that provides
+manual and automatic control of the oil inlet temperatures.
+With this type of control, the oil cooler air-exit door is
+opened and closed automatically by an electrically operated
+actuator. Automatic operation of the actuator is determined
+by electrical impulses received from a controlling thermostat
+6-10
+
+===== PDF PAGE 257 =====
+inserted in the oil pipe leading from the oil cooler to the oil
+supply tank. The actuator may be operated manually by an
+oil cooler air-exit door control switch. Placing this switch in
+the “open” or “closed” position produces a corresponding
+movement of the cooler door. Placing the switch in the “auto”
+position puts the actuator under the automatic control of the
+floating control thermostat. [Figure 6-13] The thermostat
+shown in Figure 6-13 is adjusted to maintain a normal oil
+temperature so that it does not vary more than approximately
+5° to 8 °C, depending on the installation.
+
+Oil is returned from the engine through a single tube to the
+flow divider (E), where the return oil flow is divided equally
+into two tubes (C), one for each cooler. The coolers and
+regulators have the same construction and operations as the
+cooler and flow regulator just described. Oil from the coolers is
+routed through two tubes (D) to a Y-fitting, where the floating
+control thermostat (A) samples oil temperature and positions
+the two oil cooler air-exit doors through the use of a two-door
+actuating mechanism. From the Y-fitting, the lubricating oil is
+returned to the tank where it completes its circuit.
+
+During operation, the temperature of the engine oil flowing
+over the bimetal element causes it to wind or unwind slightly.
+[Figure 6-13B] This movement rotates the shaft (A) and the
+grounded center contact arm (C). As the grounded contact
+arm is rotated, it is moved toward either the open or closed
+floating contact arm (G). The two floating contact arms are
+oscillated by the cam (F), which is continuously rotated by
+an electric motor (D) through a gear train (E). When the
+grounded center contact arm is positioned by the bimetal
+element so that it touches one of the floating contact arms,
+an electric circuit to the oil cooler exit-flap actuator motor is
+completed, causing the actuator to operate and position the
+oil cooler air-exit flap. Newer systems use electronic control
+systems, but the function or the overall operation is basically
+the same regarding control of the oil temperature through
+control of the air flow through the cooler.
+
+Dry Sump Lubrication System Operation
+The following lubrication system is typical of those on small,
+single-engine aircraft. The oil system and components are
+those used to lubricate a 225 horsepower (hp) six-cylinder,
+horizontally opposed, air-cooled engine. In a typical dry sump
+pressure-lubrication system, a mechanical pump supplies
+oil under pressure to the bearings throughout the engine.
+[Figure 6-4] The oil flows into the inlet or suction side of
+the oil pump through a suction screen and a line connected to
+the external tank at a point higher than the bottom of the oil
+sump. This prevents sediment that falls into the sump from
+being drawn into the pump. The tank outlet is higher than
+the pump inlet, so gravity can assist the flow into the pump.
+The engine-driven, positive-displacement, gear-type pump
+forces the oil into the full flow filter. [Figure 6-6] The oil
+either passes through the filter under normal conditions or,
+if the filter were to become clogged, the filter bypass valve
+would open as mentioned earlier. In the bypass position, the
+oil would not be filtered. As seen in Figure 6-6, the regulating
+(relief) valve senses when system pressure is reached and
+opens enough to bypass oil to the inlet side of the oil pump.
+Then, the oil flows into a manifold that distributes the oil
+
+In some lubrication systems, dual oil coolers are used. If the
+typical oil system previously described is adapted to two oil
+coolers, the system is modified to include a flow divider, two
+identical coolers and flow regulators, dual air-exit doors, a
+two-door actuating mechanism, and a Y-fitting. [Figure 6-14]
+
+E
+
+D
+
+C
+
+B
+
+A
+
+Top view
+
+A Shaft
+F
+
+B Bimetal element
+
+C
+
+C Grounded center contact arm
+D Electric motor
+E Gear train
+
+Side view
+
+F
+G
+
+Cam
+
+G Floating contact arm
+
+Figure 6-13. Floating control thermostat.
+
+6-11
+
+===== PDF PAGE 258 =====
+B
+
+A
+
+C
+
+D
+
+through drilled passages to the crankshaft bearings and other
+bearings throughout the engine. Oil flows from the main
+bearings through holes drilled in the crankshaft to the lower
+connecting rod bearings. [Figure 6-15]
+Oil reaches a hollow camshaft (in an inline or opposed
+engine), or a cam plate or cam drum (in a radial engine),
+through a connection with the end bearing or the main oil
+manifold; it then flows out to the various camshaft, cam drum,
+or cam plate bearings and the cams.
+
+E
+
+A Floating control thermostat
+
+D Outlet from cooler tubes
+
+B Y-fitting
+
+E Flow divider
+
+C Inlet to cooler tubes
+Figure 6-14. Dual oil cooler system.
+
+The engine cylinder surfaces receive oil sprayed from the
+crankshaft and also from the crankpin bearings. Since oil
+seeps slowly through the small crankpin clearances before it
+is sprayed on the cylinder walls, considerable time is required
+for enough oil to reach the cylinder walls, especially on a
+cold day when the oil flow is more sluggish. This is one of
+the chief reasons for using modern multiviscosity oils that
+flow well at low temperatures.
+
+Camshaft bearing
+Crankshaft bearing
+
+Idler shaft bushing
+To propeller
+Starter bushing
+
+Accessory drive bushing
+
+Governor pad
+
+Hydraulic lifters
+
+Oil pressure
+relief valve
+by-pass to
+sump
+Oil pressure gauge connection
+Oil cooler
+
+Oil sump pick-up
+
+Oil filter
+
+Oil temperature control valve
+
+Figure 6-15. Oil circulation through the engine.
+
+6-12
+
+===== PDF PAGE 259 =====
+When the circulating oil has performed its function of
+lubricating and cooling the moving parts of the engine, it
+drains into the sumps in the lowest parts of the engine. Oil
+collected in these sumps is picked up by gear or gerotor-type
+scavenger pumps as quickly as it accumulates. These pumps
+have a greater capacity than the pressure pump. This is needed
+because the volume of the oil has generally increased due
+to foaming (mixing with air). On dry sump engines, this oil
+leaves the engine, passes through the oil cooler, and returns
+to the supply tank.
+A thermostat attached to the oil cooler controls oil temperature
+by allowing part of the oil to flow through the cooler and part
+to flow directly into the oil supply tank. This arrangement
+allows hot engine oil with a temperature still below 65 °C
+(150 °F) to mix with the cold uncirculated oil in the tank. This
+raises the complete engine oil supply to operating temperature
+in a shorter period of time.
+Wet-Sump Lubrication System Operation
+A simple form of a wet-sump system is shown in Figure 6-16.
+The system consists of a sump or pan in which the oil supply
+is contained. The oil supply is limited by the sump (oil pan)
+capacity. The level (quantity) of oil is indicated or measured
+by a vertical rod that protrudes into the oil from an elevated
+hole on top of the crankcase. In the bottom of the sump (oil
+pan) is a screen strainer having a suitable mesh, or series of
+openings, to strain undesirable particles from the oil and yet
+pass sufficient quantity to the inlet or (suction) side of the oil
+pressure pump. Figure 6-17 shows a typical oil sump that has
+the intake tube running through it. This preheats the air-fuel
+mixture before it enters the cylinders.
+The rotation of the pump, which is driven by the engine,
+causes the oil to pass around the outside of the gears.
+[Figure 6-6] This develops a pressure in the crankshaft
+oiling system (drilled passage holes). The variation in the
+
+Figure 6-16. Basic wet-sump oil system.
+
+Figure 6-17. Wet-sump system’s sump with intake tube running
+
+through it.
+
+speed of the pump from idling to full-throttle operating range
+of the engine and the fluctuation of oil viscosity because of
+temperature changes are compensated by the tension on the
+relief valve spring. The pump is designed to create a greater
+pressure than required to compensate for wear of the bearings
+or thinning out of oil. The parts oiled by pressure throw a
+lubricating spray into the cylinder and piston assemblies.
+After lubricating the various units it sprays, the oil drains
+back into the sump and the cycle is repeated. The system is
+not readily adaptable to inverted flying since the entire oil
+supply floods the engine.
+
+Lubrication System Maintenance Practices
+Oil Tank
+The oil tank, constructed of welded aluminum, is serviced
+(filled) through a filler neck located on the tank and equipped
+with a spring-loaded locking cap. Inside the tank, a weighted,
+flexible rubber oil hose is mounted so that it is repositioned
+automatically to ensure oil pickup during all maneuvers. A
+dipstick guard is welded inside the tank for the protection
+of the flexible oil hose assembly. During normal flight,
+the oil tank is vented to the engine crankcase by a flexible
+line at the top of the tank. The location of the oil system
+components in relation to each other and to the engine is
+shown in Figure 6-18.
+Repair of an oil tank usually requires that the tank be
+removed. The removal and installation procedures normally
+remain the same regardless of whether the engine is removed
+or not. First, the oil must be drained. Most light aircraft
+provide an oil drain similar to that shown in Figure 6-19. On
+some aircraft, the normal ground attitude of the aircraft may
+prevent the oil tank from draining completely. If the amount
+of undrained oil is excessive, the aft portion of the tank can
+be raised slightly after the tank straps have been loosened to
+complete the drainage.
+6-13
+
+===== PDF PAGE 260 =====
+1
+
+10
+
+1
+
+Engine breather
+
+2
+
+Oil outlet
+
+3
+
+Oil inlet
+
+4
+
+Oil temperature gauge
+
+5
+
+Oil pressure gauge
+
+6
+
+Oil tank
+
+7
+
+Oil filter
+
+8
+
+Oil tank drain
+
+9
+
+Oil tank vent line
+
+10 Engine oil pressure line
+2
+4
+9
+
+5
+
+3
+7
+6
+
+8
+
+Supply
+
+Pressure
+
+Return
+
+Drain
+
+Vent
+
+Figure 6-18. Oil system perspective.
+
+strap disconnected. The tank can now be lifted out of the
+aircraft. The tank is reinstalled by reversing the sequence used
+in the tank removal. After installation, the oil tank should be
+filled to capacity. [Figure 6-22]
+After the oil tank has been filled, the engine should be run for
+at least two minutes. Then, the oil level should be checked
+and, if necessary, sufficient oil should be added to bring the
+oil up to the proper level on the dipstick. [Figure 6-23]
+
+Figure 6-19. Oil tank drain.
+
+After disconnecting the oil inlet and vent lines, the scupper
+drain hose and bonding wire can be removed. [Figure 6-20]
+The securing straps fitted around the tank can now be
+removed. [Figure 6-21] Any safety wire securing the clamp
+must be removed before the clamp can be loosened and the
+
+Oil Cooler
+The oil cooler used with this aircraft’s opposed-type engine
+is the honeycomb type. [Figure 6-24] With the engine
+operating and an oil temperature below 65 °C (150 °F), oil
+cooler bypass valve opens allowing oil to bypass the core.
+This valve begins to close when the oil temperature reaches
+approximately 65 °C (150 °F). When the oil temperature
+reaches 85 °C (185 °F), ±2 °C, the valve is closed completely,
+diverting all oil flow through the cooler core.
+
+6-14
+
+===== PDF PAGE 261 =====
+Figure 6-20. Disconnect oil lines.
+
+Figure 6-23. Checking oil level with dipstick.
+
+Figure 6-21. Removal of securing straps.
+
+Figure 6-24. Oil cooler.
+
+Pressure & Scavenge Oil Screens
+Sludge accumulates on the pressure and scavenges oil screens
+during engine operation. [Figure 6-26] These screens must
+be removed, inspected, and cleaned at the intervals specified
+by the manufacturer.
+Figure 6-22. Filling an oil tank.
+
+Oil Temperature Bulbs
+Most oil temperature bulbs are mounted in the pressure oil
+screen housing. They relay an indication of engine oil inlet
+temperature to the oil temperature indicators mounted on
+the instrument panel. Temperature bulbs can be replaced by
+removing the safety wire and disconnecting the wire leads
+from the temperature bulbs, then removing the temperature
+bulbs using the proper wrench. [Figure 6-25]
+
+Typical removal procedures include removing the safety
+devices and loosening the oil screen housing or cover plate.
+A suitable container should be provided to collect the oil that
+drains from the filter housing or cavity. The container must
+be clean so that the oil collected in it can be examined for
+foreign particles. Any contamination already present in the
+container gives a false indication of the engine condition.
+This could result in a premature engine removal.
+
+6-15
+
+===== PDF PAGE 262 =====
+to the torque value specified in the applicable maintenance
+manual. Filters should be safetied as required.
+
+Figure 6-25. Removing oil temperature bulb.
+
+After the screens are removed, they should be inspected
+for contamination and for the presence of metal particles
+that may indicate possible engine internal wear, damage,
+or in extreme cases, engine failure. The screen must be
+cleaned prior to reinstalling in the engine. In some cases,
+it is necessary to disassemble the filter for inspection and
+cleaning. The manufacturer’s procedures should be followed
+when disassembling and reassembling an oil screen assembly.
+When reinstalling a filter or screen, use new O-rings and
+gaskets and tighten the filter housing or cover retaining nuts
+
+A
+
+Oil Pressure Relief Valve
+An oil pressure regulating (relief) valve limits oil pressure to
+the value specified by the engine manufacturer. Oil pressure
+settings can vary from around 35 psi minimum to around 90
+psi maximum, depending on the installation. The oil pressure
+must be high enough to ensure adequate lubrication of the
+engine and accessories at high speeds and power settings.
+On the other hand, the pressure must not be too high, since
+leakage and damage to the oil system may result. Before any
+attempt is made to adjust the oil pressure, the engine must be
+at the correct operating temperature and a check should be
+made to assure that the correct viscosity oil is being used in
+the engine. One example of adjusting the oil pressure is done
+by removing a cover nut, loosening a locknut, and turning
+the adjusting screw. [Figure 6-27] Turn the adjusting screw
+clockwise to increase the pressure, or counterclockwise
+to decrease the pressure. Make the pressure adjustments
+while the engine is idling and tighten the adjustment screw
+lock-nut after each adjustment. Check the oil pressure
+reading while the engine is running at the rpm specified in
+the manufacturer’s maintenance manual. This may be from
+around 1,900 rpm to 2,300 rpm. The oil pressure reading
+should be between the limits prescribed by the manufacturer
+at all throttle settings.
+
+B
+
+Figure 6-26. Oil pressure screen (A) and scavenge oil screen assembly (B).
+
+6-16
+
+===== PDF PAGE 263 =====
+Decrease
+Increase
+
+Figure 6-27. Oil pressure relief valve adjustment.
+
+Recommendations for Changing Oil
+Draining Oil
+Oil, in service, is constantly exposed to many harmful
+substances that reduce its ability to protect moving parts.
+The main contaminants are:
+•
+
+Gasoline,
+
+•
+
+Moisture,
+
+•
+
+Acids,
+
+•
+
+Dirt,
+
+•
+
+Carbon, and
+
+•
+
+Metallic particles.
+
+Because of the accumulation of these harmful substances,
+common practice is to drain the entire lubrication system at
+regular intervals and refill with new oil. The time between
+oil changes varies with each make and model aircraft and
+engine combination.
+In engines that have been operating on straight mineral oil
+for several hundred hours, a change to ashless dispersant
+oil should be made with a degree of caution as the cleaning
+action of some ashless dispersant oils tends to loosen sludge
+deposits and cause plugged oil passages. When an engine has
+been operating on straight mineral oil, and is known to be in
+excessively dirty condition, the switch to ashless dispersant
+oil should be deferred until after the engine is overhauled.
+When changing from straight mineral oil to ashless dispersant
+oil, the following precautionary steps should be taken:
+1.
+
+Do not add ashless dispersant oil to straight mineral
+oil. Drain the straight mineral oil from the engine and
+fill with ashless dispersant oil.
+
+2.
+
+Do not operate the engine longer than 5 hours before
+the first oil change.
+
+3.
+
+Check all oil filters and screens for evidence of sludge
+or plugging. Change oil every 10 hours if sludge
+conditions are evident. Repeat 10-hour checks until
+clean screen is noted, then change oil at recommended
+time intervals.
+
+4.
+
+All turbocharged engines must be broken in and
+operated with ashless dispersant oil.
+
+Oil & Filter Change & Screen Cleaning
+One manufacturer recommends that for new, remanufactured;
+or newly overhauled engines and for engines with any newly
+installed cylinders, the oil should be changed after the first
+replacement/screen cleaning at 25 hours. The oil should be
+changed, filter replaced, or pressure screen cleaned, and oil
+sump suction screen cleaned and inspected. A typical interval
+for oil change is 25 hours, along with a pressure screen
+cleaning and oil sump suction screen check for all engines
+employing a pressure screen system. Typical 50-hour interval
+oil changes generally include the oil filter replacement and
+suction screen check for all engines using full-flow filtration
+systems. A time maximum of 4 months between servicing is
+also recommended for oil system service.
+Oil Filter Removal Canister Type Housing
+Remove the filter housing from the engine by removing the
+safety wire and loosening the hex head screw and housing
+by turning counterclockwise and removing the filter from
+the engine. [Figure 6-7] Remove the nylon nut that holds
+the cover plate on the engine side of the filter. Remove the
+cover plate, hex head screw from the housing. To remove the
+spin-on type of filter, cut the safety wire and use the wrench
+pad on the rear of the filter to turn the filter counterclockwise,
+and remove filter. Inspect the filter element as described in
+the following paragraph. Discard old gaskets and replace
+with new replacement kit gaskets.
+Oil Filter/Screen Content Inspection
+Check for premature or excessive engine component wear
+that is indicated by the presence of metal particles, shavings,
+or flakes in the oil filter element or screens. The oil filter
+can be inspected by opening the filter paper element. Check
+the condition of the oil from the filter for signs of metal
+contamination. Then, remove the paper element from the
+filter and carefully unfold the paper element; examine the
+material trapped in the filter. If the engine employs a pressure
+screen system, check the screen for metal particles. After
+draining the oil, remove the suction screen from the oil sump
+and check for metal particles. [Figure 6-28] If examination of
+the used oil filter or pressure screen and the oil sump suction
+screen indicates abnormal metal content, additional service
+may be required to determine the source and possible need for
+corrective maintenance. To inspect the spin on filter the can
+must be cut open to remove the filter element for inspection.
+6-17
+

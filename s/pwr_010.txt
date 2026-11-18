@@ -1,0 +1,1099 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 2 (Engine Fuel & Fuel Metering Systems), PDF pages 116-128
+
+===== PDF PAGE 116 =====
+adjust fuel flow as needed. Each type of turbine engine has
+its own specific needs for fuel delivery and control.
+Hydromechanical Fuel Control
+Hydromechanical fuel controls were used and are still used
+on many engines, but their use is becoming limited giving
+way to electronic based controls. Fuel controls have two
+sections, computing and metering, to provide the correct fuel
+flow for the engine. A pure hydromechanical fuel control has
+no electronic interface assisting in computing or metering the
+fuel flow. It also is generally driven by the gas generator gear
+train of the engine to sense engine speed. Other mechanical
+engine parameters that are sensed are compressor discharge
+pressure, burner pressure, exhaust temperature, and inlet
+air temperature and pressure. Once the computing section
+determines the correct amount of fuel flow, the metering
+section through cams and servo valves delivers the fuel to
+the engine fuel system. Actual operating procedures for a
+hydromechanical fuel control is very complicated and still
+the fuel metering is not as accurate as with an electronic
+type of interface or control. Electronic controls can receive
+more inputs with greater accuracy than hydromechanical
+controls. Early electronic controls used a hydromechanical
+control with an electronic system added on the system to fine
+tune the metering of the fuel. This arrangement also used the
+hydromechanical system as a backup if the electronic system
+failed. [Figure 2-49]
+Hydromechanical/Electronic Fuel Control
+The addition of the electronic control to the basic
+hydromechanical fuel control was the next step in the
+development of turbine engine fuel controls. Generally, this
+type of system used a remotely located EEC to adjust the
+fuel flow. A description of a typical system is explained in
+the following information. The basic function of the engine
+fuel system is to pressurize the fuel, meter fuel flow, and
+deliver atomized fuel to the combustion section of the engine.
+Fuel flow is controlled by a hydromechanical fuel control
+assembly, which contains a fuel shutoff section and a fuel
+metering section.
+This fuel control unit is sometimes mounted on the vane
+fuel pump assembly. It provides the power lever connection
+and the fuel shutoff function. The unit provides mechanical
+overspeed protection for the gas generator spool during
+normal (automatic mode) engine operation. In automatic
+mode, the EEC is in control of metering the fuel. In manual
+mode, the hydromechanical control takes over.
+During normal engine operation, a remotely mounted
+electronic fuel control unit (EFCU) (same as an EEC)
+performs the functions of thrust setting, speed governing and
+acceleration, and deceleration limiting through EFCU outputs
+
+to the fuel control assembly in response to power lever inputs.
+In the event of electrical or EFCU failure, or at the option of
+the pilot, the fuel control assembly functions in manual mode
+to allow engine operation at reduced power under control of
+the hydromechanical portion of the controller only.
+The total engine fuel and control system consists of the
+following components and provides the functions as
+indicated:
+1.
+
+The vane fuel pump assembly is a fixed displacement
+fuel pump that provides high pressure fuel to the
+engine fuel control system. [Figure 2-50]
+
+2.
+
+The filter bypass valve in the fuel pump allows fuel to
+bypass the fuel filter when the pressure drop across the
+fuel filter is excessive. An integral differential pressure
+indicator visually flags an excessive differential
+pressure condition before bypassing occurs, by
+extending a pin from the fuel filter bowl. Fuel pump
+discharge flow in excess of that required by the fuel
+control assembly is returned from the control to the
+pump interstage.
+
+3.
+
+The hydromechanical fuel control assembly provides
+the fuel metering function of the EFCU.
+Fuel is supplied to the fuel control through a
+200-micron inlet filter screen and is metered to the
+engine by the servo-operated metering valve. It is
+a fuel flow/compressor discharge pressure (Wf/
+P3) ratio device that positions the metering valve in
+response to engine compressor discharge pressure
+(P3). Fuel pressure differential across the servo
+valve is maintained by the servo-operated bypass
+valve in response to commands from the EFCU.
+[Figure 2-49] The manual mode solenoid valve is
+energized in the automatic mode. The automatic mode
+restricts operation of the mechanical speed governor.
+It is restricted to a single overspeed governor setting
+above the speed range controlled electronically.
+Deenergizing the manual mode valve enables the
+mechanical speed governor to function as an all speed
+governor in response to power lever angle (PLA). The
+fuel control system includes a low power sensitive
+torque motor which may be activated to increase or
+decrease fuel flow in the automatic mode (EFCU
+mode). The torque motor provides an interface to an
+electronic control unit that senses various engine and
+ambient parameters and activates the torque motor
+to meter fuel flow accordingly. This torque motor
+provides electromechanical conversion of an electrical
+signal from the EFCU. The torque motor current is
+zero in the manual mode, which establishes a fixed
+Wf/P3 ratio.
+
+2-34
+
+===== PDF PAGE 117 =====
+P3 Inlet
+
+P3 Air
+Pressure fuel
+Return/bypass fuel
+
+Manual mode solenoid (shown auto mode)
+
+Servo metering valve assembly
+
+Evacuated bellows
+
+Servo pressure regulator
+Torque engine
+Fuel bypass
+valve
+Speed
+set
+
+Metering head
+sensor
+
+Idle set stop
+
+Manual
+mode
+cam
+Overspeed stop
+Fuel return
+Fuel shutoff valve
+
+Fuel inlet
+
+Mechanical speed governor
+
+Vane fuel pump
+
+Start fuel enrichment solenoid
+
+Fuel outlet
+(to fuel oil
+cooler)
+Pressurizing valve
+
+Figure 2-49. Fuel control assembly schematic hydromechanical/electronic.
+
+servo accomplishes Wf/P3 ratio modulation to govern
+the gas generator speed by bleeding down the P3
+acting on the metering valve servo. The P3 limiter
+valve bleeds down the P3 pressure acting in the
+metering valve servo when engine structural limits
+are encountered in either control mode. The start
+fuel enrichment solenoid valve provides additional
+fuel flow in parallel with the metering valve when
+required for engine cold starting or altitude restarts.
+The valve is energized by the EFCU when enrichment
+is required. It is always deenergized in the manual
+mode to prevent high altitude sub-idle operation.
+Located downstream of the metering valve are the
+manual shutoff and pressurizing valves. The shutoff
+valve is a rotary unit connected to the power lever. It
+allows the pilot to direct fuel to the engine manually.
+The pressurizing valve acts as a discharge restrictor to
+the hydromechanical control. It functions to maintain
+minimum operating pressures throughout the control.
+The pressurizing valve also provides a positive leaktight fuel shutoff to the engine fuel nozzles when the
+manual valve is closed.
+
+Figure 2-50. Fuel pump and filter.
+
+This fixed Wf/P3 ratio is such that the engine operates
+surge free and is capable of producing a minimum of
+90 percent thrust up to 30,000 feet for this example
+system. All speed governing of the high-pressure spool
+(gas generator) is achieved by the flyweight governor.
+The flyweight governor modulates a pneumatic servo,
+consistent with the speed set point as determined by
+the power lever angle (PLA) setting. The pneumatic
+
+4.
+
+The flow divider and drain valve assembly proportions
+fuel to the engine primary and secondary fuel
+nozzles. It drains the nozzles and manifolds at engine
+shutdown. It also incorporates an integral solenoid for
+2-35
+
+===== PDF PAGE 118 =====
+modifying the fuel flow for cold-starting conditions.
+During an engine start, the flow divider directs all
+flow through the primary nozzles. After start, as the
+engine fuel demand increases, the flow divider valve
+opens to allow the secondary nozzles to function.
+During all steady-state engine operation, both primary
+and secondary nozzles are flowing fuel. A 74-micron,
+self-bypassing screen is located under the fuel inlet
+fitting and provides last chance filtration of the fuel
+prior to the fuel nozzles.
+5.
+
+The fuel manifold assembly is a matched set consisting
+of both primary and secondary manifolds and the fuel
+nozzle assemblies.
+
+Twelve fuel nozzles direct primary and secondary fuel
+through the nozzles causing the fuel to swirl and form a finely
+atomized spray. The manifold assembly provides fuel routing
+and atomizing to ensure proper combustion.
+The EEC system consists of the hydromechanical fuel
+control, EFCU, and aircraft mounted power lever angle
+potentiometer. Aircraft-generated control signals include inlet
+pressure, airstream differential pressure, and inlet temperature
+plus pilot selection of either manual or auto mode for the
+EFCU operation. Engine-generated control signals include
+fan spool speed, gas generator spool speed, inner turbine
+temperature, fan discharge temperature, and compressor
+discharge pressure. Aircraft- and engine-generated control
+signals are directed to the EFCU where these signals are
+interpreted. The PLA potentiometer is mounted in the throttle
+quadrant. The PLA potentiometer transmits an electrical
+signal to the EFCU, which represents engine thrust demand
+in relation to throttle position. If the EFCU determines a
+power change is required, it commands the torque motor
+to modulate differential pressure at the head sensor. This
+change in differential pressure causes the metering valve
+to move, varying fuel flow to the engine as required. The
+EFCU receives electrical signals which represent engine
+operating variables. It also receives a pilot-initiated signal
+(by power-lever position) representing engine thrust demand.
+The EFCU computes electrical output signals for use by the
+engine fuel control for scheduling engine operation within
+predetermined limits. The EFCU is programmed to recognize
+predetermined engine operating limits and to compute output
+signals such that these operating limits are not exceeded.
+The EFCU is remotely located and airframe mounted. An
+interface between the EFCU and aircraft/engine is provided
+through the branched wiring harness assembly. [Figure 2-51]
+FADEC Fuel Control Systems
+A full authority digital electronic control (FADEC) has been
+developed to control fuel flow on most new turbine engine
+
+models. A true FADEC system has no hydromechanical fuel
+control backup system. The system uses electronic sensors
+that feed engine parameter information into the EEC. The
+EEC gathers the needed information to determine the amount
+of fuel flow and transmits it to a fuel metering valve. The
+fuel metering valve simply reacts to the commands from the
+EEC. The EEC is a computer that is the computing section
+of the fuel delivery system and the metering valve meters
+the fuel flow. FADEC systems are used on many types of
+turbine engines from APUs to the largest propulsion engines.
+FADEC for an Auxiliary Power Unit
+An APU engine uses the aircraft fuel system to supply fuel
+to the fuel control. An electric boost pump may be used to
+supply fuel under pressure to the control. The fuel usually
+passes through an aircraft shutoff valve that is tied to the
+fire detecting/extinguishing system. An aircraft furnished
+inline fuel filter may also be used. Fuel entering the fuel
+control unit first passes through a 10-micron filter. If the filter
+becomes contaminated, the resulting pressure drop opens the
+filter bypass valve and unfiltered fuel then is supplied to the
+APU. Shown in Figure 2-52 is a pump with an inlet pressure
+access plug so that a fuel pressure gauge might be installed
+for troubleshooting purposes. Fuel then enters a positive
+displacement, gear-type pump. Upon discharge from the
+pump, the fuel passes through a 70-micron screen. The screen
+is installed at this point to filter any wear debris that might
+be discharged from the pump element. From the screen, fuel
+branches to the metering valve, differential pressure valve,
+and the ultimate relief valve. Also shown at this point is a
+pump discharge pressure access plug, another point where a
+pressure gauge might be installed.
+The differential pressure valve maintains a constant pressure
+drop across the metering valve by bypassing fuel to the pump
+inlet so that metered flow is proportional to metering valve
+area. The metering valve area is modulated by the torque
+motor, which receives variable current from the engine
+control unit (ECU). The ultimate relief valve opens to bypass
+excess fuel back to the pump inlet whenever system pressure
+exceeds a predetermined pressure. This occurs during each
+shutdown since all flow is stopped by the shutoff valve and
+the differential pressure valve, is unable to bypass full pump
+capacity. Fuel flows from the metering valve out of the fuel
+control unit (FCU), through the solenoid shutoff valve and
+on to the atomizer. Initial flow is through the primary nozzle
+tip only. The flow divider opens at higher pressure and adds
+flow through the secondary path.
+FADEC Fuel Control Propulsion Engine
+Many large high-bypass turbofan engines use the FADEC
+type of fuel control system. The EEC is the primary
+component of the FADEC engine fuel control system. The
+
+2-36
+
+===== PDF PAGE 119 =====
+T13
+
+Bleed Valve
+
+NL
+
+TT4.5
+
+PT0
+P0
+
+TT0
+
+P3
+
+NL
+Trim
+and
+Engine
+ID
+
+Starter
+Gen
+
+PMG
+
+Control
+Solenoids
+and Relays
+
+NH
+ECU
+PWR
+
+NH
+Backup
+
+Fuel
+Control
+Mode
+Sel
+
+Igniter
+TM
+[WF/P3]
+
+Mechanical
+
+Linkage
+
+PLA
+
+IGN Cont
+IGN Power
+Cont
+
+EFCU
+
+400 Hz
+
+28V PWR
+Potentiometer
+
+Flight data recorder
+
+Mode Sel SW
+Fault Status IND
+Control Mode IND
+
+Engine monitoring system
+EFCU cross-link
+
+SYMBOLS
+NH
+NL
+PT0
+PLA
+TT0
+T4.5
+T13
+P
+
+Core spool speed
+Fan spool speed
+Free stream total pressure
+Power lever angle
+Total temperature
+Interturbine temperature
+Fan exit air temperature
+Indicated airspeed
+
+Engine Control System
+
+Figure 2-51. Engine control system.
+
+EEC is a computer that controls the operation of the engine.
+The EEC housing contains two electronic channels (two
+separate computers) that are physically separated internally
+and is naturally cooled by convection. The EEC is generally
+placed in an area of the engine nacelle that is cool during
+engine operation. It attaches to the lower-left fan case with
+
+shock mounts. [Figure 2-53]
+The EEC computer uses data it receives from many engine
+sensors and airplane systems to control the engine operation.
+It receives electronic signals from the flight deck to set engine
+power or thrust. The throttle lever angle resolver supplies the
+
+2-37
+
+===== PDF PAGE 120 =====
+Pump discharge port
+
+High pressure pump
+
+Pump inlet pressure
+
+Metering valve
+Torque motor
+
+70 Micron screen
+
+ECU
+10 Micron inlet filter
+
+Metered outlet port
+
+Fuel shutoff solenoid
+
+Ultimate relief valve
+
+Metered pressure
+
+Inlet
+
+Filter bypass valve
+P Valve
+Automizer
+LEGEND
+Pump discharge pressure
+Ignitor plug
+
+Metered pressure
+Inlet pressure
+
+Figure 2-52. APU fuel system schematic.
+Programming plug
+
+Lanyard
+
+Electrical connection (TYP)
+Shock mount (TYP)
+
+Channel B
+
+Channel A
+
+Test connection
+ENGINE
+EEC
+
+Figure 2-53. EEC and programming plug.
+
+EEC with a signal in proportion to the thrust lever position.
+The EEC controls most engine components and receives
+feedback from them. Many components supply the EEC with
+data for engine operation.
+Power for the EEC comes from the aircraft electrical system
+or the permanent magnet alternator (PMA). When the engine
+is running, the PMA supplies power to the EEC directly. The
+EEC is a two channel computer that controls every aspect
+of engine operation. Each channel, which is an independent
+computer, can completely control the operation of the engine.
+The processor does all of the control calculations and supplies
+all the data for the control signals for the torque motors and
+
+solenoids. The cross-talk logic compares data from channels
+A and B and uses the cross-talk logic to find which EEC
+channel is the best to control the output driver for a torque
+motor or solenoid bank. The primary channel controls all of
+the output drivers. If the cross-talk logic finds that the other
+channel is better for control of a specific bank, the EEC
+changes control of that one bank to the other channel. The
+EEC has output driver banks that supply the control signals
+to engine components. Each channel of the EEC supplies
+the driver banks with control signals. The EEC has both
+volatile and nonvolatile memory to store performance and
+maintenance data.
+The EEC can control the engine thrust in two modes, which
+can be selected by use of a mode selection switch. In the
+normal mode, engine thrust is set with engine pressure ratio
+(EPR); in the alternate mode, thrust is set by N1. When the
+fuel control switch is moved from run to cutoff, the EEC
+resets. During this reset, all fault data is recorded in the
+nonvolatile memory. The EEC controls the metering valve
+in the fuel metering unit to supply fuel flow for combustion.
+[Figure 2-54] The fuel metering unit is mounted on the
+front face of the gearbox and is attached to the front of
+the fuel pump. [Figure 2-55] The EEC also sends a signal
+to the minimum pressure and shutoff valve in the fuel
+metering unit to start or stop fuel flow. The EEC receives
+position feedback for several engine components by using
+2-38
+
+===== PDF PAGE 121 =====
+Figure 2-55. Fuel pump.
+
+Figure 2-54. Fuel metering unit.
+
+rotary differential transformer, linear variable differential
+transformer, and thermocouples. These sensors feed engine
+parameter information from several systems back to the
+EEC. The fuel control run cutoff switch controls the high
+pressure fuel shut off valve that allows or cuts off fuel flow.
+The fuel temperature sensor thermocouple attaches to the
+fuel outlet line on the rear of the fuel/oil cooler and sends
+this information to the EEC. The EEC uses a torque motor
+driver to control the position of the metering valve in the fuel
+metering unit. The EEC uses solenoid drivers to control the
+other functions of the fuel metering unit (FMU). The EEC
+also controls several other subsystems of the engine, as
+shown in Figure 2-56, through torque motors and solenoids,
+such as fuel and air oil coolers, bleed valves, variable stator
+vanes, turbine cooling air valves, and the turbine case cooling
+system.
+
+Each channel of the EEC has seven electrical connections,
+three on each side and one on the bottom. Both channels
+share the inputs of the two connections on the top of the
+EEC. These are the programming plug and test connector.
+The programming plug selects the proper software in the
+EEC for the thrust rating of the engine. The plug attaches
+to the engine fan case with a lanyard. When removing the
+EEC, the plug remains with the engine. Each channel of the
+EEC has three pneumatic connections on the bottom of the
+EEC. Transducers inside the EEC supply the related and
+opposite EEC channel with a signal in proportion to the
+pressure. The pressures that are read by the EEC are ambient
+pressure, burner pressure, low pressure compressor (LPC)
+exit pressure, and fan inlet pressure. Each channel has its own
+wire color that connects the EEC to its sensors. Channel A
+wiring is blue and channel B sensor signals are green. The
+non-EEC circuit wire is gray while the thermocouple signals
+are yellow. This color coding helps simplify which sensors
+are used with each channel.
+
+PROG PLUG
+
+FMU
+
+FOC bypass
+valve
+
+2.5 bleed
+valve
+
+TAC
+valve
+
+VSV
+
+TCC valves
+
+2.9 bleed
+valve
+
+NAC zone
+vent valve
+
+ENG AOC
+valve
+PMA
+IDG AOC
+valve
+Sensors
+BU GEN
+AOC valve
+
+Figure 2-56. Systems controlled by EEC.
+
+2-39
+
+===== PDF PAGE 122 =====
+Fuel System Operation
+The fuel pump receives fuel from the airplane fuel system.
+The low pressure boost stage of the pump pressurizes the fuel
+and sends it to the fuel/oil cooler (FOC). The fuel flows from
+the FOC, through the fuel pump filter element, and then to
+the high pressure main stage of the pump. The high pressure
+main stage increases the fuel pressure and sends it to the fuel
+metering unit (FMU). It also supplies servo fuel to the servo
+fuel heater and engine components. Fuel for combustion
+(metered fuel) goes through the fuel flow transmitter to
+the distribution valve. [Figure 2-57] The fuel distribution
+valve supplies metered fuel to the fuel supply manifolds.
+[Figure 2-58] The fuel injectors get the metered fuel from the
+fuel supply manifolds and spray the fuel into the engine for
+combustion. [Figure 2-59] The fuel pump housing contains
+a disposable fuel filter element. The fuel filter differential
+pressure switch supplies a signal to the EEC that indicates
+an almost clogged filter condition. Unfiltered fuel can then
+bypass the filter element if the element becomes clogged.
+
+Figure 2-57. Fuel flow transmitter.
+
+Water Injection System
+On warm days, thrust is reduced because of the decrease in
+air density. This can be compensated for by injecting water
+at the compressor inlet or diffuser case. This lowers the air
+temperature and increases air density. A microswitch in the
+fuel control is actuated by the control shaft when the power
+lever is moved toward the maximum power position.
+A water injection speed reset servo resets the speed adjustment
+to a higher value during water injection. Without this
+adjustment, the fuel control would decrease rpm so that no
+additional thrust would be realized during water injection. The
+servo is a shuttle valve that is acted upon by water pressure
+during water injection. Movement of the servo displaces a
+lever on the cam-operated lever linkage to the speed governor
+speeder spring, increasing the force of the speeder spring
+and increasing the set speed. Because the resulting rpm is
+usually higher while water is flowing, increased thrust during
+water injection is ensured. If the water injection system is
+not armed in the flight deck or if there is no water available,
+nothing happens when the water injection switch in the fuel
+control unit is actuated. When water is available, a portion of
+it is directed to the water injection speed re-set servo. Water
+injection systems are not normally used on high-bypass
+turbofan engines.
+
+Fuel Control Maintenance
+The field repair of the turbine engine fuel control is very
+limited. The only repairs permitted in the field are the
+replacement of the control and adjustments afterwards. These
+adjustments are limited to the idle rpm and the maximum
+speed adjustment, commonly called trimming the engine.
+Both adjustments are made in the normal range of operation.
+
+Figure 2-58. Fuel distribution valve.
+
+Figure 2-59. Fuel manifolds.
+
+During engine trimming, the fuel control is checked for idle
+rpm, maximum rpm, acceleration, and deceleration. The
+procedures used to check the fuel control vary depending
+on the aircraft and engine installation.
+The engine is trimmed in accordance with the procedures in
+2-40
+
+===== PDF PAGE 123 =====
+the maintenance or overhaul manual for a particular engine.
+In general, the procedure consists of obtaining the ambient air
+temperature and the field barometric pressure (not sea level)
+immediately preceding the trimming of the engine. Care must
+be taken to obtain a true temperature reading comparable to
+that of the air that enters the engine. Using these readings, the
+desired turbine discharge pressure or EPR (engine pressure
+ratio) reading is computed from charts published in the
+maintenance manual.
+The engine is operated at full throttle (or at the part power
+control trim stop) for a sufficient period of time to ensure
+that it has completely stabilized. Five minutes is the usual
+recommended stabilization period. A check should be made
+to ensure that the compressor air-bleed valves have fully
+closed and that all accessory drive air bleed for which the
+trim curve has not been corrected (such as a cabin airconditioning unit) has been turned off. When the engine
+has stabilized, a comparison is made of the observed and
+the computed turbine discharge pressure Pt7 (or EPR) to
+determine the approximate amount of trimming required. If
+a trim is necessary, the engine fuel control is then adjusted
+to obtain the target turbine discharge pressure Pt7 or EPR on
+the gauge. Immediately following the fuel control adjustment,
+the tachometer reading is observed and recorded. Fuel flow
+and exhaust gas temperature readings should also be taken.
+On Pratt and Whitney engines, using a dual-spool compressor,
+the observed N2 tachometer reading is next corrected for
+speed bias by means of temperature/rpm curve. The observed
+tachometer reading is divided by the percent trim speed
+obtained from the curve. The result is the new engine trim
+speed in percent, corrected to standard day (59 °F or 15 °C)
+temperature. The new trim speed in rpm may be calculated
+when the rpm at which the tachometer reads 100 percent is
+known. This value may be obtained from the appropriate
+engine manual. If all these procedures have been performed
+satisfactorily, the engine has been properly trimmed.
+Engine trimming should always be carried out under precisely
+controlled conditions with the aircraft headed into the wind.
+Precise control is necessary to ensure maintenance of a
+minimum thrust level upon which the aircraft performance
+is based. In addition, precise control of engine trimming
+contributes to better engine life in terms of both maximum
+time between overhaul and minimum out-of-commission
+time due to engine maintenance requirements. Engines should
+never be trimmed if icing conditions exist.
+Most electronic control fuel control systems do not require
+trimming or mechanical adjustments. Changes to the EEC
+in the FADEC system is normally accomplished through
+software changes or changing the EEC.
+
+Engine Fuel System Components
+Main Fuel Pumps (Engine Driven)
+Main fuel pumps deliver a continuous supply of fuel at
+the proper pressure and at all times during operation of the
+aircraft engine. The engine-driven fuel pump must be capable
+of delivering the maximum needed flow at appropriate
+pressure to obtain satisfactory nozzle spray and accurate
+fuel regulation.
+These engine driven fuel pumps may be divided into two
+distinct system categories:
+1.
+
+Nonconstant displacement and
+
+2.
+
+Nonpositive displacement.
+
+Their use depends on where in the engine fuel system they
+are used. A nonpositive-displacement pump produces a
+continuous flow. However, because it does not provide
+a positive internal seal against slippage, its output varies
+considerably as pressure varies. Centrifugal and propeller
+pumps are examples of nonpositive-displacement pumps.
+If the output port of a nonpositive-displacement pump
+was blocked off, the pressure would rise and output would
+decrease to zero. Although the pumping element would
+continue moving, flow would stop because of slippage
+inside the pump. In a positive displacement pump, slippage
+is negligible compared to the pump’s volumetric output flow.
+If the output port were plugged, pressure would increase
+instantaneously to the point that the pump pressure relief
+valve opens. Generally, a nonpositive-displacement is used at
+the inlet of the engine-driven pump to provide positive flow
+to the second stage of the pump. The output of a centrifugal
+pump can be varied as needed and is sometimes referred to
+as a boost stage of the engine-driven pump.
+The second or main stage of the engine-driven fuel pump
+for turbine engines is generally a positive displacement
+type of pump. The term “positive displacement” means that
+the gear supplies a fixed quantity of fuel to the engine for
+every revolution of the pump gears. Gear-type pumps have
+approximately straight line flow characteristics, whereas fuel
+requirements fluctuate with flight or ambient air conditions.
+Hence, a pump of adequate capacity at all engine operating
+conditions has excess capacity over most of the range of
+operation. This is the characteristic that requires the use
+of a pressure relief valve for bypassing excess fuel back to
+the inlet. A typical two-stage turbine engine driven pump is
+illustrated in Figure 2-60. The impeller, which is driven at a
+greater speed than the high pressure elements, increases the
+fuel pressure depending upon engine speed.
+The fuel is discharged from the boost element (impeller)
+to the two high-pressure gear elements. A relief valve is
+2-41
+
+===== PDF PAGE 124 =====
+flight deck instrument panel. If ice begins to collect on the
+filter surface, the pressure across the filter slowly decreases.
+When the pressure reaches a predetermined value, the
+warning light alerts the flight deck personnel.
+Fuel deicing systems are designed to be used intermittently.
+The control of the system may be manual, by a switch in
+the flight deck, or automatic, using a thermostatic sensing
+element in the fuel heater to open or close the air or oil shutoff
+valve. A fuel heater system is shown in Figure 2-61. In a
+FADEC system, the computer controls the fuel temperature
+by sensing the fuel temperature and heating it as needed.
+
+Figure 2-60. Dual element fuel pump.
+
+incorporated in the discharge port of the pump. This valve
+opens at a predetermined pressure and is capable of bypassing
+the total fuel flow. This allows fuel in excess of that required
+for engine operation at the time to be recirculated. The bypass
+fuel is routed to the inlet side of the second stage pump.
+Fuel flows from the pump to the fuel metering unit or fuel
+control. The fuel control is often attached to the fuel pump.
+The fuel pump is also lubricated by the fuel passing through
+the pump, and it should never be turned without fuel flow
+supplied to the inlet of the pump. As the engine coasts down
+at shutdown, the fuel pump should be provided with fuel until
+it comes to a stop.
+Fuel Heater
+Gas turbine engine fuel systems are very susceptible to the
+formation of ice in the fuel filters. When the fuel in the aircraft
+fuel tanks cools to 32 °F or below, residual water in the fuel
+tends to freeze, forming ice crystals. When these ice crystals
+in the fuel become trapped in the filter, they block fuel flow to
+the engine, which causes a very serious problem. To prevent
+this problem, the fuel is kept at a temperature above freezing.
+Warmer fuel also can improve combustion, so some means
+of regulating the fuel temperature is needed.
+The method of regulating fuel temperature is to use a fuel
+heater which operates as a heat exchanger to warm the fuel.
+The heater can use engine bleed air or engine lubricating oil
+as a source of heat. The bleed air type is called an air-to-liquid
+exchanger and the oil type is known as a liquid-to-liquid
+heat exchanger. The function of a fuel heater is to protect the
+engine fuel system from ice formation. However, should ice
+form in the filter, the heater can also be used to thaw ice on
+the fuel screen to allow fuel to flow freely again. On most
+installations, the fuel filter is fitted with a pressure-drop
+warning switch, which illuminates a warning light on the
+
+Fuel Filters
+A low-pressure filter is installed between the supply tanks and
+the engine fuel system to protect the engine-driven fuel pump
+and various control devices. An additional high-pressure fuel
+filter is installed between the fuel pump and the fuel control
+to protect the fuel control from contaminants that could come
+from the low pressure pump.
+The three most common types of filters in use are the micron
+filter, the wafer screen filter, and the plain screen mesh filter.
+The individual use of each of these filters is dictated by the
+filtering treatment required at a particular location. The
+micron filter has the greatest filtering action of any presentday filter type and, as the name implies, is rated in microns.
+[Figure 2-62] (A micron is one thousandth of 1 millimeter.)
+The porous cellulose material frequently used in construction
+of the filter cartridges is capable of removing foreign matter
+measuring from 10–25 microns. The minute openings make
+this type of filter susceptible to clogging; therefore, a bypass
+valve is a necessary safety factor.
+Since the micron filter does such a thorough job of removing
+foreign matter, it is especially valuable between the fuel
+tank and engine. The cellulose material also absorbs water,
+preventing it from passing through the pumps. If water does
+seep through the filter, which happens occasionally when
+filter elements become saturated with water, the water can and
+does quickly damage the working elements of the fuel pump
+and control units, since these elements depend solely on the
+fuel for their lubrication. To reduce water damage to pumps
+and control units, periodic servicing and replacement of filter
+elements is imperative. Daily draining of fuel tank sumps and
+low-pressure filters eliminates much filter trouble and undue
+maintenance of pumps and fuel control units.
+The most widely used fuel filters are the 200-mesh and the
+35-mesh micron filters. They are used in fuel pumps, fuel
+controls, and between the fuel pump and fuel control where
+removal of micronic particles is needed. These filters, usually
+made of fine-mesh steel wire, are a series of layers of wire.
+2-42
+
+===== PDF PAGE 125 =====
+Air baffle
+
+Fuel tubes
+
+Fuel inlet
+Fuel outlet
+
+Air outlet
+Fuel temperature sensor
+
+Air inlet
+
+Cooling fins
+Air shutoff valve
+
+Figure 2-61. Fuel heater.
+
+Relief valve
+
+Filter element
+
+Inlet
+
+Baffle
+Outlet
+Drain cock
+Figure 2-62. Aircraft fuel filter.
+
+The wafer screen type of filter has a replaceable element,
+which is made of layers of screen discs of bronze, brass,
+steel, or similar material. [Figure 2-63] This type of filter
+is capable of removing micronic particles. It also has the
+strength to withstand high pressure.
+
+Fuel Spray Nozzles & Fuel Manifolds
+Although fuel spray nozzles are an integral part of the
+fuel system, their design is closely related to the type of
+combustion chamber in which they are installed. The fuel
+nozzles inject fuel into the combustion area in a highly
+atomized, precisely patterned spray so that burning is
+completed evenly, in the shortest possible time, and in the
+smallest possible space. It is very important that the fuel be
+evenly distributed and well centered in the flame area within
+the liners. This is to preclude the formation of any hot spots
+or hot streaking in the combustion chambers and to prevent
+the flame burning through the liner.
+Fuel nozzle types vary considerably between engines,
+although for the most part fuel is sprayed into the combustion
+area under pressure through small orifices in the nozzles. The
+two types of fuel nozzles generally used are the simplex and
+the duplex configurations. The duplex nozzle usually requires
+a dual manifold and a pressurizing valve or flow divider for
+dividing primary and secondary (main) fuel flow, but the
+simplex nozzle requires only a single manifold for proper
+fuel delivery.
+The fuel nozzles can be constructed to be installed in various
+ways. The two methods used quite frequently are:
+1.
+
+External mounting wherein a mounting pad is provided
+for attachment of the nozzles to the case or the inlet
+air elbow, with the nozzle near the dome; or
+2-43
+
+===== PDF PAGE 126 =====
+Human hair is about 100 microns in diameter
+25,400 microns = 1 inch
+Spacer
+
+Filter sump
+O-ring
+Filter head
+
+Filter disk
+
+Figure 2-63. Wafer screen filter.
+
+2.
+
+Internal mounting at the liner dome, in which the
+chamber cover must be removed for replacement or
+maintenance of the nozzle.
+
+The nozzles used in a specific engine should be matched so
+that they flow equal amounts of fuel. Even fuel distribution
+is important to efficient combustion in the burner section.
+The fuel nozzle must present a fine spray with the correct
+pattern and optimum atomization.
+Simplex Fuel Nozzle
+The simplex fuel nozzle was the first nozzle type used in
+turbine engines and was replaced in most installations with
+the duplex nozzle, which gave better atomization at starting
+and idling speeds. The simplex nozzle is still being used
+in several installations. [Figure 2-64] Each of the simplex
+nozzles consists of a nozzle tip, an insert, and a strainer made
+up of fine-mesh screen and a support.
+Duplex Fuel Nozzle
+The duplex fuel nozzle is widely used in present day gas
+turbine engines and produces two different spray patterns.
+As mentioned previously, its use requires a flow divider,
+but at the same time it offers a desirable spray pattern
+for combustion over a wide range of operating pressures.
+[Figure 2-65] A nozzle typical of this type is illustrated in
+Figure 2-66.
+Airblast Nozzles
+Airblast nozzles are used to provide improved mixing of the
+fuel and airflow to provide an optimum spray for combustion.
+As can be seen in Figure 2-64, swirl vanes are used to mix the
+
+Figure 2-64. Simplex airblast nozzle cutaway.
+
+2-44
+
+===== PDF PAGE 127 =====
+Primary only
+
+Primary and main
+Figure 2-65. Duplex nozzle spray pattern.
+
+air and fuel at the nozzle opening. By using a proportion of
+the primary combustion airflow in the fuel spray, locally rich
+fuel concentrations can be reduced. This type of fuel nozzle
+can be either simplex or duplex, depending upon the engine.
+This nozzle type can operate at lower working pressures than
+other nozzles which allows for lighter pumps. This airblast
+nozzle also helps in reducing the tendency of the nozzle to
+carbon up which can disturb the flow pattern.
+
+Flow Divider
+A flow divider creates primary and secondary fuel supplies
+that are discharged through separate manifolds, providing two
+separate fuel flows. [Figure 2-67] Metered fuel from the fuel
+control enters the inlet of the flow divider and passes through
+an orifice and then on to the primary nozzles. A passage in the
+flow divider directs fuel flow from both sides of the orifice
+to a chamber. This chamber contains a differential pressure
+bellows, a viscosity compensated restrictor (VCR), and a
+surge dampener. During engine start, fuel pressure is applied
+to the inlet port and across the VCR, surge dampener, and
+on to the primary side of the nozzles. Fuel is also applied
+under pressure to the outside of the flow divider bellows and
+through the surge dampener to the inside of the flow divider
+bellows. This unequal pressure causes the flow divider valve
+to remain closed. When fuel flow increases, the differential
+pressure on the bellows also increases. At a predetermined
+pressure, the bellows compresses, allowing the flow divider
+valve to open. This action starts fuel flow to the secondary
+manifold, which increases the fuel flow to the engine. This
+fuel flows out of the secondary opening in the nozzles.
+Fuel Pressurizing & Dump Valves
+The fuel pressurizing valve is usually required on engines
+incorporating duplex fuel nozzles to divide the flow into
+primary and secondary manifolds. As the fuel required
+for starting and altitude idling flows, it passes through the
+primary line. As the fuel flow increases, the valve begins to
+open the main line until at maximum flow the secondary line
+is passing approximately 90 percent of the fuel.
+Fuel pressurizing valves usually trap fuel forward of the
+
+Screen
+Fuel inlet port
+
+Small slot
+Large slot
+Compressor discharge air
+
+Flow divider valve
+
+Spin chamber
+Fuel discharge orifice
+
+Figure 2-66. Duplex fuel nozzle.
+
+2-45
+
+===== PDF PAGE 128 =====
+the chamber housing, which is connected to the drain line.
+After the fuel accumulates in the bottom of the combustion
+chamber or drain lines, the drain valve allows the fuel to
+be drained whenever pressure within the manifold or the
+burner(s) has been reduced to near atmospheric pressure.
+A small spring holds the valve off its seat until pressure in
+the combustion chamber during operation overcomes the
+spring and closes the valve. The valve is closed during engine
+operation. It is imperative that this valve be in good working
+condition to drain accumulated fuel after each shutdown.
+Otherwise, a hot start during the next starting attempt or an
+afterfire after shutdown is likely to occur.
+Figure 2-67. Flow divider.
+
+manifold, giving a positive cutoff. This cutoff prevents
+fuel from dribbling into the manifold and through the fuel
+nozzles, limiting afterfires and carbonization of the fuel
+nozzles. Carbonization occurs because combustion chamber
+temperatures are lowered, and the fuel is not completely
+burned.
+A flow divider performs essentially the same function as a
+pressurizing valve. It is used, as the name implies, to divide
+flow to the duplex fuel nozzles. It is not unusual for units
+performing identical functions to have different nomenclature
+between engine manufacturers.
+Combustion Drain Valves
+The drain valves are units used for draining fuel from the
+various components of the engine where accumulated fuel
+is most likely to present operating problems. The possibility
+of combustion chamber accumulation with the resultant fire
+hazard is one problem. A residual problem is leaving gum
+deposits, after evaporation, in such places as fuel manifolds
+and fuel nozzles.
+
+Fuel Quantity Indicating Units
+Fuel quantity units vary from one installation to the next. A
+fuel counter or indicator, mounted on the instrument panel,
+is electrically connected to a flow meter installed in the fuel
+line to the engine.
+The fuel counter, or totalizer, is used to keep record of fuel
+use. When the aircraft is serviced with fuel, the counter is
+manually set to the total number of pounds of fuel in all
+tanks. As fuel passes through the measuring element of the
+flow meter, it sends electrical impulses to the fuel counter.
+These impulses actuate the fuel counter mechanism so that
+the number of pounds passing to the engine is subtracted
+from the original reading. Thus, the fuel counter continually
+shows the total quantity of fuel, in pounds, remaining in the
+aircraft. However, there are certain conditions that cause the
+fuel counter indication to be inaccurate. Any jettisoned fuel
+is indicated on the fuel counter as fuel still available for use.
+Any fuel that leaks from a tank or a fuel line upstream of the
+flow meter is not counted.
+
+In some instances, the fuel manifolds are drained by an
+individual unit known as a drip or dump valve. This type
+of valve may operate by pressure differential, or it may be
+solenoid operated.
+The combustion chamber drain valve drains fuel that
+accumulates in the combustion chamber after each shutdown
+and fuel that may have accumulated during a false start. If the
+combustion chambers are the can type, fuel drains by gravity
+down through the flame tubes or interconnector tubes until
+it gathers in the lower chambers, which are fitted with drain
+lines to the drain valve. If the combustion chamber is of the
+basket or annular type, the fuel merely drains through the air
+holes in the liner and accumulates in a trap in the bottom of
+
+2-46
+

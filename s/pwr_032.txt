@@ -1,0 +1,1922 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 11 (Light-Sport Aircraft Engines), PDF pages 434-451
+
+===== PDF PAGE 434 =====
+Chapter 11
+
+Light-Sport Aircraft Engines
+Engine General Requirements
+Engines used for light-sport aircraft and other types of
+aircraft, such as some experimental aircraft, ultralight
+aircraft, and powered parachutes, must be very light for
+the power they develop. Each aircraft requires thrust to
+provide enough forward speed for the wings to provide lift
+to overcome the weight of the aircraft. An aircraft that meets
+the requirements of the light-sport categories must meet the
+following requirements.
+Note: All of the following requirements and regulations are
+subject to change. Always refer to the latest Federal Aviation
+Regulations for current information.
+A light-sport aircraft means an aircraft, other than a rotorcraft
+or powered-lift, since its original certification, has continued
+to meet the following:
+1.
+
+A maximum takeoff weight of not more than 1,320
+pounds (lb) (600 kilograms (kg)) for aircraft not
+intended for operation on water; or 1,430 lb (650 kg)
+for an aircraft intended for operation on water.
+
+2.
+
+A maximum airspeed in level flight with maximum
+continuous power (VH) of not more than 120 knots
+calibrated airspeed (CAS) under standard atmospheric
+conditions at sea level.
+
+3.
+
+A maximum never-exceed speed (VNE) of not more
+than 120 knots CAS for a glider.
+
+4.
+
+A maximum stalling speed or minimum steady flight
+speed without the use of lift-enhancing devices
+(VS1) of not more than 45 knots CAS at the aircraft’s
+maximum certificated takeoff weight and most critical
+center of gravity.
+
+5.
+
+A maximum seating capacity of no more than two
+persons, including the pilot.
+
+6.
+
+A single, reciprocating engine, if powered.
+
+7.
+
+A fixed or ground-adjustable propeller, if a powered
+aircraft other than a powered glider.
+
+8.
+
+A fixed or auto-feathering propeller system, if a
+powered glider.
+
+9.
+
+A fixed-pitch, semirigid, teetering, two-blade rotor
+system, if a gyroplane.
+
+10. A non-pressurized cabin, if equipped with a cabin.
+11. Fixed landing gear, except for an aircraft intended for
+
+operation on water or a glider.
+12. Fixed or retractable landing gear, or a hull, for an
+aircraft intended for operation on water.
+13. Fixed or retractable landing gear for a glider.
+Powered parachute means a powered aircraft comprised of
+a flexible or semirigid wing connected to a fuselage so that
+the wing is not in position for flight until the aircraft is in
+motion. The fuselage of a powered parachute contains the
+aircraft engine, a seat for each occupant, and is attached to
+the aircraft’s landing gear.
+Weight shift control aircraft means a powered aircraft with
+a framed pivoting wing and a fuselage controllable only in
+pitch and roll by the pilot’s ability to change the aircraft’s
+center of gravity with respect to the wing. Flight control of
+the aircraft depends on the wing’s ability to flexibly deform
+rather than the use of control surfaces.
+As the weight of an engine is decreased, the useful load that
+an aircraft can carry and the performance of the aircraft are
+obviously increased. Every excess pound of weight carried
+by an aircraft engine reduces its performance. Since lightsport aircraft have a narrow margin of useful load, engine
+weight is a very important concern with all of the light, low
+airspeed aircraft. Tremendous gains in reducing the weight of
+the aircraft engine through improvements in design, operating
+cycles, and metallurgy have resulted in engines with a much
+improved power to weight ratio.
+A light-sport aircraft engine is reliable when it can perform
+at the specified ratings in widely varying flight attitudes and
+in extreme weather conditions. The engine manufacturer
+ensures the reliability and durability of the product by design,
+research, and testing. Although most of these engines are not
+certificated by the Federal Aviation Administration (FAA),
+close control of manufacturing and assembly procedures is
+generally maintained, and normally each engine is tested
+before it leaves the factory and meets certain American
+Society for Testing and Materials (ASTM) standards.
+Some engines used on light-sport aircraft are certificated
+by the FAA and these engines are maintained as per the
+manufacturer’s instructions and Title 14 of the Code of
+Federal Regulations (14 CFR).
+Most light-sport engines require a definite time interval
+11-1
+
+===== PDF PAGE 435 =====
+between overhauls. This is specified or implied by the engine
+manufacturer. The time between overhauls (TBO) varies
+with the type of engine (cycle), operating conditions, such as
+engine temperatures, amount of time the engine is operated
+at high-power settings, and the maintenance received. After
+reaching the time limit, the engine has to be overhauled.
+Sometimes this requires the engine to be shipped to an
+authorized manufacturer’s overhaul facility. [Figure 11-1]
+One consideration when selecting a light-sport engine is the
+shape, size, and number of cylinders of the engine. Since
+these engines range from single cylinder to multicylinder
+engines, the mounting in the airframe is important to maintain
+the view of the pilot, aircraft center of gravity, and to reduce
+aircraft drag.
+
+requirements, the FAA may place limits on the
+repairman certificate necessary to safely perform the
+actions authorized by the certificate and rating.
+•
+
+Demonstrate the requisite skill to determine whether a
+light-sport aircraft is in a condition for safe operation.
+
+•
+
+Be a citizen of the United States, or a citizen of a
+foreign country who has been lawfully admitted for
+permanent residence in the United States.
+
+•
+
+To be eligible for a repairman certificate (light-sport
+aircraft) with an inspection rating, the applicant must:
+o
+
+Meet the requirements stated above for a
+repairman’s certificate.
+
+o
+
+Complete a 16-hour training course acceptable
+to the FAA on inspecting the particular class of
+experimental light-sport aircraft for which these
+privileges are intended to be exercised.
+
+Personnel Authorized to Perform Inspection
+& Maintenance on Light-Sport Engines
+Given they meet all applicable regulations, the holder of
+a powerplant certificate can perform maintenance and
+inspections on light-sport engines. The holder of a sport
+pilot certificate may perform preventive maintenance on
+an aircraft owned or operated by that pilot and issued a
+special airworthiness certificate in the light-sport category
+under the provisions of 14 CFR part 43, section 43.3 (g). All
+maintenance must be performed in accordance with 14 CFR
+part 65, section 65.81, which describes specific experience
+requirements and current instructions for performing
+maintenance.
+The following is used to determine eligibility for a repairman
+certificate (light-sport aircraft) and appropriate rating. To
+be eligible for a repairman certificate (light-sport aircraft),
+you must:
+•
+
+Be at least 18 years old.
+
+•
+
+Be able to read, speak, write, and understand English.
+If for medical reasons you cannot meet one of these
+
+•
+
+To be eligible for a repairman certificate (light-sport
+aircraft) with a maintenance rating, the applicant must:
+o
+
+Meet the requirements stated above for a
+repairman’s certificate.
+
+o
+
+Complete a training course acceptable to the FAA
+on maintaining the particular class of light-sport
+aircraft upon which the privileges are intended
+to be exercised. The training course must, at a
+minimum provide the following number of hours
+of instruction:
+-
+
+For airplane class privileges: 120 hours.
+
+-
+
+Weight-shift control aircraft class privileges:
+104 hours.
+
+-
+
+Powered parachute class privileges: 104
+hours.
+
+-
+
+Lighter-than-air class privileges: 80 hours.
+
+-
+
+Glider class privileges: 80 hours.
+
+Designation of Engine Type
+
+For Engine S/N
+
+Time Between Overhaul (TBO)
+
+SB To Be Carried Out To Increase TBO
+
+914 F
+
+to 4,420.313
+
+1,000 hours or 10 years,
+whichever comes first
+
+SB-914-027
+1,000 hours to 1,200 hours or 12 years,
+whichever comes first
+
+914 F
+
+from 4,420.314
+
+1,200 hours or 12 years,
+whichever comes first
+
+None
+
+914 UL
+
+to 4,418.103
+
+1,000 hours or 10 years,
+whichever comes first
+
+SB-914-027
+1,000 hours to 1,200 hours or 12 years,
+whichever comes first
+
+914 UL
+
+from 4,418.104
+
+1,200 hours or 12 years,
+whichever comes first
+
+None
+
+Figure 11-1. Examples of TBO and calendar life for engines.
+
+11-2
+
+===== PDF PAGE 436 =====
+The holder of a repairman certificate (light-sport aircraft)
+with an inspection rating may perform the annual condition
+inspection on a light-sport aircraft that is owned by the
+holder, has been issued an experimental certificate for
+operating a light-sport aircraft under 14 CFR part 21, section
+21.191(i), and is in the same class of light-sport aircraft for
+which the holder has completed the training specified in the
+above paragraphs.
+The holder of a repairman certificate (light-sport aircraft)
+with a maintenance rating may approve and return to service
+an aircraft that has been issued a special Airworthiness
+Certificate in the light-sport category under 14 CFR part
+21, section 21.190, or any part thereof, after performing
+or inspecting maintenance (to include the annual condition
+inspection and the 100-hour inspection required by 14 CFR
+part 91, section 91.327), preventive maintenance, or an
+alteration (excluding a major repair or a major alteration on a
+product produced under an FAA approval). They may perform
+the annual condition inspection on a light-sport aircraft that
+has been issued an experimental certificate for operating a
+light-sport aircraft under 14 CFR part 21, section 21.191(i).
+However, they may only perform maintenance, preventive
+maintenance, and an alteration on a light-sport aircraft for
+which the holder has completed the training specified in the
+preceding paragraphs. Before performing a major repair, the
+holder must complete additional training acceptable to the
+FAA and appropriate to the repair performed.
+The holder of a repairman certificate (light-sport aircraft) with
+a maintenance rating may not approve for return to service
+any aircraft or part thereof unless that person has previously
+performed the work concerned satisfactorily. If that person
+has not previously performed that work, the person may
+show the ability to do the work by performing it under
+the direct supervision of a certificated and appropriately
+rated mechanic, or a certificated repairman who has had
+previous experience in the specific operation concerned. The
+repairman may not exercise the privileges of the certificate
+unless the repairman understands the current instructions
+of the manufacturer and the maintenance manuals for the
+specific operation concerned.
+Authorized Personnel That Meet FAA Regulations
+All applicable aviation regulatory authority regarding
+maintenance procedures must be met. Maintenance
+organizations and personnel are encouraged to contact the
+manufacturer for more information and guidance on any of
+the maintenance procedures.
+It is a requirement that every individual or maintenance
+provider possess the required special tooling, training,
+or experience to perform all tasks outlined. Maintenance
+
+providers that meet the following conditions outlined below
+may perform engine maintenance providing they meet all of
+the following FAA requirements:
+•
+
+Knowledge of the specific task as a result of receiving
+authorized training from a training provider.
+
+•
+
+Previous experience in performing the task and formal
+instruction from a manufacturer’s authorized training
+facility or “on-the-job” instruction by a manufacturer’s
+representative.
+
+•
+
+A suitable work environment to prevent contamination
+or damage to engine parts or modules is needed.
+
+•
+
+Suitable tools and fixtures as outlined in the
+manufacturers’ Maintenance Manual should be used
+while performing maintenance requiring such tooling.
+
+•
+
+Reasonable and prudent maintenance practices should
+be utilized.
+
+Types of Light-Sport & Experimental Engines
+Note: All information in this text is for educational
+illustrational purposes and is not to be used for actual aircraft
+maintenance. This information is not revised at the same
+rate as the maintenance manual; always refer to the current
+maintenance information when performing maintenance on
+any engine.
+Light-Sport Aircraft Engines
+Light-sport/ultralight aircraft engines can be classified
+by several methods, such as by operating cycles, cylinder
+arrangement, and air- or water-cooled. An inline engine
+generally has two cylinders, is two-cycle, and is available
+in several horsepower ranges. These engines may be either
+liquid-cooled, air-cooled, or a combination of both. They
+have only one crankshaft that drives the reduction gearbox or
+propeller directly. Most of the other cylinder configurations
+used are horizontally opposed, ranging from two to six
+cylinders from several manufacturers. These engines are
+either gear reduction or direct drive.
+Two-Cycle, Two Cylinder Rotax Engine
+
+Rotax 447 UL Single Capacitor Discharge Ignition
+(SCDI) & Rotax 503 UL Dual Capacitor Discharge
+Ignition (DCDI)
+
+The Rotax inline cylinder arrangement has a small frontal
+area and provides improved streamlining. [Figure 11-2] The
+two cylinder, inline two-stroke engine, which is piston ported
+with air-cooled cylinder heads and cylinders, is available in
+a fan or free air-cooled version. Being a two-stroke cycle
+engine, the oil and fuel must be mixed in the fuel tank on
+some models. Other models use a lubrication system, such
+as the 503 oil injection lubrication system. This system does
+not mix the fuel and oil as the oil is stored in a separate tank.
+11-3
+
+===== PDF PAGE 437 =====
+Figure 11-2. Rotax inline cylinder arrangement.
+
+As the engine needs lubrication, the oil is injected directly
+from this tank. The typical ignition system is a breakerless
+ignition system with a dual ignition system used on the 503,
+and a single ignition system used on the 447 engine series.
+Both systems are of a magneto capacitor discharge design.
+The engine is equipped with a carburetion system with one
+or two piston-type carburetors. One pneumatic driven fuel
+pump delivers the fuel to the carburetors. The propeller is
+driven via a flange connected gearbox with an incorporated
+shock absorber. The exhaust system collects the exhaust
+gases and directs them overboard. These engines come with
+an integrated alternating current (AC) generator (12V 170W)
+with external rectifier-regulator as an optional extra.
+
+Rotax 582 UL DCDI
+The Rotax 582 is a two-stroke engine, two cylinder inline
+with rotary valve inlet, has liquid-cooled cylinder heads, and
+cylinders that use an integrated water pump. [Figure 11-3]
+The lubrication system can be a fuel-oil mixture or oil
+injection lubrication. The ignition system is a dual ignition
+using a breakerless magneto capacitor discharge design. Dual
+piston type carburetors and a pneumatic fuel pump deliver
+the fuel to the cylinders. The propeller is driven via the prop
+flange connected gearbox with an incorporated torsional
+vibration shock absorber. This engine also uses a standard
+version exhaust system with an electric starter or manual
+rewind starter.
+Description of Systems for Two-Stroke Engines
+
+Cooling System of Rotax 447 UL SCDI & Rotax 503
+UL DCDI
+Two versions of air-cooling are available for these engines.
+The first method is free air-cooling, which is a process of
+engine cooling by an air-stream generated by aircraft speed
+
+Figure 11-3. Rotax 582 engine.
+
+and propeller. The second is fan cooling, which is cooling
+by an air-stream generated by a fan permanently driven from
+the crankshaft via a V-belt.
+
+Cooling System of the Rotax 582 UL DCDI
+Engine cooling for the Rotax 582 is accomplished by liquid
+cooled cylinders and cylinder heads. [Figure 11-4] The
+cooling system is in a two circuit arrangement. The cooling
+liquid is supplied by an integrated pump in the engine
+through the cylinders and the cylinder head to the radiator.
+The cooling system has to be installed, so that vapor coming
+from the cylinders and the cylinder head can escape to the
+top via a hose, either into the water tank of the radiator or
+to an expansion chamber. The expansion tank is closed by a
+pressure cap (with excess pressure valve and return valve).
+As the temperature of the coolant rises, the excess pressure
+valve opens, and the coolant flows via a hose at atmospheric
+pressure to the transparent overflow bottle. When cooling
+down, the coolant is sucked back into the cooling circuit.
+Lubrication Systems
+
+Oil Injection Lubrication of Rotax 503 UL DCDE &
+582 UL DCDI
+Generally, the smaller two cycle engines are designed to run
+on a mixture of gasoline and 2 percent oil that is premixed
+in the fuel tank. The engines are planned to run on an oilgasoline mixture of 1:50. Other engines use oil injection
+systems that use an oil pump driven by the crankshaft via the
+pump gear that feeds the engine with the correct amount of
+fresh oil. The oil pump is a piston type pump with a metering
+system. Diffuser jets in the intake inject pump supplied twostroke oil with the exact proportioned quantity needed. The
+oil quantity is defined by the engine rotations per minute and
+the oil pump lever position. This lever is actuated via a cable
+connected to the throttle cable. The oil comes to the pump
+11-4
+
+===== PDF PAGE 438 =====
+Cooling liquid
+20
+
+9
+
+30
+
+10
+
+40
+
+50
+C°
+0
+Temperature
+
+12
+
+8
+
+1 Crankcase
+2 Cylinder
+
+14
+11
+
+3
+
+4 Water pump
+7
+
+2
+10
+
+3 Cylinder head
+
+13
+
+5 Radiator
+6 Hose from radiator to water pump
+
+4
+
+7 Hose from cylinder head to radiator
+8 Radiator screw cap, with excess pressure valve and return valve
+5
+1
+
+9 Temperature gauge for cooling water
+10 Overflow hose
+11 Overflow bottle
+
+6
+
+12 Bottle venting
+13 Expansion tank
+14 Cylinder head venting hose
+
+Figure 11-4. Rotax 582 cooling system.
+
+from an oil tank by gravity.
+Note: In engines that use oil injection, the carburetors are
+fed with pure gasoline (no oil-gasoline mixture). The oil
+quantity in the oil tank must be checked before putting the
+engine into service as the oil is consumed during operation
+and needs to be replenished.
+Electric System
+The 503 UL DCDI, 582 UL DCDI engine types are equipped
+with a breakerless, single capacitor discharge ignition unit
+with an integrated generator. [Figure 11-5] The 447 UL
+SCDI engine is equipped with a breakerless, single capacitor
+discharge ignition unit with integrated generator. The ignition
+unit is completely free of maintenance and needs no external
+power supply. Two charging coils fitted on the generator
+stator, independent from each other, each feed one ignition
+circuit. The energy supplied is stored in the ignition capacitor.
+At the moment of ignition, the external triggers supply an
+impulse to the control circuits and the ignition capacitors
+are discharged via the primary winding of the ignition coil.
+The secondary winding supplies the high voltage for the
+ignition spark.
+Fuel System
+Due to higher lead content in aviation gas (AVGAS),
+operation can cause wear and deposits in the combustion
+chamber to increase. Therefore, AVGAS should only be used
+if problems are encountered with vapor lock or if the other
+fuel types are not available. Caution must be exercised to use
+only fuel suitable for the relevant climatic conditions, such
+as using winter fuel for summer operation.
+
+Fuel-Oil Mixing Procedure
+The following describes the process for fuel-oil mixing. Use a
+clean approved container of known volume. To help predilute
+the oil, pour a small amount of fuel into the container. Fill
+known amount of oil (two-stroke oil ASTM/Coordinating
+European Council (CEC) standards, API-TC classification
+(e.g., Castrol TTS) mixing ratio 1:50 (2 percent)), into
+container. Oil must be approved for air-cooled engines at
+50:1 mixing ratio. Agitate slightly to dilute oil with gasoline.
+Add gasoline to obtain desired mixture ratio; use fine mesh
+screen. Replace the container cap and shake the container
+thoroughly. Then, using a funnel with a fine mesh screen
+to prevent the entry of water and foreign particles, transfer
+mixture from container into the fuel tank.
+Warning: To avoid electrostatic charging at refueling, use
+only metal containers and ground the aircraft in accordance
+with the grounding specifications.
+
+Opposed Light-Sport, Experimental, &
+Certificated Engines
+Many certificated engines are used with light-sport and
+experimental aircraft. Generally, cost is a big factor when
+considering this type of powerplant. The certificated engines
+tend to be much more costly than the non-certificated engines,
+and are not ASTM approved.
+Rotax 912/914
+Figure 11-6 shows a typical four cylinder, four-stroke Rotax
+horizontally opposed engine. The opposed-type engine has
+11-5
+
+===== PDF PAGE 439 =====
+Electronic box 1
+
+Gray
+
+GEN
+
+K
+
+LC2
+
+C
+
+Green
+
+D
+LC1
+
+P1
+
+Red/white
+
+S
+
+Spark plug
+
+H2
+H1
+
+Spark plug
+
+White
+
+Yellow
+
+Black/yellow
+
+LA
+
+Black/yellow
+
+Electronic box 2
+Black/yellow
+
+K
+
+C
+
+Green
+
+D
+P2
+
+Red/white
+
+S
+
+Spark plug
+
+H2
+H1
+
+Spark plug
+
+White
+
+Figure 11-5 Rotax 503 and 582 electrical system.
+
+Description of Systems
+
+Cooling System
+
+The cooling system of the Rotax 914, shown in Figure 11-7,
+is designed for liquid cooling of the cylinder heads and
+ram-air cooling of the cylinders. The cooling system of the
+cylinder heads is a closed circuit with an expansion tank.
+[Figure 11-8] The coolant flow is forced by a water pump
+driven from the camshaft, from the radiator, to the cylinder
+heads. From the top of the cylinder heads, the coolant passes
+on to the expansion tank (1). Since the standard location of
+the radiator (2) is below engine level, the expansion tank
+located on top of the engine allows for coolant expansion.
+
+Figure 11-6. Typical four-cylinder, four-stroke horizontally opposed
+
+engine.
+
+two banks of cylinders directly opposite each other with a
+crankshaft in the center. The pistons of both cylinder banks
+are connected to the single crankshaft. The engine cylinder
+heads are both liquid-cooled and air-cooled; the air-cooling
+is mostly used on the cylinder. It is generally mounted with
+the cylinders in a horizontal position. The opposed-type
+engine has a low weight to horsepower ratio, and its narrow
+silhouette makes it ideal for horizontal installation on the
+aircraft wings (twin-engine applications). Another advantage
+is its low vibration characteristics. It is an ideal replacement
+for the Rotax 582 two-cylinder, two-stroke engine, which
+powers many of the existing light aircraft, as it is the same
+weight as the Rotax 582. These engines are ASTM approved
+for installation into light-sport category aircraft, with some
+models being FAA-certificated engines.
+
+The expansion tank is closed by a pressure cap (3) (with
+excess pressure valve and return valve). As the temperature
+of the coolant rises, the excess pressure valve opens and
+the coolant flows via a hose at atmospheric pressure to the
+transparent overflow bottle (4). When cooling down, the
+coolant is sucked back into the cooling circuit. Coolant
+temperatures are measured by means of temperature probes
+installed in the cylinder heads 2 and 3. The readings are taken
+on measuring the hottest point of cylinder head depending
+on engine installation. [Figure 11-7]
+
+Fuel System
+The fuel flows from the tank (1) via a coarse filter-water trap
+(2) to the two electric fuel pumps (3) connected in series.
+[Figure 11-9] From the pumps, fuel passes on via the fuel
+pressure control (4) to the two carburetors (5). Parallel to
+each fuel pump is a separate check valve (6) installed via
+the return line (7) that allows surplus fuel to flow back to the
+fuel tank. Inspection for possible constriction of diameter or
+11-6
+
+===== PDF PAGE 440 =====
+Expansion tank
+
+3
+
+Pressure cap
+
+1
+4
+Overflow bottle
+
+Radiator
+Cooling liquid
+CODE
+
+2
+
+1 Expansion tank
+2 Radiator
+3 Expansion cap
+4 Overflow bottle
+
+Figure 11-7. Rotax 914 cooling system.
+
+1 Fuel from tank
+2 Filter/water trap
+3 Electric fuel pumps
+
+CODE
+
+5
+
+4 Fuel pressure control
+5 Two carburetors
+6 Check valve
+7 Return line
+
+7
+
+4
+3
+
+3
+
+AUX
+
+MAIN
+
+6
+Figure 11-8. Water-cooled heads.
+
+obstruction must be accomplished to avoid overflowing of
+fuel from the carburetors. The return line must not have any
+resistance to flow. The fuel pressure control ensures that the
+fuel pressure is always maintained approximately 0.25 bar
+(3.63 pounds per square inch (psi)) above the variable boost
+pressure in the airbox and thus, ensures proper operation of
+the carburetors.
+
+Lubrication System
+The Rotax 914 engine is provided with a dry, sump-forced
+lubrication system with a main oil pump with integrated
+pressure regulator and an additional suction pump.
+[Figure 11-10] The oil pumps are driven by the camshaft.
+The main oil pump draws oil from the oil tank (1) via the
+oil cooler (2) and forces it through the oil filter to the points
+of lubrication. It also lubricates the plain bearings of the
+
+1
+
+6
+
+2
+
+5
+
+Figure 11-9. Fuel system components.
+
+turbocharger and the propeller governor. The surplus oil
+emerging from the points of lubrication accumulates on the
+bottom of crankcase and is forced back to the oil tank by the
+blow-by gases. The turbocharger is lubricated via a separate
+oil line (from the main oil pump). The oil emerging from
+the lower placed turbocharger collects in the oil sump by a
+separate pump and is pumped back to the oil tank via the oil
+line (3). The oil circuit is vented via bore (5) in the oil tank.
+There is an oil temperature sensor in the oil pump flange for
+reading of the oil inlet temperature.
+
+11-7
+
+===== PDF PAGE 441 =====
+4
+5
+3
+
+Oil lubricant
+
+1
+
+2
+
+CODE
+
+1 Oil tank
+2 Oil cooler
+3 Oil line
+4 Pressure line
+5 Oil circuit vent bore
+Figure 11-10. Lubrication system.
+
+Electric System
+The Rotax 914 engine is equipped with a dual ignition unit
+that uses a breakerless, capacitor discharge design with an
+integrated generator. [Figure 11-11] The ignition unit is
+completely free of maintenance and needs no external power
+supply. Two independent charging coils (1) located on the
+generator stator supply one ignition circuit each. The energy
+is stored in capacitors of the electronic modules (2). At the
+moment of ignition, two each of the four external trigger coils
+(3) actuate the discharge of the capacitors via the primary
+circuit of the dual ignition coils (4). The firing order is as
+follows: 1-4-2-3. The fifth trigger coil (5) is used to provide
+the revolution counter signal.
+
+Turbocharger & Control System
+The Rotax 914 engine is equipped with an exhaust gas
+turbocharger making use of the energy in the exhaust gas for
+compression of the intake air or for providing boost pressure
+to the induction system. The boost pressure in the induction
+system (airbox) is controlled by means of an electronically
+controlled valve (wastegate) in the exhaust gas turbine.
+The wastegate regulates the speed of the turbocharger and
+consequently the boost pressure in the induction system. The
+required nominal boost pressure in the induction system is
+determined by the throttle position sensor mounted on the
+carburetor 2/4. The sensor’s transmitted position is linear
+from 0 to 115 percent, corresponding to a throttle position
+from idle to full power. [Figure 11-12] For correlation
+between throttle position and nominal boost pressure in the
+induction, refer to Figure 11-13. As shown in the diagram,
+
+with the throttle position at 108–110 percent results in a rapid
+rise of nominal boost pressure.
+To avoid unstable boost, the throttle should be moved
+smoothly through this area either to full power (115 percent)
+or at a reduced power setting to maximum continuous
+power. In this range (108–110 percent throttle position),
+small changes in throttle position have a big effect on engine
+performance and speed. These changes are not apparent to
+the pilot from the throttle lever position. The exact setting for
+a specific performance is virtually impossible in this range
+and has to be prevented, as it might cause control fluctuations
+or surging. Besides the throttle position, overspeeding of
+the engine and too high intake air temperature have an
+effect on the nominal boost pressure. If one of the stated
+factors exceeds the specified limits, the boost pressure is
+automatically reduced, thus protecting the engine against
+over boost and detonation.
+The turbo control unit (TCU) is furnished with output
+connections for an external red boost lamp and an orange
+caution lamp for indications of the functioning of the TCU.
+When switching on the voltage supply, the two lamps are
+automatically subject to a function test. Both lamps illuminate
+for one to two seconds, then they extinguish. If they do not,
+a check per the engine maintenance manual is necessary. If
+the orange caution lamp is not illuminated, then this signals
+that TCU is ready for operation. If the lamp is blinking,
+this indicates a malfunction of the TCU or its periphery
+systems. Exceeding the admissible boost pressure activates
+11-8
+
+===== PDF PAGE 442 =====
+Ignition Circult A
+22
+44
+
+3
+B3/4
+
+33
+
+44
+
+A1/2
+
+55
+
+1
+22
+
+B1
+
+/2
+
+33 A3/4
+
+33
+
+44
+
+1 Charging coils
+
+44
+
+2 Capacitors
+CODE
+
+3 Four external trigger coils
+Ignition Circult B
+
+4 Dual ignition coils
+5 Fifth trigger coil
+
+Figure 11-11. Electric system.
+
+100%
+115%
+
+"Hg
+46
+44
+42
+40
+38
+36
+34
+32
+30
+28
+
+hPa
+1,500
+
+0%
+
+1,400
+1,300
+1,200
+1,100
+1,000
+900
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90 100 110 115%
+
+Figure 11-13. Correlation between throttle position and nominal
+
+boost pressure.
+
+Figure 11-12. Turbocharger control system throttle range and
+
+position.
+
+and illuminates the red boost lamp continuously. The TCU
+registers the time of full throttle operation (boost pressure).
+Full throttle operation for longer than 5 minutes, with the
+red boost light illuminated, makes the red boost lamp start
+blinking. The red boost lamp helps the pilot to avoid full
+power operation for longer than 5 minutes or the engine could
+be subject to thermal and mechanical overstress.
+
+HKS 700T Engine
+The HKS 700T engine is a four-stroke, two cylinder
+turbocharged engine equipped with an intercooler.
+[Figure 11-14] The horizontally opposed cylinders house
+four valves per cylinder, with a piston displacement of 709
+cc. It uses an electronic control fuel injection system. A
+reduction gearbox is used to drive the propeller flange at
+a speed reduction ratio of 2.13 to 1. The engine is rated at
+77 horsepower continuous and 80 horsepower takeoff (3
+minutes) at 4,900 rpm and 5,300 rpm, respectively. A total
+engine weight of 126 pounds provides a good power to weight
+ratio. The 700T has a TBO of 500 hours.
+
+11-9
+
+===== PDF PAGE 443 =====
+Jabiru Light-Sport Engines
+Jabiru engines are designed to be manufactured using
+the latest manufacturing techniques. [Figure 11-15] All
+Jabiru engines are manufactured, assembled, and ran on a
+Dynometer, then calibrated before delivery. The crankcase
+halves, cylinder heads, crankshaft, starter motor housings,
+gearbox cover (the gearbox powers the distributor rotors),
+together with many smaller components are machined from
+solid material. The sump (oil pan) is the only casting. The
+cylinders are machined from bar 4140 chrome molybdenum
+alloy steel, with the pistons running directly in the steel
+bores. The crankshaft is also machined from 4140 chrome
+molybdenum alloy steel, the journals of which are precision
+ground prior to being Magnaflux inspected. The camshaft
+is manufactured from 4140 chrome molybdenum alloy steel
+with nitrided journals and cams.
+
+Figure 11-14. HKS 700T engine.
+
+Figure 11-15. Jabiru engines.
+
+The propeller is direct crankshaft driven and does not use
+a reduction gearbox. This facilitates its lightweight design
+and keeps maintenance costs to a minimum. The crankshaft
+features a removable propeller flange that enables the easy
+replacement of the front crankshaft seal and provides for a
+propeller shaft extension to be fitted, should this be required
+for particular applications. Cylinder heads are machined from
+a solid aluminum billet that is purchased directly from one
+company, thereby providing a substantive quality control trail
+to the material source. Connecting rods are machined from
+4140 alloy steel and the 45 millimeters big end bearings are
+of the automotive slipper type. The ignition coils are sourced
+from outside suppliers and are modified by Jabiru for their
+own particular application.
+An integral alternator provides AC rectification for battery
+charging and electrical accessories. The alternator is attached
+to the flywheel and is driven directly by the crankshaft. The
+ignition system is a transistorized electronic system; two
+fixed coils mounted adjacent to the flywheel are energized
+by magnets attached to the flywheel. The passing of the
+coils by the magnets creates the high voltage current, that is
+transmitted by high tension leads to the center post of two
+automotive type distributors, which are simply rotors and
+caps, before distribution to automotive spark plugs (two in the
+top of each cylinder head). The ignition system is fixed timing
+and, therefore, removes the need for timing adjustment. It is
+suppressed to prevent radio interference.
+The ignition system is fully redundant, self-generating, and
+does not depend on battery power. The crankshaft is designed
+with a double bearing at the propeller flange end and a main
+bearing between each big end. Thrust bearings are located
+fore and aft of the front double bearing, allowing either tractor
+or pusher installation. Pistons are remachined to include a
+piston pin, circlip, and groove. They are all fitted with three
+rings, the top rings being cast iron to complement the chrome
+molybdenum cylinder bores. Valves are 7mm (stem diameter)
+and are manufactured specifically for the Jabiru engine. The
+valve drive train includes pushrods from the camshaft from
+the camshaft followers to valve rockers. The valves are
+Computer Numerical Control (CNC) machined from steel
+billet, induction hardened, polished on contact surfaces,
+and mounted on a shaft through Teflon coated bronze-steel
+bush. Valve guides are manufactured from aluminum/
+bronze. Replaceable valve seats are of nickel steel and are
+shrunk into the aluminum cylinder heads. The valve train is
+lubricated from the oil gallery. Engines use hydraulic lifters
+that automatically adjust valve clearance. An internal gear
+pump is driven directly by the camshaft and provides engine
+lubrication via an oil circuit that includes an automotive spinon filter, oil cooler and built-in relief valve.
+11-10
+
+===== PDF PAGE 444 =====
+The standard engines are supplied with two ram-air cooling
+ducts, that have been developed by Jabiru to facilitate the
+cooling of the engine by directing air from the propeller
+to the critical areas of the engine, particularly the cylinder
+heads and barrels. The use of these ducts remove the need
+to design and manufacture baffles and the establishment of a
+plenum chamber, which is the traditional method of cooling
+air-cooled, aircraft engines. The fact that these baffles and
+plenum chamber are not required also ensures a cleaner
+engine installation, which in turn facilitates maintenance and
+inspection of the engine and engine components.
+The engine is fitted with a 1.5 kilowatt starter motor that
+is also manufactured by Jabiru and provides very effective
+starting. The engine has very low vibration level; however,
+it is also supported by four large rubber shock mounts
+attached to the engine mounts at the rear of the engine.
+The fuel induction system uses a pressure compensating
+carburetor. Following the carburetor, the air-fuel mixture is
+drawn through a swept plenum chamber bolted to the sump
+casting, in which the mixture is warmed prior to entering
+short induction tubes attached to the cylinder heads.
+An effective stainless steel exhaust and muffler system is
+fitted as standard equipment ensuring very quiet operations.
+For owners wanting to fit vacuum instruments to their
+aircraft, the Jabiru engines are designed with a vacuum
+pump drive direct mounted through a coupling on the rear
+of the crankshaft.
+
+Jabiru 2200 Aircraft Engine
+The Jabiru 2,200 cc aircraft engine is a four-cylinder, fourstroke horizontally opposed air-cooled engine. At 132 pounds
+(60 kgs) installed weight, it is one of the lightest four-cylinder,
+four-stroke aircraft engines. Small overall dimensions give it
+a small frontal area width (23.46 in, 596 mm) that makes it
+a good engine for tractor applications. The Jabiru engine is
+designed for either tractor or pusher installation. The Jabiru
+engine specifications are listed in Figure 11-16.
+The Jabiru 3300 (120 hp) engine features [Figure 11-17]:
+•
+
+4-stroke,
+
+•
+
+3,300 cc engine (200 cubic inches),
+
+•
+
+6-cylinder horizontally opposed,
+
+•
+
+1 central camshaft,
+
+•
+
+Fully machined aluminum alloy crankcase,
+
+•
+
+Overhead valves (OHV) - push rod operated,
+
+•
+
+Ram air-cooled,
+
+•
+
+Wet sump lubrication - 4 liter capacity,
+
+•
+
+Direct propeller drive,
+
+•
+
+Dual transistorized magneto ignition,
+
+•
+
+Integrated AC generator,
+
+•
+
+Electric starter,
+
+•
+
+Mechanical fuel pump, and
+
+•
+
+Naturally aspirated - 1 pressure compensation
+carburetor.
+
+Aeromax Aviation 100 (IFB) Aircraft Engine
+Aeromax Aviation produces a version of a 100 hp engine
+called the Integral Front Bearing. The engine features a
+special made integral front bearing. [Figure 11-18] The
+engine uses an integral permanent magnet 35 amp alternator,
+lightweight starter, and dual ignition. The compact alternator
+and starter allow for a streamlined and aerodynamic cowl
+which improves the fuel efficiency of an experimental
+aircraft. The Aeromax aircraft engine is an opposed sixcylinder, air-cooled, and direct drive. Being a six-cylinder
+engine, it has smooth operation. The Aeromax engines are
+known for their heat dissipation qualities, provided the proper
+amount of cooling air is provided.
+It features a crank extension supported by a massive integral
+front bearing (IFB) and bearing housing. These engines start
+out as a GM Corvair automobile core engine. These basic
+core engines are disassembled and each component that is
+reused is refurbished and remanufactured. The crankshaft in
+the Areomax 100 IFB aircraft engine is thoroughly inspected,
+including a magnaflux inspection. After ensuring the crank
+is free of any defects, it is extended by mounting the crank
+extension hub on its front. Then, the crank is ground true,
+with all five bearings’ surfaces (four original and the new
+extended crank’s front bearing), being true to each other
+and perpendicular to the crank’s prop flange. [Figure 11-19]
+All radiuses are smooth with no sharp corners where stress
+could concentrate. Every crankshaft is nitrated, which is a
+heat-chemical process that hardens the crank surfaces. The
+crank reinforcement coupled with the IFB is required to
+counter the additional dynamic and bending loads introduced
+on the crank in an aircraft application. The engine case is
+totally refurbished and checked for wear. Any studs or bolts
+that show wear are replaced. The engine heads are machined
+to proper specifications and all new valves, guides, and valve
+train components are installed. A three-angle valve grind and
+lapping ensure a good valve seal.
+Once the engine is assembled, it is installed on a test
+stand, pre-lubricated, and inspected. The engine is, then,
+run several times for a total of two hours. The engine is
+carefully inspected after each run to ensure it is in excellent
+11-11
+
+===== PDF PAGE 445 =====
+Specifications: Jabiru 2200cc 85 HP Aircraft Engine
+Engine Features
+
+Four-stroke
+Four-cylinder horizontally opposed
+
+Opposed
+
+One central camshaft
+Push rods
+Overhead valves (OHV)
+
+(OHV)
+
+Ram air-cooled
+Wet sump lubrication
+Direct propeller drive
+Dual transistorized magneto ignition
+
+Magneto Ignition
+
+Integrated AC generator 20 amp
+
+Generator 20 amp
+
+Electric starter
+Mechanical fuel pump
+Naturally aspirated - 1 pressure compensating carburetor
+
+Pressure Compensating Carburetor
+
+Six bearing crankshaft
+
+Displacement
+
+2,200 cc (134 cu. in.)
+
+Bore
+
+97.5 mm
+
+Stroke
+
+74 mm
+
+Compression Ratio
+
+8:1
+
+Directional Rotation of Prop Shaft
+
+Clockwise - pilot’s view tractor applications
+
+Ramp Weight
+
+132 lb complete including exhaust, carburetor, starter motor,
+alternator, and ignition system
+
+Ignition Timing
+
+25˚ BTDC
+
+Firing Order
+
+1–3–2–4
+
+Power Rating
+
+85 hp @ 3,300 rpm
+
+Fuel Consumption at 75% power
+
+4 US gal/hr
+
+Fuel
+
+AVGAS 100 LL or auto gas 91 octane minimum
+
+Oil
+
+Aeroshell W100 or equivalent
+
+Oil Capacity
+
+2.3 quarts
+
+Spark Plugs
+
+NGK D9EA - automotive
+
+Figure 11-16. Jabiru 2200cc specifications.
+
+operating condition. At the end of test running the engine,
+the oil filter is removed and cut for inspection. Its internal
+condition is recorded. This process is documented and
+kept on file for each individual engine. Once the engine’s
+proper performance is assured, it is removed and packaged
+in a custom built crate for shipping. Each engine is shipped
+with its engine service and operations manual. This manual
+contains information pertaining to installation, break–in,
+testing, tune-up, troubleshooting, repair, and inspection
+
+procedures. The specifications for the Aeromax 100 engine
+are outlined in Figure 11-20.
+
+Direct Drive VW Engines
+Revmaster R-2300 Engine
+The Revmaster R-2300 engine maintains Revmaster’s
+systems and parts, including its RM-049 heads that feature
+large fins and a hemispherical combustion chamber.
+[Figure 11-21] It maintains the earlier R-2200 engine’s top
+11-12
+
+===== PDF PAGE 446 =====
+Jabiru 3300cc Aircraft Engine
+Displacement
+
+3,300 cc (202 cu.in.)
+
+Bore
+
+97.5 mm (3.838")
+
+Stroke
+
+74 mm (2.913")
+
+Aircraft Engine
+
+Jabiru 3,300 cc 120 hp
+
+Compression Ratio
+
+8:1
+
+Directional Rotation of Prop Shaft
+
+Clockwise - Pilot's view tractor applications
+
+Ramp Weight
+
+178 lbs (81 kg) complete including exhaust, carburetor, starter motor,
+alternator and ignition system
+
+Ignition Timing
+
+25˚ BTDC fixed timing
+
+Firing order
+
+1–4–5–2–3–6
+
+Power Rating
+
+120 hp @ 3,300 rpm
+
+Fuel Consumption at 75% power
+
+26 l/hr (6.87 US gal/hr)
+
+Fuel
+
+AVGAS 100 LL or auto gas 91 octane minimum
+
+Oil
+
+Aeroshell W100 or equivalent
+
+Oil Capacity
+
+3.51 (3.69 quarts)
+
+Spark Plugs
+
+NGK D9EA - automotive
+
+Figure 11-17. Jabiru 3300cc aircraft engine.
+
+Figure 11-18. Aeromax direct drive, air-cooled, six-cylinder engine.
+
+Figure 11-19. Front-end bearing on the 1000 IFB engine.
+
+horsepower (82) at 2,950 rpm continuous. [Figure 11-22]
+Takeoff power is rated at 85 at 3,350 rpm. The additional
+power comes from a bore of 94 mm plus lengthening of the
+R-2200’s connecting rods, plus increasing the stroke from 78
+to 84 mm. The longer stroke results in more displacement,
+and longer connecting rods yield better vibration and power
+characteristics. The lower cruise rpm allows the use of longer
+propellers, and the higher peak horsepower can be felt in
+shorter takeoffs and steeper climbs.
+
+nitrided journals. Thrust is handled by the 55 mm #3 bearing
+at the propeller end of the crank. Fully utilizing its robust #4
+main bearing, the Revmaster crank has built in oil-controlled
+propeller capability, a feature unique in this horsepower
+range; non-wood props are usable with these engines.
+
+The Revmaster’s four main bearing crankshaft runs on a 60
+mm center main bearing, is forged from 4340 steel, and uses
+
+Moving from the crankcase and main bearings, the cylinders
+are made by using centrifugally cast chilled iron. The pistons
+are forged out of high quality aluminum alloy, machined and
+balanced in a set of four. There are two sizes of pistons, 92
+mm and 94 mm, designed to be compatible with a 78 mm
+to 82 mm stroke crankshafts. The cylinder set also contains
+11-13
+
+===== PDF PAGE 447 =====
+Aeromax 100 Engine Specifications
+Power Output: 100 hp continuous at 3,200 rpm
+
+Air-cooled
+
+Displacement: 2.7 L
+
+Six cylinders
+
+Compression: 9:1
+
+Dual ignition–single plug
+
+Weight: 210 lb
+
+Normally aspirated
+
+Direct Drive
+
+CHT max: 475° F
+
+Rear Light weight. Starter and 45 amp alternator
+
+New forged pistons
+
+Counterclockwise rotation
+
+Balanced and nitrated crank shaft
+
+Harmonic balancer
+
+New hydraulic lifters
+
+Remanufactured case
+
+New main/rod bearings
+
+Remanufactured heads with new guides, valves, valve train, intake
+
+New all replaceable parts
+
+Remanufactured cylinders
+
+New spark plug wiring harness
+
+New light weight aluminum cylinder - optional
+
+Remanufactured dual ignition distributor with
+new points set and electronic module
+
+New high torque cam
+
+New oil pump
+
+New CNC prop hub and safety shaft
+
+New oil pan
+
+New Aeromax top cover and data plate
+
+Engine service manual
+
+Figure 11-20. Aeromax 100 engine specifications.
+
+Figure 11-22. Hemispherical combustion chamber within the
+
+Revmaster R-2300 Heads.
+Figure 11-21. Revmaster R-2300 engine.
+
+piston rings, wrist pins, and locks. The direct-drive R-2300
+uses a dual CDI ignition with eight coil spark to eight spark
+plugs, dual 20-amp alternators, oil cooler, and its proprietary
+Rev-Flo carburetor, while introducing the longer cylinders
+that do not require spacers. The automotive-based bearings,
+valves, valve springs, and piston rings (among others) make
+rebuilds easy and inexpensive.
+
+Great Plains Aircraft Volkswagen (VW)
+Conversions
+Great Plains Aircraft is one company that offers several
+configurations of the Volkswagen (VW) aircraft engine
+conversion. One very popular model is the front drive long
+block kits that offer a four-cycle, four-cylinder opposed
+engine with horsepower ranges from approximately 60-100.
+[Figure 11-23] The long block engine kits, which are the
+complete engine kits that are assembled, in the field or can
+be shipped completely assembled, are available from 1,600
+cc up through 2,276 cc. All the engine kits are built from
+11-14
+
+===== PDF PAGE 448 =====
+Figure 11-23. Great Plain’s Volkswagen conversion.
+
+proven time tested components and are shipped with a Type
+One VW Engine Assembly Manual. This manual was written
+by the manufacturer, specifically for the assembly of their
+engine kits. Also included are how to determine service and
+maintenance procedures and many tips on how to set up and
+operate the engine correctly. The crankshaft used in the 2,180
+cc to 2,276 cc engines is a 82 mm crankshaft made from a
+forged billet of E4340 steel, machined and magnafluxed twice.
+The end of the crankshaft features a ½-inch fine thread versus
+a 20 mm thread found on the standard automotive crank.
+Teledyne Continental 0-200 Engine
+The 0-200 Series engine has become a popular engine for
+use in light-sport aircraft. The 0-200-A/B is a four-cylinder,
+carbureted engine producing 100 brake hp and has a
+crankshaft speed of 2,750 rpm. [Figure 11-24] The engine
+has horizontally opposed air-cooled cylinders. The engine
+cylinders have an overhead valve design with updraft intake
+inlets and downdraft exhaust outlets mounted on the bottom
+of the cylinder. The 0-200-A/B engines have a 201 cubic inch
+displacement achieved by using a cylinder design with a 4.06inch diameter bore and a 3.88-inch stroke. The dry weight of
+the engine is 170.18 pounds without accessories. The weight
+of the engine with installed accessories is approximately
+215 pounds. Developed specifically for light aircraft, the
+0-200-D engine has a dry weight with installed accessories
+of approximately 199 pounds. The engine is provided with
+four integral rear engine mounts. A crankcase breather port
+is located on the 1-3 side of the crankcase forward of the
+number 3 cylinder.
+The engine lubrication system is a wet sump, high-pressure
+oil system. The engine lubrication system includes the internal
+engine-driven pressure oil pump, oil pressure relief valve,
+pressure oil screen mounted on the rear of the accessory
+case, and pressure instrumentation. A fitting is provided at
+the 1-3 side of the crankcase for oil pressure measurement.
+The oil sump capacity is six quarts maximum. The 0-200-A/B
+induction system consists of an updraft intake manifold with
+the air intake and throttle mounted below the engine. Engine
+
+Figure 11-24. 0-200 Continental Engine.
+
+manifold pressure is measured at a port located on the 2-4 side
+of the intake air manifold. The 0-200-A/B is equipped with
+a carburetor that meters fuel flow as the flight deck throttle
+and mixture controls are changed.
+Lycoming 0-233 Series Light-Sport Aircraft Engine
+Lycoming Engines, a Textron Inc. company, produces an
+experimental non-certificated version of its 233 series lightsport aircraft engine. [Figure 11-25] The engine is light and
+capable of running on unleaded automotive fuels, as well
+as AVGAS. The engine features dual CDI spark ignition,
+an optimized oil sump, a streamlined accessory housing,
+hydraulically adjusted tappets, a lightweight starter, and a
+lightweight alternator with integral voltage regulator. It has
+a dry weight of 213 pounds (including the fuel pump) and
+offers continuous power ratings up to 115 hp at 2,800 rpm.
+In addition to its multi-gasoline fuel capability, it has proven
+to be very reliable with a TBO of 2,400 hours. The initial
+standard version of the engine is carbureted, but fuel injected
+configurations of the engine are also available.
+
+Figure 11-25. Lycoming 0-233 engine.
+
+11-15
+
+===== PDF PAGE 449 =====
+General Maintenance Practices on LightSport Rotax Engines
+Some specific maintenance practices that differ from
+conventional certificated engines is covered for background
+and educational acquaintance purposes only. Always refer
+to the current manufacturer’s information when performing
+maintenance on any engine.
+Safety regulations must be adhered to ensure maintenance
+personnel safety when performing maintenance and service
+work on any engine installation. The following information
+should be followed while performing maintenance.
+The ignition should be off and the ignition system grounded
+with the battery disconnected. Secure the engine against
+unintentional operation. During maintenance work that
+requires ignition on and battery connected, secure the propeller
+against unintentional turning by hand, and secure and observe
+a propeller safety zone. This precautionary measure serves
+to avoid any injuries in case of an unintentional start of the
+engine, which can result in injuries or death. Remember, as
+long as the ground-cable (plead) is not properly connected
+to ground, the ignition is switched ON (hot).
+Prevent contamination, such as metal chips, foreign material,
+and/or dirt, from entering the cooling, lubricating, and fuel
+system during maintenance. Severe burns and scalds may
+result if the engine is not allowed to cool down to outside
+air temperature before starting any work. Before reusing
+disassembled parts, clean with a suitable cleaning agent,
+check, and refit per instructions. Before every re-assembly,
+check for missing components. Only use adhesives,
+lubricants, cleaning agents, and solvents listed for use in the
+maintenance instructions. Observe the tightening torques for
+screws and nuts; overtorque or too loose connection could
+cause serious engine damage or failure.
+The following are some general maintenance practices that
+provide for safety and good technique:
+•
+
+Work only in a non-smoking area and not close to
+sparks or open flames.
+
+•
+
+Always use the specified tools.
+
+•
+
+During disassembling/reassembling the removal of
+any safety items (e.g., safety wiring, self-locking
+fastener) each part must be followed with the
+replacement of a new one.
+
+•
+
+Once loosened, always replace self-securing (locking)
+nuts.
+
+•
+
+Use clean screws and nuts only and inspect face of
+nuts and thread for damage.
+
+•
+
+Check the contact faces and threads for damage and
+
+replace if any damaged is detected.
+•
+
+At reassembly of the engine, replace all sealing rings,
+gaskets, securing elements, O-rings, and oil seals.
+
+•
+
+At disassembly of the engine, mark the engine’s
+components as necessary to provide for locating the
+original position of the part.
+
+•
+
+Parts should be replaced in the same position upon
+reassembly.
+
+•
+
+Any used components have wear patterns that should
+be replaced or matched if reused. Ensure that these
+marks are not erased or washed off.
+
+To perform maintenance, the technician must follow the
+manufacturer’s instructions. Obtain, read, and understand
+the information pertaining to servicing of the light-sport or
+experimental engine.
+
+Maintenance Schedule Procedures &
+Maintenance Checklist
+All stated checks are visual inspections for damage and
+wear, unless otherwise stated. All listed work must be carried
+out within the specified period. For the intervals between
+maintenance work, a tolerance of + or – 0 hour is permissible,
+but these tolerances must not be exceeded. This means that
+if a 100 hour check is actually carried out at 110 hour, the
+next check is due at 200 hour + or – 10 hour and not at 210
+hour + or – 10 hour. If maintenance is performed before the
+prescribed interval, the next maintenance check is to be done
+at the same interval (e.g., if first 100-hour check is done
+after 87 hours of operation, the next 100-hour check must
+be carried out after 187 hours of operation).
+Checks are carried out per the maintenance checklists,
+where type and volume of maintenance work is outlined in
+key words. The lists must be photocopied and filled out for
+each maintenance check. The respective check (e.g., 100hour check) must be noted on the top of each page of the
+maintenance checklist. All the maintenance work carried
+out must be initialed in the signature area by the aircraft
+mechanic performing the task. After maintenance, the
+completed checklists must be entered in the maintenance
+records. The maintenance must be confirmed in the log book.
+All discrepancies and remedial action must be recorded in
+a report of findings to be generated and maintained by the
+company authorized to carry out maintenance work. It is the
+responsibility of the aircraft operator to store and keep the
+records. Replacement of equipment (e.g., carburetor, fuel
+pump, governor) and execution of Service Bulletins must be
+entered in the log book, stating required information.
+
+11-16
+
+===== PDF PAGE 450 =====
+Carburetor Synchronization
+For smooth idling, synchronization of the throttle valves is
+necessary. When synchronizing, slacken both Bowden cables,
+and detach the resonator hose (3) of the compensating tube
+(2) to separate the two air intake systems. [Figure 11-26] In
+this condition, no significant difference in the engine running
+should be noticeable. If adjustment is needed for synchronous
+basic throttle adjustments (mechanical synchronization),
+proceed as follows. [Figures 11-27 and 11-28]
+
+1
+2
+
+X
+3
+5
+
+CODE
+
+Adjust the two Bowden cables for simultaneous opening
+of the throttle valves. Remove the cable fixation (4) on the
+throttle lever (1). Next, release the return spring (5) from its
+attachment on the throttle lever (1), and return the throttle
+lever (1) to its idle stop position (3) by hand. There should be
+no resistance during this procedure. Unscrew the idle speed
+adjustment screw (2) until it is free of the stop. Insert a 0.1
+mm (0.004 in) feeler gauge (gap X) between the idle speed
+adjustment screw (2) and the carburetor idle stop (3), then
+gently turn the idle screw clockwise until contact is made
+with the 0.1 mm (0.004 in) feeler gauge. Pull out the feeler
+gauge and turn each idle speed adjustment screw (2) 1.5 turns
+in clockwise direction. Gently turn each idle mixture screw
+(6) clockwise until it is fully inserted and, then, open by 1½
+turns counterclockwise. Hook the return spring (5) back up
+to the throttle lever (1) in its original position. Check that the
+throttle valve opens fully, automatically. Carry out the above
+procedure on both carburetors.
+
+7
+4
+
+1 Throttle lever
+
+4 Cable fixation
+
+2 Adjustment screw
+
+5 Return spring
+
+3 Carburetor idle stop
+
+7 Idle adjustment
+
+Figure 11-27. Carburetor throttle lever.
+
+Note: The mechanical carburetor synchronization is
+sufficiently exact.
+At this point, place the throttle lever in the flight deck to
+the idle stop position. Ensure that the throttle lever remains
+in this position during the next steps of the synchronization
+process. With the throttle lever in the idle stop position, move
+
+3 Resonator hose
+
+7
+
+6 Hex screw
+
+6
+
+6
+8
+
+CODE
+
+CODE
+
+2 Compensating tube
+
+6 Mixture screw
+8 Mixture screw
+
+7 Intake manifold
+Figure 11-28. Idle mixture screw.
+2
+
+6
+7
+
+3
+
+Figure 11-26. Resonator hose and compensating tube.
+
+the throttle lever (1) to the carburetor idle stop position,
+using the cable fixation (4), and secure the Bowden cable
+accordingly. As soon as the two carburetor Bowden cables
+are installed (throttle lever idle position), check that the idle
+speed adjustment screw (2) rests fully on the idle stop (3)
+without pressure.
+Caution: An idle speed that is too low results in gearbox
+damage, and if an idle speed is too high, the engine is harder
+11-17
+
+===== PDF PAGE 451 =====
+to start. Start the engine and verify the idle speed. If the idle
+speed is too high or too low, adjust accordingly with idle speed
+adjustment screw (2). Check the operational idle mixture of
+the engine. If necessary, adjust with the idle mixture screw (6).
+
+using wheel chocks and ropes.
+
+Pneumatic Synchronization
+Mechanical synchronization should have already been
+accomplished. The two carburetors are adjusted to equal
+flow rate at idling by use of a suitable flow meter or vacuum
+gauges (1).
+
+Start the engine, verify the idle speed, and make any
+necessary corrections. If a setting correction of more than ½
+turn is required, repeat mechanical synchronization to prevent
+too high a load on the idle stops. If the idle speed is too high,
+the maximum the idle screw can be unscrewed is a complete
+turn. If no satisfactory result can be achieved, inspect the idle
+jets for contamination and clean if necessary.
+
+There are two possible methods to connect test equipment.
+One option is to remove the hex screw (6) M6 x 6 from
+the intake manifold (7) and connect the vacuum gauge(s).
+[Figure 11-26 and Figure 11- 29] Remove the compensating
+tube (2) with attached hoses (12) (connection between intake
+manifolds) and plug the connections in the intake manifolds.
+The other hook up option is to remove the compensating tube
+hose (2) from the push-on connection (5) after removing the
+tension clamp (4). Using the push-on connection (5), install
+a flexible rubber hose (8) leading to the vacuum gauge (1),
+using the balance tube (4). Install the other flexible rubber
+hose leading to the vacuum gauge. [Figure 11-29] Before
+proceeding any further, secure the aircraft on the ground
+
+1 Flow meter/vacuum gauge
+CODE
+
+5 Push-on connection
+
+Caution: Also check for translucent, jelly-like contamination.
+Inspect for free flow.
+Once the proper idling speed has been established, it is
+necessary to check the operating range above the idle speed.
+First, establish that the engine is developing full takeoff
+performance or takeoff rpm when selected in the flight deck.
+Then, the setting of the operating range (idle to full throttle)
+can be checked or adjusted.
+Start and warm up engine as per the operator’s manual.
+
+1
+3
+
+2 Compensating tube hose
+4 Tension clamp
+
+Warning: Secure and observe the propeller zone during
+engine operation.
+
+4
+5
+
+2
+1
+
+6
+0
+
+01
+bar
+
+3
+
+4
+
+0
+
+01
+bar
+
+5
+
+2
+1
+
+7
+
+6
+7
+
+8 Flexible rubber hose
+
+8
+2
+4
+
+4
+5
+
+Figure 11-29. Gauges attached to the engine.
+
+11-18
+

@@ -1,0 +1,1410 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 7 (Propellers), PDF pages 287-301
+
+===== PDF PAGE 287 =====
+Chapter 7
+
+Propellers
+General
+The propeller, the unit that must absorb the power output of
+the engine, has passed through many stages of development.
+Although most propellers are two-bladed, great increases
+in power output have resulted in the development of fourand six-bladed propellers of large diameters. However, all
+propeller-driven aircraft are limited by the revolutions per
+minute (rpm) at which propellers can be turned.
+There are several forces acting on the propeller as it turns; a
+major one is centrifugal force. This force at high rpm tends
+to pull the blades out of the hub, so blade weight is very
+important to the design of a propeller. Excessive blade tip
+speed (rotating the propeller too fast) may result not only in
+poor blade efficiency, but also in fluttering and vibration.
+Since the propeller speed is limited, the aircraft speed of a
+propeller driven aircraft is also limited—to approximately
+400 miles per hour (mph). As aircraft speeds increased,
+turbofan engines were used for higher speed aircraft.
+Propeller-driven aircraft have several advantages and are
+widely used for applications in turboprops and reciprocating
+engine installations. Takeoff and landing can be shorter and
+less expensive. New blade materials and manufacturing
+techniques have increased the efficiency of propellers.
+Many smaller aircraft will continue to use propellers well
+into the future.
+The basic nomenclature of the parts of a propeller is shown
+in Figure 7-1 for a simple fixed-pitch, two-bladed wood
+propeller. The aerodynamic cross-section of a blade in
+Figure 7-2 includes terminology to describe certain areas
+shown.
+Many different types of propeller systems have been
+developed for specific aircraft installation, speed, and
+mission. Propeller development has encouraged many
+
+Trailing edge
+
+Blade tip
+
+Leading edge
+
+Blade back
+Angle of attack
+
+Chord line
+
+R
+
+ind
+
+ew
+
+tiv
+ela
+
+Blade face
+
+Figure 7-2. Cross-sectional area of a propeller blade airfoil.
+
+changes as propulsion systems have evolved. The first
+propellers were fabric-covered sticks made to force air
+in a rearward direction. Propellers started as simple twobladed wood propellers and have advanced to the complex
+propulsion systems of turboprop aircraft that involve more
+than just the propeller. As an outgrowth of operating large,
+more complex propellers, a variable-pitch, constant-speed
+feathering and reversing propeller system was developed.
+This system allows the engine rpm to be varied only slightly
+during different flight conditions and, therefore, increases
+flying efficiency. A basic constant-speed system consists of a
+flyweight-equipped governor unit that controls the pitch angle
+of the blades so that the engine speed remains constant. The
+governor can be regulated by controls in the flight deck so that
+any desired blade angle setting and engine operating speed
+can be obtained. A low-pitch, high-rpm setting, for example,
+can be utilized for takeoff. Then, after the aircraft is airborne,
+a higher pitch and lower rpm setting can be used. Figure 7-3
+shows normal propeller movement with the positions of low
+pitch, high pitch, feather (used if the engine quits to reduce
+drag), and zero pitch into negative pitch, or reverse pitch.
+
+Basic Propeller Principles
+The aircraft propeller consists of two or more blades and a
+central hub to which the blades are attached. Each blade of
+
+Hub
+
+Propeller information
+
+Back of blade
+
+Figure 7-1. Basic nomenclature of propellers.
+
+7-1
+
+===== PDF PAGE 288 =====
+Feather
+
+Power
+
+85 to 90°
+
+20 to 35°
+
+Flight idle
+
+10 to 12°
+
+Locks
+
+1 to 2°
+
+Ground idle
+
+Reverse
+
+0°
+
+−2 to −8°
+
+Typical propeller blade positions from feather position through the reverse position. Normal sequence of blade
+travel is feather, high pitch, low pitch, locks/ground idle, reverse pitch, and then back following the same path.
+Fixed turboprop engines are shut down on the locks to prevent load on the engine during restart.
+
+Figure 7-3. Propeller range positions.
+
+an aircraft propeller is essentially a rotating wing. As a result
+of their construction, the propeller blades produce forces
+that create thrust to pull or push the aircraft through the air.
+The power needed to rotate the propeller blades is furnished
+by the engine. The propeller is mounted on a shaft, which may
+be an extension of the crankshaft on low-horsepower engines;
+on high-horsepower engines, it is mounted on a propeller
+shaft that is geared to the engine crankshaft. In either case,
+the engine rotates the airfoils of the blades through the air at
+high speeds, and the propeller transforms the rotary power
+of the engine into thrust.
+
+Propeller Aerodynamic Process
+An aircraft moving through the air creates a drag force
+opposing its forward motion. If an aircraft is to fly on a
+level path, there must be a force applied to it that is equal to
+the drag but acting forward. This force is called thrust. The
+work done by thrust is equal to the thrust times the distance
+it moves the aircraft.
+Work = Thrust x Distance
+
+Greek letter η (eta). Propeller efficiency varies from 50 percent
+to 87 percent, depending on how much the propeller slips.
+Pitch is not the same as blade angle, but because pitch is
+largely determined by blade angle, the two terms are often
+used interchangeably. An increase or decrease in one is usually
+associated with an increase or decrease in the other. Propeller
+slip is the difference between the geometric pitch of the
+propeller and its effective pitch. [Figure 7-4] Geometric pitch
+is the distance a propeller should advance in one revolution
+with no slippage; effective pitch is the distance it actually
+advances. Thus, geometric or theoretical pitch is based on
+no slippage. Actual, or effective, pitch recognizes propeller
+slippage in the air. The relationship can be shown as:
+
+Geometric pitch - Effective pitch = slip
+Geometric pitch is usually expressed in pitch inches and
+calculated by using the following formula:
+
+GP = 2 x π x R x tangent of blade angle at 75 percent station
+
+The power expended by thrust is equal to the thrust times the
+velocity at which it moves the aircraft.
+
+R = Radius at the 75 percent blade station
+π = 3.14
+
+Power = Thrust x Velocity
+
+If the power is measured in horsepower units, the power
+expended by the thrust is termed thrust horsepower.
+The engine supplies brake horsepower through a rotating
+shaft, and the propeller converts it into thrust horsepower.
+In this conversion, some power is wasted. For maximum
+efficiency, the propeller must be designed to keep this waste
+as small as possible. Since the efficiency of any machine
+is the ratio of the useful power output to the power input,
+propeller efficiency is the ratio of thrust horsepower to brake
+horsepower. The usual symbol for propeller efficiency is the
+
+Although blade angle and propeller pitch are closely related,
+blade angle is the angle between the face or chord of a
+blade section and the plane in which the propeller rotates.
+Slip
+
+Effective
+pitch
+Geometric pitch
+Figure 7-4. Effective pitch and geometric pitch.
+
+7-2
+
+===== PDF PAGE 289 =====
+[Figure 7-5] Blade angle, usually measured in degrees, is
+the angle between the chordline of the blade and the plane of
+rotation. The chordline of the propeller blade is determined
+in about the same manner as the chordline of an airfoil. In
+fact, a propeller blade can be considered as being composed
+of an infinite number of thin blade elements, each of which
+is a miniature airfoil section whose chord is the width of the
+propeller blade at that section. Because most propellers have
+a flat blade face, the chordline is often drawn along the face
+of the propeller blade.
+The typical propeller blade can be described as a twisted
+airfoil of irregular planform. Two views of a propeller blade
+are shown in Figure 7-6. For purposes of analysis, a blade can
+be divided into segments that are located by station numbers
+in inches from the center of the blade hub. The cross-sections
+of each 6-inch blade segment are shown as airfoils in the
+right side of Figure 7-6. Also identified in Figure 7-6 are the
+blade shank and the blade butt. The blade shank is the thick,
+rounded portion of the propeller blade near the hub and is
+designed to give strength to the blade. The blade butt, also
+called the blade base or root, is the end of the blade that fits
+in the propeller hub. The blade tip is that part of the propeller
+blade farthest from the hub, generally defined as the last 6
+inches of the blade.
+A cross-section of a typical propeller blade is shown in
+Figure 7-7. This section or blade element is an airfoil
+comparable to a cross-section of an aircraft wing. The blade
+back is the cambered or curved side of the blade, similar to
+the upper surface of an aircraft wing. The blade face is the
+flat side of the propeller blade. The chordline is an imaginary
+line drawn through the blade from the leading edge to the
+trailing edge. The leading edge is the thick edge of the blade
+that meets the air as the propeller rotates.
+A rotating propeller is acted upon by centrifugal twisting,
+aerodynamic twisting, torque bending, and thrust bending
+forces. The principal forces acting on a rotating propeller
+
+A
+of ngle
+att
+ack
+
+Chordline
+Angle of relative wind
+
+blaPitch o
+r
+de
+angle
+
+Relative wind
+Forward velocity
+
+Rotational velocity
+
+Thrust
+
+Tip section
+
+6"
+6"
+
+42" Station
+
+6"
+6"
+6"
+6"
+6"
+
+18" Station
+
+42"
+
+12" Station
+
+6"
+
+Blade shank
+
+6"
+
+Blade butt
+
+Center of hub
+
+Figure 7-6. Typical propeller blade elements.
+Mean camber line
+
+Trailing edge
+
+Camber of upper surface
+Camber of lower surface
+
+Leading edge
+
+Chordline
+
+Figure 7-7. Cross-section of a propeller blade.
+
+are illustrated in Figure 7-8.
+Centrifugal force is a physical force that tends to
+throw the rotating propeller blades away from the hub.
+[Figure 7-8A] This is the most dominant force on the
+propeller. Torque bending force, in the form of air resistance,
+tends to bend the propeller blades in the direction opposite
+that of rotation. [Figure 7-8B] Thrust bending force is the
+thrust load that tends to bend propeller blades forward as the
+aircraft is pulled through the air. [Figure 7-8C] Aerodynamic
+twisting force tends to turn the blades to a high blade angle.
+[Figure 7-8D] Centrifugal twisting force, being greater than
+the aerodynamic twisting force, tends to force the blades
+toward a low blade angle.
+At least two of these forces acting on the propellers blades
+are used to move the blades on a controllable pitch propeller.
+Centrifugal twisting force is sometimes used to move the
+blades to the low pitch position, while aerodynamic twisting
+force is used to move the blades into high pitch. These forces
+can be the primary or secondary forces that move the blades
+to the new pitch position.
+
+Figure 7-5. Propeller aerodynamic factors.
+
+7-3
+
+===== PDF PAGE 290 =====
+Center of rotation
+
+Center of pressure
+A
+
+Centrifugal
+force
+
+B
+
+Torque bending
+force
+
+C
+
+Thrust bending
+force
+
+Aerodynamic
+D twisting force
+
+Centrifugal
+E twisting force
+
+Figure 7-8. Forces acting on a rotating propeller.
+
+A propeller must be capable of withstanding severe stresses,
+which are greater near the hub, caused by centrifugal force and
+thrust. The stresses increase in proportion to the rpm. The blade
+face is also subjected to tension from the centrifugal force and
+additional tension from the bending. For these reasons, nicks or
+scratches on the blade may cause very serious consequences.
+These could lead to cracks and failure of the blade and are
+addressed in the repair section later in this chapter.
+A propeller must also be rigid enough to prevent fluttering,
+a type of vibration in which the ends of the blade twist back
+and forth at high frequency around an axis perpendicular
+to the engine crankshaft. Fluttering is accompanied by a
+distinctive noise, often mistaken for exhaust noise. The
+constant vibration tends to weaken the blade and eventually
+causes failure.
+Aerodynamic Factors
+To understand the action of a propeller, consider first its
+motion, which is both rotational and forward. Thus, as shown
+by the vectors of propeller forces in Figure 7-9, a section
+of a propeller blade moves downward and forward. As far
+as the forces are concerned, the result is the same as if the
+blade were stationary and the air coming at it from a direction
+opposite its path. The angle at which this air (relative wind)
+
+A = angle of attack (angle formed by relative wind and chord)
+B = pitch or blade angle
+
+Propeller
+
+Thrust
+
+pa
+de
+
+A
+
+Bla
+
+Ch
+
+or
+
+d
+
+of
+
+se
+
+ct
+
+th
+
+io
+n
+
+B
+
+Forward velocity
+
+Figure 7-9. Propeller forces.
+
+Linear velocity
+
+Relative wind
+of the blade
+
+strikes the propeller blade is called angle of attack (AOA).
+The air deflection produced by this angle causes the dynamic
+pressure at the engine side of the propeller blade to be greater
+than atmospheric pressure, creating thrust.
+The shape of the blade also creates thrust because it is
+shaped like a wing. As the air flows past the propeller, the
+pressure on one side is less than that on the other. As in a
+wing, this difference in pressure produces a reaction force
+in the direction of the lesser pressure. The area above a wing
+has less pressure, and the force (lift) is upward. The area of
+decreased pressure is in front of a propeller which is mounted
+in a vertical instead of a horizontal position, and the force
+(thrust) is in a forward direction. Aerodynamically, thrust is
+the result of the propeller shape and the AOA of the blade.
+Another way to consider thrust is in terms of the mass of
+air handled. In these terms, thrust is equal to the mass of
+air handled multiplied by the slipstream velocity minus
+the velocity of the aircraft. Thus, the power expended in
+producing thrust depends on the mass of air moved per
+second. On the average, thrust constitutes approximately
+80 percent of the torque (total horsepower absorbed by
+the propeller). The other 20 percent is lost in friction and
+slippage. For any speed of rotation, the horsepower absorbed
+by the propeller balances the horsepower delivered by
+the engine. For any single revolution of the propeller, the
+amount of air displaced (moved) depends on the blade angle,
+which determines the quantity or amount of mass of air the
+propeller moves. Thus, the blade angle is an excellent means
+of adjusting the load on the propeller to control the engine
+rpm. If the blade angle is increased, more load is placed on the
+engine, tending to slow it down unless more power is applied.
+As an airfoil is moved through the air, it produces two forces:
+lift and drag. Increasing propeller blade angle increases the
+AOA and produces more lift and drag; this action increases
+the horsepower required to turn the propeller at a given rpm.
+Since the engine is still producing the same horsepower, the
+propeller slows down. If the blade angle is decreased, the
+propeller speeds up. Thus, the engine rpm can be controlled
+by increasing or decreasing the blade angle.
+7-4
+
+===== PDF PAGE 291 =====
+The blade angle is also an excellent method of adjusting the
+AOA of the propeller. On constant-speed propellers, the blade
+angle must be adjusted to provide the most efficient AOA
+at all engine and aircraft speeds. Lift versus drag curves,
+which are drawn for propellers as well as wings, indicate
+that the most efficient AOA is a small one varying from 2°
+to 4° positive. The actual blade angle necessary to maintain
+this small AOA varies with the forward speed of the aircraft.
+This is due to a change in the relative wind direction, which
+varies with aircraft speed.
+Fixed-pitch and ground-adjustable propellers are designed
+for best efficiency at one rotation and forward speed. In other
+words, they are designed to fit a given aircraft and engine
+combination. A propeller may be used that provides the
+maximum propeller efficiency for takeoff, climb, cruising,
+or high speeds. Any change in these conditions results in
+lowering the efficiency of both the propeller and the engine.
+A constant-speed propeller, however, keeps the blade angle
+adjusted for maximum efficiency for most conditions
+encountered in flight. During takeoff, when maximum power
+and thrust are required, the constant-speed propeller is at a
+low propeller blade angle or pitch. The low blade angle keeps
+the AOA small and efficient with respect to the relative wind.
+At the same time, it allows the propeller to handle a smaller
+mass of air per revolution. This light load allows the engine
+to turn at high rpm and to convert the maximum amount
+of fuel into heat energy in a given time. The high rpm also
+creates maximum thrust. Although the mass of air handled
+per revolution is small, the engine rpm is high, the slipstream
+velocity (air coming off the propeller) is high, and, with the
+low aircraft speed, the thrust is maximum.
+After liftoff, as the speed of the aircraft increases, the
+constant-speed propeller changes to a higher angle (or pitch).
+Again, the higher blade angle keeps the AOA small and
+efficient with respect to the relative wind. The higher blade
+angle increases the mass of air handled per revolution. This
+decreases the engine rpm, reducing fuel consumption and
+engine wear, and keeps thrust at a maximum.
+
+power is again reduced by lowering the manifold pressure
+and increasing the blade angle to decrease the rpm. Again,
+this reduces torque to match the reduced engine power; for,
+although the mass of air handled per revolution is greater, it
+is more than offset by a decrease in slipstream velocity and
+an increase in airspeed. The AOA is still small because the
+blade angle has been increased with an increase in airspeed.
+Pitch distribution is the twist in the blade from the shank to
+the blade tip, due to the variation in speeds that each section
+of the blade is traveling. The tip of the blade is traveling much
+faster than the inner portion of the blade.
+Propeller Controls & Instruments
+Fixed pitch propellers have no controls and require no
+adjustments in flight. The constant-speed propeller has a
+propeller control in the center pedestal between the throttle
+and the mixture control. [Figure 7-10] The two positions for
+the control are increase rpm (full forward) and decrease rpm
+(pulled aft). This control is directly connected to the propeller
+governor and, by moving the control, adjusts the tension on
+the governor speeder spring. This control can also be used to
+feather the propeller in some aircraft by moving the control
+to the full decrease rpm position. The two main instruments
+used with the constant-speed propeller are the engine
+tachometer and the manifold pressure gauge. Rotations per
+minute (rpm) is controlled by the propeller control and the
+manifold pressure is adjusted by the throttle.
+
+Propeller Location
+Tractor Propeller
+Tractor propellers are those mounted on the upstream end of
+a drive shaft in front of the supporting structure. Most aircraft
+are equipped with this type of propeller. The tractor type of
+propeller comes in all types of propellers. A major advantage
+of the tractor propeller is that lower stresses are induced in
+the propeller as it rotates in relatively undisturbed air.
+
+For climb after takeoff, the power output of the engine is
+reduced to climb power by decreasing the manifold pressure
+and increasing the blade angle to lower the rpm. Thus, the
+torque (horsepower absorbed by the propeller) is reduced to
+match the reduced power of the engine. The AOA is again
+kept small by the increase in blade angle. The greater mass
+of air handled per second, in this case, is more than offset by
+the lower slipstream velocity and the increase in airspeed.
+At cruising altitude, when the aircraft is in level flight and
+less power is required than is used in takeoff or climb, engine
+
+Figure 7-10. Turboprop propeller controls.
+
+7-5
+
+===== PDF PAGE 292 =====
+Pusher Propellers
+Pusher propellers are those mounted on the downstream
+end of a drive shaft behind the supporting structure. Pusher
+propellers are constructed as fixed- or variable-pitch
+propellers. Seaplanes and amphibious aircraft have used a
+greater percentage of pusher propellers than other kinds of
+aircraft. On land aircraft, where propeller-to-ground clearance
+usually is less than propeller-to-water clearance of watercraft,
+pusher propellers are subject to more damage than tractor
+propellers. Rocks, gravel, and small objects dislodged by
+the wheels are quite often thrown or drawn into a pusher
+propeller. Similarly, aircraft with pusher propellers are apt
+to encounter propeller damage from water spray thrown up
+by the hull during landing or takeoff airspeed. Consequently,
+the pusher propeller is mounted above and behind the wings
+to prevent such damage.
+
+Types of Propellers
+There are various types or classes of propellers, the simplest
+of which are the fixed-pitch and ground-adjustable propellers.
+The complexity of propeller systems increases from these
+simpler forms to controllable-pitch and complex constantspeed systems (automatic systems). Various characteristics
+of several propeller types are discussed in the following
+paragraphs, but no attempt is made to cover all types of
+propellers.
+Fixed-Pitch Propeller
+As the name implies, a fixed-pitch propeller has the blade
+pitch, or blade angle, built into the propeller. [Figure 7-11]
+The blade angle cannot be changed after the propeller is
+built. Generally, this type of propeller is one piece and is
+constructed of wood or aluminum alloy.
+Fixed-pitch propellers are designed for best efficiency at
+one rotational and forward speed. They are designed to fit a
+set of conditions of both aircraft and engine speeds and any
+change in these conditions reduces the efficiency of both the
+propeller and the engine. The fixed-pitch propeller is used on
+aircraft of low power, speed, range, or altitude. Many singleengine aircraft use fixed-pitch propellers and the advantages
+of these are less expense and their simple operation. This
+type of propeller does not require any control inputs from
+the pilot in flight.
+Test Club Propeller
+A test club is used to test and break in reciprocating engines.
+[Figure 7-12] They are made to provide the correct amount
+of load on the engine during the test break-in period. The
+multi-blade design also provides extra cooling air flow
+during testing.
+
+Figure 7-11. Fixed-pitch propeller.
+
+Ground-Adjustable Propeller
+The ground-adjustable propeller operates as a fixed-pitch
+propeller. The pitch, or blade angle, can be changed only
+when the propeller is not turning. This is done by loosening
+the clamping mechanism that holds the blades in place. After
+the clamping mechanism has been tightened, the pitch of the
+blades cannot be changed in flight to meet variable flight
+requirements. The ground-adjustable propeller is not often
+used on present-day aircraft.
+Controllable-Pitch Propeller
+The controllable-pitch propeller permits a change of blade
+pitch, or angle, while the propeller is rotating. This allows
+7-6
+
+===== PDF PAGE 293 =====
+output (not the rpm) changes in accordance with changes in
+the throttle setting. The governor-controlled, constant-speed
+propeller changes the blade angle automatically, keeping
+engine rpm constant.
+One type of pitch-changing mechanism is operated by oil
+pressure (hydraulically) and uses a piston-and-cylinder
+arrangement. The piston may move in the cylinder, or the
+cylinder may move over a stationary piston. The linear
+motion of the piston is converted by several different types
+of mechanical linkage into the rotary motion necessary to
+change the blade angle. The mechanical connection may be
+through gears, the pitch-changing mechanism that turns the
+butt of each blade. Each blade is mounted with a bearing
+that allows the blade to rotate to change pitch. [Figure 7-13]
+Figure 7-12. Test club.
+
+the propeller to assume a blade angle that gives the best
+performance for particular flight conditions. The number
+of pitch positions may be limited, as with a two-position
+controllable propeller, or the pitch may be adjusted to any
+angle between the minimum and maximum pitch settings of
+a given propeller. The use of controllable-pitch propellers
+also makes it possible to attain the desired engine rpm for a
+particular flight condition.
+This type of propeller is not to be confused with a constantspeed propeller. With the controllable-pitch type, the blade
+angle can be changed in flight, but the pilot must change the
+propeller blade angle directly. The blade angle will not change
+again until the pilot changes it. The use of a governor is the
+next step in the evolution of propeller development, making
+way for constant-speed propellers with governor systems. An
+example of a two-position propeller is a Hamilton Standard
+flyweight two-position propeller. These types of propeller
+are not in wide use today.
+Constant-Speed Propellers
+The propeller has a natural tendency to slow down as the
+aircraft climbs and to speed up as the aircraft dives because
+the load on the engine varies. To provide an efficient propeller,
+the speed is kept as constant as possible. By using propeller
+governors to increase or decrease propeller pitch, the engine
+speed is held constant. When the aircraft goes into a climb, the
+blade angle of the propeller decreases just enough to prevent
+the engine speed from decreasing. The engine can maintain its
+power output if the throttle setting is not changed. When the
+aircraft goes into a dive, the blade angle increases sufficiently
+to prevent overspeeding and, with the same throttle setting,
+the power output remains unchanged. If the throttle setting
+is changed instead of changing the speed of the aircraft by
+climbing or diving, the blade angle increases or decreases
+as required to maintain a constant engine rpm. The power
+
+In most cases, the oil pressure for operating the different types
+of hydraulic pitch-changing mechanisms comes directly from
+the engine lubricating system. When the engine lubricating
+system is used, the engine oil pressure is usually boosted
+by a pump that is integral with the governor to operate the
+propeller. The higher oil pressure (approximately 300 pounds
+per square inch (psi)) provides a quicker blade-angle change.
+The governors direct the pressurized oil for operation of the
+hydraulic pitch-changing mechanisms.
+The governors used to control hydraulic pitch-changing
+mechanisms are geared to the engine crankshaft and are
+sensitive to changes in rpm. When rpm increases above the
+value for which a governor is set, the governor causes the
+propeller pitch-changing mechanism to turn the blades to a
+higher angle. This angle increases the load on the engine,
+and rpm decreases. When rpm decreases below the value
+for which a governor is set, the governor causes the pitchchanging mechanism to turn the blades to a lower angle; the
+load on the engine is decreased, and rpm increases. Thus, a
+propeller governor tends to keep engine rpm constant.
+
+Blade bearing support area for each blade
+
+Figure 7-13. Blade bearing areas in hub.
+
+7-7
+
+===== PDF PAGE 294 =====
+In constant-speed propeller systems, the control system adjusts
+pitch through the use of a governor, without attention by the
+pilot, to maintain a specific preset engine rpm within the set
+range of the propeller. For example, if engine speed increases,
+an overspeed condition occurs and the propeller needs to slow
+down. The controls automatically increase the blade angle
+until desired rpm has been reestablished. A good constantspeed control system responds to such small variations of rpm
+that for all practical purposes, a constant rpm is maintained.
+Each constant-speed propeller has an opposing force
+that operates against the oil pressure from the governor.
+Flyweights mounted to the blades move the blades in the high
+pitch direction as the propeller turns. [Figure 7-13] Other
+forces used to move the blades toward the high pitch direction
+include air pressure (contained in the front dome), springs,
+and aerodynamic twisting moment.
+Feathering Propellers
+Feathering propellers must be used on multi-engine aircraft to
+reduce propeller drag to a minimum under one or more engine
+failure conditions. A feathering propeller is a constant-speed
+propeller used on multi-engine aircraft that has a mechanism
+to change the pitch to an angle of approximately 90°. A
+propeller is usually feathered when the engine fails to develop
+power to turn the propeller. By rotating the propeller blade
+angle parallel to the line of flight, the drag on the aircraft is
+greatly reduced. With the blades parallel to the airstream, the
+propeller stops turning and minimum windmilling, if any,
+occurs. The blades are held in feather by aerodynamic forces.
+Almost all small feathering propellers use oil pressure to take
+the propeller to low pitch and blade flyweights, springs, and
+compressed air to take the blades to high pitch. Since the
+blades would go to the feather position during shutdown,
+latches lock the propeller in the low pitch position as the
+propeller slows down at shutdown. [Figure 7-14] These can
+be internal or external and are contained within the propeller
+hub. In flight, the latches are prevented from stopping the
+blades from feathering because they are held off their seat by
+centrifugal force. Latches are needed to prevent excess load
+on the engine at start up. If the blade were in the feathered
+position during engine start, the engine would be placed
+under an undue load during a time when the engine is already
+subject to wear.
+Reverse-Pitch Propellers
+Additional refinements, such as reverse-pitch propellers
+(mainly used on turbo props), are included in some propellers
+to improve their operational characteristics. Almost all
+reverse-pitch propellers are of the feathering type. A reversepitch propeller is a controllable propeller in which the blade
+angles can be changed to a negative value during operation.
+
+Start lock latch
+
+Figure 7-14. Feathering latches.
+
+The purpose of the reversible pitch feature is to produce a
+negative blade angle that produces thrust opposite the normal
+forward direction. Normally, when the landing gear is in
+contact with the runway after landing, the propellers blades
+can be moved to negative pitch (reversed), which creates thrust
+opposite of the aircraft direction and slows the aircraft. As the
+propeller blades move into negative pitch, engine power is
+applied to increase the negative thrust. This aerodynamically
+brakes the aircraft and reduces ground roll after landing.
+Reversing the propellers also reduces aircraft speed quickly
+on the runway just after touchdown and minimizes aircraft
+brake wear.
+
+Propeller Governor
+A governor is an engine rpm-sensing device and highpressure oil pump. In a constant-speed propeller system, the
+governor responds to a change in engine rpm by directing
+oil under pressure to the propeller hydraulic cylinder or by
+releasing oil from the hydraulic cylinder. The change in oil
+volume in the hydraulic cylinder changes the blade angle and
+maintains the propeller system rpm. The governor is set for
+a specific rpm via the flight deck propeller control, which
+compresses or releases the governor speeder spring.
+A propeller governor is used to sense propeller and engine
+speed and normally provides oil to the propeller for low pitch
+position. [Figure 7-15] There are a couple of nonfeathering
+propellers that operate opposite to this; they are discussed
+later in this chapter. Fundamental forces, some already
+discussed, are used to control blade angle variations required
+for constant-speed propeller operation. These forces are:
+1.
+
+Centrifugal twisting moment—a component of the
+7-8
+
+===== PDF PAGE 295 =====
+Adjusting rack connected to the pilot control
+Speeder spring
+Flyweight
+
+Governor pilot valve
+Governor oil pump
+
+control the flow of oil through the governor to and away
+from the propeller, and a relief valve system that regulates
+the operating oil pressures in the governor. A spring called
+the speeder spring opposes the governor flyweight’s ability
+to fly outward when turning. The tension on this spring can
+be adjusted by the propeller control on the control quadrant.
+The tension of the speeder spring sets the maximum rpm of
+the engine in the governor mode. As the engine and propeller
+rpm is increased at the maximum set point (maximum speed)
+of the governor, the governor flyweights overcome the
+tension of the speeder spring and move outward. This action
+moves the pilot valve in the governor to release oil from the
+propeller piston and allows the blade flyweights to increase
+blade pitch, which increases the load on the engine, slowing
+it down or maintaining the set speed.
+
+Drive gear from engine
+Figure 7-15. Parts of a governor.
+
+centrifugal force acting on a rotating blade that tends
+at all times to move the blade into low pitch.
+2.
+
+Propeller-governor oil on the propeller piston side—
+balances the propeller blade flyweights, which moves
+the blades toward high pitch.
+
+3.
+
+Propeller blade flyweights—always move the blades
+toward high pitch.
+
+4.
+
+Air pressure against the propeller piston—pushes
+toward high pitch.
+
+5.
+
+Large springs—push in the direction of high pitch and
+feather.
+
+6.
+
+Centrifugal twisting force—moves the blades toward
+low pitch.
+
+7.
+
+Aerodynamic twisting force—moves the blades
+toward high pitch.
+
+All of the forces listed are not equal in strength. The most
+powerful force is the governor oil pressure acting on the
+propeller piston. This piston is connected mechanically to
+the blades; as the piston moves, the blades are rotated in
+proportion. By removing the oil pressure from the governor,
+the other forces can force the oil from the piston chamber and
+move the propeller blades in the other direction.
+Governor Mechanism
+The engine-driven single-acting propeller governor
+(constant-speed control) receives oil from the lubricating
+system and boosts its pressure to that required to operate
+the pitch-changing mechanism. [Figure 7-16] It consists
+of a gear pump to increase the pressure of the engine oil,
+a pilot valve controlled by flyweights in the governor to
+
+In addition to boosting the engine oil pressure to produce one
+of the fundamental control forces, the governor maintains the
+required balance between control forces by metering to, or
+draining from, the propeller piston the exact quantity of oil
+necessary to maintain the proper blade angle for constantspeed operation. The position of the pilot valve, with
+respect to the propeller-governor metering port, regulates
+the quantity of oil that flows through this port to or from
+the propeller.
+A speeder spring above the rack opposes the action of the
+governor flyweights, which sense propeller speed. If the
+flyweights turn faster than the tension on the speeder spring,
+they fly out; this is an overspeed condition. To slow the engine
+propeller combination down, the blade angle (pitch) must be
+increased. Oil is allowed to flow away from the propeller
+piston and the flyweights increase the pitch or blade angle
+slowing the propeller until it reaches an on-speed condition
+where the force on the governor flyweights and the tension
+on the speeder spring are balanced. This balance of forces
+can be disturbed by the aircraft changing attitude (climb or
+dive) or the pilot changing the tension on the speeder spring
+with the propeller control on the instrument panel (i.e., if the
+pilot selects a different rpm).
+Underspeed Condition
+When the engine is operating below the rpm set by the pilot
+using the flight deck control, the governor is operating in an
+underspeed condition. [Figure 7-17] In this condition, the
+flyweights tilt inward because there is not enough centrifugal
+force on the flyweights to overcome the force of the speeder
+spring. The pilot valve, forced down by the speeder spring,
+meters oil flow to decrease propeller pitch and raise engine
+rpm. If the nose of the aircraft is raised or the blades are moved
+to a higher blade angle, this increases the load on the engine
+and the propeller tries to slow down. To maintain a constant
+speed, the governor senses the decrease in speed and increases
+7-9
+
+===== PDF PAGE 296 =====
+Minimum rpm adjustment (feathering valve adjustment)
+
+Speed adjusting control lever
+
+Lift rod
+Adjusting worm
+
+Speeder spring
+
+Overspeed
+and feathering
+
+Flyweight
+Toe
+
+Drive gear shaft
+Flyweight head
+
+Pilot valve plunger
+Bypass plug A (part 187824)
+
+Bypass plug B
+
+Relief valve (set 275 psi)
+
+Passage C
+
+Drain
+Pressure
+Propeller control line
+
+Oil supply tap for unfeathering and reversing
+Engine oil inlet
+
+Underspeed
+
+On speed
+
+Figure 7-16. Typical governor.
+
+oil flow to the propeller, moving the blades to a lower pitch and
+allowing them to maintain the same speed. When the engine
+speed starts to drop below the rpm for which the governor is
+set, the resulting decrease in centrifugal force exerted by the
+flyweights permits the speeder spring to lower the pilot valve
+
+(flyweights inward), thereby opening the propeller-governor
+metering port. The oil then flows through the valve port and
+into the propeller piston causing the blades to move to a lower
+pitch (a decrease in load).
+
+7-10
+
+===== PDF PAGE 297 =====
+Pilot control
+
+Pilot control
+
+Speeder spring
+
+Flyweight
+
+Flyweight
+
+Pilot valve
+Figure 7-17. Underspeed condition.
+
+Overspeed Condition
+When the engine is operating above the rpm set by the pilot
+using the flight deck control, the governor is operating in
+an overspeed condition. [Figure 7-18] In an overspeed
+condition, the centrifugal force acting on the flyweights
+is greater than the speeder spring force. The flyweights
+tilt outward and raise the pilot valve. The pilot valve then
+meters oil flow to increase propeller pitch and lower engine
+rpm. When the engine speed increases above the rpm for
+which the governor is set, note that the flyweights move
+outward against the force of the speeder spring, raising the
+pilot valve. This opens the propeller-governor metering port,
+allowing governor oil flow from the propeller piston allowing
+flyweights on the blades to increase pitch and slow the engine.
+On-Speed Condition
+When the engine is operating at the rpm set by the pilot using
+the flight deck control, the governor is operating on speed.
+[Figure 7-19] In an on-speed condition, the centrifugal force
+acting on the flyweights is balanced by the speeder spring, and
+the pilot valve is neither directing oil to nor from the propeller
+hydraulic cylinder. In the on-speed condition, the forces of
+the governor flyweights and the tension on the speeder spring
+are equal; the propeller blades are not moving or changing
+pitch. If something happens to unbalance these forces, such
+as if the aircraft dives or climbs, or the pilot selects a new
+rpm range through the propeller control (changes tension
+on the speeder spring), then these forces are unequal and an
+underspeed or overspeed condition would result. A change in
+rpm comes about in the governing mode by pilot selection
+of a new position of the propeller control, which changes
+the tension of the governor speeder spring or by the aircraft
+changing attitude. The governor, as a speed-sensing device,
+causes the propeller to maintain a set rpm regardless of the
+aircraft attitude. The speeder spring propeller governing range
+is limited to about 200 rpm. Beyond this rpm, the governor
+cannot maintain the correct rpm.
+
+Speeder spring
+
+Flyweight
+
+Flyweight
+
+Pilot valve
+Figure 7-18. Overspeed condition.
+
+Pilot control
+
+Speeder spring
+
+Flyweight
+
+Flyweight
+
+Pilot valve
+Figure 7-19. On-speed condition.
+
+Governor System Operation
+If the engine speed drops below the rpm for which the
+governor is set, the rotational force on the engine-driven
+governor flyweights becomes less. [Figure 7-17] This allows
+the speeder spring to move the pilot valve downward. With
+the pilot valve in the downward position, oil from the gear
+type pump flows through a passage to the propeller and moves
+the cylinder outward. This in turn decreases the blade angle
+and permits the engine to return to the on-speed setting. If the
+engine speed increases above the rpm for which the governor
+is set, the flyweights move against the force of the speeder
+spring and raise the pilot valve. This permits the oil in the
+propeller to drain out through the governor drive shaft. As
+the oil leaves the propeller, the centrifugal force acting on the
+flyweights turns the blades to a higher angle, which decreases
+the engine rpm. When the engine is exactly at the rpm set
+by the governor, the centrifugal reaction of the flyweights
+balances the force of the speeder spring, positioning the pilot
+valve so that oil is neither supplied to nor drained from the
+propeller. With this condition, propeller blade angle does
+7-11
+
+===== PDF PAGE 298 =====
+not change. Note that the rpm setting is made by varying the
+amount of compression in the speeder spring. Positioning
+of the speeder rack is the only action controlled manually.
+All others are controlled automatically within the governor.
+
+Propellers Used on General Aviation Aircraft
+An increasing number of light aircraft are designed for
+operation with governor-regulated, constant-speed propellers.
+Significant segments of general aviation aircraft are still
+operated with fixed-pitch propellers. Light-sport aircraft
+(LSA) use multiblade fixed-pitch composite propellers on up
+to medium size turbo prop aircraft with reversing propeller
+systems. Larger transport and cargo turbo prop aircraft use
+propeller systems with dual or double-acting governors
+and differential oil pressure to change pitch. Some types
+of propeller systems are beyond the scope of this text, but
+several propellers and their systems are described.
+Fixed-Pitch Wooden Propellers
+Although many of the wood propellers were used on older
+aircraft, some are still in use. The construction of a fixedpitch, wooden propeller is such that its blade pitch cannot be
+changed after manufacture. [Figure 7-20] The choice of the
+blade angle is decided by the normal use of the propeller on
+an aircraft during level flight when the engine performs at
+maximum efficiency. The impossibility of changing the blade
+pitch on the fixed-pitch propeller restricts its use to small
+aircraft with low horsepower engines in which maximum
+engine efficiency during all flight conditions is of lesser
+importance than in larger aircraft. The wooden, fixed-pitch
+propeller is well suited for such small aircraft because of its
+light weight, rigidity, economy of production, simplicity of
+construction, and ease of replacement.
+A wooden propeller is not constructed from a solid block
+but is built up of a number of separate layers of carefully
+selected and well-seasoned hardwoods. Many woods, such
+as mahogany, cherry, black walnut, and oak, are used to
+some extent, but birch is the most widely used. Five to nine
+separate layers are used, each about 3⁄4 inch thick. The several
+layers are glued together with a waterproof, resinous glue and
+
+Fabric sheathing
+
+Laminated wood blade
+
+allowed to set. The blank is then roughed to the approximate
+shape and size of the finished product. The roughed-out
+propeller is then allowed to dry for approximately one week to
+permit the moisture content of the layers to become equalized.
+This additional period of seasoning prevents warping and
+cracking that might occur if the blank were immediately
+carved. Following this period, the propeller is carefully
+constructed. Templates and bench protractors are used to
+assure the proper contour and blade angle at all stations.
+After the propeller blades are finished, a fabric covering is
+cemented to the outer 12 or 15 inches of each finished blade.
+A metal tipping is fastened to most of the leading edge and tip
+of each blade to protect the propeller from damage caused by
+flying particles in the air during landing, taxiing, or takeoff.
+[Figure 7-21] Metal tipping may be of terneplate, Monel
+metal, or brass. Stainless steel has been used to some extent.
+It is secured to the leading edge of the blade by countersunk
+wood screws and rivets. The heads of the screws are soldered
+to the tipping to prevent loosening, and the solder is filed
+Notch to prevent buckling when forming
+Solder
+
+Drainholes
+
+Rivets or screws
+Drainholes
+
+Notch to prevent buckling when forming
+Solder
+
+Rivets or screws
+
+Figure 7-21. Installation of metal sheath and tipping.
+
+Hub assembly
+
+Metal tipping
+
+Figure 7-20. Fix-pitch wooden propeller assembly.
+
+7-12
+
+===== PDF PAGE 299 =====
+to make a smooth surface. Since moisture condenses on
+the tipping between the metal and the wood, the tipping is
+provided with small holes near the blade tip to allow this
+moisture to drain away or be thrown out by centrifugal force.
+It is important that these drain holes be kept open at all times.
+Since wood is subject to swelling, shrinking, and warping
+because of changes of moisture content, a protective coating
+is applied to the finished propeller to prevent a rapid change
+of moisture content. The finish most commonly used is
+a number of coats of water-repellent, clear varnish. After
+these processes are completed, the propeller is mounted on
+a spindle and very carefully balanced.
+Several types of hubs are used to mount wooden propellers
+on the engine crankshaft. The propeller may have a forged
+steel hub that fits a splined crankshaft; it may be connected
+to a tapered crankshaft by a tapered, forged steel hub; or it
+may be bolted to a steel flange forged on the crankshaft. In
+any case, several attaching parts are required to mount the
+propeller on the shaft properly.
+Hubs fitting a tapered shaft are usually held in place by a
+retaining nut that screws onto the end of the shaft. On one
+model, a locknut is used to safety the retaining nut and to
+provide a puller for removing the propeller from the shaft.
+This nut screws into the hub and against the retaining nut.
+The locknut and the retaining nut are safetied together with
+lock-wire or a cotter pin.
+Front and rear cones may be used to seat the propeller
+properly on a splined shaft. The rear cone is a one-piece
+bronze cone that fits around the shaft and against the thrust
+nut (or spacer) and seats in the rear-cone seat of the hub.
+The front cone is a two-piece, split-type steel cone that has
+a groove around its inner circumference so that it can be
+fitted over a flange of the propeller retaining nut. Then, the
+retaining nut is threaded into place and the front cone seats
+in the front cone hub. A snap ring is fitted into a groove in
+the hub in front of the front cone so that when the retaining
+nut is unscrewed from the propeller shaft, the front cone acts
+against the snap ring and pulls the propeller from the shaft.
+
+the flange plate. [Figure 7-22] The faceplate is a steel disc that
+forms the forward face of the hub. The flange plate is a steel
+flange with an internal bore splined to receive the propeller
+shaft. The end of the flange plate opposite the flange disc is
+externally splined to receive the faceplate; the faceplate bore
+has splines to match these external splines. Both faceplate and
+flange plates have a corresponding series of holes drilled on
+the disc surface concentric with the hub center. The bore of
+the flange plate has a 15° cone seat on the rear end and a 30°
+cone seat on the forward end to center the hub accurately on
+the propeller shaft.
+Metal Fixed-Pitch Propellers
+Metal fixed-pitch propellers are similar in general appearance
+to a wooden propeller, except that the sections are usually
+thinner. The metal fixed-pitch propeller is widely used on
+many models of light aircraft and LSA. Many of the earliest
+metal propellers were manufactured in one piece of forged
+Duralumin. Compared to wooden propellers, they were
+lighter in weight because of elimination of blade-clamping
+devices, offered a lower maintenance cost because they were
+made in one piece, provided more efficient cooling because
+of the effective pitch nearer the hub, and, because there was
+no joint between the blades and the hub, the propeller pitch
+could be changed, within limits, by twisting the blade slightly
+by a propeller repair station.
+Propellers of this type are now manufactured as one-piece
+anodized aluminum alloy. They are identified by stamping the
+propeller hub with the serial number, model number, Federal
+Aviation Administration (FAA) type certificate number,
+production certificate number, and the number of times the
+propeller has been reconditioned. The complete model number
+of the propeller is a combination of the basic model number
+and suffix numbers to indicate the propeller diameter and
+pitch. An explanation of a complete model number, using the
+McCauley 1B90/CM propeller, is provided in Figure 7-23.
+
+One type of hub incorporates a bronze bushing instead of a
+front cone. When this type of hub is used, it may be necessary
+to use a puller to start the propeller from the shaft. A rearcone spacer is sometimes provided with the splined-shaft
+propeller assembly to prevent the propeller from interfering
+with the engine cowling. The wide flange on the rear face of
+some types of hubs eliminates the use of a rear-cone spacer.
+One type of hub assembly for the fixed-pitch, wooden
+propeller is a steel fitting inserted in the propeller to mount it
+on the propeller shaft. It has two main parts: the faceplate and
+
+Flange plate
+
+Faceplate
+
+Figure 7-22. Hub assembly.
+
+7-13
+
+===== PDF PAGE 300 =====
+Basic model number
+
+1B90/CM 71 44
+Inches pitch at 0.75 radius.
+Propeller diameter, inches.
+CF denotes installation on SAE
+No. 1 flanged shaft; elliptical blade tips.
+CH denotes assembly with Continental
+Motors Corp. hub; elliptical tips.
+CM denotes installation on SAE
+No. 1 flanged shaft; square blade tips.
+LF denotes installation on SAE
+No. 2 flanged shaft with McCauley
+C-1210 adapter; elliptical blade tips.
+LM denotes installation on SAE
+No. 2 flanged shaft with McCauley
+C-1210 adapter; square blade tips.
+Basic design number (planform, etc.).
+
+Figure 7-23. Complete propeller model numbers.
+
+Constant-Speed Propellers
+Hartzell Constant-Speed, Nonfeathering
+Hartzell propellers can be divided by Aluminum hub
+(compact) and steel hub. Hartzell compact aluminum
+propellers represent new concepts in basic design. They
+combine low weight and simplicity in design and rugged
+construction. In order to achieve these ends, the hub is made
+as compact as possible, utilizing aluminum alloy forgings for
+most of the parts. The hub shell is made in two halves, bolted
+together along the plane of rotation. This hub shell carries
+
+Spinner adapter (if required)
+
+the pitch change mechanism and blade roots internally. The
+hydraulic cylinder, which provides power for changing the
+pitch, is mounted at the front of the hub. The propeller can be
+installed only on engines with flanged mounting provisions.
+One model of nonfeathering aluminum hub constant-speed
+propeller utilizes oil pressure from a governor to move the
+blades into high pitch (reduced rpm). The centrifugal twisting
+moment of the blades tends to move them into low pitch
+(high rpm) in the absence of governor oil pressure. This is an
+exception to most of the aluminum hub models and feathering
+models. Most of the Hartzell propeller aluminum and steel
+hub models use centrifugal force acting on blade flyweights to
+increase blade pitch and governor oil pressure for low pitch.
+Many types of light aircraft use governor-regulated, constantspeed propellers in two-bladed and up to six-bladed versions.
+These propellers may be the nonfeathering type, or they may
+be capable of feathering and reversing. The steel hub contains
+a central “spider,” that supports aluminum blades with a
+tube extending inside the blade roots. Blade clamps connect
+the blade shanks with blade retention bearings. A hydraulic
+cylinder is mounted on the rotational axis connected to the
+blade clamps for pitch actuation. [Figure 7-24]
+The basic hub and blade retention is common to all models
+described. The blades are mounted on the hub spider for
+angular adjustment. The centrifugal force of the blades,
+amounting to as much as 25 tons, is transmitted to the hub
+
+Blade
+Blade retension bearing
+Hub
+
+Spring
+
+Piston
+
+Engine flange
+Oil
+Mounting stud (K or R flange shown)
+
+Cylinder (oil
+pressure to increase
+blade angle and
+reduce rpm)
+
+Shaft O-ring
+
+Low pitch stop
+
+Starter gear (Lycoming engine)
+
+Spinner dome
+Fork
+
+Pitch change rod
+
+Balance weights
+Lubrication fitting
+Figure 7-24. Constant speed non-feathering propeller.
+
+7-14
+
+===== PDF PAGE 301 =====
+spider through blade clamps and then through ball bearings.
+The propeller thrust and engine torque is transmitted from the
+blades to the hub spider through a bushing inside the blade
+shank. In order to control the pitch of the blades, a hydraulic
+piston-cylinder element is mounted on the front of the hub
+spider. The piston is attached to the blade clamps by means
+of a sliding rod and fork system for nonfeathering models
+and a link system for the feathering models. The piston is
+actuated in the forward direction by means of oil pressure
+supplied by a governor, which overcomes the opposing force
+created by the flyweights. Hartzell and McCauley propellers
+for light aircraft are similar in operation. The manufacturer’s
+specifications and instructions must be consulted for
+information on specific models.
+Constant-Speed Feathering Propeller
+The feathering propeller utilizes a single oil supply from a
+governing device to hydraulically actuate a change in blade
+angle. [Figure 7-25] This propeller has five blades and is
+used primarily on Pratt & Whitney turbine engines. A two
+piece aluminum hub retains each propeller blade on a thrust
+bearing. A cylinder is attached to the hub and contains a
+feathering spring and piston. The hydraulically actuated
+piston transmits linear motion through a pitch change rod and
+fork to each blade to result in blade angle change.
+While the propeller is operating, the following forces are
+constantly present: 1) spring force, 2) flyweight force, 3)
+
+Blade
+
+centrifugal twisting moment of each blade, and 4) blade
+aerodynamic twisting forces. The spring and flyweight forces
+attempt to rotate the blades to higher blade angle, while
+the centrifugal twisting moment of each blade is generally
+toward lower blade angle. Blade aerodynamic twisting force
+is usually very small in relation to the other forces and can
+attempt to increase or decrease blade angle. The summation
+of the propeller forces is toward higher pitch (low rpm) and
+is opposed by a variable force toward lower pitch (high rpm).
+The variable force is oil under pressure from a governor with
+an internal pump that is mounted on and driven by the engine.
+The oil from the governor is supplied to the propeller and
+hydraulic piston through a hollow engine shaft. Increasing
+the volume of oil within the piston and cylinder decreases
+the blade angle and increases propeller rpm. If governorsupplied oil is lost during operation, the propeller increases
+pitch and feather. Feathering occurs because the summation
+of internal propeller forces causes the oil to drain out of the
+propeller until the feather stop position is reached. Normal
+in-flight feathering is accomplished when the pilot retards the
+propeller condition lever past the feather detent. This permits
+control oil to drain from the propeller and return to the engine
+sump. Engine shutdown is normally accomplished during
+the feathering process. Normal in-flight unfeathering is
+accomplished when the pilot positions the propeller condition
+lever into the normal flight (governing) range and restarts the
+engine. As engine speed increases, the governor supplies oil
+
+Blade retentention bearing
+Hub
+
+Start lock latch
+
+Pitch change rod
+
+Spinner bulkhead
+
+Oil
+
+Spring
+
+Piston
+Air charge
+
+Engine flange
+
+Cylinder (oil
+pressure to reduce
+blade angle and
+increase RPM)
+Shaft O-ring
+Lubrication fitting
+
+Low pitch stop
+
+Mounting nut (F flange shown)
+Fork
+
+Balance weights
+
+Removable spinner cap
+Spinner dome
+
+Flyweight
+Figure 7-25. Constant-speed feathering propeller.
+
+7-15
+

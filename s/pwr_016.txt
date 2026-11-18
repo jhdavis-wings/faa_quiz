@@ -1,0 +1,1819 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 4 (Engine Ignition & Electrical Systems), PDF pages 213-230
+
+===== PDF PAGE 213 =====
+Pressure-sensitive tape
+
+XYZ 15
+H215B20
+
+H215A20
+4
+
+4
+H216B20
+
+Sleeve marker tied in place
+
+H216A20
+3
+
+3
+H217B20
+
+XYZ15
+
+H217A20
+2
+
+2
+
+Figure 4-90. Alternate methods of identifying wire bundles.
+H218B20
+
+H218A20
+1
+
+1
+TB - 1
+
+Figure 4-89. Wire identification at a terminal block.
+
+commonly used. For high-temperature applications, silicone
+rubber or silicone fiberglass sleeving is recommended.
+Where resistance to synthetic hydraulic fluids or other
+solvents is necessary, either clear or white opaque nylon
+sleeving can be used.
+While the preferred method is to stamp the identification
+marking directly on the wire or on sleeving, other methods
+are often employed. One method uses a marked sleeve tied in
+place. The other uses a pressure-sensitive tape. [Figure 4-90]
+Electrical Wiring Installation
+The following recommended procedures for installing aircraft
+electrical wiring are typical of those used on most types
+of aircraft. For purposes of this discussion, the following
+definitions are applicable:
+1.
+
+Open wiring—any wire, wire group, or wire bundle
+not enclosed in conduit.
+
+2.
+
+Wire group—two or more wires in the same location,
+tied together to identity the group.
+
+3.
+
+Wire bundle—two or more wire groups tied together
+because they are going in the same direction at the
+point where the tie is located. The bundle facilitates
+maintenance.
+
+4.
+
+Electrically protected wiring—wires that include in
+the circuit protections against overloading, such as
+fuses, circuit breakers, or other limiting devices.
+
+5.
+
+Electrically unprotected wiring—wires, generally
+from generators to main bus distribution points, that
+
+do not have protection, such as fuses, circuit breakers,
+or other current-limiting devices.
+Wire Groups & Bundles
+Grouping or bundling certain wires, such as electrically
+unprotected power wiring and wiring to duplicate vital
+equipment, should be avoided. Wire bundles should generally
+be limited in size to a bundle of 75 wires, or 2 inches in
+diameter where practicable. When several wires are grouped
+at junction boxes, terminal blocks, panels, etc., the identity
+of the group within a bundle can be retained. [Figure 4-91]
+Twisting Wires
+When specified on the engineering drawing, parallel wires
+must be twisted. The most common examples are:
+1.
+
+Wiring in the vicinity of magnetic compass or flux
+valve,
+
+2.
+
+Three-phase distribution wiring, and
+
+3.
+
+Certain other wires (usually radio wiring).
+
+Twist the wires so that they lie snugly against each other,
+making approximately the number of twists per foot as listed
+in Figure 4-92. Always check wire insulation for damage after
+twisting. If the insulation is torn or frayed, replace the wire.
+Spliced Connections in Wire Bundles
+Spliced connections in wire groups or bundles should be
+located so that they can be easily inspected. Splices should
+also be staggered so that the bundle does not become
+excessively enlarged. [Figure 4-93] All noninsulated splices
+should be covered with plastic, securely tied at both ends.
+Slack in Wiring Bundles
+Single wires or wire bundles should not be installed with
+excessive slack. Slack between supports should normally not
+exceed ½ inch. This is the maximum it should be possible
+4-54
+
+===== PDF PAGE 214 =====
+Bundle tie
+
+Group tie
+
+Bend Radii
+Bends in wire groups or bundles should not be less than
+ten times the outside diameter of the wire group or bundle.
+However, at terminal strips, where wire is suitably supported
+at each end of the bend, a minimum radius of three times
+the outside diameter of the wire, or wire bundle, is usually
+acceptable. There are exceptions to these guidelines in the
+case of certain types of cable; for example, coaxial cable
+should never be bent to a smaller radius than six times the
+outside diameter.
+
+Bundle tie
+
+Figure 4-91. Group and bundle ties.
+#22 #20 #18 #16 #14 #12 #10
+
+#8
+
+#6
+
+#4
+
+2 Wires
+
+10
+
+10
+
+9
+
+8
+
+7 1/2
+
+7
+
+6 1/2
+
+6
+
+5
+
+4
+
+3 Wires
+
+10
+
+10 8 1/2
+
+7
+
+6 1/2
+
+6
+
+5 1/2
+
+5
+
+4
+
+3
+
+Figure 4-92. Recommended number of twists per foot.
+
+to deflect the wire with normal hand force. However, this
+may be exceeded if the wire bundle is thin and the clamps
+are far apart. But the slack should never be so great that
+the wire bundle can abrade against any surface it touches.
+[Figure 4-94] A sufficient amount of slack should be allowed
+near each end of a bundle to:
+1.
+
+Permit easy maintenance;
+
+2.
+
+Allow replacement of terminals;
+
+3.
+
+Relieve mechanical strain on the wires, wire junctions,
+or supports;
+
+4.
+5.
+
+Routing & Installation
+All wiring should be installed so that it is mechanically
+and electrically sound and neat in appearance. Whenever
+practicable, wires and bundles should be routed parallel with,
+or at right angles to, the stringers or ribs of the area involved.
+An exception to this general rule is the coaxial cables, which
+are routed as directly as possible.
+The wiring must be adequately supported throughout its
+length. A sufficient number of supports must be provided
+to prevent undue vibration of the unsupported lengths. All
+wires and wire groups should be routed and installed to
+protect them from:
+1.
+
+Chafing or abrasion;
+
+2.
+
+High temperature;
+
+3.
+
+Permit free movement of shock and vibration-mounted
+equipment; and
+
+Being used as handholds, or as support for personal
+belongings and equipment;
+
+4.
+
+Damage by personnel moving within the aircraft;
+
+Permit shifting of equipment for purposes of
+maintenance.
+
+5.
+
+Damage from cargo stowage or shifting;
+
+6.
+
+Damage from battery acid fumes, spray, or spillage;
+
+Figure 4-93. Staggered splices in wire bundle.
+
+1/2" maximum with normal hand pressure
+
+Figure 4-94. Slack in wire bundle between supports.
+
+4-55
+
+===== PDF PAGE 215 =====
+and
+7.
+
+Damage from solvents and fluids.
+
+Wires less than 1/4" from hole edge
+
+Protection Against Chafing
+Wires and wire groups should be installed so that they are
+protected against chafing or abrasion in those locations where
+contact with sharp surfaces or other wires would damage the
+insulation. Damage to the insulation can cause short circuits,
+malfunctions, or inadvertent operation of equipment. Cable
+clamps should be used to support wire bundles at each hole
+through a bulkhead. [Figure 4-95] If wires come closer than
+¼ inch to the edge of the hole, a suitable grommet is used in
+the hole. [Figure 4-96]
+Sometimes, it is necessary to cut nylon or rubber grommets
+to facilitate installation. In these instances, after insertion,
+the grommet can be secured in place with general purpose
+cement. The slot should be at the top of the hole, and the
+cut should be made at an angle of 45° to the axis of the wire
+bundle hole.
+Protection Against High Temperature
+To prevent insulation deterioration, wires should be kept
+separate from high-temperature equipment, such as resistors,
+exhaust stacks, heating ducts. The amount of separation is
+usually specified by engineering drawings. Some wires must
+be run through hot areas. These wires must be insulated with
+high-temperature rated material, such as asbestos, fiberglass,
+or Teflon. Additional protection is also often required in the
+form of conduits. A low-temperature insulated wire should
+never be used to replace a high-temperature insulated wire.
+
+1/4" minimum clearance
+
+Cable clamp
+
+Angle bracket with two point fastening
+
+Approved grommet
+
+Figure 4-96. Cable clamp and grommet at bulkhead hole.
+
+Many coaxial cables have soft plastic insulation, such as
+polyethylene, that is especially subject to deformation and
+deterioration at elevated temperatures. All high-temperature
+areas should be avoided when installing these cables.
+Additional abrasion protection should be given to asbestos
+wires enclosed in conduit. Either conduit with a high
+temperature rubber liner should be used or asbestos wires
+can be enclosed individually in high-temperature plastic
+tubes before being installed in the conduit.
+Protection Against Solvents & Fluids
+Avoid installing wires in areas where they are subjected to
+damage from fluids. Wires should not be placed in the lowest
+four inches of the aircraft fuselage, except those that must
+terminate in that area. If there is a possibility that wiring
+without a protective nylon outer jacket may be soaked with
+fluids, plastic tubing should be used to protect it. This tubing
+should extend past the exposure area in both directions
+and should be tied at each end. If the wire has a low point
+between the tubing ends, provide a 1⁄8-inch drainage hole.
+[Figure 4-97] This hole should be punched into the tubing
+after the installation is complete and the low point definitely
+established by using a hole punch to cut a half circle. Care
+should be taken not to damage any wires inside the tubing
+when using the punch.
+Wire should never be routed below a battery. All wires in the
+vicinity of a battery should be inspected frequently. Wires
+discolored by battery fumes should be replaced.
+
+Figure 4-95. Cable clamp at bulkhead hole.
+
+4-56
+
+===== PDF PAGE 216 =====
+Figure 4-98. Separation of wires from plumbing lines.
+
+Figure 4-97. Drainage hole in low point of tubing.
+
+Protection of Wires in Wheel Well Area
+Wires located in wheel wells are subject to many additional
+hazards, such as exposure to fluids, pinching, and severe
+flexing in service. All wire bundles should be protected by
+sleeves of flexible tubing securely held at each end. There
+should be no relative movement at points where flexible
+tubing is secured. These wires and the insulating tubing
+should be inspected carefully at very frequent intervals, and
+wires or tubing should be replaced at the first sign of wear.
+There should be no strain on attachments when parts are fully
+extended, but slack should not be excessive.
+Routing Precautions
+When wiring must be routed parallel to combustible fluid
+or oxygen lines for short distances, as much separation as
+possible should be maintained. The wires should be on a level
+with, or above, the plumbing lines. Clamps should be spaced
+so that if a wire is broken at a clamp, it will not contact the
+line. Where a 6-inch separation is not possible, both the wire
+bundle and the plumbing line can be clamped to the same
+structure to prevent any relative motion. If the separation is
+less than 2 inches but more than 1⁄2 inch, two cable clamps
+back to back can be used to maintain a rigid separation only
+and not for support of the bundle. [Figure 4-98] No wire
+should be routed so that it is located nearer than ½ inch to a
+plumbing line, nor should a wire or wire bundle be supported
+from a plumbing line that carries flammable fluids or oxygen.
+Wiring should be routed to maintain a minimum clearance
+of at least 3 inches from control cables. If this cannot be
+accomplished, mechanical guards should be installed to
+prevent contact between wiring and control cables.
+
+Installation of Cable Clamps
+Cable clamps should be installed with regard to the proper
+mounting angle. [Figure 4-99] The mounting screw should
+be above the wire bundle. It is also desirable that the back
+of the cable clamp rest against a structural member where
+practicable. Figure 4-100 shows some typical mounting
+hardware used in installing cable clamps. Be sure that wires
+are not pinched in cable clamps. Where possible, mount them
+directly to structural members. [Figure 4-101]
+Clamps can be used with rubber cushions to secure wire
+bundles to tubular structures. [Figure 4-102] Such clamps
+must fit tightly but should not be deformed when locked in
+place.
+
+Dangerous angles
+
+45°
+max
+
+Safe angles
+
+x
+ma
+45°
+
+Figure 4-99. Proper mounting angle for cable clamps.
+
+4-57
+
+===== PDF PAGE 217 =====
+Cable clamps
+Screw
+
+Plain washer
+
+Plain washers
+
+Nut
+
+Lockwasher split
+
+Lockwasher external teeth
+
+Self-locking nut
+
+Figure 4-100. Typical mounting hardware for cable clamps.
+
+Lacing & Tying Wire Bundles
+Wire groups and bundles are laced or tied with cord to provide
+ease of installation, maintenance, and inspection. This
+section describes and illustrates recommended procedures for
+lacing and tying wires with knots that hold tightly under all
+conditions. For the purposes of this discussion, the following
+terms are defined:
+1.
+
+Tying is the securing together of a group or bundle
+of wires by individual pieces of cord tied around the
+group or bundle at regular intervals.
+
+2.
+
+Lacing is the securing together of a group or bundle
+of wires by a continuous piece of cord forming loops
+at regular intervals around the group or bundle.
+
+The material used for lacing and tying is either cotton or
+nylon cord. Nylon cord is moisture- and fungus-resistant,
+but cotton cord must be waxed before using to give it these
+necessary protective characteristics.
+Single-Cord Lacing
+Figure 4-103 shows the steps in lacing a wire bundle with a
+single cord. The lacing procedure is started at the thick end
+of the wire group or bundle with a knot consisting of a clove
+hitch with an extra loop. The lacing is then continued at regular
+intervals with half hitches along the wire group or bundle and
+at each point where a wire or wire group branches off. The half
+hitches should be spaced so that the bundle is neat and secure.
+Tubular structure
+
+Cable clamps
+
+Rubber cushion
+
+Correct
+“Angle” member
+
+“Z” member
+
+Incorrect
+
+Clamp
+Cable clamp
+
+Angle bracket
+
+Wire is pinched in clamp
+Figure 4-101. Mounting cable clamps to structure.
+
+Figure 4-102. Installing cable clamps to tubular structure.
+
+4-58
+
+===== PDF PAGE 218 =====
+The lacing is ended by tying a knot consisting of a clove hitch
+with an extra loop. After the knot is tied, the free ends of the
+lacing cord should be trimmed to approximately 3⁄8 inch.
+Double-Cord Lacing
+Figure 4-104 illustrates the procedure for double-cord lacing.
+The lacing is started at the thick end of the wire group or
+bundle with a bowline-on-a-bight knot. [Figure 4-104A] At
+regular intervals along the wire group or bundle, and at each
+point where a wire branches off, the lacing is continued using
+half hitches, with both cords held firmly together. The half
+hitches should be spaced so that the group or bundle is neat
+and secure. The lacing is ended with a knot consisting of a
+half hitch, continuing one of the cords clockwise and the other
+counterclockwise and then tying the cord ends with a square
+knot. The free ends of the lacing cord should be trimmed to
+approximately 3⁄8 inch.
+Lacing Branch-Offs
+Figure 4-105 illustrates a recommended procedure for lacing
+a wire group that branches off the main wire bundle. The
+branch-off lacing is started with a knot located on the main
+bundle just past the branch-off point. Continue the lacing
+along the branched-off wire group using regularly spaced
+half hitches. If a double cord is used, both cords should be
+held snugly together. The half hitches should be spaced to
+lace the bundle neatly and securely. End the lacing with the
+regular terminal knot used in single- or double-cord lacing,
+as applicable, and trim the free ends of the lacing cord neatly.
+
+Step A—Starting knot
+
+Tying
+All wire groups or bundles should be tied where supports
+are more than 12 inches apart. Ties are made using
+waxed cotton cord, nylon cord, or fiberglass cord. Some
+manufacturers permit the use of pressure-sensitive vinyl
+electrical tape. When permitted, the tape should be wrapped
+three turns around the bundle and the ends heat sealed to
+prevent unwinding of the tape. Figure 4-106 illustrates a
+recommended procedure for tying a wire group or bundle.
+The tie is started by wrapping the cord around the wire group
+to tie a clove-hitch knot. Then, a square knot with an extra
+loop is tied and the free ends of the cord trimmed.
+Temporary ties are sometimes used in making up and
+installing wire groups and bundles. Colored cord is normally
+used to make temporary ties, since they are removed when
+the installation is complete.
+Whether lacing or tying, bundles should be secured tightly
+enough to prevent slipping, but not so tightly that the cord
+cuts into or deforms the insulation. This applies especially to
+coaxial cable, which has a soft dielectric insulation between
+the inner and outer conductor. Coaxial cables have been
+damaged by the use of lacing materials or by methods of
+lacing or tying wire bundles that cause a concentrated force
+on the cable insulation. Elastic lacing materials, smalldiameter lacing cord, and excessive tightening deform the
+interconductor insulation and result in short circuits or
+impedance changes. Flat nylon braided waxed lacing tape
+
+Pull here until tight before finishing knot
+Cord crosses under loop
+
+Step C—part II
+Final knot
+
+Starting knot tightened
+
+Step B—Intermediate half hitches
+Trim to 3/8" minimum
+
+Step C—part I
+
+First part of final knot tightened
+
+Figure 4-103. Single cord lacing.
+
+4-59
+
+===== PDF PAGE 219 =====
+Starting knot for branch off
+
+Branch
+
+-off lacin
+
+g
+
+Starting knot tightened
+Half-hitch required at branch-off point
+
+Main bundle lacing
+
+Step A—Bowline-on-a-bight as starting knot
+
+Step B—Intermediate half hitches
+Figure 4-105. Lacing a branch off.
+
+should be used for lacing or tying any wire bundles containing
+coaxial cables.
+The part of a wire group or bundle located inside a conduit
+is not tied or laced; however, wire groups or bundles inside
+enclosures, such as junction boxes, should be laced only.
+
+Cutting Wire & Cable
+Step C—Final knot
+Figure 4-104. Double cord lacing.
+
+Wrap cord twice over bundle
+
+To make installation, maintenance, and repair easier, runs of
+wire and cable in aircraft are broken at specified locations
+by junctions, such as connectors, terminal blocks, or buses.
+
+Clove hitch and square knot
+
+Figure 4-106. Tying a wire group of bundle.
+
+4-60
+
+===== PDF PAGE 220 =====
+insulation longer than 3⁄4 inch, it is easier to accomplish
+in two or more operations.
+
+Before assembly to these junctions, wires and cables must
+be cut to length.
+All wires and cables should be cut to the lengths specified on
+drawings and wiring diagrams. The cut should be made clean
+and square, and the wire or cable should not be deformed.
+If necessary, large diameter wire should be reshaped after
+cutting. Good cuts can be made only if the blades of cutting
+tools are sharp and free from nicks. A dull blade deforms and
+extrudes wire ends.
+
+6.
+
+A pair of hand wire strippers is shown in Figure 4-108.
+This tool is commonly used to strip most types of wire. The
+following general procedures describe the steps for stripping
+wire with a hand stripper. [Figure 4-109]
+1.
+
+Insert wire into exact center of correct cutting slot
+for wire size to be stripped. Each slot is marked with
+wire size.
+
+2.
+
+Close handles together as far as they will go.
+
+3.
+
+Release handles allowing wire holder to return to the
+open position.
+
+4.
+
+Remove stripped wire.
+
+Stripping Wire & Cable
+Nearly all wire and cable used as electrical conductors are
+covered with some type of insulation. In order to make
+electrical connections with the wire, a part of this insulation
+must be removed to expose the bare conductor. Copper wire
+can be stripped in a number of ways depending on the size and
+insulation. Figure 4-107 lists some types of stripping tools
+recommended for various wire sizes and types of insulation.
+Aluminum wire must be stripped using extreme care, since
+individual strands break very easily after being nicked.
+The following general precautions are recommended when
+stripping any type of wire:
+1.
+
+When using any type of wire stripper, hold the wire
+so that it is perpendicular to the cutting blades.
+
+2.
+
+Adjust automatic stripping tools carefully; follow the
+manufacturer’s instructions to avoid nicking, cutting,
+or otherwise damaging strands. This is especially
+important for aluminum wires and for copper wires
+smaller than No. 10. Examine stripped wires for
+damage. Cut off and restrip, if length is sufficient,
+or reject and replace any wires with more than the
+allowable number of nicked or broken strands listed
+in the manufacturer’s instructions.
+
+3.
+
+Make sure insulation is clean cut with no frayed or
+ragged edges. Trim, if necessary.
+
+4.
+
+Make sure all insulation is removed from stripped area.
+Some types of wires are supplied with a transparent
+layer of insulation between the conductor and the
+primary insulation. If this is present, remove it.
+
+5.
+
+When using hand wire strippers to remove lengths of
+Stripper
+
+Wire Size
+
+Insulations
+
+Hot blade
+
+#26–#4
+
+All except asbestos
+
+Rotary, electric
+
+#26–#4
+
+All
+
+Bench
+
+#20–#6
+
+All
+
+Hand pliers
+
+#26–#8
+
+All
+
+Knife
+
+#2–#0000
+
+All
+
+Figure 4-107. Wire strippers for copper wire.
+
+Retwist copper strands by hand or with pliers, if
+necessary, to restore natural lay and tightness of strands.
+
+Solderless Terminals & Splices
+Splicing of electrical cable should be kept to a minimum and
+avoided entirely in locations subject to extreme vibrations.
+Individual wires in a group or bundle can usually be spliced
+if the completed splice is located where it can be inspected
+periodically. The splices should be staggered so that the
+bundle does not become excessively enlarged. Many types of
+aircraft splice connectors are available for splicing individual
+wires. Self-insulated splice connectors are usually preferred;
+however, a noninsulated splice connector can be used if the
+splice is covered with plastic sleeving secured at both ends.
+Solder splices may be used, but they are particularly brittle
+and not recommended.
+Electric wires are terminated with solderless terminal lugs
+to permit easy and efficient connection to and disconnection
+from terminal blocks, bus bars, or other electrical equipment.
+Solderless splices join electric wires to form permanent
+continuous runs. Solderless terminal lugs and splices
+are made of copper or aluminum and are preinsulated or
+uninsulated, depending on the desired application.
+
+Figure 4-108. Light duty hand wire strippers.
+
+4-61
+
+===== PDF PAGE 221 =====
+1
+
+Copper Wire Terminals
+Copper wires are terminated with solderless, preinsulated
+straight copper terminal lugs. The insulation is part of the
+terminal lug and extends beyond its barrel so that it covers a
+portion of the wire insulation, making the use of an insulation
+sleeve unnecessary. [Figure 4-110]
+In addition, preinsulated terminal lugs contain an insulation
+grip (a metal reinforcing sleeve) beneath the insulation for
+extra gripping strength on the wire insulation. Preinsulated
+terminals accommodate more than one size of wire; the
+insulation is usually color coded to identify the wire sizes
+that can be terminated with each of the terminal lug sizes.
+
+2
+
+Crimping Tools
+Hand, portable power, and stationary power tools are
+available for crimping terminal lugs. These tools crimp the
+barrel of the terminal lug to the conductor and simultaneously
+crimp the insulation grip to the wire insulation.
+Hand crimping tools all have a self-locking ratchet that
+prevents opening the tool until the crimp is complete. Some
+hand crimping tools are equipped with a nest of various size
+inserts to fit different size terminal lugs. Others are used on
+one terminal lug size only. All types of hand crimping tools
+are checked by gauges for proper adjustment of crimping jaws.
+
+3
+
+Figure 4-111 shows a terminal lug inserted into a hand tool.
+The following general guidelines outline the crimping
+procedure:
+1.
+
+Strip the wire insulation to proper length.
+
+2.
+
+Insert the terminal lug, tongue first, into the hand tool
+barrel crimping jaws until the terminal lug barrel butts
+flush against the tool stop.
+
+3.
+
+Insert the stripped wire into the terminal lug barrel
+until the wire insulation butts flush against the end of
+the barrel.
+
+Insulation grip
+
+Barrel
+
+Tongue
+
+Figure 4-109. Stripping wire with hand strippers.
+
+Terminal lugs are generally available in three types for use
+in different space conditions. These are the flag, straight,
+and right-angle lugs. Terminal lugs are crimped, sometimes
+called staked or swaged, to the wires by means of hand or
+power crimping tools.
+
+Wire insulation
+
+Stripped wire
+
+Color-coded insulation
+Figure 4-110. Preinsulated terminal lug.
+
+4-62
+
+===== PDF PAGE 222 =====
+film immediately upon exposure to air. To compensate for
+these disadvantages, it is important to use the most reliable
+installation procedures. Only aluminum terminal lugs are
+used to terminate aluminum wires.
+Locator
+
+Tongue is horizontal
+
+Stop
+
+Barrel butts flush against tool stop
+Figure 4-111. Inserting terminal lug into hand tool.
+
+4.
+
+Squeeze the tool handles until the ratchet releases.
+
+5.
+
+Remove the completed assembly and examine it for
+proper crimp.
+
+Some types of uninsulated terminal lugs are insulated after
+assembly to a wire by means of pieces of transparent flexible
+tubing called sleeves. The sleeve provides electrical and
+mechanical protection at the connection. When the size of
+the sleeves used is such that it fits tightly over the terminal
+lug, the sleeves need not be tied; otherwise, it should be tied
+with lacing cord [Figure 4-112]
+Aluminum Wire Terminals
+Aluminum wire is being used increasingly in aircraft
+systems because of its weight advantage over copper.
+However, bending aluminum causes “work hardening”
+of the metal, making it brittle. This results in failure or
+breakage of strands much sooner than in a similar case with
+copper wire. Aluminum also forms a high-resistant oxide
+
+1" (approximate)
+
+Tight or shrunk sleeve
+
+All aluminum terminals incorporate an inspection hole that
+permits checking the depth of wire insertion. [Figure 4-113]
+The barrel of aluminum terminal lugs is filled with a
+petrolatum-zinc dust compound. This compound removes the
+oxide film from the aluminum by a grinding process during
+the crimping operation. The compound also minimizes later
+oxidation of the completed connection by excluding moisture
+and air. The compound is retained inside the terminal lug
+barrel by a plastic or foil seal at the end of the barrel.
+Splicing Copper Wires Using Preinsulated Wires
+Preinsulated permanent copper splices join small wires of
+sizes 22 through 10. Each splice size can be used for more
+than one wire size. Splices are usually color coded in the
+same manner as preinsulated, small copper terminal lugs.
+Some splices are insulated with white plastic. Splices are
+also used to reduce wire sizes [Figure 4-114]
+Crimping tools are used to accomplish this type of splice. The
+crimping procedures are the same as those used for terminal
+lugs, except that the crimping operation must be done twice,
+one for each end of the splice.
+
+Emergency Splicing Repairs
+Broken wires can be repaired by means of crimped splices,
+by using terminal lugs from which the tongue has been cut
+off, or by soldering together and potting broken strands.
+These repairs are applicable to copper wire. Damaged
+aluminum wire must not be temporarily spliced. These
+repairs are for temporary emergency use only and should
+be replaced as soon as possible with permanent repairs.
+Since some manufacturers prohibit splicing, the applicable
+manufacturer’s instructions should always be consulted.
+Splicing with Solder & Potting Compound
+When neither a permanent splice nor a terminal lug
+is available, a broken wire can be repaired as follows
+[Figure 4-115]:
+1.
+
+Install a piece of plastic sleeving about 3 inches long
+and of the proper diameter to fit loosely over the
+insulation on one piece of the broken wire.
+
+2.
+
+Strip approximately 1½ inches from each broken end
+of the wire.
+
+3.
+
+Lay the stripped ends side by side and twist one wire
+around the other with approximately four turns.
+
+4.
+
+Twist the free end of the second wire around the first
+
+Lacing cord
+
+Loose sleeve
+Figure 4-112. Insulating sleeves.
+
+4-63
+
+===== PDF PAGE 223 =====
+Protective cover
+
+Cover hole to prevent forcing
+petroleum compound out.
+
+Petrolatum compound
+Removing cover
+
+Check to see if wire is properly inserted.
+
+Half full of compound
+
+Strip
+wireped
+
+Figure 4-113. Inserting aluminum wire into aluminum terminal lugs.
+
+Connecting Terminal Lugs to Terminal Blocks
+
+Thinner wire doubled over
+
+Heavy wire
+
+Cover with vinyl tube tied at both ends
+Figure 4-114. Reducing wire size with a permanent splice.
+
+wire with approximately four turns. Solder the wire
+turns together using 60⁄40 tin-lead resin-core solder.
+5.
+
+When solder is cool, draw the sleeve over the soldered
+wires and tie at one end. If potting compound is
+available, fill the sleeve with potting material and
+tie securely.
+
+6.
+
+Allow the potting compound to set without touching
+for 4 hours. Full cure and electrical characteristics are
+achieved in 24 hours.
+
+Terminal lugs should be installed on terminal blocks in such a
+manner that they are locked against movement in the direction
+of loosening. [Figure 4-116]
+Terminal blocks are normally supplied with studs secured
+in place by a plain washer, an external tooth lockwasher,
+and a nut. In connecting terminals, a recommended practice
+is to place copper terminal jugs directly on top of the nut,
+followed with a plain washer and elastic stop nut, or with a
+plain washer, split steel lockwasher, and plain nut.
+Aluminum terminal lugs should be placed over a plated
+brass plain washer, followed with another plated brass plain
+washer, split steel lockwasher, and plain nut or elastic stop
+nut. The plated brass washer should have a diameter equal to
+the tongue width of the aluminum terminal lug. Consult the
+manufacturer’s instructions for recommended dimensions of
+these plated brass washers. Do not place any washer in the
+current path between two aluminum terminal lugs or between
+two copper terminal lugs. Also, do not place a lockwasher
+directly against the tongue or pad of the aluminum terminal.
+To join a copper terminal lug to an aluminum terminal lug,
+place a plated brass plain washer over the nut that holds the
+stud in place; follow with the aluminum terminal lug, a plated
+
+4-64
+
+===== PDF PAGE 224 =====
+1½" (approx.)
+
+1½" (approx.)
+
+Step 1
+
+3.
+
+Prevent development of radio-frequency potentials,
+
+4.
+
+Protect personnel from shock hazard,
+
+5.
+
+Provide stability of radio transmission and reception,
+and
+
+6.
+
+Prevent accumulation of static charge.
+
+Step 2
+
+Step 3
+
+General Bonding & Grounding Procedures
+The following general procedures and precautions are
+recommended when making bonding or grounding connections.
+1.
+
+Bond or ground parts to the primary aircraft structure,
+where practicable.
+
+2.
+
+Make bonding or grounding connections in such
+a manner that no part of the aircraft structure is
+weakened.
+
+3.
+
+Bond parts individually, if possible.
+
+Step 5
+
+4.
+
+Install bonding or grounding connections against
+smooth, clean surfaces.
+
+Figure 4-115. Repairing broken wire by soldering and potting.
+
+5.
+
+Install bonding or grounding connections so that
+vibration, expansion or contraction, or relative
+movement in normal service does not break or loosen
+the connection.
+
+6.
+
+Install bonding and grounding connections in
+protected areas whenever possible.
+
+Step 4
+
+Figure 4-116. Connecting terminals to terminal block.
+
+brass plain washer, the copper terminal lug, plain washer, split
+steel lockwasher and plain nut or self-locking, all metal nut.
+As a general rule, use a torque wrench to tighten nuts to ensure
+sufficient contact pressure. Manufacturer’s instructions
+provide installation torques for all types of terminals.
+
+Bonding & Grounding
+Bonding is the electrical connecting of two or more
+conducting objects not otherwise connected adequately.
+Grounding is the electrical connecting of a conducting
+object to the primary structure for return of current. Primary
+structure is the main frame, fuselage, or wing structure of
+the aircraft. Bonding and grounding connections are made
+in aircraft electrical systems to:
+1.
+
+Protect aircraft and personnel against hazards from
+lightning discharge,
+
+2.
+
+Provide current return paths,
+
+Bonding jumpers should be kept as short as practicable, and
+installed so that the resistance of each connection does not
+exceed 0.003 ohm. The jumper should not interfere with
+the operation of movable aircraft elements, such as surface
+controls; normal movement of these elements should not
+result in damage to the bonding jumper.
+To be sure a low resistance connection has been made,
+nonconducting finishes, such as paint and anodizing films,
+should be removed from the surface to be contacted by the
+bonding terminal.
+Electrolytic action can rapidly corrode a bonding connection
+if suitable precautions are not observed. Aluminum alloy
+jumpers are recommended for most cases; however,
+copper jumpers can be used to bond together parts made
+of stainless steel, cadmium-plated steel, copper, brass, or
+bronze. Where contact between dissimilar metals cannot
+be avoided, the choice of jumper and hardware should be
+such that corrosion is minimized, and the part most likely to
+corrode is the jumper or associated hardware. Parts A and B
+of Figure 4-117 illustrate some proper hardware combinations
+for making bonding connections. At locations where finishes
+are removed, a protective finish should be applied to the
+completed connection to prevent corrosion.
+
+4-65
+
+===== PDF PAGE 225 =====
+jumpers carry a substantial amount of ground return current, the
+current rating of the jumper should be adequate, and it should
+be determined that a negligible voltage drop is produced.
+
+Cadmium plated steel screw
+Clamp
+
+Copper terminal
+
+Aluminum washers
+
+Cylindrical surface
+
+Bonding and grounding connections are normally made to
+flat surfaces by means of through-bolts or screws where there
+is easy access for installation. The general types of bolted
+connections are:
+1.
+
+In making a stud connection, a bolt or screw is
+locked securely to the structure becoming a stud.
+[Figure 4-118] Grounding or bonding jumpers can
+be removed or added to the shank of the stud without
+removing the stud from the structure.
+
+2.
+
+Nutplates are used where access to the nut for repairs
+is difficult. Nutplates are riveted or welded to a clean
+area of the structure. [Figure 4-119]
+
+Cadmium plated steel lockwasher
+
+Cadmium plated steel locknut
+A. Copper jumper connection to tubular structure
+Cadmium plated steel screw
+Clamp
+
+Aluminum washer
+Structure
+
+Aluminum washer
+
+Cadmium plated steel lockwasher
+Cadmium plated locknut
+Aluminum alloy or corrosion-resisting steel conduit
+
+Bonding and grounding connections are also made to a tab
+riveted to a structure. [Figure 4-120] In such cases, it is
+important to clean the bonding or grounding surface and
+make the connection as though the connection were being
+made to the structure. If it is necessary to remove the tab for
+any reason, the rivets should be replaced with rivets one size
+larger, and the mating surfaces of the structure and the tab
+should be clean and free of anodic film.
+Bonding or grounding connections can be made to aluminum
+alloy, magnesium, or corrosion-resistant steel tubular
+
+B. Bonding conduit to structure
+Screw or bolt
+Cadmium plated steel screw
+Clamp
+
+Lockwasher
+
+Aluminum washer
+Copper terminal
+Aluminum washers
+
+Cylindrical surface
+
+Washer
+
+Cadmium plated steel lockwasher
+
+Washer
+
+Washer
+
+Structure
+
+Terminal (limit to 4)
+
+Plain nut
+
+Washer
+Lockwasher
+
+Locknut
+
+Figure 4-118. Stud bonding or grounding to a flat surface.
+
+Cadmium plated steel locknut
+Screw or bolt
+C. Aluminum jumper connection to tubular structure
+Washers
+
+Lockwasher
+Terminal (limited to 4)
+
+Figure 4-117. Hardware combinations used in making bonding
+
+connections.
+
+The use of solder to attach bonding jumpers should be avoided.
+Tubular members should be bonded by means of clamps to
+which the jumper is attached. The proper choice of clamp
+material minimizes the probability of corrosion. When bonding
+
+Nut plate
+Rivet or weld
+
+Figure 4-119. Nut plate bonding or grounding to flat surface.
+
+4-66
+
+===== PDF PAGE 226 =====
+of the material of the structure to which attachment is made
+and on the material of the jumper and terminal specified for
+the bonding or grounding connection. Either a screw or bolt
+of the proper size for the specified jumper terminal should
+be used. When repairing or replacing existing bonding or
+grounding connections, the same type of hardware used in
+the original connection should always be used.
+
+Connectors
+Connectors (plugs and receptacles) facilitate maintenance
+when frequent disconnection is required. Since the cable
+is soldered to the connector inserts, the joints should be
+individually installed and the cable bundle firmly supported to
+avoid damage by vibration. Connectors have been particularly
+vulnerable to corrosion in the past, due to condensation within
+the shell. Special connectors with waterproof features have
+been developed that may replace nonwaterproof plugs in
+areas where moisture causes a problem. A connector of the
+same basic type and design should be used when replacing
+a connector. Connectors that are susceptible to corrosion
+difficulties may be treated with a chemically inert waterproof
+jelly. When replacing connector assemblies, the socket-type
+insert should be used on the half that is “ live” or “hot” after the
+connector is disconnected to prevent unintentional grounding.
+
+Bonding or grounding
+area—clean before
+installing connection
+
+This area of structure and back
+of tab must be cleaned before
+riveting tab to structure.
+
+Figure 4-120. Bonding or grounding tab riveted to structure.
+
+structure. Figure 4-121 shows the arrangement of hardware
+for bonding with an aluminum jumper. Because of the ease
+with which aluminum is deformed, it is necessary to distribute
+screw and nut pressure by means of plain washers.
+Hardware used to make bonding or grounding connections
+should be selected on the basis of mechanical strength,
+current to be carried, and ease of installation. If connection
+is made by aluminum or copper jumpers to the structure of
+a dissimilar material, a washer of suitable material should be
+installed between the dissimilar metals so that any corrosion
+occurs on the washer.
+
+Types of Connectors
+Connectors are identified by Air Force-Navy (AN) numbers
+and are divided into classes with the manufacturer’s
+variations in each class. The manufacturer’s variations are
+differences in appearance and in the method of meeting a
+specification. Some commonly used connectors are shown in
+Figure 4-122. There are five basic classes of AN connectors
+used in most aircraft. Each class of connector has slightly
+different construction characteristics. Classes A, B, C, and D
+are made of aluminum, and class K is made of steel.
+1.
+
+Hardware material and finish should be selected on the basis
+Clamp
+
+Class A—solid, one-piece back shell general-purpose
+connector.
+
+Steel screw
+Plain aluminum washer
+Aluminum terminal
+
+Plain aluminum washer
+
+Cylindrical Surface
+Cadmium-plated steel locknut
+
+Cadmium-plated steel lockwasher
+
+Figure 4-121. Bonding or grounding connections to a cylindrical structure.
+
+4-67
+
+===== PDF PAGE 227 =====
+AN3102 Box receptacle
+
+AN3101 Cable receptacle
+
+AN3102 Box receptacle
+
+AN3107 MCK disconnect plug
+
+AN3106 Straight plug
+
+AN3106 Straight plug
+
+AN3108 Angle plug
+
+AN3106 Angle plug
+
+Figure 4-122. AN connectors.
+
+2.
+
+Class B—connector back shell separates into two parts
+lengthwise. Used primarily where it is important that
+the soldered connectors are readily accessible. The
+back shell is held together by a threaded ring or by
+screws.
+
+3.
+
+Class C—a pressurized connector with inserts that
+are not removable. Similar to a class A connector
+in appearance, but the inside sealing arrangement is
+sometimes different. It is used on walls or bulkheads
+of pressurized equipment.
+
+4.
+
+Class D—moisture and vibration resistant connector
+that has a sealing grommet in the back shell. Wires are
+threaded through tight fitting holes in the grommet,
+sealing against moisture.
+
+5.
+
+Class K—a fireproof connector used in areas where it
+is vital that the electric current is not interrupted, even
+though the connector may be exposed to continuous
+open flame. Wires are crimped to the pin or socket
+contacts and the shells are made of steel. This class of
+connector is normally longer than other connectors.
+
+Connector Identification
+Code letters and numbers are marked on the coupling ring
+or shell to identify a connector. This code provides all the
+information necessary to obtain the correct replacement for
+a defective or damaged part. [Figure 4-123]
+Many special-purpose connectors have been designed for
+4-68
+
+===== PDF PAGE 228 =====
+use in aircraft applications. These include subminiature and
+rectangular shell connectors, and connectors with short body
+shells, or of split-shell construction.
+Installation of Connectors
+The following procedures outline one recommended method
+of assembling connectors to receptacles:
+1.
+
+Locate the proper position of the plug in relation to
+the receptacle by aligning the key of one part with the
+groove or keyway of the other part.
+
+2.
+
+Start the plug into the receptacle with a slight forward
+pressure and engage the threads of the coupling ring
+and receptacle.
+
+3.
+
+Alternately push in the plug and tighten the coupling
+ring until the plug is completely seated.
+
+4.
+
+Use connector pliers to tighten coupling rings onesixteenth to one-eighth turn beyond finger tight if
+space around the connector is too small to obtain a
+good finger grip.
+
+5.
+
+Never use force to mate connectors to receptacles.
+
+Do not hammer a plug into its receptacle and never use a
+torque wrench or pliers to lock coupling rings.
+A connector is generally disassembled from a receptacle in
+the following manner:
+1.
+
+Use connector pliers to loosen coupling rings that are
+too tight to be loosened by hand.
+
+2.
+
+Alternately pull on the plug body and unscrew the
+coupling ring until the connector is separated.
+
+3.
+
+Protect disconnected plugs and receptacles with
+caps or plastic bags to keep debris from entering and
+causing faults.
+
+4.
+
+Do not use excessive force and do not pull on attached
+wires.
+
+Standard
+AN
+
+Type (straight plug)
+
+C
+
+A
+
+S
+
+Class
+Size (in 1/16")
+Contact arrangement number
+
+i
+
+B
+
+6 A 18 -4
+310
+
+D
+
+Contact style (socket)
+
+Conduit
+Conduit is used in aircraft installations for the mechanical
+protection of wires and cables. It is available in metallic and
+nonmetallic materials and in both rigid and flexible form.
+When selecting conduit size for a specific cable bundle
+application, it is common practice to allow for ease in
+maintenance and possible future circuit expansion by
+specifying the conduit inner diameter about 25 percent larger
+than the maximum diameter of the conductor bundle. The
+nominal diameter of a rigid metallic conduit is the outside
+diameter. Therefore, to obtain the inside diameter, subtract
+twice the tube wall thickness.
+From the abrasion standpoint, the conductor is vulnerable
+at the ends of the conduit. Suitable fittings are affixed to
+conduit ends in such a manner that a smooth surface comes in
+contact with the conductor within the conduit. When fittings
+are not used, the conduit end should be flared to prevent wire
+insulation damage. The conduit is supported by clamps along
+the conduit run.
+Many of the common conduit installation problems can be
+avoided by proper attention to the following details:
+1.
+
+Do not locate conduit where it can be used as a
+handhold or footstep.
+
+2.
+
+Provide drain holes at the lowest point in a conduit
+run. Drilling burrs should be carefully removed from
+the drain holes.
+
+3.
+
+Support the conduit to prevent chafing against the
+structure and to avoid stressing its end fittings.
+
+Damaged conduit sections should be repaired to prevent
+injury to the wires or wire bundle. The minimum acceptable
+tube bend radii for rigid conduit as prescribed by the
+manufacturer’s instructions should be carefully followed.
+Kinked or wrinkled bends in a rigid conduit are normally
+not considered acceptable.
+Flexible aluminum conduit is widely available in two types:
+bare flexible and rubber-covered conduit. Flexible brass
+conduit is normally used instead of flexible aluminum where
+it is necessary to minimize radio interference. Flexible
+conduit may be used where it is impractical to use rigid
+conduit, such as areas that have motion between conduit ends
+or where complex bends are necessary. Transparent adhesive
+tape is recommended when cutting flexible conduit with a
+hacksaw to minimize fraying of the braid.
+
+Insert rotation
+Figure 4-123. AN connector markings.
+
+4-69
+
+===== PDF PAGE 229 =====
+Electrical Equipment Installation
+This section provides general procedures and safety
+precautions for installation of commonly used aircraft
+electrical equipment and components. Electrical load limits,
+acceptable means of controlling or monitoring electrical
+loads, and circuit protection devices are subjects with which
+mechanics must be familiar to properly install and maintain
+aircraft electrical systems.
+Electrical Load Limits
+When installing additional electrical equipment that
+consumes electrical power in an aircraft, the total electrical
+load must be safely controlled or managed within the rated
+limits of the affected components of the aircraft’s powersupply system. Regulation of the field current strength is
+used to control DC generator voltage.
+Before any aircraft electrical load is increased, the associated
+wires, cables, and circuit-protection devices, such as fuses
+or circuit breakers, should be checked to determine that the
+new electrical load—previous maximum load plus added
+load—does not exceed the rated limits of the existing wires,
+cables, or protection devices.
+The generator or alternator output ratings prescribed by the
+manufacturer should be compared with the electrical loads
+that can be imposed on the affected generator or alternator
+by installed equipment. When the comparison shows that the
+probable total connected electrical load can exceed the output
+load limits of the generator(s) or alternator(s), the load should
+be reduced so that an overload cannot occur. When a storage
+battery is part of the electrical power system, ensure that the
+battery is continuously charged in flight, except when short
+intermittent loads are connected, such as a radio transmitter,
+a landing gear motor, or other similar devices that may place
+short-time demand loads on the battery.
+Controlling or Monitoring the Electrical Load
+Placards are recommended to inform crewmembers of an
+aircraft about the combinations of loads that can safely be
+connected to the power source.
+In installations where the ammeter is in the battery lead
+and the regulator system limits the maximum current that
+the generator or alternator can deliver, a voltmeter can be
+installed on the system bus. As long as the ammeter does
+not read discharge, except for short intermittent loads such
+as operating the gear and flaps, and the voltmeter remains at
+system voltage, the generator or alternator is not overloaded.
+The ammeter can be redlined at 100 percent of the generator
+or alternator rating in installations with the ammeter in the
+generator or alternator lead, and the regulator system does
+
+not limit the maximum current that the generator or alternator
+can deliver. If the ammeter reading is never allowed to exceed
+the red line, except for short, intermittent loads, the generator
+or alternator is not overloaded.
+Where the use of placards or monitoring devices is not
+practical or desired, and where assurance is needed that the
+battery in a typical small aircraft generator or battery power
+source is charged in flight, the total continuous connected
+electrical load may be held to approximately 80 percent of
+the total rated generator output capacity. When more than
+one generator is used in parallel, the total rated output is the
+combined output of the installed generators.
+Means must be provided for quickly coping with the sudden
+overloads that can be caused by generator or engine failure if
+two or more generators are operated in parallel and the total
+connected system load can exceed the rated output of one
+generator. A quick load-reduction system can be employed
+or a specified procedure where the total load is reduced to
+a quantity that is within the rated capacity of the remaining
+operable generator or generators.
+Electrical loads should be connected to inverters, alternators,
+or similar aircraft electrical power sources in such a manner
+that the rated limits of the power source are not exceeded,
+unless some type of effective monitoring means is provided
+to keep the load within prescribed limits.
+Circuit Protection Devices
+Conductors should be protected with circuit breakers or fuses
+located as close as possible to the electrical power source
+bus. Normally, the manufacturer of the electrical equipment
+specifies the fuse or circuit breaker to be used when installing
+the equipment.
+The circuit breaker or fuse should open the circuit before the
+conductor emits smoke. To accomplish this, the time/current
+characteristic of the protection device must fall below that
+of the associated conductor. Circuit protector characteristics
+should be matched to obtain the maximum utilization of the
+connected equipment.
+Figure 4-124 shows an example of the table used in selecting
+the circuit breaker and fuse protection for copper conductors.
+This limited table is applicable to a specific set of ambient
+temperatures and wire bundle sizes and is presented as a
+typical example only. It is important to consult such guides
+before selecting a conductor for a specific purpose. For
+example, a wire run individually in the open air may be
+protected by the circuit breaker of the next higher rating to
+that shown in the table.
+
+4-70
+
+===== PDF PAGE 230 =====
+Wire AN
+Gauge Copper
+
+Circuit
+Breaker Amperage
+
+Fuse
+Amperage
+
+22
+
+5.0
+
+5
+
+20
+
+7.5
+
+5
+
+18
+
+10.0
+
+10
+
+16
+
+15.0
+
+10
+
+14
+
+20.0
+
+15
+
+12
+
+30.0
+
+20
+
+10
+
+40.0
+
+30
+
+8
+
+50.0
+
+50
+
+6
+
+80.0
+
+70
+
+4
+
+100.0
+
+70
+
+2
+
+125.0
+
+100
+
+1
+
+150
+
+0
+
+150
+
+Figure 4-124. Wire and circuit protector table.
+
+All resettable circuit breakers should open the circuit in which
+they are installed, regardless of the position of the operating
+control when an overload or circuit fault exists. Such circuit
+breakers are referred to as trip-free. Automatic reset circuit
+breakers automatically reset themselves periodically. They
+should not be used as circuit protection devices in aircraft.
+Switches
+A specifically designed switch should be used in all circuits
+in which a switch malfunction would be hazardous. Such
+switches are of rugged construction and have sufficient
+contact capacity to break, make, and carry continuously
+the connected load current. Snap-action design is generally
+preferred to obtain rapid opening and closing of contacts
+regardless of the speed of the operating toggle or plunger,
+thereby minimizing contact arcing.
+The nominal current rating of the conventional aircraft
+switch is usually stamped on the switch housing. This rating
+represents the continuous current rating with the contacts
+closed. Switches should be derated from their nominal current
+rating for the following types of circuits:
+1.
+
+High rush-in circuits—circuits containing incandescent
+lamps can draw an initial current that is 15 times
+greater than the continuous current. Contact burning
+or welding may occur when the switch is closed.
+
+2.
+
+Inductive circuits—magnetic energy stored in solenoid
+coils or relays is released and appears as an arc as the
+control switch is opened.
+
+3.
+
+Motors—direct current motors draw several times
+their rated current during starting, and magnetic energy
+stored in their armature and field coils is released when
+the control switch is opened.
+
+Figure 4-125 is typical of those tables available for selecting
+the proper nominal switch rating when the continuous load
+current is known. This selection is essentially a derating to
+obtain reasonable switch efficiency and service life.
+Hazardous errors in switch operation can be avoided by
+logical and consistent installation. Two position on-off
+switches should be mounted so that the on position is reached
+by an upward or forward movement of the toggle. When the
+switch controls movable aircraft elements, such as landing
+gear or flaps, the toggle should move in the same direction
+as the desired motion. Inadvertent operation of a switch can
+be prevented by mounting a suitable guard over the switch.
+Relays
+Relays are used as switching devices in which a weight
+reduction can be achieved or electrical controls can be
+simplified. A relay is an electrically operated switch and
+is therefore subject to dropout under low system voltage
+conditions. The previous discussion of switch ratings is
+generally applicable to relay contact ratings.
+Nominal System
+Voltage
+
+Type of
+Load
+
+Derating
+Factor
+
+24 VDC
+
+Lamp
+
+8
+
+24 VDC
+
+Inductive (Relay-Solenoid)
+
+4
+
+24 VDC
+
+Resistive (Heater)
+
+2
+
+24 VDC
+
+Motor
+
+3
+
+12 VDC
+
+Lamp
+
+5
+
+12 VDC
+
+Inductive (Relay-Solenoid)
+
+2
+
+12 VDC
+
+Resistive (Heater)
+
+1
+
+12 VDC
+
+Motor
+
+2
+
+Figure 4-125. Switch derating factors.
+
+4-71
+

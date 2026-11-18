@@ -1,0 +1,2252 @@
+FAA-H-8083-30B General Handbook, chapter 12 (Fundamentals of Electricity & Electronics), PDF pages 481-498
+
+===== PDF PAGE 481 =====
+Checking work
+ET = 10 V + 30 V + 60 V = 100 V
+
+Parallel DC Circuits
+A circuit in which two of more electrical resistances or loads
+are connected across the same voltage source is called a
+parallel circuit. The primary difference between the series
+circuit and the parallel circuit is that more than one path is
+provided for the current in the parallel circuit. Each of these
+parallel paths is called a branch. The minimum requirements
+for a parallel circuit are the following:
+•
+
+A power source
+
+•
+
+Conductors
+
+•
+
+A resistance or load for each current path
+
+•
+
+Two or more paths for current flow
+
+Figure 12-96 depicts the most basic parallel circuit. Current
+flowing out of the source divides at point A in the diagram
+and goes through R1 and R2. As more branches are added to
+the circuit, more paths for the source current are provided.
+Voltage Drops
+The first point to understand is that the voltage across any
+branch is equal to the voltage across all of the other branches.
+Total Parallel Resistance
+The parallel circuit consists of two or more resistors connected
+in such a way as to allow current flow to pass through all of the
+resistors at once. This eliminates the need for current to pass
+one resistor before passing through the next. When resistors
+are connected in parallel, the total resistance of the circuit
+
++
+−
+
+R1
+
+E1
+
+R2
+
+E2
+
+decreases. The total resistance of a parallel combination is
+always less than the value of the smallest resistor in the circuit.
+In the series circuit, the current has to pass through the resistors
+one at a time. This gave a resistance to the current equal the sum
+of all the resistors. In the parallel circuit, the current has several
+resistors that it can pass through, actually reducing the total
+resistance of the circuit in relation to any one resistor value.
+The amount of current passing through each resistor varies
+according to its individual resistance. The total current of
+the circuit is the sum of the current in all branches. It can
+be determined by inspection that the total current is greater
+than that of any given branch. Using Ohm’s Law to calculate
+the total resistance based on the applied voltage and the total
+current, it can be determined that the total resistance is less
+than any branch.
+An example of this is if there was a circuit with a 100 Ω
+resistor and a 5 Ω resistor; while the exact value must be
+calculated, it still can be said that the combined resistance
+between the two is less than the 5 Ω.
+Resistors in Parallel
+The formula for the total parallel resistance is as follows:
+1 = 1 + 1 + 1 + ... 1
+R1
+RT
+R2 R3
+RN
+If the reciprocal of both sides is taken, then the general
+formula for the total parallel resistance is:
+RT =
+
+Two Resistors in Parallel
+Typically, it is more convenient to consider only two resistors
+at a time because this setup occurs in common practice. Any
+number of resistors in a circuit can be broken down into pairs.
+Therefore, the most common method is to use the formula
+
++
++
+ES
+−
+
++
+
+−
+
+−
+
++
+R3
+
+E3
+
+−
+
++
+ES100 v
+−
+
++
+−
+
+1
+1
+1
++
++ 1 + ... 1
+R1
+R2 R3
+RN
+
+R1 100 Ω
+
++
+R2 300 Ω
+−
++
+
+R4
+
+Figure 12-94. Four resistor voltage divider.
+
+E4
+
+R3 600 Ω
+−
+
+Figure 12-95. Network of three resistors and one voltage source.
+
+12-40
+
+===== PDF PAGE 482 =====
+for two resistors in parallel.
+RT =
+
+General formula IT = I1 + I2 + I3
+
+1
+1
++ 1
+R1
+R2
+
+Combining the terms in the denominator and rewriting:
+RT =
+
+R1R2
+R1 + R2
+
+Put in words, this states that the total resistance for two
+resistors in parallel is equal to the product of both resistors
+divided by the sum of the two resistors. In the formula below,
+calculate the total resistance.
+General formula
+Known values
+
+RT =
+
+R1R2
+R1 + R2
+
+Figure 12-98 shows that the individual branch currents are:
+
+R1 = 500 Ω
+R2 = 400 Ω
+RT = 500 Ω 400 Ω
+500 Ω + 400 Ω
+200,000
+Ω
+RT =
+900 Ω
+
+I1 = 5 mA
+I2 = 12 mA
+The total current flow into the node A equals the sum of the
+branch currents, which is: IT = I1 + I2
+
+RT = 222.22 Ω
+
+Current Source
+A current source is an energy source that provides a constant
+value of current to a load even when the load changes in
+resistive value. The general rule to remember is that the total
+current produced by current sources in parallel is equal to the
+algebraic sum of the individual sources.
+Kirchhoff’s Current Law
+Kirchhoff’s Current Law can be stated as: the sum of the
+currents into a junction or node is equal to the sum of the
+currents flowing out of that same junction or node. A junction
+can be defined as a point in the circuit where two or more
+circuit paths come together. In the case of the parallel circuit,
+it is the point in the circuit where the individual branches join.
+
+A
+
++
+
+−
+
++
+
++
+
+ES
+
+R1
+
+R2
+
+−
+
+−
+
+B
+
+Refer to Figure 12-97 for an example. Point A and point B
+represent two junctions or nodes in the circuit with three
+resistive branches in between. The voltage source provides
+a total current IT into node A. At this point, the current must
+divide, flowing out of node A into each of the branches
+according to the resistive value of each branch. Kirchhoff’s
+Current Law states that the current going in must equal that
+going out. Following the current through the three branches
+and back into node B, the total current IT entering node B
+and leaving node B is the same as that which entered node
+A. The current then continues back to the voltage source.
+
+Substitute IT = 5 mA + 12 mA
+
+IT = 17 mA
+The total current entering node B is also the same.
+Figure 12-99 illustrates how to determine an unknown current
+in one branch. Note that the total current into a junction of
+the three branches is known. Two of the branch currents are
+known. By rearranging the general formula, the current in
+branch two can be determined.
+General formula
+Substitute
+Solve I2
+
+IT = I1 + I2 + I3
+75 mA = 30 mA + I2 + 20 mA
+I2 = 75 mA – 30 mA – 20 mA
+I2 = 25 mA
+
+Current Dividers
+It can now be easily seen that the parallel circuit is a current
+divider. As shown in Figure 12-96, there is a current through
+each of the two resistors. Because the same voltage is applied
+across both resistors in parallel, the branch currents are
+inversely proportional to the ohmic values of the resistors.
+Branches with higher resistance have less current than those
+with lower resistance. For example, if the resistive value of
+R2 is twice as high as that of R1, the current in R2 is half of
+that of R1. All of this can be determined with Ohm’s Law.
+By Ohm’s Law, the current through any one of the branches
+can be written as:
+
+Figure 12-96. Basic parallel circuit.
+
+12-41
+
+===== PDF PAGE 483 =====
+IX = ES/RX
+
+IT
+A
+
+The voltage source appears across each of the parallel resistors
+and RX represents any one the resistors. The source voltage
+is equal to the total current times the total parallel resistance.
++
+
+					ES = ITRT
+I R
+IX = T T
+Substituting ITRT for ES
+RX
+IX =
+
+2
+1
+
+And
+
+2
+
+T
+1
+
+T
+
+−
+
+I3
+
++
+
++
+
++
+
+R1
+
+R2
+
+R3
+
+−
+
+−
+
+−
+
+ES
+
+( )I
+R
+I =( )I
+R
+I =(R )I
+R
+
+Rearranging
+
+RT
+RX
+
+I1
+
+T
+
+T
+
+B
+IT
+
+T
+
+Figure 12-97. Kirchhoff’s Current Law.
+
+This formula is the general current divider formula. The
+current through any branch equals the total parallel resistance
+divided by the individual branch resistance, multiplied by
+the total current.
+
+IT=17 mA
+A
+I1=5 mA
+
+I2=12 mA
+
+Series-Parallel DC Circuits
+Most of the circuits that the technician encounters will not
+be a simple series or parallel circuit. Circuits are usually a
+combination of both, known as series-parallel circuits, which
+are groups consisting of resistors in parallel and in series. An
+example of this type of circuit can be seen in Figure 12-100.
+While the series-parallel circuit can initially appear to be
+complex, the same rules that have been used for the series
+and parallel circuits can be applied to these circuits.
+The voltage source provides a current out to resistor R1,
+then to the group of resistors R2 and R3 and then to the next
+resistor R4 before returning to the voltage source. The first
+step in the simplification process is to isolate the group R2
+and R3 and recognize that they are a parallel network that
+can be reduced to an equivalent resistor. Using the formula
+for parallel resistance,
+
++
+ES
+−
+
++
+
+−
+
+−
+
+B
+
+Figure 12-98. Individual branch currents.
+
+IT=75 mA
+A
+I3=20 mA
+
+I1=30 mA
+
++
+
+I2=?
++
+
++
+
++
+
+−
+
+−
+
+−
+
+ES
+−
+
+Determining the Total Resistance
+A more quantitative example for determining total resistance
+and the current in each branch in a combination circuit is
+shown in the following example. [Figure 12-102]
+The first step is to determine the current at junction A,
+leading into the parallel branch. To determine the IT, the total
+
+R2
+
+IT=17 mA
+
+R2R3
+R23 =
+R2 + R3
+R2 and R3 can be reduced to R23. Figure 12-101 now shows
+an equivalent circuit with three series connected resistors. The
+total resistance of the circuit can now be simply determined
+by adding up the values of resistors R1, R23, and R4.
+
++
+R1
+
+B
+IT=75 mA
+Figure 12-99. Determining an unknown circuit in branch 2.
+
+12-42
+
+===== PDF PAGE 484 =====
+resistance RT of the entire circuit must be known. The total
+resistance of the circuit is given as:
+
+R1
+
+RT = R1 + R23
+R23 =
+
+Where
+
+( RR R+ R ) Parallel network
+2 3
+
+2
+
++
+
+3
+
+R23
+
+ES
+
+Find REQ
+
+R23 = 2k Ω 3k Ω
+2k Ω + 3k Ω
+
+Solve for REQ
+
+R23 = 6,000k Ω
+5k Ω
+R23 = 1.2k Ω
+
+Solve for RT
+
+RT = 1k Ω + 1.2k Ω
+RT = 2.2k Ω
+
+−
+
+R4
+
+Figure 12-101. Equivalent circuit with three series connected
+
+resistors.
+
+With the total resistance RT now determined, the total IT can
+be determined. Using Ohm’s Law:
+
+			 IT = 10.9 mA
+The current through the parallel branches of R2 and R3 can
+be determined using the current divider rule discussed earlier
+in this handbook.
+Recall Parallel Branch Resistance:
+
+R23 = 1.2k Ω
+
+I2 + I3 = IT
+Recall that IT = 10.9 mA
+IT – I2 = I3
+Also recall that I2 = 6.54 mA
+Subtract I2 from IT to get I3
+I3 = 4.36 mA
+
+Alternating Current (AC) & Voltage
+
+6,000 Ω
+5,000 Ω
+
+R23 =
+
+x (10.9 mA)
+
+Now using Kirchhoff’s Current Law, the current in the branch
+with R3 can be determined.
+
+E
+
+IT = S
+R
+T
+
+24
+V
+Substitute values
+IT =
+2.2k Ω
+
+I2 = 1,200 Ω
+2,000 Ω
+I2 = 6.54 mA
+
+Alternating current (AC) has largely replaced direct current
+(DC) in commercial power systems for a number of reasons.
+It can be transmitted over long distances more readily and
+more economically than DC, since AC voltages can be
+
+Substitute values for I2:
+
+R1
+1k Ω
+
+R1
+
+A
+
+A
+
++
+ES
+
+R3
+
+R2
+
+−
+
++
+ES=24 V
+
+R2
+2k Ω
+
+R3
+3k Ω
+
+−
+B
+R4
+
+Figure 12-100. Series-parallel circuits.
+
+B
+Figure 12-102. Determining total resistance.
+
+12-43
+
+===== PDF PAGE 485 =====
+increased or decreased by means of transformers.
+
+current is flowing. [Figure 12-104B]
+
+Because more and more units are being operated electrically
+in airplanes, the power requirements are such that a number
+of advantages can be realized by using AC. Space and
+weight can be saved since AC devices, especially motors, are
+smaller and simpler than DC devices. In most AC motors,
+no brushes are required, and commutation trouble at high
+altitude is eliminated. Circuit breakers operate satisfactorily
+under load at high altitudes in an AC system, whereas arcing
+is so excessive on DC systems that circuit breakers must be
+replaced frequently. Finally, most airplanes using a 24-volt
+DC system have special equipment that requires a certain
+amount of 400-cycle AC current.
+
+In Figure 12-104C, the galvanometer indicates a current
+flow in the opposite direction when the magnet is pulled
+from the cylinder.
+
+AC and DC Compared
+Many of the principles, characteristics, and effects of AC
+are similar to those of DC. Similarly, there are a number of
+differences. DC flows constantly in only one direction with
+a constant polarity. It changes magnitude only when the
+circuit is opened or closed, as shown in the DC waveform
+in Figure 12-103. AC changes direction at regular intervals,
+increases in value at a definite rate from zero to a maximum
+positive strength, and decreases back to zero; then it flows
+in the opposite direction, similarly increasing to a maximum
+negative value, and again decreasing to zero. DC and AC
+waveforms are compared in Figure 12-103.
+
+When a conductor is moved through a magnetic field, an emf
+is induced in the conductor. [Figure 12-105] The direction
+(polarity) of the induced emf is determined by the magnetic
+lines of force and the direction the conductor is moved
+through the magnetic field. The generator left-hand rule
+(not to be confused with the left-hand rules used with a coil)
+can be used to determine the direction of the induced emf.
+[Figure 12-106] The left-hand rule is summed up as follows:
+
+Since AC constantly changes direction and intensity, the
+following two effects (to be discussed later) take place in
+AC circuits that do not occur in DC circuits:
+1.
+
+Inductive reactance
+
+2.
+
+Capacitive reactance
+
+Generator Principles
+After the discovery that an electric current flowing through
+a conductor creates a magnetic field around the conductor,
+there was considerable scientific speculation about whether
+a magnetic field could create a current flow in a conductor.
+In 1831, Faraday discovered that this could be accomplished.
+
+The same results may be obtained by holding the magnet
+stationary and moving the cylinder over the magnet, indicating
+that a current flows when there is relative motion between the
+wire coil and the magnetic field. These results obey a law first
+stated by the German scientist, Heinrich Lenz. Lenz’s Law
+states that the induced current caused by the relative motion
+of a conductor and a magnetic field always flows in such a
+direction that its magnetic field opposes the motion.
+
+The first finger of the left hand is pointed in the direction
+of the magnetic lines of force (North to South), the thumb
+is pointed in the direction of movement of the conductor
+through the magnetic field, and the second finger points in
+the direction of the induced emf.
+When a loop conductor is rotated in a magnetic field, a
+voltage is induced in each side of the loop. [Figure 12-107]
+The two sides cut the magnetic field in opposite directions,
+and although the current flow is continuous, it moves in
+opposite directions with respect to the two sides of the loop.
+If sides A and B and the loop are rotated half a turn and
+the sides of the conductor have exchanged positions, the
+induced emf in each wire reverses its direction, since the wire
+formerly cutting the lines of force in an upward direction is
+now moving downward.
+The value of an induced emf depends on three factors:
+
+To show how an electric current can be created by a magnetic
+field, a demonstration similar to Figure 12-104 can be used.
+Several turns of a conductor are wrapped around a cylindrical
+form, and the ends of the conductor are connected together
+to form a complete circuit, which includes a galvanometer.
+If a simple bar magnet is plunged into the cylinder, the
+galvanometer can be observed to deflect in one direction
+from its zero (center) position. [Figure 12-104A]
+
+Generators of Alternating Current
+Generators used to produce an alternating current are called
+AC generators or alternators.
+
+When the magnet is at rest inside the cylinder, the
+galvanometer shows a reading of zero, indicating that no
+
+The simple generator constitutes one method of generating
+an alternating voltage. [Figure 12-108] It consists of
+
+1.
+
+Number of wires moving through the magnetic field
+
+2.
+
+Strength of the magnetic field
+
+3.
+
+Speed of rotation
+
+12-44
+
+===== PDF PAGE 486 =====
+Volts
+
+Volts
+Closed
+switch
+
+Operation of circuit
+
+Waveform for AC
+
++
+
+Waveform for DC
+
+Open
+switch
+
+Time
+
+180°
+0°
+
+−
+
+270°
+
+360°
+
+90°
+
+Time
+
+Figure 12-103. DC and AC voltage curves.
+
+Motion of magnet
+
+Galvanometer
+
+I
+A
+S
+
+Coil
+
+I
+
+N
+
+S
+B
+
+Magnet at rest
+N
+
+a rotating loop, marked A and B, placed between two
+magnetic poles, N and S. The ends of the loop are connected
+to two metal slip rings (collector rings), C1 and C2. Current
+is taken from the collector rings by brushes. If the loop is
+considered as separate wires A and B, and the left-hand
+rule for generators is applied, then it can be observed that
+as wire A moves up across the field, a voltage is induced
+which causes the current to flow inward. As wire B moves
+down across the field, a voltage is induced which causes the
+current to flow outward. When the wires are formed into a
+loop, the voltages induced in the two sides of the loop are
+combined. Therefore, for explanatory purposes, the action
+of either conductor, A or B, while rotating in the magnetic
+field is similar to the action of the loop.
+Figure 12-109 illustrates the generation of AC with a simple
+loop conductor rotating in a magnetic field. As it is rotated
+in a counterclockwise direction, varying values of voltages
+are induced in it.
+
+Position 1
+The conductor A moves parallel to the lines of force. Since
+it cuts no lines of force, the induced voltage is zero. As the
+conductor advances from position 1 to position 2, the voltage
+induced gradually increases.
+Motion of magnet
+
+S
+
+N
+
+I
+
+C
+
+Position 2
+The conductor is now moving perpendicular to the flux
+and cuts a maximum number of lines of force; therefore, a
+maximum voltage is induced. As the conductor moves beyond
+position 2, it cuts a decreasing amount of flux at each instant,
+and the induced voltage decreases.
+
+Position 3
+I
+Figure 12-104. Inducing a current flow.
+
+At this point, the conductor has made one-half of a revolution
+and again moves parallel to the lines of force, and no voltage
+is induced in the conductor. As the A conductor passes
+position 3, the direction of induced voltage now reverses
+since the A conductor is moving downward, cutting flux
+12-45
+
+===== PDF PAGE 487 =====
+emf
+
+N
+
+N
+
+S
+
+B
+
+S
+A
+
+Motion of conductor
+Figure 12-105. Inducing an emf in a conductor.
+
+Figure 12-107. Voltage induced in a loop.
+
+in the opposite direction. As the A conductor moves across
+the South pole, the induced voltage gradually increases in a
+negative direction, until it reaches position 4.
+
+Position 4
+Like position 2, the conductor is again moving perpendicular
+to the flux and generates a maximum negative voltage. From
+position 4 to 5, the induced voltage gradually decreases until
+the voltage is zero, and the conductor and wave are ready to
+start another cycle.
+
+Position 5
+The curve shown at position 5 is called a sine wave. It
+represents the polarity and the magnitude of the instantaneous
+values of the voltages generated. The horizontal base line is
+divided into degrees, or time, and the vertical distance above
+or below the base line represents the value of voltage at each
+particular point in the rotation of the loop.
+
+Cycle and Frequency
+
+Cycle Defined
+
+A cycle is a repetition of a pattern. Whenever a voltage
+or current passes through a series of changes, returns to
+the starting point, and then again starts the same series of
+changes, the series is called a cycle. The cycle is represented
+by the symbol of a wavy line in a circle ~ . In the cycle of
+voltage shown in Figure 12-110, the voltage increases from
+zero to a maximum positive value, decreases to zero; then
+increases to a maximum negative value, and again decreases
+to zero. At this point, it is ready to go through the same series
+of changes. There are two alternations in a complete cycle:
+the positive alternation and the negative. Each is half a cycle.
+
+Frequency Defined
+The frequency is the number of cycles of AC per second (1
+
+uctor
+Cond d up
+e
+v
+o
+m
+d
+orwar
+Flux f
+
+ed
+
+ct
+du
+In f
+em
+
+S
+
+S
+N
+
+ed
+
+I
+
+ct
+ndu
+
+f
+
+em
+
+N
+
+Figure 12-106. An application of the generator left-hand rule.
+
+12-46
+
+===== PDF PAGE 488 =====
+N
+
+N
+
++
+
+B
+
+Brushes
+
+Out current
+
+In current
+
+A
+
+C2
+C1
+
+S
+
+S
+
+Figure 12-108. Simple generator.
+
+second). The standard unit of frequency measurement is the
+hertz (Hz). [Figure 12-111] In a generator, the voltage and
+current pass through a complete cycle of values each time
+a coil or conductor passes under a North and South pole of
+the magnet. The number of cycles for each revolution of the
+coil or conductor is equal to the number of pairs of poles.
+The frequency, then, is equal to the number of cycles in
+one revolution multiplied by the number of revolutions per
+second (rps).
+Expressed in equation form:
+Number of poles rpm
+F=
+×
+2
+60
+where P⁄2 is the number of pairs of poles, and rpm/60 the
+number of revolutions per second. If in a 2-pole generator,
+the conductor is turning at 3,600 rpm, the revolutions per
+second are:
+rps = 3,600 = 60 revolutions per second
+60
+Since there are 2 poles, P⁄2 is 1, and the frequency is 60 cycles
+per second (cps). In a 4-pole generator with an armature speed
+of 1,800 rpm, substitute in the equation:
+rpm
+F= P ×
+as follows
+2
+60
+F = 4 × 1,800
+2
+60
+F = 2 × 30
+
+F = 60 cps
+
+Period Defined
+The time required for a sine wave to complete one full cycle
+is called a period. [Figure 12-110] The period of a sine
+wave is inversely proportional to the frequency: the higher
+the frequency, the shorter the period. The mathematical
+relationship between frequency and period is given as:
+Period is t = 1
+f
+
+Frequency is f = 1t
+
+Wavelength Defined
+The distance that a waveform travels during a period is
+commonly referred to as a wavelength and is indicated by
+the Greek letter lambda (l). The measurement of wavelength
+is taken from one point on the waveform to a corresponding
+point on the next waveform. [Figure 12-110]
+Phase Relationships
+In addition to frequency and cycle characteristics, alternating
+voltage and current also have a relationship called “phase.”
+In a circuit that is fed (supplied) by one alternator, there
+must be a certain phase relationship between voltage and
+current if the circuit is to function efficiently. In a system
+fed by two or more alternators, not only must there be a
+certain phase relationship between voltage and current of
+one alternator, but there must be a phase relationship between
+the individual voltages and the individual currents. Also, two
+separate circuits can be compared by comparing the phase
+12-47
+
+===== PDF PAGE 489 =====
+Magnetic field
+
+N
+
+N
+
+C1
+
+C2
+
+A
+
+0° 90°
+
+180°
+
+270°
+
+360°
+
+C2
+
+C1
+
+N
+
+0° 90°
+
+B
+
+180°
+
+270°
+
+360°
+
+C1
+
+C2
+
+B
+
+S
+
+S
+
+0° 90°
+
+180°
+
+270°
+
+360°
+
+S
+
+Zero voltage
+
+Maximum positive voltage
+
+Position 1
+
+Position 2 Quarter turn completed
+
+Position 3
+
+Rotating conductors moving parallel to magnetic field, cutting
+minimum lines of force.
+
+Conductors cutting directly across the magnetic field as conductor
+A passes across the North (N) magnetic pole and B passes across
+the South (S) magnetic pole.
+
+Conductor again moving parallel to magnetic field, cutting minimum
+lines of force.
+
+N
+C1
+
+Voltage drops to zero
+
+One half turn completed
+
+N
+
+C2
+0° 90°
+
+180°
+
+270°
+
+360°
+
+S
+
+C1
+
+C2
+
+A
+
+0° 90°
+
+180°
+
+270°
+
+360°
+
+S
+Maximum negative voltage
+
+Zero voltage
+
+Position 4 Three quarters turn completed
+
+Position 5 Full turn completed
+
+Conductors again moving directly across magnetic field A passes
+across South (S) magnetic pole and B across North (N) magnetic pole.
+
+Conductor A has made one complete cycle and is in same position
+as in position A. The generator has generated one complete cycle
+of alternating voltage or current.
+
+Figure 12-109. Generation of a sine wave.
+
+characteristics of one to the phase characteristics of the other.
+
+In Phase Condition
+Figure 12-112A shows a voltage signal and a current signal
+superimposed on the same time axis. Notice that when the
+voltage increases in the positive alternation that the current
+also increases. When the voltage reaches its peak value, so
+does the current. Both waveforms then reverse and decrease
+back to a zero magnitude, then proceed in the same manner
+in the negative direction as they did in the positive direction.
+When two waves, such as these in Figure 12-112A, are exactly
+in step with each other, they are said to be in phase. To be in
+phase, the two waveforms must go through their maximum and
+minimum points at the same time and in the same direction.
+
+Out of Phase Condition
+When two waveforms go through their maximum and
+minimum points at different times, a phase difference exists
+between the two. In this case, the two wave-forms are said
+to be out of phase with each other. The terms lead and lag
+are often used to describe the phase difference between
+waveforms. The waveform that reaches its maximum or
+minimum value first is said to lead the other waveform.
+Figure 12-112B shows this relationship. Voltage source
+one starts to rise at the 0° position and voltage source two
+
+starts to rise at the 90° position. Because voltage source one
+begins its rise earlier in time (90°) in relation to the second
+voltage source, it is said to be leading the second source.
+On the other hand, the second source is said to be lagging
+the first source. When a waveform is said to be leading or
+lagging, the difference in degrees is usually stated. If the
+two waveforms differ by 360°, they are said to be in phase
+with each other. If there is a 180° difference between the two
+signals, then they are still out of phase even though they are
+both reaching their minimum and maximum values at the
+same time. [Figure 12-112C]
+A practical note of caution: When encountering an aircraft that
+has two or more AC busses in use, it is possible that they may
+be split and not synchronized to be in phase with each other.
+When two signals that are not locked in phase are mixed, much
+damage can occur to aircraft systems or avionics.
+Values of Alternating Current
+There are three values of AC: instantaneous, peak, and
+effective root mean square (RMS).
+
+Instantaneous Value
+An instantaneous value of voltage or current is the induced
+voltage or current flowing at any instant during a cycle. The
+sine wave represents a series of these values. The instantaneous
+12-48
+
+===== PDF PAGE 490 =====
+Positive alternation
+Vertical scale (voltage)
+
+0°
+
+Horizontal scale
+(Time)
+1T
+
+2T
+
+3T
+
+4T
+
+90°
+
+Negative
+alternation
+180° 270°
+1T
+
+Positive
+alternation
+
+360°
+1 second time
+Frequency = 2 cycles per second
+
+Negative
+alternation
+One cycle
+One period
+(Time)
+One wavelength
+(Distance)
+
+Frequency = 2 cycles per second
+
+Second cycle
+(Repeated)
+
+90° 180°
+0°
+
+Cycle is defined as a repetitive pattern.
+
+360°
+270°
+
+1 second time
+Frequency = 8 cycles per second
+
+Figure 12-110. Cycle of voltage.
+
+value of the voltage varies from zero at 0° to maximum at 90°,
+back to zero at 180°, to maximum in the opposite direction at
+270°, and to zero again at 360°. Any point on the sine wave is
+considered the instantaneous value of voltage.
+
+Figure 12-111. Frequency in cycles per second.
+
+Peak Value
+
+Algebraically rearranging the formula and solving for Vp can
+also determine the peak voltage. The resulting formula is:
+
+The peak value is the largest instantaneous value. The largest
+single positive value occurs when the sine wave of voltage is
+at 90°, and the largest single negative value occurs when it
+is at 270°. Maximum value is 1.41 times the effective value.
+These are called peak values.
+
+Effective Value
+The effective value is also known as the RMS value or root
+mean square, which refers to the mathematical process by
+which the value is derived. Most AC voltmeters display the
+effective or RMS value when used. The effective value is
+less than the maximum value, being equal to .707 times the
+maximum value.
+The effective value of a sine wave is actually a measure of
+the heating effect of the sine wave. Figure 12-113 illustrates
+what happens when a resistor is connected across an AC
+voltage source. In Figure 12-113A, a certain amount of heat is
+generated by the power in the resistor. Figure 12-113B shows
+the same resistor now inserted into a DC voltage source.
+The value of the DC voltage source can now be adjusted so
+that the resistor dissipates the same amount of heat as it did
+when it was in the AC circuit. The RMS or effective value
+of a sine wave is equal to the DC voltage that produces the
+same amount of heat as the sinusoidal voltage.
+The peak value of a sine wave can be converted to the
+corresponding RMS value using the following relationship.
+Vrms = ( 0.5 ) × Vp
+Vrms = 0.707 × Vp
+
+This can be applied to either voltage or current.
+
+Vp = 1.414 × Vrms
+Thus, the 110 volt value given for AC supplied to homes
+is only 0.707 of the maximum voltage of this supply. The
+maximum voltage is approximately 155 volts (110 × 1.41 =
+155 volts maximum).
+In the study of AC, any values given for current or voltage
+are assumed to be effective values unless otherwise specified.
+In practice, only the effective values of voltage and current
+are used. Similarly, AC voltmeters and ammeters measure
+the effective value.
+Opposition to Current Flow of AC
+There are three factors that can create an opposition to the flow
+of electrons (current) in an AC circuit. Resistance, similar
+to resistance of DC circuits, is measured in ohms and has a
+direct influence on AC regardless of frequency. Inductive
+reactance and capacitive reactance, on the other hand, oppose
+current flow only in AC circuits, not in DC circuits. Since
+AC constantly changes direction and intensity, inductors and
+capacitors may also create an opposition to current flow in
+AC circuits. It should also be noted that inductive reactance
+and capacitive reactance may create a phase shift between
+the voltage and current in an AC circuit. Whenever analyzing
+an AC circuit, it is very important to consider the resistance,
+inductive reactance, and the capacitive reactance. All three
+have an effect on the current of that circuit.
+
+12-49
+
+===== PDF PAGE 491 =====
+Voltage
+
+Current
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+A. Voltage and current are in phase
+Voltage source 1 (leads source 2)
+Voltage source 2 (lags source 1)
+
+0°
+
+90°
+
+180°
+
+270°
+
+360°
+
+90°
+Difference
+
+B. Two voltage waves, 90° out of phase
+Voltage source 1
+
+0°
+
+90°
+
+180°
+
+Voltage source 2
+
+270°
+
+360°
+
+charged, and the A plate negatively charged. Current flows in
+the external circuit during the time the electrons are moving
+from B to A. The current flow in the circuit is at a maximum
+the instant the switch is closed, but continually decreases
+thereafter until it reaches zero. The current becomes zero as
+soon as the difference in voltage of A and B becomes the same
+as the voltage of the battery. If the switch is opened as shown in
+Figure 12-114B, the plates remain charged. Once the capacitor
+is shorted, it discharges quickly as shown Figure 12-114C.
+It should be clear that during the time the capacitor is being
+charged or discharged, there is current in the circuit, even
+though the circuit is broken by the gap between the capacitor
+plates. Current is present only during the time of charge and
+discharge, and this period of time is usually short.
+The Resistor/Capacitor (RC) Time Constant
+The time required for a capacitor to attain a full charge is
+proportional to the capacitance and the resistance of the
+circuit. The resistance of the circuit introduces the element
+of time into the charging and discharging of a capacitor.
+When a capacitor charges or discharges through a resistance,
+a certain amount of time is required for a full charge or
+discharge. The voltage across the capacitor does not change
+instantaneously. The rate of charging or discharging is
+determined by the time constant of the circuit. The time
+constant of a series resistor/capacitor (RC) circuit is a time
+interval that equals the product of the resistance in ohms
+and the capacitance in farad and is symbolized by the Greek
+letter tau (τ).
+τ = RC
+
+Figure 12-112. In phase and out of phase conditions.
+
+The time in the formula is the time required to charge to 63
+percent of the voltage of the source. The time required to
+bring the charge to about 99 percent of the source voltage is
+approximately 5 τ. [Figure 12-115]
+
+Capacitance
+
+The measure of a capacitor’s ability to store charge is its
+capacitance. The symbol used for capacitance is the letter C.
+
+C. Two voltage waves, 180° out of phase
+
+Another important property in AC circuits, besides resistance
+and inductance, is capacitance. While inductance is
+represented in a circuit by a coil, capacitance is represented by
+a capacitor. In its most basic form, the capacitor is constructed
+of two parallel plates separated by a nonconductor called
+a dielectric. In an electrical circuit, a capacitor serves as a
+reservoir or storehouse for electricity.
+Capacitors in Direct Current
+When a capacitor is connected across a source of DC, such as a
+storage battery in the circuit shown in Figure 12-114A, and the
+switch is then closed, the plate marked B becomes positively
+
+As can be seen from Figure 12-115, there can be no continuous
+movement of DC through a capacitor. A good capacitor blocks
+DC and passes the effects of pulsing DC or AC.
+Units of Capacitance
+Electrical charge, which is symbolized by the letter Q, is
+measured in units of coulombs. The coulomb is given by
+the letter C, as with capacitance. Unfortunately, this can be
+confusing. One coulomb of charge is defined as a charge
+having 6.28 × 1018 electrons. The basic unit of capacitance
+is the farad and is given by the letter f. By definition, one
+12-50
+
+===== PDF PAGE 492 =====
+Vrms
+
+R
+
+A
+
+Equal heat dissipation
+in both circuits
+
+The voltage rating of the capacitor is a factor in determining
+the actual capacitance, because capacitance decreases as the
+thickness of the dielectric increases. A high-voltage capacitor
+that has a thick dielectric must have a larger plate area in
+order to have the same capacitance as a similar low voltage
+capacitor having a thin dielectric.
+Factors Affecting Capacitance
+
++
+Vrms=Vdc
+
+1.
+
+The capacitance of parallel plates is directly
+proportional to their area. A larger plate area produces
+a larger capacitance and a smaller area produces less
+capacitance. If we double the area of the plates, there
+is room for twice as much charge. The charge that a
+capacitor can hold at a given potential difference is
+doubled, and since C = Q/E, the capacitance is doubled.
+
+2.
+
+The capacitance of parallel plates is inversely
+proportional to their spacing.
+
+3.
+
+The dielectric material affects the capacitance of
+parallel plates. The dielectric constant of a vacuum is
+defined as 1, and that of air is very close to 1. These
+values are used as a reference, and all other materials
+have values specified in relation to air (vacuum).
+
+R
+
+−
+B
+Figure 12-113. Sine wave effective value.
+
+farad is one coulomb of charge stored with one volt across the
+plates of the capacitor. The general formula for capacitance
+in terms of charge and voltage is:
+Where
+
+C=
+
+Q
+E
+
+C = capacitance measured in farads
+E = applied voltage measured in volts
+Q = charge measured in coulombs
+
+In practical terms, one farad is a large amount of capacitance.
+Typically, in electronics, much smaller units are used. The two
+more common smaller units are the microfarad (μF), which is
+10-6 farad, and the picofarad (pF), which is 10-12 farad.
+Voltage Rating of a Capacitor
+Capacitors have their limits as to how much voltage can be
+applied across the plates. The aircraft technician must be
+aware of the voltage rating, which specifies the maximum
+DC voltage that can be applied without the risk of damage
+to the device. This voltage rating is typically called the
+breakdown voltage, the working voltage, or simply the
+voltage rating. If the voltage applied across the plates is
+too great, the dielectric breaks down and arcing occurs
+between the plates. The capacitor is then short circuited,
+and the possible flow of DC through it can cause damage
+to other parts of the equipment.
+A capacitor that can be safely charged to 500 volts DC cannot
+be safely subjected to AC or pulsating DC whose effective
+values are 500 volts. An alternating voltage of 500 volts (RMS)
+has a peak voltage of 707 volts, and a capacitor to which it is
+applied should have a working voltage of at least 750 volts. The
+capacitor should be selected so that its working voltage is at
+least 50 percent greater than the highest voltage to be applied.
+
+The strength of some commonly used dielectric materials is
+listed in Figure 12-116. The voltage rating also depends on
+frequency because the losses, and the resultant heating effect,
+increase as the frequency increases.
+Types of Capacitors
+Capacitors come in all shapes and sizes and are usually
+marked with their value in farads. They may also be divided
+into two groups: fixed and variable. The fixed capacitors,
+which have approximately constant capacitance, may then
+be further divided according to the type of dielectric used.
+Some varieties are: paper, oil, mica, electrolytic and ceramic
+capacitors. Figure 12-117 shows the schematic symbols for
+a fixed and variable capacitor.
+
+Fixed Capacitors
+Mica Capacitors
+The fixed mica capacitor is made of metal foil plates that are
+separated by sheets of mica, which form the dielectric. The
+whole assembly is covered in molded plastic, which keeps out
+moisture. Mica is an excellent dielectric and withstands higher
+voltages than paper without allowing arcing between the plates.
+Common values of mica capacitors range from approximately
+50 microfarads to about 0.02 microfarads. [Figure 12-118]
+Ceramic
+The ceramic capacitor is constructed with materials, such
+as titanium acid barium for a dielectric. Internally these
+12-51
+
+===== PDF PAGE 493 =====
+Close
+
+Electrolytic
+Two kinds of electrolytic capacitors are in use: wet electrolytic
+and dry electrolytic. The wet electrolytic capacitor is designed
+of two metal plates separated by an electrolyte with an
+electrolyte dielectric, which is basically conductive salt in
+solvent. For capacitances greater than a few microfarads, the
+plate areas of paper or mica capacitors must become very
+large; thus, electrolytic capacitors are usually used instead.
+These units provide large capacitance in small physical sizes.
+Their values range from 1 to about 1,500 microfarads. Unlike
+the other types, electrolytic capacitors are generally polarized,
+with the positive lead marked with a “+” and the negative
+lead marked with a “−” and should only be subjected to direct
+voltage or pulsating direct voltage only.
+
+Charge
+B
+++++
+
++
+
+−−−−
+A
+
+−
+A
+
+Capacitor being charged
+Open
+B
+++++
+
++
+
+−−−−
+A
+
+−
+B
+
+Capacitor retains charge
+Close
+B
+++
+
++
+Removed
+
+Short
+
+−−
+A
+
+−
+C
+
+Capacitor discharges
+
+The close spacing of the negative and positive electrodes
+gives rise to the comparatively high-capacitance value, but
+allows greater possibility of voltage breakdown and leakage
+of electrons from one electrode to the other.
+
+Figure 12-114. Capacitors in direct current.
+
+capacitors are not constructed as a coil, so they are well
+suited for use in high-frequency applications. They are shaped
+like a disk, available in very small capacitance values, and
+very small sizes. This type is fairly small, inexpensive, and
+reliable. Both the ceramic and the electrolytic are the most
+widely available and used capacitor.
+
+Voltage
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+
+95%
+
+86%
+
+98%
+
+99%
+
+63%
+Current
+
+1t
+
+2t
+
+3t
+
+Charging curve for a capacitor
+Figure 12-115. Capacitance discharge curve.
+
+The electrolyte in contact with the negative terminal, either
+in paste or liquid form, comprises the negative electrode. The
+dielectric is an exceedingly thin film of oxide deposited on
+the positive electrode of the capacitor. The positive electrode,
+which is an aluminum sheet, is folded to achieve maximum
+area. The capacitor is subjected to a forming process during
+manufacture in which current is passed through it. The flow
+of current results in the deposit of the thin coating of oxide
+on the aluminum plate.
+
+4t
+
+5t
+
+The electrolyte of the dry electrolytic unit is a paste contained
+in a separator made of an absorbent material, such as gauze or
+paper. The separator not only holds the electrolyte in place but
+also prevents it from short circuiting the plates. Dry electrolytic
+capacitors are made in both cylindrical and rectangular block
+form and may be contained either within cardboard or metal
+covers. Since the electrolyte cannot spill, the dry capacitor
+may be mounted in any convenient position. [Figure 12-119]
+Tantalum
+Similar to the electrolytic, these capacitors are constructed
+with a material called tantalum, which is used for the
+electrodes. They are superior to electrolytic capacitors,
+having better temperature and frequency characteristics.
+When tantalum powder is baked in order to solidify it, a crack
+forms inside. This crack is used to store an electrical charge.
+Like electrolytic capacitors, the tantalum capacitors are also
+polarized and are indicated with the “+” and “−” symbols.
+Polyester Film
+In this capacitor, a thin polyester film is used as a dielectric.
+These components are inexpensive, temperature stable, and
+widely used. Tolerance is approximately 5–10 percent. It
+12-52
+
+===== PDF PAGE 494 =====
+can be quite large depending on capacity or rated voltage.
+Oil Capacitors
+In radio and radar transmitters, voltages high enough to cause
+arcing, or breakdown, of paper dielectrics are often used.
+Consequently, in these applications capacitors that use oil or
+oil impregnated paper for the dielectric material are preferred.
+Capacitors of this type are considerably more expensive than
+ordinary paper capacitors, and their use is generally restricted
+to radio and radar transmitting equipment. [Figure 12-120]
+
+Variable Capacitors
+
+Trimmers
+The trimmer is actually an adjustable or variable capacitor,
+which uses ceramic or plastic as a dielectric. Most of them are
+color coded to easily recognize their tunable size. The ceramic
+type has the value printed on them. Colors are: yellow (5 pF),
+blue (7 pF), white (10 pF), green (30 pF), and brown (60 pF).
+Varactors
+A voltage-variable capacitor or varactor is also known as a
+variable capacitance diode or a varicap. This device utilizes
+the variation of the barrier width in a reversed-biased diode.
+Because the barrier width of a diode acts as a non-conductor,
+a diode forms a capacitor when reversed biased. Essentially,
+the N-type material becomes one plate and the junctions
+are the dielectric. If the reversed-bias voltage is increased,
+then the barrier width widens, effectively separating the two
+capacitor plates and reducing the capacitance.
+Capacitors in Series
+When capacitors are placed in series, the effective plate
+separation is increased and the total capacitance is less
+than that of the smallest capacitor. Additionally, the series
+
+K
+
+Dielectric Strength
+(volts per .001 inch)
+
+1.0
+
+80
+
+(1) Paraffined
+
+2.2
+
+1,200
+
+(2) Beeswaxed
+
+Air
+
+Variable
+
+Figure 12-117. Schematic symbols for a fixed and variable capacitor.
+
+Variable capacitors are mostly used in radio tuning circuits, and
+they are sometimes called “tuning capacitors.” They have very
+small capacitance values, typically between 100 pF and 500 pF.
+
+Dielectric
+
+Fixed
+
+combination is capable of withstanding a higher total
+potential difference than any of the individual capacitors.
+Figure 12-121 is a simple series circuit. The bottom plate
+of C1 and the top plate of C2 is charged by electrostatic
+induction. The capacitors charge as current is established
+through the circuit. Since this is a series circuit, the current
+must be the same at all points. Since the current is the rate
+of flow of charge, the amount of charge (Q) stored by each
+capacitor is equal to the total charge.
+Q T = Q1 + Q2 + Q3
+According to Kirchhoff’s Voltage Law, the sum of the
+voltages across the charged capacitors must equal the total
+voltage, ET. This is expressed as:
+ET = E1 + E2 + E3
+Equation E = Q/C can now be substituted into the voltage
+equation where we now get:
+Q
+Q
+Q
+QT
+= 1 + 2 + 3
+C1
+C2
+C3
+CT
+Since the charge on all capacitors is equal, the Q terms can
+be factored out, leaving us with the equation:
+1 = 1 + 1 + 1
+C1
+C2
+C3
+CT
+
+Paper
+3.1
+
+1,800
+
+Glass
+
+4.2
+
+200
+
+Castor Oil
+
+4.7
+
+380
+
+Bakelite
+
+6.0
+
+500
+
+Mica
+
+6.0
+
+2,000
+
+Fiber
+
+6.5
+
+50
+
+Figure 12-116. Strength of some dielectric materials.
+
+Figure 12-118. Fixed capacitors.
+
+12-53
+
+===== PDF PAGE 495 =====
+Consider the following example:
+If C1 = 10 μF, C2 = 5 μF and C3 = 8 μF
+Then
+
+1 = 1 + 1 + 1
+CT 10 μF 5 μF 8 μF
+
+1
+= 2.35 μF
+CT =
+0.425 μF
+Capacitors in Parallel
+When capacitors are connected in parallel, the effective plate
+area increases, and the total capacitance is the sum of the
+individual capacitances. Figure 12-122 shows a simplified
+parallel circuit. The total charging current from the source
+divides at the junction of the parallel branches. There is
+a separate charging current through each branch so that
+a different charge can be stored by each capacitor. Using
+Kirchhoff’s Current Law, the sum of all of the charging
+currents is then equal to the total current. The sum of the
+charges (Q) on the capacitors is equal to the total charge.
+The voltages (E) across all of the parallel branches are equal.
+With all of this in mind, a general equation for capacitors in
+parallel can be determined as:
+Q T = Q1 + Q2 + Q3
+Because Q = CE: CTET = C1E1 + C2E2 + C3E3
+Voltages can be factored out because:
+ET = E1 + E2 + E3
+
+Figure 12-119. Electrolytic capacitors.
+
+Leaving us with the equation for capacitors in parallel:
+CT = C1 + C2 + C3
+Consider the following example:
+If C1 = 330 μF, C2 = 220 μF
+Then CT = 330 μF + 220 μF = 550 μF
+Capacitors in Alternating Current
+If a source of AC is substituted for the battery, the capacitor
+acts quite differently than it does with DC. When AC is
+applied in the circuit, the charge on the plates constantly
+changes. [Figure 12-123] This means that electricity
+must flow first from Y clockwise around to X, then from
+X counterclockwise around to Y, then from Y clockwise
+around to X, and so on. Although no current flows through
+the insulator between the plates of the capacitor, it constantly
+flows in the remainder of the circuit between X and Y. In
+a circuit where there is only capacitance, current leads the
+applied voltage as contrasted with a circuit in which there is
+inductance, where the current lags the voltage.
+Capacitive Reactance Xc
+The effectiveness of a capacitor in allowing an AC flow to pass
+depends upon the capacitance of the circuit and the applied
+frequency. To what degree a capacitor allows an AC flow to
+pass depends largely upon the capacitive value of the capacitor
+given in farads (f). The greater the capacitance of the capacitor,
+the greater the number of electrons, measured in Coulombs,
+necessary to bring the capacitor to a fully charged state. Once
+the capacitor approaches or actually reaches a fully charged
+condition, the polarity of the capacitor opposes the polarity of
+the applied voltage, essentially acting then as an open circuit.
+To further illustrate this characteristic and how it manifests
+itself in an AC circuit, consider the following. If a capacitor has
+a large capacitive value, meaning that it requires a relatively
+large number of electrons to bring it to a fully charged state,
+
+Figure 12-120. Oil capacitor.
+
+12-54
+
+===== PDF PAGE 496 =====
+then a rather high-frequency current can alternate through the
+capacitor without the capacitor ever reaching a full charge. In
+this case, if the frequency is high enough and the capacitance
+large enough that there is never enough time for the capacitor
+to ever reach a full charge, it is possible that the capacitor
+may offer very little or no resistance to the current. However,
+the smaller the capacitance, the fewer electrons are required
+to bring it up to a full charge and it is more likely that the
+capacitor will build up enough of an opposing charge that it
+can present a great deal of resistance to the current if not to the
+point of behaving like an open circuit. In between these two
+extreme conditions lies a continuum of possibilities of current
+opposition depending on the combination of applied frequency
+and the selected capacitance. Current in an AC circuit can be
+controlled by changing the circuit capacitance in a similar
+manner that resistance can control the current. The actual AC
+reactance Xc, which just like resistance, is measured in ohms
+(Ω). Capacitive reactance Xc is determined by the following:
+Xc = 1
+2πfC
+Where
+
+Xc = capacitive reactance
+f = frequency in cps
+C = capacity in farads
+2π = 6.28
+
+is substituted in the equation and:
+Xc =
+
+1
+6.28 × 60 × 0.000080
+
+Xc = 33.2 ohms reactance
+Once the reactance has been determined, Ohm’s Law can
+then be used in the same manner as it is used in DC circuits
+to determine the current.
+Voltage
+Current =
+, or
+Capacitive reactance
+E
+I=
+Xc
+Find the current flow:
+E
+Xc
+110
+I=
+33.2
+I=
+
+I = 3.31 amperes
+
+Sample Problem:
+A series circuit is assumed in which the impressed voltage
+is 110 volts at 60 cps, and the capacitance of a condenser is
+80 Mf. Find the capacitive reactance and the current flow.
+Solution:
+To find capacitive reactance, the equation Xc = 1/(2πfC)
+is used. First, the capacitance, 80 Mf, is changed to farads
+by dividing 80 by 1,000,000, since 1 million microfarads is
+equal to 1 farad. This quotient equals 0.000080 farad. This
+
++
+−
+
+C1
+
+Capacitive Reactances in Series and in Parallel
+When capacitors are connected in series, the total reactance
+is equal to the sum of the individual reactances. Thus,
+Xct = (Xc)1 + (Xc)2
+The total reactance of capacitors connected in parallel is
+found in the same way total resistance is computed in a
+parallel circuit:
+(Xc)t =
+
+1
+1
+1
+1
++
++
+(Xc)1 (Xc)2 (Xc)3
+
+Phase of Current and Voltage in Reactive Circuits
+Unlike a purely resistive circuit, the capacitive and inductive
+reactance has a significant effect on the phase relationship
+between the applied AC voltage and the corresponding
+
++
++
+
+−
+
+C2
+
++
++
+−
+
+−
+
+Figure 12-121. Simple series circuit.
+
+−
+
+C2
+
+−
+
+C3
+
+−
+
++
+−
+
++
+
++
+C1
+
+C3
+
+Figure 12-122. Simplified parallel circuit.
+
+12-55
+
+===== PDF PAGE 497 =====
+current in the circuit.
+In review, when current and voltage pass through zero and
+reach maximum value at the same time, the current and
+voltage are said to be in phase. [Figure 12-124A] If the current
+and voltage pass through zero and reach the maximum values
+at different times, the current and voltage are said to be out
+of phase. In a circuit containing only inductance, the current
+reaches a maximum value later than the voltage, lagging the
+voltage by 90°, or one-fourth cycle. [Figure 12-124B]
+In a circuit containing only capacitance, the current reaches
+its maximum value ahead of the voltage and the current leads
+the voltage by 90°, or one-fourth cycle. [Figure 12-124C] The
+amount the current lags or leads the voltage in a circuit
+depends on the relative amounts of resistance, inductance,
+and capacitance in the circuit.
+
+Inductance
+Characteristics of Inductance
+Michael Faraday discovered that by moving a magnet through
+a coil of wire, a voltage was induced across the coil. If a
+complete circuit was provided, then a current was also induced.
+The amount of induced voltage is directly proportional to
+the rate of change of the magnetic field with respect to the
+coil. The simplest of experiments can prove that when a bar
+magnet is moved through a coil of wire, a voltage is induced
+and can be measured on a voltmeter. This is commonly known
+as Faraday’s Law or the Law of Electromagnetic Induction,
+which states that the induced emf or electromagnetic force in
+a closed loop of wire is proportional to the rate of change of
+the magnetic flux through a coil of wire.
+Conversely, current flowing through a coil of wire produces
+a magnetic field. When this wire is formed into a coil, it then
+becomes a basic inductor. The magnetic lines of force around
+each loop or turn in the coil effectively add to the lines of
+force around the adjoining loops. This forms a strong magnetic
+field within and around the coil. Figure 12-125A shows a coil
+of wire strengthening a magnetic field. The magnetic lines
+of force around adjacent loops are deflected into an outer
+path when the loops are brought close together. This happens
+
+X
+AC generator
+
+Figure 12-123. Capacitor in an AC circuit.
+
+Y
+
+because the magnetic lines of force between adjacent loops
+are in opposition with each other. The total magnetic field for
+the two loops is shown in Figure 12-125B. As more loops
+are added close together, the strength of the magnetic field
+increases. Figure 12-125C illustrates the combined effects
+of many loops of a coil. The result is a strong electromagnet.
+The primary aspect of the operation of a coil is its property
+to oppose any change in current through it. This property
+is called inductance. When current flows through any
+conductor, a magnetic field starts to expand from the center
+of the wire. As the lines of magnetic force grow outward
+through the conductor, they induce an emf in the conductor
+itself. The induced voltage is always in the direction opposite
+to the direction of the current flow. The effects of this
+countering emf are to oppose the immediate establishment
+of the maximum current. This effect is only a temporary
+condition. Once the current reaches a steady value in the
+conductor, the lines of magnetic force no longer expand and
+the countering emf is no longer present.
+At the starting instant, the countering emf nearly equals the
+applied voltage, resulting in a small current flow. However,
+as the lines of force move outward, the number of lines
+cutting the conductor per second becomes progressively
+smaller, resulting in a diminished counter emf. Eventually,
+the counter emf drops to zero and the only voltage in
+the circuit is the applied voltage and the current is at its
+maximum value.
+The RL Time Constant
+Because the inductors basic action is to oppose a change in
+its current, it then follows that the current cannot change
+instantaneously in the inductor. A certain time is required
+for the current to make a change from one value to another.
+The rate at which the current changes is determined by a time
+constant represented by the Greek letter τ. The time constant
+for the RL circuit is:
+
+L
+τ =
+
+R
+Where τ = seconds
+
+L = inductance (H)
+
+R = resistance (Ω)
+In a series RL circuit, the current increases to 63 percent of
+its full value in 1 time constant after the circuit is closed. This
+buildup is similar to the buildup of voltage in a capacitor
+when charging an RC circuit. Both follow an exponential
+curve and reach 99 percent value after the 5th time constant.
+[Figure 12-126]
+Physical Parameters
+Some of the physical factors that affect inductance are:
+12-56
+
+===== PDF PAGE 498 =====
+1.
+
+The number of turns: Doubling the number of turns
+in a coil produces a field twice as strong if the same
+current is used. As a general rule, the inductance varies
+as the square of the number of turns.
+
+2.
+
+The cross-sectional area of the coil: The inductance
+of a coil increases directly as the cross-sectional area
+of the core increases. Doubling the radius of a coil
+increases the inductance by a factor of four.
+
+3.
+
+4.
+
+emf
+
+0°
+
+180°
+
+The length of a coil: Doubling the length of a coil,
+while keeping the same number of turns, halves the
+value of inductance.
+The core material around which the coil is formed:
+Coils are wound on either magnetic or nonmagnetic
+materials. Some nonmagnetic materials include air,
+copper, plastic, and glass. Magnetic materials include
+nickel, iron, steel, or cobalt, which have a permeability
+that provides a better path for the magnetic lines of
+force and permit a stronger magnetic field.
+
+A Current and voltage in phase
+emf
+
+0°
+
+90°
+
+Inductors are classified by the type of core and the method of
+
+270°
+
+360°
+
+B Effect of inductance
+emf
+
+0°
+
+Types of Inductors
+Inductors used in radios can range from a straight wire at UHF
+to large chokes and transformers used for filtering the ripple
+from the output of power supplies and in audio amplifiers.
+Figure 12-127 shows the schematic symbols for common
+inductors. Values of inductors range from nano-henries to
+tens of henries.
+
+180°
+
+Lag
+
+Self-Inductance
+The characteristic of self-inductance was summarized by
+German physicist Heinrich Lenz in 1833, and gives the direction
+of the induced emf resulting from electromagnetic induction.
+This is commonly known as Lenz’s Law, which states: The emf
+induced in an electric circuit always acts in such a direction
+that the current it drives around a closed circuit produces a
+magnetic field, which opposes the change in magnetic flux.
+Self-inductance is the generation of a voltage in an electric
+circuit by a changing current in the same circuit. Even
+a straight piece of wire has some degree of inductance
+because current in a conductor produces a magnetic field.
+When the current in a conductor changes direction, there is
+a corresponding change in the polarity of the magnetic field
+around the conductor. Therefore, a changing current produces
+a changing magnetic field around the wire. To further
+intensify the magnetic field, the wire can be rolled into a
+coil, which is called an inductor. The changing magnetic field
+around the inductor induces a voltage across the coil. This
+induced emf is called self-inductance and tends to oppose
+any change in current within the circuit. This property is
+usually called inductance and symbolized with the letter L.
+
+360°
+
+90°
+
+180°
+
+270°
+
+360°
+
+Lead
+
+C Effect of capacitance
+Figure 12-124. Phase of current and voltage.
+
+winding them. The number of turns in the inductor winding
+and the core material determine the capacity of the inductor.
+Cores made of dielectric material like ceramics, wood, and
+paper provide small amounts of stored energy while cores
+made of ferrite substances have a much higher degree of
+stored energy. The core material is usually the most important
+aspect of the inductors construction. The conductors typically
+used in the construction of an inductor offer little resistance
+to the flow of current. However, with the introduction of a
+core, resistance is introduced in the circuit and the current
+now builds up in the windings until the resistance of the core
+is overcome. This buildup is stored as magnetic energy in
+the core. Depending on the core resistance, the buildup soon
+reaches a point of magnetic saturation, and it can be released
+when necessary. The most common core materials are: air,
+solid ferrite, powdered ferrite, steel, toroid, and ferrite toroid.
+12-57
+

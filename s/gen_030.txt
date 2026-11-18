@@ -1,0 +1,363 @@
+FAA-H-8083-30B General Handbook, chapter 10 (Inspection Concepts & Techniques), PDF pages 411-415
+
+===== PDF PAGE 411 =====
+Prod set
+
+Contact clamp
+Figure 10-35. Magnetic particle inspection accessories.
+
+exposure to x-rays, the latent image on the film is made
+permanently visible by processing it successively through a
+developer chemical solution, an acid bath, and a fixing bath,
+followed by a clear water wash.
+
+Radiographic Interpretation
+From the standpoint of quality assurance, radiographic
+interpretation is the most important phase of radiography.
+It is during this phase that an error in judgment can
+produce disastrous consequences. The efforts of the whole
+radiographic process are centered in this phase, where the
+part or structure is either accepted or rejected. Conditions
+of unsoundness or other defects that are overlooked, not
+understood, or improperly interpreted can destroy the purpose
+and efforts of radiography and can jeopardize the structural
+integrity of an entire aircraft. A particular danger is the false
+sense of security imparted by the acceptance of a part or
+structure based on improper interpretation.
+
+condition or thickness variations can be immediately
+determined. The following paragraphs present several factors
+that must be considered when analyzing a radiograph.
+There are three basic categories of flaws: voids, inclusions,
+and dimensional irregularities. The last category, dimensional
+irregularities, is not pertinent to these discussions, because its
+prime factor is one of degree and radiography is not exact.
+Voids and inclusions may appear on the radiograph in a
+variety of forms ranging from a two-dimensional plane to
+a three-dimensional sphere. A crack, tear, or cold shut most
+nearly resembles a two-dimensional plane, whereas a cavity
+looks like a three-dimensional sphere. Other types of flaws,
+such as shrink, oxide inclusions, porosity, and so forth, fall
+somewhere between these two extremes of form.
+
+As a first impression, radiographic interpretation may seem
+simple, but a closer analysis of the problem soon dispels this
+impression. The subject of interpretation is so varied and
+complex that it cannot be covered adequately in this type of
+document. Instead, this chapter gives only a brief review of
+basic requirements for radiographic interpretation, including
+some descriptions of common defects.
+
+It is important to analyze the geometry of a flaw, especially for
+items such as the sharpness of terminal points. For example,
+in a crack-like flaw, the terminal points appear much sharper
+in a sphere-like flaw, such as a gas cavity. Also, material
+strength may be adversely affected by flaw shape. A flaw
+having sharp points could establish a source of localized stress
+concentration. Spherical flaws affect material strength to a far
+lesser degree than do sharp-pointed flaws. Specifications and
+reference standards usually stipulate that sharp-pointed flaws,
+such as cracks, cold shuts, and so forth, are cause for rejection.
+
+Experience has shown that, whenever possible, it is
+important to conduct radiographic interpretation close to
+the radiographic operation. When viewing radiographs, it
+is helpful to have access to the material being tested. The
+radiograph can thus be compared directly with the material
+being tested, and indications due to such things as surface
+
+Material strength is also affected by flaw size. A metallic
+component of a given area is designed to carry a certain load
+plus a safety factor. Reducing this area by including a large
+flaw weakens the part and reduces the safety factor. Some
+flaws are often permitted in components due to these safety
+factors. In this case, the interpreter must determine the degree
+10-35
+
+===== PDF PAGE 412 =====
+Radiation source
+
+Specimen
+
+Dark
+area
+
+Dark are
+a
+
+Void
+Light
+area
+
+Film
+
+After processing
+Figure 10-36. Radiograph.
+
+of tolerance or imperfection specified by the design engineer.
+Both flaw size and flaw shape are considered carefully, since
+small flaws with sharp points can be just as bad as large flaws
+with no sharp points.
+
+dislodge a few electrons, but an excess of these changes
+could cause irreparable harm. When a complex organism is
+exposed to radiation, the degree of damage, if any, depends
+on the body cells that have been changed.
+
+Another important consideration in flaw analysis is flaw
+location. Metallic components are subjected to numerous and
+varied forces during their effective service life. Generally, the
+distribution of these forces is not equal in the component or
+part, and certain critical areas may be rather highly stressed.
+The interpreter must pay special attention to these areas.
+Another aspect of flaw location is that certain types of
+discontinuities close to one another may potentially serve
+as a source of stress concentrations creating a situation that
+must be closely scrutinized.
+
+Vital organs in the center of the body that are penetrated by
+radiation are likely to be harmed the most. The skin usually
+absorbs most of the radiation and reacts earliest to radiation.
+
+An inclusion is a type of flaw that contains entrapped
+material. Such flaws may be of greater or lesser density than
+the item being radiographed. The foregoing discussions on
+flaw shape, size, and location apply equally to inclusions
+and to voids. In addition, a flaw containing foreign material
+could become a source of corrosion.
+
+If the whole body is exposed to a very large dose of radiation,
+death could result. In general, the type and severity of the
+pathological effects of radiation depend on the amount of
+radiation received at one time and the percentage of the
+total body exposed. Smaller doses of radiation could cause
+blood and intestinal disorders in a short period of time.
+The more delayed effects are leukemia and other cancers.
+Skin damage and loss of hair are also possible results of
+exposure to radiation.
+
+Inspection of Composites
+
+Radiation from x-ray units and radioisotope sources is
+destructive to living tissue. It is universally recognized that
+in the use of such equipment, adequate protection must be
+provided. Personnel must keep outside the primary x-ray
+beam at all times.
+
+Composite structures are inspected for delamination
+(separation of the various plies), debonding of the skin from
+the core, and evidence of moisture and corrosion. Previously
+discussed methods including ultrasonic, acoustic emission,
+and radiographic inspections may be used as recommended
+by the aircraft manufacturer. The simplest method used in
+testing composite structures is the tap test. Newer methods,
+such as thermography, have been developed to inspect
+composite structures.
+
+Radiation produces change in all matter that it passes through.
+This is also true of living tissue. When radiation strikes the
+molecules of the body, the effect may be no more than to
+
+Tap Testing
+Tap testing, also referred to as the ring test or coin test, is
+widely used as a quick evaluation of any accessible surface
+
+Radiation Hazards
+
+10-36
+
+===== PDF PAGE 413 =====
+to detect the presence of delamination or debonding. The
+testing procedure consists of lightly tapping the surface with a
+light weight hammer (maximum weight of 2 ounces), a coin,
+or other suitable device. The acoustic response or “ring” is
+compared to that of a known good area. A “flat” or “dead”
+response indicates an area of concern. Tap testing is limited
+to finding defects in relatively thin skins, less than 0.080"
+thick. On honeycomb structures, both sides need to be tested.
+Tap testing on one side alone would not detect debonding on
+the opposite side. [Figure 10-37]
+Electrical Conductivity
+Composite structures are not inherently electrically
+conductive. Some aircraft, because of their relatively low
+speed and type of use, are not affected by electrical issues.
+Manufacturers of other aircraft, such as high-speed, highperformance jets, are required to utilize various methods of
+incorporating aluminum or copper into their structures to
+make them conductive. The aluminum or copper (aluminum
+is used with fiberglass and Kevlar, while copper is used with
+carbon fiber) is imbedded within the plies of the lay-ups either
+as a thin wire mesh, screen, foil, or spray. When damaged
+sections of the structure are repaired, care must be taken to
+ensure that the conductive path be restored. Not only is it
+necessary to include the conductive material in the repair,
+but the continuity of the electrical path from the original
+conductive material to the replacement conductor and back to
+the original must be maintained. Electrical conductivity may
+be checked by use of an ohmmeter. Specific manufacturer’s
+instructions must be carefully followed.
+Thermography
+Thermography is an NDI technique often used with thin
+composite structures that use radiant electromagnetic thermal
+energy to detect flaws. Most common sources of heat are
+heat lamps or heater blankets. The basic principle of thermal
+
+inspection consists of measuring or mapping of surface
+temperatures when heat flows from, to, or through a test
+object. All thermographic techniques rely on differentials in
+thermal conductivity between normal, defect-free areas and
+those having a defect. Normally, a heat source is used to
+elevate the temperature of the article being examined while
+observing the surface heating effects. Because defect-free
+areas conduct heat more efficiently than areas with defects,
+the amount of heat that is either absorbed or reflected
+indicates the quality of the bond. The type of defects that
+affect the thermal properties include disbonds, cracks, impact
+damage, panel thinning, and water ingress into composite
+materials and honeycomb core. Thermal methods are most
+effective for thin laminates or for defects near the surface.
+The most widely used thermographic inspection technique
+uses an infrared (IR) sensing system to measure temperature
+distribution. This type of inspection can provide rapid,
+one-sided, non-contact scanning of surfaces, components,
+or assemblies. The heat source can be as simple as a heat
+lamp, so long as the appropriate heat energy is applied to
+the inspection surface. The induced temperature rise is
+a few degrees and dissipates quickly after the heat input
+is removed. The IR camera records the IR patterns. The
+resulting temperature data is processed to provide more
+quantitative information. An operator analyzes the screen
+and determines whether a defect was found. Because IR
+thermography is a radiometric measurement, it can be
+done without physical contact. Depending on the spatial
+resolution of the IR camera and the size of the expected
+damage, each image can be of a relatively large area.
+Furthermore, as composite materials do not radiate heat
+nearly as much as aluminum and have higher emissivity,
+thermography can provide better definition of damage
+with smaller heat inputs. Understanding of structural
+arrangement is imperative to ensure that substructure is not
+
+Tap hammer
+
+25 – 38 mm
+(1.00 – 1.50 in)
+(approximately)
+
+38 mm
+(1.50 in)
+(approximately)
+
+Panel surface
+
+Figure 10-37. Tap testing using hammer.
+
+10-37
+
+===== PDF PAGE 414 =====
+mistaken for defects or damage.
+
+Inspection of Welds
+A discussion of welds in this chapter is confined to judging
+the quality of completed welds by visual means. Although the
+appearance of the completed weld is not a positive indication
+of quality, it provides a good clue about the care used in
+making it. A properly designed joint weld is stronger than
+the base metal that it joins. The characteristics of a properly
+welded joint are discussed in the following paragraphs.
+A good weld is uniform in width; the ripples are even and
+well feathered into the base metal and show no burn due to
+overheating. [Figure 10-38] The weld has good penetration
+and is free of gas pockets, porosity, or inclusions. The edges
+of the bead are not in a straight line, yet the weld is good
+since penetration is excellent.
+Penetration is the depth of fusion in a weld. Thorough fusion
+is the most important characteristic contributing to a sound
+weld. Penetration is affected by the thickness of the material
+to be joined, the size of the filler rod, and how it is added.
+In a butt weld, the penetration should be 100 percent of the
+thickness of the base metal. On a fillet weld, the penetration
+requirements are 25 to 50 percent of the thickness of the base
+metal. The width and depth of bead for a butt weld and fillet
+weld are shown in Figure 10-39.
+
+The weld in Figure 10-38A was made too rapidly. The long
+and pointed appearance of the ripples was caused by an
+excessive amount of heat or an oxidizing flame. If the weld
+were cross-sectioned, it would probably disclose gas pockets,
+porosity, and slag inclusions.
+Figure 10-38B illustrates a weld that has improper penetration
+and cold laps caused by insufficient heat. It appears rough and
+irregular, and its edges are not feathered into the base metal.
+The puddle tends to boil during the welding operation if an
+excessive amount of acetylene is used. This often leaves slight
+bumps along the center and craters at the finish of the weld.
+Cross-checks are apparent if the body of the weld is sound.
+If the weld were cross-sectioned, pockets and porosity are
+visible. [Figure 10-38C]
+A bad weld has irregular edges and considerable variation
+in the depth of penetration. It often has the appearance of a
+cold weld.
+
+To assist further in determining the quality of a welded joint,
+several examples of incorrect welds are discussed in the
+following paragraphs.
+
+Current voltage
+and speed
+normal
+
+slow
+
+A
+
+B
+
+C
+
+Speed
+
+Voltage
+
+Current
+
+fast
+
+high
+
+low
+
+low
+
+high
+
+Profile Views
+
+Figure 10-38. Examples of poor welds: too rapidly (A), improper penetration and cold laps (B), and irregular edges and considerable
+
+variation (C).
+
+10-38
+
+===== PDF PAGE 415 =====
+Reinforcement ¼ to ½ T
+Bead width 3 to 5T
+
+Throat 11/3 to 1½ T
+
+Leg 2 to 3 T
+
+T
+100% Penetration
+
+Approx. ½ T
+
+25 to 50% T
+
+A
+
+B
+
+Figure 10-39. Butt weld (A) and fillet weld (B), showing width and depth of bead.
+
+10-39
+

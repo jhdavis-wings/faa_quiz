@@ -1,0 +1,1932 @@
+FAA-H-8083-32B Powerplant Handbook, chapter 10 (Engine Maintenance & Operation), PDF pages 413-430
+
+===== PDF PAGE 413 =====
+Compressor Section
+Maintenance of the compressor, or cold section, is one of
+concern because damage to blades can cause engine failure.
+Much of the damage to the blades arises from foreign
+matter being drawn into the turbine engine air intakes. The
+atmosphere near the ground is filled with tiny particles of
+dirt, oil, soot, and other foreign matter. A large volume of
+air is introduced into the compressor, and centrifugal force
+throws the dirt particles outward so that they build up to form
+a coating on the casing, the vanes, and the compressor blades.
+Accumulation of dirt on the compressor blades reduces
+the aerodynamic efficiency of the blades with resultant
+deterioration in engine performance. The efficiency of the
+blades is impaired by dirt deposits in a manner similar to that
+of an aircraft wing under icing conditions. Unsatisfactory
+acceleration and high exhaust gas temperature can result from
+foreign deposits on compressor components.
+An end result of foreign particles, if allowed to accumulate
+in sufficient quantity, would be inefficiency. The condition
+can be remedied by periodic inspection, cleaning, and repair
+of compressor components.
+Inspection & Cleaning
+Minor damage to axial-flow engine compressor blades may
+be repaired if the damage can be removed without exceeding
+the allowable limits established by the manufacturer. Typical
+compressor blade repair limits are shown in Figure 10-57.
+Well-rounded damage to leading and trailing edges that is
+evident on the opposite side of the blade is usually acceptable
+without re-work, provided the damage is in the outer half of
+the blade only, and the indentation does not exceed values
+specified in the engine manufacturer’s service and overhaul
+instruction manuals. When working on the inner half of the
+blade, damage must be treated with extreme caution. Repaired
+compressor blades are inspected by either magnetic particle
+or fluorescent penetrant inspection methods to ensure that all
+traces of the damage have been removed. All repairs must be
+well blended so that surfaces are smooth. [Figure 10-58] No
+cracks of any extent are tolerated in any area.
+Whenever possible, stoning and local re-work of the blade
+should be performed parallel to the length of the blade. Rework must be accomplished by hand, using stones, files, or
+emery cloth. Do not use a power tool to buff the entire area
+of the blade. The surface finish in the repaired area must
+be comparable to that of a new blade. On centrifugal flow
+engines, it is difficult to inspect the compressor inducers
+without first removing the air-inlet screen. After removing
+the screen, clean the compressor inducer and inspect it with
+a strong light. Check each vane for cracks by slowly turning
+the compressor. Look for cracks in the leading edges. A crack
+is usually cause for component rejection. The compressor
+
+inducers are normally the parts that are damaged by the
+impingement of foreign material during engine operation.
+Compressor inducers are repaired by stoning out and blending
+the nicks and dents in the critical band (11⁄2 to 21⁄2 inches
+from the outside edge), if the depth of such nicks or dents
+does not exceed that specified in the engine manufacturer’s
+service or overhaul instruction manuals. Repair nicks by
+stoning out material beyond the depth of damage to remove
+the resulting cold-worked metal. A generous radius must be
+applied at the edges of the blend. After blending the nick, it
+should be smoothed over with a crocus cloth. Pitting nicks or
+corrosion found on the sides of the inducer vanes are similarly
+removed by blending.
+Causes of Blade Damage
+Loose objects often enter an engine either accidentally or
+through carelessness. Foreign object damage (FOD), such as
+pencils, tools, and flashlights, are often drawn into the engine
+and can cause damage to the fan blades. [Figure 10-59]
+Do not carry any objects in pockets when working around
+operational turbine engines.
+A compressor rotor can be damaged beyond repair by tools
+that are left in the air intake, where they are drawn into the
+engine on subsequent starts. A simple solution to the problem
+is to check the tools against a tool checklist. Prior to starting
+a turbine engine, make a minute inspection of engine inlet
+ducts to assure that items, such as nuts, bolts, lock wire, or
+tools, were not left there after work had been performed.
+Figure 10-60 shows some examples of blade damage to an
+axial-flow engine. The descriptions and possible causes of
+blade damage are given in Figure 10-61. Corrosion pitting
+is not considered serious on the compressor stator vanes
+of axial-flow engines if the pitting is within the allowed
+tolerance. Do not attempt to repair any vane by straightening,
+brazing, welding, or soldering. Crocus cloth, fine files, and
+stones are used to blend out damage by removing a minimum
+of material and leaving a surface finish comparable to that
+of a new part. The purpose of this blending is to minimize
+stresses that concentrate at dents, scratches, or cracks.
+The inspection and repair of air intake guide vanes, swirl
+vanes, and screens on centrifugal-flow engines necessitates
+the use of a strong light. Inspect screen assemblies for breaks,
+rips, or holes. Screens may be tin-dipped to tighten the wire
+mesh, provided the wires are not worn too thin. If the frame
+strip or lugs have separated from the screen frames, re-brazing
+may be necessary.
+Inspect the guide and swirl vanes for looseness. Inspect the
+outer edges of the guide vanes, paying particular attention to
+10-45
+
+===== PDF PAGE 414 =====
+Maximum allowable repair limits-inches
+Blade
+area
+A
+B
+C
+D
+E
+
+Steel blades
+Stages
+1 through 4 5 through 9
+5/16 R
+1/32 D
+5/32 D
+.008 D
+1/32 D
+
+1/4 R
+1/32 D
+1/8 D
+.005 D
+1/32 D
+
+Area C
+
+Titanium blades
+Stages
+1 through 4 5 through 9
+5/16 R
+1/32 D
+5/32 D
+NONE
+1/32 D
+
+1/4 R
+1/32 D
+1/8 D
+NONE
+1/32 D
+
+Area A
+Radius
+
+Area C
+Area C
+
+R—radius D—depth
+Area B
+These dimensions
+controlled by depth limit
+
+Concave and
+convex surface
+Approximate centerline
+
+Area B
+
+Area C
+CAUTION
+The limits referred to in this figure in areas C
+and E pertain to local, isolated, damaged
+areas only and must not be interpreted as authority for removal
+of material all across the tip and leading or trailing edges
+as might be done in a single machining cut.
+
+Area B
+Area E
+
+Concave and convex surface
+
+Area E
+
+These dimensions
+controlled by depth limit
+
+¼"
+
+Area B
+
+Area D
+
+Fillet area
+
+¼"
+
+Area E
+Figure 10-57. Typical compressor blade repair limits.
+
+Damaged blade
+
+Damaged blade after blending
+
+Damaged blade
+
+Damaged blade after blending
+
+Figure 10-58. Examples of repairs to damaged blades.
+
+10-46
+
+===== PDF PAGE 415 =====
+intended to imply that these procedures are to be followed
+when performing repairs or inspections on turbine engines.
+However, the various practices are typical of those used on
+many turbine engines. Where a clearance or tolerance is
+shown, it is for illustrative purposes only. Always follow
+the instructions contained in the applicable manufacturer's
+maintenance and overhaul manuals.
+
+Figure 10-59. Fan blade damage.
+
+the point of contact between the guides and swirl vanes for
+cracks and dents due to the impingement of foreign particles.
+Inspect the edges of the swirl vanes. Inspect the downstream
+edge of the guide vanes very closely, because cracks are
+generally more prevalent in this area. Cracks that branch or
+fork out so that a piece of metal could break free and fall into
+the compressor are cause for vane rejection.
+Blending & Replacement
+Because of the thin-sheet construction of hollow vanes,
+blending on the concave and convex surfaces, including the
+leading edge, is limited. Small, shallow dents are acceptable
+if the damage is of a rounded or gradual contour type and
+not a sharp or V-type, and if no cracking or tearing of vane
+material is evident in the damaged area.
+Trailing edge damage may be blended, if one-third of the weld
+seam remains after repair. [Figure 10-62] Concave surfaces
+of rubber-filled vanes may have allowable cracks extending
+inward from the outer airfoil, provided there is no suggestion
+of pieces breaking away. Using a light and mirror, inspect
+each guide vane trailing edge and vane body for cracks or
+damage caused by foreign objects.
+Any inspection and repair of turbine compressor section
+components require that the technician always use the
+specific manufacturer’s current information for evaluation
+and limits of repairs.
+
+Combustion Section Inspection
+One of the controlling factors in the service life of the turbine
+engine is the inspection and cleaning of the hot section.
+Emphasis must be placed on the importance of careful
+inspection and repair of this section.
+The following are general procedures for performing a hot
+section (turbine and combustion section) inspection. It is not
+
+The entire external combustion case should be inspected for
+evidence of hot spots, exhaust leaks, and distortions before the
+case is opened. After the combustion case has been opened,
+the combustion chambers can be inspected for localized
+overheating, cracks, or excessive wear. [Figure 10-63]
+Inspect the first stage turbine blades and nozzle guide vanes
+for cracks, warping, or FOD. Also inspect the combustion
+chamber outlet ducts and turbine nozzle for cracks and for
+evidence of FOD.
+One of the most frequent discrepancies that are detected while
+inspecting the hot section of a turbine engine is cracking.
+These cracks may occur in many forms, and the only way
+to determine that they are within acceptable limits or if
+they are allowed at all, is to refer to the applicable engine
+manufacturer’s service and overhaul manuals.
+Cleaning the hot section is not usually necessary for a repair
+in the field, but in areas of high salt water or other chemicals
+a turbine rinse should be accomplished.
+Engine parts can be degreased by using the emulsion-type
+cleaners or chlorinated solvents. The emulsion-type cleaners
+are safe for all metals, since they are neutral and noncorrosive.
+Cleaning parts by the chlorinated solvent method leaves the
+parts absolutely dry. If they are not to be subjected to further
+cleaning operations, they should be sprayed with a corrosionpreventive solution to protect them against rust or corrosion.
+The hot section, which generally includes the combustion
+section and turbine sections, normally require inspections at
+regular intervals. The extent of disassembly of the engine to
+accomplish this inspection varies from different engine types.
+Most engines require that the combustion case be open for
+the inspection of the hot section. However, in performing this
+disassembly, numerous associated parts are readily accessible
+for inspection. The importance of properly supporting the
+engine and the parts being removed cannot be overstressed.
+The alignment of components being removed and installed
+is also of the utmost importance. After all the inspections
+and repairs are made, the manufacturer’s detailed assembly
+instructions should be followed. These instructions are
+important in efficient engine maintenance, and the ultimate
+life and performance of the engine. Extreme care must be
+10-47
+
+===== PDF PAGE 416 =====
+Dent
+
+Score
+
+Cracks
+
+Corrosion (putting)
+Calling
+
+Damage repair (blend)
+Burn
+Scratches
+Burr
+
+Figure 10-60. Compressor blade damage.
+
+Term
+
+Appearance
+
+Usual Causes
+
+• Blend
+
+• Smooth repair of ragged edge or surface into
+
+• Bow
+
+• Bent blade.
+
+• Burning
+
+• Damage to surfaces evidenced by discoloration • Excessive heat.
+
+• Burr
+
+• A ragged or turned out edge.
+
+• Grinding or cutting operation.
+
+• Corrosion (pits)
+
+• Breakdown of the surface; pitted appearance.
+
+• Corrosive agents—moisture, etc.
+
+• Cracks
+
+• A partial fracture (separation).
+
+• Excessive stress due to shock, overloading, or
+
+the contour of surrounding area.
+• Foreign objects.
+
+or, in severe cases, by flow of material.
+
+faulty processing; defective materials;
+overheating.
+• Striking of a part with a dull object.
+
+• Dent
+
+• Small, smoothly rounded hollow.
+
+• Gall
+
+• A transfer of metal from one surface to another. • Severe rubbing.
+
+• Gouging
+
+• Displacement of material from a surface; a
+cutting or tearing effect.
+
+• Growth
+
+• Elongation of blade.
+
+• Presence of a comparatively large foreign body
+between moving parts.
+• Continued and/or excessive heat and
+centrifugal force.
+
+• Pit
+
+• (See corrosion).
+
+• Profile
+
+• Contour of a blade or surface.
+
+• Score
+
+• Deep scratches.
+
+• Presence of chips between surfaces.
+
+• Scratch
+
+• Narrow shallow marks.
+
+• Sand or fine foreign particles; careless
+handling.
+
+Figure 10-61. Blade maintenance terms.
+
+10-48
+
+===== PDF PAGE 417 =====
+Figure 10-63. Combustion case inspection.
+
+Before blending
+
+directly exposed to the engine’s gas path, such as turbine
+blades and discs, turbine vanes, and combustion chamber
+liners. A wax marking pencil may be used for parts that are
+not directly exposed to the gas path. Do not use a wax marking
+pencil on a liner surface or a turbine rotor. The use of carbon
+alloy or metallic pencils is not recommended because of the
+possibility of causing intergranular corrosion attack, that
+could result in a reduction in material strength and cracking.
+Inspection & Repair of Combustion Chambers
+Inspect the combustion chambers and covers for cracks by
+using visible dye or fluorescent penetrant inspection method.
+Any cracks, nicks, or dents are usually cause for rejecting the
+component. Inspect the covers, noting particularly the area
+around the fuel drain bosses for any pits or corrosion. When
+repairing the combustion chamber liner, the procedures given
+in the appropriate engine manufacturer’s overhaul instruction
+manual should be followed. If there is doubt that the liner is
+serviceable, it should be replaced.
+
+After blending
+
+Figure 10-62. Guide vane trailing edge damage.
+
+taken during assembly to prevent dirt, dust, cotter pins, lock
+wire, nuts, washers, or other foreign material from entering
+the engine.
+Marking Materials for Combustion Section Parts
+Certain materials may be used for temporary marking during
+assembly and disassembly. Always refer to manufacturer’s
+information for marking parts. Layout dye (lightly applied),
+a felt tip marker, or chalk may be used to mark parts that are
+
+Combustion chambers should be replaced or repaired if two
+cracks are progressing from a free edge so that their meeting
+is imminent and could allow a piece of metal that could
+cause turbine damage to break loose. Separate cracks in
+the baffle are acceptable. Cracks in the cone are rare but, at
+any location on this component, is cause for rejection of the
+liner. Cracks in the swirl vanes are cause for rejection of the
+liner. Loose swirl vanes may be repaired by silver brazing.
+Cracks in the front liner emanating from the air holes are
+acceptable, provided they do not exceed allowable limits.
+If such cracks fork or link with others, the liner must be
+repaired. If two cracks originating from the same air hole are
+diametrically opposite, the liner is acceptable. Radial cracks
+extending from the interconnector and spark igniter boss
+are acceptable, if they do not exceed allowable limits and if
+such cracks do not fork or link with others. Circumferential
+10-49
+
+===== PDF PAGE 418 =====
+cracks around the boss pads should be repaired prior to re-use
+of the liner. Baffle cracks connecting more than two holes
+should be repaired.
+After long periods of engine operation, the external surfaces
+of the combustion chamber liner location pads often show
+signs of fretting. This is acceptable, provided no resultant
+cracks or perforation of the metal is apparent. Any cover
+or chamber inadvertently dropped on a hard surface or
+mishandled should be thoroughly inspected for minute
+cracks that may elongate over a period of time and then open,
+creating a hazard.
+Parts may be found where localized areas have been heated
+to an extent to buckle small portions of the chamber. Such
+parts are considered acceptable if the burning of the part
+has not progressed into an adjacent welded area, or to such
+an extent as to weaken the structure of the liner weldment.
+Buckling of the combustion chamber liner can be corrected
+by straightening the liner. Moderate buckling and associated
+cracks are acceptable in the row of cooling holes. More severe
+buckling that produces a pronounced shortening or tilting
+of the liner is cause for rejection. Upon completion of the
+repairs by welding, the liner should be restored as closely as
+possible to its original shape.
+
+Turbine Blade Inspection
+Turbine blades are usually inspected and cleaned in the
+same manner as compressor blades. However, because of
+the extreme heat under which the turbine blades operate,
+they are more susceptible to damage. Using a strong light
+and a magnifying glass, inspect the turbine blades for
+stress rupture cracks and deformation of the leading edge.
+[Figures 10-64 and 10-65]
+Stress rupture cracks usually appear as minute hairline
+cracks on or across the leading or trailing edge at a right
+angle to the edge length. Visible cracks may range in length
+from one-sixteenth inch upward. Deformation, caused by
+over-temperature, may appear as waviness and/or areas of
+varying airfoil thickness along the leading edge. The leading
+edge must be straight and of uniform thickness along its
+entire length, except for areas repaired by blending. Do not
+confuse stress rupture cracks or deformation of the leading
+edge with foreign material impingement damage or with
+
+Fuel Nozzle & Support Assemblies
+Clean all carbon deposits from the nozzles by washing with
+a cleaning fluid approved by the engine manufacturer and
+remove the softened deposits with a soft bristle brush. It
+is desirable to have filtered air passing through the nozzle
+during the cleaning operation to carry away deposits as they
+are loosened. Make sure all parts are clean. Dry the assemblies
+with clean, filtered air. Because the spray characteristics of
+the nozzle may become impaired, no attempt should be made
+to clean the nozzles by scraping with a hard implement or
+by rubbing with a wire brush. Inspect each component part
+of the fuel nozzle assembly for nicks and burrs. Many fuel
+nozzles can be checked by flowing fluid through the nozzle
+under pressure and closely checking the flow pattern coming
+for the nozzle.
+Turbine Disc Inspection
+The inspection for cracks is very important because cracks are
+not normally allowed. Crack detection, when dealing with the
+turbine disc and blades, is mostly visual, although structural
+inspection techniques can be used, such as penetrant
+methods and others to aid in the inspection. Cracks on the
+disc necessitate the rejection of the disc and replacement of
+the turbine rotor. Slight pitting caused by the impingement
+of foreign matter may be blended by stoning and polishing.
+Figure 10-64. Stress rupture cracks.
+
+10-50
+
+===== PDF PAGE 419 =====
+blending repairs to the blade. When any stress rupture cracks
+or deformation of the leading edges of the first-stage turbine
+blades are found, an over-temperature condition must be
+suspected. Check the individual blades for stretch and the
+turbine disc for hardness and stretch. Blades removed for
+a detailed inspection or for a check of turbine disc stretch
+must be re-installed in the same slots from which they were
+removed. Number the blades prior to removal.
+The turbine blade outer shroud should be inspected for air seal
+wear. If shroud wear is found, measure the thickness of the
+shroud at the worn area. Use a micrometer or another suitable
+and accurate measuring device that ensures a good reading
+in the bottom of the comparatively narrow wear groove. If
+the remaining radial thickness of the shroud is less than that
+specified, the stretched blade must be replaced. Typical blade
+inspection requirements are indicated in Figure 10-66. Blade
+tip curling within a one-half inch square area on the leading
+edge of the blade tip is usually acceptable if the curling is not
+sharp. Curling is acceptable on the trailing edge if it does not
+extend beyond the allowable area. Any sharp bends that may
+result in cracking or a piece breaking out of the turbine blade
+is cause for rejection, even though the curl may be within
+the allowable limits. Each turbine blade should be inspected
+for cracks.
+Turbine Blade Replacement Procedure
+Turbine blades are generally replaceable, subject to momentweight limitations. These limitations are contained in the
+
+Figure 10-65. Turbine blade waviness.
+
+Nicks over .008-inch deep
+are cause for rejection
+except that if nicks are
+slightly deeper than .006-inch
+but do not exceed .012-inch
+in depth and are well away
+from the lead or trail edge
+the blade is acceptable for
+continued use.
+
+Nicks that “come through” to underside
+of blade are cause for rejection.
+
+Nicks on the convex surface away from the leading
+and the trailing edges need not be completely
+blended out. Same for the concave surface.
+
+Nicks on the leading edge
+must be completely blended
+out. If too much material must
+be removed, reject blade.
+
+Nicks at tip edge not critical
+blend raised edge only
+
+½"
+½"
+Tip curling permissible in
+these areas, if under certain
+circumstances.
+
+¼"
+Examine carefully for indication
+of cracks at edges of fir-tree
+serrations. Reject for any
+indication of cracks.
+
+Entire trailing edge is critical area.
+Nicks at outer tip end not as critical as
+nicks nearer the root end, since the
+nearer the root end, the greater the
+moment-weight tending to produce a
+crack.
+
+Nicks on the trailing edge must be
+completely removed. If too much
+material must be removed, reject blade.
+
+Figure 10-66. Typical turbine blade inspection.
+
+10-51
+
+===== PDF PAGE 420 =====
+engine manufacturer’s applicable technical instructions. If
+visual inspection of the turbine assembly discloses several
+broken, cracked, or eroded blades, replacing the entire
+turbine assembly may be more economical than replacing
+the damaged blades. [Figure 10-67]
+
+Spherical indent on face of discs
+
+In the initial buildup of the turbine, a complete set of 54
+blades made in coded pairs (two blades having the same
+code letters) is laid out on a bench in the order of diminishing
+moment-weight. The code letters, indicating the momentweight balance in ounces, are marked on the rear face of the
+fir-tree section of the blade (viewing the blade as installed
+at final assembly of the engine). The pair of blades having
+the heaviest moment-weight is numbered 1 and 28; the
+next heaviest pair of blades is numbered 2 and 29; the third
+heaviest pair is numbered 3 and 30. This is continued until
+all the blades have been numbered. Mark a number 1 on the
+face of the hub on the turbine disc. The number 1 blade is then
+installed adjacent to the number 1 on the disc. [Figure 10-68]
+The remaining blades are then installed consecutively in a
+clockwise direction, viewed from the rear face of the turbine
+disc. If there are several pairs of blades having the same
+code letters, they are installed consecutively before going
+to the next code letters. If a blade requires replacement, the
+diametrically opposite blade must also be replaced. Computer
+programs generally determine the location for turbine blades
+for turbine wheels on modern engines.
+
+DU0
+5
+DU 9
+4
+
+DU
+51
+
+DU
+52
+
+DU
+53
+
+DV
+54
+
+DK
+1
+
+DK
+2
+
+DL
+3
+
+DL
+4
+
+DL
+5
+
+DL
+6
+
+DL
+7
+DM8
+DM
+9
+
+D
+47 T
+
+D
+48 U
+
+Turbine Nozzle Inlet Guide Vane Inspection
+After removing the required components, the first stage
+turbine blades and turbine nozzle vanes are accessible
+
+DP
+40
+
+DS
+17
+
+wis
+e
+
+Viewed from rear
+
+Figure 10-68. Turbine blades.
+
+for inspection. The blade limits specified in the engine
+manufacturer’s overhaul and service instruction manual
+should he adhered to. Figure 10-69 shows where cracks
+usually occur on a turbine nozzle assembly. Slight nicks and
+dents are permissible if the depth of damage is within limits.
+Inspect the nozzle vanes for nicks or cracks. Small nicks
+are not cause for vane rejection, provided such nicks blend
+out smoothly.
+Inspect the nozzle vane supports for defects caused by the
+impingement of foreign particles. Use a stone to blend any
+doubtful nicks to a smooth radius. Like turbine blades, it is
+possible to replace a maximum number of turbine nozzle
+vanes in some engines. If more than the maximum vanes
+are damaged, a new turbine nozzle vane assembly must be
+installed. With the tailpipe (exhaust nozzle) removed, the rear
+turbine stage can be inspected for any cracks or evidence of
+blade stretch. Additional nozzle stages can also be inspected
+with a strong light by looking through the rear-stage turbine.
+
+D
+21 U
+
+DU 2
+2
+
+DM 5
+3
+
+D
+20 T
+
+DM6
+3
+
+DT
+19
+
+DM7
+3
+
+DT
+18
+
+DN
+38
+
+DR
+16
+
+DN
+39
+
+DR
+15
+
+DP
+41
+
+DP
+14
+
+DR
+42
+
+DP
+13
+
+DR
+43
+
+DN
+12
+
+DS
+44
+
+DN
+11
+
+DT
+45
+
+DT
+46
+
+DM0
+1
+
+DU3
+2
+
+DU
+24
+
+DU
+25
+
+DU
+26
+
+DV
+27
+
+DK
+28
+
+DK
+29
+
+DL
+30
+
+DL
+31
+
+DL
+32
+
+D
+33 L
+
+D
+34 L
+
+Figure 10-67. Typical turbine rotor blade moment-weight
+
+distribution.
+
+Cloc
+k
+
+Clearances
+Checking the clearances is one of the procedures in the
+maintenance of the turbine section of a turbine engine.
+The manufacturer’s service and overhaul manual gives the
+procedures and tolerances for checking the turbine. Turbine
+clearances being measured at various locations are shown
+in Figures 10-70 and 10-71. To obtain accurate readings,
+special tools provided by each manufacturer must be used
+10-52
+
+===== PDF PAGE 421 =====
+Turbine nozzle assembly at junction of combustion
+chamber outlet duct and turbine nozzle outer case
+
+Turbine nozzle assembly
+
+Cracked area along spot weld line on inner duct
+
+Spot weld cracks on inner duct
+
+Figure 10-69. Turbine nozzle assembly defects.
+
+10-53
+
+===== PDF PAGE 422 =====
+as described in the service instructions for specific engines.
+Exhaust Section
+The exhaust section of the turbine engine is susceptible to
+heat cracking. This section must be thoroughly inspected
+along with the inspection the combustion section and turbine
+section of the engine. Inspect the exhaust cone and exhaust
+nozzle for cracks, warping, buckling, or hot spots. Hot spots
+on the tail cone are a good indication of a malfunctioning
+fuel nozzle or combustion chamber.
+The inspection and repair procedures for the hot section
+of any one gas turbine engine share similarities to those
+of other gas turbine engines. One usual difference is the
+nomenclature applied to the various parts of the hot section
+by the different manufacturers. Other differences include the
+manner of disassembly, the tooling necessary, and the repair
+methods and limits.
+
+Engine Ratings
+The flat rating of a turbine engine is the thrust performance
+that is guaranteed by the manufacturer for a new engine under
+specific operating conditions, such as takeoff, maximum
+continuous climb, and cruise power settings. The turbine inlet
+temperature is proportional to the energy available to turn
+the turbine. This means that the hotter the gases are that are
+entering the turbine section of the engine, the more power is
+available to turn the turbine wheel. The exhaust temperature
+is proportional to the turbine inlet temperature. Regardless of
+how or where the exhaust temperature is taken on the engine
+for the flight deck reading, this temperature is proportional to
+the temperature of the exhaust gases entering the first stage
+of inlet guide vanes. A higher EGT corresponds to a larger
+amount of energy to the turbine so it can turn the compressor
+faster. This works fine until the temperature reaches a point
+when the turbine inlet guide vanes start to be damaged. EGT
+must be held constant or lowered as the result of a prolonged
+hot section life and, at the same time, provide the thrust to
+meet the certification requirements.
+Before high bypass turbofan engines, some older types of
+engines used water injection to increase thrust for takeoff
+(wet). This is the maximum allowable thrust for takeoff. The
+rating is obtained by actuating the water-injection system and
+setting the computed wet thrust with the throttle, in terms of a
+predetermined turbine discharge pressure or engine pressure
+ratio for the prevailing ambient conditions. The rating is
+restricted to takeoff, is time-limited, and has an altitude
+limitation. Water injection is not used very much on turbine
+engines any more.
+
+Figure 10-70. Measuring the turbine blades to shroud (tip)
+
+clearances.
+
+Figure 10-71. Measuring turbine wheel to exhaust cone clearance.
+
+Turbine Engine Instruments
+Engine Pressure Ratio Indicator
+Engine pressure ratio (EPR) is an indication of the thrust
+being developed by a turbofan engine and is used to set power
+for takeoff on many types of aircraft. It is instrumented by
+total pressure pickups in the engine inlet (Pt2) and in the
+turbine exhaust (Pt7). The reading is displayed in the flight
+deck by the EPR gauge, which is used in making engine
+power settings. [Figure 10-72]
+
+10-54
+
+===== PDF PAGE 423 =====
+Torquemeter (Turboprop Engines)
+Only 10 to 15 percent of the thrust produced by a turboprop
+engine is from propulsive force derived from the jet thrust
+exiting the exhaust. Engine pressure ratio is not used as an
+indicator of the power produced by a turboprop engine.
+Turboprops are usually fitted with a torquemeter that
+measures torque applied to a shaft turned by the gas generator
+and power turbines of the turbine engine. The torquemeter can
+be operated by engine oil pressure metered through a valve
+that is controlled by a helical ring gear that moves in response
+to the applied torque. [Figure 10-73] This gear moves against
+a piston that controls the opening of a valve, which controls
+the oil pressure flow. This action makes the oil pressure
+proportional to torque being applied at the propeller shaft.
+Generally, transducer is used to transfer the oil pressure into
+an electrical signal to be read by the flight deck instrument.
+The read out in the flight deck is normally in lb/ft of torque,
+or percent horsepower. The torquemeter is very important
+as it is used to set power settings. This instrument must be
+calibrated at intervals to assure its accuracy.
+Tachometer
+Gas turbine engine speeds are measured by the engines
+rpm, which are also the compressor/turbine combination
+rpm of each rotating spool. Most turbofan engines have
+two or more spools, compressor, and turbine sections that
+turn independently at different speeds. Tachometers are
+usually calibrated in percent rpm so that various types of
+engines can be operated on the same basis of comparison.
+[Figure 10-73] Also, turbine speeds are generally very high,
+and the large numbers of rpm would make it very confusing.
+Turbofan engines with two spools or separate shafts, high
+
+30
+25
+
+20
+
+34
+
+PRESSURE
+
+RATIO
+
+15
+
+12
+
+Figure 10-72. Engine pressure ratio indications.
+
+pressure and low pressure spools, are generally referred to as
+N1 and N2, with each having their own indicator. The main
+purpose of the tachometer is to be able to monitor rpm under
+normal conditions, during an engine start, and to indicate an
+overspeed condition, if one occurs.
+Exhaust Gas Temperature Indicator (EGT)
+Exhaust gas temperature (EGT), turbine inlet temperature,
+(TIT), turbine gas temperature (TGT), interstage turbine
+temperature (ITT), and turbine outlet temperature (TOT) are
+all relative temperatures used to monitor the temperature of
+the exhaust gases entering the first stage turbine inlet guide
+vanes. Even though these temperatures are taken at different
+locations on the engine (each engine having one location),
+they are all relative to the temperature of the gases entering
+the first stage turbine inlet guide vanes.
+Temperature is an engine operating limit and is used to
+monitor the mechanical integrity of the turbines, as well as to
+check engine operating conditions. Actually, the temperature
+of the gases entering the first stage turbine inlet guide vanes
+is the important consideration, since it is the most critical
+of all the engine variables. However, it is impractical to
+measure turbine inlet temperature in most engines, especially
+large engines. Consequently, temperature thermocouples
+are inserted at the turbine discharge, where the temperature
+provides a relative indication of that at the inlet. Although
+the temperature at this point is much lower than at the inlet,
+it provides surveillance over the engine’s internal operating
+conditions. Several thermocouples are usually used, that
+are spaced at intervals around the perimeter of the engine
+exhaust duct near the turbine exit. The EGT indicator in the
+flight deck shows the average temperature measured by the
+individual thermocouples. [Figure 10-73]
+Fuel-Flow Indicator
+Fuel-flow instruments indicate the fuel flow in pounds per
+hour (lb/hr) from the engine fuel control. Fuel flow in turbine
+aircraft is measured in lb/hr instead of gallons, because
+the fuel weight is a major factor in the aerodynamics of
+large turbine aircraft. Fuel flow is of interest in monitoring
+fuel consumption and checking engine performance.
+[Figure 10-73]
+Engine Oil Pressure Indicator
+To guard against engine failure resulting from inadequate
+lubrication and cooling of the various engine parts, the
+oil supply to critical areas must be monitored. The oil
+pressure indicator usually shows the engine oil pump
+discharge pressure.
+Engine Oil Temperature Indicator
+The ability of the engine oil to lubricate and cool depends
+on the temperature of the oil, as well as the amount of
+10-55
+
+===== PDF PAGE 424 =====
+12
+
+50
+
+100
+PSI
+TORQUEMETER
+
+9
+7
+5
+3
+
+150
+0
+
+200
+
+0
+
+FUEL FLOW
+
+1
+
+2
+
+0 10
+20
+30
+
+40
+
+100 PERCENT 40
+RPM
+90
+50
+80 70 60
+
+20
+
+8
+7
+
+60
+OIL PRESS
+
+PSI
+
+50
+
+0
+°C
+-50
+
+0
+
+6
+5
+
+4
+
+3
+
+2
+
+1
+
+100
+
+0
+
+9 10
+EXT GAS
+TEMP
+
+80
+
+5
+
+100
+150
+
+4 OIL
+
+Figure 10-73. Typical turbine engine instruments.
+
+10-56
+
+===== PDF PAGE 425 =====
+oil supplied to the critical areas. An oil inlet temperature
+indicator frequently is provided to show the temperature
+of the oil as it enters the oil pressure pump. Oil inlet
+temperature is also an indication of proper operation of the
+engine oil cooler.
+
+Turbine Engine Operation
+The engine operating procedures presented here apply
+generally to turbofan, turboprop, turboshaft, and auxiliary
+power units (APU). The procedures, pressures, temperatures,
+and rpm that follow are intended primarily to serve as a
+guide. It should be understood that they do not have general
+application. The manufacturer’s operating instructions
+should be consulted before attempting to start and operate
+any turbine engine.
+A turbofan engine has only one power control lever. Adjusting
+the power lever, or throttle lever, sets up a thrust condition
+for which the fuel control meters fuel to the engine. Engines
+equipped with thrust reversers go into reverse thrust at throttle
+positions below idle. A separate fuel shutoff lever is usually
+provided on engines equipped with thrust reversers.
+Prior to start, particular attention should be paid to the
+engine air inlet, the visual condition and free movement of
+the compressor and turbine assembly, and the parking ramp
+area fore and aft of the aircraft. The engine is started by using
+an external air power source, APU, or an already operating
+engine. Starter types and the engine starting cycle have been
+discussed previously. On multi-engine aircraft, the engines
+are usually started by an onboard APU that supplies the air
+pressure for a pneumatic starter on each engine. Air bled from
+the APU is used as a source of power for starting the engines.
+During the start, it is necessary to monitor the tachometer,
+the oil pressure, and the exhaust gas temperature. The normal
+starting sequence is:
+1.
+
+Rotate the compressor with the starter;
+
+2.
+
+Turn the ignition on; and
+
+3.
+
+Open the engine fuel valve, either by moving the
+throttle to idle or by moving a fuel shutoff lever or
+turning a switch.
+
+Adherence to the procedure prescribed for a particular engine
+is necessary as a safety measure and to avoid a hot or hung
+start. A successful start is noted first by a rise in exhaust gas
+temperature. If the engine does not light up, meaning that fuel
+starts to burn inside of the engine within a prescribed period
+of time, or if the exhaust gas starting temperature limit is
+exceeded, a hot start, the starting procedure should be aborted.
+Hot starts are not common, but when they do occur, they can
+usually be stopped in time to avoid excessive temperature by
+
+observing the exhaust gas temperature constantly during the
+start. When necessary, the engine is cleared of trapped fuel or
+gases by continuing to rotate the compressor with the starter,
+but with the ignition and fuel turned off. If the engine did not
+light off during start after the allotted time, about 10 seconds
+although this time varies from engine to engine, the fuel must
+be shut off as the engine is being filled with unburned fuel. A
+hung start is when the engine lights off, but the engine will
+not accelerate to idle rpm.
+Ground Operation Engine Fire
+Move the fuel shutoff lever to the off position if an engine
+fire occurs, or if the fire warning light is illuminated during
+the starting cycle. Continue cranking or motoring the engine
+until the fire has been expelled from the engine. If the fire
+persists, CO2 can be discharged into the inlet duct while it is
+being cranked. Do not discharge CO2 directly into the engine
+exhaust, because it may damage the engine. If the fire cannot
+be extinguished, secure all switches and leave the aircraft. If
+the fire is on the ground under the engine overboard drain,
+discharge the CO2 on the ground rather than on the engine.
+This also is true if the fire is at the tailpipe and the fuel is
+dripping to the ground and burning.
+Engine Checks
+Checking turbofan engines for proper operation consists
+primarily of simply reading the engine instruments and then
+comparing the observed values with those known to be correct
+for any given engine operating condition. After the engine
+has started, idle rpm has been attained, and the instrument
+readings have stabilized, the engine should be checked
+for satisfactory operation at idling speed. The oil pressure
+indicator, tachometer, and the exhaust gas temperature
+readings should be compared with the allowable ranges.
+Checking Takeoff Thrust
+Takeoff thrust is checked by adjusting the throttle to obtain
+a single, predicted reading on the engine pressure ratio
+indicator in the aircraft. The value for engine pressure ratio,
+which represents takeoff thrust for the prevailing ambient
+atmospheric conditions, is calculated from a takeoff thrust
+setting curve or, on newer aircraft, is a function of the onboard
+computer. This curve has been computed for static conditions.
+[Figure 10-74] Therefore, for all precise thrust checking,
+the aircraft should be stationary, and stable engine operation
+should be established. If it is needed for calculating thrust
+during an engine trim check, turbine discharge pressure (Pt7)
+is also shown on these curves. Appropriate manuals should
+be consulted for the charts for a specific make and model
+engine. Engine trimming procedure is also covered in Chapter
+2, Engine Fuel & Fuel Metering Systems. The engine pressure
+ratio computed from the thrust setting curve represents thrust
+or a lower thrust call part power thrust used for testing. The
+10-57
+
+===== PDF PAGE 426 =====
+aircraft throttle is advanced to obtain this predicted reading
+on the engine pressure ratio indicator, or the part power stop
+is engaged in the aircraft. If an engine develops the predicted
+thrust and if all the other engine instruments are reading
+within their proper ranges, engine operation is considered
+satisfactory. Full authority digital engine controls (FADEC)
+(computer controls) also have means of checking the engine
+with the results displayed on the flight deck.
+Ambient Conditions
+The sensitivity of gas turbine engines to compressor inlet air
+temperature and pressure necessitates that considerable care
+be taken to obtain correct values for the prevailing ambient
+air conditions when computing takeoff thrust. Some things
+to remember are:
+The engine senses the air temperature and pressure at
+the compressor inlet. This is the actual air temperature
+just above the runway surface. When the aircraft is
+stationary, the pressure at the compressor inlet is
+the static field or true barometric pressure, and not
+the barometric pressure corrected to sea level that
+is normally reported by airport control towers as the
+altimeter setting. On FADEC engines, the computer
+reads this information and sends it to the engine
+controls.
+
+Temperature sensed is the total air temperature (TAT)
+that is used by several onboard computers. The engine
+controls set the engine computers according to the
+TAT.
+
+3.
+
+Relative humidity, which affects reciprocating engine
+power appreciably, has a negligible effect on turbine
+engine thrust, fuel flow, and rpm. Therefore, relative
+humidity is not usually considered when computing
+thrust for takeoff or determining fuel flow and rpm
+for routine operation.
+
+Engine Shutdown
+On turbine engines that have a thrust reverser, retarding the
+aircraft throttle to idle or power lever to OFF cuts the fuel
+supply to the engine and shuts down the engine. On engines
+equipped with thrust reversers, this is accomplished by means
+of a separate fuel shutoff lever or switch. When an engine
+has been operated at high power levels for extended periods
+of time, a cool down time should be allowed before shutting
+down. It is recommended the engine be operated at below a
+low power setting, preferably at idle for a period of 5 minutes
+to prevent possible seizure of the rotors. This applies, in
+particular, to prolonged operation at high rpm on the ground,
+such as during engine trimming. The turbine case and the
+turbine wheels operate at approximately the same temperature
+
+Ambient temperature −°C
+
+Field barometric pressure "Hg
+−40
+
+−20
+
+0
+
++20
+
++40
+
+00
+24. 0
+0
+25.
+00
+
+00
+00
+
+26.
+
+27.
+
+28.
+
+00
+00
+30.
+
+29.
+
+00
+
+31.
+
+28.00
+29.00
+29.92
+A
+
+31.92
+Burner pressure limit
+
+Interpolate to locate these
+points
+Example:
+Ambient temperature = 20°C
+Field barometric
+pressure = 30.50 "Hg
+
+Engine pressure ratio − P†7/P†2
+
+1.
+
+2.
+
+Adjust throttle to obtain EPR
+determined at point A or the R†7
+valve determined at point B
+
+B
+
+Turbine discharge pressure − P†7 −IN. Hg
+Figure 10-74. Typical takeoff thrust setting curve for static conditions.
+
+10-58
+
+===== PDF PAGE 427 =====
+when the engine is running. However, the turbine wheels
+are relatively massive, compared with the case, and are not
+cooled so readily. The turbine case is exposed to cooling
+air from both inside and outside the engine. Consequently,
+the case and the wheels lose their residual heat at different
+rates after the engine has been shut down. The case, cooling
+faster, tends to shrink upon the wheels, that are still rotating.
+Under extreme conditions, the turbine blades may squeal or
+seize; thus, a cooling period is required if the engine has been
+operating at prolonged high speed. Should the turbine wheels
+seize, no harm normally results, provided no attempt is made
+to turn the engine over until it has cooled sufficiently to free
+the wheels. In spite of this, every effort should be made to
+avoid seizure.
+To ensure that fuel remains in the lines and that the enginedriven fuel pumps are not starved for fuel that lubricates the
+pumps, the aircraft fuel boost pump must be turned off after,
+not before, the throttle or the fuel shutoff lever is placed in
+the OFF position.
+Generally, an engine should not be shut down by the fuel
+shutoff lever until after the aircraft throttle has been retarded
+to idle. Because the fuel shutoff valve is located on the fuel
+control discharge, a shutdown from high thrust settings results
+in high fuel pressures within the control that can harm the
+fuel system parts.
+When an accurate reading of the oil level in the oil tank is
+needed following an engine shutdown, the engine should
+be operated and shut down with the oil check taking place
+within not more than 30 minutes after shutdown. Check the
+engine manuals for the specific procedure.
+
+Troubleshooting Turbine Engines
+Included in this section are typical guidelines for locating
+engine malfunctions on most turbine engines. Since it would
+be impractical to list all the malfunctions that could occur,
+only the most common malfunctions are covered. A thorough
+knowledge of the engine systems, applied with logical
+reasoning, solves most problems that may occur.
+Figure 10-75 enumerates some malfunctions that may be
+encountered. Possible causes and suggested actions are given
+in the adjacent columns. The malfunctions presented herein
+are solely for the purpose of illustration and should not be
+construed to have general application. For exact information
+about a specific engine model, consult the applicable
+manufacturer’s instructions.
+
+Turboprop Operation
+Turboprop engine operation is quite similar to that of a
+turbojet engine, except for the added feature of a propeller.
+
+The starting procedure and the various operational features
+are very much alike. The turboprop chiefly requires attention
+to engine operating limits, the throttle or power lever setting,
+and the torquemeter pressure gauge. Although torquemeters
+indicate only the power being supplied to the propeller and
+not the equivalent shaft horsepower, torquemeter pressure
+is approximately proportional to the total power output
+and, thus, is used as a measure of engine performance. The
+torquemeter pressure gauge reading during the takeoff engine
+check is an important value. It is usually necessary to compute
+the takeoff power in the same manner as is done for a turbojet
+engine. This computation is to determine the maximum
+allowable exhaust gas temperature and the torquemeter
+pressure that a normally functioning engine should produce
+for the outside, or ambient, air temperature and barometric
+pressure prevailing at the time.
+Troubleshooting Procedures for Turboprop Engines
+All test run-ups, inspections, and troubleshooting
+should be performed in accordance with the applicable
+engine manufacturer’s instructions. In Figure 10-76, the
+troubleshooting procedure for the turboprop reduction gear,
+torquemeter, and power section are combined because of their
+inter-relationships. The table includes the principal troubles,
+together with their probable causes and remedies.
+
+Turbine Engine Calibration & Testing
+Some of the most important factors affecting turbine engine
+life are EGT, engine cycles (a cycle is generally a takeoff
+and landing) and engine speed. Excess EGT of a few degrees
+reduces turbine component life. Low EGT materially reduces
+turbine engine efficiency and thrust. So, to make the engine
+highly efficient, the exhaust temperatures need to be as high
+as possible, while maintaining an EGT operating temperature
+that does not damage the turbine section of the engine. If the
+engine is operated at excess exhaust temperatures, engine
+deterioration occurs. Since the EGT temperature is set by the
+EGT temperature gauge, it is imperative that it is accurate.
+Excessive engine speed can cause premature engine wear
+and, if extreme, can cause engine failure.
+One older type of calibration test unit used to analyze the
+turbine engine is the jetcal analyzer. [Figure 10-77] A jetcal
+analyzer is a portable instrument made of aluminum, stainless
+steel, and plastic. The major components of the analyzer
+are the thermocouple, rpm, EGT indicator, resistance, and
+insulation check circuits, as well as the potentiometer,
+temperature regulators, meters, switches, and all the necessary
+cables, probes, and adapters for performing all tests.
+Turbine Engine Analyzer Uses
+Many different types of analyzers are used each with its own
+function, including onboard systems that use computers to
+10-59
+
+===== PDF PAGE 428 =====
+Indicated Malfunction
+Engine has low rpm, exhaust
+gas temperature, and fuel
+
+Probable Causes
+• Engine pressure ratio indication has high
+reading error.
+
+Suggested Action
+• Check inlet pressure line from probe to
+transmitter for leaks.
+• Check engine pressure ratio transmitter and
+
+flow when set to expected
+
+indicator for accuracy.
+
+engine pressure ratio.
+Engine has high rpm, exhaust • Engine pressure ratio indication has low
+gas temperature, and fuel
+
+reading error due to:
+
+flow when set to expect
+
+- Misaligned or cracked turbine discharge
+
+engine pressure ratio.
+
+• Check probe condition.
+
+probe.
+- Leak in turbine discharge pressure line from
+probe to transmitter.
+- Inaccurate engine pressure ratio transmitter
+or indicator.
+
+• Pressure-test turbine discharge pressure line
+for leaks.
+• Check engine pressure ratio transmitter and
+indicator for accuracy.
+
+- Carbon particles collected in turbine
+discharge pressure line or restrictor orifices.
+Engine has high exhaust gas
+temperature, low rpm, and
+
+• Possible turbine damage and/or loss of turbine
+efficiency.
+
+• Confirm indication of turbine damage by:
+- Checking engine coast-down for abnormal
+noise and reduced time.
+
+high fuel flow at all engine
+
+- Visually inspect turbine area with strong light.
+
+pressure ratio settings.
+Note: Engines with damage
+
+• If only exhaust gas temperature is high, other
+
+in turbine section may have
+
+parameters normal, the problem may be
+
+tendency to hang up during
+
+thermocouple leads or instrument.
+
+• Re-calibrate exhaust gas temperature
+instrumentation.
+
+starting.
+Engine vibrates throughout
+
+• Turbine damage.
+
+• Check turbine as outlined in preceding item.
+
+• Damage in compressor section.
+
+• Check compressor section for damage.
+
+• Engine-mounted accessory such as
+
+• Check each component in turn.
+
+rpm range, but indicated
+amplitude reduces as rpm is
+reduced.
+Engine vibrates at high rpm
+and fuel flow when compared
+to constant engine pressure
+ratio.
+Engine vibrates throughout
+rpm range, but is more
+
+constant-speed drive, generator, hydraulic
+
+pronounced in cruise or idle
+
+pump, etc.
+
+rpm range.
+• Engine main bearings.
+
+• Check scavenge oil filters and magnetic plugs.
+
+Engine has higher than
+
+• Engine bleed-air valve malfunction.
+
+• Check operation of bleed valve.
+
+normal exhaust gas
+
+• Turbine discharge pressure probe or line to
+
+• Check condition of probe and pressure line to
+
+No change in power setting
+parameters, but oil
+temperature high.
+
+temperature during takeoff,
+
+transmitter leaking.
+
+transmitter.
+
+climb, and cruise. Rpm and
+fuel flow higher than normal.
+Engine has high exhaust gas
+
+• Engine out of trim.
+
+• Check engine with jetcal. Re-trim as desired.
+
+temperature at target engine
+pressure ratio for takeoff.
+Figure 10-75. Troubleshooting turbojet engines.
+
+10-60
+
+===== PDF PAGE 429 =====
+Indicated Malfunction
+
+Probable Causes
+
+Suggested Action
+
+Engine rumbles during
+
+• Pressurizing and drain valve malfunction.
+
+• Replace pressurizing and drain valves.
+
+starting and at low power
+
+• Cracked air duct.
+
+• Repair or replace duct.
+
+cruise conditions.
+
+• Fuel control malfunction.
+
+• Replace fuel control.
+
+Engine rpm hangs up during
+
+• Subzero ambient temperatures.
+
+• If hang-up is due to low ambient temperature,
+engine usually can be started by turning on
+
+starting.
+
+fuel booster pump or by positioning start lever
+to run earlier in the starting cycle.
+
+High oil temperature.
+
+• Compressor section damage.
+
+• Check compressor for damage.
+
+• Turbine section damage.
+
+• Inspect turbine for damage.
+
+• Scavenge pump failure.
+
+• Check lubricating system and scavenge
+
+• Fuel heater malfunction.
+
+• Replace fuel heater.
+
+• Scavenge pump failure.
+
+• Check scavenge pumps.
+
+• High sump pressure.
+
+• Check sump pressure as outlined in
+
+pumps.
+High oil consumption.
+
+manufacturer’s maintenance manual.
+• Gearbox seal leakage.
+
+• Check gearbox seal by pressurizing overboard
+
+• Can be caused by high airflow through the
+
+• Check oil for foaming.
+
+tank, foaming oil, or unusual amounts of oil
+
+• Vacuum-check sumps.
+
+returned to the tank through the vent system.
+
+• Check scavenge pumps.
+
+vent.
+Overboard oil loss.
+
+Figure 10-75. Troubleshooting turbojet engines (continued).
+
+test aircraft systems. Depending upon the specific analyzer
+used, procedures vary somewhat, but the basic test are
+outlined here. Always refer to the specific instructions
+associated with the analyzer being used.
+Most analyzers may be used to:
+
+9.
+
+Establish the proper relationship between the EGT
+and engine rpm during engine run-up.
+
+Analyzer Safety Precautions
+Observe the following safety precautions while operating the
+engine analyzer or other types of test equipment:
+
+1.
+
+Functionally check the aircraft EGT system for error,
+without running the engine or disconnecting the
+wiring.
+
+1.
+
+Never use a voltammeter to check the potentiometer
+for continuity. If a voltammeter is used, damage to the
+galvanometer and standard battery cell results.
+
+2.
+
+Check individual thermocouples before placement in
+a parallel harness.
+
+2.
+
+3.
+
+Check each engine thermocouple in a parallel harness
+for continuity.
+
+Check the thermocouple harness before engine run-up.
+This must be done because the circuit must be correct
+before the thermocouples can be used for true EGT
+pickup.
+
+4.
+
+Check the thermocouples and parallel harness for
+accuracy.
+
+3.
+
+5.
+
+Check the resistance of the EGT circuit.
+
+6.
+
+Check the insulation of the EGT circuit for shorts to
+ground, or for shorts between leads.
+
+7.
+
+Check EGT indicators , either in or out of the aircraft,
+for error.
+
+8.
+
+Determine engine rpm accuracy during engine testing.
+Added to this is the checking and troubleshooting of
+the aircraft tachometer system.
+
+For safety, ground the jetcal analyzer when using an
+AC power supply. Any electrical equipment operated
+on AC power and utilizing wire-wound coils, such as
+the probes with the jetcal analyzer, has an induced
+voltage on the case that can be discharged if the
+equipment is not grounded. This condition is not
+apparent during dry weather, but on damp days the
+operator can be shocked slightly. Therefore, for the
+operator’s protection, the jetcal analyzer should be
+grounded using the pigtail lead in the power inlet
+cable.
+
+4.
+
+Use heater probes designed for use on the engine
+10-61
+
+===== PDF PAGE 430 =====
+Trouble
+
+Probable causes
+
+Remedy
+
+Power unit fails to turn over
+
+• No air to starter.
+
+• Check started air valve solenoid and air supply.
+
+during attempted start.
+
+• Propeller brake locked.
+
+• Unlock brake by turning propeller by hand in
+direction of normal rotation.
+
+Power unit fails to start.
+
+• Starter speed low because of inadequate air
+
+• Check starter air valve solenoid and air supply.
+
+supply to starter.
+• If fuel is not observed leaving the exhaust pipe
+during start, fuel selector valve may be
+
+• Check power supply or electrically operated
+valves. Replace valves if defective.
+
+inoperative because of low power supply or
+may be locked in “OFF.”
+• Fuel pump inoperative.
+
+• Check pump for sheared drives or internal
+damage. Check for air leaks at outlet.
+
+• Aircraft fuel filter dirty.
+
+• Clean filter and replace filtering elements if
+
+• Fuel control cutoff valve closed.
+
+• Check electrical circuit to ensure that actuator
+
+• Insufficient fuel supply to control unit.
+
+• Check fuel system to ensure all valves are
+
+necessary.
+is being energized. Replace actuator or control.
+Engine fires, but will not
+
+open and pumps are operative.
+
+accelerate to correct speed.
+• Fuel control main metering valve sticking.
+
+• Flush system. Replace control.
+
+• Fuel control bypass valve sticking open.
+
+• Flush system. Replace control.
+
+• Drain valve stuck open. Starting fuel
+
+• Replace drain valve. Replace pressure switch.
+
+enrichment pressure switch setting too high.
+Acceleration temperature too
+
+• Fuel control bypass valve sticking closed.
+
+• Flush system. Replace control.
+
+high during starting.
+
+• Fuel control acceleration cam incorrectly
+
+• Replace control.
+
+adjusted.
+
+Acceleration temperature
+during starting too low.
+Engine speed cycles after
+
+• Defective fuel nozzle.
+
+• Replace nozzle with a known satisfactory unit.
+
+• Fuel control thermostat failure.
+
+• Replace control.
+
+• Acceleration cam of fuel control incorrectly
+
+• Replace control.
+
+adjusted.
+• Unstable fuel control governor operation.
+
+• Continue engine operation to allow control to
+condition itself.
+
+start.
+Power unit oil pressure drops • Oil supply low.
+
+• Check oil supply and refill as necessary.
+
+off severely.
+• Oil pressure transmitter or indicator giving false
+Oil leakage at accessory
+
+• Check transmitter or indicator and repair or
+
+indication.
+
+replace if necessary.
+
+• Seal failure.
+
+• Replace seal or seals.
+
+• Faulty propeller governor.
+
+• Replace propeller control assembly.
+
+drive seals.
+Engine unable to reach
+
+maximum controlled speed of • Faulty fuel control or air sensing tip.
+
+• Replace faulty control. If dirty, use air pressure
+in reverse direction of normal flow through
+
+100 percent.
+
+internal engine passage and sensing tip.
+Vibration indication high.
+
+• Vibration pickup or vibration meter malfunction.
+
+• Calibrate vibration meter.
+• Start engine and increase power gradually.
+• Observe vibration indicator. If indications prove
+pickup to be at fault, replace it. If high vibration
+remains as originally observed, remove power
+unit for overhaul.
+
+Figure 10-76. Troubleshooting turboprop engines.
+
+10-62
+
